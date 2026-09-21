@@ -1,0 +1,18 @@
+# Document processing (GPU box)
+torch>=2.1
+transformers>=4.48          # ModernBERT support; logits_to_keep on causal models
+langchain-text-splitters>=0.2
+accelerate>=0.30
+
+# Shared
+pandas>=2.0
+numpy>=1.24
+pyarrow>=14.0
+
+# Time aggregation and analysis
+statsmodels>=0.14
+scipy>=1.11
+linearmodels>=6.0
+matplotlib>=3.7
+seaborn>=0.13
+openpyxl>=3.1
