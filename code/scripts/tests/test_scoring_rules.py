@@ -140,15 +140,19 @@ def test_duplicate_surface_forms_are_summed() -> None:
     assert math.isclose(score["positive"], 0.40)
     assert math.isclose(score["negative"], 0.20)
     assert math.isclose(score["polarity"], 0.20)
-    assert math.isclose(score["matched_mass"], 0.60)
-    assert math.isclose(score["polarity_norm"], 0.20 / 0.60)
+    assert set(score) == set(scoring.SCORE_COLUMNS), "no extra score columns"
 
 
-def test_unmatched_readout_gives_nan_polarity_norm() -> None:
+def test_unmatched_readout_scores_zero() -> None:
+    """A readout with no verbalizer word scores a flat zero.
+
+    Same convention as the earlier project: such a filing is indistinguishable
+    from one where positive and negative mass genuinely balanced out.
+    """
     score = scoring.score_token_probs([(" the", 0.9), (" of", 0.1)], prompts.GROWTH.verbalizer)
-    assert score["matched_mass"] == 0.0
+    assert score["positive"] == 0.0
+    assert score["negative"] == 0.0
     assert score["polarity"] == 0.0
-    assert math.isnan(score["polarity_norm"]), "no matched mass must not look like neutral sentiment"
 
 
 def test_nucleus_cutoff() -> None:
@@ -160,15 +164,14 @@ def test_nucleus_cutoff() -> None:
 
 def test_chunk_aggregation_is_internally_consistent() -> None:
     chunks = [
-        {"positive": 0.40, "negative": 0.10, "polarity": 0.30, "matched_mass": 0.50, "polarity_norm": 0.6},
-        {"positive": 0.10, "negative": 0.30, "polarity": -0.20, "matched_mass": 0.40, "polarity_norm": -0.5},
-        {"positive": 0.20, "negative": 0.20, "polarity": 0.00, "matched_mass": 0.40, "polarity_norm": 0.0},
+        {"positive": 0.40, "negative": 0.10, "polarity": 0.30},
+        {"positive": 0.10, "negative": 0.30, "polarity": -0.20},
+        {"positive": 0.20, "negative": 0.20, "polarity": 0.00},
     ]
     agg = scoring.aggregate_chunk_scores(chunks)
     assert agg["n_chunks"] == 3
     assert math.isclose(agg["positive"], (0.40 + 0.10 + 0.20) / 3)
     assert math.isclose(agg["polarity"], agg["positive"] - agg["negative"])
-    assert math.isclose(agg["matched_mass"], agg["positive"] + agg["negative"])
     assert agg["polarity_chunk_std"] > 0
 
     single = scoring.aggregate_chunk_scores(chunks[:1])
@@ -237,7 +240,7 @@ def main() -> None:
             (test_verbalizer_polarities_are_disjoint, ()),
             (test_risk_sign_convention, ()),
             (test_duplicate_surface_forms_are_summed, ()),
-            (test_unmatched_readout_gives_nan_polarity_norm, ()),
+            (test_unmatched_readout_scores_zero, ()),
             (test_nucleus_cutoff, ()),
             (test_chunk_aggregation_is_internally_consistent, ()),
             (test_vectorized_scoring_matches_the_reference, ()),

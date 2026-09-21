@@ -125,14 +125,11 @@ class FakeBackend:
         for prompt in prompts:
             positive = 0.6 if ("grew strongly" in prompt or "solid" in prompt) else 0.1
             negative = 0.7 - positive
-            matched = positive + negative
             scores.append(
                 {
                     "positive": positive,
                     "negative": negative,
                     "polarity": positive - negative,
-                    "matched_mass": matched,
-                    "polarity_norm": (positive - negative) / matched,
                 }
             )
         return scores

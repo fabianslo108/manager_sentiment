@@ -3,16 +3,14 @@
 Pure Python and torch-free, so the scoring rules can be unit-tested on a laptop
 without a GPU stack. The tensor work lives in :mod:`sentiment_extraction`.
 
-Two details differ deliberately from the earlier project code:
+A readout scores as ``positive``, ``negative`` and their difference
+``polarity``, the same three quantities the earlier project produced.
 
-* Token probabilities arrive as a *list of pairs*, not a dict. Several raw
-  tokens normalize to the same word (``" good"``, ``"good"``, ``"good,"``), and
-  their probability mass must be **summed**; a dict keyed by the normalized word
-  would keep only the last one.
-* Alongside ``polarity = positive - negative`` we keep ``matched_mass`` and
-  ``polarity_norm = polarity / matched_mass``. Raw polarity mixes *direction*
-  with *how much* of the nucleus the verbalizer captured; the normalized version
-  separates the two, and ``matched_mass`` doubles as a coverage diagnostic.
+One detail differs deliberately from the earlier code: token probabilities
+arrive as a *list of pairs*, not a dict. Several raw tokens normalize to the
+same word (``" good"``, ``"good"``, ``"good,"``), and their probability mass
+must be **summed**; a dict keyed by the normalized word would keep only the
+last one.
 """
 
 from __future__ import annotations
@@ -27,8 +25,6 @@ SCORE_COLUMNS = (
     "positive",
     "negative",
     "polarity",
-    "matched_mass",
-    "polarity_norm",
 )
 
 
@@ -71,23 +67,20 @@ def score_token_probs(
         elif word in verbalizer["negative"]:
             negative += prob
 
-    matched = positive + negative
     return {
         "positive": positive,
         "negative": negative,
         "polarity": positive - negative,
-        "matched_mass": matched,
-        "polarity_norm": (positive - negative) / matched if matched > 0 else math.nan,
     }
 
 
 def aggregate_chunk_scores(chunk_scores: Sequence[Mapping[str, float]]) -> dict[str, float]:
     """Combine chunk-level scores into one report-level score.
 
-    ``positive`` and ``negative`` are averaged across chunks; ``polarity`` and
-    ``polarity_norm`` are then recomputed from those averages so the row stays
-    internally consistent. ``polarity_chunk_std`` reports how much the chunks
-    disagreed, which is a useful flag for long filings.
+    ``positive`` and ``negative`` are averaged across chunks and ``polarity`` is
+    then recomputed from those averages, so the row stays internally consistent.
+    ``polarity_chunk_std`` reports how much the chunks disagreed, which is a
+    useful flag for long filings.
     """
     if not chunk_scores:
         raise ValueError("no chunk scores to aggregate")
@@ -95,7 +88,6 @@ def aggregate_chunk_scores(chunk_scores: Sequence[Mapping[str, float]]) -> dict[
     n = len(chunk_scores)
     positive = sum(s["positive"] for s in chunk_scores) / n
     negative = sum(s["negative"] for s in chunk_scores) / n
-    matched = positive + negative
 
     polarities = [s["polarity"] for s in chunk_scores]
     if n > 1:
@@ -109,8 +101,6 @@ def aggregate_chunk_scores(chunk_scores: Sequence[Mapping[str, float]]) -> dict[
         "positive": positive,
         "negative": negative,
         "polarity": positive - negative,
-        "matched_mass": matched,
-        "polarity_norm": (positive - negative) / matched if matched > 0 else math.nan,
         "n_chunks": n,
         "polarity_chunk_std": chunk_std,
     }

@@ -103,8 +103,6 @@ SCORE_OUTPUT_COLUMNS = (
     "positive",
     "negative",
     "polarity",
-    "matched_mass",
-    "polarity_norm",
     "polarity_chunk_std",
     "n_chunks",
     "n_chars",
@@ -411,19 +409,10 @@ class ScoringBackend:
         positive = (kept * (classes == 1)).sum(dim=-1)
         negative = (kept * (classes == 2)).sum(dim=-1)
 
-        scores: list[dict[str, float]] = []
-        for pos, neg in zip(positive.tolist(), negative.tolist()):
-            matched = pos + neg
-            scores.append(
-                {
-                    "positive": pos,
-                    "negative": neg,
-                    "polarity": pos - neg,
-                    "matched_mass": matched,
-                    "polarity_norm": (pos - neg) / matched if matched > 0 else float("nan"),
-                }
-            )
-        return scores
+        return [
+            {"positive": pos, "negative": neg, "polarity": pos - neg}
+            for pos, neg in zip(positive.tolist(), negative.tolist())
+        ]
 
     def top_tokens(self, prompt: str, k: int = 20) -> list[tuple[str, float]]:
         """Most likely answer tokens for one prompt -- for prompt engineering."""
