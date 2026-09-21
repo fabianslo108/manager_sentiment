@@ -39,42 +39,72 @@ def _index_from_returns(returns: list[float]) -> pd.DataFrame:
     return pd.DataFrame({ta.MONTH_COL: months, "Index": level, "Rfree": 0.0})
 
 
-def test_horizon_returns_start_after_the_predictor() -> None:
+def test_default_horizon_window_matches_the_earlier_project() -> None:
+    """Default convention: months t .. t+h, i.e. h+1 months including month t.
+
+    Reproduces what the earlier notebooks computed with
+
+        working_data['net_cum_return'] = (1 + index_return).cumprod() - 1
+        net_cum_return{h} = net_cum_return.shift(-h)   # taken at row t
+    """
     returns = [0.10, 0.20, 0.30, 0.40, 0.50]
+    frame = md.build_excess_market_returns(_index_from_returns(returns), horizons=(1, 3))
+
+    # row 0 has no pct_change; excess_return[1] == returns[0], so month t is row 1.
+    row = 1
+    assert math.isclose(frame["excess_return"].iloc[row], returns[0], abs_tol=1e-12)
+
+    expected_1 = (1 + returns[0]) * (1 + returns[1]) - 1
+    expected_3 = (1 + returns[0]) * (1 + returns[1]) * (1 + returns[2]) * (1 + returns[3]) - 1
+    assert math.isclose(frame["net_cum_return1"].iloc[row], expected_1, abs_tol=1e-12), (
+        "net_cum_return1 spans months t and t+1"
+    )
+    assert math.isclose(frame["net_cum_return3"].iloc[row], expected_3, abs_tol=1e-12), (
+        "net_cum_return3 spans months t through t+3"
+    )
+
+
+def test_default_window_reproduces_the_original_loop() -> None:
+    """Match the original cumprod-and-shift loop value for value."""
+    returns = [0.10, 0.20, 0.30, 0.40, 0.50, 0.60]
+    frame = md.build_excess_market_returns(_index_from_returns(returns), horizons=(1, 3))
+    horizons = (1, 3)
+    names = [f"net_cum_return{h}" for h in horizons]
+
+    original = frame[["excess_return"]].copy()
+    for name in names:
+        original[name] = np.nan
+    for i in original.index:
+        window = original.loc[i : i + 37].copy()
+        window["cum"] = (1 + window["excess_return"]).cumprod() - 1
+        for h in horizons:
+            original.loc[i, f"net_cum_return{h}"] = window["cum"].shift(-h).iloc[0]
+
+    for name in names:
+        both = frame[name].notna() & original[name].notna()
+        assert both.sum() > 0
+        assert np.allclose(frame.loc[both, name], original.loc[both, name]), name
+
+
+def test_skip_months_one_excludes_the_predictors_month() -> None:
+    returns = [0.10, 0.20, 0.30, 0.40]
     frame = md.build_excess_market_returns(
         _index_from_returns(returns), horizons=(1, 3), skip_months=1
     )
-
-    # row 0 is the month whose pct_change is undefined; the predictor lives at
-    # row t and the target compounds months t+1 onwards.
-    row = 1  # excess_return[1] == returns[0]
-    assert math.isclose(frame["excess_return"].iloc[row], returns[0], abs_tol=1e-12)
-
-    expected_1 = returns[1]
+    row = 1
+    assert math.isclose(frame["net_cum_return1"].iloc[row], returns[1], abs_tol=1e-12)
     expected_3 = (1 + returns[1]) * (1 + returns[2]) * (1 + returns[3]) - 1
-    assert math.isclose(frame["net_cum_return1"].iloc[row], expected_1, abs_tol=1e-12), (
-        "net_cum_return1 must be the NEXT month's return only"
-    )
-    assert math.isclose(frame["net_cum_return3"].iloc[row], expected_3, abs_tol=1e-12), (
-        "net_cum_return3 must compound exactly 3 months, starting next month"
-    )
+    assert math.isclose(frame["net_cum_return3"].iloc[row], expected_3, abs_tol=1e-12)
 
 
-def test_horizon_returns_exclude_the_contemporaneous_month() -> None:
-    """The predictor's own month must not appear in its target."""
-    returns = [0.10, 0.20, 0.30, 0.40]
-    frame = md.build_excess_market_returns(_index_from_returns(returns), horizons=(1,), skip_months=1)
+def test_both_windows_end_at_the_same_month() -> None:
+    returns = [0.10, 0.20, 0.30, 0.40, 0.50]
+    legacy = md.build_excess_market_returns(_index_from_returns(returns), horizons=(3,), skip_months=0)
+    forward = md.build_excess_market_returns(_index_from_returns(returns), horizons=(3,), skip_months=1)
     row = 1
-    contemporaneous = frame["excess_return"].iloc[row]
-    assert not math.isclose(frame["net_cum_return1"].iloc[row], (1 + contemporaneous) * (1 + returns[1]) - 1)
-
-
-def test_skip_months_zero_includes_the_current_month() -> None:
-    returns = [0.10, 0.20, 0.30, 0.40]
-    frame = md.build_excess_market_returns(_index_from_returns(returns), horizons=(2,), skip_months=0)
-    row = 1
-    expected = (1 + returns[0]) * (1 + returns[1]) - 1  # months t and t+1
-    assert math.isclose(frame["net_cum_return2"].iloc[row], expected, abs_tol=1e-12)
+    # legacy adds exactly the extra month t on the front of the forward window
+    ratio = (1 + legacy["net_cum_return3"].iloc[row]) / (1 + forward["net_cum_return3"].iloc[row])
+    assert math.isclose(ratio, 1 + returns[0], abs_tol=1e-12)
 
 
 def test_compounding_refuses_to_bridge_a_gap() -> None:
@@ -334,9 +364,10 @@ def test_correlation_table_reports_pairwise_n() -> None:
 
 def main() -> None:
     tests = [
-        test_horizon_returns_start_after_the_predictor,
-        test_horizon_returns_exclude_the_contemporaneous_month,
-        test_skip_months_zero_includes_the_current_month,
+        test_default_horizon_window_matches_the_earlier_project,
+        test_default_window_reproduces_the_original_loop,
+        test_skip_months_one_excludes_the_predictors_month,
+        test_both_windows_end_at_the_same_month,
         test_compounding_refuses_to_bridge_a_gap,
         test_equal_and_weighted_aggregation,
         test_missing_weights_do_not_poison_a_month,

@@ -18,17 +18,17 @@ file                                         contents
 On the return horizon convention
 --------------------------------
 
-``net_cum_return{h}`` at month *t* is the cumulative excess market return over
-**exactly h months, starting at t + skip_months**. With the default
-``skip_months=1`` the h=1 column is the return of month *t+1*, which is what a
-predictive regression of returns on month-*t* sentiment needs.
+``net_cum_return{h}`` at month *t* compounds the excess market return over months
+``t + skip_months`` .. ``t + h``. The window always ends at ``t + h``;
+``skip_months`` only moves where it starts.
 
-This is worth stating because it is easy to get wrong. A cumulative product that
-starts at month *t* itself puts the predictor and part of the "future" return in
-the same month: sentiment aggregated from filings made during month *t* is then
-mechanically correlated with month *t*'s market return, and the regression reads
-that overlap as predictability. ``skip_months=0`` reproduces that variant if you
-need to compare against it; it is not the default.
+``skip_months=0`` (the default) reproduces the earlier project's convention:
+the window is months *t* .. *t+h*, so it spans **h+1 months and includes the
+predictor's own month**. ``net_cum_return1`` is therefore a two-month return
+covering *t* and *t+1*.
+
+``skip_months=1`` starts the window at *t+1*, giving exactly *h* forward months
+with the predictor's own month excluded.
 """
 
 from __future__ import annotations
@@ -113,16 +113,19 @@ def load_goyal_welch(path: str | Path, start: str | None = None, end: str | None
 def build_excess_market_returns(
     data: pd.DataFrame,
     horizons: Sequence[int] = DEFAULT_HORIZONS,
-    skip_months: int = 1,
+    skip_months: int = 0,
     index_col: str = "Index",
     rf_col: str = "Rfree",
 ) -> pd.DataFrame:
     """Add the monthly excess return and cumulative returns at each horizon.
 
     ``excess_return`` at month *t* is the S&P 500 price return of month *t* minus
-    the risk-free rate. ``net_cum_return{h}`` at *t* compounds
-    ``excess_return`` over months ``t + skip_months`` .. ``t + skip_months + h - 1``.
-    See the module docstring on ``skip_months``.
+    the risk-free rate. ``net_cum_return{h}`` at *t* compounds ``excess_return``
+    over months ``t + skip_months`` .. ``t + h``.
+
+    With ``skip_months=0`` (the default, matching the earlier project) the window
+    spans h+1 months starting with the predictor's own month; ``skip_months=1``
+    gives exactly h forward months. See the module docstring.
     """
     if skip_months < 0:
         raise ValueError(f"skip_months must be >= 0, got {skip_months}")
@@ -155,15 +158,18 @@ def build_excess_market_returns(
     # return is just a ratio of two points on this curve.
     gross = (1.0 + returns.fillna(0.0)).cumprod()
     for horizon in horizons:
-        upper = gross.shift(-(skip_months + horizon - 1))
-        lower = gross.shift(1 - skip_months)
+        upper = gross.shift(-horizon)              # G_{t+h}
+        lower = gross.shift(1 - skip_months)       # G_{t+skip-1}
         out[f"{RETURN_PREFIX}{horizon}"] = upper / lower - 1.0
 
     logger.info(
-        "built %s for horizons %s, starting %d month(s) after the predictor",
+        "built %s for horizons %s: window t%+d .. t+h (%s)",
         RETURN_PREFIX,
         list(horizons),
         skip_months,
+        "includes the predictor's own month, h+1 months wide"
+        if skip_months == 0
+        else f"starts {skip_months} month(s) after the predictor",
     )
     return out
 

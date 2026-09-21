@@ -1,8 +1,9 @@
 """Predictive regressions of market returns on manager sentiment.
 
-The Jiang et al. design: regress the cumulative excess market return over the
-next *h* months on month-*t* sentiment, one regression per horizon, with
-Newey-West standard errors.
+The Jiang et al. design: regress the cumulative excess market return at horizon
+*h* on month-*t* sentiment, one regression per horizon, with Newey-West standard
+errors. Which months the target spans is set by
+:func:`macro_data.build_excess_market_returns`.
 
 On the lag length
 -----------------
@@ -100,7 +101,7 @@ def predictive_regression(
     maxlags: int | str = "horizon",
     return_prefix: str = RETURN_PREFIX,
 ) -> tuple[dict[int, object], pd.DataFrame]:
-    """One regression per horizon: ``return_{t+1..t+h} ~ sentiment_t (+ controls)``.
+    """One regression per horizon: ``net_cum_return{h} ~ sentiment_t (+ controls)``.
 
     Returns the fitted models keyed by horizon and a summary table whose
     ``coef`` carries significance stars.
