@@ -87,3 +87,14 @@ def significance_stars(pval: float) -> str:
 def doc_key(row: dict) -> tuple:
     """Natural key of one filing, as a hashable tuple of strings."""
     return tuple(str(row[col]) for col in DOC_KEY_COLUMNS)
+
+
+def zscore(values, ddof: int = 0):
+    """Standardize, ignoring NaN. Returns NaN everywhere if there is no spread."""
+    import pandas as pd
+
+    series = pd.Series(values)
+    std = series.std(ddof=ddof)
+    if not std or np.isnan(std):
+        return pd.Series(np.nan, index=series.index)
+    return (series - series.mean()) / std
