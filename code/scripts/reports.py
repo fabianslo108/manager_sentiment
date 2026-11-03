@@ -1,9 +1,7 @@
 """Discovery and reading of 10-K / 10-Q filing texts.
 
 One code path serves both form types. A filing is always identified by its
-natural key ``(CIK, FILING_DATE, ACC_NUM, FORM_TYPE)`` -- never by a row
-position -- so that scores cannot silently drift onto the wrong report when the
-input table is rebuilt in a different order.
+natural key ``(CIK, FILING_DATE, ACC_NUM, FORM_TYPE)``.
 
 Expected file names:
 
@@ -13,11 +11,6 @@ Expected file names:
 
 i.e. ``{FILING_DATE}_{FORM_TYPE}_edgar_data_{CIK}_{ACC_NUM}[_{SECTION}].txt``.
 
-The sample stores 10-K Item 7 text under the plain filing name, with ``_item7``
-removed. Older extracts that still carry the suffix are accepted as well.
-
-Torch-free on purpose: ``ReportDataset`` is a plain map-style dataset, which is
-all that ``torch.utils.data.DataLoader`` requires.
 """
 
 from __future__ import annotations
@@ -35,10 +28,6 @@ logger = get_logger(__name__)
 
 META_COLUMNS = ("CIK", "FILING_DATE", "ACC_NUM", "FORM_TYPE", "SECTION")
 
-#: Which part of the document we score by default, per form type. 10-K keeps
-#: Item 7 (MD&A). In the sample that text is stored without an ``_item7``
-#: suffix; files that still have the suffix are the same extract. A 10-Q is
-#: scored whole, since its MD&A is not separated out in the source files.
 DEFAULT_SECTION = {"10-K": "item7", "10-Q": None}
 
 #: ``section`` sentinels accepted by the discovery helpers.
@@ -55,14 +44,6 @@ FILENAME_RE = re.compile(
     r"\.txt$",
     re.IGNORECASE,
 )
-
-WORD_RE = re.compile(r"[A-Za-z][A-Za-z'\-]*")
-
-
-def count_words(text: str) -> int:
-    """Number of alphabetic word tokens -- the usual 10-X length descriptive."""
-    return len(WORD_RE.findall(text))
-
 
 def parse_report_filename(filename: str) -> dict | None:
     """Parse one filing file name, or return ``None`` if it does not match."""
@@ -97,11 +78,7 @@ def _wanted_section(form_type: str, section: str | None) -> str | None:
 
 
 def _section_accepted(parsed_section: str | None, form_type: str, section: str | None) -> bool:
-    """Whether one file's section matches the requested filter.
-
-    The default 10-K filter accepts both ``..._item7.txt`` and the plain filing
-    name. The sample drops the suffix; the text is still Item 7.
-    """
+    """Whether one file's section matches the requested filter."""
     if section == SECTION_ANY:
         return True
     wanted = _wanted_section(form_type, section)
@@ -111,10 +88,6 @@ def _section_accepted(parsed_section: str | None, form_type: str, section: str |
 
 
 def _prefer_explicit_item7(rows: list[dict]) -> list[dict]:
-    """Drop a plain 10-K when the same filing also has an ``_item7`` file.
-
-    Other duplicate keys are left in place so the caller can still warn.
-    """
     grouped: dict[tuple, list[int]] = {}
     for index, row in enumerate(rows):
         key = tuple(str(row[col]) for col in ("CIK", "FILING_DATE", "ACC_NUM", "FORM_TYPE"))
@@ -237,7 +210,6 @@ def reports_from_index(
             # The extraction pipeline sometimes nests sections in subfolders.
             candidates.append(root / f"{wanted}_files" / name)
         if section == SECTION_DEFAULT and form_type == "10-K" and wanted:
-            # Sample layout: Item 7 text under the plain filing name.
             candidates.append(
                 root
                 / report_filename(
@@ -277,7 +249,6 @@ class ReportItem:
     meta: dict = field(repr=False)
     text: str | None = field(default=None, repr=False)
     n_chars: int = 0
-    n_words: int = 0
     n_chars_scored: int = 0
     decode_fallback: bool = False
     error: str | None = None
@@ -338,7 +309,6 @@ class ReportDataset:
             return item
 
         item.n_chars = len(text)
-        item.n_words = count_words(text)
 
         if item.n_chars < self.min_chars:
             item.error = f"too_short: {item.n_chars} chars < {self.min_chars}"

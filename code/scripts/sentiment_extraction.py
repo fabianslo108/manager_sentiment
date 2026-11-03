@@ -13,24 +13,6 @@ Two model families are supported through one code path:
 ``mlm`` (e.g. ModernBERT-large)
     the ending contains a ``[MASK]`` and that position's distribution is read.
 
-Differences from the earlier implementation that change results, all
-deliberate:
-
-* **The verbalizer is resolved against the vocabulary, not against decoded
-  strings.** We precompute, once per run, which vocabulary ids normalize to a
-  positive / negative word and sum probability mass over ids. The old code
-  decoded the whole nucleus into a single string and split it on whitespace,
-  which mis-pairs tokens with probabilities whenever a token decodes to zero or
-  to more than one whitespace-separated piece, and silently drops duplicates
-  when several tokens map to the same word.
-* **The prompt ending is guaranteed to survive truncation.** Chunk size is
-  ``model_window - prompt_reserve_tokens``, and every batch asserts that each
-  MLM row still contains exactly one mask. Otherwise the readout position is
-  gone and scores shift onto the wrong chunk.
-* **Rows are keyed by ``(CIK, FILING_DATE, ACC_NUM, FORM_TYPE)``**, not by a
-  position in some intermediate table, which makes resume exact and merges safe.
-* **Nothing fails silently.** Every skipped filing lands in a failures file with
-  a reason.
 
 Run from a notebook via :func:`run_extraction`, or from the shell::
 
@@ -103,10 +85,7 @@ SCORE_OUTPUT_COLUMNS = (
     "positive",
     "negative",
     "polarity",
-    "polarity_chunk_std",
-    "n_chunks",
     "n_chars",
-    "n_words",
     "n_chars_scored",
     "decode_fallback",
 )
@@ -643,7 +622,6 @@ def run_extraction(cfg: ExtractionConfig) -> pd.DataFrame:
                         "backend": backend.kind,
                         **aggregated,
                         "n_chars": item.n_chars,
-                        "n_words": item.n_words,
                         "n_chars_scored": item.n_chars_scored,
                         "decode_fallback": item.decode_fallback,
                     }

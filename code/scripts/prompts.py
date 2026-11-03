@@ -89,9 +89,6 @@ class PromptStrategy:
 # Growth sentiment
 # ---------------------------------------------------------------------------
 
-# The Llama runs in the previous project used the smaller list; the ModernBERT
-# runs extended it. The extended list is a strict superset, so it serves as the
-# canonical verbalizer and both backends become comparable.
 _GROWTH_POSITIVE_CORE = {
     "optimistic", "confident", "positive", "encouraged", "excited",
     "enthusiastic", "hopeful", "pleased", "encouraging", "ambitious",
@@ -148,10 +145,7 @@ GROWTH_LEGACY_CAUSAL = PromptStrategy(
 # NOTE on the sign: "positive" here means *low* risk, so polarity is still
 # "good news for the firm" and higher_is_good stays True. Do not flip it
 # downstream.
-#
-# The word lists come from a nucleus-sampling pass over a sample of filings, so
-# they include subword fragments ("mitig", "moder") that the tokenizer emits as
-# the first piece of "mitigated" / "moderate". Those are intentional.
+
 _RISK_LOW = {
     "balanced", "controlled", "declined", "declining", "decreased", "decreasing",
     "governed", "insignificant", "limited", "low", "lower", "manageable",
@@ -165,8 +159,7 @@ _RISK_HIGH = {
     "heightened", "high", "higher", "highest", "huge", "immense", "increased",
     "increasing", "large", "rising", "serious", "severe", "significant",
     "significantly", "unprecedented", "substantial", "tremendous", "unacceptable",
-    # "sufficient" was in the original list; it reads as a discovery-pass
-    # artefact rather than a risk word, so it is left out here.
+    "sufficient"
 }
 
 FINANCIAL_RISK = PromptStrategy(

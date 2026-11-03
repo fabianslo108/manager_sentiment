@@ -4,18 +4,12 @@ Pure Python and torch-free, so the scoring rules can be unit-tested on a laptop
 without a GPU stack. The tensor work lives in :mod:`sentiment_extraction`.
 
 A readout scores as ``positive``, ``negative`` and their difference
-``polarity``, the same three quantities the earlier project produced.
+``polarity``.
 
-One detail differs deliberately from the earlier code: token probabilities
-arrive as a *list of pairs*, not a dict. Several raw tokens normalize to the
-same word (``" good"``, ``"good"``, ``"good,"``), and their probability mass
-must be **summed**; a dict keyed by the normalized word would keep only the
-last one.
 """
 
 from __future__ import annotations
 
-import math
 from typing import Iterable, Mapping, Sequence
 
 from prompts import normalize_token
@@ -79,8 +73,6 @@ def aggregate_chunk_scores(chunk_scores: Sequence[Mapping[str, float]]) -> dict[
 
     ``positive`` and ``negative`` are averaged across chunks and ``polarity`` is
     then recomputed from those averages, so the row stays internally consistent.
-    ``polarity_chunk_std`` reports how much the chunks disagreed, which is a
-    useful flag for long filings.
     """
     if not chunk_scores:
         raise ValueError("no chunk scores to aggregate")
@@ -89,18 +81,8 @@ def aggregate_chunk_scores(chunk_scores: Sequence[Mapping[str, float]]) -> dict[
     positive = sum(s["positive"] for s in chunk_scores) / n
     negative = sum(s["negative"] for s in chunk_scores) / n
 
-    polarities = [s["polarity"] for s in chunk_scores]
-    if n > 1:
-        mean_pol = sum(polarities) / n
-        variance = sum((p - mean_pol) ** 2 for p in polarities) / (n - 1)
-        chunk_std = math.sqrt(variance)
-    else:
-        chunk_std = 0.0
-
     return {
         "positive": positive,
         "negative": negative,
         "polarity": positive - negative,
-        "n_chunks": n,
-        "polarity_chunk_std": chunk_std,
     }

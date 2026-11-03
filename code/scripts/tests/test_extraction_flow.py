@@ -179,8 +179,6 @@ def test_scores_both_form_types_in_one_run(input_dir: Path, output_dir: Path) ->
     assert set(result["FORM_TYPE"]) == {"10-K", "10-Q"}
     assert list(result.columns) == list(se.OUTPUT_COLUMNS)
     assert result["polarity"].notna().all()
-    assert (result["n_chunks"] == 4).all(), "chunk count must follow the splitter"
-    assert (result["n_words"] > 0).all(), "word counts belong in the output"
 
 
 def test_chunks_stay_attached_to_their_document(input_dir: Path, output_dir: Path) -> None:

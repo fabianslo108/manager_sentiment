@@ -19,8 +19,8 @@
 #   huggingface-cli download meta-llama/Meta-Llama-3.1-8B \
 #       --local-dir models/Meta-Llama-3.1-8B
 #
-#   huggingface-cli download answerdotai/ModernBERT-large \
-#       --local-dir models/ModernBERT-large
+  # huggingface-cli download answerdotai/ModernBERT-large \
+  #     --local-dir models/ModernBERT-large
 #
 # Then set MODEL_ID in the notebook to the local directory, for example
 # models/Meta-Llama-3.1-8B or models/ModernBERT-large.

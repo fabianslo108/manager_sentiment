@@ -183,13 +183,9 @@ def test_chunk_aggregation_is_internally_consistent() -> None:
         {"positive": 0.20, "negative": 0.20, "polarity": 0.00},
     ]
     agg = scoring.aggregate_chunk_scores(chunks)
-    assert agg["n_chunks"] == 3
     assert math.isclose(agg["positive"], (0.40 + 0.10 + 0.20) / 3)
     assert math.isclose(agg["polarity"], agg["positive"] - agg["negative"])
-    assert agg["polarity_chunk_std"] > 0
-
-    single = scoring.aggregate_chunk_scores(chunks[:1])
-    assert single["n_chunks"] == 1 and single["polarity_chunk_std"] == 0.0
+    assert set(agg) == {"positive", "negative", "polarity"}
 
 
 def test_vectorized_scoring_matches_the_reference() -> None:

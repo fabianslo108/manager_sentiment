@@ -5,20 +5,6 @@ The Jiang et al. design: regress the cumulative excess market return at horizon
 errors. Which months the target spans is set by
 :func:`macro_data.build_excess_market_returns`.
 
-On the lag length
------------------
-
-Overlapping long-horizon returns are strongly autocorrelated by construction:
-consecutive 36-month returns share 35 months of data. The HAC lag length has to
-grow with the horizon, otherwise the standard errors are too small and the
-t-statistics too large exactly where the results tend to look strongest. So
-``maxlags="horizon"`` (the default) uses *h* lags for the *h*-month return, and
-a fixed integer is accepted when a specific lag length is wanted.
-
-Every table reports ``nobs`` alongside the coefficient. Rows are estimated on
-whatever months have a non-missing predictor and target, and that sample is not
-the same across measures or horizons -- comparing coefficients without knowing
-the sample sizes is misleading.
 """
 
 from __future__ import annotations

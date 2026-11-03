@@ -290,6 +290,69 @@ def test_long_extraction_output_is_pivoted() -> None:
     assert math.isclose(prepared["polarity_financial_risk"].iloc[0], -0.2)
 
 
+def test_prepare_reports_keeps_only_the_requested_polarities() -> None:
+    raw = pd.DataFrame(
+        {
+            "CIK": [785161],
+            "FILING_DATE": [20150302],
+            "ACC_NUM": ["0000785161-15-000020"],
+            "REPORT_TYPE": ["10K"],
+            "polarity_growth_llama": [0.2],
+            "polarity_financial_risk": [-0.1],
+            "polarity_growth_MB": [0.5],
+        }
+    )
+    prepared = ta.prepare_reports(raw, polarities=["growth_llama", "polarity_financial_risk"])
+    assert ta.polarity_columns(prepared) == ["polarity_growth_llama", "polarity_financial_risk"]
+    try:
+        ta.prepare_reports(raw, polarities=["polarity_missing"])
+    except KeyError as exc:
+        assert "polarity_missing" in str(exc)
+        return
+    raise AssertionError("an unknown polarity must be refused")
+
+
+def test_prepare_reports_accepts_positive_and_negative_columns() -> None:
+    raw = pd.DataFrame(
+        {
+            "CIK": [785161],
+            "FILING_DATE": [20150302],
+            "ACC_NUM": ["0000785161-15-000020"],
+            "REPORT_TYPE": ["10K"],
+            "positive_growth_llama": [0.7],
+            "negative_growth_llama": [0.1],
+            "polarity_growth_llama": [0.6],
+            "negative_financial_risk": [0.4],
+            "polarity_financial_risk": [-0.1],
+        }
+    )
+    prepared = ta.prepare_reports(
+        raw, polarities=["positive_growth_llama", "negative_financial_risk"]
+    )
+    assert ta.score_columns(prepared) == ["positive_growth_llama", "negative_financial_risk"]
+    assert "polarity_growth_llama" not in prepared.columns
+
+    default = ta.prepare_reports(raw)
+    assert ta.score_columns(default) == ["polarity_growth_llama", "polarity_financial_risk"]
+
+    long = pd.DataFrame(
+        {
+            "CIK": ["1750", "1750"],
+            "FILING_DATE": ["20200115", "20200115"],
+            "ACC_NUM": ["0001047469-20-000001", "0001047469-20-000001"],
+            "FORM_TYPE": ["10-K", "10-K"],
+            "strategy": ["growth", "financial_risk"],
+            "positive": [0.8, 0.2],
+            "negative": [0.1, 0.5],
+            "polarity": [0.7, -0.3],
+        }
+    )
+    pivoted = ta.prepare_reports(long, polarities=["negative_growth", "positive_financial_risk"])
+    assert ta.score_columns(pivoted) == ["negative_growth", "positive_financial_risk"]
+    assert math.isclose(pivoted["negative_growth"].iloc[0], 0.1)
+    assert math.isclose(pivoted["positive_financial_risk"].iloc[0], 0.2)
+
+
 def test_select_filings_keeps_only_on_disk_reports() -> None:
     import tempfile
 
@@ -339,11 +402,40 @@ def test_build_manager_sentiment_column_names() -> None:
             "polarity_growth": rng.normal(size=300),
         }
     )
-    series = ta.build_manager_sentiment(reports, ["polarity_growth"], standardize_by="FORM_TYPE")
+    series = ta.build_manager_sentiment(
+        reports,
+        ["polarity_growth"],
+        standardize_by="FORM_TYPE",
+        smoothing=(
+            ("none", {}),
+            ("ma", {"window": 4}),
+            ("hp", {}),
+            ("hp", {"one_sided": True}),
+        ),
+    )
 
     for column in ("polarity_growth", "polarity_growth_ma4", "polarity_growth_hp", "polarity_growth_hp1s"):
         assert column in series.columns, column
     assert len(series) == 60
+
+
+def test_default_smoothing_is_the_normalized_four_month_average() -> None:
+    reports = pd.DataFrame(
+        {
+            "FILING_DATE": pd.date_range("2020-01-15", periods=8, freq="MS").strftime("%Y%m%d"),
+            "polarity": [1.0, 2.0, 3.0, 4.0, 5.0, 6.0, 7.0, 8.0],
+        }
+    )
+    series = ta.build_manager_sentiment(reports, ["polarity"])
+    averaged = series["polarity"].rolling(4).mean()
+    expected = ta.standardize_series(averaged)
+
+    assert "polarity_ma4_norm" in series.columns
+    assert "polarity_hp" not in series.columns
+    assert series["polarity_ma4_norm"].iloc[:3].isna().all()
+    assert np.allclose(series["polarity_ma4_norm"].iloc[3:], expected.iloc[3:])
+    assert math.isclose(series["polarity_ma4_norm"].iloc[3:].mean(), 0.0, abs_tol=1e-12)
+    assert math.isclose(series["polarity_ma4_norm"].iloc[3:].std(ddof=0), 1.0)
 
 
 # ---------------------------------------------------------------------------
@@ -455,9 +547,12 @@ def main() -> None:
         test_hp_two_sided_uses_the_future_and_one_sided_does_not,
         test_wide_sentiment_table_is_normalized,
         test_long_extraction_output_is_pivoted,
+        test_prepare_reports_keeps_only_the_requested_polarities,
+        test_prepare_reports_accepts_positive_and_negative_columns,
         test_select_filings_keeps_only_on_disk_reports,
         test_monthly_series_round_trips_through_parquet,
         test_build_manager_sentiment_column_names,
+        test_default_smoothing_is_the_normalized_four_month_average,
         test_hac_lags_scale_with_the_horizon,
         test_predictive_table_shape_and_content,
         test_controls_are_included,

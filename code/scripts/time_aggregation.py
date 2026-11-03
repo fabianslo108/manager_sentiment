@@ -10,16 +10,6 @@ Both steps are pluggable, as `code/time aggregation/contents.md` asks:
     a backward moving average, or a Hodrick-Prescott trend with the monthly
     smoothing parameter.
 
-Two things worth knowing before choosing options.
-
-**Standardizing within form type.** 10-K and 10-Q filings do not arrive evenly
-over the calendar: February and March are almost entirely 10-Ks, May, August and
-November almost entirely 10-Qs. If the two form types have different score
-levels or spreads, a plain pooled monthly mean inherits that calendar pattern as
-a mechanical annual cycle. ``standardize_by="FORM_TYPE"`` equalizes the groups
-before pooling -- both level and scale with ``standardize_method="zscore"``, the
-level only with ``"center"``. Use ``standardize_by=None`` for a plain pooled
-mean.
 
 **The HP filter looks ahead.** It is two-sided: the trend at month *t* uses
 observations after *t*. That is fine for describing the series and for plots,
@@ -137,7 +127,7 @@ def aggregate_to_monthly(
     reports: pd.DataFrame,
     value_cols: Sequence[str],
     weight_col: str | None = None,
-    standardize_by: str | Sequence[str] | None = "FORM_TYPE",
+    standardize_by: str | Sequence[str] | None = None,
     standardize_method: str = "zscore",
     date_col: str = "FILING_DATE",
     min_obs: int = 1,
@@ -155,7 +145,9 @@ def aggregate_to_monthly(
         equal-weights. Missing or non-positive weights drop out of that month's
         weighted mean.
     standardize_by:
-        Group column(s) to equalize before pooling; ``None`` disables it.
+        Group column(s) to equalize before pooling. ``None`` (the default) pools
+        the raw scores, as the Jiang monthly mean does. ``"FORM_TYPE"`` is the
+        optional equalization of 10-K and 10-Q before pooling.
     standardize_method:
         ``"zscore"`` (level and scale) or ``"center"`` (level only). See
         :func:`standardize_reports`.
@@ -220,9 +212,36 @@ def smooth_none(series: pd.Series) -> pd.Series:
     return series
 
 
-def smooth_ma(series: pd.Series, window: int = DEFAULT_MA_WINDOW, min_periods: int | None = None) -> pd.Series:
-    """Backward moving average -- uses only months up to and including *t*."""
-    return series.rolling(window=window, min_periods=min_periods or window).mean()
+def standardize_series(series: pd.Series) -> pd.Series:
+    """Full-sample ``StandardScaler``: subtract the mean and divide by the population std.
+
+    NaNs stay NaN and are left out of the mean and the scale, which is what
+    ``sklearn.preprocessing.StandardScaler`` does on a ``dropna``'d column.
+    The mean and scale use the whole observed sample, including later months.
+    """
+    out = pd.Series(np.nan, index=series.index, dtype=float)
+    observed = series.notna()
+    if not observed.any():
+        return out
+    out.loc[observed] = zscore(series.loc[observed]).to_numpy()
+    return out
+
+
+def smooth_ma(
+    series: pd.Series,
+    window: int = DEFAULT_MA_WINDOW,
+    min_periods: int | None = None,
+    normalize: bool = False,
+) -> pd.Series:
+    """Backward moving average -- uses only months up to and including *t*.
+
+    ``normalize=True`` then applies :func:`standardize_series` to that average,
+    the default in the earlier Jiang notebook.
+    """
+    averaged = series.rolling(window=window, min_periods=min_periods or window).mean()
+    if normalize:
+        return standardize_series(averaged)
+    return averaged
 
 
 def smooth_hp(
@@ -288,7 +307,8 @@ def _suffix(method: str, options: Mapping[str, object]) -> str:
     if method == "none":
         return ""
     if method == "ma":
-        return f"_ma{options.get('window', DEFAULT_MA_WINDOW)}"
+        suffix = f"_ma{options.get('window', DEFAULT_MA_WINDOW)}"
+        return f"{suffix}_norm" if options.get("normalize") else suffix
     if method == "hp":
         return "_hp1s" if options.get("one_sided") else "_hp"
     return f"_{method}"
@@ -298,13 +318,12 @@ def _suffix(method: str, options: Mapping[str, object]) -> str:
 # Orchestration
 # ---------------------------------------------------------------------------
 
-#: Aggregate raw, plus the backward MA used in the earlier project, plus both HP
-#: variants. Override to change what lands in the output file.
+#: Default from the Jiang notebook: a backward 4-month average, then a
+#: full-sample StandardScaler of that average. The raw monthly mean is always
+#: kept as well. Pass other ``smoothing`` entries for the unnormalized average
+#: or either HP variant.
 DEFAULT_SMOOTHING: Sequence[tuple[str, dict]] = (
-    ("none", {}),
-    ("ma", {"window": DEFAULT_MA_WINDOW}),
-    ("hp", {}),
-    ("hp", {"one_sided": True}),
+    ("ma", {"window": DEFAULT_MA_WINDOW, "normalize": True}),
 )
 
 
@@ -312,7 +331,7 @@ def build_manager_sentiment(
     reports: pd.DataFrame,
     value_cols: Sequence[str],
     weight_col: str | None = None,
-    standardize_by: str | Sequence[str] | None = "FORM_TYPE",
+    standardize_by: str | Sequence[str] | None = None,
     standardize_method: str = "zscore",
     smoothing: Sequence[tuple[str, dict]] = DEFAULT_SMOOTHING,
     date_col: str = "FILING_DATE",
@@ -320,9 +339,11 @@ def build_manager_sentiment(
 ) -> pd.DataFrame:
     """Full monthly series: aggregate, then add one column per smoother.
 
-    Column names are the measure plus a suffix: no suffix for the raw monthly
-    mean, ``_ma4`` for the 4-month backward average, ``_hp`` for the two-sided
-    HP trend and ``_hp1s`` for its one-sided counterpart.
+    The default smoother is the Jiang one: a backward 4-month average,
+    standardized over the whole sample (``_ma4_norm``). The raw monthly mean
+    has no suffix. Other suffixes, when requested: ``_ma4`` for the
+    unnormalized average, ``_hp`` for the two-sided HP trend and ``_hp1s`` for
+    its one-sided counterpart.
     """
     monthly = aggregate_to_monthly(
         reports,
@@ -396,47 +417,121 @@ def _with_match_keys(reports: pd.DataFrame) -> pd.DataFrame:
     return out
 
 
-def polarity_columns(reports: pd.DataFrame) -> list[str]:
-    """Report-level sentiment columns. Smoothed monthly suffixes are excluded."""
+#: Report-level score columns. A bare name such as ``growth_llama`` means the
+#: polarity column; ``positive_`` and ``negative_`` have to be written in full.
+SCORE_PREFIXES = ("polarity_", "positive_", "negative_")
+
+
+def score_columns(reports: pd.DataFrame) -> list[str]:
+    """``polarity_*``, ``positive_*`` and ``negative_*`` columns, unsmoothed."""
     return [
         column
         for column in reports.columns
-        if column.startswith("polarity_")
+        if column.startswith(SCORE_PREFIXES)
         and "_ma" not in column
         and not column.endswith(("_hp", "_hp1s"))
     ]
 
 
-def prepare_reports(reports: pd.DataFrame) -> pd.DataFrame:
-    """One row per filing, with ``FORM_TYPE`` and ``polarity_*`` columns.
+def polarity_columns(reports: pd.DataFrame) -> list[str]:
+    """Polarity columns only. Smoothed monthly suffixes are excluded."""
+    return [column for column in score_columns(reports) if column.startswith("polarity_")]
 
-    Accepts either the wide table (``REPORT_TYPE`` plus ``polarity_growth_llama``
-    and the other measures) or the long extraction output (one row per
-    ``strategy``, with a ``polarity`` column).
+
+def _as_score_columns(names: Sequence[str]) -> list[str]:
+    """Resolve measure names. A name without a prefix is a polarity column."""
+    if len(names) == 0:
+        raise ValueError("polarities is empty; pass None to keep every polarity column")
+    resolved: list[str] = []
+    for name in names:
+        column = str(name)
+        if not column.startswith(SCORE_PREFIXES):
+            column = f"polarity_{column}"
+        if column not in resolved:
+            resolved.append(column)
+    return resolved
+
+
+def _split_score(column: str) -> tuple[str, str]:
+    """``positive_growth_llama`` -> ``("positive", "growth_llama")``."""
+    for prefix in SCORE_PREFIXES:
+        if column.startswith(prefix):
+            return prefix[:-1], column[len(prefix):]
+    return "polarity", column
+
+
+def _pivot_scores(frame: pd.DataFrame, requested: list[str] | None) -> pd.DataFrame:
+    """Long extraction rows (one strategy per row) -> one row per filing."""
+    if requested is None:
+        kinds = ["polarity"]
+        strategies = None
+    else:
+        parts = [_split_score(column) for column in requested]
+        kinds = list(dict.fromkeys(kind for kind, _ in parts))
+        strategies = {strategy for _, strategy in parts}
+        frame = frame[frame["strategy"].isin(strategies)]
+        if frame.empty:
+            raise KeyError(f"none of {requested} are in the strategy column")
+    missing = [kind for kind in kinds if kind not in frame.columns]
+    if missing:
+        raise KeyError(f"long table has no column(s) {missing}")
+
+    wide = frame.pivot_table(
+        index=["CIK", "_DATE", "_ACC", "_FORM"],
+        columns="strategy",
+        values=kinds[0] if len(kinds) == 1 else kinds,
+        aggfunc="mean",
+    )
+    if isinstance(wide.columns, pd.MultiIndex):
+        wide.columns = [f"{kind}_{strategy}" for kind, strategy in wide.columns]
+    else:
+        wide.columns = [f"{kinds[0]}_{strategy}" for strategy in wide.columns]
+    wide = wide.reset_index().rename(
+        columns={"_DATE": "FILING_DATE", "_ACC": "ACC_NUM", "_FORM": "FORM_TYPE"}
+    )
+    wide.columns.name = None
+    if requested is not None:
+        missing = [column for column in requested if column not in wide.columns]
+        if missing:
+            raise KeyError(f"score column(s) not in the table: {missing}")
+        keys = [column for column in wide.columns if column not in score_columns(wide)]
+        wide = wide[keys + requested]
+    return wide
+
+
+def prepare_reports(
+    reports: pd.DataFrame,
+    polarities: Sequence[str] | None = None,
+) -> pd.DataFrame:
+    """One row per filing, with ``FORM_TYPE`` and the selected score columns.
+
+    Accepts either the wide table (``polarity_growth_llama``, ``positive_*``,
+    ``negative_*`` and the other measures) or the long extraction output (one
+    row per ``strategy``, with ``positive``, ``negative`` and ``polarity``).
+
+    ``polarities=None`` keeps every polarity column. A list keeps only the named
+    measures, in that order. Each name is a ``polarity_*``, ``positive_*`` or
+    ``negative_*`` column; a name without a prefix is read as a polarity.
     """
-    if "strategy" in reports.columns and "polarity" in reports.columns and not polarity_columns(reports):
+    requested = None if polarities is None else _as_score_columns(polarities)
+    if "strategy" in reports.columns and "polarity" in reports.columns and not score_columns(reports):
         frame = _with_match_keys(reports)
         frame["CIK"] = frame["CIK"].astype(str).str.replace(r"\.0$", "", regex=True)
-        wide = (
-            frame.pivot_table(
-                index=["CIK", "_DATE", "_ACC", "_FORM"],
-                columns="strategy",
-                values="polarity",
-                aggfunc="mean",
-            )
-            .rename(columns=lambda name: f"polarity_{name}")
-            .reset_index()
-            .rename(columns={"_DATE": "FILING_DATE", "_ACC": "ACC_NUM", "_FORM": "FORM_TYPE"})
-        )
-        wide.columns.name = None
-        return wide
+        return _pivot_scores(frame, requested)
 
     frame = _with_match_keys(reports)
-    columns = polarity_columns(frame)
-    if not columns:
+    available = score_columns(frame)
+    if not available:
         raise KeyError(
-            "no polarity columns found: expected polarity_* or a long table with strategy and polarity"
+            "no score columns found: expected polarity_*/positive_*/negative_* "
+            "or a long table with strategy and polarity"
         )
+    columns = polarity_columns(frame) if requested is None else requested
+    if requested is not None:
+        missing = [column for column in requested if column not in available]
+        if missing:
+            raise KeyError(f"score column(s) not in the table: {missing}. available: {available}")
+        columns = requested
     frame["CIK"] = frame["CIK"].astype(str).str.replace(r"\.0$", "", regex=True)
     before = len(frame)
     grouped = (
@@ -520,7 +615,7 @@ def aggregate_file(
     output_path: str | Path,
     filings_dir: str | Path | None = None,
     matched_output: str | Path | None = None,
-    standardize_by: str | None = "FORM_TYPE",
+    standardize_by: str | None = None,
     standardize_method: str = "zscore",
     weight_col: str | None = None,
 ) -> pd.DataFrame:
@@ -548,7 +643,7 @@ def main(argv: Sequence[str] | None = None) -> None:
     parser.add_argument("--output", type=Path, required=True)
     parser.add_argument("--filings-dir", type=Path, default=None)
     parser.add_argument("--matched-output", type=Path, default=None)
-    parser.add_argument("--standardize-by", default="FORM_TYPE")
+    parser.add_argument("--standardize-by", default="none")
     parser.add_argument("--standardize-method", default="zscore", choices=list(STANDARDIZE_METHODS))
     parser.add_argument("--weight-col", default=None)
     args = parser.parse_args(list(argv) if argv is not None else None)
