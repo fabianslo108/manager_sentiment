@@ -153,6 +153,9 @@ activemq-data/
 .venv
 env/
 venv/
+
+# Model weights are downloaded locally; they are not part of the repository.
+models/
 ENV/
 env.bak/
 venv.bak/

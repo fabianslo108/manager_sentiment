@@ -1,0 +1,1069 @@
+<Header>
+<FileStats>
+    <FileName>20210506_10-Q_edgar_data_56978_0000056978-21-000068.txt</FileName>
+    <GrossFileSize>9575125</GrossFileSize>
+    <NetFileSize>161655</NetFileSize>
+    <NonText_DocumentType_Chars>1338191</NonText_DocumentType_Chars>
+    <HTML_Chars>3561568</HTML_Chars>
+    <XBRL_Chars>2274489</XBRL_Chars>
+    <XML_Chars>2056722</XML_Chars>
+    <N_Exhibits>10</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0000056978-21-000068.hdr.sgml : 20210506
+<ACCEPTANCE-DATETIME>20210506112154
+ACCESSION NUMBER:		0000056978-21-000068
+CONFORMED SUBMISSION TYPE:	10-Q
+PUBLIC DOCUMENT COUNT:		92
+CONFORMED PERIOD OF REPORT:	20210403
+FILED AS OF DATE:		20210506
+DATE AS OF CHANGE:		20210506
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			KULICKE & SOFFA INDUSTRIES INC
+		CENTRAL INDEX KEY:			0000056978
+		STANDARD INDUSTRIAL CLASSIFICATION:	SEMICONDUCTORS & RELATED DEVICES [3674]
+		IRS NUMBER:				231498399
+		STATE OF INCORPORATION:			PA
+		FISCAL YEAR END:			1002
+
+	FILING VALUES:
+		FORM TYPE:		10-Q
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-00121
+		FILM NUMBER:		21896547
+
+	BUSINESS ADDRESS:	
+		STREET 1:		23A SERANGOON NORTH AVENUE 5, #01-01
+		CITY:			SINGAPORE
+		STATE:			U0
+		ZIP:			554369
+		BUSINESS PHONE:		2157846000
+
+	MAIL ADDRESS:	
+		STREET 1:		23A SERANGOON NORTH AVENUE 5, #01-01
+		CITY:			SINGAPORE
+		STATE:			U0
+		ZIP:			554369
+
+</SEC-Header>
+</Header>
+
+ 0000056978-21-000068.txt : 20210506
+
+10-Q
+ 1
+ klic-20210403.htm
+ 10-Q
+
+klic-20210403 
+
+UNITED STATES 
+ SECURITIES AND EXCHANGE COMMISSION 
+ Washington, D.C. 20549 
+ FORM 
+ 
+ QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+ For the quarterly period ended 
+ 
+ OR 
+ TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+ 
+ For the transition period from to . 
+ 
+ Commission File No. 
+ KULICKE AND SOFFA INDUSTRIES, INC. 
+ (Exact name of registrant as specified in its charter) 
+ 
+ (State or other jurisdiction of incorporation) (IRS Employer Identification No.) 
+ 
+ , 
+ , , 
+ (Address of principal executive offices and Zip Code) 
+ ) 
+ (Registrant's telephone number, including area code) 
+ Securities registered pursuant to Section 12(b) of the Act: 
+ Title of each class Trading Symbol(s) Name of each exchange on which registered 
+ Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days. No 
+ Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T 232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files). No 
+ Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, smaller reporting company, or an emerging growth company. See the definitions of "large accelerated filer," "accelerated filer," "smaller reporting company," and "emerging growth company" in Rule 12b-2 of the Exchange Act. 
+ Accelerated filer Non-accelerated filer Smaller reporting company Emerging growth company 
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. 
+ 
+ Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act). Yes No 
+ 
+ As of April 30, 2021, there were shares of the Registrant's Common Stock, no par value, outstanding. 
+
+Table of Contents 
+
+ KULICKE AND SOFFA INDUSTRIES, INC. 
+ 
+ FORM 10 Q 
+ 
+ April 3, 2021 
+ Index 
+ 
+ Page Number PART I - FINANCIAL INFORMATION Item 1. FINANCIAL STATEMENTS (Unaudited) Consolidated Condensed Balance Sheets as of April 3, 2021 and October 3, 2020 
+ 1 
+ Consolidated Condensed Statements of Operations for the three and six months ended April 3, 2021 and March 28, 2020 
+ 2 
+ Consolidated Condensed Statements of Comprehensive Income for the three and six months ended April 3, 2021 and March 28, 2020 
+ 3 
+ Consolidated Condensed Statements of Changes in Shareholders' Equity for the three and six months ended April 3, 2021 and March 28, 2020 
+ 4 
+ Consolidated Condensed Statements of Cash Flows for the six months ended April 3, 2021 and March 28, 2020 
+ 6 
+ Notes to Consolidated Condensed Financial Statements 7 
+ Item 2. MANAGEMENT S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS 30 
+ Item 3. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK 40 
+ Item 4. CONTROLS AND PROCEDURES 41 
+ PART II - OTHER INFORMATION Item 1. LEGAL PROCEEDINGS 42 
+ Item 1A. RISK FACTORS 42 
+ Item 2. UNREGISTERED SALES OF EQUITY SECURITIES AND USE OF PROCEEDS 43 
+ Item 6. EXHIBITS 44 
+ SIGNATURES 45 
+
+Table of Contents 
+
+ PART I. - FINANCIAL INFORMATION 
+ Item 1. FINANCIAL STATEMENTS 
+
+KULICKE AND SOFFA INDUSTRIES, INC. 
+ CONSOLIDATED CONDENSED BALANCE SHEETS (Unaudited) 
+ (in thousands) 
+ As of April 3, 2021 October 3, 2020 ASSETS Current assets: Cash and cash equivalents Short-term investments Accounts and other receivable, net of allowance for doubtful accounts of 942 and 968, respectively Inventories, net Prepaid expenses and other current assets Total current assets Property, plant and equipment, net Operating right-of-use assets Goodwill Intangible assets, net Deferred tax assets Equity investments Other assets TOTAL ASSETS LIABILITIES AND SHAREHOLDERS' EQUITY Current liabilities: Accounts payable Operating lease liabilities Income taxes payable Accrued expenses and other current liabilities Total current liabilities Deferred tax liabilities Income taxes payable Operating lease liabilities Other liabilities TOTAL LIABILITIES Commitments and contingent liabilities (Note 16) Shareholders' equity: Preferred stock, without par value: Authorized 5,000 shares; issued - none Common stock, without par value: Authorized 200,000 shares; issued 85,364 and 85,364, respectively; outstanding 62,061 and 61,558 shares, respectively Treasury stock, at cost, 23,303 and 23,806 shares, respectively ) ) Retained earnings Accumulated other comprehensive loss ) ) TOTAL SHAREHOLDERS' EQUITY TOTAL LIABILITIES AND SHAREHOLDERS' EQUITY 
+ The accompanying notes are an integral part of these consolidated condensed financial statements. 
+ 1 
+
+Table of Contents 
+
+ KULICKE AND SOFFA INDUSTRIES, INC. 
+ CONSOLIDATED CONDENSED STATEMENTS OF OPERATIONS (Unaudited) 
+ (in thousands, except per share data) 
+ Three months ended Six months ended April 3, 2021 March 28, 2020 April 3, 2021 March 28, 2020 Net revenue Cost of sales Gross profit Selling, general and administrative Research and development Operating expenses Income from operations Interest income Interest expense ) ) ) ) Income before income taxes Provision for income taxes Share of results of equity-method investee, net of tax Net income Net income per share: Basic Diluted Weighted average shares outstanding: Basic Diluted 
+ The accompanying notes are an integral part of these consolidated condensed financial statements. 
+ 
+ 2 
+
+Table of Contents 
+
+ KULICKE AND SOFFA INDUSTRIES, INC. 
+ CONSOLIDATED CONDENSED STATEMENTS OF COMPREHENSIVE INCOME (Unaudited) 
+ (in thousands) 
+ Three months ended Six months ended April 3, 2021 March 28, 2020 April 3, 2021 March 28, 2020 Net income Other comprehensive income: Foreign currency translation adjustment ) ) Unrecognized actuarial gain/(loss) on pension plan, net of tax ) ) ) ) Derivatives designated as hedging instruments: Unrealized (loss)/gain on derivative instruments, net of tax ) ) ) Reclassification adjustment for (gain)/loss on derivative instruments recognized, net of tax ) ) Net decrease from derivatives designated as hedging instruments, net of tax ) ) ) ) Total other comprehensive (loss)/gain ) ) Comprehensive income 
+ The accompanying notes are an integral part of these consolidated condensed financial statements. 
+
+3 
+
+Table of Contents 
+
+ KULICKE AND SOFFA INDUSTRIES, INC. 
+ CONSOLIDATED CONDENSED STATEMENTS OF CHANGES IN SHAREHOLDERS' EQUITY (Unaudited) 
+ (in thousands) 
+ Common Stock Treasury Stock Retained Earnings Accumulated Other Comprehensive (Loss)/Income Shareholders' Equity Shares Amount Balances as of October 3, 2020 ) ) Issuance of stock for services rendered Repurchase of common stock ) ) ) Issuance of shares for equity-based compensation ) Equity-based compensation Cash dividend declared ) ) Components of comprehensive income: Net income Other comprehensive income Total comprehensive income Balances as of January 2, 2021 ) Issuance of stock for services rendered Repurchase of common stock ) ) ) Issuance of shares for equity-based compensation ) Equity-based compensation Cash dividend declared ) ) Components of comprehensive income: Net income Other comprehensive loss ) ) Total comprehensive income/(loss) ) Balances as of April 3, 2021 ) ) 
+
+4 
+
+Table of Contents 
+
+ Common Stock Treasury Stock Retained Earnings Accumulated Other Comprehensive (Loss)/Income Shareholders' Equity Shares Amount Balances as of September 28, 2019 ) ) Issuance of stock for services rendered Repurchase of common stock ) ) ) Issuance of shares for equity-based compensation ) Equity-based compensation Cumulative effect of accounting changes ) ) Cash dividend declared ) ) Components of comprehensive income: Net income Other comprehensive income Total comprehensive income Balances as of December 28, 2019 ) ) Issuance of stock for services rendered Repurchase of common stock ) ) ) Issuance of shares for equity-based compensation ) Equity-based compensation Cash dividend declared ) ) Components of comprehensive income/(loss) Net income Other comprehensive loss ) ) Total comprehensive income/(loss) ) Balances as of March 28, 2020 ) ) 
+ 
+ The accompanying notes are an integral part of these consolidated condensed financial statements. 
+ 
+ 5 
+
+Table of Contents 
+
+ KULICKE AND SOFFA INDUSTRIES, INC. 
+ CONSOLIDATED CONDENSED STATEMENTS OF CASH FLOWS (Unaudited) 
+ (in thousands) 
+ Six months ended April 3, 2021 March 28, 2020 CASH FLOWS FROM OPERATING ACTIVITIES: Net income Adjustments to reconcile net income to net cash provided by operating activities: Depreciation and amortization Equity-based compensation and employee benefits (Gain)/loss on disposal of equity method investments ) Adjustment for doubtful accounts ) ) Adjustment for inventory valuation Deferred taxes ) (Gain)/loss on disposal of property, plant and equipment ) Unrealized foreign currency translation Share of results of equity-method investee Changes in operating assets and liabilities, net of assets and liabilities assumed in businesses combinations: Accounts and other receivable ) ) Inventories ) ) Prepaid expenses and other current assets ) ) Accounts payable, accrued expenses and other current liabilities Income taxes payable ) ) Other, net ) Net cash provided by operating activities CASH FLOWS FROM INVESTING ACTIVITIES: Acquisition of business, net of cash acquired ) Purchases of property, plant and equipment ) ) Proceeds from sales of property, plant and equipment Purchase of equity investments ) Disposal of equity-method investments Purchase of short-term investments ) ) Maturity of short-term investments Net cash provided by/(used in) investing activities ) CASH FLOWS FROM FINANCING ACTIVITIES: Payment on short-term debt ) Proceeds from short-term debt Payment for finance lease ) ) Repurchase of common stock ) ) Common stock cash dividends paid ) ) Net cash (used in)/provided by financing activities ) Effect of exchange rate changes on cash and cash equivalents ) Changes in cash and cash equivalents Cash and cash equivalents at beginning of period Cash and cash equivalents at end of period CASH PAID FOR: Interest Income taxes, net of refunds 
+ The accompanying notes are an integral part of these consolidated condensed financial statements. 
+ 6 
+
+Table of Contents 
+ KULICKE AND SOFFA INDUSTRIES, INC. 
+ NOTES TO CONSOLIDATED CONDENSED FINANCIAL STATEMENTS 
+ Unaudited 
+
+NOTE 1: 
+
+7 
+
+Table of Contents 
+ KULICKE AND SOFFA INDUSTRIES, INC. 
+ NOTES TO CONSOLIDATED CONDENSED FINANCIAL STATEMENTS 
+ Unaudited (continued) 
+
+8 
+
+Table of Contents 
+ KULICKE AND SOFFA INDUSTRIES, INC. 
+ NOTES TO CONSOLIDATED CONDENSED FINANCIAL STATEMENTS 
+ Unaudited (continued) 
+
+months forecasted future consumption for equipment, months forecasted future consumption for spare parts, and months forecasted future consumption for tools. Forecasted consumption is based upon internal projections, historical sales volumes, customer order activity and a review of consumable inventory levels at customers' facilities. The Company communicates forecasts of its future consumption to its suppliers and adjusts commitments to those suppliers accordingly. If required, the Company reserves the difference between the carrying value of its inventory and the lower of cost or net realizable value, based upon projections about future consumption, and market conditions. If actual market conditions are less favorable than projections, additional inventory reserves may be required. 
+ 
+ years; machinery, equipment, furniture and fittings to years; toolings 1 year; and leasehold improvements are . Purchased computer software costs related to business and financial systems are amortized over a five-year period on a straight-line basis. Land is not depreciated. 
+ 9 
+
+Table of Contents 
+ KULICKE AND SOFFA INDUSTRIES, INC. 
+ NOTES TO CONSOLIDATED CONDENSED FINANCIAL STATEMENTS 
+ Unaudited (continued) 
+
+10 
+
+Table of Contents 
+ KULICKE AND SOFFA INDUSTRIES, INC. 
+ NOTES TO CONSOLIDATED CONDENSED FINANCIAL STATEMENTS 
+ Unaudited (continued) 
+
+11 
+
+Table of Contents 
+ KULICKE AND SOFFA INDUSTRIES, INC. 
+ NOTES TO CONSOLIDATED CONDENSED FINANCIAL STATEMENTS 
+ Unaudited (continued) 
+
+12 
+
+Table of Contents 
+ KULICKE AND SOFFA INDUSTRIES, INC. 
+ NOTES TO CONSOLIDATED CONDENSED FINANCIAL STATEMENTS 
+ Unaudited (continued) 
+
+NOTE 2: 
+ Inventories, net: Raw materials and supplies Work in process Finished goods Inventory reserves ) ) Property, plant and equipment, net: Land Buildings and building improvements Leasehold improvements Data processing equipment and software Machinery, equipment, furniture and fixtures Construction in progress Accumulated depreciation ) ) Accrued expenses and other current liabilities: Accrued customer obligations (2) 
+ Wages and benefits Dividend payable Commissions and professional fees Severance Other 
+ 
+ (1) 
+ (2) 
+ 
+ 13 
+
+Table of Contents 
+ KULICKE AND SOFFA INDUSTRIES, INC. 
+ NOTES TO CONSOLIDATED CONDENSED FINANCIAL STATEMENTS 
+ Unaudited (continued) 
+
+NOTE 3: 
+ million in cash paid at closing. The acquisition of Uniqarta was accounted for in accordance with ASC No. 805, Business Combinations, using the acquisition method. 
+ The Company has estimated the preliminary fair value of acquired assets and liabilities as of the date of acquisition based on information available. The valuation of these tangible and identifiable intangible assets and liabilities is subject to further management review and may change materially between the preliminary allocation and end of the purchase price allocation period of January 19, 2022. Any changes in these estimates may have a material impact on our Consolidated Condensed Statements of Operations or Consolidated Condensed Balance Sheets. At April 3, 2021, the Company held million in escrow for a period ranging from to from the acquisition date as security pending the completion of Uniqarta's obligations as seller under the Agreement. 
+ Prepaid expenses and other current assets Property, plant and equipment, net Goodwill Intangible assets Accounts payable ) Accrued expenses and other current liabilities ) Deferred tax liabilities ) Total purchase price, net of cash acquired 
+ Tangible net assets (liabilities) were valued at their respective carrying amounts, which the Company believes approximate their current fair values at the acquisition date. 
+ The valuation of identifiable intangible assets acquired, representing in-process research and development ("IPR D") and others, reflects management s estimates based on, among other factors, use of established valuation method. The intangible assets are valued using a cost replacement method. The IPR D intangible asset of million is not amortized, but rather is reviewed for impairment on an annual basis or more frequently if indicators of impairment are present, until the project is completed, abandoned, or transferred to a third party. The other intangible assets acquired of million are amortized over the period of estimated benefit using the straight-line method and the estimated useful life of . The straight-line method of amortization represents the Company's best estimate of the distribution of the economic value of the identifiable intangible assets. Goodwill represents the excess of the purchase price over the fair value of the net tangible and identifiable intangible assets acquired and includes the value of expected future cash flows of Uniqarta from expected synergies with our other affiliates and other unidentifiable intangible assets. ne of the goodwill recorded as part of the acquisition will be deductible for income tax purposes. 
+ In connection with the acquisition of Uniqarta, the Company recorded deferred tax liabilities primarily relating to the acquired intangible assets, which are partially offset by the acquired tax attributes. The acquired tax attributes are comprised of net operating losses and research and development credits. 
+ For the three and six months ended April 3, 2021, the acquired business contributed a net loss of million. 
+ 14 
+
+Table of Contents 
+ KULICKE AND SOFFA INDUSTRIES, INC. 
+ NOTES TO CONSOLIDATED CONDENSED FINANCIAL STATEMENTS 
+ Unaudited (continued) 
+
+million and million of expenses related to the acquisition, respectively, which is included within selling, general and administrative expense in the Consolidated Condensed Statements of Operations. 
+ The following unaudited pro forma information presents the combined results of operations as if the acquisition had been completed on September 29, 2019, the beginning of the comparable prior annual reporting period. The unaudited pro forma results include: (i) amortization associated with preliminary estimates for the acquired intangible assets; and (ii) the associated tax impact on the unaudited pro forma adjustments. 
+ Net income 
+ 15 
+
+Table of Contents 
+ KULICKE AND SOFFA INDUSTRIES, INC. 
+ NOTES TO CONSOLIDATED CONDENSED FINANCIAL STATEMENTS 
+ Unaudited (continued) 
+
+NOTE 4: 
+ Acquired in business combination Other Balance at April 3, 2021 
+ During the quarter ended April 3, 2021, the Company recorded goodwill relating to the acquisition of Uniqarta. For further information on the acquisition of Uniqarta, please refer to Note 3. 
+ Intangible Assets 
+ Intangible assets with determinable lives are amortized over their estimated useful lives. The Company's intangible assets consist primarily of developed technology, customer relationships, in-process research and development and trade and brand names. 
+ 
+ 16 
+
+Table of Contents 
+ KULICKE AND SOFFA INDUSTRIES, INC. 
+ NOTES TO CONSOLIDATED CONDENSED FINANCIAL STATEMENTS 
+ Unaudited (continued) 
+
+7.0 to 15.0 Accumulated amortization ) ) Net developed technology Customer relationships 5.0 to 6.0 Accumulated amortization ) ) Net customer relationships In-process research and development N.A Accumulated amortization Net in-process research and development Trade and brand name 7.0 to 8.0 Accumulated amortization ) ) Net trade and brand name Other intangible assets 1.9 to 6.0 Accumulated amortization ) ) Net other intangible assets 
+ 17 
+
+Table of Contents 
+ KULICKE AND SOFFA INDUSTRIES, INC. 
+ NOTES TO CONSOLIDATED CONDENSED FINANCIAL STATEMENTS 
+ Unaudited (continued) 
+
+Fiscal 2022 Fiscal 2023 Fiscal 2024 Fiscal 2025 Thereafter Total amortization expense 
+
+NOTE 5: 
+ Cash equivalents: Money market funds (1) 
+ ) Time deposits (2) 
+ Total cash and cash equivalents ) Short-term investments (2) : 
+ Time deposits Deposits (3) 
+ Total short-term investments Total cash, cash equivalents and short-term investments ) 
+ (1) 
+ (2) 
+ (3) 
+ 18 
+
+Table of Contents 
+ KULICKE AND SOFFA INDUSTRIES, INC. 
+ NOTES TO CONSOLIDATED CONDENSED FINANCIAL STATEMENTS 
+ Unaudited (continued) 
+
+Cash equivalents: Money market funds (1) 
+ ) Time deposits (2) 
+ Total cash and cash equivalents ) Short-term investments (2) : 
+ Time deposits Deposits (3) 
+ Total short-term investments Total cash, cash equivalents and short-term investments ) 
+ (1) 
+ (2) 
+
+NOTE 6: 
+ Equity method investments Total equity investments 
+ million was recognized in selling, general and administrative expense in the Consolidated Condensed Statements of Operations. 
+ 
+ NOTE 7: 
+ 19 
+
+Table of Contents 
+ KULICKE AND SOFFA INDUSTRIES, INC. 
+ NOTES TO CONSOLIDATED CONDENSED FINANCIAL STATEMENTS 
+ Unaudited (continued) 
+
+NOTE 8: 
+ . For these derivatives, we report the after-tax gain or loss from the effective portion of the hedge as a component of accumulated other comprehensive income (loss), and we reclassify it into earnings in the same period or periods in which the hedged transaction affects earnings and in the same line item on the Consolidated Condensed Statements of Operations as the impact of the hedged transaction. 
+ Total derivatives 
+ (1) 
+ (2) . ) ) Net gain/(loss) reclassified from accumulated OCI into income, net of tax (2) 
+ ) ) 
+ (1) 
+
+NOTE 9: 
+ to years, when it is reasonably certain that we will exercise that option. As of April 3, 2021, 
+ 20 
+
+Table of Contents 
+ KULICKE AND SOFFA INDUSTRIES, INC. 
+ NOTES TO CONSOLIDATED CONDENSED FINANCIAL STATEMENTS 
+ Unaudited (continued) 
+
+option to extend the lease which was recognized as a right-of-use ("ROU") asset, or a lease liability. We have lease agreements with lease and non-lease components, and non-lease components are accounted for separately and not included in our leased assets and corresponding liabilities. We have elected not to present short-term leases on the Consolidated Condensed Balance Sheet as these leases have a lease term of 12 months or less at lease inception. 
+ Operating leases are included in operating ROU assets, current operating lease liabilities and non current operating lease liabilities, and finance leases are included in property, plant and equipment, accrued expenses and other current liabilities, and other liabilities on the Consolidated Condensed Balance Sheet. As of April 3, 2021 and October 3, 2020, our finance leases are not material. 
+ 
+ (1) Operating lease expense includes short-term lease expense, which is immaterial for the three and six months ended April 3, 2021 and March 28, 2020. 
+ The following table shows the cash flows arising from lease transactions. Cash payments related to short-term leases are not included in the measurement of operating lease liabilities, and, as such, are excluded from the amounts below: 
+ Six months ended (in thousands) April 3, 2021 March 28, 2020 Cash paid for amounts included in the measurement of lease liabilities: Operating cash outflows from operating leases 
+ Weighted-average discount rate: 
+ 2022 2023 2024 2025 Thereafter Total minimum lease payments Less: Interest Present value of lease obligations Less: Current portion Long-term portion of lease obligations 
+ 
+ 21 
+
+Table of Contents 
+ KULICKE AND SOFFA INDUSTRIES, INC. 
+ NOTES TO CONSOLIDATED CONDENSED FINANCIAL STATEMENTS 
+ Unaudited (continued) 
+
+NOTE 10: 
+ million credit facility with Citibank in connection with the issuance of bank guarantees for operational purposes. As of April 3, 2021, the outstanding amount under this facility was million. 
+ Credit Facilities 
+ On February 15, 2019, the Company entered into a Facility Letter and Overdraft Agreement (collectively, the Facility Agreements with MUFG Bank, Ltd., Singapore Branch (the Bank ). The Facility Agreements provide the Company with an overdraft facility of up to million (the Overdraft Facility for general corporate purposes. Amounts outstanding under the Overdraft Facility, including interest, are payable upon thirty days written demand by the Bank. Interest on the Overdraft Facility is calculated on a daily basis, and the applicable interest rate is calculated at the overnight U.S. Dollar LIBOR rate plus a margin of per annum. The Overdraft Facility is an unsecured facility per the terms of the Facility Agreements. The Facility Agreements contain customary non-financial covenants, including, without limitation, covenants that restrict the Company s ability to sell or dispose of its assets, cease owning at least 51 of one of its subsidiaries (the "Subsidiary"), or encumber its assets with material security interests (including any pledge of monies in the Subsidiary s cash deposit account with the Bank). The Facility Agreements also contain typical events of default, including, without limitation, non-payment of financial obligations when due, cross defaults to other material indebtedness of the Company and any breach of a representation or warranty under the Facility Agreements. As of April 3, 2021, there were no outstanding amounts under the Overdraft Facility. 
+
+NOTE 11: 
+ based upon terms and conditions of the 401(k) Plan. 
+ 
+ Stock Repurchase Program 
+ On August 15, 2017, the Company s Board of Directors authorized a program (the "Program") to repurchase up to million of the Company s common stock on or before August 1, 2020. In 2018 and 2019, the Board of Directors increased the share repurchase authorization under the Program to million and million, respectively. On July 3, 2020, the Board of Directors increased the share repurchase authorization under the Program by an additional million to million, and extended its duration through August 1, 2022. The Company has entered into a written trading plan under Rule 10b5-1 of the Exchange Act to facilitate repurchases under the Program. The Program may be suspended or discontinued at any time and is funded using the Company's available cash, cash equivalents and short-term investments. Under the Program, shares may be repurchased through open market and/or privately negotiated transactions at prices deemed appropriate by management. The timing and amount of repurchase transactions under the Program depend on market conditions as well as corporate and regulatory considerations. During the three and six months ended April 3, 2021, the Company repurchased a total of approximately thousand and thousand shares of common stock under the Program at a cost of approximately million and million, respectively. The stock repurchases were recorded in the periods they were delivered and accounted for as treasury stock in the Company's Consolidated Condensed Balance Sheet. The Company records treasury stock purchases under the cost method using the first-in, first-out (FIFO) method. Upon reissuance of treasury stock, amounts in excess of the acquisition cost are credited to additional paid-in capital. If the Company reissues treasury stock at an amount below its acquisition cost and additional paid-in capital associated with prior treasury stock transactions is insufficient to cover the difference between acquisition cost and the reissue price, this difference is recorded against retained earnings. As of April 3, 2021, our remaining stock repurchase authorization under the Program was approximately million. 
+ 
+ 22 
+
+Table of Contents 
+ KULICKE AND SOFFA INDUSTRIES, INC. 
+ NOTES TO CONSOLIDATED CONDENSED FINANCIAL STATEMENTS 
+ Unaudited (continued) 
+
+per share of common stock. Dividends paid during the three and six months ended April 3, 2021 totaled million and million, respectively. The declaration of any future cash dividend is at the discretion of the Board of Directors and will depend on the Company's financial condition, results of operations, capital requirements, business conditions and other factors, as well as a determination that such dividends are in the best interests of the Company's shareholders. 
+ Accumulated Other Comprehensive Income 
+ Unrecognized actuarial loss on pension plan, net of tax ) ) Unrealized gain on hedging Accumulated other comprehensive loss ) ) 
+ Equity-Based Compensation 
+ The Company has a stockholder-approved equity-based compensation plan, the 2021 Omnibus Incentive Plan (the Plan from which employees and directors receive grants. As of April 3, 2021, million shares of common stock are available for grant to the Company's employees and directors under the Plan. 
+ Relative TSR Performance Share Units Relative TSR PSUs entitle the employee to receive common shares of the Company on the award vesting date, typically the third anniversary of the grant date (or as soon as administratively practicable if later), if market performance objectives which measure relative total shareholder return TSR are attained. Relative TSR is calculated based upon the -calendar day average price at the end of the performance period of the Company's stock as compared to specific peer companies that comprise the GICS (45301020) Semiconductor Index. TSR is measured for the Company and each peer company over a performance period, which is generally . Vesting percentages range from to of awards granted. The provisions of the Relative TSR PSUs are reflected in the grant date fair value of the award; therefore, compensation expense is recognized regardless of whether the market condition is ultimately satisfied. Compensation expense is reversed if the award is forfeited prior to the vesting date. 
+ Revenue Growth Performance Share Units Growth PSUs entitle the employee to receive common shares of the Company on the award vesting date, typically the third anniversary of the grant date (or as soon as administratively practicable if later), based on organic revenue growth objectives and relative growth performance against named competitors as set by the Management Development and Compensation Committee MDCC of the Company's the Board of Directors. Organic revenue growth is calculated by averaging revenue growth (net of revenues from acquisitions) over a performance period, which is generally . Revenues from acquisitions will be included in the calculation after four fiscal quarters after acquisition. Any portion of the grant that does not meet the revenue growth objectives and relative growth performance is forfeited. Vesting percentages range from to of awards granted. 
+ In general, stock options and Time-based Restricted Share Units ("Time-based RSUs") awarded to employees vest ratably over a period on the anniversary of the grant date provided the employee remains employed by the Company. The Company follows the non-substantive vesting method for stock options and recognizes compensation expense immediately for awards granted to retirement eligible employees, or over the period from the grant date to the date retirement eligibility is achieved. 
+ Equity-based compensation expense recognized in the Consolidated Condensed Statements of Operations for the three and six months ended April 3, 2021 and March 28, 2020 was based upon awards ultimately expected to vest, with forfeitures accounted for when they occur. 
+ 23 
+
+Table of Contents 
+ KULICKE AND SOFFA INDUSTRIES, INC. 
+ NOTES TO CONSOLIDATED CONDENSED FINANCIAL STATEMENTS 
+ Unaudited (continued) 
+
+Relative TSR PSUs Growth PSUs Common stock Equity-based compensation in shares 
+ Selling, general and administrative Research and development Total equity-based compensation expense 
+ The following table reflects equity-based compensation expense, by type of award, for the three and six months ended April 3, 2021 and March 28, 2020: 
+ Three months ended Six months ended (in thousands) April 3, 2021 March 28, 2020 April 3, 2021 March 28, 2020 Time-based RSUs Relative TSR PSUs Growth PSUs ) Common stock Total equity-based compensation expense 
+
+NOTE 12: 
+ 
+ 24 
+
+Table of Contents 
+ KULICKE AND SOFFA INDUSTRIES, INC. 
+ NOTES TO CONSOLIDATED CONDENSED FINANCIAL STATEMENTS 
+ Unaudited (continued) 
+
+Revenue recognized ) ) ) ) Additions Contract liabilities, end of period 
+
+NOTE 13: 
+ DENOMINATOR: Weighted average shares outstanding - Basic Dilutive effect of Equity Plans Weighted average shares outstanding - Diluted EPS: Net income per share - Basic Effect of dilutive shares ) Net income per share - Diluted 
+ Six months ended (in thousands, except per share data) April 3, 2021 March 28, 2020 Basic Diluted Basic Diluted NUMERATOR: Net income DENOMINATOR: Weighted average shares outstanding - Basic Dilutive effect of Equity Plans Weighted average shares outstanding - Diluted EPS: Net income per share - Basic Effect of dilutive shares ) ) Net income per share - Diluted 
+
+NOTE 14: 
+ 25 
+
+Table of Contents 
+ KULICKE AND SOFFA INDUSTRIES, INC. 
+ NOTES TO CONSOLIDATED CONDENSED FINANCIAL STATEMENTS 
+ Unaudited (continued) 
+
+Effective tax rate 
+ The increase in provision for income taxes and effective tax rate for the three and six months ended April 3, 2021 as compared to the three and six months ended March 28, 2020 is primarily related to an increase in profitability, principally earned in lower tax jurisdictions, and foreign minimum tax, offset by the net release of valuation allowances recorded against certain loss and credit carryforwards due to an increase in profitability in the corresponding jurisdictions in fiscal 2021. 
+ For the three and six months ended April 3, 2021, the effective tax rate is lower than the U.S. federal statutory tax rate primarily due to foreign income earned in lower tax jurisdictions, tax incentives, tax credits, and the net release of valuation allowances recorded against certain loss and credit carryforwards, partially offset by foreign withholding taxes, taxes on unrepatriated foreign earnings, deemed income, and foreign minimum tax. 
+
+NOTE 15: 
+ reportable segments consisting of: (i) Capital Equipment; and (ii) Aftermarket Products and Services ("APS"). 
+ APS Net revenue Income from operations: Capital Equipment APS Income from operations 
+ We have considered (1) information that is regularly reviewed by our CODM as defined by the authoritative guidance on segment reporting, in evaluating financial performance and (2) other financial data, including information that we include in our earnings releases but which is not included in our financial statements, to disaggregate revenues by end markets served. The principal category we use to disaggregate revenues is by the end markets served in the Capital Equipment segment. 
+ 
+ 26 
+
+Table of Contents 
+ KULICKE AND SOFFA INDUSTRIES, INC. 
+ NOTES TO CONSOLIDATED CONDENSED FINANCIAL STATEMENTS 
+ Unaudited (continued) 
+
+Automotive Industrial 
+ LED 
+ Memory 
+ Total Capital Equipment revenue 
+
+APS Depreciation expense: Capital Equipment APS Amortization expense: Capital Equipment APS 
+
+NOTE 16: 
+ 
+ 27 
+
+Table of Contents 
+ KULICKE AND SOFFA INDUSTRIES, INC. 
+ NOTES TO CONSOLIDATED CONDENSED FINANCIAL STATEMENTS 
+ Unaudited (continued) 
+
+Provision for warranty Utilization of reserve ) ) ) ) Reserve for warranty, end of period 
+ Other Commitments and Contingencies 
+
+28 
+
+Table of Contents 
+ KULICKE AND SOFFA INDUSTRIES, INC. 
+ NOTES TO CONSOLIDATED CONDENSED FINANCIAL STATEMENTS 
+ Unaudited (continued) 
+
+Haoseng Industrial Co., Ltd (1) 
+ Xinye (HK) Electronics. Co (1) 
+ 
+ (1) 
+ Represented less than 10 of total net revenue 
+ Huatian Technology Group Xinye (HK) Electronics. Co (1) 
+ 
+ (1) 
+ Represented less than 10 of total accounts receivable 
+
+29 
+
+Table of Contents 
+
+ Item 2. - MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS 
+ 
+ Forward-Looking Statements 
+ In addition to historical information, this filing contains statements relating to future events or our future results. These statements are forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995, Section 27A of the Securities Act of 1933, as amended (the Securities Act and Section 21E of the Securities Exchange Act of 1934, as amended (the Exchange Act ), and are subject to the safe harbor provisions created by statute. Such forward-looking statements include, but are not limited to, statements with respect to our future revenue, increasing, continuing or strengthening, or decreasing or weakening, demand for our products, replacement demand, our research and development efforts, our ability to identify and realize new growth opportunities, our ability to control costs and our operational flexibility as a result of (among other factors): 
+ our expectations regarding the potential impacts on our business of the COVID-19 pandemic, including supply chain disruptions, the economic and public health effects, and governmental and other responses to these impacts; 
+ projected growth rates in the overall semiconductor industry, the semiconductor assembly equipment market, and the market for semiconductor packaging materials; and 
+ projected demand for ball bonder, wedge bonder, advanced packaging and electronic assembly equipment and for tools, spare parts and services. 
+ Generally, words such as may, will, should, could, anticipate, expect, intend, estimate, plan, continue, goal and believe, or the negative of or other variations on these and other similar expressions identify forward-looking statements. These forward-looking statements are made only as of the date of this filing. We do not undertake to update or revise the forward-looking statements, whether as a result of new information, future events or otherwise. 
+ Forward-looking statements are based on current expectations and involve risks and uncertainties. Our future results could differ significantly from those expressed or implied by our forward-looking statements. These risks and uncertainties include, without limitation, those described below and under the heading Risk Factors in this report and in our Annual Report on Form 10-K for the fiscal year ended October 3, 2020 (our Annual Report and our other reports filed from time to time with the Securities and Exchange Commission. This discussion should be read in conjunction with the Consolidated Condensed Financial Statements and Notes included in this report, as well as our audited financial statements included in our Annual Report. 
+ We operate in a rapidly changing and competitive environment. New risks emerge from time to time and it is not possible for us to predict all risks that may affect us. Given those risks and uncertainties, investors should not place undue reliance on forward-looking statements as predictions of actual results. 
+ OVERVIEW 
+ Kulicke and Soffa Industries, Inc. we, us, our, or the Company is a leading provider of semiconductor, light-emitting diode LED and electronic assembly solutions serving the global automotive, consumer, communications, computing and industrial markets. Founded in 1951, we pride ourselves on establishing foundations for technological advancement-creating, pioneering interconnect solutions that enable performance improvements, power efficiency, form-factor reductions and assembly excellence of current and next-generation semiconductor devices. Leveraging decades of development proficiency and extensive process technology expertise, our expanding portfolio provides equipment solutions, aftermarket products and services supporting a comprehensive set of interconnect technologies including wire bonding, advanced packaging, lithography, and electronics assembly. Dedicated to empowering technological discovery, always, we collaborate with customers and technology partners to push the boundaries of possibility, enabling a smarter future. 
+ We design, manufacture and sell capital equipment and tools used to assemble semiconductor devices, including integrated circuits, high and low powered discrete devices, LEDs, and power modules. In addition, we have a portfolio of equipment that is used to assemble components onto electronic circuit boards. We also service, maintain, repair and upgrade our equipment and sell consumable aftermarket tools for our and our peer companies' equipment. Our customers primarily consist of semiconductor device manufacturers, integrated device manufacturers IDMs ), outsourced semiconductor assembly and test providers OSATs ), other electronics manufacturers and automotive electronics suppliers. 
+ 30 
+
+Table of Contents 
+
+ Our goal is to be the technology leader and the most competitive supplier in terms of cost and performance in each of our major product lines. Accordingly, we invest in research and engineering projects intended to enhance our position as a leader in semiconductor assembly technology. We also remain focused on our cost structure through continuous improvement and optimization of operations. Cost reduction efforts are an important part of our normal ongoing operations and are intended to generate savings without compromising overall product quality and service. 
+ We operate two reportable segments, consisting of Capital Equipment and Aftermarket Products and Services APS ). We have aggregated twelve operating segments as of April 3, 2021, with six operating segments within the Capital Equipment reportable segment and six operating segments within the APS reportable segment. 
+ Our Capital Equipment segment engages in the manufacture and sale of ball bonders, wafer level bonders, wedge bonders, advanced packaging and electronic assembly solutions to semiconductor device manufacturers, IDMs, OSATs, other electronics manufacturers and automotive electronics suppliers. Our APS segment engages in the manufacture and sale of a variety of tools for a broad range of semiconductor packaging applications, spare parts, equipment repair, maintenance and servicing, training services, refurbishment and upgrades for our equipment. 
+ Business Environment 
+ The semiconductor business environment is highly volatile and is driven by internal dynamics, both cyclical and seasonal, in addition to macroeconomic forces. Over the long term, semiconductor consumption has historically grown, and is forecast to continue to grow. This growth is driven, in part, by regular advances in device performance and by price declines that result from improvements in manufacturing technology. In order to exploit these trends, semiconductor manufacturers, both IDMs and OSATs, periodically invest aggressively in latest generation capital equipment. This buying pattern often leads to periods of excess supply and reduced capital spending the so-called semiconductor cycle. Within this broad semiconductor cycle there are also, generally weaker, seasonal effects that are specifically tied to annual, end-consumer purchasing patterns. Typically, semiconductor manufacturers prepare for heightened demand by adding or replacing equipment capacity by the end of the September quarter. Occasionally, this results in subsequent reductions in the December quarter. This annual seasonality can be overshadowed by effects of the broader semiconductor cycle. Macroeconomic factors also affect the industry, primarily through their effect on business and consumer demand for electronic devices, as well as other products that have significant electronic content such as automobiles, white goods, and telecommunication equipment. There can be no assurances regarding levels of demand for our products and we believe historic industry-wide volatility will persist. 
+ In the Asia/Pacific region, our customer base has also become more geographically concentrated as a result of economic and industry conditions. Approximately 96.8 and 94.8 of our net revenue for the three months ended April 3, 2021 and March 28, 2020, respectively, was for shipments to customer locations outside of the U.S., primarily in the Asia/Pacific region. Approximately 53.8 and 60.1 of our net revenue for the three months ended April 3, 2021 and March 28, 2020, respectively, was for shipments to customers located in China, which is subject to risks and uncertainties related to the respective policies of the governments of China and the U.S. 
+ Similarly, approximately 97.1 and 93.3 of our net revenue for the six months ended April 3, 2021 and March 28, 2020, respectively, was for shipments to customer locations outside of the U.S., primarily in the Asia/Pacific region. Approximately 51.5 and 55.3 of our net revenue for the six months ended April 3, 2021 and March 28, 2020, respectively, was for shipments to customers located in China. 
+ The U.S. and several other countries have levied tariffs on certain goods and have introduced other trade restrictions, which, together with the impact of the COVID-19 pandemic discussed below, has resulted in substantial uncertainties in the semiconductor, LED, memory and automotive market. 
+ Our Capital Equipment segment is primarily affected by the industry's internal cyclical and seasonal dynamics in addition to broader macroeconomic factors that can positively or negatively affect our financial performance. The sales mix of IDM and OSAT customers in any period also impacts financial performance, as changes in this mix can affect our products' average selling prices and gross margins due to differences in volume purchases and machine configurations required by each customer type. 
+ Our APS segment has historically been less volatile than our Capital Equipment segment. The APS sales are more directly tied to semiconductor unit consumption rather than capacity requirements and production capability improvements. 
+ 31 
+
+Table of Contents 
+
+ We continue to position our business to leverage our research and development leadership and innovation and to focus our efforts on mitigating volatility, improving profitability and ensuring longer-term growth. We remain focused on operational excellence, expanding our product offerings and managing our business efficiently throughout the business cycles. Our visibility into future demand is generally limited, forecasting is difficult, and we generally experience typical industry seasonality. 
+ To limit potential adverse cyclical, seasonal and macroeconomic effects on our financial position, we have continued our efforts to maintain a strong balance sheet. As of April 3, 2021, our total cash, cash equivalents and short-term investments were 564.3 million, a 34.2 million increase from the prior fiscal year end. We believe our strong cash position will allow us to continue to invest in product development and pursue non-organic opportunities. 
+ Key Events in Fiscal 2021 
+ Business Combinations 
+ On January 19, 2021, we entered into and closed a Stock Purchase Agreement with Uniqarta, Inc. Uniqarta and the equity holders of Uniqarta to purchase all of Uniqarta's outstanding equity interests. The purchase price consisted of 26.5 million in cash paid at closing. Uniqarta is a developer of laser transfer technology and the acquisition expands the our presence in the LED end market. Upon the closing of the acquisition on January 19, 2021, Uniqarta became our wholly-owned subsidiary. 
+ COVID-19 Pandemic 
+ The COVID-19 pandemic has significantly impacted the global economy, disrupted global supply chains, created volatility in equity market valuations, created significant volatility and disruption in financial markets, and significantly increased unemployment levels. In addition, the pandemic has resulted in temporary closures and failures of many businesses and the institution of social distancing and sheltering-in-place requirements in many jurisdictions. As these measures were relaxed, in certain jurisdictions there has been a resurgence of illnesses, which has led to more severe restrictions. 
+ In response to the pandemic, we temporarily closed certain offices in the United States, Europe and Asia as well as executed our Business Continuity Plan BCP ), which measures have disrupted how we operate our business. While we are currently operating at full capacity in all of our manufacturing locations, work-from-home practices were instituted across every office worldwide, which have impacted our non-manufacturing productivity, including our research development. At this point, our BCP has not included significant headcount reductions or changes in our overall liquidity position. As certain countries relaxed the measures over the past few months, we have restarted certain activities in accordance with local guidelines. 
+ We have not experienced significant delays in customer deliveries, but we are impacted by the global shortage in electronic components and our supply chain is strained in some cases as the availability of materials, logistics and freight options are challenging in many jurisdictions. Demand for our products was consistent with or exceeded our expectations for the second quarter of fiscal 2021. We believe semiconductor industry macroeconomics have not changed and we anticipate the industry s long-term growth projections will normalize, but the sector could see short-term volatility and potential disruption. 
+ Various countries have announced measures, including government grants, tax changes and tax credits, among other types of relief, in response to the pandemic. For fiscal 2021, we have received a 2.0 million COVID-19-related grant from the Singapore government as well as other measures including rental rebates and social insurance exemption, which are not material to our operating results. 
+ Based on our current evaluation, the pandemic has not had a material impact on our financial condition and operating results in fiscal 2021 to date. We believe that our existing cash, cash equivalents, short-term investments, existing Facility Agreements, and anticipated cash flows from operations will be sufficient to meet our liquidity and capital requirements, notwithstanding the COVID-19 pandemic, for at least the next twelve months from the date of filing. However, as this is a highly dynamic situation, and it is still developing rapidly, including as new strains of COVID-19 emerge, there is uncertainty surrounding our business, and our near- and long-term liquidity, financial condition and operating results could deteriorate. 
+ For other information, please see our Annual Report. 
+ 
+ 32 
+
+Table of Contents 
+
+ RESULTS OF OPERATIONS 
+ The following tables reflect our income from operations for the three and six months ended April 3, 2021 and March 28, 2020: 
+ Three months ended (dollar amounts in thousands) April 3, 2021 March 28, 2020 Change Change Net revenue 340,163 150,741 189,422 125.7 Cost of sales 191,673 81,438 110,235 135.4 Gross profit 148,490 69,303 79,187 114.3 Selling, general and administrative 30,508 29,160 1,348 4.6 Research and development 34,868 29,067 5,801 20.0 Operating expenses 65,376 58,227 7,149 12.3 Income from operations 83,114 11,076 72,038 650.4 
+ Six months ended (dollar amounts in thousands) April 3, 2021 March 28, 2020 Change Change Net revenue 608,020 295,038 312,982 106.1 Cost of sales 338,044 155,371 182,673 117.6 Gross profit 269,976 139,667 130,309 93.3 Selling, general and administrative 66,408 57,818 8,590 14.9 Research and development 66,412 57,359 9,053 15.8 Operating expenses 132,820 115,177 17,643 15.3 Income from operations 137,156 24,490 112,666 460.0 
+ 
+ Net Revenue 
+ Our net revenue for the three and six months ended April 3, 2021 increased as compared to our net revenue for the three and six months ended March 28, 2020. The increase in net revenue is primarily due to higher volume in both Capital Equipment and APS. 
+ The following tables reflect net revenue by business segment for the three and six months ended April 3, 2021 and March 28, 2020: 
+ Three months ended (dollar amounts in thousands) April 3, 2021 March 28, 2020 Change Change Net Revenue of total net revenue Net Revenue of total net revenue Capital Equipment 288,446 84.8 113,222 75.1 175,224 154.8 APS 51,717 15.2 37,519 24.9 14,198 37.8 Total net revenue 340,163 100.0 150,741 100.0 189,422 125.7 
+ Six months ended (dollar amounts in thousands) April 3, 2021 March 28, 2020 Change Change Net Revenue of total net revenue Net Revenue of total net revenue Capital Equipment 511,535 84.1 215,546 73.1 295,989 137.3 APS 96,485 15.9 79,492 26.9 16,993 21.4 Total net revenue 608,020 100.0 295,038 100.0 312,982 106.1 
+ 33 
+
+Table of Contents 
+
+ Capital Equipment 
+ For the three and six months ended April 3, 2021, the higher Capital Equipment net revenue as compared to the prior year period was primarily driven by growing demand in the general semiconductor end market for consumer applications and 5G transition, automotive end market and in the LED end market for both the adoption of the advanced LED display and sequential improvements for general lighting LED . This was partially offset by unfavorable price variance due to less favorable customer mix. 
+ APS 
+ For th e three and six months ended April 3, 2021 , the higher APS net revenue as compared to the prior year period was primarily due to higher volume in spares, services and wire bonding tools. 
+ Gross Profit Margin 
+ 
+ The following tables reflect gross profit margin as a percentage of net revenue by reportable segments for the three and six months ended April 3, 2021 and March 28, 2020: 
+ Three months ended Basis Point April 3, 2021 March 28, 2020 Change Capital Equipment 40.6 43.4 (280) APS 60.5 53.7 680 Total gross profit margin 43.7 46.0 (230) 
+ Six months ended Basis Point April 3, 2021 March 28, 2020 Change Capital Equipment 41.7 44.3 (260) APS 58.9 55.7 320 Total gross profit margin 44.4 47.3 (290) 
+ Capital Equipment 
+ For the three and six months ended April 3, 2021, the lower Capital Equipment gross profit margin as compared to the prior year period was primarily driven by less favorable product mix and additional costs related to spot purchases and expediting fees to meet higher volume of customer orders. The additional costs incurred were 4.9 million and 6.3 million, respectively, for the three and six months ended April 3, 2021. 
+ APS 
+ For the three and six months ended April 3, 2021, the higher APS gross profit margin as compared to the prior year period was primarily driven by favorable product mix. 
+ Income from Operations 
+ For the three and six months ended April 3, 2021, the higher income from operations as compared to the prior year period was primarily due to higher contribution from Capital Equipment and APS as a result of increased Capital Equipment and APS revenue, as discussed above. 
+ The following tables reflect income from operations by business segment for the three and six months ended April 3, 2021 and March 28, 2020: 
+ Three months ended (dollar amounts in thousands) April 3, 2021 March 28, 2020 Change Change Capital Equipment 66,101 4,062 62,039 1,527.3 APS 17,013 7,014 9,999 142.6 Total income from operations 83,114 11,076 72,038 650.4 
+ 34 
+
+Table of Contents 
+
+ Six months ended (dollar amounts in thousands) April 3, 2021 March 28, 2020 Change Change Capital Equipment 110,994 6,770 104,224 1,539.5 APS 26,162 17,720 8,442 47.6 Total income from operations 137,156 24,490 112,666 460.0 
+ Capital Equipment 
+ For the three and six months ended April 3, 2021, the higher Capital Equipment income from operations as compared to the prior year period was primarily due to higher demand as explained under 'Net Revenue' above. This was partially offset by higher operating expenses as explained under 'Operating Expenses' below. 
+ APS 
+ For the three and six months ended April 3, 2021, the higher APS income from operations as compared to the prior year period was primarily due to higher demand as explained under 'Net Revenue' above. This was partially offset by higher operating expenses as explained under 'Operating Expenses' below. 
+ Operating Expenses 
+ The following tables reflect operating expenses for the three and six months ended April 3, 2021 and March 28, 2020: 
+ Three months ended (dollar amounts in thousands) April 3, 2021 March 28, 2020 Change Change Selling, general administrative 30,508 29,160 1,348 4.6 Research development 34,868 29,067 5,801 20.0 Total 65,376 58,227 7,149 12.3 
+ Six months ended (dollar amounts in thousands) April 3, 2021 March 28, 2020 Change Change Selling, general administrative 66,408 57,818 8,590 14.9 Research development 66,412 57,359 9,053 15.8 Total 132,820 115,177 17,643 15.3 
+ Selling, General and Administrative SG A 
+ For the three months ended April 3, 2021, the higher SG A expenses as compared to the prior year period were primarily due to 3.7 million higher staff costs related to an increase in incentive compensation and headcount and 2.1 million higher sales r epresentative commissions. These were partially offset by 2.3 million favorable variance in foreign exchange, a 1.0 million COVID-19-related grant and wage related subsidy received from the Singapore government and 1.0 million gain on disposal of investment. 
+ For the six months ended April 3, 2021, the higher SG A expenses as compared to the prior year period were primarily due to 7.3 million higher staff costs related to an increase in incentive compensation and headcount, 3.1 million higher sales representative commissions and 0.8 million unfavorable variance in foreign exchange. These were partially offset by a 2.3 million COVID-19-related grant and wage related subsidy received from the Singapore government and 1.0 million gain on disposal of investment. 
+ Research and Development R D 
+ For the three and six months ended April 3, 2021, the higher R D expenses as compared to the prior year period were primarily due to higher staff costs related to an increase in incentive compensation and headcount. 
+ 
+ Interest Income and Expense 
+ 35 
+
+Table of Contents 
+
+ The following tables reflect interest income and interest expense for the three and six months ended April 3, 2021 and March 28, 2020: 
+ Three months ended (dollar amounts in thousands) April 3, 2021 March 28, 2020 Change Change Interest income 586 2,675 (2,089) (78.1) Interest expense (74) (661) 587 (88.8) 
+ Six months ended (dollar amounts in thousands) April 3, 2021 March 28, 2020 Change Change Interest income 1,237 5,514 (4,277) (77.6) Interest expense (106) (1,244) 1,138 91.5 
+ Interest income 
+ For the three and six months ended April 3, 2021, the lower interest income as compared to the prior year period was primarily due to lower weighted average interest rate on cash, cash equivalents and short-term investments. 
+ Interest expense 
+ For the three and s ix months ended April 3, 2021, the lower interest expense as compared to the prior year period was primarily due to lower average short-term debt. Please refer to Note 10 of Item 1 for discussion on the Overdraft Facility. 
+ Provision for Income Taxes 
+ The following table reflects the provision for income taxes and the effective tax rate for the three and six months ended April 3, 2021 and March 28, 2020: 
+ Three months ended Six months ended (dollar amounts in thousands) April 3, 2021 March 28, 2020 Change April 3, 2021 March 28, 2020 Change Provision for income taxes 12,212 1,162 11,050 18,510 3,295 15,215 Effective tax rate 14.6 8.9 5.7 13.4 11.5 1.9 
+ Please refer to Note 14 of Item 1 for discussion on the provision for income taxes and the effective tax rate for the three and six months ended April 3, 2021 as compared to the prior year period. 
+
+LIQUIDITY AND CAPITAL RESOURCES 
+ The following table reflects total cash, cash equivalents, and short-term investments as of April 3, 2021 and October 3, 2020: 
+ As of (dollar amounts in thousands) April 3, 2021 October 3, 2020 Change Cash and cash equivalents 257,333 188,127 69,206 Short-term investments 307,000 342,000 (35,000) Total cash, cash equivalents, and short-term investments 564,333 530,127 34,206 Percentage of total assets 44.9 50.3 
+ 
+ The following table reflects a summary of the Consolidated Condensed Statement of Cash Flow information for the six months ended April 3, 2021 and March 28, 2020: 
+ 36 
+
+Table of Contents 
+
+ Six months ended (in thousands) April 3, 2021 March 28, 2020 Net cash provided by operating activities 85,720 39,083 Net cash provided by/(used in) investing activities 1,999 (24,979) Net cash (used in)/provided by financing activities (19,117) 14,258 Effect of exchange rate changes on cash and cash equivalents 604 (239) Changes in cash and cash equivalents 69,206 28,123 Cash and cash equivalents, beginning of period 188,127 364,184 Cash and cash equivalents, end of period 257,333 392,307 
+ 
+ Six months ended April 3, 2021 
+ Net cash provided by operating activities was primarily due to net income of 119.7 million, non-cash adjustments to net income of 14.3 million and a net unfavorable change in operating assets and liabilities of 48.3 million. The net change in operating assets and liabilities was primarily driven by an increase in accounts and other receivable of 109.3 million, an increase in inventory of 29.3 million, and an increase in prepaid expenses and other current assets of 4.4 million. This was partially offset by an increase in accounts payable, accrued expenses and other current liabilities of 94.3 million. 
+ The increase in accounts and other receivable was due to increase in sales in the first half of fiscal 2021. The increase in inventory was due to higher manufacturing activities during second quarter of fiscal 2021 as compared to the fourth quarter of fiscal 2020 in anticipation of higher demand in subsequent periods. The higher accounts payable, accrued expenses and other current liabilities was primarily due to higher purchases and higher customer credits in the second quarter of fiscal 2021. 
+ Net cash provided by investing activities was due to net redemption of short-term investments of 35.0 million and proceeds from sale of an equity-method investment of 2.1 million. This was partially offset by the cash outflow for the Uniqarta acquisition of 26.3 million and capital expenditures of 8.9 million. 
+ Net cash used in financing activities was primarily due to common stock repurchases of 2.9 million and dividend payments of 16.1 million. 
+ Six months ended March 28, 2020 
+ Net cash provided by operating activities was primarily due to net income of 25.4 million and non-cash adjustments to net income of 21.8 million and a net unfavorable change in operating assets and liabilities of 8.1 million. The net change in operating assets and liabilities was primarily driven by an increase in inventory of 19.0 million, an increase in prepaid expenses and other current assets of 8.7 million, a decrease in income tax payable of 6.0 million, and an increase in accounts and notes receivables of 3.8 million. This was partially offset by an increase in accounts payable, accrued expenses and other current liabilities of 29.6 million. 
+ The increase in inventory was due to higher manufacturing activities during second quarter of fiscal 2020 as compared to the fourth quarter of fiscal 2019 in anticipation of higher demand in subsequent period. The increase in accounts receivable was due to higher sales in the second quarter of fiscal 2020 as compared to the fourth quarter of fiscal 2019. The decrease in income tax payable was mainly due to repayment. The higher accounts payable, accrued expenses and other current liabilities was primarily due to higher purchases, higher customer advance payment and higher accruals on incentive compensation and other bonuses in the second quarter of fiscal 2020. 
+ Net cash used by investing activities was due to net placement of short-term investments of 19.0 million, capital expenditures of 4.7 million and an equity investment of 1.3 million. 
+ Net cash provided by financing activities was primarily due to a draw-down under the Overdraft Facility of 54.7 million. The draw-down under the Overdraft Facility is to meet our short-term funding needs, while we align our cash balances with our long term capital allocation strategy. This was partially offset by common stock repurchases of 25.2 million and dividend payments of 15.2 million. 
+ Fiscal 2021 Liquidity and Capital Resource Outlook 
+ We expect our aggregate fiscal 2021 capital expenditures to be between approximately 30.0 million and 34.0 million, of which approximately 8.8 million has been made through the second quarter. Expenditures are anticipated to be primarily used 
+ 37 
+
+Table of Contents 
+
+ for R D projects, enhancements to our manufacturing operations, improvements to our information technology security, the continuing implementation of an enterprise resource planning system and leasehold improvements for our facilities. Our ability to make these expenditures will depend, in part, on our future cash flows, which are determined by our future operating performance and, therefore, subject to prevailing global macroeconomic conditions, including the impact from the COVID-19 pandemic, as well as financial, business and other factors, some of which are beyond our control. 
+ As of April 3, 2021 and October 3, 2020, approximately 512.4 million and 492.0 million of cash, cash equivalents, and short-term investments were held by the Company's foreign subsidiaries, respectively, with a portion of the cash amounts expected to be available for use in the U.S. without incurring additional U.S. income tax. 
+ The Company s international operations and capital requirements are anticipated to be funded primarily by cash generated by foreign operating activities and cash held by foreign subsidiaries. Most of the Company's operations and liquidity needs are outside the U.S. The Company s U.S. operations and capital requirements are anticipated to be funded primarily by cash generated from U.S. operating activities, and by our existing Facility Agreements. In the future, the Company may repatriate additional cash held by foreign subsidiaries that has already been subject to U.S. income taxes. We believe these sources of cash and liquidity are sufficient to meet our business needs in the U.S. for the foreseeable future including funding of U.S. operations, capital expenditures, repayment of outstanding balances under the Facility Agreements, the dividend program, and the share repurchase program as approved by the Board of Directors. 
+ We believe that our existing cash, cash equivalents, short-term investments, existing Facility Agreements, and anticipated cash flows from operations will be sufficient to meet our liquidity and capital requirements, notwithstanding the COVID-19 pandemic, for at least the next twelve months from the date of filing. Our liquidity is affected by many factors, some based on normal operations of our business and others related to global economic conditions and industry uncertainties, which we cannot predict. We also cannot predict economic conditions or industry downturns or the timing, strength or duration of recoveries. We intend to continue to use our cash for working capital needs and for general corporate purposes. 
+ In this unprecedented environment, as a result of the COVID-19 pandemic or for other reasons, we may seek, as we believe appropriate, additional debt or equity financing that would provide capital for general corporate purposes, working capital funding, additional liquidity needs or to fund future growth opportunities, including possible acquisitions. The timing and amount of potential capital requirements cannot be determined at this time and will depend on a number of factors, including the actual and projected demand for our products, semiconductor and semiconductor capital equipment industry conditions, competitive factors, and the condition of financial markets. 
+ Share Repurchase Program 
+ On August 15, 2017, the Company s Board of Directors authorized a program (the "Program") to repurchase up to 100 million in total of the Company s common stock on or before August 1, 2020. In 2018 and 2019, the Board of Directors increased the share repurchase authorization under the Program to 200 million and 300 million, respectively. On July 3, 2020, the Board of Directors increased the share repurchase authorization under the Company s existing share repurchase program by an additional 100 million to 400 million, and extended its duration through August 1, 2022. The Company has entered into a written trading plan under Rule 10b5-1 of the Exchange Act to facilitate repurchases under the Program. The Program may be suspended or discontinued at any time and is funded using the Company's available cash, cash equivalents and short-term investments. Under the Program, shares may be repurchased through open market and/or privately negotiated transactions at prices deemed appropriate by management. The timing and amount of repurchase transactions under the Program depend on market conditions as well as corporate and regulatory considerations. During the three and six months ended April 3, 2021, the Company repurchased a total of approximately 23.0 thousand and 71.0 thousand shares of common stock under the Program at a cost of approximately 1.1 million and 2.3 million, respectively. As of April 3, 2021, our remaining stock repurchase authorization under the Program was approximately 139.8 million. 
+ Dividends 
+ On March 5, 2021, and December 10, 2020, the Board of Directors declared a quarterly dividend of 0.14 per share of common stock. Dividends paid during the three and six months ended April 3, 2021 totaled 8.7 million and 16.1 million, respectively. The declaration of any future cash dividend is at the discretion of the Board of Directors and will depend on the Company's financial condition, results of operations, capital requirements, business conditions and other factors, as well as a determination that such dividends are in the best interests of the Company's shareholders. 
+ Other Obligations and Contingent Payments 
+ 38 
+
+Table of Contents 
+
+ In accordance with GAAP, certain obligations and commitments are not required to be included in the Consolidated Condensed Balance Sheets and Statements of Operations. These obligations and commitments, while entered into in the normal course of business, may have a material impact on our liquidity and are disclosed in the table below. 
+ As of April 3, 2021, the Company has deferred tax liabilities of 33.4 million and unrecognized tax benefits within the income taxes payable for uncertain tax positions of 12.9 million, inclusive of accrued interest on uncertain tax positions of 1.6 million, substantially all of which would affect our effective tax rate in the future, if recognized. It is reasonably possible that the amount of the unrecognized tax benefit with respect to certain unrecognized tax positions will increase or decrease during the next 12 months due to the expected lapse of statutes of limitation and / or settlements of tax examinations. Given the number of years and numerous matters that remain subject to examination in various tax jurisdictions, we cannot practicably estimate the timing or financial outcomes of these examinations and, therefore, these amounts are excluded from the amounts below. When estimating its tax positions, the Company considers and evaluates numerous complex areas of taxation, which may require periodic adjustments and which may not reflect the final tax liabilities. 
+ The following table presents certain payments due by the Company under contractual obligations with minimum firm commitments as of April 3, 2021: 
+ Payments due in (in thousands) Total Less than 1 year 1 - 3 years 3 - 5 years More than 5 years Inventory purchase obligations (1) 
+ 549,024 549,024 U.S. one-time transition tax payable (2) 
+ (reflected on our Consolidated Condensed Balance Sheets) 
+ 60,728 6,415 19,297 35,016 Asset retirement obligations (3) 
+ (reflected on our Consolidated Condensed Balance Sheets) 
+ 2,014 2 1,714 153 145 Total 611,766 555,441 21,011 35,169 145 
+ (1) The Company orders inventory components in the normal course of its business. A portion of these orders are non-cancellable and some orders impose varying penalties and charges in the event of cancellation. 
+ (2) Associated with the U.S. one-time transition tax on certain earnings and profits of our foreign subsidiaries in relation to the U.S Tax Cuts and Job Act. 
+ (3) Asset retirement obligations are associated with commitments to return the property to its original condition upon lease termination at various sites. 
+ Off-Balance Sheet Arrangements 
+ Bank Guarantees 
+ On November 22, 2013, the Company obtained a 5.0 million credit facility with Citibank in connection with the issuance of bank guarantees for operational purposes. As of April 3, 2021, the outstanding amount under this facility was 3.8 million. 
+ Credit facilities 
+ On February 15, 2019, the Company entered into a Facility Letter and Overdraft Agreement (collectively, the Facility Agreements with MUFG Bank, Ltd., Singapore Branch (the Bank ). The Facility Agreements provide the Company with an overdraft line of credit facility of up to 150.0 million (the Overdraft Facility for general corporate purposes. Amounts outstanding under the Overdraft Facility, including interest, are payable upon thirty days written demand by the Bank. Interest on the Overdraft Facility is calculated on a daily basis, and the applicable interest rate is calculated at the overnight U.S. Dollar LIBOR rate plus a margin of 1.5 per annum. The Overdraft Facility is an unsecured facility per the terms of the Facility Agreements. The Facility Agreements contain customary non-financial covenants, including, without limitation, covenants that restrict the Company s ability to sell or dispose of its assets, cease owning at least 51 of one of its subsidiaries (the "Subsidiary") or encumber its assets with material security interests (including any pledge of monies in the Subsidiary s cash deposit account with the Bank). The Facility Agreements also contain typical events of default, including, without limitation, non-payment of financial obligations when due, cross defaults to other material indebtedness of the Company, and breach of a representation or warranty under the Facility Agreements. As of April 3, 2021, there were no outstanding amounts under the Overdraft Facility . 
+ 39 
+
+Table of Contents 
+
+ As of April 3, 2021, we did not have any other off-balance sheet arrangements, such as contingent interests or obligations associated with variable interest entities. 
+
+Item 3. - QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK 
+ Interest Rate Risk 
+ Our available-for-sale securities, if applicable, may consist of short-term investments in highly rated debt instruments of the U.S. Government and its agencies, financial institutions, and corporations. We continually monitor our exposure to changes in interest rates and credit ratings of issuers with respect to any available-for-sale securities and target an average life to maturity of less than 18 months. Accordingly, we believe that the effects on us of changes in interest rates and credit ratings of issuers are limited and would not have a material impact on our financial condition or results of operations. 
+ Foreign Currency Risk 
+ Our international operations are exposed to changes in foreign currency exchange rates due to transactions denominated in currencies other than the location's functional currency. Our international operations are also exposed to foreign currency fluctuations that impact the remeasurement of net monetary assets of those operations whose functional currency, the U.S. dollar, differs from their respective local currencies, most notably in Israel, Singapore and Switzerland. Our U.S. operations also have foreign currency exposure due to net monetary assets denominated in currencies other than the U.S. dollar. In addition to net monetary remeasurement, we have exposures related to the translation of subsidiary financial statements from their functional currency, the local currency, into its reporting currency, the U.S. dollar, most notably in the Netherlands, China, Taiwan, Japan and Germany. 
+ Based on our foreign currency exposure as of April 3, 2021, a 10.0 fluctuation could impact our financial position, results of operations or cash flows by 2.0 to 3.0 million. Our attempts to hedge against these risks may not be successful and may result in a material adverse impact on our financial results and cash flow. 
+ We enter into foreign exchange forward contracts to hedge a portion of our forecasted foreign currency-denominated expenses in the normal course of business and, accordingly, they are not speculative in nature. These instruments generally mature within twelve months. We have foreign exchange forward contracts with a notional amount of 49.4 million outstanding as of April 3, 2021. 
+ 40 
+
+Table of Contents 
+
+ Item 4. - CONTROLS AND PROCEDURES 
+ Evaluation of Disclosure Controls and Procedures 
+ Our management, with the participation of our Chief Executive Officer and Chief Financial Officer, evaluated the effectiveness of our disclosure controls and procedures as of April 3, 2021. Based on that evaluation, the Chief Executive Officer and Chief Financial Officer concluded that, as of April 3, 2021 our disclosure controls and procedures were effective in providing reasonable assurance that the information required to be disclosed by us in reports filed under the Securities Exchange Act of 1934, as amended, is (i) recorded, processed, summarized and reported within the time periods specified in the Securities and Exchange Commission's rules and forms and (ii) accumulated and communicated to our management, including the Chief Executive Officer and Chief Financial Officer, as appropriate, to allow timely decisions regarding disclosure. 
+ Changes in Internal Control Over Financial Reporting 
+ Our management is responsible for establishing and maintaining adequate internal control over financial reporting, as such term is defined in Exchange Act Rule 13a-15(f). Our internal control over financial reporting is a process designed to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with GAAP. 
+ In connection with the evaluation by our management, including with the participation of our Chief Executive Officer and Chief Financial Officer, of our internal control over financial reporting, no changes during the three months ended April 3, 2021 were identified to have materially affected, or are reasonably likely to materially affect, our internal control over financial reporting. 
+ 
+ 41 
+
+Table of Contents 
+
+ PART II. - OTHER INFORMATION 
+ 
+ Item 1. - LEGAL PROCEEDINGS 
+ From time to time, we may be a plaintiff or defendant in cases arising out of our business. We are party to ordinary, routine litigation incidental to our business. We cannot be assured of the results of any pending or future litigation, but we do not believe resolution of any currently pending matters will have a material adverse effect on our business, financial condition or operating results. 
+
+Item 1A. - RISK FACTORS 
+ Certain Risks Related to Our Business 
+ There have been no material changes from the risk factors discussed in Part I, Item 1A, Risk Factors, of our 2020 Annual Report on Form 10-K. 
+
+42 
+
+Table of Contents 
+
+ Item 2. - UNREGISTERED SALES OF EQUITY SECURITIES AND USE OF PROCEEDS 
+ The following table summarizes the repurchases of common stock during the three months ended April 3, 2021 (in millions, except number of shares, which are reflected in thousands, and per share amounts): 
+ Period Total Number of Shares Repurchased Average Price Paid Per Share Total Number of Shares Purchased as Part of Publicly Announced Plans or Programs Approximate Dollar Value of Shares That May Yet Be Purchased Under the Plans or Programs (1) 
+ January 3, 2021 to January 30, 2021 140.9 January 31, 2021 to March 6, 2021 16 48.64 16 140.2 March 7, 2021 to April 3, 2021 7 46.36 7 139.8 For the three months ended April 3, 2021 23 23 
+ (1) On August 15, 2017, the Company's Board of Directors authorized the Program to repurchase up to 100 million in total of the Company's common stock on or before August 1, 2020. In 2018 and 2019, the Board of Directors increased the share repurchase authorization under the Program to 200 million and 300 million, respectively. On July 3, 2020, the Board of Directors increased the share repurchase authorization under the Company s existing share repurchase program by an additional 100 million to 400 million, and extended its duration through August 1, 2022. The Company may repurchase shares of its common stock through open market and privately negotiated transactions at prices deemed appropriate by management. The Company has entered into a written trading plan under Rule 10b5-1 of the Exchange Act to facilitate repurchases under the Program. The Program may be suspended or discontinued at any time and will be funded using the Company's available cash, cash equivalents and short-term investments. The timing and amount of repurchase transactions under the Program depend on market conditions as well as corporate and regulatory considerations. 
+
+43 
+
+Table of Contents 
+
+ Item 6. - 
+ Exhibit No. Description 3.1 The Company's Amended and Restated Articles of Incorporation, dated December 5, 2007, are incorporated herein by reference to Exhibit 3(i) to the Company's Annual Report on Form 10-K for the fiscal year ended September 29, 2007, SEC file number 000-00121. 
+ 3.2 The Company's Amended and Restated By-Laws, dated October 22, 2015, are incorporated herein by reference to Exhibit 3(ii) to the Company's Current Report on Form 8-K dated October 22, 2015, SEC file number 000-00121. 
+ 10.1 The Company's 2021 Omnibus Incentive Plan is incorporated herein by reference to the Company's Proxy Statement on Schedule 14A for the annual meeting of shareholders on March 4, 2021 
+ 31.1 Certification of Fusen Chen, Chief Executive Officer of Kulicke and Soffa Industries, Inc., pursuant to Rule 13a-14(a) or Rule15d-14(a) of the Exchange Act as adopted pursuant to section 302 of the Sarbanes-Oxley Act of 2002. 
+ 31.2 Certification of Lester Wong, Chief Financial Officer of Kulicke and Soffa Industries, Inc., pursuant to Rule 13a-14(a) or Rule 15d-14(a) of the Exchange Act as adopted pursuant to section 302 of the Sarbanes-Oxley Act of 2002. 
+ 32.1 Certification of Fusen Chen, Chief Executive Officer of Kulicke and Soffa Industries, Inc., pursuant to 18 U.S.C. Section 1350 as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002. 
+ 32.2 Certification of Lester Wong, Chief Financial Officer of Kulicke and Soffa Industries, Inc., pursuant to 18 U.S.C. Section 1350 as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002. 
+ 101.INS Inline XBRL Instance Document. 101.SCH Inline XBRL Taxonomy Extension Schema Document. 101.CAL Inline XBRL Taxonomy Extension Calculation Linkbase Document. 101.DEF Inline XBRL Taxonomy Extension Definition Linkbase Document. 101.LAB Inline XBRL Taxonomy Extension Label Linkbase Document. 101.PRE Inline XBRL Taxonomy Extension Presentation Linkbase Document. 104 Cover Page Interactive Data File (formatted as Inline XBRL and contained in Exhibit 101.INS). This exhibit shall not be deemed "filed" for purposes of Section 18 of the Exchange Act or otherwise subject to the liability of that Section. Such exhibit shall not be deemed incorporated into any filing under the Securities Act or the Exchange Act. 
+ 
+ 44 
+
+Table of Contents 
+
+ SIGNATURES 
+ 
+ Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized. 
+ KULICKE AND SOFFA INDUSTRIES, INC. Date: May 6, 2021 By: /s/ LESTER WONG Lester Wong Senior Vice President and Chief Financial Officer (principal financial officer and principal accounting officer) 
+ 
+ 45 
+
+<EX-10.1>
+ 2
+ aq22021ex101ks2021omnibusp.htm
+ EX-10.1
+
+Document 
+
+KULICKE AND SOFFA INDUSTRIES, INC. 
+ 2021 Omnibus Incentive Plan 
+
+A-1 
+
+KULICKE AND SOFFA INDUSTRIES, INC. 
+ 2021 OMNIBUS INCENTIVE PLAN 
+ 
+ I. INTRODUCTION 
+ 1.1 Purposes . The purposes of the Kulicke and Soffa Industries, Inc. 2021 Omnibus Incentive Plan (as amended from time to time, the Plan are (i) to align the interests of the Company s stockholders and the recipients of Awards under the Plan by increasing the proprietary interest of such recipients in the Company s growth and success, (ii) to advance the interests of the Company by attracting and retaining officers, other employees, Non-Employee Directors and consultants and (iii) to motivate such persons to act in the long-term best interests of the Company and its stockholders. 
+ 1.2 Certain Definitions . 
+ (a) Award shall mean any options to purchase Shares in the form of Incentive Stock Options or Nonqualified Stock Options, SARs in the form of Tandem SARs or Free-Standing SARs, Stock Awards in the form of Restricted Stock, Restricted Stock Units or Unrestricted Stock, Performance Awards and Other Cash-Based Awards granted under the Plan. 
+ (b) Award Agreement shall mean any written or electronic agreement, contract or other instrument or document evidencing any Award granted under the Plan, which may, but need not, be executed or acknowledged by the eligible person to whom it has been so granted. Each Award Agreement shall be subject to the terms and conditions of the Plan. 
+ (c) Blackout Period shall have the meaning set forth in Section 3.1(b) . 
+ (d) Board shall mean the Board of Directors of the Company. 
+ (e) Change in Control shall have the meaning set forth in Section 7.7(b) . 
+ (f) Code shall mean the Internal Revenue Code of 1986, as amended, and any successor Code, and related rules, regulations and interpretations. 
+ (g) Committee shall mean the Management Development and Compensation Committee of the Board, or a subcommittee thereof, consisting of two or more members of the Board, each of whom is intended to be (i) a Non-Employee Director within the meaning of Rule 16b-3 under the Exchange Act and (ii) independent within the meaning of Rule 4200(a)(15) of the Marketplace Rules of the Nasdaq Stock Market, Inc. (Nasdaq) regarding independent directors or, if Shares are not listed on the Nasdaq , within the meaning of the rules of the principal stock exchange on which Shares are then traded. Additionally, the Committee in regard to exercising any authority and responsibility to grant awards under the Plan to participants who are Non-Employee Directors and to make or take, as the case may be, all required or appropriate determinations and actions in respect of such grants shall mean the Management Development and Compensation Committee of the Board or another Board committee and or the Board itself, if so determined by the Board. 
+ (h) Common Stock shall mean the common stock, no par value per share, of the Company, and all rights appurtenant thereto. 
+ (i) Company shall mean Kulicke and Soffa Industries, Inc., a Pennsylvania corporation, and its successors by operation of law. 
+ (j) Corporate Event shall have the meaning set forth in Section 7.7(b)(iv) . 
+ (k) Exchange Act shall mean the Securities Exchange Act of 1934, as amended. 
+ (l) Fair Market Value shall mean, unless otherwise determined by the Committee from time to time, the closing transaction price of a Share as reported on the Nasdaq on the date as of which such value is being determined or, if Shares are not listed on the Nasdaq , the closing transaction price of a Share on the principal national stock exchange on which Shares are traded on the date as of which such value is being determined or, if 
+ A-2 
+
+there shall be no reported transactions for such date, on the next preceding date for which transactions were reported provided , however , that if Shares are not listed on a national stock exchange or if Fair Market Value for any date cannot be so determined, Fair Market Value shall be determined by the Committee by whatever means or method as the Committee, in the good faith exercise of its discretion, shall at such time deem appropriate and in compliance with Section 409A of the Code. 
+ (m) Free-Standing SAR shall mean an SAR which is not granted in tandem with, or by reference to, an option, which entitles the holder thereof to receive, upon exercise, Shares (which may be Restricted Stock) or, to the extent provided in the applicable Award Agreement, cash or a combination thereof, with an aggregate value equal to the excess of the Fair Market Value of one Share on the date of exercise over the base price of such SAR, multiplied by the number of such SARs which are exercised. 
+ (n) Incentive Stock Option shall mean an option to purchase Shares that meets the requirements of Section 422 of the Code, or any successor provision, which is intended by the Committee to constitute an Incentive Stock Option. 
+ (o) Incumbent Directors shall have the meaning set forth in Section 7.7(b)(iii) . 
+ (p) Non-Employee Director shall mean any director of the Company who is not an officer or employee of the Company or any Subsidiary. 
+ (q) Nonqualified Stock Option shall mean an option to purchase Shares which is not an Incentive Stock Option. 
+ (r) Other Cash-based Award shall mean a cash-denominated award granted under Section 6.1 of the Plan. 
+ (s) Performance Award shall mean a right to receive an amount of cash, Common Stock, or a combination of both, contingent upon the attainment of specified Performance Measures within a specified Performance Period. 
+ (t) Performance Measures shall mean the criteria and objectives, established by the Committee, which shall be satisfied or met (i) as a condition to the grant or exercisability of all or a portion of an option or SAR or (ii) during the applicable Restriction Period or Performance Period as a condition to the vesting of the holder s interest, in the case of a Restricted Stock Award, of the Shares subject to such Award, or, in the case of a Restricted Stock Unit Award or Performance Award, to the holder s receipt of the Shares subject to such Award or of payment with respect to such Award. Such criteria and objectives may be one or more of the following corporate-wide or subsidiary, division, operating unit or individual measures, including without limitation return on invested capital, return on assets, return on net assets, asset turnover, return on equity, return on capital, market price appreciation of Shares, economic value added, total stockholder return, net income, pre-tax income, earnings per share, operating profit margin, net income margin, sales margin, cash flow, market share, inventory turnover, sales growth, net revenue per shipment, net revenue growth, capacity utilization, increase in customer base, environmental health and safety, diversity strategic business criteria and or any other objective or subjective measures determined by the Committee. Each such goal may be expressed on an absolute or relative basis and may include comparisons based on current internal targets, the past performance of the Company (including the performance of one or more subsidiaries, divisions, or operating units) or the past or current performance of other companies (or a combination of such past and current performance). The applicable performance measures may be applied on a pre- or post-tax basis and may be adjusted to include or exclude one or more components of any performance measure, including, without limitation, restructuring or impairment charges, acquisitions or dispositions, foreign exchange, debt refinancing costs, extraordinary or noncash items, unusual, nonrecurring or one-time events affecting the Company or its financial statements or changes in law or accounting principles. 
+ (u) Performance Period shall mean any period designated by the Committee during which (i) the Performance Measures applicable to an Award shall be measured and (ii) the conditions to vesting applicable to an Award shall remain in effect. 
+ (v) Restricted Stock shall mean Shares which are subject to a Restriction Period and which may, in addition thereto, be subject to the attainment of specified Performance Measures within a specified Performance Period. 
+ A-3 
+
+(w) Restricted Stock Award shall mean an award of Restricted Stock under the Plan. 
+ (x) Restricted Stock Unit shall mean a right to receive one Share or, in lieu thereof, the Fair Market Value of such Share in cash, which shall be contingent upon the expiration of a specified Restriction Period and which may, in addition thereto, be contingent upon the attainment of specified Performance Measures within a specified Performance Period. 
+ (y) Restricted Stock Unit Award shall mean an award of Restricted Stock Units under the Plan. 
+ (z) Restriction Period shall mean any period designated by the Committee during which (i) the Common Stock subject to a Restricted Stock Award may not be sold, transferred, assigned, pledged, hypothecated or otherwise encumbered or disposed of, except as provided in the Plan or the Award Agreement relating to such Award, or (ii) the conditions to vesting applicable to a Restricted Stock Unit Award shall remain in effect. 
+ (aa) SAR shall mean a stock appreciation right which may be a Free-Standing SAR or a Tandem SAR. 
+ (bb) Shares shall mean the shares of the Company s Common Stock. If there has been an adjustment or substitution pursuant to Section 7.6 , the term Shares shall also include any shares of stock or other securities that are substituted for the Common Stock or into which the Common Stock is adjusted pursuant to Section 7.6 . 
+ (cc) Stock Award shall mean a Restricted Stock Award, Restricted Stock Unit Award or Unrestricted Stock Award. 
+ (dd) Subsidiary shall mean any corporation, limited liability company, partnership, joint venture or similar entity in which the Company owns, directly or indirectly, an equity interest possessing more than 50 of the combined voting power of the total outstanding equity interests of such entity. 
+ (ee) Substitute Award shall mean an Award granted under the Plan upon the assumption of, or in substitution for, outstanding equity awards previously granted by a company or other entity in connection with a corporate transaction, including a merger, combination, consolidation or acquisition of property or stock. 
+ (ff) Tandem SAR shall mean a SAR which is granted in tandem with, or by reference to, an option (including a Nonqualified Stock Option granted prior to the date of grant of the SAR), which entitles the holder thereof to receive, upon exercise of such SAR and surrender for cancellation of all or a portion of such option, Shares (which may be Restricted Stock) or, to the extent provided in the applicable Award Agreement, cash or a combination thereof, with an aggregate value equal to the excess of the Fair Market Value of one Share on the date of exercise over the base price of such SAR, multiplied by the number of Shares subject to such option, or portion thereof, which is surrendered. 
+ (gg) Tax Date shall have the meaning set forth in Section 7.4 . 
+ (hh) Ten Percent Holder shall have the meaning set forth in Section 3.1(a) . 
+ (ii) Unrestricted Stock shall mean Shares which are not subject to a Restriction Period or Performance Measures. 
+ (jj) Unrestricted Stock Award shall mean an Award of Unrestricted Stock under the Plan. 
+ 1.3 Administration. This Plan shall be administered by the Committee. The Committee shall have full power and authority, subject to the provisions of the Plan and subject to such orders or resolutions not inconsistent with the provisions of the Plan as may from time to time be adopted by the Board, to (i) select eligible persons to whom Awards may from time to time be granted (ii) determine the type or types of Awards, not inconsistent with the provisions of the Plan, to be granted to each participant (iii) determine the number of Shares or dollar value to be covered by each Award (iv) determine the terms and conditions, not inconsistent with the provisions of the Plan, of any Award (v) determine whether, to what extent, and under what circumstances Awards may be settled in cash, Shares, or other property (vi) determine whether, to what extent, and under what circumstances cash, Shares, other property, and other amounts payable with respect to an Award made under the Plan shall be accelerated or deferred (vii) determine whether, to what extent, and under what circumstances any Award shall be canceled or suspended (viii) interpret and administer the Plan and any instrument or agreement entered into under or in connection with the Plan, including any Award Agreement (ix) correct any defect, supply any omission, or reconcile any inconsistency 
+ A-4 
+
+in the Plan or any Award in the manner, and to the extent, that the Committee shall deem desirable to carry it into effect (x) establish such rules and regulations and appoint such agents as it shall deem appropriate for the proper administration of the Plan (xi) determine whether any Award (other than a Stock Option or SAR) will have dividend equivalents and (xii) make any other determination and take any other action that the Committee deems necessary or desirable for administration of the Plan. The Committee shall, subject to the terms of the Plan, interpret the Plan and the application thereof, establish rules and regulations it deems necessary or desirable for the administration of the Plan and may impose, incidental to the grant of an Award, conditions with respect to the Award, such as limiting competitive employment or other activities. All such interpretations, rules, regulations and conditions shall be conclusive and binding on all parties. The Committee may delegate some or all of its power and authority hereunder to the Board or, subject to applicable law, to the Chief Executive Officer or such other executive officer of the Company as the Committee deems appropriate provided, however , that the Committee may not delegate its power and authority to the Chief Executive Officer or other executive officer of the Company with regard to the selection for participation in the Plan of an officer, director or other person subject to Section 16 of the Exchange Act or decisions concerning the timing, pricing or amount of an Award to such an officer, director or other person. No member of the Board or Committee, and neither the Chief Executive Officer nor any other officer to whom the Committee delegates any of its power and authority hereunder, shall be liable for any act, omission, interpretation, construction or determination made by such person(s) in connection with the Plan in good faith, and the members of the Board and the Committee and the Chief Executive Officer or other officer shall be entitled to indemnification and reimbursement by the Company in respect of any claim, loss, damage or expense (including attorneys fees) arising therefrom to the full extent permitted by law and under any directors and officers liability insurance that may be in effect from time to time. 
+ 1.4 Eligibility. Participants in the Plan shall consist of such officers, other employees, Non-Employee Directors and consultants and persons expected to become officers, other employees, Non-Employee Directors and consultants of the Company and its Subsidiaries as the Committee in its sole discretion may select from time to time. The Committee s selection of a person to participate in the Plan at any time shall not require the Committee to select such person to participate in the Plan at any other time. Except as provided otherwise in an Award Agreement, for purposes of the Plan, references to employment by the Company shall also mean employment by a Subsidiary, and references to employment shall include service as a Non-Employee Director or consultant. The Committee shall determine, in its sole discretion, the extent to which a participant shall be considered employed during any periods during which such participant is on a leave of absence. 
+ 1.5 Treatment of Dividends and Dividend Equivalents on Unvested Awards . Notwithstanding any other provision of the Plan to the contrary, with respect to any Award that provides for or includes a right to dividends or dividend equivalents, if dividends are declared during the period that an equity Award is outstanding, such dividends (or dividend equivalents) shall either (i) not be paid or credited with respect to such Award or (ii) be accumulated but remain subject to vesting requirement(s) to the same extent as the applicable Award and shall only be paid at the time or times such vesting requirement(s) are satisfied. For the avoidance of doubt, in no event shall dividends or dividend equivalents be paid with respect to Options or Stock Appreciation Rights. 
+ 
+ II. SHARES AVAILABLE 
+ 2.1 Initial Share Reserve . Subject to adjustment as provided in Section 7.6 and Section 2.2 below, 4,450,000 Shares shall initially be available for all Awards under the Plan, less one (1) Share for every one (1) Share granted under the 2017 Equity Plan after October 3, 2020. Subject to adjustment as provided in Section 7.6, no more than 4,450,000 Shares in the aggregate may be issued under the Plan in connection with Incentive Stock Options. After the effective date of the Plan (as provided in Section 7.1), no awards may be granted under the 2017 Equity Plan however, any awards under the 2017 Equity Plan that are outstanding as of the effective date shall remain subject to the terms and conditions of, and continue to be governed by, such Prior Plan. 
+ A-5 
+
+2.2 Permitted Addbacks to Share Reserve . If (i) any Shares subject to an Award are forfeited, an Award expires or an Award is settled for cash (in whole or in part), or (ii) after October 3, 2020 any Shares subject to an Award under the 2017 Equity Plan are forfeited, an award under the 2017 Equity Plan expires or is settled for cash (in whole or in part), then in each such case the Shares subject to such Award or award under the 2017 Equity Plan shall, to the extent of such forfeiture, expiration or cash settlement, be added to the shares available for Awards under the Plan. In the event that withholding tax liabilities arising from an Award other than an Option or SAR or, after October 3, 2020, an award other than an option or stock appreciation right under the 2017 Equity Plan are satisfied by the tendering of Shares (either actually or by attestation) or by the withholding of Shares by the Company, the Shares so tendered or withheld shall be added to the Shares available for Awards under the Plan provided, however , that Shares that again become available for issuance under the Plan pursuant to the preceding clause (ii) shall not increase the numbers of shares that may be granted under the Plan in connection with Incentive Stock Options. 
+ 2.3 No Recycling of Options or SARs . Notwithstanding anything to the contrary contained herein, the following Shares shall not be added to the Shares available for Awards under Section 2.1 (i) Shares tendered by the Participant or withheld by the Company in payment of the purchase price of an Option or, after October 3, 2020, an option under the 2017 Equity Plan, (ii) Shares tendered by the Participant or withheld by the Company to satisfy any tax withholding obligation with respect to Options or SARs or, after October 3, 2020, options or stock appreciation rights under the 2017 Equity Plan, (iii) Shares subject to a SAR or, after October 3, 2020, a stock appreciation right under the 2017 Equity Plan that are not issued in connection with its stock settlement on exercise thereof, and (iv) Shares reacquired by the Company on the open market or otherwise using cash proceeds from the exercise of Options or, after October 3, 2020, options under the 2017 Equity Plan. 
+ 2.4 Substitute Awards . Substitute Awards shall not reduce the Shares authorized for grant under the Plan, nor shall Shares subject to a Substitute Award be added to the Shares available for Awards under the Plan. Additionally, in the event that a company acquired by the Company or any Subsidiary or with which the Company or any Subsidiary combines has shares available under a pre-existing plan approved by stockholders and not adopted in contemplation of such acquisition or combination, the shares available for grant pursuant to the terms of such pre-existing plan (as adjusted, to the extent appropriate, using the exchange ratio or other adjustment or valuation ratio or formula used in such acquisition or combination to determine the consideration payable to the holders of common stock of the entities party to such acquisition or combination) may be used for Awards under the Plan and shall not reduce the Shares authorized for grant under the Plan (and Shares subject to such Awards shall not be added to the Shares available for Awards under the Plan as provided in Section 2.1 above) provided that Awards using such available shares shall not be made after the date awards or grants could have been made under the terms of the pre-existing plan, absent the acquisition or combination, and shall only be made to individuals who were not Employees or Non-Employee Directors prior to such acquisition or combination. 
+ 2.5 Source of Shares . Shares of Common Stock to be delivered under the Plan shall be made available from authorized and unissued Shares, or authorized and issued Shares reacquired and held as treasury shares or otherwise or a combination thereof. 
+ 2.6 Non-Employee Director Compensation Limit . The maximum number of Shares subject to Awards granted during a single fiscal year to any Non-Employee Director, taken together with any cash fees paid during the fiscal year to the Non-Employee Director in respect of such Director s service as a member of the Board during such year (including service as a member or chair of any committees of the Board), shall not exceed 500,000 in total value (calculating the value of any such Awards based on the grant date fair value of such Awards for financial reporting purposes). The independent members of the Board may make exceptions to this limit for a non-executive chair of the Board, provided that the Non-Employee Director receiving such additional compensation may not participate in the decision to award such compensation. 
+
+III. STOCK OPTIONS AND STOCK APPRECIATION RIGHTS 
+ 3.1 Stock Options. The Committee may, in its discretion, grant options to purchase Shares to such eligible persons as may be selected by the Committee. Each option, or portion thereof, that is not an Incentive Stock Option shall be a Nonqualified Stock Option. To the extent that the aggregate Fair Market Value (determined as of the date 
+ A-6 
+
+of grant) of Shares with respect to which options designated as Incentive Stock Options are exercisable for the first time by a participant during any calendar year (under the Plan or any other plan of the Company, or any parent or Subsidiary) exceeds the amount (currently 100,000) established by the Code, such options shall constitute Nonqualified Stock Options. Options shall be subject to the following terms and conditions and shall contain such additional terms and conditions, not inconsistent with the terms of the Plan, as the Committee shall deem advisable 
+ (a) Number of Shares and Purchase Price. The number of Shares subject to an option and the purchase price per share purchasable upon exercise of the option shall be determined by the Committee provided , however , that the purchase price per share purchasable upon exercise of an option shall not be less than 100 of the Fair Market Value of a Share on the date of grant of such option provided further , that if an Incentive Stock Option shall be granted to any person who, at the time such option is granted, owns capital stock possessing more than 10 percent of the total combined voting power of all classes of capital stock of the Company (or of any parent or Subsidiary) (a Ten Percent Holder ), the purchase price per share shall not be less than the price (currently 110 of Fair Market Value) required by the Code in order to constitute an Incentive Stock Option. Notwithstanding the foregoing, in the case of an option that is a Substitute Award, the purchase price per share of the shares subject to such option may be less than 100 of the Fair Market Value per share on the date of grant. 
+ (b) Option Period and Exercisability . The period during which an option may be exercised shall be determined by the Committee provided , however , that no option shall be exercised later than ten (10) years after its date of grant provided further , that if an Incentive Stock Option shall be granted to a Ten Percent Holder, such option shall not be exercised later than five years after its date of grant provided , further , that with respect to a Nonqualified Stock Option, if the expiration date of such option occurs during any period when the participant is prohibited from trading in securities of the Company pursuant to the Company s insider trading policy or other policy of the Company or during a period when the exercise of such option would violate applicable securities laws (each, a Blackout Period ), then the period during which such option shall be exercisable shall be extended to the date that is 30 days after the expiration of such Blackout Period (to the extent permitted by Section 409A of the Code) provided, further that no extension will be made if the grant price of such Option at the date the initial term would otherwise expire is above the Fair Market Value. The Committee may, in its discretion, establish Performance Measures which shall be satisfied or met as a condition to the grant of an option or to the exercisability of all or a portion of an option. The Committee shall determine whether an option shall become exercisable in cumulative or non-cumulative installments and in part or in full at any time. An exercisable option, or portion thereof, may be exercised only with respect to whole Shares. 
+ (c) Method of Exercise . An option may be exercised (i) by giving written notice to the Company specifying the number of whole Shares to be purchased and accompanying such notice with payment therefor in full (or arrangement made for such payment to the Company s satisfaction) either (A) in cash, (B) by delivery (either actual delivery or by attestation procedures established by the Company) of Shares having a Fair Market Value, determined as of the date of exercise, equal to the aggregate purchase price payable by reason of such exercise, (C) authorizing the Company to withhold whole Shares which would otherwise be delivered having an aggregate Fair Market Value, determined as of the date of exercise, equal to the amount necessary to satisfy such obligation, (D) in cash by a broker-dealer acceptable to the Company to whom the optionee has submitted an irrevocable notice of exercise or (E) a combination of (A), (B) and (C), in each case to the extent set forth in the Award Agreement relating to the option, (ii) if applicable, by surrendering to the Company any Tandem SARs which are cancelled by reason of the exercise of the option and (iii) by executing such documents as the Company may reasonably request. No Shares shall be issued and no certificate representing Shares shall be delivered until the full purchase price therefor and any withholding taxes thereon, as described in Section 7.4 , have been paid (or arrangement made for such payment to the Company s satisfaction). 
+ 3.2 Stock Appreciation Rights . The Committee may, in its discretion, grant SARs to such eligible persons as may be selected by the Committee. The Award Agreement relating to an SAR shall specify whether the SAR is a Tandem SAR or a Free-Standing SAR. SARs shall be subject to the following terms and conditions and shall contain such additional terms and conditions, not inconsistent with the terms of the Plan, as the Committee shall deem advisable 
+ A-7 
+
+(a) Number of SARs and Base Price . The number of SARs subject to an Award shall be determined by the Committee. Any Tandem SAR related to an Incentive Stock Option shall be granted at the same time that such Incentive Stock Option is granted. The base price of a Tandem SAR shall be the purchase price per share of the related option. The base price of a Free-Standing SAR shall be determined by the Committee provided , however , that such base price shall not be less than 100 of the Fair Market Value of a Share on the date of grant of such SAR (or, if earlier, the date of grant of the option for which the SAR is exchanged or substituted). 
+ Notwithstanding the foregoing, in the case of an SAR that is a Substitute Award, the base price per share of the shares subject to such SAR may be less than 100 of the Fair Market Value per share on the date of grant, provided, that the excess of (a) the aggregate Fair Market Value (as of the date such Substitute Award is granted) of the shares subject to the Substitute Award, over (b) the aggregate base price thereof does not exceed the excess of (x) the aggregate fair market value (as of the time immediately preceding the transaction giving rise to the Substitute Award, such fair market value to be determined by the Committee) of the shares of the predecessor company or other entity that were subject to the grant assumed or substituted for by the Company, over (y) the aggregate base price of such shares. 
+ (b) Exercise Period and Exercisability . The period for the exercise of an SAR shall be determined by the Committee provided , however , that no SAR shall be exercised later than ten (10) years after its date of grant provided further , that no Tandem SAR shall be exercised later than the expiration, cancellation, forfeiture or other termination of the related option provided , further , if the expiration date of an SAR occurs during any Blackout Period, then the period during which such SAR shall be exercisable shall be extended to the date that is 30 days after the expiration of such Blackout Period (to the extent permitted by Section 409A of the Code) provided, further that no extension will be made if the grant price of such SAR at the date the initial term would otherwise expire is above the Fair Market Value. The Committee may, in its discretion, establish Performance Measures which shall be satisfied or met as a condition to the grant of an SAR or to the exercisability of all or a portion of an SAR. The Committee shall determine whether an SAR may be exercised in cumulative or non-cumulative installments and in part or in full at any time. An exercisable SAR, or portion thereof, may be exercised, in the case of a Tandem SAR, only with respect to whole Shares and, in the case of a Free-Standing SAR, only with respect to a whole number of SARs. If an SAR is exercised for shares of Restricted Stock, a certificate or certificates representing such Restricted Stock shall be issued in accordance with Section 4.3(c) , or such shares shall be transferred to the holder in book entry form with restrictions on the shares duly noted, and the holder of such Restricted Stock shall have such rights of a stockholder of the Company as determined pursuant to Section 4.3(d) . Prior to the exercise of a stock-settled SAR, the holder of such SAR shall have no rights as a stockholder of the Company with respect to the Shares subject to such SAR. 
+ (c) Method of Exercise . A Tandem SAR may be exercised (i) by giving written notice to the Company specifying the number of whole SARs which are being exercised, (ii) by surrendering to the Company any options which are cancelled by reason of the exercise of the Tandem SAR and (iii) by executing such documents as the Company may reasonably request. A Free-Standing SAR may be exercised (A) by giving written notice to the Company specifying the whole number of SARs which are being exercised and (B) by executing such documents as the Company may reasonably request. No Shares shall be issued and no certificate representing Shares shall be delivered until any withholding taxes thereon, as described in Section 7.4 , have been paid (or arrangement made for such payment to the Company s satisfaction). 
+ 3.3 Termination of Employment or Service . All of the terms relating to the exercise, cancellation or other disposition of an option or SAR (i) upon a termination of employment with or service to the Company of the holder of such option or SAR, as the case may be, whether by reason of disability, retirement, death or any other reason, or (ii) during a paid or unpaid leave of absence, shall be determined by the Committee and set forth in the applicable Award Agreement. 
+ 3.4 No Repricing . The Committee may not without the approval of the stockholders of the Company, (i) reduce the purchase price or base price of any previously granted option or SAR, (ii) cancel any previously granted option or SAR in exchange for another option or SAR with a lower purchase price or base price or (iii) cancel any previously granted option or SAR in exchange for cash or another Award if the purchase price of such option or the base price of such SAR exceeds the Fair Market Value of a Share on the date of such cancellation, in each case, other than in connection with a Change in Control or the adjustment provisions set forth in Section 7.6 . 
+ A-8 
+
+3.5 Dividend Equivalents . Notwithstanding anything in an Award Agreement to the contrary, the holder of an option or SAR shall not be entitled to receive dividend equivalents with respect to the number of Shares subject to such option or SAR. 
+ 
+ IV. STOCK AWARDS 
+ 4.1 Stock Awards . The Committee may, in its discretion, grant Stock Awards to such eligible persons as may be selected by the Committee. The Award Agreement relating to a Stock Award shall specify whether the Stock Award is a Restricted Stock Award, Restricted Stock Unit Award or Unrestricted Stock Award. 
+ 4.2 Terms of Unrestricted Stock Awards . The number of Shares subject to an Unrestricted Stock Award shall be determined by the Committee. Unrestricted Stock Awards shall not be subject to any Restriction Periods or Performance Measures. Upon the grant of an Unrestricted Stock Award, subject to the Company s right to require payment of any taxes in accordance with Section 7.4 , a certificate or certificates evidencing ownership of the requisite number of Shares shall be delivered to the holder of such Award or such shares shall be transferred to the holder in book entry form. 
+ 4.3 Terms of Restricted Stock Awards . Restricted Stock Awards shall be subject to the following terms and conditions and shall contain such additional terms and conditions, not inconsistent with the terms of the Plan, as the Committee shall deem advisable. 
+ (a) Number of Shares and Other Terms . The number of Shares subject to a Restricted Stock Award and the Restriction Period, Performance Period (if any) and Performance Measures (if any) applicable to a Restricted Stock Award shall be determined by the Committee. 
+ (b) Vesting and Forfeiture . The Award Agreement relating to a Restricted Stock Award shall provide, in the manner determined by the Committee, in its discretion, and subject to the provisions of the Plan, for the vesting of the Shares subject to such Award (i) if the holder of such Award remains continuously in the employment of the Company during the specified Restriction Period and (ii) if specified Performance Measures (if any) are satisfied or met during a specified Performance Period, and for the forfeiture of the Shares subject to such Award (x) if the holder of such Award does not remain continuously in the employment of the Company during the specified Restriction Period or (y) if specified Performance Measures (if any) are not satisfied or met during a specified Performance Period. 
+ (c) Stock Issuance . During the Restriction Period, the shares of Restricted Stock shall be held by a custodian in book entry form with restrictions on such shares duly noted or, alternatively, a certificate or certificates representing a Restricted Stock Award shall be registered in the holder s name and may bear a legend, in addition to any legend which may be required pursuant to Section 7.5 , indicating that the ownership of the Shares represented by such certificate is subject to the restrictions, terms and conditions of the Plan and the Award Agreement relating to the Restricted Stock Award. All such certificates shall be deposited with the Company, together with stock powers or other instruments of assignment (including a power of attorney), each endorsed in blank with a guarantee of signature if deemed necessary or appropriate, which would permit transfer to the Company of all or a portion of the Shares subject to the Restricted Stock Award in the event such Award is forfeited in whole or in part. Upon termination of any applicable Restriction Period (and the satisfaction or attainment of applicable Performance Measures), subject to the Company s right to require payment of any taxes in accordance with Section 7.4 , the restrictions shall be removed from the requisite number of any Shares that are held in book entry form, and all certificates evidencing ownership of the requisite number of Shares shall be delivered to the holder of such Award. 
+ (d) Rights with Respect to Restricted Stock Awards . Unless otherwise set forth in the Award Agreement relating to a Restricted Stock Award, and subject to the terms and conditions of a Restricted Stock Award, the holder of such Award shall have all rights as a stockholder of the Company, including, but not limited to, voting rights, the right to receive dividends subject to Section 1.5 , and the right to participate in any capital adjustment applicable to all holders of Common Stock. 
+ 4.4 Terms of Restricted Stock Unit Awards . Restricted Stock Unit Awards shall be subject to the following terms and conditions and shall contain such additional terms and conditions, not inconsistent with the terms of the Plan, as the Committee shall deem advisable. 
+ A-9 
+
+(a) Number of Shares and Other Terms . The number of Shares subject to a Restricted Stock Unit Award and the Restriction Period, Performance Period (if any) and Performance Measures (if any) applicable to a Restricted Stock Unit Award shall be determined by the Committee. 
+ (b) Vesting and Forfeiture . The Award Agreement relating to a Restricted Stock Unit Award shall provide, in the manner determined by the Committee, in its discretion, and subject to the provisions of the Plan, for the vesting of such Restricted Stock Unit Award (i) if the holder of such Award remains continuously in the employment of the Company during the specified Restriction Period and (ii) if specified Performance Measures (if any) are satisfied or met during a specified Performance Period, and for the forfeiture of the Shares subject to such Award (x) if the holder of such Award does not remain continuously in the employment of the Company during the specified Restriction Period or (y) if specified Performance Measures (if any) are not satisfied or met during a specified Performance Period. 
+ (c) Settlement of Vested Restricted Stock Unit Awards . The Award Agreement relating to a Restricted Stock Unit Award shall specify (i) whether such Award may be settled in Shares or cash or a combination thereof and (ii) subject to Section 1.5 , whether the holder thereof shall be entitled to receive dividend equivalents, and, if determined by the Committee, interest on, or the deemed reinvestment of, any deferred dividend equivalents, with respect to the number of Shares subject to such Award. Prior to the settlement of a Restricted Stock Unit Award, the holder of such Award shall have no rights as a stockholder of the Company with respect to the Shares subject to such Award. 
+ 4.5 Termination of Employment or Service . All of the terms relating to the satisfaction of Performance Measures and the termination of the Restriction Period or Performance Period relating to a Stock Award, or any forfeiture and cancellation of such Award (i) upon a termination of employment with or service to the Company of the holder of such Award, whether by reason of disability, retirement, death or any other reason, or (ii) during a paid or unpaid leave of absence, shall be determined by the Committee and set forth in the applicable Award Agreement. 
+ V. PERFORMANCE AWARDS 
+ 5.1 Performance Awards . The Committee may, in its discretion, grant Performance Awards to such eligible persons as may be selected by the Committee. 
+ 
+ 5.2 Terms of Performance Awards . Performance Awards shall be subject to the following terms and conditions and shall contain such additional terms and conditions, not inconsistent with the terms of the Plan, as the Committee shall deem advisable. 
+ (a) Value of Performance Awards and Performance Measures . The method of determining the value of the Performance Award and the Performance Measures and Performance Period applicable to a Performance Award shall be determined by the Committee. 
+ (b) Vesting and Forfeiture . The Award Agreement relating to a Performance Award shall provide, in the manner determined by the Committee, in its discretion, and subject to the provisions of the Plan, for the vesting of such Performance Award if the specified Performance Measures are satisfied or met during the specified Performance Period and for the forfeiture of such Award if the specified Performance Measures are not satisfied or met during the specified Performance Period. 
+ (c) Settlement of Vested Performance Awards . The Award Agreement relating to a Performance Award shall specify whether such Award may be settled in Shares (including shares of Restricted Stock) or cash or a combination thereof. If a Performance Award is settled in shares of Restricted Stock, such shares of Restricted Stock shall be issued to the holder in book entry form or a certificate or certificates representing such Restricted Stock shall be issued in accordance with Section 4.3(c) and the holder of such Restricted Stock shall have such rights as a stockholder of the Company as determined pursuant to Section 4.3(d) . Prior to the settlement of a Performance Award in Shares, including Restricted Stock, the holder of such Award shall have no rights as a stockholder of the Company. 
+ 5.3 Termination of Employment or Service . All of the terms relating to the satisfaction of Performance Measures and the termination of the Performance Period relating to a Performance Award, or any forfeiture and 
+ A-10 
+
+cancellation of such Award (i) upon a termination of employment with or service to the Company of the holder of such Award, whether by reason of disability, retirement, death or any other reason, or (ii) during a paid or unpaid leave of absence, shall be determined by the Committee and set forth in the applicable Award Agreement. 
+
+VI. OTHER CASH-BASED AWARDS 
+ 6.1 Other Cash-Based Awards . The Committee may grant cash-based Awards to such eligible persons as may be selected by the Committee that provide the opportunity to earn or receive cash payments. Other Cash-Based Awards may be granted as an element of or a supplement to any other Award under the Plan or as a stand-alone Award. The terms and conditions relating to Other Cash-Based Awards shall be set forth in the applicable Award Agreement. 
+
+VII. GENERAL 
+ 7.1 Effective Date and Term of Plan . This Plan shall be submitted to the stockholders of the Company for approval and, if approved, shall become effective as of the date of such stockholder approval. This Plan shall terminate on the tenth anniversary of the date on which the Company s stockholders approve the Plan, unless earlier terminated by the Board or Committee provided , however , that no Incentive Stock Options shall be granted after the tenth anniversary of the date on which the Plan, as amended and restated, was approved by the Board. Termination of the Plan shall not affect the terms or conditions of any Award granted prior to termination. Awards hereunder may be made at any time prior to the termination of the Plan. 
+ 7.2 Amendments . The Board may amend or discontinue the Plan as it shall deem advisable provided, however, that no amendment to the Plan shall be effective without the approval of the Company s stockholders if (i) stockholder approval is required by applicable law, rule or regulation, including any applicable rule of the Nasdaq , or (ii) such amendment seeks to modify Section 3.4 hereof provided further, that no amendment may materially impair the rights of a holder of an outstanding Award without the consent of such holder. The Committee may, at any time, amend or cancel any outstanding Award for the purpose of satisfying changes in law or for any other lawful purpose, but no such action shall materially and adversely affect rights under such outstanding Award without the holder s consent. 
+ 7.3 Non-Transferability . No Award shall be transferable other than by will, the laws of descent and distribution or pursuant to beneficiary designation procedures approved by the Company or, to the extent expressly permitted in the Award Agreement relating to such Award, to the holder s family members, a trust or entity established by the holder for estate planning purposes or a charitable organization designated by the holder, in each case, without consideration. Except to the extent permitted by the foregoing sentence or the Award Agreement relating to an Award, each Award may be exercised or settled during the holder s lifetime only by the holder or the holder s legal representative or similar person. Except as permitted by the second preceding sentence, no Award may be sold, transferred, assigned, pledged, hypothecated, encumbered or otherwise disposed of (whether by operation of law or otherwise) or be subject to execution, attachment or similar process. Upon any attempt to so sell, transfer, assign, pledge, hypothecate, encumber or otherwise dispose of any Award, such Award and all rights thereunder shall immediately become null and void. 
+ 7.4 Tax Withholding . The Company shall have the right to require, prior to the issuance or delivery of any Shares or the payment of any cash pursuant to an Award made hereunder, payment by the holder of such Award of any federal, state, local or other taxes which may be required to be withheld or paid in connection with such Award. An Award Agreement may provide that (i) the Company shall withhold whole Shares which would otherwise be delivered to a holder, having an aggregate Fair Market Value determined as of the date the obligation to withhold or pay taxes arises in connection with an Award (the Tax Date ), or withhold an amount of cash which would otherwise be payable to a holder, in the amount necessary to satisfy any such obligation or (ii) the holder may satisfy any such obligation by any of the following means (A) a cash payment to the Company (B) delivery (either actual delivery or by attestation procedures established by the Company) to the Company of previously owned whole Shares having an aggregate Fair Market Value, determined as of the Tax Date, equal to the amount necessary to satisfy any such obligation (C) authorizing the Company to withhold whole Shares which would otherwise be delivered having an aggregate Fair Market Value, determined as of the Tax Date, or withhold an amount of cash 
+ A-11 
+
+which would otherwise be payable to a holder, equal to the amount necessary to satisfy any such obligation (D) a cash payment through a broker-assisted exercise in a manner acceptable to the Company or (E) a combination of (A), (B), (C) and (D) or such other means as permitted by the Company from time to time, in each case to the extent set forth in the applicable Award Agreement. 
+ 7.5 Restrictions on Shares . Each Award made hereunder shall be subject to the requirement that if at any time the Company determines that the listing, registration or qualification of the Shares subject to such Award upon any securities exchange or under any law, or the consent or approval of any governmental body, or the taking of any other action is necessary or desirable as a condition of, or in connection with, the delivery of shares thereunder, such shares shall not be delivered unless such listing, registration, qualification, consent, approval or other action shall have been effected or obtained, free of any conditions not acceptable to the Company. The Company may require that certificates or book entries evidencing Shares delivered pursuant to any Award made hereunder bear a legend or notation indicating that the sale, transfer or other disposition thereof by the holder is prohibited except in compliance with the Securities Act of 1933, as amended, and the rules and regulations thereunder. 
+ 7.6 Adjustment . In the event of any equity restructuring (within the meaning of Financial Accounting Standards Board Accounting Standards Codification Topic 718, Compensation Stock Compensation) that causes the per share value of Shares to change, such as a stock dividend, stock split, spinoff, rights offering or recapitalization through an extraordinary cash dividend, the number and class or type of securities available under the Plan, the terms of each outstanding option and SAR (including the number and class and type of securities subject to each outstanding option or SAR and the purchase price or base price per share), the terms of each outstanding Restricted Stock Award and Restricted Stock Unit Award (including the number and class and type of securities subject thereto) and the terms of each outstanding Performance Award (including the number and class and type of securities subject thereto), shall be appropriately adjusted by the Committee, such adjustments to be made in the case of outstanding options and SARs without an increase in the aggregate purchase price or base price and in accordance with Section 409A of the Code. In the event of any other change in corporate capitalization, including a merger, consolidation, reorganization, or partial or complete liquidation of the Company, such equitable adjustments described in the foregoing sentence may be made as determined to be appropriate and equitable by the Committee to prevent dilution or enlargement of rights of participants. In either case, the decision of the Committee regarding any such adjustment shall be final, binding and conclusive. 
+ 7.7 Change in Control 
+ (a) Subject to the terms of the applicable Award Agreement, in the event of a Change in Control, the Board (as constituted prior to such Change in Control) may, but is not limited to, in its discretion, take one of the following actions 
+ (i) provide that (A) some or all outstanding options and SARs shall become exercisable in full or in part, either immediately or upon a subsequent termination of employment, (B) the Restriction Period applicable to some or all outstanding Restricted Stock Awards and Restricted Stock Unit Awards shall lapse in full or in part, either immediately or upon a subsequent termination of employment, (C) the Performance Period applicable to some or all outstanding Awards shall lapse in full or in part, and (D) the Performance Measures applicable to some or all outstanding Awards shall be deemed to be satisfied at the target or any other level 
+ (ii) require that shares of stock of the corporation resulting from such Change in Control, or a parent corporation thereof, be substituted for some or all of the Shares subject to an outstanding Award, with an appropriate and equitable adjustment to such Award as shall be determined by the Board in accordance with Section 7.6 and or 
+ (iii) require outstanding Awards, in whole or in part, to be surrendered to the Company by the holder, and to be immediately cancelled by the Company, and to provide for the holder to receive (A) a cash payment in an amount equal to (1) in the case of an option or an SAR, the aggregate number of Shares then subject to the portion of such option or SAR surrendered multiplied by the excess, if any, of the Fair Market Value of a Share as of the date of the Change in Control, over the purchase price or base price per Share subject to such option or SAR, (2) in the case of a Stock Award or a Performance Award denominated in Shares, the aggregate number of Shares then subject to the portion of such Award surrendered to the extent the Performance Measures applicable to such Award have been satisfied or are deemed satisfied pursuant to Section 7.7(a)(i) , multiplied by the Fair Market 
+ A-12 
+
+Value of a Share as of the date of the Change in Control, and (3) in the case of a Performance Award denominated in cash, the value of the Performance Award then subject to the portion of such Award surrendered to the extent the Performance Measures applicable to such Award have been satisfied or are deemed satisfied pursuant to Section 7.7(a)(i) (B) shares of capital stock of the corporation resulting from or succeeding to the business of the Company pursuant to such Change in Control, or a parent corporation thereof, having a fair market value not less than the amount determined under clause (A) above or (C) a combination of the payment of cash pursuant to clause (A) above and the issuance of shares pursuant to clause (B) above. 
+ (b) For purposes of the Plan, a Change in Control means, unless otherwise provided in an Award Agreement, the occurrence of any one of the following events 
+ (i) any Person (except for the Company, any employee benefit plan of the Company or of any Affiliate, or any Person or entity organized, appointed or established by the Company for or pursuant to the terms of any such employee benefit plan), together with all Affiliates and Associates of such Person, shall become the Beneficial Owner in the aggregate of fifty percent (50 or more of the shares of the Company then outstanding and entitled to vote generally in the election of directors 
+ (ii) any Person, together with all Affiliates and Associates of such Person, purchases all or substantially all of the assets of the Company 
+ (iii) during any twenty-four (24) month period, individuals who, as of the beginning of such period, constitute the Board (the Incumbent Directors cease for any reason to constitute at least a majority of the Board, provided that any person becoming a director subsequent to the beginning of such period whose election or nomination for election was approved by a vote of at least a majority of the Incumbent Directors then on the Board (either by a specific vote or by approval of the proxy statement of the Company in which such person is named as a nominee for director, without written objection to such nomination) shall be an Incumbent Director provided, however, that no individual initially elected or nominated as a director of the Company as a result of an actual or threatened election contest with respect to directors or as a result of any other actual or threatened solicitation of proxies by or on behalf of any person other than the Board shall be deemed to be an Incumbent Director 
+ (iv) the Company consummates a merger, consolidation or share exchange (a Corporate Event ), as a result of which the shareholders of the Company immediately before such Corporate Event shall not hold, directly or indirectly, immediately after such Corporate Event at least a majority of the combined voting power of the voting securities entitled to vote generally in the election of directors of the surviving or resulting corporation, in case of a merger or consolidation, or of the acquiring corporation, in case of the share exchange or 
+ (v) The stockholders of the Company approve a plan of complete liquidation or dissolution of the Company or the consummation of a sale of all or substantially all of the Company s assets. 
+ Solely with respect to any Award that constitutes deferred compensation subject to Section 409A of the Code and that is payable on account of a Change in Control (including any installments or stream of payments that are accelerated on account of a Change in Control), a Change in Control shall occur only if such event also constitutes a change in the ownership , change in effective control , and or a change in the ownership of a substantial portion of assets of the Company as those terms are defined under Treasury Regulation 1.409A-3(i)(5), but only to the extent necessary to establish a time or form of payment that complies with Section 409A of the Code, without altering the definition of Change in Control for purposes of determining whether a Participant's rights to such Award become vested or otherwise unconditional upon the Change in Control. 
+ (c) The capitalized terms used in (b) above shall have the following meanings 
+ (i) Affiliate and Associate shall have the respective meanings ascribed to such terms in Rule 12b-2 of the General Rules and Regulations under the Exchange Act. 
+ (ii) Beneficial Owner of any securities shall mean 
+ (A) a Person or any of such Person s Affiliates or Associates that, directly or indirectly, has the right to acquire such securities (whether such right is exercisable immediately or only after the passage of time) pursuant to any agreement, arrangement or understanding (whether or not in writing) or upon the exercise of conversion rights, exchange rights, warrants or options, or otherwise provided, however, that a Person shall not be deemed the Beneficial Owner of 
+ A-13 
+
+securities tendered pursuant to a tender or exchange offer made by such Person or any of such Person s Affiliates or Associates until such tendered securities are accepted for payment, purchase or exchange 
+ (B) a Person or any of such Person s Affiliates or Associates that, directly or indirectly, has the right to vote or dispose of or has beneficial ownership of such securities (as determined pursuant to Rule 13d-3 of the General Rules and Regulations under the Exchange Act), including, without limitation, pursuant to any agreement, arrangement or understanding (whether or not in writing) provided, however, that a Person shall not be deemed the Beneficial Owner of any security under this subsection (ii) as a result of an oral or written agreement, arrangement or understanding to vote such security if such agreement, arrangement or understanding (A) arises solely from a revocable proxy given in response to a public proxy or consent solicitation made pursuant to, and in accordance with, the applicable provisions of the General Rules and Regulations under the Exchange Act, and (B) is not then reportable by such Person on Schedule 13D or 13G under the Exchange Act (or any comparable successor report) or 
+ (C) a Person or any of such Person s Affiliates or Associates that has any agreement, arrangement or understanding (whether or not in writing) with any other Person for the purpose of acquiring, holding, voting (except pursuant to a revocable proxy described in the proviso to subsection (ii) above) or disposing of any voting securities of the Company, in which case such Person shall be the Beneficial Owner of all securities that are Beneficially Owned, directly or indirectly, by such other Person (or any Affiliate or Associate thereof) within the meaning of subsection (i) or (ii) above provided, however , that nothing in this subsection (b) shall cause a Person engaged in business as an underwriter of securities to be the Beneficial Owner of any securities acquired through such Person s participation in good faith in a firm commitment underwriting until expiration of forty (40) days after the date of such acquisition. 
+ (iii) Person shall mean any individual, firm, corporation, partnership or other entity. 
+ 7.8 Deferrals . The Committee may determine that the delivery of Shares or the payment of cash, or a combination thereof, upon the exercise or settlement of all or a portion of any Award (other than Awards of Incentive Stock Options, Nonqualified Stock Options and SARs) made hereunder shall be deferred, or the Committee may, in its sole discretion, approve deferral elections made by holders of Awards. Deferrals shall be for such periods and upon such terms as the Committee may determine in its sole discretion, subject to the requirements of Section 409A of the Code. 
+ 7.9 No Right of Participation, Employment or Service . Unless otherwise set forth in an employment agreement, no person shall have any right to participate in the Plan. Neither the Plan nor any Award made hereunder shall confer upon any person any right to continued employment by or service with the Company, any Subsidiary or any affiliate of the Company or affect in any manner the right of the Company, any Subsidiary or any affiliate of the Company to terminate the employment or service of any person at any time without liability hereunder. 
+ 7.10 Rights as Stockholder . No person shall have any right as a stockholder of the Company with respect to any Shares or other equity security of the Company which is subject to an Award hereunder unless and until such person becomes a stockholder of record with respect to such Shares or equity security. 
+ 7.11 No Fractional Shares . No fractional Shares shall be issued or delivered pursuant to the Plan or any Award. The Committee shall determine whether cash, other Awards or other property shall be issued or paid in lieu of fractional Shares or whether such fractional Shares or any rights thereto shall be forfeited or otherwise eliminated. 
+ 7.12 Designation of Beneficiary . To the extent permitted by the Company and applicable law, a holder of an Award may file with the Company a written designation of one or more persons as such holder s beneficiary or beneficiaries (both primary and contingent) in the event of the holder s death or incapacity. To the extent an outstanding option or SAR granted hereunder is exercisable, such beneficiary or beneficiaries shall be entitled to exercise such option or SAR pursuant to procedures prescribed by the Company. Each beneficiary designation shall become effective only when filed in writing with the Company during the holder s lifetime on a form prescribed by the Company. The spouse of a married holder domiciled in a community property jurisdiction shall join in any designation of a beneficiary other than such spouse. The filing with the Company of a new beneficiary designation 
+ A-14 
+
+shall cancel all previously filed beneficiary designations. If a holder fails to designate a beneficiary, or if all designated beneficiaries of a holder predecease the holder, then each outstanding Award held by such holder, to the extent vested or exercisable, shall be payable to or may be exercised by such holder s executor, administrator, legal representative or similar person. 
+ 7.13 Governing Law . This Plan, each Award hereunder and the related Award Agreement, and all determinations made and actions taken pursuant thereto, to the extent not otherwise governed by the Code or the laws of the United States, shall be governed by the laws of the Commonwealth of Pennsylvania and construed in accordance therewith without giving effect to principles of conflicts of laws. 
+ 7.14 Foreign Employees . Without amending the Plan, the Committee may grant Awards to eligible persons who are foreign nationals and or reside outside the U.S. on such terms and conditions different from those specified in the Plan as may in the judgment of the Committee be necessary or desirable to foster and promote achievement of the purposes of the Plan and, in furtherance of such purposes the Committee may make such modifications, amendments, procedures, subplans and the like as may be necessary or advisable to comply with provisions of laws in other countries or jurisdictions in which the Company or its Subsidiaries operates or has employees. 
+ 7.15 Other Benefit and Compensation Programs . Awards granted under the Plan and amounts received upon vesting or exercise of an Award shall not be deemed a part of a participant s regular, recurring compensation for purposes of calculating payments or benefits under any Company benefit plan or severance program unless specifically provided for under the plan or program. Unless specifically set forth in an Award Agreement, Awards under the Plan are not intended as payment for compensation that otherwise would have been delivered in cash, and even if so intended, such Awards shall be subject to such vesting requirements and other terms, conditions, restrictions, and limitations as may be provided in the Award Agreement. 
+ 7.16 Unfunded Plan . Unless otherwise determined by the Committee, the Plan shall be unfunded and shall not create (or be construed to create) a trust or a separate fund or funds. The Plan shall not establish any fiduciary relationship between the Company and any participant or other person. To the extent that any participant holds any rights by virtue of an Award granted under the Plan, such rights shall constitute general unsecured liabilities of the Company and shall not confer upon any participant or any other person or entity any right, title, or interest in any assets of the Company. 
+ 7.17 Awards Subject to Clawback . The Awards granted under the Plan and any cash payment or Shares delivered pursuant to an Award are subject to forfeiture, recovery by the Company or other action pursuant to the applicable Award Agreement or any clawback or recoupment policy which the Company may adopt from time to time, including without limitation any such policy which the Company may be required to adopt under the Dodd-Frank Wall Street Reform and Consumer Protection Act and implementing rules and regulations thereunder, or as otherwise required by law. 
+ 7.18 Awards Subject to Trading Restrictions . Awards under the Plan shall be subject to the Company s insider trading policies and procedures, as in effect from time to time. 
+ 7.19 Data Privacy . As a condition of receipt of any Award, each participant explicitly and unambiguously consents to the collection, use and transfer, in electronic or other form, of personal data as described in this Section 7.19 by and among, as applicable, the Company and its Subsidiaries for the exclusive purpose of implementing, administering and managing the participant's participation in the Plan. The Company and its Subsidiaries may hold certain personal information about a participant, including but not limited to, the participant's name, home address and telephone number, date of birth, social security or insurance number or other identification number, salary, nationality, job title(s), any shares of stock held in the Company or any of its subsidiaries, details of all Awards, in each case, for the purpose of implementing, managing and administering the Plan and Awards (the Data ). The Company and its Subsidiaries may transfer the Data amongst themselves as necessary for the purpose of implementation, administration and management of a participant's participation in the Plan, and the Company and its Subsidiaries may each further transfer the Data to any third parties assisting the Company and its Subsidiaries in the implementation, administration and management of the Plan. These recipients may be located in the participant's country, or elsewhere, and the participant's country may have different data privacy laws and protections than the recipients' country. Through acceptance of an Award, each participant authorizes such recipients to receive, possess, use, retain and transfer the Data, in electronic or other form, for the purposes of implementing, administering and 
+ A-15 
+
+managing the participant's participation in the Plan, including any requisite transfer of such Data as may be required to a broker or other third party with whom the Company or any of its Subsidiaries or the participant may elect to deposit any shares of Common Stock. The Data related to a participant will be held only as long as is necessary to implement, administer, and manage the participant's participation in the Plan. A participant may, at any time, view the Data held by the Company with respect to such participant, request additional information about the storage and processing of the Data with respect to such participant, recommend any necessary corrections to the Data with respect to the participant or refuse or withdraw the consents herein in writing, in any case without cost, by contacting his or her local human resources representative. The Company may cancel the participant's ability to participate in the Plan and, in the Board's discretion, the participant may forfeit any outstanding Awards if the participant refuses or withdraws his or her consents as described herein. For more information on the consequences of refusal to consent or withdrawal of consent, participants may contact their local human resources representative. 
+ A-16 
+
+</EX-10.1>
+
+<EX-31.1>
+ 3
+ a10qq22021ex311.htm
+ EX-31.1
+
+Document 
+
+Exhibit 31.1 
+ 
+ CERTIFICATION 
+ 
+ I, Fusen Chen, certify that 
+ 
+ 1. I have reviewed this quarterly report on Form 10-Q of Kulicke and Soffa Industries, Inc. 
+ 
+ 2. Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report 
+ 
+ 3. Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report 
+ 
+ 4. The registrant's other certifying officer and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have 
+ 
+ a) Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared 
+ 
+ b) Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles 
+ 
+ c) Evaluated the effectiveness of the registrant's disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation and 
+ 
+ d) Disclosed in this report any change in the registrant's internal control over financial reporting that occurred during the registrant's most recent fiscal quarter (the registrant's fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant's internal control over financial reporting and 
+ 
+ 5. The registrant's other certifying officer and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant's auditors and the audit committee of the registrant's board of directors (or persons performing the equivalent functions) 
+ 
+ a) All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant's ability to record, process, summarize and report financial information and 
+ 
+ b) Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant's internal control over financial reporting. 
+
+Date May 6, 2021 By s FUSEN CHEN Fusen Chen President and Chief Executive Officer 
+
+</EX-31.1>
+
+<EX-31.2>
+ 4
+ a10qq22021ex312.htm
+ EX-31.2
+
+Document 
+
+Exhibit 31.2 
+ 
+ CERTIFICATION 
+ 
+ I, Lester Wong, certify that 
+ 
+ 1. I have reviewed this quarterly report on Form 10-Q of Kulicke and Soffa Industries, Inc. 
+ 
+ 2. Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report 
+ 
+ 3. Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report 
+ 
+ 4. The registrant's other certifying officer and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have 
+ 
+ a) Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared 
+ b) Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles 
+ 
+ c) Evaluated the effectiveness of the registrant's disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation and 
+ 
+ d) Disclosed in this report any change in the registrant's internal control over financial reporting that occurred during the registrant's most recent fiscal quarter (the registrant's fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant's internal control over financial reporting and 
+ 
+ 5. The registrant's other certifying officer and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant's auditors and the audit committee of the registrant's board of directors (or persons performing the equivalent functions) 
+ 
+ a) All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant's ability to record, process, summarize and report financial information and 
+ 
+ b) Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant's internal control over financial reporting. 
+
+Date May 6, 2021 By s LESTER WONG Lester Wong Senior Vice President and Chief Financial Officer 
+
+</EX-31.2>
+
+<EX-32.1>
+ 5
+ a10qq22021ex321.htm
+ EX-32.1
+
+Document 
+
+Exhibit 32.1 
+ 
+ CERTIFICATION PURSUANT TO 18 U.S.C. SECTION 1350, AS ADOPTED PURSUANT TO SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002 
+ 
+ I, Fusen Chen, President and Chief Executive Officer of Kulicke and Soffa Industries, Inc., do hereby certify, pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002, that, to my knowledge 
+ 
+ 1. the Quarterly Report on Form 10-Q of Kulicke and Soffa Industries, Inc. for the period ended April 3, 2021 (the April 3, 2021 Form 10-Q ), as filed with the Securities and Exchange Commission, fully complies with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act of 1934 (15 U.S.C. 78m or 78o(d)) and 
+ 
+ 2. the information contained in the April 3, 2021 Form 10-Q fairly presents, in all material respects, the financial condition and results of operations of Kulicke and Soffa Industries, Inc. 
+
+Date May 6, 2021 By s FUSEN CHEN Fusen Chen President and Chief Executive Officer 
+
+</EX-32.1>
+
+<EX-32.2>
+ 6
+ a10qq22021ex322.htm
+ EX-32.2
+
+Document 
+
+Exhibit 32.2 
+ 
+ CERTIFICATION PURSUANT TO 18 U.S.C. SECTION 1350, AS ADOPTED PURSUANT TO SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002 
+ 
+ I, Lester Wong, Senior Vice President and Chief Financial Officer of Kulicke and Soffa Industries, Inc., do hereby certify, pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002, that, to my knowledge 
+ 
+ 1. the Quarterly Report on Form 10-Q of Kulicke and Soffa Industries, Inc. for the period ended April 3, 2021 (the April 3, 2021 Form 10-Q ), as filed with the Securities and Exchange Commission, fully complies with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act of 1934 (15 U.S.C. 78m or 78o(d)) and 
+ 2. the information contained in the April 3, 2021 Form 10-Q fairly presents, in all material respects, the financial condition and results of operations of Kulicke and Soffa Industries, Inc. 
+ 
+ Date May 6, 2021 By s LESTER WONG Lester Wong Senior Vice President and Chief Financial Officer 
+
+</EX-32.2>
+
+<EX-101.SCH>
+ 7
+ klic-20210403.xsd
+ XBRL TAXONOMY EXTENSION SCHEMA DOCUMENT
+
+</EX-101.SCH>
+
+<EX-101.CAL>
+ 8
+ klic-20210403_cal.xml
+ XBRL TAXONOMY EXTENSION CALCULATION LINKBASE DOCUMENT
+
+</EX-101.CAL>
+
+<EX-101.DEF>
+ 9
+ klic-20210403_def.xml
+ XBRL TAXONOMY EXTENSION DEFINITION LINKBASE DOCUMENT
+
+</EX-101.DEF>
+
+<EX-101.LAB>
+ 10
+ klic-20210403_lab.xml
+ XBRL TAXONOMY EXTENSION LABEL LINKBASE DOCUMENT
+
+</EX-101.LAB>
+
+<EX-101.PRE>
+ 11
+ klic-20210403_pre.xml
+ XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE DOCUMENT
+
+</EX-101.PRE>
+

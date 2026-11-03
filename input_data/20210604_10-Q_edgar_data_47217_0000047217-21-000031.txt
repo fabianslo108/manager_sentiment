@@ -1,0 +1,1299 @@
+<Header>
+<FileStats>
+    <FileName>20210604_10-Q_edgar_data_47217_0000047217-21-000031.txt</FileName>
+    <GrossFileSize>12823669</GrossFileSize>
+    <NetFileSize>165119</NetFileSize>
+    <NonText_DocumentType_Chars>1584352</NonText_DocumentType_Chars>
+    <HTML_Chars>5179657</HTML_Chars>
+    <XBRL_Chars>2922814</XBRL_Chars>
+    <XML_Chars>2726201</XML_Chars>
+    <N_Exhibits>8</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0000047217-21-000031.hdr.sgml : 20210604
+<ACCEPTANCE-DATETIME>20210604160830
+ACCESSION NUMBER:		0000047217-21-000031
+CONFORMED SUBMISSION TYPE:	10-Q
+PUBLIC DOCUMENT COUNT:		91
+CONFORMED PERIOD OF REPORT:	20210430
+FILED AS OF DATE:		20210604
+DATE AS OF CHANGE:		20210604
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			HP INC
+		CENTRAL INDEX KEY:			0000047217
+		STANDARD INDUSTRIAL CLASSIFICATION:	COMPUTER & OFFICE EQUIPMENT [3570]
+		IRS NUMBER:				941081436
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1031
+
+	FILING VALUES:
+		FORM TYPE:		10-Q
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-04423
+		FILM NUMBER:		21996523
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1501 PAGE MILL ROAD
+		CITY:			PALO ALTO
+		STATE:			CA
+		ZIP:			94304
+		BUSINESS PHONE:		6508571501
+
+	MAIL ADDRESS:	
+		STREET 1:		1501 PAGE MILL ROAD
+		CITY:			PALO ALTO
+		STATE:			CA
+		ZIP:			94304
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	HEWLETT PACKARD CO
+		DATE OF NAME CHANGE:	19920703
+
+</SEC-Header>
+</Header>
+
+ 0000047217-21-000031.txt : 20210604
+
+10-Q
+ 1
+ hpq-20210430.htm
+ 10-Q
+
+hpq-20210430 
+ 
+ Use these links to rapidly review the document 
+ Table of Contents 
+ Part I. Financial Information 
+
+UNITED STATES 
+ SECURITIES AND EXCHANGE COMMISSION 
+ Washington, D.C. 20549 
+ ________________________________ 
+ FORM 
+ (Mark One) QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 For the quarterly period ended Or TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 For the transition period from to Commission file number 
+ _________________________________________ 
+ 
+ (Exact name of registrant as specified in its charter) 
+ (State or other jurisdiction of 
+ incorporation or organization) 
+ (I.R.S. employer identification no.) (Zip code) (Address of principal executive offices) 
+ ) 
+ (Registrant s telephone number, including area code) 
+ _______________________________________ 
+ Securities registered pursuant to Section 12(b) of the Securities Exchange Act of 1934: 
+ Title of each class Trading Symbol(s) Name of each exchange on which registered 
+ Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 (the Exchange Act during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days. No 
+ Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T 232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files). No 
+ Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company, or an emerging growth company. See the definitions of large accelerated filer, accelerated filer, smaller reporting company and emerging growth company in Rule 12b-2 of the Exchange Act. 
+ Accelerated filer 
+ Non-accelerated filer Smaller reporting company 
+ Emerging growth company 
+ If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. 
+ Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act). Yes No 
+ The number of shares of HP Inc. common stock outstanding as of April 30, 2021 was shares. 
+
+HP INC. AND SUBSIDIARIES 
+ Form 10-Q 
+ For the Quarterly Period ended April 30, 2021 
+ Table of Contents 
+ Page Forward-Looking Statements 
+ 3 
+ Part I. Financial Information 
+ Item 1. 
+ Financial Statements and Supplementary Data 
+ 4 
+ Item 2. 
+ Management s Discussion and Analysis of Financial Condition and Results of Operations 
+ 42 
+ Item 3. 
+ Quantitative and Qualitative Disclosures About Market Risk 
+ 55 
+ Item 4. 
+ Controls and Procedures 
+ 55 
+ Part II. Other Information 
+ Item 1. 
+ Legal Proceedings 
+ 56 
+ Item 1A. 
+ Risk Factors 
+ 56 
+ Item 2. 
+ Unregistered Sales of Equity Securities and Use of Proceeds 
+ 57 
+ Item 3. 
+ Defaults Upon Senior Securities 
+ 57 
+ Item 4. 
+ Mine Safety Disclosures 
+ 57 
+ Item 5. 
+ Other Information 
+ 57 
+ Item 6. 
+ Exhibits 
+ 57 
+ Exhibit Index 
+ 58 
+ Signature 
+ 66 
+ 
+ In this report on Form 10-Q, for all periods presented, we , us , our , the company , the Company , HP and HP Inc. refer to HP Inc. (formerly Hewlett-Packard Company) and its consolidated subsidiaries. 
+ 
+ 2 
+
+Table of Contents 
+
+ Forward-Looking Statements 
+ This Quarterly Report on Form 10-Q, including Management s Discussion and Analysis of Financial Condition and Results of Operations in Item 2 of Part I, contains forward-looking statements based on current expectations and assumptions that involve risks and uncertainties. If the risks or uncertainties ever materialize or the assumptions prove incorrect, the results of HP Inc. and its consolidated subsidiaries HP may differ materially from those expressed or implied by such forward-looking statements and assumptions. All statements other than statements of historical fact are statements that could be deemed forward-looking statements, including, but not limited to, any statements regarding the potential impact of the COVID-19 pandemic and the actions by governments, businesses and individuals in response to the situation; projections of net revenue, margins, expenses, effective tax rates, net earnings, net earnings per share, cash flows, benefit plan funding, deferred taxes, share repurchases, foreign currency exchange rates or other financial items; any projections of the amount, timing or impact of cost savings or restructuring and other charges, planned structural cost reductions and productivity initiatives; any statements of the plans, strategies and objectives of management for future operations, including, but not limited to, our business model and transformation, our sustainability goals, our go-to-market strategy, the execution of restructuring plans and any resulting cost savings, net revenue or profitability improvements or other financial impacts; any statements concerning the expected development, performance, market share or competitive performance relating to products or services; any statements regarding current or future macroeconomic trends or events and the impact of those trends and events on HP and its financial performance; any statements regarding pending investigations, claims or disputes; any statements of expectation or belief, including with respect to the timing and expected benefits of acquisitions and other business combination and investment transactions; and any statements of assumptions underlying any of the foregoing. Forward-looking statements can also generally be identified by words such as future, anticipates, believes, estimates, expects, intends, plans, predicts, projects, will, would, could, can, may, and similar terms. Risks, uncertainties and assumptions include factors relating to the effects of the COVID-19 pandemic and the actions by governments, businesses and individuals in response to the situation, the effects of which may give rise to or amplify the risks associated with many of these factors listed here; HP s ability to execute on its strategic plan, including the previously announced initiatives, business model changes and transformation; execution of planned structural cost reductions and productivity initiatives; HP s ability to complete any contemplated share repurchases, other capital return programs or other strategic transactions; the need to address the many challenges facing HP s businesses; the competitive pressures faced by HP s businesses; risks associated with executing HP s strategy and business model changes and transformation; successfully innovating, developing and executing HP s go-to-market strategy, including online, omnichannel and contractual sales, in an evolving distribution and reseller landscape; the development and transition of new products and services and the enhancement of existing products and services to meet customer needs and respond to emerging technological trends; successfully competing and maintaining the value proposition of HP s products, including supplies; the need to manage third-party suppliers, manage HP s global, multi-tier distribution network, limit potential misuse of pricing programs by HP s channel partners, adapt to new or changing marketplaces and effectively deliver HP s services; challenges to HP s ability to accurately forecast inventories, demand and pricing, which may be due to HP s multi-tiered channel, sales of HP s products to unauthorized resellers or unauthorized resale of HP s products; integration and other risks associated with business combination and investment transactions; the results of the restructuring plans, including estimates and assumptions related to the cost (including any possible disruption of HP s business) and the anticipated benefits of the restructuring plans; the protection of HP s intellectual property assets, including intellectual property licensed from third parties; the hiring and retention of key employees; the impact of macroeconomic and geopolitical trends and events; risks associated with HP s international operations; the execution and performance of contracts by HP and its suppliers, customers, clients and partners; disruptions in operations from system security risks, data protection breaches, cyberattacks, extreme weather conditions, medical epidemics or pandemics such as the COVID-19 pandemic, and other natural or manmade disasters or catastrophic events; the impact of changes to federal, state, local and foreign laws and regulations, including environmental regulations and tax laws; potential impacts, liabilities and costs from pending or potential investigations, claims and disputes; and other risks that are described herein and the risks discussed in Item 1A Risk Factors of Part I in our Annual Report on Form 10-K for the fiscal year ended October 31, 2020 and that are otherwise described or updated from time to time in HP s other filings with the Securities and Exchange Commission (the SEC ). The forward-looking statements in this report are made as of the date of this filing and HP assumes no obligation and does not intend to update these forward-looking statements. 
+ 3 
+
+Table of Contents 
+
+ Part I. Financial Information 
+
+ITEM 1. Financial Statements and Supplementary Data. 
+ Index 
+ Page Consolidated Condensed Statements of Earnings for the three and six months ended April 3 0 , 2021 and 2020 (Unaudited) 
+ 5 
+ Consolidated Condensed Statements of Comprehensive Income for the three and six months ended April 3 0 , 2021 and 2020 (Unaudited) 
+ 6 
+ Consolidated Condensed Balance Sheets as of April 3 0 , 2021 and as of October 31, 2020 (Unaudited) 
+ 7 
+ Consolidated Condensed Statements of Cash Flows for the six months ended April 3 0 , 2021 and 2020 (Unaudited) 
+ 8 
+ Consolidated Condensed Statements of Stockholders Deficit (Unaudited) 
+ 9 
+ Notes to Consolidated Condensed Financial Statements (Unaudited) 
+ 10 
+ Note 1: Basis of Presentation 
+ 10 
+ Note 2: Segment Information 
+ 12 
+ Note 3: Restructuring and Other Charges 
+ 15 
+ Note 4: Retirement and Post-Retirement Benefit Plans 
+ 16 
+ Note 5: Taxes on Earnings 
+ 17 
+ Note 6: Supplementary Financial Information 
+ 18 
+ Note 7: Fair Value 
+ 22 
+ Note 8: Financial Instruments 
+ 24 
+ Note 9: Borrowings 
+ 29 
+ Note 10: Stockholders Deficit 
+ 30 
+ Note 11: Net Earnings Per Share 
+ 33 
+ Note 12: Litigation and Contingencies 
+ 33 
+ Note 13: Guarantees, Indemnifications and Warranties 
+ 40 
+ Note 14: Commitments 
+ 41 
+ Note 15: Subsequent Events 
+ 41 
+
+4 
+
+Table of Contents 
+
+HP INC. AND SUBSIDIARIES 
+ Consolidated Condensed Statements of Earnings 
+ (Unaudited) 
+ Three months ended April 30 Six months ended April 30 2021 2020 2021 2020 In millions, except per share amounts Net revenue Costs and expenses: Cost of revenue Research and development Selling, general and administrative Restructuring and other charges Acquisition-related charges Amortization of intangible assets Total costs and expenses Earnings from operations Interest and other, net ) ) Earnings before taxes Provision for taxes ) ) ) ) Net earnings Net earnings per share: Basic Diluted Weighted-average shares used to compute net earnings per share: Basic Diluted 
+ The accompanying notes are an integral part of these Consolidated Condensed Financial Statements. 
+ 
+ 5 
+
+Table of Contents 
+
+HP INC. AND SUBSIDIARIES 
+ Consolidated Condensed Statements of Comprehensive Income 
+ (Unaudited) 
+ Three months ended April 30 Six months ended April 30 2021 2020 2021 2020 In millions Net earnings Other comprehensive income (loss) before taxes: Change in unrealized components of available-for-sale debt securities: Unrealized (losses) gains arising during the period ) ) Change in unrealized components of cash flow hedges: Unrealized (losses) gains arising during the period ) ) Losses (gains) reclassified into earnings ) ) ) Change in unrealized components of defined benefit plans: Gains (losses) arising during the period ) ) Amortization of actuarial loss and prior service benefit Curtailments, settlements and other Change in cumulative translation adjustment ) ) Other comprehensive income (loss) before taxes ) Provision for taxes ) ) ) ) Other comprehensive income (loss), net of taxes ) Comprehensive income 
+ The accompanying notes are an integral part of these Consolidated Condensed Financial Statements. 
+ 6 
+
+Table of Contents 
+
+HP INC. AND SUBSIDIARIES 
+ Consolidated Condensed Balance Sheets 
+ (Unaudited) 
+ As of April 30, 2021 October 31, 2020 In millions, except par value 
+ ASSETS Current assets: Cash and cash equivalents Accounts receivable, net of allowance for credit losses of and , respectively 
+ Inventory Other current assets Total current assets Property, plant and equipment, net Goodwill Other non-current assets Total assets LIABILITIES AND STOCKHOLDERS DEFICIT Current liabilities: Notes payable and short-term borrowings Accounts payable Other current liabilities Total current liabilities Long-term debt Other non-current liabilities Stockholders deficit: Preferred stock, par value shares authorized; ne issued) 
+ Common stock, par value shares authorized; and shares issued and outstanding at April 30, 2021 and October 31, 2020, respectively) 
+ Additional paid-in capital Accumulated deficit ) ) Accumulated other comprehensive loss ) ) Total stockholders deficit ) ) Total liabilities and stockholders deficit 
+ The accompanying notes are an integral part of these Consolidated Condensed Financial Statements. 
+ 7 
+
+Table of Contents 
+
+HP INC. AND SUBSIDIARIES 
+ Consolidated Condensed Statements of Cash Flows 
+ (Unaudited) 
+ Six months ended April 30 2021 2020 In millions Cash flows from operating activities: Net earnings Adjustments to reconcile net earnings to net cash provided by operating activities: Depreciation and amortization Stock-based compensation expense Restructuring and other charges Deferred taxes on earnings Other, net Changes in operating assets and liabilities, net of acquisitions: Accounts receivable Inventory ) ) Accounts payable ) Net investment in leases ) ) Taxes on earnings ) ) Restructuring and other ) ) Other assets and liabilities ) Net cash provided by operating activities Cash flows from investing activities: Investment in property, plant and equipment ) ) Proceeds from sale of property, plant and equipment Purchases of available-for-sale securities and other investments ) ) Maturities and sales of available-for-sale securities and other investments Collateral posted for derivative instruments ) Payment made in connection with business acquisitions, net of cash acquired ) ) Net cash used in investing activities ) ) Cash flows from financing activities: Proceeds from short-term borrowings with original maturities less than 90 days, net Proceeds from short-term borrowings with original maturities greater than 90 days Proceeds from debt, net of issuance costs Payment of debt ) ) Stock-based award activities and others ) ) Repurchase of common stock ) ) Cash dividends paid ) ) Net cash used in financing activities ) ) Decrease in cash and cash equivalents ) ) Cash and cash equivalents at beginning of period Cash and cash equivalents at end of period 
+ The accompanying notes are an integral part of these Consolidated Condensed Financial Statements. 
+ 8 
+
+Table of Contents 
+
+HP INC. AND SUBSIDIARIES 
+ Consolidated Condensed Statements of Stockholders Deficit 
+ (Unaudited) 
+ Common Stock Additional Paid-in Capital Accumulated Other Comprehensive Loss Total Stockholders Deficit Number of Shares Par Value Accumulated Deficit In millions, except number of shares in thousands Balance January 31, 2020 ) ) ) Net earnings Other comprehensive income, net of taxes Comprehensive income Issuance of common stock in connection with employee stock plans and other Repurchases of common stock (Note 10) ) ) ) ) Cash dividends Stock-based compensation expense Balance April 30, 2020 ) ) ) Balance January 31, 2021 ) ) ) Net earnings Other comprehensive income, net of taxes Comprehensive income Issuance of common stock in connection with employee stock plans and other Repurchases of common stock (Note 10) ) ) ) ) ) Cash dividends Stock-based compensation expense Balance April 30, 2021 ) ) ) Common Stock Additional Paid-in Capital Accumulated Other Comprehensive Loss Total Stockholders Deficit Number of Shares Par Value Accumulated Deficit In millions, except number of shares in thousands Balance October 31, 2019 ) ) ) Net earnings Other comprehensive income, net of taxes Comprehensive income Issuance of common stock in connection with employee stock plans and other ) ) Repurchases of common stock (Note 10) ) ) ) ) ) Cash dividends per common share) 
+ ) ) Stock-based compensation expense Adjustment for adoption of accounting standards Balance April 30, 2020 ) ) ) Balance October 31, 2020 ) ) ) Net earnings Other comprehensive loss, net of taxes ) ) Comprehensive income Issuance of common stock in connection with employee stock plans and other ) ) Repurchases of common stock (Note 10) ) ) ) ) ) Cash dividends per common share) 
+ ) ) Stock-based compensation expense Balance April 30, 2021 ) ) ) 
+ The accompanying notes are an integral part of these Consolidated Condensed Financial Statements. 
+ 9 
+
+Table of Contents 
+ HP INC. AND SUBSIDIARIES 
+ Notes to Consolidated Condensed Financial Statements 
+ (Unaudited) 
+
+Note 1: 
+ Separation Transaction 
+ On November 1, 2015, Hewlett-Packard Company completed the separation of Hewlett Packard Enterprise Company Hewlett Packard Enterprise ), Hewlett-Packard Company s former enterprise technology infrastructure, software, services and financing businesses (the Separation ). In connection with the Separation, HP and Hewlett Packard Enterprise entered into a separation and distribution agreement, an employee matters agreement and various other agreements which remain enforceable and provide a framework for the continuing relationships between the parties. For more information on the impacts of these agreements, see Note 12, Litigation and Contingencies . 
+
+10 
+
+Table of Contents 
+ HP INC. AND SUBSIDIARIES 
+ Notes to Consolidated Condensed Financial Statements (Continued) 
+ (Unaudited) 
+ Note 1: Basis of Presentation (Continued) 
+
+11 
+
+Table of Contents 
+ HP INC. AND SUBSIDIARIES 
+ Notes to Consolidated Condensed Financial Statements (Continued) 
+ (Unaudited) 
+
+Note 2. 
+ reportable segments: Personal Systems, Printing, and Corporate Investments. HP s organizational structure is based on many factors that the chief operating decision maker CODM uses to evaluate, view and run the business operations, which include, but are not limited to, customer base and homogeneity of products and technology. The segments are based on this organizational structure and information reviewed by HP s CODM to evaluate segment results. The CODM uses several metrics to evaluate the performance of the overall business, including earnings from operations, and uses these results to allocate resources to each of the segments. 
+ A summary description of each segment is as follows: 
+ Personal Systems offers commercial and consumer desktop and notebook personal computers PCs ), workstations, thin clients, commercial mobility devices, retail point-of-sale POS systems, displays and peripherals, software, support and services. HP groups commercial notebooks, commercial desktops, commercial services, commercial mobility devices, commercial detachables and convertibles, workstations, retail POS systems and thin clients into commercial PCs and consumer notebooks, consumer desktops, consumer services and consumer detachables into consumer PCs when describing performance in these markets. Described below are HP s global business capabilities within Personal Systems: 
+ Commercial PCs are optimized for use by enterprise, public sector which includes education, and SMB customers, with a focus on robust designs, security, serviceability, connectivity, reliability and manageability in the customer s environment. Additionally, HP offers a range of services and solutions to enterprise, public sector which includes education, and SMB customers to help them manage the lifecycle of their PC and mobility installed base. 
+ Consumer PCs are optimized for consumer usage, focusing on gaming, learning and working remotely, consuming multi-media for entertainment, managing personal life activities, staying connected, sharing information, getting things done for work including creating content and staying informed and secure. 
+ Personal Systems groups its global business capabilities into the following business units when reporting business performance: 
+ Notebooks consists of consumer notebooks, commercial notebooks, mobile workstations, peripherals, and commercial mobility devices; 
+ Desktops includes consumer desktops, commercial desktops, thin clients, displays, peripherals, and retail POS systems; 
+ Workstations consists of desktop workstations, displays, and peripherals; and 
+ Other consists of consumer and commercial services as well as other Personal Systems capabilities. 
+ Printing provides consumer and commercial printer hardware, supplies, services and solutions. Printing is also focused on imaging solutions in the commercial and industrial markets. Described below are HP s global business capabilities within Printing. 
+ Office Printing Solutions delivers HP s office printers, supplies, services and solutions to SMBs and large enterprises. It also includes OEM hardware and solutions, and some Samsung-branded supplies. 
+ Home Printing Solutions delivers innovative printing products, supplies, services and solutions for the home, home business and micro business customers utilizing both HP s Ink and Laser technologies. It also includes some Samsung-branded supplies. 
+ Graphics Solutions delivers large-format, commercial and industrial solutions and supplies to print service providers and packaging converters through a wide portfolio of printers and presses (HP DesignJet, HP Latex, HP Indigo and HP PageWide Web Presses). 
+ 3D Printing Digital Manufacturing offers a portfolio of additive manufacturing solutions and supplies to help customers succeed in their additive and digital manufacturing journey. HP offers complete solutions in collaboration with an ecosystem of partners. 
+ 12 
+
+Table of Contents 
+ HP INC. AND SUBSIDIARIES 
+ Notes to Consolidated Condensed Financial Statements (Continued) 
+ (Unaudited) 
+ Note 2: Segment Information (Continued) 
+
+13 
+
+Table of Contents 
+ HP INC. AND SUBSIDIARIES 
+ Notes to Consolidated Condensed Financial Statements (Continued) 
+ (Unaudited) 
+ Note 2: Segment Information (Continued) 
+
+ Desktops Workstations Other Personal Systems Supplies Commercial Consumer Printing Corporate Investments Total segment net revenue Other ) ) ) ) Total net revenue Earnings before taxes: Personal Systems Printing Corporate Investments ) ) ) ) Total segment earnings from operations Corporate and unallocated costs and other ) ) ) ) Stock-based compensation expense ) ) ) ) Restructuring and other charges ) ) ) ) Acquisition-related charges ) ) ) ) Amortization of intangible assets ) ) ) ) Interest and other, net ) ) Total earnings before taxes 
+ 
+ 14 
+
+Table of Contents 
+ HP INC. AND SUBSIDIARIES 
+ Notes to Consolidated Condensed Financial Statements 
+ (Unaudited) 
+
+ Note 3: 
+ Charges Cash payments ) ) ) ) Non-cash and other adjustments ) ) Accrued balance as of April 30, 2021 Total costs incurred to date as of April 30, 2021 Reflected in Consolidated Condensed Balance Sheets Other current liabilities Accrued balance as of October 31, 2019 Charges Cash payments ) ) ) ) Non-cash and other adjustments ) (1) ) ) Accrued balance as of April 30, 2020 
+ (1) Includes reclassification of liability related to the Enhanced Early Retirement EER plan of million for certain healthcare and medical savings account benefits to pension and post-retirement plans. 
+ HP s restructuring charges for the three months ended April 30, 2021 summarized by the plans outlined below were as follows: 
+ Fiscal 2020 Plan Severance and EER Non-labor Total In millions For the three months ended April 30, 2021 
+ Fiscal 2020 Plan 
+ On September 30, 2019, HP s Board of Directors approved the Fiscal 2020 Plan intended to optimize and simplify its operating model and cost structure that HP expects will be implemented through fiscal 2022. HP expects to reduce global headcount by approximately to employees through a combination of employee exits and voluntary EER. HP estimates that it will incur pre-tax charges of approximately billion relating to labor and non-labor actions. HP now expects to incur approximately billion primarily in labor costs related to workforce reductions and the remaining costs will relate to non-labor actions and other charges. 
+ Other charges 
+ Other charges include non-recurring costs, including those as a result of information technology rationalization efforts and proxy contest activities, and are distinct from ongoing operational costs. These costs primarily relate to third-party legal, professional services and other non-recurring costs. For the three and six months ended April 30, 2021, HP incurred million and million of other charges, respectively. For the three and six months ended April 30, 2020, HP incurred million and million of other charges, respectively. 
+ 15 
+
+Table of Contents 
+ HP INC. AND SUBSIDIARIES 
+ Notes to Consolidated Condensed Financial Statements 
+ (Unaudited) 
+
+ Note 4: 
+ Interest cost Expected return on plan assets ) ) ) ) ) ) Amortization and deferrals: Actuarial loss (gain) ) ) Prior service benefit ) ) ) Net periodic benefit (credit) cost ) ) ) ) Settlement loss Total periodic benefit (credit) cost ) ) ) ) Six months ended April 30 U.S. Defined Benefit Plans Non-U.S. Defined Benefit Plans Post- Retirement Benefit Plans 2021 2020 2021 2020 2021 2020 In millions Service cost Interest cost Expected return on plan assets ) ) ) ) ) ) Amortization and deferrals: Actuarial loss (gain) ) ) Prior service benefit ) ) ) ) Net periodic benefit (credit) cost ) ) ) ) Settlement loss Special termination benefit cost Total periodic benefit (credit) cost ) ) ) 
+ During fiscal year 2021, HP anticipates making contributions of approximately million to its non-U.S. pension plans, approximately million to its U.S. non-qualified plan participants and approximately million to cover benefit claims under HP s post-retirement benefit plans. During the six months ended April 30, 2021, HP contributed million to its non-U.S. pension plans, paid million to cover benefit payments to U.S. non-qualified plan participants and paid million to cover benefit claims under HP s post-retirement benefit plans. 
+ HP s pension and other post-retirement benefit costs and obligations depend on various assumptions. Differences between expected and actual returns on investments and changes in discount rates and other actuarial assumptions are reflected as unrecognized gains or losses, and such gains or losses are amortized to earnings in future periods. A deterioration in the funded status of a plan could result in a need for additional company contributions or an increase in net pension and post-retirement benefit costs in future periods. Actuarial gains or losses are determined at the measurement date and amortized over the remaining service life for active plans or the life expectancy of plan participants for frozen plans. 
+ 16 
+
+Table of Contents 
+ HP INC. AND SUBSIDIARIES 
+ Notes to Consolidated Condensed Financial Statements 
+ (Unaudited) 
+
+ Note 5: 
+ and for the three months ended April 30, 2021 and 2020, respectively, and and for the six months ended April 30, 2021 and 2020, respectively. The difference between the U.S. federal statutory tax rate of 21 and HP s effective tax rate for the three and six months ended April 30, 2021 was primarily due to tax effects of internal reorganization and by favorable tax rates associated with certain earnings from HP s operations in lower-tax jurisdictions throughout the world. For the three and six months ended April 30, 2020, HP s effective tax rate differed from the U.S. federal statutory rate of 21 primarily due to audit settlements in various jurisdictions and favorable tax rates associated with certain earnings from HP s operations in lower-tax jurisdictions throughout the world. 
+ During the three and six months ended April 30, 2021, HP recorded million and million, respectively, of net income tax benefits related to discrete items in the provision for taxes. These amounts included tax benefits of million related to tax effects of internal reorganization, million and million related to restructuring charges, million and million related to audit settlements in various jurisdictions, and million and million related to other tax benefits for the three and six months ended April 30, 2021, respectively. These benefits were partially offset by million and million of uncertain tax position charges for the three and six months ended April 30, 2021, respectively. For the three and six months ended April 30, 2021, excess tax benefits associated with stock options, restricted stock units and performance-adjusted restricted stock units were immaterial. 
+ During the three and six months ended April 30, 2020, HP recorded million and million, respectively, of net tax benefits related to discrete items in the provision for taxes. These amounts included tax benefits of million and million related to audit settlements in various jurisdictions, million and million related to acquisition charges, and million and million related to restructuring charges for the three and six months ended April 30, 2020, respectively. These benefits were partially offset by uncertain tax position charges of million and million for the three and six months ended April 30, 2020 respectively. For the three and six months ended April 30, 2020, excess tax benefits associated with stock options, restricted stock units and performance-adjusted restricted stock units were immaterial. 
+ Uncertain Tax Positions 
+ As of April 30, 2021, the amount of gross unrecognized tax benefits was million, of which up to million would affect HP s effective tax rate if realized. Total gross unrecognized tax benefits decreased by million for the six months ended April 30, 2021. As of April 30, 2021 and 2020, HP had accrued million and million, respectively, for interest and penalties. 
+ HP engages in continuous discussions and negotiations with taxing authorities regarding tax matters in various jurisdictions. HP expects to complete the resolution of certain tax years with various tax authorities within the next months. HP believes it is reasonably possible that its existing gross unrecognized tax benefits may be reduced by up to million within the next 12 months, affecting HP s effective tax rate if realized. 
+ HP is subject to income tax in the United States and approximately other countries and is subject to routine corporate income tax audits in many of these jurisdictions. In addition, HP is subject to numerous ongoing audits by federal, state and foreign tax authorities. The Internal Revenue Service IRS is conducting an audit of HP s 2018 and 2019 income tax returns. 
+ 17 
+
+Table of Contents 
+ HP INC. AND SUBSIDIARIES 
+ Consolidated Condensed Statements of Earnings (Continued) 
+ (Unaudited) 
+
+ Note 6: 
+ Current-period allowance for credit losses Deductions, net of recoveries ) Balance at end of period 
+ 
+ Trade receivables sold Cash receipts ) ) ) ) Foreign currency and other ) ) ) Balance at end of period (1) 
+ 
+ (1) Amounts outstanding from third parties reported in Accounts receivable in the Consolidated Condensed Balance Sheets. 
+ Purchased parts and fabricated assemblies (1) 
+ 
+ (1) Increase is attributable to strategic buys in Personal Systems. 
+ 18 
+
+Table of Contents 
+ HP INC. AND SUBSIDIARIES 
+ Notes to Consolidated Condensed Financial Statements (Continued) 
+ (Unaudited) 
+ Note 6: Supplementary Financial Information (Continued) 
+
+ Prepaid and other current assets Value-added taxes receivable Available-for-sale investments 
+ 
+ Machinery and equipment, including equipment held for lease Accumulated depreciation ) ) 
+ 
+ Right-of-use assets from operating leases, net Deposits and prepaid Intangible assets Other 
+ 19 
+
+Table of Contents 
+ HP INC. AND SUBSIDIARIES 
+ Notes to Consolidated Condensed Financial Statements (Continued) 
+ (Unaudited) 
+ Note 6: Supplementary Financial Information (Continued) 
+
+ Employee compensation and benefit Deferred revenue Other accrued taxes Warranty Operating lease liabilities Tax liability Other 
+ 
+ Deferred revenue Operating lease liabilities Tax liability Deferred tax liability Other ) ) ) Other, net ) ) 
+
+20 
+
+Table of Contents 
+ HP INC. AND SUBSIDIARIES 
+ Notes to Consolidated Condensed Financial Statements (Continued) 
+ (Unaudited) 
+ Note 6: Supplementary Financial Information (Continued) 
+
+ Europe, Middle East and Africa Asia-Pacific and Japan Total net revenue 
+ 
+ Value of Remaining Performance Obligations 
+ As of April 30, 2021, the estimated value of transaction price allocated to remaining performance obligations was billion. HP expects to recognize approximately billion of the unearned amount in next months and billion thereafter. 
+ HP has elected the practical expedients and accordingly does not disclose the aggregate amount of the transaction price allocated to remaining performance obligations if: 
+ the contract has an original expected duration of one year or less; or 
+ the revenue from the performance obligation is recognized over time on an as-invoiced basis when the amount corresponds directly with the value to the customer; or 
+ the portion of the transaction price that is variable in nature is allocated entirely to a wholly unsatisfied performance obligation. 
+ The remaining performance obligations are subject to change and may be affected by various factors, such as termination of contracts, contract modifications and adjustment for currency. 
+ Contract Liabilities 
+ As of April 30, 2021 and October 31, 2020, HP s contract liabilities balances were billion and billion, respectively, included in Other current liabilities and Other non-current liabilities in the Consolidated Condensed Balance Sheets. 
+ The increase in the contract liabilities balance for the six months ended April 30, 2021 was primarily driven by sales of fixed-price support and maintenance services, partially offset by billion of revenue recognized that was included in the contract liabilities balance as of October 31, 2020. 
+
+21 
+
+Table of Contents 
+ HP INC. AND SUBSIDIARIES 
+ Notes to Consolidated Condensed Financial Statements (Continued) 
+ (Unaudited) 
+
+ Note 7: 
+ 
+ Financial institution instruments Government debt (1) 
+ Available-for-Sale Investments: Corporate debt Financial institution instruments Government debt (1) 
+ Mutual funds Derivative Instruments: Interest rate contracts Foreign currency contracts Other derivatives Total assets Liabilities: Derivative Instruments: Interest rate contracts Foreign currency contracts Other derivatives Total liabilities 
+ 
+ (1) Government debt includes instruments such as U.S. treasury notes, U.S. agency securities and non-U.S. government bonds. Money market funds invested in government debt and traded in active markets are included in Level 1. 
+ 22 
+
+Table of Contents 
+ HP INC. AND SUBSIDIARIES 
+ Notes to Consolidated Condensed Financial Statements (Continued) 
+ (Unaudited) 
+ Note 7: Fair Value (Continued) 
+
+ billion as of April 30, 2021, compared to its carrying amount of billion at that date. The fair value of HP s short- and long-term debt was billion as of October 31, 2020, compared to its carrying value of billion at that date. If measured at fair value in the Consolidated Condensed Balance Sheets, short- and long-term debt would be classified in Level 2 of the fair value hierarchy. 
+ Other Financial Instruments: For the balance of HP s financial instruments, primarily accounts receivable, accounts payable and financial liabilities included in Other current liabilities on the Consolidated Condensed Balance Sheets, the carrying amounts approximate fair value due to their short maturities. If measured at fair value in the Consolidated Condensed Balance Sheets, these other financial instruments would be classified as Level 2 or Level 3 in the fair value hierarchy. 
+ Non-Marketable Equity Investments and Non-Financial Assets: HP s non-marketable equity investments are measured at cost less impairment, adjusted for observable price changes. HP s non-financial assets, such as intangible assets, goodwill and property, plant and equipment, are recorded at fair value in the period an impairment charge is recognized. If measured at fair value in the Consolidated Condensed Balance Sheets these would generally be classified within Level 3 of the fair value hierarchy. 
+ 
+ 23 
+
+Table of Contents 
+ HP INC. AND SUBSIDIARIES 
+ Notes to Consolidated Condensed Financial Statements (Continued) 
+ (Unaudited) 
+
+Note 8: 
+ Financial institution instruments 
+ Government debt Total cash equivalents Available-for-Sale Investments: Corporate debt (1) 
+ Financial institution instruments (1) 
+ Government debt (1) 
+ Mutual funds Total available-for-sale investments Total cash equivalents and available-for-sale investments 
+ (1) HP classifies its marketable debt securities as Available-for-sale investments within Other current assets on the Consolidated Condensed Balance Sheets, including those with maturity dates beyond one year, based on their highly liquid nature and availability for use in current operations. 
+ As of April 30, 2021 and October 31, 2020, the carrying amount of cash equivalents approximated fair value due to the short period of time to maturity. The estimated fair value of the available-for-sale investments may not be representative of values that will be realized in the future. 
+ 
+ These amounted to million and million as of April 30, 2021 and October 31, 2020, respectively. 
+ HP determines credit losses on cash equivalents and available-for-sale debt securities at the individual security level. All instruments are considered investment grade. No credit-related or noncredit-related impairment losses were recorded for the three and six months ended April 30, 2021. 
+ 
+ 24 
+
+Table of Contents 
+ HP INC. AND SUBSIDIARIES 
+ Notes to Consolidated Condensed Financial Statements (Continued) 
+ (Unaudited) 
+ Note 8: Financial Instruments (Continued) 
+
+ million and million as of April 30, 2021 and as of October 31, 2020, respectively, all of which were fully collateralized within two business days. 
+ Under HP s derivative contracts, the counterparty can terminate all outstanding trades following a covered change of control event affecting HP that results in the surviving entity being rated below a specified credit rating. This credit contingent provision did not affect HP s financial position or cash flows as of April 30, 2021 and October 31, 2020. 
+ Fair Value Hedges 
+ HP enters into fair value hedges, such as interest rate swaps, to reduce the exposure of its debt portfolio to changes in fair value resulting from changes in benchmark interest rates on HP s future interest rate payments. 
+ For derivative instruments that are designated and qualify as fair value hedges, HP recognizes the change in fair value of the derivative instrument, as well as the offsetting change in the fair value of the hedged item, in Interest and other, net in the Consolidated Condensed Statements of Earnings in the period of change. 
+ During the six months ended April 30, 2021, HP entered into an additional million notional amount interest rate swap designated as fair value hedges, to convert a portion of its previously issued billion fixed-rate debt to floating and terminated a previously issued interest rate swap with a notional amount of million that were de-designated as fair value hedges of certain fixed-rate debt securities. 
+ Cash Flow Hedges 
+ HP uses forward contracts, treasury rate locks, forward starting swaps and, at times, option contracts designated as cash flow hedges to protect against the foreign currency exchange and interest rate risks inherent in its forecasted net revenue, cost of revenue, operating expenses and debt issuance. HP s foreign currency cash flow hedges mature predominantly within ; however, hedges related to long-term procurement arrangements extend several years. 
+ For derivative instruments that are designated and qualify as cash flow hedges, HP initially records changes in fair value of the derivative instrument in Accumulated other comprehensive loss as a separate component of stockholders deficit in the Consolidated Condensed Balance Sheets and subsequently reclassifies these amounts into earnings in the period during which the hedged transaction is recognized in earnings. HP reports the changes in the fair value of the derivative instrument in the same financial statement line item as changes in the fair value of the hedged item. 
+ During the six months ended April 30, 2021, HP entered into a series of forward starting swap agreements with notional amounts totaling million to hedge the exposure to variability in future cash flows resulting from changes in interest rates related to the anticipated issuance of long-term debt. These agreements were designated as cash flow hedges. 
+ Other Derivatives 
+ Other derivatives not designated as hedging instruments consist primarily of forward contracts used to hedge foreign currency-denominated balance sheet exposures. HP uses total return swaps to hedge its executive deferred compensation plan liability. 
+ For derivative instruments not designated as hedging instruments, HP recognizes changes in fair value of the derivative instrument, as well as the offsetting change in the fair value of the hedged item, in Interest and other, net in the Consolidated Condensed Statements of Earnings in the period of change. 
+ 
+ 25 
+
+Table of Contents 
+ HP INC. AND SUBSIDIARIES 
+ Notes to Consolidated Condensed Financial Statements (Continued) 
+ (Unaudited) 
+ Note 8: Financial Instruments (Continued) 
+
+During the three and six months ended April 30, 2021 and 2020, no portion of the hedging instruments gain or loss was excluded from the assessment of effectiveness for fair value and cash flow hedges. 
+ Fair Value of Derivative Instruments in the Consolidated Condensed Balance Sheets 
+ Cash flow hedges: Foreign currency contracts Interest rate contracts Total derivatives designated as hedging instruments Derivatives not designated as hedging instruments Foreign currency contracts Other derivatives Total derivatives not designated as hedging instruments Total derivatives 
+
+26 
+
+Table of Contents 
+ HP INC. AND SUBSIDIARIES 
+ Notes to Consolidated Condensed Financial Statements (Continued) 
+ (Unaudited) 
+ Note 8: Financial Instruments (Continued) 
+
+ (1) Derivative liabilities (2) ) As of October 31, 2020 Derivative assets (1) Derivative liabilities (2) ) 
+ (1) Represents the cash collateral posted by counterparties as of the respective reporting date for HP s asset position, net of derivative amounts that could be offset, as of, generally, two business days prior to the respective reporting date. 
+ (2) Represents the collateral posted by HP including any re-use of counterparty cash collateral as of the respective reporting date for HP s liability position, net of derivative amounts that could be offset, as of, generally, two business days prior to the respective reporting date. 
+ Effect of Derivative Instruments in the Consolidated Condensed Statements of Earnings) ) 2020 ) Six months ended April 30 Interest rate contract Fixed-rate debt Interest and other, net 2021 ) ) 2020 ) 
+ 27 
+
+Table of Contents 
+ HP INC. AND SUBSIDIARIES 
+ Notes to Consolidated Condensed Financial Statements (Continued) 
+ (Unaudited) 
+ Note 8: Financial Instruments (Continued) ) Interest rate contracts ) ) 
+ The pre-tax effect of derivative instruments in cash flow hedging relationships included in earnings were as follows: 
+ Total amounts of income/(expense) line items in the statement of financial performance in which the effects of cash flow hedges are recorded Gain/(loss) reclassified from Accumulated other comprehensive loss into earnings Three months ended April 30 Six months ended April 30 Three months ended April 30 Six months ended April 30 2021 2020 2021 2020 2021 2020 2021 2020 In millions Net revenue ) ) Cost of revenue ) ) ) ) ) ) ) ) Other operating expenses ) ) ) ) Total ) ) 
+ As of April 30, 2021, HP expects to reclassify an estimated accumulated other comprehensive loss of million, net of taxes, to earnings within the next twelve months associated with cash flow hedges along with the earnings effects of the related forecasted transactions. The amounts ultimately reclassified into earnings could be different from the amounts previously included in Accumulated other comprehensive loss based on the change of market rate, and therefore could have different impact on earnings.) ) Other derivatives Interest and other, net Total ) ) 
+
+28 
+
+Table of Contents 
+ HP INC. AND SUBSIDIARIES 
+ Consolidated Condensed Statements of Earnings (Continued) 
+ (Unaudited) 
+
+ Note 9: 
+ Notes payable to banks, lines of credit and other 
+ issued at discount to par at a price of in September 2011 at , due September 2021 
+ issued at discount to par at a price of in December 2011 at , due December 2021 
+ issued at discount to par at a price of in March 2012 at , due September 2022 
+ issued at discount to par at a price of in September 2011 at , due September 2041 
+ 2019 Shelf Registration Statement: issued at discount to par at a price of in June 2020 at , due June 2025 
+ issued at discount to par at a price of in June 2020 at , due June 2027 
+ issued at discount to par at a price of in June 2020 at , due June 2030 
+ Other borrowings at - , due in calendar years 2021-2028 
+ Fair value adjustment related to hedged debt ) Unamortized debt issuance cost ) ) Current portion of long-term debt ) ) Total long-term debt 
+ (1) HP may redeem some or all of the fixed-rate U.S. Dollar Global Notes at any time in accordance with the terms thereof. The U.S. Dollar Global Notes are senior unsecured debt. 
+ As disclosed in Note 8, Financial Instruments , HP uses interest rate swaps to mitigate some of the exposure of its debt portfolio to changes in fair value resulting from changes in benchmark interest rates. Interest rates shown in the table of long-term debt have not been adjusted to reflect the impact of any interest rate swaps. 
+ Commercial Paper 
+ As of April 30, 2021, HP maintained commercial paper programs. HP s U.S. program provides for the issuance of U.S. dollar-denominated commercial paper up to a maximum aggregate principal amount of billion. HP s euro commercial paper program provides for the issuance of commercial paper outside of the United States denominated in U.S. dollars, euros or British pounds up to a maximum aggregate principal amount of billion or the equivalent in those alternative currencies. The combined aggregate principal amount of commercial paper outstanding under those programs at any one time cannot exceed the billion authorized by HP s Board of Directors. 
+ Credit Facilities 
+ As of April 30, 2021, HP maintained a billion senior unsecured committed revolving credit facility and a billion 364-day revolving credit facility to support the issuance of commercial paper or for general corporate purposes. Commitments under the billion and billion revolving credit facilities would have been available until March 30, 2023, and May 28, 2021, respectively. 
+ As of April 30, 2021, HP was in compliance with the financial covenants in the credit agreements governing the existing billion and billion revolving credit facilities. 
+ 29 
+
+Table of Contents 
+ HP INC. AND SUBSIDIARIES 
+ Notes to Consolidated Condensed Financial Statements (Continued) 
+ (Unaudited) 
+ Note 9: Borrowings (Continued) 
+
+ billion -year sustainability-linked senior unsecured committed revolving credit facility (the New Revolving Facility ). Commitment fees, interest rates and other terms of borrowing under the New Revolving Facility vary based on HP s external credit ratings and certain sustainability metrics. Funds borrowed under the New Revolving Facility may be used for general corporate purposes. Commitments under the billion and billion revolving credit facilities were terminated concurrently with the execution of the New Revolving Facility. 
+ Available Borrowing Resources 
+ As of April 30, 2021, HP had available borrowing resources of million from uncommitted lines of credit in addition to the senior unsecured committed revolving credit facilities. 
+
+Note 10: 
+ million shares and million shares and settled total shares for billion and billion, respectively. During the three and six months ended April 30, 2020, HP executed share repurchases of million shares and million shares and settled total shares for billion and billion, respectively. Share repurchases executed during the three and six months ended April 30, 2021 included million shares settled in May 2021. 
+ The shares repurchased during the six months ended April 30, 2021 and 2020 were all open market repurchase transactions. As of April 30, 2021, HP had approximately billion remaining under the share repurchase authorizations approved by HP s Board of Directors. 
+ 
+ 30 
+
+Table of Contents 
+ HP INC. AND SUBSIDIARIES 
+ Notes to Consolidated Condensed Financial Statements (Continued) 
+ (Unaudited) 
+ Note 10: Stockholders' Deficit (Continued) 
+
+ ) Tax effect on change in unrealized components of cash flow hedges: Tax (provision) benefit on unrealized gains (losses) arising during the period ) ) ) Tax (benefit) provision on losses (gains) reclassified into earnings ) ) ) ) ) Tax effect on change in unrealized components of defined benefit plans: Tax provision on gains arising during the period ) ) Tax benefit on amortization of actuarial loss and prior service benefit ) ) ) ) ) ) ) ) Tax effect on change in cumulative translation adjustment ) ) Tax provision on other comprehensive income ) ) ) ) 
+ ) ) Change in unrealized components of cash flow hedges: Unrealized (losses) gains arising during the period ) ) Losses (gains) reclassified into earnings ) ) ) Change in unrealized components of defined benefit plans: Gains (losses) arising during the period ) ) Amortization of actuarial loss and prior service benefit (1) 
+ Curtailments, settlements and other Change in cumulative translation adjustment ) ) Other comprehensive income (loss), net of taxes ) 
+ (1) These components are included in the computation of net pension and post-retirement benefit (credit) charges in Note 4, Retirement and Post-Retirement Benefit Plans . 
+ 31 
+
+Table of Contents 
+ HP INC. AND SUBSIDIARIES 
+ Notes to Consolidated Condensed Financial Statements (Continued) 
+ (Unaudited) 
+ Note 10: Stockholders' Deficit (Continued) 
+
+ ) ) ) Other comprehensive income (loss) before reclassifications ) ) Reclassifications of losses into earnings Reclassifications of settlements into earnings Balance at end of period ) ) ) 
+ 
+ 32 
+
+Table of Contents 
+ HP INC. AND SUBSIDIARIES 
+ Consolidated Condensed Statements of Earnings (Continued) 
+ (Unaudited) 
+
+ Note 11: 
+ 
+ Denominator: Weighted-average shares used to compute basic net EPS Dilutive effect of employee stock plans Weighted-average shares used to compute diluted net EPS Net earnings per share: Basic Diluted Anti-dilutive weighted-average stock-based compensation awards (1) 
+ 
+ (1) HP excludes from the calculation of diluted net EPS stock options and restricted stock units where the assumed proceeds exceed the average market price, because their effect would be anti-dilutive. The assumed proceeds of a stock option include the sum of its exercise price, and average unrecognized compensation cost. The assumed proceeds of a restricted stock unit represent unrecognized compensation cost. 
+
+Note 12: 
+ 
+ Litigation, Proceedings and Investigations 
+ Copyright Levies . Proceedings are ongoing or have been concluded involving HP in certain European countries, including litigation in Belgium and other countries, seeking to impose or modify levies upon IT equipment (such as multifunction devices MFDs and PCs), alleging that these devices enable the production of private copies of copyrighted materials. The levies are generally based upon the number of products sold and the per-product amounts of the levies, which vary. Some European countries that do not yet have levies on digital devices are expected to implement similar legislation to enable them to extend existing levy schemes, while other European countries have phased out levies or are expected to limit the scope of levy schemes and applicability in the digital hardware environment, particularly with respect to sales to business users. 
+ 33 
+
+Table of Contents 
+ HP INC. AND SUBSIDIARIES 
+ Notes to Consolidated Condensed Financial Statements (Continued) 
+ (Unaudited) 
+ Note 12: Litigation and Contingencies (Continued) 
+
+ billion in damages, which included approximately billion for past lost profits and billion for future lost profits. On October 20, 2016, the court entered judgment for HP for this amount with interest accruing until the judgment is paid. Oracle s motion for new trial was denied on December 19, 2016, and Oracle filed its notice of appeal from the trial court s judgment on January 17, 2017. On February 2, 2017, HP filed a notice of cross-appeal challenging the trial court s denial of prejudgment interest. The case is fully briefed and oral argument in front of the Court of Appeals was held on May 27, 2021. Litigation is unpredictable, and there can be no assurance that HP will recover damages, or that any award of damages will be for the amount awarded by the jury s verdict. The amount ultimately awarded, if any, would be recorded in the period received. No adjustment has been recorded in the financial statements in relation to this potential award. Pursuant to the terms of the separation and distribution agreement, HP and Hewlett Packard Enterprise will share equally in any recovery from Oracle once Hewlett Packard Enterprise has been reimbursed for all costs incurred in the prosecution of the action prior to the Separation. 
+ Forsyth, et al. v. HP Inc. and Hewlett Packard Enterprise . This is a purported class and collective action filed on August 18, 2016 in the United States District Court, Northern District of California, against HP and Hewlett Packard Enterprise alleging the defendants violated the Federal Age Discrimination in Employment Act ADEA ), the California Fair Employment and Housing Act, California public policy and the California Business and Professions Code by terminating older workers and replacing them with younger workers. The operative complaint is the Fourth Amended Complaint, filed in July 2020. By their complaint, plaintiffs seek to represent (1) a putative nationwide ADEA collective comprised of all individuals years of age and older who had their employment terminated pursuant to a WFR plan on or after December 9, 2014 or April 8, 2015, depending on state law; and (2) a putative Rule 23 class under California law comprised of all individuals years of age and older who had their employment terminated in California pursuant to a WFR plan on or after August 18, 2012. Excluded from the putative collective and class are employees who (a) signed a Waiver and General Release Agreement at termination, or (b) signed an Agreement to Arbitrate Claims. A similar purported collective and class are proposed for Hewlett Packard 
+ 34 
+
+Table of Contents 
+ HP INC. AND SUBSIDIARIES 
+ Notes to Consolidated Condensed Financial Statements (Continued) 
+ (Unaudited) 
+ Note 12: Litigation and Contingencies (Continued) 
+
+ named and opt-in plaintiffs. 
+ India Directorate of Revenue Intelligence Proceedings . On April 30 and May 10, 2010, the India Directorate of Revenue Intelligence (the DRI issued show cause notices to Hewlett-Packard India Sales Private Limited HP India ), a subsidiary of HP, HP India employees and former HP India employee alleging that HP India underpaid customs duties while importing products and spare parts into India and seeking to recover an aggregate of approximately million, plus penalties. Prior to the issuance of the show cause notices, HP India deposited approximately million with the DRI and agreed to post a provisional bond in exchange for the DRI s agreement to not seize HP India products and spare parts and to not interrupt the transaction of business by HP India. 
+ On April 11, 2012, the Bangalore Commissioner of Customs issued an order on the products-related show cause notice affirming certain duties and penalties against HP India and the named individuals of approximately million, of which HP India had already deposited million. On December 11, 2012, HP India voluntarily deposited an additional million in connection with the products-related show cause notice. The differential duty demand is subject to interest. On April 20, 2012, the Commissioner issued an order on the parts-related show cause notice affirming certain duties and penalties against HP India and certain of the named individuals of approximately million, of which HP India had already deposited million. After the order, HP India deposited an additional million in connection with the parts-related show cause notice so as to avoid certain penalties. 
+ HP India filed appeals of the Commissioner s orders before the Customs, Excise and Service Tax Appellate Tribunal (the Customs Tribunal along with applications for waiver of the pre-deposit of remaining demand amounts as a condition for hearing the appeals. The Customs Department has also filed cross-appeals before the Customs Tribunal. On January 24, 2013, the Customs Tribunal ordered HP India to deposit an additional million against the products order, which HP India deposited in March 2013. The Customs Tribunal did not order any additional deposit to be made under the parts order. In December 2013, HP India filed applications before the Customs Tribunal seeking early hearing of the appeals as well as an extension of the stay of deposit as to HP India and the individuals already granted until final disposition of the appeals. On February 7, 2014, the application for extension of the stay of deposit was granted by the Customs Tribunal until disposal of the appeals. On October 27, 2014, the Customs Tribunal commenced hearings on the cross-appeals of the Commissioner s orders. The Customs Tribunal rejected HP India s request to remand the matter to the Commissioner on procedural grounds. The hearings scheduled to reconvene on April 6, 2015 and again on November 3, 2015 and April 11, 2016 were cancelled at the request of the Customs Tribunal. A hearing scheduled for January 15, 2019 was cancelled. On January 20, 2021, the Customs Tribunal held a virtual hearing during which the judge allowed HP s application for a physical hearing on the merits as soon as practicable, which will be scheduled when physical hearings resume at court. Pursuant to the separation and distribution agreement, Hewlett Packard Enterprise has agreed to indemnify HP in part, based on the extent to which any liability arises from the products and spare parts of Hewlett Packard Enterprise s businesses. 
+ Slingshot Printing LLC Litigation . On June 11, 2019, Slingshot Printing LLC Slingshot filed complaints in U.S. District Court in the Western District of Texas alleging HP infringes or has infringed patents. On September 20, 2019, Slingshot filed a th complaint and amended the earlier complaints, alleging that HP infringes or has infringed patents. On December 12, 2019, Slingshot voluntarily dismissed its allegations as to patent because it did not own a related patent. On January 23, 2020, Slingshot filed a fifth complaint, re-asserting the dismissed patent as well as the related patent. On February 13, 2020, Slingshot voluntarily dismissed its allegations as to another patent, which was asserted in its third complaint. On March 25, 2020, Slingshot voluntarily dismissed its allegations as to an additional patent, which was also asserted in its third complaint. The complaints assert a total of patents and seek monetary damages. The accused products include inkjet printers, cartridges, and printheads. In December 2020, HP received notice that in September 2020, Slingshot filed actions in China s Guangzhou IP Specialized Court that had been removed to Guangdong High Court. The Guangzhou cases assert patents related to patents in the U.S. litigation. On January 14, 2021, the U.S. Patent and Trademark Office Patent Trial and Appeal Board granted HP s petitions to challenge the validity of four Slingshot patents and instituted inter partes review. On January 31, 2021, HP and Slingshot entered into an agreement to resolve all litigation. The U.S. civil actions have been dismissed and HP s petitions have been terminated. Petitions for dismissal of the Guangzhou cases have been filed. 
+ Philips Patent Litigation . On September 17, 2020, Koninklijke Philips N.V. and Philips North America LLC (collectively, Philips filed a complaint against HP for patent infringement in federal court for the District of Delaware. On 
+ 35 
+
+Table of Contents 
+ HP INC. AND SUBSIDIARIES 
+ Notes to Consolidated Condensed Financial Statements (Continued) 
+ (Unaudited) 
+ Note 12: Litigation and Contingencies (Continued) 
+
+ of Philips owned patents. On October 16, 2020, the ITC instituted an investigation. The ITC has scheduled an evidentiary trial for July 19, 2021 and is expected to render an initial determination on October 22, 2021, and a final decision on February 22, 2022. In the ITC proceeding, Philips seeks an order enjoining respondents from importing, or selling after importation, certain digital video-capable devices and components thereof, including certain PCs, display devices, and components thereof. In the district court action, Philips seeks unspecified damages and an injunction against HP, among other remedies. 
+ Caltech Patent Litigation . On November 11, 2020, the California Institute of Technology Caltech filed a complaint against HP for patent infringement in the federal court for the Western District of Texas. On March 19, 2021, Caltech filed an amendment to this same complaint. The complaint as amended alleges infringement of of Caltech s patents, U.S. Patent Nos. 7,116,710; 7,421,032; 7,716,552; 7,916,781; and 8,284,833. The accused products are HP commercial and consumer PCs as well as wireless printers that comply with the IEEE 802.11n, 802.11ac, and/or 802.11ax standards. Caltech seeks unspecified damages and other relief. 
+ In re HP Inc. Securities Litigation (Electrical Workers Pension Fund, Local 103, I.B.E.W. v. HP Inc., et al.) . On February 19, 2020, Electrical Workers Pension Fund, Local 103, I.B.E.W. filed a putative class action complaint against HP, Dion Weisler, Catherine Lesjak, and Steven Fieler in U.S. District Court in the Northern District of California. On May 20, 2020, the court appointed the State of Rhode Island, Office of the General Treasurer, on behalf of the Employees Retirement System of Rhode Island and Iron Workers Local 580 Joint Funds as Lead Plaintiffs. On July 20, 2020, Lead Plaintiffs filed an amended complaint, which additionally named as defendants Enrique Lores and Christoph Schell. On October 2, 2020, HP and the named officers filed a motion to dismiss the complaint for failure to state a claim upon which relief can be granted. On March 19, 2021, the court granted HP s motion to dismiss and granted plaintiffs leave to amend the complaint. On May 3, 2021, plaintiffs filed their second amended complaint, which no longer names Christoph Schell as a defendant. The second amended complaint alleges, among other things, that from February 23, 2017 to October 3, 2019, HP and the named officers violated Sections 10(b) and 20(a) of the Exchange Act by making false or misleading statements about HP s printing supplies business, including alleged statements made about changes to HP s channel inventory management and sales practices, and stabilization of printing supplies revenue. It further alleges that Dion Weisler and Enrique Lores violated Sections 10(b) and 20A of the Exchange Act by allegedly selling shares of HP common stock during this period while in possession of material, non-public adverse information about HP s printing supplies business. Plaintiffs seek compensatory damages and other relief. 
+ York County on behalf of the County of York Retirement Fund v. HP Inc., et al., and related proceedings. On November 5, 2020, York County, on behalf of the County of York Retirement Fund, filed a putative class action complaint against HP, Dion Weisler, and Catherine Lesjak in federal court in the Northern District of California. On February 11, 2021, the court appointed Maryland Electrical Industry Pension Fund as Lead Plaintiff. On April 21, 2021, Lead Plaintiff filed a consolidated complaint, which additionally names as defendants Enrique Lores and Richard Bailey. The complaint alleges, among other things, that from November 5, 2015 to June 21, 2016, HP and the named current and former officers violated Sections 10(b) and 20(a) of the Exchange Act by concealing material information and making false statements about HP s printing supplies business, including information about HP s channel inventory management and sales practices. Plaintiff seeks compensatory damages and other relief. On May 17, 2021, stockholder Scott Franklin filed a derivative complaint against certain current and former officers and directors in federal court in the District of Delaware. Plaintiff purports to bring the action on behalf of HP, which he has named as a nominal defendant, and it makes substantially the same factual allegations as in the York County securities complaint, bringing claims for breach of fiduciary duty and violations of securities laws. The derivative plaintiff seeks compensatory damages, governance reforms, and other relief. 
+ Legal Proceedings re Authentication of Supplies . Civil litigation or government investigations are pending in the United States, Italy, Israel, and the Netherlands involving supplies authentication protocols used in certain HP printers. These protocols are often referred to as Dynamic Security. The core allegations in these proceedings claim misleading or inadequate consumer notifications and permissions pertaining to the use of Dynamic Security, the impact of firmware updates, or the potential inability of cartridges with clone chips or circuitry to work in HP printers with Dynamic Security. 
+ 123Inkt Foundation litigation (Netherlands) . On November 23, 2016, a foundation known as Stichting 123Inkt-Huismerk Klanten (the Foundation filed a complaint in district court in Amsterdam against HP Nederland B.V. and HP Inc. arising out of the use of Dynamic Security in certain OfficeJet printers. Digital Revolution B.V. (a.k.a. 123Inkt) established the Foundation to pursue the interests of approximately of its customers who transferred their claims to it. The complaint alleges: (1) violation of right of ownership; (2) destruction and damage to property; (3) computer vandalism; (4) unlawful act; 
+ 36 
+
+Table of Contents 
+ HP INC. AND SUBSIDIARIES 
+ Notes to Consolidated Condensed Financial Statements (Continued) 
+ (Unaudited) 
+ Note 12: Litigation and Contingencies (Continued) 
+
+ 37 
+
+Table of Contents 
+ HP INC. AND SUBSIDIARIES 
+ Notes to Consolidated Condensed Financial Statements (Continued) 
+ (Unaudited) 
+ Note 12: Litigation and Contingencies (Continued) 
+
+ unfair commercial practices as follows: (a) the information HP provided to consumers about limitations on the use of certain third-party cartridges in HP printers was allegedly misleading pursuant to Articles 20, 21 and 22 of the Italian Consumer Code, and (b) the alleged use of data to deny warranty coverage and certain alleged data collection practices were aggressive pursuant to Articles 20, 24 and 25 of the Italian Consumer Code. The final decision (i) orders HP to end the allegedly unfair commercial practices; (ii) fines HP million for each alleged unfair practice (total million); (iii) requires HP to file a compliance report within days; (iv) orders HP to publicly publish a corrective statement within days; and (v) orders HP to amend the packaging of its printers within days. On December 21, 2020, HP paid the imposed fines. On February 5, 2021, HP filed an appeal. On April 6, 2021, HP filed its compliance report. 
+ Digital Revolution B.V. v. HP Nederland B.V., et al. (Netherlands) . On March 30, 2020, Digital Revolution B.V. (a.k.a. 123Inkt) served a complaint filed in Amsterdam District Court arising out of the use of Dynamic Security in certain HP printers. The complaint alleges several causes of action: (1) abuse of dominant position; (2) misleading advertising; (3) unfair and misleading commercial practice; and (4) misleading comparative advertising. The complaint seeks injunctive relief, including prohibition of Dynamic Security and disclosure of cartridge authentication protocols, damages, and attorneys fees. The parties initial appearance in front of the Court took place on July 8, 2020. On September 9, 2020, HP filed its defense and a counterclaim for unfair commercial practices and misleading and unlawful comparative advertising against Digital Revolution B.V. An oral hearing is scheduled for September 13, 2021. 
+ Mobile Emergency Housing Corp., et al. v. HP, Inc. (United States) . On December 17, 2020, a putative consumer class action was filed against HP in federal court in the Northern District of California arising out of the use of Dynamic Security firmware updates. The complaint alleges claims under federal and California law: (1) violation of the federal Computer Fraud and Abuse Act CFAA for allegedly causing damage without authorization to the plaintiffs printers; (2) violation of the California Comprehensive Computer Data Access and Fraud Act CDAFA (3) violation of the California False Advertising Law FAL (4) violation of the fraudulent prong of the California Unfair Competition Law UCL (5) violation of the unfair prong of the UCL; (6) violation of the unlawful prong of the UCL; and (7) trespass to chattels. Plaintiffs seek to represent a nationwide injunctive-relief class of all persons in the United States who own a Class Printer and a monetary relief subclass of those who experienced an error message due to third-party cartridge incompatibility resulting from a firmware update, defining Class Printers to include the HP Color LaserJet Pro M254, HP Color LaserJet Pro MFP M280, HP Color LaserJet Pro MFP M281, and all other models affected by the firmware updates described in the complaint. On February 10, 2021, HP filed a motion to dismiss the complaint, and in response, on March 2, 2021, plaintiffs amended their complaint. The amended complaint added an additional named plaintiff, a California state consumer subclass, and a California Consumers Legal Remedies Act claim seeking injunctive relief on behalf of the new plaintiff and the state consumer subclass. Plaintiffs subsequently filed Second and Third Amended Complaints respectively on March 19 and April 8, 2021. The Third Amended Complaint adds allegations pertaining to data collection specifically, that HP allegedly collected data on the type of third-party cartridges that Plaintiffs used on their printers without their knowledge, in violation of the FAL and UCL and in a manner giving rise to a trespass of chattels. The Third Amended Complaint also pleads new claims under the CFAA and CDAFA based on these data collection allegations, as well as a new claim under the CDAFA based on the theory that HP lacked authorization to issue the firmware updates at issue. Plaintiffs seek compensatory damages, restitution, injunctive relief against alleged unfair business practices, and other relief. On May 24, 2021, HP filed a motion to dismiss the Third Amended Complaint. 
+ Autonomy-Related Legal Matters 
+ Investigations . As a result of the findings of an ongoing investigation, HP has provided information to the U.K. Serious Fraud Office, the U.S. Department of Justice DOJ and the SEC related to the accounting improprieties, disclosure failures and misrepresentations at Autonomy that occurred prior to and in connection with HP s acquisition of Autonomy. On January 19, 2015, the U.K. Serious Fraud Office notified HP that it was closing its investigation and had decided to cede jurisdiction of the investigation to the U.S. authorities. On November 14, 2016, the DOJ announced that a federal grand jury indicted Sushovan Hussain, the former CFO of Autonomy. Mr. Hussain was charged with conspiracy to commit wire fraud, securities fraud, and multiple counts of wire fraud. The indictment alleged that Mr. Hussain engaged in a scheme to defraud purchasers and sellers of securities of Autonomy and HP about the true performance of Autonomy s business, its financial condition, and its prospects for growth. A jury trial commenced on February 26, 2018. On April 30, 2018, the jury found Mr. Hussain guilty of all charges against him. On August 26, 2020, the U.S. Court of Appeals for the Ninth Circuit affirmed the judgment of conviction against Mr. Hussain. On November 15, 2016, the SEC announced that Stouffer Egan, the former CEO of Autonomy s U.S.-based operations, settled charges relating to his participation in an accounting scheme to meet internal sales 
+ 38 
+
+Table of Contents 
+ HP INC. AND SUBSIDIARIES 
+ Notes to Consolidated Condensed Financial Statements (Continued) 
+ (Unaudited) 
+ Note 12: Litigation and Contingencies (Continued) 
+
+ former HP subsidiaries that became subsidiaries of Hewlett Packard Enterprise at the time of the Separation (Autonomy Corporation Limited, Hewlett Packard Vision BV, Autonomy Systems, Limited, and Autonomy, Inc.) initiated civil proceedings in the U.K. High Court of Justice against members of Autonomy s former management, Michael Lynch and Sushovan Hussain. The Particulars of Claim seek damages in excess of billion from Messrs. Lynch and Hussain for breach of their fiduciary duties by causing Autonomy group companies to engage in improper transactions and accounting practices. On October 1, 2015, Messrs. Lynch and Hussain filed their defenses. Mr. Lynch also filed a counterclaim against Autonomy Corporation Limited seeking million in damages, among other things, for alleged misstatements regarding Lynch. The Hewlett Packard Enterprise subsidiary claimants filed their replies to the defenses and the asserted counter-claim on March 11, 2016. Trial began on March 25, 2019 and was completed in January 2020. The parties are awaiting a ruling from the Court. 
+ Environmental 
+ HP s business is subject to various federal, state, local and foreign laws and regulations that could result in costs or other sanctions that adversely affect our business and results of operations. For example, HP is subject to laws and regulations concerning environmental protection, including laws addressing the discharge of pollutants into the air and water, the management and disposal of hazardous substances and wastes, the clean-up of contaminated sites, the content of HP s products and the recycling, treatment and disposal of those products, including batteries. In particular, HP faces increasing complexity in its product design and procurement operations as it adjusts to new and future requirements relating to the chemical and materials composition of its products, their safe use, the energy consumption associated with those products, climate change laws and regulations, and product repairability, reuse and take-back legislation. HP could incur substantial costs, its products could be restricted from entering certain jurisdictions, and it could face other sanctions, if it were to violate or become liable under environmental laws or if its products become noncompliant with environmental laws. HP s potential exposure includes fines and civil or criminal sanctions, third-party property damage or personal injury claims and clean-up costs. The amount and timing of costs to comply with environmental laws are difficult to predict. 
+ HP is party to, or otherwise involved in, proceedings brought by U.S. or state environmental agencies under the Comprehensive Environmental Response, Compensation and Liability Act CERCLA ), known as Superfund, or state laws similar to CERCLA, and may become a party to, or otherwise involved in, proceedings brought by private parties for contribution towards clean-up costs. HP is also conducting environmental investigations or remediations at several current or former operating sites pursuant to administrative orders or consent agreements with state environmental agencies. 
+ The separation and distribution agreement between HP and Hewlett Packard Enterprise includes provisions that provide for the allocation of environmental liabilities including certain remediation obligations; responsibilities arising from the chemical and materials composition of their respective products, their safe use and their energy consumption; obligations under product take back legislation that addresses the collection, recycling, treatment and disposal of products; and other environmental matters. HP will generally be responsible for environmental liabilities related to the properties and other assets, including products, allocated to HP under the separation and distribution agreement and other ancillary agreements. Under these agreements, HP will indemnify Hewlett Packard Enterprise for liabilities for specified ongoing remediation projects, subject to certain limitations, and Hewlett Packard Enterprise has a payment obligation for a specified portion of the cost of those remediation projects. In addition, HP will share with Hewlett Packard Enterprise other environmental liabilities as set forth in the separation and distribution agreement. HP is indemnified in whole or in part by Hewlett Packard Enterprise for liabilities arising from the assets assigned to Hewlett Packard Enterprise and for certain environmental matters as detailed in the separation and distribution agreement. 
+ 
+ 39 
+
+Table of Contents 
+ HP INC. AND SUBSIDIARIES 
+ Notes to Consolidated Condensed Financial Statements (Continued) 
+ (Unaudited) 
+
+ Note 13: 
+ Accruals for warranties issued Adjustments related to pre-existing warranties (including changes in estimates) Settlements made (in cash or in kind) ) Balance at end of period 
+ 
+ 40 
+
+Table of Contents 
+ HP INC. AND SUBSIDIARIES 
+ Notes to Consolidated Condensed Financial Statements (Continued) 
+ (Unaudited) 
+
+Note 14: 
+ billion. These unconditional purchase obligations include agreements to purchase goods or services that are enforceable and legally binding on HP and that specify all significant terms, including fixed or minimum quantities to be purchased, fixed, minimum or variable price provisions and the approximate timing of the transaction. These unconditional purchase obligations are primarily related to inventory and service support. Unconditional purchase obligations exclude agreements that are cancellable without penalty. 
+ 2022 2023 2024 2025 Thereafter Total 
+ (1) Represents expected unconditional purchase obligations for the remaining six months of the fiscal year 2021. 
+
+Note 15: 
+ 
+ million in connection with the acquisition of HyperX, the gaming division of Kingston Technology Company. The cash payment is subject to customary closing and other adjustments and will be finalized in future periods. 
+ 
+ 41 
+
+Table of Contents 
+
+Item 2. Management s Discussion and Analysis of Financial Condition and Results of Operations. 
+ HP INC. AND SUBSIDIARIES 
+ Management s Discussion and Analysis of 
+ Financial Condition and Results of Operations 
+ 
+ This Management s Discussion and Analysis of Financial Condition and Results of Operations MD A is organized as follows: 
+ Overview. A discussion of our business and other highlights affecting the Company to provide context for the remainder of this MD A. 
+ Critical Accounting Policies and Estimates. A discussion of accounting policies and estimates that we believe are important to understanding the assumptions and judgments incorporated in our reported financial results. 
+ Results of Operations. An analysis of our operations financial results comparing the three and six months ended April 30, 2021 to the prior-year period. A discussion of the results of operations is followed by a more detailed discussion of the results of operations by segment. 
+ Liquidity and Capital Resources. An analysis of changes in our cash flows and a discussion of our liquidity and financial condition. 
+ Contractual and Other Obligations. An overview of contractual obligations, retirement and post-retirement benefit plan contributions, cost-saving plans, uncertain tax positions and off-balance sheet arrangements of our operations. 
+ The discussion of financial condition and results of our operations that follows provides information that will assist the reader in understanding our Consolidated Condensed Financial Statements, the changes in certain key items in those financial statements from year to year, and the primary factors that accounted for those changes, as well as how certain accounting principles, policies and estimates affect our Consolidated Condensed Financial Statements. This discussion should be read in conjunction with our Consolidated Condensed Financial Statements and the related notes that appear elsewhere in this document. 
+ 
+ 42 
+
+Table of Contents 
+ HP INC. AND SUBSIDIARIES 
+ Management s Discussion and Analysis of 
+ Financial Condition and Results of Operations (Continued) 
+
+ OVERVIEW 
+ We are a leading global provider of personal computing and other access devices, imaging and printing products, and related technologies, solutions, and services. We sell to individual consumers, SMBs and large enterprises, including customers in the government, health, and education sectors. We have three reportable segments: Personal Systems, Printing, and Corporate Investments. The Personal Systems segment offers commercial and consumer desktop and notebook PCs, workstations, thin clients, commercial mobility devices, retail POS systems, displays and peripherals, software, support, and services. The Printing segment provides consumer and commercial printer hardware, supplies, solutions and services. Corporate Investments include HP Labs and certain business incubation and investment projects. 
+ In Personal Systems, our strategic focus is on profitable growth through innovation and market segmentation. This focus is with respect to enhanced innovation in multi-operating systems, multi-architecture, geography, customer segments and other key attributes. Additionally, we are investing in endpoint services and solutions. We are focused on services, including Device as a Service, as the market begins to shift to contractual solutions, and accelerating in attractive adjacencies such as peripherals. We are driving innovation to enable productivity and collaboration as near-term demand continues for work from home and remote learning as the PC has become an essential tool to create, consume and collaborate. We believe that we are well positioned due to our competitive product lineup. 
+ In Printing, our strategic focus is on offering contractual solutions to serve consumers, SMBs and large enterprises through our Instant Ink Services and Managed Print Services MPS solutions, providing digital printing solutions for graphics segments and applications including commercial publishing, labels, packaging and textiles; as well as expanding our footprint in 3D printing across digital manufacturing and strategic applications. 
+ We continue to experience challenges that are representative of trends and uncertainties that may affect our business and results of operations. One set of challenges relates to dynamic market trends that may adversely impact our product mix. A second set of challenges relates to changes in the competitive landscape. Our primary competitors are exerting competitive pressure in targeted areas and are entering new markets, our emerging competitors are introducing new technologies and business models, and our alliance partners in some businesses are increasingly becoming our competitors in others. A third set of challenges relates to business model changes and our go-to-market execution in an evolving distribution and reseller landscape, with increasing online and omnichannel presence. Additional challenges we face at the segment level are set forth below. 
+ In Personal Systems, we face challenges with industry component availability which may negatively impact our ability to meet demand, and a competitive environment. 
+ In Printing, we face challenges from a competitive environment, including non-original supplies (which includes imitation, refill, or remanufactured alternatives) and in the short-term we face component constraints particularly in printer hardware which may negatively impact our ability to meet demand. We also obtain many Printing components from single sources due to technology, availability, price, quality, or other considerations. For instance, we source the majority of our A4 and a portion of our A3 portfolio of laser printer engines and laser toner cartridges from Canon. Any decision by either party to not renew our agreement with Canon or to limit or reduce the scope of the agreement could adversely affect our net revenue from LaserJet products; however, we have a long-standing business relationship with Canon and anticipate renewal of this agreement. 
+ Our business and financial performance also depend significantly on worldwide economic conditions. Accordingly, we face global macroeconomic challenges, particularly in light of the effects of the COVID-19 pandemic as discussed below, tariff-driven headwinds, uncertainty in the markets, volatility in exchange rates and evolving dynamics in the global trade environment. The full impact of these and other global macroeconomic challenges on our business cannot be known at this time. 
+ To address these challenges, we continue to pursue innovation with a view towards developing new products and services aligned with generating market demand and meeting the needs of our customers and partners. In addition, we continue to work on improving our operations and adapting our business models, with a particular focus on enhancing our end-to-end processes, analytics and efficiencies. We also continue to work on optimizing our sales coverage models, aligning our sales incentives with our strategic goals, improving channel execution and inventory management, strengthening our capabilities in our areas of strategic focus, strengthening our pricing discipline and developing and capitalizing on market opportunities. 
+ Specifically, in October 2019, we announced cost-reduction and operational efficiency initiatives intended to simplify the way we work, move closer to our customers and facilitate specific investment in our business. These were further updated in February 2020. These efforts included transforming our operating model to integrate our sales force into a single commercial organization and reducing structural costs across the Company through our restructuring plan approved in September 2019 (the 
+ 43 
+
+Table of Contents 
+ HP INC. AND SUBSIDIARIES 
+ Management s Discussion and Analysis of 
+ Financial Condition and Results of Operations (Continued) 
+
+ Fiscal 2020 Plan ). We expect to invest some of the savings from these efforts across our businesses, including investing to build our digital capabilities. Over time, we expect these investments will make us more efficient and allow us to advance our positions in Personal Systems and Printing, while also disrupting new industries where we see attractive medium to long-term growth opportunities. However, the rate at which we are able to invest in our business and the returns that we are able to achieve from these investments will be affected by many factors, including the efforts to address the execution, industry and macroeconomic challenges facing our business as discussed above. As a result, we may experience delays in the anticipated timing of activities related to these efforts, and the anticipated benefits of these efforts may not materialize. 
+ We typically experience higher net revenues in our fourth quarter compared to other quarters in our fiscal year due in part to seasonal holiday demand. Historical seasonal patterns should not be considered reliable indicators of our future net revenues or financial performance. 
+ Our COVID-19 Response 
+ We continue to closely monitor the COVID-19 pandemic, including its resurgence in key markets. We will continue promoting the health, safety, and well-being of workers and their loved ones. In response to the COVID-19 pandemic, we have established a cross-functional COVID-19 program management office that meets regularly to review the latest data from our business and site leaders, identify and address emerging risks, and formulate response to actions taken by governments and public policy organizations. We have put in place global policies and protocols based on guidance from healthcare experts and public health leaders, and we regularly review and update them to reflect current information and the requirements and recommendations of national, federal, state, and local authorities. We balance our company-wide approach by assessing risk and adjusting our response at the site level, taking into consideration each country's or area's COVID-19 case trends and related measures. 
+ The business impact of the COVID-19 pandemic has created new and different demand dynamics in the market. We have seen a higher mix of Consumer PCs and shift from Desktops to Notebooks including Chromebooks. Our Personal Systems business benefited from the remote working and learning environment, including growth in gaming. In Printing, we have seen strong demand for Consumer print, Supplies and solutions, and some improvement in Commercial print as the demand in the SMBs continues to improve. However, the recovery in Commercial print may be uneven given the varying pace of economic recovery and the resurgence of COVID-19 cases in some countries. Except in Southeast Asia, manufacturing capacity has operated at normal levels, although we continue to see logistics challenges globally. 
+ The COVID-19 pandemic continues and we are seeing a resurgence of the pandemic in key markets like India and Southeast Asia. We have and may experience future disruptions in supply and manufacturing, including those in Southeast Asia, and with our suppliers and outsourcing partners. The full extent of the impact of the COVID-19 pandemic on our business, results of operations, cash flows and financial position will depend on many factors that are not within our control, including, but not limited to: the severity, duration and scope of the pandemic, including the impact of coronavirus mutations and resurgences; the effectiveness of actions taken to contain or mitigate the pandemic and prevent or limit any reoccurrence; the development, availability and public acceptance of effective treatments or vaccines; governmental, business and individuals actions that have been and continue to be taken in response to the pandemic; general economic uncertainty in key global markets and financial market volatility; global economic conditions and levels of economic growth; and the pace of recovery when the COVID-19 pandemic subsides. 
+ Unsolicited Exchange Offer in Fiscal Year 2020 
+ On March 2, 2020, Xerox Holdings Corporation Xerox commenced an unsolicited exchange offer for all outstanding shares of HP s common stock (the Offer ). Xerox had also previously nominated candidates for election to HP s Board of Directors at HP s 2020 annual meeting of stockholders. On March 31, 2020, Xerox announced that the Offer had been terminated and subsequently withdrew its slate of director nominees. In order to respond to Xerox s actions, HP incurred certain costs during the three and six months ended April 30, 2020. 
+ For a further discussion of trends, uncertainties and other factors that could impact our operating results, see the section entitled Risk Factors in Item 1A of Part I in our Annual Report on Form 10-K for the fiscal year ended October 31, 2020. 
+ 
+ 44 
+
+Table of Contents 
+ HP INC. AND SUBSIDIARIES 
+ Management s Discussion and Analysis of 
+ Financial Condition and Results of Operations (Continued) 
+
+ CRITICAL ACCOUNTING POLICIES AND ESTIMATES 
+ MD A is based on our Consolidated Condensed Financial Statements, which have been prepared in accordance with U.S. GAAP. The preparation of these financial statements requires management to make estimates, judgments and assumptions that affect the reported amounts of assets, liabilities, net revenues and expenses, and the disclosure of contingent liabilities. As of April 30, 2021, the impact of COVID-19 on our business continued to unfold. As a result, many of our estimates and assumptions required increased judgment and may carry a higher degree of variability and volatility. As events continue to evolve and additional information becomes available, our estimates may change in future periods. Our management believes that there have been no significant changes during the six months ended April 30, 2021 to the items that we disclosed as our critical accounting policies and estimates in MD A in our Annual Report on Form 10-K for the fiscal year ended October 31, 2020, except as mentioned previously in Note 1, Basis of Presentation . 
+
+ACCOUNTING PRONOUNCEMENTS 
+ For a summary of recent accounting pronouncements applicable to our Consolidated Condensed Financial Statements see Note 1, Basis of Presentation , to the Consolidated Condensed Financial Statements in Item 1 of Part I of this report, which is incorporated herein by reference. 
+
+RESULTS OF OPERATIONS 
+ Revenue from our international operations has historically represented, and we expect will continue to represent, a majority of our overall net revenue. As a result, our net revenue growth has been impacted, and we expect it will continue to be impacted, by fluctuations in foreign currency exchange rates. In order to provide a framework for assessing performance excluding the impact of foreign currency fluctuations, we supplement the year-over-year percentage change in net revenue with the year-over-year percentage change in net revenue on a constant currency basis, which excludes the effect of foreign currency exchange fluctuations calculated by translating current period revenues using monthly average exchange rates from the comparative period and excluding any hedging impact recognized in the current period, and does not adjust for any repricing or demand impacts from changes in foreign currency exchange rates. This information is provided so that net revenue can be viewed with and without the effect of fluctuations in foreign currency exchange rates, which is consistent with how management evaluates our net revenue results and trends, as management does not believe that the excluded items are reflective of ongoing operating results. The constant currency measures are provided in addition to, and not as a substitute for, the year-over-year percentage change in net revenue on a GAAP basis. Other companies may calculate and define similarly labeled items differently, which may limit the usefulness of this measure for comparative purposes. 
+ 45 
+
+Table of Contents 
+ HP INC. AND SUBSIDIARIES 
+ Management s Discussion and Analysis of 
+ Financial Condition and Results of Operations (Continued) 
+
+ Results of operations in dollars and as a percentage of net revenue were as follows: 
+ Three months ended April 30 Six months ended April 30 2021 2020 2021 2020 Dollars of Net Revenue Dollars of Net Revenue Dollars of Net Revenue Dollars of Net Revenue Dollars in millions Net revenue 15,877 100.0 12,469 100.0 31,523 100.0 27,087 100.0 Cost of revenue 12,437 78.3 9,976 80.0 24,759 78.5 21,722 80.2 Gross profit 3,440 21.7 2,493 20.0 6,764 21.5 5,365 19.8 Research and development 514 3.2 338 2.7 985 3.1 738 2.7 Selling, general and administrative 1,483 9.4 1,216 9.8 2,859 9.1 2,506 9.3 Restructuring and other charges 39 0.2 81 0.7 160 0.5 372 1.4 Acquisition-related charges 10 0.1 3 16 0.1 3 Amortization of intangible assets 32 0.2 29 0.2 61 0.2 55 0.2 Earnings from operations 1,362 8.6 826 6.6 2,683 8.5 1,691 6.2 Interest and other, net (26) (0.2) (51) (0.2) 13 0.1 Earnings before taxes 1,336 8.4 826 6.6 2,632 8.3 1,704 6.3 Provision for taxes (108) (0.7) (62) (0.5) (336) (1.0) (262) (1.0) Net earnings 1,228 7.7 764 6.1 2,296 7.3 1,442 5.3 
+ Net Revenue 
+ For the three months ended April 30, 2021, net revenue increased 27.3 (increased 25.4 on a constant currency basis) as compared to the prior-year period. U.S. net revenue increased 30.0 to 5.5 billion, while net revenue from international operations increased 26.0 to 10.4 billion. The increase in net revenue was primarily driven by growth in Notebooks, Supplies, Consumer Printing and Commercial Printing, partially offset by decline in Desktops. The increase in net revenue was driven by strong demand from work from home and remote learning, and some improvement in Commercial Printing. Also, net revenue, for the three months ended April 30, 2020, was negatively impacted by supply chain disruptions and demand weakness resulting from COVID-19. 
+ For the six months ended April 30, 2021, total net revenue increased 16.4 (increased 15.3 on a constant currency basis) as compared to the prior-year period. U.S. net revenue increased 22.3 to 11.2 billion, while net revenue from international operations increased 13.4 to 20.3 billion. The increase in net revenue was primarily driven by growth in Notebooks, Supplies, and Consumer Printing, partially offset by decline in Desktops. The increase in net revenue was driven by strong demand from work from home and remote learning. Also, net revenue for the six months ended April 30, 2020, was negatively impacted by supply chain disruptions and demand weakness resulting from COVID-19. 
+ A detailed discussion of the factors contributing to the changes in segment net revenue is included in Segment Information below. 
+ Gross Margin 
+ For the three months and six ended April 30, 2021, gross margin increased by 1.7 percentage points, primarily driven by favorable pricing including lower promotions, and favorable foreign currency impacts, partially offset by higher costs. 
+ A detailed discussion of the factors contributing to the changes in segment gross margins is included under Segment Information below. 
+ Operating Expenses 
+ Research and Development R D 
+ R D expense increased 52.0 and 33.5 for the three and six months ended April 30, 2021, respectively, primarily due to continuing investments in innovation and key growth initiatives and higher variable compensation. 
+ 46 
+
+Table of Contents 
+ HP INC. AND SUBSIDIARIES 
+ Management s Discussion and Analysis of 
+ Financial Condition and Results of Operations (Continued) 
+
+ Selling, General and Administrative SG A 
+ SG A expense increased 22.0 and 14.1 for the three and six months ended April 30, 2021, respectively, primarily due to higher variable compensation and go-to-market initiatives. 
+ Restructuring and Other Charges 
+ Restructuring and other charges for the three and six months ended April 30, 2021 relate primarily to the Fiscal 2020 Plan. For more information, see Note 3, Restructuring and other charges , to the Consolidated Condensed Financial Statements in Item 1 of Part I of this report, which is incorporated herein by reference. 
+ Amortization of Intangible Assets 
+ Amortization of intangible assets for the three and six months ended April 30, 2021 relates primarily to intangible assets resulting from prior acquisitions. 
+ Interest and Other, Net 
+ Interest and other, net expense increased 26 million and 64 million for the three and six months ended April 30, 2021, respectively, primarily due to lower Net Periodic Post-retirement Benefit Credit and lower interest income on investment and deposits. 
+ Provision for taxes 
+ Our effective tax rate was 8.1 and 7.6 for the three months ended April 30, 2021 and 2020, respectively, and 12.7 and 15.4 for the six months ended April 30, 2021 and 2020, respectively. The difference between the U.S. federal statutory tax rate of 21 and our effective tax rate for the three and six months ended April 30, 2021 was primarily due to tax effects of internal reorganization and by favorable tax rates associated with certain earnings from our operations in lower-tax jurisdictions throughout the world. For the three and six months ended April 30, 2020, our effective tax rate differed from the U.S. federal statutory rate of 21 primarily due to audit settlements in various jurisdictions and favorable tax rates associated with certain earnings from our operations in lower-tax jurisdictions throughout the world. 
+ During the three and six months ended April 30, 2021, we recorded 128 million and 129 million, respectively, of net income tax benefits related to discrete items in the provision for taxes. These amounts included tax benefits of 89 million related to tax effects of internal reorganization, 8 million and 36 million related to restructuring charges, 23 million and 11 million related to audit settlements in various jurisdictions, and 12 million and 5 million related to other tax benefits for the three and six months ended April 30, 2021, respectively. These benefits were partially offset by 4 million and 12 million of uncertain tax position charges for the three and six months ended April 30, 2021, respectively. For the three and six months ended April 30, 2021, excess tax benefits associated with stock options, restricted stock units and performance-adjusted restricted stock units were immaterial. 
+ During the three and six months ended April 30, 2020, we recorded 59 million and 66 million respectively, of net tax benefits related to discrete items in the provision for taxes. These amounts included tax benefits of 42 million and 40 million related to audit settlements in various jurisdictions, 11 million and 17 million related to acquisition charges, and 7 million and 55 million related to restructuring charges for the three and six months ended April 30, 2020, respectively. These benefits were partially offset by uncertain tax position charges of 3 million and 51 million for the three and six months ended April 30, 2020, respectively. For the three and six months ended April 30, 2020, excess tax benefits associated with stock options, restricted stock units and performance-adjusted restricted stock units were immaterial. 
+ 
+ Segment Information 
+ A description of the products and services for each segment can be found in Note 2, Segment Information to the Consolidated Condensed Financial Statements in Item 1 of Part I of this report, which is incorporated herein by reference. Future changes to this organizational structure may result in changes to the segments disclosed. 
+ 
+ 47 
+
+Table of Contents 
+ HP INC. AND SUBSIDIARIES 
+ Management s Discussion and Analysis of 
+ Financial Condition and Results of Operations (Continued) 
+
+ Personal Systems 
+ Three months ended April 30 Six months ended April 30 2021 2020 Change 2021 2020 Change Dollars in millions Net revenue 10,555 8,313 27.0 21,158 18,205 16.2 Earnings from operations 710 552 28.6 1,468 1,214 20.9 Earnings from operations as a of net revenue 6.7 6.6 6.9 6.7 
+ The components of net revenue and the weighted net revenue change by business unit were as follows: 
+ Three months ended April 30 Six months ended April 30 Net Revenue Weighted Net Revenue Change (1) 
+ Net Revenue Weighted Net Revenue Change (1) 
+ 2021 2020 2021 2020 Dollars in millions Percentage Points Dollars in millions Percentage Points Notebooks 7,489 5,083 28.9 14,855 11,057 20.9 Desktops 2,225 2,409 (2.2) 4,625 5,332 (3.9) Workstations 407 439 (0.4) 789 1,033 (1.3) Other 434 382 0.7 889 783 0.5 Total Personal Systems 10,555 8,313 27.0 21,158 18,205 16.2 
+ (1) Weighted Net Revenue Change Percentage Points measures contribution of each business unit towards overall segment revenue growth. It is calculated by dividing the change in revenue of each business unit from the prior-year period by total segment revenue for the prior-year period. 
+ 
+ Three months ended April 30, 2021 compared with three months ended April 30, 2020 
+ Personal Systems net revenue increased 27.0 (increased 24.6 on a constant currency basis) for the three months ended April 30, 2021 as compared to the prior-year period. The net revenue increase was primarily due to growth in Notebooks and favorable foreign currency impacts, partially offset by decline in Desktops. The net revenue increase was driven by a 43.7 growth in unit volume, partially offset by a 11.7 decline in average selling prices ASPs ). The increase in unit volume was driven by an increase in Notebooks due to strong demand driven by work from home, remote learning and gaming, partially offset by decline is Desktops . Also, for the three months ended April 30, 2020, unit shipments were negatively impacted by supply chain disruptions resulting from COVID-19. The decrease in ASPs was primarily due to mix shifts across Personal Systems, partially offset by favorable pricing including lower promotions, and favorable foreign currency impacts. 
+ Consumer PCs revenue increased 71.8 , driven by unit growth in Notebooks and Desktops and higher ASPs. Commercial PCs revenue increased 9.8 primarily driven by unit growth in Notebooks, partially offset by lower ASPs and decline in Desktops. 
+ Net revenue increased 47.3 in Notebooks and decreased 7.6 in Desktops and 7.3 in Workstations as compared to the prior-year period. 
+ Personal Systems earnings from operations as a percentage of net revenue increased by 0.1 percentage points. The increase was primarily due to an increase in gross margin, partially offset by an increase in operating expenses as a percentage of net revenue. The increase in gross margin was primarily due to favorable pricing including lower promotions, and foreign currency impacts, partially offset by mix shifts. Operating expenses as a percentage of revenue increased by 0.5 percentage points as compared to prior-year period primarily due to higher variable compensation and R D spend in innovation and key growth initiatives, partially offset by less variability in expenses as some expenses are fixed or semi-variable. 
+ 48 
+
+Table of Contents 
+ HP INC. AND SUBSIDIARIES 
+ Management s Discussion and Analysis of 
+ Financial Condition and Results of Operations (Continued) 
+
+ Six months ended April 30, 2021 compared with six months ended April 30, 2020 
+ Personal Systems net revenue increased 16.2 (increased 14.7 on a constant currency basis) for the six months ended April 30, 2021 as compared to the prior-year period. The net revenue increase was primarily due to growth in Notebooks and favorable foreign currency impacts, partially offset by decline in Desktops and Workstations. The net revenue increase was driven by a 28.1 growth in unit volume, partially offset by a 9.2 decline in ASPs. The increase in unit volume was driven by an increase in Notebooks due to strong demand driven by work from home, remote learning and gaming, partially offset by decline is Desktops and Workstations. Also, for the six months ended April 30, 2020, unit shipments were negatively impacted by supply chain disruptions resulting from COVID-19. The decrease in ASPs was primarily due to mix shifts across Personal Systems, partially offset by favorable pricing including lower promotions, and favorable foreign currency impacts. 
+ Consumer PCs revenue increased 49.7 driven by unit growth in Notebooks and Desktops and higher ASPs. Commercial PCs revenue increased 1.5 , primarily driven by unit growth in Notebooks, partially offset by lower ASPs and decline in unit volumes of Desktops and Workstations. 
+ Net revenue increased 34.3 in Notebooks and decreased 13.3 in Desktops and 23.6 in Workstations as compared to the prior-year period. 
+ Personal Systems earnings from operations as a percentage of net revenue increased by 0.2 percentage points. The increase was primarily due to an increase in gross margin, partially offset by an increase in operating expenses as a percentage of net revenue. The increase in gross margin was primarily due to favorable pricing including lower promotions, and foreign currency impacts , partially offset by mix shifts. Operating expenses as a percentage of revenue increased by 0.4 percentage points as compared to prior-year period primarily due to higher variable compensation and R D spend in innovation and key growth initiatives, partially offset by less variability in expenses as some expenses are fixed or semi-variable. 
+
+Printing 
+ Three months ended April 30 Six months ended April 30 2021 2020 Change 2021 2020 Change Dollars in millions Net revenue 5,323 4,158 28.0 10,367 8,882 16.7 Earnings from operations 951 548 73.5 1,949 1,302 49.7 Earnings from operations as a of net revenue 17.9 13.2 18.8 14.7 
+ The components of net revenue and the weighted net revenue change by business unit were as follows: 
+ Three months ended April 30 Six months ended April 30 Net Revenue Weighted Net Revenue Change (1) 
+ Net Revenue Weighted Net Revenue Change (1) 
+ 2021 2020 2021 2020 Dollars in millions Percentage Points Dollars in millions Percentage Points Supplies 3,337 2,841 11.9 6,483 5,882 6.8 Commercial 1,085 808 6.7 2,042 1,884 1.8 Consumer 901 509 9.4 1,842 1,116 8.1 Total Printing 5,323 4,158 28.0 10,367 8,882 16.7 
+ (1) Weighted Net Revenue Change Percentage Points measures contribution of each business unit towards overall segment revenue growth. It is calculated by dividing the change in revenue of each business unit from the prior-year period by total segment revenue for the prior-year period. 
+ 
+ 49 
+
+Table of Contents 
+ HP INC. AND SUBSIDIARIES 
+ Management s Discussion and Analysis of 
+ Financial Condition and Results of Operations (Continued) 
+
+ Three months ended April 30, 2021 compared with three months ended April 30, 2020 
+ Printing net revenue increased 28.0 (increased 26.9 on a constant currency basis) for the three months ended April 30, 2021. The increase in net revenue was driven by growth in Supplies, Consumer and Commercial. Net revenue for Supplies increased 17.5 , primarily driven by favorable pricing including lower promotions and improved demand. Also, for the three months ended April 30, 2020, Supplies net revenue was impacted by COVID-19. Printer unit volume increased 41.8 and ASPs increased 20.2 . The increase in printer unit volume was primarily driven by unit increase in both Consumer and Commercial. Printer ASPs increased primarily due to favorable pricing including lower promotions, partially offset by mix shifts. 
+ Net revenue for Commercial increased by 34.3 , primarily due to 33.3 increase in ASPs and a 21.8 increase in printer unit volume. The increase in ASPs was primarily driven by favorable mix shift and pricing including lower promotions. The printer unit volume increased due to improved demand as compared to prior-year period which was impacted by COVID-19. 
+ Net revenue for Consumer increased 77.0 , primarily due to a 45.1 increase in printer unit volume and 22.3 increase in ASPs. The printer unit volume increased due to strong demand from remote working and learning and supply chain disruption in prior-year period due to COVID-19. The increase in ASPs was primarily driven by favorable pricing including lower promotions, partially offset by mix shifts. 
+ Printing earnings from operations as a percentage of net revenue increased by 4.7 percentage points for the three months ended April 30, 2021, primarily due to increase in gross margin and lower operating expense as a percentage of revenue. The increase in gross margin is primarily due to favorable pricing including lower promotions , partially offset by unfavorable mix shifts. Operating expenses as a percentage of revenue decreased primarily due to less variability in expenses as some expenses are fixed or semi-variable , partially offset by higher variable compensation. 
+ 
+ Six months ended April 30, 2021 compared with six months ended April 30, 2020 
+ Printing net revenue increased 16.7 (increased 16.4 on a constant currency basis) for the six months ended April 30, 2021 . The increase in net revenue was driven by growth in Consumer, Supplies and Commercial. Net revenue for Supplies increased 10.2 , primarily driven by favorable pricing including lower promotions and improved demand. Also, for the six months ended April 30, 2020, Supplies net revenue was impacted by COVID-19 . Printer unit volume increased 27.1 and ASPs increased 9.8 . The increase in printer unit volume was primarily driven by unit increase in both Consumer and Commercial . Printer ASPs increased primarily due to favorable pricing including lower promotions, partially offset by mix shifts. 
+ Net revenue for Commercial increased by 8.4 , primarily due to a 9.9 increase in printer unit volume and 4.2 increase in ASPs. The printer unit volume increased due to improved demand as compared to prior-year period which was impacted by COVID-19. The increase in ASPs was primarily driven by favorable pricing including lower promotions and mix shifts. 
+ Net revenue for Consumer increased 65.1 , primarily due to a 29.8 increase in printer unit volume and 27.5 increase in ASPs. The printer unit volume increased due to strong demand from remote working and learning and supply chain disruption in prior-year period due to COVID-19. The increase in ASPs was primarily driven by favorable pricing including lower promotions. 
+ Printing earnings from operations as a percentage of net revenue increased by 4.1 percentage points for the six months ended April 30, 2021, primarily due to increase in gross margin and lower operating expense as a percentage of revenue. The increase in gross margin is primarily due to favorable pricing including lower promotions , partially offset by mix shifts. Operating expenses as a percentage of revenue decreased primarily due to less variability in expenses as some expenses are fixed or semi-variable, partially offset by higher variable compensation. 
+ 
+ Corporate Investments 
+ The loss from operations in Corporate Investments for the three and six months ended April 30, 2021, was primarily due to expenses associated with our incubation projects and investments in digital enablement. 
+ 50 
+
+Table of Contents 
+ HP INC. AND SUBSIDIARIES 
+ Management s Discussion and Analysis of 
+ Financial Condition and Results of Operations (Continued) 
+
+LIQUIDITY AND CAPITAL RESOURCES 
+ We use cash generated by operations as our primary source of liquidity. While the impacts from the COVID-19 pandemic are currently expected to be temporary, there is uncertainty around its extent and duration and our liquidity and working capital needs may be impacted in the future periods. We believe that current cash, cash flow from operating activities, new borrowings, available commercial paper authorization and the credit facilities will be sufficient to meet HP s operating cash requirements, planned capital expenditures, interest and principal payments on all borrowings, pension and post-retirement funding requirements, authorized share repurchases and annual dividend payments for the foreseeable future. Additionally, if suitable acquisition opportunities arise, the Company may obtain all or a portion of the required financing through additional borrowings. While our access to capital markets may be constrained and our cost of borrowing may increase under certain business, market and economic conditions, our access to a variety of funding sources to meet our liquidity needs is designed to facilitate continued access to capital resources under all such conditions. Our liquidity is subject to various risks including the risks identified in the section entitled Risk Factors in Item 1A of Part I in our Annual Report on Form 10-K for the fiscal year ended October 31, 2020 and the market risks identified in the section entitled Quantitative and Qualitative Disclosures about Market Risk in Item 3 of Part I of this report. 
+ During the three months ended April 30, 2021, HP completed two acquisitions with a combined purchase price of 170 million, net of cash acquired, of which 117 million was recorded as goodwill and 78 million as intangible assets related to these acquisitions. 
+ On June 1, 2021, HP made a cash payment of 411 million in connection with the acquisition of HyperX, the gaming division of Kingston Technology Company. The cash payment is subject to customary closing and other adjustments and will be finalized in future periods. 
+ Our cash and cash equivalents balances are held in numerous locations throughout the world. We utilize a variety of planning and financing strategies in an effort to ensure that our worldwide cash is available when and where it is needed. Amounts held outside of the United States are generally utilized to support non-U.S. liquidity needs and may from time to time be distributed to the United States. The Tax Cuts and Jobs Act TCJA made significant changes to the U.S. tax law, including a one-time transition tax on accumulated foreign earnings. The payments associated with this one-time transition tax will be paid over eight years and began in fiscal year 2019. We expect a significant portion of the cash and cash equivalents held by our foreign subsidiaries will no longer be subject to U.S. income tax consequences upon a subsequent repatriation to the United States as a result of the transition tax on accumulated foreign earnings. However, a portion of this cash may still be subject to foreign income tax or withholding tax consequences upon repatriation. As we evaluate the future cash needs of our operations, we may revise the amount of foreign earnings considered to be permanently reinvested in our foreign subsidiaries and how to utilize such funds, including reducing our gross debt level, or other uses. 
+ Liquidity 
+ Our key cash flow metrics were as follows: 
+ Six months ended April 30 2021 2020 In millions Net cash provided by operating activities 2,468 775 Net cash used in investing activities (315) (380) Net cash used in financing activities (3,593) (878) Net decrease in cash and cash equivalents (1,440) (483) 
+ Operating Activities 
+ Compared to the corresponding period in fiscal year 2020, net cash provided by operating activities increased by 1.7 billion for the six months ended April 30, 2021, primarily due to higher earnings from operations and favorable working capital changes. 
+ 51 
+
+Table of Contents 
+ HP INC. AND SUBSIDIARIES 
+ Management s Discussion and Analysis of 
+ Financial Condition and Results of Operations (Continued) 
+
+ Key Working Capital Metrics 
+ Management utilizes current cash conversion cycle information to manage our working capital level. Our working capital metrics and cash conversion cycle impacts were as follows: 
+ As of As of April 30, 2021 October 31, 2020 Change April 30, 2020 October 31, 2019 Change Y/Y Change Days of sales outstanding in accounts receivable DSO 28 32 (4) 37 35 2 (9) Days of supply in inventory DOS 54 43 11 57 41 16 (3) Days of purchases outstanding in accounts payable DPO (110) (105) (5) (128) (107) (21) 18 Cash conversion cycle (28) (30) 2 (34) (31) (3) 6 
+ April 30, 2021 as compared to April 30, 2020 
+ The cash conversion cycle is the sum of days of DSO and DOS less DPO. Items which may cause the cash conversion cycle in a particular period to differ from a long-term sustainable rate include, but are not limited to, changes in business mix, changes in payment terms, extent of receivables factoring, seasonal trends and the timing of revenue recognition and inventory purchases within the period. 
+ DSO measures the average number of days our receivables are outstanding. DSO is calculated by dividing ending accounts receivable, net of allowance for credit losses, by a 90-day average net revenue. The decrease in DSO was primarily due to favorable revenue linearity and strong collections. 
+ DOS measures the average number of days from procurement to sale of our product. DOS is calculated by dividing ending inventory by a 90-day average cost of revenue. The decrease in DOS was primarily due to higher cost of revenue driven by strong demand, as compared to prior-year period, partially offset by strategic buys in Personal Systems. 
+ DPO measures the average number of days our accounts payable balances are outstanding. DPO is calculated by dividing ending accounts payable by a 90-day average cost of revenue. The decrease in DPO was primarily due to working capital management activities. 
+ Investing Activities 
+ Compared to the corresponding period in fiscal year 2020, net cash used in investing activities decreased by 0.1 billion for the six months ended April 30, 2021, primarily due to decrease in investments of 0.3 billion, partially offset by collateral posted for derivative instruments of 0.2 billion and higher net payments for acquisitions of 0.1 billion. 
+ Financing Activities 
+ Compared to the corresponding period in fiscal year 2020, net cash used in financing activities increased by 2.8 billion for the six months ended April 30, 2021, primarily due to higher share repurchases of 2.2 billion and lower commercial paper activity of 0.6 billion. 
+ Share Repurchases and Dividends 
+ During the six months ended April 30, 2021, HP returned 3.5 billion to the shareholders in the form of share repurchases of 3.0 billion and cash dividends of 0.5 billion. As of April 30, 2021, HP had approximately 9.7 billion remaining under the share repurchase authorizations approved by HP s Board of Directors. 
+ For more information on our share repurchases, see Note 10, Stockholders Deficit , to the Consolidated Condensed Financial Statements in Item 1 of Part I of this report, which is incorporated herein by reference. 
+ Capital Resources 
+ Debt Levels 
+ We maintain debt levels that we establish through consideration of a number of factors, including cash flow expectations, cash requirements for operations, investment plans (including acquisitions), share repurchase activities, our cost of capital and targeted capital structure. Depending on these factors, we may, from time to time, incur additional indebtedness or refinance existing indebtedness. Outstanding borrowings decreased to 6.1 billion as of April 30, 2021 as compared to 6.2 billion as of October 31, 2020, bearing weighted-average interest rates of 3.9 for April 30, 2021 and October 31, 2020. 
+ 52 
+
+Table of Contents 
+ HP INC. AND SUBSIDIARIES 
+ Management s Discussion and Analysis of 
+ Financial Condition and Results of Operations (Continued) 
+
+ Our weighted-average interest rate reflects the effective rate on our borrowings prevailing during the period and reflects the effect of interest rate swaps. For more information on our interest rate swaps, see Note 8, Financial Instruments , to the Consolidated Condensed Financial Statements in Item 1 of Part I of this report, which is incorporated herein by reference. 
+ As of April 30, 2021, we maintained a 5-year senior unsecured committed revolving credit facility and a 364-day revolving credit facility with aggregate lending commitments of 4.0 billion and 1.0 billion, respectively. Commitments under the 4.0 billion and 1.0 billion revolving credit facilities would have been available until March 30, 2023, and May 28, 2021, respectively. 
+ On May 26, 2021, we entered into a new 5.0 billion 5-year sustainability-linked senior unsecured committed revolving credit facility (the New Revolving Facility ). Commitment fees, interest rates and other terms of borrowing under the New Revolving Facility vary based on HP s external credit ratings and certain sustainability metrics. Funds borrowed under the New Revolving Facility may be used for general corporate purposes. Commitments under the 4.0 billion revolving credit facility and the 1.0 billion revolving credit facility were terminated concurrently with the execution of the New Revolving Facility. 
+ Available Borrowing Resources 
+ As of April 30, 2021, we had available borrowing resources of 634 million from uncommitted lines of credit in addition to the senior unsecured committed revolving credit facilities. 
+ In December 2020, we filed a post-effective amendment to convert the shelf registration statement we initially filed in December 2019 (the 2019 Shelf Registration Statement to a non-automatic shelf registration statement because we are no longer a well-known seasoned issuer . The 2019 Shelf Registration Statement was declared effective by the SEC on February 25, 2021 and enables us to offer for sale, from time to time, in one or more offerings, 5.0 billion, in the aggregate, of debt securities, common stock, preferred stock, depository shares and warrants. 
+ For more information on our borrowings, see Note 9, Borrowings , to the Consolidated Condensed Financial Statements in Item 1 of Part I of this report, which is incorporated herein by reference. 
+ Credit Ratings 
+ Our credit risk is evaluated by major independent rating agencies based upon publicly available information as well as information obtained in our ongoing discussions with them. While we do not have any rating downgrade triggers that would accelerate the maturity of a material amount of our debt, previous downgrades have increased the cost of borrowing under our credit facilities, have reduced market capacity for our commercial paper and have required the posting of additional collateral under some of our derivative contracts. In addition, any further downgrade to our credit ratings by any rating agencies may further impact us in a similar manner, and, depending on the extent of any such downgrade, could have a negative impact on our liquidity and capital position. We can access alternative sources of funding, including drawdowns under our credit facilities, if necessary, to offset potential reductions in the market capacity for our commercial paper. 
+
+CONTRACTUAL AND OTHER OBLIGATIONS 
+ Unconditional Purchase Obligation 
+ Purchase obligations include agreements to purchase goods or services that are enforceable and legally binding on HP and that specify all significant terms, including fixed or minimum quantities to be purchased; fixed, minimum or variable price provisions; and the approximate timing of the transaction. These unconditional purchase obligations are primarily related to inventory and service support. Unconditional purchase obligations exclude agreements that are cancellable without penalty. As of April 30, 2021, the Company had outstanding purchase commitments of 6.5 billion. The majority of these commitments are due within five years, see Note 14, Commitments , to the Consolidated Condensed Financial Statements in Item 1 of Part I of this report, which is incorporated herein by reference. 
+ Retirement and Post-Retirement Benefit Plan Contributions 
+ As of April 30, 2021, we anticipate making contributions for the remainder of fiscal year 2021 of approximately 34 million to our non-U.S. pension plans, 19 million to cover benefit payments to U.S. non-qualified pension plan participants and 3 million to cover benefit claims for our post-retirement benefit plans. Our policy is to fund our pension plans so that we meet at least the minimum contribution required by local government, funding and taxing authorities. For more information on our retirement and post-retirement benefit plans, see Note 4, Retirement and Post-Retirement Benefit Plans , to the Consolidated Condensed Financial Statements in Item 1 of Part I of this report, which is incorporated herein by reference. 
+ Cost Savings Plan 
+ As a result of our approved restructuring plans, we expect to make future cash payments of approximately 0.4 billion. We expect to make future cash payments of 0.1 billion in fiscal year 2021 with remaining cash payments through fiscal year 
+ 53 
+
+Table of Contents 
+ HP INC. AND SUBSIDIARIES 
+ Management s Discussion and Analysis of 
+ Financial Condition and Results of Operations (Continued) 
+
+ 2023. For more information on our restructuring activities that are part of our cost improvements, see Note 3, Restructuring and Other Charges , to the Consolidated Condensed Financial Statements in Item 1 of Part I of this report, which is incorporated herein by reference. 
+ Uncertain Tax Positions 
+ As of April 30, 2021, we had approximately 553 million of recorded liabilities and related interest and penalties pertaining to uncertain tax positions. We are unable to make a reasonable estimate as to when cash settlement with the tax authorities might occur due to the uncertainties related to these tax matters. Payments of these obligations would result from settlements with taxing authorities. For more information on our uncertain tax positions, see Note 5, Taxes on Earnings , to the Consolidated Condensed Financial Statements in Item 1 of Part I of this report, which is incorporated herein by reference. 
+
+OFF-BALANCE SHEET ARRANGEMENTS 
+ As part of our ongoing business, we have not participated in transactions that generate material relationships with unconsolidated entities or financial partnerships, such as entities often referred to as structured finance or special purpose entities, which would have been established for the purpose of facilitating off-balance sheet arrangements or other contractually narrow or limited purposes. 
+ We have third-party short-term financing arrangements intended to facilitate the working capital requirements of certain customers. For more information on our third-party short-term financing arrangements, see Note 6, Supplementary Financial Information , to the Consolidated Condensed Financial Statements in Item 1 of Part I of this report, which is incorporated herein by reference. 
+ 54 
+
+Table of Contents 
+
+ Item 3. Quantitative and Qualitative Disclosures About Market Risk. 
+ For quantitative and qualitative disclosures about market risk affecting HP, see Quantitative and Qualitative Disclosures About Market Risk in Item 7A of Part II of our Annual Report on Form 10-K for the fiscal year ended October 31, 2020. Our exposure to market risk has not changed materially since October 31, 2020. 
+ 
+ Item 4. Controls and Procedures. 
+ Under the supervision and with the participation of our management, including our principal executive officer and principal financial officer, we conducted an evaluation of the effectiveness of the design and operation of our disclosure controls and procedures, as defined in Rules 13a-15(e) and 15d-15(e) under the Exchange Act as of the end of the period covered by this report (the Evaluation Date ). Based on this evaluation, our principal executive officer and principal financial officer concluded as of the Evaluation Date that our disclosure controls and procedures were effective such that the information required to be disclosed by us in our SEC reports (i) is recorded, processed, summarized and reported within the time periods specified in SEC rules and forms, and (ii) is accumulated and communicated to HP s management, including our principal executive officer and principal financial officer, as appropriate to allow timely decisions regarding required disclosure. 
+ Under the supervision and with the participation of our management, including our principal executive officer and principal financial officer, we conducted an evaluation of any changes in our internal control over financial reporting (as such term is defined in Rules 13a-15(f) and 15d-15(f) under the Exchange Act) that occurred during our most recently completed fiscal quarter. Based on that evaluation, our principal executive officer and principal financial officer concluded that there has not been any change in our internal control over financial reporting during that quarter that has materially affected, or is reasonably likely to materially affect, our internal control over financial reporting. 
+ We do not believe there has been any material impact to our internal controls over financial reporting notwithstanding that most of our employees are working remotely due to the COVID-19 pandemic. We continue to monitor and assess the COVID-19 situation on our internal controls to address any potential impact on their design and operating effectiveness. 
+ 
+ 55 
+
+Table of Contents 
+
+ PART II. OTHER INFORMATION 
+
+Item 1. Legal Proceedings. 
+ Information with respect to this item may be found in Note 12, Litigation and Contingencies to the Consolidated Condensed Financial Statements in Item 1 of Part I of this report, which is incorporated herein by reference. 
+ 
+ Item 1A. Risk Factors. 
+ Our operations and financial results are subject to various risks and uncertainties, including those described in Part I, Item 1A, Risk Factors in our Annual Report on Form 10-K for the fiscal year ended October 31, 2020, which could adversely affect our business, financial condition, results of operations, cash flows, and the trading price of our common and capital stock. There have been no material changes in our risk factors since our Annual Report on Form 10-K for the fiscal year ended October 31, 2020. 
+ 
+ 56 
+
+Table of Contents 
+
+Item 2. Unregistered Sales of Equity Securities and Use of Proceeds 
+ Recent Sales of Unregistered Securities 
+ There were no unregistered sales of equity securities during the period covered by this report. 
+ Issuer Purchases of Equity Securities 
+ The table below provides information regarding the Company s share repurchases during the three months ended April 30, 2021. 
+ Period Total Number of Shares Purchased Average Price Paid per Share Total Number of Shares Purchased as Part of Publicly Announced Plans or Programs Approximate Dollar Value of Shares that May Yet Be Purchased under the Plans or Programs In thousands, except per share amounts February 2021 13,837 26.05 13,837 10,941,111 March 2021 21,280 30.08 21,280 10,301,076 April 2021 18,368 33.13 18,368 9,692,513 Total 53,485 53,485 
+ The Company s share repurchase program, which does not have a specific expiration date, authorizes repurchases in the open market or in private transactions. On February 22, 2020, HP s Board of Directors increased HP s remaining share repurchase authorization to 15.0 billion in total. HP intends to repurchase shares opportunistically as part of a robust share repurchase program. HP expects to continue share repurchases at an elevated level of at least 1.0 billion per quarter in the coming quarters, unless higher return opportunities emerge. All share repurchases settled in the second quarter of fiscal year 2021 were open market transactions. As of April 30, 2021, HP had approximately 9.7 billion remaining under the share repurchase authorizations. 
+ 
+ Item 3. Defaults Upon Senior Securities. 
+ None. 
+ 
+ Item 4. Mine Safety Disclosures. 
+ Not applicable. 
+ 
+ Item 5. Other Information. 
+ Not applicable. 
+ 
+ Item 6. Exhibits. 
+ The Exhibit Index beginning on page 5 8 of this report sets forth a list of exhibits. 
+ 57 
+
+Table of Contents 
+
+HP INC. AND SUBSIDIARIES 
+ EXHIBIT INDEX 
+ Exhibit Number Incorporated by Reference Exhibit Description Form File No. Exhibit(s) Filing Date 2(a) Separation and Distribution Agreement, dated as of October 31, 2015, by and among Hewlett-Packard Company, Hewlett Packard Enterprise Company and the Other Parties Thereto. 
+ 8-K 001-04423 2.1 November 5, 2015 2(b) Transition Services Agreement, dated as of November 1, 2015, by and between Hewlett-Packard Company and Hewlett Packard Enterprise Company. 
+ 8-K 001-04423 2.2 November 5, 2015 2(d) Employee Matters Agreement, dated as of October 31, 2015, by and between Hewlett-Packard Company and Hewlett Packard Enterprise Company. 
+ 8-K 001-04423 2.4 November 5, 2015 3(a) Registrant s Certificate of Incorporation . 
+ 10-Q 001-04423 3(a) June 12, 1998 3(b) Registrant s Amendment to the Certificate of Incorporation. 
+ 10-Q 001-04423 3(b) March 16, 2001 
+ 58 
+
+Table of Contents 
+
+Exhibit Number Incorporated by Reference Exhibit Description Form File No. Exhibit(s) Filing Date 3(c) Registrant s Certificate of Amendment to the Certificate of Incorporation. 
+ 8-K 001-04423 3.2 October 22, 2015 3(d) Registrant s Certificate of Amendment to the Certificate of Incorporation. 
+ 8-K 001-04423 3.1 April 7, 2016 3(e) Registrant s Amended and Restated Bylaws. 
+ 8-K 001-04423 3.1 February 13, 2019 3(f) Certificate of Designations of Series A Junior Participating Preferred Stock of HP Inc. 
+ 8-K 001-04423 3.1 February 20, 2020 4(a) Form of Senior Indenture 
+ S-3 333-215116 4.1 December 15, 2016 4(b) Form of Subordinated Indenture. 
+ S-3 333-21516 4.2 December 15, 2016 4(c) Form of Registrant s 4.375 Global Note due September 15, 2021 and 6.000 Global Note due September 15, 2041 and form of related Officers Certificate. 8-K 001-04423 4.4 , 4.5 and 4.6 
+ September 19, 2011 4(d) Form of Registrant s 4.650 Global Note due December 9, 2021 and related Officers Certificate. 8-K 001-04423 4.3 and 4.4 
+ December 12, 2011 4(e) Form of Registrant s 4.050 Global Note due September 15, 2022 and related Officers Certificate. 8-K 001-04423 4.2 and 4.3 
+ March 12, 2012 4(f) Specimen certificate for the Registrant s common stock. 
+ 8-A/A 001-04423 4.1 June 23, 2006 4(g) First Supplemental Indenture, dated as of March 26, 2018, to the Indenture, dated as of June 1, 2000, by and between the Registrant and The Bank of New York Mellon Trust Company, N.A. 
+ 10-Q 001-04423 4(j) June 5, 2018 4(h) Description of HP Inc. s securities. 
+ 10-K 001-04423 4(j) December 12, 2019 4(i) Rights Agreement, dated as of February 20, 2020, between HP Inc. and Equiniti Trust Company, as rights agent, which includes the form of Right Certificate as Exhibit B and the Summary of Rights to Purchase Preferred Shares as Exhibit C. 
+ 8-K 001-04423 4.1 February 20, 2020 4(j) First Amendment to Rights Agreement, dated as of June 25, 2020, between HP Inc. and Equiniti Trust Company, as rights agent. 
+ 8-K 001-04423 4.1 June 26, 2020 4(k) Indenture, dated as of June 17, 2020, between HP Inc. and The Bank of New York Mellon Trust Company, N.A., as trustee. 
+ 8-K 001-04423 4.1 June 17, 2020 4(l) Form of 2.200 notes due 2025 and related Officers Certificate. 8-K 001-04423 4.2 and 4.5 
+ June 17, 2020 4(m) Form of 3.000 notes due 2027 and related Officers Certificate. 8-K 001-04423 4.3 and 4.5 
+ June 17, 2020 4(n) Form of 3.400 notes due 2030 and related Officers Certificate. 8-K 001-04423 4.4 and 4.5 
+ June 17, 2020 
+ 
+ 59 
+
+Table of Contents 
+
+Exhibit Number Incorporated by Reference Exhibit Description Form File No. Exhibit(s) Filing Date 10(a) Registrant s 2004 Stock Incentive Plan. 
+ S-8 333-114253 4.1 April 7, 2004 10(b) Registrant s Excess Benefit Retirement Plan, amended and restated as of January 1, 2006. 
+ 8-K 001-04423 10.2 September 21, 2006 10(c) Hewlett-Packard Company Cash Account Restoration Plan, amended and restated as of January 1, 2005. 
+ 8-K 001-04423 99.3 November 23, 2005 10(d) Registrant s 2005 Pay-for-Results Plan, as amended. 
+ 10-K 001-04423 10(h) December 14, 2011 10(e) Registrant s Executive Severance Agreement. 
+ 10-Q 001-04423 10(u)(u) June 13, 2002 10(f) Registrant s Executive Officers Severance Agreement. 
+ 10-Q 001-04423 10(v)(v) June 13, 2002 10(g) Form letter regarding severance offset for restricted stock and restricted units. 
+ 8-K 001-04423 10.2 March 22, 2005 10(h) Form of Agreement Regarding Confidential Information and Proprietary Developments (California). 
+ 8-K 001-04423 10.2 January 24, 2008 10(i) Form of Agreement Regarding Confidential Information and Proprietary Developments (Texas). 
+ 10-Q 001-04423 10(o)(o) March 10, 2008 10(j) Form of Stock Option Agreement for Registrant s 2004 Stock Incentive Plan. 
+ 10-Q 001-04423 10(p)(p) March 10, 2008 10(k) Form of Option Agreement for Registrant s 2000 Stock Plan. 
+ 10-Q 001-04423 10(t)(t) June 6, 2008 10(1) Form of Common Stock Payment Agreement for Registrant s 2000 Stock Plan. 
+ 10-Q 001-04423 10(u)(u) June 6, 2008 10(m) Form of Stock Notification and Award Agreement for awards of non-qualified stock options. 
+ 10-K 001-04423 10(y)(y) December 18, 2008 10(n) First Amendment to the Hewlett-Packard Company Excess Benefit Retirement Plan. 
+ 10-Q 001-04423 10(b)(b)(b) March 10, 2009 10(o) Form of Stock Notification and Award Agreement for awards of non-qualified stock options. 
+ 10-K 001-04423 10(i)(i)(i) December 15, 2010 10(p) Form of Agreement Regarding Confidential Information and Proprietary Developments (California new hires). 
+ 10-K 001-04423 10(j)(j)(j) December 15, 2010 10(q) Form of Agreement Regarding Confidential Information and Proprietary Developments (California current employees). 
+ 10-K 001-04423 10(k)(k)(k) December 15, 2010 10(r) Second Amended and Restated Hewlett-Packard Company 2004 Stock Incentive Plan, as amended effective February 28, 2013. 
+ 8-K 001-04423 10.2 March 21, 2013 10(s) Form of Stock Notification and Award Agreement for awards of restricted stock units. 
+ 10-Q 001-04423 10(u)(u) March 11, 2014 10(t) Form of Stock Notification and Award Agreement for awards of foreign stock appreciation rights. 
+ 10-Q 001-04423 10(v)(v) March 11, 2014 10(u) Form of Stock Notification and Award Agreement for long-term cash awards. 
+ 10-Q 001-04423 10(w)(w) March 11, 2014 10(v) Form of Stock Notification and Award Agreement for awards of non-qualified stock options. 
+ 10-Q 001-04423 10(x)(x) March 11, 2014 10(w) Form of Grant Agreement for grants of performance-adjusted restricted stock units. 
+ 10-Q 001-04423 10(y)(y) March 11, 2014 
+ 60 
+
+Table of Contents 
+
+Exhibit Number Incorporated by Reference Exhibit Description Form File No. Exhibit(s) Filing Date 10(x) Form of Stock Notification and Award Agreement for awards of restricted stock. 
+ 10-Q 001-04423 10(z)(z) March 11, 2014 10(y) Form of Stock Notification and Award Agreement for awards of performance-contingent non-qualified stock options. 
+ 10-Q 001-04423 10(a)(a)(a) March 11, 2014 10(z) Form of Grant Agreement for grants of performance-contingent non-qualified stock options. 
+ 10-Q 001-04423 10(b)(b)(b) March 11, 2014 10(a)(a) Form of Grant Agreement for grants of restricted stock units. 
+ 10-Q 001-04423 10(c)(c)(c) March 11, 2015 10(b)(b) Form of Grant Agreement for grants of foreign stock appreciation rights. 
+ 10-Q 001-04423 10(d)(d)(d) March 11, 2015 10(c)(c) Form of Grant Agreement for grants of long-term cash awards. 
+ 10-Q 001-04423 10(e)(e)(e) March 11, 2015 10(d)(d) Form of Grant Agreement for grants of non-qualified stock options. 
+ 10-Q 001-04423 10(f)(f)(f) March 11, 2015 10(e)(e) Form of Grant Agreement for grants of performance-adjusted restricted stock units. 
+ 10-Q 001-04423 10(g)(g)(g) March 11, 2015 10(f)(f) Form of Grant Agreement for grants of restricted stock awards. 
+ 10-Q 001-04423 10(h)(h)(h) March 11, 2015 10(g)(g) Form of Grant Agreement for grants of performance-contingent non-qualified stock options. 
+ 10-Q 001-04423 10(i)(i)(i) March 11, 2015 10(h)(h) Term Loan Agreement, dated as of April 30, 2015, among the Registrant, the lenders named therein and JPMorgan Chase Bank, N.A., as administrative agent. 
+ 10-Q 001-04423 10(b)(b)(b) June 8, 2015 10(i)(i) Amendment, dated as of June 1, 2015, to the Term Loan Agreement, dated as of April 30, 2015, among the Registrant, the lenders named therein and JPMorgan Chase Bank, N.A., as administrative agent. 
+ 10-Q 001-04423 10(c)(c)(c) June 8, 2015 10(j)(j) Second Amended and Restated Five-Year Credit Agreement, dated as of April 2, 2014, as Amended and Restated as of November 1, 2015, among the Registrant, the lenders named therein and Citibank, N.A., as administrative processing agent and co-administrative agent, and JPMorgan Chase Bank, N.A., as co-administrative agent. 
+ 10-Q 001-04423 10(j)(j) June 5, 2018 10(k)(k) Amendment No. 1, dated March 1, 2019 to Second Amended and Restated Five-Year Credit Agreement, dated as of April 2, 2014, as Amended and Restated as of November 1, 2015, as further Amended and Restated as of March 30, 2018, among the Registrant, the lenders named therein and Citibank, N.A., as administrative processing agent and co-administrative agent, and JPMorgan Chase Bank, N.A., as co-administrative agent. 
+ 10-Q 001-04423 10(k)(k) March 5, 2019 10(l)(l) Form of Grant Agreement for grants of foreign stock appreciation rights. 
+ 10-K 001-04423 10(e)(e)(e) December 16, 2015 10(m)(m) Form of Grant Agreement for grants of performance-contingent non-qualified stock options. 
+ 10-K 001-04423 10(f)(f)(f) December 16, 2015 10(n)(n) Form of Grant Agreement for grants of non-qualified stock options. 
+ 10-K 001-04423 10(g)(g)(g) December 16, 2015 
+ 61 
+
+Table of Contents 
+
+Exhibit Number Incorporated by Reference Exhibit Description Form File No. Exhibit(s) Filing Date 10(o)(o) Registrant s 2005 Executive Deferred Compensation Plan, amended and restated effective November 1, 2017. 
+ 10-K/A 001-04423 10(n)(n) December 15, 2017 10(p)(p) Registrant s Severance and Long-Term Incentive Change in Control Plan for Executive Officers, amended and restated effective February 28, 2020. 
+ 10-Q 001-04423 10(p)(p) March 5, 2020 10(q)(q) Form of Stock Notification and Award Agreement for awards of performance-contingent non-qualified stock options (launch grant). 
+ 10-Q 001-04423 10(p)(p) March 3, 2016 10(r)(r) Form of Stock Notification and Award Agreement for awards of restricted stock units (launch grant). 
+ 10-Q 001-04423 10(q)(q) March 3, 2016 10(s)(s) Form of Stock Notification and Award Agreement for awards of restricted stock units. 
+ 10-Q 001-04423 10(r)(r) March 3, 2016 10(t)(t) Form of Stock Notification and Award Agreement for awards of performance-adjusted restricted stock units. 
+ 10-Q 001-04423 10(s)(s) March 3, 2016 10(u)(u) Form of Amendment to Award Agreements for awards of restricted stock units or performance-adjusted restricted stock units, effective January 1, 2016. 
+ 10-Q 001-04423 10(t)(t) March 3, 2016 10(v)(v) 2017 Amendment to the Hewlett-Packard Company Cash Account Restoration Plan. 
+ 10-Q 001-04423 10(w)(w) March 2, 2017 10(w)(w) Second Amendment to the Hewlett-Packard Company Excess Benefit Retirement Plan. 
+ 10-Q 001-04423 10(x)(x) March 2, 2017 10(x)(x) Second Amended and Restated HP Inc. 2004 Stock Incentive Plan, as amended and restated effective January 23, 2017. 
+ 10-Q 001-04423 10(y)(y) March 2, 2017 10(y)(y) Form of Grant Agreement for grants of performance-adjusted restricted stock units (for use from November 1, 2016). 
+ 10-Q 001-04423 10(z)(z) March 2, 2017 10(z)(z) Form of Grant Agreement for grants of restricted stock units (for use from November 1, 2016). 
+ 10-Q 001-04423 10(a)(a)(a) March 2, 2017 10(a)(a)(a) Second Amended and Restated HP Inc. 2004 Stock Incentive Plan (as amended effective January 29, 2018). 
+ 10-Q 001-04423 10(b)(b)(b) March 1, 2018 10(b)(b)(b) Form of Grant Agreement for grants of restricted stock units (for use from November 1, 2017). 
+ 10-Q 001-04423 10(c)(c)(c) March 1, 2018 10(c)(c)(c) Form of Grant Agreement for grants of performance-adjusted restricted stock units (for use from November 1, 2017). 
+ 10-Q 001-04423 10(d)(d)(d) March 1, 2018 10(d)(d)(d) Form of Grant Agreement for grants of restricted stock units for directors (for use from November 1, 2017). 
+ 10-Q 001-04423 10(e)(e)(e) March 1, 2018 10(e)(e)(e) Form of Grant Agreement for grants of stock options for directors (for use from November 1, 2017). 
+ 10-Q 001-04423 10(f)(f)(f) March 1, 2018 10(f)(f)(f) Form of Grant Agreement for grants of restricted stock units (for use from November 1, 2018). 
+ 10-K 001-04423 10(g)(g)(g) December 13, 2018 10(g)(g)(g) Form of Grant Agreement for grants of performance-adjusted restricted stock units (for use from November 1, 2018). 
+ 10-K 001-04423 10(h)(h)(h) December 13, 2018 
+ 62 
+
+Table of Contents 
+
+Exhibit Number Incorporated by Reference Exhibit Description Form File No. Exhibit(s) Filing Date 10(h)(h)(h) Form of Grant Agreement for grants of stock options for directors (for use from November 1, 2018). 
+ 10-Q 001-04423 10(j)(j)(j) March 5, 2019 10(i)(i)(i) Form of Grant Agreement for grants of restricted stock units for directors (for use from November 1, 2018). 
+ 10-Q 001-04423 10(k)(k)(k) March 5, 2019 10(j)(j)(j) Form of Grant Agreement for grants of restricted stock units (for use from July 1, 2019). 
+ 10-Q 001-04423 10(l)(l)(l) August 29, 2019 10(k)(k)(k) Form of Grant Agreement for grants of non-qualified stock options. 
+ 10-K 001-04423 10(m)(m)(m) December 12, 2019 10(l)(l)(l) Form of Retention Grant Agreement for grants of non-qualified stock options. 
+ 10-K 001-04423 10(n)(n)(n) December 12, 2019 10(m)(m)(m) Form of Grant Agreement for grants of stock options for directors (for use from January 15, 2020). 
+ 10-Q 001-04423 10(m)(m)(m) March 5, 2020 10(n)(n)(n) Form of Grant Agreement for grants of restricted stock units for directors (for use from January 15, 2020). 
+ 10-Q 001-04423 10(n)(n)(n) March 5, 2020 10(o)(o)(o) Form of Retention Grant Agreement for grants of restricted stock units (for use from November 1, 2019). 
+ 10-Q 001-04423 10(o)(o)(o) March 5, 2020 10(p)(p)(p) Form of Grant Agreement for grants of restricted stock units (for use from November 1, 2019). 
+ 10-Q 001-04423 10(p)(p)(p) March 5, 2020 10(q)(q)(q) Form of Grant Agreement for grants of performance-adjusted restricted stock units (for use from November 1, 2019). 
+ 10-Q 001-04423 10(q)(q)(q) March 5, 2020 10(r)(r)(r) Amendment Number One to Second Amended and Restated HP Inc. 2004 Stock Incentive Plan (as amended effective February 28, 2020). 
+ 10-Q 001-04423 10(r)(r)(r) June 5, 2020 10(s)(s)(s) Amendment Number One to Registrant s 2005 Executive Deferred Compensation Plan (as amended effective February 28, 2020). 
+ 
+ 10-Q 001-04423 10(s)(s)(s) June 5, 2020 10(t)(t)(t) HP Inc. 2021 Employee Stock Purchase Plan. 
+ 10-Q 001-04423 10(t)(t)(t) June 5, 2020 10(u)(u)(u) 364-Day Credit Agreement, dated as of May 29, 2020, among the Registrant, the lenders named therein, and JPMorgan Chase Bank, N.A., as administrative agent. 
+ 10-Q 001-04423 10(u)(u)(u) June 5, 2020 10(v)(v)(v) Amendment Number Two to Second Amended and Restated HP Inc. 2004 Stock Incentive Plan (as amended effective September 21, 2020. 
+ 10-K 001-04423 10(x)(x)(x) December 10, 2020 10(w)(w)(w) Amendment Number Two to Registrant's 2005 Executive Deferred Compensation Plan (as amended effective September 21, 2020). 
+ 10-K 001-04423 10(y)(y)(y) December 10, 2020 10(x)(x)(x) Form of Grant Agreement for grants of restricted stock units (for use from November 17, 2020). 
+ 10-Q 001-04423 10(x)(x)(x) March 5, 2021 10(y)(y)(y) Form of Retention Grant Agreement for grants of restricted stock units (for use from November 17, 2020). 
+ 10-Q 001-04423 10(y)(y)(y) March 5, 2021 
+ 63 
+
+Table of Contents 
+
+Exhibit Number Incorporated by Reference Exhibit Description Form File No. Exhibit(s) Filing Date 10(z)(z)(z) Form of Grant Agreement for grants of non-qualified stock options. 
+ 10-Q 001-04423 10(z)(z)(z) March 5, 2021 10(a)(a)(a)(a) Form of Retention Grant Agreement for grants of non-qualified stock options. 
+ 10-Q 001-04423 10(a)(a)(a)(a) March 5, 2021 10(b)(b)(b)(b) Form of Grant Agreement for grants of performance-adjusted restricted stock units (for use from November 17, 2020). 
+ 10-Q 001-04423 10(b)(b)(b)(b) March 5, 2021 10(c)(c)(c)(c) Form of Grant Agreement for grants of performance-contingent non-qualified stock options. 
+ 10-Q 001-04423 10(c)(c)(c)(c) March 5, 2021 10(d)(d)(d)(d) Form of Grant Agreement for grants of restricted stock units for directors. 
+ 10-Q 001-04423 10(d)(d)(d)(d) March 5, 2021 10(e)(e)(e)(e) First Amendment to the Registrant s Severance and Long-Term Incentive Change in Control Plan for Executive Officers, as amended and restated effective February 28, 2020 (as amended effective December 7, 2020) 
+ 10-Q 001-04423 10(e)(e)(e)(e) March 5, 2021 10(f)(f)(f)(f) Amendment Number Three to Registrant s 2005 Executive Deferred Compensation Plan (as amended effective November 17, 2020). 
+ 10-Q 001-04423 10(f)(f)(f)(f) March 5, 2021 10(g)(g)(g)(g) Special Advisor to the CEO Agreement dated as of January 16, 2021 by and between the Registrant and Kim Rivera 
+ 10-Q 001-04423 10(g)(g)(g)(g) March 5, 2021 10(h)(h)(h)(h) Five-Year Credit Agreement, dated as of May 26, 2021, among the Registrant, the lenders named therein and JPMorgan Chase Bank, N.A., as administrative agent. 
+ 8-K 001-04423 10.1 June 1, 2021 31.1 Certification of Chief Executive Officer pursuant to Rule 13a-14(a) and Rule 15d-14(a) of the Securities Exchange Act of 1934, as amended. 
+ 31.2 Certification of Chief Financial Officer pursuant to Rule 13a-14(a) and Rule 15d-14(a) of the Securities Exchange Act of 1934, as amended. 
+ 32 Certification of Chief Executive Officer and Chief Financial Officer pursuant to 18 U.S.C. 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002 . 
+ 101.INS XBRL Instance Document - the instance document does not appear in the Interactive Data File because its XBRL tags are embedded within the Inline XBRL document. 101.SCH Inline XBRL Taxonomy Extension Schema Document. 101.CAL Inline XBRL Taxonomy Extension Calculation Linkbase Document. 101.DEF Inline XBRL Taxonomy Extension Definition Linkbase Document. 101.LAB Inline XBRL Taxonomy Extension Label Linkbase Document. 101.PRE Inline XBRL Taxonomy Extension Presentation Linkbase Document. 
+ 64 
+
+Table of Contents 
+
+Exhibit Number Incorporated by Reference Exhibit Description Form File No. Exhibit(s) Filing Date 104 The cover page from the Company s Quarterly Report on Form 10-Q for the quarter ended April 30, 2021, formatted in Inline XBRL (included within the Exhibit 101 attachments). 
+ 
+ Indicates management contract or compensatory plan, contract or arrangement. 
+ Certain schedules and exhibits to this agreement have been omitted pursuant to Item 601(a)(5) of Registration S-K. A copy of any omitted schedule and/or exhibit will be furnished supplementally to the SEC upon request. 
+ Filed herewith. 
+ Furnished herewith. 
+
+The registrant agrees to furnish to the Commission supplementally upon request a copy of (1) any instrument with respect to long-term debt not filed herewith as to which the total amount of securities authorized thereunder does not exceed 10 of the total assets of the registrant and its subsidiaries on a consolidated basis and (2) any omitted schedules to any material agreements set forth above. 
+
+65 
+
+Table of Contents 
+
+ SIGNATURE 
+ 
+ Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized. 
+ HP INC. /s/ MARIE MYERS Marie Myers 
+ Chief Financial Officer 
+ (Principal Financial Officer and 
+ Authorized Signatory) 
+ 
+ Date: June 4, 2021 
+ 
+ 66 
+
+<EX-31.1>
+ 2
+ hp-43021xexhibit311q2.htm
+ EX-31.1
+
+Document 
+
+Exhibit 31.1 
+ CERTIFICATION 
+ I, Enrique Lores, certify that 
+ 1. I have reviewed this Quarterly Report on Form 10-Q of HP Inc. 
+ 2. Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report 
+ 3. Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report 
+ 4. The registrant's other certifying officer(s) and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have 
+ (a) Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared 
+ (b) Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles 
+ (c) Evaluated the effectiveness of the registrant's disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation and 
+ (d) Disclosed in this report any change in the registrant's internal control over financial reporting that occurred during the registrant's most recent fiscal quarter (the registrant's fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant's internal control over financial reporting and 
+ 5. The registrant's other certifying officer(s) and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant's auditors and the audit committee of the registrant's board of directors (or persons performing the equivalent functions) 
+ (a) All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant's ability to record, process, summarize and report financial information and 
+ (b) Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant's internal control over financial reporting. 
+ Date June 4, 2021 
+ s ENRIQUE LORES Enrique Lores 
+ President and Chief Executive Officer 
+
+</EX-31.1>
+
+<EX-31.2>
+ 3
+ hp-43021xexhibit312q2.htm
+ EX-31.2
+
+Document 
+
+Exhibit 31.2 
+ CERTIFICATION 
+ I, Marie Myers, certify that 
+ 1. I have reviewed this Quarterly Report on Form 10-Q of HP Inc. 
+ 2. Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report 
+ 3. Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report 
+ 4. The registrant's other certifying officer(s) and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have 
+ (a) Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared 
+ (b) Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles 
+ (c) Evaluated the effectiveness of the registrant's disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation and 
+ (d) Disclosed in this report any change in the registrant's internal control over financial reporting that occurred during the registrant's most recent fiscal quarter (the registrant's fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant's internal control over financial reporting and 
+ 5. The registrant's other certifying officer(s) and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant's auditors and the audit committee of the registrant's board of directors (or persons performing the equivalent functions) 
+ (a) All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant's ability to record, process, summarize and report financial information and 
+ (b) Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant's internal control over financial reporting. 
+ Date June 4, 2021 
+ s MARIE MYERS Marie Myers 
+ Chief Financial Officer 
+ (Principal Financial Officer) 
+
+</EX-31.2>
+
+<EX-32>
+ 4
+ hp-43021xexhibit32q2.htm
+ EX-32
+
+Document 
+
+Exhibit 32 
+ 
+ CERTIFICATION 
+ OF 
+ CHIEF EXECUTIVE OFFICER 
+ AND 
+ CHIEF FINANCIAL OFFICER 
+ PURSUANT TO 18 U.S.C. 1350, 
+ AS ADOPTED PURSUANT TO 
+ SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002 
+ 
+ I, Enrique Lores, certify, pursuant to 18 U.S.C. 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002, that the Quarterly Report on Form 10-Q of HP Inc. for the second quarter ended April 30, 2021 fully complies with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act of 1934, as amended, and that information contained in such Quarterly Report on Form 10-Q fairly presents, in all material respects, the financial condition and results of operations of HP Inc. 
+ June 4, 2021 
+ s ENRIQUE LORES By Enrique Lores 
+ President and Chief Executive Officer 
+ 
+ ________________________________________________________________________________________________________________________ 
+ I, Marie Myers, certify, pursuant to 18 U.S.C. 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002, that the Quarterly Report on Form 10-Q of HP Inc. for the second quarter ended April 30, 2021 fully complies with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act of 1934, as amended, and that information contained in such Quarterly Report on Form 10-Q fairly presents, in all material respects, the financial condition and results of operations of HP Inc. 
+ June 4, 2021 
+ s MARIE MYERS By Marie Myers 
+ Chief Financial Officer 
+ 
+ ________________________________________________________________________________________________________________________ 
+
+</EX-32>
+
+<EX-101.SCH>
+ 5
+ hpq-20210430.xsd
+ XBRL TAXONOMY EXTENSION SCHEMA DOCUMENT
+
+</EX-101.SCH>
+
+<EX-101.CAL>
+ 6
+ hpq-20210430_cal.xml
+ XBRL TAXONOMY EXTENSION CALCULATION LINKBASE DOCUMENT
+
+</EX-101.CAL>
+
+<EX-101.DEF>
+ 7
+ hpq-20210430_def.xml
+ XBRL TAXONOMY EXTENSION DEFINITION LINKBASE DOCUMENT
+
+</EX-101.DEF>
+
+<EX-101.LAB>
+ 8
+ hpq-20210430_lab.xml
+ XBRL TAXONOMY EXTENSION LABEL LINKBASE DOCUMENT
+
+</EX-101.LAB>
+
+<EX-101.PRE>
+ 9
+ hpq-20210430_pre.xml
+ XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE DOCUMENT
+
+</EX-101.PRE>
+

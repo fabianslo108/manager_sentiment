@@ -31,6 +31,8 @@ taking only the last point) for anything predictive.
 
 from __future__ import annotations
 
+import argparse
+from pathlib import Path
 from typing import Callable, Mapping, Sequence
 
 import numpy as np
@@ -342,11 +344,225 @@ def build_manager_sentiment(
     return monthly.reset_index()
 
 
-def save_time_series(frame: pd.DataFrame, path) -> None:
-    """Write the monthly series, creating the directory if needed."""
-    from pathlib import Path
-
+def save_time_series(frame: pd.DataFrame, path) -> Path:
+    """Write the monthly series as parquet (or csv, if the path says so)."""
     path = Path(path)
+    if path.suffix == "":
+        path = path.with_suffix(".parquet")
     path.parent.mkdir(parents=True, exist_ok=True)
-    frame.to_csv(path, index=False)
+    if path.suffix == ".csv":
+        frame.to_csv(path, index=False)
+    else:
+        frame.to_parquet(path, index=False)
     logger.info("wrote %d month(s) to %s", len(frame), path)
+    return path
+
+
+# ---------------------------------------------------------------------------
+# Report-level input
+# ---------------------------------------------------------------------------
+
+#: Filing key used to match text files to a sentiment table. Form type is
+#: stored as ``10-K`` / ``10-Q`` whichever spelling the source used.
+_MATCH_COLUMNS = ("_DATE", "_ACC", "_FORM")
+
+
+def _normalize_form(value: object) -> str:
+    compact = str(value).upper().replace("-", "")
+    return {"10K": "10-K", "10Q": "10-Q"}.get(compact, str(value))
+
+
+def _filing_date_str(series: pd.Series) -> pd.Series:
+    """``YYYYMMDD`` as an 8-character string, from ints or strings."""
+    if pd.api.types.is_numeric_dtype(series):
+        return series.round().astype("Int64").astype(str)
+    return series.astype(str).str.replace(r"\.0$", "", regex=True).str.slice(0, 8)
+
+
+def _with_match_keys(reports: pd.DataFrame) -> pd.DataFrame:
+    if "FORM_TYPE" in reports.columns:
+        form = reports["FORM_TYPE"]
+    elif "REPORT_TYPE" in reports.columns:
+        form = reports["REPORT_TYPE"]
+    else:
+        raise KeyError("report table needs FORM_TYPE or REPORT_TYPE")
+    missing = [c for c in ("FILING_DATE", "ACC_NUM") if c not in reports.columns]
+    if missing:
+        raise KeyError(f"report table is missing column(s): {missing}")
+    out = reports.copy()
+    out["_DATE"] = _filing_date_str(out["FILING_DATE"])
+    out["_ACC"] = out["ACC_NUM"].astype(str)
+    out["_FORM"] = form.map(_normalize_form)
+    return out
+
+
+def polarity_columns(reports: pd.DataFrame) -> list[str]:
+    """Report-level sentiment columns. Smoothed monthly suffixes are excluded."""
+    return [
+        column
+        for column in reports.columns
+        if column.startswith("polarity_")
+        and "_ma" not in column
+        and not column.endswith(("_hp", "_hp1s"))
+    ]
+
+
+def prepare_reports(reports: pd.DataFrame) -> pd.DataFrame:
+    """One row per filing, with ``FORM_TYPE`` and ``polarity_*`` columns.
+
+    Accepts either the wide table (``REPORT_TYPE`` plus ``polarity_growth_llama``
+    and the other measures) or the long extraction output (one row per
+    ``strategy``, with a ``polarity`` column).
+    """
+    if "strategy" in reports.columns and "polarity" in reports.columns and not polarity_columns(reports):
+        frame = _with_match_keys(reports)
+        frame["CIK"] = frame["CIK"].astype(str).str.replace(r"\.0$", "", regex=True)
+        wide = (
+            frame.pivot_table(
+                index=["CIK", "_DATE", "_ACC", "_FORM"],
+                columns="strategy",
+                values="polarity",
+                aggfunc="mean",
+            )
+            .rename(columns=lambda name: f"polarity_{name}")
+            .reset_index()
+            .rename(columns={"_DATE": "FILING_DATE", "_ACC": "ACC_NUM", "_FORM": "FORM_TYPE"})
+        )
+        wide.columns.name = None
+        return wide
+
+    frame = _with_match_keys(reports)
+    columns = polarity_columns(frame)
+    if not columns:
+        raise KeyError(
+            "no polarity columns found: expected polarity_* or a long table with strategy and polarity"
+        )
+    frame["CIK"] = frame["CIK"].astype(str).str.replace(r"\.0$", "", regex=True)
+    before = len(frame)
+    grouped = (
+        frame.groupby(["CIK", "_DATE", "_ACC", "_FORM"], dropna=False, as_index=False)[columns]
+        .mean()
+        .rename(columns={"_DATE": "FILING_DATE", "_ACC": "ACC_NUM", "_FORM": "FORM_TYPE"})
+    )
+    if len(grouped) < before:
+        logger.warning(
+            "averaged %d extra duplicate row(s); %d filing(s) remain",
+            before - len(grouped),
+            len(grouped),
+        )
+    logger.info(
+        "prepared %d filing(s), measures: %s",
+        len(grouped),
+        ", ".join(columns),
+    )
+    return grouped
+
+
+def select_filings(reports: pd.DataFrame, filings_dir: str | Path) -> pd.DataFrame:
+    """Keep sentiment rows whose filing is among the texts under ``filings_dir``.
+
+    Match is on filing date, accession number and form type. The returned frame
+    keeps the source columns, so it can be written back out as an extraction table.
+    """
+    from reports import discover_reports
+
+    found = discover_reports(filings_dir)
+    if found.empty:
+        raise RuntimeError(f"no filings discovered under {filings_dir}")
+
+    keyed = _with_match_keys(reports)
+    wanted = _with_match_keys(found)[list(_MATCH_COLUMNS)].drop_duplicates()
+    present = keyed[list(_MATCH_COLUMNS)].drop_duplicates()
+    n_hit = wanted.merge(present, on=list(_MATCH_COLUMNS), how="inner").shape[0]
+    n_wanted = len(wanted)
+    logger.info("%d of %d discovered filing(s) have a sentiment row", n_hit, n_wanted)
+
+    matched = keyed.merge(wanted, on=list(_MATCH_COLUMNS), how="inner")
+    matched = matched.drop(columns=list(_MATCH_COLUMNS))
+    if n_hit < n_wanted:
+        logger.warning(
+            "%d discovered filing(s) are not in the sentiment table and are left out",
+            n_wanted - n_hit,
+        )
+    if matched.empty:
+        raise RuntimeError(f"none of the filings under {filings_dir} appear in the sentiment table")
+    return matched.reset_index(drop=True)
+
+
+def load_reports(path: str | Path) -> pd.DataFrame:
+    """Read one report-level sentiment table, parquet or csv."""
+    path = Path(path)
+    if not path.exists():
+        raise FileNotFoundError(path)
+    if path.suffix == ".parquet":
+        frame = pd.read_parquet(path)
+    elif path.suffix == ".csv":
+        frame = pd.read_csv(path)
+    else:
+        raise ValueError(f"unsupported sentiment table {path.name}; use .parquet or .csv")
+    logger.info("loaded %d row(s) from %s", len(frame), path.name)
+    return frame
+
+
+def save_table(frame: pd.DataFrame, path) -> Path:
+    """Write a report-level table as parquet."""
+    path = Path(path)
+    if path.suffix == "":
+        path = path.with_suffix(".parquet")
+    path.parent.mkdir(parents=True, exist_ok=True)
+    frame.to_parquet(path, index=False)
+    logger.info("wrote %d row(s) to %s", len(frame), path)
+    return path
+
+
+def aggregate_file(
+    input_path: str | Path,
+    output_path: str | Path,
+    filings_dir: str | Path | None = None,
+    matched_output: str | Path | None = None,
+    standardize_by: str | None = "FORM_TYPE",
+    standardize_method: str = "zscore",
+    weight_col: str | None = None,
+) -> pd.DataFrame:
+    """Load a sentiment table, optionally restrict it to on-disk filings, and save the monthly series."""
+    reports = load_reports(input_path)
+    if filings_dir is not None:
+        reports = select_filings(reports, filings_dir)
+        if matched_output is not None:
+            save_table(reports, matched_output)
+    prepared = prepare_reports(reports)
+    series = build_manager_sentiment(
+        prepared,
+        value_cols=polarity_columns(prepared),
+        weight_col=weight_col,
+        standardize_by=standardize_by,
+        standardize_method=standardize_method,
+    )
+    save_time_series(series, output_path)
+    return series
+
+
+def main(argv: Sequence[str] | None = None) -> None:
+    parser = argparse.ArgumentParser(description="Aggregate report-level sentiment to a monthly series.")
+    parser.add_argument("--input", type=Path, required=True)
+    parser.add_argument("--output", type=Path, required=True)
+    parser.add_argument("--filings-dir", type=Path, default=None)
+    parser.add_argument("--matched-output", type=Path, default=None)
+    parser.add_argument("--standardize-by", default="FORM_TYPE")
+    parser.add_argument("--standardize-method", default="zscore", choices=list(STANDARDIZE_METHODS))
+    parser.add_argument("--weight-col", default=None)
+    args = parser.parse_args(list(argv) if argv is not None else None)
+    standardize_by = None if args.standardize_by in ("none", "None", "") else args.standardize_by
+    aggregate_file(
+        args.input,
+        args.output,
+        filings_dir=args.filings_dir,
+        matched_output=args.matched_output,
+        standardize_by=standardize_by,
+        standardize_method=args.standardize_method,
+        weight_col=args.weight_col,
+    )
+
+
+if __name__ == "__main__":
+    main()

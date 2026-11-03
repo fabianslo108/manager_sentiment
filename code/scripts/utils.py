@@ -23,6 +23,8 @@ REPO_ROOT = Path(__file__).resolve().parents[2]
 INPUT_DATA_DIR = REPO_ROOT / "input_data"
 SENTIMENT_RESULTS_DIR = REPO_ROOT / "sentiment_extraction_results"
 MANAGER_SENTIMENT_DIR = REPO_ROOT / "manager_sentiment_results"
+#: Monthly series built from the full report-level sentiment table.
+TIME_AGGREGATION_DIR = REPO_ROOT / "time_aggregation"
 
 #: Natural key of a filing. Used instead of a positional row index so that
 #: sentiment scores stay attached to the right report no matter how the input

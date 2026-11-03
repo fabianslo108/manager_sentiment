@@ -1,0 +1,994 @@
+<Header>
+<FileStats>
+    <FileName>20211104_10-Q_edgar_data_899751_0000899751-21-000129.txt</FileName>
+    <GrossFileSize>10337540</GrossFileSize>
+    <NetFileSize>101565</NetFileSize>
+    <NonText_DocumentType_Chars>1389047</NonText_DocumentType_Chars>
+    <HTML_Chars>3935656</HTML_Chars>
+    <XBRL_Chars>2351579</XBRL_Chars>
+    <XML_Chars>2370177</XML_Chars>
+    <N_Exhibits>8</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0000899751-21-000129.hdr.sgml : 20211104
+<ACCEPTANCE-DATETIME>20211103180533
+ACCESSION NUMBER:		0000899751-21-000129
+CONFORMED SUBMISSION TYPE:	10-Q
+PUBLIC DOCUMENT COUNT:		85
+CONFORMED PERIOD OF REPORT:	20210930
+FILED AS OF DATE:		20211104
+DATE AS OF CHANGE:		20211103
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			TITAN INTERNATIONAL INC
+		CENTRAL INDEX KEY:			0000899751
+		STANDARD INDUSTRIAL CLASSIFICATION:	STEEL WORKS, BLAST FURNACES  ROLLING MILLS (COKE OVENS) [3312]
+		IRS NUMBER:				363228472
+		STATE OF INCORPORATION:			IL
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		10-Q
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-12936
+		FILM NUMBER:		211376957
+
+	BUSINESS ADDRESS:	
+		STREET 1:		2701 SPRUCE ST
+		CITY:			QUINCY
+		STATE:			IL
+		ZIP:			62301
+		BUSINESS PHONE:		2172286011
+
+	MAIL ADDRESS:	
+		STREET 1:		2701 SPRUCE ST
+		CITY:			QUINCY
+		STATE:			IL
+		ZIP:			62301
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	TITAN WHEEL INTERNATIONAL INC
+		DATE OF NAME CHANGE:	19930403
+
+</SEC-Header>
+</Header>
+
+ 0000899751-21-000129.txt : 20211104
+
+10-Q
+ 1
+ twi-20210930.htm
+ 10-Q
+
+twi-20210930 
+
+UNITED STATES 
+ SECURITIES AND EXCHANGE COMMISSION 
+ Washington, D.C. 20549 
+
+FORM 
+ QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+ For the Quarterly Period Ended: 
+ or 
+ TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+ 
+ Commission file number 
+
+(Exact name of registrant as specified in its charter) 
+
+(State or other jurisdiction of incorporation or organization) 
+ 
+ , , 
+ (Address of principal executive offices) 
+
+(I.R.S. Employer Identification No.) 
+
+(Zip Code) 
+ ) 
+ (Registrant s telephone number, including area code) 
+ 
+ Securities registered pursuant to Section 12(b) of the Act: 
+ Title of each class Trading Symbol Name of each exchange on which registered 
+
+Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days. No 
+ Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T 232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files). No 
+ Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company, or an emerging growth company. See definitions of large accelerated filer, accelerated filer, smaller reporting company, and "emerging growth company" in Rule 12b-2 of the Exchange Act. 
+ Large accelerated filer Non-accelerated filer Smaller reporting company Emerging growth company 
+ If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. 
+ 
+ Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act). Yes No 
+ 
+ Indicate the number of shares of Titan International, Inc. outstanding: shares of common stock, 0.0001 par value, as of October 29, 2021. 
+
+TITAN INTERNATIONAL, INC. 
+ 
+ TABLE OF CONTENTS 
+
+Page Part I. 
+ Financial Information 
+ Item 1. 
+ Financial Statements (Unaudited) 
+ Condensed Consolidated Statements of Operations for the Three and Ni ne Months Ended September 30, 2021 and 2020 
+ 1 
+ Condensed Consolidated Statements of Comprehensive Loss for the Three and Ni ne Mo nths Ended September 30, 2021 and 2020 
+ 2 
+ Condensed Consolidated Balance Sheets as of September 30, 2021 and December 31, 2020 
+ 3 
+ Condensed Consolidated Statements of Changes in Equity for the Three and Nine Months Ended September 30, 2021 and 2020 
+ 4 
+ Condensed Consolidated Statements of Cash Flows for the Ni n e Months Ended September 30, 2021 and 2020 
+ 6 
+ Notes to Condensed Consolidated Financial Statements 
+ 7 
+ Item 2. 
+ Management's Discussion and Analysis of Financial Condition and Results of Operations 
+ 26 
+ Item 3. 
+ Quantitative and Qualitative Disclosures About Market Risk 
+ 39 
+ Item 4. 
+ Controls and Procedures 
+ 39 
+ Part II. 
+ Other Information 
+ Item 1. 
+ Legal Proceedings 
+ 40 
+ Item 1A. 
+ Risk Factors 
+ 40 
+ Item 6. 
+ Exhibits 
+ 41 
+ Signatures 
+ 42 
+
+PART I. FINANCIAL INFORMATION 
+
+Item 1. Financial Statements 
+ 
+ TITAN INTERNATIONAL, INC. 
+ CONDENSED CONSOLIDATED STATEMENTS OF OPERATIONS (UNAUDITED) 
+ (All amounts in thousands, except per share data) 
+ 
+ Three months ended Nine months ended September 30, September 30, 2021 2020 2021 2020 Net sales Cost of sales Asset impairment Gross profit Selling, general and administrative expenses Research and development expenses Royalty expense Income (loss) from operations ) ) Interest expense ) ) ) ) Loss on senior note repurchase ) Foreign exchange gain (loss) ) ) Other income Income (loss) before income taxes ) ) Provision for income taxes Net income (loss) ) ) Net loss attributable to noncontrolling interests ) ) ) ) Net income (loss) attributable to Titan and applicable to common shareholders ) ) Income (loss) per common share: Basic ) ) Diluted ) ) Average common shares and equivalents outstanding: Basic Diluted Dividends declared per common share: 
+
+See accompanying Notes to Condensed Consolidated Financial Statements. 
+ 1 
+
+TITAN INTERNATIONAL, INC. 
+ CONDENSED CONSOLIDATED STATEMENTS OF COMPREHENSIVE LOSS (UNAUDITED) 
+ (All amounts in thousands) 
+ 
+ Three months ended September 30, 2021 2020 Net income (loss) ) Derivative gain (loss) ) Currency translation adjustment, net ) Pension liability adjustments, net of tax of (42) and 45, respectively Comprehensive loss ) ) Net comprehensive income (loss) attributable to redeemable and noncontrolling interests ) Comprehensive loss attributable to Titan ) ) 
+
+Nine months ended September 30, 2021 2020 Net income (loss) ) Derivative gain (loss) ) Currency translation adjustment, net ) ) Pension liability adjustments, net of tax of (83) and 65, respectively Comprehensive loss ) ) Net comprehensive loss attributable to redeemable and noncontrolling interests ) ) Comprehensive loss attributable to Titan ) ) 
+
+See accompanying Notes to Condensed Consolidated Financial Statements. 
+ 2 
+
+TITAN INTERNATIONAL, INC. 
+ CONDENSED CONSOLIDATED BALANCE SHEETS 
+ (All amounts in thousands, except share data) 
+ September 30, 2021 December 31, 2020 (unaudited) Assets Current assets Cash and cash equivalents Accounts receivable, net Inventories Prepaid and other current assets Total current assets Property, plant and equipment, net Operating lease assets Deferred income taxes Other assets Total assets Liabilities Current liabilities Short-term debt Accounts payable Other current liabilities Total current liabilities Long-term debt Deferred income taxes Other long-term liabilities Total liabilities Redeemable noncontrolling interest Equity Titan shareholders' equity Common stock 0.0001 par value, 120,000,000 shares authorized, 62,427,660 issued at September 30, 2021 and 61,466,593 at December 31, 2020) Additional paid-in capital Retained deficit ) ) Treasury stock (at cost, 80,876 shares at September 30, 2021 and 89,612 shares at December 31, 2020) ) ) Accumulated other comprehensive loss ) ) Total Titan shareholders equity Noncontrolling interests ) ) Total equity Total liabilities and equity 
+ See accompanying Notes to Condensed Consolidated Financial Statements. 
+ 3 
+
+TITAN INTERNATIONAL, INC. 
+ CONDENSED CONSOLIDATED STATEMENTS OF CHANGES IN EQUITY (UNAUDITED) 
+ (All amounts in thousands, except share data) 
+ Number of 
+ common shares 
+ Additional paid-in capital Retained (deficit) earnings Treasury stock Accumulated other comprehensive (loss) income Total Titan Equity Noncontrolling interest Total Equity Balance January 1, 2020 ) ) ) Net loss ) ) ) ) Currency translation adjustment, net ) ) ) ) Pension liability adjustments, net of tax Dividends declared ) ) ) Stock-based compensation VIE deconsolidation ) ) Issuance of common stock under 401(k) plan Balance March 31, 2020 ) ) ) ) Net (loss) income ) ) ) Currency translation adjustment, net Pension liability adjustments, net of tax Unrealized loss on investment ) ) ) Noncontrolling interest contributions Stock-based compensation Issuance of treasury stock under 401(k) plan ) Balance June 30, 2020 ) ) ) Net loss ) ) ) ) Currency translation adjustment, net ) Pension liability adjustments, net of tax Unrealized loss on investment ) ) ) Stock-based compensation Issuance of common stock under 401(k) plan Balance September 30, 2020 ) ) ) ) 
+
+4 
+
+Number of 
+ common shares 
+ Additional paid-in capital Retained (deficit) earnings Treasury stock Accumulated other comprehensive (loss) income Total Titan Equity Noncontrolling interest Total Equity Balance January 1, 2021 ) ) ) ) Net income (loss) ) Currency translation adjustment, net ) ) ) ) Pension liability adjustments, net of tax Derivative gain Stock-based compensation Issuance of common stock under 401(k) plan Balance March 31, 2021 ) ) ) ) Net (loss) income ) ) ) Currency translation adjustment, net Pension liability adjustments, net of tax Derivative gain Stock-based compensation ) Issuance of common stock under 401(k) plan Balance June 30, 2021 ) ) ) ) Net income (loss) ) Currency translation adjustment, net ) ) ) Pension liability adjustments, net of tax Derivative gain Stock-based compensation Issuance of common stock under 401(k) plan Balance September 30, 2021 ) ) ) ) 
+
+See accompanying Notes to Condensed Consolidated Financial Statements. 
+ 5 
+
+TITAN INTERNATIONAL, INC. 
+ CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS (UNAUDITED) 
+ (All amounts in thousands) 
+ Nine months ended September 30, Cash flows from operating activities: 2021 2020 Net income (loss) ) Adjustments to reconcile net income (loss) to net cash (used for) provided by operating activities: Depreciation and amortization Asset impairment Deferred income tax provision ) ) (Gain) loss on fixed asset and investment sale ) Gain on property insurance settlement ) Loss on senior note repurchase Stock-based compensation Issuance of stock under 401(k) plan Foreign currency translation (gain) loss ) (Increase) decrease in assets: Accounts receivable ) ) Inventories ) Prepaid and other current assets ) ) Other assets Increase (decrease) in liabilities: Accounts payable Other current liabilities Other liabilities ) ) Net cash (used for) provided by operating activities ) Cash flows from investing activities: Capital expenditures ) ) Sale of Wheels India Limited shares Proceeds from property insurance settlement Proceeds from sale of fixed assets ) Other Net cash (used for) provided by investing activities ) Cash flows from financing activities: Proceeds from borrowings Repurchase of senior secured notes ) Payment on debt ) ) Dividends paid ) Other financing activities ) ) Net cash provided by (used for) financing activities ) Effect of exchange rate changes on cash ) ) Net (decrease) increase in cash and cash equivalents ) Cash and cash equivalents, beginning of period Cash and cash equivalents, end of period Supplemental information: Interest paid Income taxes paid, net of refunds received 
+ 
+ See accompanying Notes to Condensed Consolidated Financial Statements. 
+ 6 
+
+TITAN INTERNATIONAL, INC. 
+ Notes to Condensed Consolidated Financial Statements 
+ (Unaudited) 
+
+1. 
+
+senior secured notes due 2028 (the senior secured notes due 2028) were carried at a cost of million at September 30, 2021. The fair value of the senior secured notes due 2028 at September 30, 2021, as obtained through an independent pricing source, was approximately million. 
+ 
+ Reclassifications 
+ Certain reclassifications have been made to prior year financial statements to conform to classifications used in the current year. These reclassifications had no impact on net loss, shareholders equity or cash flows as previously reported. 
+
+7 
+
+TITAN INTERNATIONAL, INC. 
+ Notes to Condensed Consolidated Financial Statements 
+ (Unaudited) 
+
+ 2. 
+ 
+ Allowance for doubtful accounts ) ) Accounts receivable, net 
+ 
+ Accounts receivable are reduced by an allowance for doubtful accounts for estimated uncollectible accounts receivable, which is based upon historical experience and specific customer collection issues. Accounts are written off against the allowance account when they are determined to no longer be collectible. 
+
+3. 
+ 
+ Work-in-process Finished goods 
+ 
+ Inventories are valued at the lower of cost or net realizable value. Net realizable value is estimated based on current selling prices. Inventory costs are calculated using the first-in, first-out (FIFO) method or average cost method. Estimated provisions are established for slow-moving and obsolete inventory. 
+
+4. 
+ 
+ Buildings and improvements Machinery and equipment Tools, dies and molds Construction-in-process Less accumulated depreciation ) ) 
+ 
+ Depreciation on property, plant and equipment for the nine months ended September 30, 2021 and 2020 totaled million and million, respectively. 
+ 
+ The Company recorded a million asset impairment charge during the nine months ended September 30, 2020 related to certain machinery and equipment located at Titan Tire Reclamation Corporation (TTRC) in Canada as a result of market declines, which indicated the remaining book value of the equipment is more than the fair market value. 
+ 
+ 8 
+
+TITAN INTERNATIONAL, INC. 
+ Notes to Condensed Consolidated Financial Statements 
+ (Unaudited) 
+
+ 5. 
+ 
+ Less accumulated amortization ) ) 
+ 
+ Amortization related to intangible assets for the nine months ended September 30, 2021 and 2020 totaled million and million, respectively. Intangible assets are included as a component of other assets in the Condensed Consolidated Balance Sheets. 
+ 
+ 2022 2023 2024 2025 Thereafter 
+
+6. 
+ 
+ Provision for warranty liabilities Warranty payments made ) ) Warranty liability, September 30 
+ 
+ The Company provides limited warranties on workmanship on its products in all market segments. The majority of the Company s products are subject to a limited warranty that ranges between less than one year and ten years, with certain product warranties being prorated after the first year. The Company calculates a provision for warranty expense based on past warranty experience. Warranty accruals are included as a component of other current liabilities on the Condensed Consolidated Balance Sheets. 
+ 
+ 9 
+
+TITAN INTERNATIONAL, INC. 
+ Notes to Condensed Consolidated Financial Statements 
+ (Unaudited) 
+
+ 7. 
+ 
+ ) Titan Europe credit facilities Revolving credit facility Other debt Total debt ) Less amounts due within one year Total long-term debt ) 
+ 
+ December 31, 2020 Principal Balance Unamortized Debt Issuance Net Carrying Amount 6.50 senior secured notes due 2023 ) Titan Europe credit facilities Other debt Total debt ) Less amounts due within one year Total long-term debt ) 
+ 
+ 2022 2023 2024 2025 Thereafter 
+ 
+ 7.00 senior secured notes due 2028 
+ On April 22, 2021, the Company issued million aggregate principal amount of senior secured notes due April 2028 (the senior secured notes due 2028), guaranteed by certain of the Company's subsidiaries. Including the impact of debt issuance costs, these notes had an effective yield of at issuance. These notes are secured by the land and buildings of the following subsidiaries of the Company: Titan Wheel Corporation of Illinois; Titan Tire Corporation, Titan Tire Corporation of Freeport, and Titan Tire Corporation of Bryan. 
+ 10 
+
+TITAN INTERNATIONAL, INC. 
+ Notes to Condensed Consolidated Financial Statements 
+ (Unaudited) 
+
+ million of expenses included within the loss on senior note repurchase line item within the Condensed Consolidated Financial Statements. 
+ 
+ Titan Europe credit facilities 
+ The Titan Europe credit facilities include borrowings from various institutions totaling million in aggregate principal amount at September 30, 2021. Maturity dates on this debt range from less than one year to nine years. The Titan Europe facilities are secured by the assets of Titan's subsidiaries in Italy, Spain, Germany, and Brazil. 
+ 
+ Revolving credit facility 
+ The Company has a million revolving credit facility with BMO Harris Bank N.A., as agent, and other financial institutions party thereto. The credit facility is collateralized by accounts receivable and inventory of certain of the Company s domestic subsidiaries and is scheduled to mature in February 16, 2023. See Note 22 for additional information related to the amendment to this credit facility. From time to time Titan's availability under this credit facility may be less than million as a result of outstanding letters of credit and eligible accounts receivable and inventory balances at certain of its domestic subsidiaries. At September 30, 2021, under the Company's million credit facility there were million in borrowings and million in outstanding letters of credit, and the amount available for borrowing totaled million. 
+ 
+ Other debt 
+ The Company has working capital loans at Titan Pneus do Brasil Ltda and Voltyre-Prom at various interest rates, which totaled million and million at September 30, 2021, respectively. Maturity dates on this debt range from less than one year to two years. 
+
+8. 
+ 
+ 11 
+
+TITAN INTERNATIONAL, INC. 
+ Notes to Condensed Consolidated Financial Statements 
+ (Unaudited) 
+
+ million, the value of the shares of restricted stock to be issued pursuant to the terms of the agreement. 
+ 
+ This obligation represents the value of the restricted common stock due to RDIF on September 30, 2021, and is presented in the Condensed Consolidated Balance Sheets in redeemable noncontrolling interest, which is treated as mezzanine equity. 
+
+9. 
+
+12 
+
+TITAN INTERNATIONAL, INC. 
+ Notes to Condensed Consolidated Financial Statements 
+ (Unaudited) 
+
+ Operating lease current liabilities Other current liabilities Operating lease long-term liabilities Other long-term liabilities Total operating lease liabilities Finance lease, gross Property, plant equipment, net Finance lease accumulated depreciation Property, plant equipment, net ) ) Finance lease, net Finance lease current liabilities Other current liabilities Finance lease long-term liabilities Other long-term liabilities Total finance lease liabilities 
+ 
+ 2022 2023 2024 2025 Thereafter Total lease payments Less imputed interest Weighted average remaining lease term (in years) 
+ 
+ Supplemental cash flow information related to leases for the nine months ended September 30, 2021 were as follows: operating cash flows from operating leases were million and operating cash flows from finance leases were million. 
+
+10. 
+ 
+ million to the pension plans during the nine months ended September 30, 2021, and expects to contribute approximately million to the pension plans during the remainder of 2021. 
+
+13 
+
+TITAN INTERNATIONAL, INC. 
+ Notes to Condensed Consolidated Financial Statements 
+ (Unaudited) 
+
+ Interest cost Expected return on assets ) ) ) ) Amortization of unrecognized prior service cost ) ) Amortization of net unrecognized loss Net periodic pension cost 
+ 
+ Service cost is recorded as cost of sales in the Condensed Consolidated Statements of Operations while all other components are recorded in other income. 
+
+11. 
+ 
+ owner of the distribution facility located in Canada. Titan is also a owner of a manufacturer of undercarriage components and complete track systems for earthmoving machines in India. The Company s variable interests in these joint ventures relate to sales of Titan products to these entities, consigned inventory, and working capital loans. As the primary beneficiary of these variable interest entities (VIEs), the VIEs assets, liabilities, and results of operations are included in the Company s condensed consolidated financial statements. The other equity holders interests are reflected in Net income (loss) attributable to noncontrolling interests in the Condensed Consolidated Statements of Operations and Noncontrolling interests in the Condensed Consolidated Balance Sheets. 
+ 
+ The Company also held a variable interest in three other entities for which Titan was the primary beneficiary. Two of these entities provided specific manufacturing related services at the Company's Tennessee facility. Titan's variable interest in these entities relates to financial support to the entities through providing many of the assets used by these entities in their business. The Company owns no equity in these entities. In March 2020, the Company delivered a notice of termination of the supply agreement with these entities and the Company no longer holds a variable interest in them. Titan was also a 40 owner in a Australian distribution facility, which primarily distributed mining products. Effective during the second quarter of 2021, the Company is no longer an owner of the facility located in Australia. 
+
+14 
+
+TITAN INTERNATIONAL, INC. 
+ Notes to Condensed Consolidated Financial Statements 
+ (Unaudited) 
+
+ Inventory Other current assets Property, plant and equipment, net Other non-current assets Total assets Current liabilities Other long-term liabilities Total liabilities 
+ 
+ All assets in the above table can only be used to settle obligations of the consolidated VIE to which the respective assets relate. Liabilities are nonrecourse obligations. Amounts presented in the table above are adjusted for intercompany eliminations. 
+ 
+ The Company holds variable interests in certain VIEs that are not consolidated because Titan is not the primary beneficiary. The Company's involvement with these entities is in the form of direct equity interests and prepayments related to purchases of materials. The maximum exposure to loss as reflected in the table below represents the loss of assets recognized by Titan relating to non-consolidated entities and amounts due to the non-consolidated assets. 
+ Total VIE assets Accounts payable Maximum exposure to loss 
+
+12. 
+ 
+ million asset impairment related to an inventory impairment charge of 1.0 million as part of the closure of the Saltville, Virginia wheel operations, and an impairment charge of 2.6 million for certain machinery and equipment located at TTRC as a result of market declines that indicated the remaining book value of the equipment is more than the fair market value. The inventory impairment charge and the TTRC asset impairment charge is recorded in "cost of sales" line item in the Condensed Consolidated Statements of Operations. 
+
+13. 
+ 
+ million and million for the three months ended September 30, 2021 and 2020, respectively, and million and million for the nine months ended September 30, 2021 and 2020, respectively. 
+ 
+ 15 
+
+TITAN INTERNATIONAL, INC. 
+ Notes to Condensed Consolidated Financial Statements 
+ (Unaudited) 
+
+14. 
+ 
+ Gain (loss) sale of assets ) Government subsidies Gain on property insurance settlement (1) Loss on sale of Wheels India shares ) Gain on legal settlement (2) Other income (expense) (3) ) 
+ 
+ (1) The gain on property insurance settlement relates to the receipt of insurance proceeds during the three months ended March 31, 2020 for a 2017 fire that occurred at a facility of TTRC, a subsidiary of the Company, located in Fort McMurray in Alberta, Canada. 
+ (2) The gain on legal settlement relates to proceeds received from a steel supplier during the three months ended June 30, 2021. 
+ million and million for the three and nine months ended September 30, 2020 , respectively. 
+
+15. 
+ 
+ million and million for the three months ended September 30, 2021 and 2020, respectively. For the nine months ended September 30, 2021 and 2020, the Company recorded income tax expense of million and million, respectively. The Company's effective income tax rate was and ) for the three months ended September 30, 2021 and 2020, respectively, and and ) for the nine months ended September 30, 2021 and 2020. For the three months ended September 30, 2021 and 2020, the income tax expense for each period differed due to an overall pre-tax income increase which resulted in the significant fluctuation in the effective tax rate. The year-to-date increase in income tax expense for the nine months ended September 30, 2021 is due to improved profitability in foreign jurisdictions. For the nine months ended September 30, 2021 and 2020, the Company reversed unrecognized tax benefit accruals of million and million, related to the expiration of statute of limitations on previously recorded tax contingencies. 
+ 
+ The Company s 2021 and 2020 income tax expense and rates differed from the amount of income tax determined by applying the U.S. Federal income tax rate to pre-tax income primarily as a result of U.S. and certain foreign jurisdictions that incurred a full valuation allowance on deferred tax assets created by current year projected losses and partially offset by a reduction of the liability for unrecognized tax positions. In addition, there were non-deductible royalty expenses and statutorily required income adjustments made in certain foreign jurisdictions that negatively impacted the tax rate for the nine months ended September 30, 2021 and 2020. 
+ 
+ The Company continues to monitor the realization of its deferred tax assets and assesses the need for a valuation allowance. The Company analyzes available positive and negative evidence to determine if a valuation allowance is needed based on the weight of the evidence. This objectively verifiable evidence primarily includes the past three years' profit and loss positions. This process requires management to make estimates, assumptions, and judgments that are uncertain in nature. The Company has established valuation allowances with respect to deferred tax assets in the U.S. and certain foreign jurisdictions and continues to monitor and assess potential valuation allowances in all its jurisdictions. 
+ 
+ On March 27, 2020, the U.S. government passed the CARES Act (the CARES Act), which provides tax relief to assist companies dealing with the effects of the novel strain of the coronavirus (COVID-19). The CARES Act did not have a material 
+ 16 
+
+TITAN INTERNATIONAL, INC. 
+ Notes to Condensed Consolidated Financial Statements 
+ (Unaudited) 
+
+16. 
+ 
+ ) ) Determination of shares: Weighted average shares outstanding (basic) Effect of equity awards Weighted average shares outstanding (diluted) Income (loss) per common share: Basic ) ) Diluted ) ) 
+ 
+ million and million, respectively. 
+
+17. 
+ 
+ million against Dico for violating the EPA Administrative Order. The case was remanded to the District Court for a new trial on the remaining issues. 
+ 
+ The trial occurred in April 2017. On September 5, 2017, the District Court issued an order: (a) concluding Titan Tire and Dico arranged for the disposal of a hazardous substance in violation of 42 U.S.C. 9607(a); (b) holding Titan Tire and Dico jointly and severally liable for million in response costs previously incurred and reported by the United States relating to the alleged violation, including enforcement costs and attorney s fees; and (c) awarding a declaratory judgment holding Titan Tire 
+ 17 
+
+TITAN INTERNATIONAL, INC. 
+ Notes to Condensed Consolidated Financial Statements 
+ (Unaudited) 
+
+ million in punitive damages under 42 U.S.C. 9607(c)(3) for violating a unilateral administrative order. The punitive damages award does not apply to Titan Tire. The Company accrued a contingent liability of 6.5 million, representing million in costs incurred by the United States and million of additional response costs, for this order in the quarter ended September 30, 2017. 
+ 
+ Titan Tire and Dico appealed the case to the United States Court of Appeals for the Eighth Circuit. On April 11, 2019, the U.S. Court of Appeals for the Eighth Circuit affirmed the District Court s September 5, 2017, order. Thereafter, Dico and Titan Tire filed a petition for rehearing with the U.S. Court of Appeals for the Eighth Circuit, which was denied in August 2019. 
+ 
+ Following settlement negotiations with the U.S. federal government and the City of Des Moines, an agreement was reached in September 2020 which has been reduced to a Consent Decree that was executed by all parties on February 1, 2021. The Consent Decree prescribes total cash payments by Titan Tire to the federal government in the amount of million, with 9.0 million due and payable within 30 days of the settlement becoming final, 1.5 million (plus interest at a rate of 2.22 per annum) due and payable within one year of the settlement becoming final and 1.0 million (plus interest at a rate of 2.22 per annum) due and payable within two years of the settlement becoming final. The Company paid million, including accrued interest, to the federal government on February 25, 2021. The remaining amounts of million and , including accrued interest, are accounted for within the Company's other accrued liabilities and other long-term liabilities line items, respectively, within the Company's Condensed Consolidated Balance Sheets as of September 30, 2021. On May 27, 2021, the Company transferred ownership of the Dico land to the City of Des Moines, in accordance with the agreement. 
+
+18 
+
+TITAN INTERNATIONAL, INC. 
+ Notes to Condensed Consolidated Financial Statements 
+ (Unaudited) 
+
+18. 
+ 
+ Earthmoving/construction Consumer Gross profit Agricultural Earthmoving/construction Consumer Income (loss) from operations Agricultural Earthmoving/construction ) Consumer ) Corporate Unallocated ) ) ) ) Income (loss) from operations ) ) Interest expense ) ) ) ) Loss on senior note repurchase ) Foreign exchange gain (loss) ) ) Other income Income (loss) before income taxes ) ) 
+ 19 
+
+TITAN INTERNATIONAL, INC. 
+ Notes to Condensed Consolidated Financial Statements 
+ (Unaudited) 
+
+ Earthmoving/construction Consumer Corporate Unallocated 
+
+19. 
+ 
+ million and million for the three and nine months ended September 30, 2021, and approximately million and million for the three and nine months ended September 30, 2020. Titan had purchases from these companies of approximately 0.1 million and 1.0 million for the three and nine months ended September 30, 2021, and had no purchases from these companies for the three and nine months ended September 30, 2020. Titan had trade receivables due from these companies of approximately million at September 30, 2021, and approximately million at December 31, 2020. Sales commissions paid to the above companies were approximately million and million for the three and nine months ended September 30, 2021 as compared to million and million for the three and nine months ended September 30, 2020. 
+
+20. ) ) ) Currency translation adjustments, net ) ) Defined benefit pension plans: Amortization of unrecognized losses and prior service cost, net of tax of (42) Derivative gain Balance at September 30, 2021 ) ) ) ) 
+ 
+ 20 
+
+TITAN INTERNATIONAL, INC. 
+ Notes to Condensed Consolidated Financial Statements 
+ (Unaudited) ) ) ) Currency translation adjustments, net (1) ) ) Defined benefit pension plans: Amortization of unrecognized losses and prior service cost, net of tax of (83) Derivative gain Balance at September 30, 2021 ) ) ) ) 
+ 
+ (1) The increase in currency translation adjustments for the nine months ended September 30, 2021 was due to foreign currency rate fluctuations, the ongoing initiative to rationalize the Company's legal entity structure, and the ongoing management of the intercompany capital structure during the year. 
+ 
+ Currency Translation Adjustments Gain (Loss) on Derivatives Unrecognized Losses and Prior Service Cost 
+ 
+ Total 
+ Balance at July 1, 2020 ) ) ) ) Currency translation adjustments, net Defined benefit pension plans: Amortization of unrecognized losses and prior service cost, net of tax of 45 Derivative loss ) ) Balance at September 30, 2020 ) ) ) ) 
+
+Currency Translation Adjustments Gain (Loss) on Derivatives Unrecognized Losses and Prior Service Cost 
+ 
+ Total 
+ Balance at January 1, 2020 ) ) ) Currency translation adjustments, net (1) ) ) Defined benefit pension plans: Amortization of unrecognized losses and prior service cost, net of tax of 65 Derivative loss ) ) Balance at September 30, 2020 ) ) ) ) 
+ 
+ (1) The increase in currency translation adjustments for the nine months ended September 30, 2020 was due to foreign currency rate fluctuations and also due to the settlement of certain intercompany loans during the year. 
+ 21 
+
+TITAN INTERNATIONAL, INC. 
+ Notes to Condensed Consolidated Financial Statements 
+ (Unaudited) 
+
+ 21. 
+ 
+ ) Cost of sales ) Gross (loss) profit ) Selling, general and administrative expenses Research and development expenses Royalty expense (Loss) income from operations ) Interest expense ) ) ) ) Intercompany interest income (expense) ) Foreign exchange (loss) gain ) Other (expense) income ) (Loss) income before income taxes ) Provision for income taxes Equity in earnings (loss) of subsidiaries ) Net income (loss) ) Net loss attributable to noncontrolling interests ) ) Net income (loss) attributable to Titan ) 
+
+22 
+
+TITAN INTERNATIONAL, INC. 
+ Notes to Condensed Consolidated Financial Statements 
+ (Unaudited) 
+
+ ) Cost of sales ) Gross (loss) profit ) Selling, general and administrative expenses Research and development expenses Royalty expense (Loss) income from operations ) Interest expense ) ) ) ) Loss on senior note repurchase ) ) Intercompany interest income (expense) ) Foreign exchange (loss) gain ) ) Other (expense) income ) (Loss) income before income taxes ) (Benefit) provision for income taxes ) Equity in earnings (loss) of subsidiaries ) Net income (loss) ) Net loss attributable to noncontrolling interests ) ) Net income (loss) attributable to Titan ) 
+
+) Derivative gain (loss) ) Currency translation adjustment ) ) ) Pension liability adjustments, net of tax ) Comprehensive (loss) income ) ) ) ) Net comprehensive income attributable to redeemable and noncontrolling interests Comprehensive (loss) income attributable to Titan ) ) ) ) 
+
+23 
+
+TITAN INTERNATIONAL, INC. 
+ Notes to Condensed Consolidated Financial Statements 
+ (Unaudited) 
+
+ ) Derivative gain (loss) ) Currency translation adjustment ) ) ) Pension liability adjustments, net of tax ) Comprehensive (loss) income ) ) ) Net comprehensive loss attributable to redeemable and noncontrolling interests ) ) Comprehensive (loss) income attributable to Titan ) ) ) 
+ 
+ ) Accounts receivable, net Inventories Prepaid and other current assets Total current assets Property, plant and equipment, net Investment in subsidiaries ) Other assets Total assets ) Liabilities and Equity Short-term debt Accounts payable Other current liabilities Total current liabilities Long-term debt Other long-term liabilities Intercompany accounts ) ) Redeemable noncontrolling interest Titan shareholders' equity ) Noncontrolling interests ) ) Total liabilities and equity ) 
+ 
+ 24 
+
+TITAN INTERNATIONAL, INC. 
+ Notes to Condensed Consolidated Financial Statements 
+ (Unaudited) ) Cash flows from investing activities: Capital expenditures ) ) ) ) Proceeds from sale of fixed assets Net cash used for investing activities ) ) ) ) Cash flows from financing activities: Proceeds from borrowings Repurchase of senior secured notes ) ) Payment on debt ) ) ) Other financing activities ) ) ) Net cash provided by (used for) financing activities ) ) Effect of exchange rate change on cash ) ) Net increase (decrease) in cash and cash equivalents ) ) ) Cash and cash equivalents, beginning of period Cash and cash equivalents, end of period ) 
+
+22. 
+
+25 
+
+TITAN INTERNATIONAL, INC. 
+ Management's Discussion and Analysis of 
+ Financial Condition and Results of Operations 
+
+ Item 2. Management's Discussion and Analysis of Financial Condition and Results of Operations 
+ 
+ Management's discussion and analysis of financial condition and results of operations (MD A) is designed to provide a reader of the financial statements included in this quarterly report with a narrative from the perspective of the management of Titan International, Inc. (Titan or the Company) on Titan's financial condition, results of operations, liquidity, and other factors that may affect the Company's future results. The MD A in this quarterly report should be read in conjunction with the condensed consolidated financial statements and other financial information included elsewhere in this quarterly report and the MD A and audited consolidated financial statements and related notes in the Company's Annual Report on Form 10-K for the year ended December 31, 2020, filed with the SEC on March 4, 2021 (the 2020 Form 10-K). 
+ 
+ COVID-19 Pandemic 
+ In December 2019, a novel strain of coronavirus (COVID-19) was reported in Wuhan, China. During March 2020, the World Health Organization declared the outbreak of COVID-19 as a global pandemic. The emergence of COVID-19 and its global spread presents significant risks to the Company, some of which the Company is unable to fully evaluate or even foresee. The COVID-19 pandemic adversely affected the Company s financial results and business operations for the year ended December 31, 2020, and economic and health conditions in the United States and across the globe have continued to change since then. In some of the countries where the Company has operations and where COVID-19 has been widespread (such as the Company s European and Latin America locations), the Company s operations were significantly curtailed during March through May 2020. The Company s operations resumed with additional sanitary and other protective health measures, which increased operating costs throughout the year. We expect these additional measures to continue into the foreseeable future as we seek to ensure the safety and welfare of Titan s employees. While the Company's operations began to return to historical levels beginning in the second half of 2020 and continuing into the third quarter of 2021, certain geographies (particularly Australia, Europe and Latin America) continue to remain significantly impacted by the COVID-19 pandemic. 
+ 
+ Due to the above circumstances as described generally in this Form 10-Q, the Company s results of operations for the three and nine months ended September 30, 2021 are not necessarily indicative of the results to be expected in the future. Management cannot predict the full impact of the COVID-19 pandemic on the economic conditions generally, on the Company s customers and, ultimately, on the Company. The nature, extent and duration of the effects of the COVID-19 pandemic on the Company are highly uncertain and will depend on future developments, and such effects could exist for an extended period of time even after the pandemic might end. 
+
+FORWARD-LOOKING STATEMENTS 
+ This Form 10-Q contains forward-looking statements, which are covered by the safe harbor for "forward-looking statements" provided by the Private Securities Litigation Reform Act of 1995. Readers can identify these statements by the fact that they do not relate strictly to historical or current facts. The Company tried to identify forward-looking statements in this quarterly report by using words such as anticipates, estimates, expects, intends, plans, and believes, and similar expressions or future or conditional verbs such as will, should, would, may, and could. These forward-looking statements include, among other items, information concerning: 
+ The Company's financial performance; 
+ Anticipated trends in the Company s business; 
+ Expectations with respect to the end-user markets into which the Company sells its products (including agricultural equipment, earthmoving/construction equipment, and consumer products); 
+ Future expenditures for capital projects; 
+ The Company s ability to continue to control costs and maintain quality; 
+ The Company's ability to meet conditions of loan agreements, indentures and other financing documents; 
+ The Company s business strategies, including its intention to introduce new products; 
+ Expectations concerning the performance and success of the Company s existing and new products; and 
+ The Company s intention to consider and pursue acquisition and divestiture opportunities. 
+ Readers of this Form 10-Q should understand that these forward-looking statements are based on the Company s current expectations and assumptions about future events and are subject to a number of risks, uncertainties, and changes in 
+ 26 
+
+TITAN INTERNATIONAL, INC. 
+ Management's Discussion and Analysis of 
+ Financial Condition and Results of Operations 
+
+ circumstances that are difficult to predict, including, but not limited to, the factors discussed in Part I, Item 1A, Risk Factors, of the 2020 Form 10-K and Part II, Item 1A, Risk Factors, of this quarterly report on Form 10-Q, certain of which are beyond the Company s control. 
+ 
+ Actual results could differ materially from these forward-looking statements as a result of certain factors, including: 
+ The effect of the COVID-19 pandemic on our operations and financial performance; 
+ The effect of a recession on the Company and its customers and suppliers; 
+ Changes in the Company s end-user markets into which the Company sells its products as a result of world economic or regulatory influences or otherwise; 
+ Changes in the marketplace, including new products and pricing changes by the Company s competitors; 
+ The Company's ability to maintain satisfactory labor relations; 
+ Unfavorable outcomes of legal proceedings; 
+ The Company's ability to comply with current or future regulations applicable to the Company's business and the industry in which it competes or any actions taken or orders issued by regulatory authorities; 
+ Availability and price of raw materials; 
+ Levels of operating efficiencies; 
+ The effects of the Company's indebtedness and its compliance with the terms thereof; 
+ Changes in the interest rate environment and their effects on the Company's outstanding indebtedness; 
+ Unfavorable product liability and warranty claims; 
+ Actions of domestic and foreign governments, including the imposition of additional tariffs; 
+ Geopolitical and economic uncertainties relating to the countries in which the Company operates or does business; 
+ Risks associated with acquisitions, including difficulty in integrating operations and personnel, disruption of ongoing business, and increased expenses; 
+ Results of investments; 
+ The effects of potential processes to explore various strategic transactions, including potential dispositions; 
+ Fluctuations in currency translations; 
+ Climate change and related laws and regulations; 
+ Risks associated with environmental laws and regulations; 
+ Risks relating to our manufacturing facilities, including that any of our material facilities may become inoperable; 
+ Risks related to financial reporting, internal controls, tax accounting, and information systems; and 
+ Risks related to payment of cash to RDIF if OFAC does not approve the issuance of Titan common shares to RDIF. 
+ Any changes in such factors could lead to significantly different results. Any assumptions that are inaccurate or do not prove to be correct could have a material adverse effect on the Company s ability to achieve the results as indicated in the forward-looking statements. Forward-looking statements included in this report speak only as of the date of this report. The Company undertakes no obligation to publicly update or revise any forward-looking statements, whether as a result of new information, future events, or otherwise. In light of these risks and uncertainties, there can be no assurance that the forward-looking information and assumptions contained in this report will in fact transpire. The reader should not place undue reliance on the forward-looking statements included in this report or that may be made elsewhere from time to time by the Company, or on its behalf. All forward-looking statements attributable to Titan are expressly qualified by these cautionary statements. 
+
+27 
+
+TITAN INTERNATIONAL, INC. 
+ Management's Discussion and Analysis of 
+ Financial Condition and Results of Operations 
+
+ OVERVIEW 
+ Titan International, Inc., together with its subsidiaries, is a global manufacturer of off-highway wheels, tires, assemblies and undercarriage products. As a leading manufacturer in the off-highway industry, Titan produces a broad range of products to meet the specifications of original equipment manufacturers (OEMs) and aftermarket customers in the agricultural, earthmoving/construction, and consumer markets. Titan manufactures and sells certain tires under the Goodyear Farm Tire and Titan Tire brands and has complete research and development test facilities to validate wheel and rim designs. 
+ 
+ Agricultural Segment: Titan s agricultural wheels, tires, and undercarriage systems and components are manufactured for use on various agricultural equipment, including tractors, combines, skidders, plows, planters, and irrigation equipment, and are sold directly to OEMs and to the aftermarket through independent distributors, equipment dealers, and Titan s distribution centers. The wheels range in diameter from nine inches to 54 inches, with the 54-inch diameter being the largest agricultural wheel manufactured in North America. Basic configurations are combined with distinct variations (such as different centers and a wide range of material thickness) allowing the Company to offer a broad line of products to meet customer specifications. Titan s agricultural tires range from approximately one foot to approximately seven feet in outside diameter and from five inches to 55 inches in width. The Company offers the added value of delivering a complete wheel and tire assembly to OEM and aftermarket customers. 
+ 
+ Earthmoving/Construction Segment: The Company manufactures wheels, tires, and undercarriage systems and components for various types of OTR earthmoving, mining, military, construction, and forestry equipment, including skid steers, aerial lifts, cranes, graders and levelers, scrapers, self-propelled shovel loaders, articulated dump trucks, load transporters, haul trucks, backhoe loaders, crawler tractors, lattice cranes, shovels, and hydraulic excavators. The Company provides OEM and aftermarket customers with a broad range of earthmoving/construction wheels ranging in diameter from 15 inches to 63 inches and in weight from 125 pounds to 7,000 pounds. The 63-inch diameter wheel is the largest manufactured in North America for the earthmoving/construction market. Titan s earthmoving/construction tires range from approximately three feet to approximately 13 feet in outside diameter and in weight from 50 pounds to 12,500 pounds. The Company also offers the added value of wheel and tire assembly for certain applications in the earthmoving/construction segment. 
+ 
+ Consumer Segment: Titan manufactures bias truck tires in Latin America and light truck tires in Russia. Titan also offers select products for ATVs, turf, and golf cart applications. This segment also includes sales that do not readily fall into the Company's other segments. 
+ 
+ The Company s top customers include global leaders in agricultural and construction equipment manufacturing and include AGCO Corporation, Caterpillar Inc., CNH Global N.V., Deere Company, Hitachi, Ltd., Kubota Corporation, Liebherr, and Volvo, in addition to many other off-highway equipment manufacturers. The Company distributes products to OEMs, independent and OEM-affiliated dealers, and through a network of distribution facilities. 
+ 
+ MARKET CONDITIONS AND OUTLOOK 
+ 
+ AGRICULTURAL MARKET OUTLOOK 
+ Agriculture-related commodity prices began to improve in 2020 and continued to improve during the first three quarters of 2021 and remain at historically high levels. Improved farmer income, replacement of an aging large equipment fleet and replenishment of lower equipment inventory levels are all factors which are anticipated to support improved demand for our products. Many of our customers are forecasting growth, providing further optimism of sustained stability in the market over the next few years. Many more variables, including weather, volatility in the price of commodities, grain prices, export markets, foreign currency exchange rates, government policies, subsidies, and the demand for used equipment can greatly affect the Company's performance in the agricultural market in a given period. 
+ 
+ EARTHMOVING/CONSTRUCTION MARKET OUTLOOK 
+ The earthmoving/construction segment is affected by many variables, including commodity prices, road construction, infrastructure, government appropriations, housing starts, and other macroeconomic drivers. The earthmoving/construction markets experienced declines in 2020 due in large part to global economic uncertainty and the impacts of the COVID-19 pandemic. The construction market is primarily driven by GDP by country and the need for infrastructure developments. Demand for larger construction equipment used for highways and infrastructure began to tighten in 2019 and continued throughout much of 2020. Demand for mining industry equipment also began to soften within certain regions in the second half of 2019 and continued throughout 2020. The market is experiencing strong signs of continued growth as economies emerge from the pandemic. There are historically low equipment inventory levels throughout the global construction industry, and 
+ 28 
+
+TITAN INTERNATIONAL, INC. 
+ Management's Discussion and Analysis of 
+ Financial Condition and Results of Operations 
+
+ mining capital budgets are continuing to rise during 2021. Improvements in mineral commodity prices also currently support recovery and growth. 
+ 
+ CONSUMER MARKET OUTLOOK 
+ The consumer market consists of several distinct product lines within different regions. These products include light truck tires, turf equipment, specialty products, and train brakes. Overall, the markets have stabilized through 2021 due to pent up demand from historically lower sales volume achieved during 2020. This pace of recovery is anticipated to be slower than what is currently being experienced in the Agriculture and Earthmoving/Construction segments. The consumer segment is affected by many variables including consumer spending, interest rates, government policies, and other macroeconomic drivers. 
+
+RESULTS OF OPERATIONS 
+ 
+ Three months ended Nine months ended (amounts in thousands) September 30, September 30, 2021 2020 Increase/(Decrease) 2021 2020 Increase/(Decrease) Net sales 450,382 304,772 47.8 1,292,539 932,405 38.6 Gross profit 60,292 31,317 92.5 175,027 88,428 97.9 Gross profit 13.4 10.3 13.5 9.5 Selling, general and administrative expenses 32,217 33,451 (3.7) 98,811 93,849 5.3 Research and development expenses 2,370 2,240 5.8 7,451 6,782 9.9 Royalty expense 2,805 2,434 15.2 7,915 7,309 8.3 Income (loss) from operations 22,900 (6,808) 436.4 60,850 (19,512) 411.9 
+ 
+ Net Sales 
+ Net sales for the three months ended September 30, 2021 were 450.4 million, compared to 304.8 million in the comparable period of 2020, an increase of 47.8 driven by sales increases across all segments. Overall net sales volume and product price/mix was up 25.3 and 21.3 , respectively, from the comparable prior year quarter. The increase in net sales was also favorably impacted by foreign currency translation of 1.2 or 3.7 million. 
+ 
+ Net sales for the nine months ended September 30, 2021 were 1,292.5 million, compared to 932.4 million in the comparable period of 2020, an increase of 38.6 driven by sales increases in the agricultural and earthmoving/construction segments. Overall net sales volume and product price/mix was up 23.9 and 14.0 , respectively, from the comparable period of 2020. The increase in net sales was also favorably impacted by foreign currency translation of 0.7 or 6.2 million. 
+ 
+ Overall net sales volume and product price/mix improved for both the three and nine months ended September 30, 2021 as compared to the prior year periods due to market growth in the agricultural and earthmoving/construction segments. Pricing increases have been implemented because of rising raw material costs and other inflationary impacts in the markets, including freight. The contributing factors to the increase in demand were increased commodity prices, lower equipment inventory levels and pent up demand following the economic impacts of the COVID-19 pandemic during 2020. Lower sales volumes during the first three quarters of 2020 were primarily caused by continued weakness in the commodity markets and the effect of the COVID-19 pandemic which caused significant uncertainty for customers in most geographies, most notably OEM customers. 
+ 
+ Global supply chains are experiencing significant constraints, including availability and pricing of raw materials, transportation and labor. The current constraints on global supply chains are adding further complexity to the accelerated pace of recovery and improvement to growth expectations in the near term. Titan is also experiencing similar supply chain challenges, and has been able to manage the situation effectively this year. 
+
+29 
+
+TITAN INTERNATIONAL, INC. 
+ Management's Discussion and Analysis of 
+ Financial Condition and Results of Operations 
+
+ Gross Profit 
+ Gross profit for the three months ended September 30, 2021 was 60.3 million, or 13.4 of net sales, an increase of 29.0 million compared to 31.3 million, or 10.3 of net sales, for the three months ended September 30, 2020. The increase in gross profit and margin was driven by the impact of increases in sales volume, as described previously, favorably impacting overhead absorption. In addition, cost reduction initiatives have been executed across global production facilities before and throughout the COVID-19 pandemic. 
+ 
+ Gross profit for the nine months ended September 30, 2021 was 175.0 million, or 13.5 of net sales, an increase of 86.6 million compared to 88.4 million, or 9.5 of net sales, for the nine months ended September 30, 2020. The increase in gross profit and margin was driven by the impact of increases in sales volume and cost reduction initiatives executed across the business. 
+ 
+ Selling, General and Administrative Expenses 
+ Selling, general and administrative (SG A) expenses for the three months ended September 30, 2021 were 32.2 million, or 7.2 of net sales, compared to 33.5 million, or 11.0 of net sales, for the three months ended September 30, 2020. The decrease in SG A was driven primarily by the 5.0 million contingent legal accrual related recorded for the three and nine months ended September 30, 2020 for the settlement of the Dico case (see Note 17 to the Condensed Consolidated Financial Statements of this Form 10-Q) offset by an increase in variable costs associated with improved operating performance and growth in sales. 
+ 
+ SG A expenses for the nine months ended September 30, 2021 were 98.8 million, or 7.6 of net sales, compared to 93.8 million, or 10.1 of net sales, for the nine months ended September 30, 2020. The increase in SG A was driven primarily by investments to improve our supply chain and logistics processes and an increase in variable costs associated with improved operating performance and growth in sales. 
+ 
+ Research and Development Expenses 
+ Research and development (R D) expenses for the three months ended September 30, 2021 were 2.4 million, or 0.5 of net sales, compared to 2.2 million, or 0.7 of net sales, for the comparable period in 2020. R D expenses for the nine months ended September 30, 2021 were 7.5 million, or 0.6 of net sales, compared to 6.8 million, or 0.7 of net sales, for the comparable period in 2020. R D spending reflects initiatives to improve product designs and an ongoing focus on quality following reductions during the onset of the COVID-19 pandemic for the comparable periods in 2020. 
+ 
+ Royalty Expense 
+ The Company has trademark license agreements with The Goodyear Tire Rubber Company to manufacture and sell certain farm tires under the Goodyear brand. These agreements cover sales in North America, Latin America, Europe, the Middle East, Africa, Russia, and other Commonwealth of Independent States countries. 
+ 
+ Royalty expenses for the three months ended September 30, 2021 were 2.8 million, or 0.6 of net sales, compared to 2.4 million, or 0.8 of net sales, for the three months ended September 30, 2020. Royalty expenses for the nine months ended September 30, 2021 were 7.9 million, or 0.6 of net sales, compared to 7.3 million, or 0.8 of net sales, for the nine months ended September 30, 2020. The increase in royalty expenses are due to the increase in sales, as described previously, resulting in an incremental increase in the amount of royalty expense incurred. 
+ 
+ Income (Loss) from Operations 
+ Income from operations for the third quarter of 2021 was 22.9 million, compared to loss from operations of 6.8 million for the third quarter of 2020. Income from operations for the nine months ended September 30, 2021 was 60.9 million, compared to loss from operations of 19.5 million for the nine months ended September 30, 2020. The increase in income was primarily due to the higher sales and improvements in gross profit margins. 
+ 
+ OTHER PROFIT/LOSS ITEMS 
+ 
+ Interest Expense 
+ Interest expense was 7.8 million and 7.3 million for the three months ended September 30, 2021 and 2020, respectively, and 23.9 million and 23.1 million for the nine months ended September 30, 2021 and 2020. Interest expense increased due to the refinancing of the senior secured notes during the second quarter of 2021 resulting in an increase in the interest rate from 6.50 to 7.00 . 
+ 30 
+
+TITAN INTERNATIONAL, INC. 
+ Management's Discussion and Analysis of 
+ Financial Condition and Results of Operations 
+
+Loss on Senior Note Repurchase 
+ Loss on senior note repurchase was 16.0 million for the nine months ended September 30, 2021. The loss was in connection to the Company completing a call and redemption of all of its outstanding 400.0 million principal amount of Titan's 6.50 senior secured notes due 2023 during the second quarter of 2021. 
+ 
+ Foreign Exchange Gain (Loss) 
+ Foreign exchange gain was 0.4 million for the three months ended September 30, 2021, compared to loss of 1.3 million for the three months ended September 30, 2020. Foreign exchange gain was 9.1 million for the nine months ended September 30, 2021, compared to a loss of 9.7 million for the nine months ended September 30, 2020. 
+ 
+ The foreign exchange gain experienced during the three months and nine months ended September 30, 2021 is primarily the result of the closeout of certain legal entities as part of the ongoing initiative to rationalize Titan's legal entity structure and ongoing management of the intercompany capital structure as well as a favorable impact of the movement of exchange rates. 
+ 
+ The foreign exchange loss experienced for the nine months ended September 30, 2020 were the result of the translation of intercompany loans at certain foreign subsidiaries, which are denominated in local currencies rather than the reporting currency, which is the United States dollar. Since such loans are expected to be settled at some point in the future, these loans are adjusted each reporting period to reflect the current exchange rates. During the first quarter of 2020, we had settled a number of intercompany loans as part of a loan restructuring initiative with a resulting foreign exchange loss, which is reflected in the total foreign exchange loss recognized for the first quarter of 2020. 
+ 
+ Other Income 
+ Other income was 0.6 million for the three months ended September 30, 2021, as compared to other income of 2.3 million in the comparable quarter of 2020. The decrease in other income for the three months ended September 30, 2021, as compared to the same period in 2020, was primarily attributable to 0.9 million of government subsidies and 0.5 million of building rental income for our Brownsville, Texas facility which was sold in November 2020. 
+ 
+ Other income was 1.5 million for the nine months ended September 30, 2021, as compared to other income of 9.1 million in the comparable period of 2020. The decrease in other income for the nine months ended September 30, 2021, as compared to the same period in 2020, was primarily attributable to proceeds of 4.9 million related to a property insurance settlement at TTRC, 1.4 million of government subsidies and 1.2 million of building rental income for our Brownsville, Texas facility for the nine months ended September 30, 2020. The sale of Brownsville, Texas facility occurred in November 2020, and no further rental income was realized in 2021. 
+ 
+ Provision for Income Taxes 
+ The Company recorded income tax expense of 5.3 million and 0.3 million for the three months ended September 30, 2021 and 2020, respectively. For the nine months ended September 30, 2021 and 2020, the Company recorded income tax expense of 9.9 million and 2.4 million, respectively. The Company's effective income tax rate was 33.1 and (2.6) for the three months ended September 30, 2021 and 2020, respectively, and 31.5 and (5.5) for the nine months ended September 30, 2021 and 2020. For the three months ended September 30, 2021 and 2020, the income tax expense each period differed due to an overall pre-tax income increase which resulted in the significant fluctuation in the effective tax rate. The year-to-date increase in income tax expense for the nine months ended September 30, 2021 is due to improved profitability in foreign jurisdictions. For the nine months ended September 30, 2021 and 2020, the Company reversed tax reserves of 0.7 million and 3.7 million, related to the expiration of statute of limitations on previously recorded tax contingencies. 
+ 
+ The Company s 2021 and 2020 income tax expense and rates differed materially from the amount of income tax determined by applying the U.S. Federal income tax rate to pre-tax income primarily as a result of U.S. and certain foreign jurisdictions that incurred a full valuation allowance on deferred tax assets created by current year projected losses and partially offset by a reduction of the liability for unrecognized tax positions. In addition, there were non-deductible royalty expenses and statutorily required income adjustments made in certain foreign jurisdictions that negatively impacted the tax rate for the nine months ended September 30, 2021 and 2020. 
+
+31 
+
+TITAN INTERNATIONAL, INC. 
+ Management's Discussion and Analysis of 
+ Financial Condition and Results of Operations 
+
+ Net Income (Loss) and Income (Loss) per Share 
+ Net income for the third quarter of 2021 was 10.8 million, compared to net loss of 13.5 million in the comparable quarter of 2020, an improvement of 24.8 million. For the quarters ended September 30, 2021 and 2020, basic and diluted income (loss) per share were 0.18 and (0.21), respectively. The Company's net income (loss) and income (loss) per share were due to the items previously discussed. 
+ 
+ Net income for the nine months ended September 30, 2021 and 2020 was 21.6 million, compared to net loss of 45.6 million in the comparable period of 2020, an improvement of 67.7 million. For the nine months ended September 30, 2021 and 2020, basic and diluted income (loss) per share were 0.36 and (0.71), respectively. The Company's net income (loss) and income (loss) per share were due to the items previously discussed. 
+ 
+ SEGMENT INFORMATION 
+ 
+ Segment Summary (amounts in thousands): 
+ Three months ended September 30, 2021 Agricultural Earthmoving/ Construction Consumer Corporate/ Unallocated Expenses Consolidated Totals Net sales 244,373 168,408 37,601 450,382 Gross profit 33,214 21,263 5,815 60,292 Profit margin 13.6 12.6 15.5 13.4 Income (loss) from operations 18,156 7,913 3,519 (6,688) 22,900 Three months ended September 30, 2020 Net sales 153,067 123,227 28,478 304,772 Gross profit 16,191 12,409 2,717 31,317 Profit margin 10.6 10.1 9.5 10.3 Income (loss) from operations 3,091 656 (88) (10,467) (6,808) 
+ 
+ Nine months ended September 30, 2021 Agricultural Earthmoving/ Construction Consumer Corporate/ Unallocated Expenses Consolidated Totals Net sales 684,636 509,930 97,973 1,292,539 Gross profit 98,294 63,333 13,400 175,027 Profit margin 14.4 12.4 13.7 14 Income (loss) from operations 54,228 20,950 7,067 (21,395) 60,850 Nine months ended September 30, 2020 Net sales 473,272 372,606 86,527 932,405 Gross profit 45,830 34,777 7,821 88,428 Profit margin 9.7 9.3 9.0 9.5 Income (loss) from operations 11,958 (5,161) 912 (27,221) (19,512) 
+
+32 
+
+TITAN INTERNATIONAL, INC. 
+ Management's Discussion and Analysis of 
+ Financial Condition and Results of Operations 
+
+ Agricultural Segment Results 
+ Agricultural segment results for the periods presented below were as follows: 
+ 
+ (Amounts in thousands) Three months ended Nine months ended September 30, September 30, 2021 2020 Increase/(Decrease) 2021 2020 Increase/(Decrease) Net sales 244,373 153,067 59.7 684,636 473,272 44.7 Gross profit 33,214 16,191 105.1 98,294 45,830 114.5 Profit margin 13.6 10.6 28.3 14.4 9.7 48.5 Income from operations 18,156 3,091 487.4 54,228 11,958 353.5 
+ 
+ Net sales in the agricultural segment were 244.4 million for the three months ended September 30, 2021, as compared to 153.1 million for the comparable period in 2020, an increase of 59.7 . Net sales volume and product price/mix was up 36.4 and 23.0 , respectively, from the comparable prior year quarter due to demand in the market, reflective of improved farmer income, replacement of an aging large equipment fleet and replenishment of lower equipment inventory levels within the equipment dealer channels. Pricing is primarily reflective of increases in raw material and other inflationary cost increases in the markets, including freight. 
+ 
+ Gross profit in the agricultural segment was 33.2 million for the three months ended September 30, 2021, as compared to 16.2 million in the comparable quarter of 2020, which was an improvement of 105 . The increase in gross profit and margin is primarily attributable to the impact of increases in sales volume as described previously and cost reduction initiatives executed across global production facilities before and throughout the COVID-19 pandemic. 
+ 
+ Income from operations in Titan's agricultural segment was 18.2 million for the three months ended September 30, 2021, as compared to income of 3.1 million for the three months ended September 30, 2020. The overall increase in income from operations is attributable to higher gross profit and overall cost reduction initiatives. 
+ 
+ Net sales in the agricultural segment were 684.6 million for the nine months ended September 30, 2021, as compared to 473.3 million for the comparable period of 2020, an increase of 44.7 . Net sales volume and product price/mix was up 28.4 and 17.9 , respectively, from the comparable period of 2020 du e to increased demand in the market, reflective of the same impacts described for the third quarter of 2021 and 2020. Pricing is primarily reflective of rising raw material costs and other inflationary cost increases in the markets, including freight. The overall increase in net sales was partially offset by unfavorable currency translation, primarily in Latin America and Russia of 1.7 . 
+ 
+ Gross profit in the agricultural segment was 98.3 million for the nine months ended September 30, 2021, as compared to 45.8 million in the comparable quarter of 2020, which was an improvement of 114 . The increase in gross profit and margin is primarily attributable to the favorable impact of increases in sales volume as described previously and cost reduction initiatives executed across global production facilities before and throughout the COVID-19 pandemic. 
+ 
+ Income from operations in Titan's agricultural segment was 54.2 million for the nine months ended September 30, 2021, as compared to income of only 12.0 million for the nine months ended September 30, 2020. The overall increase in income from operations is attributable to higher gross profit from significant demand improvements, and the overall cost reduction initiatives. 
+
+33 
+
+TITAN INTERNATIONAL, INC. 
+ Management's Discussion and Analysis of 
+ Financial Condition and Results of Operations 
+
+ Earthmoving/Construction Segment Results 
+ Earthmoving/construction segment results for the periods presented below were as follows: 
+ (Amounts in thousands) Three months ended Nine months ended September 30, September 30, 2021 2020 Increase/(Decrease) 2021 2020 Increase/(Decrease) Net sales 168,408 123,227 36.7 509,930 372,606 36.9 Gross profit 21,263 12,409 71.4 63,333 34,777 82.1 Profit margin 12.6 10.1 24.8 12.4 9.3 33.3 Income (loss) from operations 7,913 656 (1,106.3) 20,950 (5,161) 505.9 
+ 
+ The Company's earthmoving/construction segment net sales were 168.4 million for the three months ended September 30, 2021, as compared to 123.2 million in the comparable quarter of 2020, an increase of 36.7 . The increase in earthmoving/construction sales was driven by increased volume and product price/mix of 15.8 and 18.8 , respectively, which was primarily due to improvements in global economic conditions and recovery in construction markets, including the return to normalized supply and demand levels in light of the COVID-19 pandemic. For the three months ended September 30, 2020, lower sales volumes were primarily caused by the effect of the COVID-19 pandemic, which did not have a similar impact during the third quarter of 2021. Net sales were also favorably impacted by foreign currency translation in Europe, which increased net sales by 2.1 . 
+ 
+ Gross profit in the earthmoving/construction segment was 21.3 million for the three months ended September 30, 2021, as compared to 12.4 million for the three months ended September 30, 2020. The increase in gross profit and margin was primarily driven by the increased sales volume and continued improved production efficiencies stemming from the strong management actions taken to improve profitability for the long-term. 
+ 
+ The Company's earthmoving/construction segment income from operations was 7.9 million for the three months ended September 30, 2021, as compared to income of 0.7 million for the three months ended September 30, 2020. This improvement was due to increases in sales volume and cost containment measures taken to manage profitability during the last year primarily in response to the market declines and the impact of the COVID-19 pandemic. 
+ 
+ The Company's earthmoving/construction segment net sales were 509.9 million for the nine months ended September 30, 2021, as compared to 372.6 million in the comparable period of 2020, an increase of 36.9 . The increase in earthmoving/construction sales was driven by increased volume and product price/mix of 23.8 and 8.9 , respectively, which was primarily due to continued market recovery, as previously discussed. For the nine months ended September 30, 2020, the direct impact of COVID-19 accounted for approximately 48 million of the sales decrease as compared to the same period in 2019 due to plant shutdowns and market disruptions in Europe and Asia, which did not repeat during the first nine months of 2021. Net sales were also favorably impacted by foreign currency translation in Europe, which increased net sales by 4.1 . 
+ 
+ Gross profit in the earthmoving/construction segment was 63.3 million for the nine months ended September 30, 2021, as compared to 34.8 million for the nine months ended September 30, 2020. The increase in gross profit and margin was primarily driven by the increased sales volume and continued improved production efficiencies stemming from the strong management actions taken to improve profitability for the long-term. 
+ 
+ The Company's earthmoving/construction segment income from operations was 21.0 million for the nine months ended September 30, 2021, as compared to a loss of 5.2 million for the nine months ended September 30, 2020. This improvement was due to increases in sales volume and cost containment measures taken to manage profitability during the last year in response to the market declines and the impact of the COVID-19 pandemic. 
+
+34 
+
+TITAN INTERNATIONAL, INC. 
+ Management's Discussion and Analysis of 
+ Financial Condition and Results of Operations 
+
+Consumer Segment Results 
+ Consumer segment results for the periods presented below were as follows: 
+ (Amounts in thousands) Three months ended Nine months ended September 30, September 30, 2021 2020 Increase/(Decrease) 2021 2020 Increase/(Decrease) Net sales 37,601 28,478 32.0 97,973 86,527 13.2 Gross profit 5,815 2,717 114.0 13,400 7,821 71.3 Profit margin 15.5 9.5 63.2 13.7 9.0 52.2 Income (loss) from operations 3,519 (88) (4,098.9) 7,067 912 674.9 
+ 
+ Consumer segment net sales were 37.6 million for the three months ended September 30, 2021, as compared to 28.5 million for the three months ended September 30, 2020, an increase of approximately 32.0 . The increase was driven by favorable product price/mix, and volume impact to net sales of 22.5 and 6.8 , respectively. Net sales were also favorably impacted by foreign currency translation in Latin America, which increased net sales by 2.7 . 
+ 
+ Gross profit from the consumer segment was 5.8 million for the three months ended September 30, 2021, as compared to 2.7 million for the three months ended September 30, 2020 due primarily to increased product price/mix. 
+ 
+ Consumer segment income from operations was 3.5 million for the three months ended September 30, 2021, as compared to a loss of 0.1 million for the three months ended September 30, 2020 due to increase in gross profit as mentioned previously. 
+ 
+ Consumer segment net sales were 98.0 million for the nine months ended September 30, 2021, as compared to 86.5 million for the nine months ended September 30, 2020, an increase of approximately 13.2 . The increase was driven by favorable product price/mix and volume impact to net sales of 13.1 and 0.7 , respectively. The increase was partially offset by unfavorable foreign currency impacts to net sales of 1.6 , which was primarily due to devaluation of Latin American currencies against the US Dollar. 
+ 
+ Gross profit from the consumer segment was 13.4 million for the nine months ended September 30, 2021, as compared to 7.8 million for the nine months ended September 30, 2020 due primarily to increased product price/mix. 
+ 
+ Consumer segment income from operations was 7.1 million for the nine months ended September 30, 2021, as compared to income of 0.9 million for the nine months ended September 30, 2020 due to increase in gross profit as mentioned previously. 
+ 
+ Corporate Unallocated Expenses 
+ Income from operations on a segment basis did not include unallocated loss of 6.7 million for the three months ended September 30, 2021, and 10.5 million for the three months ended September 30, 2020, as compared to 21.4 million for the nine months ended September 30, 2021 and 27.2 million for the nine months ended September 30, 2020. The year over year change is related to the increase in certain corporate SG A expenses as described previously, which were not allocated. 
+
+35 
+
+TITAN INTERNATIONAL, INC. 
+ Management's Discussion and Analysis of 
+ Financial Condition and Results of Operations 
+
+ LIQUIDITY AND CAPITAL RESOURCES 
+ 
+ Cash Flows 
+ As of September 30, 2021, the Company had 94.6 million of cash, a decrease of 22.8 million from December 31, 2020, due to the following items: 
+ 
+ Operating Cash Flows 
+ Summary of cash flows from operating activities: 
+ (Amounts in thousands) Nine months ended September 30, 2021 2020 Change Net income (loss) 21,601 (45,596) 67,197 Depreciation and amortization 36,345 40,376 (4,031) Deferred income tax provision (743) (3,616) 2,873 Foreign currency translation (gain) loss (12,042) 9,812 (21,854) Accounts receivable (75,456) (22,909) (52,547) Inventories (89,496) 36,664 (126,160) Prepaid and other current assets (14,249) (1,133) (13,116) Accounts payable 92,384 2,351 90,033 Other current liabilities 24,207 28,753 (4,546) Other liabilities (6,532) (678) (5,854) Other operating activities 21,691 3,407 18,284 Cash (used for) provided by operating activities (2,290) 47,431 (49,721) 
+ 
+ In the first nine months of 2021, cash flows used for operating activities was 2.3 million, driven by increases in inventory of 89.5 million and increases in accounts receivable of 75.5 million, offset partially by increases in accounts payable of 92.4 million. The cash used for working capital was due to significantly higher sales volume in the first nine months of 2021 as compared to the first nine months of 2020 as mentioned previously. In the first quarter of 2021, the Company paid 9.2 million in a previously settled litigation matter (see Note 17 to the Condensed Consolidated Financial Statements of this Form 10-Q). Included in the net income of 21.6 million were depreciation and amortization expense of 36.3 million and foreign currency translation gain of 12.0 million. Cash flows used for operating activities includes 16.0 million loss on senior note repurchase which was included within other operating activities. 
+ 
+ Operating cash flows decreased by 49.7 million when comparing the first nine months of 2021 to the comparable period in 2020. Net income in the first nine months of 2021 increased by 67.2 million from the loss incurred during the first nine months of 2020. When comparing the first nine months of 2021 to the comparable period in 2020, cash flows from operating activities decreased due to managed investments in working capital to support the business growth and the 9.2 million legal settlement paid in February 2021 as discussed previously. 
+ 
+ Summary of the components of cash conversion cycle: 
+ September 30, December 31, September 30, 2021 2020 2020 Days sales outstanding 53 54 61 Days inventory outstanding 89 99 111 Days payable outstanding (61) (56) (51) Cash conversion cycle 81 97 121 
+ 36 
+
+TITAN INTERNATIONAL, INC. 
+ Management's Discussion and Analysis of 
+ Financial Condition and Results of Operations 
+
+ Investing Cash Flows 
+ Summary of cash flows from investing activities: 
+ (Amounts in thousands) Nine months ended September 30, 2021 2020 Change Capital expenditures (24,250) (13,350) (10,900) Sale of Wheels India Limited shares 32,852 (32,852) Proceeds from sale of fixed assets 1,139 200 939 Proceeds from property insurance settlement 4,936 (4,936) Other investing activities 726 (726) Cash (used for) provided by investing activities (23,111) 25,364 (48,475) 
+ 
+ Net cash used for investing activities was 23.1 million in the first nine months of 2021, as compared to net cash provided by investing activities of 25.4 million in the first nine months of 2020. The Company invested a total of 24.3 million in capital expenditures in the first nine months of 2021, compared to 13.4 million in the comparable period of 2020. Capital expenditures during the first nine months of 2021 and 2020 represent equipment replacement and improvements, along with new tools, dies and molds related to new product development. The overall capital outlay for 2021 increased as the Company seeks to enhance the Company's existing facilities and manufacturing capabilities and drive productivity gains following suppression of capital outlay in 2020 as a result of the COVID-19 pandemic and reduction of business activity. 
+ 
+ Cash provided by investing activities for the first nine months of 2020 includes 4.9 million from the proceeds of a property insurance settlement and 32.9 million from proceeds for the sales of Wheels India Limited shares. 
+
+Financing Cash Flows 
+ Summary of cash flows from financing activities: 
+ (Amounts in thousands) Nine months ended September 30, 2021 2020 Change Proceeds from borrowings 482,293 85,991 396,302 Repurchase of senior secured notes (413,000) (413,000) Payment on debt (59,949) (116,601) 56,652 Dividends paid (603) 603 Other financing activities (2,069) (2,723) 654 Cash provided by (used for) financing activities 7,275 (33,936) 41,211 
+ 
+ During the first nine months of 2021, 7.3 million of cash was provided by financing activities. Proceeds from borrowings provided 482.3 million, which was offset by repurchase of senior secured notes and payments on debt of 413.0 million and 59.9 million, respectively. Borrowing on the domestic revolving credit facility occurred during the first nine months of 2021 to support costs of refinancing the Company's senior secured notes, along with the settlement of the legal matter, mentioned earlier, resulting in an outstanding balance of 30.0 million at September 30, 2021 as compared to 0.0 million at December 31, 2020. Other financing activities for the nine months ended September 30, 2021 includes cash outflows of approximately 6.0 million associated with the deferred financing costs in connection with refinancing of the senior secured notes and was partially offset by approximately 4.0 million associated with cash flow impacts on finance lease liabilities. 
+ 
+ During the first nine months of 2020, 33.9 million of cash was used by financing activities. Proceeds from borrowings provided 86.0 million, which was offset by payments on debt of 116.6 million. 
+ 37 
+
+TITAN INTERNATIONAL, INC. 
+ Management's Discussion and Analysis of 
+ Financial Condition and Results of Operations 
+
+ Debt Restrictions 
+ The Company s revolving credit facility (credit facility) and indenture relating to the 7.00 senior secured notes due 2028 contain various restrictions, including: 
+ When remaining availability under the credit facility is less than 10 of the total commitment under the credit facility 10.0 million as of September 30, 2021), the Company is required to maintain a minimum fixed charge coverage ratio of not less than 1.0 to 1.0 (calculated quarterly on a trailing four quarter basis); 
+ Limits on dividends and repurchases of the Company s stock; 
+ Restrictions on the ability of the Company to make additional borrowings, or to consolidate, merge, or otherwise fundamentally change the ownership of the Company; 
+ Limitations on investments, dispositions of assets, and guarantees of indebtedness; and 
+ Other customary affirmative and negative covenants. 
+ 
+ These restrictions could limit the Company s ability to respond to market conditions, provide for unanticipated capital investments, raise additional debt or equity capital, pay dividends, or take advantage of business opportunities, including future acquisitions. 
+ 
+ Liquidity Outlook 
+ At September 30, 2021, the Company had 94.6 million of cash and cash equivalents. At September 30, 2021, under the Company's 100 million credit facility, there were 30.0 million in borrowings, 10.7 million in outstanding letters of credit, and the amount available totaled 59.3 million. Titan's availability under this credit facility may be less than 100 million as a result of outstanding letters of credit and eligible accounts receivable and inventory balances at certain domestic subsidiaries. The cash and cash equivalents balance of 94.6 million included 79.9 million held in foreign countries, with the percentage of foreign cash being similar to recent historical levels. 
+ 
+ We are expecting full year capital expenditures to be around 35 million. Cash payments for interest are currently forecasted to be approximately 15 million for the remainder of 2021 based on September 30, 2021 debt balances and after giving effect to the issuance of the senior secured notes due 2028. The forecasted interest payments are comprised primarily of the semi-annual payments totaling 28 million (paid in April and October) for the senior secured notes due 2028, which became effective on April 22, 2021. 
+ 
+ Cash and cash equivalents, totaling 94.6 million at September 30, 2021, along with anticipated internal cash flows from operations and utilization of availability on global credit facilities, are expected to provide sufficient liquidity for working capital needs, debt maturities, and capital expenditures. Potential divestitures and unencumbered assets are also a means to provide for future liquidity needs. Titan has continued to take actions to obtain financial flexibility and credit capabilities from our banking partners and other sources throughout our global operations over the course of the first nine months of 2021, to gain flexibility should the markets continue to strengthen in the future. On October 28, 2021, the Company amended and extended the credit and security agreement with respect to the 100 million revolving credit facility (credit facility) with agent BMO Harris Bank N.A. and other financial institutions party thereto. The credit facility was increased to 125 million with the amount available under the credit facility determined based upon eligible accounts receivable and inventory balances at certain of its domestic subsidiaries. The amended credit facility has a five-year term with the new maturity occurring on October 28, 2026. As previously mentioned, the Company refinanced its 400 million senior secured notes during the second quarter of 2021 resulting in extension of the due date from 2023 to 2028. We are managing the business cycle and the current impact of the COVID-19 pandemic; however, we do not anticipate that this impact will cause the Company to violate any financial covenants with respect to its debt agreements. In addition, as a result of the measures undertaken by management, the Company does not anticipate any significant liquidity constraints during the foreseeable future. 
+ 
+ CRITICAL ACCOUNTING ESTIMATES 
+ There were no material changes in the Company s Critical Accounting Estimates since the filing of the 2020 Form 10-K. As discussed in the 2020 Form 10-K, the preparation of the condensed consolidated financial statements in conformity with US GAAP requires management to make estimates, assumptions, and judgments that affect the reported amount of assets and liabilities and disclosure of contingent assets and liabilities at the date of the condensed consolidated financial statements and the reported amounts of revenues and expenses during the reporting periods. Actual results may differ from those estimates and assumptions. Refer to Note 1. Basis of Presentation and Significant Accounting Policies in Part I, Item 1, Notes to Condensed Consolidated Financial Statements of this Form 10-Q for a discussion of the Company s updated accounting policies. 
+ 38 
+
+TITAN INTERNATIONAL, INC. 
+ Management's Discussion and Analysis of 
+ Financial Condition and Results of Operations 
+
+Item 3. Quantitative and Qualitative Disclosures About Market Risk 
+ 
+ Titan is exposed to market risks, including changes in foreign currency exchange rates and interest rates, and commodity price fluctuations. Our exposure to market risk has not changed materially since December 31, 2020. For quantitative and qualitative disclosures about market risk, see Item 7A - Quantitative and Qualitative Disclosures About Market Risk included in the 2020 Form 10-K. 
+ 
+ Item 4. Controls and Procedures 
+ 
+ Evaluation of Disclosure Controls and Procedures 
+ Titan management, including the Chief Executive Officer and Chief Financial Officer, evaluated the effectiveness of the design and operation of the Company's disclosure controls and procedures (as defined under Rules 13a-15(e) and 15d-15(e) promulgated under the Securities Exchange Act of 1934 (the Exchange Act)) as of September 30, 2021. Based on that evaluation, the Chief Executive Officer and Chief Financial Officer concluded that, as of September 30, 2021, Titan's disclosure controls and procedures were effective to provide reasonable assurance that information required to be disclosed by Titan in the reports that it files or submits under the Exchange Act is recorded, processed, summarized, and reported accurately and within the time frames specified in the SEC's rules and forms and accumulated and communicated to Titan management, including the Chief Executive Officer and the Chief Financial Officer, as appropriate to allow timely decisions regarding required disclosure. 
+ 
+ Changes in Internal Controls 
+ There were no changes in internal control over financial reporting (as defined in Rules 13a-15(f) and 15d-15(f) under the Exchange Act) that occurred during the third quarter of fiscal year 2021 that have materially affected, or are reasonably likely to materially affect, the Company's internal control over financial reporting. 
+ 
+ Inherent Limitations on the Effectiveness of Controls 
+ Because of its inherent limitations, the Company's disclosure controls and procedures or internal control over financial reporting may not prevent or detect all misstatements or fraud. A control system, no matter how well conceived and operated, can provide only reasonable, not absolute, assurance that the objectives of the control system are met. Further, the design of a control system must reflect the fact that there are resource constraints, and the benefits of controls must be considered relative to their costs. Due to the inherent limitations in a cost-effective control system, no evaluation of controls can provide absolute assurance that misstatements due to error or fraud will not occur or that all control issues and instances of fraud, if any, within the Company have been detected. 
+ 
+ These inherent limitations include the realities that judgments in decision-making can be faulty and that breakdowns can occur due to simple error or mistake. Controls can also be circumvented by the individual acts of some persons, by collusion of two or more people, or by management override of the controls. Also, projections of any evaluation of effectiveness to future periods are subject to the risk that controls may become inadequate because of changes in conditions, or that the degree of compliance with the policies or procedures may deteriorate. 
+ 
+ 39 
+
+TITAN INTERNATIONAL, INC. 
+
+PART II. OTHER INFORMATION 
+
+Item 1. Legal Proceedings 
+ 
+ The Company is subject, from time to time, to certain legal proceedings and claims arising out of the normal course of its business, which cover a wide range of matters, including environmental issues, product liability, contracts, and labor and employment matters. See Note 17- Litigation in Part I, Item 1, Notes to Condensed Consolidated Financial Statements of this Form 10-Q for further discussion, which is incorporated herein by reference. 
+ 
+ Item 1A. Risk Factors 
+ 
+ Except as set forth below, there have been no material changes from the risk factors disclosed in Item 1A. Risk Factors to the 2020 Form 10-K. 
+ 
+ The Company is subject to risks related to payment of cash to RDIF if OFAC does not approve the issuance of Titan common shares to RDIF. 
+ 
+ The Company continues to be in contact with the Office of Foreign Asset Control (OFAC) regarding the release of 4,032,259 shares of Titan common stock (the escrowed shares) that were issued to an escrow account on behalf of RDIF in 2019 as part of the settlement of RDIF s put option under the Voltyre-Prom shareholders agreement. OFAC has yet to approve the release of the escrowed shares to RDIF. If the escrowed shares are not released to RDIF by December 31, 2021, then Titan and RDIF may seek alternative settlement terms, which could include the payment by Titan to RDIF of 25 million in cash (which is the approximate value of the escrowed shares when issued in February 2019) and the return of the escrowed shares to Titan. 
+ 
+ The Company could be negatively impacted if Titan fails to maintain satisfactory labor relations. 
+ 
+ Titan is party to collective bargaining agreements covering a portion of the Company's workforce. Titan is exposed to risks associated with disruptions to the Company s operations if the Company is unable to reach a mutually agreeable domestic collective bargaining agreement. The current domestic collective bargaining agreement will expire on November 16, 2021. If Titan is unable to maintain satisfactory labor relations with its employees covered by collective bargaining agreements, these employees could engage in strikes, or the Company may otherwise experience work slowdowns or be subject to other labor actions. Any such actions, and any other labor disputes with the Company s employees domestically or internationally, could materially disrupt its operations. Future collective bargaining agreements may impose significant additional costs on Titan, which could adversely affect its financial condition and results of operations. 
+
+40 
+
+TITAN INTERNATIONAL, INC. 
+
+Item 6. Exhibits 
+ 
+ 31.1 Certification of the Principal Executive Officer pursuant to Section 302 of the Sarbanes-Oxley Act of 2002 
+ 31.2 Certification of the Principal Financial Officer pursuant to Section 302 of the Sarbanes-Oxley Act of 2002 
+ 32 Certification pursuant to Section 906 of the Sarbanes-Oxley Act of 2002 
+ 101.SCH Inline XBRL Taxonomy Extension Schema Document 101.CAL Inline XBRL Taxonomy Extension Calculation Linkbase Document 101.DEF Inline XBRL Taxonomy Extension Definition Linkbase Document 101.LAB Inline XBRL Taxonomy Extension Label Linkbase Document 101.PRE Inline XBRL Taxonomy Extension Presentation Linkbase Document 104 The cover page from this Current Report on Form 10-Q formatted as inline XBRL 
+
+41 
+
+TITAN INTERNATIONAL, INC. 
+
+SIGNATURES 
+ 
+ Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned, thereunto duly authorized. 
+ 
+ TITAN INTERNATIONAL, INC. (Registrant) 
+ 
+ Date: November 3, 2021 By : 
+ /s/ PAUL G. REITZ Paul G. Reitz President and Chief Executive Officer (Principal Executive Officer) 
+ 
+ By : 
+ /s/ DAVID A. MARTIN David A. Martin SVP and Chief Financial Officer (Principal Financial Officer) 
+
+42 
+
+<EX-31.1>
+ 2
+ twi09302021ex311.htm
+ EX-31.1
+
+Document 
+
+Exhibit 31.1 
+ 
+ CERTIFICATION 
+ I, Paul G. Reitz, certify that 
+ 1. I have reviewed this quarterly report on Form 10-Q of Titan International, Inc. 
+ 2. Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report 
+ 3. Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report 
+ 4. The registrant s other certifying officer and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have 
+ a. Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared 
+ b. Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles 
+ c. Evaluated the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation and 
+ d. Disclosed in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s most recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant s internal control over financial reporting and 
+ 5. The registrant s other certifying officer and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant s auditors and the audit committee of registrant s board of directors (or persons performing the equivalent function) 
+ a. All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial information and 
+ b. Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s internal control over financial reporting. 
+ 
+ Date November 3, 2021 By s PAUL G. REITZ Paul G. Reitz President and Chief Executive Officer (Principal Executive Officer) 
+
+</EX-31.1>
+
+<EX-31.2>
+ 3
+ twi09302021ex312.htm
+ EX-31.2
+
+Document 
+
+Exhibit 31.2 
+ 
+ CERTIFICATION 
+ I, David A. Martin, certify that 
+ 1. I have reviewed this quarterly report on Form 10-Q of Titan International, Inc. 
+ 2. Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report 
+ 3. Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report 
+ 4. The registrant s other certifying officer and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have 
+ a. Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared 
+ b. Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles 
+ c. Evaluated the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation and 
+ d. Disclosed in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s most recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant s internal control over financial reporting and 
+ 5. The registrant s other certifying officer and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant s auditors and the audit committee of registrant s board of directors (or persons performing the equivalent function) 
+ a. All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial information and 
+ b. Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s internal control over financial reporting. 
+ Date November 3, 2021 By s DAVID A. MARTIN David A. Martin SVP and Chief Financial Officer (Principal Financial Officer) 
+
+</EX-31.2>
+
+<EX-32>
+ 4
+ twi09302021ex32.htm
+ EX-32
+
+Document 
+
+Exhibit 32 
+ 
+ CERTIFICATION 
+ 
+ In connection with the Quarterly Report of Titan International, Inc. on Form 10-Q for the period ended September 30, 2021, as filed with the Securities and Exchange Commission on the date hereof (the Report ), each of the undersigned hereby certifies that, to the best of their knowledge, this Report fully complies with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act of 1934 and that information contained in this report fairly presents, in all material respects, the financial condition and results of operations of the Registrant. 
+ TITAN INTERNATIONAL, INC. (Registrant) 
+ 
+ Date November 3, 2021 By s PAUL G. REITZ Paul G. Reitz President and Chief Executive Officer (Principal Executive Officer) 
+ 
+ Date November 3, 2021 By s DAVID A. MARTIN David A. Martin SVP and Chief Financial Officer (Principal Financial Officer) 
+
+</EX-32>
+
+<EX-101.SCH>
+ 5
+ twi-20210930.xsd
+ XBRL TAXONOMY EXTENSION SCHEMA DOCUMENT
+
+</EX-101.SCH>
+
+<EX-101.CAL>
+ 6
+ twi-20210930_cal.xml
+ XBRL TAXONOMY EXTENSION CALCULATION LINKBASE DOCUMENT
+
+</EX-101.CAL>
+
+<EX-101.DEF>
+ 7
+ twi-20210930_def.xml
+ XBRL TAXONOMY EXTENSION DEFINITION LINKBASE DOCUMENT
+
+</EX-101.DEF>
+
+<EX-101.LAB>
+ 8
+ twi-20210930_lab.xml
+ XBRL TAXONOMY EXTENSION LABEL LINKBASE DOCUMENT
+
+</EX-101.LAB>
+
+<EX-101.PRE>
+ 9
+ twi-20210930_pre.xml
+ XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE DOCUMENT
+
+</EX-101.PRE>
+

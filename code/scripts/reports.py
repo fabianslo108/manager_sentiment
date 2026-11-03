@@ -5,12 +5,16 @@ natural key ``(CIK, FILING_DATE, ACC_NUM, FORM_TYPE)`` -- never by a row
 position -- so that scores cannot silently drift onto the wrong report when the
 input table is rebuilt in a different order.
 
-Expected file names (as produced by the EDGAR item extraction):
+Expected file names:
 
+    20130214_10-K_edgar_data_91440_0001193125-13-058193.txt
     20130726_10-K_edgar_data_1750_0001047469-13-007797_item7.txt
     20030414_10-Q_edgar_data_1750_0001104659-03-006403.txt
 
 i.e. ``{FILING_DATE}_{FORM_TYPE}_edgar_data_{CIK}_{ACC_NUM}[_{SECTION}].txt``.
+
+The sample stores 10-K Item 7 text under the plain filing name, with ``_item7``
+removed. Older extracts that still carry the suffix are accepted as well.
 
 Torch-free on purpose: ``ReportDataset`` is a plain map-style dataset, which is
 all that ``torch.utils.data.DataLoader`` requires.
@@ -32,8 +36,9 @@ logger = get_logger(__name__)
 META_COLUMNS = ("CIK", "FILING_DATE", "ACC_NUM", "FORM_TYPE", "SECTION")
 
 #: Which part of the document we score by default, per form type. 10-K keeps
-#: Item 7 (MD&A) for continuity with earlier results; a 10-Q is scored whole,
-#: since its MD&A is not separated out in the source files.
+#: Item 7 (MD&A). In the sample that text is stored without an ``_item7``
+#: suffix; files that still have the suffix are the same extract. A 10-Q is
+#: scored whole, since its MD&A is not separated out in the source files.
 DEFAULT_SECTION = {"10-K": "item7", "10-Q": None}
 
 #: ``section`` sentinels accepted by the discovery helpers.
@@ -91,6 +96,40 @@ def _wanted_section(form_type: str, section: str | None) -> str | None:
     return section
 
 
+def _section_accepted(parsed_section: str | None, form_type: str, section: str | None) -> bool:
+    """Whether one file's section matches the requested filter.
+
+    The default 10-K filter accepts both ``..._item7.txt`` and the plain filing
+    name. The sample drops the suffix; the text is still Item 7.
+    """
+    if section == SECTION_ANY:
+        return True
+    wanted = _wanted_section(form_type, section)
+    if section == SECTION_DEFAULT and form_type == "10-K" and wanted == "item7":
+        return parsed_section in (None, "item7")
+    return parsed_section == wanted
+
+
+def _prefer_explicit_item7(rows: list[dict]) -> list[dict]:
+    """Drop a plain 10-K when the same filing also has an ``_item7`` file.
+
+    Other duplicate keys are left in place so the caller can still warn.
+    """
+    grouped: dict[tuple, list[int]] = {}
+    for index, row in enumerate(rows):
+        key = tuple(str(row[col]) for col in ("CIK", "FILING_DATE", "ACC_NUM", "FORM_TYPE"))
+        grouped.setdefault(key, []).append(index)
+
+    drop: set[int] = set()
+    for indexes in grouped.values():
+        if len(indexes) < 2:
+            continue
+        sections = {rows[i].get("SECTION") for i in indexes}
+        if rows[indexes[0]]["FORM_TYPE"] == "10-K" and sections == {None, "item7"}:
+            drop.update(i for i in indexes if rows[i].get("SECTION") is None)
+    return [row for index, row in enumerate(rows) if index not in drop]
+
+
 def _as_frame(rows: Sequence[dict]) -> pd.DataFrame:
     frame = pd.DataFrame(rows, columns=[*META_COLUMNS, "path"])
     for col in META_COLUMNS:
@@ -113,10 +152,12 @@ def discover_reports(
     form_type:
         ``"10-K"``, ``"10-Q"``, an iterable of both, or ``None`` for any.
     section:
-        ``"default"`` uses :data:`DEFAULT_SECTION` per form type (Item 7 for
-        10-K, whole document for 10-Q), ``"any"`` disables the filter, ``None``
-        keeps whole-document files only, and e.g. ``"item1a"`` keeps that
-        section only.
+        ``"default"`` uses :data:`DEFAULT_SECTION` per form type. A 10-K matches
+        either ``..._item7.txt`` or the plain filing name (the sample drops the
+        suffix). A 10-Q matches the whole document. ``"any"`` disables the
+        filter, ``None`` keeps whole-document files only, and e.g. ``"item1a"``
+        keeps that section only. When a 10-K exists both ways, the ``_item7``
+        file is kept.
 
     Returns
     -------
@@ -142,10 +183,12 @@ def discover_reports(
             continue
         if wanted_forms is not None and parsed["FORM_TYPE"] not in wanted_forms:
             continue
-        if section != SECTION_ANY:
-            if parsed["SECTION"] != _wanted_section(parsed["FORM_TYPE"], section):
-                continue
+        if not _section_accepted(parsed["SECTION"], parsed["FORM_TYPE"], section):
+            continue
         rows.append({**parsed, "path": str(path)})
+
+    if section == SECTION_DEFAULT:
+        rows = _prefer_explicit_item7(rows)
 
     if skipped:
         logger.warning("%d .txt file(s) under %s did not match the naming pattern", skipped, root)
@@ -193,14 +236,27 @@ def reports_from_index(
         if wanted:
             # The extraction pipeline sometimes nests sections in subfolders.
             candidates.append(root / f"{wanted}_files" / name)
+        if section == SECTION_DEFAULT and form_type == "10-K" and wanted:
+            # Sample layout: Item 7 text under the plain filing name.
+            candidates.append(
+                root
+                / report_filename(
+                    record["CIK"], record["FILING_DATE"], record["ACC_NUM"], form_type, None
+                )
+            )
         path = next((c for c in candidates if c.exists()), None)
         if path is None and require_existing:
             continue
+        found_section = wanted
+        if path is not None:
+            parsed = parse_report_filename(path.name)
+            if parsed is not None:
+                found_section = parsed["SECTION"]
         rows.append(
             {
                 **record,
                 "FORM_TYPE": form_type,
-                "SECTION": wanted,
+                "SECTION": found_section,
                 "path": str(path) if path is not None else "",
             }
         )

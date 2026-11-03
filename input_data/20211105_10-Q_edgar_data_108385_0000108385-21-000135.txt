@@ -1,0 +1,912 @@
+<Header>
+<FileStats>
+    <FileName>20211105_10-Q_edgar_data_108385_0000108385-21-000135.txt</FileName>
+    <GrossFileSize>9390787</GrossFileSize>
+    <NetFileSize>102395</NetFileSize>
+    <NonText_DocumentType_Chars>1121451</NonText_DocumentType_Chars>
+    <HTML_Chars>3631176</HTML_Chars>
+    <XBRL_Chars>2223128</XBRL_Chars>
+    <XML_Chars>2132984</XML_Chars>
+    <N_Exhibits>9</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0000108385-21-000135.hdr.sgml : 20211105
+<ACCEPTANCE-DATETIME>20211105161554
+ACCESSION NUMBER:		0000108385-21-000135
+CONFORMED SUBMISSION TYPE:	10-Q
+PUBLIC DOCUMENT COUNT:		65
+CONFORMED PERIOD OF REPORT:	20210930
+FILED AS OF DATE:		20211105
+DATE AS OF CHANGE:		20211105
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			WORLD ACCEPTANCE CORP
+		CENTRAL INDEX KEY:			0000108385
+		STANDARD INDUSTRIAL CLASSIFICATION:	PERSONAL CREDIT INSTITUTIONS [6141]
+		IRS NUMBER:				570425114
+		STATE OF INCORPORATION:			SC
+		FISCAL YEAR END:			0331
+
+	FILING VALUES:
+		FORM TYPE:		10-Q
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-19599
+		FILM NUMBER:		211384699
+
+	BUSINESS ADDRESS:	
+		STREET 1:		108 FREDRICK STREET
+		CITY:			GREENVILLE
+		STATE:			SC
+		ZIP:			29607
+		BUSINESS PHONE:		8642989800
+
+	MAIL ADDRESS:	
+		STREET 1:		P O BOX 6429
+		CITY:			GREENVILLE
+		STATE:			SC
+		ZIP:			29606
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	WORLD FINANCE CORP
+		DATE OF NAME CHANGE:	19700210
+
+</SEC-Header>
+</Header>
+
+ 0000108385-21-000135.txt : 20211105
+
+10-Q
+ 1
+ wrld-20210930.htm
+ 10-Q
+
+wrld-20210930 
+
+UNITED STATES 
+ SECURITIES AND EXCHANGE COMMISSION 
+ WASHINGTON, D.C. 20549 
+ 
+ __________________________________ 
+ Form 
+ __________________________________ 
+ 
+ (Mark One) 
+ QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+ 
+ For the quarterly period ended 
+ OR TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT of 1934 
+ 
+ For the transition period from ______________ to ______________ 
+ 
+ Commission File Number: 
+ 
+ ORATION 
+ (Exact name of registrant as specified in its charter.) 
+ 
+ (State or other jurisdiction of incorporation or organization) (I.R.S. Employer Identification Number) 
+ (Address of principal executive offices) (Zip Code) 
+ (registrant's telephone number, including area code) 
+ 
+ Securities registered pursuant to Section 12(b) of the Act: Title of each class Trading Symbol Name of each exchange on which registered The Stock Market LLC 
+ (NASDAQ Global Select Market) 
+
+Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for shorter period than the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days. x No 
+ 
+ Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T 232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files). x No 
+ 
+ Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company, or an emerging growth company. See the definitions of large accelerated filer, accelerated filer, smaller reporting company, and "emerging growth company" in Rule 12b-2 of the Exchange Act. 
+ 1 
+
+Large Accelerated filer Non-accelerated filer Smaller reporting company Emerging growth company 
+ 
+ If an emerging growth company, indicate by check mark if registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. o 
+ 
+ Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act). Yes No x 
+ 
+ The number of outstanding shares of the issuer s common stock, no par value, as of October 29, 2021 was . 
+
+2 
+
+WORLD ACCEPTANCE CORPORATION 
+ FORM 10-Q 
+ 
+ TABLE OF CONTENTS 
+ Item No. Contents Page GLOSSARY OF DEFINED TERMS 4 
+ PART I - FINANCIAL INFORMATION 1. Consolidated Financial Statements (unaudited): 5 
+ Consolidated Balance Sheets as of September 30, 2021 and March 31, 2021 5 
+ Consolidated Statements of Operations for the three and six months ended September 30, 2021 and September 30, 2020 7 
+ Consolidated Statements of Shareholders' Equity for the three and six months ended September 30, 2021 and September 30, 2020 8 
+ Consolidated Statements of Cash Flows for the six months ended September 30, 2021 and September 30, 2020 10 
+ Notes to Consolidated Financial Statements 12 
+ 2. Management's Discussion and Analysis of Financial Condition and Results of Operations 32 
+ 3. Quantitative and Qualitative Disclosures about Market Risk 41 
+ 4. Controls and Procedures 41 
+ PART II - OTHER INFORMATION 1. Legal Proceedings 42 
+ 1A. Risk Factors 42 
+ 2. Unregistered Sales of Equity Securities and Use of Proceeds 42 
+ 3. Defaults Upon Senior Securities 42 
+ 4. Mine Safety Disclosures 42 
+ 5. Other Information 42 
+ 6. Exhibits 42 
+ EXHIBIT INDEX 43 
+ SIGNATURES 44 
+
+Introductory Note: As used herein, the "Company," "we," "our," "us," or similar formulations include World Acceptance Corporation and each of its subsidiaries, unless otherwise expressly noted or the context otherwise requires that it include only World Acceptance Corporation. All references in this report to "fiscal 2022" are to the Company s fiscal year ending March 31, 2022; all references in this report to "fiscal 2021" are to the Company's fiscal year ended March 31, 2021; and all references to "fiscal 2020" are to the Company s fiscal year ended March 31, 2020. 
+ 
+ 3 
+
+Table of Contents 
+
+ GLOSSARY OF DEFINED TERMS 
+ 
+ The following terms may be used throughout this Report, including consolidated financial statements and related notes. 
+ Term Definition ASC Accounting Standards Codification ASU Accounting Standards Update CECL Current Expected Credit Loss CEO Chief Executive Officer CFO Chief Financial Officer CFPB U.S. Consumer Financial Protection Bureau Compensation Committee Compensation and Stock Option Committee Customer Tenure The number of years since a customer was first serviced by the Company DOJ U.S. Department of Justice EBITDA Earnings before interest, taxes, depreciation, and amortization ERISA Employee Retirement Income Security Act Exchange Act Securities Exchange Act of 1934, as amended FASB Financial Accounting Standards Board FICO the Fair Isaac Corporation G A General and administrative GAAP U.S. generally accepted accounting principles IRS U.S. Internal Revenue Service LIBOR London Interbank Offered Rate Option Measurement Period The 6.5 year performance period beginning on September 30, 2018 and ending on March 31, 2025 over which the Performance Options are eligible to vest, following certification by the Compensation Committee of achievement PCD Purchased Assets with Credit Deterioration Performance Options Performance-based stock options Performance Share Measurement Period The 6.5 year performance period beginning on September 30, 2018 and ending on March 31, 2025 over which the Performance Shares are eligible to vest, following certification by the Compensation Committee of achievement Performance Shares Service- and performance-based restricted stock awards Rehab Rate Percentage of 91 days or more delinquent that do not charge off Restricted Stock Service-based restricted stock awards SEC U.S. Securities and Exchange Commission Service Options Service-based stock options TAL Tax Advance Loan 
+ 
+ 4 
+
+Table of Contents 
+
+ PART I. FINANCIAL INFORMATION 
+
+WORLD ACCEPTANCE CORPORATION 
+ AND SUBSIDIARIES 
+ CONSOLIDATED BALANCE SHEETS 
+ (Unaudited) September 30, 2021 March 31, 2021 ASSETS Cash and cash equivalents Gross loans receivable Less: Unearned interest, insurance and fees ) ) Allowance for credit losses ) ) Loans receivable, net Operating lease right of use assets, net (Note 6) Finance lease right of use assets, net (Note 6) Property and equipment, net Deferred income taxes, net Other assets, net Goodwill Intangible assets, net Assets held for sale (Note 2) Total assets LIABILITIES SHAREHOLDERS' EQUITY Liabilities: Senior notes payable Senior unsecured notes payable, net Income taxes payable Operating lease liability (Note 6) Finance lease liability (Note 6) Accounts payable and accrued expenses Total liabilities Commitments and contingencies (Notes 6 and 12) Shareholders' equity: Preferred stock, par value Authorized , shares issued or outstanding 
+ Common stock, par value Authorized shares; issued and outstanding and shares at September 30, 2021 and March 31, 2021, respectively 
+ Additional paid-in capital Retained earnings Total shareholders' equity Total liabilities and shareholders' equity 
+ 
+ 5 
+
+Table of Contents 
+
+ See accompanying notes to consolidated financial statements. 
+ 
+ 6 
+
+Table of Contents 
+
+ WORLD ACCEPTANCE CORPORATION 
+ AND SUBSIDIARIES 
+ CONSOLIDATED STATEMENTS OF OPERATIONS 
+ (Unaudited) 
+ Three months ended September 30, Six months ended September 30, 2021 2020 2021 2020 Revenues: Interest and fee income Insurance income, net and other income Total revenues Expenses: Provision for credit losses General and administrative expenses: Personnel Occupancy and equipment Advertising Amortization of intangible assets Other Total general and administrative expenses Interest expense Total expenses Income before income taxes Income taxes Net income Net income per common share: Basic Diluted Weighted average common shares outstanding: Basic Diluted 
+ 
+ See accompanying notes to consolidated financial statements. 
+ 
+ 7 
+
+Table of Contents 
+
+WORLD ACCEPTANCE CORPORATION 
+ AND SUBSIDIARIES 
+ CONSOLIDATED STATEMENTS OF SHAREHOLDERS' EQUITY 
+ (Unaudited) Three months ended September 30, 2021 Common Stock Shares Additional Paid-in Capital Retained Earnings Total Shareholders' Equity Balances at June 30, 2021 Proceeds from exercise of stock options Common stock repurchases ) ) ) Restricted common stock expense under stock option plan, net of cancellations 
+ Stock option expense Net income Balances at September 30, 2021 
+ Three months ended September 30, 2020 Common Stock Shares Additional Paid-in Capital Retained Earnings Total Shareholders' Equity Balances at June 30, 2020 Proceeds from exercise of stock options Common stock repurchases ) ) ) Restricted common stock expense under stock option plan, net of cancellations 
+ ) Stock option expense Net loss Balances at September 30, 2020 
+ Six months ended September 30, 2021 Common Stock Shares Additional Paid-in Capital Retained Earnings Total Shareholders' Equity Balances at March 31, 2021 Proceeds from exercise of stock options Common stock repurchases ) ) ) Restricted common stock expense under stock option plan, net of cancellations 
+ Stock option expense Net income Balances at September 30, 2021 
+ 8 
+
+Table of Contents 
+
+ Six months ended September 30, 2020 Common Stock Shares Additional Paid-in Capital Retained Earnings Total Shareholders' Equity Balances at March 31, 2020 Proceeds from exercise of stock options Common stock repurchases ) ) ) Restricted common stock expense under stock option plan, net of cancellations 
+ ) Stock option expense Cumulative effect of adoption of ASC 326 ) ) Net income Balances at September 30, 2020 
+ 
+ See accompanying notes to consolidated financial statements. 
+ 
+ 9 
+
+Table of Contents 
+
+ WORLD ACCEPTANCE CORPORATION 
+ AND SUBSIDIARIES 
+ CONSOLIDATED STATEMENTS OF CASH FLOWS 
+ 10 
+
+Table of Contents 
+
+ (Unaudited) Six months ended September 30, 2021 2020 Cash flow from operating activities: Net income Adjustments to reconcile net income to net cash provided by operating activities: Loss on assets held for sale Amortization of intangible assets Amortization of investment in historic tax credits Amortization of debt issuance costs Provision for credit losses Depreciation Loss on sale of property and equipment Deferred income tax expense (benefit) ) Compensation related to stock option and restricted stock plans, net of taxes and adjustments Change in accounts: Other assets, net ) Income taxes payable ) ) Accounts payable and accrued expenses ) Net cash provided by operating activities Cash flows from investing activities: Increase in loans receivable, net ) Net assets acquired from acquisitions, primarily loans ) ) Increase in intangible assets from acquisitions ) ) Purchases of property and equipment ) ) Proceeds from sale of assets held for sale Proceeds from sale of property and equipment Net cash provided by (used in) investing activities ) Cash flow from financing activities: Borrowings from senior notes payable Payments on senior notes payable ) ) Issuance of senior unsecured notes payable Debt issuance costs associated with senior unsecured notes payable ) Debt issuance costs associated with senior notes payable ) Proceeds from exercise of stock options Payments for taxes related to net share settlement of equity awards ) ) Repayment of finance lease ) ) Repurchase of common stock ) ) Net cash provided by (used in) financing activities ) Net change in cash and cash equivalents Cash and cash equivalents at beginning of period Cash and cash equivalents at end of period Supplemental Disclosures: Interest paid during the period Income taxes paid during the period 
+ See accompanying notes to consolidated financial statements. 
+ 11 
+
+Table of Contents 
+
+ WORLD ACCEPTANCE CORPORATION AND SUBSIDIARIES 
+ NOTES TO CONSOLIDATED FINANCIAL STATEMENTS 
+ (Unaudited) 
+
+NOTE 1 
+
+NOTE 2 
+ 
+ of the buildings held for sale. During the second quarter of fiscal 2022 the Company completed the sale of the last held for sale building, and recorded a thousand loss on sale which is included as a component of Insurance income, net and other income in the consolidated statements of operations. 
+ 
+ Total assets held for sale 
+
+NOTE 3 
+
+12 
+
+Table of Contents 
+
+NOTE 4 
+ 
+ . Given the short-term nature of these loans, they are continually repriced at current market rates. The Company s revolving credit facility has a variable rate based on a margin over LIBOR and reprices with any changes in LIBOR. The fair value of the senior unsecured notes payable is estimated based on quoted prices in markets that are not active. The Company also considers its creditworthiness in its estimation of fair value. 
+ 
+ 13 
+
+Table of Contents 
+
+ Loans receivable, net 3 LIABILITIES Senior unsecured notes payable 2 Senior notes payable 3 
+
+The Company re-valued its corporate headquarters in Greenville, South Carolina as of March 31, 2020 in conjunction with its reclassification of the related assets as held for sale. The observable inputs the Company used in its revaluation were the agreed-upon prices to sell the assets. 
+ 
+ There were no other significant assets or liabilities measured at fair value on a non-recurring basis as of September 30, 2021 or March 31, 2021. 
+
+NOTE 5 
+ 
+ 6 to 17 months 18 to 35 months 36 to 59 months 60+ months Tax advance loans Total gross loans 
+ 
+ During the first quarter of fiscal 2021, we adopted ASU 2016-13, which replaces the incurred loss methodology for determining our provision for credit losses and allowance for credit losses with an expected loss methodology that is referred to as the CECL model, using the modified retrospective approach. Upon adoption, the total allowance for credit losses increased by million, with no impact to the consolidated statement of operations. 
+ 
+ Based on the Company s loan products, the purpose and the term, current payment performance is used to assess the capability of the borrower to repay contractual obligations of the loan agreements as scheduled. Current payment performance is monitored by management on a daily basis. On an as needed basis, qualitative information may be taken into consideration if new information arises related to the customer s ability to repay the loan. The Company s payment performance buckets are as follows: current, 30-60 days past due, 61-90 days past due, 91 days or more past due. 
+
+14 
+
+Table of Contents 
+
+30 - 60 days past due 61 - 90 days past due 91 or more days past due Total Term Loans By Origination Tax advance loans Up to 1 Year Ago Between 1 and 2 Years Ago Between 2 and 3 Years Ago Between 3 and 4 Years Ago Between 4 and 5 Years Ago More than 5 Years Ago Total Current 30 - 60 days past due 61 - 90 days past due 91 or more days past due Total Total gross loans 
+
+15 
+
+Table of Contents 
+
+30 - 60 days past due 61 - 90 days past due 91 or more days past due Total Term Loans By Origination Tax advance loans Up to 1 Year Ago Between 1 and 2 Years Ago Between 2 and 3 Years Ago Between 3 and 4 Years Ago Between 4 and 5 Years Ago More than 5 Years Ago Total Current 30 - 60 days past due 61 - 90 days past due 91 or more days past due Total Total gross loans 
+
+16 
+
+Table of Contents 
+
+ 30 - 60 days past due 61 - 90 days past due 91 or more days past due Total Term Loans By Origination Tax advance loans Up to 1 Year Ago Between 1 and 2 Years Ago Between 2 and 3 Years Ago Between 3 and 4 Years Ago Between 4 and 5 Years Ago More than 5 Years Ago Total Current 30 - 60 days past due 61 - 90 days past due 91 or more days past due Total Total gross loans 
+
+17 
+
+Table of Contents 
+
+ 30 - 60 days past due 61 - 90 days past due 91 or more days past due Total Term Loans By Origination Tax advance loans Up to 1 Year Ago Between 1 and 2 Years Ago Between 2 and 3 Years Ago Between 3 and 4 Years Ago Between 4 and 5 Years Ago More than 5 Years Ago Total Current 30 - 60 days past due 61 - 90 days past due 91 or more days past due Total Total gross loans 
+ 
+ The allowance for credit losses is applied to amortized cost, which is defined as the amount at which a financing receivable is originated, and net of deferred fees and costs, collection of cash, and charge-offs. Amortized cost also includes interest earned but not collected. 
+ 
+ Credit Risk is inherent in the business of extending loans to borrowers and is continuously monitored by management and reflected within the allowance for credit losses for loans. The allowance for credit losses is an estimate of expected losses inherent within the Company s gross loans receivable portfolio. In estimating the allowance for credit losses, loans with similar risk characteristics are aggregated into pools and collectively assessed. The Company s loan products have generally the same terms therefore the Company looked to borrower characteristics as a way to disaggregate loans into pools sharing similar risks. 
+ 
+ In determining the allowance for credit losses, the Company examined four borrower risk metrics as noted below. 
+ 
+ 1. Borrower type 
+ 2. Active months 
+ 3. Prior loan performance 
+ 4. Customer Tenure 
+ 
+ To determine how well each metric predicts default risk the Company uses loss rate data over an observation period of twelve months at the loan level. 
+ 
+ The information value was then calculated for each metric. From this analysis management determined the metric that had the strongest predictor of default risk was Customer Tenure. The Customer Tenure buckets used in the allowance for credit loss calculation are: 
+ 
+ 1. 0 to 5 months 
+ 2. 6 to 17 months 
+ 18 
+
+Table of Contents 
+
+ Impact of ASC 326 adoption Provision for credit losses Charge-offs ) ) ) ) Recoveries Net charge-offs ) ) ) ) Ending Balance 
+ 
+ 6 to 17 months 18 to 35 months 36 to 59 months 60+ months Tax advance loans Total gross loans Unearned interest, insurance and fees ) ) ) ) ) ) Total net loans Percentage of period-end gross loans receivable 
+
+19 
+
+Table of Contents 
+
+ 6 to 17 months 18 to 35 months 36 to 59 months 60+ months Tax advance loans Total gross loans Unearned interest, insurance and fees ) ) ) ) ) ) Total net loans Percentage of period-end gross loans receivable 
+ 
+ The following table is an aging analysis on a contractual basis at amortized cost of the Company s gross loans receivable at September 30, 2021: 
+ Days Past Due - Contractual Basis Customer Tenure Current 30 - 60 61 - 90 Over 90 Total Past Due Total Loans 0 to 5 months 6 to 17 months 18 to 35 months 36 to 59 months 60+ months Tax advance loans Total gross loans Unearned interest, insurance and fees ) ) ) ) ) ) Total net loans Percentage of period-end gross loans receivable 
+
+20 
+
+Table of Contents 
+
+ 6 to 17 months 18 to 35 months 36 to 59 months 60+ months Tax advance loans Total gross loans Unearned interest, insurance and fees ) ) ) ) ) ) Total net loans Percentage of period-end gross loans receivable 
+
+The Company elected not to record an allowance for credit losses for accrued interest as outlined in ASC 326-20-30-5A. Loans are placed on nonaccrual status when management determines that the full payment of principal and collection of interest according to contractual terms is no longer likely. The accrual of interest is discontinued when a loan is 61 days or more past the contractual due date. When the interest accrual is discontinued, all unpaid accrued interest is reversed against interest income. While a loan is on nonaccrual status, interest revenue is recognized only when a payment is received. Once a loan moves to nonaccrual status, it remains in nonaccrual status until it is paid out, charged off or refinanced. During the three months ended September 30, 2021, the Company reversed a total of million of unpaid accrued interest against interest income. During the six months ended September 30, 2021, the Company reversed a total of million of unpaid accrued interest against interest income. 
+ 
+ The following table presents the amortized cost basis of loans on nonaccrual status as of the beginning of the reporting period and the end of the reporting period and the amortized cost basis of nonaccrual loans without related expected credit loss. 
+ 6 to 17 months 18 to 35 months 36 to 59 months 60+ months Tax advance loans Unearned interest, insurance and fees ) ) Total 
+ 21 
+
+Table of Contents 
+
+ NOTE 6 
+ 
+ to , and generally contain options to extend which mirror the original terms of the lease. 
+ 
+ Amortization of right-of-use assets Interest on lease liabilities Operating lease cost Short-term lease cost Variable lease cost Total lease cost 
+ 
+ 22 
+
+Table of Contents 
+
+ Operating cash flows from finance leases Operating cash flows from operating leases Financing cash flows from finance leases Right-of-use assets obtained in exchange for new finance lease liabilities Right-of-use assets obtained in exchange for new operating lease liabilities Weighted-average remaining lease term finance leases years years years years Weighted average remaining lease term operating leases years years years years Weighted-average discount rate (monthly) finance leases Weighted-average discount rate operating leases 
+ 
+ Fiscal 2023 Fiscal 2024 Fiscal 2025 Fiscal 2026 Fiscal 2027 Thereafter Total undiscounted lease liability Imputed interest Total discounted lease liability 
+ 
+ The Company had no leases with related parties at September 30, 2021 or March 31, 2021. 
+ 
+ 23 
+
+Table of Contents 
+
+ NOTE 7 
+ 
+ Diluted: Weighted average common shares outstanding Dilutive potential common shares Weighted average diluted shares outstanding (denominator) 
+ 
+ Options to purchase and shares of common stock at various prices were outstanding during the three months ended September 30, 2021 and 2020 respectively, but were not included in diluted shares outstanding because the option exercise price exceeded the market value of the shares. 
+ 
+ and shares of common stock at various prices were outstanding during the six months ended September 30, 2021 and 2020 respectively, but were not included in diluted shares outstanding because the option exercise price exceeded the market value of the shares. 
+ 
+ 24 
+
+Table of Contents 
+
+ NOTE 8 
+ 
+ shares of common stock have been authorized and reserved for issuance pursuant to grants approved by the Compensation Committee of the Board of Directors. Stock options granted under these plans have a maximum duration of years, may be subject to certain vesting requirements, which are generally three to for officers, non-employee directors, and key employees, and are priced at the market value of the Company's common stock on the option's grant date. At September 30, 2021, there were a total of shares of common stock available for grant under the plans. 
+ 
+ Stock-based compensation is recognized as provided under FASB ASC Topic 718-10 and FASB ASC Topic 505-50. FASB ASC Topic 718-10 requires all share-based payments to employees, including grants of employee stock options, to be recognized as compensation expense over the requisite service period (generally the vesting period) in the consolidated financial statements based on their grant date fair values. The Company has applied the Black-Scholes valuation model in determining the grant date fair value of the stock option awards. Compensation expense is recognized only for those options expected to vest. 
+ 
+ Long-term Incentive Program and Non-Employee Director Awards 
+ 
+ On October 15, 2018, the Compensation Committee and Board approved and adopted a new long-term incentive program that sought to motivate and reward certain employees and to align management s interest with shareholders' interest by focusing executives on the achievement of long-term results. The program is comprised of four components: Service Options, Performance Options, Restricted Stock, and Performance Shares. 
+ 
+ Pursuant to this program, the Compensation Committee approved certain grants of Service Options, Performance Options, Restricted Stock and Performance Shares under the World Acceptance Corporation 2011 Stock Option Plan and the World Acceptance Corporation 2017 Stock Incentive Plan to certain employee directors, vice presidents of operations, vice presidents, senior vice presidents, and executive officers. Separately, the Compensation Committee approved certain grants of Service Options and Restricted Stock to certain of the Company's non-employee directors. 
+ 
+ Under the long-term incentive program, up to of the shares of restricted stock subject to the Performance Shares shall vest, if at all, based on the achievement of two trailing earnings per share performance targets established by the Compensation Committee that are based on earnings per share (measured at the end of each calendar quarter, commencing with the calendar quarter ending September 30, 2019) for the previous four calendar quarters. The Performance Shares are eligible to vest over the Performance Share Measurement Period and subject to each respective employee s continued employment at the Company through the last day of the applicable Performance Share Measurement Period (or as otherwise provided under the terms of the applicable award agreement or applicable employment agreement). 
+
+The Restricted Stock awards vest in equal annual installments, beginning on the first anniversary of the grant date, subject to each respective employee s continued employment at the Company through each applicable vesting date or otherwise provided under the terms of the applicable award agreement or applicable employment agreement. 
+ 
+ The Service Options vest in equal annual installments, beginning on the first anniversary of the grant date, subject to each respective employee s continued employment at the Company through each applicable vesting date or otherwise provided under the terms of the applicable award agreement or applicable employment agreement. The option price is equal to the fair market value of the common stock on the grant date and the Service Options have a -year term. 
+ 
+ The Performance Options will fully vest if the Company attains the trailing earnings per share target over four consecutive calendar quarters occurring between September 30, 2018 and March 31, 2025 described below. Such performance target was established by the Compensation Committee and will be measured at the end of each calendar quarter commencing on 
+ 25 
+
+Table of Contents 
+
+ -year term. 
+
+Stock Options 
+ 
+ The weighted-average fair value at the grant date for options issued during the three months ended September 30, 2021 and 2020 was and , respectively. The weighted-average fair value at the grant date for options issued during the six months ended September 30, 2021 and 2020 was and , respectively. 
+ 
+ Expected Volatility Average risk-free rate Expected Life years years years years 
+ 
+ The expected stock price volatility is based on the historical volatility of the Company's common stock for a period approximating the expected life. The expected life represents the period of time that options are expected to be outstanding after the grant date. The risk-free rate reflects the interest rate at grant date on zero coupon U.S. governmental bonds having a remaining life similar to the expected option term. 
+ 
+ Granted during period Exercised during period ) Forfeited during period ) Expired during period Options outstanding, end of period years Options exercisable, end of period years 
+ 
+ The aggregate intrinsic value reflected in the table above represents the total pre-tax intrinsic value (the difference between the closing stock price on September 30, 2021 and the exercise price, multiplied by the number of in-the-money options) that would have been received by option holders had all option holders exercised their options as of September 30, 2021. This amount will change as the market price of the common stock changes. 
+ 26 
+
+Table of Contents 
+
+ Six months ended 
+ 
+ As of September 30, 2021, total unrecognized stock-based compensation expense related to non-vested stock options amounted to approximately million, which is expected to be recognized over a weighted-average period of approximately years. 
+ 
+ Restricted Stock 
+ 
+ During the first six months of fiscal 2022, the Company granted shares of restricted stock (which are equity classified) to certain vice presidents, senior vice presidents, executive officers, and non-employee directors with a grant date weighted average fair value of per share. 
+ 
+ During fiscal 2021, the Company granted shares of restricted stock (which are equity classified) to certain vice presidents with a grant date weighted average fair value of per share. 
+ 
+ Compensation expense related to restricted stock is based on the number of shares expected to vest and the fair market value of the common stock on the grant date. The Company recognized compensation expense of million and million for the three months ended September 30, 2021 and 2020, respectively, which is included as a component of general and administrative expenses in the Company s consolidated statements of operations. The Company recognized compensation expense of million and million for the six months ended September 30, 2021 and 2020, respectively, which is included as a component of general and administrative expenses in the Company s consolidated statements of operations. 
+ 
+ As of September 30, 2021, there was approximately million of unrecognized compensation cost related to unvested restricted stock awards, which is expected to be recognized over the next years based on current estimates. 
+ 
+ Granted during the period Vested during the period ) Forfeited during the period Outstanding at September 30, 2021 
+ 
+ Total Stock-Based Compensation 
+ 
+ Stock-based compensation related to restricted stock, net of adjustments and exclusive of cancellations Total stock-based compensation related to equity classified awards 
+
+NOTE 9 
+ 27 
+
+Table of Contents 
+
+Number of loan portfolios acquired through asset purchases Total acquisitions Purchase price Tangible assets: Loans receivable, net Property and equipment Total tangible assets Excess of purchase prices over carrying value of net tangible assets Customer lists Non-compete agreements Goodwill 
+ 
+ Acquisitions that are accounted for as business combinations typically result in one or more new branches. In such cases, the Company typically retains the existing employees and the branch location from the acquisition. The purchase price is allocated to the tangible assets and intangible assets acquired based upon their estimated fair market values at the acquisition date. The remainder is allocated to goodwill. 
+ 
+ Acquisitions that are accounted for as asset purchases are typically limited to acquisitions of loan portfolios. The purchase price is allocated to the tangible assets and intangible assets acquired based upon their estimated fair market values at the acquisition date. In an asset purchase, no goodwill is recorded. 
+ 
+ The Company s acquisitions include tangible assets (generally loans and furniture and equipment) and intangible assets (generally non-compete agreements, customer lists, and goodwill), both of which are recorded at their fair values, which are estimated pursuant to the processes described below. 
+ 
+ Acquired loans are valued at the net loan balance. Given the short-term nature of these loans, generally , and that these loans are priced at current rates, management believes the net loan balances approximate their fair value. Under CECL, acquired loans are included in the reserve calculations for all other loan types (excluding TALs). Management includes recent acquisition activity compared to historical activity when considering reasonable and supportable forecasts as it relates to assessing the adequacy of the allowance for expected credit losses. The Company did not acquire any loans that would qualify as PCD's during the period. 
+ 
+ Furniture and equipment are valued at the specific purchase price as agreed to by both parties at the time of acquisition, which management believes approximates their fair values. 
+ 
+ Non-compete agreements are valued at the stated amount paid to the other party for these agreements, which the Company believes approximates their fair value. 
+ 
+ 28 
+
+Table of Contents 
+
+NOTE 10 
+ 
+ million senior revolving credit facility. The revolving credit facility was amended in connection with the Company s Notes offering (described below) on September 27, 2021 to permit the issuance of the Notes described below and increase the amount permitted under the accordion feature from million to million. At September 30, 2021, million was outstanding under the Company's revolving credit facility, not including a thousand outstanding standby letter of credit related to workers compensation. To the extent that the letter of credit is drawn upon, the disbursement will be funded by the credit facility. There are no amounts due related to the letter of credit as of September 30, 2021. The letter of credit expires on December 31, 2021; however, it automatically extends for on the expiration date. Subject to a borrowing base formula, the Company may borrow at the rate of LIBOR plus an applicable margin of with a minimum rate of . The revolving credit facility has a commitment fee of per annum on the unused portion of the commitment. Commitment fees on the unused portion of the borrowing totaled million and million for the six months ended September 30, 2021 and 2020, respectively. The amended and restated revolving credit agreement provides for a process to transition to a new benchmark interest rate from LIBOR. 
+ 
+ For the six months ended September 30, 2021 and fiscal year ended March 31, 2021, the Company s effective interest rate, including the commitment fee and amortization of debt issuance costs, was annualized and , respectively, and the unused amount available under the revolver at September 30, 2021 was million. Borrowings under the revolving credit facility mature on June 7, 2024. 
+ 
+ Substantially all of the Company s assets are pledged as collateral for borrowings under the revolving credit agreement. 
+ 
+ Senior Unsecured Notes Payable 
+ 
+ On September 27, 2021, we issued million in aggregate principal amount of senior notes due 2026 (the Notes ). The Notes were sold in a private placement in reliance on Rule 144A and Regulation S under the Securities Act of 1933, as amended. The Notes are unconditionally guaranteed, jointly and severally, on a senior unsecured basis by all of the Company s existing and certain of its future subsidiaries that guarantee the revolving credit facility. Interest on the notes is payable semi-annually in arrears on May 1 and November 1 of each year, commencing May 1, 2022. At any time prior to November 1, 2023, the Company may redeem the Notes, in whole or in part, at a redemption price equal to of the principal amount plus a make-whole premium, as described in the indenture, plus accrued and unpaid interest, if any, to, but not including, the date of redemption. At any time on or after November 1, 2023, the Company may redeem the Notes at redemption prices set forth in the indenture, plus accrued and unpaid interest, if any, to, but not including, the date of redemption. In addition, at any time prior to November 1, 2023, the Company may use the proceeds of certain equity offerings to redeem up to of the aggregate principal amount of the Notes issued under the indenture at a redemption price equal to of the principal amount of Notes redeemed, plus accrued and unpaid interest, if any, to, but not including, the date of redemption. 
+ 
+ We used the net proceeds from this offering to repay a portion of the outstanding indebtedness under our revolving credit facility and for general corporate purposes. 
+ 
+ Debt Covenants 
+ 
+ The agreement governing the Company s revolving credit facility contains affirmative and negative covenants, including covenants that generally restrict the ability of the Company and its subsidiaries to, among other things, incur or guarantee indebtedness, incur liens, pay dividends and repurchase or redeem capital stock, dispose of assets, engage in mergers and consolidations, make acquisitions or other investments, redeem or prepay subordinated debt, amend subordinated debt 
+ 29 
+
+Table of Contents 
+
+ ; (ii) a minimum fixed charge coverage ratio of to 1.0 (iii) a maximum ratio of total debt to consolidated adjusted net worth of to 1.0; and (iv) a maximum collateral performance indicator of , as of the end of each calendar month. The collateral performance indicator is equal to the sum of (a) a three-month rolling average rate of receivables at least sixty days past due and (b) an eight-month rolling average net charge-off rate. The agreement allows the Company to incur subordinated debt that matures after the termination date for the revolving credit facility and that contains specified subordination terms, subject to limitations on amount imposed by the financial covenants under the agreement. 
+ 
+ The Company was in compliance with these covenants at September 30, 2021 and March 31, 2021 and does not believe that these covenants will materially limit its business and expansion strategy. 
+ 
+ The agreement contains events of default including, without limitation, nonpayment of principal, interest or other obligations, violation of covenants, misrepresentation, cross-default and cross-acceleration to other debt, bankruptcy and other insolvency events, judgments, certain ERISA events, actual or asserted invalidity of loan documentation, invalidity of subordination provisions of subordinated debt, certain changes of control of the Company, and the occurrence of certain regulatory events (including the entry of any stay, order, judgment, ruling or similar event related to the Company s or any of its subsidiaries originating, holding, pledging, collecting or enforcing its eligible finance receivables that is material to the Company or any subsidiary) which remains unvacated, undischarged, unbonded or unstayed by appeal or otherwise for a period of days from the date of its entry and is reasonably likely to cause a material adverse change. If it is determined that a violation of any applicable law has occurred, such violation may give rise to an event of default under our credit agreement if such violation were to result in a material adverse change on our business, operations, results of operations, assets, liabilities, or condition (financial or otherwise), or a material impairment of the Company s and the subsidiaries ability to perform their obligations under the agreement or related documents, or if the amount of any settlement, penalties, fines, or other payments resulted in the Company failing to satisfy any financial covenants. 
+ 
+ The indenture governing the Notes contains certain covenants that, among other things, limit the Company s ability and the ability of its restricted subsidiaries to (i) incur additional indebtedness or issue certain disqualified stock and preferred stock; (ii) pay dividends or distributions or redeem or purchase capital stock; (iii) prepay subordinated debt or make certain investments; (iv) transfer and sell assets; (v) create or permit to exist liens; (vi) enter into agreements that restrict dividends, loans and other distributions from their subsidiaries; (vii) engage in a merger, consolidation or sell, transfer or otherwise dispose of all or substantially all of their assets; and (viii) engage in transactions with affiliates. However, these covenants are subject to a number of important detailed qualifications and exceptions. 
+
+NOTE 11 
+ 
+ million and million, respectively, of total gross unrecognized tax benefits including interest. Approximately million and million, respectively, represent the amount of net unrecognized tax benefits that are permanent in nature and, if recognized, would affect the annual effective tax rate. At September 30, 2021, approximately million of gross unrecognized tax benefits are expected to be resolved during the next twelve months through the expiration of the statute of limitations and settlement with taxing authorities. The Company s continuing practice is to recognize interest and penalties related to income tax matters in income tax expense. As of September 30, 2021, the Company had approximately million accrued for gross interest, of which thousand was accrued during the six months ended September 30, 2021. 
+ 
+ The Company is subject to U.S. income taxes, as well as various other state and local jurisdictions. With the exception of a few states, the Company is no longer subject to U.S. federal, state and local, or non-U.S. income tax examinations by tax authorities for years before 2016, although carryforward attributes that were generated prior to 2016 may still be adjusted upon examination by the taxing authorities if they either have been or will be used in a future period. 
+ 
+ The Company s effective income tax rate totaled for the quarter ended September 30, 2021 compared to for the prior year quarter. The decrease is primarily due to the permanent tax benefit related to non-qualified stock option exercises as a discrete item in the current quarter, the recognition of Federal Historic Tax Credits in the current quarter and lower than estimated Federal Historic Tax Credits for fiscal 2020 with the provision to return adjustment being treated as a discrete item in the prior year quarter. This was partially offset by an increase in the disallowed executive compensation under Section 162(m) in the current quarter and the recognition of the permanent tax benefit related to the exclusion of life insurance proceeds in the prior year quarter. 
+
+NOTE 12 
+ 30 
+
+Table of Contents 
+
+NOTE 13 
+
+31 
+
+Table of Contents 
+
+ Item 2. Management's Discussion and Analysis of Financial Condition and Results of Operations 
+
+Cautionary Note Regarding Forward-Looking Information 
+ 
+ This report on Form 10-Q, including "Management s Discussion and Analysis of Financial Condition and Results of Operations," contains various "forward-looking statements," within the meaning of The Private Securities Litigation Reform Act of 1995, that are based on management s beliefs and assumptions, as well as information currently available to management. Statements other than those of historical fact, as well as those identified by the words anticipate, estimate, intend, plan, expect, believe, may, will, should, "would," "could," "continue," "forecast," and any variation of the foregoing and similar expressions are forward-looking statements. Although the Company believes that the expectations reflected in any such forward-looking statements are reasonable, it can give no assurance that such expectations will prove to be correct. Any such statements are subject to certain risks, uncertainties and assumptions. Should one or more of these risks or uncertainties materialize, or should underlying assumptions prove incorrect, the Company s actual financial results, performance or financial condition may vary materially from those anticipated, estimated or expected. Therefore, you should not rely on any of these forward-looking statements. 
+ 
+ Among the key factors that could cause our actual financial results, performance or condition to differ from the expectations expressed or implied in such forward-looking statements are the following: the ongoing impact of the COVID-19 pandemic and the mitigation efforts by governments and related effects on our financial condition, business operations and liquidity, our customers, our employees, and the overall economy; recently enacted, proposed or future legislation and the manner in which it is implemented; changes in the U.S. tax code; the nature and scope of regulatory authority, particularly discretionary authority, that may be exercised by regulators, including, but not limited to, the Securities and Exchange Commission (SEC), Department of Justice, U.S. Consumer Financial Protection Bureau, and individual state regulators having jurisdiction over the Company; the unpredictable nature of regulatory proceedings and litigation, employee misconduct or misconduct by third parties, uncertainties associated with management turnover and the effective succession of senior management; media and public characterization of consumer installment loans, labor unrest the impact of changes in accounting rules and regulations, or their interpretation or application, which could materially and adversely affect the Company s reported consolidated financial statements or necessitate material delays or changes in the issuance of the Company s audited consolidated financial statements; the Company's assessment of its internal control over financial reporting; changes in interest rates; risks relating to the acquisition or sale of assets or businesses or other strategic initiatives, including increased loan delinquencies or net charge-offs, the loss of key personnel, integration or migration issues, the failure to achieve anticipated synergies, increased costs of servicing, incomplete records, and retention of customers; risks inherent in making loans, including repayment risks and value of collateral; cybersecurity threats, including the potential misappropriation of assets or sensitive information, corruption of data or operational disruption; our dependence on debt and the potential impact of limitations in the Company s amended revolving credit facility or other impacts on the Company's ability to borrow money on favorable terms, or at all; the timing and amount of revenues that may be recognized by the Company; changes in current revenue and expense trends (including trends affecting delinquency and charge-offs); the impact of extreme weather events and natural disasters; changes in the Company s markets and general changes in the economy (particularly in the markets served by the Company). These and other risks are discussed in more detail in Part I, Item 1A Risk Factors in the Company's most recent annual report on Form 10-K for the fiscal year ended March 31, 2021 filed with the SEC, and in the Company s other reports filed with, or furnished to, the SEC from time to time. The Company does not undertake any obligation to update any forward-looking statements it may make. 
+
+Results of Operations 
+ 
+ The following table sets forth certain information derived from the Company's consolidated statements of operations and balance sheets (unaudited), as well as operating data and ratios, for the periods indicated: 
+ 32 
+
+Table of Contents 
+
+ Three months ended September 30, Six months ended September 30, 2021 2020 2021 2020 (Dollars in thousands) Gross loans receivable 1,394,827 1,109,366 1,394,827 1,109,366 Average gross loans receivable (1) 
+ 1,314,397 1,088,191 1,230,307 1,105,573 Net loans receivable (2) 
+ 1,024,810 819,666 1,024,810 819,666 Average net loans receivable (3) 
+ 965,588 805,346 908,381 821,808 Expenses as a percentage of total revenue: Provision for credit losses 30.5 21.0 27.0 20.8 General and administrative 54.4 60.5 55.5 59.2 Interest expense 4.9 4.7 4.6 4.6 Operating income as a of total revenue (4) 
+ 15.1 18.5 17.5 20.0 Loan volume (5) 
+ 801,487 647,024 1,555,696 1,110,507 Net charge-offs as percent of average net loans receivable on an annualized basis 10.5 14.5 10.9 16.4 Return on average assets (trailing 12 months) 8.6 4.5 8.6 4.5 Return on average equity (trailing 12 months) 22.4 11.8 22.4 11.8 Branches opened or acquired (merged or closed), net (3) (8) (3) (11) Branches open (at period end) 1,202 1,232 1,202 1,232 
+ _______________________________________________________ 
+ (1) Average gross loans receivable has been determined by averaging month-end gross loans receivable over the indicated period, excluding tax advances. 
+ (2) Net loans receivable is defined as gross loans receivable less unearned interest and deferred fees. 
+ (3) Average net loans receivable has been determined by averaging month-end gross loans receivable less unearned interest and deferred fees over the indicated period, excluding tax advances. 
+ (4) Operating income is computed as total revenue less provision for credit losses and general and administrative expenses. 
+ (5) Loan volume includes all loan balances originated by the Company. It does not include loans purchased through acquisitions. 
+
+Comparison of three months ended September 30, 2021 versus three months ended September 30, 2020 
+ 
+ Gross loans outstanding increased to 1.39 billion as of September 30, 2021, a 25.7 increase from the 1.11 billion of gross loans outstanding as of September 30, 2020. During the three months ended September 30, 2021 our unique borrowers increased by 8.2 compared to an decrease of 3.7 during the three months ended September 30, 2020. 
+ 
+ Net income for the three months ended September 30, 2021 decreased to 12.4 million, a 7.2 decrease from 13.4 million for the same period of the prior year. Operating income (revenue less provision for credit losses and general and administrative expenses) decreased by 2.3 million, or 9.8 . 
+ 
+ Revenues for the three months ended September 30, 2021 increased by 13.4 million, or 10.8 , to 137.8 million from 124.4 million for the same period of the prior year. The increase was primarily due to an increase in average net loans outstanding. 
+ 
+ 33 
+
+Table of Contents 
+
+ Interest and fee income for the three months ended September 30, 2021 increased by 9.2 million, or 8.5 , from the same period of the prior year. Interest and fee income was impacted by a shift to larger lower interest rate loans. Net loans outstanding at September 30, 2021 increased by 25.0 over the balance at September 30, 2020. Average net loans outstanding increased by 19.9 for the three months ended September 30, 2021 compared to the three-month period ended September 30, 2020. 
+ 
+ Insurance commissions and other income for the three months ended September 30, 2021 increased by 4.2 million, or 26.7 , from the same period of the prior year. Insurance commissions increased by approximately 3.1 million, or 28.6 , during the three months ended September 30, 2021 when compared to the three months ended September 30, 2020. Insurance revenue increased due to a shift to larger loans during the quarter. The sale of insurance products are limited to large loans in several of our states. The large loan portfolio increased from 39.8 of the overall portfolio as of September 30, 2020 to 47.6 as of September 30, 2021. Other income increased by 1.1 million. Sales of our motor club product increased by 2.1 million as sales opportunities increased, similar to our insurance products, with the increase in large loan originations. The Company recorded a gain on company owned life insurance of 1.1 million in the prior year due to the death of a former executive. 
+ 
+ On April 1, 2020, the Company replaced its incurred loss methodology with a current expected credit loss ("CECL") methodology to accrue for expected losses. The provision for credit losses increased 16.0 million, or 61.1 , to 42.0 million from 26.1 million when comparing the second quarter of fiscal 2022 to the second quarter of fiscal 2021. The provision increased during the quarter primarily due to significant loan growth during the quarter. CECL requires expected losses to be accrued at the time of origination. This increase was offset by a 3.9 million decrease in net charge-offs. Net charge-offs as a percentage of average net loans receivable on an annualized basis decreased from 14.5 in the second quarter of fiscal 2021 to 10.5 in the second quarter of fiscal 2022. The charge-off rate during the quarter benefited from the increased average tenure and reduced credit risk of customers in the portfolio as of June 30, 2021. We are experiencing lower losses on loans that were in the portfolio as of October 1, 2020 than initially predicted under our CECL methodology through September 30, 2021. 
+ 
+ The Company's allowance for credit losses as a percentage of net loans was 11.2 at September 30, 2021 compared to 13.4 at September 30, 2020. Accounts that were 61 days or more past due on a recency basis were 5.0 of the portfolio at September 30, 2021 and 4.5 of the portfolio at September 30, 2020. Accounts that were 61 days or more past due on a contractual basis were 6.2 of the portfolio at September 30, 2021 compared to 6.2 of the portfolio at September 30, 2020. 
+ 
+ G A expenses for the three months ended September 30, 2021 decreased by 0.3 million, or 0.4 , from the corresponding period of the previous year. As a percentage of revenues, G A expenses decreased from 60.5 during the three months ended September 30, 2020 to 54.4 during the three months ended September 30, 2021. G A expenses per average open branch increased by 2.2 when comparing the two three-month periods. The change in G A expense is explained in greater detail below. 
+ 
+ Personnel expense totaled 45.7 million for the three months ended September 30, 2021, a 1.1 million, or 2.3 , decrease over the three months ended September 30, 2020. Salary expense decreased approximately 0.8 million, or 2.5 , when comparing the two quarterly periods ended September 30, 2021 and 2020. Our headcount as of September 30, 2021, decreased 7.5 compared to September 30, 2020. Benefit expense increased approximately 0.4 million, or 4.4 , when comparing the quarterly periods ended September 30, 2021 and 2020. Incentive expense decreased 0.8 million, or 6.5 . 
+ 
+ Occupancy and equipment expense totaled 12.9 million for the three months ended September 30, 2021, a 0.6 million, or 4.3 , decrease over the three months ended September 30, 2020. Occupancy and equipment expense is generally a function of the number of branches the Company has open throughout the period. For the three months ended September 30, 2021, the average occupancy and equipment expense per branch decreased to 10.7 thousand, down from 10.9 thousand for the three months ended September 30, 2020. 
+ 
+ Advertising expense remained flat in the second quarter of fiscal 2022 compared to the second quarter of fiscal 2021. The Company anticipated an increase in demand during the quarter and increased marketing accordingly. Marketing spend remained neutral as the Company shifted to lower cost channels. 
+ 
+ Amortization of intangible assets totaled 1.2 million for the three months ended September 30, 2021, a 40.6 thousand, or 3.2 , decrease over the three months ended September 30, 2020. 
+ 
+ Other expense totaled 9.8 million for the three months ended September 30, 2021, a 1.4 million, or 16.3 , increase over the three months ended September 30, 2020. Other expense increased 0.4 million due to an increase in travel 
+ 34 
+
+Table of Contents 
+
+ costs during the quarter and 0.3 million due to an increase in credit investigation costs as a result of an increase in customer applications during the quarter. 
+ 
+ Interest expense for the three months ended September 30, 2021 increased by 0.8 million, or 13.9 , from the corresponding three months of the previous year. The increase in interest expense was due to a 37.8 increase in the average debt outstanding, from 380.7 million to 524.7 million, offset by a 17.1 decrease in the effective interest rate from 6.1 to 5.0 . The Company s senior debt-to-equity ratio increased from at 1.2:1 at September 30, 2020 to 1.4:1 at September 30, 2021. 
+ 
+ Other key return ratios for the three months ended September 30, 2021 included a 8.6 return on average assets and a return on average equity of 22.4 (both on a trailing 12-month basis), as compared to a 4.5 return on average assets and a return on average equity of 11.8 (both on a trailing 12-month basis) for the three months ended September 30, 2020. 
+ 
+ The Company s effective income tax rate decreased to 11.7 for the three months ended September 30, 2021 compared to 21.9 for the corresponding period of the previous year. The decrease is primarily due to the permanent tax benefit related to non-qualified stock option exercises as a discrete item in the current quarter, the recognition of Federal Historic Tax Credits in the current quarter and lower than estimated Federal Historic Tax Credits for fiscal 2020 with the provision to return adjustment being treated as a discrete item in the prior year quarter. This was partially offset by an increase in the disallowed executive compensation under Section 162(m) in the current quarter and the recognition of the permanent tax benefit related to the exclusion of life insurance proceeds in the prior year quarter. 
+
+Comparison of six months ended September 30, 2021 versus six months ended September 30, 2020 
+ 
+ Gross loans outstanding increased to 1.39 billion as of September 30, 2021, a 25.7 increase from the 1.11 billion of gross loans outstanding as of September 30, 2020. During the six months ended September 30, 2021 our number of unique borrowers in the portfolio increased by 7.1 compared to a decrease of 17.2 during the six months ended September 30, 2020. 
+ 
+ Net income for the six months ended September 30, 2021 decreased to 28.2 million, a 2.4 decrease from the 28.9 million reported for the same period of the prior year. Operating income (revenue less provision for credit losses and general and administrative expenses) decreased by 2.8 million, or 5.7 . 
+ 
+ Revenues increased by 19.2 million, or 7.7 , to 267.5 million during the six months ended September 30, 2021 from 248.3 million for the same period of the prior year. The increase was primarily due to an increase in average net loans outstanding. 
+ 
+ Interest and fee income for the six months ended September 30, 2021 increased by 8.5 million, or 3.9 , from the same period of the prior year. Interest and fee income was impacted by a shift to larger, lower interest rate loans. Net loans outstanding at September 30, 2021 increased by 25.0 over the balance at September 30, 2020. Average net loans outstanding increased by 10.5 for the six months ended September 30, 2021 compared to the six-month period ended September 30, 2020. 
+ 
+ Insurance commissions and other income for the six months ended September 30, 2021 increased by 10.6 million, or 36.0 , from the same period of the prior year. Insurance commissions increased by approximately 5.1 million, or 24.4 , during the six months ended September 30, 2021 when compared to the six months ended September 30, 2020. Insurance commissions benefited from the shift to larger loans mentioned above. Other income increased by 5.5 million. Sales of our motor club product increased by 4.6 million as sales opportunities increased, similar to our insurance products, with the increase in large loan originations. Revenue from our tax preparation business increased by 1.3 million in the first half of fiscal 2022 from 2.8 million in the first half of fiscal 2021, or 47.7 . This was largely driven by a delay in the individual income tax filing season which resulted in a higher number of tax preparations being completed in the first quarter of fiscal 2022. 
+ 
+ On April 1, 2020, the Company replaced its incurred loss methodology with a current expected credit loss ("CECL") methodology to accrue for expected losses. The provision for credit losses increased 20.6 million, or 39.7 , to 72.3 million from 51.8 million when comparing the first half of fiscal 2022 to the first half of fiscal 2021. The provision increased during the first half of the year primarily due to significant loan growth during the period. CECL requires expected losses to be accrued at the time of origination. This increase was offset by a 17.9 million decrease in net charge-offs. Net charge-offs as a percentage of average net loans receivable on an annualized basis decreased from 16.4 in the first half of fiscal 2021 to 10.9 in the first half of fiscal 2022. The charge-off rate during the quarter benefited from the increased average tenure and reduced credit risk of customers in the portfolio as of March 31, 2021. We are experiencing lower losses on loans that were in the portfolio as of October 1, 2020 than initially predicted under our CECL methodology through September 30, 2021. 
+ 
+ 35 
+
+Table of Contents 
+
+ G A expenses for the six months ended September 30, 2021 increased by 1.4 million, or 1.0 , from the corresponding period of the previous year. As a percentage of revenues, G A expenses decreased from 59.2 during the first six months of fiscal 2021 to 55.5 during the first six months of fiscal 2022. G A expenses per average open branch increased by 3.9 when comparing the two six-month periods. The change in G A expense is explained in greater detail below. 
+ 
+ Personnel expense totaled 92.0 million for the six months ended September 30, 2021, a 0.5 million, or 0.6 , increase over the six months ended September 30, 2020. Salary expense decreased approximately 1.9 million, or 3.2 , when comparing the two six month periods ended September 30, 2021 and 2020. Our headcount as of September 30, 2021, decreased 7.5 compared to September 30, 2020. Benefit expense increased approximately 2.1 million, or 12.9 , when comparing the six month periods ended September 30, 2021 and 2020. Incentive expense increased 1.5 million, or 6.9 due to an increase in branch level bonuses offset by a decrease in share-based compensation. 
+ 
+ Occupancy and equipment expense totaled 26.5 million for the six months ended September 30, 2021, a 0.2 million, or 0.6 , decrease over the six months ended September 30, 2020. Occupancy and equipment expense is generally a function of the number of branches the Company has open throughout the period. For the six months ended September 30, 2021, the average occupancy and equipment expense per branch increased to 22.0 thousand, up from 21.5 thousand for the six months ended September 30, 2020. 
+ 
+ Advertising expense totaled 9.1 million for the six months ended September 30, 2021, a 1.2 million, or 15.1 , increase over the six months ended September 30, 2020. The Company anticipated an increase in demand during the period and increased marketing spend accordingly. 
+ 
+ Amortization of intangible assets totaled 2.5 million for the six months ended September 30, 2021, a 207.9 thousand, or 7.8 , decrease over the six months ended September 30, 2020. 
+ 
+ Other expense totaled 18.3 million for the six months ended September 30, 2021, an 0.1 million, or 0.5 , increase over the six months ended September 30, 2020. 
+ 
+ Interest expense for the six months ended September 30, 2021 increased by 0.8 million, or 6.6 , from the corresponding six months of the previous year. The increase in interest expense was due to a 21.1 increase in the average debt outstanding, from 390.6 million to 473.1 million offset by a 13.0 decrease in the effective interest rate from 5.8 to 5.0 . 
+ 
+ Other key return ratios for the first six months of fiscal 2022 included a 8.6 return on average assets and a return on average equity of 22.4 (both on a trailing 12-month basis), as compared to a 4.5 return on average assets and a return on average equity of 11.8 (both on a trailing 12-month basis) for the first six months of fiscal 2021. 
+ 
+ The Company s effective income tax rate decreased to 18.5 for the six months ended September 30, 2021 compared to 24.3 for the corresponding period of the previous year. The decrease is primarily due to the permanent tax benefit related to non-qualified stock option exercises recorded as a discrete item in the current period, the recognition of Federal Historic Tax Credits in the current period and lower than estimated Federal Historic Tax Credits for fiscal 2020 with the provision to return adjustment recorded in the prior year. This was partially offset by an increase in the disallowed executive compensation under Section 162(m) in the current period and the recognition of the permanent tax benefit related to the exclusion of life insurance proceeds in the prior year. 
+
+Regulatory Matters 
+ 
+ CFPB Rulemaking Initiatives 
+ 
+ On October 5, 2017, the CFPB issued a final rule (the "Rule") imposing limitations on (i) short-term consumer loans, (ii) longer-term consumer installment loans with balloon payments, and (iii) higher-rate consumer installment loans repayable by a payment authorization. The Rule requires lenders originating short-term loans and longer-term balloon payment loans to evaluate whether each consumer has the ability to repay the loan along with current obligations and expenses ability to repay requirements ). The Rule also curtails repeated unsuccessful attempts to debit consumers accounts for short-term loans, balloon payment loans, and installment loans that involve a payment authorization and an Annual Percentage Rate over 36 payment requirements ). The Company does not believe that the Rule will have a material impact on the Company s existing lending procedures, because the Company currently does not make short-term consumer loans or longer-term consumer installment loans with balloon payments that would subject the Company to the Rule s ability to repay requirements. The Company also currently underwrites all its loans (including those secured by a vehicle title that would fall within the scope of 
+ 36 
+
+Table of Contents 
+
+ these proposals) by reviewing the customer s ability to repay based on the Company s standards. However, implementation of the Rule s payment requirements may require changes to the Company s practices and procedures for such loans, which could materially and adversely affect the Company s ability to make such loans, the cost of making such loans, the Company s ability to, or frequency with which it could, refinance any such loans, and the profitability of such loans. 
+ 
+ Further, on June 6, 2019, the CFPB amended the Rule to delay the August 19, 2019 compliance date for part of the Rule s provisions, including the ability to repay requirements. The new compliance date for the ability to repay requirements is November 19, 2020. In addition, on February 6, 2019, the CFPB issued a notice of proposed rulemaking proposing to rescind provisions of the Rule governing the ability to repay requirements. The comment period for this proposed rulemaking closed in May 2019. According to the CFPB s Fall 2019 rulemaking agenda, the CFPB is reviewing the approximately 190,000 comments it received and expected to take final action in April 2020 with respect to this proposal. However, no final action has been taken as of yet. Any regulatory changes could have effects beyond those currently contemplated that could further materially and adversely impact our business and operations. Unless rescinded or otherwise amended, the Company will have to comply with the Rule s payment requirements if it continues to allow consumers to set up future recurring payments online for certain covered loans such that it meets the definition of having a leveraged payment mechanism under the Rule. If the payment provisions of the Rule apply, the Company will have to modify its loan payment procedures to comply with the required notices and mandated timeframes set forth in the final rule. 
+ 
+ The CFPB also announced on July 7, 2020 that it will undertake new research focusing on identifying information that could be disclosed to consumers during the small dollar lending process to allow them to make the most informed choices. Depending on the outcome of this research and future action taken by the CFPB, implementation of new disclosures may require changes to the Company s practices and procedures for such loans, which could materially and adversely affect the Company s ability to make such loans, the cost of making such loans, and the profitability of such loans. 
+ 
+ The CFPB is currently working under an acting director as the new administration s nominee awaits congressional confirmation. These changes in the CFPB leadership could result in a change in priorities for the agency, including the Rule discussed above or other initiatives of the CFPB. 
+ 
+ See Part I, Item 1, Business - Government Regulation - Federal legislation, for a further discussion of these matters and the federal regulations to which the Company s operations are subject and Part I, Item 1A, Risk Factors, in the Company s Form 10-K for the year ended March 31, 2021 for more information regarding these regulatory and related risks. 
+
+Liquidity and Capital Resources 
+ 
+ The Company has historically financed and continues to finance its operations, acquisitions and branch expansion primarily through a combination of cash flows from operations and borrowings from its institutional lenders. As discussed below, the Company has also issued debt securities to finance its operations and repay a portion of its outstanding indebtedness. The Company has generally applied its cash flows from operations to fund its loan volume, fund acquisitions, repay long-term indebtedness, and repurchase its common stock. Net cash provided by operating activities for the six months ended September 30, 2021 was 110.6 million. 
+ 
+ The Company believes that attractive opportunities to acquire new branches or receivables from its competitors or to acquire branches in communities not currently served by the Company will continue to become available as conditions in local economies and the financial circumstances of owners change. 
+ 
+ On September 27, 2021, we issued 300 million in aggregate principal amount of 7.0 senior notes due 2026 (the Notes ). The Notes were sold in a private placement in reliance on Rule 144A and Regulation S under the Securities Act of 1933, as amended. The Notes are unconditionally guaranteed, jointly and severally, on a senior unsecured basis by all of the Company s existing and certain of its future subsidiaries that guarantee the revolving credit facility. Interest on the notes is payable semi-annually in arrears on May 1 and November 1 of each year, commencing May 1, 2022. At any time prior to November 1, 2023, the Company may redeem the Notes, in whole or in part, at a redemption price equal to 100 of the principal amount plus a make-whole premium, as described in the indenture, plus accrued and unpaid interest, if any, to, but not including, the date of redemption. At any time on or after November 1, 2023, the Company may redeem the Notes at redemption prices set forth in the indenture, plus accrued and unpaid interest, if any, to, but not including, the date of redemption. In addition, at any time prior to November 1, 2023, the Company may use the proceeds of certain equity offerings to redeem up to 40 of the aggregate principal amount of the Notes issued under the indenture at a redemption price equal to 107.0 of the principal amount of Notes redeemed, plus accrued and unpaid interest, if any, to, but not including, the date of redemption. 
+ 
+ 37 
+
+Table of Contents 
+
+ We used the net proceeds from this offering to repay a portion of the outstanding indebtedness under our revolving credit facility. 
+ 
+ The indenture governing the Notes contains certain covenants that, among other things, limit the Company s ability and the ability of its restricted subsidiaries to (i) incur additional indebtedness or issue certain disqualified stock and preferred stock; (ii) pay dividends or distributions or redeem or purchase capital stock; (iii) prepay subordinated debt or make certain investments; (iv) transfer and sell assets; (v) create or permit to exist liens; (vi) enter into agreements that restrict dividends, loans and other distributions from their subsidiaries; (vii) engage in a merger, consolidation or sell, transfer or otherwise dispose of all or substantially all of their assets; and (viii) engage in transactions with affiliates. However, these covenants are subject to a number of important detailed qualifications and exceptions. 
+ 
+ The Company continues to believe stock repurchases are a viable component of the Company s long-term financial strategy and an excellent use of excess cash when the opportunity arises. Under the terms of our revolving credit facility and the Notes we have, subject to certain restrictions, the ability to make share repurchases of up to 90.0 million through June 30, 2022 . A dditional share repurchases can be made subject to compliance with, among other things, applicable restricted payment covenants under the revolving credit facility and the Notes. 
+ 
+ The Company has a revolving credit facility with a syndicate of banks. The revolving credit facility provides for revolving borrowings of up to the lesser of (a) the aggregate commitments under the facility and (b) a borrowing base, and it includes a 300,000 letter of credit under a 1.5 million subfacility. 
+ 
+ Subject to a borrowing base formula, the Company may borrow at the rate of LIBOR plus 3.5 with a minimum rate of 4.5 . The Company s amended and restated revolving credit agreement provides procedures for determining a replacement or alternative rate in the event LIBOR is unavailable or discontinued or if the administrative agent elects to replace LIBOR prior to its discontinuation. There can be no assurances as to whether such replacement or alternative rate will be more or less favorable than LIBOR. We intend to monitor the developments with respect to the potential phasing out of LIBOR and will work to limit any negative impacts that could result during any transition away from LIBOR. At September 30, 2021, the aggregate commitments under the revolving credit facility were 685.0 million. The 300,000 letter of credit outstanding under the subfacility expires on December 31, 2021; however, it automatically extends for one year on the expiration date. The borrowing base limitation is equal to the product of (a) the Company s eligible finance receivables, less unearned finance charges, insurance premiums and insurance commissions applicable to such eligible finance receivables, and (b) an advance rate percentage that ranges from 74 to 80 based on a collateral performance indicator, as more completely described below. Further, under the amended and restated revolving credit agreement, the administrative agent has the right to set aside reasonable reserves against the available borrowing base in such amounts as it may deem appropriate, including, without limitation, reserves with respect to certain regulatory events or any increased operational, legal, or regulatory risk of the Company and its subsidiaries. 
+ 
+ For the six months ended September 30, 2021 and fiscal year ended March 31, 2021, the Company s effective interest rate, including the commitment fee and amortization of debt issuance costs, was 5.0 annualized and 5.8 , respectively, and the unused amount available under the revolver at September 30, 2021 was 409.0 million. Borrowings under the revolving credit facility mature on June 7, 2024. 
+ 
+ The Company s obligations under the revolving credit facility, together with treasury management and hedging obligations owing to any lender under the revolving credit facility or any affiliate of any such lender, are required to be guaranteed by each of the Company s wholly-owned domestic subsidiaries. The obligations of the Company and the subsidiary guarantors under the revolving credit facility, together with such treasury management and hedging obligations, are secured by a first-priority security interest in substantially all assets of the Company and the subsidiary guarantors. 
+ 
+ The agreement governing the Company s revolving credit facility contains affirmative and negative covenants, including covenants that restrict the ability of the Company and its subsidiaries to, among other things, incur or guarantee indebtedness, incur liens, pay dividends and repurchase or redeem capital stock, dispose of assets, engage in mergers and consolidations, make acquisitions or other investments, redeem or prepay subordinated debt, amend subordinated debt documents, make changes in the nature of its business, and engage in transactions with affiliates. The agreement also contains financial covenants, including (i) a minimum consolidated net worth of 325.0 million; (ii) a minimum fixed charge coverage ratio of 2.75 to 1.0; (iii) a maximum ratio of total debt to consolidated adjusted net worth of 2.5 to 1.0; and (iv) a maximum collateral performance indicator of 24 as of the end of each calendar month. The agreement allows the Company to incur subordinated debt that matures after the termination date for the revolving credit facility and that contains specified subordination terms, subject to limitations on amount imposed by the financial covenants under the agreement. 
+ 
+ 38 
+
+Table of Contents 
+
+ The collateral performance indicator is equal to the sum of (a) a three-month rolling average rate of receivables at least sixty days past due and (b) an eight-month rolling average net charge-off rate. The Company was in compliance with these covenants at September 30, 2021 and does not believe that these covenants will materially limit its business and expansion strategy. 
+ 
+ The agreement contains events of default including, without limitation, nonpayment of principal, interest or other obligations, violation of covenants, misrepresentation, cross-default and cross-acceleration to other debt, bankruptcy and other insolvency events, judgments, certain ERISA events, actual or asserted invalidity of loan documentation, invalidity of subordination provisions of subordinated debt, certain changes of control of the Company, and the occurrence of certain regulatory events (including the entry of any stay, order, judgment, ruling or similar event related to the Company s or any of its subsidiaries originating, holding, pledging, collecting or enforcing its eligible finance receivables that is material to the Company or any subsidiary) which remains unvacated, undischarged, unbonded or unstayed by appeal or otherwise for a period of 60 days from the date of its entry and is reasonably likely to cause a material adverse change. 
+ 
+ The Company believes that cash flow from operations and borrowings under its revolving credit facility or other sources will be adequate to fund the expected cost of opening or acquiring new branches, including funding initial operating losses of new branches and funding loans receivable originated by those branches and the Company's other branches (for the next 12 months and for the foreseeable future beyond that). Except as otherwise discussed in this report including, but not limited to, any discussions in Part 1, Item 1A, "Risk Factors" in this Quarterly Report on Form 10-Q and our Annual Report on Form 10-K (as supplemented by any subsequent disclosures in information the Company files with or furnishes to the SEC from time to time), management is not currently aware of any trends, demands, commitments, events or uncertainties that it believes will or could result in, or are or could be reasonably likely to result in, any material adverse effect on the Company s liquidity. 
+
+Share Repurchase Program 
+ 
+ On June 16, 2021, the Board of Directors authorized the Company to repurchase up to 30.0 million of the Company s outstanding common stock, inclusive of the amount that remains available for repurchase under prior repurchase authorizations. As of September 30, 2021, the Company had 15.5 million in aggregate remaining repurchase capacity. The timing and actual number of shares of common stock repurchased will depend on a variety of factors, including the stock price, corporate and regulatory requirements, restrictions under the revolving credit facility and other market and economic conditions. 
+ 
+ The Company continues to believe stock repurchases are a viable component of the Company s long-term financial strategy and an excellent use of excess cash when the opportunity arises. Under the terms of our revolving credit facility and the Notes, we have, subject to certain restrictions, the ability to make share repurchases of at least 90.0 million through June 30, 2022. Additional share repurchases can be made subject to compliance with, among other things, applicable restricted payment covenants under the revolving credit facility and the Notes. Our first priority is to ensure we have enough capital to fund loan growth. To the extent we have excess capital, we may repurchase stock, if appropriate and as authorized by our Board of Directors. As of September 30, 2021, the Company's debt outstanding was 570.6 million and its shareholders' equity was 419.0 million resulting in a debt-to-equity ratio of 1.4:1.0. Management will continue to monitor the Company's debt-to-equity ratio and is committed to maintaining a debt level that will allow the Company to continue to execute its business objectives, while not putting undue stress on its consolidated balance sheet. 
+
+Inflation 
+ 
+ The Company does not believe that inflation, within reasonably anticipated rates, will have a material, adverse effect on its financial condition. Although inflation would increase the Company s operating costs in absolute terms, the Company expects that the same decrease in the value of money would result in an increase in the size of loans demanded by its customer base. We anticipate that such a change in customer preference would result in an increase in total loans receivable and an increase in absolute revenue to be generated from that larger amount of loans receivable. That increase in absolute revenue should offset any increase in operating costs. In addition, because the Company s loans have a relatively short contractual term, it is unlikely that loans made at any given point in time will be repaid with significantly inflated dollars. 
+
+Quarterly Information and Seasonality 
+ 
+ See Note 3 to the unaudited Consolidated Financial Statements. 
+
+Recently Adopted Accounting Pronouncements 
+ 
+ See Note 3 to the unaudited Consolidated Financial Statements. 
+ 
+ 39 
+
+Table of Contents 
+
+ Critical Accounting Policies 
+ 
+ The Company s accounting and reporting policies are in accordance with GAAP and conform to general practices within the finance company industry. Certain accounting policies involve significant judgment by the Company s management, including the use of estimates and assumptions which affect the reported amounts of assets, liabilities, revenue, and expenses. As a result, changes in these estimates and assumptions could significantly affect the Company s financial position and results of operations. The Company considers its policies regarding the allowance for credit losses, share-based compensation and income taxes to be its most critical accounting policies due to the significant degree of management judgment involved. 
+ 
+ Allowance for Credit Losses 
+ 
+ Accounting policies related to the allowance for credit losses are considered to be critical as these policies involve considerable subjective judgement and estimation by management. As discussed in Note 3 Summary of Significant Policies, to our unaudited Consolidated Financial Statements included in this report, our policies related to the allowances for credit losses changed on April 1, 2020 in connection with the adoption of a new accounting standard update as codified in ASC 326. In the case of loans, the allowance for credit losses is a contra-asset valuation account, calculated in accordance with ASC 326 that is deducted from the amortized cost basis of loans to present the net amount expected to be collected. The amount of the allowance account represents management s best estimate of current expected credit losses on these financial instruments considering available information, from internal and external sources, relevant to assessing exposure to credit loss over the contractual term of the instrument. Relevant available information includes historical credit loss experience, current conditions, and reasonable and supportable forecasts. 
+ 
+ Share-Based Compensation 
+ 
+ The Company measures compensation cost for share-based awards at fair value and recognizes compensation over the service period for awards expected to vest. The fair value of restricted stock is based on the number of shares granted and the quoted price of the Company s common stock at the time of grant, and the fair value of stock options is determined using the Black-Scholes valuation model. The Black-Scholes model requires the input of highly subjective assumptions, including expected volatility, risk-free interest rate and expected life, changes to which can materially affect the fair value estimate. Actual results and future changes in estimates may differ substantially from the Company s current estimates. 
+ 
+ Income Taxes 
+ 
+ Management uses certain assumptions and estimates in determining income taxes payable or refundable, deferred income tax liabilities and assets for events recognized differently in its financial statements and income tax returns, and income tax expense. Determining these amounts requires analysis of certain transactions and interpretation of tax laws and regulations. Management exercises considerable judgment in evaluating the amount and timing of recognition of the resulting income tax liabilities and assets. These judgments and estimates are re-evaluated on a periodic basis as regulatory and business factors change. 
+ 
+ No assurance can be given that either the tax returns submitted by management or the income tax reported on the Consolidated Financial Statements will not be adjusted by either adverse rulings, changes in the tax code, or assessments made by the IRS, state, or foreign taxing authorities. The Company is subject to potential adverse adjustments, including but not limited to: an increase in the statutory federal or state income tax rates, the permanent non-deductibility of amounts currently considered deductible either now or in future periods, and the dependency on the generation of future taxable income in order to ultimately realize deferred income tax assets. 
+ 
+ Under FASB ASC Topic 740, the Company will include the current and deferred tax impact of its tax positions in the financial statements when it is more likely than not (likelihood of greater than 50 that such positions will be sustained by taxing authorities, with full knowledge of relevant information, based on the technical merits of the tax position. While the Company supports its tax positions by unambiguous tax law, prior experience with the taxing authority, and analysis of what it considers to be all relevant facts, circumstances and regulations, management must still rely on assumptions and estimates to determine the overall likelihood of success and proper quantification of a given tax position. 
+ 
+ 40 
+
+Table of Contents 
+
+ Item 3. Quantitative and Qualitative Disclosures about Market Risk 
+ 
+ Interest Rate Risk 
+ 
+ The Company s outstanding debt under its revolving credit facility was 275.7 million at September 30, 2021. Interest on borrowing under this facility is based on the greater of 4.5 or one month LIBOR plus an applicable margin of 3.5 . Based on the outstanding balance at September 30, 2021, a change of 1.0 in the interest rate would cause a change in interest expense of approximately 2.8 million on an annual basis. 
+
+Item 4. Controls and Procedures 
+ 
+ Changes in Internal Control over Financial Reporting 
+ 
+ There were no changes to our internal control over financial reporting (as defined in Rules 13a-15(f) and 15d-15(f) under the Exchange Act) that occurred during the period covered by this report that have materially affected, or are reasonably likely to materially affect, our internal control over financial reporting. 
+ 
+ Evaluation of Disclosure Controls and Procedures 
+ 
+ Based on management s evaluation, with the participation of our CEO and CFO, as of the end of the period covered by this report, our CEO and CFO have concluded that our disclosure controls and procedures, as defined in Rules 13a-15(e) and 15d-15(e) under the Exchange Act, are effective to provide reasonable assurance that information required to be disclosed by us in reports that we file or submit under the Exchange Act is recorded, processed, summarized, and reported within the time periods specified in SEC rules and forms, and is accumulated and communicated to management, including our principal executive officer and principal financial officer, as appropriate, to allow timely decisions regarding required disclosure. 
+ 
+ 41 
+
+Table of Contents 
+
+ PART II. OTHER INFORMATION 
+
+Item 1. Legal Proceedings 
+ 
+ See Note 12 to the unaudited Consolidated Financial Statements included in this report for information regarding legal proceedings. 
+
+Item 1A. Risk Factors 
+ 
+ There have been no material changes to the risk factors disclosed in Part I, Item 1A of the Company's Annual Report on Form 10-K for the fiscal year ended March 31, 2021. 
+
+Item 2. Unregistered Sales of Equity Securities and Use of Proceeds 
+ 
+ The Company's credit agreements contain certain limits on share repurchases. See Management s Discussion and Analysis of Financial Condition and Results of Operations Liquidity and Capital Resources." 
+ 
+ The following table details purchases of the Company's common stock made by the Company during the three months ended September 30, 2021: 
+ (a) Total number of shares purchased (b) Average price paid per share (c) Total number of shares purchased as part of publicly announced plans or programs (d) 
+ Approximate dollar value of shares 
+ that may yet be purchased 
+ under the plans or programs (1) 
+ July 1 through July 31, 2021 61,187 163.89 61,187 15,462,540 August 1 through August 31, 2021 15,462,540 September 1 through September 30, 2021 15,462,540 Total for the quarter 61,187 163.89 61,187 
+
+On June 16, 2021, the Board of Directors authorized the Company to repurchase up to 30.0 million of the Company's outstanding common stock in addition to the amount that remained available for repurchase under prior repurchase authorizations. As of September 30, 2021, the Company had 15.5 million remaining in aggregate repurchase capacity under its authorizations. The timing and actual number of shares of common stock repurchased will depend on a variety of factors, including the stock price, corporate and regulatory requirements, available funds, alternative uses of capital, restrictions under the revolving credit agreement, and other market and economic conditions. The share repurchase program does not have an expiration date and may be suspended, modified or discontinued at any time at the Company s discretion without prior notice. 
+
+Item 3. Defaults Upon Senior Securities 
+ 
+ None. 
+
+Item 4. Mine Safety Disclosures 
+ 
+ Not applicable. 
+
+Item 5. Other Information 
+ 
+ None. 
+
+Item 6. Exhibits 
+ 
+ The exhibits listed in the accompanying exhibit index are filed as part of the Quarterly Report on Form 10-Q. 
+ 
+ 42 
+
+Table of Contents 
+
+ EXHIBIT INDEX 
+ Exhibit Number Exhibit Description Filed Herewith Incorporated by Reference Form or Registration Number Exhibit Filing Date 3.01 Second Amended and Restated Articles of Incorporation of World Acceptance Corporation, as amended 
+ S-8 3.1 07-29-03 3.02 Eighth Amended and Restated Bylaws of World Acceptance Corporation 
+ 10-Q 3.01 11-08-18 31.01 Rule 13a-14(a)/15d-14(a) Certification of Chief Executive Officer 
+ 31.02 Rule 13a-14(a)/15d-14(a) Certification of Chief Financial and Strategy Officer 
+ 32.01 Section 1350 Certification of Chief Executive Officer 
+ 32.02 Section 1350 Certification of Chief Financial and Strategy Officer 
+ 101.01 The following materials from the Company's Quarterly Report for the fiscal quarter ended September 30, 2021, formatted in Inline XBRL: (i) Consolidated Balance Sheets as of September 30, 2021 and March 31, 2021; (ii) Consolidated Statements of Operations for the three and six months ended September 30, 2021 and September 30, 2020; (iii) Consolidated Statements of Shareholders' Equity for the three and six months ended September 30, 2021 and September 30, 2020; (iv) Consolidated Statements of Cash Flows for the six months ended September 30, 2021 and September 30, 2020; and (v) Notes to the Consolidated Financial Statements. 104.01 Cover Page Interactive Data File (formatted as Inline XBRL and contained in Exhibit 101) 
+ Filed herewith. + Management Contract or other compensatory plan required to be filed under Item 6 of this report and Item 601 of Regulation S-K of the Securities and Exchange Commission. 
+ 
+ 43 
+
+Table of Contents 
+
+ SIGNATURES 
+ 
+ Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized. 
+ WORLD ACCEPTANCE CORPORATION By: /s/ Scott McIntyre Scott McIntyre Senior Vice President of Accounting Signing on behalf of the registrant and as principal accounting officer Date: November 5, 2021 
+ 
+ 44 
+
+<EX-31.01>
+ 2
+ exhibit3101q2fy22.htm
+ EX-31.01
+
+Document 
+
+EXHIBIT 31.01 
+ 
+ CERTIFICATION 
+ 
+ I, R. Chad Prashad, certify that 
+ 
+ 1. I have reviewed this Quarterly Report on Form 10-Q of World Acceptance Corporation 
+ 2. Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report 
+ 3. Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report 
+ 4. The registrant's other certifying officer and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have 
+ a. Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared 
+ b. Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles 
+ c. Evaluated the effectiveness of the registrant's disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation and 
+ d. Disclosed in this report any change in the registrant's internal control over financial reporting that occurred during the registrant's most recent fiscal quarter (the registrant's fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant's internal control over financial reporting and 
+ 5. The registrant's other certifying officer and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant's auditors and the audit committee of registrant's board of directors (or persons performing the equivalent functions) 
+ a. All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant's ability to record, process, summarize and report financial information and 
+ b. Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant's internal control over financial reporting. 
+ Dated November 5, 2021 s R. Chad Prashad R. Chad Prashad President and Chief Executive Officer 
+
+</EX-31.01>
+
+<EX-31.02>
+ 3
+ exhibit3102q2fy22.htm
+ EX-31.02
+
+Document 
+
+EXHIBIT 31.02 
+ 
+ CERTIFICATION 
+ 
+ I, John L. Calmes, Jr., certify that 
+ 
+ 1. I have reviewed this Quarterly Report on Form 10-Q of World Acceptance Corporation 
+ 2. Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report 
+ 3. Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report 
+ 4. The registrant's other certifying officer and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have 
+ a. Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared 
+ b. Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles 
+ c. Evaluated the effectiveness of the registrant's disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation and 
+ d. Disclosed in this report any change in the registrant's internal control over financial reporting that occurred during the registrant's most recent fiscal quarter (the registrant's fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant's internal control over financial reporting and 
+ 5. The registrant's other certifying officer and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant's auditors and the audit committee of registrant's board of directors (or persons performing the equivalent functions) 
+ a. All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant's ability to record, process, summarize and report financial information and 
+ b. Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant's internal control over financial reporting. 
+ Dated November 5, 2021 s John L. Calmes, Jr. John L. Calmes, Jr. Executive Vice President and Chief Financial and Strategy Officer 
+
+</EX-31.02>
+
+<EX-32.01>
+ 4
+ exhibit3201q2fy22.htm
+ EX-32.01
+
+Document 
+
+EXHIBIT 32.01 
+ 
+ CERTIFICATION OF PERIODIC REPORT 
+ 
+ I, R. Chad Prashad, President and Chief Executive Officer of World Acceptance Corporation (the Company ), certify, pursuant to Section 906 of the Sarbanes-Oxley Act of 2002, 18 U.S.C. Section 1350, that to my knowledge 
+ (1) the Quarterly Report on Form 10-Q of the Company for the quarter ended September 30, 2021, (the Report fully complies with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act of 1934 and 
+ (2) the information contained in the Report fairly presents, in all material respects, the financial condition and results of operations of the Company. 
+ Dated November 5, 2021 s R. Chad Prashad R. Chad Prashad President and Chief Executive Officer 
+
+</EX-32.01>
+
+<EX-32.02>
+ 5
+ exhibit3202q2fy22.htm
+ EX-32.02
+
+Document 
+
+EXHIBIT 32.02 
+ 
+ CERTIFICATION OF PERIODIC REPORT 
+ 
+ I, John L. Calmes, Jr., Executive Vice President and Chief Financial and Strategy Officer of World Acceptance Corporation (the Company ), certify, pursuant to Section 906 of the Sarbanes-Oxley Act of 2002, 18 U.S.C. Section 1350, that to my knowledge 
+ (1) the Quarterly Report on Form 10-Q of the Company for the quarter ended September 30, 2021, (the Report fully complies with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act of 1934 and 
+ (2) the information contained in the Report fairly presents, in all material respects, the financial condition and results of operations of the Company. 
+ Dated November 5, 2021 s John L. Calmes, Jr. John L. Calmes, Jr. Executive Vice President and Chief Financial and Strategy Officer 
+
+</EX-32.02>
+
+<EX-101.SCH>
+ 6
+ wrld-20210930.xsd
+ XBRL TAXONOMY EXTENSION SCHEMA DOCUMENT
+
+</EX-101.SCH>
+
+<EX-101.CAL>
+ 7
+ wrld-20210930_cal.xml
+ XBRL TAXONOMY EXTENSION CALCULATION LINKBASE DOCUMENT
+
+</EX-101.CAL>
+
+<EX-101.DEF>
+ 8
+ wrld-20210930_def.xml
+ XBRL TAXONOMY EXTENSION DEFINITION LINKBASE DOCUMENT
+
+</EX-101.DEF>
+
+<EX-101.LAB>
+ 9
+ wrld-20210930_lab.xml
+ XBRL TAXONOMY EXTENSION LABEL LINKBASE DOCUMENT
+
+</EX-101.LAB>
+
+<EX-101.PRE>
+ 10
+ wrld-20210930_pre.xml
+ XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE DOCUMENT
+
+</EX-101.PRE>
+

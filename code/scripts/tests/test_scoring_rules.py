@@ -23,6 +23,9 @@ FIXTURES = {
     "20130726_10-K_edgar_data_1750_0001047469-13-007797_item7.txt": "Revenues grew strongly. " * 40,
     "20140717_10-K_edgar_data_1750_0001047469-14-006243_item7.txt": "Margins declined sharply. " * 40,
     "20130726_10-K_edgar_data_1750_0001047469-13-007797_item1a.txt": "Risk factors text. " * 40,
+    # Same filing as the first 10-K, stored the way the sample is: no _item7 suffix.
+    "20130726_10-K_edgar_data_1750_0001047469-13-007797.txt": "Plain copy that must lose to item7. " * 40,
+    "20150115_10-K_edgar_data_1750_0001047469-15-000111.txt": "Item 7 text stored without a suffix. " * 40,
     "20030414_10-Q_edgar_data_1750_0001104659-03-006403.txt": "Quarterly results were solid. " * 40,
     "20031014_10-Q_edgar_data_1750_0001104659-03-022660.txt": "short",
     "not_a_filing.txt": "ignore me",
@@ -53,15 +56,26 @@ def test_filename_round_trip() -> None:
 
 
 def test_default_sections_per_form_type(root: Path) -> None:
-    """One call must pick Item 7 for 10-Ks and the whole document for 10-Qs."""
+    """10-Ks are Item 7 (suffix optional); 10-Qs are the whole document."""
     found = reports.discover_reports(root)
-    by_form = dict(zip(found["FORM_TYPE"], found["SECTION"]))
-    assert by_form["10-K"] == "item7"
-    assert by_form["10-Q"] is None
-    assert len(found) == 4  # item1a and the non-filing file are excluded
+    ten_k = found[found["FORM_TYPE"] == "10-K"]
+    ten_q = found[found["FORM_TYPE"] == "10-Q"]
+
+    # The labeled extract wins when both names exist; a suffix-free 10-K is kept.
+    assert set(ten_k["ACC_NUM"]) == {"0001047469-13-007797", "0001047469-14-006243", "0001047469-15-000111"}
+    labeled = ten_k[ten_k["ACC_NUM"] == "0001047469-13-007797"]
+    assert len(labeled) == 1
+    assert labeled["SECTION"].iloc[0] == "item7"
+    assert labeled["path"].iloc[0].endswith("_item7.txt")
+    plain = ten_k[ten_k["ACC_NUM"] == "0001047469-15-000111"]
+    assert plain["SECTION"].isna().all() or plain["SECTION"].iloc[0] is None
+
+    assert ten_q["SECTION"].isna().all() or ten_q["SECTION"].iloc[0] is None
+    assert len(found) == 5  # item1a, the duplicate plain 10-K, and the non-filing are excluded
 
     assert len(reports.discover_reports(root, "10-K", "item1a")) == 1
-    assert len(reports.discover_reports(root, section=reports.SECTION_ANY)) == 5
+    assert len(reports.discover_reports(root, "10-K", None)) == 2  # plain names only
+    assert len(reports.discover_reports(root, section=reports.SECTION_ANY)) == 7
 
 
 def test_dataset_flags_bad_filings_instead_of_dropping(root: Path) -> None:

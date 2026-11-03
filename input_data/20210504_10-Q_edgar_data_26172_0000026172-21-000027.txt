@@ -1,0 +1,1649 @@
+<Header>
+<FileStats>
+    <FileName>20210504_10-Q_edgar_data_26172_0000026172-21-000027.txt</FileName>
+    <GrossFileSize>9338979</GrossFileSize>
+    <NetFileSize>194162</NetFileSize>
+    <NonText_DocumentType_Chars>1397563</NonText_DocumentType_Chars>
+    <HTML_Chars>3988185</HTML_Chars>
+    <XBRL_Chars>1842835</XBRL_Chars>
+    <XML_Chars>1715861</XML_Chars>
+    <N_Exhibits>10</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0000026172-21-000027.hdr.sgml : 20210504
+<ACCEPTANCE-DATETIME>20210504110112
+ACCESSION NUMBER:		0000026172-21-000027
+CONFORMED SUBMISSION TYPE:	10-Q
+PUBLIC DOCUMENT COUNT:		65
+CONFORMED PERIOD OF REPORT:	20210404
+FILED AS OF DATE:		20210504
+DATE AS OF CHANGE:		20210504
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			CUMMINS INC
+		CENTRAL INDEX KEY:			0000026172
+		STANDARD INDUSTRIAL CLASSIFICATION:	ENGINES & TURBINES [3510]
+		IRS NUMBER:				350257090
+		STATE OF INCORPORATION:			IN
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		10-Q
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-04949
+		FILM NUMBER:		21886732
+
+	BUSINESS ADDRESS:	
+		STREET 1:		500 JACKSON ST
+		STREET 2:		BOX 3005 MAIL CODE 60207
+		CITY:			COLUMBUS
+		STATE:			IN
+		ZIP:			47202-3005
+		BUSINESS PHONE:		8123773842
+
+	MAIL ADDRESS:	
+		STREET 1:		BOX 3005 MAIL CODE 60207
+		STREET 2:		500
+		CITY:			COLUMBUS
+		STATE:			IN
+		ZIP:			47202-3005
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	CUMMINS ENGINE CO INC
+		DATE OF NAME CHANGE:	19920703
+
+</SEC-Header>
+</Header>
+
+ 0000026172-21-000027.txt : 20210504
+
+10-Q
+ 1
+ cmi-20210404.htm
+ 10-Q
+
+cmi-20210404 
+ 
+ Table of Contents 
+
+UNITED STATES 
+ SECURITIES AND EXCHANGE COMMISSION 
+ Washington, D.C. 20549 
+ 
+ FORM 
+ QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE 
+ SECURITIES EXCHANGE ACT OF 1934 
+ 
+ For the Quarterly Period Ended 
+ 
+ Commission File Number 
+ 
+ (Exact name of registrant as specified in its charter) 
+ (State of Incorporation) (IRS Employer Identification No.) 
+
+, 
+ (Address of principal executive offices) 
+ 
+ Telephone ) 
+ (Registrant s telephone number, including area code) 
+ 
+ Securities registered pursuant to Section 12(b) of the Act: 
+ Title of each class Trading symbol(s) Name of each exchange on which registered 
+ 
+ Indicate by check mark whether the registrant: (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days. x No 
+ 
+ Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T 232.405 of this chapter) during the preceding 12 months (or for such shorter period that registrant was required to submit such files). x No 
+ 
+ Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company, or an emerging growth company. See the definitions of large accelerated filer, accelerated filer, smaller reporting company, and "emerging growth company" in Rule 12b-2 of the Exchange Act. (Check one): 
+ x Accelerated filer Non-accelerated filer Smaller reporting company Emerging growth company 
+ 
+ If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. 
+ 
+ Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act). Yes No x 
+ 
+ As of April 4, 2021, there were shares of common stock outstanding with a par value of per share. 
+
+1 
+
+Table of Contents 
+
+ CUMMINS INC. AND SUBSIDIARIES 
+ TABLE OF CONTENTS 
+ QUARTERLY REPORT ON FORM 10-Q 
+ 
+ Page PART I. FINANCIAL INFORMATION 
+ ITEM 1. 
+ Condensed Consolidated Financial Statements (Unaudited) 
+ 3 
+ Condensed Consolidated Statements of Net Income for the three months ended April 4, 2021 and March 29, 2020 3 
+ Condensed Consolidated Statements of Comprehensive Income for the three months ended April 4, 2021 and March 29, 2020 4 
+ Condensed Consolidated Balance Sheets at April 4, 2021 and December 31, 2020 5 
+ Condensed Consolidated Statements of Cash Flows for the three months ended April 4, 2021 and March 29, 2020 6 
+ Condensed Consolidated Statements of Changes in Equity for the three months ended April 4, 2021 and March 29, 2020 7 
+ Notes to Condensed Consolidated Financial Statements 
+ 8 
+ ITEM 2. 
+ Management s Discussion and Analysis of Financial Condition and Results of Operations 
+ 23 
+ ITEM 3. 
+ Quantitative and Qualitative Disclosures About Market Risk 
+ 42 
+ ITEM 4. 
+ Controls and Procedures 
+ 42 
+ PART II. OTHER INFORMATION 
+ ITEM 1. 
+ Legal Proceedings 
+ 43 
+ ITEM 1A. 
+ Risk Factors 
+ 43 
+ ITEM 2. 
+ Unregistered Sales of Equity Securities and Use of Proceeds 
+ 43 
+ ITEM 3. 
+ Defaults Upon Senior Securities 
+ 43 
+ ITEM 4. 
+ Mine Safety Disclosures 
+ 43 
+ ITEM 5. 
+ Other Information 
+ 44 
+ ITEM 6. 
+ Exhibits 
+ 44 
+ Signatures 
+ 45 
+
+2 
+
+Table of Contents 
+
+ PART I. FINANCIAL INFORMATION 
+ 
+ ITEM 1. Condensed Consolidated Financial Statements 
+
+CUMMINS INC. AND SUBSIDIARIES 
+ CONDENSED CONSOLIDATED STATEMENTS OF NET INCOME 
+ (Unaudited) 
+ 
+ Three months ended In millions, except per share amounts April 4, 2021 March 29, 2020 NET SALES (a) (Note 2) 
+ Cost of sales GROSS MARGIN OPERATING EXPENSES AND INCOME Selling, general and administrative expenses Research, development and engineering expenses Equity, royalty and interest income from investees (Note 4) Other operating expense, net ) ) OPERATING INCOME Interest expense Other income, net INCOME BEFORE INCOME TAXES Income tax expense CONSOLIDATED NET INCOME Less: Net income attributable to noncontrolling interests NET INCOME ATTRIBUTABLE TO CUMMINS INC. EARNINGS PER COMMON SHARE ATTRIBUTABLE TO CUMMINS INC. Basic Diluted WEIGHTED-AVERAGE COMMON SHARES OUTSTANDING Basic Dilutive effect of stock compensation awards Diluted million for the three months ended April 4, 2021, compared with million for the comparable period in 2020. 
+
+The accompanying notes are an integral part of the Condensed Consolidated Financial Statements. 
+ 3 
+
+Table of Contents 
+
+ CUMMINS INC. AND SUBSIDIARIES 
+ CONDENSED CONSOLIDATED STATEMENTS OF COMPREHENSIVE INCOME 
+ (Unaudited) 
+ 
+ Three months ended In millions April 4, 2021 March 29, 2020 CONSOLIDATED NET INCOME Other comprehensive income (loss), net of tax (Note 11) Change in pension and other postretirement defined benefit plans Foreign currency translation adjustments ) ) Unrealized gain (loss) on derivatives ) Total other comprehensive income (loss), net of tax ) COMPREHENSIVE INCOME Less: Comprehensive income attributable to noncontrolling interests COMPREHENSIVE INCOME ATTRIBUTABLE TO CUMMINS INC. 
+ 
+ The accompanying notes are an integral part of the Condensed Consolidated Financial Statements. 
+ 4 
+
+Table of Contents 
+
+ CUMMINS INC. AND SUBSIDIARIES 
+ CONDENSED CONSOLIDATED BALANCE SHEETS 
+ (Unaudited) 
+ In millions, except par value April 4, 2021 December 31, 2020 ASSETS Current assets Cash and cash equivalents Marketable securities (Note 5) Total cash, cash equivalents and marketable securities Accounts and notes receivable, net Trade and other Nonconsolidated equity investees Inventories (Note 6) Prepaid expenses and other current assets Total current assets Long-term assets Property, plant and equipment Accumulated depreciation ) ) Property, plant and equipment, net Investments and advances related to equity method investees Goodwill Other intangible assets, net Pension assets Other assets (Note 7) Total assets LIABILITIES Current liabilities Accounts payable (principally trade) Loans payable (Note 8) Commercial paper (Note 8) Accrued compensation, benefits and retirement costs Current portion of accrued product warranty (Note 9) Current portion of deferred revenue (Note 2) Other accrued expenses (Note 7) Current maturities of long-term debt (Note 8) Total current liabilities Long-term liabilities Long-term debt (Note 8) Pensions and other postretirement benefits Accrued product warranty (Note 9) Deferred revenue (Note 2) Other liabilities (Note 7) Total liabilities Commitments and contingencies (Note 10) EQUITY Cummins Inc. shareholders equity Common stock, par value, shares authorized, and shares issued 
+ Retained earnings Treasury stock, at cost, and shares 
+ ) ) Accumulated other comprehensive loss (Note 11) ) ) Total Cummins Inc. shareholders equity Noncontrolling interests Total equity Total liabilities and equity 
+ 
+ The accompanying notes are an integral part of the Condensed Consolidated Financial Statements. 
+ 5 
+
+Table of Contents 
+
+CUMMINS INC. AND SUBSIDIARIES 
+ CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS 
+ (Unaudited) 
+ Three months ended In millions April 4, 2021 March 29, 2020 CASH FLOWS FROM OPERATING ACTIVITIES Consolidated net income Adjustments to reconcile consolidated net income to net cash provided by operating activities Depreciation and amortization Deferred income taxes ) Equity in income of investees, net of dividends ) ) Pension and OPEB expense (Note 3) Pension contributions and OPEB payments (Note 3) ) ) Share-based compensation expense Restructuring payments ) Loss (gain) on corporate owned life insurance ) Foreign currency remeasurement and transaction exposure Changes in current assets and liabilities Accounts and notes receivable ) Inventories ) ) Other current assets ) Accounts payable Accrued expenses ) ) Changes in other liabilities Other, net ) ) Net cash provided by operating activities CASH FLOWS FROM INVESTING ACTIVITIES Capital expenditures ) ) Investments in internal use software ) ) Investments in and advances to equity investees ) ) Investments in marketable securities acquisitions ) ) Investments in marketable securities liquidations (Note 5) Cash flows from derivatives not designated as hedges Other, net Net cash used in investing activities ) ) CASH FLOWS FROM FINANCING ACTIVITIES Net (payments) borrowings of commercial paper ) Payments on borrowings and finance lease obligations ) ) Net (payments) borrowings under short-term credit agreements ) Distributions to noncontrolling interests ) ) Dividend payments on common stock ) ) Repurchases of common stock ) ) Proceeds from issuing common stock Other, net ) Net cash (used in) provided by financing activities ) EFFECT OF EXCHANGE RATE CHANGES ON CASH AND CASH EQUIVALENTS ) Net (decrease) increase in cash and cash equivalents ) Cash and cash equivalents at beginning of year CASH AND CASH EQUIVALENTS AT END OF PERIOD 
+ 
+ The accompanying notes are an integral part of the Condensed Consolidated Financial Statements. 
+ 6 
+
+Table of Contents 
+
+ CUMMINS INC. AND SUBSIDIARIES 
+ CONDENSED CONSOLIDATED STATEMENTS OF CHANGES IN EQUITY 
+ (Unaudited) 
+ 
+ Three months ended In millions, except per share amounts Common Stock Additional Paid-in Capital Retained Earnings Treasury Stock Common Stock Held in Trust Accumulated Other Comprehensive Loss Total Cummins Inc. Shareholders Equity Noncontrolling Interests Total Equity BALANCE AT DECEMBER 31, 2020 ) ) Net income Other comprehensive income, net of tax (Note 11) Repurchases of common stock ) ) ) Cash dividends on common stock, per share 
+ ) ) ) Distributions to noncontrolling interests ) ) Share-based awards ) Other shareholder transactions ) ) ) BALANCE AT APRIL 4, 2021 ) ) BALANCE AT DECEMBER 31, 2019 ) ) ) Adoption of new accounting standards ) ) ) Net income Other comprehensive loss, net of tax (Note 11) ) ) ) ) Issuance of common stock Employee benefits trust activity Repurchases of common stock ) ) ) Cash dividends on common stock, per share 
+ ) ) ) Distributions to noncontrolling interests ) ) Share-based awards ) Other shareholder transactions ) ) ) BALANCE AT MARCH 29, 2020 ) ) ) 
+ 
+ The accompanying notes are an integral part of the Condensed Consolidated Financial Statements. 
+
+7 
+
+Table of Contents 
+
+ CUMMINS INC. AND SUBSIDIARIES 
+ NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS 
+ (Unaudited) 
+ 
+ wholly-owned, joint venture and independent distributor locations and over Cummins certified dealer locations with service to approximately countries and territories. 
+ Interim Condensed Financial Statements 
+ The unaudited Condensed Consolidated Financial Statements reflect all adjustments which, in the opinion of management, are necessary for a fair statement of the results of operations, financial position and cash flows. All such adjustments are of a normal recurring nature. The Condensed Consolidated Financial Statements were prepared in accordance with accounting principles in the United States of America (GAAP) pursuant to the rules and regulations of the Securities and Exchange Commission (SEC) for interim financial information. Certain information and footnote disclosures normally included in annual financial statements were condensed or omitted as permitted by such rules and regulations. 
+ These interim condensed financial statements should be read in conjunction with the Consolidated Financial Statements included in our Annual Report on Form 10-K for the year ended December 31, 2020 . Our interim period financial results for the three month periods presented are not necessarily indicative of results to be expected for any other interim period or for the entire year. The year-end Condensed Consolidated Balance Sheet data was derived from audited financial statements, but does not include all required annual disclosures. 
+ Reclassifications 
+ Certain amounts for prior year periods were reclassified to conform to the current year presentation. 
+ Use of Estimates in Preparation of Financial Statements 
+ Preparation of financial statements requires management to make estimates and assumptions that affect reported amounts presented and disclosed in our Condensed Consolidated Financial Statements . Significant estimates and assumptions in these Condensed Consolidated Financial Statements require the exercise of judgment. Due to the inherent uncertainty involved in making estimates, actual results reported in future periods may be different from these estimates. 
+ Reporting Period 
+ Our reporting period usually ends on the Sunday closest to the last day of the quarterly calendar period. The first quarters of 2021 and 2020 ended on April 4 and March 29, respectively. Our fiscal year ends on December 31, regardless of the day of the week on which December 31 falls. 
+ Weighted-Average Diluted Shares Outstanding 
+ The weighted-average diluted common shares outstanding exclude the anti-dilutive effect of certain stock options. 
+
+8 
+
+Table of Contents 
+
+ million. We expect to recognize the related revenue of million over the next months and million over periods up to years. See Note 9, "PRODUCT WARRANTY LIABILITY," for additional disclosures on extended warranty coverage arrangements. Our other contracts generally are for a duration of less than one year, include payment terms that correspond to the timing of costs incurred when providing goods and services to our customers or represent sales-based royalties. 
+ Deferred and Unbilled Revenue 
+ Deferred revenue, primarily extended warranty 
+ We recognized revenue of million for the three months ended April 4, 2021, compared with million for the comparable period in 2020, that was included in the deferred revenue balance at the beginning of each year. We did not record any impairment losses on our unbilled revenues during the three months ended April 4, 2021 or March 29, 2020. 
+ 
+ China India Other international Total net sales 
+ Segment Revenue 
+ Medium-duty truck and bus Light-duty automotive Total on-highway Off-highway Total sales 
+ 9 
+
+Table of Contents 
+
+ Asia Pacific Europe China Russia Africa and Middle East India Latin America Total sales 
+ Power generation Engines Service Total sales 
+ Filtration Turbo technologies Electronics and fuel systems Automated transmissions Total sales 
+ Industrial Generator technologies Total sales 
+ 
+ 10 
+
+Table of Contents 
+
+OPEB payments, net Defined contribution pension plans 
+ During the remainder of 2021, we anticipate making million in additional defined benefit pension contributions in the U.K. and million in contributions to our U.S. non-qualified benefit plans. These contributions may be made from trusts or company funds either to increase pension assets or to make direct benefit payments to plan participants. We expect our 2021 annual net periodic pension cost to approximate million. 
+ Interest cost Expected return on plan assets ) ) ) ) Amortization of prior service cost Recognized net actuarial loss Net periodic benefit cost 
+
+Dongfeng Cummins Engine Company, Ltd. Chongqing Cummins Engine Company, Ltd. All other manufacturers 
+ (1) 
+ Distribution entities Komatsu Cummins Chile, Ltda. All other distributors Cummins share of net income Royalty and interest income Equity, royalty and interest income from investees (1) Includes million in favorable adjustments related to tax changes within India's 2020-2021 Union Budget of India (India Tax Law Change) passed in March 2020. 
+
+11 
+
+Certificates of deposit Equity mutual funds Debt securities Total marketable securities (1) Unrealized gains and losses for debt securities are recorded in other comprehensive income while unrealized gains and losses for equity securities are recorded in "Other income, net" in our Condensed Consolidated Statements of Net Income . 
+ 
+ All debt securities are classified as available-for-sale. All marketable securities presented use a Level 2 fair value measure. The fair value of Level 2 securities is estimated using actively quoted prices for similar instruments from brokers and observable inputs where available, including market transactions and third-party pricing services, or net asset values provided to investors. We do not currently have any Level 3 securities, and there were no transfers between Level 2 or 3 during the three months ended April 4, 2021 or the year ended December 31, 2020. 
+ 
+ A description of the valuation techniques and inputs used for our Level 2 fair value measures is as follows: 
+ Debt mutual funds The fair value measures for the vast majority of these investments are the daily net asset values published on a regulated governmental website. Daily quoted prices are available from the issuing brokerage and are used on a test basis to corroborate this Level 2 input measure. 
+ Certificates of deposit These investments provide us with a contractual rate of return and generally range in maturity from to . The counterparties to these investments are reputable financial institutions with investment grade credit ratings. Since these instruments are not tradable and must be settled directly by us with the respective financial institution, our fair value measure is the financial institution's month-end statement. 
+ Equity mutual funds The fair value measures for these investments are the net asset values published by the issuing brokerage. Daily quoted prices are available from reputable third-party pricing services and are used on a test basis to corroborate this Level 2 input measure. 
+ Debt securities The fair value measures for these securities are broker quotes received from reputable firms. These securities are infrequently traded on a national exchange and these values are used on a test basis to corroborate our Level 2 input measure. 
+ Proceeds from maturities of marketable securities Investments in marketable securities - liquidations 
+ 
+ 12 
+
+Table of Contents 
+
+Work-in-process and raw materials Inventories at FIFO cost Excess of FIFO over LIFO ) ) Total inventories 
+
+Corporate owned life insurance Deferred income taxes Mark-to-market valuation on interest rate locks Other Other assets 
+ Other taxes payable Current portion of operating lease liabilities Income taxes payable Other Other accrued expenses 
+ Deferred income taxes One-time transition tax Accrued compensation Mark-to-market valuation on interest rate locks Other long-term liabilities Other liabilities 
+ 
+ 13 
+
+Table of Contents 
+
+ Commercial paper (2) 
+ (3) 
+ (1) Loans payable consist primarily of notes payable to various domestic and international financial institutions. It is not practicable to aggregate these notes and calculate a quarterly weighted-average interest rate. 
+ (2) The weighted-average interest rate, inclusive of all brokerage fees, was negative percent at April 4, 2021 and included million of borrowings under the EUR program that were negative percent and million of borrowings under the U.S. program at percent. 
+ (3) The weighted-average interest rate, inclusive of all brokerage fees, was negative percent at December 31, 2020 and included million of borrowings under the EUR program that were negative percent and million of borrowings under the U.S. program at percent. 
+ 
+ We can issue up to billion of unsecured, short-term promissory notes (commercial paper) pursuant to the Board of Directors (the Board) authorized commercial paper programs. The programs facilitate the private placement of unsecured short-term debt through third-party brokers. We intend to use the net proceeds from the commercial paper borrowings for general corporate purposes. 
+ Revolving Credit Facilities 
+ We have access to committed credit facilities that total billion, including the billion 364-day facility that expires August 18, 2021 and our billion five-year facility that expires on August 22, 2023. We maintain credit facilities at the current or higher aggregate amounts by renewing or replacing these facilities at or before expiration. These revolving credit facilities are maintained primarily to provide backup liquidity for our commercial paper borrowings and for general corporate purposes. There were no outstanding borrowings under these facilities at April 4, 2021 and December 31, 2020. 
+ At April 4, 2021, the million of outstanding commercial paper effectively reduced the billion of revolving credit capacity to billion. 
+ At April 4, 2021, we also had an additional million available for borrowings under our international and other domestic credit facilities. 
+ 14 
+
+Table of Contents 
+
+ Senior notes, due 2025 Debentures, due 2027 Debentures, due 2028 Senior notes, due 2030 Senior notes, due 2043 Senior notes, due 2050 Debentures, due 2098 (1) 
+ Other debt Unamortized discount and deferred issuance costs ) ) Fair value adjustments due to hedge on indebtedness Finance leases Total long-term debt Less: Current maturities of long-term debt Long-term debt (1) The effective interest rate is . 
+
+Interest Rate Risk 
+ We have interest rate lock agreements to reduce the variability of the cash flows of the interest payments on a total of million of fixed rate debt forecast to be issued in 2023 to replace our senior notes at maturity. We recorded a net gain of million and net loss of million in "Other comprehensive income" for the three months ended April 4, 2021 and March 29, 2020, respectively. 
+ Fair Value of Debt 
+ Carrying value of total debt (1) The fair value of debt is derived from Level 2 inputs. 
+
+15 
+
+Table of Contents 
+
+ Provision for base warranties issued Deferred revenue on extended warranty contracts sold Provision for product campaigns issued Payments made during period ) ) Amortization of deferred revenue on extended warranty contracts ) ) Changes in estimates for pre-existing product warranties ) ) Foreign currency translation and other ) ) Balance, end of period 
+ We recognized supplier recoveries of million and million for the three months ended April 4, 2021 and March 29, 2020, respectively. 
+ Current portion of deferred revenue Long-term portion Deferred revenue Total Product warranty Current portion Current portion of accrued product warranty Long-term portion Accrued product warranty Total Total warranty accrual 
+ Engine System Campaign Accrual 
+ During 2017, the California Air Resources Board (CARB) and the U.S. Environmental Protection Agency (EPA) selected certain of our pre-2013 model year engine systems for additional emissions testing. Some of these engine systems failed CARB and EPA tests as a result of degradation of an aftertreatment component. In the second quarter of 2018, we reached agreement with the CARB and EPA regarding our plans to address the affected populations. From the fourth quarter of 2017 through the second quarter of 2018, we recorded charges for the expected costs of field campaigns to repair these engine systems. 
+ 
+ The campaigns launched in the third quarter of 2018 are being completed in phases across the affected population. The total engine system campaign charge, excluding supplier recoveries, was million. In the fourth quarter of 2020, we recorded an additional million charge related to this campaign, as a change in estimate, to bring the total campaign, excluding supplier recoveries, to million. At April 4, 2021, the remaining accrual balance was million. 
+ 16 
+
+Table of Contents 
+
+ million. 
+ We have arrangements with certain suppliers that require us to purchase minimum volumes or be subject to monetary penalties. At April 4, 2021, if we were to stop purchasing from each of these suppliers, the aggregate amount of the penalty would be approximately million. These arrangements enable us to secure supplies of critical components and IT services. We do not currently anticipate paying any penalties under these contracts. 
+ We enter into physical forward contracts with suppliers of platinum and palladium to purchase certain volumes of the commodities at contractually stated prices for various periods, which generally fall within . At April 4, 2021, the total commitments under these contracts were million. These arrangements enable us to guarantee the prices of these commodities, which otherwise are subject to market volatility. 
+ We have guarantees with certain customers that require us to satisfactorily honor contractual or regulatory obligations, or compensate for monetary losses related to nonperformance. These performance bonds and other performance-related guarantees were million at April 4, 2021. 
+ 17 
+
+Table of Contents 
+
+ 18 
+
+Table of Contents ) ) ) Other comprehensive income before reclassifications Before-tax amount ) Tax (expense) benefit ) ) ) ) After-tax amount ) Amounts reclassified from accumulated other comprehensive income (1) 
+ Net current period other comprehensive income (loss) ) (2) 
+ Balance at April 4, 2021 ) ) ) Balance at December 31, 2019 ) ) ) ) Other comprehensive income before reclassifications Before-tax amount ) ) ) ) ) ) Tax benefit After-tax amount ) ) ) ) ) ) Amounts reclassified from accumulated other comprehensive income (loss) (1) 
+ ) Net current period other comprehensive income (loss) ) ) (2) 
+ ) ) ) Balance at March 29, 2020 ) ) ) ) (1) Amounts are net of tax. Reclassifications out of accumulated other comprehensive income (loss) and the related tax effects are immaterial for separate disclosure. 
+ (2) Primarily related to interest rate lock activity. See the Interest Rate Risk section in NOTE 8 "DEBT" for additional information. 
+
+19 
+
+Table of Contents 
+
+ 20 
+
+Table of Contents 
+
+ ) Less: Intersegment sales ) External sales Research, development and engineering expenses Equity, royalty and interest income from investees Interest income EBITDA ) ) Depreciation and amortization (2) 
+ Three months ended March 29, 2020 Segment sales ) Less: Intersegment sales ) External sales Research, development and engineering expenses Equity, royalty and interest income from investees Interest income EBITDA ) Depreciation and amortization (2) 
+ (1) Includes intersegment sales, intersegment profit in inventory eliminations and unallocated corporate expenses. There were no significant unallocated corporate expenses for the three months ended April 4, 2021 and March 29, 2020. 
+ (2) Depreciation and amortization, as shown on a segment basis, excludes the amortization of debt discount and deferred costs included in the Condensed Consolidated Statements of Net Income as "Interest expense." The amortization of debt discount and deferred costs was million and less than million for the three months ended April 4, 2021 and March 29, 2020, respectively. A portion of depreciation expense is included in "Research, development and engineering expenses." 
+
+21 
+
+Table of Contents 
+
+ Add: Intersegment elimination ) TOTAL EBITDA Less: Interest expense Depreciation and amortization INCOME BEFORE INCOME TAXES Less: Income tax expense CONSOLIDATED NET INCOME Less: Net income attributable to noncontrolling interests NET INCOME ATTRIBUTABLE TO CUMMINS INC. 
+ 
+ 22 
+
+Table of Contents 
+
+ ITEM 2. Management s Discussion and Analysis of Financial Condition and Results of Operations 
+ Cummins Inc. and its consolidated subsidiaries are hereinafter sometimes referred to as Cummins, we, our or us. 
+ 
+ CAUTIONARY STATEMENTS REGARDING FORWARD-LOOKING INFORMATION 
+ Certain parts of this quarterly report contain forward-looking statements intended to qualify for the safe harbors from liability established by the Private Securities Litigation Reform Act of 1995. Forward-looking statements include those that are based on current expectations, estimates and projections about the industries in which we operate and management s beliefs and assumptions. Forward-looking statements are generally accompanied by words such as "anticipates," "expects," "forecasts," "intends," "plans," "believes," "seeks," "estimates," "could," "should," "may" or words of similar meaning. These statements are not guarantees of future performance and involve certain risks, uncertainties and assumptions, which we refer to as "future factors," which are difficult to predict. Therefore, actual outcomes and results may differ materially from what is expressed or forecasted in such forward-looking statements. Some future factors that could cause our results to differ materially from the results discussed in such forward-looking statements are discussed below and shareholders, potential investors and other readers are urged to consider these future factors carefully in evaluating forward-looking statements. Readers are cautioned not to place undue reliance on forward-looking statements, which speak only as of the date hereof. Future factors that could affect the outcome of forward-looking statements include the following: 
+ GOVERNMENT REGULATION 
+ any adverse results of our internal review into our emissions certification process and compliance with emission standards; 
+ increased scrutiny from regulatory agencies, as well as unpredictability in the adoption, implementation and enforcement of emission standards around the world; 
+ policy changes in international trade; 
+ the U.K.'s exit from the European Union; 
+ changes in taxation; 
+ global legal and ethical compliance costs and risks; 
+ increasingly stringent environmental laws and regulations; 
+ future bans or limitations on the use of diesel-powered products; 
+ BUSINESS CONDITIONS / DISRUPTIONS 
+ supply shortages and supplier financial risk, particularly from any of our single-sourced suppliers, including suppliers that may be impacted by the COVID-19 pandemic; 
+ market slowdown due to the impacts from the COVID-19 pandemic, other public health crises, epidemics or pandemics; 
+ impacts to manufacturing and supply chain abilities from an extended shutdown or disruption of our operations due to the COVID-19 pandemic; 
+ aligning our capacity and production with our demand, including impacts of COVID-19; 
+ large truck manufacturers and original equipment manufacturers customers discontinuing outsourcing their engine supply needs or experiencing financial distress, particularly related to the COVID-19 pandemic, bankruptcy or change in control; 
+ a slowdown in infrastructure development and/or depressed commodity prices; 
+ failure to realize expected results from our investment in Eaton Cummins Automated Transmission Technologies joint venture; 
+ the actions of, and income from, joint ventures and other investees that we do not directly control; 
+ PRODUCTS AND TECHNOLOGY 
+ product recalls; 
+ the development of new technologies that reduce demand for our current products and services; 
+ lower than expected acceptance of new or existing products or services; 
+ 23 
+
+Table of Contents 
+
+ variability in material and commodity costs; 
+ product liability claims; 
+ our sales mix of products; 
+ protection and validity of our patent and other intellectual property rights; 
+ GENERAL 
+ disruptions in global credit and financial markets as the result of the COVID-19 pandemic; 
+ labor relations or work stoppages; 
+ reliance on our executive leadership team and other key personnel; 
+ climate change and global warming; 
+ our plan to reposition our portfolio of product offerings through exploration of strategic acquisitions and divestitures and related uncertainties of entering such transactions; 
+ exposure to potential security breaches or other disruptions to our information technology systems and data security; 
+ political, economic and other risks from operations in numerous countries; 
+ competitor activity; 
+ increasing competition, including increased global competition among our customers in emerging markets; 
+ foreign currency exchange rate changes; 
+ the performance of our pension plan assets and volatility of discount rates, particularly those related to the sustained slowdown of the global economy due to the COVID-19 pandemic; 
+ the price and availability of energy; 
+ the outcome of pending and future litigation and governmental proceedings; 
+ continued availability of financing, financial instruments and financial resources in the amounts, at the times and on the terms required to support our future business; and 
+ other risk factors described in our 2020 Form 10-K , Part I, Item 1A . under the caption "Risk Factors." 
+ Shareholders, potential investors and other readers are urged to consider these factors carefully in evaluating the forward-looking statements and are cautioned not to place undue reliance on such forward-looking statements. The forward-looking statements made herein are made only as of the date of this quarterly report and we undertake no obligation to publicly update any forward-looking statements, whether as a result of new information, future events or otherwise. 
+ 24 
+
+Table of Contents 
+
+ ORGANIZATION OF INFORMATION 
+ The following Management s Discussion and Analysis of Financial Condition and Results of Operations (MD A) was prepared to provide the reader with a view and perspective of our business through the eyes of management and should be read in conjunction with our Management's Discussion and Analysis of Financial Condition and Results of Operations section of our 2020 Form 10-K . Our MD A is presented in the following sections: 
+ EXECUTIVE SUMMARY AND FINANCIAL HIGHLIGHTS 
+ RESULTS OF OPERATIONS 
+ OPERATING SEGMENT RESULTS 
+ OUTLOOK 
+ LIQUIDITY AND CAPITAL RESOURCES 
+ APPLICATION OF CRITICAL ACCOUNTING ESTIMATES 
+ 
+ EXECUTIVE SUMMARY AND FINANCIAL HIGHLIGHTS 
+ Overview 
+ We are a global power leader that designs, manufactures, distributes and services diesel, natural gas, electric and hybrid powertrains and powertrain-related components including filtration, aftertreatment, turbochargers, fuel systems, controls systems, air handling systems, automated transmissions, electric power generation systems, batteries, electrified power systems, hydrogen production and fuel cell products. We sell our products to original equipment manufacturers (OEMs), distributors, dealers and other customers worldwide. We have long-standing relationships with many of the leading manufacturers in the markets we serve, including PACCAR Inc, Navistar International Corporation, Daimler Trucks North America and Stellantis N.V. We serve our customers through a network of over 500 wholly-owned, joint venture and independent distributor locations and over 9,000 Cummins certified dealer locations with service to approximately 190 countries and territories. 
+ Our reportable operating segments consist of Engine, Distribution, Components, Power Systems and New Power. This reporting structure is organized according to the products and markets each segment serves. The Engine segment produces engines (15 liters and smaller) and associated parts for sale to customers in on-highway and various off-highway markets. Our engines are used in trucks of all sizes, buses and recreational vehicles, as well as in various industrial applications, including construction, agriculture, power generation systems and other off-highway applications. The Distribution segment includes wholly-owned and partially-owned distributorships engaged in wholesaling engines, generator sets and service parts, as well as performing service and repair activities on our products and maintaining relationships with various OEMs throughout the world. The Components segment sells filtration products, aftertreatment systems, turbochargers, electronics, fuel systems and automated transmissions. The Power Systems segment is an integrated power provider, which designs, manufactures and sells engines (16 liters and larger) for industrial applications (including mining, oil and gas, marine and rail), standby and prime power generator sets, alternators and other power components. The New Power segment designs, manufactures, sells and supports hydrogen production solutions as well as electrified power systems ranging from fully electric to hybrid along with innovative components and subsystems, including battery and fuel cell technologies. We continue to serve all our markets as they adopt electrification and alternative power technologies, meeting the needs of our OEM partners and end customers. 
+ Our financial performance depends, in large part, on varying conditions in the markets we serve, particularly the on-highway, construction and general industrial markets. Demand in these markets tends to fluctuate in response to overall economic conditions. Our sales may also be impacted by OEM inventory levels, production schedules and stoppages. Economic downturns in markets we serve generally result in reduced sales of our products and can result in price reductions in certain products and/or markets. As a worldwide business, our operations are also affected by currency, political, economic, public health crises, epidemics or pandemics and regulatory matters, including adoption and enforcement of environmental and emission standards, in the countries we serve. As part of our growth strategy, we invest in businesses in certain countries that carry high levels of these risks such as China, Brazil, India, Mexico, Russia and countries in the Middle East and Africa. At the same time, our geographic diversity and broad product and service offerings have helped limit the impact from a drop in demand in any one industry or customer or the economy of any single country on our consolidated results. 
+ 
+ 25 
+
+Table of Contents 
+
+ First Quarter 2021 Results 
+ A summary of our results is as follows: 
+ Three months ended In millions, except per share amounts April 4, 2021 March 29, 2020 Net sales 6,092 5,011 Net income attributable to Cummins Inc. 603 511 Earnings per common share attributable to Cummins Inc. Basic 4.10 3.42 Diluted 4.07 3.41 
+ Worldwide revenues increased 22 percent in the three months ended April 4, 2021, compared to the same period in 2020, due to higher demand in all operating segments and most geographic regions of the world. International demand (excludes the U.S. and Canada) improved 45 percent primarily due to higher sales in most geographic regions. The increase in international sales was principally due to higher demand in all components businesses (primarily in China and India), stronger demand in China due to an improved COVID-19 environment over the comparable period in 2020, higher off-highway demand (mainly construction markets in China), higher demand for power generation equipment and favorable foreign currency impacts of 3 percent of international sales (primarily the Chinese renminbi and Euro, partially offset by the Brazilian real). Net sales in the U.S. and Canada improved 7 percent, primarily due to increased demand in North American on-highway markets, which also positively impacted all of our components businesses, partially offset by reduced sales in our distribution product lines resulting from supply chain constraints. 
+ 
+ The following table contains sales and EBITDA (defined as earnings or losses before interest expense, income taxes, depreciation and amortization and noncontrolling interests) by operating segment for the three months ended April 4, 2021 and March 29, 2020. See Note 12, "OPERATING SEGMENTS," to the Condensed Consolidated Financial Statements for additional information and a reconciliation of our segment information to the corresponding amounts in our Condensed Consolidated Statements of Net Income . 
+ Three months ended Operating Segments April 4, 2021 March 29, 2020 Percent change Percent Percent 2021 vs. 2020 In millions Sales of Total EBITDA Sales of Total EBITDA Sales EBITDA Engine 2,459 40 354 2,158 43 365 14 (3) Distribution 1,835 30 160 1,814 36 158 1 1 Components 2,152 35 421 1,502 30 279 43 51 Power Systems 1,022 17 126 884 18 77 16 64 New Power 35 1 (51) 10 (43) NM (19) Intersegment eliminations (1,411) (23) (30) (1,357) (27) 10 4 NM Total 6,092 100 980 5,011 100 846 22 16 "NM" - not meaningful information 
+ Net income attributable to Cummins was 603 million, or 4.07 per diluted share, on sales of 6.1 billion for the three months ended April 4, 2021, versus the comparable prior year period net income attributable to Cummins of 511 million, or 3.41 per diluted share, on sales of 5.0 billion. The increases in net income and earnings per diluted share were driven by higher net sales, increased gross margin and higher equity, royalty and interest income from investees primarily in China (due to stronger demand for trucks and construction equipment resulting from an improved COVID-19 environment over the comparable period in 2020), partially offset by higher variable compensation expenses, incremental costs associated with supply chain constraints, mark-to-market losses on corporate owned life insurance and a higher effective tax rate due to the absence of favorable adjustments related to India Tax Law Changes in March 2020. The increase in gross margin was primarily due to higher volumes and improved pricing, partially offset by increased compensation expenses (especially variable compensation) and higher premium freight costs. The decrease in gross margin as a percentage of sales was primarily due to higher compensation expenses, increased premium freight costs and manufacturing inefficiencies. Diluted earnings per common share for the three months ended April 4, 2021, benefited 0.03 from fewer weighted-average shares outstanding due to the stock repurchase program. 
+ 26 
+
+Table of Contents 
+
+ We generated 339 million of cash from operations for the three months ended April 4, 2021, compared to 379 million for the comparable period in 2020. Refer to the section titled "Cash Flows" in the "LIQUIDITY AND CAPITAL RESOURCES" section for a discussion of items impacting cash flows. 
+ Our debt to capital ratio (total capital defined as debt plus equity) at April 4, 2021, was 31.2 percent, compared to 31.7 percent at December 31, 2020. The decrease was primarily due to 73 million of lower debt balances since December 31, 2020. At April 4, 2021, we had 3.4 billion in cash and marketable securities on hand and access to our 3.5 billion credit facilities, if necessary, to meet currently anticipated working capital, investment and funding needs. 
+ In the first three months of 2021, we purchased 418 million, or 1.7 million shares of common stock. 
+ In the first three months of 2021, the investment gain on our U.S. pension trust was 1.1 percent while our U.K. pension trust loss was 6.1 percent. During the remainder of 2021, we anticipate making 17 million in additional defined benefit pension contributions in the U.K. and 12 million in contributions to our U.S. non-qualified benefit plans. We expect our 2021 annual net periodic pension cost to approximate 79 million. 
+ As of the date of this filing, our credit ratings and outlooks from the credit rating agencies remain unchanged. 
+
+27 
+
+Table of Contents 
+
+ RESULTS OF OPERATIONS 
+ Three months ended Favorable/ April 4, 2021 March 29, 2020 (Unfavorable) In millions, except per share amounts Amount Percent NET SALES 6,092 5,011 1,081 22 Cost of sales 4,606 3,717 (889) (24) GROSS MARGIN 1,486 1,294 192 15 OPERATING EXPENSES AND INCOME Selling, general and administrative expenses 574 546 (28) (5) Research, development and engineering expenses 260 238 (22) (9) Equity, royalty and interest income from investees 166 129 37 29 Other operating expense, net (8) (5) (3) (60) OPERATING INCOME 810 634 176 28 Interest expense 28 23 (5) (22) Other income, net 1 44 (43) (98) INCOME BEFORE INCOME TAXES 783 655 128 20 Income tax expense 172 127 (45) (35) CONSOLIDATED NET INCOME 611 528 83 16 Less: Net income attributable to noncontrolling interests 8 17 9 53 NET INCOME ATTRIBUTABLE TO CUMMINS INC. 603 511 92 18 Diluted Earnings Per Common Share Attributable to Cummins Inc. 4.07 3.41 0.66 19 
+ 
+ Three months ended Favorable/ (Unfavorable) April 4, 2021 March 29, 2020 Percent of sales Percentage Points Gross margin 24.4 25.8 (1.4) Selling, general and administrative expenses 9.4 10.9 1.5 Research, development and engineering expenses 4.3 4.7 0.4 
+ Net Sales 
+ Net sales for the three months ended April 4, 2021, increased by 1,081 million versus the comparable period in 2020. The primary drivers were as follows: 
+ Components segment sales increased 43 percent largely due to higher emission solutions demand in China, India and North America. 
+ Engine segment sales increased 14 percent due to increased volumes in the North American pick-up truck and heavy-duty truck markets. 
+ Power Systems segment sales increased 16 percent primarily due to higher demand in power generation markets in North America, China, Middle East and Asia Pacific. 
+ Favorable foreign currency fluctuations of 1 percent of total sales, primarily in the Chinese renminbi and Euro, partially offset by the Brazilian real. 
+ Sales to international markets (excluding the U.S. and Canada), based on location of customers, for the three months ended April 4, 2021, were 46 percent of total net sales compared with 38 percent of total net sales for the comparable period in 2020. A more detailed discussion of sales by segment is presented in the OPERATING SEGMENT RESULTS section. 
+ 28 
+
+Table of Contents 
+
+ Cost of Sales 
+ The types of expenses included in cost of sales are the following: parts and material consumption, including direct and indirect materials; salaries, wages and benefits; depreciation on production equipment and facilities and amortization of technology intangibles; estimated costs of warranty programs and campaigns; production utilities; production-related purchasing; warehousing, including receiving and inspection; freight costs; engineering support costs; repairs and maintenance; production and warehousing facility property insurance; rent for production facilities and other production overhead. 
+ Gross Margin 
+ Gross margin increased 192 million for the three months ended April 4, 2021 and decreased 1.4 points as a percentage of sales, versus the comparable period in 2020. The increase in gross margin was primarily due to higher volumes and improved pricing, partially offset by increased compensation expenses (especially variable compensation) and higher premium freight costs. The decrease in gross margin as a percentage of sales was primarily due to higher compensation expenses, increased premium freight costs and manufacturing inefficiencies. 
+ The provision for base warranties issued as a percent of sales for the three months ended April 4, 2021, was 2.6 percent compared to 1.9 percent for the comparable period in 2020. A detailed discussion of gross margin by segment is presented in the OPERATING SEGMENT RESULTS section. 
+ Selling, General and Administrative Expenses 
+ Selling, general and administrative expenses increased 28 million for the three months ended April 4, 2021, versus the comparable period in 2020, primarily due to increased variable compensation expenses, partially offset by lower consulting expenses and reduced travel costs. Overall, selling, general and administrative expenses as a percentage of sales decreased to 9.4 percent in the three months ended April 4, 2021, from 10.9 percent in the comparable period in 2020. The decrease in selling, general and administrative expenses as a percentage of sales was mainly due to sales increasing faster than selling, general and administrative expenses, despite higher variable compensation expenses. 
+ Research, Development and Engineering Expenses 
+ Research, development and engineering expenses increased 22 million for the three months ended April 4, 2021, versus the comparable period in 2020 primarily due to increased compensation expenses, especially variable compensation expenses, partially offset by decreased travel costs. Overall, research, development and engineering expenses as a percentage of sales decreased to 4.3 percent in the three months ended April 4, 2021, from 4.7 percent in the comparable period in 2020. Research activities continue to focus on development of new products to meet future emission standards around the world, improvements in fuel economy performance of diesel and natural gas powered engines and related components as well as development activities around fully electric, hybrid and hydrogen powertrain solutions. 
+ Equity, Royalty and Interest Income from Investees 
+ Equity, royalty and interest income from investees increased 37 million for the three months ended April 4, 2021, versus the comparable period in 2020, primarily due to increased earnings at Dongfeng Cummins Engine Co., Ltd., Beijing Foton Cummins Engine Co., Ltd., Tata Cummins Ltd. (excluding the absence of 2020 benefits noted below), Guangxi Cummins Industrial Power Co., Loop Energy Inc. and Dongfeng Cummins Emission Solutions Co., Ltd., partially offset by the absence of a 37 million favorable adjustment as the result of tax changes within India's 2020-2021 Union Budget of India (India Tax Law Changes) passed in March 2020 and 18 million of technology fee revenue both recorded in the first quarter of 2020 in Tata Cummins Ltd. The increased earnings in our China joint ventures were primarily due to an improved COVID-19 environment over the comparable period in 2020. See Note 4, "INCOME TAXES," of the Notes to the Consolidated Financial Statements of our 2020 Form 10-K for additional information on India Tax Law Changes. 
+ 29 
+
+Table of Contents 
+
+ Other Operating Expense, Net 
+ Other operating expense, net was as follows: 
+ Three months ended In millions April 4, 2021 March 29, 2020 Amortization of intangible assets (6) (5) Loss on write-off of assets (4) (2) Gain (loss) on sale of assets, net 1 (1) Royalty income, net 2 2 Other, net (1) 1 Total other operating expense, net (8) (5) 
+ Interest Expense 
+ Interest expense increased 5 million for the three months ended April 4, 2021, versus the comparable period in 2020, primarily due to higher borrowings related to our 2 billion senior unsecured notes issued in August of 2020. 
+ Other Income, Net 
+ Other income, net was as follows: 
+ Three months ended In millions April 4, 2021 March 29, 2020 Non-service pension and OPEB credit 24 16 Interest income 6 7 Rental income 2 2 Loss on marketable securities, net (3) Bank charges (3) (3) Foreign currency loss, net (5) (1) (Loss) gain on corporate owned life insurance (32) 17 Other, net 9 9 Total other income, net 1 44 
+ Income Tax Expense 
+ Our effective tax rate for 2021 is expected to approximate 22.5 percent, excluding any discrete items that may arise. 
+ Our effective tax rate for the three months ended April 4, 2021, was 22.0 percent and contained favorable discrete items of 4 million or 0.03 per share. 
+ Our effective tax rate for the three months ended March 29, 2020, was 19.4 percent and contained 18 million of favorable net discrete tax items, primarily due to the India Tax Law Change passed in March of 2020. The India Tax Law Change eliminated the dividend distribution tax and replaced it with a lower rate withholding tax as the burden shifted from the dividend payor to the dividend recipient for a net favorable income statement impact of 35 million, or 0.23 per share in the first quarter of 2020. See Note 4, "INCOME T AXES," of the Notes to the Consolidated Fin ancial Statements of ou r 2020 Form 10-K for additional information on India Tax Law Changes. 
+ Noncontrolling Interests 
+ Noncontrolling interests eliminate the income or loss attributable to non-Cummins ownership interests in our consolidated entities. Noncontrolling interests in income of consolidated subsidiaries for the three months ended April 4, 2021, decreased 9 million versus the comparable period in 2020. The decrease for the three months ended April 4, 2021, is primarily due to the absence of a 19 million unfavorable adjustment as the results of India Tax Law Changes passed in March 2020, partially offset by higher earnings at Eaton Cummins Joint Venture. See Note 4, "INCOME TAXES," of the Notes to the Consolidated Financial Statements of our 2020 Form 10-K for additional information on India Tax Law Changes. 
+ 30 
+
+Table of Contents 
+
+ Net Income Attributable to Cummins Inc. and Diluted Earnings Per Common Share Attributable to Cummins Inc. 
+ Net income and diluted earnings per common share attributable to Cummins Inc. for the three months ended April 4, 2021, increased 92 million and 0.66 per diluted share versus the comparable period in 2020, primarily due to higher net sales, increased gross margin and higher equity, royalty and interest income from investees primarily in China (due to stronger demand for trucks and construction equipment resulting from an improved COVID-19 environment over the comparable period in 2020), partially offset by higher variable compensation expenses, incremental costs associated with supply chain constraints, mark-to-market losses on corporate owned life insurance and a higher effective tax rate due to the absence of favorable adjustments related to India Tax Law Changes in March 2020. Diluted earnings per common share for the three months ended April 4, 2021, benefited 0.03 from fewer weighted-average shares outstanding due to the stock repurchase program. 
+ Comprehensive Income - Foreign Currency Translation Adjustment 
+ The foreign currency translation adjustment was a net loss of 56 million for the three months ended April 4, 2021, compared to a net loss of 162 million for the three months ended March 29, 2020 and was driven by the following: 
+ Three months ended April 4, 2021 March 29, 2020 In millions Translation adjustment Primary currency driver vs. U.S. dollar Translation adjustment Primary currency driver vs. U.S. dollar Wholly-owned subsidiaries (48) Brazilian real, British pound, Chinese renminbi (124) Brazilian real, Indian rupee, Chinese renminbi, British pound Equity method investments (8) Chinese renminbi (21) Chinese renminbi, Indian rupee Consolidated subsidiaries with a noncontrolling interest (17) Indian rupee Total (56) (162) 
+ 
+ 31 
+
+Table of Contents 
+
+ OPERATING SEGMENT RESULTS 
+ Our reportable operating segments consist of the Engine, Distribution, Components, Power Systems and New Power segments. This reporting structure is organized according to the products and markets each segment serves. We use segment EBITDA as a primary basis for the Chief Operating Decision Maker to evaluate the performance of each of our reportable operating segments. We believe EBITDA is a useful measure of our operating performance as it assists investors and debt holders in comparing our performance on a consistent basis without regard to financing methods, capital structure, income taxes or depreciation and amortization methods, which can vary significantly depending upon many factors. Segment amounts exclude certain expenses not specifically identifiable to segments. See Note 12, "OPERATING SEGMENTS," to the Condensed Consolidated Financial Statements for additional information and a reconciliation of our segment information to the corresponding amounts in our Condensed Consolidated Statements of Net Income . 
+ Following is a discussion of results for each of our operating segments. 
+ 
+ Engine Segment Results 
+ Financial data for the Engine segment was as follows: 
+ Three months ended Favorable/ April 4, March 29, (Unfavorable) In millions 2021 2020 Amount Percent External sales 1,895 1,579 316 20 Intersegment sales 564 579 (15) (3) Total sales 2,459 2,158 301 14 Research, development and engineering expenses 92 80 (12) (15) Equity, royalty and interest income from investees 113 78 35 45 Interest income 3 4 (1) (25) Segment EBITDA 354 365 (11) (3) Percentage Points Segment EBITDA as a percentage of total sales 14.4 16.9 (2.5) 
+ Sales for our Engine segment by market were as follows: 
+ Three months ended Favorable/ April 4, March 29, (Unfavorable) In millions 2021 2020 Amount Percent Heavy-duty truck 827 750 77 10 Medium-duty truck and bus 674 618 56 9 Light-duty automotive 481 353 128 36 Total on-highway 1,982 1,721 261 15 Off-highway 477 437 40 9 Total sales 2,459 2,158 301 14 Percentage Points On-highway sales as percentage of total sales 81 80 1 
+ 32 
+
+Table of Contents 
+
+ Unit shipments by engine classification (including unit shipments to Power Systems and off-highway engine units included in their respective classification) were as follows: 
+ Three months ended Favorable/ April 4, March 29, (Unfavorable) 2021 2020 Amount Percent Heavy-duty 30,700 25,800 4,900 19 Medium-duty 73,100 61,200 11,900 19 Light-duty 68,500 49,400 19,100 39 Total unit shipments 172,300 136,400 35,900 26 
+ Sales 
+ Engine segment sales for the three months ended April 4, 2021, increased 301 million versus the comparable period in 2020. The following were the primary drivers by market: 
+ Light-duty automotive sales increased 128 million primarily due to pick-up truck sales in North America with shipments up 49 percent. 
+ Heavy-duty truck sales increased 77 million principally due to increased volumes in North America with shipments up 28 percent. 
+ Medium-duty truck and bus sales increased 56 million mainly due to higher medium-duty demand, partially offset by lower bus sales, especially in North America. 
+ Off-highway sales increased 40 million primarily due to higher demand in construction markets in China. 
+ Segment EBITDA 
+ Engine segment EBITDA for the three months ended April 4, 2021, decreased 11 million versus the comparable period in 2020, primarily due to lower gross margin, increased research, development and engineering expenses and higher selling, general and administrative expenses, partially offset by increased equity, royalty and interest income from investees. The decrease in gross margin and gross margin as a percentage of sales was mainly due to increased premium freight, unfavorable mix, unfavorable foreign currency fluctuations (primarily in the Brazilian real) and increased variable compensation expenses, partially offset by higher volumes. The increase in selling, general and administrative expenses was due to increased variable compensation expenses, partially offset by lower consulting expenses and reduced travel costs. The increase in research, development and engineering expenses was due to higher compensation expenses, especially variable compensation expenses. The increase in equity, royalty and interest income from investees was principally due to increased earnings at Dongfeng Cummins Engine Co., Ltd., Beijing Foton Cummins Engine Co., Ltd., Tata Cummins Ltd. (excluding the absence of 2020 benefits noted below) and Guangxi Cummins Industrial Power Co., partially offset by the absence of an 18 million favorable adjustment related to India Tax Law Changes passed in March 2020 and 18 million of technology fee revenue both recorded in the first quarter of 2020 in Tata Cummins Ltd. The increased earnings in our China joint ventures were primarily due to an improved COVID-19 environment over the comparable period in 2020. See Note 4, "INCOME TAXES," of the Notes to the Consolidated Financial Statements of our 2020 Form 10-K for additional information on India Tax Law Changes. 
+ 33 
+
+Table of Contents 
+
+ Distribution Segment Results 
+ Financial data for the Distribution segment was as follows: 
+ Three months ended Favorable/ April 4, March 29, (Unfavorable) In millions 2021 2020 Amount Percent External sales 1,827 1,807 20 1 Intersegment sales 8 7 1 14 Total sales 1,835 1,814 21 1 Research, development and engineering expenses 13 7 (6) (86) Equity, royalty and interest income from investees 17 21 (4) (19) Interest income 1 1 Segment EBITDA 160 158 2 1 Percentage Points Segment EBITDA as a percentage of total sales 8.7 8.7 
+ 
+ Sales for our Distribution segment by region were as follows: 
+ Three months ended Favorable/ April 4, March 29, (Unfavorable) In millions 2021 2020 Amount Percent North America 1,171 1,246 (75) (6) Asia Pacific 214 196 18 9 Europe 163 136 27 20 China 87 68 19 28 Russia 57 42 15 36 Africa and Middle East 54 51 3 6 India 49 36 13 36 Latin America 40 39 1 3 Total sales 1,835 1,814 21 1 
+ Sales for our Distribution segment by product line were as follows: 
+ Three months ended Favorable/ April 4, March 29, (Unfavorable) In millions 2021 2020 Amount Percent Parts 757 787 (30) (4) Power generation 418 376 42 11 Engines 334 323 11 3 Service 326 328 (2) (1) Total sales 1,835 1,814 21 1 
+ Sales 
+ Distribution segment sales for the three months ended April 4, 2021, increased 21 million versus the comparable period in 2020. The following were the primary drivers by region: 
+ Improved demand in Europe, China, Asia Pacific, Russia and India. 
+ Favorable foreign currency fluctuations, primarily in the Australian dollar and Euro. 
+ The increases were partially offset by reduced parts sales in North America resulting from supply chain constraints. 
+ 34 
+
+Table of Contents 
+
+ Segment EBITDA 
+ Distribution segment EBITDA for the three months ended April 4, 2021, increased 2 million versus the comparable period in 2020, primarily due to increased other income and higher gross margin, partially offset by higher research, development and engineering expenses, increased selling, general and administrative expenses and lower equity, royalty and interest income from investees. The increase in gross margin and gross margin as a percentage of sales was mainly due to decreased compensation expenses, improved pricing, higher volumes and favorable foreign currency fluctuations (primarily in the Australian dollar), partially offset by higher variable compensation expenses. The increase in selling, general and administrative expenses was due to increased variable compensation expenses, partially offset by decreased consulting expenses and lower travel costs. The increase in research, development and engineering expenses was due to increased variable compensation expenses and higher consulting expenses. The decrease in equity, royalty and interest income from investees was principally due to the absence of a 5 million favorable adjustment related to India Tax Law Changes passed in March 2020. See Note 4, "INCOME TAXES," of the Notes to the Consolidated Financial Statements of our 2020 Form 10-K for additional information on India Tax Law Changes. 
+ 
+ Components Segment Results 
+ Financial data for the Components segment was as follows: 
+ Three months ended Favorable/ April 4, March 29, (Unfavorable) In millions 2021 2020 Amount Percent External sales 1,724 1,115 609 55 Intersegment sales 428 387 41 11 Total sales 2,152 1,502 650 43 Research, development and engineering expenses 75 68 (7) (10) Equity, royalty and interest income from investees 19 21 (2) (10) Interest income 1 1 Segment EBITDA 421 279 142 51 Percentage Points Segment EBITDA as a percentage of total sales 19.6 18.6 1.0 
+ Sales for our Components segment by business were as follows: 
+ Three months ended Favorable/ April 4, March 29, (Unfavorable) In millions 2021 2020 Amount Percent Emission solutions 1,035 664 371 56 Filtration 372 312 60 19 Turbo technologies 367 270 97 36 Electronics and fuel systems 263 174 89 51 Automated transmissions 115 82 33 40 Total sales 2,152 1,502 650 43 
+ Sales 
+ Components segment sales for the three months ended April 4, 2021, increased 650 million versus the comparable period in 2020. The following were the primary drivers by business: 
+ Emission solutions sales increased 371 million primarily due to strong demand in China, India and North America. 
+ Turbo technologies sales increased 97 million principally due to increased demand in China, Western Europe and North America. 
+ Electronics and fuel systems sales increased 89 million mostly due to higher demand in China, India and North America. 
+ Filtration sales increased 60 million mainly due to stronger demand in China, North America and Europe. 
+ 35 
+
+Table of Contents 
+
+ Favorable foreign currency fluctuations, primarily in the Chinese renminbi and Euro, partially offset by the Brazilian real. 
+ Segment EBITDA 
+ Components segment EBITDA for the three months ended April 4, 2021, increased 142 million versus the comparable period in 2020, mainly due to higher gross margin, partially offset by higher selling, general and administrative expenses, increased research, development and engineering costs and lower equity, royalty and interest income from investees. The increase in gross margin and gross margin as a percentage of sales was mainly due to higher volumes and favorable mix, partially offset by increased compensation expenses. Selling, general and administrative expenses increased due to higher variable compensation expenses. Research, development and engineering expenses increased due to higher compensation expenses, especially variable compensation expenses. The decrease in equity, royalty and interest income from investees was principally due to the absence of a 14 million favorable adjustment related to India Tax Law Changes passed in March 2020 in Fleetguard Filters Private Ltd., partially offset by higher earnings at Fleetguard Filters Private Ltd. (excluding the absence of 2020 tax benefit noted above), Dongfeng Cummins Emission Solutions Co., Ltd. and Shanghai Fleetguard Filter Co. See Note 4, "INCOME TAXES," of the Notes to the Consolidated Financial Statements of our 2020 Form 10-K for additional information on India Tax Law Changes. 
+ 
+ Power Systems Segment Results 
+ Financial data for the Power Systems segment was as follows: 
+ Three months ended Favorable/ April 4, March 29, (Unfavorable) In millions 2021 2020 Amount Percent External sales 612 500 112 22 Intersegment sales 410 384 26 7 Total sales 1,022 884 138 16 Research, development and engineering expenses 57 54 (3) (6) Equity, royalty and interest income from investees 12 9 3 33 Interest income 1 1 Segment EBITDA 126 77 49 64 Percentage Points Segment EBITDA as a percentage of total sales 12.3 8.7 3.6 
+ Sales for our Power Systems segment by product line were as follows: 
+ Three months ended Favorable/ April 4, March 29, (Unfavorable) In millions 2021 2020 Amount Percent Power generation 611 519 92 18 Industrial 324 296 28 9 Generator technologies 87 69 18 26 Total sales 1,022 884 138 16 
+ Sales 
+ Power Systems segment sales for the three months ended April 4, 2021, increased 138 million versus the comparable period in 2020. The following were the primary drivers by product line: 
+ Power generation sales increased 92 million due to higher demand in North America, China, Middle East and Asia Pacific. 
+ Industrial sales increased 28 million due to increased demand in global mining markets, partially offset by decreased demand in oil and gas markets in China. 
+ Favorable foreign currency fluctuations, primarily in the Chinese renminbi and British pound. 
+ 36 
+
+Table of Contents 
+
+ Segment EBITDA 
+ Power Systems segment EBITDA for the three months ended April 4, 2021, increased 49 million versus the comparable period in 2020, primarily due to higher gross margin and favorable foreign currency fluctuations (especially in the Chinese renminbi and British pound), partially offset by increased selling, general and administrative expenses. The increase in gross margin and gross margin as a percentage of sales was mainly due to higher volumes and improved pricing, partially offset by increased compensation expenses and unfavorable mix. Selling, general and administrative expenses increased primarily due to increased variable compensation expenses, partially offset by lower travel costs. 
+ 
+ New Power Segment Results 
+ The New Power segment designs, manufactures, sells and supports hydrogen production solutions as well as electrified power systems ranging from fully electric to hybrid along with innovative components and subsystems, including battery and fuel cell technologies. The New Power segment is currently in the development phase with a primary focus on research and development activities for our power systems, components and subsystems. Financial data for the New Power segment was as follows: 
+ Three months ended Favorable/ April 4, March 29, (Unfavorable) In millions 2021 2020 Amount Percent External sales 34 10 24 NM Intersegment sales 1 1 NM Total sales 35 10 25 NM Research, development and engineering expenses 23 29 6 21 Equity, royalty and interest income from investees 5 5 NM Segment EBITDA (51) (43) (8) (19) "NM" - not meaningful information 
+
+37 
+
+Table of Contents 
+
+ OUTLOOK 
+ COVID-19 Impact 
+ The acceleration of the COVID-19 vaccine distribution in the U.S. is helping curb the spread of the virus and will hopefully allow the majority of our manufacturing facilities to remain open to meet increasing customer demand. While the vaccination effort will allow a return to more normal operations in the U.S., many international markets are still dealing with rising cases, new COVID variants and slower vaccination rollout. We continue to take necessary precautions at all our facilities both in the U.S. and abroad to mitigate the spread of the disease and prioritize the health and safety of our employees. While we are optimistic that continued vaccination distribution globally will minimize the impacts of the virus in the second half of the year, there is still a risk of increased cases or new virus variants resulting in lower customer demand, additional facility shutdowns or supply chain constraints in the future. 
+ We anticipate lower demand in all end markets in India for the second quarter due to new lockdowns as a result of an increase in COVID-19 cases and are monitoring the events on the ground closely. Given the rapid increase in COVID cases in India, we are very concerned about the health and safety of our employees and those of our suppliers and partners. We are continuing to operate all our manufacturing facilities but with robust safety measures in place. 
+ In March, we gained approval as a COVID-19 vaccine administrator at several U.S. sites and began offering the vaccine to our employees and their families at certain facilities in the U.S. We continue to collaborate with health officials around the world to provide employees with access to COVID-19 vaccines. That work differs geographically due to the variability in vaccine accessibility and distribution. Our global network of medical professionals is always focused on efforts to ensure the safety of all Cummins employees, their families and our communities. 
+ Business Outlook 
+ Our outlook reflects the following positive trends and challenges to our business for the remainder of 2021. 
+ Positive Trends 
+ We expect demand for pick-up trucks in North America to remain strong. 
+ We estimate North American medium-duty and heavy-duty truck demand will continue to improve from 2020 levels. 
+ We believe market demand for trucks in India will improve from 2020 levels. 
+ We anticipate our aftermarket business will continue to improve, driven primarily by increased truck utilization in North America. 
+ Our liquidity of 6.5 billion in cash, marketable securities and available credit facilities strengthens our position to deal with any uncertainties that may arise in the remainder of 2021. 
+ Challenges 
+ Supply constraints driven by strong demand in multiple end markets and regions may lead to increased costs, including higher premium freight. 
+ The shortage of key components such as semiconductor chips may lead to manufacturing delays, increased costs and the loss of sales. 
+ We expect market demand in truck and construction markets in China to decline from record levels in 2020. 
+ We may close or restructure certain manufacturing and distribution facilities as we evaluate the appropriate size and structure of our manufacturing and distribution capacity, which could result in additional charges. 
+ Uncertainty in the U.K. surrounding its ability to negotiate trade agreements as a sovereign country could have material negative impacts on our European operations in the long-term. 
+ 38 
+
+Table of Contents 
+
+ LIQUIDITY AND CAPITAL RESOURCES 
+ Key Working Capital and Balance Sheet Data 
+ We fund our working capital with cash from operations and short-term borrowings, including commercial paper, when necessary. Various assets and liabilities, including short-term debt, can fluctuate significantly from month to month depending on short-term liquidity needs. As a result, working capital is a prime focus of management's attention. Working capital and balance sheet measures are provided in the following table: 
+ Dollars in millions April 4, 2021 December 31, 2020 Working capital (1) 
+ 5,462 5,562 Current ratio 1.82 1.88 Accounts and notes receivable, net 4,209 3,820 Days' sales in receivables 60 69 Inventories 3,753 3,425 Inventory turnover 5.0 4.2 Accounts payable (principally trade) 3,279 2,820 Days' payable outstanding 58 68 Total debt 4,091 4,164 Total debt as a percent of total capital 31.2 31.7 (1) Working capital includes cash and cash equivalents. 
+ 
+ Cash Flows 
+ Cash and cash equivalents were impacted as follows: 
+ Three months ended In millions April 4, 2021 March 29, 2020 Change Net cash provided by operating activities 339 379 (40) Net cash used in investing activities (25) (99) 74 Net cash (used in) provided by financing activities (745) 234 (979) Effect of exchange rate changes on cash and cash equivalents (12) 48 (60) Net (decrease) increase in cash and cash equivalents (443) 562 (1,005) 
+ Net cash provided by operating activities decreased 40 million for the three months ended April 4, 2021, versus the comparable period in 2020, primarily due to higher working capital requirements of 158 million, partially offset by higher consolidated net income of 83 million and the absence of prior year restructuring payments of 48 million. During the first three months of 2021, the higher working capital requirements resulted in a cash outflow of 293 million compared to a cash outflow of 135 million in the comparable period in 2020, mainly due to higher accounts and notes receivable, inventories and other current assets, partially offset by higher accrued expenses and accounts payable. 
+ Net cash used in investing activities decreased 74 million for the three months ended April 4, 2021, versus the comparable period in 2020, primarily due to higher net liquidations of marketable securities of 85 million, partially offset by higher investments in and advances to equity investees of 17 million. 
+ Net cash used in financing activities increased 979 million for the three months ended April 4, 2021, versus the comparable period in 2020, primarily due to lower net borrowings of commercial paper of 963 million and higher net payments under short-term credit agreements of 127 million, partially offset by lower repurchases of common stock of 132 million. 
+ The effect of exchange rate changes on cash and cash equivalents for the three months ended April 4, 2021, versus the comparable period in 2020, decreased 60 million primarily due to unfavorable fluctuations in the British pound of 69 million, partially offset by favorable fluctuations in the Chinese renminbi and Indian rupee. 
+ 39 
+
+Table of Contents 
+
+ Sources of Liquidity 
+ Cash provided by operations is typically our principal source of liquidity with 339 million generated in the three months ended April 4, 2021. Our sources of liquidity include: 
+ April 4, 2021 In millions Total U.S. International Primary location of international balances Cash and cash equivalents 2,958 1,536 1,422 China, Singapore, Belgium, Mexico, Australia, Canada Marketable securities (1) 
+ 397 91 306 India Total 3,355 1,627 1,728 Available credit capacity Revolving credit facilities (2) 
+ 3,183 International and other uncommitted domestic credit facilities 249 (1) The majority of marketable securities could be liquidated into cash within a few days. 
+ (2) The five-year credit facility for 2.0 billion and the 364-day credit facility for 1.5 billion, maturing August 2023 and August 2021, respectively, are maintained primarily to provide backup liquidity for our commercial paper borrowings and general corporate purposes. At April 4, 2021, we had 317 million of commercial paper outstanding, which effectively reduced the available capacity under our revolving credit facilities to 3.2 billion. 
+ 
+ Cash, Cash Equivalents and Marketable Securities 
+ A significant portion of our cash flow is generated outside the U.S. We manage our worldwide cash requirements considering available funds among the many subsidiaries through which we conduct our business and the cost effectiveness with which those funds can be accessed. As a result, we do not anticipate any local liquidity restrictions to preclude us from funding our operating needs with local resources. 
+ If we distribute our foreign cash balances to the U.S. or to other foreign subsidiaries, we could be required to accrue and pay withholding taxes, for example, if we repatriated cash from certain foreign subsidiaries whose earnings we have asserted are permanently reinvested outside of the U.S. Foreign earnings for which we assert permanent reinvestment outside the U.S. consist primarily of earnings of our China, India and Netherlands domiciled subsidiaries. At present, we do not foresee a need to repatriate any earnings from these subsidiaries for which we have asserted permanent reinvestment. However, to help fund cash needs of the U.S. or other international subsidiaries as they arise, we repatriate available cash from certain foreign subsidiaries whose earnings are not permanently reinvested when it is cost effective to do so. 
+ Debt Facilities and Other Sources of Liquidity 
+ We have access to committed credit facilities that total 3.5 billion, including the 1.5 billion 364-day facility that expires August 18, 2021 and our 2.0 billion five-year facility that expires on August 22, 2023. We maintain credit facilities at the current or higher aggregate amounts by renewing or replacing these facilities at or before expiration. These revolving credit facilities are maintained primarily to provide backup liquidity for our commercial paper borrowings and for general corporate purposes. There were no outstanding borrowings under these facilities at April 4, 2021. 
+ We can issue up to 3.5 billion of unsecured, short-term promissory notes (commercial paper) pursuant to the Board of Directors (the Board) authorized commercial paper programs. The programs facilitate the private placement of unsecured short-term debt through third-party brokers. We intend to use the net proceeds from the commercial paper borrowings for general corporate purposes. The total combined borrowing capacity under the revolving credit facilities and commercial programs should not exceed 3.5 billion. See Note 8, "DEBT," to our Condensed Consolidated Financial Statements for additional information. 
+ At April 4, 2021, we had 317 million of commercial paper outstanding, which effectively reduced the available capacity under our revolving credit facilities to 3.2 billion. 
+ Supply Chain Financing 
+ We currently have supply chain financing programs with financial intermediaries, which provide certain vendors the option to be paid by financial intermediaries earlier than the due date on the applicable invoice. When a vendor utilizes the program and receives an early payment from a financial intermediary, they take a discount on the invoice. We then pay the financial intermediary the face amount of the invoice on the regularly scheduled due date. We do not reimburse vendors for any costs they incur for participation in 
+ 40 
+
+Table of Contents 
+
+ the program and their participation is completely voluntary. As a result, all amounts owed to the financial intermediaries are presented as "Accounts payable" in our Condensed Consolidated Balance Sheets . 
+ Uses of Cash 
+ Stock Repurchases 
+ In December 2019, the Board authorized the acquisition of up to 2.0 billion of additional common stock upon completion of the 2018 repurchase plan. In the first three months of 2021, we made the following purchases under the 2019 stock repurchase program: 
+ In millions, except per share amounts Shares Purchased Average Cost Per Share Total Cost of Repurchases Remaining 
+ Authorized 
+ Capacity (1) 
+ April 4 1.7 247.35 418 1,576 (1) The remaining authorized capacity under these plans was calculated based on the cost to purchase the shares but excludes commission expenses in accordance with the authorized plan. 
+
+We intend to repurchase outstanding shares from time to time during 2021 to enhance shareholder value. 
+ Dividends 
+ We paid dividends of 197 million during the three months ended April 4, 2021. 
+ Capital Expenditures 
+ Capital expenditures, including spending on internal use software, for the three months ended April 4, 2021, were 98 million versus 83 million in the comparable period in 2020. We plan to spend an estimated 725 million to 775 million in 2021 on capital expenditures, excluding internal use software, with over 50 percent of these expenditures expected to be invested in North America. In addition, we plan to spend an estimated 60 million to 70 million on internal use software in 2021. 
+ Current Maturities of Short and Long-Term Debt 
+ We had 317 million of commercial paper outstanding at April 4, 2021, that matures in less than one year. The maturity schedule of our existing long-term debt does not require significant cash outflows until 2023 when our 3.65 senior notes are due. Required annual long-term debt principal payments range from 30 million to 534 million over the next five years (including the remainder of 2021). See Note 8, "DEBT," to the Condensed Consolidated Financial Statements for additional information. 
+ Pensions 
+ Our global pension plans, including our unfunded and non-qualified plans, were 112 percent funded at December 31, 2020. Our U.S. defined benefit plan, which represented approximately 52 percent of the worldwide pension obligation, was 128 percent funded, and our U.K. defined benefit plan was 114 percent funded at December 31, 2020. The funded status of our pension plans is dependent upon a variety of variables and assumptions including return on invested assets, market interest rates and levels of voluntary contributions to the plans. In the first three months of 2021, the investment gain on our U.S. pension trust was 1.1 percent while our U.K. pension trust loss was 6.1 percent. Approximately 71 percent of our pension plan assets are held in highly liquid investments such as fixed income and equity securities. The remaining 29 percent of our plan assets are held in less liquid, but market valued investments, including real estate, private equity, venture capital, opportunistic credit and insurance contracts. During the remainder of 2021, we anticipate making 17 million in additional defined benefit pension contributions in the U.K. and 12 million in contributions to our U.S. non-qualified benefit plans. These contributions may be made from trusts or company funds either to increase pension assets or to make direct benefit payments to plan participants. We expect our 2021 annual net periodic pension cost to approximate 79 million. 
+ 41 
+
+Table of Contents 
+
+ Credit Ratings 
+ Our rating and outlook from each of the credit rating agencies as of the date of filing are shown in the table below. 
+ Long-Term Short-Term Credit Rating Agency (1) 
+ Senior Debt Rating Debt Rating Outlook Standard and Poor s Rating Services A+ A1 Stable Moody s Investors Service, Inc. A2 P1 Stable (1) Credit ratings are not recommendations to buy, are subject to change, and each rating should be evaluated independently of any other rating. In addition, we undertake no obligation to update disclosures concerning our credit ratings, whether as a result of new information, future events or otherwise. 
+ 
+ Management's Assessment of Liquidity 
+ Our financial condition and liquidity remain strong. Our solid balance sheet and credit ratings enable us to have ready access to credit and the capital markets. We assess our liquidity in terms of our ability to generate adequate cash to fund our operating, investing and financing activities. We believe our existing cash and marketable securities, operating cash flow and revolving credit facilities provide us with the financial flexibility needed to fund common stock repurchases, dividend payments, targeted capital expenditures, projected pension obligations, acquisitions, working capital and debt service obligations through 2021 and beyond. We continue to generate significant cash from operations and maintain access to our expanded revolving credit facilities and commercial paper programs as noted above. 
+ 
+ APPLICATION OF CRITICAL ACCOUNTING ESTIMATES 
+ A summary of our significant accounting policies is included in Note 1, SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES, of the Notes to the Consolidated Financial Statements of our 2020 Form 10-K , which discusses accounting policies that we have selected from acceptable alternatives. 
+ Our Condensed Consolidated Financial Statements are prepared in accordance with generally accepted accounting principles that often require management to make judgments, estimates and assumptions regarding uncertainties that affect the reported amounts presented and disclosed in the financial statements. Management reviews these estimates and assumptions based on historical experience, changes in business conditions including the impacts of COVID-19 and other relevant factors they believe to be reasonable under the circumstances. In any given reporting period, our actual results may differ from the estimates and assumptions used in preparing our Condensed Consolidated Financial Statements. 
+ Critical accounting estimates are defined as follows: the estimate requires management to make assumptions about matters that were highly uncertain at the time the estimate was made; different estimates reasonably could have been used; or if changes in the estimate are reasonably likely to occur from period to period and the change would have a material impact on our financial condition or results of operations. Our senior management has discussed the development and selection of our accounting policies, related accounting estimates and the disclosures set forth below with the Audit Committee of the Board. Our critical accounting estimates disclosed in the Form 10-K address estimating liabilities for warranty programs, assessing goodwill impairment, accounting for income taxes and pension benefits. 
+ A discussion of our critical accounting estimates may be found in the Management s Discussion and Analysis section of our 2020 Form 10-K under the caption APPLICATION OF CRITICAL ACCOUNTING ESTIMATES. Within the context of these critical accounting estimates, we are not currently aware of any reasonably likely events or circumstances that would result in different policies or estimates being reported in the first three months of 2021. 
+ 
+ ITEM 3. Quantitative and Qualitative Disclosures About Market Risk 
+ A discussion of quantitative and qualitative disclosures about market risk may be found in Item 7A of our 2020 Form 10-K . There have been no material changes in this information since the filing of our 2020 Form 10-K . 
+ 
+ ITEM 4. Controls and Procedures 
+ Evaluation of Disclosure Controls and Procedures 
+ As of the end of the period covered by this Quarterly Report on Form 10-Q, we carried out an evaluation under the supervision and with the participation of our management, including our Chief Executive Officer (CEO) and Chief Financial Officer (CFO), of the effectiveness of the design and operation of our disclosure controls and procedures as defined in Exchange Act Rules 13a-15(e) and 15d-15(e). Based upon that evaluation, our CEO and our CFO concluded that our disclosure controls and procedures were effective to ensure that the information required to be disclosed by us in the reports that we file or submit under the Securities Exchange Act of 
+ 42 
+
+Table of Contents 
+
+ 1934 is (1) recorded, processed, summarized and reported within the time periods specified in the SEC s rules and forms, and (2) accumulated and communicated to management, including our CEO and CFO, to allow timely decisions regarding required disclosure. 
+ Changes in Internal Control over Financial Reporting 
+ There has been no change in our internal control over financial reporting during the quarter ended April 4, 2021, that has materially affected, or is reasonably likely to materially affect, our internal control over financial reporting. 
+
+PART II. OTHER INFORMATION 
+ 
+ ITEM 1. Legal Proceedings 
+ The matters described under "Legal Proceedings" in Note 10, "COMMITMENTS AND CONTINGENCIES," to the Condensed Consolidated Financial Statements are incorporated herein by reference. 
+ 
+ ITEM 1A. Risk Factors 
+ In addition to other information set forth in this report, you should consider other risk factors discussed in Part I, Item 1A. Risk Factors in our Annual Report on Form 10-K for the year ended December 31, 20 20 , which could materially affect our business, financial condition or future results. The risks described in our 20 20 Annual Report on Form 10-K or the "CAUTIONARY STATEMENTS REGARDING FORWARD-LOOKING INFORMATION" in this Quarterly report are not the only risks we face. Additional risks and uncertainties not currently known to us or that we currently judge to be immaterial also may materially adversely affect our business, financial condition or operating results. 
+ 
+ ITEM 2. Unregistered Sales of Equity Securities and Use of Proceeds 
+ The following information is provided pursuant to Item 703 of Regulation S-K: 
+ Issuer Purchases of Equity Securities Period Total 
+ Number of 
+ Shares 
+ Purchased (1) 
+ Average Price Paid per Share Total Number of Shares Purchased as Part of Publicly Announced Plans or Programs Approximate 
+ Dollar Value of Shares 
+ that May Yet Be 
+ Purchased Under the 
+ Plans or Programs 
+ (in millions) (2) 
+ January 1 - February 7 647,390 237.88 647,390 1,840 February 8 - March 7 654,074 246.15 654,074 1,679 March 8 - April 4 388,437 265.17 388,437 1,576 Total 1,689,901 247.35 1,689,901 (1) Shares purchased represent shares under the Board authorized share repurchase program. 
+ (2) Shares repurchased under our Key Employee Stock Investment Plan only occur in the event of a participant default, which cannot be predicted, and were excluded from this column. 
+
+In December 2019, the Board authorized the acquisition of up to 2.0 billion of additional common stock upon completion of the 2018 repurchase plan. During the three months ended April 4, 2021, we repurchased 418 million of common stock under the 2019 authorization. The dollar value remaining available for future purchases under the 2019 program at April 4, 2021, was 1,576 million. 
+ Our Key Employee Stock Investment Plan allows certain employees, other than officers, to purchase shares of common stock on an installment basis up to an established credit limit. We hold participants shares as security for the loans and would, in effect, repurchase shares only if the participant defaulted in repayment of the loan. Shares associated with participants' sales are sold as open-market transactions via a third-party broker. 
+ 
+ ITEM 3. Defaults Upon Senior Securities 
+ Not applicable. 
+ 
+ ITEM 4. Mine Safety Disclosures 
+ Not applicable. 
+ 43 
+
+Table of Contents 
+
+ ITEM 5. Other Information 
+ Not applicable. 
+ 
+ ITEM 6. Exhibits 
+ The exhibits listed in the following Exhibit Index are filed as part of this Quarterly Report on Form 10-Q. 
+ CUMMINS INC. 
+ EXHIBIT INDEX 
+ Exhibit No. Description of Exhibit 10(a) 
+ Deferred Compensation Plan, as amended and restated February 15, 2021. 
+ 10(b) 
+ Deferred Compensation Plan for Non-Employee Directors, as amended and restated February 15, 2021. 
+ 31(a) 
+ Certification Pursuant to Section 302 of the Sarbanes-Oxley Act of 2002. 
+ 31(b) 
+ Certification Pursuant to Section 302 of the Sarbanes-Oxley Act of 2002. 
+ 32 
+ Certification Pursuant to Section 906 of the Sarbanes-Oxley Act of 2002. 
+ 101.INS Inline XBRL Instance Document - the instance document does not appear in the Interactive Data File because its XBRL tags are embedded within the Inline XBRL document. 101.SCH Inline XBRL Taxonomy Extension Schema Document. 101.CAL Inline XBRL Taxonomy Extension Calculation Linkbase Document. 101.DEF Inline XBRL Taxonomy Extension Definition Linkbase Document. 101.LAB Inline XBRL Taxonomy Extension Label Linkbase Document. 101.PRE Inline XBRL Taxonomy Extension Presentation Linkbase Document. 104 Cover Page Interactive Data File (formatted as Inline XBRL and contained in Exhibit 101). 
+ Filed with this quarterly report on Form 10-Q are the following documents formatted in iXBRL (Inline Extensible Business Reporting Language): (i) the Condensed Consolidated Statements of Net Income for the three months ended April 4, 2021 and March 29, 2020, (ii) the Condensed Consolidated Statements of Comprehensive Income for the three months ended April 4, 2021 and March 29, 2020, (iii) the Condensed Consolidated Balance Sheets at April 4, 2021 and December 31, 2020, (iv) the Condensed Consolidated Statements of Cash Flows for the three months ended April 4, 2021 and March 29, 2020, (v) the Condensed Consolidated Statements of Changes in Equity for the three months ended April 4, 2021 and March 29, 2020 and (vi) Notes to Condensed Consolidated Financial Statements. 
+ 
+ 44 
+
+Table of Contents 
+
+ SIGNATURES 
+ Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized. 
+ Cummins Inc. Date: May 4, 2021 By: /s/ MARK A. SMITH By: /s/ CHRISTOPHER C. CLULOW Mark A. Smith Christopher C. Clulow Vice President and Chief Financial Officer Vice President-Corporate Controller (Principal Financial Officer) (Principal Accounting Officer) 
+ 
+ 45 
+
+<EX-10.A>
+ 2
+ cmi2021q110-qex10a.htm
+ EX-10.A
+
+Document 
+
+EXHIBIT 10(a) 
+
+CUMMINS INC. DEFERRED COMPENSATION PLAN 
+
+Amended and Restated as of February 15, 2021 
+ 4824-1867-4209.7 
+
+TABLE OF CONTENTS 
+ 
+ Page 
+ ARTICLE I RESTATEMENT AND PURPOSE 
+ 1 Section 1.01 History and Restatement 
+ 1 Section 1.02 Application of Restatement 
+ 1 Section 1.03 Purpose 
+ 1 Section 1.04 Grantor Trust 
+ 1 ARTICLE II DEFINITIONS AND INTERPRETATION 
+ 1 Section 2.01 Definitions 
+ 1 Section 2.02 Rules of Interpretation 
+ 6 ARTICLE III PARTICIPATION 
+ 7 ARTICLE IV DEFERRAL AND DISTRIBUTION ELECTIONS 
+ 7 Section 4.01 Deferral of Compensation 
+ 7 Section 4.02 Initial Deferral Election 
+ 7 Section 4.03 Elections to Defer Base Salary 
+ 7 Section 4.04 Elections to Defer Annual Bonus or Longer-Term Performance Plan Payouts 
+ 8 Section 4.05 Election of Form and Timing of Payment 
+ 8 Section 4.06 Election Changes 
+ 8 ARTICLE V PLAN YEAR BALANCES 
+ 8 Section 5.01 Establishment of Plan Year Balances 
+ 8 Section 5.02 Crediting of Deferrals 
+ 8 Section 5.03 Crediting of RSP True Up Matching Credits 
+ 9 Section 5.04 Investment Options 
+ 9 Section 5.05 Crediting of Earnings 
+ 9 Section 5.06 Charge for Distributions 
+ 9 ARTICLE VI DISTRIBUTION OF PLAN YEAR BALANCES 
+ 10 Section 6.01 Distribution on Designated Benefit Commencement Date 
+ 10 Section 6.02 Distribution Upon Termination of Employment for Reasons other than Retirement 
+ 10 Section 6.03 Distribution Upon Death 
+ 10 Section 6.04 Distribution on Account of Unforeseeable Emergency 
+ 11 Section 6.05 Distribution on Account of Change of Control 
+ 11 Section 6.06 Delay in Payment for Specified Employees 
+ 11 Section 6.07 Designating a Beneficiary 
+ 11 
+ - i - 
+ 4824-1867-4209.7 
+
+ARTICLE VII ADMINISTRATION OF PLAN 
+ 12 Section 7.01 Powers and Responsibilities of the Administrator 
+ 12 Section 7.02 Indemnification 
+ 13 Section 7.03 Claims and Claims Review Procedure 
+ 13 ARTICLE VIII AMENDMENT AND TERMINATION 
+ 14 ARTICLE IX MISCELLANEOUS 
+ 15 Section 9.01 Obligations of Employer 
+ 15 Section 9.02 Employment Rights 
+ 15 Section 9.03 Non-Alienation 
+ 15 Section 9.04 Tax Withholding 
+ 15 Section 9.05 Other Plans 
+ 15 Section 9.06 Liability of Affiliated Employers 
+ 15 
+ - ii - 
+ 4824-1867-4209.7 
+
+ARTICLE I 
+ RESTATEMENT AND PURPOSE 
+ 
+ Section 1.01 History and Restatement. Cummins Inc. established the Cummins Engine Company, Inc. 1994 Deferred Compensation Plan Plan ), effective February 1, 1994, and it has amended and or restated the Plan on several occasions since that time. The Company restated the Plan effective January 1, 2008 to comply with the requirements of the final regulations under Code Section 409A and to change the name of the Plan to the Cummins Inc. Deferred Compensation Plan (the 2008 Restatement ), and restated the Plan again effective as of October 15, 2012, January 1, 2014 and January 1, 2016 (the 2016 Restatement Effective Date ). By this restatement, which is effective on February 15, 2021 (the 2021 Restatement Effective Date ), the Company amends the Plan to incorporate certain changes to the terms of the Plan. 
+ 
+ Section 1.02 Application of Restatement. The 2008 Restatement applied, effective January 1, 2008, to all amounts deferred or vested under the Plan after 2004 and any earnings credited with respect to such amounts. None of the 2008 Restatement, this restatement nor any interim restatement applies to any amount deferred and vested as of December 31, 2004, or any earnings credited under the Plan with respect to such amounts (together, Grandfathered Amounts ), and Grandfathered Amounts shall continue to be governed by the terms and conditions of the Plan without regard to the 2008 Restatement, this restatement or any interim restatement provided, however, the person or persons entitled to receive any remaining portion of a Participant's Plan Year Balances after his death shall be determined pursuant to this restatement, provided that the Participant's death occurs after 2004. 
+ 
+ Section 1.03 Purpose. The Plan is intended to constitute an unfunded plan maintained by the Employer primarily for the purpose of providing deferred compensation for a select group of management or highly compensated employees within the meaning of Sections 201, 301, and 401 of ERISA. 
+ 
+ Section 1.04 Grantor Trust. The Company has established a grantor trust to hold assets for the provision of certain benefits under the Plan as well as other employee benefits. Assets of the Trust are subject to the claims of the Employer's general creditors, and no Participant shall have any interest in any assets of the Trust or an Employer other than as a general creditor of the Employer. 
+ 
+ ARTICLE II 
+ DEFINITIONS AND INTERPRETATION 
+ 
+ Section 2.01 Definitions. When the first letter of a word or the words in a phrase are capitalized herein, the word or phrase shall have the meaning specified below 
+ 
+ (a) Administrator means the Company's Benefits Policy Committee or such other person that the Board designates as Administrator. To the extent that the Administrator delegates a duty or responsibility to an agent, the term Administrator shall include such agent. 
+ - 1 - 
+ 4824-1867-4209.7 
+
+(b) Affiliated Employer means (i) a member of a controlled group of corporations (as defined in Code Section 414(b)) of which the Company is a member or (ii) an unincorporated trade or business under common control (as defined in Code Section 414(c)) with the Company. 
+ 
+ (c) Affirmation of Domestic Partnership means a form or other means designated for use in affirming the relationship between a Participant and his Domestic Partner. 
+ 
+ (d) Alternate Payee has the meaning set out in ERISA Section 206(d)(3)(K). 
+ 
+ (e) Beneficiary means the person or persons entitled to receive a Participant's remaining Plan Year Balances, if any, after his death. A Participant's Beneficiary shall be determined as provided in Section 6.07. 
+ 
+ (f) Benefit Claim means a request or claim for a benefit under the Plan, including a claim for greater benefits than have been paid. 
+ 
+ (g) Benefit Commencement Date means the date as of which distribution of a Plan Year Balance begins or is paid, if payable as a lump sum, as determined under Section 6.01. 
+ 
+ (h) Board or Board of Directors means the Company's Board of Directors or, where the context so permits, its designee. 
+ 
+ (i) Change of Control means the occurrence of any of the following 
+ 
+ (1) there shall be consummated (A) any consolidation or merger of the Company in which the Company is not the continuing or surviving corporation or pursuant to which shares of the Company s common stock would be converted in whole or in part into cash or other securities or property, other than a merger of the Company in which the holders of the Company s common stock immediately before the merger have substantially the same proportionate ownership of common stock of the surviving corporation immediately after the merger, or (B) any sale, lease, exchange, or transfer (in one transaction or a series of related transactions) of all or substantially all of the assets of the Company, or 
+ 
+ (2) the liquidation or dissolution of the Company, or 
+ 
+ (3) any person (as such term is used in Sections 13(d)(3) and 14(d)(2) of the Securities Exchange Act of 1934, as amended Exchange Act )), other than the Company or a subsidiary thereof or any employee benefit plan sponsored by the Company or a subsidiary thereof or a corporation owned, directly or indirectly, by the shareholders of the Company in substantially the same proportions as their ownership of stock of the Company, shall become the beneficial owners (within the meaning of Rule 13d-3 under the Exchange Act) of securities of the Company representing 30 or more 
+ - 2 - 
+ 4824-1867-4209.7 
+
+of the combined voting power of the Company s then outstanding securities ordinarily (and apart from rights accruing in special circumstances) having the right to vote in the election of directors, as a result of a tender or exchange offer, open market purchases, privately negotiated purchases, or otherwise, or 
+ 
+ (4) at any time during a period of two consecutive years, individuals who at the beginning of such period constituted the Board of Directors shall cease for any reason to constitute at least a majority thereof, unless the election or the nomination for election by the Company s stockholders of each new director during such two-year period was approved by a vote of at least two-thirds (2 3) of the directors then still in office who were directors at the beginning of such two-year period, or 
+ 
+ (5) any other event shall occur that would be required to be reported in response to Item 6(e) (or any successor provision) of Schedule 14A or Regulation 14A promulgated under the Exchange Act. 
+ 
+ Notwithstanding the preceding provisions, an event or series of events shall not constitute a Change of Control with respect to a Participant unless the event or series of events qualifies as a change in the ownership or effective control of the corporation or in the ownership of a substantial portion of the assets of the corporation within the meaning of Code Section 409A(a)(2)(A)(v). 
+ 
+ (j) Code means the Internal Revenue Code of 1986, as amended from time to time. 
+ 
+ (k) Company means Cummins Inc. 
+ 
+ (l) Denial or Denied means a denial, reduction, termination, or failure to provide or make payment (in whole or in part) of a Plan benefit. 
+ 
+ (m) Designated Benefit Commencement Date means, with respect to a Plan Year Balance, the date elected by an Eligible Employee for distribution (or commencing distribution, if payable in installments) of the Plan Year Balance. Except as otherwise provided in Section 4.06, a Participant's Designated Benefit Commencement Date must be either (i) a specified Quarterly Distribution Month occurring at least two years after the end of the calendar year for which the deferral is made or (ii) a specified Quarterly Distribution Month occurring in the calendar quarter after the Participant's Retirement or one of the next following three calendar quarters. 
+ 
+ (n) Designated Election means, with respect to a Plan Year Balance, the payment schedule in which an Eligible Employee has elected for the Plan Year Balance to be distributed. The Designated Election must be either (i) a single lump sum payment or (ii) annual installments beginning on the Designated Benefit Commencement Date and continuing over the next following anniversaries of such date for a designated number of years, not to exceed a total 
+ - 3 - 
+ 4824-1867-4209.7 
+
+of 15 annual installments. Each installment shall consist of a portion of the remaining Plan Year Balance, which shall be equal to (i) one divided by (ii) one plus the number of installments remaining after the installment for which the calculation is being made. If an Eligible Employee fails to make the Designated Election for a Plan Year Balance, the Designated Election for such Plan Year Balance shall be a single lump sum payment. 
+ 
+ (o) Domestic Partner means a person of the same or opposite sex (i) with whom the Participant has a single, dedicated relationship and has shared the same permanent residence for at least six months, (ii) who is not married to another person or part of another domestic partner relationship and is at least age 18, (iii) who, with the Participant, is mutually responsible for the other's welfare, (iv) who, with the Participant, intends for their relationship to be permanent, (v) who is not so closely related to the Participant as to preclude marriage under state law, and (vi) for whom there is an Affirmation of Domestic Partnership on file with the Administrator. In determining whether the requirements of clauses (i) through (v) of the preceding sentence have been satisfied, the Administrator may rely on the Affirmation of Domestic Partner filed with the Administrator. 
+ 
+ (p) Domestic Relations Order has the meaning specified in Code Section 414(p)(1)(B). 
+ 
+ (q) Earnings Credit means, with respect to a Plan Year Balance, the amount credited to the Plan Year Balance pursuant to Section 5.05. 
+ 
+ (r) Eligible Employee means, on and after the 2016 Restatement Effective Date, a common-law employee of the Employer who (i) is on a United States compensation and benefits package and is receiving United States taxable income, (ii) is in a compensation class of CC04 or higher, (iii) is either (A) a citizen or legal permanent resident of the United States or (B) holds one of the following types of United States' visas F-1, F-2, H-1B, H-2B, H-3, H-4, L-1, O-1, O-3, or TN, and (iv) has received written notice from the Administrator that he is eligible to participate in the Plan provided that any individual who (a) was an Eligible Employee based on the eligibility criteria in effect immediately prior to the 2016 Restatement Effective Date and (b) became an active Participant shall be deemed an Eligible Employee so long as such individual has continuously remained an active Participant on and after the 2016 Restatement Effective Date. 
+ 
+ (s) Employer means the Company and all of its Affiliated Employers. 
+ 
+ (t) ERISA means the Employee Retirement Income Security Act of 1974, as amended from time to time. 
+ 
+ (u) Fund means an Investment Fund. 
+ 
+ (v) Grandfathered Amount has the meaning specified in Section 1.02. 
+ 
+ - 4 - 
+ 4824-1867-4209.7 
+
+(w) Investment Fund means one or more funds selected by the Administrator pursuant to Section 5.04 to determine Earnings Credits. 
+ 
+ (x) Longer-Term Performance Plan means the Cummins Inc. Longer-Term Performance Plan, the Cummins Inc. Senior Executive Longer-Term Performance Plan, or the successor of either. 
+ 
+ (y) Non-Grandfathered Amount means an amount deferred under the Plan that is not a Grandfathered Amount. 
+ 
+ (z) Participant means an Eligible Employee who has elected to make deferrals under the Plan by the means designated by the Administrator and whose Plan Year Balances have not been fully distributed. 
+ 
+ (aa) Plan means the Cummins Inc. Deferred Compensation Plan as set out in this document, as amended from time to time. 
+ 
+ (bb) Plan Year Balance means the bookkeeping account established to reflect a Participant's interest under the Plan attributable to amounts deferred pursuant a specific deferral election and related RSP true up matching credits under Section 5.03. The Administrator shall maintain a separate Plan Year Balance with respect to amounts deferred pursuant to all deferral elections made with respect to a single year and any related RSP True Up Matching Credits. Where the context so permits, the term Plan Year Balance means the amount credited to such bookkeeping account. 
+ 
+ (cc) Quarterly Distribution Month means March, June, September, or December. 
+ 
+ (dd) Retire or Retirement refers to Termination of Employment after (i) reaching age 55 and completing at least five years of employment with the Affiliated Employers or (ii) completing 30 years of employment with the Affiliated Employers. 
+ 
+ (ee) RSP True Up Matching Credit means an amount credited to a Participant's Plan Year Balance pursuant to Section 5.03. 
+ 
+ (ff) Specified Employee means, with respect to the 12-month period beginning on the Specified Employee Effective Date, an individual who, (i) during any part of the 12-month period ending on the Specified Employee Identification Date, is in salary grade 99 or compensation class 6, or (ii) is a specified employee within the meaning of Code Section 409A(a)(2)(B)(i) and the guidance thereunder. 
+ 
+ (gg) Specified Employee Effective Date means the January 1 next following the Specified Employee Identification Date. 
+ 
+ (hh) Specified Employee Identification Date means December 31. 
+ 
+ - 5 - 
+ 4824-1867-4209.7 
+
+(ii) Spouse means, as of a Participant's Benefit Commencement Date, (i) the person to whom the Participant is married in accordance with applicable law of the jurisdiction in which the Participant resides, or (ii) in the case of a Participant not described in clause (i), the Participant's Domestic Partner. 
+ 
+ (jj) Terminates Employment, Termination of Employment, or any variation thereof means a separation from service within the meaning of Code Section 409A(a)(2)(A)(i). 
+ 
+ (kk) Trust means the grantor trust established by the Company to hold assets for the provision of certain benefits under the Plan as well as other Employer benefits. 
+ 
+ (ll) Unforeseeable Emergency has the meaning given to such term by Code Section 409A and the guidance thereunder. In general, the term means a severe financial hardship to the Participant resulting from an illness or accident of the Participant, the Participant's spouse, the Participant s beneficiary or a dependent (as defined in Code Section 152(a)) of the Participant loss of the Participant's property due to casualty or other similar extraordinary and unforeseeable circumstances arising from events beyond the control of the Participant. 
+ 
+ Section 2.02. Rules of Interpretation . 
+ 
+ (a) The Plan is intended to comply with (i) Code Section 409A and (ii) the applicable provisions of ERISA, and it shall be interpreted and administered in accordance with such intent. Except as provided in the preceding sentence or as otherwise expressly provided herein, the Plan shall be construed, enforced, and administered, and the validity thereof determined, in accordance with the internal laws of the State of Indiana without regard to conflict of law principles and the following provisions of this Section. 
+ 
+ (b) Words used herein in the masculine shall be construed to include the feminine, where appropriate, and vice versa, and words used herein in the singular or plural shall be construed to include the plural or singular, where appropriate. 
+ 
+ (c) Headings and subheadings are used for convenience of reference only and shall not affect the interpretation of any provision hereof. 
+ 
+ (d) If any provision of the Plan shall be held to violate the Code or ERISA or be illegal or invalid for any other reason, that provision shall be deemed null and void, but the invalidation of that provision shall not otherwise affect the Plan. 
+ 
+ (e) Reference to any provision of the Code, ERISA, or other law shall be deemed to include a reference to the successor of such provision. 
+ 
+ - 6 - 
+ 4824-1867-4209.7 
+
+ARTICLE III 
+ PARTICIPATION 
+ 
+ The Administrator shall notify an individual of his eligibility to participate in the Plan as soon as administratively feasible after it determines that the individual has satisfied the requirements (other than notification) for eligibility to participate. An individual shall become an Eligible Employee upon receipt of the Administrator's notice. An Eligible Employee shall become a Participant only after completing online enrollment or taking such other action as the Administrator may prescribe. 
+ 
+ ARTICLE IV 
+ DEFERRAL AND DISTRIBUTION ELECTIONS 
+ 
+ Section 4.01 Deferral of Compensation. An Eligible Employee may elect pursuant to this Article IV to defer receipt of a percentage, up to 85 , as specified in the election, of his base salary, annual bonus, and or Longer-Term Performance Plan payments that would otherwise be paid to him in cash. The 85 maximum deferral shall be applied separately to each component of compensation deferred. All elections pursuant to this Article IV shall be made by the means designated by the Administrator, which may include completion of an online form or other means. Subject to the provisions of Section 4.06 and 4.07, elections under this Article IV shall become irrevocable (i) in the case of initial deferral elections pursuant to Section 4.02, when it is filed, or (ii) in the case of deferral elections other than initial deferral elections, as of the last day of the applicable election period provided, however, if the Administrator grants a Participant's request for a distribution on account of an Unforeseeable Emergency, it shall cancel the Participant's existing deferral elections. Amounts deferred pursuant to a Participant's election shall be withheld from his cash compensation and credited to his Plan Year Balance as provided in Section 5.02. The Participant's Employer shall withhold employment and other taxes with respect to the deferred amounts from the Participant's other compensation, as required by law. If the Participant's other compensation is insufficient for that purpose, the required amounts shall be withheld by the Participant s Employer from the amounts subject to the Participant s deferral election or the Participant shall reimburse the Employer for the required withholding not withheld from the Participant's other compensation. 
+ 
+ Section 4.02 Initial Deferral Election. An individual may make a deferral election pursuant to this Section within 30 days after the individual first becomes an Eligible Employee (or, if earlier, within 30 days after the date on which he first becomes eligible to participate in any other plan of an Affiliated Employer that is required to be aggregated with this Plan for purposes of Code Section 409A, or within such shorter enrollment period specified by the Administrator). Pursuant to such election, an Eligible Employee may elect to defer (i) up to 85 of his base salary for services performed after the date on which his election is filed with the Administrator and or (ii) up to 85 of his annual bonus for services performed in months after the date on which his election is filed with the Administrator. 
+ 
+ Section 4.03 Elections to Defer Base Salary. An Eligible Employee may elect to defer up to 85 of his base salary for services performed during a calendar year by filing an 
+ - 7 - 
+ 4824-1867-4209.7 
+
+election during the enrollment period established by the Administrator, which period shall end not later than December 31 of the preceding year. 
+ 
+ Section 4.04 Elections to Defer Annual Bonus or Longer-Term Performance Plan Payouts . An Eligible Employee may elect to defer up to 85 of his annual bonus and or his cash payouts under the Longer-Term Performance Plan. The deferral election must be made during the enrollment period(s) established by the Administrator, which period(s) shall end not later than 6 months before the end of the performance period. If an enrollment period does not end prior to the beginning of the performance period, then an Eligible Employee will be able to elect to defer portions of his annual bonus and or his cash payouts under the Longer-Term Performance Plan under this section in such enrollment period only if (i) the Eligible Employee has performed services continuously from the later of the beginning of the performance period or the date the performance criteria were established through the date of such election, (ii) the compensation subject to such election has not become readily ascertainable at the time of such election, and (iii) such election is otherwise permitted by Code Section 409A. 
+ 
+ Section 4.05 Election of Form and Timing of Payment. At the time a Participant makes a deferral election pursuant to Section 4.02, 4.03 or 4.04, he shall also elect a Designated Benefit Commencement Date and Designated Election for the Plan Year Balance to which amounts subject to the deferral are credited. 
+ 
+ Section 4.06 Election Changes. A Participant may, pursuant to this Section, elect to change the Designated Distribution Date and or Designated Election for a Plan Year Balance, provided, however, that a Participant may make only one election pursuant to this Section with respect to a Plan Year Balance. A Participant's election change pursuant to this Section shall be not be valid until 12 months after it is filed with the Administrator, and it shall be valid only if (i) it defers the original Designated Distribution Date for at least five years, and (ii) if it changes an election for payment at a specified time or pursuant to a specified schedule, it is made at least 12 months before the prior Designated Distribution Date. In addition, if the prior Designated Distribution Date is based on the Participant s Retirement date, the Participant's new Designated Distribution Date must be precisely five years after the prior Designated Distribution Date. 
+ 
+ ARTICLE V 
+ PLAN YEAR BALANCES 
+ 
+ Section 5.01 Establishment of Plan Year Balances. The Administrator shall establish a separate Plan Year Balance to reflect each Participant's interest under the Plan with respect to amounts deferred pursuant to all of the Participant's deferral elections made with respect to a single year. The Administrator also shall separately account for Grandfathered Amounts and Non-Grandfathered Amounts. 
+ 
+ Section 5.02 Crediting of Deferrals. A Participant's deferrals shall be credited to his appropriate Plan Year Balance as of the payroll date on which they are withheld from his pay. 
+ 
+ - 8 - 
+ 4824-1867-4209.7 
+
+Section 5.03 Crediting of RSP True Up Matching Credits. As a result of a Participant's deferrals under the Plan, he may not receive matching contributions that he would have received under the Cummins Inc. and Affiliates Retirement and Savings Plans RSP in the absence of such election. In such a case, to the extent determined by the Company, in its discretion, the Participant's Plan Year Balance with respect to such deferrals may be credited with the amount of such lost matching contributions and any earnings thereon deemed appropriate by the Company. Such credited amounts shall be subject to the same deferral elections otherwise in effect with respect to such Plan Year Balance and shall, unless otherwise determined by the Administrator, be deemed credited as of December 31 of the year to which they relate. 
+ 
+ Section 5.04 Investment Options. The Administrator shall, from time to time, specify the available Investment Funds, which the Administrator may prospectively change or close to new investments in its discretion. Each Participant shall elect one or more Investment Funds to which his existing Accounts shall be allocated, in increments of 1 . The Administrator shall determine from time to time how frequently Participants may change their investment elections, provided that Participants shall be permitted to change their investment elections no less frequently than once per calendar year. The Administrator also may permit Participants to make separate investment elections with respect to their existing Accounts and future deferrals. The sole purpose of the Investment Funds is to measure Earnings Credits to the Participant's Accounts, and there is no requirement that amounts be invested in the Investment Funds. 
+ 
+ Section 5.05 Crediting of Earnings. As of the end of each business day, the Administrator shall credit each Participant's Plan Year Balances with an Earnings Credit (which may be positive or negative) as provided in this Section. Except as the Administrator otherwise determines, the Earnings Credit rate for that portion of a Participant's Plan Year Balances allocated to a fixed income Investment Fund for any day in a calendar quarter shall be based on the rate under such fixed income investment on the last day of the preceding calendar quarter. The Earnings Credit rate for that portion of a Participant's Plan Year Balances allocated to any Investment Fund other than a fixed income Investment Fund shall be the rate of investment earnings under such Investment Fund. Notwithstanding the preceding provisions, no Earnings Credits shall be allocated with respect to a Payment after the last business day immediately preceding that Payment (or such earlier date preceding a Payment as reasonably designated by the Administrator). In determining the Earnings Credits, the Administrator may adopt such procedures as it deems appropriate, in its sole discretion. 
+ 
+ Section 5.06 Charge for Distributions. Upon a distribution with respect to a Participant, the Participant s appropriate Plan Year Balances shall be reduced by the amount of the distribution. 
+ 
+ - 9 - 
+ 4824-1867-4209.7 
+
+ARTICLE VI 
+ DISTRIBUTION OF PLAN YEAR BALANCES 
+ 
+ Section 6.01 Distribution on Designated Benefit Commencement Date. 
+ 
+ (a) Except as expressly provided in the following provisions of this Article, a Participant's Plan Year Balances subject to a deferral election shall be distributed in their respective Designated Elections, beginning as of their respective Designated Benefit Commencement Dates. Amounts payable as of a date shall be paid on such date or as soon as administratively feasible (and under no circumstances more than 30 days) thereafter. 
+ 
+ (b) Notwithstanding the preceding provisions of this Section, if a Participant's Plan Year Balance on his separation from service is less than 10,000, then 
+ 
+ (1) The Administrator may pay out the Participant s entire interest in the Plan in a single lump sum upon separation from service if (A) the Participant s separation from service occurred on or after the 2021 Restatement Effective Date and (B) all of the Participant s Plan Year Balances (and any other amounts deferred by the Participant under any other arrangements aggregated with the Plan under Treas. Reg. s. 1.409A-1(c)(2)) total less than the applicable dollar amount under Code Section 402(g)(1)(B) for the year or 
+ 
+ (2) If the Administrator does not make a payment under clause (1), the Designated Election for such Plan Year Balance (regardless of whether the Designated Benefit Commencement Date for such Plan Year Balance is based on Retirement or a specified date) shall be deemed to be a lump sum. 
+ 
+ Section 6.02 Distribution Upon Termination of Employment for Reasons other than Retirement. Notwithstanding Section 6.01, and subject to Section 6.06, if a Participant Terminates Employment for a reason other than Retirement, his remaining Plan Year Balances shall be paid to him (or his Beneficiary, if he is deceased) in a single lump sum payment as of the Quarterly Distribution Month occurring in the first calendar quarter beginning after his Termination of Employment provided, however this sentence shall not result in the deferral of any amount otherwise payable under the Plan. 
+ 
+ Section 6.03 Distribution Upon Death. Notwithstanding Section 6.01, if a Participant dies before the distribution of his entire Plan Year Balance, his remaining Plan Year Balance shall be distributed to his Beneficiary in a single lump sum payment as of the Quarterly Distribution Month occurring in the first calendar quarter beginning after his death provided, however, this sentence shall not result in the deferral of any amount otherwise payable under the Plan and provided further that, if the Administrator does not receive notice of the Participant s death and distribution under this Section 6.01 therefore does not occur at the time specified herein, no breach of the Plan shall be deemed to have occurred. 
+ - 10 - 
+ 4824-1867-4209.7 
+
+Section 6.04 Distribution on Account of Unforeseeable Emergency. Notwithstanding Section 6.01, if a Participant demonstrates to the satisfaction of the Administrator that he has incurred an Unforeseeable Emergency, the amount reasonably necessary to satisfy the emergency need (including any amounts necessary to pay any income taxes or penalties reasonably anticipated to result from the distribution), as determined by the Administrator, shall be distributed to him as soon as administratively feasible after the Administrator s decision provided that, in determining whether an Unforseeable Emergency has been incurred and the amount reasonably necessary to satisfy the emergency need, the Administrator shall take into consideration, among other things, all amounts available to the Participant under the RSP (including by obtaining a loan under the RSP). If the Administrator grants a request for withdrawal pursuant to this Section, it shall prospectively cancel the Participant's existing deferral elections, and it shall take into account the additional compensation that is available as a result of the cancellation of those elections in determining the amount reasonably necessary to satisfy the Participant's emergency need. 
+ 
+ Section 6.05 Distribution on Account of Change of Control. Notwithstanding Section 6.01, if a Change of Control occurs with respect to a Participant, the Participant s remaining Plan Year Balances shall be distributed to him in a single lump sum payment on the date of such Change of Control or as soon as administratively feasible (and not more than 30 days) thereafter provided, however, this sentence shall not result in the deferral of any amount otherwise payable under the Plan. 
+ 
+ Section 6.06 Delay in Payment for Specified Employees. Notwithstanding any provision of this Plan to the contrary, to the extent required by Code Section 409A(a)(2)(B)(i), distributions to a Participant who is a Specified Employee on account of his Termination of Employment for any reason other than death shall be delayed until the earliest date permitted by such section. Payments delayed pursuant to the preceding sentence shall be increased by deemed earnings, as determined pursuant to Section 5.05, to the date on which such payments are made. 
+ 
+ Section 6.07 Designating a Beneficiary . 
+ 
+ (a) The Participant may designate a Beneficiary only by completing the online designation or other process required by the Administrator for a Beneficiary designation during his life. The Participant's proper completion of the process to designate a Beneficiary in accordance with the Administrator s requirements shall cancel all prior Beneficiary designations. If the Participant does not designate a Beneficiary, or if all properly designated Beneficiaries die before the Participant, then the Participant s Beneficiary shall be his Spouse, if living at the time of the Participant s death, or if his Spouse is not then living, the individual(s), if any, named as the Participant s beneficiary under his Employer-provided group life insurance program, who are living at the time of the Participant s death or, if no such beneficiaries are then living, the Participant s estate. 
+ 
+ (b) Except to the extent the Participant s Beneficiary is the individual named as the Participant s beneficiary under his Employer-provided group life insurance program pursuant to 
+ - 11 - 
+ 4824-1867-4209.7 
+
+the preceding paragraph and such program otherwise provides, the following rules shall determine the apportionment of payments due under the Plan among Beneficiaries in the event of the Participant s death 
+ 
+ (1) If any Beneficiary designated by the Participant as a Direct Beneficiary dies before the Participant, his interest and the interest of his heirs in any payments under the Plan shall terminate and the percentage share of the remaining Beneficiaries designated as Direct Beneficiaries shall be increased on a pro rata basis. If no such Beneficiary survives the Participant, then the Participant s entire interest in the Plan shall pass to any Beneficiary designated as a Contingent Beneficiary. 
+ 
+ (2) If any Beneficiary designated by the Participant as a Contingent Beneficiary dies before the Participant, his interest and the interest of his heirs in any payments under the Plan shall terminate and the percentage share of the remaining Beneficiaries designated as Contingent Beneficiaries shall be increased on a pro rata basis. 
+ 
+ (3) If any Beneficiary dies after the Participant, but before payment is made to such Beneficiary, then the payment shall be made to the Beneficiary s estate. 
+ 
+ ARTICLE VII 
+ ADMINISTRATION OF PLAN 
+ 
+ Section 7.01 Powers and Responsibilities of the Administrator . 
+ 
+ (a) The Administrator shall have full responsibility and discretionary authority to control and manage the operation and administration of the Plan. The Administrator is authorized to accept service of legal process on behalf of the Plan. To the fullest extent permitted by applicable law, any action taken by the Administrator pursuant to a reasonable interpretation of the Plan shall be binding and conclusive on all persons claiming benefits under the Plan, except to the extent that a court of competent jurisdiction determines that such action was arbitrary or capricious. 
+ 
+ (b) The Administrator's discretionary powers include, but are not limited to, the following 
+ 
+ (1) to interpret Plan documents, decide all questions of eligibility, determine whether a Participant has Terminated Employment, determine the amount, manner, and timing of distributions under the Plan, and resolve any claims for benefits 
+ 
+ (2) to prescribe procedures to be followed by a Participant, Beneficiary, or other person applying for benefits 
+ - 12 - 
+ 4824-1867-4209.7 
+
+(3) to appoint or employ persons to assist in the administration of the Plan and any other agents as it deems advisable 
+ 
+ (4) to adopt such rules as it deems necessary or appropriate and 
+ 
+ (5) to maintain and keep adequate records concerning the Plan, including sufficient records to determine each Participant's eligibility to participate and his interest in the Plan, and its proceedings and acts in such form and detail as it may decide. 
+ 
+ Section 7.02 Indemnification . The Company shall indemnify and hold harmless the Administrator, any person serving on a committee that serves as Administrator, and any officer, employee, or director of an Employer to whom any duty or power relating to the administration of the Plan has been properly delegated from and against any cost, expense, or liability arising out of any act or omission in connection with the Plan, unless arising out of such person's own fraud or bad faith. 
+ 
+ Section 7.03 Claims and Claims Review Procedure . 
+ 
+ (a) In general, distributions under the Plan will be made automatically as provided in Article VI and no Benefit Claim will be necessary for a Participant to receive distributions under the Plan. If a Participant or his designated Beneficiary believes he is entitled to a benefit under the Plan that is not provided, however, he may file a written Benefit Claim for payments under the Plan with the Administrator provided such claim is filed within 90 days of the date payments under the Plan are made or begin to be made, or the date the Participant or his designated Beneficiary believes payments should have been made, as applicable. All Benefit Claims must be made in accordance with procedures established by the Administrator from time to time. A Benefit Claim and any appeal thereof may be filed by the claimant or his authorized representative. 
+ 
+ (b) The Administrator shall provide the claimant with written or electronic notice of its approval or Denial of a properly filed Benefit Claim within 90 days after receiving the claim, unless special circumstances require an extension of the decision period. If special circumstances require an extension of the time for processing the claim, the initial 90-day period may be extended for up to an additional 90 days. If an extension is required, the Administrator shall provide written notice of the required extension before the end of the initial 90-day period, which notice shall (i) specify the circumstances requiring an extension and (ii) the date by which the Administrator expects to make a decision. 
+ 
+ (c) If a Benefit Claim is Denied, the Administrator shall provide the claimant with written or electronic notice containing (i) the specific reasons for the Denial, (ii) references to the applicable Plan provisions on which the Denial is based, (iii) a description of any additional material or information needed and why such material or information is necessary, and (iv) a description of the applicable review process and time limits. 
+ - 13 - 
+ 4824-1867-4209.7 
+
+(d) A claimant may appeal the Denial of a Benefit Claim by filing a written appeal with the Administrator within 60 days after receiving notice of the Denial. The claimant's appeal shall be deemed filed on receipt by the Administrator. If a claimant does not file a timely appeal, the Administrator's decision shall be deemed final, conclusive, and binding on all persons. 
+ 
+ (e) The Administrator shall provide the claimant with written or electronic notice of its decision on appeal within 60 days after receipt of the claimant's appeal request, unless special circumstances require an extension of this time period. If special circumstances require an extension of the time to process the appeal, the processing period may be extended for up to an additional 60 days. If an extension is required, the Administrator shall provide written notice of the required extension to the claimant before the end of the original 60-day period, which shall specify the circumstances requiring an extension and the date by which the Administrator expects to make a decision. If the Benefit Claim is Denied on appeal, the Administrator shall provide the claimant with written or electronic notice containing a statement that the claimant is entitled to receive, upon request and free of charge, reasonable access to and copies of all documents, records, and other information relevant to the Benefit Claim, as well as the specific reasons for the Denial on appeal and references to the applicable Plan provisions on which the Denial is based. The Administrator's decision on appeal shall be final, conclusive, and binding on all persons, subject to the claimant's right to file a civil action pursuant to ERISA Section 502(a). 
+ 
+ (f) Notwithstanding the foregoing claims and appeals procedures, to avoid an additional tax on payments that may be payable under the Plan, a claimant must make a reasonable, good faith effort to collect any payment or benefit to which the claimant believes he is entitled hereunder no later than 90 days after the latest date upon which the payment could have been timely made pursuant to Code Section 409A, and if not paid or provided, must take further enforcement measures within 180 days after such latest date. 
+ 
+ ARTICLE VIII 
+ AMENDMENT AND TERMINATION 
+ 
+ The Plan shall continue in force with respect to any Participant until the completion of any payments due hereunder. The Company may, however, at any time, amend the Plan to provide that no additional benefits shall accrue with respect to any Participant under the Plan following expiration of the Participant s irrevocable election provided, however, that no such amendment shall (i) deprive any Participant or Beneficiary of any benefit that accrued under the Plan before the adoption of such amendment (ii) result in an acceleration of benefit payments in violation of Code Section 409A and the guidance thereunder, or (iii) result in any other violation of Code Section 409A or the guidance thereunder. The Company may also, at any time, amend the Plan retroactively or otherwise, if and to the extent that it deems such action appropriate in light of government regulations or other legal requirements. 
+ 
+ - 14 - 
+ 4824-1867-4209.7 
+
+ARTICLE IX 
+ MISCELLANEOUS 
+ 
+ Section 9.01 Obligations of Employer . The Employer's only obligation hereunder shall be a contractual obligation to make payments to Participants or Beneficiaries entitled to benefits provided for herein when due, and only to the extent that such payments are not made from the Trust. Nothing herein shall give a Participant, Beneficiary, or other person any right to a specific asset of an Employer or the Trust, other than as a general creditor of the Employer. 
+ 
+ Section 9.02 Employment Rights . Nothing contained herein shall confer any right on a Participant to be continued in the employ of any Employer or affect the Participant's right to participate in and receive benefits under and in accordance with any pension, profit-sharing, incentive compensation, or other benefit plan or program of an Employer. 
+ 
+ Section 9.03 Non-Alienation. Except as otherwise required by a Domestic Relations Order, no right or interest of a Participant, Spouse, or other Beneficiary under this Plan shall be subject to voluntary or involuntary alienation, assignment, or transfer of any kind. Payments shall be made to an Alternate Payee to the extent provided in a Domestic Relations Order. To the extent permitted by Code Section 409A, payments pursuant to a Domestic Relations Order may be made in a lump sum and before the Participant's earliest retirement age (as defined by ERISA Section 206(d)(3)(E)(ii)). 
+ 
+ Section 9.04 Tax Withholding . The Employer or Trustee may withhold from any distribution hereunder amounts that the Employer or Trustee deems necessary to satisfy federal, state, or local tax withholding requirements (or make other arrangements satisfactory to the Employer or Trustee with regard to such taxes). 
+ 
+ Section 9.05 Other Plans . Amounts and benefits paid under the Plan shall not be considered compensation to the Participant for purposes of computing any benefits to which he may be entitled under any other pension or retirement plan maintained by an Employer. 
+ 
+ Section 9.06 Liability of Affiliated Employers. If any payment to be made under the Plan is to be made on account of a Participant who is or was employed by an Affiliated Employer, the cost of such payment shall be borne in such proportion as the Company and the Affiliated Employer agree. 
+ 
+ This Restatement of Cummins Inc. Deferred Compensation Plan has been approved by the Company's duly authorized officer, acting on behalf of the Company, on this 15 th day of February, 2021. 
+ CUMMINS INC. 
+ 
+ By s Jill E. Cook__________ 
+ Name Jill E. Cook 
+ Title Vice President Chief Human Resources 
+ Officer 
+ - 15 - 
+ 4824-1867-4209.7 
+
+</EX-10.A>
+
+<EX-10.B>
+ 3
+ cmi2021q110-qex10b.htm
+ EX-10.B
+
+Document 
+
+EXHIBIT 10(b) 
+
+CUMMINS INC. DEFERRED COMPENSATION PLAN 
+ FOR NON-EMPLOYEE DIRECTORS 
+
+As Amended and Restated as of February 15, 2021 
+ 4844-4073-4733.9 
+
+TABLE OF CONTENTS 
+ 
+ Page 
+ Article I RESTATEMENT AND PURPOSE 
+ 1 Section 1.01. Restatement and Application 1 Section 1.02. Application of Restatement 1 Section 1.03. Purpose 1 Section 1.04. Funding 1 Article II DEFINITIONS AND INTERPRETATION 
+ 1 Section 2.01. Definitions 1 Section 2.02. Rules of Interpretation. 5 Article III PARTICIPATION 
+ 6 Section 3.01. Commencement of Participation 6 Section 3.02. Cessation of Participation 6 Article IV ELECTIONS TO DEFER 
+ 6 Section 4.01. General Provisions. 6 Section 4.02. Elections 7 Article V PLAN YEAR BALANCES 
+ 7 Section 5.01. Establishment of Deferred Cash Accounts 7 Section 5.02. Establishment of Deferred Stock Account 8 Section 5.03. Separate Accounts for Grandfathered Amounts 9 Article VI ADJUSTMENTS TO DEFERRED CASH ACCOUNTS 
+ 9 Article VII PAYMENT OF DEFERRED AMOUNTS 
+ 9 Section 7.01. Timing of Payments 9 Section 7.02. Form of Payment 9 Section 7.03. Amount of Installment Payments. 10 Section 7.04. Small Amounts 10 Section 7.05. Death Benefits 10 Section 7.06. Payments Upon a Change of Control 10 Section 7.07. Payments on Account of Unforeseeable Emergency 11 Section 7.08. Designating a Beneficiary 11 Article VIII ADMINISTRATION OF PLAN 
+ 12 Section 8.01. Powers and Responsibilities of the Administrator. 12 Section 8.02. Indemnification 12 Section 8.03. Claims and Claims Review Procedure. 13 
+ i 
+ 4844-4073-4733.9 
+
+Article IX GROSS-UP PAYMENTS 
+ 14 Article X AMENDMENT AND TERMINATION 
+ 15 Article XI MISCELLANEOUS 
+ 15 Section 11.01. Obligations of the Company 15 Section 11.02. Employment Rights 15 Section 11.03. Non-Alienation 15 Section 11.04. Tax Withholding 15 Section 11.05. Other Plans 16 Section 11.06. Liability of Affiliated Employers 16 
+
+ii 
+ 4844-4073-4733.9 
+
+CUMMINS INC. DEFERRED COMPENSATION PLAN FOR 
+ NON-EMPLOYEE DIRECTORS 
+ 
+ ARTICLE I 
+ RESTATEMENT AND PURPOSE 
+ 
+ Section 1.01. Restatement and Application. Cummins Inc. established the Deferred Compensation Plan for Non-Employee Directors of Cummins Inc. Plan ), effective April 5, 1994, and it has amended the Plan since that time. The Plan was last amended and restated effective October 14, 2013. The Plan is again amended and restated effective February 15, 2021, to incorporate certain changes to the terms of the Plan. 
+ 
+ Section 1.02. Application of Restatement . This document shall apply to all amounts deferred or vested under the Plan after 2004 and any earnings credited with respect to such amounts. It does not apply to any amount deferred and vested on or before December 31, 2004, or any earnings credited under the Plan with respect to such amounts (together, Grandfathered Amounts ), and Grandfathered Amounts shall continue to be governed by the terms and conditions of the Plan as in effect on December 31, 2007 provided, however, the person or persons entitled to receive any remaining portion of a Participant s accounts under the Plan after his death shall be determined pursuant to this document, provided that the Participant s death occurs after 2004. 
+ 
+ Section 1.03. Purpose . The sole purpose of this Plan is to provide non-employee directors of the Company with an opportunity to defer Compensation from the Company in accordance with the terms and conditions set forth herein. 
+ 
+ Section 1.04. Funding . The Company has established the Trust to hold assets for the provision of certain benefits under the Plan as well as other employer benefits. Assets of the Trust are subject to the claims of the Company s and any Affiliated Employer s general creditors, and no Participant shall have any interest in any assets of the Trust or the Company other than as a general creditor of the Company. 
+ 
+ ARTICLE II 
+ DEFINITIONS AND INTERPRETATION 
+ 
+ Section 2.01. Definitions . When the first letter of a word or phrase is capitalized herein and the word or phrase is not otherwise defined, the word or phrase shall have the meaning specified below 
+ 
+ (a) Administrator means the Company s Benefits Policy Committee or such other person that the Board designates as Administrator. To the extent that the Administrator delegates a duty or responsibility to an agent, the term Administrator shall include such agent. 
+
+1 
+ 4844-4073-4733.9 
+
+(b) Affiliated Employer means (i) a member of a controlled group of corporations (as defined in Code Section 414(b)) of which the Company is a member or (ii) an unincorporated trade or business under common control (as defined in Code Section 414(d)) with the Company. 
+ 
+ (c) Affirmation of Domestic Partnership means a form or other means designated for use in affirming the relationship between a Participant and his Domestic Partner. 
+ 
+ (d) Beneficiary means the person or entity entitled to receive a Participant s death benefits under Section 7.05, if any, remaining after the Participant s death. A Participant s Beneficiary shall be determined as provided in Section 7.08. 
+ 
+ (e) Benefit Claim means a request or claim for a benefit under the Plan, including a claim for greater benefits than have been paid. 
+ 
+ (f) Board or Board of Directors means the Company s Board of Directors or, where the context so permits, its designee. 
+ 
+ (g) Cash Deferrals means the cash portion of eligible Compensation deferred by a Director pursuant to the Plan. 
+ 
+ (h) Change of Control means the occurrence of any of the following 
+ 
+ (1) there shall be consummated (A) any consolidation or merger of the Company in which the Company is not the continuing or surviving corporation or pursuant to which shares of the Company s common stock would be converted in whole or in part into cash or other securities or property, other than a merger of the Company in which the holders of the Company s common stock immediately before the merger have substantially the same proportionate ownership of common stock of the surviving corporation immediately after the merger, or (B) any sale, lease, exchange or transfer (in one transaction or a series of related transactions) of all or substantially all of the assets of the Company, or 
+ 
+ (2) the liquidation or dissolution of the Company, or 
+ 
+ (3) any person (as such term is used in Sections 13(d)(3) and 14(d)(2) of the Securities Exchange Act of 1934, as amended the Exchange Act )), other than the Company or a subsidiary thereof or any employee benefit plan sponsored by the Company or a subsidiary thereof or a corporation owned, directly or indirectly, by the shareholders of the Company in substantially the same proportions as their ownership of stock of the Company, shall become the beneficial owners (within the meaning of Rule 13d-3 under the Exchange Act) of securities of the Company representing 25 or more of the combined voting power of the Company s then outstanding securities ordinarily (and apart from rights accruing in special 
+ 2 
+ 4844-4073-4733.9 
+
+circumstances) having the right to vote in the election of directors, as a result of a tender or exchange offer, open market purchases, privately negotiated purchases, or otherwise, or 
+ 
+ (4) at any time during a period of two consecutive years, individuals who at the beginning of such period constituted the Board of Directors shall cease for any reason to constitute at least a majority thereof, unless the election or the nomination for election by the Company s stockholders of each new director during such two-year period was approved by a vote of at least two-thirds (2 3) of the directors then still in office who were directors at the beginning of such two-year period, or 
+ 
+ (5) any other event shall occur that would be required to be reported in response to Item 6(e) (or any successor provision) of Schedule 14A or Regulation 14A promulgated under the Exchange Act. 
+ 
+ Notwithstanding the preceding provisions, an event or series of events shall not constitute a Change of Control unless the event or series of events qualifies as a change in the ownership or effective control of the corporation or in the ownership of a substantial portion of the assets of the corporation within the meaning of Code Section 409A(a)(2)(A)(v). 
+ 
+ (i) Code means the Internal Revenue Code of 1986, as amended from time to time. 
+ 
+ (j) Company means Cummins Inc. 
+ 
+ (k) Compensation means all fees, whether paid in cash or shares of the Company s common stock, earned as a Director, and fees to be received for serving as a chairperson or member or for attending a meeting of a Board committee provided, however, Compensation does not include any consulting fees earned by the Director. 
+ 
+ (l) Deferred Cash Account means the bookkeeping account established by the Company for a Participant under Section 5.01. 
+ 
+ (m) Deferred Stock Account means the bookkeeping account established by the Company for a Participant under Section 5.02. 
+ 
+ (n) Denial or Denied means a denial, reduction, termination, or failure to provide or make payment (in whole or in part) of a Plan benefit. 
+ 
+ (o) Designated Distribution Date means the date on which distribution of a Plan Year Balance is to commence as elected pursuant to Section 4.02(c) or Section 4.01(d), as applicable. Except as otherwise provided in Section 4.02 or permitted by the Administrator, a Participant s Designated Distribution Date must be a specified Quarterly Distribution Month occurring at least two years after the end of the calendar year for which the deferral is made. 
+ 
+ 3 
+ 4844-4073-4733.9 
+
+(p) Designated Election means, with respect to a Plan Year Balance, the payment schedule as elected pursuant to Section 4.02(b) or Section 4.01(d), as applicable. 
+ 
+ (q) Director means a member of the Company s Board of Directors who is not an officer or employee of the Company. 
+ 
+ (r) Domestic Partner means a person of the same or opposite sex (i) with whom the Participant has a single, dedicated relationship and has shared the same permanent residence for at least six months, (ii) who is not married to another person or part of another domestic partner relationship and is at least age 18, (iii) who, with the Participant, is mutually responsible for the other s welfare, (iv) who, with the Participant, intends for their relationship to be permanent, (v) who is not so closely related to the Participant as to preclude marriage under state law, and (vi) for whom there is an Affirmation of Domestic Partnership on file with the Administrator. In determining whether the requirements of clauses (i) through (v) of the preceding sentence have been satisfied, the Administrator may rely on the Affirmation of Domestic Partnership filed with the Administrator. 
+ 
+ (s) Domestic Relations Order has the meaning specified in Code Section 414(p)(1)(B). 
+ 
+ (t) Grandfathered Amount has the meaning specified in Section 1.02. 
+ 
+ (u) Non-Grandfathered Amount means a benefit under the Plan that is not a Grandfathered Amount. 
+ 
+ (v) Participant means a Director who agrees to make deferrals under the Plan and to be bound by the provisions of the Plan by means designated by the Administrator and who is, or whose Beneficiaries are, entitled to benefits under the Plan. Once an individual has become a Participant pursuant to the preceding sentence, he shall remain a Participant until his entire benefit under the Plan has been distributed. 
+ 
+ (w) Payment Year means a Director s annual term of service, which is the period beginning on the day after an annual shareholders meeting of the Company and ending on the date of the subsequent year s annual shareholders meeting. 
+ 
+ (x) Plan means the Cummins Inc. Deferred Compensation Plan for Non-Employee Directors, as set out in this document and as it may be amended from time to time. 
+ 
+ (y) Plan Year Balance means, with respect to a Participant, the bookkeeping account established to reflect the portion of his Deferred Cash Account or Deferred Stock Account attributable to a specific Payment Year. Where the context permits, Plan Year Balance also means the amount credited to such bookkeeping account. 
+ 
+ (z) Quarterly Distribution Month means March, June, September, or December. 
+ 
+ 4 
+ 4844-4073-4733.9 
+
+(aa) Spouse means, as of the date of a Participant s death, (i) the person to whom the Participant is married in accordance with applicable law of the jurisdiction in which the Participant resides, or (ii) in the case of a Participant not described in clause (i), the Participant s Domestic Partner. 
+ 
+ (bb) Stock Deferrals means the stock portion of eligible Compensation deferred by a Director pursuant to the Plan. 
+ 
+ (cc) Terminates Service, Termination of Service, or any variation thereof refers to a separation from service within the meaning of Code Section 409A(a)(2)(A)(i) for a reason other than the Director s death. 
+ 
+ (dd) Trust means the grantor trust established by the Company to hold assets for the provision of certain benefits under the Plan as well as other employer benefits. 
+ 
+ (ee) Trustee means the Trustee of the Trust. 
+ 
+ (ff) Unforeseeable Emergency has the meaning given to such term by Code Section 409A and the guidance thereunder. In general, the term means a severe financial hardship to the Participant resulting from an illness or accident of the Participant, the Participant s spouse, the Participant s beneficiary or a dependent (as defined in Code Section 152(a)) of the Participant loss of the Participant s property due to casualty or other similar extraordinary and unforeseeable circumstances arising from events beyond the control of the Participant. 
+ 
+ Section 2.02. Rules of Interpretation. 
+ 
+ (a) The Plan is intended to comply with Code Section 409A, and it shall be interpreted and administered in accordance with such intent. Except as provided in the preceding sentence or as otherwise expressly provided herein, the Plan shall be construed, enforced, and administered, and the validity thereof determined, in accordance with the internal laws of the State of Indiana without regard to conflict of law principles, and the following provisions of this Section. 
+ 
+ (b) Words used herein in the masculine shall be construed to include the feminine, where appropriate, and vice versa , and words used herein in the singular or plural shall be construed to include the plural or singular, where appropriate. 
+ 
+ (c) Headings and subheadings are used for convenience of reference only and shall not affect the interpretation of any provision hereof. 
+ 
+ (d) If any provision of the Plan shall be held to violate the Code or be illegal or invalid for any other reason, that provision shall be deemed null and void, but the invalidation of that provision shall not otherwise affect the Plan. 
+ 
+ 5 
+ 4844-4073-4733.9 
+
+(e) Reference to any provision of the Code or other law shall be deemed to include a reference to the successor of such provision. 
+ 
+ ARTICLE III 
+ PARTICIPATION 
+ 
+ Section 3.01. Commencement of Participation . The Board or its designee shall provide each Director with a copy or summary of the Plan and the forms needed to make Cash Deferrals or Stock Deferrals under the Plan. Any such Director shall become a Participant only after completing online enrollment or taking such other action as the Board may prescribe. 
+ 
+ Section 3.02. Cessation of Participation . A Participant shall continue to be eligible to make deferrals under the Plan until the Participant ceases to be an eligible Director. Termination of participation shall be effective as of the date on which the Director both Terminates Service and his entire interest in the Plan has been distributed. 
+ 
+ ARTICLE IV 
+ ELECTIONS TO DEFER 
+ 
+ Section 4.01. General Provisions. 
+ 
+ (a) A Director newly elected to the Board may elect to defer his or her Compensation attributable to services performed for the balance of the Payment Year in which he or she was elected. The election to defer Compensation may be made until 6 00 P.M. of the day of the Board meeting at which the Director is so elected (the time zone of the location of said Board meeting shall control) or, if the Director is elected by a written consent action in lieu of a meeting, the day on which the written consent action is effective (the time zone of the Company s headquarters shall control). All elections pursuant to this Article IV shall be made by the means designated by the Administrator, which may include completion of an online form or other means. 
+ 
+ (b) Before December 31 of any year, an incumbent Director may elect to defer all or a portion of his Compensation for services as a Director during any Payment Year(s) beginning in a later calendar year, in which case the elected deferrals shall be deferred and credited to a Plan Year Balance for the applicable Payment Year established pursuant to the terms of the Plan. 
+ 
+ (c) A Participant may change an existing deferral election with respect to future Compensation only by making a new election pursuant to Subsection (b), in which case the change shall be effective with respect to the Participant s Compensation for services as a Director during the Payment Year beginning after the calendar year in which the election was filed (and later Payment Years, as elected by the Participant). 
+ 
+ (d) A Participant may change the Designated Distribution Date and or Designated Election for a Plan Year Balance only by the means designated by the Administrator, which may include completion of an online form or other means provided that such change also meets the 
+ 6 
+ 4844-4073-4733.9 
+
+following requirements the Participant election change shall (i) not be effective until 12 months after it is made, (ii) be valid only if it defers the payment of the relevant Plan Year Balance for a period of not less than five years from the date it otherwise would have been made, and (iii) if the election relates to a payment at a specified time or pursuant to a specified schedule, be valid only if it is made at least 12 months before the date the payment is scheduled to be paid. 
+ 
+ (e) A Participant may change the investment option(s) stipulated for crediting earnings on his or her Plan Year Balances pursuant to Section 5.02(c) and Article VI of the Plan and such procedures as are prescribed by the Administrator. 
+ 
+ (f) A Participant may change his or her designation of Beneficiary(ies) at any time pursuant to Section 7.08. 
+ 
+ Section 4.02. Elections . A Director may make an election to defer amounts under the Plan by online enrollment or taking such other action as the Administrator may prescribe within the applicable time as specified in Section 4.01 above. A completed election shall stipulate 
+ 
+ (a) The percentage of the cash portion of eligible Compensation and the common stock portion of eligible Compensation to be deferred. 
+ 
+ (b) The method of distribution of the Plan Year Balance. The Participant may elect to receive payment of his Plan Year Balance in either (i) one lump sum payment or (ii) a specified number of annual installments, not to exceed 15. 
+ 
+ (c) The date on which distribution is to commence, subject to the provisions of Article VII. 
+ 
+ (d) The optional rate(s) for crediting earnings on Cash Deferrals. 
+ 
+ ARTICLE V 
+ PLAN YEAR BALANCES 
+ 
+ Section 5.01. Establishment of Deferred Cash Accounts . At the time of a Participant s initial election to make Cash Deferrals pursuant to Article IV, the Company shall establish a bookkeeping account (known as the Deferred Cash Account) for such Participant to record his interest under the Plan attributable to Cash Deferrals. Cash Deferrals made by a Participant for a Payment Year shall be credited to the Plan Year Balance for such Payment Year in the Deferred Cash Account as of the last day of the Payment Year, and the Deferred Cash Account shall be adjusted as provided in Article VI. 
+ 
+ 7 
+ 4844-4073-4733.9 
+
+Section 5.02. Establishment of Deferred Stock Account . 
+ 
+ (a) At the time of a Participant s initial election to make Stock Deferrals pursuant to Article IV, the Company shall establish a bookkeeping account (known as the Deferred Stock Account) for such Participant to record his interest under the Plan attributable to Stock Deferrals. Stock Deferrals made by a Participant for a Payment Year (rounded up to the next whole share) shall be credited to the Plan Year Balance for such Payment Year in the Deferred Stock Account as of the last day of the Payment Year. Any part of the stock portion of a Director s Compensation not covered by a Stock Deferral election shall be paid to the Director in accordance with the terms of the Cummins Inc. 2012 Omnibus Incentive Plan (or any successor plan thereto) and the applicable award thereunder. 
+ 
+ (b) The Deferred Stock Account shall also be credited with an amount equivalent to the dividends that would have been paid on an equal number of outstanding shares of the Company s common stock then credited to the Participant s Deferred Stock Account. Such amount shall be credited as of the payment date of such dividend and converted into an additional number of whole and partial deferred shares as of such date (based on the average of the closing prices of such stock for the 20 consecutive trading days immediately preceding such date). Such additional deferred shares shall thereafter be treated in the same manner as any other shares credited to the Participant s Deferred Stock Account. 
+ 
+ (c) Upon either (i) a Participant reaching age 70, or (ii) commencement of distribution of the Participant s Plan Year Balances that are part of the Deferred Stock Account, the Participant may elect to allocate all or any portion of the value of such Plan Year Balances into the other available investment options under the Plan. The Participant may chose more than one investment option in such minimum increments as are prescribed by the Administrator. 
+ 
+ Such election must be made in accordance with procedures established by the Administrator no later than the beginning of the year one year prior to the year in which either (i) age 70 is attained, or (ii) the first annual installment from the Plan Year Balance that is to be affected by the election is made. 
+ 
+ The value of the stock units affected by this election shall be determined by multiplying the number of stock units so affected by the 90-day average closing price of the common stock of the Company on the New York Stock Exchange covering the 90 trading days immediately preceding the date the investment diversification election is submitted by the Participant to the Administrator. After the initial diversification is made, a Participant may change the investment election at such times as may be prescribed by the Administrator. 
+ 
+ (d) The number and kinds of shares standing to the credit of a Participant s Deferred Stock Account shall be appropriately adjusted from time to time, as determined by the Administrator in its discretion, in the event of changes in the Company s outstanding common stock by reason of stock dividends, stock splits, spinoffs, or other distributions of assets (other than normal cash dividends), recapitalizations, reorganizations, mergers, consolidations, combinations, exchanges, or other relevant changes in the Company s corporate structure or 
+ 8 
+ 4844-4073-4733.9 
+
+capitalization. Notwithstanding the foregoing, if the Company shall subdivide the shares of common stock or the Company shall declare a dividend payable in shares of common stock, and if no action is taken by the Administrator, then the adjustments contemplated by this subsection (d) that are proportionate shall nevertheless automatically be made as of the date of such subdivision of the shares or dividend in shares. 
+ 
+ Section 5.03. Separate Accounts for Grandfathered Amounts . The Company shall separately account for Grandfathered Amounts and Non-Grandfathered Amounts. 
+ 
+ ARTICLE VI 
+ ADJUSTMENTS TO DEFERRED CASH ACCOUNTS 
+ 
+ As of the end of each business day, the Company shall credit the Participant s Deferred Cash Account with an earnings factor. The earnings factor will equal the amount the Participant s Deferred Cash Account would have earned if it had been invested in the investment options determined from time to time by the Company. The Participant is permitted to select the investment option(s) used to determine the earnings factor and may change the selection at such times as may be prescribed by the Administrator. The Participant may choose more than one investment option in such minimum increments as are prescribed by the Administrator. The Company reserves the right to change or amend any of the investment options at any time. The Company is under no obligation to acquire or provide any of the investments designated by a Participant, and any investments actually made by the Company will be made solely in the name of the Company and will remain the property of the Company. The crediting of an earnings factor shall occur so long as there is a balance in the Participant s Deferred Cash Account, regardless of whether the Participant has Terminated Service. 
+ 
+ ARTICLE VII 
+ PAYMENT OF DEFERRED AMOUNTS 
+ 
+ Section 7.01. Timing of Payments . Each Plan Year Balance within a Participant s Deferred Cash Account and Deferred Stock Account shall be paid (or commence distribution, if paid in installments) to the Participant (or the Participant s Beneficiary, if the Participant is deceased) on the earliest to occur of the following 
+ 
+ (a) the Participant s death as described in Section 7.05 
+ 
+ (b) the first business day of the calendar quarter following the Participant s Termination of Service 
+ 
+ (c) a Change of Control as described in Section 7.06 or 
+ 
+ (d) the Designated Distribution Date for the Plan Year Balance. 
+ 
+ Section 7.02. Form of Payment . All distributions from a Participant s Deferred Cash Account shall be paid in cash. All distributions from a Participant s Deferred Stock 
+ 9 
+ 4844-4073-4733.9 
+
+Account shall be paid in shares of Company common stock (other than any fractional share which shall be paid in cash) and such shares shall be issued under, and subject to, the Cummins Inc. 2012 Omnibus Incentive Plan (or a successor plan thereto) provided that, to the extent the allocation election described in Section 5.02(c) has been made, the amount so allocated shall be paid in cash. 
+ 
+ Section 7.03. Amount of Installment Payments. 
+ 
+ (a) The amount of each annual cash installment from a Plan Year Balance within a Participant s Deferred Cash Account or a Participant s Deferred Stock Account (to the extent the allocation election described in Section 5.02(c) has been made) shall be determined by dividing the credit balance in such Plan Year Balance as of the distribution date by the number of installments then remaining unpaid (including the installment for which the calculation is being made). The credit balance in the Plan Year Balance within the Participant s Deferred Cash Account or Deferred Stock Account shall be reduced by the amount of each distribution out of such Account. 
+ 
+ (b) The number of shares distributed in each annual installment from a Plan Year Balance within a Participant s Deferred Stock Account (to the extent allocated to stock units) shall be determined by dividing the number of stock units in such Plan Year Balance as of the distribution date by the number of installments then remaining unpaid (including the installment for which the calculation is being made), with the number to be distributed rounded up to the next whole share. The number of stock units in the Plan Year Balance within the Participant s Deferred Stock Account shall be reduced by the number of shares included in each installment. The value of any partial share remaining on the date of the final installment from such Plan Year Balance shall be paid in cash. 
+ 
+ Section 7.04. Small Amounts . Notwithstanding anything to the contrary herein, if, at the time of the Participant s separation from service, the Participant s entire interest in the Plan, together with any amounts deferred by the Participant under any other arrangements aggregated with the Plan under Treas. Reg. s. 1.409A-1(c)(2), are of less value (determined on the basis of the closing price of the Company s common stock, in the case of any Deferred Stock Account) in total than the applicable dollar amount under Code Section 402(g)(1)(B) for the year, then the Administrator may pay out the Participant s entire interest in the Plan and such other arrangements in a single lump sum at such time. 
+ 
+ Section 7.05. Death Benefits . Notwithstanding anything to the contrary herein, in the event of the Participant s death, payment of the entire balance in the Participant s Deferred Cash Account and Deferred Stock Account shall be made to the Participant s designated Beneficiary(ies) in a single lump sum payment within 90 days following the Participant s death. 
+ 
+ Section 7.06. Payments Upon a Change of Control . Notwithstanding anything to the contrary herein, upon a Change of Control, the balance in each Participant s Deferred Cash Account and Deferred Stock Account shall be paid to the Participant (or, if the Participant is 
+ 10 
+ 4844-4073-4733.9 
+
+deceased, Beneficiary) in a single lump sum payment. Such payment shall be made on the date of the Change of Control. 
+ 
+ Section 7.07. Payments on Account of Unforeseeable Emergency . Notwithstanding anything to the contrary in Section 7.01, if a Participant demonstrates to the satisfaction of the Chairman of the Board and the Chair of the Compensation Committee of the Board (together, the Chairs that he or she has incurred an Unforeseeable Emergency, the amount reasonably necessary to satisfy the emergency need (including any amounts necessary to pay any income taxes or penalties reasonably anticipated to result from the distribution), as determined by the Chairs, shall be distributed to the Participant as soon as administratively feasible after the decision of the Chairs provided that, in determining whether an Unforeseeable Emergency has been incurred and the amount reasonably necessary to satisfy the emergency need, the Chairs shall take into consideration, among other things, all amounts available to the Participant under the Cummins Inc. and Affiliates Retirement and Savings Plans RSP (including by obtaining a loan under the RSP). If the Chairs grant a request for withdrawal pursuant to this Section, the Administrator shall prospectively cancel the Participant s existing deferral elections, and the Chairs shall take into account the additional compensation that is available as a result of the cancellation of those elections in determining the amount reasonably necessary to satisfy the Participant s emergency need. 
+ 
+ Section 7.08. Designating a Beneficiary 
+ . 
+ (a) The Participant may designate a Beneficiary only by completing the online designation or other process required by the Administrator for a Beneficiary designation during his life. The Participant s proper completion of the process to designate a Beneficiary in accordance with the Administrator s requirements shall cancel all prior Beneficiary designations. If the Participant does not designate a Beneficiary, or if all properly designated Beneficiaries die before the Participant, then payment of the balance in the Participant s Deferred Cash Account and Deferred Stock Account shall be made to the Participant s estate in the event of the Participant s death. 
+ 
+ (b) The following rules shall determine the apportionment of payments due under the Plan among Beneficiaries in the event of the Participant s death 
+ 
+ (1) If any Beneficiary designated by the Participant as a Direct Beneficiary dies before the Participant, his or her interest and the interest of his or her heirs in any payments under the Plan shall terminate and the percentage share of the remaining Beneficiaries designated as Direct Beneficiaries shall be increased on a pro rata basis. If no such Beneficiary survives the Participant, the Participant s entire interest in the Plan shall pass to any Beneficiary designated as a Contingent Beneficiary. 
+ 
+ (2) If any Beneficiary designated by the Participant as a Contingent Beneficiary dies before the Participant, his or her interest and the interest of his or her heirs in any payments under the Plan shall terminate and the 
+ 11 
+ 4844-4073-4733.9 
+
+percentage share of the remaining Beneficiaries designated as Contingent Beneficiaries shall be increased on a pro rata basis. 
+ 
+ (3) If any Beneficiary dies after the Participant, but before payment is made to such Beneficiary, then the payment shall be made to the Beneficiary s estate. 
+ 
+ ARTICLE VIII 
+ ADMINISTRATION OF PLAN 
+ 
+ Section 8.01. Powers and Responsibilities of the Administrator. 
+ 
+ (a) The Administrator shall have full responsibility and discretionary authority to control and manage the operation and administration of the Plan. The Administrator is authorized to accept service of legal process on behalf of the Plan. To the fullest extent permitted by applicable law, any action taken by the Administrator pursuant to a reasonable interpretation of the Plan shall be binding and conclusive on all persons claiming benefits under the Plan, except to the extent that a court of competent jurisdiction determines that such action was arbitrary or capricious. 
+ 
+ (b) The Administrator s discretionary powers include, but are not limited to, the following 
+ 
+ (1) to interpret Plan documents, decide all questions of eligibility, determine whether a Participant has Terminated Service, determine the amount, manner, and timing of distributions under the Plan, and resolve any claims for benefits 
+ 
+ (2) to prescribe procedures to be followed by a Participant, Beneficiary, or other person applying for benefits 
+ (3) to appoint or employ persons to assist in the administration of the Plan and any other agents as it deems advisable 
+ 
+ (4) to adopt such rules as it deems necessary or appropriate and 
+ 
+ (5) to maintain and keep adequate records concerning the Plan, including sufficient records to determine each Participant s eligibility to participate and his interest in the Plan, and its proceedings and acts in such form and detail as it may decide. 
+ 
+ Section 8.02. Indemnification . The Company shall indemnify and hold harmless the Administrator, any person serving on a committee that serves as Administrator, and any officer, employee, or director of the Company or any Affiliated Employer to whom any duty or power relating to the administration of the Plan has been properly delegated from and against any 
+ 12 
+ 4844-4073-4733.9 
+
+cost, expense, or liability arising out of any act or omission in connection with the Plan, unless arising out of such person s own fraud or bad faith. 
+ 
+ Section 8.03. Claims and Claims Review Procedure. 
+ 
+ (a) All Benefit Claims must be made in accordance with procedures established by the Administrator from time to time. A Benefit Claim and any appeal thereof may be filed by the claimant or his authorized representative. 
+ 
+ (b) The Administrator shall provide the claimant with written or electronic notice of its approval or Denial of a properly filed Benefit Claim within 90 days after receiving the claim, unless special circumstances require an extension of the decision period. If special circumstances require an extension of the time for processing the claim, the initial 90-day period may be extended for up to an additional 90 days. If an extension is required, the Administrator shall provide written notice of the required extension before the end of the initial 90-day period, which notice shall (i) specify the circumstances requiring an extension and (ii) the date by which the Administrator expects to make a decision. 
+ 
+ (c) If a Benefit Claim is Denied, the Administrator shall provide the claimant with written or electronic notice containing (i) the specific reasons for the Denial, (ii) references to the applicable Plan provisions on which the Denial is based, (iii) a description of any additional material or information needed and why such material or information is necessary, and (iv) a description of the applicable review process and time limits. 
+ 
+ (d) A claimant may appeal the Denial of a Benefit Claim by filing a written appeal with the Administrator within 60 days after receiving notice of the Denial. The claimant s appeal shall be deemed filed on receipt by the Administrator. If a claimant does not file a timely appeal, the Administrator s decision shall be deemed final, conclusive, and binding on all persons. 
+ 
+ (e) The Administrator shall provide the claimant with written or electronic notice of its decision on appeal within 60 days after receipt of the claimant s appeal request, unless special circumstances require an extension of this time period. If special circumstances require an extension of the time to process the appeal, the processing period may be extended for up to an additional 60 days. If an extension is required, the Administrator shall provide written notice of the required extension to the claimant before the end of the original 60-day period, which shall specify the circumstances requiring an extension and the date by which the Administrator expects to make a decision. If the Benefit Claim is Denied on appeal, the Administrator shall provide the claimant with written or electronic notice containing a statement that the claimant is entitled to receive, upon request and free of charge, reasonable access to and copies of all documents, records, and other information relevant to the Benefit Claim, as well as the specific reasons for the Denial on appeal and references to the applicable Plan provisions on which the Denial is based. The Administrator s decision on appeal shall be final, conclusive, and binding on all persons. 
+ 
+ 13 
+ 4844-4073-4733.9 
+
+ARTICLE IX 
+ GROSS-UP PAYMENTS 
+ 
+ If payment of the lump sum value of the Deferred Amounts pursuant to Section 7.06 Accelerated Payment causes the Accelerated Payment and any other payments made in connection with a Change of Control (together with the Accelerated Payment, the Total Payments to be subject to the tax Excise Tax imposed by Code Section 4999, the Company shall pay to the Participant an additional amount Gross-Up Payment such that the net amount retained by the Participant, after deduction of any Excise Tax paid or payable (and not grossed-up under a similar provision of another plan or program sponsored by the Company) on the lump sum and such other Total Payments and any federal, state, and local income tax and Excise Tax upon the payment provided for by this Article, shall be equal to the Accelerated Payment and such other Total Payments. If any of such other Total Payments are subject to the Excise Tax without regard to the Accelerated Payment, a Gross-Up Payment shall be made, but shall be limited to the increase in the Excise Tax (plus any federal, state, and local income tax and Excise Tax on such Gross-Up Payment) arising solely as a result of the Accelerated Payment. 
+ 
+ For purposes of determining whether any of the payments described above will he subject to the Excise Tax and the amount of such Excise Tax, (i) any other payments or benefits received or to be received by the Participant in connection with a Change of Control, whether payable pursuant to the terms of the Plan or any other plan, arrangement, or agreement with the Company, its successors, any person whose actions result in a change in control of the Company or any corporation affiliated (or which, as a result of the completion of a transaction causing a change of control, will become affiliated) with the Company within the meaning of Code Section 1504 shall be treated as parachute payments within the meaning of Code Section 280G(b)(2), and all excess parachute payments within the meaning of Code Section 280G(b)(1) shall be treated as subject to the Excise Tax, unless in the opinion of tax counsel selected by the Company s independent auditors, the payments (in whole or in part) do not constitute parachute payments, or such excess parachute payments (in whole or in part) represent reasonable compensation for services actually rendered within the meaning of Code Section 280G(b)(4) either in their entirety or in excess of the base amount within the meaning of Code Section 280G(b)(3), or are otherwise not subject to the Excise Tax, (ii) the amount of the payments that shall be treated as subject to the Excise Tax shall be equal to the lesser of (A) the total amount of the payments or (B) the amount of excess parachute payments within the meaning of Code Section 280G(b)(1) (after applying clause (i), above), and (iii) the value of any non-cash benefits or any deferred payment or benefit shall be determined by the Company s independent auditors and acceptable to the Participant in accordance with the principles of Code Sections 280G(d)(3) and (4). In the event that the Excise Tax is subsequently determined to be less than the amount taken into account hereunder at the time of payment, the Participant shall repay to the Company at the time that the amount of such reduction in Excise Tax is finally determined the portion of the Gross-Up Payment attributable to such reduction (plus the portion of the Gross-Up Payment attributable to the Excise Tax and federal and state and local income tax imposed on the Gross-Up Payment being repaid by the Participant if such repayment results in a reduction in Excise Tax and or a federal and state and local income tax deduction) plus interest on the amount of such repayment at the rate provided in Code Section 1274(d). In the event that the Excise Tax is 
+ 14 
+ 4844-4073-4733.9 
+
+determined to exceed the amount taken into account hereunder at the time of the Gross-Up Payment (including by reason of any payment the existence or amount of which cannot be determined at the time of the Gross-Up Payment), the Company shall make an additional Gross-Up Payment in respect of such excess (plus any interest payable with respect to such excess) at the time that the amount of such excess is finally determined. 
+ 
+ To the extent that earlier payment is not required by the preceding provisions of this Section, the Company s payment pursuant to this Section shall be made not later than the end of the calendar year next following the calendar year in which the Participant remits the related taxes. 
+ 
+ ARTICLE X 
+ AMENDMENT AND TERMINATION 
+ 
+ The Plan shall continue in force with respect to any Participant until the completion of any payments due hereunder. The Company may, however, at any time, amend the Plan to provide that no additional benefits shall accrue with respect to any Participant under the Plan or otherwise provided, however, that no such amendment shall (i) deprive any Participant or Beneficiary of any benefit that accrued under the Plan before the adoption of such amendment (ii) result in an acceleration of benefit payments in violation of Code Section 409A and the guidance thereunder, or (iii) result in any other violation of Section 409A or the guidance thereunder. The Company may also, at any time, amend the Plan retroactively or otherwise, if and to the extent that it deems such action appropriate in light of government regulations or other legal requirements. 
+ 
+ ARTICLE XI 
+ MISCELLANEOUS 
+ 
+ Section 11.01. Obligations of the Company . The only obligation of the Company or any Affiliated Employer hereunder shall be a contractual obligation to make payments to Participants, Spouses, or other Beneficiaries entitled to benefits provided for herein when due, and only to the extent that such payments are not made from the Trust. 
+ 
+ Section 11.02. Employment Rights . Nothing contain herein shall confer any right on a Participant to be continued in the service of the Company or affect the Participant s right to participate in and receive benefits under and in accordance with any pension, profit-sharing, incentive compensation, or other benefit plan or program of the Company or any Affiliated Employer. 
+ 
+ Section 11.03. Non-Alienation . Except as otherwise required by a Domestic Relations Order, no right or interest of a Participant, Spouse, or other Beneficiary under this Plan shall be subject to voluntary or involuntary alienation, assignment, or transfer of any kind. 
+ 
+ Section 11.04. Tax Withholding . The Company or the Trustee may withhold from any distribution hereunder amounts that the Company or the Trustee deems necessary to satisfy 
+ 15 
+ 4844-4073-4733.9 
+
+federal, state, or local tax withholding requirements (or make other arrangements satisfactory to the Company or Trustee with regard to such taxes). 
+ 
+ Section 11.05. Other Plans . Amounts and benefits paid under the Plan shall not be considered compensation to the Participant for purposes of computing any benefits to which he may be entitled under any other pension or retirement plan maintained by the Company or any Affiliated Employer. 
+ 
+ Section 11.06. Liability of Affiliated Employers . If any payment to be made under the Plan is to be made on account of a Participant who is or was employed by an Affiliated Employer, the cost of such payment shall be borne in such proportion as the Company and the Affiliated Employer agree. 
+ 
+ This Amendment and Restatement of the Cummins Inc. Deferred Compensation Plan for Non-Employee Directors has been approved by the Company s duly authorized officer, acting on behalf of the Company, on this 15 th day of February, 2021. 
+ 
+ CUMMINS INC. 
+
+By s Jill E. Cook 
+ Name Jill E. Cook 
+ Title Vice President Chief Human Resources 
+ Officer 
+ 16 
+ 4844-4073-4733.9 
+
+</EX-10.B>
+
+<EX-31.A>
+ 4
+ cmi2021q110-qex31a.htm
+ EX-31.A
+
+Document 
+
+EXHIBIT 31(a) 
+ Certification 
+ I, N. Thomas Linebarger, certify that 
+ 1. I have reviewed this report on Form 10-Q of Cummins Inc. 
+ 2. Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report 
+ 3. Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report 
+ 4. The registrant s other certifying officer(s) and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have 
+ (a) Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared 
+ (b) Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles 
+ (c) Evaluated the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation and 
+ (d) Disclosed in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s most recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant s internal control over financial reporting and 
+ 5. The registrant s other certifying officer(s) and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant s auditors and the audit committee of the registrant s board of directors (or persons performing the equivalent functions) 
+ (a) All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial information and 
+ (b) Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s internal control over financial reporting. 
+ 
+ Date May 4, 2021 s N. THOMAS LINEBARGER N. Thomas Linebarger Chairman and Chief Executive Officer 
+
+</EX-31.A>
+
+<EX-31.B>
+ 5
+ cmi2021q110-qex31b.htm
+ EX-31.B
+
+Document 
+
+EXHIBIT 31(b) 
+ Certification 
+ I, Mark A. Smith, certify that 
+ 1. I have reviewed this report on Form 10-Q of Cummins Inc. 
+ 2. Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report 
+ 3. Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report 
+ 4. The registrant s other certifying officer(s) and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have 
+ (a) Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared 
+ (b) Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles 
+ (c) Evaluated the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation and 
+ (d) Disclosed in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s most recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant s internal control over financial reporting and 
+ 5. The registrant s other certifying officer(s) and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant s auditors and the audit committee of the registrant s board of directors (or persons performing the equivalent functions) 
+ (a) All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial information and 
+ (b) Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s internal control over financial reporting. 
+ 
+ Date May 4, 2021 s MARK A. SMITH Mark A. Smith Vice President and Chief Financial Officer 
+
+</EX-31.B>
+
+<EX-32>
+ 6
+ cmi2021q110-qex32.htm
+ EX-32
+
+Document 
+
+EXHIBIT 32 
+ Cummins Inc. 
+ CERTIFICATION PURSUANT TO 
+ 18 U.S.C. SECTION 1350, 
+ AS ADOPTED PURSUANT TO 
+ SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002 
+ 
+ In connection with the Quarterly Report of Cummins Inc. (the Company on Form 10-Q for the period ended April 4, 2021, as filed with the Securities and Exchange Commission on the date hereof (the Report ), each of the undersigned officers of the Company, certify, pursuant to 18 U.S.C. ss. 1350, as adopted pursuant to ss. 906 of the Sarbanes-Oxley Act of 2002, that to the best of such officer's knowledge 
+ (1) The Report fully complies with the requirements of section 13(a) or 15(d) of the Securities Exchange Act of 1934 and 
+ (2) The information contained in the Report fairly presents, in all material respects, the financial condition and results of operations of the Company. 
+ 
+ May 4, 2021 s N. THOMAS LINEBARGER N. Thomas Linebarger Chairman and Chief Executive Officer May 4, 2021 s MARK A. SMITH Mark A. Smith Vice President and Chief Financial Officer 
+
+</EX-32>
+
+<EX-101.SCH>
+ 7
+ cmi-20210404.xsd
+ XBRL TAXONOMY EXTENSION SCHEMA DOCUMENT
+
+</EX-101.SCH>
+
+<EX-101.CAL>
+ 8
+ cmi-20210404_cal.xml
+ XBRL TAXONOMY EXTENSION CALCULATION LINKBASE DOCUMENT
+
+</EX-101.CAL>
+
+<EX-101.DEF>
+ 9
+ cmi-20210404_def.xml
+ XBRL TAXONOMY EXTENSION DEFINITION LINKBASE DOCUMENT
+
+</EX-101.DEF>
+
+<EX-101.LAB>
+ 10
+ cmi-20210404_lab.xml
+ XBRL TAXONOMY EXTENSION LABEL LINKBASE DOCUMENT
+
+</EX-101.LAB>
+
+<EX-101.PRE>
+ 11
+ cmi-20210404_pre.xml
+ XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE DOCUMENT
+
+</EX-101.PRE>
+

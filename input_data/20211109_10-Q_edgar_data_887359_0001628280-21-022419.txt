@@ -1,0 +1,920 @@
+<Header>
+<FileStats>
+    <FileName>20211109_10-Q_edgar_data_887359_0001628280-21-022419.txt</FileName>
+    <GrossFileSize>6572117</GrossFileSize>
+    <NetFileSize>118449</NetFileSize>
+    <NonText_DocumentType_Chars>967028</NonText_DocumentType_Chars>
+    <HTML_Chars>2219406</HTML_Chars>
+    <XBRL_Chars>1642672</XBRL_Chars>
+    <XML_Chars>1509550</XML_Chars>
+    <N_Exhibits>11</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0001628280-21-022419.hdr.sgml : 20211109
+<ACCEPTANCE-DATETIME>20211109091408
+ACCESSION NUMBER:		0001628280-21-022419
+CONFORMED SUBMISSION TYPE:	10-Q
+PUBLIC DOCUMENT COUNT:		66
+CONFORMED PERIOD OF REPORT:	20210930
+FILED AS OF DATE:		20211109
+DATE AS OF CHANGE:		20211109
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Vericel Corp
+		CENTRAL INDEX KEY:			0000887359
+		STANDARD INDUSTRIAL CLASSIFICATION:	BIOLOGICAL PRODUCTS (NO DIAGNOSTIC SUBSTANCES) [2836]
+		IRS NUMBER:				943096597
+		STATE OF INCORPORATION:			MI
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		10-Q
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-35280
+		FILM NUMBER:		211390119
+
+	BUSINESS ADDRESS:	
+		STREET 1:		64 SIDNEY ST.
+		CITY:			CAMBRIDGE
+		STATE:			MA
+		ZIP:			02139
+		BUSINESS PHONE:		7349305555
+
+	MAIL ADDRESS:	
+		STREET 1:		64 SIDNEY ST.
+		CITY:			CAMBRIDGE
+		STATE:			MA
+		ZIP:			02139
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	AASTROM BIOSCIENCES INC
+		DATE OF NAME CHANGE:	19960428
+
+</SEC-Header>
+</Header>
+
+ 0001628280-21-022419.txt : 20211109
+
+10-Q
+ 1
+ vcel-20210930.htm
+ 10-Q
+
+vcel-20210930 
+
+UNITED STATES SECURITIES AND EXCHANGE COMMISSION 
+ Washington, D.C. 20549 
+ Form 
+ 
+ QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+ 
+ FOR THE QUARTERLY PERIOD ENDED: 
+ or 
+ TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+ Commission File Number 
+
+(Exact name of registrant as specified in its charter) 
+ 
+ (State or other jurisdiction of incorporation or organization) (I.R.S. Employer Identification No.) 
+
+, 
+ (Address of principal executive offices, including zip code) 
+ 
+ Registrant s telephone number, including area code: ) 
+
+Securities registered pursuant to Section 12(b) of the Act: 
+ Title of Class Trading Symbol(s) Name of Each Exchange on Which Registered 
+ 
+ Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days. x No o 
+ 
+ Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T 232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files). x No o 
+ 
+ Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, smaller reporting company, or an emerging growth company. See the definitions of large accelerated filer, accelerated filer, smaller reporting company , and emerging growth company in Rule 12b-2 of the Exchange Act. 
+ Accelerated filer Non-accelerated filer Smaller reporting company Emerging growth company 
+ If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. o 
+ 
+ Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act). Yes No x 
+
+As of October 29, 2021, shares of Common Stock, no par value per share, were outstanding. 
+
+1 
+
+VERICEL CORPORATION 
+ QUARTERLY REPORT ON FORM 10-Q 
+ TABLE OF CONTENTS 
+ 
+ Page PART I - FINANCIAL INFORMATION Item 1. Financial Statements (Unaudited): 
+ 3 
+ Condensed Consolidated Balance Sheets as of September 30, 2021 and December 31, 2020 
+ 3 
+ Condensed Consolidated Statements of Operations for the three and nine months ended September 30, 2021 and 2020 
+ 4 
+ Condensed Consolidated Statements of Comprehensive Income (Loss) for the three and nine months ended September 30, 2021 and 2020 
+ 5 
+ Condensed Consolidated Statements of Shareholders' Equity from December 31, 2020 to Se p te mber 30, 2021 and from December 31, 2019 to September 30, 2020 
+ 6 
+ Condensed Consolidated Statements of Cash Flows for the nine months ended September 30, 2021 and 2020 
+ 8 
+ Notes to Condensed Consolidated Financial Statements 
+ 9 
+ Item 2. Management s Discussion and Analysis of Financial Condition and Results of Operations 
+ 25 
+ Item 3. Quantitative and Qualitative Disclosures About Market Risk 
+ 30 
+ Item 4. Controls and Procedures 
+ 30 
+ PART II OTHER INFORMATION Item 1. Legal Proceedings 
+ 31 
+ Item 1A. Risk Factors 
+ 31 
+ Item 1B. Unresolved Staff Comments 
+ 35 
+ Item 2. Unregistered Sales of Equity Securities and Use of Proceeds 
+ 35 
+ Item 3. Defaults Upon Senior Securities 
+ 35 
+ Item 4. Mine Safety Disclosures 
+ 35 
+ Item 5. Other Information 
+ 35 
+ Item 6. Exhibits 
+ 36 
+ Exhibit Index 
+ 36 
+ Signatures 
+ 37 
+ 
+ 2 
+
+PART I - FINANCIAL INFORMATION 
+
+Item 1. Financial Statements (Unaudited) 
+ 
+ VERICEL CORPORATION 
+ CONDENSED CONSOLIDATED BALANCE SHEETS 
+ (Unaudited, amounts in thousands) 
+ 
+ September 30, December 31, 2021 2020 ASSETS Current assets: Cash and cash equivalents Short-term investments Accounts receivable (net of allowance for doubtful accounts of and , respectively) 
+ Inventory Other current assets Total current assets Property and equipment, net Restricted cash Right-of-use assets Long-term investments Other long-term assets Total assets LIABILITIES AND SHAREHOLDERS EQUITY Current liabilities: Accounts payable Accrued expenses Current portion of operating lease liabilities Other liabilities Total current liabilities Operating lease liabilities Other long-term liabilities Total liabilities COMMITMENTS AND CONTINGENCIES Shareholders equity: Common stock, no par value; shares authorized ; shares issued and outstanding and , respectively 
+ Accumulated other comprehensive income (loss) ) Accumulated deficit ) ) Total shareholders equity Total liabilities and shareholders equity 
+ 
+ The accompanying Notes to Condensed Consolidated Financial Statements are an integral part of these statements. 
+ 
+ 3 
+
+VERICEL CORPORATION 
+ CONDENSED CONSOLIDATED STATEMENTS OF OPERATIONS 
+ (Unaudited, amounts in thousands, except per share amounts) 
+ 
+ Three Months Ended September 30, Nine Months Ended September 30, 2021 2020 2021 2020 Product sales, net Other revenue Total revenue Cost of product sales Gross profit Research and development Selling, general and administrative Total operating expenses Income (loss) from operations ) ) ) Other income (expense): Interest income Interest expense ) ) ) ) Other income (expense) ) ) ) Total other income Income (loss) before tax expense ) ) ) Tax expense ) Net income (loss) ) ) ) Net income (loss) per common share (Basic and Diluted) Weighted average common shares outstanding (Basic) Weighted average common shares outstanding (Diluted) 
+ 
+ The accompanying Notes to Condensed Consolidated Financial Statements are an integral part of these statements. 
+ 
+ 4 
+
+VERICEL CORPORATION 
+ CONDENSED CONSOLIDATED STATEMENTS OF COMPREHENSIVE INCOME (LOSS) 
+ (Unaudited, amounts in thousands 
+ 
+ Three Months Ended September 30, Nine Months Ended September 30, 2021 2020 2021 2020 Net income (loss) ) ) ) Other comprehensive income (loss): Unrealized gain (loss) on investments ) ) Comprehensive income (loss) ) ) ) 
+ 
+ The accompanying Notes to Condensed Consolidated Financial Statements are an integral part of these statements. 
+ 
+ 5 
+
+VERICEL CORPORATION 
+ CONDENSED CONSOLIDATED STATEMENTS OF SHAREHOLDERS' EQUITY 
+ (Unaudited, amounts in thousands) 
+ Common Stock Accumulated Other Comprehensive Income (loss) Accumulated Deficit Total Shareholders' Equity Shares Amount BALANCE, DECEMBER 31, 2020 ) Net loss ) ) Compensation expense related to stock options and restricted stock units granted, net of forfeitures Stock option exercises Shares issued under the Employee Stock Purchase Plan Issuance of stock upon restricted stock unit vesting Restricted stock withheld for employee tax remittance ) ) ) Unrealized loss on investments ) ) BALANCE, MARCH 31, 2021 ) ) Net loss ) ) Compensation expense related to stock options and restricted stock units granted, net of forfeitures Stock option exercises Shares issued under the Employee Stock Purchase Plan Issuance of stock upon restricted stock unit vesting Restricted stock withheld for employee tax remittance ) ) ) Unrealized gain on investments BALANCE, JUNE 30, 2021 ) ) Net loss ) ) Compensation expense related to stock options and restricted stock units granted, net of forfeitures Stock option exercises Shares issued under the Employee Stock Purchase Plan Issuance of stock upon restricted stock unit vesting Restricted stock withheld for employee tax remittance ) ) ) BALANCE, SEPTEMBER 30, 2021 ) ) 
+
+6 
+
+Common Stock Accumulated Other Comprehensive Income Accumulated Deficit Total Shareholders' Equity Shares Amount BALANCE, DECEMBER 31, 2019 ) Net loss ) ) Compensation expense related to stock options and restricted stock units granted, net of forfeitures Stock option exercises Shares issued under the Employee Stock Purchase Plan Issuance of stock upon restricted stock unit vesting Restricted stock withheld for employee tax remittance ) ) ) Unrealized gain on investments BALANCE, MARCH 31, 2020 ) Net loss ) ) Compensation expense related to stock options and restricted stock units granted, net of forfeitures Stock option exercises Shares issued under the Employee Stock Purchase Plan Issuance of stock upon restricted stock unit vesting Unrealized gain on investments BALANCE, JUNE 30, 2020 ) Net income Compensation expense related to stock options and restricted stock units granted, net of forfeitures Stock option exercises Shares issued under the Employee Stock Purchase Plan Unrealized loss on investments ) ) BALANCE, SEPTEMBER 30, 2020 ) 
+ 
+ The accompanying Notes to Condensed Consolidated Financial Statements are an integral part of these statements. 
+
+7 
+
+VERICEL CORPORATION 
+ CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS 
+ (Unaudited, amounts in thousands) 
+ 
+ Nine Months Ended September 30, 2021 2020 Operating activities: Net loss ) ) Adjustments to reconcile net loss to net cash provided by operating activities: Depreciation and amortization expense Stock-based compensation expense Amortization of premiums and discounts on marketable securities Non-cash lease cost Other Changes in operating assets and liabilities: Inventory ) ) Accounts receivable Other current assets ) ) Accounts payable ) ) Accrued expenses ) Operating lease liabilities ) ) Other non-current assets and liabilities, net Net cash provided by operating activities Investing activities: Purchases of investments ) ) Sales and maturities of investments Expenditures for property and equipment ) ) Net cash provided by (used for) investing activities ) Financing activities: Net proceeds from common stock issuance Payments on employee's behalf for taxes related to vesting of restricted stock units ) ) Other ) ) Net cash provided by financing activities Net increase in cash, cash equivalents, and restricted cash Cash, cash equivalents, and restricted cash at beginning of period Cash, cash equivalents, and restricted cash at end of period 
+ 
+ The accompanying Notes to Condensed Consolidated Financial Statements are an integral part of these statements. 
+ 8 
+
+VERICEL CORPORATION 
+ 
+ NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS 
+
+1. 
+ cell therapy products in the United States, MACI (autologous cultured chondrocytes on porcine collagen membrane) and Epicel (cultured epidermal autografts). 
+ 
+ MACI is an autologous cellularized scaffold product indicated for the repair of symptomatic, single or multiple full-thickness cartilage defects of the knee with or without bone involvement in adults. Epicel is a permanent skin replacement for the treatment of adult and pediatric patients with deep-dermal or full-thickness burns comprising greater than or equal to 30 percent of total body surface area (TBSA). The Company also holds an exclusive license from MediWound Ltd. (MediWound) for North American rights to NexoBrid (concentrate of proteolytic enzymes enriched in bromelain), a registration-stage biological orphan product for the debridement of severe thermal burns. The Company operates its business primarily in the U.S. in reportable segment the research, product development, manufacture and distribution of cellular therapies for use in the treatment of specific diseases. 
+ 
+ COVID-19 
+ 
+ The pandemic caused by the spread of a novel strain of coronavirus (COVID-19) began directly affecting the United States in March of 2020 and has continued since that point. The pandemic has created significant disruptions to the U.S. and global economy and has contributed, at times, to significant volatility in financial markets. The global impact of the outbreak has fluctuated since early 2020. At times, many state, local and national governments including those in Massachusetts and Michigan, where the Company s operations are located have responded by issuing, extending and supplementing orders requiring quarantines, restrictions on travel, and the mandatory closure of certain non-essential businesses, among other actions. In the U.S., the status and application of these orders have varied on a state-by-state basis since the early days of the pandemic. Many of the restrictions have been periodically updated as infection rates in the U.S. have risen and fallen, as new virus variants have emerged, as vaccines have been distributed and administered, and as world health leaders learn more about the virus, its transmission pathway and who is most at risk. Because Vericel is deemed an essential business, the Company has been exempted from government orders requiring the closure of workplaces and the cessation of business operations. 
+ 
+ Notwithstanding being an essential business, the Company s business and operations at time have been adversely impacted by the effects of COVID-19. For example, as a result of periodic restrictions placed on the performance of elective surgical procedures, the Company experienced a significant increase in cancellations of scheduled MACI procedures as well as a slowdown in new MACI orders during March and April of 2020. The widespread suspension of surgical procedures impacted the Company s business and operations during the first and second quarters of 2020. The level and degree of restriction on elective surgeries, on the ability of patients to seek treatment and on U.S. business operations generally fluctuated throughout 2020 as COVID-19 infection rates rose and fell during the summer months and into the autumn. By the first quarter of 2021, the pandemic s effects on the Company s MACI business had largely dissipated. During the summer of 2021, however, the pandemic s direct and ancillary effects again began to cause some disruption to the Company s MACI business. For example, following the cessation of COVID-19-related travel restrictions in many parts of the United States and the availability of vaccinations in May and June 2021 some MACI patients postponed or delayed treatment opting instead to take vacation and/or travel. Further, a surge of new COVID-19 cases during the summer of 2021 caused by the spread of the Delta variant again caused disruptions to health care networks, the scheduling of elective surgeries and overall patient behavior. These effects were compounded by staffing shortages at many healthcare facilities across the United States during the same period. Consequently, and notwithstanding the widespread distribution of vaccines in the United States, these factors contributed to a slowdown of MACI procedures during the third quarter of 2021. Although hospitals are now better prepared for subsequent surges in COVID-19 patients, the risk remains that regional or local restrictions could again be placed on the performance of elective surgical procedures if the number of COVID-19 infections in the United States were to continue to rise, or if new or existing COVID-19 variants render current vaccine treatments ineffective. Because Epicel is used almost exclusively in the emergent setting by burn centers and surgeons throughout the country, Epicel revenue and procedure volumes have been less affected by the pandemic. 
+ 
+ 9 
+
+million of shares of the Company s common stock, no par value per share (ATM Shares). The ATM Shares to be offered and sold under the Sales Agreement will be issued and sold pursuant to an automatically effective shelf registration statement on Form S-3ASR (File No. 333-259119) filed by the Company on August 27, 2021, which expires three years from the filing date. The Company also filed a prospectus supplement relating to the offering and sale of the ATM Shares on August 27, 2021. The Company is not obligated to make any sales of ATM Shares, and SVB Leerink is not required to sell any specific number or dollar amount of the ATM Shares under the Sales Agreement. The Company capitalizes certain legal, professional accounting and other third-party fees that are directly associated with in-process stock financings as deferred offering costs until such financings are consummated. As of September 30, 2021, the Company has sold no shares pursuant to the Sales Agreement. 
+ 
+ Going Concern 
+ 
+ The accompanying Condensed Consolidated Financial Statements have been prepared on a basis which assumes that the Company will continue as a going concern and contemplates the realization of assets and the satisfaction of liabilities and commitments in the normal course of business. As of September 30, 2021, the Company had an accumulated deficit of million, and had a net loss of million and million, respectively, during the three and nine months ended September 30, 2021. The Company had cash and cash equivalents of million and investments of million as of September 30, 2021. The Company expects that cash from the sales of its products and existing cash, cash equivalents and investments will be sufficient to support the Company s current operations through at least 12 months from the issuance of these Condensed Consolidated Financial Statements. To the extent the United States experiences a resurgence in COVID-19 infections and elective surgery restrictions are reinstated on a widespread basis and significantly impact the Company s business, the Company may need to access additional capital; however, the Company may not be able to obtain financing on acceptable terms or at all, particularly in light of the impact of COVID-19 on the global economy and financial markets. The terms of any financing may adversely affect the holdings or the rights of the Company s shareholders. 
+
+2. 
+ 10 
+
+Additions to property and equipment included in accounts payable Restricted stock held for employee tax remittance included in accounts payable ) Cash information: Interest paid 
+ 
+ Nine Months Ended September 30, (In thousands) 2021 2020 Reconciliation of cash, cash equivalents, and restricted cash reported in the statement of financial position: Cash and cash equivalents Restricted cash Total cash, cash equivalents, and restricted cash shown in the statement of cash flows 
+
+3. 
+ 
+ 11 
+
+4. 
+ specialty pharmacies, Orsini Pharmaceutical Services, Inc. (Orsini) and AllCare Plus Pharmacy, Inc. (AllCare) to distribute MACI in a manner in which the Company retains the credit and collection risk from the end customer. The Company pays both specialty pharmacies a fee for each patient to whom MACI is dispensed. Both Orsini and AllCare perform collection activities to collect payment from customers. The Company engages a third-party to provide services in connection with a patient support program to manage patient cases and to ensure complete and correct billing information is provided to the insurers and hospitals. In addition, the Company also sells MACI directly to DMS Pharmaceutical (DMS) for patients treated at military treatment facilities. The sales directly to DMS are made at a contracted rate. 
+ 
+ Prior authorization and confirmation of coverage level by the patient s private insurance plan, hospital or government payer is a prerequisite to the shipment of product to a patient. The Company recognizes product revenue from sales of all MACI implants upon delivery at which time the customer obtains control of the implant and the claim is billable. The total consideration which the Company expects to collect in exchange for MACI implants (the transaction price) may be fixed or variable. Direct sales to hospitals or distributors are recorded at a contracted price, and there are typically no forms of variable consideration. 
+ 
+ When the Company sells MACI the patient is responsible for payment; however, the Company is typically reimbursed by a third-party insurer or government payer, subject to a patient co-pay amount. Reimbursements from third-party insurers and government payers vary by patient and payer and are based on either contracted rates, publicly available rates, fee schedules or past payer precedents. Net product revenue is recognized net of estimated contractual allowances, which considers historical collection experience from both the payer and patient, denial rates and the terms of the Company s contractual arrangements. The Company estimates expected collections for these transactions using the portfolio approach. The Company records a reduction to revenue at the time of sale for its estimate of the amount of consideration that will not be collected. The total allowance for uncollectible consideration as of September 30, 2021 and December 31, 2020 was million and million, respectively. Changes to the estimate of the amount of consideration that will not be collected could have a material impact to the revenue recognized. A change to the estimated uncollectible percentage could result in approximately a million increase or decrease in the revenue recognized as of the nine months ended September 30, 2021. 
+ 
+ Changes in estimates of the transaction price are recorded through revenue in the period in which such change occurs. Changes in estimates related to prior period sales for the three and nine months ended September 30, 2021 resulted in an increase to revenue of million and a decrease to revenue of million, respectively, and an increase to revenue of approximately million and million, respectively, for the same periods in 2020. The changes in estimates recorded during the three and nine months ended September 30, 2021 and September 30, 2020, were primarily due to completion of the billing claims process for implants that occurred in 2020 or prior. Upon completion of the billing claims process, the Company concluded that it was probable that a significant reversal in the amount of revenue recognized would not occur. 
+ 
+ Additionally, potential credit risk exposure has been evaluated for the Company s accounts receivable in accordance with ASC 326, Financial Instruments - Credit Losses. The loss percentage is calculated by pooling account receivables containing similar risk characteristics and applying collectability forecasts which are derived from current and historical economic and 
+ 12 
+
+million, and additional allowance was recorded during the nine months ended September 30, 2021. 
+ 
+ Epicel 
+ The Company sells Epicel directly to hospitals and burn centers based on contracted rates stated in an approved contract or purchase order. Similar to MACI, there is no obligation to manufacture Epicel grafts upon receipt of a skin biopsy, and Vericel has no contractual right to receive payment until the product is delivered to the hospital. The Company recognizes product revenue from sales of Epicel upon delivery to the hospital, at which time the customer is in control of the Epicel grafts and the claim is billable to the hospital. 
+ NexoBrid 
+ The Company entered into exclusive license and supply agreements with MediWound in May 2019, under which MediWound will manufacture and supply NexoBrid on a unit price basis, which may be increased pursuant to the terms of the agreement. The U.S. Biomedical Advanced Research and Development Authority (BARDA) committed to procure NexoBrid directly from MediWound, under an emergency use authorization. As a result, during 2020, BARDA accepted the first shipments of NexoBrid, per the agreement between BARDA and MediWound. The Company recognizes revenue based on a percentage of gross profits for sales of NexoBrid to BARDA upon delivery, at which time BARDA is in control of the product. As of September 30, 2021, the Company did not take title to the product or hold a direct contract or distribution agreement with BARDA. 
+ 
+ 13 
+
+Implants subject to third party reimbursement sold through a specialty pharmacy (b) Implants sold direct based on contracted rates (c) Implants sold direct subject to third party reimbursement (d) Biopsy kits - direct bill Change in estimates related to prior periods (e) ) Epicel Direct bill (hospital) Total product revenue NexoBrid revenue (f) Total net revenue (a) Represents implants sold through Orsini and AllCare whereby such specialty pharmacies have a direct contract with the underlying insurance provider. The amount of reimbursement is based on contracted rates at the time of sale supported by the pharmacy's direct contracts. (b) Represents implants sold through Orsini and AllCare whereby such specialty pharmacies do not have a direct contract with the underlying payer. The amount of reimbursement is established based on a payer or state fee schedule and/or payer history. (c) Represents implants sold directly from the Company to the facility based on a contract and known price agreed upon prior to the surgery date. Also represents direct sales under a contract to the specialty distributor DMS. (d) Represents implants sold directly from the Company to the facility based on a contract and known price agreed upon prior to the surgery date. The payment terms are subject to third-party reimbursement from an underlying insurance provider. (e) Primarily represents changes in estimates related to implants sold through Orsini or AllCare in which such specialty pharmacy does not have a direct contract with the underlying payer. The initial estimate of the amount of reimbursement is established based on a payer or state fee schedule and/or payer history. The change in estimates is a result of additional information or actual cash collections received in the current period. (f) Represents revenue based on a percentage of gross profits for sales of NexoBrid to BARDA, pursuant to the license agreement between the Company and MediWound. 
+ 
+ Concentration of Credit Risk 
+ 
+ The Company's total Epicel revenue concentration from a customer for the three and nine months ended September 30, 2021 was and , respectively, and there were no customers with a concentration greater than 10 for the same periods in 2020. For the Company's total MACI revenue, and MACI and Epicel accounts receivable balances, there were no customers for the three and nine months ended September 30, 2021 or the comparable periods in 2020, with a concentration greater than 10 . 
+
+14 
+
+5. 
+ Work-in-process Finished goods Inventory 
+ 
+ Property and Equipment 
+ 
+ Furniture, fixtures and office equipment Computer equipment and software Leasehold improvements Construction in process Financing right-of-use lease Total property and equipment, gross Less accumulated depreciation ) ) Property and equipment, net 
+ 
+ Depreciation expense for the three and nine months ended September 30, 2021 was million and million, respectively, and million and million, respectively, for the same periods in 2020. 
+ 
+ Accrued Expenses 
+ 
+ Employee related accruals Other accrued expenses Accrued expenses 
+
+15 
+
+6. 
+ 
+ million to million. The agreement also provides a tenant improvement allowance of approximately million, available through December 31, 2023. 
+ 
+ Leases with an initial term of 12 months or less are not recorded on the balance sheet. For both the three and nine months ended September 30, 2021 and 2020, lease expense of less than million was recorded for each of short-term leases and financing leases. During the nine months ended September 30, 2021, the Company recorded million of leasehold improvements funded by tenant improvement allowances available under the lease agreements. The contribution toward the cost of tenant improvements is recorded as a reduction of the operating lease assets. For the three and nine months ended September 30, 2021 , the Company recognized million and million, respectively, of operating lease expense and million and million, respectively for the same periods in 2020. The Company s leases contain non-lease components and activities that do not transfer a good or service to the Company. The Company elected not to combine lease and non-lease components and therefore non-lease costs were not included in the net lease assets or lease liabilities. 
+ 
+ Finance Property and equipment, net Total leased assets Liabilities Current Operating Current portion of operating lease liabilities Finance Other liabilities Non-current Operating Operating lease liabilities Finance Other long-term liabilities Total leased liabilities 
+
+7. 
+ from the date of grant. Options and restricted stock units generally become exercisable or vest over a period, under a graded-vesting methodology for stock options and annually on the anniversary grant date for restricted stock units, following the date of grant. The Company generally issues new shares upon the exercise of stock options or vesting of restricted stock units. 
+ 
+ 16 
+
+new grants have been granted under the Prior Plans after approval of the 2019 Plan. However, the expiration or forfeiture of options previously granted under the Prior Plans will increase the number of shares available for issuance under the 2019 Plan. 
+ 
+ As of September 30, 2021, there were shares available for future grant under the 2019 Plan. 
+ 
+ Employee Stock Purchase Plan 
+ 
+ Employees are able to purchase stock under the Vericel Corporation Employee Stock Purchase Plan (ESPP). The ESPP allows for the issuance of an aggregate of shares of common stock of which shares have been issued since the inception of the plan in 2015. Participation in this plan is available to substantially all employees. The ESPP is a compensatory plan accounted for under the expense recognition provisions of the share-based payment accounting standards. Compensation expense is recorded based on the fair market value of the options at the grant date, which corresponds to the first day of each purchase period and is amortized over the purchase period. In October 2021, employees purchased shares resulting in proceeds from the sale of common stock of million under the ESPP for the third quarter of 2021. 
+ 
+ Service-Based Stock Options 
+ 
+ During the three and nine months ended September 30, 2021, the Company granted service-based options to purchase common stock of and , respectively, and and , respectively, for the same periods in 2020. The exercise price of the options is the fair market value per share of common stock on the grant date, and the options generally vest over (other than non-employee director options which may vest over one to from the grant date pursuant to the provisions of the Company's Amended and Restated Non-Employee Director Compensation Guidelines) and have a term of . The Company issues new shares upon the exercise of stock options. The weighted average grant-date fair value of service-based options granted during the three and nine months ended September 30, 2021 was and , respectively, and and , respectively, for the same periods in 2020. 
+ 
+ Restricted Stock Units 
+ 
+ During the three and nine months ended September 30, 2021, the Company granted and service-based restricted stock units, respectively, and and , respectively, for the same periods in 2020. The restricted stock units vest annually over in equal installments commencing on the first anniversary of the grant date (other than non-employee director awards which may vest over one to from the grant date pursuant to the provisions of the Company's Amended and Restated Non-Employee Director Compensation Guidelines). The Company issues new shares upon the vesting of restricted stock units. Restricted stock units are recorded at fair value at the date of grant, which is based on the closing share price on the grant date. Compensation expense is recorded for restricted stock units that are expected to vest based on their fair value at grant date and is amortized over the expected vesting period. The weighted average grant-date fair value of restricted stock units granted during the three and nine months ended September 30, 2021 was and , respectively, and , for the nine months ended September 30, 2020. The aggregate fair value of restricted stock units granted in the three and nine months ended September 30, 2021 was million and million, respectively, and million for the nine months ended September 30, 2020. There were restricted stock units granted during the three months ended September 30, 2020. 
+ 
+ During the three and nine months ended September 30, 2021, and shares, respectively, of common stock were issued upon the vesting of restricted stock units. These amounts are net of and shares, respectively, that were withheld for payment of taxes on the behalf of employees. During the nine months ended September 30, 2020, shares of common stock were issued upon the vesting of restricted stock units. This amount is net of shares withheld for payment of taxes, as no shares are withheld at vesting for shares awarded to the members of the Company's Board of Directors. 
+ 
+ For the three and nine months ended September 30, 2021, the total fair value of restricted stock awards vested was million and million, respectively, and and million, respectively, for the same periods in 2020. The total fair value of restricted stock units withheld for payment of taxes during the three and nine months ended September 30, 2021, was million and million, respectively. During the nine months ended September 30, 2020, the total fair value of 
+ 17 
+
+million. No restricted stock units vested during the three months ended September 30, 2020. 
+ 
+ Stock Compensation Expense 
+ 
+ Research and development Selling, general and administrative Total non-cash stock-based compensation expense 
+
+8. 
+
+) Corporate notes ) U.S. government securities U.S. government agency bonds ) Classified as: Short-term investments Long-term investments 
+ December 31, 2020 Gross Unrealized Estimated Fair Value (In thousands) Amortized Cost Gains Losses Credit Losses Commercial paper Corporate notes ) U.S. government securities U.S. government agency bonds U.S. asset-backed securities ) Classified as: Short-term investments Long-term investments 
+ 
+ Investments classified as short-term have maturities of less than one year. Investments classified as long-term are those which: (i) have a maturity of greater than one year, and (ii) the Company does not intend to liquidate within the next twelve months, although these funds are available for use and, therefore, are classified as available-for-sale. The Company s investment strategy is to buy short-duration marketable securities with a high credit rating. As of September 30, 2021 and December 31, 2020 , all marketable securities held by the Company had remaining contractual maturities of or less. 
+ 
+ 18 
+
+impairments of the Company s assets measured and carried at fair value during the three and nine months ended September 30, 2021 or September 30, 2020, respectively. 
+
+9. 
+
+Commercial paper Corporate notes U.S. government securities U.S. government agency bonds U.S. asset-backed securities 
+
+19 
+
+10. ) ) Denominator: Weighted-average common shares outstanding (Basic) Weighted-average common shares outstanding (Diluted) Net income (loss) per common share (Basic and Diluted) Anti-dilutive shares excluded from the calculation of diluted earnings per share (a) : 
+ Stock options Restricted stock units (a) Common equivalent shares are not included in the diluted per share calculation where the effect of their inclusion would be anti-dilutive. 
+
+11. 
+ 
+ million in consideration for the license. The million upfront payment was recorded to research and development expense during 2019, as the license was considered in process research and development. The Company is also obligated to pay MediWound million, which is contingent upon U.S. regulatory approval of the BLA for NexoBrid and up to million contingent upon meeting certain sales milestones, subsequent to approval. The first sales milestone of million would be triggered when annual net sales of NexoBrid or improvements to it in North America exceed million. As of September 30, 2021, the milestone payments were not yet probable and therefore, not considered a liability. The Company also will pay MediWound tiered royalties on net sales ranging from mid-high single-digit to mid-teen percentages, subject to customary reductions, following approval. The Company also entered into a supply agreement with MediWound under which MediWound will manufacture NexoBrid for the Company on a unit price basis which may be increased based on a published index. MediWound is obligated to supply the Company with NexoBrid for sale in North America on an exclusive basis for the first of the term of the supply agreement. After the exclusivity period or upon supply failure, the Company will be permitted to establish an alternate source of supply. 
+ 
+ 20 
+
+million and million, respectively, and million during the three months ended September 30, 2020. 
+
+12. 
+ Warehouse operating agreement Total 
+
+21 
+
+Item 2. Management s Discussion and Analysis of Financial Condition and Results of Operations 
+ 
+ Overview 
+ 
+ Vericel Corporation is a leader in advanced cell therapies and specialty biologics for the sports medicine and severe burn care markets. We currently market two U.S. Food and Drug Administration (FDA)-approved autologous cell therapy products in the United States. MACI is an autologous cellularized scaffold product indicated for the repair of symptomatic, single or multiple full-thickness cartilage defects of the knee with or without bone involvement in adults. Epicel is a permanent skin replacement Humanitarian Use Device (HUD) for the treatment of adult and pediatric patients with deep-dermal or full-thickness burns comprising greater than or equal to 30 percent of total body surface area (TBSA). We also hold an exclusive license from MediWound for North American rights to NexoBrid , a registration-stage biological orphan product. In 2020, MediWound submitted to the FDA a biologics license application (BLA) seeking the approval of NexoBrid for eschar removal (debridement) in adults with deep partial-thickness and/or full-thickness thermal burns. The FDA subsequently accepted the BLA for filing and assigned a Prescription Drug User Fee Act (PDUFA) target date of June 29, 2021. 
+ 
+ Subsequently, on June 29, 2021, we announced that MediWound received a complete response letter (CRL) from the FDA regarding the BLA for NexoBrid. The FDA communicated to MediWound that it had completed its review of the BLA, as amended, and had determined that it cannot approve the BLA in its present form. The FDA had identified issues related to the Chemistry, Manufacturing and Controls (CMC) section of the BLA and had requested that MediWound provide additional CMC information. The FDA stated that it had not reviewed several amendments submitted by MediWound in response to the CMC information requests related to the BLA. The FDA also stated that inspections of manufacturing facilities in Israel and Taiwan are required before the BLA can be approved, but that it was unable to conduct the required inspections during the original review cycle due to COVID-19-related travel restrictions. In addition, the CRL referenced observations that were made during good clinical practice (GCP) inspections related to the DETECT study and requested that MediWound address questions regarding the impact of the observations on the study s efficacy findings. The FDA also requested that MediWound provide a safety update as part of its BLA resubmission. The Company continues to work with MediWound, BARDA and the FDA to address the issues identified in the CRL, to prepare and submit a BLA resubmission to the FDA and to seek the potential approval of NexoBrid. 
+ 
+ See "Risk Factors - NexoBrid s approval in the United States for the treatment of severe burns may be further delayed, and it may not be approved for use in the United States and other North American markets at all." 
+ 
+ For patents related to MACI, we have one issued patent in the United States directed to a device related to MACI that is set to expire in November 2033, and one issued patent in the European Union set to expire in November 2034. 
+ COVID-19 
+ 
+ The pandemic caused by the spread of a novel strain of coronavirus (COVID-19) has created significant disruptions to the U.S. and global economy and has contributed to significant volatility in financial markets. The global impact of the outbreak has fluctuated since early 2020. At times, many state, local and national governments including those in Massachusetts and Michigan, where our operations are located have responded by issuing, extending and supplementing orders requiring quarantines, restrictions on travel, and the mandatory closure of certain non-essential businesses, among other actions. In the U.S., the status and application of these orders have varied on a state-by-state basis since the early days of the pandemic. Many of the restrictions have been periodically updated as infection rates in the U.S. have risen and fallen, as new virus variants have emerged, as vaccines have been distributed and administered, and as world health leaders learn more about the virus, its transmission pathway and who is most at risk. Because Vericel is deemed an essential business, we have been exempted from government orders requiring the closure of workplaces and the cessation of business operations. 
+ 
+ Notwithstanding being an essential business, our business and operations have been, at times, adversely impacted by the effects of COVID-19. As a result of periodic restrictions placed on the performance of elective surgical procedures, we have experienced a significant increase in cancellations of scheduled MACI procedures as well as a slowdown in new MACI orders during March and April of 2020. The widespread suspension of surgical procedures impacted our business and operations during the first and second quarters of 2020. The level and degree of restriction on elective surgeries, on the ability of patients to seek treatment and on U.S. business operations generally fluctuated throughout 2020 as COVID-19 infection rates rose and fell during the summer months and into the autumn. By the first quarter of 2021, the pandemic s effects on our MACI business had largely dissipated. During the summer of 2021, however, the pandemic s direct and ancillary effects again began to cause some disruption to our MACI business. For example, following the cessation of COVID-19-related travel restrictions in many 
+ 22 
+
+parts of the United States and the availability of vaccinations in May and June 2021 some MACI patients postponed or delayed treatment opting instead to take vacation and/or travel. Further, a surge of new COVID-19 cases during the summer of 2021 caused by the spread of the Delta variant again caused disruptions to health care networks, the scheduling of elective surgeries and overall patient behavior. These effects were compounded by staffing shortages at many healthcare facilities across the United States during the same period. Consequently, and notwithstanding the widespread distribution of vaccines in the United States, these factors contributed to a slowdown of MACI procedures during the third quarter of 2021. Although hospitals are now better prepared for subsequent surges in COVID-19 patients, the risk remains that regional or local restrictions could again be placed on the performance of elective surgical procedures if the number of COVID-19 infections in the United States were to continue to rise, or if new or existing COVID-19 variants render current vaccine treatments ineffective. 
+ 
+ Because Epicel is used almost exclusively in an emergent setting by burn centers and surgeons throughout the country, Epicel revenue and procedure volumes have been less affected by the pandemic. Nevertheless, large burns and burn admissions can be affected by restrictions on human activity resulting from more severe government lockdown orders. Epicel procedure volumes did experience a slow-down during the second quarter of 2020, however, the reduction was less pronounced than that observed with MACI. Further reductions could be observed in the future, based on the degree of restrictions imposed. 
+ 
+ At the outset of the pandemic, we put in place a comprehensive workplace protection plan, which instituted protective measures in response to COVID-19. Our workplace protection plan closely follows guidance issued by the Centers for Disease Control and Prevention (CDC) and complies with applicable federal and state law. Because vaccines designed to protect against COVID-19 have become readily available and the rates of COVID-19 infections, hospitalizations and deaths in the majority of the U.S. have generally declined since their height at the beginning of 2021, the CDC and the Occupational Safety and Health Administration (OSHA) have altered their guidance for Americans, and emergency orders and mandatory workplace protocols in Michigan and Massachusetts have either been rescinded or greatly reduced to include the lifting of all capacity limitations on businesses in both states. Accordingly, we have begun a return to more normal workplace operations, but will continue to modify our workplace protection plan, and will reinstitute protective measures for our workforce as necessary. 
+ 
+ We are reviewing our policies and procedures regularly as the pandemic evolves and may take additional actions to the extent required. 
+ 
+ We continue to manufacture MACI and Epicel and are maintaining a significant safety stock of all key raw materials. We do not expect current supply chain interruptions will impact our ongoing manufacturing operations. With respect to customer delivery, MACI final product has an established shelf life of six (6) days and established shipping shelf life of three (3) days. Currently, MACI is picked up by courier and shipped by commercial air or ground transportation to customer surgical sites. Epicel final product has an established shelf life of 48 hours and is hand carried to customer hospitals by courier. Transportation is primarily by commercial or charter airline. Although we have not experienced material shipping delays or materially increased costs to date, significant disruption of air travel could result in the inability to deliver MACI or Epicel final products to customer sites within appropriate timeframes, which could further adversely impact our business. At this time, we are not aware of COVID-19-related impacts on our distributors, operations or third-party service providers ability to manage patient cases. 
+ 
+ We believe it is possible that we could continue to experience variable impacts on our business, should the current resurgence of COVID-19 in various areas of the United States continue for an extended period, or should a new resurgence occur in the future. Measures taken to limit the impact of COVID-19 at the international, national and local levels, including the availability and effectiveness of COVID-19 vaccines, shelter-in-place orders, social distancing measures, travel bans and restrictions, and business and government shutdowns, may again create significant negative economic impacts on a global basis. Given that uncertainty, we cannot reliably estimate the extent to which the COVID-19 pandemic may continue to impact utilization and revenue of our products for the remainder of 2021 and beyond. 
+ 
+ For a discussion of additional risks associated with COVID-19, please see Item 1A. Risk Factors. 
+ 
+ Manufacturing 
+ 
+ We have a cell-manufacturing facility in Cambridge, Massachusetts which is used for U.S. manufacturing and distribution of MACI and Epicel. 
+ 
+ 23 
+
+Product Portfolio 
+ 
+ Our marketed products include two FDA-approved autologous cell therapies. MACI, a third-generation autologous implant for the repair of symptomatic, full-thickness cartilage defects of the knee in adult patients and Epicel, a permanent skin replacement for adult and pediatric patients with deep dermal or full thickness burns greater than or equal to 30 of TBSA. Both products are currently marketed in the U.S. In addition, we have entered into exclusive license and supply agreements with MediWound to commercialize NexoBrid in North America, following regulatory approval. As previously mentioned, MediWound has submitted a BLA to the FDA seeking commercial approval of NexoBrid. On June 29, 2021, we announced that MediWound had received a CRL in response to the BLA and that the Company is committed to working with MediWound and the FDA to respond to the CRL to seek the potential approval of NexoBrid. 
+ 
+ MACI 
+ 
+ MACI is a third-generation autologous chondrocyte implantation (ACI) product for the repair of symptomatic, single or multiple full-thickness cartilage defects of the knee with or without bone involvement in adults. 
+ 
+ Our target audience of U.S. physicians is approximately 5,000 orthopedic surgeons and is divided into two segments - a group of orthopedic surgeons who self-identify and/or have a formal specialty as sports medicine physicians, and a sub-population of general orthopedic surgeons who perform a high volume of cartilage repair procedures. As of the date of this report, we currently have 76 MACI sales representatives to enable the sales force to reach our target audience. Most private payers have a medical policy that covers treatment with MACI with the top 30 largest commercial payers having a formal medical policy for MACI or ACI in general. Even for private payers that have not yet approved a medical policy for MACI, for medically appropriate cases, we often obtain approval on a case-by-case basis. For the three and nine months ended, September 30, 2021, net revenue for MACI was 23.9 million and 74.2 million, respectively, and 24.4 million and 59.7 million, respectively, for the same periods in 2020. 
+ 
+ Epicel 
+ 
+ Epicel is a permanent skin replacement for deep dermal or full-thickness burns greater than or equal to 30 of TBSA. Epicel is regulated by the Center for Biologics Evaluation and Research, or CBER of the U.S. Food and Drug Administration under medical device authorities, and is the only FDA-approved cultured epidermal autograft product available for large total surface area burns. Epicel was designated as a HUD in 1998 and a Humanitarian Device Exception (HDE) application for the product was submitted in 1999. HUDs are devices that are intended for diseases or conditions that affect fewer than 8,000 individuals annually in the U.S. Under an HDE approval, a HUD cannot be sold for an amount that exceeds the cost of research and development, fabrication and distribution unless certain conditions are met. A HUD is eligible to be sold for profit after receiving HDE approval if the device meets certain eligibility criteria, including where the device is intended for the treatment of a disease or condition that occurs in pediatric patients and such device is labeled for use in pediatric patients. If the FDA determines that a HUD meets the eligibility criteria, the HUD is permitted to be sold for profit so long as the number of devices distributed in any calendar year does not exceed the Annual Distribution Number (ADN). The ADN is defined as the number of devices reasonably needed to treat a population of 8,000 individuals per year in the U.S. 
+ 
+ On February 18, 2016, the FDA approved our HDE supplement to revise the labeled indications of use for Epicel to specifically include pediatric patients. The revised product label also now specifies that the probable benefit of Epicel, mainly related to survival, was demonstrated in two Epicel clinical experience databases and a physician-sponsored study comparing outcomes in patients with massive burns treated with Epicel relative to standard care. Because of the change in the label to specifically include use in pediatric patients, Epicel is no longer subject to the HDE profit restrictions. In conjunction with adding the pediatric labeling and meeting the pediatric eligibility criteria, the FDA has determined the ADN number for Epicel is 360,400 which is approximately 45 times larger than the volume of grafts sold in 2019. We currently have a thirteen-person field force comprised of seven (7) account managers and six (6) burn clinical specialists, led by a regional and a national sales director. For the three and nine months ended September 30, 2021, net revenue for Epicel was 9.8 million and 31.8 million, respectively, and 6.7 million and 18.0 million, respectively, for the same periods in 2020. 
+ 
+ NexoBrid 
+ 
+ Our portfolio also includes NexoBrid, a registration-stage, topically-administered biological product that enzymatically removes nonviable burn tissue, or eschar, in patients with deep partial and full-thickness thermal burns. On June 30, 2020, we announced MediWound's submission of a BLA to the FDA seeking the approval of NexoBrid. On June 29, 2021, the Company 
+ 24 
+
+announced that MediWound received a CRL from the FDA regarding the BLA, through which the FDA communicated to MediWound that it had completed its review of the BLA, as amended, and had determined that it cannot approve the BLA in its present form. The Company announced further that it is committed to working with MediWound and the FDA on the next steps to address the issues identified in the CRL to seek the potential approval of NexoBrid. See "Risk Factors - NexoBrid s approval in the United States for the treatment of severe burns may be further delayed, and it may not be approved for use in the United States and other North American markets at all." 
+ 
+ NexoBrid is approved in the European Union and other international markets and has been designated as an orphan biologic in the United States, European Union and other international markets. Pursuant to the terms of our existing license agreement, if the BLA is approved, MediWound will transfer the BLA to Vericel and Vericel will market NexoBrid in the U.S. Both MediWound and Vericel, under the supervision of a Central Steering Committee comprised of members of both companies will continue to guide development of NexoBrid in North America. Under our license agreement with MediWound, NexoBrid is being manufactured for BARDA prior to approval by the FDA under an emergency use authorization. For the three and nine months ended September 30, 2021, 0.8 million and 2.6 million, respectively, of net revenue associated with delivery of NexoBrid to BARDA was recorded, and 1.2 million during the three months ended September 30, 2020. 
+
+Results of Operations 
+ 
+ Net Income (loss) 
+ 
+ Our net loss for the three and nine months ended September 30, 2021 totaled 4.9 million and 12.0 million, respectively, and for the same periods of 2020, we had net income of 3.6 million and net loss of 9.4 million, respectively. 
+ Three Months Ended September 30, Nine Months Ended September 30, (In thousands) 2021 2020 2021 2020 Net revenue 34,506 32,258 108,593 78,950 Cost of product sales 12,408 9,787 36,600 28,369 Gross profit 22,098 22,471 71,993 50,581 Total operating expenses 27,059 18,954 83,988 60,498 Income (loss) from operations (4,961) 3,517 (11,995) (9,917) Other income 30 101 205 561 Tax expense (215) Net Income (loss) (4,931) 3,618 (12,006) (9,356) 
+ 
+ Net Revenue 
+ 
+ The net revenue increase for the three months ended September 30, 2021 compared to the same period in 2020, was driven by Epicel volume growth. The net revenue increase for the nine months ended September 30, 2021 compared to the same period in 2020, was driven by volume growth for both MACI and Epicel. Additionally, for the three and nine months ended September 30, 2021, we recorded 0.8 million and 2.6 million, respectively, of revenue associated with delivery of NexoBrid to BARDA for emergency response preparedness. 
+ 
+ Net revenue by product for the three and nine months ended September 30, 2021 and 2020 are shown below. 
+ 
+ Three Months Ended September 30, Nine Months Ended September 30, Revenue by product (In thousands) 2021 2020 2021 2020 MACI 23,881 24,357 74,205 59,747 Epicel 9,837 6,663 31,820 17,965 NexoBrid 788 1,238 2,568 1,238 Total Revenue 34,506 32,258 108,593 78,950 
+ 
+ Seasonality. The effects of the COVID-19 pandemic has disrupted the normal seasonality of our MACI business at times over the past nineteen months. These effects included, among others, the temporary limitation of elective surgical procedures throughout the country, the inability of our Clinical Account Specialists to call on surgeon customers and, we believe, a reduction in the number of patients seeking treatment for cartilage damage. In the four years preceding 2020, ACI sales volumes from the first through the fourth quarter on average represented 19 (16 -24 range), 23 (21 -25 range), 22 
+ 25 
+
+(20 -23 range) and 36 (32 -38 range) respectively, of total annual volumes. MACI orders are consistently stronger in the fourth quarter due to several factors including insurance deductible limits and the time of year patients prefer to start rehabilitation. Due to COVID-19, the seasonality in 2020 did not follow our historical patterns, and seasonality in 2021 has been and could continue to be impacted by COVID-19 related factors, as well - such as patient behavior and vacations and the spread of the COVID-19 Delta variant. Due to the low incidence and variable occurrence of severe burns, Epicel revenue has inherent variability from quarter-to-quarter and does not exhibit significant seasonality. Over the past four years, Epicel revenue in a single quarter has ranged from as high as 38 to as low as 18 of annual revenue. 
+ 
+ Gross Profit and Gross Profit Ratio 
+ Three Months Ended September 30, Nine Months Ended September 30, (In thousands) 2021 2020 2021 2020 Gross profit 22,098 22,471 71,993 50,581 Gross profit 64 70 66 64 
+ 
+ Gross profit decreased for the three months ended September 30, 2021 compared to the same period in 2020 primarily due to higher stock-based compensation expense, an increase in manufacturing headcount and a decrease in MACI sales driven by the impact of MACI implant scheduling that occurred due to the Delta variant's spread and its disruption to healthcare systems. Gross profit increased for the nine months ended September 30, 2021, primarily due to continued growth of both products, the impacts of the COVID-19 pandemic in the prior year, and increased units of procured NexoBrid to BARDA that led to higher revenue related to NexoBrid, compared to the prior period in 2020. 
+ 
+ Research and Development Costs 
+ Three Months Ended September 30, Nine Months Ended September 30, (In thousands) 2021 2020 2021 2020 Research and development costs 4,284 2,913 12,363 9,902 
+ 
+ The following table summarizes research and development expenses which include license fees, materials, professional fees and the approximate allocation of employee-related salary and fringe benefit costs for our research and development projects: 
+ Three Months Ended September 30, Nine Months Ended September 30, (In thousands) 2021 2020 2021 2020 ACI 2,572 1,655 6,993 5,425 Epicel 992 685 3,157 2,397 NexoBrid 720 573 2,213 2,080 Total research and development costs 4,284 2,913 12,363 9,902 
+ 
+ Research and development expenses for the three months ended September 30, 2021 were 4.3 million, compared to 2.9 million for the same period in 2020. Research and development costs continue to be centered around process development and regulatory and medical affairs for MACI and Epicel. The increase is primarily due to an increase of 0.7 million in stock-based compensation expense compared to the same period a year ago. 
+ 
+ Research and development expenses for the nine months ended September 30, 2021 were 12.4 million, compared to 9.9 million for the same period in 2020. The increase is primarily due to an increase of 1.8 million in stock-based compensation expense compared to the same period a year ago. 
+ 
+ Selling, General and Administrative Costs 
+ Three Months Ended September 30, Nine Months Ended September 30, (In thousands) 2021 2020 2021 2020 Selling, general and administrative costs 22,775 16,041 71,625 50,596 
+ 
+ Selling, general and administrative expenses for the three months ended September 30, 2021 were 22.8 million compared to 16.0 million for the same period in 2020. The increase in selling, general and administrative expenses during the three months ended September 30, 2021, compared to the same period in 2020, is primarily due to a 4.6 million increase in stock-based compensation expenses. 
+ 26 
+
+Selling, general and administrative expenses for the nine months ended September 30, 2021 were 71.6 million, compared to 50.6 million for the same period in 2020. The increase in selling, general and administrative expenses during the nine months ended September 30, 2021, compared to the same period in 2020, is primarily due to a 12.1 million increase in stock-based compensation expenses, a 1.0 million increase in MACI expenses driven by the sales force expansion in 2020, a 1.2 million increase in patient reimbursement support services as a result of higher MACI volume, an increase in headcount and a recovery of marketing activities that were partially reduced during 2020, because of COVID-19. 
+ 
+ Other Income (Expense) 
+ Three Months Ended September 30, Nine Months Ended September 30, (In thousands) 2021 2020 2021 2020 Net interest income 43 119 160 569 Other income (expense) (13) (18) 45 (8) Total other income 30 101 205 561 
+ 
+ The decrease in other income for the three and nine months ended September 30, 2021, compared to the same periods in 2020 is due primarily to the decreasing rates of return on our investments in various marketable debt securities compared to the prior period. 
+ 
+ Stock Compensation 
+ 
+ Non-cash stock-based compensation expense included in cost of product sales, research and development expenses and selling, general and administrative expenses is summarized in the following table: 
+ Three Months Ended September 30, Nine Months Ended September 30, (In thousands) 2021 2020 2021 2020 Cost of product sales 1,114 481 3,313 1,541 Research and development 1,126 458 3,222 1,455 Selling, general and administrative 6,356 1,736 19,946 7,823 Total non-cash stock-based compensation expense 8,596 2,675 26,481 10,819 
+ 
+ The increase in stock-based compensation expense for the three and nine months ended September 30, 2021 compared to the same periods in 2020, is due primarily to increases in stock prices which impact the fair value of the options and restricted stock units awarded and the expense recognized in the period. 
+ 
+ As of September 30, 2021, there was approximately 43.5 million of total unrecognized compensation cost related to non-vested service-based stock options granted under the 2019 Plan and the Prior Plans, compared to 13.1 million as of December 31, 2020. That cost is expected to be recognized over a weighted-average period of 3.2 years. 
+ 
+ As of September 30, 2021, there was approximately 10.6 million of total unrecognized compensation cost related to non-vested restricted stock units granted under the 2019 Plan and Prior Plans, compared to 2.1 million as of December 31, 2020. That cost is expected to be recognized over a weighted-average period of 3.1 years. The estimated unrecognized compensation cost is not reduced by expected forfeitures. 
+ 27 
+
+Liquidity and Capital Resources 
+ 
+ Since our acquisition of MACI and Epicel in 2014, our primary focus has been to invest in our existing commercial business with the goal of growing revenue. We have raised significant funds in order to complete our product development programs and to market and commercialize our products, and product candidates. To date, we have financed our operations primarily through cash received through Epicel and MACI sales, debt and public and private sales of our equity securities. We generated 18.5 million in operating cash flows during the nine months ended September 30, 2021, and we may finance our operations through the sales of equity securities. 
+ 
+ Nine Months Ended September 30, (In thousands) 2021 2020 Cash provided by operating activities 18,489 6,235 Cash provided by (used for) investing activities (5,386) 8,518 Cash provided by financing activities 7,830 1,987 Net increase in cash, cash equivalents and restricted cash 20,933 16,740 
+ 
+ Our cash and cash equivalents totaled 54.6 million, short-term investments totaled 43.7 million and long-term investments totaled 20.2 million as of September 30, 2021. The 18.5 million of cash provided by operations during the nine months ended September 30, 2021 was primarily the result of non-cash charges of 26.5 million related to stock compensation expense, 3.4 million of operating lease amortization and 2.2 million in depreciation and amortization expense, which offset our 12.0 million net loss. Additionally, there was a decrease in accounts receivable of 5.6 million and an increase in inventory of 3.7 million primarily to meet increased production needs. 
+ 
+ Our cash and cash equivalents totaled 43.6 million and short-term investments totaled 42.0 million as of September 30, 2020. The 6.2 million of cash provided by operations during the nine months ended September 30, 2020 was the primarily the result of non-cash charges of 10.8 million in stock compensation expense and 1.6 million in depreciation and amortization expense, which offset our 9.4 million net loss. Additionally, there was a decrease in accounts receivable of 6.0 million. 
+ 
+ The change in cash used in investing activities during the nine months ended September 30, 2021 was the result of 50.9 million of investment sales and maturities offset by 49.4 million in investment purchases and property and equipment purchases of 6.9 million primarily for manufacturing upgrades through September 30, 2021. The cash provided by investing activities for the nine months ended September 30, 2020 was the result of 39.1 million of investment sales and maturities offset by 29.0 million in short term investment purchases, and property plant and equipment purchases of 1.6 million primarily for manufacturing upgrades and leasehold improvements. 
+ 
+ The change in cash provided by financing activities was the result of net proceeds from the exercise of stock options and the employee stock purchase plan of 9.7 million, partially offset by the payment of employee withholding taxes related to the vesting of restricted stock units of 1.6 million during the nine months ended September 30, 2021. The change in cash provided from financing activities during the nine months ended September 30, 2020 was the result of proceeds from the exercise of stock options and the employee stock purchase plan of 2.2 million, slightly offset by the payment of employee withholding taxes related to the vesting of restricted stock units of 0.2 million. 
+ 
+ We believe that our current cash on hand, cash equivalents and investments will be sufficient to support our current operations through at least 12 months from the issuance of these Condensed Consolidated Financial Statements. However, the ongoing effects of the COVID-19 pandemic continue to evolve and may result in irrecoverable losses from customers. 
+ 
+ On August 27, 2021, we entered into a Sales Agreement with SVB Leerink LLC, as sales agent (SVB Leerink), pursuant to which we may offer and sell up to 200.0 million of shares of our common stock, no par value per share (ATM Shares). The ATM Shares to be offered and sold under the Sales Agreement will be issued and sold pursuant to an automatically effective shelf registration statement on Form S-3ASR (File No. 333-259119) filed by us on August 27, 2021, which expires three years from the filing date. We also filed a prospectus supplement relating to the offering and sale of the ATM Shares on August 27, 2021. We are not obligated to make any sales of ATM Shares, and SVB Leerink is not required to sell any specific number or dollar amount of the ATM Shares under the Sales Agreement. As of September 30, 2021, we have sold no shares pursuant to the Sales Agreement. 
+ 
+ 28 
+
+If revenue declines for a sustained period, we may need to access additional capital; however, we may not be able to obtain financing on acceptable terms or at all. Market volatility could also adversely impact our ability to access financing when needed. The terms of any financing may adversely affect the holdings or the rights of our shareholders. Actual cash requirements may differ from projections and will depend on many factors, including any future impacts of the COVID-19 pandemic, the level of future research and development, the scope and results of ongoing and potential clinical trials, the costs involved in filing, prosecuting and enforcing patents, the need for additional manufacturing capacity, competing technological and market developments, costs of possible acquisition or development of complementary business activities, and the cost to market our products. 
+
+Off-Balance Sheet Arrangements 
+ 
+ At September 30, 2021, we were not party to any off-balance sheet arrangements. 
+
+Critical Accounting Policies 
+ 
+ Our Condensed Consolidated Financial Statements are prepared in accordance with accounting principles generally accepted in the United States. The preparation of these Condensed Consolidated Financial Statements requires the application of appropriate technical accounting rules and guidance, as well as the use of estimates. The application of these policies necessarily involves judgments regarding future events. These estimates and judgments, in and of themselves, could materially impact the Condensed Consolidated Financial Statements and disclosures based on varying assumptions. The accounting policies discussed in our Annual Report are considered by management to be the most important to an understanding of the consolidated financial statements because of their significance to the portrayal of our financial condition and results of operations. There have been no material changes to that information disclosed in our Annual Report during the nine months ended September 30, 2021. 
+
+Cautionary Note Regarding Forward-Looking Statements 
+ 
+ This report, including the documents incorporated by reference herein, contain certain statements that describe our management s beliefs concerning future business conditions, plans and prospects, growth opportunities and the outlook for our business based upon information currently available. Such statements are forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995, Section 27A of the Securities Act of 1933, as amended, and Section 21E of the Securities Exchange Act of 1934, as amended (Exchange Act). Wherever possible, we have identified these forward-looking statements by words such as will, may, anticipates, believes, intends, estimates, expects, plans, projects, trends, opportunity, current, intention, position, assume, potential, outlook, remain, continue, maintain, sustain, seek, target, achieve, continuing, ongoing, and similar words or phrases, or future or conditional verbs such as would, should, could, may, or similar expressions. These forward-looking statements are based upon assumptions our management believes are reasonable. Such forward-looking statements are subject to risks and uncertainties which could cause our actual results, performance and achievements to differ materially from those expressed in, or implied by, these statements, including, among others, the risks and uncertainties listed in our Annual Report under Part I, Item 1A Risk Factors. 
+ 
+ Because our forward-looking statements are based on estimates and assumptions that are subject to significant business, economic and competitive uncertainties, many of which are beyond our control or are subject to change, actual results could be materially different and any or all of our forward-looking statements may turn out to be wrong. Forward-looking statements speak only as of the date made and can be affected by assumptions we might make or by known or unknown risks and uncertainties. Many factors mentioned in our discussion in our Annual Report will be important in determining future results. New factors emerge from time to time, and it is not possible for us to predict which factors will arise. Consequently, we cannot assure you that our expectations or forecasts expressed in such forward-looking statements will be achieved. Except as required by law, we undertake no obligation to publicly update any of our forward-looking or other statements, whether as a result of new information, future events, or otherwise. These forward-looking statements include statements regarding: 
+ 
+ manufacturing and facility capabilities; 
+ potential strategic collaborations with others; 
+ future capital needs and financing sources; 
+ adequacy of existing capital to support operations for a specified time; 
+ reimbursement for our products; 
+ the timing of a response to the FDA s CRL regarding the NexoBrid BLA; 
+ the timing of the FDA s review of any resubmission of the NexoBrid BLA; 
+ 29 
+
+expectations regarding approval by the FDA of the NexoBrid BLA; 
+ product development and marketing plans; 
+ features and successes of our therapies; 
+ clinical trial plans, including publication thereof; 
+ the effects of the COVID-19 pandemic on our business, including economic slowdowns or recessions, impact to our operations or to the healthcare industry generally, which could reduce demand for our products; 
+ anticipation of future losses; 
+ replacement of manufacturing sources; 
+ commercialization plans; or 
+ revenue expectations and operating results. 
+
+Item 3. Quantitative and Qualitative Disclosures About Market Risk 
+ 
+ As of September 30, 2021, we held marketable debt securities, which are classified as available-for-sale and carried at fair value in the accompanying Condensed Consolidated Balance Sheet included in this Form 10-Q. The fair value of our cash equivalents and marketable securities is subject to changes in market interest rates. Our earnings and cash flows are subject to fluctuations due to changes in interest rates, principally in connection with our investments in marketable debt securities. We do not believe we are materially exposed to changes in interest rates related to our investments, and we do not currently use interest rate derivative instruments or hedging transactions to manage exposure to interest rate changes of our investments. We estimate that a 100 basis point, or 1 , unfavorable change in interest rates would have resulted in approximately a 0.4 million and 0.5 million decrease in the fair value of our investment portfolio as of September 30, 2021 and December 31, 2020, respectively. 
+ 
+ We have evaluated the potential credit risk exposure for our accounts receivable and available-for sale investment securities in accordance with ASC 326, Financial Instruments - Credit Losses. See note 4 and note 8, for further discussion. 
+ 
+ We operate in the United States only. We are primarily exposed to foreign exchange risk with respect to recognized assets and liabilities due to vendors in countries outside the United States, which are typically paid in Euro. We do not enter into hedging transactions and do not purchase derivative instruments. 
+
+Item 4. Controls and Procedures 
+ 
+ Evaluation of Disclosure Controls and Procedures 
+ 
+ Management of the Company, with the participation of its Chief Executive Officer and Chief Financial Officer (its Certifying Officers), evaluated the effectiveness of the Company s disclosure controls and procedures as defined in Rules 13a-15(e) and 15d-15(e) under the Exchange Act. Based on the evaluation as of September 30, 2021, the Company s Certifying Officers concluded that the Company s disclosure controls and procedures were effective. 
+ 
+ The Company has established disclosure controls and procedures designed to ensure that information required to be disclosed by the Company in the reports that it files or submits under the Securities and Exchange Act of 1934, as amended (the Exchange Act), is recorded, processed, summarized and reported within the time periods specified in the Commission s rules and forms, and that such information is accumulated and communicated to management of the Company, with the participation of its Certifying Officers, as appropriate, to allow timely decisions regarding required disclosure. 
+ 
+ Changes in Internal Control over Financial Reporting 
+ 
+ During the three months ended September 30, 2021, there were no material changes made in our internal control over financial reporting (as such term is defined in Rules 13a-15(f) and 15d-15(f) of the Exchange Act). 
+
+30 
+
+PART II - OTHER INFORMATION 
+ 
+ Item 1. Legal Proceedings 
+ 
+ We are currently not party to any material legal proceedings, although from time to time we may become involved in disputes in connection with the operation of our business. 
+
+Item 1A. Risk Factors 
+ 
+ Certain risks described below update the risk factors discussed in Part I, Item 1A, Risk Factors, of our Annual Report on Form 10-K for the fiscal year ended December 31, 2020, as well as the Risk Factors discussed in Part II, Item 1A, Risk Factors, of our Quarterly Report on Form 10-Q for the quarter ended March 31, 2021 and June 30, 2021, and expound upon and amend the specific risks resulting from the COVID-19 pandemic, as well as the specific risks related to the U.S. Food Drug Administration s review of any resubmission of the NexoBrid BLA for the approval of NexoBrid in the United States. Each of these risks, as well as those discussed in our previous filings could materially affect our business, financial condition, results of operations, or cash flows. The risks described below and in our previous filings are not the only risks we face. Additional risks and uncertainties not currently known or currently deemed to be immaterial also may materially and adversely affect our business, financial condition, results of operations or cash flows. 
+ 
+ The current and ongoing pandemic of COVID-19 and the future outbreak of other highly infectious or contagious diseases, could seriously harm our research, development and commercialization efforts, increase our costs and expenses and have a material adverse effect on our business, financial condition and results of operations. 
+ 
+ Broad-based business or economic disruptions could adversely affect our ongoing or planned research, development and commercialization activities. For example, the COVID-19 pandemic has created significant disruptions to the U.S. and global economy and has contributed, at times, to significant volatility in financial markets. The global impact of the outbreak has fluctuated since early 2020. At times, many state, local and national governments including those in Massachusetts and Michigan, where the Company s operations are located have responded by issuing, extending and supplementing orders requiring quarantines, restrictions on travel, and the mandatory closure of certain non-essential businesses, among other actions. In the U.S., the status and application of these orders have varied on a state-by-state basis since the early days of the pandemic. Many of the restrictions have been periodically updated as infection rates in the U.S. have risen and fallen, as new virus variants have emerged, as vaccines have been distributed and administered, and as world health leaders learn more about the virus, its transmission pathway and who is most at risk. Because Vericel is deemed an essential business, the Company has been exempted from government orders requiring the closure of workplaces and the cessation of business operations as they have existed from time-to-time during the pandemic. 
+ 
+ Even though widespread distribution of vaccines designed to protect against COVID-19 infection began in the United States and other countries throughout the world in early 2021, the pandemic remains unpredictable and the number of COVID-19 infections has fluctuated significantly in various geographies during 2020 and throughout 2021 and could continue to do so, particularly in light of emerging variant strains. As such, some state and local governments have re-instituted restrictions on businesses, travel, and personal activities from time-to-time and additional such measures may occur in the future as the pandemic evolves. 
+ 
+ At the outset of the pandemic, the Company put in place a comprehensive workplace protection plan, which instituted protective measures in response to COVID-19. The Company s workplace protection plan closely followed guidance issued by the CDC and, at all times, has complied with applicable federal and state law. Because vaccines designed to protect against COVID-19 have become readily available in the United States and the rates of COVID-19 infections, hospitalizations and deaths in the majority of the U.S. have generally declined since their height at the beginning of 2021, the CDC and the OSHA have altered their guidance for Americans, and emergency orders and mandatory workplace protocols in Michigan and Massachusetts have either been rescinded or greatly reduced to include the lifting of all capacity limitations on businesses in both states. Accordingly, Vericel has begun a return to more normal workplace operations, but will continue to modify its workplace protection plan and will reinstitute protective measures for its workforce as necessary. The Company is reviewing its policies and procedures regularly, including the Company's workplace protection plan, as the pandemic evolves and may take additional actions to the extent required. Both these and any future actions we take may result in disruption to our business. 
+ 
+ The extent to which the COVID-19 pandemic, or the future outbreak of any other highly infectious or contagious disease, impacts our preclinical studies, clinical trial operations and current or future commercialization efforts will depend on future developments, which are highly uncertain and cannot be predicted with confidence, including the scope, severity and duration of such pandemic, the actions taken to contain the pandemic or mitigate its impact, and the direct and indirect economic effects 
+ 31 
+
+of the pandemic and containment measures, among others. The rapid development and uncertainty of this situation precludes any prediction as to the full adverse impact of the COVID-19 pandemic. Nevertheless, the COVID-19 pandemic has and could continue to adversely affect our business, financial condition and results of operations, and it may have the effect of heightening many of the risks described herein, including the below. 
+ 
+ Hospitals, health systems and surgeons minimized, postponed, or canceled electively scheduled surgeries during the initial wave of the pandemic in the spring of 2020. These actions were followed by numerous state-level executive orders either restricting or partially restricting elective surgeries. Because MACI is an elective surgical procedure, as a result of these restrictions the Company experienced a significant increase in cancellations of scheduled MACI procedures as well as a slowdown in new MACI orders during March and April of 2020, which negatively impacted the Company s business and results of operations during the first and second quarters of 2020. The level and degree of restriction on elective surgeries, on the ability of patients to seek treatment and on U.S. business operations generally fluctuated throughout 2020 as COVID-19 infection rates rose and fell during the summer months and into the autumn. By the first quarter of 2021, the pandemic s effects on the Company s MACI business had largely dissipated. During the summer of 2021, however, some patients postponed or delayed treatment with MACI in order to take vacation and/or travel following the lifting of COVID-19-related restrictions that had been in place in many parts of the country for more than a year. Additionally, the surge of new COVID-19 infections seen throughout the United States during the summer of 2021, resulting from the spread of the Delta variant again caused disruptions to health care networks, the scheduling of elective surgeries, like MACI, and overall patient behavior. These effects were compounded by staffing shortages at many healthcare facilities across the United States during the same period. Consequently, and notwithstanding the widespread distribution of vaccines in the United States, these factors contributed to a slowdown of MACI procedures during the third quarter of 2021. The risk remains that regional or local restrictions could again be placed on the performance of elective surgical procedures if the number of COVID-19 infections in the United States were to rise again, or if new or existing COVID-19 variants render current vaccine treatments ineffective. We believe our MACI business will be negatively impacted if elective surgical procedures are again restricted. Further, renewed and material disruption to the operations of our employees, distributors, suppliers or customers will impact our sales and operating results and could lead to potential impairments to inventory and accounts receivable. Although Epicel has been less directly impacted by the pandemic given the critical nature of severe burn injuries, it is difficult to ascertain the current or future impact of COVID-19 on the treatment of severe burns. 
+ 
+ We are currently conducting the PEAK (A Study of MACI in Patients Aged 10 to 17 Years with Symptomatic Chondral or Osteochondral Defects of the Knee) Study at ten (10) sites throughout the United States. Two (2) such sites have currently paused enrollment of new PEAK patients as a result of the effects of the pandemic, and the PEAK Study experienced a slow-down in its traditional rate of patient enrollment during 2020 and throughout 2021. Furthermore, the PEAK Study or another of our clinical trials may in the future experience difficulties associated with patient visits and study monitoring, which may be paused or delayed due to changes in policies at various clinical sites, federal, state, local or foreign laws, rules and regulations, including closure of site access to outside medical monitors, quarantines or other travel restrictions, prioritization of healthcare resources toward pandemic efforts, including diminished attention of physicians serving as our clinical trial investigators and reduced availability of site staff supporting the conduct of our clinical trials, interruption or delays in the operations of the FDA, heightened exposure of patients, principal investigators and site staff to COVID-19 if an outbreak occurs in their geography, or other reasons related to the COVID-19 pandemic. Further, patients who are already recruited into our clinical trials may be unable or unwilling to attend follow-up visits within the timelines specified in our trial protocols, potentially impacting our ability to meet our clinical trial endpoints. A future outbreak may also affect employees of third-party contract research organizations located in affected geographies that we rely upon to carry out our clinical trials. 
+ 
+ We continue to manufacture MACI and Epicel and we maintain a significant safety back-up of all key raw materials. We do not currently expect that supply chain interruptions will impact our ongoing manufacturing operations. However, we currently rely on both domestic and international third parties to, among other things, manufacture and supply raw materials, which are used to produce our products, and supply other goods and services to run our business. If any such third parties in our supply chain are adversely impacted by current or future restrictions or executive orders resulting from the COVID-19 pandemic for an extended period of time, including staffing shortages, production slowdowns, disruptions in delivery systems, or federal, state or foreign orders requiring the diversion of key supplies for use in the production or manufacturing of vaccines designed to inoculate individuals against COVID-19, our supply chain may be disrupted, limiting our ability to manufacture our products and product candidates and conduct our research and development operations, or commercially launch any of our product candidates, if approved. With respect to customer delivery, MACI final product has an established shelf life of six (6) days and established shipping shelf life of three (3) days. Currently, MACI is picked-up by courier and shipped by commercial air or ground transportation to our customers locations. Epicel final product has an established shelf life of 24 hours and is hand carried to customer hospital sites by courier. Transportation is primarily by commercial or charter airline. Although we 
+ 32 
+
+have not experienced material shipping delays or increased costs to date, significant disruption of air travel in the future could result in the inability to deliver MACI or Epicel final products to customer sites within appropriate timeframes, which would have a material adverse effect on our business and results of operations. 
+ 
+ The documented and ongoing world-wide supply chain disruptions may adversely impact our ability or the ability of others, including hospitals, to utilize MACI or Epicel. 
+ 
+ Throughout much of the pandemic, we generally restricted on-site staff in our facilities to only those personnel and contractors who are required to perform essential activities related to the manufacture, production and delivery of our products. We encouraged the majority of our remaining employees to work remotely. Since early 2021, vaccines designed to protect against COVID-19 infection have become readily available in the United States and the rates of COVID-19 infections, hospitalizations and deaths in the U.S. have generally declined from their height in early 2021. The CDC and OSHA have altered their guidance for Americans, and emergency orders and mandatory workplace protocols in Michigan and Massachusetts have either been rescinded or greatly reduced to include the lifting of all capacity limitations on businesses in both states. Accordingly, Vericel has begun a return to more normal workplace operations but will continue to modify its workplace protection plan and will reinstitute protective measures for its workforce as necessary. We expect that some of our employees will continue to work remotely from time to time. A resurgence of COVID-19, COVID-19 variants, or similar infectious diseases in the U.S., however, may lead to future government-imposed quarantines and restrictions, which may result in the closure of our administrative offices, with our employees working outside of our offices for an extended period of time. These actions may also result in the disruption of our manufacturing operations, which are currently accomplished within our administrative offices. Additionally, such quarantines and restrictions may adversely affect our ability to conduct certain product enhancement and business development activities. 
+ 
+ Our partial reliance on certain personnel working from home may also increase our cyber security risk, create data accessibility concerns, and make us more susceptible to communication disruptions, any of which could adversely impact our business operations or delay necessary interactions with local and federal regulators, institutional review boards and ethics committees, third-party contractors and suppliers, clinical trial sites and other important agencies and contractors. Our business operations may be further disrupted if any of our employees, officers or directors contract an illness related to COVID-19 and are unable to perform their duties. For example, COVID-19 illness could impact members of management or our board of directors resulting in absenteeism from management meetings or meetings of the directors or committees of directors, and making it more difficult for management to effectively oversee our daily operations, or to convene the quorums of the full board of directors or its committees needed to conduct meetings for the management of our affairs. A resurgence of COVID-19 or COVID-19 variants may cause our employees, and employees of third-party contractors and licensees, including MediWound, responsible for conducting research and development activities to be unable to access laboratories and places of business for an extended period of time as a result of the temporary closure of such workspaces. As a result, this could delay timely completion of ongoing clinical trials or preclinical activities, and our ability to select future development candidates. 
+ 
+ NexoBrid is currently a pre-commercial product in North America. On June 29, 2021, we announced that MediWound had received a CRL regarding the BLA and that the FDA communicated to MediWound that it had completed its review of the BLA, as amended, and had determined that it cannot approve the BLA in its present form. We announced further that we are working with MediWound and the FDA to address the issues identified in the CRL to seek potential approval of NexoBrid. Health regulatory agencies, including the FDA, have experienced and may continue to experience disruptions in their operations as a result of the continued spread or resurgence of the COVID-19 pandemic. For instance, the COVID-19 pandemic may impact the FDA s response times to regulatory submissions, like a BLA resubmission in response to the CRL, and its ability to monitor our clinical trials. Additionally, in many instances across the industry, the FDA has postponed, or has been unable to conduct certain inspections of domestic and international manufacturing facilities in connection with its regulatory review of product applications as a result of travel and other restrictions caused by the pandemic. As part of its review of the BLA, and any BLA resubmission, the FDA has communicated to MediWound that physical Current Good Manufacturing Practice (cGMP) inspections of manufacturing facilities in Israel and Taiwan are required before the BLA can be approved, as the FDA must assess the ability of those facilities to conduct certain manufacturing operations in compliance with cGMP. The FDA indicated that because of restrictions on travel caused by the COVID-19 pandemic, the agency was unable to conduct the required inspections of those facilities during the original BLA review cycle. Should continued restrictions prevent or delay the FDA in conducting necessary reviews or physical inspections of the manufacturing facilities involved in the production of NexoBrid, or should other events impact the FDA s response times, the timeline for approval of NexoBrid could be materially and further delayed, which could materially affect the development, study and ultimate commercialization of the product. 
+ 33 
+
+The trading prices of our common stock and that of other biopharmaceutical companies have been highly volatile during the COVID-19 pandemic. As a result, we may face difficulties raising capital through sales of our common stock or such sales may be on unfavorable terms. In addition, a recession, depression or other sustained adverse market event resulting from the continued spread or a resurgence of the COVID-19 pandemic could materially and adversely affect our business and the value of our common stock. 
+ 
+ The negative economic effects of the pandemic have, at times, caused increased unemployment in the U.S. resulting in many individuals losing their employer-based insurance coverage. Although the economy has begun to recover from the pandemic s initial effects, the continued or future unemployment of our potential patients may adversely affect our ability to commercialize our products. In addition, market disruption or rising unemployment caused by a resurgence of the COVID-19 pandemic or a variant strain thereof may lead to delays in obtaining insurance coverage and reimbursement of newly approved products as well as an increase in the numbers of uninsured patients and patients who may no longer be able to afford their co-insurance or co-pay obligations. These factors may lead to decreased utilization of our products, which could reduce revenue. The continued outbreak or a worsening of COVID-19 may also negatively impact our commercialization strategy for our products and product candidates, if approved. At times during the pandemic, hospitals and other medical institutions have reduced and diverted staffing, diverted resources to patients suffering from COVID-19 and limited hospital access for non-patients, which has included our sales personnel. Hospitals may continue or increase these and similar measures in the future should the COVID-19 virus continue to spread or surge in certain areas. In addition, COVID-19 levels in the United States and/or specific regions of the United States may cause customers or patients to postpone or cancel previously scheduled surgeries or to decline to schedule surgeries utilizing our products, which would negatively impact our operations and financial results. Although many face-to-face interactions are again resuming, our sales personnel, at times, have conducted, and may continue to have to conduct, many of their interactions with physicians and patients through the use of webinars, telemedicine, direct-to-consumer advertising and social media. These circumstances may adversely affect the ability of our sales professionals to effectively market our products to physicians in the future, which may have a negative impact on our potential sales and our market penetration. 
+ 
+ If any of these risks related to the impact of the COVID-19 pandemic were to occur, our preclinical activities, clinical development progress, data and timelines, commercialization efforts including any potential revenue from sales, supply chain continuity, and general business operations could be delayed and/or materially harmed and our business, prospects, financial condition, and results of operations would suffer as a result. The extent to which the current pandemic, or a future pandemic, impacts our business and operations will depend on future developments, such as the ultimate geographic spread of the disease, the duration of the outbreak, travel restrictions and governmental actions to contain the outbreak or treat its impact, which are highly uncertain and cannot be predicted with confidence. 
+ 
+ NexoBrid s approval in the United States for the treatment of severe burns may be further delayed, or it may not be approved for use in the United States and other North American markets at all. 
+ 
+ On September 16, 2020, we announced that the FDA had accepted for review MediWound s BLA seeking marketing approval for NexoBrid in the United States for the treatment of severe burns, and had assigned a PDUFA target date for the product of June 29, 2021. The BLA submission is based in large part on data derived from a U.S. Phase 3 pivotal study. MediWound is conducting twelve and twenty-four month safety follow-ups for cosmesis, function, quality of life and other safety measurements. Data from MediWound s twelve-month follow-up has been compiled and is being evaluated by the FDA, while data from the twenty-four month follow-up will be submitted to the agency as a safety update - either in connection with a BLA resubmission or as part of a post-approval commitment, if the BLA is approved. While this and previous studies evaluating NexoBrid have met their primary endpoints, we cannot predict the outcome of the planned safety follow-ups or whether the FDA will approve the BLA based on the available preclinical and clinical data and the submitted manufacturing processes, and the cGMP data. 
+ 
+ Subsequently, on June 29, 2021, we announced that MediWound received a CRL from the FDA regarding the BLA for NexoBrid. The FDA communicated to MediWound that it had completed its review of the BLA, as amended, and had determined that it cannot approve the BLA in its present form. The FDA identified issues related to the CMC section of the BLA and had requested that MediWound provide additional CMC information. The FDA stated that it had not reviewed several amendments submitted by MediWound in response to the CMC information requests related to the BLA. The FDA also stated that inspections of manufacturing facilities in Israel and Taiwan are required before the BLA can be approved, but that it was unable to conduct the required inspections during the original review cycle due to COVID-19-related travel restrictions. In addition, the CRL referenced observations that were made during GCP inspections related to the DETECT study and requested 
+ 34 
+
+that MediWound address questions regarding the impact of the observations on the study s efficacy findings. The FDA also requested that MediWound provide a safety update as part of a BLA resubmission. 
+ 
+ While we intend to work with MediWound and the FDA to address the issues identified in the CRL to seek the potential approval of NexoBrid, we cannot predict how long it will take for MediWound and/or the Company to respond to the CRL. We also cannot predict whether the FDA will accept any such resubmission for review, and, if such resubmission is accepted for review, the length of time of any subsequent FDA review. We also cannot predict whether FDA will ultimately approve the NexoBrid BLA. In addition, if approval to market NexoBrid is sought in Mexico or Canada, we cannot predict how long regulatory authorities in those countries will take to provide NexoBrid with marketing authorization in their jurisdictions or whether such authorizations will be granted at all. A significant delay or a failure to receive regulatory approval for NexoBrid in the United States may have a material adverse impact on our business prospects. 
+
+Item 1B. Unresolved Staff Comments 
+ 
+ Not applicable. 
+
+Item 2. Unregistered Sales of Equity Securities and Use of Proceeds 
+ 
+ Not applicable. 
+
+Item 3. Defaults Upon Senior Securities 
+ 
+ Not applicable. 
+
+Item 4. Mine Safety Disclosures 
+ 
+ Not applicable. 
+
+Item 5. Other Information 
+ 
+ Not applicable. 
+ 
+ 35 
+
+Item 6. Exhibits 
+ The Exhibits listed in the Exhibit Index are filed as a part of this Quarterly Report on Form 10-Q. 
+
+EXHIBIT INDEX 
+ 
+ Exhibit No. Description 31.1 Certification of Chief Executive Officer pursuant to Section 302 of the Sarbanes-Oxley Act of 2002. 
+ 31.2 Certification of Chief Financial Officer pursuant to Section 302 of the Sarbanes-Oxley Act of 2002. 
+ 32.1 Certification of Chief Executive Officer pursuant to Section 906 of the Sarbanes-Oxley Act of 2002. 
+ 32.2 Certification of Chief Financial Officer pursuant to Section 906 of the Sarbanes-Oxley Act of 2002. 
+ 32.3 Second Amendment to the Dispensing Agreement between AllCare Plus Pharmacy, Inc. and the Company, dated September 20th, 2021. 
+ 32.4 Seventh Amendment to the Distribution Agreement between Orsini Pharmaceutical Services, Inc. and the Company, dated October 1, 2021. 
+ 32.5 Consulting Agreement, dated July 2, 2021, by and between the Company and Sandra Pennell (incorporated herein by reference to Exhibit 32.4 on Form 10-Q filed August 4, 2021). 
+ 
+ 101.INS Inline XBRL Instance Document 101.SCH Inline XBRL Taxonomy Extension Schema Document 101.CAL Inline XBRL Taxonomy Extension Calculation Linkbase Document 101.LAB Inline XBRL Taxonomy Extension Label Linkbase Document 101.PRE Inline XBRL Taxonomy Extension Presentation Linkbase Document 101.DEF Inline XBRL Taxonomy Extension Definition Linkbase Document 104 Cover Page Interactive Data File (formatted as Inline XBRL and contained in Exhibit 101). 
+
+Filed herewith. 
+ 36 
+
+SIGNATURES 
+ 
+ Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned, thereunto duly authorized. 
+ 
+ Date: November 9, 2021 
+ 
+ VERICEL CORPORATION /s/ DOMINICK C. COLANGELO Dominick C. Colangelo President and Chief Executive Officer (Principal Executive Officer) /s/ JOSEPH A. MARA Joseph A. Mara Chief Financial Officer (Principal Financial Officer) 
+
+37 
+
+<EX-31.1>
+ 2
+ ex311ceocertificationq32021.htm
+ EX-31.1
+
+Document 
+
+EXHIBIT 31.1 
+ 
+ CERTIFICATION 
+ 
+ I, Dominick C. Colangelo, certify that 
+ 
+ 1. I have reviewed this Quarterly Report on Form 10-Q of Vericel Corporation 
+ 
+ 2. Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report 
+ 
+ 3. Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report 
+ 
+ 4. The registrant s other certifying officer and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have 
+ 
+ (a) Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared 
+ 
+ (b) Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles 
+ 
+ (c) Evaluated the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation and 
+ 
+ (d) Disclosed in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s most recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant s internal control over financial reporting and 
+ 
+ 5. The registrant s other certifying officer and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant s auditors and the audit committee of the registrant s board of directors (or persons performing the equivalent functions) 
+ 
+ (a) All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial information and 
+ 
+ (b) Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s internal control over financial reporting. 
+ 
+ Date November 9, 2021 
+ 
+ s DOMINICK C. COLANGELO Dominick C. Colangelo President and Chief Executive Officer (Principal Executive Officer) 
+
+</EX-31.1>
+
+<EX-31.2>
+ 3
+ ex312cfocertificationq32021.htm
+ EX-31.2
+
+Document 
+
+EXHIBIT 31.2 
+ 
+ CERTIFICATION 
+ 
+ I, Joseph A. Mara, certify that 
+ 
+ 1. I have reviewed this Quarterly Report on Form 10-Q of Vericel Corporation 
+ 
+ 2. Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report 
+ 
+ 3. Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report 
+ 
+ 4. The registrant s other certifying officer(s) and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have 
+ 
+ (a) Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared 
+ 
+ (b) Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles 
+ 
+ (c) Evaluated the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation and 
+ 
+ (d) Disclosed in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s most recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant s internal control over financial reporting and 
+ 
+ 5. The registrant s other certifying officer(s) and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant s auditors and the audit committee of the registrant s board of directors (or persons performing the equivalent functions) 
+ 
+ (a) All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial information and 
+ 
+ (b) Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s internal control over financial reporting. 
+ 
+ Date November 9, 2021 
+ 
+ s JOSEPH A. MARA Joseph A. Mara Chief Financial Officer (Principal Financial Officer) 
+
+</EX-31.2>
+
+<EX-32.1>
+ 4
+ ex321ceosoxcertificationq3.htm
+ EX-32.1
+
+Document 
+
+EXHIBIT 32.1 
+ 
+ 18 U.S.C. SECTION 1350, 
+ AS ADOPTED PURSUANT TO 
+ SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002 
+ 
+ In connection with the Quarterly Report of Vericel Corporation (the Company on Form 10-Q for the quarter ended September 30, 2021, as filed with the Securities and Exchange Commission on the date hereof (the Report ), the undersigned officer of the Company certifies, pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002 Section 906 ), the following 
+ 
+ (1) The Report fully complies with the requirements of section 13(a) and 15(d) of the Securities Exchange Act of 1934 and 
+ 
+ (2) The information contained in the Report fairly presents, in all material respects, the financial condition and results of operations of the Company. 
+ 
+ Date November 9, 2021 
+ 
+ s DOMINICK C. COLANGELO Dominick C. Colangelo President and Chief Executive Officer (Principal Executive Officer) 
+ 
+ A signed original of this written statement required by Section 906 has been provided to Vericel Corporation and will be retained by Vericel Corporation and furnished to the Securities and Exchange Commission or its staff upon request. 
+
+</EX-32.1>
+
+<EX-32.2>
+ 5
+ ex322cfosoxcertificationq3.htm
+ EX-32.2
+
+Document 
+
+EXHIBIT 32.2 
+ 
+ 18 U.S.C. SECTION 1350, 
+ AS ADOPTED PURSUANT TO 
+ SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002 
+ 
+ In connection with the Quarterly Report of Vericel Corporation (the Company on Form 10-Q for the quarter ended September 30, 2021, as filed with the Securities and Exchange Commission on the date hereof (the Report ), the undersigned officer of the Company certifies, pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002 Section 906 ), the following 
+ 
+ (1) The Report fully complies with the requirements of section 13(a) and 15(d) of the Securities Exchange Act of 1934 and 
+ 
+ (2) The information contained in the Report fairly presents, in all material respects, the financial condition and results of operations of the Company. 
+ 
+ Date November 9, 2021 
+ 
+ s JOSEPH A. MARA Joseph A. Mara Chief Financial Officer (Principal Financial Officer) 
+ 
+ A signed original of this written statement required by Section 906 has been provided to Vericel Corporation and will be retained by Vericel Corporation and furnished to the Securities and Exchange Commission or its staff upon request. 
+
+</EX-32.2>
+
+<EX-32.3>
+ 6
+ secondamendmenttothedispen.htm
+ EX-32.3
+
+Document 
+
+Second Amendment to Dispensing Agreement 
+ 
+ This Second Amendment to the July 26, 2018 Dispensing Agreement Agreement between Vericel Corporation and AllCare Plus Pharmacy AllCare shall be effective as of September 20 th , 2021 Effective Date ). 
+ 
+ RECITALS 
+ 
+ WHEREAS, Vericel and AllCare are Parties to the Agreement 
+ WHEREAS, the Parties desire to amend the Agreement 
+ NOW, THEREFORE, in consideration of good and valuable consideration, the Parties hereby agree to modify the Agreement as follows 
+ 
+ 1. Section 1 of Exhibit A - Payment Terms and Pricing. Section 1 of Exhibit A shall be deleted and replaced with the following 
+ 
+ Product. 
+ 
+ Product, under this Agreement is defined as 
+ 
+ Product NDC Number MACI 1 Membrane 69866-1030-05 MACI 2 Membranes 69866-1030-08 
+ 
+ 2. The Parties agree that all other conditions of the Agreement shall remain in force and that such terms shall prevail in the event of a conflict with this Second Amendment. 
+ 
+ IN WITNESS WHEREOF, the Parties have executed this Amendment, by their duly authorized representatives, as of the Effective Date. 
+ 
+ Vericel Corporation AllCare Plus Pharmacy By. s Roland DeAngelis By. s Dan Apelian Name Roland DeAngelis Name Dan Apelian Title Senior VP, Commercial Operations Title VP & GM Date August 5, 2021 Date August 5, 2021 
+
+</EX-32.3>
+
+<EX-32.4>
+ 7
+ seventhamendment.htm
+ EX-32.4
+
+Document 
+
+SEVENTH AMENDMENT TO DISTRIBUTION AGREEMENT 
+ 
+ This Seventh Amendment to the Distribution Agreement Seventh Amendment is between Vericel Corporation Vericel and Orsini Pharmaceutical Services, Inc. Orsini ). This Seventh Amendment is effective as of October 1, 2021 Effective Date ). 
+ 
+ Whereas , Vericel and Orsini are parties to a Distribution Agreement dated May 15, 2017 (as amended, the Agreement ), under which Vericel appointed Orsini as a specialty pharmacy distributor for MACI 
+ 
+ Whereas , the Parties entered into the First Amendment to the Agreement effective August 10, 2017 
+ 
+ Whereas , the Parties entered into the Second Amendment to the Agreement effective October 13, 2017 
+ 
+ Whereas , the Parties entered into the Third Amendment to the Agreement effective November 14, 2017 
+ 
+ Whereas , the Parties entered into the Fourth Amendment to the Agreement effective July 25, 2018 
+ 
+ Whereas , the Parties entered into the Fifth Amendment to the Agreement effective August 10, 2018 
+ 
+ Whereas , the Parties entered into the Sixth Amendment to the Agreement effective April 18, 2019 
+ 
+ and 
+ 
+ Whereas, the Parties desire to modify the Agreement to update the definition of Product 
+ 
+ Now therefore, for good and valuable consideration, the receipt and sufficiency of which is hereby acknowledged, the Parties agree to amend the Agreement as follows 
+ 
+ 1. Section 1 of Exhibit A Payment Terms and Pricing. Section 1 of Exhibit A shall be deleted and replaced with the following 
+ 
+ 1. Product. 
+ 
+ Product, under this Agreement is defined as 
+ 
+ Product NDC Number MACI 1 Membrane 69866-1030-05 MACI 2 Membranes 69866-1030-08 
+
+2. No Other Changes . To the extent terms in the Seventh Amendment conflict with the Agreement and or any of the amendments to the Agreement, the terms of this Seventh Amendment shall prevail. Except as provided in this Seventh Amendment, the terms and conditions of the Agreement will continue in full force. 
+ 
+ 3. Counterparts Signatures . This Seventh Amendment may be executed in multiple counterparts, each of which constitutes an original, and all of which, collectively, constitute only one agreement. The signatures of the parties need not appear on the same counterpart, and delivery of an executed counterpart signature page by facsimile or other form of electronic transmission shall be as effective as executing and delivering this Seventh Amendment in the presence of the other parties to this Seventh Amendment. 
+
+IN WITNESS WHEREOF , the parties executed this Seventh Amendment as of its Effective Date. 
+
+Vericel Corporation Orsini Pharmaceutical Services, Inc. By. s Roland DeAngelis By. s David Frobel Name Roland DeAngelis Name David Frobel Title Senior VP, Commercial Operations Title SVP- Trade Relations Date September 14, 2021 Date September 20, 2021 
+
+</EX-32.4>
+
+<EX-101.SCH>
+ 8
+ vcel-20210930.xsd
+ XBRL TAXONOMY EXTENSION SCHEMA DOCUMENT
+
+</EX-101.SCH>
+
+<EX-101.CAL>
+ 9
+ vcel-20210930_cal.xml
+ XBRL TAXONOMY EXTENSION CALCULATION LINKBASE DOCUMENT
+
+</EX-101.CAL>
+
+<EX-101.DEF>
+ 10
+ vcel-20210930_def.xml
+ XBRL TAXONOMY EXTENSION DEFINITION LINKBASE DOCUMENT
+
+</EX-101.DEF>
+
+<EX-101.LAB>
+ 11
+ vcel-20210930_lab.xml
+ XBRL TAXONOMY EXTENSION LABEL LINKBASE DOCUMENT
+
+</EX-101.LAB>
+
+<EX-101.PRE>
+ 12
+ vcel-20210930_pre.xml
+ XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE DOCUMENT
+
+</EX-101.PRE>
+

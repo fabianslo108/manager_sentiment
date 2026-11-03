@@ -1,0 +1,861 @@
+<Header>
+<FileStats>
+    <FileName>20211108_10-Q_edgar_data_884144_0000884144-21-000023.txt</FileName>
+    <GrossFileSize>6571652</GrossFileSize>
+    <NetFileSize>89010</NetFileSize>
+    <NonText_DocumentType_Chars>1147100</NonText_DocumentType_Chars>
+    <HTML_Chars>1940387</HTML_Chars>
+    <XBRL_Chars>1755539</XBRL_Chars>
+    <XML_Chars>1541122</XML_Chars>
+    <N_Exhibits>9</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0000884144-21-000023.hdr.sgml : 20211108
+<ACCEPTANCE-DATETIME>20211108160236
+ACCESSION NUMBER:		0000884144-21-000023
+CONFORMED SUBMISSION TYPE:	10-Q
+PUBLIC DOCUMENT COUNT:		63
+CONFORMED PERIOD OF REPORT:	20210930
+FILED AS OF DATE:		20211108
+DATE AS OF CHANGE:		20211108
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			ASURE SOFTWARE INC
+		CENTRAL INDEX KEY:			0000884144
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-COMPUTER INTEGRATED SYSTEMS DESIGN [7373]
+		IRS NUMBER:				742415696
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		10-Q
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-34522
+		FILM NUMBER:		211387839
+
+	BUSINESS ADDRESS:	
+		STREET 1:		3700 N CAPITAL OF TEXAS HWY
+		STREET 2:		#350
+		CITY:			AUSTIN
+		STATE:			TX
+		ZIP:			78746
+		BUSINESS PHONE:		5124372700
+
+	MAIL ADDRESS:	
+		STREET 1:		3700 N CAPITAL OF TEXAS HWY
+		STREET 2:		#350
+		CITY:			AUSTIN
+		STATE:			TX
+		ZIP:			78746
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	FORGENT NETWORKS  INC
+		DATE OF NAME CHANGE:	20020215
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	VTEL CORP
+		DATE OF NAME CHANGE:	19960401
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	VIDEO TELECOM CORP
+		DATE OF NAME CHANGE:	19960401
+
+</SEC-Header>
+</Header>
+
+ 0000884144-21-000023.txt : 20211108
+
+10-Q
+ 1
+ asur-20210930.htm
+ 10-Q
+
+asur-20210930 
+
+UNITED STATES 
+ SECURITIES AND EXCHANGE COMMISSION 
+ WASHINGTON, D.C. 20549 
+ 
+ FORM 
+ 
+ Quarterly Report Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934 for the quarterly period ended 
+ 
+ Transition Report Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934 for the transition period from __ to __ 
+ Commission File Number: 
+
+(Exact name of registrant as specified in its charter) 
+ (State or other jurisdiction of incorporation) (I.R.S. Employer Identification No.) , 
+ (Address of principal executive offices) (Zip Code) 
+ - 
+ (Registrant s Telephone Number, including Area Code) None (Former name, former address and former fiscal year, if changed since last report) 
+ 
+ Securities registered pursuant to Section 12(b) of the Act: 
+ 
+ Title of each class Trading Symbol(s) Name of each exchange on which registered The Capital Market 
+ N/A 
+ Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days. No Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T 232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files). No 
+ Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company, or an emerging growth company. See the definitions of large accelerated filer, accelerated filer, smaller reporting company, and emerging growth company in Rule 12b-2 of the Exchange Act. Large accelerated filer Accelerated filer Smaller reporting company Emerging growth company 
+ If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act). Yes 
+ As of November 5, 2021, shares of the registrant s Common Stock were outstanding. 
+
+Table of Contents 
+
+TABLE OF CONTENTS 
+ Page Number PART I - FINANCIAL INFORMATION 
+ Item 1. 
+ Financial Statements (Unaudited) 
+ Condensed Consolidated Balance Sheets as of September 30, 2021 and December 31, 2020 
+ 1 
+ Condensed Consolidated Statements of Comprehensive Income (Loss) for the Three and Nine Months Ended September 30, 2021 and September 30, 2020 
+ 2 
+ Condensed Consolidated Statements of Changes in Stockholders Equity for the Three and Nine Months Ended September 30, 2021 and September 30, 2020 
+ 3 
+ Condensed Consolidated Statements of Cash Flows for the Nine Months Ended September 30, 2021 and September 30, 2020 
+ 5 
+ Notes to Condensed Consolidated Financial Statements 
+ 7 
+ Item 2. 
+ Management s Discussion and Analysis of Financial Condition and Results of Operations 
+ 19 
+ Item 4. 
+ Controls and Procedures 
+ 26 
+ PART II - OTHER INFORMATION 
+ Item 1. 
+ Legal Proceedings 
+ 27 
+ Item 1A. 
+ Risk Factors 
+ 27 
+ Item 2. 
+ Unregistered Sales of Equity Securities and Use of Proceeds 
+ 28 
+ Item 3. 
+ Defaults upon Senior Securities 
+ 28 
+ Item 5. 
+ Other Information 
+ 28 
+ Item 6. 
+ Exhibits 
+ 29 
+ Signatures 
+ 30 
+
+Table of Contents 
+
+PART I - FINANCIAL INFORMATION 
+ 
+ ITEM 1. FINANCIAL STATEMENTS 
+ 
+ ASURE SOFTWARE, INC. 
+ CONDENSED CONSOLIDATED BALANCE SHEETS 
+ (in thousands, except per share amounts) 
+ September 30, 2021 December 31, 2020 ASSETS (unaudited) Current assets: Cash and cash equivalents Accounts receivable, net of allowance for doubtful accounts of and at September 30, 2021 and December 31, 2020, respectively 
+ Inventory Prepaid expenses and other current assets Total current assets before funds held for clients Funds held for clients Total current assets Property and equipment, net Goodwill Intangible assets, net Operating lease assets, net Other assets, net Total assets LIABILITIES AND STOCKHOLDERS EQUITY 
+ Current liabilities: Current portion of notes payable Accounts payable Accrued compensation and benefits Operating lease liabilities, current Other accrued liabilities Contingent purchase consideration Deferred revenue Total current liabilities before client fund obligations Client fund obligations Total current liabilities Long-term liabilities: Deferred revenue Deferred tax liability Notes payable, net of current portion Operating lease liabilities, noncurrent Contingent purchase consideration Other liabilities Total long-term liabilities Total liabilities Stockholders equity: Preferred stock, par value; shares authorized; issued or outstanding 
+ Common stock, par value; shares authorized; and shares issued, and shares outstanding at September 30, 2021 and December 31, 2020, respectively 
+ Treasury stock at cost, shares at September 30, 2021 and December 31, 2020 
+ ) ) Additional paid-in capital Accumulated deficit ) ) Accumulated other comprehensive income Total stockholders equity Total liabilities and stockholders equity 
+ 
+ The accompanying notes are an integral part of these Condensed Consolidated Financial Statements. 
+ 1 
+
+Table of Contents 
+
+ASURE SOFTWARE, INC. 
+ CONDENSED CONSOLIDATED STATEMENTS OF COMPREHENSIVE INCOME (LOSS) 
+ (in thousands, except per share amounts) 
+ Three Months Ended September 30, Nine Months Ended September 30, 2021 2020 2021 2020 (unaudited) (unaudited) Revenue: Recurring Professional services, hardware and other Total revenue Cost of Sales Gross profit Operating expenses: Sales and marketing General and administrative Research and development Amortization of intangible assets Total operating expenses Loss from operations ) ) ) ) Interest income (expense) and other, net ) ) ) ) (Loss) gain on extinguishment of debt ) ) Employee retention tax credit Income (loss) from operations before income taxes ) ) Income tax expense (benefit) ) Net income (loss) ) ) Other comprehensive (loss) income: Unrealized (loss) gain on marketable securities ) ) Comprehensive income (loss) ) ) Basic and diluted earnings (loss) per share Basic ) ) Diluted ) ) Weighted average basic and diluted shares Basic Diluted 
+ 
+ The accompanying notes are an integral part of these Condensed Consolidated Financial Statements. 
+ 2 
+
+Table of Contents 
+
+ASURE SOFTWARE, INC. 
+ CONDENSED CONSOLIDATED STATEMENTS OF CHANGES IN STOCKHOLDERS EQUITY 
+ (in thousands) 
+ (unaudited) 
+ Common Stock Outstanding Common Stock Amount Treasury Stock Additional Paid-in Capital Accumulated Deficit Other Comprehensive Income (Loss) Total Stockholders Equity Balance at December 31, 2020 ) ) Stock issued upon option exercise and vesting of restricted stock units Share based compensation Share issuance costs ) ) Net loss ) ) Other comprehensive loss ) ) Balance at March 31, 2021 ) ) Stock issued upon option exercise and vesting of restricted stock units Stock issued, ESPP Share based compensation Net income Other comprehensive loss ) ) Balance at June 30, 2021 ) ) Stock issued upon option exercise and vesting of restricted stock units Shares issued acquisitions Share based compensation Net income Other comprehensive loss ) ) Balance at September 30, 2021 ) ) 
+ 
+ The accompanying notes are an integral part of these Condensed Consolidated Financial Statements. 
+ 3 
+
+Table of Contents 
+
+ASURE SOFTWARE, INC. 
+ CONDENSED CONSOLIDATED STATEMENTS OF CHANGES IN STOCKHOLDERS EQUITY 
+ (in thousands) 
+ (unaudited) 
+ Common Stock Outstanding Common Stock Amount Treasury Stock Additional Paid-in Capital Accumulated Deficit Other Comprehensive Income (Loss) Total Stockholders Equity Balance at December 31, 2019 ) ) ) Stock issued upon option exercise and vesting of restricted stock units Share based compensation Net loss ) ) Other comprehensive income Balance at March 31, 2020 ) ) Stock issued, ESPP Stock issued upon option exercise and vesting of restricted stock units Share based compensation Net loss ) ) Other comprehensive income Balance at June 30, 2020 ) ) Stock issued upon option exercise and vesting of restricted stock units Share based compensation Net loss ) ) Other comprehensive income Balance at September 30, 2020 ) ) 
+ 
+ The accompanying notes are an integral part of these Condensed Consolidated Financial Statements. 
+ 4 
+
+Table of Contents 
+
+ASURE SOFTWARE, INC. 
+ CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS 
+ (in thousands) 
+ Nine Months Ended September 30, 2021 2020 (unaudited) Cash flows from operating activities: Net income (loss) ) Adjustments to reconcile income (loss) to net cash (used in) provided by operations: Depreciation and amortization Amortization of operating lease assets Amortization of debt financing costs and discount Net amortization of premiums and accretion of discounts on available-for-sale securities Provision for doubtful accounts Provision for deferred income taxes Gain on extinguishment of debt ) ) Net realized gains on sales of available-for-sale securities ) ) Share-based compensation (Gain) loss on disposals of long-term assets ) Change in fair value of contingent purchase consideration ) Changes in operating assets and liabilities: Accounts receivable ) Inventory Prepaid expenses and other assets ) Operating lease right-of-use assets ) ) Accounts payable ) Accrued expenses and other long-term obligations ) Operating lease liabilities Deferred revenue ) ) Net cash provided by operating activities ) Cash flows from investing activities: Acquisition of intangible asset ) ) Purchases of property and equipment ) ) Software capitalization costs ) ) Purchases of available-for-sale securities ) ) Proceeds from sales and maturities of available-for-sale securities Net cash used in investing activities ) ) Cash flows from financing activities: Proceeds from notes payable Payments of notes payable ) ) Payments of contingent purchase consideration ) Debt financing fees ) ) Net proceeds from issuance of common stock Net change in client fund obligations ) Net cash (used in) provided by financing activities ) Net (decrease) increase in cash, cash equivalents, restricted cash, and restricted cash equivalents ) Cash, cash equivalents, restricted cash and restricted cash equivalents, beginning of period Cash, cash equivalents, restricted cash and restricted cash equivalents, end of period 
+ 
+ The accompanying notes are an integral part of these Condensed Consolidated Financial Statements. 
+ 5 
+
+Table of Contents 
+
+ASURE SOFTWARE, INC. 
+ CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS (continued) 
+ (in thousands) 
+ 
+ Nine Months Ended September 30, 2021 2020 (unaudited) Reconciliation of cash, cash equivalents, restricted cash, and restricted cash equivalents to the Condensed Consolidated Balance Sheets Cash and cash equivalents Restricted cash and restricted cash equivalents included in funds held for clients Total cash, cash equivalents, restricted cash, and restricted cash equivalents Supplemental information: Cash paid for interest Cash paid for income taxes Net assets added from acquisitions Non-cash investing and financing activities: Contingent purchase consideration issued for acquisitions Notes payable issued for acquisitions Stock issuance for acquisitions 
+ 
+ The accompanying notes are an integral part of these Condensed Consolidated Financial Statements. 
+ 6 
+
+Table of Contents 
+ ASURE SOFTWARE, INC. 
+ NOTES TO THE CONDENSED CONSOLIDATED FINANCIAL STATEMENTS 
+ (unaudited) 
+ (in thousands, except per share amounts) 
+
+NOTE 2 
+
+7 
+
+Table of Contents 
+ ASURE SOFTWARE, INC. 
+ NOTES TO THE CONDENSED CONSOLIDATED FINANCIAL STATEMENTS 
+ (unaudited) 
+ (in thousands, except per share amounts) 
+
+8 
+
+Table of Contents 
+ ASURE SOFTWARE, INC. 
+ NOTES TO THE CONDENSED CONSOLIDATED FINANCIAL STATEMENTS 
+ (unaudited) 
+ (in thousands, except per share amounts) 
+
+NOTE 3 
+
+Available-for-sale securities Total Liabilities: Contingent purchase consideration (1) 
+ Total December 31, 2020 Assets: Cash equivalents Money market funds Funds held for clients Money market funds Available-for-sale securities Total Liabilities: Contingent purchase consideration (1) 
+ Total 
+ (1) See Note 4 Goodwill and Intangible Assets for further discussion regarding the contingent purchase consideration. 
+ 
+ 9 
+
+Table of Contents 
+ ASURE SOFTWARE, INC. 
+ NOTES TO THE CONDENSED CONSOLIDATED FINANCIAL STATEMENTS 
+ (unaudited) 
+ (in thousands, except per share amounts) 
+
+ Contingent purchase consideration ) Issued for acquisitions September 30, 2021 
+ 
+ Available-for-sale securities: Certificates of deposit ) Corporate debt securities ) Municipal bonds ) U.S. Government agency securities ) Total available-for-sale securities ) Total (2) 
+ ) December 31, 2020 Restricted cash equivalents Available-for-sale securities: Certificates of deposit Corporate debt securities ) Municipal bonds ) U.S. Government agency securities Total available-for-sale securities ) Total (2) 
+ ) 
+ 
+ (1) Unrealized gains and losses on available-for-sale securities are included as a component of comprehensive income (loss). As of September 30, 2021 and December 31, 2020, there were and securities, respectively, in an unrealized gain position and there were and securities in an unrealized loss position, respectively. As of September 30, 2021, these unrealized losses were less than individually and in the aggregate. As of December 31, 2020, these unrealized losses were less than individually and in the aggregate. These securities have not been in a continuous unrealized gain or loss position for more than 12 months. We do not intend to sell these investments and we do not expect to sell these investments before recovery of their amortized cost basis, which may be at maturity. We review our investments to identify and evaluate investments that indicate possible other-than-temporary impairment. Factors considered in determining whether a loss is other-than-temporary include the length of time and extent to which fair value has been less than the cost basis, the financial condition and near-term prospects of the investee, and our intent and ability to hold the investment for a period of time sufficient to allow for any anticipated recovery in market value. 
+ 
+ 10 
+
+Table of Contents 
+ ASURE SOFTWARE, INC. 
+ NOTES TO THE CONDENSED CONSOLIDATED FINANCIAL STATEMENTS 
+ (unaudited) 
+ (in thousands, except per share amounts) 
+
+ Restricted short-term marketable securities held to satisfy client funds obligations Restricted long-term marketable securities held to satisfy client funds obligations Total funds held for clients 
+ 
+ After one year through five years 
+
+We believe significant synergies are expected to arise from these strategic acquisitions and their assembled workforces. This factor contributed to a purchase price that was in excess of the fair value of the net assets acquired and, as a result, we recorded goodwill for each acquisition. A portion of acquired goodwill will be amortizable for tax purposes. As of September 30, 2021, there has been no impairment of goodwill based on the qualitative assessments performed by the Company. 
+ 
+ Gross Intangible Assets December 31, 2020 Acquisitions September 30, 2021 Customer relationships Developed technology Reseller relationships Trade names Non-compete agreements 
+ 
+ In July 2020, we acquired certain assets of a payroll tax business (the Asset Purchase Agreement ). The initial purchase price for the assets was , which we paid in cash at closing. The Asset Purchase Agreement set forth two subsequent purchase consideration payments, which are contingent on certain thresholds. The first contingent purchase consideration of , was offset by certain net amounts owed to us by the seller related to transition services in the amount of , was paid in June 2021 (a total payment of ). The second and final contingent purchase consideration, will be based on the trailing twelve-month revenue at October 31, 2021, and will generally be made by April 30, 2022. We utilized a Monte Carlo simulation to determine the fair value of the contingent consideration. The adjustment to the fair value of the contingent consideration as of September 30, 2021 was the aforementioned offset. 
+ 11 
+
+Table of Contents 
+ ASURE SOFTWARE, INC. 
+ NOTES TO THE CONDENSED CONSOLIDATED FINANCIAL STATEMENTS 
+ (unaudited) 
+ (in thousands, except per share amounts) 
+
+, paid as follows: (i) in cash at closing, (ii) the delivery of a promissory note in the amount of , and (iii) the delivery of shares of the Company s common stock, which the parties agreed had an aggregate value of as of September 30, 2021. The Second Asset Purchase Agreement is subject to working capital adjustments to the purchase price. 
+ 
+ Also in September 2021, we acquired certain assets of a payroll business (the Third Asset Purchase Agreement ). The initial purchase price for the assets was , of which was paid in cash at closing. The Third Asset Purchase Agreement also included the delivery of shares of the Company s common stock, which both parties agreed had an aggregate value of at closing. Finally, the Third Asset Purchase Agreement set forth a promissory note initially valued at 4,350 and includes a contingent consideration, which is contingent on certain thresholds and will be based on the trailing twelve-month revenue at September 30, 2022, which we expect will be paid in the fourth quarter of 2022. The promissory note has since been adjusted to to account for a shortfall in working capital. We utilized a Monte Carlo simulation to determine the fair value of the contingent consideration. There was no adjustment to the fair value of the contingent consideration at September 30, 2021. 
+ 
+ The Second Asset Purchase Agreement and Third Asset Purchase Agreement mentioned above were of small, privately held companies, whose historic cash basis financial statements were unaudited and not prepared under generally accepted accounting principals in the United States, including, but not limited to, differences in revenue recognition. The disclosure of supplemental pro forma financial information suggested under ASC 805 for a public business entity has been deemed impracticable by management due to these reasons. 
+ 
+ ) Developed technology ) Reseller relationships ) Trade names ) Non-compete agreements ) ) December 31, 2020 Customer relationships ) Developed technology ) Reseller relationships ) Trade names ) Non-compete agreements ) ) 
+ 
+ We record amortization expenses using the over the estimated useful lives of the intangible assets, as noted above. Amortization expenses recorded in Operating Expenses were and for the three months ended September 30, 2021 and 2020, respectively. Amortization expenses recorded in Cost of Sales were and for the three months ended September 30, 2021 and 2020, respectively. 
+ 12 
+
+Table of Contents 
+ ASURE SOFTWARE, INC. 
+ NOTES TO THE CONDENSED CONSOLIDATED FINANCIAL STATEMENTS 
+ (unaudited) 
+ (in thousands, except per share amounts) 
+
+and for the nine months ended September 30, 2021 and 2020, respectively. Amortization expenses recorded in Cost of Sales were and for the nine months ended September 30, 2021 and 2020, respectively. There was impairment of intangibles during the nine months ended September 30, 2021 based on the qualitative assessment performed by the Company. 
+ 
+ 2022 2023 2024 2025 2026 Thereafter 
+
+- 
+ PPP Loan Term Loan Senior Credit Facility Total Notes Payable 
+ (1) See Note 4 Goodwill and Intangible Assets for further discussion regarding the notes payable related to acquisitions. 
+ 
+ The following table summarizes the debt issuance costs as of the dates indicated (in thousands): 
+ Gross Notes Payable Debt Issuance Costs and Debt Discount Net Notes Payable September 30, 2021 Current portion of notes payable ) Notes payable, net of current portion ) Total ) December 31, 2020 Current portion of notes payable ) Notes payable, net of current portion ) Total ) 
+ 13 
+
+Table of Contents 
+ ASURE SOFTWARE, INC. 
+ NOTES TO THE CONDENSED CONSOLIDATED FINANCIAL STATEMENTS 
+ (unaudited) 
+ (in thousands, except per share amounts) 
+
+2022 2023 2024 2025 2026 Total 
+ 
+ Subordinated Notes Payable - Acquisitions 
+ 
+ There remains an outstanding principal balance on the subordinated note payable issued in connection with the purchase of a business we acquired in 2018, which note matured on July 1, 2021. Payment on the principal balance was withheld as security for an outstanding claim for which we are entitled to indemnification under the purchase agreement. We will make the payment, subject to our right of offset under the purchase agreement, when these claims are resolved. Due to our rights under the purchase agreement and the terms of this note, we are not in default under the note. 
+ 
+ See Note 4 Goodwill and Intangible Assets for further discussion regarding the issuance of subordinated notes payable related to acquisitions. 
+ 
+ PPP Loan with Pinnacle Bank 
+ 
+ Due to the effects of COVID-19 on our business and the related need to support our operations, we received an unsecured Paycheck Protection Program loan in the amount of (the PPP Loan in April 2020 from Pinnacle Bank (the Lender under the Coronavirus Aid, Relief and Economic Security Act. In June 2021, we received notice from our Lender that the Small Business Administration SBA had approved our application for forgiveness of our PPP Loan. The amount forgiven of was the amount we requested in our forgiveness application but was less than the original principal balance due, in part, to changes in SBA guidance following the date of our original loan application. Following the grant of forgiveness, we had an outstanding principal balance of and an additional immaterial amount of accrued interest in our PPP Loan, both of which were paid in full in June 2021. During the three months ended June 30, 2021 the Company recorded a gain on the forgiveness of the PPP Loan and accrued interest in the amount of . The gain on the forgiveness of the PPP Loan is reflected on our Condensed Consolidated Statements of Comprehensive Income, and is a non-taxable event. 
+ 
+ Term Loan with Wells Fargo N.A. 
+ 
+ In March 2014, we entered into a credit agreement (the Credit Agreement with Wells Fargo, as administrative agent, and the lenders that are party thereto. In connection with the Credit Agreement, we and our wholly owned active subsidiaries entered into a Guaranty and Security Agreement with Wells Fargo Bank, guaranteeing all obligations under the Credit Agreement and granted a security interest in substantially all of our and our subsidiaries assets. The Credit Agreement was amended and restated multiple times, with the most recent amendment and restatement effective December 31, 2019. The Credit Agreement was also amended, but not restated, on August 10, 2020. Following the amendment, the Credit Agreement provided for in term loans and a revolver and provided for new applicable margin rates for determining the interest payable on loans and amended certain of our financial covenants as described in our 2020 Annual Report on Form 10-K. For the period ending December 31, 2020, amount was outstanding and was available for borrowing under the revolver. During the three months ended September 30, 2021, we terminated the Credit Agreement. We paid Wells Fargo an aggregate amount of approximately in full payment of our outstanding obligations, including due on the note and immaterial amounts of interest, fees and other expenses. 
+ 
+ 14 
+
+Table of Contents 
+ ASURE SOFTWARE, INC. 
+ NOTES TO THE CONDENSED CONSOLIDATED FINANCIAL STATEMENTS 
+ (unaudited) 
+ (in thousands, except per share amounts) 
+
+ in term loan financing to support our growth needs (the Facility until March 31, 2022. The Company also entered into a secured promissory note with the Agent evidencing our obligations under the Facility. The Company s obligations are further guaranteed by each of our subsidiaries and secured by our assets and the assets of our subsidiaries. 
+ 
+ At the onset of the agreement, we paid to the Lenders an origination fee of . Interest accrues on any outstanding balance at a rate equal to the greater of 9.0 or the Prime Rate, plus 5.75 (the Basic Rate and is payable in advance. In addition, interest is paid in kind PIK at a rate of 1.00 or 1.25 based on our APR Ratio, measured on a quarterly basis. The PIK interest is added to our outstanding balance and accrues interest at the Basic Rate. Interest only payments are due until October 2023, with an option to extend until October 2024, dependent on certain financial or revenue metrics before the end of the first twenty-four months of the Facility. 
+ 
+ Principal payments begin after the expiration of the interest only period, and are based on a five year amortization schedule, with a balloon payment due in October 2025. The table above in this Note 5 Notes Payable summarizing future principal payments assumes the Company will not extend the period of interest only payments to October 2024. Upon payment in full of the obligations under the Facility, we are to pay Lenders a final payment fee equal to 1.0 of the increase in our market capitalization since the onset of the agreement, at that time valued at 182,400. 
+ 
+ The Company has agreed to provide the Lenders the right to participate in a future offering whether public or private on the same terms and conditions as other investors for an amount not to exceed 3,000. 
+ 
+ There are no financial covenants if our net cash position is equal to or greater than zero. If our net cash position is less than zero, the Company would be subject to the following financial covenants: (i) unrestricted cash of no less than 5,000, (ii) maintain an APR ratio of no less than 0.70:1.00 through September 10, 2023, and (iii) maintain an APR ratio of no less than 0.60:1.00 from September 10, 2023 through the remainder of the term of the Facility. The APR ratio would be the ratio of our tested debt to our annual recurring revenue and would be measured on a quarterly basis. Our Tested Debt consists of our outstanding obligations under the Facility (exclusive of PIK interest) and any indebtedness issued or earnouts owed to sellers in connection with acquisitions. 
+
+, were at September 30, 2021. Receivables from contracts with customers, net of allowance for doubtful accounts of , were at December 31, 2020. 
+ 
+ Deferred Commissions 
+ 
+ Deferred commission costs from contracts with customers were and at September 30, 2021 and December 31, 2020, respectively. The amount of amortization recognized for the three and nine months ended September 30, 2021 was and , respectively, and for the three and nine months ended September 30, 2020 was and , respectively. 
+ 
+ 15 
+
+Table of Contents 
+ ASURE SOFTWARE, INC. 
+ NOTES TO THE CONDENSED CONSOLIDATED FINANCIAL STATEMENTS 
+ (unaudited) 
+ (in thousands, except per share amounts) 
+
+ and , and the three and nine months ended September 30, 2020, revenue of and , respectively, was recognized from the deferred revenue balance at the beginning of each period. 
+ 
+ Transaction Price Allocated to the Remaining Performance Obligations 
+ 
+ As of September 30, 2021, approximately of revenue is expected to be recognized from remaining performance obligations. We expect to recognize revenue on approximately of these remaining performance obligations over the next months, with the balance recognized thereafter. 
+ 
+ Revenue Concentration 
+
+to . Our lease agreements do not contain any material residual value guarantees or material restrictive covenants. 
+ 
+ We record base rent expense under the straight-line method over the term of the lease. In the accompanying Condensed Consolidated Statements of Comprehensive Income (Loss), rent expense is included in operating expenses under general and administrative expenses. 
+ Sublease income ) ) ) ) Net rent expense 
+ 
+ For purposes of calculating the operating lease assets and lease liabilities, extension options are not included in the lease term unless it is reasonably certain we will exercise the option, or the lessor has the sole ability to exercise the option. The weighted average discount rate of our operating leases is as of September 30, 2021 and December 31, 2020, respectively. The weighted average remaining lease term is and as of September 30, 2021 and December 31, 2020, respectively. 
+ 
+ Supplemental cash flow information related to operating leases for the nine months ended September 30, 2021 and 2020 are as follows (in thousands): 
+ Nine Months Ended September 30, 2021 2020 Cash paid for amounts included in the measurement of lease liabilities: Operating cash outflows from operating leases Non-cash operating activities: Operating lease assets obtained in exchange for new operating lease liabilities 
+ 16 
+
+Table of Contents 
+ ASURE SOFTWARE, INC. 
+ NOTES TO THE CONDENSED CONSOLIDATED FINANCIAL STATEMENTS 
+ (unaudited) 
+ (in thousands, except per share amounts) 
+
+2022 2023 2024 2025 2026 Thereafter Total minimum lease payments Less: imputed interest ) Total lease liabilities 
+
+shares, and (ii) any shares subject to issued and outstanding awards under the 2009 Plan as of the effective date of the 2018 Plan that expire, are canceled or otherwise terminate following the effective date of the 2018 Plan. We have outstanding options to purchase shares at a weighted average exercise price of . During the three and nine months ending September 30, 2021 we issued employee stock options to purchase and shares, respectively. The weighted average exercise price of these awards was and for the three and nine months ended September 30, 2021, respectively. These awards will vest over a three year period. We also had outstanding restricted stock units as of September 30, 2021. 
+ 
+ As of September 30, 2021, we had shares available for grant pursuant to the 2018 Plan. 
+ 
+ Share based compensation for our stock option plans for the three months ended September 30, 2021 and September 30, 2020 was and , respectively and for the nine months ended September 30, 2021 and September 30, 2020 was and , respectively. We issued and shares of common stock related to exercises of stock options for the three months ended September 30, 2021 and 2020, respectively. We forfeited and issued shares of common stock related to the issuance of vested restricted stock units, net for the three months ended September 30, 2021 and 2020, respectively. 
+
+NOTE 9 
+ 
+ and for the three and nine months ended September 30, 2021, respectively, and and shares for the three and nine months ended September 30, 2020, respectively, from the computation of the diluted shares because the effect of including the stock options and restricted stock units would have been anti-dilutive. 
+ 
+ 17 
+
+Table of Contents 
+ ASURE SOFTWARE, INC. 
+ NOTES TO THE CONDENSED CONSOLIDATED FINANCIAL STATEMENTS 
+ (unaudited) 
+ (in thousands, except per share amounts) 
+
+ ) ) Weighted-average shares of common stock outstanding Basic earnings (loss) per share ) ) Diluted: Net income (loss) ) ) Weighted-average shares of common stock outstanding Diluted earnings (loss) per share ) ) 
+
+in Other income (expense), net in our Condensed Consolidated Statements of Comprehensive Income (Loss) to reflect the ERTC for the three quarters in 2021. The receivable for the ERTC benefit as of September 30, 2021 is in Other current assets on our Condensed Consolidated Balance Sheets at September 30, 2021. 
+ 18 
+
+Table of Contents 
+
+ ITEM 2. MANAGEMENT S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS 
+
+CAUTIONARY STATEMENT REGARDING FORWARD-LOOKING STATEMENTS 
+ 
+ This Form 10-Q contains forward-looking statements about our financial results, which may include expected U.S GAAP and non-U.S. GAAP financial and other operating and non-operating results, including revenue, net income, diluted earnings per share, operating cash flow growth, operating margin improvement, deferred revenue growth, expected revenue run rate, expected tax rates, share-based compensation expenses, amortization of purchased intangibles, amortization of debt discount and shares outstanding. The achievement or success of the matters covered by such forward-looking statements involves risks, uncertainties and assumptions. If any such risks or uncertainties materialize or if any of the assumptions prove incorrect, the Company s results could differ materially from the results expressed or implied by the forward-looking statements we make. The risks and uncertainties referred to above include but are not limited to risks associated with possible fluctuations in the Company s financial and operating results; the Company s rate of growth and anticipated revenue run rate, including impact of the current environment, the spread of major pandemics or epidemics (including COVID-19) and other related uncertainties such as government-imposed travel restrictions, interruptions to supply chains and extended shut down of businesses, reductions in employment and an increase in business failures, specifically among our clients, the Company s ability to convert deferred revenue and unbilled deferred revenue into revenue and cash flow, and ability to maintain continued growth of deferred revenue and unbilled deferred revenue; errors, interruptions or delays in the Company s services or the Company s Web hosting; breaches of the Company s security measures; domestic regulatory developments, including changes to or applicability to our business of privacy and data securities laws, money transmitter laws and anti-money laundering laws; the financial and other impact of any previous and future acquisitions; the nature of the Company s business model, including risks related to government contracts; the Company s ability to continue to release, gain customer acceptance of and provide support for new and improved versions of the Company s services; successful customer deployment and utilization of the Company s existing and future services; changes in the Company s sales cycle; competition; various financial aspects of the Company s subscription model; unexpected increases in attrition or decreases in new business; the Company s ability to realize benefits from strategic partnerships and strategic investments; the emerging markets in which the Company operates; the Company s ability to hire, retain and motivate employees and manage the Company s growth; changes in the Company s customer base; technological developments; litigation and any related claims, negotiations and settlements, including with respect to intellectual property matters or industry-specific regulations; unanticipated changes in the Company s effective tax rate; regulatory pressures on economic relief enacted as a result of the COVID-19 pandemic that change or cause different interpretations with respect to eligibility for such programs; factors affecting the Company s term loan; fluctuations in the number of Company shares outstanding and the price of such shares; collection of receivables; interest rates; factors affecting the Company s deferred tax assets and ability to value and utilize them; the potential negative impact of indirect tax exposure; the risks and expenses associated with the Company s real estate and office facilities space; and general developments in the economy, financial markets, credit markets and the impact of current and future accounting pronouncements and other financial reporting standards. 
+ 
+ Further information on these and other factors that could affect the Company s financial results is included in the reports on Forms 10-K, 10-Q and 8-K, and in other filings we make with the SEC from time to time. These documents are available on the SEC Filings section of the Investor Information section of the Company s website at investor.asuresoftware.com. Asure assumes no obligation and does not intend to update these forward-looking statements, except as required by law. 
+
+OVERVIEW 
+ 
+ Our Business 
+ 
+ The following review of Asure s financial position as of September 30, 2021 and December 31, 2020, and results of operations for the three and nine months ended September 30, 2021 and 2020 should be read in conjunction with our 2020 Annual Report on Form 10-K filed with the SEC on March 11, 2021. Asure s internet website address is www.asuresoftware.com. Our annual reports on Form 10-K, quarterly reports on Form 10-Q, current reports on Form 8-K and amendments to those reports filed or furnished pursuant to Section 13(a) or 15(d) of the Securities Exchange Act of 1934 are available through the investor relations page of our internet website free of charge as soon as reasonably practicable after they are electronically filed, or furnished to, the SEC. Asure s internet website and the information contained in our website or connected to our website are not incorporated into this Quarterly Report on Form 10-Q, however we do post information on the investor relations page of our website that we believe may be of interest to our investors. 
+ 
+ 19 
+
+Table of Contents 
+
+ Asure is a leading provider of cloud-based Human Capital Management HCM software and services. We help small and medium-sized businesses grow by offering the HR tools necessary to build a better workforce, providing the resources to stay compliant with ever changing federal, state, and local tax jurisdictions and labor laws, ultimately freeing their cash flows so they can spend their financial capital on growing their business rather than back-office overhead that impedes growth. Asure s HCM suite, named AsureHCM, includes cloud-based Payroll Tax, HR, and Time Attendance software as well as HR Services ranging from HR projects to completely outsourcing payroll and HR staff. We also offer these products and services through our network of Reseller Partners. 
+ 
+ We are a leading provider of cloud-based HCM solutions, delivered as a software-as-a-service SaaS for small and medium-sized businesses SMBs ). From recruitment to retirement, our solutions help more than 80,000 SMBs across the United States grow their businesses. About 10,000 of our clients are direct and approximately 70,000 remaining clients are indirect as they have contracts with Reseller Partners that white label our solutions. 
+ 
+ We strive to be the most trusted HCM resource to entrepreneurs and are focused on less densely populated U.S. metropolitan cities where fewer of our competitors have a presence. Our solution strategy solves three primary challenges that prevent businesses from growing: HR complexity, allocation of human and financial capital, and the ability to build great teams. We have invested in, and intend to continue to invest in, research and development to expand our solution. Asure HCM, our user-friendly solution, reduces the administrative burden on employers and increases employee productivity while managing the complete employment lifecycle. 
+ 
+ Impact of the COVID-19 Pandemic 
+ 
+ In March 2020, the World Health Organization declared the COVID-19 outbreak to be a global pandemic. In response, federal, state and local governments imposed various restrictions on social and commercial activity to promote social distancing in an effort to slow the spread of the disease, and certain restrictions remain in place. Beginning in February 2020, we took various actions in order to minimize the risk of COVID-19 to our employees, our clients, and the communities in which we operate, and in March 2020, we prohibited all business-related travel and began transitioning our employees to work-from-home arrangements. As of June 1, 2021, we have opened our offices and resumed in person work. We continue to take proactive measures, including regular cleaning of the offices, and monitoring of the Center for Disease Control guidelines for returning to work. We will continue to actively monitor the situation and may take further actions that alter our business operations as may be required by federal, state or local authorities or that we determine are in the best interests of our employees and clients. 
+ 
+ Beginning in 2020, the COVID-19 pandemic disrupted the operations of our clients and client prospects and may continue to do so for an indefinite period of time. Across many industries, temporary and permanent business closures as well as business occupancy limitations have resulted in significant layoffs and employee furloughs since late March 2020. Because we charge our clients on a per-employee basis for certain services we provide, decreases in the headcounts of our clients at the onset of the pandemic negatively impacted our recurring revenue during 2020. We expect our recurring revenue in future periods to continue to be negatively impacted by headcount reductions until employment levels across our client base return to pre-pandemic levels. Further, at the onset of the COVID-19 pandemic, a limited number of new clients temporarily delayed service implementation. As the COVID-19 pandemic continues to create uncertainty and the potential for ongoing business disruptions, we may experience similar client-driven delays in service implementation in the future. 
+ 
+ In 2020, we continued to aggressively invest in sales and marketing and in research and development to drive future growth and expand our market share. Lower headcount at our clients and the other pandemic-related factors described above, which had and may continue to have a negative impact on recurring revenue, combined with increased sales and marketing and research and development expenses, cumulatively had an adverse impact on our operating results for the year ended December 31, 2020. We expect net income to be negatively affected by the impact of the pandemic on our recurring revenue and our deliberate, increased level of investment in sales and marketing and research and development to drive the growth of our business. 
+ 
+ Prior to the COVID-19 pandemic, our sales force traveled frequently to market our solution set. The current remote work environment presents a unique opportunity because each sales employee is able to meet virtually with a greater number of client prospects in a given day than they would if conducting in-person meetings. Although we have not experienced such challenges to date, if clients and client prospects are not as willing or available to engage by video conference and teleconference, the shift from in-person to virtual sales meetings could negatively affect our sales efforts, impede client acquisition and lengthen our sales cycles, which would negatively impact our business and results of operations and could impact our financial condition in the future. 
+ 
+ 20 
+
+Table of Contents 
+
+ The employee retention tax credit ERTC for 2020 was established under the CARES Act and amended by the Taxpayer Certainty and Disaster Tax Relief Act of 2020 and provided for changes in the employee retention credit for 2020 and provided an additional credit. The Company evaluated its eligibility for the ERTC for the three quarters lapsed in 2021. It was determined that the Company qualified for the employee retention credit for each quarter ended in 2021. As a result, as of September 30, 2021 approximately 10,533 was recognized in Interest (expense) income, net for the ERTC. For further discussion, see Note 10 Employee Retention Credit. 
+ 
+ We are unable to estimate the full impact the COVID-19 pandemic could have on our business and results of operations in the future due to numerous uncertainties, including the severity of the disease, the occurrence of variant strains, the duration of the outbreak, actions that may be taken by governmental authorities, the impact it may have on the business of our clients and other factors identified in Part I, Item 1A Risk Factors in our 2020 Annual Report on Form 10-K. As a result, the effect of the ongoing COVID-19 pandemic may not be fully reflected in our results of operations and overall financial performance until future periods. 
+ 
+ Acquisitions 
+ 
+ On September 30, 2021, our subsidiary, Evolution Payroll Processing LLC EPP ), acquired certain assets of a New Jersey corporation, which were used to provide payroll processing services. The aggregate purchase price we paid for the assets was 24,150, including: (i) 15,000 in cash at closing, (ii) the delivery of a promissory note of 4,350, and (iii) the delivery of 523 shares of the Company s common stock which the parties agreed had an aggregate value of 4,800 as of September 30, 2021. At closing, the face amount of the promissory note was adjusted to 4,318 to account for a shortfall in working capital. The agreement is subject to future adjustments to the purchase price, including working capital and an earnout. 
+ 
+ Also on September 30, 2021, EPP acquired certain assets of a Vermont corporation, which were used to provide payroll processing services. The aggregate purchase price for these assets was 14,750, paid as follows: (i) 10,325 in cash at closing, (ii) the delivery of a promissory note in the amount of 2,213, and (iii) the delivery of 244 shares of the Company s common stock which the parties agreed had an aggregate value of 2,213 as of September 30, 2021. The agreement is subject to a future working capital adjustment to the purchase price. 
+
+RESULTS OF OPERATIONS (in thousands) 
+ 
+ Three and Nine Months Ended September 30, 2021 Compared to Three and Nine Months Ended September 30, 2020 
+ 
+ The following table sets forth, for the fiscal periods indicated, the percentage of total revenues represented by certain items in the Company s Condensed Consolidated Statements of Comprehensive Income (Loss): 
+ Three Months Ended September 30, Nine Months Ended September 30, 2021 2020 2021 2020 Revenues 100 100 100 100 Gross profit 60 57 61 58 Sales and marketing 22 22 20 20 General and administrative 39 37 37 34 Research and development 8 11 7 9 Amortization of intangible assets 14 15 14 15 Total operating expenses 83 86 78 77 Interest income (expense) and other, net (3) (2) (2) (2) (Loss) gain on extinguishment of debt (2) 15 Employee retention tax credit 59 19 Gain (loss) from operations before income taxes 31 (32) 15 (21) Net income (loss) 30 (30) 14 (21) 
+ 
+ 21 
+
+Table of Contents 
+
+ Revenue 
+ 
+ Revenues are comprised of recurring revenues, professional services, hardware, and other revenues. We expect our revenues to increase as we introduce new applications, expand our client base and renew and expand relationships with existing clients. As a percentage of total revenues, we expect our mix of recurring revenues, and professional services, hardware and other revenues to remain relatively constant. While revenue mix varies by product, recurring revenue represented over 91 of total revenue in the third quarter. 
+ 
+ Our revenue was derived from the following sources (in thousands): 
+ Three Months Ended September 30, Variance 2021 2020 Recurring 16,374 15,273 1,101 7 Professional services, hardware and other 1,607 742 865 117 Total 17,981 16,015 1,966 12 
+ Nine Months Ended September 30, Variance 2021 2020 Recurring 51,688 47,442 4,246 9 Professional services, hardware and other 3,263 1,635 1,628 100 Total 54,951 49,077 5,874 12 
+ 
+ Revenue for the three months ended September 30, 2021, increased sequentially 813 or 5 , from 17,168 for the three months ended June 30, 2021 primarily due to increased demand of our ERTC service and underlying growth in our core business. 
+ 
+ Recurring Revenues 
+ 
+ Recurring revenues include fees for our payroll, payroll tax, time and labor management, and other Asure solutions as well as fees charged for form filings and delivery of client payroll checks and reports. These revenues are derived from fixed amounts charged per billing period and sometimes an additional fee per employee or transaction processed. We do not require clients to enter into long-term contractual commitments for our services. Our billing period varies by client based on when each client pays its employees, which may be weekly, bi-weekly, semi-monthly or monthly. We also generate recurring revenue from our Reseller Partners that license our solutions. Because recurring revenues are based, in part, on fees for use of our applications and the delivery of checks and reports that are levied on a per-employee basis, our recurring revenues increase as our clients hire more employees. Recurring revenues are recognized in the period services are rendered. 
+ 
+ Recurring revenues include revenues relating to the annual processing of payroll forms, such as Form W-2 and Form 1099, and revenues from processing unscheduled payroll runs (such as bonuses) for our clients. Because payroll forms are typically processed in the first quarter of the year and many of our clients are subject to form filing requirements mandated by the Affordable Care Act ACA ), first quarter revenues and margins are generally higher than in subsequent quarters. We anticipate our revenues will continue to exhibit this seasonal pattern related to ACA form filings for so long as the ACA (or replacement legislation) includes employer reporting requirements. In addition, we often experience increased revenues during the fourth quarter due to unscheduled payroll runs for our clients that occur before the end of the year. Therefore, we expect the seasonality of our revenue cycle to decrease to the extent clients utilize more of our non-payroll applications. 
+ 
+ This revenue line also includes interest earned on funds held for clients. We collect funds from clients in advance of either the applicable due date for payroll tax submissions or the applicable disbursement date for employee payment services. These collections from clients are typically disbursed from one to 30 days after receipt, with some funds being held for up to 120 days. We typically invest funds held for clients in money market funds, demand deposit accounts, commercial paper, fixed income securities and certificates of deposit until they are paid to the applicable tax or regulatory agencies or to client employees. The amount of interest we earn from the investment of client funds is also impacted by changes in interest rates. 
+ 
+ 22 
+
+Table of Contents 
+
+ Revenue for the three months ended September 30, 2021 was 17,981, an increase of 1,966, or 12 , from 16,015 for the three months ended September 30, 2020. The 12 growth was split between two-thirds organic and one-third inorgranic growth. The inorganic growth was driven by an increase in clients from our acquisitions at the beginning of 2021. Higher account balances in funds held for clients increased interest revenue compared to the prior year. 
+ 
+ Revenue for the nine months ended September 30, 2021 was 54,951, an increase of 5,874, or 12 , from 49,077 for the nine months ended September 30, 2020. Recurring revenue increased primarily due to an increase in clients due to our acquisitions at the beginning of 2021 and higher account balances in funds held for clients and correlated interest revenue. 
+ 
+ Professional Services, Hardware and Other Revenues 
+ 
+ Professional Services, Hardware and Other Revenues represents implementation fees, one-time consulting projects, on-premise maintenance, and hardware devices to enhance our software products. 
+ 
+ Professional services, hardware and other revenue increased 865, or 117 , for the three months ended September 30, 2021 from the similar period in 2020 due to the continued success of our Employee Retention Tax Credit ERTC service launch, which we anticipate to have a positive impact on our operating results through 2021. 
+ 
+ Professional services, hardware and other revenue increased 1,628, or 100 , for the nine months ended September 30, 2021 from the similar period in 2020, due to the implementation of our ERTC service in 2021. 
+ 
+ Although our total customer base is widely spread across industries, our sales are concentrated in small to medium-sized businesses. We continue to target small and medium-sized businesses across industries as prospective customers. Geographically, we sell our products primarily in the United States. 
+ 
+ In addition to continuing to develop our workforce solutions and release of new software updates and enhancements, we continue to actively explore other opportunities to acquire additional products or technologies to complement our current software and services. 
+ 
+ Gross Profit and Gross Margin 
+ 
+ Consolidated gross profit for the three months ended September 30, 2021 was 10,868, an increase of 1,795, or 20 , from 9,073 for the three months ended September 30, 2020. Gross margin as a percentage of revenue was 60 for the three months ended September 30, 2021 as compared to 57 for the three months ended September 30, 2020. Our increase in gross margin is primarily attributable to the increase in revenue and more efficient operations. 
+ 
+ Consolidated gross profit for the nine months ended September 30, 2021 was 33,305, an increase of 5,018, or 18 , from 28,287 for the nine months ended September 30, 2020. Gross margin as a percentage of revenue was 61 for the nine months ended September 30, 2021 as compared to 58 for the nine months ended September 30, 2020. Our increase in gross margin is primarily attributable to the increase in revenue and more efficient operations. 
+ 
+ Our cost of sales relates primarily to direct product costs, compensation for operations and related consulting expenses, hardware expenses, facilities and related expenses and the amortization of our purchased software development costs. We include intangible amortization related to developed and acquired technology within cost of sales. 
+ 
+ Sales and Marketing Expenses 
+ 
+ Sales and marketing expenses primarily consist of salaries and related expenses for sales and marketing staff, including stock-based expenses, commissions, as well as marketing programs, which include events, corporate communications and product marketing activities. 
+ 
+ Selling and marketing expenses for the three months ended September 30, 2021 were 3,897, an increase of 324, or 9 , from 3,573 for the three months ended September 30, 2020. The increase in sales and marketing is primarily due to increased personnel costs offset by lower discretionary marketing spend as we focus on hiring direct sales personnel. Sales and marketing expenses as a percentage of revenue remained flat at 22 for the three months ended September 30, 2021 from 22 for the same period in 2020. 
+ 
+ 23 
+
+Table of Contents 
+
+ Selling and marketing expenses for the nine months ended September 30, 2021 were 11,130, an increase of 1,213, or 12 , from 9,917 for the nine months ended September 30, 2020, primarily due to increased personnel costs offset by lower discretionary marketing spending as we focus on hiring direct sales personnel. Selling and marketing expenses as a percentage of revenue remained flat at 20 for the nine months ended September 30, 2021 from 20 for the same period in 2020. 
+ 
+ We continue to expand and increase selling costs as we focus on hiring direct sales personnel, expanding recognition of our brand, and lead generation. 
+ 
+ General and Administrative Expenses 
+ 
+ General and administrative expenses primarily consist of salaries and related expenses, including stock-based expenses for finance and accounting, legal, internal audit, human resources and management information systems personnel, legal costs, professional fees, and other corporate expenses such as transaction costs for acquisitions. 
+ 
+ General and administrative expenses for the three months ended September 30, 2021 were 7,005, an increase of 1,058, or 18 , from 5,947 for the three months ended September 30, 2020, primarily attributable to increased personnel, contracting and placement costs. General and administrative expenses as a percentage of revenue increased to 39 for the three months ended September 30, 2021 from 37 for the same period in 2020. 
+ 
+ General and administrative expenses for the nine months ended September 30, 2021 were 20,324, an increase of 3,840, or 23 , from 16,484 for the nine months ended September 30, 2020, primarily attributable to increased personnel, contracting and placement costs. General and administrative expenses as a percentage of revenue increased to 37 for the nine months ended September 30, 2021 from 34 for the same period in 2020. 
+ 
+ We continue to drive efficiencies within our payroll operations by continually reevaluating our vendor relationships. 
+ 
+ Research and Development Expenses 
+ 
+ Research and development R D expenses consist primarily of salaries and related expenses, including stock-based expenses for employees supporting our R D activities. 
+ 
+ R D expenses for the three months ended September 30, 2021 were 1,505, a decrease of 300, or 17 , from 1,805 for the three months ended September 30, 2020. The decrease in R D expense is primarily attributable to an increase in investment costs offset by an increase in capitalization costs. R D expenses as a percentage of revenues decreased to 8 for the three months ended September 30, 2021 from 11 for the same period in 2020. 
+ 
+ R D expenses for the nine months ended September 30, 2021 were 3,972, a decrease of 384, or 9 , from 4,356 for the nine months ended September 30, 2020. The decrease in R D expense is primarily attributable to an increase in investment costs offset by an increase in capitalization costs. R D expenses as a percentage of revenues decreased to 7 for the nine months ended September 30, 2021 from 9 for the same period in 2020. 
+ 
+ We will continue to enhance our products and technologies through expansion of our technological resources by increasing headcount and development partnerships, as well as through organic improvements and acquired intellectual property. We will continue to expand the breadth of integration between our solutions, allowing direct clients and resellers the ability to easily add and implement components across our entire solution set. We believe that our expanded investment in product, engineering, SaaS hosting, mobile and hardware technologies lays the groundwork for broader market opportunities and represents a key aspect of our competitive differentiation. Native mobile applications, common user interface, expanded web service integration and other technologies are all part of our initiatives. 
+ 
+ Our development efforts for future releases and enhancements are driven by feedback received from our existing and potential customers and by gauging market trends. We believe we have the appropriate development team to design and enhance our solution suite and integrated platform. We have also made significant investments outside of core R D into compliance and certifications, including SOC I Type 2 and SOC II Type 2 certifications, BIPA, CCPA, and other initiatives. 
+ 
+ Amortization of Intangible Assets 
+ 
+ Amortization expense in operating expenses for the three months ended September 30, 2021 was 2,534, an increase of 110, or 5 , from 2,424 for the three months ended September 30, 2020. Amortization expense as a percentage of revenue was 14 and 15 for the three months ended September 30, 2021 and 2020, respectively. 
+ 24 
+
+Table of Contents 
+
+Amortization expense in operating expenses for the nine months ended September 30, 2021 was 7,590, an increase of 468, or 7 , from 7,122 for the nine months ended September 30, 2020. Amortization expense as a percentage of revenue was 14 and 15 for the nine months ended September 30, 2021 and 2020, respectively. 
+ 
+ Other Income (Expense), Net 
+ 
+ Other income (expense), net for the three months ended September 30, 2021 was a gain of 9,661 compared to a loss of 408 for the three months ended September 30, 2020. The gain is attributed to 10,533 in Employee Retention Credits, discussed earlier in this Management s Discussion and Analysis of Financial Condition and Results of Operations under Impact of the COVID-19 Pandemic. Other income (expense), net as a percentage of revenue was income of 54 and an expense of 3 for the three months ended September 30, 2021 and September 30, 2020, respectively. Interest expenses for the three months ended September 30, 2021 and 2020 are composed primarily of interest expense on notes payable. 
+ 
+ Other income (expense), net for the nine months ended September 30, 2021 was a gain of 17,868 compared to a loss of 807 for the nine months ended September 30, 2020. The gain is attributed to 10,533 in Employee Retention Credits, discussed earlier in this Management s Discussion and Analysis of Financial Condition and Results of Operations under Impact of the COVID-19 Pandemic. Other income (expense), net as a percentage of revenue was income of 33 and expense of 2 for the nine months ended September 30, 2021 and September 30, 2020, respectively. Interest expenses for the nine months ended September 30, 2021 and 2020 is composed primarily of interest expense on notes payable. 
+ 
+ Income Taxes 
+ 
+ For the three months ended September 30, 2021 and 2020, we recorded an income tax expense attributable to continuing operations of 260 and benefit of 325, respectively, an increase of 585 or 180 . 
+ 
+ For the nine months ended September 30, 2021 and 2020, we recorded an income tax expense attributable to continuing operations of 663 and 71, respectively, an increase of 592 or 834 . 
+ 
+ Income (Loss) From Operations 
+ 
+ We generated income from operations of 5,328, or 0.28 per share, during the three months ended September 30, 2021, compared to a loss from operations of 4,759, or 0.30 per share, during the three months ended September 30, 2020. Income and loss from operations as a percentage of total revenues was 30 and 30 for the three months ended September 30, 2021 and 2020, respectively. 
+ 
+ We generated income from operations of 7,494, or 0.39 per share, during the nine months ended September 30, 2021, compared to a loss from operations of 10,470, or 0.66 per share, during the nine months ended September 30, 2020. Income and loss from operations as a percentage of total revenues was 14 and 21 for the nine months ended September 30, 2021 and 2020, respectively. 
+ 
+ We intend to continue to implement our corporate strategy for growing our software and services business by investing in areas that directly generate revenue and positive cash flows for the Company. However, uncertainties and challenges remain, including the effects of COVID-19, inflation and supply chain disruptions, and there can be no assurance that we can successfully grow our revenues or achieve profitability during the remainder of fiscal year 2021. 
+
+LIQUIDITY AND CAPITAL RESOURCES (in thousands) 
+ September 30, 2021 December 31, 2020 Cash and cash equivalents (1) 
+ 11,506 28,577 
+ (1) This balance excludes cash equivalents in funds held for clients 
+ 
+ Working Capital . We had working capital of 17,356 at September 30, 2021, an increase of 9,148 from working capital of 8,208 at December 31, 2020. Working capital as of September 30, 2021 and December 31, 2020 includes 1,501 and 4,416 of short-term deferred revenue, respectively. Deferred revenue is an obligation to perform future services. We expect that deferred revenue will convert to future revenue as we perform our services, but this does not represent future payments. Deferred revenue can vary based on seasonality, expiration of initial multi-year contracts and deals that are billed after implementation rather than in advance of service delivery. 
+ 25 
+
+Table of Contents 
+
+Operating Activities . Net cash used in operating activities of 1,144 for the nine months ended September 30, 2021 was primarily driven by non-cash adjustments to our net income of approximately 7,026, primarily due to depreciation and amortization, and net income of 7,494. This was offset by changes in operating assets and liabilities, which resulted in a use of 15,473 in cash. Net cash provided by operating activities of 2,296 for the nine months ended September 30, 2020 was driven by non-cash adjustments to our net loss of approximately 14,017, primarily due to depreciation and amortization, offset by our net loss of 10,470. Changes in operating assets and liabilities resulted in a use of 1,251 in cash. 
+ 
+ Investing Activities . Net cash used in investing activities of 21,042 for the nine months ended September 30, 2021 is primarily due to our third quarter acquisitions totaling 25,526. Net cash used in investing activities of 15,312 for the nine months ended September 30, 2020 is primarily due to the purchase and sale of available-for-sale securities. 
+ 
+ Financing Activities . Net cash used in financing activities was 133,990 for the nine months ended September 30, 2021, which primarily consisted of a net decrease in client fund obligations of 146,206 and payments of notes payable of 15,073. These amounts were offset by proceeds from our notes payable of 29,425. Net cash provided by financing activities was 65,494 for the nine months ended September 30, 2020, which primarily consisted of a net increase in client fund obligations of 68,441. 
+ 
+ Sources of Liquidity . As of September 30, 2021, the Company s principal sources of liquidity consisted of approximately 11,506 of cash and cash equivalents, cash generated from operations of our business over the next twelve months, and 20,000 available for borrowing under our credit facility with Structural Capital Investments III, LP, which is discussed in Note 5 Notes Payable, to the Condensed Consolidated Financial Statements. 
+
+CRITICAL ACCOUNTING POLICIES AND ESTIMATES 
+ 
+ Preparation of the Condensed Consolidated Financial Statements in conformity with U.S. GAAP requires management to make estimates and assumptions that affect the reported amounts of the assets and liabilities, the disclosure of contingent assets and liabilities at the date of the consolidated financial statements and the reported amounts of revenues and expenses during the reporting period. These estimates are subjective in nature and involve judgments. The more significant estimates made by management include the valuation allowance for the gross deferred tax assets, useful lives of fixed assets, the determination of the fair value of its long-lived assets, and the fair value of assets acquired and liabilities assumed during acquisitions. We base our estimates on historical experience and on various other assumptions management believes reasonable under the given circumstances. These estimates could be materially different under different conditions and assumptions. Additionally, the actual amounts could differ from the estimates made. Management periodically evaluates estimates used in the preparation of the Condensed Consolidated Financial Statements for continued reasonableness. We make appropriate adjustments, if any, to the estimates used prospectively based upon such periodic evaluation. Information regarding recent accounting pronouncements is provided in Note 2, Significant Accounting Policies , to the Condensed Consolidated Financial Statements. Such information is incorporated by reference herein. 
+
+ITEM 4. CONTROLS AND PROCEDURES 
+ 
+ Evaluation of Disclosure Control and Procedures 
+ 
+ The Company maintains disclosure controls and procedures as defined in Rules 13a-15(e) and 15d-15(e) under the Exchange Act that are designed to ensure that information required to be disclosed in the reports filed or submitted by Asure to the SEC is recorded, processed, summarized, and reported, within the time periods specified by the SEC s rules and forms, and is accumulated and communicated to management including the Chief Executive Officer and Chief Financial Officer, as appropriate, to allow timely decisions regarding required disclosure. The Company s management, including the Chief Executive Officer and Chief Financial Officer, performed an evaluation to conclude with reasonable assurance that Asure s disclosure controls and procedures were designed and operating effectively to report the information each company is required to disclose in the reports they file with the SEC on a timely basis. Based on that evaluation, the Chief Executive Officer and the Chief Financial Officer of Asure have concluded that as of September 30, 2021, disclosure controls and procedures were effective. 
+ 
+ Change in Internal Controls over Financial Reporting 
+ 
+ During the period ended September 30, 2021, there were no changes in our internal control over financial reporting that have materially affected or are reasonably likely to materially affect, our internal control over financial reporting. 
+ 26 
+
+Table of Contents 
+
+ PART II OTHER INFORMATION 
+
+ITEM 1. LEGAL PROCEEDINGS 
+ 
+ Although we have been, and in the future may be, the defendant or plaintiff in various actions arising in the normal course of business, as of September 30, 2021, we were not party to any pending legal proceedings that are material to our business. 
+
+ITEM 1A. RISK FACTORS 
+ 
+ We have updated certain of the risk factors described in Part I, Item 1A. Risk Factors in our 2020 Annual Report on Form 10-K (the Risk Factors to reflect the termination of our Third Restated Credit Agreement and the entering of the Senior Credit Facility with Structural Capital Investments III, LLP. The Risk Factors, as updated below, should be carefully considered, together with the other information contained or incorporated by reference in this Quarterly Report on Form 10-Q and in our other filings with the SEC, in connection with evaluating the Company, our business, and the forward-looking statements contained in this Quarterly Report on Form 10-Q. Other risks that we do not presently know about or that we presently believe are not material could also adversely affect us. The risk factors described below update the risk factors disclosed in Part I, Item 1A. in our 2020 Annual Report on Form 10-K to include additional information, and should be read in conjunction with the risk factors in our 2020 Annual Report on Form 10-K. 
+ 
+ We have acquired and plan to continue to acquire from time to time our Reseller Partners' businesses that have licensed our proprietary software either through stock acquisition or through an asset purchase of their client service agreements and related assets. These acquisitions could prove difficult to integrate, result in unknown or unforeseen liabilities, disrupt our business, dilute stockholder value and ownership and adversely affect our operating results and financial condition. 
+ 
+ Acquisitions and investments involve numerous risks, including: 
+ 
+ potential failure to achieve the expected benefits of the combination or acquisition; 
+ difficulties in, and the cost of, integrating operations, technologies, services, platforms and personnel; 
+ diversion of financial and managerial resources from existing operations; 
+ the potential entry into new markets in which we have little or no experience or where competitors may have stronger 
+ market positions; 
+ potential write-offs of acquired assets or investments, and potential financial and credit risks associated with acquired customers; 
+ potential loss of key employees of the acquired company; 
+ inability to generate sufficient revenue to offset acquisition or investment costs; 
+ inability to maintain relationships with customers and partners of the acquired business; 
+ difficulty of transitioning the acquired technology onto our existing platforms and customer acceptance of multiple 
+ platforms on a temporary or permanent basis; 
+ increasing or maintaining the security standards for acquired technology consistent with our other services; 
+ potential unknown liabilities associated with the acquired businesses including regulatory noncompliance; 
+ negative impact to our results of operations because of the depreciation and amortization of amounts related to acquired intangible assets, fixed assets and deferred compensation; 
+ additional stock based compensation; 
+ the loss of acquired deferred revenue and unbilled deferred revenue; 
+ delays in customer purchases due to uncertainty related to any acquisition; 
+ ineffective or inadequate controls, procedures and policies at the acquired company; 
+ potential additional cybersecurity and compliance risks resulting from entry into new markets; and 
+ the tax effects of any such acquisitions. 
+ 
+ Any of these risks could have an adverse effect on our business, operating results and financial condition. To facilitate these acquisitions or investments, we may seek additional equity or debt financing, which may not be available on terms favorable to us, or at all, which may affect our ability to complete acquisitions or investments. If we finance acquisitions by issuing equity or convertible or other debt securities or loans, or issue equity as consideration for an acquisition, our existing stockholders may be diluted, or we could face constraints related to the terms of, and repayment obligations related to, the incurrence of indebtedness. 
+ 
+ 27 
+
+Table of Contents 
+
+ Our ability to make scheduled payments on or to refinance our existing indebtedness (including the indebtedness under our Senior Credit Facility with Structural Capital Investments III LP and our subordinated promissory notes) depends on our future performance, which is subject to economic, financial, competitive and other factors that may be beyond our control. 
+ 
+ Our business may not generate cash flow from operations in the future sufficient to service our debt and support our growth strategies. If we are unable to generate sufficient cash flow, we may be required to pursue one or more alternatives, such as selling assets, restructuring debt or obtaining additional equity capital on terms that may be onerous or dilutive. Our ability to refinance our indebtedness will depend on the capital markets and our financial condition at such time. We may not be able to engage in any of these activities or on desirable terms, which could result in a default on our debt obligations, including under our current debt obligations. In addition, if for any reason we are unable to meet our debt service and repayment obligations, we would be in default under the terms of our Senior Credit Facility with Structural Capital Investments III LP, which would allow our creditors at that time to declare all outstanding indebtedness to be due and payable. Under these circumstances, our lenders could compel us to apply all of our available cash to repay our indebtedness. 
+ 
+ Our ability to incur debt and the use of our funds could be limited by the restrictive covenants in our loan agreement for our term loan and revolving credit facility. 
+ 
+ Our agreement with Structural Capital Investments III LP provides for a credit facility that contains restrictive covenants, including restrictions on our ability to pay dividends to stockholders, as well as requirements to comply with certain leverage ratios and other financial maintenance tests and stringent requirements around regulatory compliance. These restrictive covenants and requirements limit the amount of borrowings that are available to us. The agreement covenants may also affect our ability to obtain future financing and to pursue attractive business opportunities and our flexibility in planning for, and reacting to, changes in business conditions. These covenants could place us at a disadvantage compared to some of our competitors, who may have fewer restrictive covenants and may not be required to operate under these restrictions. 
+
+ITEM 2. UNREGISTERED SALES OF EQUITY SECURITIES AND USE OF PROCEEDS 
+ 
+ None. 
+
+ITEM 3. DEFAULTS UPON SENIOR SECURITIES 
+ 
+ None. 
+
+ITEM 5. OTHER INFORMATION 
+ 
+ None. 
+ 28 
+
+Table of Contents 
+
+ITEM 6. EXHIBITS 
+ 
+ EXHIBIT NUMBER DESCRIPTION 2.1 
+ Asset Purchase Agreement, among Evolution Payroll Processing LLC, USA Processing, Inc., Mary VanWyk-Fiannaca and Frank Fiannaca, dated as of September 30, 2021. (Filed as Exhibit 2.1 in the Company's Current Report on Form 8-K, filed October 6, 2021.) 
+ 2.2 
+ Asset Purchase Agreement, among Evolution Payroll Processing LLC, Paydata Payroll Systems, Inc., Summit Run Investments, Inc., Michael J. Trahan Revocable Trust dated 2/10/09, as amended and restated U/A/D 6/12/12, Michael J. Trahan, and Michael J. Trahan, as Seller Representative, dated as of September 30, 2021. (Filed as Exhibit 2.2 in the Company's Current Report on Form 8-K, filed October 6, 2021.) 
+ 10.1 
+ Loan and Security Agreement, dated as of September 10, 2021, among Asure Software, Inc., and Structural Capital Investments III, LP, Ocean II PLO LLC as administrative and collateral agent and the other lenders that are or become parties thereto. (Filed as Exhibit 10.1 in the Company's Current Report on Form 8-K, filed September 16, 2021.) 
+ 10.2 
+ Secured Term Promissory Note, dated as of September 10, 2021, between Asure Software Inc., and Ocean II PLO LLC. (Filed as Exhibit 10.2 in the Company's Current Report on Form 8-K, filed September 16, 2021.) 
+ 31.1+ 
+ Certification pursuant to Section 302 of the Sarbanes-Oxley Act of 2002 (filed herewith). 
+ 31.2+ 
+ Certification pursuant to Section 302 of the Sarbanes-Oxley Act of 2002 (filed herewith). 
+ 32.1 
+ Certification pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002 (furnished herewith). 
+ 32.2 
+ Certification pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002 (furnished herewith). 
+ 101 The following materials from Asure Software, Inc. s Quarterly Report on Form 10-Q for the three and nine months ended September 30, 2021, formatted in Inline XBRL: (1) the Condensed Consolidated Balance Sheets, (2) the Condensed Consolidated Statements of Comprehensive Loss, (3) the Condensed Consolidated Statements of Changes in Stockholders Equity, (4) the Condensed Consolidated Statements of Cash Flows, and (5) Notes to Condensed Consolidated Financial Statements (filed herewith). 
+ 104 The cover page from the Company s Quarterly Report on Form 10-Q for the quarter ended September 30, 2021, formatted as Inline XBRL and contained in Exhibit 101 (filed herewith). 
+
+Schedules and similar attachments to the agreement have been omitted pursuant to Item 601(a)(5) of Regulation S-K. A copy of any omitted schedule and/or exhibit will be furnished to the SEC upon request. 
+ 
+ + Filed herewith. 
+ 
+ Furnished herewith. 
+
+29 
+
+Table of Contents 
+
+ SIGNATURES 
+ 
+ Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized. 
+
+ASURE SOFTWARE, INC. Date: November 8, 2021 By: /s/ PATRICK GOEPEL Patrick Goepel Chief Executive Officer Date: November 8, 2021 By: /s/ JOHN PENCE John Pence Chief Financial Officer, Principal Financial Officer, Principal Accounting Officer 
+ 
+ 30 
+
+<EX-31.1>
+ 2
+ a20210930exhibit311.htm
+ EX-31.1
+
+Document 
+ EXHIBIT 31.1 
+
+ CERTIFICATION OF PERIODIC REPORT 
+ PURSUANT TO SECTION 302 OF THE SARBANES-OXLEY ACT OF 2002 
+ I, the undersigned, Patrick Goepel, certify, that 
+ 1. I have reviewed this quarterly report on Form 10-Q of the Company (the Report 
+ 2. Based on my knowledge, the Report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the periods covered by this Report 
+ 3. Based on my knowledge, the financial statements, and other financial information included in the Report, fairly present in all material respects the financial condition, results of operations and cash flows of the Company as of, and for, the periods presented in the Report 
+ 4. The Company s other certifying officer and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the Company and we have 
+ (a) Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the Company, including its consolidated subsidiaries, is made known to us by others within these entities, particularly during the period in which the Report is being prepared 
+ (b) Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles 
+ (c) Evaluated the effectiveness of the Company s disclosure controls and procedures and presented in the Report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by the Report based on such evaluation and 
+ (d) Disclosed in the Report any change in the Company s internal control over financial reporting that occurred during the Company s most recent fiscal quarter (the quarter ended September 30, 2021) that has materially affected, or is reasonably likely to materially affect, the Company s internal control over financial reporting and 
+ 5. The Company s other certifying officer and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the Company s auditors and to the Audit Committee of the Board of Directors 
+ (a) All significant deficiencies or material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the Company s ability to record, process, summarize and report financial information and 
+ (b) Any fraud, whether or not material, that involves management or other employees who have a significant role in the Company s internal control over financial reporting. 
+ Date November 8, 2021 
+ By s Patrick Goepel Patrick Goepel Chief Executive Officer 
+
+</EX-31.1>
+
+<EX-31.2>
+ 3
+ a20210930exhibit312.htm
+ EX-31.2
+
+Document 
+ EXHIBIT 31.2 
+
+ CERTIFICATION OF PERIODIC REPORT 
+ PURSUANT TO SECTION 302 OF THE SARBANES-OXLEY ACT OF 2002 
+ I, the undersigned, John Pence, certify, that 
+ 1. I have reviewed this quarterly report on Form 10-Q of the Company (the Report 
+ 2. Based on my knowledge, the Report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the periods covered by this Report 
+ 3. Based on my knowledge, the financial statements, and other financial information included in the Report, fairly present in all material respects the financial condition, results of operations and cash flows of the Company as of, and for, the periods presented in the Report 
+ 4. The Company s other certifying officer and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the Company and we have 
+ (a) Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the Company, including its consolidated subsidiaries, is made known to us by others within these entities, particularly during the period in which the Report is being prepared 
+ (b) Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles 
+ (c) Evaluated the effectiveness of the Company s disclosure controls and procedures and presented in the Report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by the Report based on such evaluation and 
+ (d) Disclosed in the Report any change in the Company s internal control over financial reporting that occurred during the Company s most recent fiscal quarter (the quarter ended September 30, 2021) that has materially affected, or is reasonably likely to materially affect, the Company s internal control over financial reporting and 
+ 5. The Company s other certifying officer and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the Company s auditors and to the Audit Committee of the Board of Directors 
+ (a) All significant deficiencies or material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the Company s ability to record, process, summarize and report financial information and 
+ (b) Any fraud, whether or not material, that involves management or other employees who have a significant role in the Company s internal control over financial reporting. 
+ Date November 8, 2021 
+ By s John Pence John Pence Chief Financial Officer and Principal Accounting Officer 
+
+</EX-31.2>
+
+<EX-32.1>
+ 4
+ a20210930exhibit321.htm
+ EX-32.1
+
+Document 
+ EXHIBIT 32.1 
+
+ CERTIFICATION OF PERIODIC REPORT 
+ PURSUANT TO SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002 
+ I, the undersigned, Patrick Goepel, do hereby certify, pursuant to 18 U.S.C. Section 1350, as adopted by Section 906 of the Sarbanes-Oxley Act of 2002, that 
+ 1. The quarterly report on Form 10-Q of the Company for the period ended September 30, 2021 (the Report fully complies with the requirements of section 13(a) or 15(d) of the Securities Exchange Act of 1934 as amended, and 
+ 2. The information contained in the Report fairly presents, in all material respects, the financial condition and results of operations of the Company. 
+ Date November 8, 2021 
+ By s Patrick Goepel Patrick Goepel Chief Executive Officer 
+ A signed original of this written statement required by Section 906 has been provided to Asure Software, Inc. and will be retained by Asure Software, Inc. and furnished to the Securities and Exchange Commission or its staff upon request. The foregoing certification is being furnished solely pursuant to 18 U.S.C. Section 1350 and is not being filed as part of the Report or as a separate disclosure document. 
+
+</EX-32.1>
+
+<EX-32.2>
+ 5
+ a20210930exhibit322.htm
+ EX-32.2
+
+Document 
+ EXHIBIT 32.2 
+
+ CERTIFICATION OF PERIODIC REPORT 
+ PURSUANT TO SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002 
+ I, the undersigned, John Pence, do hereby certify, pursuant to 18 U.S.C. Section 1350, as adopted by Section 906 of the Sarbanes-Oxley Act of 2002, that 
+ 1. The quarterly report on Form 10-Q of the Company for the period ended September 30, 2021 (the Report fully complies with the requirements of section 13(a) or 15(d) of the Securities Exchange Act of 1934 as amended, and 
+ 2. The information contained in the Report fairly presents, in all material respects, the financial condition and results of operations of the Company. 
+ Date November 8, 2021 
+ By s John Pence John Pence 
+ Chief Financial Officer and Principal Accounting Officer 
+ A signed original of this written statement required by Section 906 has been provided to Asure Software, Inc. and will be retained by Asure Software, Inc. and furnished to the Securities and Exchange Commission or its staff upon request. The foregoing certification is being furnished solely pursuant to 18 U.S.C. Section 1350 and is not being filed as part of the Report or as a separate disclosure document. 
+
+</EX-32.2>
+
+<EX-101.SCH>
+ 6
+ asur-20210930.xsd
+ XBRL TAXONOMY EXTENSION SCHEMA DOCUMENT
+
+</EX-101.SCH>
+
+<EX-101.CAL>
+ 7
+ asur-20210930_cal.xml
+ XBRL TAXONOMY EXTENSION CALCULATION LINKBASE DOCUMENT
+
+</EX-101.CAL>
+
+<EX-101.DEF>
+ 8
+ asur-20210930_def.xml
+ XBRL TAXONOMY EXTENSION DEFINITION LINKBASE DOCUMENT
+
+</EX-101.DEF>
+
+<EX-101.LAB>
+ 9
+ asur-20210930_lab.xml
+ XBRL TAXONOMY EXTENSION LABEL LINKBASE DOCUMENT
+
+</EX-101.LAB>
+
+<EX-101.PRE>
+ 10
+ asur-20210930_pre.xml
+ XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE DOCUMENT
+
+</EX-101.PRE>
+

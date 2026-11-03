@@ -1,0 +1,836 @@
+<Header>
+<FileStats>
+    <FileName>20210428_10-Q_edgar_data_215466_0000215466-21-000071.txt</FileName>
+    <GrossFileSize>12519162</GrossFileSize>
+    <NetFileSize>104117</NetFileSize>
+    <NonText_DocumentType_Chars>1941139</NonText_DocumentType_Chars>
+    <HTML_Chars>4660892</HTML_Chars>
+    <XBRL_Chars>3245821</XBRL_Chars>
+    <XML_Chars>2325714</XML_Chars>
+    <N_Exhibits>10</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0000215466-21-000071.hdr.sgml : 20210428
+<ACCEPTANCE-DATETIME>20210428163944
+ACCESSION NUMBER:		0000215466-21-000071
+CONFORMED SUBMISSION TYPE:	10-Q
+PUBLIC DOCUMENT COUNT:		100
+CONFORMED PERIOD OF REPORT:	20210331
+FILED AS OF DATE:		20210428
+DATE AS OF CHANGE:		20210428
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Coeur Mining, Inc.
+		CENTRAL INDEX KEY:			0000215466
+		STANDARD INDUSTRIAL CLASSIFICATION:	GOLD & SILVER ORES [1040]
+		IRS NUMBER:				820109423
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		10-Q
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-08641
+		FILM NUMBER:		21864900
+
+	BUSINESS ADDRESS:	
+		STREET 1:		104 SOUTH MICHIGAN AVENUE
+		STREET 2:		SUITE 900
+		CITY:			CHICAGO
+		STATE:			IL
+		ZIP:			60603
+		BUSINESS PHONE:		312-489-5800
+
+	MAIL ADDRESS:	
+		STREET 1:		104 SOUTH MICHIGAN AVENUE
+		STREET 2:		SUITE 900
+		CITY:			CHICAGO
+		STATE:			IL
+		ZIP:			60603
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	COEUR D ALENE MINES CORP
+		DATE OF NAME CHANGE:	19920703
+
+</SEC-Header>
+</Header>
+
+ 0000215466-21-000071.txt : 20210428
+
+10-Q
+ 1
+ cde-20210331.htm
+ 10-Q
+
+cde-20210331 
+
+UNITED STATES 
+ SECURITIES AND EXCHANGE COMMISSION 
+ Washington, DC 20549 
+ ___________________________________________ 
+ FORM 
+ ___________________________________________ 
+ Quarterly Report Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934 
+ For the quarterly period ended 
+ OR 
+ 
+ Transition Report Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934 
+ For the transition period from to 
+ Commission file number 
+ ____________________________________________ 
+
+(Exact name of registrant as specified in its charter) 
+ ____________________________________________ 
+ 
+ (State or other jurisdiction of incorporation or organization) (I.R.S. Employer Identification No.) (Address of principal executive offices) (Zip Code) 
+ ) 
+ (Registrant s telephone number, including area code) 
+ Securities registered pursuant to Section 12(b) of the Act: 
+ Title of each class Trading Symbol(s) Name of each exchange on which registered 
+ Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days: No 
+ Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T 232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files.) No 
+ Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company, or an emerging growth company. See definitions of large accelerated filer, accelerated filer, smaller reporting company, and emerging growth company in Rule 12b-2 of the Exchange Act. 
+ Accelerated filer 
+ Non-accelerated filer 
+ Smaller reporting company 
+ Emerging growth company 
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. 
+ Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act). Yes No 
+ The Company has 300,000,000 shares of common stock, par value of 0.01, authorized of which shares were issued and outstanding as of April 26, 2021. 
+
+COEUR MINING, INC. 
+ INDEX 
+ Page Part I. Financial Information 
+ Item 1. Financial Statements 
+ Condensed Consolidated Balance Sheets (Unaudited) 4 
+ Condensed Consolidated Statements of Comprehensive Income (Loss) (Unaudited) 5 
+ Condensed Consolidated Statements of Cash Flows (Unaudited) 6 
+ Condensed Consolidated Statement of Changes in Stockholders Equity (Unaudited) 7 
+ Notes to Condensed Consolidated Financial Statements (Unaudited) 8 
+ Item 2. Management s Discussion and Analysis of Financial Condition and Results of Operations 
+ 28 
+ Consolidated Financial Results 29 
+ Results of Operations 32 
+ Liquidity and Capital Resources 34 
+ Non-GAAP Financial Performance Measures 36 
+ Item 3. Quantitative and Qualitative Disclosures about Market Risk 
+ 40 
+ Item 4. Controls and Procedures 
+ 42 
+ Part II. Other Information 
+ 43 
+ Item 1. Legal Proceedings 
+ 43 
+ Item 1A. Risk Factors 
+ 43 
+ Item 4. Mine Safety Disclosures 
+ 43 
+ Item 5. Other Information 43 
+ Item 6. Exhibits 
+ 44 
+ Signatures 44 
+
+3 
+
+PART I 
+
+Item 1. Financial Statements and Supplementary Data 
+
+COEUR MINING, INC. AND SUBSIDIARIES 
+ CONDENSED CONSOLIDATED BALANCE SHEETS (UNAUDITED) 
+ March 31, 2021 December 31, 2020 ASSETS Notes In thousands, except share data CURRENT ASSETS Cash and cash equivalents Receivables 4 Inventory 5 Ore on leach pads 5 Prepaid expenses and other NON-CURRENT ASSETS Property, plant and equipment, net Mining properties, net Ore on leach pads 5 Restricted assets Equity securities 6 Receivables 4, 17 Other TOTAL ASSETS LIABILITIES AND STOCKHOLDERS EQUITY CURRENT LIABILITIES Accounts payable Accrued liabilities and other 18 Debt 8 Reclamation 9 NON-CURRENT LIABILITIES Debt 8 Reclamation 9 Deferred tax liabilities Other long-term liabilities COMMITMENTS AND CONTINGENCIES 17 STOCKHOLDERS EQUITY Common stock, par value per share; authorized shares, issued and outstanding at March 31, 2021 and at December 31, 2020 
+ Additional paid-in capital Accumulated other comprehensive income (loss) ) Accumulated deficit ) ) TOTAL LIABILITIES AND STOCKHOLDERS EQUITY 
+ 
+ The accompanying notes are an integral part of these Condensed Consolidated Financial Statements. 
+ 4 
+
+COEUR MINING, INC. AND SUBSIDIARIES 
+ CONDENSED CONSOLIDATED STATEMENTS OF COMPREHENSIVE INCOME (LOSS) (UNAUDITED) 
+ Three Months Ended March 31, 2021 2020 Notes In thousands, except share data Revenue 3 COSTS AND EXPENSES Costs applicable to sales (1) 
+ 3 Amortization General and administrative Exploration Pre-development, reclamation, and other Total costs and expenses OTHER INCOME (EXPENSE), NET Loss on debt extinguishment 8 ) Fair value adjustments, net 12 ) ) Interest expense, net of capitalized interest 8 ) ) Other, net 14 Total other income (expense), net ) ) Income (loss) before income and mining taxes ) Income and mining tax (expense) benefit 10 ) NET INCOME (LOSS) ) OTHER COMPREHENSIVE INCOME (LOSS): Change in fair value of derivative contracts designated as cash flow hedges, net of tax of and for the three months ended March 31, 2021 and 2020, respectively. 
+ Reclassification adjustments for realized (gain) loss on cash flow hedges ) Other comprehensive income (loss) COMPREHENSIVE INCOME (LOSS) ) NET INCOME (LOSS) PER SHARE 15 Basic ) Diluted ) 
+ (1) 
+ 
+ The accompanying notes are an integral part of these Condensed Consolidated Financial Statements. 
+ 5 
+
+COEUR MINING, INC. AND SUBSIDIARIES 
+ CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS (UNAUDITED) 
+ Three Months Ended March 31, 2021 2020 Notes In thousands CASH FLOWS FROM OPERATING ACTIVITIES: Net income (loss) ) Adjustments: Amortization Accretion Deferred taxes ) Loss on debt extinguishment 8 Fair value adjustments, net 12 Stock-based compensation 11 Gain on modification of right of use lease ) Write-downs Deferred revenue recognition 17 ) ) Other ) ) Changes in operating assets and liabilities: Receivables ) Prepaid expenses and other current assets ) ) Inventory and ore on leach pads ) ) Accounts payable and accrued liabilities ) ) CASH PROVIDED BY (USED IN) OPERATING ACTIVITIES ) ) CASH FLOWS FROM INVESTING ACTIVITIES: Capital expenditures ) ) Proceeds from the sale of assets Sale of investments Other ) ) CASH PROVIDED BY (USED IN) INVESTING ACTIVITIES ) ) CASH FLOWS FROM FINANCING ACTIVITIES: Issuance of notes and bank borrowings, net of issuance costs 8 Payments on debt, finance leases, and associated costs 7, 8 ) ) Silvertip contingent consideration 17 ) Other ) ) CASH PROVIDED BY (USED IN) FINANCING ACTIVITIES Effect of exchange rate changes on cash and cash equivalents ) ) INCREASE (DECREASE) IN CASH, CASH EQUIVALENTS AND RESTRICTED CASH ) Cash, cash equivalents and restricted cash at beginning of period Cash, cash equivalents and restricted cash at end of period 
+ 
+ The accompanying notes are an integral part of these Condensed Consolidated Financial Statements. 
+ 6 
+
+COEUR MINING, INC. AND SUBSIDIARIES 
+ CONSOLIDATED STATEMENT OF CHANGES IN STOCKHOLDERS EQUITY (UNAUDITED) 
+ In thousands Common Stock Shares Common Stock Par Value Additional Paid-In Capital Accumulated Deficit Accumulated Other Comprehensive Income (Loss) Total Balances at December 31, 2020 ) ) Net income (loss) Other comprehensive income (loss) Common stock issued/canceled under long-term incentive plans and director fees and options, net ) ) Balances at March 31, 2021 ) 
+ 
+ In thousands Common Stock Shares Common Stock Par Value Additional Paid-In Capital Accumulated Deficit Accumulated Other Comprehensive Income (Loss) Total Balances at December 31, 2019 ) ) Net income (loss) ) ) Other comprehensive income (loss) Common stock issued for Silvertip contingent consideration payment Common stock issued/canceled under long-term incentive plans and director fees and options, net Balances at March 31, 2020 ) 
+ 
+ The accompanying notes are an integral part of these Condensed Consolidated Financial Statements. 
+ 7 
+
+Coeur Mining, Inc. and Subsidiaries 
+ Notes to Consolidated Financial Statements 
+
+NOTE 1 - 
+
+NOTE 2 - 
+ million deposit paid by Franco-Nevada in exchange for the right and obligation, commencing in 2016, to purchase of a portion of Palmarejo gold production at the lesser of or market price per ounce. Because there is no minimum obligation associated with the deposit, it is not considered financing, and each shipment is considered to be a separate performance obligation. The streaming agreement represents a contract liability under ASC 606, which requires the Company to ratably recognize a portion of the deposit as revenue for each gold ounce delivered to Franco-Nevada. The remaining unamortized balance is included in Accrued liabilities and other and Other long-term liabilities on the Consolidated Balance Sheet. See Note 17 -- Commitments and Contingencies for additional detail. 
+ The following table presents a rollforward of the Franco-Nevada contract liability balance: 
+ Three Months Ended March 31, In thousands 2021 2020 Opening Balance Revenue Recognized ) ) Closing Balance 
+ In December 2020, the Company received a million prepayment (the December 2020 Prepayment as defined in Note 17) for deliveries of gold concentrate from the Kensington mine pursuant to the Amended Sales Contract (as defined in Note 17). The Amended Sales Contract represents a contract liability under ASC 606, which requires the Company to recognize ratably a portion of the deposit as revenue for each gold ounce delivered to the customer. The remaining contract liability is included in Accrued liabilities and other on the Consolidated Balance Sheet. See Note 17 -- Commitments and Contingencies for additional detail. 
+ The following table presents a rollforward of the Amended Sales Contract liability balance: 
+ 8 
+
+Coeur Mining, Inc. and Subsidiaries 
+ Notes to Consolidated Financial Statements 
+
+Additions Revenue Recognized ) ) Closing Balance 
+ 
+ 9 
+
+Coeur Mining, Inc. and Subsidiaries 
+ Notes to Consolidated Financial Statements 
+
+NOTE 3 
+ Silver sales Metal sales Costs and Expenses Costs applicable to sales (1) 
+ Amortization Exploration Other operating expenses Other income (expense) Loss on debt extinguishment ) ) Fair value adjustments, net ) ) Interest expense, net ) ) ) ) ) ) Other, net ) ) ) Income and mining tax (expense) benefit ) ) ) ) ) Net Income (loss) ) ) Segment assets (2) 
+ Capital expenditures 
+ (1) Excludes amortization 
+ (2) 
+
+10 
+
+Coeur Mining, Inc. and Subsidiaries 
+ Notes to Consolidated Financial Statements 
+
+Silver sales Zinc sales ) ) Lead sales Metal sales Costs and Expenses Costs applicable to sales (1) 
+ Amortization Exploration Other operating expenses Other income (expense) Loss on debt extinguishment Fair value adjustments, net ) ) Interest expense, net ) ) ) ) ) ) ) Other, net ) ) ) Income and mining tax (expense) benefit ) ) Net Income (loss) ) ) ) ) Segment assets (2) 
+ Capital expenditures 
+ (1) Excludes amortization 
+ (2) Segment assets include receivables, prepaids, inventories, property, plant and equipment, and mineral interests 
+
+Cash and cash equivalents Other assets Total consolidated assets 
+ 
+ Mexico Canada Other Total 
+ Mexico Canada Total 
+ 
+ 11 
+
+Coeur Mining, Inc. and Subsidiaries 
+ Notes to Consolidated Financial Statements 
+
+NOTE 4 
+ 
+ Value added tax VAT receivable Income tax receivable Other Non-current receivables: VAT receivable (1) 
+ Total receivables 
+ (1) 
+
+NOTE 5 
+ 
+ Precious metals Supplies Ore on Leach Pads: Current Non-current Long-term Stockpile (included in Other 
+ Total Inventory and Ore on Leach Pads 
+
+NOTE 6 
+ 
+ Other Equity securities 
+ 12 
+
+Coeur Mining, Inc. and Subsidiaries 
+ Notes to Consolidated Financial Statements 
+
+Integra Resources Corp. Other ) Equity securities ) 
+ On January 4, 2021, the Company completed the sale of shares of common stock of Metalla Royalty Streaming Ltd. Metalla ( Metalla Common Shares at an average price (net of commission) of 11.19 per Metalla Common Share for net proceeds of million for a realized gain of million. 
+
+NOTE 7 
+ Short-term operating lease cost Finance Lease Cost: Amortization of leased assets Interest on lease liabilities Total finance lease cost 
+ Supplemental cash flow information related to leases was as follows: 
+ Three months ended March 31, In thousands 2021 2020 Other Information Cash paid for amounts included in the measurement of lease liabilities: Operating cash flows from operating leases Operating cash flows from finance leases Financing cash flows from finance leases 
+ 13 
+
+Coeur Mining, Inc. and Subsidiaries 
+ Notes to Consolidated Financial Statements 
+
+Accrued liabilities and other Other long-term liabilities Total operating lease liabilities Finance Leases Property and equipment, gross Accumulated depreciation ) ) Property and equipment, net Debt, current Debt, non-current Total finance lease liabilities Weighted Average Remaining Lease Term Weighted-average remaining lease term - finance leases Weighted-average remaining lease term - operating leases Weighted Average Discount Rate Weighted-average discount rate - finance leases Weighted-average discount rate - operating leases 
+ 2022 2023 2024 2025 Thereafter Total Less: imputed interest ) ) Net lease obligation 
+
+NOTE 8 
+ 2024 Senior Notes, net (2) 
+ Revolving Credit Facility (3) 
+ Finance lease obligations 
+ (1) million and million at March 31, 2021 and December 31, 2020, respectively. 
+ (2) million and million at March 31, 2021 and December 31, 2020, respectively. 
+ (3) million and million at March 31, 2021 and December 31, 2020, respectively, included in Other Non-Current Assets . 
+ 14 
+
+Coeur Mining, Inc. and Subsidiaries 
+ Notes to Consolidated Financial Statements 
+
+million in aggregate principal amount of senior notes in a private placement conducted pursuant to Rule 144A and Regulation S under the Securities Act of 1933, as amended, for net proceeds of approximately million (the 2029 Senior Notes ). The 2029 Senior Notes are governed by an Indenture dated as of March 1, 2021 (the Indenture ), among the Company, as issuer, certain of the Company's subsidiaries named therein, as guarantors thereto (the Guarantors ), and The Bank of New York Mellon, as trustee (the Trustee ). The 2029 Senior Notes bear interest at a rate of per year from the date of issuance. Interest on the 2029 Senior Notes is payable semi-annually in arrears on February 15 and August 15 of each year, commencing on August 15, 2021. The 2029 Senior Notes will mature on February 15, 2029 and are fully and unconditionally guaranteed by the Guarantors. 
+ 
+ At any time prior to February 15, 2024, the Company may redeem all or part of the 2029 Senior Notes upon not less than 30 nor more than 60 days prior notice at a redemption price equal to the sum of (i) 100 of the principal amount thereof, plus (ii) a make-whole premium as of the date of redemption, plus (iii) accrued and unpaid interest and additional interest, if any, thereon, to the date of redemption. In addition, the Company may redeem some or all of the 2029 Senior Notes on or after February 15, 2024, at redemption prices set forth in the Indenture, together with accrued and unpaid interest. At any time prior to February 15, 2024, the Company may use the proceeds of certain equity offerings to redeem up to 35 of the aggregate principal amount of the 2029 Senior Notes, including any permitted additional 2029 Senior Notes, at a redemption price equal to of the principal amount. 
+ 
+ The Indenture contains covenants that, among other things, limit the Company s ability under certain circumstances to incur additional indebtedness, pay dividends or make other distributions or repurchase or redeem capital stock, prepay, redeem or repurchase certain debt, make loans and investments, create liens, sell, transfer or otherwise dispose of assets, enter into transactions with affiliates, enter into agreements restricting the Company's subsidiaries' ability to pay dividends and impose conditions on the Company s ability to engage in mergers, consolidations and sales of all or substantially all of its assets. The Indenture also contains certain Events of Default (as defined in the Indenture) customary for indentures of this type. If an Event of Default has occurred and is continuing, the Trustee or the holders of not less than 25 in aggregate principal amount of the 2029 Senior Notes then outstanding may, and the Trustee at the request of the holders of not less than 25 in aggregate principal amount of the 2029 Senior Notes then outstanding shall, declare all unpaid principal of, premium, if any, and accrued interest on all the 2029 Senior Notes to be due and payable. 
+ 2024 Senior Notes 
+ Concurrent with the offering of the 2029 Senior Notes, the Company commenced a cash tender offer (the Tender Offer to purchase the outstanding million in aggregate principal amount of its Senior Notes due 2024 (the 2024 Senior Notes ). The Tender Offer was made on the terms and subject to the conditions set forth in the Offer to Purchase dated February 22, 2021. The Tender Offer expired at 5:00 p.m., New York City time, on February 26, 2021 (the Expiration Time ). Holders of the 2024 Senior Notes who tendered (and did not validly withdraw) their notes at or prior to the Expiration Time were entitled to receive in cash per 1,000 principal amount of 2024 Senior Notes validly tendered (and not validly withdrawn) and accepted for purchase by the Company in the Tender Offer, plus accrued and unpaid interest on such 2024 Senior Notes. million aggregate principal amount of the 2024 Senior Notes were validly tendered and purchased by the Company on March 1, 2021. In accordance with the terms of the indenture governing the 2024 Senior Notes, the remaining million aggregate principal amount of the 2024 Senior Notes were redeemed on March 31, 2021 at the redemption price specified in the indenture governing the 2024 Senior Notes per 1,000 principal amount redeemed, plus accrued and unpaid interest). The Company recorded a loss of million as a result of the extinguishment of the 2024 Senior Notes. 
+ Revolving Credit Facility 
+ On March 1, 2021, the Company entered into a fifth amendment (the Amendment to its credit agreement, dated as of September 29, 2017 (as previously amended, the Credit Agreement ), by and among the Company, as borrower, certain subsidiaries of the Company, as guarantors, Bank of America, N.A., as administrative agent and Bank of America, N.A., Royal Bank of Canada, Bank of Montreal, Chicago Branch, the Bank of Nova Scotia and ING Capital LLC, as lenders. The Amendment, among other things, (i) extended the maturity date of the senior secured revolving credit facility Revolving Credit Facility or RCF provided under the Credit Agreement to March 2025 and (ii) permits the Company to obtain one or more increases of the RCF, which is currently in the amount of million, in an aggregate amount of up to million in incremental loans and commitments, subject to certain conditions, including obtaining commitments from relevant lenders to provide such increase. 
+ 
+ 15 
+
+Coeur Mining, Inc. and Subsidiaries 
+ Notes to Consolidated Financial Statements 
+
+million in outstanding letters of credit und er the RCF. At March 31, 2021, the interest rate on the principal of the RCF was . 
+ Finance Lease Obligations 
+ From time-to-time, the Company acquires mining equipment and facilities under finance lease agreements. In the three months ended March 31, 2021, the Company entered into new lease financing arrangements primarily for mining equipment at Rochester and Kensington . All finance lease obligations are recorded, upon lease inception, at the present value of future minimum lease payments. See Note 7 -- Leases for additional qualitative and quantitative disclosures related to finance leasing arrangements. 
+ 2029 Senior Notes Revolving Credit Facility Finance lease obligations Amortization of debt issuance costs Other debt obligations Capitalized interest ) ) Total interest expense, net of capitalized interest 
+
+NOTE 9 
+ Accretion Settlements ) ) Asset retirement obligation - Ending 
+ million and million at each of March 31, 2021 and March 31, 2020, respectively, for reclamation liabilities related to former mining activities, which are included in 
+
+NOTE 10 - ) ) ) Canada ) ) Mexico ) Other jurisdictions ) ) ) 
+ During the first quarter of 2021, the Company reported estimated income and mining tax expense of approximately million, resulting in an effective tax rate of . This compares to income tax expense of million for an effective 
+ 16 
+
+Coeur Mining, Inc. and Subsidiaries 
+ Notes to Condensed Consolidated Financial Statements 
+
+ during the first quarter of 2020. The comparability of the Company s income and mining tax (expense) benefit and effective tax rate for the reported periods was impacted by multiple factors, primarily: (i) mining taxes; (ii) variations in our income before income taxes; (iii) geographic distribution of that income; (iv) foreign exchange rates; (v) percentage depletion; (vi) the non-recognition of tax assets; and (vii) the impact of uncertain tax positions. Therefore, the effective tax rate will fluctuate, sometimes significantly, period to period. 
+ A valuation allowance is provided for deferred tax assets for which it is more likely than not that the related tax benefits will not be realized. The Company analyzes its deferred tax assets and, if it is determined that the Company will not realize all or a portion of its deferred tax assets, it will record or increase a valuation allowance. Conversely, if it is determined that the Company ultimately will be more likely than not able to realize all or a portion of the related benefits for which a valuation allowance has been provided, all or a portion of the related valuation allowance will be reduced. There are a number of factors that impact the Company s ability to realize its deferred tax assets. For additional information, please see the section titled Risk Factors in the 2020 10-K. 
+ The Company or one of its subsidiaries files income tax returns in the U.S. federal jurisdiction, and various state and foreign jurisdictions. The statute of limitations remains open from 2016 forward for the U.S. federal jurisdiction and from 2011 forward for certain other foreign jurisdictions. As a result of statutes of limitation that will begin to expire within the next twelve months in various jurisdictions and possible settlements of audit-related issues with taxing authorities in various jurisdictions with respect to which none of the issues are individually significant, the Company believes that it is reasonably possible that the total amount of its net unrecognized income tax benefits will decrease between million and million in the next twelve months. 
+ At March 31, 2021 and December 31, 2020, the Company had million and million of total gross unrecognized tax benefits, respectively, that, if recognized, would positively impact the Company s effective income tax rate. The Company s continuing practice is to recognize potential interest and/or penalties related to unrecognized tax benefits as part of its income tax expense. At March 31, 2021 and December 31, 2020, the amount of accrued income-tax-related interest and penalties was million and million, respectively. 
+
+NOTE 11 
+ million and million, respectively. At March 31, 2021, there was million of unrecognized stock-based compensation cost which is expected to be recognized over a weighted-average remaining vesting period of years. 
+
+NOTE 12) ) Realized gain (loss) on equity securities Fair value adjustments, net ) ) 
+ Accounting standards establish a fair value hierarchy that prioritizes the inputs to valuation techniques used to measure fair value. The hierarchy gives the highest priority to unadjusted quoted prices in active markets for identical assets or liabilities (Level 1), secondary priority to quoted prices in inactive markets or observable inputs (Level 2), and the lowest priority to unobservable inputs (Level 3). 
+ 17 
+
+Coeur Mining, Inc. and Subsidiaries 
+ Notes to Condensed Consolidated Financial Statements 
+
+ Gold zero cost collars 
+ 4,056 Foreign currency forward exchange contracts 
+ 9,444 Provisional metal sales contracts 3 Liabilities: Provisional metal sales contracts 
+ 
+ Fair Value at December 31, 2020 In thousands Total Level 1 Level 2 Level 3 Assets: Equity and debt securities Foreign currency forward exchange contracts Provisional metal sales contracts Liabilities: Gold zero cost collars 
+ 24,883 Provisional metal sales contracts 
+ The Company s investments in equity securities are recorded at fair market value in the financial statements based primarily on quoted market prices. Such instruments are classified within Level 1 of the fair value hierarchy. 
+ The Company s foreign currency forward exchange contracts are valued using pricing models with inputs derived from observable market data, including forward market prices and other unobservable inputs. The Company s gold zero cost collars are valued using pricing models with inputs derived from observable market data, including forward market prices, yield curves, credit spreads. The Company s provisional metal sales contracts include concentrate and certain dor sales contracts that are valued using pricing models with inputs derived from observable market data, including forward market prices. The model inputs can generally be verified and do not involve significant management judgment. Such instruments are classified within Level 2 of the fair value hierarchy. 
+ No assets or liabilities were transferred between fair value levels in the three months ended March 31, 2021. 
+ Revolving Credit Facility (2) 
+ 
+ (1) Net of unamortized debt issuance costs of million 
+ (2) Unamortized debt issuance costs of million included in Other Non-Current Assets . 
+ 18 
+
+Coeur Mining, Inc. and Subsidiaries 
+ Notes to Condensed Consolidated Financial Statements 
+
+ Revolving Credit Facility (2) 
+ 
+ (1) Net of unamortized debt issuance costs of million. 
+ (2) Unamortized debt issuance costs of million included in Other Non-Current Assets . 
+ The fair value of the 2024 Senior Notes was estimated using quoted market prices. The fair value of the RCF approximates book value as the liability is secured, has a variable interest rate, and lacks significant credit concerns. 
+
+NOTE 13 
+ 
+ Average gold price per ounce Notional ounces 
+
+December 31, 2020 In thousands Prepaid expenses and other Accrued liabilities and other Provisional metal sales contracts) 
+ Derivatives Designated as Cash Flow Hedging Strategies 
+ To protect the Company s exposure to fluctuations in metal prices the Company entered into Asian (or average value) put and call option contracts in net-zero-cost collar arrangements. The contracts are net cash settled monthly and, if the price of 
+ 19 
+
+Coeur Mining, Inc. and Subsidiaries 
+ Notes to Condensed Consolidated Financial Statements 
+
+ Notional ounces Gold call options Average gold strike price per ounce Notional ounces Foreign currency forward exchange contracts - Mexican Peso Average Mexican Peso exchange rate Notional US dollar 
+ The effective portions of cash flow hedges are recorded in accumulated other comprehensive income (loss) AOCI until the hedged item is recognized in earnings. Deferred gains and losses associated with cash flow hedges of metal sales revenue are recognized as a component of Revenue in the same period as the related sale is recognized. Deferred gains and losses associated with cash flow hedges of foreign currency transactions are recognized as a component of Costs Applicable to Sales or Pre-development, Reclamation and Other in the same period the related expenses are incurred. 
+ At inception, the Company performed an assessment of the forecasted transactions and the hedging instruments and determined that the hedging relationships are considered perfectly effective. Future assessments are performed to verify that critical terms of the hedging instruments and the forecasted transactions continue to match, and the forecasted transactions remain probable, as well as an assessment of any adverse developments regarding the risk of the counterparties defaulting on their commitments. There have been no such changes in critical terms or adverse developments. 
+ As of March 31, 2021, the Company had million of net after-tax gain in AOCI related to losses from cash flow hedge transactions, of which million of net after-tax gains is expected to be recognized in its Consolidated Statement of Comprehensive Income (Loss) during the next 12 months. Actual amounts ultimately reclassified to net income are dependent on the price of gold for metal contracts and the Canadian and Mexican exchange rates for foreign currency contracts. 
+ Foreign currency forward exchange contracts 
+ December 31, 2020 In thousands Prepaid expenses and other Accrued liabilities and other Gold zero cost collars Foreign currency forward exchange contracts 
+ 20 
+
+Coeur Mining, Inc. and Subsidiaries 
+ Notes to Condensed Consolidated Financial Statements 
+
+ Foreign currency forward exchange contracts ) Amount of (Gain) Loss Reclassified From AOCI to Earnings Gold zero cost collars Foreign currency forward exchange contracts ) ) 
+ 
+ Credit Risk 
+
+NOTE 14 
+ Silvertip ongoing carrying costs Silvertip temporary suspension costs Gain on modification of right of use lease ) Asset retirement accretion Other Pre-development, reclamation and other ) Gain (loss) on sale of assets Gain (loss) on sale of Manquiri NSR consideration Gain (loss) on Silvertip contingent consideration Other Other, net 
+
+NOTE 15 
+ 
+ 21 
+
+Coeur Mining, Inc. and Subsidiaries 
+ Notes to Condensed Consolidated Financial Statements 
+
+ and common stock equivalents, respectively, related to equity-based awards were not included in the diluted earnings per share calculation as the shares would be antidilutive. 
+ ) Weighted average shares: Basic Effect of stock-based compensation plans Diluted Income (loss) per share: Basic ) Diluted (1) 
+ ) 
+ On April 23, 2020 the Company entered into an ATM Equity Offering Sales Agreement (the Sales Agreement with BofA Securities, Inc. and RBC Capital Markets, LLC as sales agents (the Sales Agents and filed a prospectus supplement for the sale of its common stock, par value 0.01 per share, by way of an at the market offering having an aggregate offering price of up to (the ATM Program ). Sales under the ATM Program, if any, will be made pursuant to the terms of the Sales Agreement. At March 31, 2021, the Company had not elected to sell any shares of its common stock under the ATM Program. 
+
+NOTE 16 - 
+ 
+ 22 
+
+Coeur Mining, Inc. and Subsidiaries 
+ Notes to Condensed Consolidated Financial Statements 
+
+ Receivables Ore on leach pads Inventory Prepaid expenses and other NON-CURRENT ASSETS Property, plant and equipment, net Mining properties, net Ore on leach pads Restricted assets Equity and debt securities Net investment in subsidiaries Other TOTAL ASSETS LIABILITIES AND STOCKHOLDERS EQUITY CURRENT LIABILITIES Accounts payable Other accrued liabilities Debt Reclamation NON-CURRENT LIABILITIES Debt Reclamation Deferred tax liabilities Other long-term liabilities Intercompany payable (receivable) ) STOCKHOLDERS EQUITY Common stock Additional paid-in capital Accumulated deficit ) Accumulated other comprehensive income (loss) TOTAL LIABILITIES AND STOCKHOLDERS EQUITY 
+ 
+ 23 
+
+Coeur Mining, Inc. and Subsidiaries 
+ Notes to Condensed Consolidated Financial Statements 
+
+ Receivables Ore on leach pads Inventory Prepaid expenses and other NON-CURRENT ASSETS Property, plant and equipment, net Mining properties, net Ore on leach pads Restricted assets Equity and debt securities Net investment in subsidiaries Other TOTAL ASSETS LIABILITIES AND STOCKHOLDERS EQUITY CURRENT LIABILITIES Accounts payable Other accrued liabilities Debt Reclamation NON-CURRENT LIABILITIES Debt Reclamation Deferred tax liabilities Other long-term liabilities Intercompany payable (receivable) ) STOCKHOLDERS EQUITY Common stock Additional paid-in capital Accumulated deficit ) Accumulated other comprehensive income (loss) ) TOTAL LIABILITIES AND STOCKHOLDERS EQUITY 
+ 24 
+
+Coeur Mining, Inc. and Subsidiaries 
+ Notes to Condensed Consolidated Financial Statements 
+
+Gross profit (loss) ) Income (loss) from continuing operations Net income (loss) 
+ 
+ 25 
+
+Coeur Mining, Inc. and Subsidiaries 
+ Notes to Condensed Consolidated Financial Statements 
+
+ NOTE 17 
+ million due from the Mexican government associated with VAT that was paid under Coeur Mexicana s prior royalty agreement with a subsidiary of Franco-Nevada Corporation, which was terminated in 2016. Under the royalty agreement, Coeur applied for and initially received VAT refunds associated with the royalty payments in the normal course; however, in 2011 the Mexican tax authorities began denying the Company s VAT refunds based on the argument that VAT was not legally due on the royalty payments. Accordingly, Coeur began to request refunds of the VAT as undue payments, which the Mexican tax authorities also denied. The Company has since been engaged in ongoing efforts to recover the VAT from the Mexican government (including through litigation and potential arbitration as well as refiling VAT refund requests). Despite a favorable ruling from Mexican tax courts in this matter in 2018, litigation continues, some of which has been determined unfavorably to the Company based on interpretations of applicable law and prior court decisions which the Company and its counsel believe are erroneous and which are now under appeal. While the Company believes that it remains legally entitled to be refunded the full amount of the VAT receivable, the Company may continue to experience delays or obstacles in the recovery of VAT and it is possible that some or all of the VAT receivable may not ultimately be recovered as outcomes in Mexican tax courts and the process for recovering funds even if there is a successful outcome in litigation can be unpredictable. The continued failure to recover the VAT receivable may result in the Company recording a reserve against some or all of this amount, which, if material, may have a material adverse impact on the Company s financial statements. 
+ Palmarejo Gold Stream 
+ Coeur Mexicana, S.A. de C.V. Coeur Mexicana ), a subsidiary of Coeur, sells of Palmarejo gold production (excluding production from certain properties acquired in 2015) to a subsidiary of Franco-Nevada Corporation Franco-Nevada under a gold stream agreement for the lesser of or spot price per ounce. In 2016, Coeur Mexicana received a million deposit toward future deliveries under the gold stream agreement. In accordance with generally accepted accounting principles, although Coeur Mexicana has satisfied its contractual obligation to repay the deposit to Franco-Nevada, the deposit is accounted for as deferred revenue and is recognized as revenue on a units-of-production basis as ounces are sold to Franco-Nevada. At March 31, 2021 the remaining unamortized balance was million, which is included in Accrued liabilities and other and Other long-term liabilities on the Consolidated Balance Sheet. 
+ Kensington Prepayment 
+ In June 2019, Coeur entered into a transaction with an existing metal sales counterparty whereby it amended its existing sales and purchase contract for gold concentrate from its Kensington mine (the Amended Sales Contract ). From time to time, the Amended Sales Contract has been further amended to allow for additional prepayments, the latest occurring in June 2020 to include options for Coeur to receive up to two additional prepayments of up to 15.0 million. In December 2020, Coeur exercised the option to receive the second million prepayment (the December 2020 Prepayment ). In the first quarter of 2021, the Kensington mine delivered million under the December 2020 Prepayment. The remaining deliveries of million under the December 2020 Prepayment are recognized as a deferred revenue liability and are presented in Accrued liabilities and other on the Consolidated Balance Sheet. Under the relevant terms of the Amended Sales Contract, Coeur maintains its exposure to the price of gold and expects to recognize the remaining value of the accrued liability by June 30, 2021. 
+ Silvertip Contingent Consideration 
+ During the first quarter of 2020, the Company made a payment of million in the form of million in cash and million shares of common stock to satisfy a contingent consideration payment due in conjunction with the acquisition of the Company s Silvertip property. For more details, please see Note 21 -- Commitments and Contingencies in the 2020 10-K. 
+ Other Commitments and Contingencies 
+ As part of its ongoing business and operations, the Company and its affiliates are required to provide surety bonds, bank letters of credit, bank guarantees and, in some cases, cash as financial support for various purposes, including environmental remediation, reclamation, collateral for gold hedges and other general corporate purposes. As of March 31, 2021 and December 31, 2020, the Company had surety bonds totaling million and million, respectively, in place as financial support for future reclamation and closure costs. The obligations associated with these instruments are generally related to performance requirements that the Company addresses through its ongoing operations and from time-to-time, the Company may be required to post collateral, including cash, to support these instruments. As the specific requirements are met, the beneficiary of the associated instrument cancels and/or returns the instrument to the issuing entity. Certain of these instruments are associated with operating sites with long-lived assets and will remain outstanding until closure. The Company 
+ 26 
+
+Coeur Mining, Inc. and Subsidiaries 
+ Notes to Condensed Consolidated Financial Statements 
+
+NOTE 18 
+ Deferred revenue (1) 
+ Income and mining taxes Accrued operating costs Unrealized losses on derivatives Taxes other than income and mining Accrued interest payable Operating lease liabilities Accrued liabilities and other 
+ (1) 
+ Restricted cash equivalents Total cash, cash equivalents and restricted cash shown in the statement of cash flows 
+ 
+ 27 
+
+Item 2. Management s Discussion and Analysis of Financial Condition and Results of Operations 
+ The following Management s Discussion and Analysis MD A provides information that management believes is relevant to an assessment and understanding of the consolidated financial condition and results of operations of Coeur Mining, Inc. and its subsidiaries (collectively the Company , our , or we ). We use certain non-GAAP financial performance measures in our MD A. For a detailed description of these measures, please see Non-GAAP Financial Performance Measures at the end of this Item. We provide Costs applicable to sales CAS split, referred to as the co-product method, based on revenue contribution for Palmarejo, Rochester and Silvertip and based on the primary metal, referred to as the by-product method, for Wharf. Revenue from secondary metal, such as silver at Wharf, is treated as a cost credit. 
+ Overview 
+ We are primarily a gold and silver producer with five mines located in the United States, Mexico and Canada and several exploration projects in North America. 
+ First Quarter Highlights 
+ For the quarter, Coeur reported revenue of 202.1 million and cash flow from operating activities of (4.4) million. We reported GAAP net income of 2.1 million, or 0.01 per diluted share. On an adjusted basis 1 , the Company reported EBITDA of 65.9 million and net income of 13.9 million, or 0.06 per diluted share. 
+ Higher margins helped drive a stronger start to the year Coeur s first quarter results reflect a strong start to the year led by solid production and higher prices. Notably, quarterly revenue, operating cash flow before changes in working capital 1 and adjusted EBITDA 1 increased 17 , 38 and 42 year-over-year, respectively 
+ Solid gold production and unit costs The Company s gold production of 85,225 ounces exceeded expectations for the quarter, tracking well towards its full-year guidance range. Additionally, all of the Company s site-level gold unit costs were either below or within their full-year guidance ranges 
+ Further enhanced liquidity and balance sheet Coeur successfully refinanced its 5.875 senior notes due 2024 2024 Senior Notes with 5.125 senior notes due 2029 2029 Senior Notes ), capturing a lower interest rate, extending the maturity and opportunistically upsizing the offering. The Company also extended the maturity of its senior secured revolving credit facility RCF from October 2022 to March 2025. Together, these efforts improved Coeur s liquidity profile and bolstered its balance sheet, helping to enhance financial flexibility ahead of a period of planned capital intensity 
+ Commenced major construction on Rochester expansion The Company began major construction on the Plan of Operations Amendment 11 POA 11 expansion at its Rochester mine. Overall project progress was approximately 20 complete at the end of the first quarter. Key elements of the project timeline remain on schedule and are expected to be largely completed by late next year 
+ Encouraging results from aggressive investment in exploration Following its successful program in 2020, Coeur began the year with the largest exploration campaign in Company history. The Company invested approximately 14.9 million 9.7 million expensed and 5.2 million capitalized) in exploration during the quarter, drilling roughly 250,500 feet (76,375 meters) across all sites. Drilling activities at Silvertip and Crown ramped up significantly during the quarter, while Coeur s other sites continued to advance their resource expansion and infill programs 
+
+28 
+
+Selected Financial and Operating Results 
+ Three Months Ended March 31, In thousands 2021 2020 Financial Results: Gold sales 138,322 127,605 Silver sales 63,795 44,909 Zinc sales (662) Lead sales 1,315 Consolidated Revenue 202,117 173,167 Net income (loss) 2,060 (11,900) Net income (loss) per share, diluted 0.01 (0.05) Adjusted net income (loss) (1) 
+ 13,940 (919) Adjusted net income (loss) per share, diluted (1) 
+ 0.06 0.00 EBITDA (1) 
+ 49,693 25,451 Adjusted EBITDA (1) 
+ 65,866 46,451 Total debt (2) 
+ 412,125 343,109 Operating Results: Gold ounces produced 85,225 85,077 Silver ounces produced 2,403,143 2,676,418 Zinc pounds produced 2,459,756 Lead pounds produced 2,176,847 Gold ounces sold 83,112 85,635 Silver ounces sold 2,435,504 2,700,778 Zinc pounds sold 3,203,446 Lead pounds sold 2,453,485 Average realized price per gold ounce 1,664 1,490 Average realized price per silver ounce 26.19 16.63 Average realized price per zinc pound, gross (3) 
+ NM Average realized price per lead pound, gross (3) 
+ NM 
+ (1) See Non-GAAP Financial Performance Measures. 
+ (2) Includes finance leases. Net of debt issuance costs and premium received. 
+ (3) Due to the temporary suspension of mining and processing activities these amounts are not meaningful. 
+
+Consolidated Financial Results 
+ Three Months Ended March 31, 2021 compared to Three Months Ended March 31, 2020 
+ Revenue 
+ Revenue increased by 29.0 million, or 17 , as a result of a 12 and 57 increase in average realized gold and silver prices, respectively, partially offset by lower gold and silver ounces sold (3 and 10 , respectively). We sold 83,112 gold ounces and 2.4 million silver ounces, compared to 85,635 gold ounces, 2.7 million silver ounces, 3.2 million zinc pounds and 2.5 million lead pounds in the prior year. Gold and silver accounted for 68 and 32 of 2021 sales revenue, respectively. This compares to gold and silver accounting for 74 and 25 of first quarter 2020 sales revenue, respectively, with zinc and lead accounting for the remaining 2020 sales revenue. 
+ 
+ 29 
+
+The following table summarizes consolidated metal sales: 
+ Three months ended March 31, Increase (Decrease) Percentage Change In thousands 2021 2020 Gold sales 138,322 127,605 10,717 8 Silver sales 63,795 44,909 18,886 42 Zinc sales (662) 662 (100) Lead sales 1,315 (1,315) (100) Metal sales 202,117 173,167 28,950 17 
+ Costs Applicable to Sales 
+ Costs applicable to sales decreased 10.8 million, or 9 , primarily due to the temporary suspension at Silvertip, lower ounces sold at Palmarejo and the favorable impact from foreign currency hedges. For a complete discussion of costs applicable to sales, see Results of Operations below. 
+ Amortization 
+ Amortization decreased 6.2 million, or 17 , primarily due to the temporary suspension at Silvertip, longer assumed mine life based on year-end 2020 mineral reserve growth at Palmarejo and lower ounces sold at Palmarejo. 
+ Expenses 
+ General and administrative expenses increased 2.6 million, or 30 , primarily due to higher employee incentive compensation costs. 
+ Exploration expense increased 3.3 million, or 51 , as the Company maintained its commitment to a higher-level of exploration investment following the completion of the largest and most successful drilling campaign in Coeur s history during 2020. The Company completed 122,300 feet (37,275 meters) of expansion drilling and 128,200 feet (39,100 meters) of infill drilling in the first quarter of 2021 compared 119,471 feet (36,415 meters) of expansion drilling and 50,209 feet (15,304 meters) of infill drilling in the first quarter of 2020. 
+ Pre-development, reclamation, and other expenses increased 7.2 million, or 109 , stemming from full-quarter ongoing carrying and temporary suspension costs at Silvertip and incremental costs incurred in connection with the Company s COVID-19 health and safety protocols, and a gain resulting from the modification of a right of use lease at Silvertip in 2020. 
+ The following table summarizes pre-development, reclamation, and other expenses: 
+ Three months ended March 31, Increase (Decrease) Percentage Change In thousands 2021 2020 COVID-19 3,005 272 2,733 1,005 Silvertip ongoing carrying costs 6,921 2,608 4,313 165 Silvertip temporary suspension costs 3,509 (3,509) (100) Gain on modification of right of use lease (4,051) 4,051 (100) Asset retirement accretion 2,905 2,847 58 2 Other 881 1,370 (489) (36) Pre-development, reclamation and other expense 13,712 6,555 7,157 109 
+ Other Income and Expenses 
+ During the first quarter of 2021, the Company incurred a 9.2 million loss in connection with the tender and redemption of the 2024 Senior Notes concurrent with the completed offering of the 2029 Senior Notes. 
+ Fair value adjustments, net, decreased to a loss of 3.8 million compared to loss of 8.8 million in the prior year quarter, a result of unfavorable changes in value related to the Company s prior equity investment in Metalla Royalty Streaming Ltd. in 2020. 
+ Interest expense (net of capitalized interest of 0.8 million) decreased to 4.9 million from 5.1 million due to higher capitalized interest associated with the POA 11 project at Rochester, partially offset by higher interest paid under the 2029 Senior Notes compared to the 2024 Senior Notes. 
+ Other, net increased to a gain of 3.6 million compared to 1.9 million due to an increase in gains on the sale of assets. 
+ 30 
+
+Income and Mining Taxes 
+ During the first quarter of 2021, income and mining tax expense of approximately 12.8 million resulted in an effective tax rate of 86.1 for 2021. This compares to income tax benefit of 3.9 million or effective tax rate of 24.9 for 2020. The comparability of the Company s income and mining tax (expense) benefit and effective tax rate for the reported periods was impacted by multiple factors, primarily: (i) mining taxes; (ii) variations in our income before income taxes; (iii) geographic distribution of that income; (iv) foreign exchange rates; (v) percentage depletion; (vi) the non-recognition of tax assets; and (vii) the impact of uncertain tax positions. Therefore, the effective tax rate will fluctuate, sometimes significantly, period to period. 
+ The following table summarizes the components of the Company s income (loss) before tax and income and mining tax (expense) benefit: 
+ Three months ended March 31, 2021 2020 In thousands Income (loss) before tax Tax (expense) benefit Income (loss) before tax Tax (expense) benefit United States (8,531) (1,625) (11,005) (736) Canada (12,785) (26,029) 15 Mexico 32,914 (11,161) 21,359 4,631 Other jurisdictions 3,248 (164) 29 14,846 (12,786) (15,839) 3,939 
+ A valuation allowance is provided for deferred tax assets for which it is more likely than not that the related tax benefits will not be realized. The Company analyzes its deferred tax assets and, if it is determined that the Company will not realize all or a portion of its deferred tax assets, it will record or increase a valuation allowance. Conversely, if it is determined that the Company will ultimately be more likely than not able to realize all or a portion of the related benefits for which a valuation allowance has been provided, all or a portion of the related valuation allowance will be reduced. There are a number of factors that impact the Company s ability to realize its deferred tax assets. For additional information, please see Item 1A - Risk Factors in the 2020 10-K. 
+ Net Income (Loss) 
+ Net income was 2.1 million, or 0.01 per diluted share, compared to net loss of 11.9 million, or 0.05 per share. The increase in net income was driven by strong operating results at Wharf, a 12 and 57 increase in average realized gold and silver prices, respectively, and lower operating costs at Silvertip. This was partially offset by lower sales of gold and silver (3 and 10 , respectively), higher exploration expense, a 9.2 million loss on debt extinguishment, a full-quarter of ongoing carrying and severance costs at Silvertip and incremental costs associated with the Company s COVID-19 health and safety protocols. Adjusted net income was 13.9 million, or 0.06 per diluted share, compared to adjusted net loss of 0.9 million, or 0.00 per share (see Non-GAAP Financial Performance Measures ). 
+
+31 
+
+Results of Operations 
+ Palmarejo 
+ Three Months Ended March 31, 2021 2020 Tons milled 484,390 479,562 Average gold grade (oz/t) 0.06 0.07 Average silver grade (oz/t) 4.07 4.69 Average recovery rate Au 95.7 91.6 Average recovery rate Ag 81.3 81.5 Gold ounces produced 28,605 31,578 Silver ounces produced 1,603,274 1,834,891 Gold ounces sold 25,687 31,287 Silver ounces sold 1,637,695 1,894,789 Costs applicable to sales per gold ounce (1) 
+ 622 644 Costs applicable to sales per silver ounce (1) 
+ 11.00 8.35 
+ (1) See Non-GAAP Financial Performance Measures. 
+ Three Months Ended March 31, 2021 compared to Three Months Ended March 31, 2020 
+ Gold and silver production decreased 9 and 13 , respectively, as a result of lower gold and silver grades, as expected, partially offset by higher mill throughput and higher gold recovery. Metal sales were 80.3 million, or 40 of Coeur s metal sales, compared with 74.3 million, or 43 of Coeur s metal sales. Revenue for the three months ended March 31, 2021 increased by 6.0 million or 8 , of which 21.0 million was the result of higher average realized gold and silver prices, partially offset by a decrease of 15.0 million due to lower volume of gold and silver sales. Costs applicable to sales per gold ounce decreased 3 while costs applicable to sales per silver ounce increased 32 due to the mix of gold and silver sales, lower production and higher maintenance costs partially offset by the favorable impact from foreign currency hedges. Amortization decreased to 9.1 million due to a longer mine life based on year-end 2020 reserve growth and lower ounces sold. Capital expenditures increased to 10.0 million from 7.1 million attributable to higher underground development at the La Nacion deposit. 
+ Rochester 
+ Three Months Ended March 31, 2021 2020 Tons placed 3,240,917 3,428,578 Average gold grade (oz/t) 0.003 0.002 Average silver grade (oz/t) 0.45 0.57 Gold ounces produced 6,904 5,936 Silver ounces produced 773,678 687,379 Gold ounces sold 6,934 5,473 Silver ounces sold 771,354 632,237 Costs applicable to sales per gold ounce (1) 
+ 1,317 1,394 Costs applicable to sales per silver ounce (1) 
+ 19.32 14.75 
+ (1) See Non-GAAP Financial Performance Measures. 
+ 
+ Three Months Ended March 31, 2021 compared to Three Months Ended March 31, 2020 
+ Gold and silver production increased 16 and 13 , respectively, due to the timing of recoveries, higher gold grade and the restocking of leach pad inventory after the commissioning of the high pressure grinding roll in 2019, which adversely impacted 2020 gold and silver production. Metal sales were 32.8 million, or 16 of Coeur s metal sales, compared with 19.4 million, or 11 of Coeur s metal sales. Revenue for the three months ended March 31, 2021 increased by 13.4 million or 69 , of which 7.1 million was the result of higher average realized gold and silver prices, and 6.3 million due to higher volume of gold and silver sales. Costs applicable to sales per gold ounce decreased 6 while costs applicable to sales per silver 
+ 32 
+
+ounce increased 31 due to the mix of gold and silver sales as well as higher equipment maintenance costs. Amortization increased to 3.6 million due to higher ounces sold. Capital expenditures increased to 30.2 million from 5.1 million due to the commencement of construction activities related to POA 11 in August 2020. 
+ Kensington 
+ Three Months Ended March 31, 2021 2020 Tons milled 170,358 162,341 Average gold grade (oz/t) 0.19 0.21 Average recovery rate 93.2 93.5 Gold ounces produced 30,681 32,022 Gold ounces sold 31,595 32,781 Costs applicable to sales per gold ounce (1) 
+ 994 931 
+ (1) See Non-GAAP Financial Performance Measures. 
+ Three Months Ended March 31, 2021 compared to Three Months Ended March 31, 2020 
+ Gold production decreased 4 as a result of lower grade, partially offset by higher mill throughput. Metal sales were 54.5 million, or 27 of Coeur s metal sales, compared to 51.7 million, or 30 of Coeur s metal sales. Revenue for the three months ended March 31, 2021 increased by 2.8 million or 5 , of which 4.9 million resulted from higher average realized gold prices, partially offset by a decrease of 2.1 million due to lower volume of gold sales. Costs applicable to sales per gold ounce increased 7 due to lower production and higher equipment rental, outside service and maintenance costs. Amortization increased to 13.4 million primarily due to higher Jualin production. Capital expenditures increased to 7.2 million from 4.8 million due to higher infill drilling. 
+ 
+ Wharf 
+ Three Months Ended March 31, 2021 2020 Tons placed 1,114,043 946,449 Average gold grade (oz/t) 0.030 0.025 Gold ounces produced 19,035 15,541 Silver ounces produced 26,191 14,861 Gold ounces sold 18,896 16,094 Silver ounces sold 26,455 14,768 Costs applicable to sales per gold ounce (1) 
+ 954 1,092 
+ (1) See Non-GAAP Financial Performance Measures. 
+ 
+ 33 
+
+Three Months Ended March 31, 2021 compared to Three Months Ended March 31, 2020 
+ Gold production increased 22 driven by higher grade, higher placed tons and favorable weather conditions. Metal sales were 34.5 million, or 17 of Coeur s metal sales, compared to 25.9 million, or 15 of Coeur s metal sales. Revenue for the three months ended March 31, 2021 increased by 8.7 million or 34 , of which 5.3 million resulted from a higher volume of gold and silver sales and 3.4 million due to higher average realized gold and silver prices. Costs applicable to sales per gold ounce decreased 13 due to higher production and lower diesel and cyanide costs. Amortization remained comparable at 2.5 million due to a lower units-of-production depletion rate. Capital expenditures were 1.5 million. 
+ Silvertip 
+ Three Months Ended March 31, 2021 2020 Silver ounces produced 139,287 Zinc pounds produced 2,459,756 Lead pounds produced 2,176,847 Silver ounces sold 158,984 Zinc pounds sold 3,203,446 Lead pounds sold 2,453,485 Costs applicable to sales per silver ounce (2) 
+ NM (1) 
+ Costs applicable to sales per zinc pound (2) 
+ NM (1) 
+ Costs applicable to sales per lead ounce (2) 
+ NM (1) 
+ 
+ (1) Due to the temporary suspension of mining and processing activities these amounts are not meaningful. 
+ (2) See Non-GAAP Financial Performance Measures. 
+ Three Months Ended March 31, 2021 compared to Three Months Ended March 31, 2020 
+ Silvertip temporarily suspended mining and processing activities, unrelated to COVID-19, in February 2020. Operational results in the table above reflect performance prior to the temporary suspension. Ongoing carrying and temporary suspension costs are included in Pre-development, reclamation, and other. 
+ Coeur continued advancing Silvertip s revised 1,750 tonnes per day flowsheet through a more comprehensive engineering and design phase, with detailed design approaching 30 completion and exploration results demonstrating the potential for mine life extensions with continued drilling. 
+
+Liquidity and Capital Resources 
+ At March 31, 2021, the Company had 155.4 million of cash, cash equivalents and restricted cash and 265.0 million available under its RCF. Cash and cash equivalents increased 61.3 million in the three months ended March 31, 2021, due to a 12 and 57 increase in average realized gold and silver prices, respectively, strong operational results from Wharf, net proceeds of 367.5 million from the issuance of the 2029 Senior Notes, partially offset by the tender and redemption of the 2024 Senior Notes for 238.3 million, including premiums, and 4.0 million of accrued and unpaid interest, lower ounces sold at Palmarejo and Kensington and ongoing carrying costs at Silvertip. Since the start of the COVID-19 pandemic, the Company has completed various scenario planning analyses to consider potential impacts of COVID-19 on its business, including volatility in commodity prices, temporary disruptions and/or curtailments of operating activities (voluntary or involuntary). To provide additional flexibility to respond to potential downside scenarios, the Company has been able to periodically draw and make repayments under its RCF subsequent to the start of the COVID-19 pandemic. At March 31, 2021, the Company had no borrowings and 35.0 million in outstanding letters of credit under the RCF, which was amended in March 2021 to allow the Company to obtain one or more increases of the RCF in an aggregate amount of up to 100.0 million and extend the maturity to March 2025. Additionally, Coeur established a 100.0 million ATM Program in April 2020 as a means to proactively increase its financial flexibility in response to increased volatility and uncertainty associated with COVID-19. At the date of this filing, the Company has yet to issue any shares of its common stock under the ATM Program and intends to maintain the program during the POA 11 construction. 
+ Cash Used in Operating Activities 
+ Net cash used in operating activities for the three months ended March 31, 2021 was 4.4 million, compared to 8.0 million for the three months ended March 31, 2020. Adjusted EBITDA for the three months ended March 31, 2021 was 65.9 
+ 34 
+
+million, compared to 46.5 million for the three months ended March 31, 2020 (see Non-GAAP Financial Performance Measures ). Net cash provided by operating activities was impacted by the following key factors for the applicable periods: 
+ Three Months Ended March 31, In thousands 2021 2020 Cash flow before changes in operating assets and liabilities 41,580 30,144 Changes in operating assets and liabilities: Receivables 999 (813) Prepaid expenses and other (655) (346) Inventories (17,486) (21,925) Accounts payable and accrued liabilities (28,797) (15,051) Cash provided by (used in) operating activities (4,359) (7,991) 
+ Net cash used in operating activities decreased 3.6 million for the three months ended March 31, 2021, primarily due to a 12 and 57 increase in average realized gold and silver prices, respectively, partially offset by lower ounces sold of gold and silver (3 and 10 , respectively), higher income and mining tax payments at Palmarejo and payment of 4.0 million of interest related to the tender and redemption of the 2024 Senior Notes. Revenue for the three months ended March 31, 2021 increased by 29.0 million, of which 40.1 million was the result of higher average realized gold and silver prices, partially offset by a decrease of 11.1 million due to lower volume of gold and silver sales. 
+ Cash Used in Investing Activities 
+ Net cash used in investing activities in the three months ended March 31, 2021 was 53.9 million compared to 17.7 million in the three months ended March 31, 2020. Cash used in investing activities increased primarily due to the commencement of construction activities related to POA 11 in August 2020 at Rochester. The Company incurred capital expenditures of 59.4 million in the three months ended March 31, 2021 compared with 22.2 million in the three months ended March 31, 2020. Capital expenditures in the three months ended March 31, 2021 were primarily related to POA 11 construction activities at Rochester, potential expansion expenditures at Silvertip and underground development at Palmarejo and Kensington. Capital expenditures in the three months ended March 31, 2020 were primarily related to underground development at Silvertip, Palmarejo, and Kensington and POA 11 capital expenditures at Rochester. 
+ Cash Provided by Financing Activities 
+ Net cash provided by financing activities in the three months ended March 31, 2021 was 119.6 million compared to 23.4 million in the three months ended March 31, 2020. During the three months ended March 31, 2021, the Company received net proceeds of 367.5 million from the issuance of the 2029 Senior Notes, partially offset by the tender and redemption of the 2024 Senior Notes for 238.3 million, including premiums. During the three months ended March 31, 2020, the Company drew 50.0 million from the RCF, partially offset by the payment of contingent consideration of 18.8 million associated with the Silvertip acquisition. 
+
+Critical Accounting Policies and Accounting Developments 
+ Please see Note 2 -- Summary of Significant Accounting Policies contained in the 2020 10-K and in Note 2 - Summary of Significant Accounting Policies contained in this Report for the Company s critical accounting policies and estimates. 
+
+Other Liquidity Matters 
+ We believe that our liquidity and capital resources in the U.S. are adequate to fund our U.S. operations and corporate activities. The Company has asserted indefinite reinvestment of earnings from its Mexican operations as determined by management s judgment about and intentions concerning the future operations of the Company. The Company does not believe that the amounts reinvested will have a material impact on liquidity. 
+ 
+ In order to reduce indebtedness, future cash interest payments and/or amounts due at maturity or upon redemption and for general working capital purposes, from time-to-time we may (1) issue equity securities for cash in public or private offerings or (2) repurchase certain of our debt securities for cash or in exchange for other securities, which may include secured or unsecured notes or equity, in each case in open market or privately negotiated transactions. We evaluate any such transactions in light of prevailing market conditions, liquidity requirements, contractual restrictions, and other factors. The amounts involved may be significant and any debt repurchase transactions may occur at a substantial discount to the debt securities face amount. 
+ 35 
+
+Non-GAAP Financial Performance Measures 
+ Non-GAAP financial measures are intended to provide additional information only and do not have any standard meaning prescribed by generally accepted accounting principles GAAP ). Unless otherwise noted, we present the Non-GAAP financial measures in the tables below. These measures should not be considered in isolation or as a substitute for performance measures prepared in accordance with GAAP. 
+ Adjusted Net Income (Loss) 
+ Management uses Adjusted net income (loss) to evaluate the Company s operating performance, and to plan and forecast its operations. The Company believes the use of Adjusted net income (loss) reflects the underlying operating performance of our core mining business and allows investors and analysts to compare results of the Company to similar results of other mining companies. Management s determination of the components of Adjusted net income (loss are evaluated periodically and is based, in part, on a review of non-GAAP financial measures used by mining industry analysts. The tax effect of adjustments are based on statutory tax rates and the Company s tax attributes, including the impact through the Company s valuation allowance. The combined effective rate of tax adjustments may not be consistent with the statutory tax rates or the Company s effective tax rate due to jurisdictional tax attributes and related valuation allowance impacts which may minimize the tax effect of certain adjustments and may not apply to gains and losses equally. Adjusted net income (loss) is reconciled to Net income (loss) in the following table: 
+ Three Months Ended March 31, In thousands except per share amounts 2021 2020 Net income (loss) 2,060 (11,900) Fair value adjustments, net 3,799 8,819 Foreign exchange loss (gain) (43) (6,620) (Gain) loss on sale of assets and securities (4,053) (374) Loss on debt extinguishment 9,172 Silvertip inventory write-down 10,381 Silvertip temporary suspension costs 3,509 Silvertip lease modification (4,051) Silvertip gain on contingent consideration (955) COVID-19 costs 3,005 272 Adjusted net income (loss) 13,940 (919) Adjusted net income (loss) per share - Basic 0.06 0.00 Adjusted net income (loss) per share - Diluted 0.06 0.00 
+ 
+ EBITDA and Adjusted EBITDA 
+ Management uses EBITDA to evaluate the Company s operating performance, to plan and forecast its operations, and assess leverage levels and liquidity measures. The Company believes the use of EBITDA reflects the underlying operating performance of our core mining business and allows investors and analysts to compare results of the Company to similar results of other mining companies. Adjusted EBITDA is a measure used in indenture governing the 2029 Senior Notes and the RCF to determine our ability to make certain payments and incur additional indebtedness. EBITDA and Adjusted EBITDA do not represent, and should not be considered an alternative to, Net income (Loss) or Cash Flow from Operations as determined under GAAP. Other companies may calculate Adjusted EBITDA differently and those calculations may not be comparable to our presentation. Adjusted EBITDA is reconciled to Net income (loss) in the following table: 
+ 36 
+
+Three Months Ended March 31, In thousands except per share amounts 2021 2020 Net income (loss) 2,060 (11,900) Interest expense, net of capitalized interest 4,910 5,128 Income tax provision (benefit) 12,786 (3,939) Amortization 29,937 36,162 EBITDA 49,693 25,451 Fair value adjustments, net 3,799 8,819 Foreign exchange (gain) loss 773 76 Asset retirement obligation accretion 2,905 2,847 Inventory adjustments and write-downs 572 476 (Gain) loss on sale of assets and securities (4,053) (374) Loss on debt extinguishment 9,172 Silvertip inventory write-down 10,381 Silvertip temporary suspension costs 3,509 Silvertip lease modification (4,051) Silvertip gain on contingent consideration (955) COVID-19 costs 3,005 272 Adjusted EBITDA 65,866 46,451 
+ 
+ Free Cash Flow 
+ Management uses Free Cash Flow as a non-GAAP measure to analyze cash flows generated from operations. Free Cash Flow is Cash Provided By (used in) Operating Activities less Capital expenditures as presented on the Consolidated Statements of Cash Flows. The Company believes Free Cash Flow is also useful as one of the bases for comparing the Company s performance with its competitors. Although Free Cash Flow and similar measures are frequently used as measures of cash flows generated from operations by other companies, the Company s calculation of Free Cash Flow is not necessarily comparable to such other similarly titled captions of other companies. 
+ The following table sets forth a reconciliation of Free Cash Flow, a non-GAAP financial measure, to Cash Provided By (used in) Operating Activities , which the Company believes to be the GAAP financial measure most directly comparable to Free Cash Flow. 
+ Three Months Ended March 31, (Dollars in thousands) 2021 2020 Cash flow from operations (4,359) (7,991) Capital expenditures 59,424 22,208 Free cash flow (63,783) (30,199) 
+ 
+ Operating Cash Flow Before Changes in Working Capital 
+ Management uses Operating Cash Flow Before Changes in Working Capital as a non-GAAP measure to analyze cash flows generated from operations. Operating Cash Flow Before Changes in Working Capital is Cash Provided By (used in) Operating Activities excluding the change in Receivables , Prepaid expenses and other , Inventories and Accounts payable and accrued liabilities as presented on the Consolidated Statements of Cash Flows. The Company believes Operating Cash Flow Before Changes in Working Capital is also useful as one of the bases for comparing the Company s performance with its competitors. Although Operating Cash Flow Before Changes in Working Capital and similar measures are frequently used as measures of cash flows generated from operations by other companies, the Company s calculation of Operating Cash Flow Before Changes in Working Capital is not necessarily comparable to such other similarly titled captions of other companies. 
+ The following table sets forth a reconciliation of Operating Cash Flow Before Changes in Working Capital, a non-GAAP financial measure, to Cash Provided By (used in) Operating Activities , which the Company believes to be the GAAP financial measure most directly comparable to Operating Cash Flow Before Changes in Working Capital. 
+ 37 
+
+Three Months Ended March 31, (Dollars in thousands) 2021 2020 Cash provided by (used in) operating activities (4,359) (7,991) Changes in operating assets and liabilities: Receivables (999) 813 Prepaid expenses and other 655 346 Inventories 17,486 21,925 Accounts payable and accrued liabilities 28,797 15,051 Operating cash flow before changes in working capital 41,580 30,144 
+ 
+ Costs Applicable to Sales 
+ Management uses CAS to evaluate the Company s current operating performance and life of mine performance from discovery through reclamation. We believe these measures assist analysts, investors and other stakeholders in understanding the costs associated with producing gold, silver, zinc and lead, assessing our operating performance and ability to generate free cash flow from operations and sustaining production. These measures may not be indicative of operating profit or cash flow from operations as determined under GAAP. Management believes that allocating CAS to gold, silver, zinc and lead based on gold, silver, zinc and lead metal sales relative to total metal sales best allows management, analysts, investors and other stakeholders to evaluate the operating performance of the Company. Other companies may calculate CAS differently as a result of reflecting the benefit from selling non-silver metals as a by-product credit, converting to silver equivalent ounces, and differences in underlying accounting principles and accounting frameworks such as in International Financial Reporting Standards. 
+ 
+ Three Months Ended March 31, 2021 
+ In thousands (except metal sales, per ounce and per pound amounts) Palmarejo Rochester Kensington Wharf Silvertip Total Costs applicable to sales, including amortization (U.S. GAAP) 43,047 27,610 44,839 21,207 1,086 137,789 Amortization (9,059) (3,577) (13,445) (2,475) (1,086) (29,642) Costs applicable to sales 33,988 24,033 31,394 18,732 108,147 Metal Sales Gold ounces 25,687 6,934 31,595 18,896 83,112 Silver ounces 1,637,695 771,354 26,455 2,435,504 Zinc pounds Lead pounds Costs applicable to sales Gold /oz) 622 1,317 994 954 Silver /oz) 11.00 19.32 Zinc /lb) Lead /lb) 
+ 38 
+
+Three Months Ended March 31, 2020 
+ In thousands (except metal sales, per ounce and per pound amounts) Palmarejo Rochester Kensington Wharf Silvertip Total Costs applicable to sales, including amortization (U.S. GAAP) 49,149 19,860 42,429 20,267 23,002 154,707 Amortization (13,175) (2,904) (11,922) (2,444) (5,345) (35,790) Costs applicable to sales 35,974 16,956 30,507 17,823 17,657 118,917 Metal Sales Gold ounces 31,287 5,473 32,781 16,094 85,635 Silver ounces 1,894,789 632,237 14,768 158,984 2,700,778 Zinc pounds 3,203,446 3,203,446 Lead pounds 2,453,485 2,453,485 Costs applicable to sales Gold /oz) 644 1,394 931 1,092 Silver /oz) 8.35 14.75 NM (1) 
+ Zinc /lb) NM (1) 
+ Lead /lb) NM (1) 
+ 
+ (1) Due to the temporary suspension of mining and processing activities these amounts are not meaningful. 
+
+39 
+
+Cautionary Statement Concerning Forward-Looking Statements 
+ This report contains numerous forward-looking statements within the meaning of Section 21E of the Securities Exchange Act of 1934, as amended (the Exchange Act relating to the Company s gold, silver, zinc and lead mining business, including statements regarding operations at the Company s mines, exploration and development efforts, expectations regarding the Rochester POA 11 expansion project, COVID-19 planning, response and mitigation efforts, hedging strategies, realization of deferred tax assets, expectations about the recovery of VAT in Mexico, timing of completion of obligations under the Amended Sales Contract at Kensington, liquidity management, financing plans, and risk management strategies. Such forward-looking statements are identified by the use of words such as believes, intends, expects, hopes, may, should, plan, projected, contemplates, anticipates or similar words. Actual results could differ materially from those projected in the forward-looking statements. The factors that could cause actual results to differ materially from those projected in the forward-looking statements include (i) the risk factors set forth in Part II, Item 1A of this report and in Risk Factors section of the 2020 10-K, and the risks set forth in this MD A and Item 3 of this report, (ii) the risks and hazards inherent in the mining business (including risks inherent in developing large-scale mining projects, environmental hazards, industrial accidents, weather or geologically related conditions), (iii) changes in the market prices of gold, silver, zinc and lead and a sustained lower price or higher treatment and refining charge environment, (iv) the uncertainties inherent in the Company s production, exploratory and developmental activities, including risks relating to permitting and regulatory delays (including the impact of government shutdowns), ground conditions and grade variability, (v) any future labor disputes or work stoppages (involving the Company and its subsidiaries or third parties), (vi) the uncertainties inherent in the estimation of mineral reserves and mineralized material, (vii) changes that could result from the Company s future acquisition of new mining properties or businesses, (viii) the loss of access to any third-party smelter to whom the Company markets its production, (ix) the potential effects of the COVID-19 pandemic, including impacts to the availability of our workforce, continued access to financing sources, government orders that may require temporary suspension of operations at one or more of our sites and effects on our suppliers or the refiners and smelters to whom the Company markets its production, (x) the effects of environmental and other governmental regulations, (xi) the risks inherent in the ownership or operation of or investment in mining properties or businesses in foreign countries, and (xii) the Company s ability to raise additional financing necessary to conduct its business, make payments or refinance its debt. Readers are cautioned not to put undue reliance on forward-looking statements. The Company disclaims any intent or obligation to update publicly these forward-looking statements, whether as a result of new information, future events or otherwise. 
+ 
+ Item 3. Quantitative and Qualitative Disclosures About Market Risk 
+ The Company is exposed to various market risks as a part of its operations and engages in risk management strategies to mitigate these risks. The Company continually evaluates the potential benefits of engaging in these strategies based on current market conditions. The Company does not actively engage in the practice of trading derivative instruments for profit. Additional information about the Company s derivative financial instruments may be found in Note 13 -- Derivative Financial Instruments in the notes to the Consolidated Financial Statements. This discussion of the Company s market risk assessments contains forward looking statements . For additional information regarding forward-looking statements and risks and uncertainties that could impact the Company, please refer to Item 2 of this Report - Cautionary Statement Concerning Forward-Looking Statements. Actual results and actions could differ materially from those discussed below. 
+ Gold, Silver, Zinc and Lead Prices 
+ Gold, silver, zinc, and lead prices may fluctuate widely due to numerous factors, such as U.S. dollar strength or weakness, demand, investor sentiment, inflation or deflation, and global mine production. The Company s profitability and cash flow may be significantly impacted by changes in the market price of gold, silver, zinc, and lead. 
+ 40 
+
+Gold, Silver, Zinc and Lead Hedging 
+ To mitigate the risks associated with gold, silver, zinc and lead price fluctuations, the Company may enter into option contracts to hedge future production. The Company had outstanding Asian put and call option contracts in net-zero-cost collar contracts on 245,025 ounces of gold at March 31, 2021 that settle monthly through December 2022. The Company is targeting to hedge up to 50 of expected gold production through 2021 and 2022 and may in the future layer on additional hedges as circumstances warrant. The weighted average strike prices on the put and call contracts are 1,613 and 1,956 per ounce of gold, respectively. The contracts are generally net cash settled and, if the price of gold at the time of the expiration is between the put and call prices, would expire at no cost to the Company. These Asian put and call option contracts expose us to (i) credit risk in the form of non-performance by counterparties for contracts in which the contract price exceeds the spot price of a commodity, (ii) price risk to the extent that the spot price exceeds the contract price for quantities of our production covered under contract positions; and (iii) liquidity risk to the extent counterparties exercise rights to cash collateral for out-of-money hedges under applicable instruments. To reduce counter-party credit exposure, the Company enters into contracts with institutions management deems credit-worthy and limits credit exposure to each institution. The Company does not anticipate non-performance by any of its counterparties. For additional information, please see the section titled Risk Factors in the 2020 10-K and part II, Item 1A of this report. 
+ At March 31, 2021, the fair value of the put and call zero cost collars contracts was an asset of 4.1 million. For the quarter ended March 31, 2021 the Company recognized a loss of 0.4 million related to expired options in Revenue and the remaining outstanding options were included in accumulated other comprehensive income (loss) . A 10 increase in the price of gold at March 31, 2021 would result in a realized loss of 2.8 million a nd 10 decrease would result in a realized gain of 22.4 million . As of March 31, 2021, the closing price of gold was 1,691 per ounce. As of April 26, 2021, the closing price of gold was 1,773 per ounce. 
+ Provisional Gold, Silver, Zinc and Lead Sales 
+ The Company enters into sales contracts with third-party smelters and refiners which, in some cases, provide for a provisional payment based upon preliminary assays and quoted metal prices. The provisionally priced sales contracts contain an embedded derivative that is required to be separated from the host contract. Depending on the difference between the price at the time of sale and the final settlement price, embedded derivatives are recorded as either a derivative asset or liability. The embedded derivatives do not qualify for hedge accounting and, as a result, are marked to the market gold, silver, zinc and lead price at the end of each period from the provisional sale date to the date of final settlement. The mark-to-market gains and losses are recorded in earnings. At March 31, 2021, the Company had outstanding provisionally priced sales of 12,137 ounces of gold at an average price of 1,782. Changes in gold prices resulted in provisional pricing mark-to-market loss of 0.6 million during the three months ended March 31, 2021. A 10 change in realized gold prices would cause revenue to vary by 2.1 million. 
+ Foreign Currency 
+ The Company operates, or has mineral interests, in several foreign countries including Canada, Mexico, and New Zealand, which exposes it to foreign currency exchange rate risks. Foreign currency exchange rates are influenced by world market factors beyond the Company s control such as supply and demand for U.S. and foreign currencies and related monetary and fiscal policies. Fluctuations in local currency exchange rates in relation to the U.S. dollar may significantly impact profitability and cash flow. 
+ Foreign Exchange Hedging 
+ To manage foreign currency risk, the Company may enter into foreign currency forward exchange contracts. At March 31, 2021, the Company entered into foreign currency forward contracts to manage this risk and designated these instruments as cash flow hedges of forecasted foreign denominated transactions. The Company had outstanding foreign currency forward exchange contracts to receive 1.1 billion Mexican Pesos at March 31, 2021 with an average exchange rate of 25.14 that settle monthly through December 2021. At March 31, 2021, the fair value of the foreign currency forward exchange contracts was a net asset of 9.4 million. For the three months ended March 31, 2021 the Company has recognized a gain of 3.1 million related to expired options in Cost Applicable to Sales and Pre-development, Reclamation and Othe r, respectively, and an unrealized gain of 9.4 million related to outstanding options in AOCI. A 10 increase or decrease in the exchange rates at March 31, 2021 would result in a realized gain of 4.4 million or 11.8 million, respectively. 
+ Interest Rates 
+ Interest Rate Hedging 
+ We may use financial instruments to manage exposures to changes in interest rates on loans, which exposes us to credit risk and market risk. Credit risk is the failure of the counterparty to perform under the terms of the derivative contract. 
+ 41 
+
+When the fair value of a derivative contract is positive, the counterparty owes us, which creates credit risk for us. When the fair value of a derivative contract is negative, we owe the counterparty and, therefore, it does not pose credit risk. We seek to minimize the credit risk in derivative instruments by entering into transactions with what we believe are high-quality counterparties. Market risk is the adverse effect on the value of a financial instrument that results from a change in interest rates. The Company had no outstanding interest rate swaps at March 31, 2021. 
+
+Item 4. Controls and Procedures 
+ (a) Disclosure Controls and Procedures 
+ As of the end of the period covered by this quarterly report, the Company carried out an evaluation, under the supervision and with the participation of the Company s management, including its Chief Executive Officer and Chief Financial Officer, of the effectiveness of the design and operation of the Company s disclosure controls and procedures (as such term is defined in Rules 13a-15(e) and 15d-15(e) of the Securities Exchange Act of 1934, as amended (the Exchange Act ), and management necessarily applied its judgment in assessing the costs and benefits of such controls and procedures, which by their nature, can provide only reasonable assurance regarding management s control objectives. The design of any system of controls is based in part upon certain assumptions about the likelihood of future events. Based upon the foregoing, the Company s Chief Executive Officer and Chief Financial Officer concluded that the Company s disclosure controls and procedures were effective and operating to provide reasonable assurance that information required to be disclosed by it in the reports it files or submits under the Exchange Act is recorded, processed, summarized and reported within the time periods specified in the SEC s rules and forms, and to provide reasonable assurance that such information is accumulated and communicated to the Company s management, including its Chief Executive Officer and Chief Financial Officer, as appropriate to allow timely decisions regarding required disclosure. 
+ (b) Management s Report on Internal Control Over Financial Reporting 
+ Based on an evaluation by the Company s Chief Executive Officer and Chief Financial Officer, such officers concluded that there was no change in the Company s internal control over financial reporting during the three months ended March 31, 2021 that has materially affected, or is reasonably likely to materially affect, the Company s internal control over financial reporting. 
+ 42 
+
+PART II 
+
+Item 1. Legal Proceedings 
+ See Note 17 -- Commitments and Contingencies in the notes to the Consolidated Financial Statements included herein. 
+
+Item 1A. Risk Factors 
+ Item 1A -- Risk Factors of the 2020 10-K sets forth information relating to important risks and uncertainties that could materially adversely affect the Company s business, financial condition or operating results. Those risk factors have been supplemented and updated in this Form 10-Q. Except as supplemented and updated below, the risk factors set forth in the 2020 10-K remain current. Additional risks and uncertainties that the Company does not presently know or that it currently deems immaterial also may impair our business operations. 
+ Coeur is an international company and is exposed to political and social risks associated with its foreign operations. 
+ A significant portion of our revenues are generated by operations outside the United States. Exploration, development, production and closure activities in many countries are potentially subject to heightened political and social risks that are beyond our control and could result in increased costs, capacity constraints and potential disruptions to our business. These risks include the possible unilateral cancellation or forced renegotiation of contracts in which we, directly or indirectly, may have an interest, unfavorable changes in foreign laws and regulations, royalty and tax increases (including taxes associated with the import or export of goods), risks associated with the value-added tax VAT and income tax refund recovery and collection process, erection of trade barriers, including tariffs and duties, claims by governmental entities or indigenous communities, expropriation or nationalization of property and other risks arising out of foreign sovereignty over areas in which our operations are conducted. As an example, as disclosed in Note 17 -- Commitments and Contingencies to the Consolidated Financial Statements, we are currently engaged in efforts to recover VAT paid to the Mexican government that is owed to Coeur associated with Coeur Mexicana s prior royalty agreement, including through ongoing litigation. In addition, in April 2021 the legislation that limits outsourcing by companies in Mexico of certain services received congressional approval and is expected to be enacted into law as early as the second quarter of 2021. The law is expected to result in increased costs to our operations in Mexico, including additional tax expense, increased compensation to certain employees and costs associated with restructuring our Mexican subsidiaries and employment arrangements to comply with the new law. The right to import and export gold, silver, zinc and lead may depend on obtaining certain licenses and quotas, which could be delayed or denied at the discretion of the relevant regulatory authorities, or could become subject to new taxes, tariffs or duties imposed by U.S. or foreign jurisdictions, which could have a material adverse effect on our business, financial condition, or future prospects. In addition, our rights under local law may be less secure in countries where judicial systems are susceptible to manipulation and intimidation by government agencies, non-governmental organizations or civic groups. 
+ Any of these developments could require us to curtail or terminate operations at our mines, incur significant costs to renegotiate contracts, meet newly-imposed environmental or other standards, pay greater royalties or higher prices for labor or services and recognize higher taxes, or experience significant delays or obstacles in the recovery of VAT or income tax refunds owed, which could materially and adversely affect financial condition, results of operations and cash flows. 
+
+Item 4. Mine Safety Disclosures 
+ 
+ Information pertaining to mine safety matters is reported in accordance with Section 1503(a) of the Dodd-Frank Wall Street Reform and Consumer Protection Act in Exhibit 95.1 attached to this Form 10-Q. 
+
+Item 5. Other Information 
+ Not applicable. 
+ 
+ 43 
+
+Item 6. Exhibits 
+ 4.1 Indenture, dated March 1, 2021, among Coeur Mining, Inc., as issuer, certain subsidiaries of Coeur Mining, Inc., as guarantors thereto, and The Bank of New York Mellon, as trustee. (Incorporated herein by reference to Exhibit 4.1 to the Registrant s Current Report on Form 8-K filed on March 1, 2021 (File No. 001-08641)). 
+ 10.1 Fifth Amendment to Credit Agreement, dated March 1, 2021, by and among Coeur Mining, Inc., certain subsidiaries of Coeur Mining, Inc., as guarantors, certain of the lenders party thereto and Bank of America, N.A., as administrative agent. (Incorporated herein by reference to Exhibit 10.1 to the Registrant s Current Report on Form 8-K filed on March 1, 2021 (File No. 001-08641)). 
+ 31.1 Certification of the CEO (Filed herewith). 
+ 31.2 Certification of the CFO (Filed herewith). 
+ 32.1 CEO Section 1350 Certification (Filed herewith). 
+ 32.2 CFO Section 1350 Certification (Filed herewith). 
+ 95.1 Mine Safety Disclosure (Filed herewith). 
+ 101.INS XBRL Instance Document 101.SCH XBRL Taxonomy Extension Schema 101.CAL XBRL Taxonomy Extension Calculation Linkbase 101.DEF XBRL Taxonomy Extension Definition Linkbase 101.LAB XBRL Taxonomy Extension Label Linkbase 101.PRE XBRL Taxonomy Extension Presentation Linkbase 104 Cover Page Interactive Data File (formatted as Inline XBRL and included in Exhibit 101). 
+ The following financial information from Coeur Mining, Inc.'s Quarterly Report on Form 10-Q for the quarter ended March 31, 2021, formatted in XBRL (Extensible Business Reporting Language): Condensed Consolidated Balance Sheets, Condensed Consolidated Statements of Comprehensive Income (Loss), Condensed Consolidated Statements of Cash Flows and Consolidated Statement of Changes in Stockholders' Equity. 
+
+SIGNATURES 
+ Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized. 
+ COEUR MINING, INC. (Registrant) Dated April 28, 2021 /s/ Mitchell J. Krebs MITCHELL J. KREBS President and Chief Executive Officer (Principal Executive Officer) Dated April 28, 2021 /s/ Thomas S. Whelan THOMAS S. WHELAN Senior Vice President and Chief Financial Officer (Principal Financial Officer) Dated April 28, 2021 /s/ Ken Watkinson KEN WATKINSON Vice President, Corporate Controller and Chief Accounting Officer (Principal Accounting Officer) 
+ 
+ 44 
+
+<EX-31.1>
+ 2
+ cde-03312110qex311.htm
+ EX-31.1
+
+Document 
+
+Exhibit 31.1 
+ Certification of Chief Executive Officer 
+ Pursuant to Section 302 of the Sarbanes-Oxley Act and Rule 13a-14(a) 
+ or Rule 15d-14(a) under the Securities Exchange Act of 1934 
+
+I, Mitchell J. Krebs, certify that 
+
+1. I have reviewed this Quarterly Report on Form 10-Q of Coeur Mining, Inc. 
+ 2. Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report 
+ 3. Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report 
+ 4. The registrant's other certifying officer(s) and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have 
+ 
+ (a) designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under the Company's supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared 
+ (b) designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles 
+ (c) evaluated the effectiveness of the registrant's disclosure controls and procedures and presented in this report the Company's conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation and 
+ (d) disclosed in this report any change in the registrant's internal control over financial reporting that occurred during the registrant's most recent fiscal quarter (the registrant's fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant's internal control over financial reporting and 
+ 
+ 5. The registrant's other certifying officer(s) and I have disclosed, based on the Company's most recent evaluation of internal control over financial reporting, to the registrant's auditors and the audit committee of the registrant's board of directors (or persons performing the equivalent functions) 
+ 
+ (a) all significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant's ability to record, process, summarize and report financial information and 
+ (b) any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant's internal control over financial reporting. 
+
+By s Mitchell J. Krebs Mitchell J. Krebs Chief Executive Officer 
+ Date April 28, 2021 
+
+</EX-31.1>
+
+<EX-31.2>
+ 3
+ cde-03312110qex312.htm
+ EX-31.2
+
+Document 
+
+Exhibit 31.2 
+ Certification of Chief Financial Officer 
+ Pursuant to Section 302 of the Sarbanes-Oxley Act and Rule 13a-14(a) 
+ or Rule 15d-14(a) under the Securities Exchange Act of 1934 
+
+I, Thomas S. Whelan, certify that 
+
+1. I have reviewed this Quarterly Report on Form 10-Q of Coeur Mining, Inc. 
+ 2. Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report 
+ 3. Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report 
+ 4. The registrant's other certifying officer(s) and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have 
+ 
+ (a) designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under the Company's supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared 
+ (b) designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles 
+ (c) evaluated the effectiveness of the registrant's disclosure controls and procedures and presented in this report the Company's conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation and 
+ (d) disclosed in this report any change in the registrant's internal control over financial reporting that occurred during the registrant's most recent fiscal quarter (the registrant's fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant's internal control over financial reporting and 
+ 
+ 5. The registrant's other certifying officer(s) and I have disclosed, based on the Company's most recent evaluation of internal control over financial reporting, to the registrant's auditors and the audit committee of the registrant's board of directors (or persons performing the equivalent functions) 
+ 
+ (a) all significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant's ability to record, process, summarize and report financial information and 
+ (b) any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant's internal control over financial reporting. 
+
+By s Thomas S. Whelan Thomas S. Whelan Chief Financial Officer 
+ 
+ Date April 28, 2021 
+
+</EX-31.2>
+
+<EX-32.1>
+ 4
+ cde-03312110qex321.htm
+ EX-32.1
+
+Document 
+
+Exhibit 32.1 
+ 
+ Certification of the Chief Executive Officer 
+ Pursuant to 18 U.S.C. 1350 
+
+Solely for the purposes of complying with 18 U.S.C. 1350, as adopted pursuant to 906 of the Sarbanes-Oxley Act of 2002, I, the undersigned President and Chief Executive Officer of Coeur Mining, Inc. (the Company ), hereby certify, based on my knowledge, that the Quarterly Report on Form 10-Q of the Company for the quarter ended March 31, 2021 (the Report fully complies with the requirements of Section 13(a) or Section 15(d) of the Securities Exchange Act of 1934, as amended, and that information contained in the Report fairly presents, in all material respects, the financial condition and results of operations of the Company. 
+ s Mitchell J. Krebs Mitchell J. Krebs April 28, 2021 
+
+</EX-32.1>
+
+<EX-32.2>
+ 5
+ cde-03312110qex322.htm
+ EX-32.2
+
+Document 
+
+Exhibit 32.2 
+
+Certification of the Chief Financial Officer 
+ Pursuant to 18 U.S.C. 1350 
+
+Solely for the purposes of complying with 18 U.S.C. 1350, as adopted pursuant to 906 of the Sarbanes-Oxley Act of 2002, I, the undersigned Chief Financial Officer of Coeur Mining, Inc. (the Company ), hereby certify, based on my knowledge, that the Quarterly Report on Form 10-Q of the Company for the quarter ended March 31, 2021 (the Report fully complies with the requirements of Section 13(a) or Section 15(d) of the Securities Exchange Act of 1934, as amended, and that information contained in the Report fairly presents, in all material respects, the financial condition and results of operations of the Company. 
+ 
+ s Thomas S. Whelan Thomas S. Whelan April 28, 2021 
+
+</EX-32.2>
+
+<EX-95.1>
+ 6
+ cde-03312110qex951.htm
+ EX-95.1
+
+Document 
+
+Exhibit 95.1 
+ Mine Safety Disclosure 
+ In July 2010, the U.S. Congress passed the Dodd-Frank Wall Street Reform and Consumer Protection Act, which requires certain disclosures by companies that are required to file periodic reports under the Securities Exchange Act of 1934 and operate mines regulated under the Federal Mine Safety and Health Act of 1977 FMSHA ). The following mine safety information is provided pursuant to this legislation for the quarterly period ended March 31, 2021. 
+ Four of the Company's mines, the Kensington mine, Rochester mine, Wharf mine and Sterling mine, are subject to FMSHA. The FMSHA is administered by the Mine Safety and Health Administration MSHA ). 
+ Mine or Operating Name Section 104 S&S Citation (#) Section 104 (b) Orders (#) Section 104 (d) Citations and Orders (#) Section 110 (b) (2) Violations (#) Section 107 (a) Orders (#) Total Dollar Value of MSHA Assessments Proposed 1,2 
+ ) 
+ Total Number of Mining Related Fatalities (#) Received Notice of Pattern of Violations Under Section 104(e) (Yes No) Received Notice of Potential to Have Pattern Under Section 104(e) (Yes No) Legal Actions Pending as of Last Day of Period (#) Legal Actions Initiated During Period (#) Legal Actions Resolved During Period (#) Kensington 1 1,619 NO NO 1 1 Rochester 2,811 NO NO 1 1 Wharf 2,932 NO NO Sterling 0 NO NO Totals 1 7,362 NO NO 2 2 
+ 1. The total dollar value of the Proposed Assessments includes all assessments received during the quarter. 
+ 2. A portion of these assessments relate to non-reportable citations issued in a prior period. 
+
+</EX-95.1>
+
+<EX-101.SCH>
+ 7
+ cde-20210331.xsd
+ XBRL TAXONOMY EXTENSION SCHEMA DOCUMENT
+
+</EX-101.SCH>
+
+<EX-101.CAL>
+ 8
+ cde-20210331_cal.xml
+ XBRL TAXONOMY EXTENSION CALCULATION LINKBASE DOCUMENT
+
+</EX-101.CAL>
+
+<EX-101.DEF>
+ 9
+ cde-20210331_def.xml
+ XBRL TAXONOMY EXTENSION DEFINITION LINKBASE DOCUMENT
+
+</EX-101.DEF>
+
+<EX-101.LAB>
+ 10
+ cde-20210331_lab.xml
+ XBRL TAXONOMY EXTENSION LABEL LINKBASE DOCUMENT
+
+</EX-101.LAB>
+
+<EX-101.PRE>
+ 11
+ cde-20210331_pre.xml
+ XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE DOCUMENT
+
+</EX-101.PRE>
+

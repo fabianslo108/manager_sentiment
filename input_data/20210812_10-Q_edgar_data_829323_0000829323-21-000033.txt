@@ -1,0 +1,719 @@
+<Header>
+<FileStats>
+    <FileName>20210812_10-Q_edgar_data_829323_0000829323-21-000033.txt</FileName>
+    <GrossFileSize>5408236</GrossFileSize>
+    <NetFileSize>68274</NetFileSize>
+    <NonText_DocumentType_Chars>936672</NonText_DocumentType_Chars>
+    <HTML_Chars>1470478</HTML_Chars>
+    <XBRL_Chars>1573150</XBRL_Chars>
+    <XML_Chars>1281140</XML_Chars>
+    <N_Exhibits>9</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0000829323-21-000033.hdr.sgml : 20210812
+<ACCEPTANCE-DATETIME>20210812105438
+ACCESSION NUMBER:		0000829323-21-000033
+CONFORMED SUBMISSION TYPE:	10-Q
+PUBLIC DOCUMENT COUNT:		70
+CONFORMED PERIOD OF REPORT:	20210630
+FILED AS OF DATE:		20210812
+DATE AS OF CHANGE:		20210812
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Inuvo, Inc.
+		CENTRAL INDEX KEY:			0000829323
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-ADVERTISING [7310]
+		IRS NUMBER:				870450450
+		STATE OF INCORPORATION:			NV
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		10-Q
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-32442
+		FILM NUMBER:		211166066
+
+	BUSINESS ADDRESS:	
+		STREET 1:		500 PRESIDENT CLINTON AVE., STE. 300
+		CITY:			LITTLE ROCK
+		STATE:			AR
+		ZIP:			72201
+		BUSINESS PHONE:		501-205-8508
+
+	MAIL ADDRESS:	
+		STREET 1:		500 PRESIDENT CLINTON AVE., STE. 300
+		CITY:			LITTLE ROCK
+		STATE:			AR
+		ZIP:			72201
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	INUVO, INC.
+		DATE OF NAME CHANGE:	20090810
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	KOWABUNGA! INC.
+		DATE OF NAME CHANGE:	20081106
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	THINK PARTNERSHIP INC
+		DATE OF NAME CHANGE:	20060315
+
+</SEC-Header>
+</Header>
+
+ 0000829323-21-000033.txt : 20210812
+
+10-Q
+ 1
+ inuv-20210630.htm
+ 10-Q
+
+inuv-20210630 
+
+UNITED STATES 
+ SECURITIES AND EXCHANGE COMMISSION 
+ Washington, D.C. 20549 
+ 
+ FORM 
+ (Mark One) 
+ 
+ QUARTERLY REPORT UNDER SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+ 
+ For the quarterly period ended 
+ OR 
+ 
+ TRANSITION REPORT UNDER SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+ 
+ For the transition period from ______________________ to ______________________ 
+ 
+ Commission file number: 
+
+(Exact name of registrant as specified in its charter) 
+ (State or other jurisdiction of incorporation or organization) (I.R.S. Employer Identification No.) , 
+ (Address of principal executive offices) (Zip Code) 
+ ) 
+ Registrant's telephone number, including area code 
+ not applicable 
+ (Former name, former address and former fiscal year, if changed since last report) 
+ Securities registered pursuant to Section 12(b) of the Act: Title of each class Trading Symbol(s) Name of each exchange on which registered 
+ 
+ Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to the filing requirements for at least the past 90 days. No 
+ 
+ Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T 232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit and post such files). No 
+ 
+ Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company or an emerging growth company. See the definitions of large accelerated filer, accelerated filer, smaller reporting company, and emerging growth company in Rule 12b-2 of the Exchange Act. Large accelerated filer Accelerated filer Smaller reporting company Emerging growth company 
+ If an emerging growth company, indicate by checkmark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards pursuant to Section 13(a) of the Exchange Act: 
+ Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act). Yes No 
+
+Indicate the number of shares outstanding of each of the issuer's classes of common stock, as of the latest practicable date. Title of Class August 6, 2021 Common Stock 
+
+TABLE OF CONTENTS 
+ Page No. Part I Item 1. Financial Statements. 5 
+ Consolidated Balance Sheets 5 
+ Consolidated Statements of Operations 6 
+ Consolidated Statements of Cash Flows 7 
+ Consolidated Statements of Stockholders' Equity 8 
+ Notes to Consolidated Financial Statements 9 
+ Item 2. Management's Discussion and Analysis of Financial Condition and Results of Operations. 18 
+ Item 3. Quantitative and Qualitative Disclosures About Market Risk. 23 
+ Item 4. Controls and Procedures. 23 
+ Part II Item 1. Legal Proceedings. 24 
+ Item 1A. Risk Factors. 24 
+ Item 2. Unregistered Sales of Equity Securities and Use of Proceeds. 24 
+ Item 3. Defaults upon Senior Securities. 24 
+ Item 4. Mine Safety and Disclosures. 24 
+ Item 5. Other Information. 24 
+ Item 6. Exhibits. 25 
+ Signatures 26 
+
+3 
+
+CAUTIONARY STATEMENT REGARDING FORWARD-LOOKING INFORMATION 
+ 
+ This report contains forward-looking statements within the meaning of the Section 27A of the Securities Act of 1933, as amended (the "Securities Act'), and Section 21E of the Securities Exchange Act of 1934, as amended (the "Exchange Act"). These forward-looking statements are subject to known and unknown risks, uncertainties and other factors which may cause actual results, performance or achievements to be materially different from any future results, performance or achievements expressed or implied by such forward-looking statements. In some cases, you can identify forward-looking statements by terminology such as "will," "should," "intend," "expect," "plan," "anticipate," "believe," "estimate," "predict," "potential," or "continue," or the negative of such terms or other comparable terminology. This report includes, among others, statements regarding our risks associated with: 
+ 
+ our history of losses and declining revenues; 
+ our reliance on revenues from a limited number of customers; 
+ seasonality of our business which impacts our financial results and cash availability; 
+ dependence on our advertising suppliers;; 
+ our ability to acquire traffic in a profitable manner; 
+ failure to keep pace with technology changes; 
+ impact of possible interruption in our network infrastructure; 
+ dependence on our key personnel; 
+ regulatory and legal uncertainties; 
+ failure to comply with privacy and data security laws and regulations; 
+ third party infringement claims; 
+ publishers who could fabricate fraudulent clicks; 
+ our ability to continue to meet the NYSE American listing standards; 
+ the impact of quarterly results on our common stock price; 
+ dilution to our stockholders upon the exercise of outstanding restricted stock unit grants; 
+ the on-going impact of the COVID-19 pandemic on our Company; and 
+ our ability to identify, finance, complete, and successfully integrate future acquisitions. 
+ 
+ These forward-looking statements were based on various factors and were derived utilizing numerous assumptions and other factors that could cause our actual results to differ materially from those in the forward-looking statements. Most of these factors are difficult to predict accurately and are generally beyond our control. You should consider the areas of risk described in connection with any forward-looking statements that may be made herein. Readers are cautioned not to place undue reliance on these forward-looking statements and readers should carefully review this report in its entirety, including the risks described in Part II, Item 1A. Risk Factors appearing in this report, together with those appearing in Item 1A. Risk Factors, in our Annual Report on Form 10-K for the year ended December 31, 2020 as filed with the Securities and Exchange Commission ("SEC") on February 11, 2021, as amended on Form 10-K/A as filed with the SEC on March 10, 2021 and our subsequent filings with the SEC. 
+ 
+ Except for our ongoing obligations to disclose material information under the Federal securities laws, we undertake no obligation to release publicly any revisions to any forward-looking statements, to report events or to report the occurrence of unanticipated events. These forward-looking statements speak only as of the date of this report, and you should not rely on these statements without also considering the risks and uncertainties associated with these statements and our business. 
+
+OTHER PERTINENT INFORMATION 
+ 
+ Unless specifically set forth to the contrary, when used in this report the terms "Inuvo," the "Company," "we," "us," "our" and similar terms refer to Inuvo, Inc., a Nevada corporation, and its subsidiaries. When used in this report, "second quarter 2021" means for the three months ended June 30, 2021, "second quarter 2020" means for the three months ended June 30, 2020, "2020" means the fiscal year ended December 31, 2020 and "2021" means the fiscal year ending December 31, 2021. The information which appears on our corporate web site at www.inuvo.com and our various social media platforms are not part of this report. 
+ 
+ 4 
+
+PART I - FINANCIAL INFORMATION 
+
+ITEM 1. FINANCIAL STATEMENTS 
+
+INUVO, INC. 
+ CONSOLIDATED BALANCE SHEETS 
+ June 30, 2021 (Unaudited) and December 31, 2020 June 30, 2021 December 31, 2020 Assets Current assets Cash and cash equivalent Accounts receivable, net of allowance for doubtful accounts of and , respectively 
+ Marketable securities Prepaid expenses and other current assets Total current assets Property and equipment, net Other assets Goodwill Intangible assets, net of accumulated amortization Right of use assets - operating lease Right of use assets - finance lease Other assets Total other assets Total assets Liabilities and Stockholders Equity Current liabilities Accounts payable Accrued expenses and other current liabilities Lease liability - operating lease Lease liability - finance lease Total current liabilities Long-term liabilities Deferred tax liability Lease liability - operating lease Lease liability - finance lease Other long-term liabilities Total long-term liabilities Stockholders equity Preferred stock, par value: 
+ Authorized shares , issued and outstanding 
+ Common stock, par value: 
+ Authorized shares and , respectively; issued and outstanding shares and , respectively. 
+ Additional paid-in capital Accumulated deficit ) ) Total stockholders' equity Total liabilities and stockholders' equity 
+ 
+ See accompanying notes to the consolidated financial statements. 
+ 5 
+
+INUVO, INC. 
+ CONSOLIDATED STATEMENTS OF OPERATIONS 
+ (Unaudited) For the Three Months Ended June 30, For the Six Months Ended June 30, 2021 2020 2021 2020 Net revenue Cost of revenue Gross profit Operating expenses Marketing costs (traffic acquisition costs or TAC) Compensation Selling, general and administrative Total operating expenses Operating loss ) ) ) ) Interest expense, net ) ) ) ) Other income (expense), net ) ) Net loss ) ) ) ) Per common share data Basic and diluted: Net loss Weighted average shares Basic Diluted 
+ 
+ See accompanying notes to the consolidated financial statements. 
+ 6 
+
+INUVO, INC. 
+ CONSOLIDATED STATEMENTS OF CASH FLOWS 
+ (Unaudited) 
+ For the Six Months Ended June 30, 2021 2020 Operating activities: Net loss ) ) Adjustments to reconcile net loss to net cash used in operating activities: Depreciation and amortization Depreciation-Right of Use Assets Stock based compensation Unrealized gain on purchase of marketable securities Amortization of financing fees (Recovery)/provision for doubtful accounts ) Third party rights agreement termination ) Derecognition of contingencies ) Contract Cancellation ) Amortization of debt discount Amortization of OID interest expense Mark to market fair value of derivative Loss on extinguishment of convertible debt Change in operating assets and liabilities: Accounts receivable Marketable securities ) Prepaid expenses, unbilled revenue and other current assets ) ) Accrued expenses and other liabilities ) ) Accounts payable ) Net cash used in operating activities ) ) Investing activities: Purchases of equipment and capitalized development costs ) ) Net cash used in investing activities ) -788670 ) Financing activities: Proceeds from sale of common stock, net Proceeds from ValidClick licensing agreement Proceeds from PPP and SBA loans Net payments on line of credit ) Payments on finance lease obligations ) ) Proceeds from exercise of options SBA loan repayment ) Net taxes paid on restricted stock unit grants exercised ) ) Net cash provided by financing activities Net change cash Cash and cash equivalent, beginning of year Cash and cash equivalent, end of period Supplemental information: Interest paid Non cash investing and financing activities: Assets purchased under finance lease Assets purchased under operating lease Conversion of Debt and derecognition of derivative and discounts to common stock 
+ 
+ See accompanying notes to the consolidated financial statements. 
+ 7 
+
+INUVO, INC. 
+ CONSOLIDATED STATEMENTS OF STOCKHOLDERS' EQUITY 
+ (unaudited) 
+ For the Six Months Ended June 30, 
+ 
+ 2021 Common Stock Additional Paid in Capital Accumulated Deficit Total Shares Stock Balance as of December 31, 2020 ) Net loss ) ) Stock-based compensation Stock issued for vested restricted stock awards ) Shares withheld for taxes on vested restricted stock ) ) Proceeds from exercise of options Sale of common stock, net Balance as of March 31, 2021 ) Net loss ) Stock-based compensation Balance as of June 30, 2021 ) 
+ 
+ 2020 Common Stock Additional Paid in Capital Accumulated Deficit Treasury Stock Total Shares Stock Balance as of December 31, 2019 ) ) Net loss ) ) Stock-based compensation Stock issued for vested restricted stock awards ) Shares withheld for taxes on vested restricted stock ) ) Convertible Note Conversion Sale of common stock, net Balance as of March 31, 2020 ) ) Net loss ) ) Stock-based compensation Convertible Note Conversion Sale of common stock, net Balance as of June 30, 2020 ) ) 
+
+8 
+
+Inuvo, Inc. 
+ Notes to Consolidated Financial Statements 
+ (Unaudited) 
+
+Note 1 
+ issued and pending patents. 
+ 
+ Liquidity 
+ Throughout 2020 and the first quarter of 2021, we raised capital, reversing a historical net working capital deficit. Our principal sources of liquidity come as a result of the sale of common stock and use of a credit facility through Hitachi Capital America Corp. ("Hitachi") described in Note 6. 
+ 
+ On March 20, 2020, we sold an aggregate of shares of our common stock to the five members of our Board of Directors in a private placement exempt from registration under Section 4(a)(2) and Rule 506(b) of Regulation D under the Securities Act of 1933, as amended. We received proceeds of in this offering. On March 27, 2020, we closed on the first tranche of a registered direct offering in which we sold shares of our common stock for gross proceeds of . On April 2, 2020, we closed on a second tranche of the registered direct offering in which we sold shares of our common stock for gross proceeds of . 
+ 
+ On April 10, 2020, we obtained an unsecured million loan under the Paycheck Protection Program (the "PPP Loan") pursuant to the Coronavirus Aid, Relief, and Economic Security Act (the "CARES Act") and which is administered by the United States Small Business Administration ("SBA"). In accordance with the requirements of the CARES Act, proceeds from the PPP Loan were used for payroll costs. The PPP Loan was fully forgiven on November 2, 2020. On May 15, 2020, we received a COVID-19 Economic Injury Disaster Loan ("EIDL") from the SBA for . We repaid the EIDL in full on January 28, 2021. 
+ 
+ On June 8, 2020, we closed an additional registered direct offering of an aggregate of shares of our common stock for gross proceeds of million. On July 27, 2020, we closed a firm commitment underwritten follow-on public offering of an aggregate of shares of our common stock for gross proceeds of million. On January 19, 2021, we raised million in gross proceeds in a registered direct offering, before expenses, through the sale of an aggregate of shares of our common stock, and on January 22, 2021, we raised an additional million in gross proceeds in a registered direct offering, before expenses, through the sale of an aggregate of shares of our common stock. 
+ 
+ 9 
+
+to . 
+ 
+ In March 2021, we contracted with an investment management company to manage our cash in excess of current operating needs. We placed million in a money market fund and million in an interest-bearing account. In the second quarter, a portion of the million was invested in marketable debt and equity securities. A detail of the activity is described in Note 3 - Fair Value Measurements. 
+ 
+ On May 28, 2021, we entered into a Sales Agreement (the "Sales Agreement") with A.G.P./Alliance Global Partners, as sales agent (the "Sales Agent"), pursuant to which we may offer and sell through or to the Sales Agent shares of our Common Stock (the "ATM Program") up to an aggregate amount of gross proceeds of . During the three months ended June 30, 2021, we did t issue any shares of Common Stock, we did t receive any aggregate proceeds, and we did t pay any commissions to the Sales Agent. Any shares of Common Stock offered and sold in the ATM Program will be issued pursuant to our universal shelf registration statement on Form S-3 (the "Shelf Registration Statement"). The ATM Program will terminate upon (a) the election of the Agent upon the occurrence of certain adverse events, (b) 10 days advance notice from one party to the other, or (c) the sale of the balance available under our Shelf Registration Statement. Under the terms of the Sales Agreement, the Sales Agent is entitled to a commission at a fixed rate of of the gross proceeds from each sale of shares under the Sales Agreement. 
+ 
+ Though we believe our current cash position and credit facility will be sufficient to sustain operations for the next twelve 
+ months, if our plan to grow the IntentKey product is unsuccessful, we may need to fund operations through private or public 
+ sales of securities, debt financings or partnering/licensing transactions. 
+ 
+ Customer concentration 
+ 
+ Our three largest customers are Google, Yahoo! and Proper Media and all are clients of the ValidClick platform. Yahoo! Proper Media Total 
+ 
+ As of June 30, 2021, Google, Yahoo! and Proper Media accounted for of our gross accounts receivable balance. As of December 31, 2020, the same three customers accounted for of our gross accounts receivable balance. 
+ 
+ We still source the majority of our ValidClick revenue through these services relationships where we have access to advertiser media spend indirectly. While this strategy creates a concentration risk, we believe that it also provides upside opportunities including; access to hundreds of thousands of advertisers across geographies; the ability to scale our business across verticals; an avoidance of the sales costs associated with a large direct to advertisers sales force; access to innovation; overall media budget market insights; attractive payment terms; and low risk on receivables. 
+ 
+ Impact of COVID-19 Pandemic 
+ First identified in late 2019 and known now as COVID-19, the outbreak has impacted millions of individuals and businesses worldwide. In response, many countries have implemented measures to combat the outbreak which has had an unprecedented economic consequence. We did not experience an impact from COVID-19 through the end of fiscal year 2019 and had only minor impact from COVID-19 in the first quarter of 2020. Because we operate in the digital advertising industry, unlike a brick and mortar-based company, predicting the impact of the coronavirus pandemic on our company is difficult. Beginning in late April 2020, we experienced a significant reduction in marketing budgets and a decrease in monetization rates which impacted ValidClick more severely than IntentKey. This resulted in a significant reduction in our overall revenue run rates during 2020 with the low point occurring during May 2020. 
+ 
+ 10 
+
+million which we used primarily for payroll costs. The loan was fully forgiven by the SBA on November 2, 2020. 
+ 
+ Beginning mid-June 2020, we began to experience an improvement in overall daily revenue. Though there has been a steady month by month improvement in the revenue run rates, by the end of the second quarter 2021 we still have not reached pre-pandemic levels. Due to the unprecedented sustainability of COVID-19 on our business, we were unable to predict with any certainty how our clients will adapt their business strategies within the context of COVID-19 and therefore how our revenue run rate would change as a result. We, therefore, were focusing our resources on areas we believe could have more immediate revenue potential, attempting to reduce expenses and raising additional capital so as to mitigate operating disruptions while the impact of COVID-19 abates. Since the start of the year with the roll out of vaccinations, we have seen an increase in our client s willingness to spend on advertising and thereby an improvement in our revenue run rates. 
+ 
+ Our net working capital was a positive million as of June 30, 2021. During January 2021, we raised approximately million, before expenses, through the sale of our securities in two offerings. During the second and third quarters of 2020, we raised approximately million, before expenses, through the sale of our securities and in April 2020, we obtained a million PPP Loan. With the reduction in our revenue run rate, there is an increased need for working capital to fund our operations. There is no assurance that we will be successful in obtaining additional funding to continue operations, particularly in light of the current impact of COVID-19 on the U.S. capital markets, but believe we have sufficient capital to operate during the next twelve months. 
+ 11 
+
+Note 2 
+
+IntentKey Platform Total 
+
+12 
+
+Note 3 - 
+ 
+ Money Market Funds Total cash and cash equivalents Marketable securities Debt securities Equity securities Total marketable securities Total cash and cash equivalents and marketable securities 
+ 
+ The gross unrealized gains on our marketable securities was approximately thousand for the three and six months ended June 30, 2021. 
+
+Note 4 
+ Equipment Capitalized internal use and purchased software Leasehold improvements Subtotal Less: accumulated depreciation and amortization ) ) Total 
+ 
+ and , respectively. During the three and six months ended June 30, 2020, depreciation expense was and , respectively. 
+
+13 
+
+Note 5 
+ years ) Technology years ) Customer list, ReTargeter years ) Customer list, all other years ) Brand name, ReTargeter years ) Customer relationships years ) Trade names, web properties (1) Intangible assets classified as long-term ) Goodwill, total 
+ 
+ (1) The trade names related to our web properties have an indefinite life, and as such are not amortized. 
+ 
+ 2022 2023 2024 2025 Thereafter Total 
+
+Note 6 
+ million which we used to help satisfy our working capital needs. On October 11, 2018, we entered into the Amended and Restated Financing Agreement with Western Alliance Bank which superseded the Business Financing Agreement, as amended. All obligations under the Amended and Restated Financing Agreement, as amended, with Western Alliance Bank have been met and all agreements with Western Alliance Bank have been terminated. 
+ 
+ On March 12, 2020, we closed on the Loan and Security Agreement dated February 28, 2020 with Hitachi. Under the terms of the Loan and Security Agreement, Hitachi has provided us with a line of credit commitment. We are permitted to borrow (i) of the aggregate Eligible Accounts Receivable, plus (ii) the lesser of (A) of the aggregate Unbilled Accounts Receivable or (B) of the amount available to borrow under (i), up to the maximum credit commitment. The interest rate under the Hitachi agreement is in excess of the Wall Street Journal Prime Rate, with a minimum rate of per annum, on outstanding amounts. The principal and all accrued but unpaid interest are due on demand. 
+ 
+ We agreed to pay Hitachi a commitment fee of , with one half due upon the execution of the agreement and the balance due thereafter. We are obligated to pay Hitachi a commitment fee of annually. We are also obligated to pay Hitachi a quarterly service fee of on the monthly unused amount of the maximum credit line. In addition to a document fee we have paid to Hitachi, if we exit our relationship with Hitachi before March 1, 2022, we are obligated to pay Hitachi an exit fee of . On March 12, 2020, we drew under this agreement, using of these proceeds to satisfy all of our obligations under the Western Alliance Bank credit agreement and the balance was used for working capital. At December 31, 2020 and June 30, 2021, there were outstanding balances due under the Loan and Security Agreement with Hitachi. 
+ 14 
+
+Note 7 
+ 
+ Accrued payroll and commission liabilities Accrued expenses and other Arkansas grant contingency Accrued taxes Accrued sales allowance Total 
+
+Note 8 
+ 
+ accredited investors for the purchase and sale of an aggregate of of principal of Original Issue Discount Unsecured Subordinated Convertible Notes due September 1, 2020 (the "Calvary Notes") to fund working capital and additional expenses resulting from the delay in closing of certain planned, and since terminated, mergers with ConversionPoint Technologies Inc. and ConversionPoint Holdings Inc. The initial conversion price of the Calvary Notes was per share which would have made the Calvary Notes then convertible into unregistered shares of Inuvo s common stock upon conversion. The Calvary Notes were issued in a private placement and the shares of common stock issuable upon conversion are restricted, subject to resale under Rule 144. The proceeds to Inuvo from the offering were . Inuvo did not pay any commissions or finders fees in connection with the sale of the Calvary Notes and Inuvo utilized the proceeds for working capital. 
+ 
+ On November 11, 2019, we entered into Note Modification and Release Agreements with the holders of principal amount of the Calvary Notes. Under the terms of the Note Modification and Release Agreement, the parties agreed that in consideration of such noteholder s agreement to convert a minimum of of the outstanding amount of the note (the "First Conversion Amount") that the conversion price for the First Conversion Amount would be per share and that the conversion price for any remaining amount due under the note would be per share, subject to future adjustments under the terms of the note including dilutive issuances at a price below per share, subject to a floor of per share. The agreement contains mutual general releases. These holders converted an aggregate of due under the Calvary Notes into shares of our common stock. 
+ 
+ principal amount Calvary note converted the note into shares of our common stock. On April 21, 2020, a noteholder converted principal amount due under the Calvary Notes into shares of our common stock. On May 5, 2020, a noteholder converted the final principal amount due under the Calvary Notes into shares of our common stock, thereby satisfying the Calvary Notes in full and completing the extinguishment of the Calvary Notes. 
+
+Note 9 
+ 
+ Deferred revenue SBA loan Total 
+
+15 
+
+Note 10 
+ 
+ in March with subsequent fees as earned in later quarters. The fee was recorded as deferred revenue in March 2020. Effective March 1, 2021, the agreement was canceled and the remaining deferred revenue balance of was recognized as other income. 
+
+Note 11 
+ 
+ . We believe it is more likely than not that essentially none of our deferred tax assets will be realized, and we have recorded a valuation allowance of for the deferred tax assets that may not be realized as of June 30, 2021 and December 31, 2020. We also have deferred tax liabilities totaling as of June 30, 2021, related to intangible assets acquired in March 2012. These balances are presented as a net deferred tax liability of composed of indefinite lived intangible assets. 
+
+Note 12 
+ 
+ and/or achieving certain financial targets. 
+ 
+ On January 1, 2021, in accordance with the plan provisions, the number of shares available for issuance under the 2017 ECP plan was increased by shares. 
+ 
+ Compensation Expense 
+ 
+ During the three and six months ended June 30, 2021, stock-based compensation expense was and , respectively. During the three and six months ended June 30, 2020, stock-based compensation expense was and , respectively. Total compensation cost not yet recognized at June 30, 2021 was to be recognized over a weighted-average recognition period of approximately . 
+ 
+ 2010 ECP ) Total 
+ ) Expired April 2020 
+ 
+ 16 
+
+Stock options exercised Stock options canceled Balance as of June 30, 2021 Stock options exercisable as of June 30, 2021 
+
+Granted Vested Forfeited Unvested as of June 30, 2021 
+
+Note 13 
+
+Note 14 
+ to , and often include one or more options to renew or in the case of equipment rental, to purchase the equipment. These operating and finance leases are listed as separate line items on our consolidated balance sheets and represent our right to use the underlying asset for the lease term. Our obligations to make lease payments are also listed as separate line items on our consolidated balance sheets. As of June 30, 2021 and December 31, 2020, total operating and financed right-of-use assets were and , and and , respectively. 
+ As of June 30, 2021 and 2020, we recorded and , respectively, in amortization expense related to finance leases. 
+ 
+ Because the rate implicit in each lease is not readily determinable, we use the incremental borrowing rate to determine the present value of the lease payments. 
+
+17 
+
+Weighted-average remaining lease term Weighted-average discount rate 
+ 2022 2023 2024 2025 2026 Less imputed interest ) Total lease liabilities 
+
+Weighted-average remaining lease term Weighted-average discount rate 
+ 2022 2023 2024 Less imputed interest ) Total lease liabilities 
+
+Note 15 
+ 
+ shares of our common stock at a purchase price of per share to the five members of our Board of Directors in a private placement exempt from registration under Section 4(a)(2) and Rule 506(b) of Regulation D under the Securities Act of 1933, as amended. We received proceeds of in this offering. The purchase price of the shares of our common stock sold in the offering exceeded the closing market price of our common stock on March 19, 2020, the trading day immediately preceding the day the binding Insider Subscription Agreements were executed by the purchasers. The purchasers were all accredited investors. We did not pay any commissions or finder s fees, and we used the proceeds for general working capital. 
+
+ITEM 2. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS 
+
+18 
+
+Company Overview 
+ 
+ Inuvo is a technology company that develops and sells information technology solutions for marketing and advertising. These platforms predictively identify and message online audiences for any product or service across devices, channels and formats, including video, mobile, connected TV, display, social and native. These capabilities allow Inuvo s clients to engage with their customers and prospects in a manner that drives responsiveness. Inuvo facilitates the delivery of hundreds of millions of marketing messages to consumers every single month and counts among its clients numerous world- renowned names in industries that have included retail, automotive, insurance, health care, technology, telecommunications and finance. 
+ 
+ The Inuvo solution incorporates a proprietary form of artificial intelligence, or AI, branded the IntentKey. This first of its kind and patented machine learning technology uses interactions with Internet content as a source of information from which to predict consumer intent. The AI can identify and advertise to the reasons why consumers are purchasing products and services not who those consumers are. In this regard, the technology is designed for a privacy conscious future and focused on the components of the advertising value chain most responsible for return on advertising spend, the intelligence behind the advertising decision. The Inuvo business scales when existing clients grow and new clients are contracted. 
+ 
+ Inuvo technology can be consumed both as a managed service and software-as-a-service. For several of its larger services clients, the company has also developed a collection of websites including alot.com and earnspendlive.com, where Inuvo creates content in health, finance, travel, careers, auto, education and living categories. These sites provide the means to test various Inuvo technologies, while also delivering high quality consumers to these services clients through consumer interaction with the proprietary content within these sites. 
+ 
+ There are many barriers to entry associated with the Inuvo business model, including a proficiency in large scale information processing, predictive software development, marketing data products, analytics, artificial intelligence, integration to the internet of things ("IOT"), and the relationships required to execute within the IOT. Inuvo s intellectual property is protected by 18 issued and seven pending patents. 
+ 
+ Impact of COVID-19 Pandemic 
+ First identified in late 2019 and known now as COVID-19, the outbreak has impacted millions of individuals and businesses worldwide. In response, many countries have implemented measures to combat the outbreak which has had an unprecedented economic consequence. We did not experience an impact from COVID-19 through the end of fiscal year 2019 and had only minor impact from COVID-19 in the first quarter of 2020. Because we operate in the digital advertising industry, unlike a brick and mortar-based company, predicting the impact of the coronavirus pandemic on our company is difficult. 
+ 
+ Beginning in late April 2020, we experienced a significant reduction in marketing budgets and a decrease in monetization rates which impacted ValidClick more severely than IntentKey. This resulted in a significant reduction in our overall revenue run rates during 2020 with the low point occurring during May 2020. 
+ 
+ In response to COVID-19, we curtailed expenses, including compensation and travel throughout 2020 in addition to other actions. Additionally, in April 2020, we obtained the 1.1 million PPP Loan which we used primarily for payroll costs. The PPP Loan was fully forgiven by the SBA on November 2, 2020. 
+ 
+ Beginning mid-June 2020, we began to experience an improvement in overall daily revenue. Though there has been a steady month by month improvement in the revenue run rates, by the end of the second quarter 2021 we still have not reached pre-pandemic levels. Due to the unprecedented sustainability of COVID-19 on our business, we were unable to predict with any certainty how our clients will adapt their business strategies within the context of COVID-19 and therefore how our revenue run rate would change as a result. We, therefore, were focusing our resources on areas we believe could have more immediate revenue potential, attempting to reduce expenses and raising additional capital so as to mitigate operating disruptions while the impact of COVID-19 abates. Since the start of the year with the roll out of vaccinations, we have seen an increase in our client s willingness to spend on advertising and thereby an improvement in our revenue run rates. 
+ 
+ Our net working capital was a positive 15.4 million as of June 30, 2021. During January 2021, we raised approximately 14.3 million, before expenses, through the sale of our securities in two offerings. During the second and third quarters of 2020, we raised approximately 16.5 million, before expenses, through the sale of our securities and in April 2020, we obtained a 1.1 million PPP Loan. With the reduction in our revenue run rate, there is an increased need for working capital to fund our operations. There is no assurance that we will be successful in obtaining additional funding to continue operations, particularly in light of the current impact of COVID-19 on the U.S. capital markets, but believe we have sufficient capital to operate during the next twelve months. 
+ 
+ 19 
+
+Critical Accounting Policies and Estimates 
+ 
+ The preparation of financial statements in conformity with GAAP requires management to make estimates and assumptions that affect the reported amount of assets and liabilities, the disclosure of contingent assets and liabilities and the reported amounts of revenue and expenses during the reported periods. The more critical accounting estimates include estimates related to revenue recognition and accounts receivable allowances. We also have other key accounting policies, which involve the use of estimates, judgments and assumptions that are significant to understanding our results, which are described in Note 2 to our audited consolidated financial statements for 2020 appearing in our Annual Report on Form 10-K for the year ended December 31, 2020 as filed with the SEC on February 11, 2021, as amended on Form 10-K/A as filed with the SEC on March 10, 2021. The estimates and assumptions that management makes affect the reported amounts of assets, liabilities, net revenues and expenses and disclosure of contingent assets and liabilities. The estimates and assumptions that management makes affect the reported amounts of assets, liabilities, net revenues and expenses and disclosure of contingent assets and liabilities. The estimates and assumptions used are based upon management s regular evaluation of the relevant facts and circumstances as of the date of the consolidated financial statements. We regularly evaluate estimates and assumptions related to goodwill and purchased intangible asset valuations and income tax valuation allowance. Actual results may differ from the estimates and assumptions used in preparing the accompanying consolidated financial statements, and such differences could be material. 
+
+Results of Operations For the Three Months Ended June 30, For the Six Months Ended June 30, 2021 2020 Change Change 2021 2020 Change Change Net Revenue 12,635,583 7,590,187 5,045,396 66.5 23,253,392 22,523,170 730,222 3.2 Cost of Revenue 2,264,020 1,070,028 1,193,992 111.6 3,708,079 4,509,529 (801,450) (17.8) Gross Profit 10,371,563 6,520,159 3,851,404 59.1 19,545,313 18,013,641 1,531,672 8.5 
+ 
+ Net Revenue 
+ We experienced higher year over year revenue for the three and six months ended June 30, 2021 as compared to the same periods in 2020. Revenue from both platforms, ValidClick and IntentKey, exceeded the prior year. ValidClick revenue exceeded the revenue in the second quarter of last year by 72 . IntentKey revenue for the three months ended June 30, 2021 exceeded the prior year quarter by approximately 50 primarily due to the acquisition of new customers. Revenue in 2020 was affected by the COVID-19 pandemic which had a material impact on advertising budgets beginning in April of 2020. The renegotiation of payment terms and conditions as a trade-off for higher gross margins with ValidClick marketing clients in the quarter ended June 30, 2020 also contributed to the lower revenue in the second quarter of 2020. 
+ 
+ Cost of Revenue 
+ 
+ Cost of revenue for the three and six month periods ended 2021 is primarily generated by payments to ad exchanges that provide access to a supply of advertising inventory where we serve advertisements using information predicted by the IntentKey platform and to a lesser extent, payments to website publishers and app developers that host advertisements we serve through ValidClick. Cost of revenue in the 2020 period was primarily generated by payments to website publishers and app developers that host advertisements we serve through ValidClick. The components of the cost of revenue have shifted, as the IntentKey platform revenue becomes a greater percentage of Net Revenue and as the ValidClick service has continued to expand its owned and operated publishing assets. The increase in the cost of revenue for the three months ended June 30, 2021 as compared to the same quarter in 2020 was largely due to renegotiation of payment terms and conditions with a ValidClick marketing partner in the quarter ended June 30, 2020. The decrease in the cost of revenue for the six months ended June 30, 2021 compared to the same quarter in 2020 was primarily due to the decline in ValidClick revenue as described in the Net Revenue section and the decision to reduce certain historically outsourced campaign management tasks. 
+ 
+ 20 
+
+Operating Expenses For the Three Months Ended June 30, For the Six Months Ended June 30, 2021 2020 Change Change 2021 2020 Change Change Marketing costs (TAC) 8,213,140 3,857,395 4,355,745 112.9 15,518,924 13,480,218 2,038,706 15.1 Compensation 2,880,217 2,118,311 761,906 36.0 5,618,084 4,462,546 1,155,538 25.9 Selling, general and administrative 1,676,890 1,781,121 (104,231) (5.9 3,401,868 3,839,963 (438,095) (11.4) Operating expenses 12,770,247 7,756,827 5,013,420 64.6 24,538,876 21,782,727 2,756,149 12.7 
+ 
+ Marketing costs or traffic acquisition costs ("TAC") include those expenses required to attract an audience to the ValidClick platform. The increase in the cost of revenue for the three and six month periods ended June 30, 2021 as compared to the same time periods in 2020 was largely due to the 72 increase in ValidClick revenue discussed above in the Net Revenue section. 
+ 
+ Compensation expense was higher for the three and six-months ended June 30, 2021 compared to the same time periods in 2020 primarily due to higher employee salary expense and stock-based compensation. Our total employment, both full and part-time, was 76 at June 30, 2021 compared to 70 at June 30, 2020. The higher headcount this year over last year was primarily due to hiring additional sales and sales support personnel for the IntentKey platform. 
+ 
+ Selling, general and administrative costs were lower for the three and six-month periods ended June 30, 2021 compared to the same time period in 2020 was primarily due to lower IT costs, lower facilities, travel and entertainment, corporate expenses and depreciation and amortization expense. 
+ 
+ Interest expense, net 
+ 
+ Interest expense, net, for the three month period ended June 30, 2021 was approximately 8 thousand and was primarily interest expense on finance lease obligations and the Hitachi Loan and Security Agreement partially offset by interest income from our trading securities. Interest expense, net, for the six months ended June 30, 2021 was approximately 30 thousand and primarily represents interest expense on finance lease obligations and the Hitachi Loan and Security Agreement. 
+ 
+ Interest expense, net, for the three months ended June 30, 2020, was approximately 73,000 and represented interest expense on 
+ financed receivables, capital lease obligations and the PPP Loan. Interest expense, net, for the six months ended June 30, 2020 
+ was approximately 225 thousand due primarily to the change of the derivative liability associated with the Calvary Notes. 
+ 
+ Other income/(expense), net 
+ 
+ Other income, net, for the three months ended June 30, 2021 was approximately 25 thousand and represents unrealized gains on trading securities discussed in Note 3 to our Consolidated Financial Statements. Other income, net, for the six months ended June 30, 2021 was 495 thousand and included the reversal of the deferred revenue from the contract cancellation discussed in Note 10 to our Consolidated Financial Statements and the reversal of an accrued sales reserve of 50 thousand. 
+ 
+ Other expense, net, for the six months ended June 30, 2020 was approximately 190,000 and is related to the conversion of the Calvary notes (see Note 8 to our Consolidated Financial Statements). 
+
+Liquidity and Capital Resources 
+ 
+ Our principal sources of liquidity are the sale of our common stock and our credit facility with Hitachi described in Note 6 to our Consolidated Financial Statements. During March 2020 and April 2020, we raised approximately 1.5 million in gross proceeds, before expenses, through sales of our common stock and in April 2020 we received a 1.1 million PPP Loan. On June 8, 2020, we raised an additional 5.5 million in gross proceeds, before expenses, through the sale of our common stock and on July 27, 2020, we raised an additional 10.75 million in gross proceeds, before expenses, through sales of our common stock. On January 19, 2021, we raised an additional 8 million in gross proceeds, before expenses, through the sale of our common stock, and on January 22, 2021, we raised an additional 6.25 million in gross proceeds, before expenses, through sales of our common stock. 
+ 
+ 21 
+
+In March 2021, we contracted with an investment management company to manage our cash in excess of current operating needs. We placed 2 million in a money market fund and 10 million in an interest-bearing account. In the second quarter, a portion of the 2 million was invested in marketable debt and equity securities. A detail of the activity is described in Note 3 to our Consolidated Financial Statements. 
+ 
+ On May 28, 2021, we entered into a Sales Agreement (the "Sales Agreement") with A.G.P./Alliance Global Partners, as sales agent (the "Sales Agent"), pursuant to which we may offer and sell through or to the Sales Agent shares of our Common Stock (the "ATM Program") up to an aggregate amount of gross proceeds of 35,000,000. During the three months ended June 30, 2021, we did not issue any shares of Common Stock, we did not receive any aggregate proceeds, and we did not pay any commissions to the Sales Agent. Any shares of Common Stock offered and sold in the ATM Program will be issued pursuant to our universal shelf registration statement on Form S-3 (the "Shelf Registration Statement"). The ATM Program will terminate upon (a) the election of the Agent upon the occurrence of certain adverse events, (b) 10 days advance notice from one party to the other, or (c) the sale of the balance available under our Shelf Registration Statement. Under the terms of the Sales Agreement, the Sales Agent is entitled to a commission at a fixed rate of 3.0 of the gross proceeds from each sale of shares under the Sales Agreement. 
+ 
+ We have focused our resources behind a plan to grow our AI technology, the IntentKey, where we have a technology advantage 
+ and higher margins. If we are successful in implementing our plan, we expect to return to a positive cash flow from operations. 
+ However, there is no assurance that we will be able to achieve this objective. 
+ 
+ Though we believe our current cash position and credit facility will be sufficient to sustain operations for the next twelve 
+ months, if our plan to grow the IntentKey product is unsuccessful, we may need to fund operations through private or public 
+ sales of securities, debt financings or partnering/licensing transactions. 
+ 
+ In April 2020, the Company experienced a significant reduction in advertiser marketing budgets across both the ValidClick and IntentKey platforms as a direct consequence of COVID-19. These reductions adversely impacted our overall revenue throughout 2020. As a result, in May 2020 and June 2020 we implemented a temporary compensation change for senior officers and employees. Certain employees with salaries in excess of 100,000 per year had forgone a percentage of their salary. We curtailed expenses, including compensation and travel for the months of May and June, and issued a work from home policy to protect our employees and their families from virus transmission associated with co-workers. As a result of this uncertainty, we continue to focus our resources on areas we believe have immediate revenue potential while concurrently reducing expenses where necessary with an objective to minimize daily operating disruptions. 
+ 
+ Cash Flows 
+ 
+ The table below sets forth a summary of our cash flows for the six months ended June 30, 2021 and 2020: 
+ 
+ For the Six Months Ended June 30 2021 2020 Net cash used in operating activities 
+ (2,465,545) (2,336,029) Net cash used in investing activities 
+ (788,670) (557,818) Net cash provided by financing activities 
+ 12,710,562 6,702,072 
+ 
+ Cash Flows - Operating 
+ 
+ Net cash used in operating activities was 2,465,545 during the six months ended June 30, 2021. We reported a net loss of 4,529,395, which included non-cash expenses; depreciation and amortization expense of 1,552,386, other depreciation expense of 153,978 and stock-based compensation expense of 952,472; partially offset by the reversal of 420,000 in deferred revenue. The change in operating assets and liabilities during the six months ended June 30, 2021 resulted in cash used in operations of 24,844 primarily due to the purchase of marketable securities of 913,110, an increase in the accounts payable balance of 2,421,700 and a decrease in the accounts receivable balance by 618,735. Our terms are such that we generally collect receivables prior to paying trade payables. Media sales typically have slower payment terms than the terms of related payables. 
+ 
+ 22 
+
+During the comparable six-month period in 2020, cash used operating activities was 2,336,029 from a net loss of 4,184,524, which included several non-cash expenses; depreciation and amortization of 1,650,785 and stock-based compensation of 402,185. 
+ 
+ Cash Flows - Investing 
+ 
+ Net cash used in investing activities was 788,670 and 557,818 for the six months ended June 30, 2021 and 2020, respectively, and primarily consisted of the purchase of marketable securities and capitalized internal development costs. 
+ 
+ Cash Flows - Financing 
+ 
+ Net cash provided by financing activities was 12,710,562 and 6,702,072 during the six months ended June 30, 2021 and 2020, respectively, and was primarily from proceeds from the sale of common stock. 
+
+Off Balance Sheet Arrangements 
+ 
+ As of June 30, 2021, we do not have any off-balance sheet arrangements that have or are reasonably likely to have a current or future effect on our financial condition, changes in financial condition, revenues or expenses, results of operations, liquidity, capital expenditures or capital resources that are material to investors. The term "off-balance sheet arrangement" generally means any transaction, agreement or other contractual arrangement to which an entity unconsolidated with us is a party, under which we have any obligation arising under a guarantee contract, derivative instrument or variable interest or a retained or contingent interest in assets transferred to such entity or similar arrangement that serves as credit, liquidity or market risk support for such assets. 
+
+ITEM 3. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK. 
+ 
+ Not applicable to a smaller reporting company. 
+
+ITEM 4. CONTROLS AND PROCEDURES. 
+ 
+ Evaluation of Disclosure Controls and Procedures 
+ 
+ We maintain "disclosure controls and procedures" as such term is defined in Rule 13a-15(e) under the Securities Exchange Act of 1934. Disclosure controls and procedures are controls and procedures designed to reasonably assure that information required to be disclosed in our reports filed under the Securities Exchange Act of 1934, such as this report, is recorded, processed, summarized and reported within the time periods prescribed by SEC rules and regulations, and to reasonably assure that such information is accumulated and communicated to our management, including our Chief Executive Officer and Chief Financial Officer, to allow timely decisions regarding required disclosure. 
+ 
+ Our management does not expect that our disclosure controls will prevent all errors and fraud. A control system, no matter how well conceived and operated, can provide only reasonable, not absolute, assurance that the objectives of the control system are met. In addition, the design of a control system must reflect the fact that there are resource constraints, and the benefits of controls must be considered relative to their costs. Because of the inherent limitations in all control systems, no evaluation of controls can provide absolute assurance that all control issues and instances of fraud, if any, within a company have been detected. These inherent limitations include the realities that judgments in decision-making can be faulty, and that breakdowns can occur because of simple error or mistake. Additionally, controls can be circumvented by the individual acts of some persons, by collusion of two or more people or by management override of the control. The design of any systems of controls also is based in part upon certain assumptions about the likelihood of future events, and there can be no assurance that any design will succeed in achieving its stated goals under all potential future conditions. Over time, controls may become inadequate because of changes in conditions, or the degree of compliance with the policies or procedures may deteriorate. Because of these inherent limitations in a cost-effective control system, misstatements due to error or fraud may occur and not be detected. 
+ 
+ As required by Rule 13a-15 under the Securities Exchange Act of 1934, as of June 30, 2021, the end of the period covered by this report, our management concluded their evaluation of the effectiveness of the design and operation of our disclosure controls and procedures. As of the evaluation date, our Chief Executive Officer and Chief Financial Officer concluded that we maintain disclosure controls and procedures that are effective in providing reasonable assurance that information required to be disclosed in our reports under the Securities Exchange Act of 1934 is recorded, processed, summarized and reported within the 
+ 23 
+
+time periods prescribed by SEC rules and regulations, and that such information is accumulated and communicated to our management to allow timely decisions regarding required disclosure. 
+ 
+ Changes in Internal Control over Financial Reporting 
+ 
+ There were no changes in our internal control over financial reporting during the period ended June 30, 2021 that have materially affected, or are reasonably likely to materially affect, our internal control over financial reporting. 
+
+PART II 
+
+Item 1 - LEGAL PROCEEDINGS 
+ 
+ None. 
+
+ITEM 1A. RISK FACTORS 
+ 
+ We desire to take advantage of the safe harbor provisions of the Private Securities Litigation Reform Act of 1995. Accordingly, we incorporate by reference the risk factors disclosed in Part I, Item 1A of our Form 10-K for the year ended December 31, 2020, as filed with the Securities and Exchange Commission ("SEC") on February 11, 2021, as amended on Form 10-K/A filed with the SEC on March 10, 2021 and our subsequent filings with the SEC, subject to the new or modified risk factors appearing below that should be read in conjunction with the risk factors disclosed in such Form 10-K and our subsequent filings. 
+ 
+ We rely on three customers for a significant portion of our revenues. We are reliant upon Google, Yahoo! and Proper Media for most of our revenue. During the second quarter of 2021, Google accounted for 39.3 , Yahoo! 20.3 and Proper Media 14.9 of our revenues, respectively, and during the same period in 2020, Yahoo! 36.7 and Google 25.0 , respectively. The amount of revenue we receive from these customers is dependent on a number of factors outside of our control, including the amount they charge for advertisements, the depth of advertisements available from them, and their ability to display relevant ads in response to end-user queries. We would likely experience a significant decline in revenue and our business operations could be significantly harmed if these customers do not approve our new websites and applications, or if we violate their guidelines or they change their guidelines. In addition, if any of these preceding circumstances were to occur, we may not be able to find a suitable alternate paid search results provider or otherwise replace the lost revenues. The loss of any of these customers or a material change in the revenue or gross profit that they generate would have a material adverse impact on our business, results of operations and financial condition in future periods. 
+
+ITEM 2. UNREGISTERED SALES OF EQUITY SECURITIES AND USE OF PROCEEDS. 
+ 
+ None. 
+
+ITEM 3. DEFAULTS UPON SENIOR SECURITIES. 
+ 
+ None. 
+
+ITEM 4. MINE SAFETY AND DISCLOSURES. 
+ 
+ Not applicable. 
+
+ITEM 5. OTHER INFORMATION. 
+ 
+ None. 
+ 24 
+
+ITEM 6. EXHIBITS 
+ No. Exhibit Description Form Date Filed Number Filed or Furnished Herewith 3(i).1 Articles of Incorporation, as amended 
+ 10-KSB 3/1/04 4 3(i).2 Amended to Articles of Incorporation filed March 14, 2005 
+ 10-KSB 3/31/06 3.2 3(i).3 Articles of Merger between Inuvo, Inc. and Kowabunga! Inc. 
+ 8-K 7/24/09 3.4 3(i).4 Certificate of Change Filed Pursuant to NRS 78.209 
+ 8-K 12/10/10 3/1/2004 3(i).5 Certificate of Merger as filed with the Secretary of State of Nevada on February 29, 2012 
+ 10-K 3/29/12 3(i).5 3(i).6 Articles of Amendment to Amended Articles of Incorporation as filed on February 29, 2012 
+ 10-K 3/29/12 3(i).6 3(i).7 Articles of Amendment to Amended Articles of Incorporation as filed on October 31, 2019 
+ 10-Q 5/15/20 3(i)7 3(i).8 Certificate of Validation of Amendment to Amended Articles of Incorporation as filed October 16 , 2020. 
+ 10-Q 11/9/20 3(i)8 3(i).8 Articles of Amendment to Articles of Incorporation as filed January 7, 2021 
+ 10-K 2/11/21 3(i)9 3(ii).1 Amended and Restated By-Laws 
+ 10-K 3/31/10 3(ii).4 3(ii).2 Bylaw amendment adopted February 29, 2012 
+ 8-K 3/6/12 3(ii).1 31.1 Rule 13a-14(a)/15d-14(a) certification of Chief Executive Officer 
+ Filed 31.2 Rule 13a-14(a)/15d-14(a) certification of Chief Financial Rule 13a-14(a)/15d-14(a) certification of Chief Financial Officer 
+ Filed 32.1 Section 1350 certification of Chief Executive Officer 
+ Filed 32.2 Section 1350 certification of Chief Financial Officer 
+ Filed 101.INS XBRL Instance Document Filed 101.SCH XBRL Taxonomy Extension Schema Document Filed 101.CAL XBRL Taxonomy Extension Calculation Linkbase Document Filed 101.DEF XBRL Taxonomy Extension Definition Linkbase Document Filed 101.LAB XBRL Taxonomy Extension Label Linkbase Document Filed 101.PRE XBRL Taxonomy Extension Presentation Linkbase Document Filed 101.PRE XBRL Taxonomy Extension Presentation Linkbase Document Filed 104 The cover page for Inuvo, Inc. s quarterly report on Form 10-Q for the period ended March 31, 2021, formatted in Inline XBRL (included with Exhibit 101 attachments). Filed Certain portions of this exhibit have been redacted pursuant to Item 601(b)(10)(iv) of Regulation S-K. The omitted information is (i) not material and (ii) would likely cause competitive harm to Inuvo if publicly disclosed. Schedules, exhibits and similar attachments to this exhibit have been omitted pursuant to Item 601(a)(5) of Regulation S-K. Inuvo agrees to furnish copies of such omitted materials supplementally upon request by the Securities and Exchange Commission. 
+ 
+ 25 
+
+SIGNATURES 
+ 
+ Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned, thereunto duly authorized. 
+ Inuvo, Inc. August 12, 2021 By: /s/ Richard K. Howe Richard K. Howe, Chief Executive Officer, principal executive officer August 12, 2021 By: /s/ Wallace D. Ruiz 
+ Wallace D. Ruiz, Chief Financial Officer, principal financial and accounting officer 
+ 
+ 26 
+
+<EX-31.1>
+ 2
+ ex311-2021xq2.htm
+ EX-31.1
+
+Document 
+
+EXHIBIT 31.1 
+ 
+ Rule 13a-14(a) 15d-14(a) Certification 
+ 
+ I, Richard K. Howe, certify that 
+ 
+ 1. I have reviewed this annual report on Form 10-Q of Inuvo, Inc. 
+ 
+ 2. Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report 
+ 
+ 3. Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report 
+ 
+ 4. The registrant s other certifying officer(s) and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have 
+ 
+ a. Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared 
+ 
+ b. Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles 
+ 
+ c. Evaluated the effectiveness of the registrant's disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation and 
+ 
+ d. Disclosed in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s most recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant s internal control over financial reporting and 
+
+5. The registrant's other certifying officer(s) and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant's auditors and the audit committee of the registrant's board of directors (or persons performing the equivalent functions) 
+ 
+ a. All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant's ability to record, process, summarize and report financial information and 
+ 
+ b. Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant's internal control over financial reporting. 
+ 
+ Date August 12, 2021 
+ 
+ s Richard K. Howe 
+ Richard K. Howe 
+ Chief Executive Officer, principal executive officer 
+
+</EX-31.1>
+
+<EX-31.2>
+ 3
+ ex312-2021xq2.htm
+ EX-31.2
+
+Document 
+
+EXHIBIT 31.2 
+ 
+ Rule 13a-14(a) 15d-14(a) Certification 
+ 
+ I, Wallace D. Ruiz, certify that 
+ 
+ 1. I have reviewed this annual report on Form 10-Q of Inuvo, Inc. 
+ 
+ 2. Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report 
+ 
+ 3. Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report 
+ 
+ 4. The registrant s other certifying officer(s) and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have 
+ 
+ a. Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared 
+ 
+ b. Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles 
+ 
+ c. Evaluated the effectiveness of the registrant's disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation and 
+ 
+ d. Disclosed in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s most recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant s internal control over financial reporting and 
+
+5. The registrant's other certifying officer(s) and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant's auditors and the audit committee of the registrant's board of directors (or persons performing the equivalent functions) 
+ 
+ a. All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant's ability to record, process, summarize and report financial information and 
+ 
+ b. Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant's internal control over financial reporting. 
+ 
+ Date August 12, 2021 
+ 
+ s Wallace D. Ruiz 
+ Wallace D. Ruiz 
+ Chief Financial Officer, principal financial and accounting officer 
+
+</EX-31.2>
+
+<EX-32.1>
+ 4
+ ex321-2021xq2.htm
+ EX-32.1
+
+Document 
+
+EXHIBIT 32.1 
+
+Section 1350 Certification 
+ 
+ In connection with the Quarterly Report of Inuvo, Inc. (the Company on Form 10-Q for the quarter ended June 30, 2021 as filed with the Securities and Exchange Commission (the Report ), I, Richard K. Howe, Chief Executive Officer of the Company, certify, pursuant to 18 U.S.C. SS. 1350, as adopted pursuant to SS. 906 of the Sarbanes-Oxley Act of 2002, that 
+ 
+ 1. The Report fully complies with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act of 1934, as amended, and 
+ 
+ 2. The information contained in the Report fairly presents, in all material respects, the financial conditions and results of operations of the Company. 
+ 
+ Date August 12, 2021 
+ 
+ s Richard K. Howe 
+ Richard K. Howe 
+ Chief Executive Officer, principal executive officer 
+ 
+ A signed original of this written statement required by Section 906, or other document authenticating, acknowledging, or otherwise adopting the signature that appears in typed form within the electronic version of this written statement has been provided to the Company and will be retained by the Company and furnished to the Securities and Exchange Commission or its staff upon request. 
+
+</EX-32.1>
+
+<EX-32.2>
+ 5
+ ex322-2021xq2.htm
+ EX-32.2
+
+Document 
+
+EXHIBIT 32.2 
+
+Section 1350 Certification 
+ 
+ In connection with the Quarterly Report of Inuvo, Inc. (the Company on Form 10-Q for the quarter ended June 30, 2021 as filed with the Securities and Exchange Commission (the Report ), I, Wallace D. Ruiz, Chief Financial Officer of the Company, certify, pursuant to 18 U.S.C. SS. 1350, as adopted pursuant to SS. 906 of the Sarbanes-Oxley Act of 2002, that 
+ 
+ 1. The Report fully complies with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act of 1934, as amended, and 
+ 
+ 2. The information contained in the Report fairly presents, in all material respects, the financial conditions and results of operations of the Company. 
+ 
+ Date August 12, 2021 
+ 
+ s Wallace D. Ruiz 
+ Wallace D. Ruiz 
+ Chief Financial Officer, principal financial and accounting officer 
+ 
+ A signed original of this written statement required by Section 906, or other document authenticating, acknowledging, or otherwise adopting the signature that appears in typed form within the electronic version of this written statement has been provided to the Company and will be retained by the Company and furnished to the Securities and Exchange Commission or its staff upon request. 
+
+</EX-32.2>
+
+<EX-101.SCH>
+ 6
+ inuv-20210630.xsd
+ XBRL TAXONOMY EXTENSION SCHEMA DOCUMENT
+
+</EX-101.SCH>
+
+<EX-101.CAL>
+ 7
+ inuv-20210630_cal.xml
+ XBRL TAXONOMY EXTENSION CALCULATION LINKBASE DOCUMENT
+
+</EX-101.CAL>
+
+<EX-101.DEF>
+ 8
+ inuv-20210630_def.xml
+ XBRL TAXONOMY EXTENSION DEFINITION LINKBASE DOCUMENT
+
+</EX-101.DEF>
+
+<EX-101.LAB>
+ 9
+ inuv-20210630_lab.xml
+ XBRL TAXONOMY EXTENSION LABEL LINKBASE DOCUMENT
+
+</EX-101.LAB>
+
+<EX-101.PRE>
+ 10
+ inuv-20210630_pre.xml
+ XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE DOCUMENT
+
+</EX-101.PRE>
+

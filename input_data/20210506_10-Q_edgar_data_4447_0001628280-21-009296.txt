@@ -1,0 +1,960 @@
+<Header>
+<FileStats>
+    <FileName>20210506_10-Q_edgar_data_4447_0001628280-21-009296.txt</FileName>
+    <GrossFileSize>6054299</GrossFileSize>
+    <NetFileSize>132276</NetFileSize>
+    <NonText_DocumentType_Chars>929754</NonText_DocumentType_Chars>
+    <HTML_Chars>1930121</HTML_Chars>
+    <XBRL_Chars>1589882</XBRL_Chars>
+    <XML_Chars>1370147</XML_Chars>
+    <N_Exhibits>10</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0001628280-21-009296.hdr.sgml : 20210506
+<ACCEPTANCE-DATETIME>20210506160813
+ACCESSION NUMBER:		0001628280-21-009296
+CONFORMED SUBMISSION TYPE:	10-Q
+PUBLIC DOCUMENT COUNT:		69
+CONFORMED PERIOD OF REPORT:	20210331
+FILED AS OF DATE:		20210506
+DATE AS OF CHANGE:		20210506
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			HESS CORP
+		CENTRAL INDEX KEY:			0000004447
+		STANDARD INDUSTRIAL CLASSIFICATION:	PETROLEUM REFINING [2911]
+		IRS NUMBER:				134921002
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		10-Q
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-01204
+		FILM NUMBER:		21897772
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1185 AVENUE OF THE AMERICAS
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10036
+		BUSINESS PHONE:		2129978500
+
+	MAIL ADDRESS:	
+		STREET 1:		1185 AVENUE OF THE AMERICAS
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10036
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	AMERADA HESS CORP
+		DATE OF NAME CHANGE:	19920703
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	AMERADA PETROLEUM CORP
+		DATE OF NAME CHANGE:	19690727
+
+</SEC-Header>
+</Header>
+
+ 0001628280-21-009296.txt : 20210506
+
+10-Q
+ 1
+ hes-20210331.htm
+ 10-Q
+
+hes-20210331 
+
+UNITED STATES 
+ SECURITIES AND EXCHANGE COMMISSION 
+ WASHINGTON, D.C. 20549 
+ 
+ Form 
+ QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+ For the quarter ended 
+ or 
+ TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+ For the transition period from to 
+ Commission File Number 
+
+(Exact Name of Registrant as Specified in Its Charter) 
+ LAWARE 
+ (State or Other Jurisdiction of Incorporation or Organization) 
+ 
+ (I.R.S. Employer Identification Number) 
+ 
+ , , 
+ (Address of Principal Executive Offices) 
+ 
+ (Zip Code) 
+ (Registrant s Telephone Number, Including Area Code is ) 
+ Securities registered pursuant to Section 12(b) of the Act: 
+ Title of each class Trading Symbol Name of exchange on which registered 
+ Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days. No 
+ Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T 232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files). No 
+ Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company, or an emerging growth company. See the definitions of large accelerated filer, accelerated filer, smaller reporting company, and emerging growth company in Rule 12b-2 of the Exchange Act. 
+ Accelerated filer Non-accelerated filer Smaller reporting company Emerging growth company 
+ If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. 
+ Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act). Yes No 
+ At , there were shares of Common Stock outstanding. 
+
+HESS CORPORATION 
+ Form 10-Q 
+ TABLE OF CONTENTS 
+ 
+ Item No. Page Number PART I - FINANCIAL INFORMATION 
+ 1. 
+ Financial Statements (Unaudited) 
+ Consolidated Balance Sheet at March 3 1 , 202 1 , and December 31, 20 20 
+ 2 
+ Statement of Consolidated Income for the Three Months Ended March 3 1 , 202 1 , and 20 20 
+ 3 
+ Statement of Consolidated Comprehensive Income for the Three Months Ended March 3 1 , 202 1 , and 20 20 
+ 4 
+ Statement of Consolidated Cash Flows for the Three Months Ended March 3 1 , 202 1 , and 20 20 
+ 5 
+ Statement of Consolidated Equity for the Three Months Ended March 3 1 , 202 1 , and 20 20 
+ 6 
+ Notes to Consolidated Financial Statements (Unaudited) 
+ 7 
+ Note 1 - Basis of Presentation 
+ 7 
+ Note 2 - Inventories 
+ 7 
+ Note 3 - Property, Plant and Equipment 
+ 7 
+ Note 4 - Hess Midstream LP 
+ 8 
+ Note 5 - Accrued Liabilities 
+ 8 
+ Note 6 - Revenue 
+ 9 
+ Note 7 - Impairment 
+ 9 
+ Note 8 - Retirement Plans 
+ 10 
+ Note 9 - Weighted Average Common Shares 
+ 10 
+ Note 1 0 - Guarantees and Contingencies 
+ 11 
+ Note 1 1 - Segment Information 
+ 12 
+ Note 1 2 - Financial Risk Management Activities 
+ 13 
+ Note 1 3 - Subsequent Events 
+ 15 
+ 2. 
+ Management s Discussion and Analysis of Financial Condition and Results of Operations 
+ 16 
+ 3. 
+ Quantitative and Qualitative Disclosures about Market Risk 
+ 31 
+ 4. 
+ Controls and Procedures 
+ 31 
+ PART II - OTHER INFORMATION 
+ 1. 
+ Legal Proceedings 
+ 32 
+ 6. 
+ Exhibits 
+ 33 
+ Signatures 
+ 34 
+
+Unless the context indicates otherwise, references to Hess , the Corporation , Registrant , we , us , our and its refer to the consolidated business operations of Hess Corporation and its subsidiaries. 
+
+PART I - FINANCIAL INFORMATION 
+
+Item 1. Financial Statements. 
+ 
+ HESS CORPORATION AND CONSOLIDATED SUBSIDIARIES 
+ CONSOLIDATED BALANCE SHEET (UNAUDITED) 
+ March 31, 2021 December 31, 2020 (In millions, except share amounts) Assets Current Assets: Cash and cash equivalents Accounts receivable: From contracts with customers Joint venture and other Inventories Assets held for sale Other current assets Total current assets Property, plant and equipment: Total at cost Less: Reserves for depreciation, depletion, amortization and lease impairment Property, plant and equipment net Operating lease right-of-use assets net Finance lease right-of-use assets net Goodwill Deferred income taxes Other assets Total Assets Liabilities Current Liabilities: Accounts payable Accrued liabilities Taxes payable Current maturities of long-term debt Current portion of operating and finance lease obligations Total current liabilities Long-term debt Long-term operating lease obligations Long-term finance lease obligations Deferred income taxes Asset retirement obligations Other liabilities and deferred credits Total Liabilities Equity Hess Corporation stockholders equity: Common stock, par value ; Authorized shares 
+ Issued shares (2020: 
+ Capital in excess of par value Retained earnings Accumulated other comprehensive income (loss) ) ) Total Hess Corporation stockholders equity Noncontrolling interests Total Equity Total Liabilities and Equity 
+ See accompanying Notes to Consolidated Financial Statements. 
+ 2 
+
+PART I - FINANCIAL INFORMATION (CONT D.) 
+ 
+ HESS CORPORATION AND CONSOLIDATED SUBSIDIARIES 
+ STATEMENT OF CONSOLIDATED INCOME (UNAUDITED) 
+ Three Months Ended March 31, 2021 2020 (In millions, except per share amounts) Revenues and Non-Operating Income Sales and other operating revenues Other, net Total revenues and non-operating income Costs and Expenses Marketing, including purchased oil and gas Operating costs and expenses Production and severance taxes Exploration expenses, including dry holes and lease impairment General and administrative expenses Interest expense Depreciation, depletion and amortization Impairment Total costs and expenses Income (Loss) Before Income Taxes ) Provision (benefit) for income taxes ) Net Income (Loss) ) Less: Net income (loss) attributable to noncontrolling interests Net Income (Loss) Attributable to Hess Corporation ) Net Income (Loss) Attributable to Hess Corporation Per Common Share: Basic ) Diluted ) Weighted Average Number of Common Shares Outstanding: Basic Diluted Common Stock Dividends Per Share 
+ See accompanying Notes to Consolidated Financial Statements. 
+ 
+ 3 
+
+PART I - FINANCIAL INFORMATION (CONT D.) 
+ 
+ HESS CORPORATION AND CONSOLIDATED SUBSIDIARIES 
+ STATEMENT OF CONSOLIDATED COMPREHENSIVE INCOME (UNAUDITED) 
+ Three Months Ended March 31, 2021 2020 (In millions) Net Income (Loss) ) Other Comprehensive Income (Loss): Derivatives designated as cash flow hedges Effect of hedge (gains) losses reclassified to income ) Income taxes on effect of hedge (gains) losses reclassified to income Net effect of hedge (gains) losses reclassified to income ) Change in fair value of cash flow hedges ) Income taxes on change in fair value of cash flow hedges Net change in fair value of cash flow hedges ) Change in derivatives designated as cash flow hedges, after taxes ) Pension and other postretirement plans (Increase) reduction in unrecognized actuarial losses Income taxes on actuarial changes in plan liabilities (Increase) reduction in unrecognized actuarial losses, net Amortization of net actuarial losses Income taxes on amortization of net actuarial losses Net effect of amortization of net actuarial losses Change in pension and other postretirement plans, after taxes Other Comprehensive Income (Loss) ) Comprehensive Income (Loss) ) Less: Comprehensive income (loss) attributable to noncontrolling interests Comprehensive Income (Loss) Attributable to Hess Corporation ) 
+ See accompanying Notes to Consolidated Financial Statements. 
+ 
+ 4 
+
+PART I - FINANCIAL INFORMATION (CONT D.) 
+ 
+ HESS CORPORATION AND CONSOLIDATED SUBSIDIARIES 
+ STATEMENT OF CONSOLIDATED CASH FLOWS (UNAUDITED) 
+ Three Months Ended March 31, 2021 2020 (In millions) Cash Flows From Operating Activities Net income (loss) ) Adjustments to reconcile net income (loss) to net cash provided by (used in) operating activities: Depreciation, depletion and amortization Impairment Exploratory dry hole costs Exploration lease and other impairment Pension settlement loss Stock compensation expense Noncash (gains) losses on commodity derivatives, net Provision (benefit) for deferred income taxes and other tax accruals ) Changes in operating assets and liabilities: (Increase) decrease in accounts receivable ) (Increase) decrease in inventories Increase (decrease) in accounts payable and accrued liabilities ) ) Increase (decrease) in taxes payable ) Changes in other operating assets and liabilities ) ) Net cash provided by (used in) operating activities Cash Flows From Investing Activities Additions to property, plant and equipment - E P ) ) Additions to property, plant and equipment - Midstream ) ) Net cash provided by (used in) investing activities ) ) Cash Flows From Financing Activities Net borrowings (repayments) of debt with maturities of 90 days or less ) Debt with maturities of greater than 90 days: Borrowings Repayments ) Proceeds from sale of Class A shares of Hess Midstream LP Payments on finance lease obligations ) ) Cash dividends paid ) ) Noncontrolling interests, net ) ) Other, net ) Net cash provided by (used in) financing activities ) Net Increase (Decrease) in Cash and Cash Equivalents Cash and Cash Equivalents at Beginning of Year Cash and Cash Equivalents at End of Period 
+ See accompanying Notes to Consolidated Financial Statements. 
+ 
+ 5 
+
+PART I - FINANCIAL INFORMATION (CONT D.) 
+ 
+ HESS CORPORATION AND CONSOLIDATED SUBSIDIARIES 
+ STATEMENT OF CONSOLIDATED EQUITY (UNAUDITED) 
+ Common Stock Capital in Excess of Par Retained Earnings Accumulated Other Comprehensive Income (Loss) Total Hess Stockholders' Equity Noncontrolling Interests Total Equity (In millions) For the Three Months Ended March 31, 2021 Balance at January 1, 2021 ) Net income (loss) Other comprehensive income (loss) ) ) ) Share-based compensation Dividends on common stock ) ) ) Sale of Class A shares of Hess Midstream LP Noncontrolling interests, net ) ) Balance at March 31, 2021 ) For the Three Months Ended March 31, 2020 Balance at January 1, 2020 ) Net income (loss) ) ) ) Other comprehensive income (loss) Share-based compensation ) Dividends on common stock ) ) ) Noncontrolling interests, net ) ) Balance at March 31, 2020 
+ See accompanying Notes to Consolidated Financial Statements. 
+
+6 
+
+PART I - FINANCIAL INFORMATION (CONT D.) 
+ HESS CORPORATION AND CONSOLIDATED SUBSIDIARIES 
+ NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (UNAUDITED) 
+
+Materials and supplies Total Inventories 
+ At December 31, 2020, crude oil inventories included million associated with the cost of million barrels of crude oil transported and stored on chartered very large crude carriers (VLCCs) for sale in Asian markets. The VLCC cargos were sold in the first quarter of 2021. 
+ In the first quarter of 2020, we recognized charges of million million after income taxes) in Marketing, including purchased oil and gas to reflect crude oil inventories at net realizable value. 
+ 
+ million with an effective date of January 1, 2021. At March 31, 2021, property, plant and equipment and operating lease right-of-use assets totaling million, and asset retirement obligations and operating lease liabilities totaling million, associated with our interests in Denmark were presented as Assets held for sale and as liabilities held for sale within Accrued Liabilities , respectively, in our Consolidated Balance Sheet . 
+ Capitalized Exploratory Well Costs: 
+ Additions to capitalized exploratory well costs pending the determination of proved reserves Balance at March 31, 2021 
+ Capitalized exploratory well costs capitalized for greater than one year following completion of drilling were million at March 31, 2021 and primarily related to: 
+ Guyana: Approximately of the capitalized well costs in excess of one year relate to successful exploration wells where hydrocarbons were encountered on the Stabroek Block (Hess ), offshore Guyana. The operator plans further appraisal drilling and is conducting pre-development planning for additional phases of development beyond the three previously sanctioned development projects on the Block. 
+ 7 
+
+PART I - FINANCIAL INFORMATION (CONT D.) 
+ HESS CORPORATION AND CONSOLIDATED SUBSIDIARIES 
+ NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (UNAUDITED) 
+
+ of the capitalized well costs in excess of one year relates to the JDA (Hess in the Gulf of Thailand, where hydrocarbons were encountered in successful exploration wells drilled in the western part of Block A-18. The operator has submitted a development plan concept to the regulator to facilitate ongoing commercial negotiations for an extension of the existing gas sales contract to include development of the western part of the Block. 
+ Malaysia: Approximately of the capitalized well costs in excess of one year relate to the North Malay Basin (Hess ), offshore Peninsular Malaysia, where hydrocarbons were encountered in successful exploration well. Subsurface evaluation and pre-development studies are ongoing. 
+ 
+ million from the public offering of Hess-owned Class A shares in Hess Midstream LP. The transaction resulted in an increase in Capital in Excess of Par of million and Noncontrolling Interests of million including million from the change in ownership and million from the recognition of a deferred tax asset due to an increase in tax basis of Hess Midstream LP's investment in Hess Midstream Operations LP. After giving effect to this transaction, the Corporation owns an approximate interest in Hess Midstream LP, on a consolidated basis. 
+ At March 31, 2021 Hess Midstream LP, a variable interest entity that is fully consolidated by Hess Corporation, had liabilities totaling million (December 31, 2020: million) that are on a nonrecourse basis to Hess Corporation, while Hess Midstream LP assets available to settle the obligations of Hess Midstream LP include cash and cash equivalents totaling million (December 31, 2020: million), property, plant and equipment with a carrying value of million (December 31, 2020: million) and an equity-method investment of million (December 31, 2020: million) in the Little Missouri 4 gas processing plant. 
+ 
+ Accrued operating and marketing expenditures Accrued payments to royalty and working interest owners Liabilities held for sale Accrued interest on debt Accrued compensation and benefits Current portion of asset retirement obligations Other accruals Total Accrued Liabilities 
+ 
+ 8 
+
+PART I - FINANCIAL INFORMATION (CONT D.) 
+ HESS CORPORATION AND CONSOLIDATED SUBSIDIARIES 
+ NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (UNAUDITED) 
+
+ Natural gas liquids revenue Natural gas revenue Sales of purchased oil and gas Intercompany revenue ) Total revenues from contracts with customers ) Other operating revenues (b) ) ) ) ) ) Total sales and other operating revenues ) Three Months Ended March 31, 2020 Sales of our net production volumes: Crude oil revenue Natural gas liquids revenue Natural gas revenue Sales of purchased oil and gas Intercompany revenue ) Total revenues from contracts with customers ) Other operating revenues (b) Total sales and other operating revenues ) 
+ (a) Other includes our interests in Denmark and Libya. 
+ (b) Includes gains (losses) on commodity derivatives. 
+ There have been no significant changes to contracts with customers or composition thereof during the three months ended March 31, 2021. Generally, we receive payments from customers on a monthly basis, shortly after the physical delivery of the crude oil, natural gas liquids, or natural gas. 
+
+billion billion after income taxes) related to our oil and gas properties at North Malay Basin in Malaysia, the South Arne Field in Denmark, and the Stampede and Tubular Bells fields in the Gulf of Mexico, primarily as a result of a lower long-term crude oil price outlook. Other charges totaling million pre-tax million after income taxes) related to drilling rig right-of-use assets in the Bakken and surplus materials and supplies. 
+ 9 
+
+PART I - FINANCIAL INFORMATION (CONT D.) 
+ HESS CORPORATION AND CONSOLIDATED SUBSIDIARIES 
+ NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (UNAUDITED) 
+
+ Interest cost (a) Expected return on plan assets (a) ) ) Amortization of unrecognized net actuarial losses (a) Settlement loss (a) Pension (income) expense (a) ) ) 
+ a) Net non-service pension cost included in Other, net in the Statement of Consolidated Income for the three months ended March 31, 2021 was income of million (2020: income of million). 
+ In 2021, we expect to contribute approximately million to our funded pension plans. 
+ 
+ ) Less: Net income (loss) attributable to noncontrolling interests Net income (loss) attributable to Hess Corporation ) Weighted average number of common shares outstanding: Basic Effect of dilutive securities Restricted common stock Stock options Performance share units Diluted 
+ Stock options Performance share units 
+ During the three months ended March 31, 2021, we granted shares of restricted stock (2020: ), stock options (2020: ), and performance share units (2020: ). 
+ 
+ 10 
+
+PART I - FINANCIAL INFORMATION (CONT D.) 
+ HESS CORPORATION AND CONSOLIDATED SUBSIDIARIES 
+ NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (UNAUDITED) 
+
+ remaining active cases, filed by Pennsylvania, Rhode Island, and Maryland. In June 2014, the Commonwealth of Pennsylvania filed a lawsuit alleging that we and all major oil companies with operations in Pennsylvania, have damaged the groundwater by introducing thereto gasoline with MTBE. The Pennsylvania suit has been forwarded to the existing MTBE multidistrict litigation pending in the Southern District of New York. In September 2016, the State of Rhode Island also filed a lawsuit alleging that we and other major oil companies damaged the groundwater in Rhode Island by introducing thereto gasoline with MTBE. The suit filed in Rhode Island is proceeding in federal court. In December 2017, the State of Maryland filed a lawsuit alleging that we and other major oil companies damaged the groundwater in Maryland by introducing thereto gasoline with MTBE. The suit, filed in Maryland state court, was served on us in January 2018 and has been removed to federal court by the defendants. 
+ In September 2003, we received a directive from the New Jersey Department of Environmental Protection (NJDEP) to remediate contamination in the sediments of the Lower Passaic River. The NJDEP is also seeking natural resource damages. The directive, insofar as it affects us, relates to alleged releases from a petroleum bulk storage terminal in Newark, New Jersey we previously owned. We and over 70 companies entered into an Administrative Order on Consent with the EPA to study the same contamination; this work remains ongoing. We and other parties settled a cost recovery claim by the State of New Jersey and agreed with the EPA to fund remediation of a portion of the site. On March 4, 2016, the EPA issued a Record of Decision (ROD) in respect of the lower eight miles of the Lower Passaic River, selecting a remedy that includes bank-to-bank dredging at an estimated cost of billion. The ROD does not address the upper nine miles of the Lower Passaic River or the Newark Bay, which may require additional remedial action. In addition, the federal trustees for natural resources have begun a separate assessment of damages to natural resources in the Passaic River. Given that the EPA has not selected a remedy for the entirety of the Lower Passaic River or the Newark Bay, total remedial costs cannot be reliably estimated at this time. Based on currently known facts and circumstances, we do not believe that this matter will result in a significant liability to us because our former terminal did not store or use contaminants which are of concern in the river sediments and could not have contributed contamination along the river s length. Further, there are numerous other parties who we expect will bear the cost of remediation and damages. 
+ In March 2014, we received an Administrative Order from the EPA requiring us and 26 other parties to undertake the Remedial Design for the remedy selected by the EPA for the Gowanus Canal Superfund Site in Brooklyn, New York. Our alleged liability derives from our former ownership and operation of a fuel oil terminal and connected shipbuilding and repair facility adjacent to the Canal. The remedy selected by the EPA includes dredging of surface sediments and the placement of a cap over the deeper sediments throughout the Canal and in-situ stabilization of certain contaminated sediments that will remain in place below the cap. The EPA s original estimate was that this remedy would cost million; however, the ultimate costs that will be incurred in connection with the design and implementation of the remedy remain uncertain. We have complied with the EPA s March 2014 Administrative Order and contributed funding for the Remedial Design based on an allocation of costs among the parties determined by a third-party expert. In January 2020, we received an additional Administrative Order from the EPA requiring us and several other parties to begin Remedial Action along the uppermost portion of the Canal. We intend to comply with this Administrative Order. The remediation work began in the fourth quarter of 2020. Based on currently known facts and circumstances, we do not believe that this matter will result in a significant liability to us, and the costs will continue to be allocated amongst the parties, as they were for the Remedial Design. 
+ From time to time, we are involved in other judicial and administrative proceedings relating to environmental matters. We periodically receive notices from the EPA that we are a potential responsible party under the Superfund legislation with respect to various waste disposal sites. Under this legislation, all potentially responsible parties may be jointly and severally liable. For any site for which we have received such a notice, the EPA s claims or assertions of liability against us relating to these sites have not been fully developed, or the EPA s claims have been settled or a settlement is under consideration, in all cases for amounts that are not 
+ 11 
+
+PART I - FINANCIAL INFORMATION (CONT D.) 
+ HESS CORPORATION AND CONSOLIDATED SUBSIDIARIES 
+ NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (UNAUDITED) 
+
+operating segments, Exploration and Production and Midstream. All unallocated costs are reflected under Corporate, Interest and Other. 
+ Intersegment Revenues ) Sales and Other Operating Revenues ) Net Income (Loss) attributable to Hess Corporation ) Depreciation, Depletion and Amortization Provision (Benefit) for Income Taxes Capital Expenditures For the Three Months Ended March 31, 2020 Sales and Other Operating Revenues - Third parties Intersegment Revenues ) Sales and Other Operating Revenues ) Net Income (Loss) attributable to Hess Corporation ) ) ) Depreciation, Depletion and Amortization Impairment Provision (Benefit) for Income Taxes ) ) ) Capital Expenditures 
+ 12 
+
+PART I - FINANCIAL INFORMATION (CONT D.) 
+ HESS CORPORATION AND CONSOLIDATED SUBSIDIARIES 
+ NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (UNAUDITED) 
+
+ Midstream Corporate, Interest and Other Total 
+
+Foreign exchange forwards Interest rate swaps 
+ As of March 31, 2021, we have purchased West Texas Intermediate (WTI) put options of barrels of oil per day (bopd) with an average monthly floor price of per barrel and Brent put options of bopd with an average monthly floor price of per barrel for the remainder of 2021. 
+ 13 
+
+PART I - FINANCIAL INFORMATION (CONT D.) 
+ HESS CORPORATION AND CONSOLIDATED SUBSIDIARIES 
+ NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (UNAUDITED) 
+
+ Interest rate swaps Total derivative contracts designated as hedging instruments Derivative Contracts Not Designated as Hedging Instruments: Foreign exchange forwards 
+ ) Total derivative contracts not designated as hedging instruments ) Gross fair value of derivative contracts ) Gross amounts offset in the Consolidated Balance Sheet Net Amounts Presented in the Consolidated Balance Sheet ) December 31, 2020 Derivative Contracts Designated as Hedging Instruments: Crude oil put options Crude oil swaps ) Interest rate swaps Total derivative contracts designated as hedging instruments ) Derivative Contracts Not Designated as Hedging Instruments: Foreign exchange forwards 
+ ) Total derivative contracts not designated as hedging instruments ) Gross fair value of derivative contracts ) Gross amounts offset in the Consolidated Balance Sheet ) Net Amounts Presented in the Consolidated Balance Sheet ) 
+ During the first quarter of 2021, we completed the sale of million barrels of Bakken crude oil transported and stored on VLCCs during 2020 for sale in Asian markets. We recognized net losses of million from crude oil hedging contracts associated with the VLCC volumes in the first quarter of 2021. 
+ The fair value of our crude oil put options and crude oil swaps is presented within Other current assets and Accrued liabilities , respectively, in our Consolidated Balance Sheet . The fair value of our interest rate swaps is presented within Other assets in our Consolidated Balance Sheet . The fair value of our foreign exchange forwards is presented within Accrued liabilities in our Consolidated Balance Sheet . All fair values in the table above are based on Level 2 inputs. 
+ Derivative contracts designated as hedging instruments: 
+ Crude oil derivatives: Crude oil hedging contracts decreased Sales and other operating revenues by million in the first quarter of 2021, including hedge contracts associated with the VLCC transactions, and increased Sales and other operating revenues by million in the first quarter of 2020. At March 31, 2021, pre-tax deferred losses in Accumulated other comprehensive income (loss) related to outstanding crude oil price hedging contracts were million, all of which will be reclassified into earnings during the remainder of 2021 as the originally hedged crude oil sales are recognized in earnings. 
+ Interest rate swaps designated as fair value hedges: At March 31, 2021 and December 31, 2020, we had interest rate swaps with gross notional amounts totaling million, which were designated as fair value hedges and relate to debt where we have converted interest payments from fixed to floating rates. Changes in the fair value of interest rate swaps and the hedged fixed-rate debt are recorded in Interest expense in the Statement of Consolidated Income . In the three months ended March 31, 2021, the change in fair value of interest rate swaps was a decrease in the asset of million (2020 Q1: increase in the asset of million) with a corresponding adjustment in the carrying value of the hedged fixed-rate debt. 
+ Derivative contracts not designated as hedging instruments: 
+ Foreign exchange: Foreign exchange gains and losses which are reported in Other, net in Revenues and non-operating income in the Statement of Consolidated Income were losses of million in the three months ended March 31, 2021 (2020 Q1: million loss). A component of foreign exchange gains and losses is the result of foreign exchange derivative contracts that are not designated as hedges which amounted to net losses of million in the three months ended March 31, 2021 (2020 Q1: million gain). 
+ 14 
+
+PART I - FINANCIAL INFORMATION (CONT D.) 
+ HESS CORPORATION AND CONSOLIDATED SUBSIDIARIES 
+ NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (UNAUDITED) 
+
+million and a fair value of million, based on Level 2 inputs in the fair value measurement hierarchy. We also have short-term financial instruments, primarily cash equivalents, accounts receivable, and accounts payable, for which the carrying value approximated fair value at March 31, 2021 and December 31, 2020. 
+ 
+ million with an effective date of March 1, 2021. The sale included approximately net acres, which are located in the southernmost portion of the Corporation's Bakken position and are not connected to Hess Midstream LP infrastructure. Net production from the acreage during the first quarter of 2021 was approximately barrels of oil equivalent per day (boepd). 
+ billion revolving credit facility by extending the facility's expiration date for one year to May 2024 and incorporating customary provisions for the eventual replacement of the London Interbank Offered Rate (LIBOR). 
+ 15 
+
+PART I - FINANCIAL INFORMATION (CONT'D.) 
+
+ Item 2. Management s Discussion and Analysis of Financial Condition and Results of Operations. 
+ The following Management s Discussion and Analysis of Financial Condition and Results of Operations should be read together with the unaudited consolidated financial statements and accompanying footnotes for the quarter ended March 31, 2021 included under Item 1. Financial Statements of this Form 10-Q and the audited consolidated financial statements and related notes included in Item 8 of our Annual Report on Form 10-K for the year ended December 31, 2020. This discussion contains forward-looking statements that involve risks and uncertainties. Our actual results could differ materially from those discussed below. Factors that could cause or contribute to such differences include, but are not limited to, those discussed in Item 1A. Risk Factors of our Annual Report on Form 10-K for the year ended December 31, 2020. 
+ Overview 
+ Hess Corporation is a global E P company engaged in exploration, development, production, transportation, purchase and sale of crude oil, natural gas liquids, and natural gas with production operations located primarily in the United States (U.S.), Guyana, the Malaysia/Thailand Joint Development Area (JDA), Malaysia, and Denmark. We conduct exploration activities primarily offshore Guyana, in the U.S. Gulf of Mexico, and offshore Suriname and Canada. At the Stabroek Block (Hess 30 ), offshore Guyana, we have announced eighteen significant discoveries. The Liza Phase 1 development achieved first production in December 2019, and has a nameplate production capacity of approximately 120,000 gross bopd. The Liza Phase 2 development was sanctioned in the second quarter of 2019 and remains on track to achieve first production by early 2022, with production capacity of approximately 220,000 gross bopd. A third development, Payara, was sanctioned in the third quarter of 2020 and is expected to achieve first production in 2024, with production capacity of approximately 220,000 gross bopd. The discovered resources to date on the Stabroek Block are expected to underpin up to ten floating production, storage and offloading vessels (FPSOs) with the first six FPSOs expected by 2027. 
+ Our Midstream operating segment, which is comprised of Hess Corporation s approximate 46 consolidated ownership interest in Hess Midstream LP at March 31, 2021, provides fee-based services, including gathering, compressing and processing natural gas and fractionating natural gas liquids (NGL); gathering, terminaling, loading and transporting crude oil and NGL; storing and terminaling propane, and water handling services primarily in the Bakken shale play in the Williston Basin area of North Dakota. See Note 4, Hess Midstream LP in the Notes to Consolidated Financial Statements . 
+ Hess Response to Global Pandemic 
+ COVID-19 continues to have a profound impact on society and industry. The Corporation s first priority in the midst of the pandemic has been the health and safety of the Hess workforce and local communities where the Corporation operates. A multidisciplinary Hess emergency response team has been overseeing plans and precautions to reduce the risks of COVID-19 in the work environment while maintaining business continuity based on the most current recommendations by government and public health agencies. The Corporation has implemented a variety of health and safety measures including enhanced cleaning procedures and modified work practices such as travel restrictions, health screenings, reduced personnel at offshore platforms and onshore work sites wherever this can be done safely, and remote working arrangements for office workers. 
+ First Quarter Outlook 
+ The 2021 E P capital and exploratory expenditure budget is 1.9 billion, with more than 80 allocated to Guyana and the Bakken. Oil and gas production in 2021, excluding Libya, is now forecast to be in the range of 290,000 boepd to 295,000 boepd. For the remainder of 2021, we have hedged 120,000 bopd with 55 WTI put options and 30,000 bopd with 60 Brent put options. 
+ In March 2021, the Corporation received net proceeds of 70 million for the public offering of 3,450,000 Class A shares of Hess Midstream LP. In March 2021, we entered into an agreement to sell our interests in Denmark for total consideration of 150 million, with an effective date of January 1, 2021. The sale is expected to close during the third quarter of 2021, subject to customary closing conditions. On April 30, 2021, we completed the sale of our previously announced Little Knife and Murphy Creek nonstrategic acreage interests in the Bakken for total consideration of 312 million, with an effective date of March 1, 2021. 
+ Net cash provided by operating activities was 591 million in the first quarter of 2021, compared with 445 million in the first quarter of 2020. Net cash provided by operating activities before changes in operating assets and liabilities was 815 million in the first quarter of 2021 and 502 million in the first quarter of 2020. Capital expenditures were 303 million in the first quarter of 2021 and 666 million in the first quarter of 2020. Excluding our Midstream segment, we ended the first quarter of 2021 with approximately 1.86 billion in cash and cash equivalents. In 2021, based on current forward strip crude oil prices, we expect cash flow from operating activities, expected proceeds from asset sales, and cash and cash equivalents at March 31, 2021 will be sufficient to fund our capital investment program and dividends. We may take any of the following steps, or a combination thereof, to improve our liquidity and financial position: reduce the planned capital program and other cash outlays, including dividends, pursue asset sales, borrow against our committed revolving credit facility, or issue debt or equity securities. 
+ 16 
+
+PART I - FINANCIAL INFORMATION (CONT'D.) 
+
+ Overview (continued) 
+ First Quarter Results 
+ Net income was 252 million in the first quarter of 2021, compared with a net loss of 2,433 million in the first quarter of 2020. Excluding items affecting comparability of earnings between periods detailed on page 24, we incurred an adjusted net loss of 182 million in the first quarter of 2020. The improvement in first quarter 2021 results against adjusted results for the prior-year quarter is primarily due to higher realized selling prices, contribution from the sale of two VLCC cargos, and lower depletion, depreciation and amortization expenses. 
+ Exploration and Production Results 
+ In the first quarter of 2021, E P had net income of 308 million, compared with a net loss of 2,371 million in the first quarter of 2020. Excluding items affecting comparability of earnings between periods, the adjusted net loss was 120 million in the first quarter of 2020. Total net production, excluding Libya, averaged 315,000 boepd in the first quarter 2021, compared with 344,000 boepd in the first quarter of 2020 or 332,000 boepd pro forma for the sale of our interest in the Shenzi Field. The average realized crude oil selling price, including hedging, was 50.02 per barrel in the first quarter of 2021, compared with 45.94 per barrel in the first quarter of 2020. The average realized NGL selling price in the first quarter of 2021 was 29.49 per barrel, compared with 9.32 per barrel in the prior-year quarter, while the average realized natural gas selling price was 4.90 per thousand cubic feet (mcf) in the first quarter of 2021, compared with 3.16 per mcf in the first quarter of 2020. 
+ The following is an update of significant E P activities: 
+ In North Dakota, net production from the Bakken oil shale play averaged 158,000 boepd for the first quarter of 2021 (2020 Q1: 190,000 boepd), primarily due to reduced drilling activity, lower NGL and natural gas volumes received under percentage of proceeds contracts due to higher NGL prices, and the impact of adverse winter weather. NGL and natural gas volumes received under percentage of proceeds (POP) contracts were 19,000 boepd in the first quarter of 2020, but were reduced to 11,000 boepd in the first quarter of 2021 due to higher realized NGL prices lowering volumes received as consideration for gas processing fees under the POP contracts. During the quarter, we drilled 11 wells, completed 10 wells, and brought 4 new wells online. In February, we increased the number of operated rigs from one to two. We forecast net production to average approximately 155,000 boepd for the second quarter of 2021 and in the range of 155,000 boepd to 160,000 boepd for the full year 2021 reflecting the impact of lower NGL volumes received as consideration for gas processing fees under POP contracts due to higher NGL prices, the sale of the Corporation s nonstrategic acreage interests, and adverse winter weather. 
+ During the first quarter of 2021, we completed the sale of 4.2 million barrels of Bakken crude oil transported and stored on two VLCCs during 2020, which contributed net income of approximately 70 million in the first quarter of 2021. 
+ On April 30, 2021, we completed the sale of our previously announced Little Knife and Murphy Creek nonstrategic acreage interests in the Bakken for total consideration of 312 million with an effective date of March 1, 2021. The sale included approximately 78,700 net acres, which are located in the southernmost portion of the Corporation's Bakken position and are not connected to Hess Midstream LP infrastructure. Net production from the acreage during the first quarter of 2021 was approximately 4,500 boepd. 
+ In the Gulf of Mexico, net production for the first quarter of 2021 averaged 56,000 boepd (2020 Q1: 74,000 boepd), reflecting the sale of our interest in the Shenzi Field in the fourth quarter of 2020 and natural field decline. Net production from the Shenzi Field was 12,000 boepd in the first quarter of 2020. 
+ At the Stabroek Block (Hess 30 ), offshore Guyana, net production from the Liza Phase 1 development averaged 31,000 bopd for the first quarter of 2021 (2020 Q1: 15,000 bopd). The Liza Destiny FPSO reached its nameplate capacity of 120,000 gross bopd in December 2020 and remained at this level during the first quarter of 2021. In mid-April, production from the Liza Destiny FPSO was curtailed for several days after a leak was detected in the flash gas compressor discharge silencer. Production has since ramped back up and is expected to remain in the range of 100,000 to 110,000 gross bopd until repairs to the discharge silencer are completed in approximately three months. Following this repair, production is expected to return to, or above, nameplate capacity. In addition, an order has been placed for an upgraded flash gas compression system, which is expected to be installed on the Liza Destiny in the fourth quarter of 2021. 
+ Startup of Phase 2 of the Liza Field development, which will utilize the Liza Unity FPSO with an expected capacity of 220,000 gross bopd, remains on track for early 2022. The third development, Payara, will utilize the Prosperity FPSO with an expected capacity of 220,000 gross bopd. First oil is expected in 2024. A fourth development, Yellowtail, has been identified on the Stabroek Block. The operator, Esso Exploration and Production Guyana Limited, expects to submit a plan of development to the government of Guyana in the second half of this year. Pending government approval and project sanctioning, the Yellowtail project is expected to achieve first oil in 2025. The discovered resources to date on the Stabroek Block are expected to underpin up to ten FPSOs with the first six FPSOs expected by 2027. 
+ 17 
+
+PART I - FINANCIAL INFORMATION (CONT'D.) 
+
+ Overview (continued) 
+ In April 2021, we announced a discovery at the Uaru-2 well, which encountered approximately 120 feet of high quality oil bearing sandstone reservoir, including newly identified intervals below the original Uaru-1 discovery. The well was drilled in 5,659 feet of water and is located approximately 6.8 miles south of the Uaru-1 well. 
+ The Stena DrillMax is currently appraising the Longtail discovery, which will include a planned sidetrack. The Noble Don Taylor will drill the Mako-2 well after Uaru-2, and the Stena Carron is currently drilling the Koebi-1 exploration well. The Noble Tom Madden, the Noble Bob Douglas and the Noble Sam Croft, which recently arrived at the Stabroek Block, are primarily focused on development drilling. 
+ In the Gulf of Thailand, net production from Block A-18 of the JDA averaged 37,000 boepd for the first quarter of 2021 (2020 Q1: 32,000 boepd), including contribution from unitized acreage in Malaysia, while net production from North Malay Basin, offshore Peninsular Malaysia, averaged 27,000 boepd for the first quarter of 2021 (2020 Q1: 26,000 boepd). Net production was higher at the JDA and North Malay Basin due to a recovery in economic activity. 
+ At the Waha fields (Hess 8 ), onshore Libya, net production averaged approximately 18,000 boepd (2020 Q1: 5,000 boepd), with the increase from the prior-year quarter due to the lifting of force majeure by the national oil company of Libya in October 2020. 
+ In March, we entered into an agreement to sell our interests in Denmark for total consideration of 150 million, with an effective date of January 1, 2021. Net production from Denmark during the first quarter of 2021 was 6,000 boepd (2020 Q1: 7,000 boepd). The sale is expected to close during the third quarter of 2021, subject to customary adjustments. 
+ The following is an update of significant Midstream activities during the first quarter of 2021: 
+ In March 2021, the Corporation received net proceeds of 70 million from the public offering of 3,450,000 Hess-owned Class A shares of Hess Midstream LP. After giving effect to this transaction, the Corporation owns an approximate 46 interest in Hess Midstream LP, on a consolidated basis. 
+ Consolidated Results of Operations 
+ The after-tax income (loss) by major operating activity is summarized below: 
+ Three Months Ended March 31, 2021 2020 (In millions, except per share amounts) Net Income (Loss) Attributable to Hess Corporation: Exploration and Production 308 (2,371) Midstream 75 61 Corporate, Interest and Other (131) (123) Total 252 (2,433) Net Income (Loss) Attributable to Hess Corporation Per Common Share: Basic 0.82 (8.00) Diluted 0.82 (8.00) 
+ 18 
+
+PART I - FINANCIAL INFORMATION (CONT'D.) 
+
+ Consolidated Results of Operations (continued) 
+ Items Affecting Comparability of Earnings Between Periods 
+ The following table summarizes, on an after-tax basis, items of income (expense) that are included in net income (loss) and affect comparability of earnings between periods: 
+ Three Months Ended March 31, 2021 2020 (In millions) Items Affecting Comparability of Earnings Between Periods, After-Tax: Exploration and Production (2,251) Midstream Corporate, Interest and Other Total (2,251) 
+ The items in the table above are explained on page 24. 
+ Reconciliations of GAAP and non-GAAP measures 
+ The following table reconciles reported net income (loss) attributable to Hess Corporation and adjusted net income (loss) attributable to Hess Corporation: 
+ Three Months Ended March 31, 2021 2020 (In millions) Adjusted Net Income (Loss) Attributable to Hess Corporation: Net income (loss) attributable to Hess Corporation 252 (2,433) Less: Total items affecting comparability of earnings between periods, after-tax (2,251) Adjusted Net Income (Loss) Attributable to Hess Corporation 252 (182) 
+ The following table reconciles reported net cash provided by (used in) operating activities and cash provided by (used in) operating activities before changes in operating assets and liabilities: 
+ Three Months Ended March 31, 2021 2020 (In millions) Net cash provided by operating activities before changes in operating assets and liabilities: Net cash provided by (used in) operating activities 591 445 Changes in operating assets and liabilities 224 57 Net cash provided by (used in) operating activities before changes in operating assets and liabilities 815 502 
+ Adjusted net income (loss) attributable to Hess Corporation is a non-GAAP financial measure, which we define as reported net income (loss) attributable to Hess Corporation excluding items identified as affecting comparability of earnings between periods, which are summarized on page 24. Management uses adjusted net income (loss) to evaluate the Corporation s operating performance and believes that investors understanding of our performance is enhanced by disclosing this measure, which excludes certain items that management believes are not directly related to ongoing operations and are not indicative of future business trends and operations. 
+ Net cash provided by (used in) operating activities before changes in operating assets and liabilities presented in this report is a non-GAAP measure, which we define as reported net cash provided by (used in) operating activities excluding changes in operating assets and liabilities. Management uses net cash provided by (used in) operating activities before changes in operating assets and liabilities to evaluate the Corporation s ability to internally fund capital expenditures, pay dividends and service debt and believes that investors understanding of our ability to generate cash to fund these items is enhanced by disclosing this measure, which excludes working capital and other movements that may distort assessment of our performance between periods. 
+ These measures are not, and should not be viewed as, substitutes for U.S. GAAP net income (loss) and net cash provided by (used in) operating activities. 
+ 19 
+
+PART I - FINANCIAL INFORMATION (CONT'D.) 
+
+ Consolidated Results of Operations (continued) 
+ In the following discussion and elsewhere in this report, the financial effects of certain transactions are disclosed on an after-tax basis. Management reviews segment earnings on an after-tax basis and uses after-tax amounts in its review of variances in segment earnings. Management believes that after-tax amounts are a preferable method of explaining variances in earnings, since they show the entire effect of a transaction rather than only the pre-tax amount. After-tax amounts are determined by applying the income tax rate in each tax jurisdiction to pre-tax amounts. 
+ Comparison of Results 
+ Exploration and Production 
+ Following is a summarized income statement of our E P operations: 
+ Three Months Ended March 31, 2021 2020 (In millions) Revenues and Non-Operating Income Sales and other operating revenues 1,898 1,354 Other, net 16 8 Total revenues and non-operating income 1,914 1,362 Costs and Expenses Marketing, including purchased oil and gas 542 425 Operating costs and expenses 208 214 Production and severance taxes 37 42 Midstream tariffs 262 241 Exploration expenses, including dry holes and lease impairment 33 189 General and administrative expenses 49 52 Depreciation, depletion and amortization 355 521 Impairment 2,126 Total costs and expenses 1,486 3,810 Results of Operations Before Income Taxes 428 (2,448) Provision (benefit) for income taxes 120 (77) Net Income (Loss) Attributable to Hess Corporation 308 (2,371) 
+ Excluding the E P items affecting comparability of earnings between periods detailed on page 24, the changes in E P results are primarily attributable to changes in selling prices, production and sales volumes, marketing expenses, cash operating costs, Midstream tariffs, depreciation, depletion and amortization (DD A), exploration expenses and income taxes, as discussed below. 
+ 
+ 20 
+
+PART I - FINANCIAL INFORMATION (CONT'D.) 
+
+ Consolidated Results of Operations (continued) 
+ Selling Prices: Higher realized selling prices in the first quarter of 2021, increased after-tax results by approximately 270 million, compared to the same period in 2020. Average selling prices were as follows: 
+ Three Months Ended March 31, 2021 2020 Average Selling Prices (a) Crude Oil Per Barrel (Including Hedging) United States North Dakota (b) 44.97 44.05 Offshore 53.03 49.33 Total United States 46.73 45.63 Guyana 60.37 43.26 Malaysia and JDA 63.27 51.24 Other (c) 57.66 55.60 Worldwide 50.02 45.94 Crude Oil Per Barrel (Excluding Hedging) United States North Dakota (b) 47.62 40.54 Offshore 56.53 45.65 Total United States 49.56 42.07 Guyana 61.85 36.79 Malaysia and JDA 63.27 51.24 Other (c) 59.61 49.14 Worldwide 52.52 42.08 Natural Gas Liquids Per Barrel United States North Dakota 30.32 9.31 Offshore 21.25 9.39 Worldwide 29.49 9.32 Natural Gas Per Mcf United States North Dakota 5.93 1.28 Offshore 2.95 1.32 Total United States 4.78 1.30 Malaysia and JDA 5.04 4.71 Other (c) 2.69 4.26 Worldwide 4.90 3.16 
+ (a) Selling prices in the United States are adjusted for certain processing and distribution fees included in Marketing expenses. Excluding these fees worldwide selling prices for the first quarter of 2021 would be 56.54 (2020 Q1: 49.44) per barrel for crude oil (including hedging), 59.04 (2020 Q1: 45.58) per barrel for crude oil (excluding hedging), 29.73 (2020 Q1: 9.52) per barrel for NGLs and 5.02 (2020 Q1: 3.26) per mcf for natural gas. 
+ (b) Excluding the two VLCC cargo sales totaling 4.2 million barrels, the first quarter 2021 North Dakota crude oil price excluding hedging was 53.30 per barrel and 49.73 per barrel including hedging. 
+ (c) Other includes our interests in Denmark and Libya. 
+ Crude oil hedging activities were a net loss of 51 million before and after income taxes in the first quarter of 2021, and a net gain of 64 million before and after income taxes in the first quarter of 2020. 
+ As of March 31, 2021, we have WTI put options with an average monthly floor price of 55 per barrel for 120,000 bopd, and Brent put options with an average monthly floor price of 60 per barrel for 30,000 bopd for the remainder of the year. We expect noncash put option premium amortization, which will be reflected in realized selling prices, to reduce our second quarter results by 64 million and our full year 2021 results by approximately 245 million. 
+ 
+ 21 
+
+PART I - FINANCIAL INFORMATION (CONT'D.) 
+
+ Consolidated Results of Operations (continued) 
+ Production Volumes: Our daily worldwide net production was as follows: 
+ Three Months Ended March 31, 2021 2020 (In thousands) Crude Oil Barrels United States North Dakota 84 114 Offshore 36 48 Total United States 120 162 Guyana 31 15 Malaysia and JDA 4 4 Other (a) 22 10 Total 177 191 Natural Gas Liquids Barrels United States North Dakota 49 49 Offshore 4 7 Total United States 53 56 Natural Gas Mcf United States North Dakota 151 162 Offshore 95 113 Total United States 246 275 Malaysia and JDA 360 325 Other (a) 11 11 Total 617 611 Barrels of Oil Equivalent (b) 333 349 Crude oil and natural gas liquids as a share of total production 69 71 
+ (a) Other includes our interest in Denmark and Libya. Net production from Libya was 18,000 boepd in the first quarter of 2021 compared with 5,000 boepd in the first quarter of 2020. Net production form Denmark was 6,000 boepd in the first quarter of 2021, compared with 7,000 boepd in the first quarter of 2020. 
+ (b) Reflects natural gas production converted based on relative energy content (six mcf equals one barrel). Barrel of oil equivalence does not necessarily result in price equivalence as the equivalent price of natural gas on a barrel of oil equivalent basis has been substantially lower than the corresponding price for crude oil over the recent past. In addition, NGLs do not sell at prices equivalent to crude oil. See the average selling prices in the table on page 21. 
+ We forecast net production, excluding Libya, to be in the range of 290,000 boepd and 295,000 boepd for the second quarter and for the full year 2021. 
+ United States: North Dakota net production was lower in the first quarter of 2021, compared to the corresponding period in 2020, primarily due to reduced drilling activity, lower NGL and natural gas volumes received under percentage of proceeds contracts due to higher NGL prices, and the impact of adverse winter weather. Total offshore net production was lower in the first quarter of 2021, compared to the corresponding period in 2020, primarily due to the sale of our working interest in the Shenzi Field in the deepwater Gulf of Mexico in the fourth quarter of 2020 and natural field decline. Net production from the Shenzi Field was 12,000 boepd in the first quarter of 2020. 
+ International: Net oil production in Guyana was higher in the first quarter of 2021, compared to the corresponding period in 2020, due to the production ramp up from the Liza Phase 1 development. Net oil production in Libya was higher in the first quarter of 2021 due to the lifting of force majeure in October 2020 and net natural gas production was higher at Malaysia and JDA reflecting higher natural gas nominations due to a recovery in economic activity. 
+
+22 
+
+PART I - FINANCIAL INFORMATION (CONT'D.) 
+
+ Consolidated Results of Operations (continued) 
+ Sales Volumes: Worldwide sales volumes from Hess net production, which excludes sales volumes of crude oil, NGLs and natural gas purchased from third parties, were as follows: 
+ Three Months Ended March 31, 2021 2020 (In thousands) Crude oil barrels (a) 20,395 16,052 Natural gas liquids barrels 4,802 5,097 Natural gas mcf 55,513 55,620 Barrels of Oil Equivalent (b) 34,449 30,419 Crude oil barrels per day 227 176 Natural gas liquids barrels per day 53 56 Natural gas mcf per day 617 611 Barrels of Oil Equivalent Per Day (b) 383 334 
+ (a) Sales volumes for the first quarter of 2021 include 4.2 million barrels that were stored on VLCCs at December 31, 2020. 
+ (b) Reflects natural gas production converted based on relative energy content (six mcf equals one barrel). Barrel of oil equivalence does not necessarily result in price equivalence as the equivalent price of natural gas on a barrel of oil equivalent basis has been substantially lower than the corresponding price for crude oil over the recent past. In addition, NGLs do not sell at prices equivalent to crude oil. See the average selling prices in the table on page 21. 
+ Marketing, including Purchased Oil and Gas: Marketing expense is mainly comprised of costs to purchase crude oil, NGL and natural gas from our partners in Hess operated wells or other third parties, primarily in the U.S., and transportation and other distribution costs for U.S. marketing activities. Marketing expense was higher in the first quarter of 2021, compared with the corresponding period in 2020, primarily due to higher benchmark crude oil prices on purchased volumes and the inclusion of 173 million for the cost of the 4.2 million barrels of crude oil on VLCCs sold in the quarter. 
+ Cash Operating Costs: Cash operating costs consist of operating costs and expenses, production and severance taxes and E P general and administrative expenses. Cash operating costs decreased approximately five percent in the first quarter of 2021, compared with the first quarter of 2020, but were slightly higher on a per-unit basis in the first quarter of 2021, compared with the corresponding period in 2020, primarily due to the impact of lower production volumes. 
+ Midstream Tariffs Expense: Tariffs expense increased in the first quarter of 2021, compared with the corresponding period in 2020, primarily due to higher minimum volume commitments and tariff rates. We estimate Midstream tariffs expense to be in the range of 260 million and 270 million in the second quarter of 2021 and in the range of 1,090 million and 1,115 million for the full year 2021. 
+ Depreciation, Depletion and Amortization (DD A): DD A expense and per unit rates were lower in the first quarter of 2021, compared with the prior-year period due to the impact of first quarter 2020 impairment charges and year-end 2020 revisions and additions to proved reserves. Lower first quarter 2021 production volumes also contributed to the decline in DD A expense compared to the first quarter of 2020. 
+ Unit Costs: Unit cost per boe information is based on total net production volumes. Actual and forecast unit costs per boe are as follows: 
+ Actual Forecast Range (a) Three Months Ended March 31, Three Months Ended June 30, Twelve Months Ended December 31, 2021 2020 2021 2021 Cash operating costs (b) 9.81 9.70 12.00 13.00 11.00 12.00 DD A (c) 11.83 16.44 11.50 12.50 12.00 13.00 Total Production Unit Costs 21.64 26.14 23.50 25.50 23.00 25.00 
+ (a) Forecast information excludes any contribution from Libya. 
+ (b) Cash operating costs per boe, excluding Libya, were 10.21 in the first quarter of 2021, compared with 9.61 in the first quarter of 2020. 
+ (c) DD A per boe, excluding Libya, was 12.36 in the first quarter of 2021, compared with 16.64 in the first quarter of 2020. 
+ 23 
+
+PART I - FINANCIAL INFORMATION (CONT'D.) 
+
+ Consolidated Results of Operations (continued) 
+ Exploration Expenses: Exploration expenses were as follows: 
+ Three Months Ended March 31, 2021 2020 (In millions) Exploratory dry hole costs (a) 135 Exploration lease and other impairment (b) 4 32 Geological and geophysical expense and exploration overhead 29 22 Total Exploration Expense 33 189 
+ (a) First quarter 2020 primarily relates to previously capitalized exploratory well costs (see Items Affecting Comparability of Earnings Between Periods below) and the Oldfield-1 exploration well in the Gulf of Mexico. 
+ (b) First quarter 2020 includes impaired leasehold costs due to a reprioritization of the Corporation s forward capital program. 
+ Exploration expenses, excluding dry hole expense, are estimated to be in the range of 40 million to 45 million in the second quarter of 2021 and in the range of 170 million to 180 million for the full year 2021. 
+ Income Taxes: The increase in income tax expense in the first quarter of 2021, compared to the corresponding period in 2020, is primarily due to higher pre-tax income in Guyana and Libya. Excluding items affecting comparability of earnings between periods and Libyan operations, E P income tax expense in the first quarter of 2021 was 40 million, compared with 9 million in the first quarter of 2020. Excluding items affecting comparability of earnings between periods and Libyan operations, E P income tax expense is expected in the range of 25 million to 30 million for the second quarter of 2021 and 105 million to 115 million for the full year 2021. 
+ Items Affecting Comparability of Earnings Between Periods: 
+ The following table summarizes, on an after-tax basis, income (expense) items affecting comparability of E P earnings between periods: 
+ Three Months Ended March 31, Pre-Tax After-Tax 2021 2020 2021 2020 (In millions) Impairment (2,126) (2,049) Dry hole, lease impairment and other exploration expenses (152) (150) Crude oil inventories write-down (53) (52) (2,331) (2,251) 
+ Impairment: In the first quarter of 2020, we recorded noncash impairment charges totaling 2.1 billion 2.0 billion after income taxes) related to our oil and gas properties at North Malay Basin in Malaysia, the South Arne Field in Denmark, and the Stampede Field and the Tubular Bells Field in the Gulf of Mexico, primarily as a result of a lower long-term crude oil price outlook. Other charges totaling 21 million pre-tax 20 million after income taxes) related to drilling rig right-of-use assets in the Bakken and surplus materials and supplies. See Note 7, Impairment in the Notes to Consolidated Financial Statements . 
+ Dry hole, lease impairment and other exploration expenses: In the first quarter of 2020, we incurred pre-tax charges totaling 152 million 150 million after income taxes), primarily related to the write-off of previously capitalized exploratory wells in the Gulf of Mexico and to impair certain exploration leasehold costs. 
+ Crude oil inventories write-down: In the first quarter of 2020, we incurred a pre-tax charge of 53 million 52 million after income taxes) to reduce crude oil inventories to their net realizable value. 
+ 24 
+
+PART I - FINANCIAL INFORMATION (CONT'D.) 
+
+ Consolidated Results of Operations (continued) 
+ Midstream 
+ Following is a summarized income statement for our Midstream operations: 
+ Three Months Ended March 31, 2021 2020 (In millions) Revenues and Non-Operating Income Sales and other operating revenues 289 291 Other, net 3 2 Total revenues and non-operating income 292 293 Costs and Expenses Operating costs and expenses 60 92 General and administrative expenses 7 8 Interest expense 23 25 Depreciation, depletion and amortization 40 38 Total costs and expenses 130 163 Results of Operations Before Income Taxes 162 130 Provision (benefit) for income taxes 3 2 Net Income (Loss) 159 128 Less: Net income (loss) attributable to noncontrolling interests 84 67 Net Income (Loss) Attributable to Hess Corporation 75 61 
+ Sales and other operating revenues were lower in the first quarter of 2021, compared to the corresponding period in 2020, primarily due to lower pass-through rail transportation revenue partially offset by higher minimum volume commitments and tariff rates. Operating costs and expenses for the first quarter of 2021 decreased, compared to the corresponding period in 2020, primarily due to lower pass-through transportation costs. 
+ Excluding items affecting comparability of earnings, net income attributable to Hess Corporation from the Midstream segment is estimated to be in the range of 60 million to 70 million in the second quarter of 2021 and in the range of 280 million and 290 million for the full year 2021. 
+ Corporate, Interest and Other 
+ The following table summarizes Corporate, Interest and Other expenses: 
+ Three Months Ended March 31, 2021 2020 (In millions) Corporate and other expenses 37 39 Interest expense 94 88 Corporate, Interest and Other expenses before income taxes 131 127 Provision (benefit) for income taxes (4) Total Corporate, Interest and Other Expenses After Income Taxes 131 123 
+ Corporate and other expenses in the first quarter of 2021, were comparable to the corresponding period in 2020. Interest expense, net was higher in the first quarter of 2021, compared to the corresponding period in 2020, due to interest incurred on the 1.0 billion three year term loan entered into in March 2020. 
+ Second quarter 2021 corporate expenses are expected to be in the range of 30 million to 35 million, and interest expense is expected to be in the range of 95 million to 100 million. We estimate corporate expenses for full year 2021 to be in the range of 130 million to 140 million, and interest expense to be in the range of 380 million to 390 million. 
+
+25 
+
+PART I - FINANCIAL INFORMATION (CONT'D.) 
+
+ Consolidated Results of Operations (continued) 
+ Other Items Potentially Affecting Future Results: 
+ Our future results may be impacted by a variety of factors, including but not limited to, volatility in the selling prices of crude oil, NGLs and natural gas, reserve and production changes, asset sales, impairment charges and exploration expenses, industry cost inflation and/or deflation, changes in foreign exchange rates and income tax rates, changes in deferred tax asset valuation allowances, the effects of weather, crude oil storage capacity, political risk, environmental risk and catastrophic risk, including risks associated with COVID-19. For a more comprehensive description of the risks that may affect our business, see Item 1A. Risk Factors in our Annual Report on Form 10-K for the year ended December 31, 2020. 
+ Liquidity and Capital Resources 
+ The following table sets forth certain relevant measures of our liquidity and capital resources: 
+ March 31, 2021 December 31, 2020 (In millions, except ratio) Cash and cash equivalents (a) 1,866 1,739 Current maturities of long-term debt 13 10 Total debt (b) 8,286 8,296 Total equity 6,643 6,335 Debt to capitalization ratio (c) 46.6 47.5 
+ (a) Includes 4 million of cash attributable to our Midstream segment at March 31, 2021 (December 31, 2020: 4 million) of which, 2 million is held by Hess Midstream LP at March 31, 2021 (December 31, 2020: 3 million). 
+ (b) At March 31, 2021, includes 1,899 million of debt outstanding from our Midstream segment (December 31, 2020: 1,910 million) that is non-recourse to Hess Corporation. 
+ (c) Total Consolidated Debt of Hess Corporation (including finance leases and excluding Midstream non-recourse debt) as a percentage of Total Capitalization of Hess Corporation as defined under Hess Corporation's term loan and revolving credit facility financial covenants. Total Capitalization excludes the impact of noncash impairment charges and non-controlling interests. 
+ Cash Flows 
+ The following table summarizes our cash flows: 
+ Three Months Ended March 31, 2021 2020 (In millions) Net cash provided by (used in): Operating activities 591 445 Investing activities (385) (818) Financing activities (79) 908 Net Increase (Decrease) in Cash and Cash Equivalents 127 535 
+ Operating activities: Net cash provided by operating activities was 591 million in the first quarter of 2021, compared to 445 million in the first quarter of 2020. The increase in 2021 operating cash flows primarily reflects higher realized selling prices and the sale of 4.2 million barrels of Bakken crude oil loaded on two VLCCs in the first quarter of 2021. Changes in operating assets and liabilities was a use of cash of 224 million in the first quarter of 2021, and a use of cash of 57 million in the first quarter of 2020. Changes in operating assets and liabilities in 2021 were primarily due to an increase in accounts receivable and a reduction in accounts payable. 
+ Investing activities: Additions to property, plant and equipment of 385 million in the first quarter of 2021 were down 433 million compared with the corresponding period in 2020. The decrease primarily reflects reduced drilling activity. 
+ 26 
+
+PART I - FINANCIAL INFORMATION (CONT'D.) 
+
+ Liquidity and Capital Resources (continued) 
+ The following table reconciles capital expenditures incurred on an accrual basis to Additions to property, plant and equipment: 
+ Three Months Ended March 31, 2021 2020 (In millions) Additions to property, plant and equipment - E P: Capital expenditures incurred - E P (280) (609) Increase (decrease) in related liabilities (78) (131) Additions to property, plant and equipment - E P (358) (740) Additions to property, plant and equipment - Midstream: Capital expenditures incurred - Midstream (23) (57) Increase (decrease) in related liabilities (4) (21) Additions to property, plant and equipment - Midstream (27) (78) 
+ Financing activities: Hess Midstream repaid a net total of 10 million from its revolving credit facilities in the first quarter of 2021 and borrowed a net total of 60 million in the first quarter of 2020. Borrowings in the first quarter of 2020 also included our 1.0 billion three year term loan. We paid common stock dividends totaling 80 million in the first quarter of 2021, compared to 81 million in the first quarter of 2020. In addition, net cash outflows to noncontrolling interests were 67 million in the first quarter of 2021 and 63 million in the first quarter of 2020. In the first quarter of 2021, we received net proceeds of 70 million from the public offering of 3,450,000 Hess-owned Class A shares in Hess Midstream LP. 
+ Future Capital Requirements and Resources 
+ At March 31, 2021, we had 1.86 billion in cash and cash equivalents, excluding Midstream, and total liquidity of approximately 5.5 billion. On April 13, 2021, we amended the Corporation's fully undrawn 3.5 billion revolving credit facility by extending the facility's expiration date for one year to May 2024. Oil and gas production in 2021, excluding Libya, is forecast to be in the range of 290,000 boepd to 295,000 boepd. For the remainder of 2021, we have hedged 120,000 bopd with 55 WTI put options and 30,000 bopd with 60 Brent put options. 
+ On April 30, 2021, we completed the sale of our previously announced Little Knife and Murphy Creek nonstrategic acreage interests in the Bakken for total consideration of 312 million, with an effective date of March 1, 2021, and expect to receive proceeds in the third quarter of 2021 from the sale of our interests in Denmark for total consideration of 150 million, with an effective date of January 1, 2021. 
+ Net cash provided by operating activities was 591 million in the first quarter of 2021, compared with 445 million in the first quarter of 2020. Net cash provided by operating activities before changes in operating assets and liabilities was 815 million in the first quarter of 2021 and 502 million in the first quarter of 2020. Capital expenditures were 303 million in the first quarter of 2021 and 666 million in the first quarter of 2020. In 2021, based on current forward strip crude oil prices, we expect cash flow from operating activities, expected proceeds from asset sales, and cash and cash equivalents at March 31, 2021 will be sufficient to fund our capital investment program and dividends. We may take any of the following steps, or a combination thereof, to improve our liquidity and financial position: reduce the planned capital program and other cash outlays, including dividends, pursue asset sales, borrow against our committed revolving credit facility, or issue debt or equity securities. 
+ 27 
+
+PART I - FINANCIAL INFORMATION (CONT'D.) 
+
+ Liquidity and Capital Resources (continued) 
+ The table below summarizes the capacity, usage, and available capacity for borrowings and letters of credit under committed and uncommitted credit facilities at March 31, 2021: 
+ Expiration Date Capacity Borrowings Letters of Credit Issued Total Used Available Capacity (In millions) Hess Corporation Revolving credit facility May, 2023 3,500 3,500 Committed lines Various (a) 175 54 54 121 Uncommitted lines Various (a) 229 229 229 Total - Hess Corporation 3,904 283 283 3,621 Midstream Revolving credit facility (b) December, 2024 1,000 174 174 826 Total - Midstream 1,000 174 174 826 
+ (a) Committed and uncommitted lines have expiration dates through 2021. 
+ (b) This credit facility may only be utilized by HESM Opco and is non-recourse to Hess Corporation. 
+ Hess Corporation: 
+ On April 13, 2021, we amended the Corporation's fully undrawn 3.5 billion revolving credit facility that had an expiration date in May 2023, by extending the facility for one year to May 2024 and incorporating customary provisions for the eventual replacement of LIBOR, among other changes as set forth in the amended credit agreement. This facility can be used for borrowings and letters of credit. Borrowings on the facility will generally bear interest at 1.40 above LIBOR, though the interest rate is subject to adjustment if the Corporation s credit rating changes. At March 31, 2021, Hess Corporation had no outstanding borrowings or letters of credit under its revolving credit facility. 
+ In March 2020, we entered into a 1 billion three year term loan agreement with a maturity date of March 16, 2023. Borrowings under the term loan generally bear interest at LIBOR plus an applicable margin of 2.25 until the term loan's first anniversary. The applicable margin varies based on the credit rating of the Corporation s senior unsecured long-term debt and will increase by 0.25 on each anniversary of the term loan. 
+ The revolving credit facility, including as amended, and term loan are subject to customary representations, warranties, customary events of default and covenants, including a financial covenant limiting the ratio of Total Consolidated Debt to Total Capitalization of the Corporation and its consolidated subsidiaries to 65 , and a financial covenant limiting the ratio of secured debt to Consolidated Net Tangible Assets of the Corporation and its consolidated subsidiaries to 15 (as these capitalized terms are defined in the credit agreement for the revolving credit facility and the term loan agreement). The indentures for the Corporation's fixed-rate public notes limit the ratio of secured debt to Consolidated Net Tangible Assets (as that term is defined in the indentures) to 15 . At March 31, 2021, Hess Corporation was in compliance with these financial covenants. 
+ Two of the three major credit rating agencies that rate our debt have assigned an investment grade rating. In March 2021, Standard and Poor s Ratings Services affirmed our credit rating at BBB- and revised the outlook to stable (from negative). Fitch Ratings affirmed a BBB- credit rating and stable outlook in August 2020 and Moody s Investors Service affirmed our credit rating at Ba1 with stable outlook, which is below investment grade, in March 2020. 
+ We have a shelf registration under which we may issue additional debt securities, warrants, common stock or preferred stock. 
+ Midstream: 
+ At March 31, 2021, Hess Midstream Operations LP (formerly Hess Midstream Partners LP, or HESM Opco), a consolidated subsidiary of Hess Midstream LP, had 1.4 billion of senior secured syndicated credit facilities maturing December 16, 2024, consisting of a 1.0 billion 5-year revolving credit facility and a fully drawn 400 million 5-year term loan A facility. The revolving credit facility can be used for borrowings and letters of credit to fund HESM Opco s operating activities, capital expenditures, distributions and for other general corporate purposes. Borrowings under the five year term loan A facility will generally bear interest at LIBOR plus an applicable margin ranging from 1.55 to 2.50 , while the applicable margin for the five year syndicated revolving credit facility ranges from 1.275 to 2.000 . Pricing levels for the facility fee and interest-rate margins are based on HESM Opco s ratio of total debt to EBITDA (as defined in the credit facilities). If HESM Opco obtains an investment grade credit rating, the pricing levels will be based on HESM Opco s credit ratings in effect from time to time. The credit facilities contain covenants that require 
+ 28 
+
+PART I - FINANCIAL INFORMATION (CONT'D.) 
+
+ Liquidity and Capital Resources (continued) 
+ HESM Opco to maintain a ratio of total debt to EBITDA (as defined in the credit facilities) for the prior four fiscal quarters of not greater than 5.00 to 1.00 as of the last day of each fiscal quarter (5.50 to 1.00 during the specified period following certain acquisitions) and, prior to HESM Opco obtaining an investment grade credit rating, a ratio of secured debt to EBITDA for the prior four fiscal quarters of not greater than 4.00 to 1.00 as of the last day of each fiscal quarter. HESM Opco was in compliance with these financial covenants at March 31, 2021. The credit facilities are secured by first-priority perfected liens on substantially all the presently owned and after-acquired assets of HESM Opco and its direct and indirect wholly owned material domestic subsidiaries, including equity interests directly owned by such entities, subject to certain customary exclusions. At March 31, 2021, borrowings of 174 million were drawn under HESM Opco s revolving credit facility, and borrowings of 398 million, excluding deferred issuance costs, were drawn under HESM Opco s term loan A facility. Borrowings under these credit facilities are non-recourse to Hess Corporation. 
+ Market Risk Disclosures 
+ We are exposed in the normal course of business to commodity risks related to changes in the prices of crude oil and natural gas, as well as changes in interest rates and foreign currency values . See Note 12, Financial Risk Management Activities , in the Notes to Consolidated Financial Statements . 
+ We have outstanding foreign exchange contracts with notional amounts totaling 121 million at March 31, 2021 that are used to reduce our exposure to fluctuating foreign exchange rates for various currencies. A 10 strengthening or weakening in the U.S. Dollar exchange rate is estimated to be a loss or gain of less than 5 million, respectively, at March 31, 2021. 
+ At March 31, 2021, our total long-term debt, which was substantially comprised of fixed-rate instruments, had a carrying value of 8,286 million and a fair value of 9,381 million. A 15 increase or decrease in interest rates would decrease or increase the fair value of debt by approximately 405 million or 420 million, respectively. Any changes in interest rates do not impact our cash outflows associated with fixed-rate interest payments or settlement of debt principal, unless a debt instrument is repurchased prior to maturity. 
+ At March 31, 2021, we have outstanding WTI and Brent crude oil put option contracts. As of March 31, 2021, an assumed 10 increase in the forward WTI and Brent crude oil prices would reduce the fair value of these derivative instruments by approximately 50 million, while an assumed 10 decrease in the same crude oil prices would increase the fair value of these derivative instruments by approximately 110 million. 
+ 
+ 29 
+
+PART I - FINANCIAL INFORMATION (CONT'D.) 
+
+ Cautionary Note Regarding Forward-Looking Statements 
+ This Quarterly Report on Form 10-Q, including information incorporated by reference herein, contains forward-looking statements within the meaning of Section 27A of the Securities Act of 1933, as amended, and Section 21E of the Securities Exchange Act of 1934, as amended. Words such as anticipate, estimate, expect, forecast, guidance, could, may, should, would, believe, intend, project, plan, predict, will, target and similar expressions identify forward-looking statements, which are not historical in nature. Our forward-looking statements may include, without limitation: our future financial and operational results; our business strategy; estimates of our crude oil and natural gas reserves and levels of production; benchmark prices of crude oil, NGL and natural gas and our associated realized price differentials; our projected budget and capital and exploratory expenditures; expected timing and completion of our development projects and proposed asset sale; and future economic and market conditions in the oil and gas industry. 
+ Forward-looking statements are based on our current understanding, assessments, estimates and projections of relevant factors and reasonable assumptions about the future. Forward-looking statements are subject to certain known and unknown risks and uncertainties that could cause actual results to differ materially from our historical experience and our current projections or expectations of future results expressed or implied by these forward-looking statements. The following important factors could cause actual results to differ materially from those in our forward-looking statements: 
+ fluctuations in market prices of crude oil, NGL and natural gas and competition in the oil and gas exploration and production industry, including as a result of COVID-19; 
+ reduced demand for our products, including due to COVID-19 or the outbreak of any other public health threat, or due to the impact of competing or alternative energy products and political conditions and events; 
+ potential failures or delays in increasing oil and gas reserves, including as a result of unsuccessful exploration activity, drilling risks and unforeseen reservoir conditions, and in achieving expected production levels; 
+ changes in tax, property, contract and other laws, regulations and governmental actions applicable to our business, including legislative and regulatory initiatives regarding environmental concerns, such as measures to limit greenhouse gas emissions and flaring as well as fracking bans; 
+ disruption or interruption of our operations due to catastrophic events, such as accidents, severe weather, geological events, shortages of skilled labor, cyber-attacks or health measures related to COVID-19; 
+ the ability of our contractual counterparties to satisfy their obligations to us, including the operation of joint ventures under which we may not control; 
+ the ability to satisfy the closing conditions of the proposed asset sale; 
+ unexpected changes in technical requirements for constructing, modifying or operating exploration and production facilities and/or the inability to timely obtain or maintain necessary permits; 
+ availability and costs of employees and other personnel, drilling rigs, equipment, supplies and other required services; 
+ any limitations on our access to capital or increase in our cost of capital, including as a result of weakness in the oil and gas industry or negative outcomes within commodity and financial markets; 
+ liability resulting from litigation, including heightened risks associated with being a general partner of Hess Midstream LP; and 
+ other factors described in Item 1A. Risk Factors in our Annual Report on Form 10-K for the year ended December 31, 2020 as well as any additional risks described in our other filings with the SEC. 
+ As and when made, we believe that our forward-looking statements are reasonable. However, given these risks and uncertainties, caution should be taken not to place undue reliance on any such forward-looking statements since such statements speak only as of the date when made and there can be no assurance that such forward-looking statements will occur and actual results may differ materially from those contained in any forward-looking statement we make. Except as required by law, we undertake no obligation to publicly update or revise any forward-looking statements, whether because of new information, future events or otherwise. 
+ 
+ 30 
+
+PART I - FINANCIAL INFORMATION (CONT'D.) 
+
+Item 3. Quantitative and Qualitative Disclosures about Market Risk. 
+ The information required by this item is presented under Item 2, Management s Discussion and Analysis of Financial Condition and Results of Operations Market Risk Disclosures. 
+ 
+ Item 4. Controls and Procedures. 
+ Based upon their evaluation of the Corporation s disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) as of March 31, 2021, John B. Hess, Chief Executive Officer, and John P. Rielly, Chief Financial Officer, concluded that these disclosure controls and procedures were effective as of March 31, 2021. 
+ There was no change in internal control over financial reporting identified in connection with the evaluation required by paragraph (d) of Rules 13a-15 or 15d-15 in the quarter ended March 31, 2021 that has materially affected, or is reasonably likely to materially affect, internal control over financial reporting. 
+ 31 
+
+PART II OTHER INFORMATION 
+ 
+ Item 1. Legal Proceedings. 
+ Information regarding legal proceedings is contained in Note 10, Guarantees and Contingencies in the Notes to Consolidated Financial Statements and is incorporated herein by reference. 
+ 32 
+
+PART II OTHER INFORMATION (CONT'D) 
+ Item 6. Exhibits. 
+ Exhibits 4(1) 
+ Extension and Amendment Agreement, dated as of April 13, 2021, among Hess Corporation, the subsidiary party thereto, the lenders party thereto, and JPMorgan Chase Bank, N.A., as administrative agent incorporated by reference to Exhibit 10(1) of Form 8-K of the Registrant, filed on April 13, 2021. 
+ 10(1) 
+ Form of Performance Award Agreement for three-year period ending December 31, 2023 under the 2017 Long-Term Incentive Plan. 
+ 31(1) 
+ Certification required by Rule 13a-14(a) (17 CFR 240.13a-14(a)) or Rule 15d-14(a) (17 CFR 240.15d-14(a)). 
+ 31(2) 
+ Certification required by Rule 13a-14(a) (17 CFR 240.13a-14(a)) or Rule 15d-14(a) (17 CFR 240.15d-14(a)). 
+ 32(1) 
+ Certification required by Rule 13a-14(b) (17 CFR 240.13a-14(b)) or Rule 15d-14(b) (17 CFR 240.15d-14(b)) and Section 1350 of Chapter 63 of Title 18 of the United States Code (18 U.S.C. 1350). 
+ 32(2) 
+ Certification required by Rule 13a-14(b) (17 CFR 240.13a-14(b)) or Rule 15d-14(b) (17 CFR 240.15d-14(b)) and Section 1350 of Chapter 63 of Title 18 of the United States Code (18 U.S.C. 1350). 
+ 101(INS) Inline XBRL Instance Document- the instance document does not appear in the Interactive Data File because its XBRL tags are embedded within the Inline XBRL document. 101(SCH) Inline XBRL Taxonomy Extension Schema Document. 101(CAL) Inline XBRL Taxonomy Extension Calculation Linkbase Document. 101(LAB) Inline XBRL Taxonomy Extension Label Linkbase Document. 101(PRE) Inline XBRL Taxonomy Extension Presentation Linkbase Document. 101(DEF) Inline XBRL Taxonomy Extension Definition Linkbase Document. 104 The cover page from the Company s Quarterly Report on Form 10-Q for the quarter ended March 31, 2021, has been formatted in Inline XBRL. 
+ The exhibit relates to executive compensation plans and arrangements. 
+ 
+ 33 
+
+SIGNATURES 
+ Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized. 
+ 
+ HESS CORPORATION (REGISTRANT) By /s/ John B. Hess JOHN B. HESS CHIEF EXECUTIVE OFFICER By /s/ John P. Rielly JOHN P. RIELLY EXECUTIVE VICE PRESIDENT AND CHIEF FINANCIAL OFFICER 
+ 
+ Date: May 6, 2021 
+ 
+ 34 
+
+<EX-10.1>
+ 2
+ q12021exhibit101.htm
+ EX-10.1
+
+Document 
+ Exhibit 10(1) 
+
+ HESS CORPORATION 2017 LONG-TERM INCENTIVE PLAN 
+ Performance Award Agreement 
+ 
+ Participant FIRST NAME - LAST NAME Grant Date DATE Number of Performance Shares 
+ # OF PERFORMANCE SHARE UNITS 
+
+This PERFORMANCE AWARD AGREEMENT (this Agreement ), dated as of the Grant Date specified above, is entered into by and between HESS CORPORATION, a Delaware corporation (the Corporation ), and the Participant specified above, pursuant to the Shareholder Value Program under the Hess Corporation 2017 Long-Term Incentive Plan, as in effect and as amended from time to time (the Plan ). 
+ 
+ WHEREAS, it has been determined under the Plan that it would be in the best interests of the Corporation to grant the Performance Award provided for herein to the Participant as an inducement to remain in the employment of the Corporation (and or any Subsidiary), and as an incentive for improved performance toward corporate goals during such employment 
+ 
+ WHEREAS, pursuant to the provisions of the Plan, the Committee has authorized the grant to the Participant of a Performance Award in accordance with the terms and conditions of this Agreement and 
+ 
+ WHEREAS, the Participant and the Corporation desire to enter into this Agreement to evidence and confirm the grant of such Performance Award on the terms and conditions set forth herein. 
+ 
+ NOW, THEREFORE, in consideration of the mutual covenants and premises hereinafter set forth and for other good and valuable consideration, the parties hereto hereby mutually covenant and agree as follows. 
+ 
+ 1. Incorporation By Reference Document Receipt . This Agreement is subject in all respects to the terms and provisions of the Plan (including, without limitation, any amendments thereto adopted at any time and from time to time unless such amendments are expressly not intended to apply to the grant of the Performance Award hereunder), all of which terms and provisions are made a part of and incorporated in this Agreement as if each were expressly set forth mutatis mutandis herein. Any capitalized term not defined in this Agreement shall have the same meaning as is ascribed thereto under the Plan. The Participant hereby acknowledges receipt of a prospectus describing the Plan and the Awards thereunder and that he has read it carefully and fully understands its content. In the event of any conflict between the terms of this Agreement and the terms of the Plan, the terms of the Plan shall control. 
+
+2. Grant of Performance Award . Pursuant to the provisions of the Plan, the Corporation as of the date set forth above (the Grant Date has granted to the Participant, and hereby evidences the grant to the Participant of, subject to the terms and conditions set forth herein and in the Plan, a Performance Award consisting of the number of Performance Shares specified above. A Performance Share is an unfunded and unsecured obligation to deliver up to two Shares (or a portion thereof) or the cash equivalent thereof (determined in accordance with Section 3), subject to the terms and conditions of this Agreement and those of the Plan. References herein to Performance Shares are to the Performance Shares comprising such Performance Award granted pursuant to this Agreement. 
+ 
+ 3. Payment of Earned Performance Shares . Subject to the provisions of Section 5 and Section 6, after the end of the Performance Cycle described in Section 4(a), the Committee shall certify in writing on the date (the vesting date of its first regular meeting following the end of the Performance Cycle whether, and to what extent, the performance goal set forth in Section 4(b) has been achieved and determine and certify in writing the number of Performance Shares earned pursuant to Section 4. The number of such Performance Shares so earned shall be paid by the Corporation as soon as administratively practicable after the vesting date provided that in no event shall such payment be made later than March 15 of the calendar year that immediately follows the last day of the Performance Cycle. To the extent that the Performance Shares are not earned pursuant to Section 4, such Performance Shares shall be forfeited. Payments hereunder shall be made in Shares, unless the Committee, in its sole discretion, affirmatively determines that such payments shall be made in cash, or a combination of Shares and cash. If a cash payment is made in lieu of delivering Shares, the amount of such payment shall be equal to the Fair Market Value of such Shares as of the trading date immediately prior to the date of such payment, less applicable tax withholdings in accordance with Section 12.03 of the Plan. 
+ 
+ 4. Vesting Criteria Applicable to Performance Shares . 
+ 
+ (a) Performance Cycle . The Performance Cycle for the Performance Award granted pursuant to this Agreement shall commence on January 1, 2021, and shall end on December 31, 2023. 
+ 
+ (b) Performance Goal . The performance goal for the Performance Cycle is the total return per Share to the Corporation s shareholders, inclusive of dividends paid, during the Performance Cycle in comparison to the total return per share of common stock, inclusive of dividends paid, during the Performance Cycle achieved by the companies that are listed in Exhibit A attached hereto (the Comparison Companies as well as the S&P 500 Total Return Index (the S&P Total Return Index ), in each case as set forth in this Section 4(b). For purposes of this Agreement, such total shareholder return Total Shareholder Return for the Corporation and each of the Comparison Companies shall be measured by dividing (A) the sum of (1) the dividends paid (regardless of whether paid in cash or property) on the common stock of such company during the Performance Cycle, assuming reinvestment of such dividends in such stock (based on the closing price of such stock on the date such dividend is paid), plus (2) the average closing price of a share of such stock on the 
+ 2 
+
+principal United States exchange on which the stock trades for the 60 trading days immediately prior to and including the last day of the Performance Cycle (appropriately adjusted for any stock dividend, stock split, spin-off, merger or other similar corporate events)(the Ending Average Value minus the average closing price of a share of such company s common stock on the principal United States exchange on which the stock trades for the 60 trading days occurring immediately prior to the first day of the Performance Cycle (the Beginning Average Value ), by (B) the Beginning Average Value. For the avoidance of doubt, it is intended that the foregoing calculation of Total Shareholder Return for the Corporation and each of the Comparison Companies shall take into account not only the reinvestment of dividends in a share of common stock of the Corporation and any Comparison Company but also capital appreciation or depreciation in the shares deemed acquired by such reinvestment. For purposes of this Agreement, Total Shareholder Return for the S&P 500 Total Return Index shall be measured by dividing (A) the average closing price of a share of such index on the principal United States exchange on which the index trades for the 60 trading days immediately prior to and including the last day of the Performance Cycle, minus the average closing price of a share of such index on the principal United States exchange on which the index trades to the 60 trading days occurring immediately prior to the first day of the Performance Cycle (the S&P Beginning Average Value by (B) the S&P Beginning Average Value. The S&P 500 Total Return Index includes both the capital gains of its underlying securities but also assumes that all distributions, such as dividends are reinvested back into the index. All determinations under this Section 4 shall be made by the Committee. 
+ 
+ (c) Percentage of Performance Shares Earned . Except as provided in Section 6, the Performance Shares shall be earned based on where the Corporation s Total Shareholder Return during the Performance Cycle ranks in comparison to the Total Shareholder Returns of the Comparison Companies and the S&P Total Return Index during the Performance Cycle. As soon as practicable after the completion of the Performance Cycle, the Total Shareholder Returns of the Corporation, each of the Comparison Companies and the S&P Total Return Index shall be calculated and ranked from first to last (the TSR Ranking ). The extent to which Performance Shares shall become earned on the vesting date described in Section 3 shall be based on the TSR Ranking attained by the Corporation. The percentage of Performance Shares earned (the Percentage of Performance Shares Earned shall be the percentage set forth in the Percentage of Performance Shares Earned column of the schedule set forth in Exhibit B attached hereto that corresponds to the TSR Ranking attained by the Corporation set forth in the TSR Ranking column of such schedule. The number of Performance Shares earned shall be the product of the number of Performance Shares set forth in Section 2 multiplied by the Percentage of Performance Shares Earned. If at any time during the Performance Cycle, a Comparison Company is acquired, ceases to exist, ceases to be a publicly-traded company, files for bankruptcy, spins off 50 or more of its assets (except as otherwise provided in Exhibit A ), or sells all, or substantially all, of its assets, such Comparison Company shall be removed and treated as if it had never been a Comparison Company. The Total Shareholder Returns of the Corporation and the remaining Comparison Companies and the S&P Total Return Index shall be ranked from first to last, and the Percentage of Performance Shares Earned shall be determined as 
+ 3 
+
+described in this Section 4(c) based on the Corporation s TSR Ranking among the remaining Comparison Companies and S&P Total Return Index (i) to the extent the number of Comparison Companies and the S&P Total Return Index plus the Corporation is reduced to 12, 11, 10, 9 or 8, in accordance with the percentage corresponding to Corporation s TSR Ranking as set forth in Exhibit C-1, C-2, C-3, C-4 or C-5 attached hereto, respectively, and (ii) to the extent that the number of Comparison Companies and the Total Return Index plus the Corporation is reduced to fewer than 8, in accordance with the percentage corresponding to the Corporation s TSR Ranking as set forth in Exhibit C-5 , provided that (1) the Committee may use negative discretion to reduce the Percentage of Performance Shares Earned corresponding to such TSR Ranking of the Corporation such that the Percentage of Performance Shares Earned shall be as reasonably commensurate as possible with the Percentage of Performance Shares Earned that would have resulted if the number of Comparison Companies and the S&P Total Return Index plus the Corporation had been 8, using similar percentile hurdles as exist in Exhibit C-5 , with straight-line interpolation between points, and (2) if the Corporation ranks last among the remaining Comparison Companies and the S&P Total Return Index, the Percentage of Performance Shares Earned shall be 0 . Notwithstanding the foregoing provisions of this Section 4(c) to the contrary, if the Corporation s Total Shareholder Return during the Performance Cycle is negative, the Percentage of Performance Shares Earned shall not exceed 100 . 
+ 
+ 5. Termination of Employment . Except as provided in this Section 5, the Participant shall not have any right to any payment hereunder unless the Participant is employed by the Corporation or a Subsidiary on the vesting date pursuant to Section 3. 
+ 
+ (a) Death, Permanent Total Disability or Full Retirement . If (i) the Participant s employment with the Corporation or any Subsidiary terminates prior to the vesting date pursuant to Section 3 by reason of the Participant s death, permanent total disability or Full Retirement (as defined below), the Participant shall be entitled to receive the same payment, if any (without pro-ration), in respect of the Performance Shares as would have been payable, and at the same time and subject to the same conditions, had the Participant s employment continued until such vesting date. The existence and date of permanent total disability shall be determined by the Committee and its determination shall be final and conclusive. For purposes of this Agreement, Full Retirement shall mean voluntary retirement after attaining at least age 65 with at least five years of continuous service with the Corporation or any Subsidiary prior to the date of such retirement. 
+ 
+ (b) Other than Death, Permanent Total Disability or Full Retirement . If the Participant s employment with the Corporation or any Subsidiary terminates prior to the vesting date pursuant to Section 3 for any reason other than the Participant s death, permanent total disability or Full Retirement, all of the Performance Shares and the Participant s rights with respect thereto shall be immediately forfeited and cancelled without further action by the Corporation or the Participant as of the date of such termination of employment. 
+ 
+ (c) Early Retirement Termination other than Cause . Notwithstanding Section 5(b), if (i) the Participant s employment with the Corporation 
+ 4 
+
+or any Subsidiary terminates prior to the vesting date pursuant to Section 3 by reason of the Participant s Early Retirement (as defined below) or on account of a termination by the Corporation or a Subsidiary other than for Cause, the Participant shall be entitled to receive the same payment, if any, in respect of the Performance Shares as would have been payable, and at the same time and subject to the same conditions, had the Participant s employment continued until such vesting date, provided that such payment shall be pro-rated based on the number of calendar days of the Performance Cycle elapsed through the date of such Early Retirement or termination other than for Cause. For purposes of this Agreement, Early Retirement shall mean voluntary retirement after attaining at least age 55 with at least ten years of continuous service with the Corporation or any Subsidiary prior to the date of such retirement. 
+ 
+ (d) Forfeiture Following Early Retirement or Termination other than Cause . Notwithstanding any other provision of this Agreement to the contrary, if, following termination of the Participant s employment with the Corporation or any Subsidiary due to Early Retirement or a termination other than for Cause, as described in Section 5(c), the Committee determines in its good faith discretion that the Participant shall have engaged in any Prohibited Activity (as hereinafter defined) at any time during the time through the otherwise applicable vesting date with respect to the Performance Cycle, all of the Performance Shares and the Participant s rights with respect thereto shall be immediately forfeited and cancelled without further action by the Corporation or the Participant as of the date on which the Participant shall have first entered into such Prohibited Activity. This Section 5(d) shall not constitute the Corporation s exclusive remedy for the Participant s engagement in any Prohibited Activity, and the Corporation may seek any additional legal or equitable remedy, including injunctive relief, in any such circumstances. If any provision contained in this Section 5(d) shall be held by any court of competent jurisdiction to be unenforceable, void or invalid, the parties intend that such provision be modified to make it valid and enforceable to the fullest extent permitted by law. If any such provision cannot be modified to be valid and enforceable, such provision shall be severed from this Agreement and the invalidity or unenforceability of such provision shall not affect the validity or enforceability of the remaining provisions. Notwithstanding any other provision of this Section 5(d) to the contrary, upon the occurrence of a Change of Control, the foregoing provisions of this Section 5(d) shall automatically terminate and cease to apply with respect to any Performance Shares that are outstanding and have not previously been forfeited under this Section 5(d). For purposes of this Agreement 
+ 
+ (i) Prohibited Activity shall mean either Competitive Activity or Interference. 
+ 
+ (ii) Competitive Activit y shall mean that the Participant, directly or indirectly, in any manner or capacity, shall be employed by, serve as a director or manager of, act as a consultant to or maintain any material ownership interest in, any E&P Company or M&R Company that competes with the business of the Corporation or any Subsidiary or affiliate thereof in geographical areas in which the Participant is aware that the Corporation or any Subsidiary or affiliate is engaged, or is considering engaging, unless the Committee agrees to such activity of the Participant in 
+ 5 
+
+writing provided , however , that the Participant s ownership solely as an investor of less than 1 of the outstanding securities of any publicly-traded securities of any E&P Company or M&R Company shall not, by itself, be considered to be Competitive Activity. 
+ 
+ (iii) Interference shall mean that the Participant shall, directly or indirectly, interfere with the relationship between the Corporation or any Subsidiary or affiliate of the Corporation and any person (including, without limitation, any business or governmental entity) that to the Participant s knowledge is, or was, a client, customer, supplier, licensee or partner of the Corporation or any Subsidiary, or had any other business relationship with the Corporation or any Subsidiary. 
+ 
+ (iv) E&P Company shall mean any business which is engaged in the business of exploring for, or developing or producing, crude oil or natural gas. 
+ 
+ (v) M&R Company shall mean any business which is engaged in the manufacture, generation, purchase, marketing or trading of refined petroleum products, natural gas or electricity. 
+ 
+ 6. Change of Control . Notwithstanding anything in Section 3, 4, 5(a) or 5(c) to the contrary, in the event a Change of Control occurs during the Performance Cycle, the Corporation s Total Shareholder Return, TSR Ranking and the Percentage of Performance Shares Earned shall be determined in accordance with Section 4 for the portion of the Performance Cycle that ends on the date immediately prior to the date of the Change of Control. Provided that the Performance Shares have not been forfeited pursuant to Section 5 prior to the date of the Change of Control, the number of the Performance Shares earned shall be the sum of (a) the product of the number of Performance Shares set forth in Section 2, multiplied by a fraction, the numerator of which is the number of calendar days of the Performance Cycle that elapse through the date immediately prior to the date of the Change of Control and the denominator of which is the full number of calendar days during the Performance Cycle, multiplied by the Percentage of Performance Shares Earned, plus (b) the product of the number of Performance Shares set forth in Section 2, multiplied by a fraction, the numerator of which is the number of calendar days remaining in the Performance Cycle on and following the date of the Change of Control and the denominator of which is the full number of calendar days during the Performance Cycle. The amount payable subject to the terms and conditions hereof in respect of such earned Performance Shares shall be equal to the product of such number of earned Performance Shares multiplied by the Change of Control Price, without interest or other additional earnings (such amount, the CoC Earned Performance Share Amount ). Except as otherwise provided in this Section 6, the CoC Earned Performance Share Amount shall be paid in a cash lump-sum during, and no later than March 15 of, the calendar year that immediately follows the last day of the Performance Cycle. If, following a Change of Control, the Participant s employment with the Corporation or any Subsidiary terminates prior to payment of the CoC Earned Performance Share Amount by reason of (w) termination by the Corporation or such Subsidiary without Cause, (x) resignation by the Participant for Good Reason, (y) the Participant s death or permanent total disability (determined as described in Section 5(a)) or (z) the Participant s Full Retirement, the Participant shall be 
+ 6 
+
+entitled to receive payment of the CoC Earned Performance Share Amount in a cash lump-sum not later than 5 business days after the effective date of such termination of employment, provided that if such payment would result in accelerated or additional taxes under Section 409A of the Code then such payment shall be made at the time specified in the immediately preceding sentence as if the Participant s employment had not so terminated. If, following a Change of Control, the Participant s employment with the Corporation or any Subsidiary terminates under any circumstances other than those described in the immediately preceding sentence, then the Participant shall not have any right to any payment in respect of the Performance Shares, whether or not earned. 
+ 
+ 7. Dividend Equivalents . With respect to the number of Performance Shares set forth in Section 2, the Participant shall be credited with Dividend Equivalents with respect to each such Performance Share equal to the amount per Share of any ordinary cash dividends declared by the Board with record dates during the period beginning on the first day of the Performance Cycle and ending on the earliest to occur of (a) the last day of the Performance Cycle (b) the date of a Change of Control and (c) the date such Performance Share terminates or is forfeited under Section 3 or Section 5. The Corporation shall pay in cash to the Participant an amount equal to the product of (i) sum of the aggregate amount of such Dividend Equivalents credited to the Participant, multiplied by (ii) the Percentage of Performance Shares Earned, such amount to be paid as and when the related Performance Shares are paid in accordance with Section 3 or Section 6, as applicable. Any Dividend Equivalents shall be forfeited as and when the related Performance Shares are forfeited in accordance with Section 3, Section 5 or Section 6. 
+ 
+ 8. No Rights as a Shareholder . Until shares of Common Stock are issued, if at all, in satisfaction of the Corporation s obligations under this Agreement, in the time and manner specified in Section 3 or 6, the Participant shall have no rights as a shareholder as to the Shares underlying the Performance Shares. 
+ 
+ 9. Beneficiary . The Participant may designate the beneficiary or beneficiaries to receive any payments which may be made in respect of the Performance Shares after the Participant s death. Any such designation shall be made by the Participant in writing on a beneficiary designation form provided by or on behalf of the Corporation and (unless the Participant has waived such right) may be changed by the Participant from time to time by filing a new beneficiary designation form as provided therein. If the Participant does not designate a beneficiary or if no designated beneficiary survives the Participant, the Participant s beneficiary shall be the legal representative of his estate. 
+ 
+ 10. Tax Withholding . No payment of Shares or cash in respect of the Performance Shares shall be made unless and until the Participant (or his or her beneficiary or legal representative) shall have made arrangements satisfactory to the Committee for the payment of any amounts required to be withheld with respect thereto under all present or future federal, state, local and non-United States tax laws and regulations and other laws and regulations in accordance with Section 12.03 of the Plan. The Corporation shall have the right to deduct from all amounts paid to the Participant in cash in respect of Performance Shares any such amounts. In the case of any payments of 
+ 7 
+
+Performance Shares in the form of Shares, unless the Participant elects otherwise in advance in writing or is prohibited by law, upon payment of such Shares, such number of such Shares as shall be necessary to pay such amounts shall be sold by the Corporation or its designee on the Participant s behalf, and the proceeds thereof shall be delivered to the Corporation for remittance to the appropriate governmental authorities. In the event the Committee determines that any amounts are required to be withheld in respect of the Performance Shares prior to payment of such Performance Shares, the Participant shall thereupon pay to the Corporation in cash the full amount so required to be withheld. 
+ 
+ 11. Limitations Governing Law . Nothing herein or in the Plan shall be construed as conferring on the Participant or anyone else the right to continue in the employ of the Corporation or any Subsidiary. The rights and obligations under this Agreement are governed by and construed in accordance with the laws of the State of Delaware, without reference to the principles of conflict of laws thereof. 
+ 
+ 12. Non-transferability . Except as otherwise provided by Section 8, the Performance Shares, and any rights and interests with respect thereto, may not be sold, exchanged, transferred, assigned or otherwise disposed of in any way by the Participant (or the Participant s beneficiary), and may not be pledged or encumbered in any way by the Participant (or the Participant s beneficiary), and shall not be subject to execution, attachment or similar legal process. 
+ 
+ 13. Entire Agreement Amendment . This Agreement (including the Plan which is incorporated herein by reference) contains the entire agreement between the parties hereto with respect to the subject matter contained herein, and supersedes all prior agreements or prior understandings, whether written or oral, between the parties hereto relating to such subject matter. The Board has the right, in its sole discretion, to amend, alter, suspend, discontinue or terminate the Plan, and the Committee has the right, in its sole discretion, to amend, alter, suspend, discontinue or terminate this Agreement from time to time in accordance with and as provided in the Plan provided , however , that no such amendment, alteration, suspension, discontinuance or termination of the Plan may materially impair the Participant s previously accrued rights under this Agreement or the Plan without the Participant s consent, except as otherwise provided in Section 11 of the Plan. This Agreement may also be modified, amended or terminated by a writing signed by the Participant and the Corporation. 
+ 
+ 14. Notices . Any notice which may be required or permitted under this Agreement shall be in writing and shall be delivered in person, or via facsimile transmission, overnight courier service or certified mail, return receipt requested, postage prepaid, properly addressed as follows 
+ 
+ (a) If the notice is to the Corporation, to the attention of the Secretary of Hess Corporation, 1185 Avenue of the Americas, New York, New York 10036, or at such other address as the Corporation by notice to the Participant may designate in writing from time to time. 
+ 
+ (b) If the notice is to the Participant, at the Participant s address as shown on the Corporation s records, or at such other address as the Participant, by notice to the Corporation, may designate in writing from time to time. 
+ 8 
+
+15. Compliance with Laws . The issuance of any Shares pursuant to this Agreement shall be subject to, and shall comply with, any applicable requirements of federal and state securities laws, rules and regulations (including, without limitation, the provisions of the Securities Act of 1933, as amended, the Exchange Act and the respective rules and regulations promulgated thereunder), any applicable rules of any exchange on which the Common Stock is listed (including, without limitation, the rules and regulations of the New York Stock Exchange), and any other law, rule or regulation applicable thereto. The Corporation shall not be obligated to issue any of the Common Stock subject to this Agreement if such issuance would violate any such requirements and if issued shall be deemed void ab initio. 
+ 
+ 16. Binding Agreement Further Assurances . This Agreement shall inure to the benefit of, be binding upon, and be enforceable by the Corporation and its successors and assigns. Each party hereto shall do and perform (or shall cause to be done and performed) all such further acts and shall execute and deliver all such other agreements, certificates, instruments and documents as any other party hereto reasonably may request in order to carry out the intent and accomplish the purposes of this Agreement and the Plan and the consummation of the transactions contemplated thereunder. 
+ 
+ 17. Counterparts Headings . This Agreement may be executed in one or more counterparts, each of which shall be deemed to be an original, but all of which shall constitute one and the same instrument. The titles and headings of the various sections of this Agreement have been inserted for convenience of reference only and shall not be deemed to be a part of this Agreement. 
+ 
+ 18. Severability . The invalidity or unenforceability of any provisions of this Agreement in any jurisdiction shall not affect the validity, legality or enforceability of the remainder of this Agreement in such jurisdiction or the validity, legality or enforceability of any provision of this Agreement in any other jurisdiction, it being intended that all rights and obligations of the parties hereunder shall be enforceable to the fullest extent permitted by law. 
+ 
+ 19. Terms of Employment . The Plan is a discretionary plan. The Participant hereby acknowledges that neither the Plan nor this Agreement forms part of the Participant s terms of employment and nothing in the Plan may be construed as imposing on the Corporation or any Subsidiary a contractual obligation to offer participation in the Plan to any employee of the Corporation or any Subsidiary. Neither the Corporation nor any Subsidiary is under any obligation to grant any further Awards to the Participant under the Plan. If the Participant ceases to be an employee of the Corporation or any Subsidiary for any reason, the Participant shall not be entitled by way of compensation for loss of office or otherwise howsoever to any sum or other benefit to compensate the Participant for the loss of any rights under this Agreement or the Plan. The Participant also acknowledges that the Corporation has adopted a policy prohibiting recipients of equity awarded from the Corporation, including the Performance Shares, from trading in equity derivative instruments to hedge the economic risks of holding Corporation common stock or interests therein. The Participant hereby acknowledges 
+ 9 
+
+that he will abide by such policy in all respects. 
+ 
+ 20. Data Protection . By signing this Agreement, the Participant hereby consents to the holding and processing of personal data provided by the Participant to the Corporation for all purposes necessary for the operation of the Plan. These include, but are not limited to 
+ 
+ (a) administering and maintaining the Participant s records 
+ 
+ (b) providing information to any registrars, brokers or third party administrators of the Plan and 
+ 
+ (c) providing information to future purchasers of the Corporation or the business in which the Participant works. 
+ 
+ 21. Code Section 409A . Payment of the Performance Shares and this Agreement are intended to comply with Section 409A of the Code, and shall be administered and construed in accordance with such intent. Accordingly, the Corporation shall have the authority to take any action, or refrain from taking any action, with respect to this Agreement that it determines is necessary or appropriate to ensure compliance with Code Section 409A (provided that the Corporation shall choose the action that best preserves the value of payments provided to the Participant under this Agreement that is consistent with Code Section 409A). In furtherance, but not in limitation, of the foregoing, notwithstanding any other provisions of this Agreement to the contrary 
+ 
+ (a) in no event may the Participant designate, directly or indirectly, the calendar year of any payment to be made hereunder 
+ 
+ (b) if at the time of the Participant s separation from service, the Corporation determines that the Participant is a specified employee within the meaning of Code Section 409A, payments, if any, hereunder that constitute a deferral of compensation under Code Section 409A and that would otherwise become due on account of such separation from service shall be delayed and all such delayed payments shall be paid in full upon the earlier to occur of (i) a date during the thirty-day period commencing six months and one day following such separation from service and (ii) the date of the Participant s death, provided that such delay shall not apply to any payment that is excepted from coverage by Code Section 409A, such as a payment covered by the short-term deferral exception described in Treasury Regulations Section 1.409A-1(b)(4) and 
+ 
+ (c) notwithstanding any other provision of this Agreement to the contrary, a termination or retirement of Participant's employment hereunder shall mean and be interpreted consistent with a separation from service within the meaning of Code Section 409A with respect to any payments hereunder that constitute a deferral of compensation under Code Section 409A that become due on account of such separation from service. 
+ 10 
+
+IN WITNESS WHEREOF , the Corporation has caused this Agreement to be executed by its duly authorized officer, and the Participant has also executed this Agreement and acknowledged receipt of other related materials including the Plan prospectus, all as of the Grant Date. 
+
+HESS CORPORATION 
+ 
+ s John B. Hess 
+ John B. Hess 
+ Chief Executive Officer 
+
+Acknowledged and Agreed to 
+ ____________________________ 
+ 
+ 11 
+
+Exhibit A 
+
+Comparison Companies and S&P Total Return Index 
+ Apache Corporation 
+ Cabot Oil & Gas Corporation 
+ ConocoPhillips Company 
+ Continental Resources, Inc. 
+ Devon Energy Corporation 
+ EOG Resources, Inc. 
+ EQT Corporation 
+ Marathon Oil Corporation 
+ Murphy Oil Corporation 
+ Occidental Petroleum Corporation 
+ Pioneer Natural Resources Co. 
+ S&P 500 Total Return Index 
+
+12 
+
+Exhibit B 
+
+Percentage of Performance Shares Earned Schedule 
+ 
+ Use this schedule if number of Comparison Companies and the S&P Total Return Index plus the Corporation is 13 
+ 
+ TSR Ranking Percentage of Performance Shares Earned 1st 200 2nd 200 3rd 175 4th 150 5th 125 6th 100 7th 88 8th 75 9th 63 10th 50 11th 0 12th 0 13th 0 
+ 
+ 13 
+
+Exhibit C-1 
+
+Percentage of Performance Shares Earned Schedule 
+ 
+ Use this schedule if number of Comparison Companies and the S&P Total Return Index plus the Corporation is 12 
+ 
+ TSR Ranking 
+ Percentage of Performance Shares Earned 
+ 1st 200 2nd 200 3rd 
+ 175 4th 150 5th 125 6th 100 7th 83 8th 66 9th 50 10th 0 11th 0 12th 0 
+ 14 
+
+Exhibit C-2 
+
+Percentage of Performance Shares Earned Schedule 
+ 
+ Use this schedule if number of Comparison Companies and the S&P Total Return Index plus the Corporation is 11 
+ 
+ TSR Ranking 
+ Percentage of Performance Shares Earned 
+ 1st 200 2nd 200 3rd 
+ 175 4th 150 5th 100 6th 83 7th 67 8th 50 9th 0 10th 0 11th 0 
+ 15 
+
+Exhibit C-3 
+
+Percentage of Performance Shares Earned Schedule 
+ 
+ Use this schedule if number of Comparison Companies and the S&P Total Return Index plus the Corporation is 10 
+ 
+ TSR Ranking 
+ Percentage of Performance Shares Earned 
+ 1st 200 2nd 175 3rd 
+ 150 4th 125 5th 100 6th 75 7th 50 8th 0 9th 0 10th 0 
+ 16 
+
+Exhibit C-4 
+
+Percentage of Performance Shares Earned Schedule 
+ 
+ Use this schedule if number of Comparison Companies and the S&P Total Return Index plus the Corporation is 9 
+ 
+ TSR Ranking 
+ Percentage of Performance Shares Earned 
+ 1st 200 2nd 167 3rd 
+ 133 4th 100 5th 83 6th 67 7th 50 8th 0 9th 0 
+
+17 
+
+Exhibit C-5 
+
+Percentage of Performance Shares Earned Schedule 
+ 
+ Use this schedule if number of Comparison Companies and the S&P Total Return Index plus the Corporation is 8 
+ 
+ TSR Ranking Percentage of Performance Shares Earned 1st 200 2nd 167 3rd 
+ 133 4th 100 5th 75 6th 50 7th 0 8th 0 
+ 
+ 18 
+
+</EX-10.1>
+
+<EX-31.1>
+ 3
+ q12021ex-311.htm
+ EX-31.1
+
+Document 
+
+Exhibit 31(1) 
+ CERTIFICATIONS 
+ I, John B. Hess, certify that 
+ 1. I have reviewed this quarterly report on Form 10-Q of Hess Corporation 
+ 2. Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report 
+ 3. Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report 
+ 4. The registrant's other certifying officer(s) and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have 
+ (a) Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared 
+ (b) Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles 
+ (c) Evaluated the effectiveness of the registrant's disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation and 
+ (d) Disclosed in this report any change in the registrant's internal control over financial reporting that occurred during the registrant's most recent fiscal quarter (the registrant's fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant's internal control over financial reporting and 
+ 5. The registrant's other certifying officer(s) and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant's auditors and the audit committee of the registrant's board of directors (or persons performing the equivalent functions) 
+ (a) All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant's ability to record, process, summarize and report financial information and 
+ (b) Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant's internal control over financial reporting. 
+ By s John B. Hess JOHN B. HESS CHIEF EXECUTIVE OFFICER 
+ Date May 6, 2021 
+
+</EX-31.1>
+
+<EX-31.2>
+ 4
+ q12021ex-312.htm
+ EX-31.2
+
+Document 
+
+Exhibit 31(2) 
+ I, John P. Rielly, certify that 
+ 1. I have reviewed this quarterly report on Form 10-Q of Hess Corporation 
+ 2. Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report 
+ 3. Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report 
+ 4. The registrant's other certifying officer(s) and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have 
+ (a) Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared 
+ (b) Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles 
+ (c) Evaluated the effectiveness of the registrant's disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation and 
+ (d) Disclosed in this report any change in the registrant's internal control over financial reporting that occurred during the registrant's most recent fiscal quarter (the registrant's fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant's internal control over financial reporting and 
+ 5. The registrant's other certifying officer(s) and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant's auditors and the audit committee of the registrant's board of directors (or persons performing the equivalent functions) 
+ (a) All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant's ability to record, process, summarize and report financial information and 
+ (b) Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant's internal control over financial reporting. 
+ By s John P. Rielly JOHN P. RIELLY EXECUTIVE VICE PRESIDENT AND CHIEF FINANCIAL OFFICER 
+ Date May 6, 2021 
+
+</EX-31.2>
+
+<EX-32.1>
+ 5
+ q12021ex-321.htm
+ EX-32.1
+
+Document 
+
+Exhibit 32(1) 
+ CERTIFICATION PURSUANT TO 
+ 18 U.S.C. SECTION 1350, 
+ AS ADOPTED PURSUANT TO 
+ SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002 
+ In connection with the Quarterly Report of Hess Corporation (the Corporation on Form 10-Q for the period ending March 31, 2021 as filed with the Securities and Exchange Commission on the date hereof (the Report ), I, John B. Hess, Chief Executive Officer of the Corporation, certify, pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002, that 
+ (1) The Report fully complies with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act of 1934, as amended and 
+ (2) The information contained in the Report fairly presents, in all material respects, the financial condition and results of operations of the Corporation. 
+ By s John B. Hess JOHN B. HESS CHIEF EXECUTIVE OFFICER Date May 6, 2021 
+ A signed original of this written statement required by Section 906 has been provided to Hess Corporation and will be retained by Hess Corporation and furnished to the Securities and Exchange Commission or its staff upon request. 
+
+</EX-32.1>
+
+<EX-32.2>
+ 6
+ q12021ex-322.htm
+ EX-32.2
+
+Document 
+
+Exhibit 32(2) 
+ CERTIFICATION PURSUANT TO 
+ 18 U.S.C. SECTION 1350, 
+ AS ADOPTED PURSUANT TO 
+ SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002 
+ In connection with the Quarterly Report of Hess Corporation (the Corporation on Form 10-Q for the period ending March 31, 2021 as filed with the Securities and Exchange Commission on the date hereof (the Report ), I, John P. Rielly, Executive Vice President and Chief Financial Officer of the Corporation, certify, pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002, that 
+ (1) The Report fully complies with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act of 1934, as amended and 
+ (2) The information contained in the Report fairly presents, in all material respects, the financial condition and results of operations of the Corporation. 
+ By s John P. Rielly JOHN P. RIELLY EXECUTIVE VICE PRESIDENT AND CHIEF FINANCIAL OFFICER Date May 6, 2021 
+ A signed original of this written statement required by Section 906 has been provided to Hess Corporation and will be retained by Hess Corporation and furnished to the Securities and Exchange Commission or its staff upon request. 
+
+</EX-32.2>
+
+<EX-101.SCH>
+ 7
+ hes-20210331.xsd
+ XBRL TAXONOMY EXTENSION SCHEMA DOCUMENT
+
+</EX-101.SCH>
+
+<EX-101.CAL>
+ 8
+ hes-20210331_cal.xml
+ XBRL TAXONOMY EXTENSION CALCULATION LINKBASE DOCUMENT
+
+</EX-101.CAL>
+
+<EX-101.DEF>
+ 9
+ hes-20210331_def.xml
+ XBRL TAXONOMY EXTENSION DEFINITION LINKBASE DOCUMENT
+
+</EX-101.DEF>
+
+<EX-101.LAB>
+ 10
+ hes-20210331_lab.xml
+ XBRL TAXONOMY EXTENSION LABEL LINKBASE DOCUMENT
+
+</EX-101.LAB>
+
+<EX-101.PRE>
+ 11
+ hes-20210331_pre.xml
+ XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE DOCUMENT
+
+</EX-101.PRE>
+

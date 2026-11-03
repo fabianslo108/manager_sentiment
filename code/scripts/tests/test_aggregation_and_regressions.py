@@ -254,6 +254,81 @@ def test_hp_two_sided_uses_the_future_and_one_sided_does_not() -> None:
     assert one_sided.iloc[:23].isna().all(), "one-sided HP is undefined before min_periods"
 
 
+def test_wide_sentiment_table_is_normalized() -> None:
+    raw = pd.DataFrame(
+        {
+            "CIK": [785161, 785161],
+            "FILING_DATE": [20150302, 20150302],
+            "ACC_NUM": ["0000785161-15-000020", "0000785161-15-000020"],
+            "REPORT_TYPE": ["10K", "10K"],
+            "polarity_growth_llama": [0.2, 0.4],
+            "polarity_financial_risk": [-0.1, -0.3],
+        }
+    )
+    prepared = ta.prepare_reports(raw)
+    assert len(prepared) == 1, "duplicate filing keys must be averaged"
+    assert prepared["FORM_TYPE"].iloc[0] == "10-K"
+    assert prepared["FILING_DATE"].iloc[0] == "20150302"
+    assert math.isclose(prepared["polarity_growth_llama"].iloc[0], 0.3)
+    assert ta.polarity_columns(prepared) == ["polarity_growth_llama", "polarity_financial_risk"]
+
+
+def test_long_extraction_output_is_pivoted() -> None:
+    raw = pd.DataFrame(
+        {
+            "CIK": ["1750", "1750"],
+            "FILING_DATE": ["20200115", "20200115"],
+            "ACC_NUM": ["0001047469-20-000001", "0001047469-20-000001"],
+            "FORM_TYPE": ["10-K", "10-K"],
+            "strategy": ["growth", "financial_risk"],
+            "polarity": [0.4, -0.2],
+        }
+    )
+    prepared = ta.prepare_reports(raw)
+    assert len(prepared) == 1
+    assert math.isclose(prepared["polarity_growth"].iloc[0], 0.4)
+    assert math.isclose(prepared["polarity_financial_risk"].iloc[0], -0.2)
+
+
+def test_select_filings_keeps_only_on_disk_reports() -> None:
+    import tempfile
+
+    reports = pd.DataFrame(
+        {
+            "CIK": [1750, 1750],
+            "FILING_DATE": [20200115, 20200215],
+            "ACC_NUM": ["0001047469-20-000001", "0001047469-20-000002"],
+            "REPORT_TYPE": ["10K", "10Q"],
+            "polarity_growth_llama": [0.5, 0.1],
+        }
+    )
+    with tempfile.TemporaryDirectory() as tmp:
+        root = Path(tmp)
+        (root / "20200115_10-K_edgar_data_1750_0001047469-20-000001.txt").write_text("word " * 80)
+        (root / "20200315_10-Q_edgar_data_1750_0001047469-20-000099.txt").write_text("word " * 80)
+        matched = ta.select_filings(reports, root)
+    assert len(matched) == 1
+    assert matched["ACC_NUM"].iloc[0] == "0001047469-20-000001"
+    assert "REPORT_TYPE" in matched.columns
+
+
+def test_monthly_series_round_trips_through_parquet() -> None:
+    import tempfile
+
+    series = ta.build_manager_sentiment(
+        _reports().rename(columns={"polarity": "polarity_growth"}),
+        ["polarity_growth"],
+        standardize_by=None,
+        smoothing=(("none", {}), ("ma", {"window": 2})),
+    )
+    with tempfile.TemporaryDirectory() as tmp:
+        path = Path(tmp) / "series.parquet"
+        ta.save_time_series(series, path)
+        loaded = pd.read_parquet(path)
+    assert len(loaded) == len(series)
+    assert "polarity_growth_ma2" in loaded.columns
+
+
 def test_build_manager_sentiment_column_names() -> None:
     rng = np.random.default_rng(2)
     months = pd.date_range("2005-01-01", periods=60, freq="MS")
@@ -378,6 +453,10 @@ def main() -> None:
         test_per_group_counts_are_reported,
         test_moving_average_is_backward_looking,
         test_hp_two_sided_uses_the_future_and_one_sided_does_not,
+        test_wide_sentiment_table_is_normalized,
+        test_long_extraction_output_is_pivoted,
+        test_select_filings_keeps_only_on_disk_reports,
+        test_monthly_series_round_trips_through_parquet,
         test_build_manager_sentiment_column_names,
         test_hac_lags_scale_with_the_horizon,
         test_predictive_table_shape_and_content,

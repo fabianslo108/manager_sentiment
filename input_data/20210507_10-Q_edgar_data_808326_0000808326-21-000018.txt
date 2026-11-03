@@ -1,0 +1,1095 @@
+<Header>
+<FileStats>
+    <FileName>20210507_10-Q_edgar_data_808326_0000808326-21-000018.txt</FileName>
+    <GrossFileSize>5610577</GrossFileSize>
+    <NetFileSize>187729</NetFileSize>
+    <NonText_DocumentType_Chars>866075</NonText_DocumentType_Chars>
+    <HTML_Chars>1843135</HTML_Chars>
+    <XBRL_Chars>1430098</XBRL_Chars>
+    <XML_Chars>1190039</XML_Chars>
+    <N_Exhibits>12</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0000808326-21-000018.hdr.sgml : 20210507
+<ACCEPTANCE-DATETIME>20210507160237
+ACCESSION NUMBER:		0000808326-21-000018
+CONFORMED SUBMISSION TYPE:	10-Q
+PUBLIC DOCUMENT COUNT:		66
+CONFORMED PERIOD OF REPORT:	20210331
+FILED AS OF DATE:		20210507
+DATE AS OF CHANGE:		20210507
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			EMCORE CORP
+		CENTRAL INDEX KEY:			0000808326
+		STANDARD INDUSTRIAL CLASSIFICATION:	SEMICONDUCTORS & RELATED DEVICES [3674]
+		IRS NUMBER:				222746503
+		STATE OF INCORPORATION:			NJ
+		FISCAL YEAR END:			0930
+
+	FILING VALUES:
+		FORM TYPE:		10-Q
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-36632
+		FILM NUMBER:		21902508
+
+	BUSINESS ADDRESS:	
+		STREET 1:		2015 W. CHESTNUT STREET
+		CITY:			ALHAMBRA
+		STATE:			CA
+		ZIP:			91803
+		BUSINESS PHONE:		626-293-3400
+
+	MAIL ADDRESS:	
+		STREET 1:		2015 W. CHESTNUT STREET
+		CITY:			ALHAMBRA
+		STATE:			CA
+		ZIP:			91803
+
+</SEC-Header>
+</Header>
+
+ 0000808326-21-000018.txt : 20210507
+
+10-Q
+ 1
+ emkr-20210331.htm
+ 10-Q
+
+emkr-20210331 
+ 
+ Table of Contents 
+
+UNITED STATES 
+ SECURITIES AND EXCHANGE COMMISSION 
+ Washington, D.C. 20549 
+ FORM 
+ 
+ QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 For the quarterly period ended 
+ or TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 For the transition period from ___ to ___ 
+ Commission File Number 
+ 
+ oration 
+ (Exact name of registrant as specified in its charter) 
+ (State or other jurisdiction of incorporation or organization) (I.R.S. Employer Identification No.) 
+ , , , 
+ (Address of principal executive offices) (Zip Code) 
+ Registrant s telephone number, including area code: ) 
+ Securities registered pursuant to Section 12(b) of the Act: 
+ Title of Each Class Trading Symbol Name of Each Exchange on Which Registered (Nasdaq Global Market) 
+ Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days. No 
+ Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T 232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files). No 
+ Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company or an emerging growth company. See the definitions of large accelerated filer , accelerated filer , smaller reporting company and emerging growth company in Rule 12b-2 of the Exchange Act. Large accelerated filer Accelerated filer Smaller reporting company Emerging growth company 
+ If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the E change Act. 
+ Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act). Yes No 
+ As of May 6, 2021, the number of shares outstanding of our no par value common stock totaled . 
+
+Table of Contents 
+
+ CAUTIONARY NOTE 
+ REGARDING FORWARD-LOOKING STATEMENTS 
+ This Quarterly Report on Form 10-Q includes forward-looking statements within the meaning of Section 27A of the Securities Act of 1933, as amended, and Section 21E of the Securities Exchange Act of 1934, as amended (the Exchange Act ). These forward-looking statements are made pursuant to the safe harbor provisions of the Private Securities Litigation Reform Act of 1995. These forward-looking statements are based on our current expectations and projections about future events and financial trends affecting the financial condition of our business. Such forward-looking statements include, in particular, projections about our future results included in our Exchange Act reports and statements about our plans, strategies, business prospects, changes and trends in our business and the markets in which we operate, including the expected impact of the COVID-19 pandemic on our business and operations. These forward-looking statements may be identified by the use of terms and phrases such as anticipates, believes, can, could, estimates, expects, forecasts, intends, may, plans, projects, should, targets, will, would, and similar expressions or variations of these terms and similar phrases. Additionally, statements concerning future matters such as our expected liquidity, development of new products, enhancements or technologies, sales levels, expense levels, expectations regarding the outcome of legal proceedings and other statements regarding matters that are not historical are forward-looking statements. Management cautions that these forward-looking statements relate to future events or our future financial performance and are subject to business, economic, and other risks and uncertainties, both known and unknown, that may cause actual results, levels of activity, performance, or achievements of our business or the industries in which we operate to be materially different from those expressed or implied by any forward-looking statements. Factors that could cause or contribute to such differences in results and outcomes include without limitation the following: (a) uncertainties regarding the effects of the COVID-19 pandemic, the length of time it will take for the COVID 19 pandemic to subside, and the impact of measures intended to reduce its spread on our business and operations, which is evolving and beyond our control; (b) the rapidly evolving markets for our products and uncertainty regarding the development of these markets; (c) our historical dependence on sales to a limited number of customers and fluctuations in the mix of products and customers in any period; (d) delays and other difficulties in commercializing new products; (e) the failure of new products: (i) to perform as expected without material defects, (ii) to be manufactured at acceptable volumes, yields, and cost, (iii) to be qualified and accepted by our customers, and (iv) to successfully compete with products offered by our competitors; (f) uncertainties concerning the availability and cost of commodity materials and specialized product components that we do not make internally; (g) actions by competitors; (h) risks and uncertainties related to applicable laws and regulations, including the impact of changes to applicable tax laws and tariff regulations; (i) acquisition-related risks, including that (1) the revenues and net operating results obtained from the Systron Donner Inertial, Inc. ("SDI") business may not meet our expectations, (2) there could be losses and liabilities arising from the acquisition of SDI that we will not be able to recover from any source, and (3) we may not realize sufficient scale in our Navigation and Inertial Sensing product line from the SDI acquisition and will need to take additional steps, including making additional acquisitions, to achieve our growth objectives for this product line; (j) risks related to our ability to obtain capital; (k) risks related to the transition of certain of our manufacturing operations from our Beijing facility to a contract manufacturer s facility; (l) risks and uncertainties related to manufacturing and production capacity and expansion plans related thereto; (m) risks related to the conversion of order backlog into product revenue; and (n) other risks and uncertainties discussed in Part II, Item 1A, Risk Factors in this Quarterly Report on Form 10-Q and in Part I, Item 1A, Risk Factors in our Annual Report on Form 10-K for the fiscal year ended September 30, 2020, as such risk factors may be amended, supplemented or superseded from time to time by our subsequent periodic reports we file with the Securities and Exchange Commission SEC ). These cautionary statements apply to all forward-looking statements wherever they appear in this Quarterly Report. 
+ Forward-looking statements are based on certain assumptions and analysis made in light of our experience and perception of historical trends, current conditions and expected future developments as well as other factors that we believe are appropriate under the circumstances. While these statements represent our judgment on what the future may hold, and we believe these judgments are reasonable, these statements are not guarantees of any events or financial results. All forward-looking statements in this Quarterly Report are made as of the date hereof, based on information available to us as of the date hereof, and subsequent facts or circumstances may contradict, obviate, undermine, or otherwise fail to support or substantiate such statements. We caution you not to rely on these statements without also considering the risks and uncertainties associated with these statements and our business that are addressed in this Quarterly Report on Form 10-Q and our Annual Report on Form 10-K for the fiscal year ended September 30, 2020. Certain information included in this Quarterly Report may supersede or supplement forward-looking statements in our other reports filed with the SEC. We do not intend to update any forward-looking statement to conform such statements to actual results or to changes in our expectations, except as required by applicable law or regulation. 
+
+Table of Contents 
+
+ EMCORE Corporation 
+ FORM 10-Q 
+ For the Quarterly Period Ended March 31, 2021 
+ TABLE OF CONTENTS 
+ Page Part I: 
+ Financial Information 
+ 4 
+ Item 1. 
+ Financial Statements (Unaudited) 
+ 4 
+ Condensed Consolidated Statements of Operations and Comprehensive Income (Loss) for the three and six months ended March 31, 202 1 and 20 20 
+ 4 
+ Condensed Consolidated Balance Sheets as of March 31, 202 1 and September 30, 2020 
+ 5 
+ Condensed Consolidated Statements of Shareholders Equity for the three and si x months ended March 31, 202 1 and 20 20 
+ 6 
+ Condensed Consolidated Statements of Cash Flows for the six months ended March 31, 202 1 
+ 7 
+ Notes to our Condensed Consolidated Financial Statements 
+ 8 
+ Item 2. 
+ Management s Discussion and Analysis of Financial Condition and Results of Operations 
+ 18 
+ Item 3. 
+ Quantitative and Qualitative Disclosures about Market Risk 
+ 29 
+ Item 4. 
+ Controls and Procedures 
+ 30 
+ Part II: 
+ Other Information 
+ 30 
+ Item 1. 
+ Legal Proceedings 
+ 30 
+ Item 1A. 
+ Risk Factors 
+ 30 
+ Item 6. 
+ Exhibits 
+ 32 
+ SIGNATURES 
+ 33 
+
+3 
+
+Table of Contents 
+
+ PART I. Financial Information. 
+ 
+ ITEM 1. Financial Statements 
+ 
+ EMCORE CORPORATION 
+ Condensed Consolidated Statements of Operations and Comprehensive Income (Loss) 
+ For the three and six months ended March 31, 2021 and 2020 
+ (in thousands, except per share data) 
+ (unaudited) 
+ 
+ For the three months ended March 31, For the six months ended March 31, 2021 2020 2021 2020 Revenue Cost of revenue Gross profit Operating expense: Selling, general, and administrative Research and development Loss (gain) on sale of assets ) ) Total operating expense Operating income (loss) ) ) Other (expense) income: Interest (expense) income, net ) ) ) Foreign exchange (loss) gain ) ) ) Total other (expense) income ) ) ) Income (loss) before income tax (expense) benefit ) ) Income tax (expense) benefit ) ) Net income (loss) ) ) Foreign exchange translation adjustment ) ) ) Comprehensive income (loss) ) ) Per share data: Net income (loss) per basic share ) ) Weighted-average number of basic shares outstanding Net income (loss) per diluted share ) ) Weighted-average number of diluted shares outstanding 
+ The accompanying notes are an integral part of these condensed consolidated financial statements. 
+ 4 
+
+Table of Contents 
+
+ EMCORE CORPORATION 
+ Condensed Consolidated Balance Sheets 
+ As of March 31, 2021 and September 30, 2020 
+ (in thousands) 
+ (unaudited) 
+ As of March 31, 2021 As of September 30, 2020 ASSETS Current assets: Cash and cash equivalents Restricted cash Accounts receivable, net of credit loss of and , respectively 
+ Contract assets Inventory Prepaid expenses and other current assets Assets held for sale Total current assets Property, plant, and equipment, net Goodwill Operating lease right-of-use assets Other intangible assets, net Other non-current assets Total assets LIABILITIES and SHAREHOLDERS EQUITY Current liabilities: PPP liability - current Accounts payable Accrued expenses and other current liabilities Operating lease liabilities - current Total current liabilities PPP liability - non-current Operating lease liabilities - non-current Asset retirement obligations Other long-term liabilities Total liabilities Commitments and contingencies (Note 11) Shareholders equity: Common stock, par value, shares authorized; shares issued and shares outstanding as of March 31, 2021; shares issued and shares outstanding as of September 30, 2020 
+ Treasury stock at cost; shares 
+ ) ) Accumulated other comprehensive income Accumulated deficit ) ) Total shareholders equity Total liabilities and shareholders equity 
+ The accompanying notes are an integral part of these condensed consolidated financial statements. 
+ 5 
+
+Table of Contents 
+
+ EMCORE CORPORATION 
+ Condensed Consolidated Statements of Shareholders Equity 
+ For the three and six months ended March 31, 2021 and 2020 
+ (in thousands) 
+ (unaudited) 
+ 
+ For the three months ended March 31, For the six months ended March 31, 2021 2020 2021 2020 Shares of Common Stock Balance, beginning of period Stock-based compensation Stock option exercises Issuance of restricted stock units Issuance of common stock - ESPP Sale of common stock Balance, end of period Value of Common Stock Balance, beginning of period Stock-based compensation Stock option exercises Tax withholding paid on behalf of employees for stock-based awards ) ) Issuance of restricted stock units Issuance of common stock - ESPP BOD consulting and other fees Sale of common stock, net of offering costs Balance, end of period Treasury stock, beginning and ending of period ) ) ) ) Accumulated Other Comprehensive Income Balance, beginning of period Translation adjustment ) ) ) Balance, end of period Accumulated Deficit Balance, beginning of period ) ) ) ) Net income (loss) ) ) Balance, end of period ) ) ) ) Total Shareholders Equity 
+ The accompanying notes are an integral part of these condensed consolidated financial statements. 
+ 
+ 6 
+
+Table of Contents 
+
+ EMCORE CORPORATION 
+ Condensed Consolidated Statements of Cash Flows 
+ For the six months ended March 31, 2021 and 2020 
+ (in thousands) 
+ (unaudited) 
+ For the six months ended March 31, 2021 2020 Cash flows from operating activities: Net income (loss) ) Adjustments to reconcile net loss to net cash provided by operating activities: Depreciation and amortization expense Stock-based compensation expense Provision adjustments related to credit loss ) Provision adjustments related to product warranty Gain (loss) on disposal of property, plant and equipment ) Other ) ) Total non-cash adjustments Changes in operating assets and liabilities: Accounts receivable and contract assets ) ) Inventory ) Other assets ) Accounts payable ) Accrued expenses and other current liabilities ) Total change in operating assets and liabilities ) ) Net cash provided by (used in) operating activities ) Cash flows from investing activities: Purchase of equipment ) ) Proceeds from disposal of property, plant and equipment Net cash (used in) provided by investing activities ) Cash flows from financing activities: Net payments on credit facilities ) Proceeds from employee stock purchase plan and equity awards Proceeds from sale of common stock Issuance cost associated with sale of common stock ) Taxes paid related to net share settlement of equity awards ) ) Net cash provided by (used in) financing activities ) Effect of exchange rate changes provided by foreign currency Net increase in cash, cash equivalents and restricted cash Cash, cash equivalents and restricted cash at beginning of period Cash, cash equivalents and restricted cash at end of period SUPPLEMENTAL DISCLOSURE OF CASH FLOW INFORMATION Cash paid during the period for interest Cash paid during the period for income taxes NON-CASH INVESTING AND FINANCING ACTIVITIES Changes in accounts payable related to purchases of equipment ) ) 
+ The accompanying notes are an integral part of these condensed consolidated financial statements. 
+ 7 
+
+Table of Contents 
+
+ EMCORE Corporation 
+ Notes to our Condensed Consolidated Financial Statements 
+ 
+ NOTE 1. 
+ 
+ 8 
+
+Table of Contents 
+
+Defense Optoelectronics CATV Lasers and Transmitters Chip Devices Other Total revenue 
+ 
+ NOTE 2. 
+
+NOTE 3. 
+ Cash equivalents Restricted cash Total cash, cash equivalents and restricted cash 
+ The Company s restricted cash includes cash balances which are legally or contractually restricted in use. The Company s restricted cash is included in current assets as of March 31, 2021, September 30, 2020, and March 31, 2020. 
+ 9 
+
+Table of Contents 
+
+ NOTE 4. 
+ Cash, cash equivalents and restricted cash are based on Level 1 measurements. 
+ The carrying amounts of cash and cash equivalents, restricted cash, accounts receivable, contract assets, other current assets, and accounts payable approximate fair value because of the short maturity of these instruments. 
+ 
+ NOTE 5. 
+ Allowance for credit loss ) ) Accounts receivable, net 
+ The allowance for credit loss is based on the age of receivables and a specific identification of receivables considered at risk of collection. 
+ 
+ NOTE 6. 
+ Work in-process Finished goods Inventory balance at end of period 
+ 10 
+
+Table of Contents 
+
+ NOTE 7. 
+ Furniture and fixtures Computer hardware and software Leasehold improvements Construction in progress Property, plant, and equipment, gross Accumulated depreciation ) ) Property, plant, and equipment, net 
+ During the three and six months ended March 31, 2021, the Company sold certain equipment and recognized a loss on sale of assets of million. In addition, in the fiscal year ended September 30, 2020, the Company entered into agreements to sell additional equipment and these assets have been reclassified to assets held for sale. 
+ 
+ NOTE 8. 
+ Warranty Legal expenses and other professional fees Contract liabilities Income and other taxes Severance and restructuring accruals Other Accrued expenses and other current liabilities 
+
+NOTE 9. 
+ million, subject to a borrowing base formula, that can be used for working capital requirements, letters of credit, acquisitions, and other general corporate purposes subject to a requirement, for certain specific uses, that the Company has liquidity of at least million after such use. The Credit Facility requires us to maintain (a) liquidity of at least million and (b) excess availability of at least million. 
+ As of March 31, 2021, there was amount outstanding under this Credit Facility and the Company was in compliance with all financial covenants. Also, as of March 31, 2021, the Credit Facility had approximately million reserved for outstanding stand-by letter of credit and million available for borrowing. 
+ 11 
+
+Table of Contents 
+
+ million (the PPP Loan ), which the Company received on May 6, 2020. 
+ The PPP Loan matures on May 3, 2022 and bears interest at a fixed rate of 1.00 per annum, payable monthly. Monthly payments in the amount of will be due and payable beginning at such time as is in accordance with the terms of the Paycheck Protection Flexibility Act of 2020 and continuing each month thereafter until maturity of the PPP Loan. There is no prepayment penalty. Under the terms of the PPP, all or a portion of the principal may be forgiven if the PPP Loan proceeds are used for qualifying expenses as described in the CARES Act, such as payroll costs, benefits, rent, and utilities. With respect to any portion of the PPP Loan that is not forgiven, the PPP Loan will be subject to customary provisions for a loan of this type, including customary events of default relating to, among other things, payment defaults and breaches of the provisions of the PPP Loan Agreement. The Company applied for forgiveness of the PPP Loan during the three months ended March 31, 2021, but it can make no assurance that forgiveness will be granted in part or in whole. As of March 31, 2021, million is recorded in current liabilities and million is recorded in long-term liabilities on the Company s condensed consolidated balance sheet. 
+ 
+ NOTE 10.) and , respectively. Income tax expense for the three months ended March 31, 2021 and 2020 is composed primarily of state tax expense. The increase in income tax expense is driven by the State of California's temporary suspension of net operating loss ("NOL") utilization. 
+ During the six months ended March 31, 2021 and 2020, the Company recorded income tax (expense) benefit of approximately ) and , respectively. Income tax expense for the six months ended March 31, 2021 and 2020 is composed primarily of state tax expense. The increase in income tax expense is driven by the State of California s temporary suspension of NOL utilization. 
+ For the three months ended March 31, 2021 and 2020 the effective tax rate on continuing operations was and , respectively. The higher tax rate for the three months ended March 31, 2021 is primarily driven by the State of California's temporary suspension of NOL utilization. 
+ For the six months ended March 31, 2021 and 2020, the effective tax rate on continuing operations was and , respectively. The increased tax rate for the six months ended March 31, 2021 is primarily driven by the State of California s temporary suspension of NOL utilization. 
+ The Company uses estimates to forecast the results from continuing operations for the current fiscal year as well as permanent differences between book and tax accounting. 
+ We have not provided for income taxes on non-U.S. subsidiaries undistributed earnings as of March 31, 2021 because we plan to indefinitely reinvest the unremitted earnings of our non-U.S. subsidiaries and all of our non-U.S. subsidiaries historically have negative earnings and profits. 
+ All deferred tax assets have a full valuation allowance at March 31, 2021. On a quarterly basis, the Company evaluates the positive and negative evidence to assess whether the more likely than not criteria has been satisfied in determining whether there will be further adjustments to the valuation allowance. 
+ During the three and six months ended March 31, 2021 and 2020, there were no material increases or decreases in unrecognized tax benefits. As of March 31, 2021 and September 30, 2020, we had approximately million of interest and penalties and million of uncertain tax benefit reserved and accrued for as tax liabilities on our balance sheet. We expect that million of uncertain tax benefit including interest and penalties will be settled within the next 12 months, which will impact the effective tax rate. Interest that is accrued on tax liabilities is recorded within interest expense on the condensed consolidated statements of operations. 
+ 12 
+
+Table of Contents 
+
+NOTE 11. 
+ In the event that estimates or assumptions prove to differ from actual results, adjustments are made in subsequent periods to reflect more current information. Should we fail to prevail in any legal matter or should several legal matters be resolved against the Company in the same reporting period, then the financial results of that particular reporting period could be materially affected. 
+ a) Intellectual Property Lawsuits 
+ We protect our proprietary technology by applying for patents where appropriate and, in other cases, by preserving the technology, related know-how and information as trade secrets. The success and competitive position of our product lines are impacted by our ability to obtain intellectual property protection for our research and development efforts. We have, from time to time, exchanged correspondence with third parties regarding the assertion of patent or other intellectual property rights in connection with certain of our products and processes. 
+ b) Resilience Litigation 
+ In February 2021, Resilience Capital Resilience filed a complaint against us with the Delaware Chancery Court containing claims arising from the February 2020 sale of SDI s real property (the Concord Property Sale located in Concord, California (the Concord Real Property to Eagle Rock Holdings, LP Buyer and that certain Single-Tenant Triple Net Lease, dated as of February 10, 2020, entered into by and between SDI and the Buyer, pursuant to which SDI leased from the Buyer the Concord Real Property for a year term. The Resilience complaint seeks, among other items, (i) a declaration that the Concord Property Sale included a non-cash component; (ii) a decree requiring us and Resilience to follow the appraisal requirements set forth in that certain Purchase and Sale Agreement (the "SDI Purchase Agreement"), dated as of June 7, 2019, by and among EMCORE Corporation, The Resilience Fund IV, L.P., The Resilience Fund IV-A, L.P., Aerospace Newco Holdings, Inc. and Ember Acquisition Sub, Inc.; (iii) recovery of Resilience s costs and expenses; and (iv) pre- and post-judgment interest. 
+ 
+ In April 2021, we filed with the Delaware Chancery Court our answer to the Resilience complaint and counterclaims against Resilience, in which we are seeking, among other items, (i) dismissal of the Resilience complaint and/or granting of judgment in favor of EMCORE with respect to the Resilience complaint, (ii) entering final judgment against Resilience awarding damages to us for Resilience s fraud and breaches of the SDI Purchase Agreement in an amount to be proven at trial and not less than , (iii) a judicial determination of the respective rights and duties of us and Resilience under the SDI Purchase Agreement, (iv) an award to us of costs and expenses and (v) pre- and post-judgment interest. We believe that the claims made by Resilience in its complaint are without merit and we intend to vigorously defend ourselves against them. 
+ 
+ NOTE 12. 
+ equity incentive compensation plans, collectively described as our Equity Plans : 
+ the 2010 Equity Incentive Plan, 
+ the 2012 Equity Incentive Plan, and 
+ 13 
+
+Table of Contents 
+
+ shares. 
+ Stock-based compensation 
+ Restricted stock units and awards Performance stock units and awards Employee stock purchase plan Outside director equity awards and fees in common stock Total stock-based compensation expense 
+ Selling, general, and administrative Research and development Total stock-based compensation expense 
+ 401(k) Plan 
+ We have a savings plan that qualifies as a deferred salary arrangement under Section 401(k) of the Internal Revenue Code. Under this savings plan, participating employees may defer a portion of their pretax earnings, up to the Internal Revenue Service annual contribution limit. Since June 2015, all employer contributions are made in cash. During each of the three months ended March 31, 2021 and 2020, our matching contribution in cash was approximately million. During each of the six months ended March 31, 2021 and 2020, our matching contribution in cash was approximately million and million, respectively. 
+ Income (Loss) Per Share 
+ ) ) Undistributed earnings allocated to common shareholders for basic and diluted net income (loss) per share ) ) Denominator: Denominator for basic net income (loss) per share - weighted average shares outstanding Denominator for fully diluted net (income) loss per share - weighted average shares outstanding Net income (loss) per basic share ) ) Net income (loss) per fully diluted share ) ) Weighted average antidilutive options, unvested restricted stock units and awards, unvested performance stock units and ESPP shares excluded from the computation 
+ 14 
+
+Table of Contents 
+
+ -month duration plan with new participation periods beginning on approximately February 25 and August 26 of each year. The purchase price is set at of the average high and low market price of our common stock on either the first or last trading day of the participation period, whichever is lower, and annual contributions are limited to the lower of of an employee s compensation or . 
+ 
+ Public Offering 
+ On February 16, 2021, we closed our offering of shares of our common stock, which included the full exercise of the underwriters option to purchase additional shares of common stock, at a price to the public of per share, resulting in net proceeds to us from the offering, after deducting the underwriting discounts and commissions and other offering expenses, of approximately million. The shares were sold by us pursuant to an underwriting agreement with Cowen and Company, LLC, dated as of February 10, 2021. 
+ Future Issuances 
+ Unvested restricted stock units and awards Unvested performance stock units and awards (at maximum payout) 
+ Purchases under the employee stock purchase plan Issuance of stock-based awards under the Equity Plans Purchases under the officer and director share purchase plan Total reserved 
+
+NOTE 13. 
+ reportable segments: (i) Aerospace and Defense and (ii) Broadband. 
+ The Company s Chief Executive Officer is the chief operating decision maker and he assesses the performance of the operating segments and allocates resources based on segment profits. We do not allocate sales and marketing, general and administrative expenses, or interest expense and interest income to our segments, because management does not include the information in its measurement of the performance of the operating segments. Also, a measure of segment assets and liabilities, has not been provided to the Company's chief operating decision maker and therefore is not shown below. 
+ 15 
+
+Table of Contents 
+
+Broadband Total revenue Segment Profit: Aerospace and Defense gross profit Aerospace Defense R D expense Aerospace and Defense segment profit ) ) Broadband gross profit Broadband R D expense Broadband segment profit Total consolidated segment profit Unallocated expense: Selling, general and administrative Loss (gain) on sale of assets ) ) Interest expense (income), net ) Foreign exchange loss (gain) ) Total unallocated expense Income (loss) before income tax expense (benefit) ) ) 
+ 
+ Revenue : 
+ Asia Europe Other Total revenue 
+ Significant Customers : Significant customers are defined as customers representing greater than 10 of our consolidated revenue. 
+ Revenue from of our significant customers represented an aggregate of and of our consolidated revenue for the three months ended March 31, 2021 and 2020, respectively. The increase in percentage from significant customers was driven by the increase in Broadband revenue. 
+ 16 
+
+Table of Contents 
+
+ of our significant customers represented an aggregate of and of our consolidated revenue for the six months ended March 31, 2021 and 2020, respectively. The increase in percentage from significant customers was driven by the increase in Broadband revenue. 
+ Significant portions of the Company s sales are concentrated among a limited number of customers. The duration, severity and future impact of the COVID-19 pandemic are highly uncertain and could result in significant disruptions to the business operations of the Company s customers. If one or more of these significant customers significantly decreases their orders for the Company s products, or if we are unable to deliver finished products to the Customer in connection with such orders, the Company s business could be materially and adversely affected. 
+ Long-lived Assets : Long-lived assets consist of land, building and property, plant, and equipment. As of March 31, 2021 and September 30, 2020, approximately and , respectively, of our long-lived assets were located in the United States. The remaining long-lived assets are primarily located in China. 
+ 17 
+
+Table of Contents 
+
+ ITEM 2. Management s Discussion and Analysis of Financial Condition and Results of Operations 
+ You should read the following discussion of our financial condition and results of operations in conjunction with the financial statements and the notes thereto included in Financial Statements under Item 1 within this Quarterly Report. The following discussion contains forward-looking statements that reflect our plans, estimates, and beliefs. Our actual results could differ materially from those discussed in the forward-looking statements. See Cautionary Statement Regarding Forward-Looking Statements preceding Item 1 of this Quarterly Report. 
+ 
+ Business Overview 
+ EMCORE Corporation (referred to herein, together with its subsidiaries, as the Company, we, our, or EMCORE was established in 1984 as a New Jersey corporation. The Company became publicly traded in 1997 and is listed on The Nasdaq Stock Market under the ticker symbol EMKR. EMCORE is a leading provider of sensors for navigation in the Aerospace and Defense market as well as a manufacturer of lasers and optical subsystems for use in the Cable TV CATV industry. 
+ EMCORE pioneered the linear fiber optic transmission technology that enabled the world s first delivery of CATV directly on fiber, and today is a leading provider of advanced Mixed-Signal Optics products serving the broadband communications and Aerospace and Defense markets. The Mixed-Signal Optics technology at the heart of our broadband communications products is shared with our fiber optic gyros and inertial sensors to provide the aerospace and defense markets with state-of-the-art navigations systems technology. With the acquisition of Systron Donner Inertial, Inc. SDI ), a navigation systems provider with a scalable, chip-based platform for higher volume gyro applications utilizing Quartz MEMS technology, in June 2019, EMCORE further expanded its portfolio of gyros and inertial sensors with SDI s quartz MEMS gyro and accelerometer technology. 
+ EMCORE has fully vertically-integrated manufacturing capability through our indium phosphide compound semiconductor wafer fabrication facility at our headquarters in Alhambra, CA, and through our quartz processing and sensor manufacturing facility in Concord, CA. These facilities support EMCORE s vertically-integrated manufacturing strategy for quartz and fiber optic gyro products, for navigation systems, and for our chip, laser, transmitter, and receiver products for broadband applications. 
+ We have two reporting segments: (a) Aerospace and Defense and (b) Broadband. Aerospace and Defense is comprised of two product lines: (i) Navigation and Inertial Sensing; and (ii) Defense Optoelectronics. The Broadband segment is comprised of three product lines: (i) CATV Lasers and Transmitters; (ii) Chip Devices; and (iii) Other. 
+ 
+ Recent Developments 
+ COVID-19 
+ The ongoing COVID-19 pandemic has negatively affected the U.S. and global economy, disrupted global supply chains, significantly restricted travel and transportation, resulted in mandated closures and orders to shelter-in-place, and created significant disruption of the financial markets. The full extent of the COVID-19 impact on our operational and financial performance will depend on future developments, including the duration and spread of the pandemic, the emergence of new strains of the virus, the impact of vaccination efforts, and related actions taken by the U.S. government, state and local government officials, and international governments to prevent disease spread, all of which are uncertain, out of our control, and cannot be predicted. 
+ Each region we and our supply chain partners operate in has been affected by COVID-19 at varying times and magnitudes, often creating unforeseen challenges associated with logistics, raw material supply and labor shortages. In accordance with applicable U.S. state and county ordinances generally exempting essential businesses and/or critical infrastructure workforces from mandated closures and orders to shelter-in-place, our U.S. production facilities have continued to operate in support of essential products and services, subject to limitations and requirements pursuant to applicable state and county orders with regard to ongoing operations that have reduced the efficiency of our engineering and operational teams. 
+ We rely on third party suppliers and contract manufacturers to provide materials, major components and products, and services. Many of our suppliers have at times temporarily ceased or limited operations as a result of COVID-19 and failed to deliver parts or components to us. For example, in the quarter ended March 31, 2021, COVID-19 driven component shortages required us to spend significant time sourcing critical components from alternative sources and, in some cases, forced us to design in alternative parts and qualify them with customers on short schedules. In addition, we continue to closely monitor the level of 
+ 18 
+
+Table of Contents 
+
+ COVID-19 transmission in Thailand, and any effects this may have on production levels of our CATV module and transmitter products by our contract manufacturer located there. 
+ We remain diligent in continuing to identify and manage risks to our business given the changing uncertainties related to COVID-19 and have plans in place intended to address or mitigate shortages of labor, material supplies and logistics services. While we believe that our supply chain, logistics and operations teams are currently in a position to meet expected customer demand levels in the coming quarters, we recognize that unpredictable events could create new challenges in the months ahead. We may not be able to address these challenges in a timely manner, which could negatively impact our financial results. 
+ In addition, restrictions related to the COVID-19 pandemic have negatively affected the timing of the sale and transfer of certain CATV module and transmitter manufacturing equipment to the Buyers (defined below), as described in more detail below under Hytera Transactions . While the Thai government has started to loosen entry restrictions for foreign workers slightly, travel into Thailand by our manufacturing engineers to support the transfer may remain difficult. While we are taking actions within our supply chain and manufacturing operations to mitigate the effects of these delays, the timing and completion of these transfers may be further disrupted as a result of COVID-19, which could delay our recognition of the anticipated benefits of transferring this equipment and could disrupt our manufacturing activities for these products. 
+ Our customer orders to date have generally remained stable with our pre-COVID-19 outlook, except with respect to customer orders related to the CATV Lasers and Transmitters product line, which have increased compared to our pre-COVID-19 outlook. However, qualification testing for certain of our products has continued to be delayed due to customer engineering shortages and limitations on their ability to access their facilities, and development timelines for certain programs continue to be extended. We continue to analyze on an ongoing basis how COVID-19 related actions could affect our product development efforts, future customer demand, timing of orders, recognized revenues, and cash flows. 
+ The continued spread of COVID-19 has also led to disruption and volatility in the global capital markets, which, depending on future developments, could impact our capital resources and liquidity in the future. If we need to raise additional capital to support operations in the future, we may be unable to access capital markets and additional capital may only be available to us on terms that could be significantly detrimental to our existing shareholders and to our business as a result of COVID-19. 
+ Equity Offering 
+ 
+ On February 16, 2021, we closed our offering of 6,655,093 shares of our common stock, which included the full exercise of the underwriters option to purchase 868,056 additional shares of common stock, at a price to the public of 5.40 per share, resulting in net proceeds to us from the offering, after deducting the underwriting discounts and commissions and other offering expenses, of approximately 33.1 million. The shares were sold by us pursuant to an underwriting agreement with Cowen and Company, LLC, dated as of February 10, 2021. 
+ Hytera Transactions 
+ As part of the effort to streamline operations and move to a variable cost model in our CATV Lasers and Transmitters product line, on October 25, 2019, we entered into an Asset Purchase Agreement (the Asset Purchase Agreement with Hytera Communications (Hong Kong) Company Limited, a limited liability company incorporated in Hong Kong Hytera HK ), and Shenzhen Hytera Communications Co., Ltd., a corporation formed under the laws of the P.R.C. Shenzhen Hytera , and together with Hytera HK, the Buyers ), pursuant to which the Buyers agreed to purchase from EMCORE certain CATV module and transmitter manufacturing equipment (the Equipment owned by EMCORE and currently located at the manufacturing facility of EMCORE s wholly-owned subsidiary, EMCORE Optoelectronics (Beijing) Co, Ltd., a corporation formed under the laws of the P.R.C., for an aggregate purchase price of approximately 5.54 million. 
+ The Equipment is in the process of being transferred to the Buyers in multiple closings, some of which have been delayed due to travel restrictions and the customer product qualification process during the COVID-19 pandemic, the last of which is now expected to occur during the quarter ending December 31, 2021. Concurrently, with our entry into the Asset Purchase Agreement, we entered into a Contract Manufacturing Agreement (the Manufacturing Agreement on October 25, 2019, pursuant to which the Buyers agreed to manufacture certain CATV module and transmitter products for us from a manufacturing facility located in Thailand for an initial five year term at product prices agreed to between the parties. The manufacture, purchase and sale of certain CATV module and transmitter products from the Thailand manufacturing facility pursuant to the Manufacturing Agreement, has commenced and is ongoing. 
+ Sale/Leaseback Transaction 
+ 
+ 19 
+
+Table of Contents 
+
+ SDI entered into a Standard Offer, Agreement and Escrow Instructions for Purchase of Real Estate (Non-Residential) (the Concord Purchase Agreement dated as of December 31, 2019 with Parkview Management Group, Inc., pursuant to which the parties agreed to consummate a sale and leaseback transaction (the Sale and Leaseback Transaction ). Under the terms of the Concord Purchase Agreement, SDI sold the property located in Concord, California (the Concord Real Property to Eagle Rock Holdings, LP Buyer ), an affiliate of Parkview Management Group, Inc. on February 10, 2020 for a total purchase price of 13.2 million. SDI received net proceeds of 12.8 million after transaction commissions and expenses incurred in connection with the sale. 
+ 
+ At the consummation of the Sale and Leaseback Transaction, SDI entered into a Single-Tenant Triple Net Lease (the Lease Agreement with Buyer, pursuant to which SDI leased back from Buyer the Concord Real Property for a term commencing on the consummation of the Sale and Leaseback Transaction and ending fifteen (15) years after the consummation of the Sale and Leaseback Transaction, unless earlier terminated or extended in accordance with the terms of the Lease Agreement. Under the Lease Agreement, SDI s financial obligations will include base monthly rent of 0.75 per square foot, or approximately 77,500 per month, which rent will increase on an annual basis at three percent (3 over the life of the lease. SDI is also responsible for all monthly expenses related to the Concord Real Property, including insurance premiums, taxes and other expenses, such as utilities. In connection with the execution of the Lease Agreement, EMCORE executed a Lease Guaranty (the Guaranty with Buyer under which EMCORE guaranteed payment of the monthly rent, any additional rent, interest, and any charges to be paid by SDI under the Lease Agreement. 
+ 
+ Result of Operations 
+ 
+ The following table sets forth our Condensed Consolidated Statements of Operations and Comprehensive Income (Loss) as a percentage of revenue: 
+ For the three months ended March 31, For the six months ended March 31, 2021 2020 2021 2020 Revenue 100.0 100.0 100.0 100.0 Cost of revenue 61.9 73.1 62.1 71.8 Gross profit 38.1 26.9 37.9 28.2 Operating expense: Selling, general, and administrative 15.8 29.9 16.5 26.4 Research and development 9.8 19.2 11.2 18.7 Loss (gain) on sale of assets 0.6 (1.3) 0.3 (3.9) Total operating expense 26.2 47.8 28.0 41.2 Operating income (loss) 11.9 (20.9) 9.9 (13.0) Other (expense) income: Interest expense, net (0.1) (0.1) Foreign exchange (loss) gain (0.2) (0.6) 0.2 Total other (expense) income (0.3) (0.6) 0.1 Income (loss) before income tax expense 11.6 (21.5) 10.0 (13.0) Income tax (expense) benefit (0.2) 0.2 (0.3) Net income (loss) 11.4 (21.3) 9.7 (13.0) 
+
+20 
+
+Table of Contents 
+
+ Comparison of Financial Results for the Three Months Ended March 31, 2021 and 2020 
+ For the three months ended March 31, 
+ (in thousands, except percentages) 2021 2020 Change Change Revenue 38,406 23,850 14,556 61.0 Cost of revenue 23,772 17,423 6,349 36.4 Gross profit 14,634 6,427 8,207 127.7 Operating expense: Selling, general, and administrative 6,062 7,139 (1,077) (15.1) Research and development 3,771 4,584 (813) (17.7) Loss (gain) on sale of assets 218 (315) 533 169.2 Total operating expense 10,051 11,408 (1,357) (11.9) Operating income (loss) 4,583 (4,981) 9,564 192.0 Other (expense) income: Interest (expense) income, net (49) 1 (50) (5,000.0) Foreign exchange loss (68) (156) 88 56.4 Total other income (117) (155) 38 24.5 Income (loss) before income tax (expense) benefit 4,466 (5,136) 9,602 187.0 Income tax (expense) benefit (82) 55 (137) (249.1) Net income (loss) 4,384 (5,081) 9,465 186.3 
+ 
+ Revenue 
+ For the three months ended March 31, (in thousands, except percentages) 2021 2020 Change Change Aerospace and Defense revenue 13,134 13,013 121 0.9 Broadband revenue 25,272 10,837 14,435 133.2 Total revenue 38,406 23,850 14,556 61.0 
+ Aerospace and Defense Revenue: 
+ For the three months ended March 31, 2021, our Aerospace and Defense revenue increased 121,000, or 0.9 , compared to the same period in the prior year primarily driven by a 151,000 increase in our Navigation and Inertial Sensing product line revenue driven by an increase in customer demand. 
+ Broadband Revenue: 
+ For the three months ended March 31, 2021, our Broadband revenue increased 14.4 million, or 133.2 , compared to the same period in the prior year primarily driven by a 12.3 million increase in our CATV Lasers and Transmitters product line and a 2.1 million increase in our Other product line driven by increased customer demand. Increased customer demand arose in part from an increase in investment by cable TV multiple-system operators MSOs in their networks to address the bottlenecks created by bandwidth demands from both work-from-home initiatives and stay at home entertainment. 
+ 
+ Gross Profit 
+ For the three months ended March 31, (in thousands, except percentages) 2021 2020 Change Change Aerospace and Defense gross profit 3,775 2,844 931 32.7 Broadband gross profit 10,859 3,583 7,276 203.1 Total gross profit 14,634 6,427 8,207 127.7 
+ 21 
+
+Table of Contents 
+
+ Our cost of revenue consists of raw materials, compensation expense including non-cash stock-based compensation expense, depreciation expense and other manufacturing overhead costs, expenses associated with excess and obsolete inventories, and product warranty costs. Historically, our cost of revenue as a percentage of revenue, which we refer to as our gross margin, has fluctuated significantly due to product mix, manufacturing yields, sales volumes, inventory and specific product warranty charges, as well as the amount of our revenue relative to fixed manufacturing costs. 
+ Consolidated gross margins were 38.1 and 26.9 for the three months ended March 31, 2021 and 2020, respectively. 
+ Stock-based compensation expense within cost of revenue totaled approximately 0.2 million for each of the three months ended March 31, 2021 and 2020. 
+ Aerospace and Defense Gross Profit: 
+ For the three months ended March 31, 2021, Aerospace and Defense gross profit increased 0.9 million, or 32.7 , compared to the same period in the prior year, primarily driven by favorable product mix. For the three months ended March 31, 2021 and 2020, Aerospace and Defense gross margin was 28.7 and 21.9 , respectively. The increase in gross margin in the three months ended March 31, 2021 is driven by favorable product mix and lower overall manufacturing spending. 
+ Broadband Gross Profit: 
+ For the three months ended March 31, 2021, Broadband gross profit increased 7.3 million, or 203.1 , compared to the same period in the prior year, primarily as a result of higher revenue of 14.4 million offset by an increase in higher cost of revenue of 7.2 million. For the three months ended March 31, 2021 and 2020, Broadband gross margin was 43.0 and 33.1 , respectively. The increase in gross margin in the three months ended March 31, 2021 is primarily driven by an increase in revenue relative to fixed manufacturing costs and product mix. 
+ 
+ Selling, General and Administrative SG A 
+ SG A consists primarily of compensation expense including non-cash stock-based compensation expense related to executive, finance, and human resources personnel, as well as sales and marketing expenses, professional fees, legal and patent-related costs, and other corporate-related expenses. 
+ Stock-based compensation expense within SG A totaled approximately 0.5 million and 0.6 million for the three months ended March 31, 2021 and 2020, respectively. 
+ SG A expense for the three months ended March 31, 2021 was 1.1 million lower than the amount reported in the same period in the prior year primarily due to lower compensation and travel related expenses. 
+ As a percentage of revenue, SG A expenses were 15.8 and 29.9 for the three months ended March 31, 2021 and 2020, respectively. 
+ 
+ Research and Development R D 
+ R D consists primarily of compensation expense including non-cash stock-based compensation expense, as well as engineering and prototype costs, depreciation expense, and other overhead expenses, as they relate to the design, development, and testing of our products. Our R D costs are expensed as incurred. We believe that in order to remain competitive, we must invest significant financial resources in developing new product features and enhancements and in maintaining customer satisfaction worldwide. 
+ Stock-based compensation expense within R D totaled approximately 0.2 million during each of the three months ended March 31, 2021 and 2020. 
+ For the three months ended March 31, 2021 and 2020, Aerospace and Defense R D expense was 3.2 million and 4.0 million, respectively. For the each of the three months ended March 31, 2021 and 2020, Broadband R D expense was 0.6 million. 
+ R D expense for the three months ended March 31, 2021 was lower than the amounts reported in the same period in the prior year by 0.8 million primarily due to lower compensation and project related expense. 
+ 22 
+
+Table of Contents 
+
+ As a percentage of revenue, R D expenses were 9.8 and 19.2 for the three months ended March 31, 2021 and 2020, respectively. 
+ 
+ Operating Income (Loss) 
+ Operating income (loss) represents revenue less the cost of revenue and operating expenses incurred. Operating income (loss) is a measure that executive management uses to assess performance and make decisions. 
+ 
+ As a percentage of revenue, our operating income (loss) was 11.9 and (20.9) for the three months ended March 31, 2021 and 2020, respectively. 
+ 
+ The improvement of 9.6 million in operating income (loss) in the three months ended March 31, 2021 compared to the same period in the prior year is driven by an increase in revenue of 14.6 million and an increase in gross profit of 8.2 million, while research and development expense decreased by 0.8 million, and selling, general and administrative expense decreased by 1.1 million, offset by a decrease in gain on sale of equipment of 0.5 million. 
+ 
+ Other Income 
+ Interest (Expense) Income, net 
+ During the three months ended March 31, 2021 and 2020, we recorded (49,000) of interest expense, net and 1,000 of interest income, net, respectively. Interest expense is related to our Credit Facility (as defined below) and PPP Loan, and interest income is earned on cash and cash equivalent balances. 
+ Foreign Exchange (Loss) Gain 
+ Gains or losses from foreign currency transactions denominated in currencies other than the U.S. dollar, both realized and unrealized, are recorded as foreign exchange (loss) gain on our Condensed Consolidated Statements of Operations and Comprehensive Income (Loss). The (losses) gains recorded relate to the change in value of the Chinese Yuan Renminbi relative to the U.S. dollar. 
+ 
+ Income Tax (Expense) Benefit 
+ During the three months ended March 31, 2021 and 2020, the Company recorded income tax (expense) benefit of approximately (82,000) and 55,000, respectively. Income tax expense for each of the three months ended March 31, 2021 and 2020 is composed primarily of state tax expense. The increase in income tax expense is driven by the State of California's temporary suspension of NOL utilization. 
+ 23 
+
+Table of Contents 
+
+Comparison of Financial Results for the Six Months Ended March 31, 2021 and 2020 
+ For the six months ended March 31, 
+ (in thousands, except percentages) 2021 2020 Change Change Revenue 71,832 49,332 22,500 45.6 Cost of revenue 44,626 35,431 9,195 26.0 Gross profit 27,206 13,901 13,305 95.7 Operating expense: Selling, general, and administrative 11,860 13,026 (1,166) (9.0) Research and development 8,067 9,226 (1,159) (12.6) Loss (gain) on sale of assets 189 (1,917) 2,106 109.9 Total operating expense 20,116 20,335 (219) (1.1) Operating income (loss) 7,090 (6,434) 13,524 210.2 Other income (expense): Interest expense, net (98) (14) (84) (600.0) Foreign exchange gain (loss) 169 (9) 178 1,977.8 Total other income (expense) 71 (23) 94 408.7 Income (loss) before income tax expense 7,161 (6,457) 13,618 210.9 Income tax (expense) benefit (208) 41 (249) (607.3) Net income (loss) 6,953 (6,416) 13,369 208.4 
+ 
+ Revenue 
+ For the six months ended March 31, (in thousands, except percentages) 2021 2020 Change Change Aerospace and Defense revenue 26,770 26,717 53 0.2 Broadband revenue 45,062 22,615 22,447 99.3 Total revenue 71,832 49,332 22,500 45.6 
+ Aerospace and Defense Revenue: 
+ For the six months ended March 31, 2021, our Aerospace and Defense revenue increased 53,000, or 0.2 , compared to the same period in the prior year. For the six months ended March 31, 2021, our Navigation and Inertial Sensing product line revenue decreased 0.9 million compared to the same period in the prior year, due to decreased customer demand. Defense Optoelectronics product line revenue increased 1.0 million compared to the same period in the prior year driven by increased customer demand. 
+ Broadband Revenue: 
+ For the six months ended March 31, 2021, our Broadband revenue increased 22.4 million, or 99.3 , compared to the same period in the prior year primarily driven by a 20.3 million increase in products sold in the CATV Lasers and Transmitters product line driven by increased customer demand, arising in part from an increase in investment by cable TV multiple-system operators MSOs in their networks to address the bottlenecks created by bandwidth demands from both work-from-home initiatives and stay at home entertainment. 
+ 24 
+
+Table of Contents 
+
+Gross Profit 
+ For the six months ended March 31, (in thousands, except percentages) 2021 2020 Change Change Aerospace and Defense gross profit 7,875 7,332 543 7.4 Broadband gross profit 19,331 6,569 12,762 194.3 Total gross profit 27,206 13,901 13,305 95.7 
+ Our cost of revenue consists of raw materials, compensation expense including non-cash stock-based compensation expense, depreciation expense and other manufacturing overhead costs, expenses associated with excess and obsolete inventories, and product warranty costs. Historically, our cost of revenue as a percentage of revenue, which we refer to as our gross margin, has fluctuated significantly due to product mix, manufacturing yields, sales volumes, inventory and specific product warranty charges, as well as the amount of our revenue relative to fixed manufacturing costs. 
+ Consolidated gross margins were 37.9 and 28.2 for the six months ended March 31, 2021 and 2020, respectively. 
+ Stock-based compensation expense within cost of revenue totaled approximately 0.3 million for each of the six months ended March 31, 2021 and 2020. 
+ Aerospace and Defense Gross Profit: 
+ For the six months ended March 31, 2021, Aerospace and Defense gross profit increased 0.5 million, or 7.4 , compared to the same period in the prior year driven by lower cost of revenue. For the six months ended March 31, 2021 and 2020, Aerospace and Defense gross margin was 29.4 and 27.4 , respectively. The increase in gross margin in the six months ended March 31, 2021 is primarily driven by product mix. 
+ Broadband Gross Profit: 
+ For the six months ended March 31, 2021, Broadband gross profit increased 12.8 million, or 194.3 , compared to the same period in the prior year driven by higher revenue. For the six months ended March 31, 2021 and 2020, Broadband gross margin was 42.9 and 29.1 , respectively. The increase in gross margin in the six months ended March 31, 2021 is primarily driven by higher revenue relative to fixed manufacturing costs and product mix. 
+ 
+ Selling, General and Administrative SG A 
+ SG A consists primarily of compensation expense including non-cash stock-based compensation expense related to executive, finance, and human resources personnel, as well as sales and marketing expenses, professional fees, legal and patent-related costs, and other corporate-related expenses. 
+ Stock-based compensation expense within SG A totaled approximately 1.1 million for each of the six months ended March 31, 2021 and 2020. 
+ SG A expense for the six months ended March 31, 2021 was 1.2 million lower than the amount reported in the same period in the prior year primarily due to lower compensation, facility, and travel related expense. 
+ As a percentage of revenue, SG A expenses were 16.5 and 26.4 for the six months ended March 31, 2021 and 2020, respectively. 
+ 
+ Research and Development R D 
+ R D consists primarily of compensation expense including non-cash stock-based compensation expense, as well as engineering and prototype costs, depreciation expense, and other overhead expenses, as they relate to the design, development, and testing of our products. Our R D costs are expensed as incurred. We believe that in order to remain competitive, we must invest significant financial resources in developing new product features and enhancements and in maintaining customer satisfaction worldwide. 
+ 25 
+
+Table of Contents 
+
+ Stock-based compensation expense within R D totaled approximately 0.4 million during each of the six months ended March 31, 2021 and 2020. 
+ For the six months ended March 31, 2021 and 2020, Aerospace and Defense R D expense was 6.8 million and 7.9 million, respectively. For the six months ended March 31, 2021 and 2020, Broadband R D expense was 1.2 million and 1.3 million, respectively. 
+ R D expense for the six months ended March 31, 2021 was lower than the amounts reported in the same period in the prior year by 1.2 million due to lower compensation, project, equipment and facility related expenses. 
+ As a percentage of revenue, R D expenses were 11.2 and 18.7 for the six months ended March 31, 2021 and 2020, respectively. 
+ 
+ Operating Income (Loss) 
+ Operating income (loss) represents revenue less the cost of revenue and operating expenses incurred. Operating income (loss) is a measure that executive management uses to assess performance and make decisions. 
+ As a percentage of revenue, our operating income (loss) was 9.9 and (13.0) for the six months ended March 31, 2021 and 2020, respectively. 
+ The improvement of 13.5 million in operating income (loss) in the six months ended March 31, 2021, compared to the same period in the prior year driven by the increase in revenue of 22.5 million and an increase in gross profit of 13.3 million, while research and development expense decreased by 1.2 million, and selling, general and administrative expense decreased by 1.2 million, offset by a decrease in gain on sale of equipment of 2.1 million. 
+ 
+ Other Income 
+ Interest Expense (Income), net 
+ During the six months ended March 31, 2021 and 2020, we recorded 98,000 and 14,000 of interest expense, net, respectively. Interest expense is related to our Credit Facility (as defined below) and PPP Loan, and interest income is earned on cash and cash equivalent balances. 
+ Foreign Exchange Gain 
+ Gains or losses from foreign currency transactions denominated in currencies other than the U.S. dollar, both realized and unrealized, are recorded as foreign exchange gain (loss) on our condensed consolidated statements of operations and comprehensive loss. The gain (losses) recorded relate to the change in value of the Chinese Yuan Renminbi relative to the U.S. dollar. 
+ 
+ Income Tax (Expense) Benefit 
+ During the six months ended March 31, 2021 and 2020, the Company recorded income tax (expense) benefit of (208,000) and 41,000, respectively. Income tax expense for the six months ended March 31, 2021 and 2020 is composed primarily of state income tax expense. The increase in income tax expense is driven by the State of California's temporary suspension of NOL utilization. 
+ Order Backlog 
+ EMCORE s product sales are made pursuant to purchase orders, often with short lead times. These orders are subject to revision or cancellation and often are made without deposits. In addition, in some recent periods, Broadband products have typically shipped within the same quarter in which a purchase order is received. Therefore, our order backlog at any particular date is not necessarily indicative of actual revenue or the level of orders for any succeeding period and may not be comparable to prior periods. We have experienced an increase in our backlog in our CATV Lasers and Transmitters product line through the quarter ending March 31, 2022 driven by increased customer demand, arising in part from an increase in investment by MSOs in their networks to break the bottlenecks created by bandwidth demands from both work-from-home initiatives and stay at home entertainment as a result of the COVID-19 pandemic. However, these orders in our CATV Lasers and 
+ 26 
+
+Table of Contents 
+
+ Transmitters product line are subject to revision or cancellation and we can provide no assurance that such an increase in our backlog will result in corresponding revenue. 
+ Liquidity and Capital Resources 
+ We have historically consumed cash from operations and, in most periods, we have incurred operating losses from continuing operations. We have managed our liquidity position through the sale of assets, cost reduction initiatives, and capital market transactions as well as, from time to time in prior periods, borrowings from our Credit Facility (defined below). 
+ As of March 31, 2021, cash and cash equivalents totaled 65.3 million and net working capital totaled approximately 103.2 million. Net working capital, calculated as current assets (including inventory) minus current liabilities, is a financial metric we use which represents available operating liquidity. 
+ On February 16, 2021, we closed our offering of 6,655,093 shares of our common stock, which included the full exercise of the underwriters option to purchase 868,056 additional shares of common stock, at a price to the public of 5.40 per share, resulting in net proceeds to us from the offering, after deducting the underwriting discounts and commissions and other offering expenses, of approximately 33.1 million. The shares were sold by us pursuant to an underwriting agreement with Cowen and Company, LLC, dated as of February 10, 2021. 
+ On November 11, 2010, we entered into a Credit and Security Agreement (as amended to date, the Credit Facility with Wells Fargo Bank, N.A. Wells Fargo ). The Credit Facility currently provides us with a revolving credit line of up to 15.0 million that can be used for working capital requirements, letters of credit, acquisitions, and other general corporate purposes subject to requirements that (a) we have (i) liquidity of at least 10.0 million, and (ii) for certain specific uses, liquidity of at least 25.0 million after such use and (b) we maintain excess availability of at least 1.0 million. The Credit Facility has a maturity date expiring in November 2021, is secured by our assets and is subject to a borrowing base formula based on the Company s eligible accounts receivable, inventory, and machinery and equipment accounts. See "Note 9 - Credit Facilities and Debt" in the notes to the condensed consolidated financial statements for additional disclosures. As of April 30, 2021, there was no outstanding balance under this Credit Facility, 0.5 million reserved for one outstanding stand-by letter of credit and 13.4 million available for borrowing. 
+ On May 3, 2020, we entered into a Paycheck Protection Program Promissory Note and Agreement (the PPP Loan Agreement with Wells Fargo Bank, N.A. under the Paycheck Protection Program PPP established under the Coronavirus Aid, Relief and Economic Security Act CARES Act to receive loan proceeds of approximately 6.5 million (the PPP Loan ), which we received on May 6, 2020. 
+ The PPP Loan matures on May 3, 2022 and bears interest at a fixed rate of 1.00 per annum, payable monthly. Monthly payments in the amount of 273,160 will be due and payable beginning at such time as is in accordance with the terms of the Paycheck Protection Flexibility Act of 2020 and continuing each month thereafter until maturity of the PPP Loan. There is no prepayment penalty. Under the terms of the PPP, all or a portion of the principal may be forgiven if the PPP Loan proceeds are used for qualifying expenses as described in the CARES Act, such as payroll costs, benefits, rent, and utilities. During the three months ended March 31, 2021 we applied for forgiveness of the PPP Loan. We can provide no assurance that we will obtain forgiveness of the PPP Loan in whole or in part. With respect to any portion of the PPP Loan that is not forgiven, the PPP Loan will be subject to customary provisions for a loan of this type, including customary events of default relating to, among other things, payment defaults and breaches of the provisions of the PPP Loan Agreement. 
+ We have a history of operating losses and negative cash flows from operations. We believe that our existing balances of cash and cash equivalents, cash flows from operations and amounts expected to be available under our Credit Facility and any amounts that may be available to us under governmental lending programs will provide us with sufficient financial resources to meet our cash requirements for operations, working capital, and capital expenditures for at least the next twelve months from the date of the issuance of these financial statements. We have taken a number of actions to continue to support our operations and meet our obligations, including the February 2021 offering of shares of our common stock described in more detail above, completing the sale of the Concord Real Property, headcount reductions and other cost reductions and obtaining the PPP Loan. In addition, should we require more capital than what is generated by our operations, we could engage in additional sales or other monetization of certain fixed assets, additional cost reductions, or elect to raise capital in the U.S. through debt or additional equity issuances. These alternatives may not be available to us on reasonable terms or at all, and could result in higher effective tax rates, increased interest expense, and/or dilution of our earnings. 
+ As described above, the continued spread of COVID-19 has led to disruption and volatility in the global capital markets, which, depending on future developments, could impact our capital resources in the future. If we need to raise additional capital to 
+ 27 
+
+Table of Contents 
+
+ support operations in the future, we may be unable to access capital markets and additional capital may only be available to us on terms that could be significantly detrimental to our existing shareholders and to our business. 
+ 
+ Cash Flow 
+ Net Cash Provided By (Used In) Operating Activities 
+ Operating Activities For the six months ended March 31, (in thousands, except percentages) 2021 2020 Change Change Net cash provided by (used in) operating activities 1,772 (7,118) 8,890 124.9 
+ For the six months ended March 31, 2021: 
+ For the six months ended March 31, 2021, our operating activities provided cash of 1.8 million driven by our net income of 7.0 million, and positive adjustments for non-cash charges, including depreciation and amortization expense of 2.0 million, stock based compensation of 1.8 million, provision adjustment related to product warranty of 0.2 million, and gain on disposal of property, plant, and equipment of 0.2 million offset by negative adjustments for non-cash charges of 0.3 million, and changes in our operating assets and liabilities (or working capital components) of 9.1 million. The change in our operating assets and liabilities was driven by an increase in accounts receivable and contract assets of 3.6 million, inventory of 3.9 million, and a decrease in accounts payable of 0.7 million and accrued expenses and other liabilities of 2.0 million offset by a decrease in other assets of 1.1 million. 
+ For the six months ended March 31, 2020: 
+ For the six months ended March 31, 2020, our operating activities used cash of 7.5 million, primarily due to our net loss of 6.4 million, changes in our operating assets and liabilities (or working capital components, which includes non-current inventory) of 4.5 million and gain on disposal of assets of 1.9 million, partially offset by adjustments for non-cash charges, including depreciation and amortization expense of 3.3 million, stock-based compensation expense of 1.8 million, product warranty provision of 0.1 million and bad debt provision of 0.1 million. The change in our operating assets and liabilities was driven by an increase in accounts receivable of 2.4 million and other assets of 13.8 million and a decrease in accounts payable of 0.5 million and accrued expenses and other liabilities of 10.7 million, partially offset by a decrease in inventory of 0.5 million. 
+ Working Capital Components: 
+ Accounts Receivable: We generally expect the level of accounts receivable at any given quarter end to reflect the level of sales in that quarter. Our accounts receivable balances have historically fluctuated due to the timing of account collections, timing of product shipments, and/or change in customer credit terms. 
+ Inventory: We generally expect the level of inventory at any given quarter end to reflect the change in our expectations of forecasted sales during the quarter. Our inventory balances have historically fluctuated due to the timing of customer orders and product shipments, changes in our internal forecasts related to customer demand, as well as adjustments related to excess and obsolete inventory and the purchase of non-current inventory. 
+ Accounts Payable: The fluctuation of our accounts payable balances is primarily driven by changes in inventory purchases as well as changes related to the timing of actual payments to vendors. 
+ Accrued Expenses: Our largest accrued expense typically relates to compensation. Historically, fluctuations of our accrued expense accounts have primarily related to changes in the timing of actual compensation payments, receipt or application of advanced payments, adjustments to our warranty accrual, and accruals related to professional fees. 
+ Net Cash (Used In) Provided By Investing Activities 
+ Investing Activities For the six months ended March 31, (in thousands, except percentages) 2021 2020 Change Change Net cash (used in) provided by investing activities (559) 12,486 (13,045) (104.5) 
+ For the six months ended March 31, 2021: 
+ For the six months ended March 31, 2021, our investing activities used cash of 0.6 million due to capital-related expenditures of 1.1 million offset by proceeds from disposal of property, plant, and equipment of 0.6 million. 
+ 28 
+
+Table of Contents 
+
+For the six months ended March 31, 2020: 
+ For the six months ended March 31, 2020, our investing activities provided cash of 12.5 million primarily from cash proceeds from the disposal of property, plant and equipment of 14.9 million from the sale of our facility in Concord, California, partially offset by capital-related expenditures of 2.4 million. 
+ Net Cash Provided By (Used In) Financing Activities 
+ Financing Activities For the six months ended March 31, (in thousands, except percentages) 2021 2020 Change Change Net cash provided by (used in) financing activities 33,486 (5,263) 38,749 (736.3) 
+ For the six months ended March 31, 2021: 
+ For the six months ended March 31, 2021, our financing activities provided cash of 33.5 million primarily due to proceeds from issuance of common stock, net of issuance costs of 33.1 million and proceeds from employee stock purchase plan and equity awards of 0.4 million. 
+ For the six months ended March 31, 2020: 
+ For the six months ended March 31, 2020, our financing activities used cash of 5.3 million primarily due to net payments related to borrowings from our bank Credit Facility of 5.5 million, partially offset by proceeds from stock plan transactions of 0.3 million. 
+ 
+ Contractual Obligations and Commitments 
+ As of the date of this report, there were no material changes to our contractual obligations and commitments outside the ordinary course of business since September 30, 2020 as reported in our Annual Report on Form 10-K for the fiscal year ended September 30, 2020. 
+ 
+ Off-Balance Sheet Arrangements 
+ We do not have any off-balance sheet arrangements that have or are reasonably likely to have a current or future material effect on our condensed consolidated financial condition, results of operations, liquidity, capital expenditures or capital resources. 
+ 
+ Critical Accounting Policies and Estimates 
+ The preparation of condensed consolidated financial statements in conformity with U.S. GAAP requires us to make estimates and assumptions that affect the reported amounts of assets and liabilities and disclosure of contingent assets and liabilities, as of the date of the financial statements, and the reported amounts of revenue and expenses during the reported period. If these estimates differ significantly from actual results, the impact to the condensed consolidated financial statements may be material. There have been no material changes in our critical accounting policies and estimates from those disclosed in our Annual Report on Form 10-K for the fiscal year ended September 30, 2020. Please refer to Part II, Item 7 of our Annual Report on Form 10-K for the fiscal year ended September 30, 2020 for a discussion of our critical accounting policies and estimates. 
+ 
+ ITEM 3. Quantitative and Qualitative Disclosures about Market Risk 
+ There were no material changes to our quantitative and qualitative disclosures about market risk during the second quarter of fiscal 2021. Please refer to Part II, Item 7A Quantitative and Qualitative Disclosures about Market Risk included in our Annual Report on the Form 10-K for our fiscal year ended September 30, 2020 for a more complete discussion of the market risks we encounter. 
+ 29 
+
+Table of Contents 
+
+ITEM 4. Controls and Procedures 
+ 
+ a. Evaluation of Disclosure Controls and Procedures 
+ Our management, with the participation of its Chief Executive Officer (Principal Executive Officer) and Chief Financial Officer (Principal Financial Officer and Accounting Officer), evaluated the effectiveness of the Company s disclosure controls and procedures (as defined in Rules 13a-15(e) and 15d-15(e) promulgated under the Securities Exchange Act of 1934, as amended (the Exchange Act )) as of March 31, 2021. Based upon this evaluation, our Chief Executive Officer and our Chief Financial Officer concluded that our disclosure controls and procedures were effective as of the end of the period covered by this report. 
+ b. Changes in Internal Control over Financial Reporting 
+ There have been no changes in the Company s internal control over financial reporting (as defined in Rule 13a-15(f) and 15d-15(f) promulgated under the Exchange Act) during the quarter ended March 31, 2021 that have materially affected, or are reasonably likely to materially affect, the Company s internal control over financial reporting. 
+ 
+ PART II. Other Information. 
+ 
+ ITEM 1. Legal Proceedings 
+ See the disclosures under the caption Legal Proceedings in " Note 11 - Commitments and Contingencies " in the notes to our condensed consolidated financial statements for disclosures related to our legal proceedings, which disclosures are incorporated herein by reference. 
+ 
+ ITEM 1A. Risk Factors 
+ In addition to the other information set forth in this report, you should carefully consider the risk factors discussed in Part I, Item 1A. Risk Factors in our Annual Report on Form 10 K for the fiscal year ended September 30, 2020, which could materially affect our business, financial condition or future results. Except for the risk factor discussed below, we do not believe that there have been any material changes to the risk factors disclosed in our Annual Report on Form 10-K for the fiscal year ended September 30, 2020. The risks described in our Annual Report on Form 10 K and described below are not the only risks facing our Company. Additional risks and uncertainties not currently known to us or that we currently deem immaterial also may materially adversely affect our business, financial condition, operating results and/or cash flows. 
+ The full effects of COVID-19 and other potential future public health crises, epidemics, pandemics or similar events are uncertain and could have a material and adverse effect on our business, financial condition, operating results and cash flows. 
+ The ongoing COVID-19 pandemic has negatively affected the U.S. and global economy, disrupted global supply chains, significantly restricted travel and transportation, resulted in mandated closures and orders to shelter-in-place, and created significant disruption of the financial markets. The full extent of the COVID-19 impact on our operational and financial performance will depend on future developments, including the duration and spread of the pandemic, the emergence of new strains of the virus, the impact of vaccination efforts and related actions taken by the U.S. government, state and local government officials, and international governments to prevent disease spread, all of which are uncertain, out of our control and cannot be predicted. 
+ In accordance with applicable U.S. state and county ordinances generally exempting essential businesses and/or critical infrastructure workforces from mandated closures and orders to shelter-in-place, our U.S. production facilities have continued to operate in support of essential products and services, subject to limitations and requirements pursuant to applicable state and county orders with regard to ongoing operations that have reduced the efficiency of our engineering and operational teams. However, facility closures or further work slowdowns or temporary stoppages could occur, and in some cases, our facilities and supplier facilities are not operating under full staffing as a result of COVID-19, which could have a longer-term impact and could delay our development efforts and our deliveries to customers. In addition, other countries have different practices and policies that can affect our international operations and the operations of our suppliers and customers. For example, operations 
+ 30 
+
+Table of Contents 
+
+ at our Beijing facility ceased for one additional week beyond the Chinese New Year holiday in February 2020 as a result of the COVID-19 situation, and additional closures could occur. 
+ In addition, the COVID-19 pandemic has negatively affected, and could have further negative effects on, the timing of the sale and transfer of certain CATV module and transmitter manufacturing equipment that we have agreed, as part of our efforts to streamline operations and move to a variable cost model in our CATV Lasers and Transmitters product line, to sell to Hytera Communications (Hong Kong) Company Limited Hytera HK ), and Shenzhen Hytera Communications Co., Ltd. Shenzhen Hytera , and together with Hytera HK, the Buyers ), for use by the Buyers in connection with the manufacturing of certain CATV module and transmitter products for us from a manufacturing facility located in Thailand. The sale and transfer of the equipment will occur in three separate closings, one of which occurred in the quarter ended December 31, 2019 and the other two of which are now expected to occur during the quarter ending December 31, 2021. The timing and completion of these transfers may be further disrupted as a result of COVID-19, which could delay our recognition of the anticipated benefits of transferring this equipment and could disrupt our manufacturing activities for these products. 
+ If significant portions of our workforce are unable to work effectively, including because of illness, quarantines, absenteeism, government actions, facility closures, travel restrictions or other restrictions in connection with the COVID-19 pandemic, our operations will be negatively impacted. We may be unable to perform fully on our contracts and our costs may increase as a result of the COVID-19 outbreak. The impact of COVID-19 could worsen if there is an extended duration of any COVID-19 outbreak or a resurgence of COVID-19 infection in affected regions after they have begun to experience improvement. 
+ We rely on other companies to provide materials, major components and products, and to perform a portion of the services that are provided to our customers under the terms of most of our contracts where we rely on these third parties. Many of our suppliers have at times temporarily ceased or limited operations as a result of COVID-19 and failed to deliver parts or components to us. For example, in the quarter ended March 31, 2021, COVID-19 driven component shortages required us to spend significant time sourcing critical components from alternative sources and, in some cases, forced us to design in alternative parts and qualify them with customers on short schedules. These or similar actions may continue in the future, and an extended period of global supply chain disruption caused by the response to COVID-19 could impact our ability to perform on our contracts and, if we are not able to implement alternatives or other mitigations, product deliveries could be adversely impacted. 
+ As a result of COVID-19, we could see reduced customer orders in certain of our product lines, which could adversely affect our revenues, financial performance and cash flows, and could result in inventory write-downs and impairment losses. Significant delays in inspection, acceptance and payment by our customers, many of whom are teleworking, could also affect our revenues and cash flows, and current limitations on travel to customers could impact orders. For example, qualification testing for certain of our products continues to be delayed due to customer engineering shortages and limitations on their ability to access their facilities. In addition, l imitations on government operations can also impact regulatory approvals such as export licenses that are needed for international sales and deliveries for certain of our products. Government funding priorities may change as a result of the costs of COVID-19, which could adversely affect our revenues arising from government contracts or subcontracts, and with respect to such contracts, we could experience delays in new program starts or awards of future work or in timelines for current programs, as well as the uncertain impact of contract modifications to respond to the national emergency. 
+ The continued spread of COVID-19 has also led to disruption and volatility in the global capital markets, which, depending on future developments, could impact our capital resources and liquidity in the future. If we need to raise additional capital to support operations in the future, we may be unable to access capital markets and additional capital may only be available to us on terms that could be significantly detrimental to our existing shareholders and to our business as a result of COVID-19. We are also monitoring the impacts of COVID-19 on the fair value of our assets. While we do not currently anticipate any material impairments on our assets as a result of COVID-19, future changes in expectations for sales, earnings and cash flows related to intangible assets and below our current projections could cause these assets to be impaired. 
+ 31 
+
+Table of Contents 
+
+ ITEM 6. Exhibits 
+ 2.1 Asset Purchase Agreement, dated as of October 25, 2019 by and among EMCORE Corporation, Hytera Communications (Hong Kong) Company Limited and Shenzhen Hytera Communications Co., Ltd. (incorporated by reference to Exhibit 2.1 to the Company s Current Report on Form 8-K filed on October 30, 2019). 
+ 2.2 Purchase and Sale Agreement, dated as of June 7, 2019 by and among EMCORE Corporation, The Resilience Fund IV, L.P., The Resilience Fund IV-A, L.P., Aerospace Newco Holdings, Inc. and Ember Acquisition Sub, Inc. (incorporated by reference to Exhibit 2.1 to the Company s Current Report on Form 8-K filed on June 10, 2019). 
+ 2.3 Standard Offer, Agreement and Escrow Instructions for Purchase of Real Estate (Non-Residential) dated as of December 31, 2019 by and between Parkview Management Group, Inc. and Systron Donner Inertial, Inc. (incorporated by reference to Exhibit 10.1 to the Company s Current Report on Form 8-K filed on January 6, 2020). 
+ 2.4 First Amendment to Standard Offer, Agreement and Escrow Instructions for Purchase of Real Estate (Non-Residential) dated as of January 13, 2020 by and between Parkview Management Group, Inc. and Systron Donner Inertial, Inc. (incorporated by reference to Exhibit 10.6 to the Company s Quarterly Report on Form 10-Q filed on February 10, 2020). 
+ 3.1 By-Laws of EMCORE Corporation, as amended through January 11, 2021 (incorporated by reference to Exhibit 3.1 to the Company s Current Report on Form 8-K filed on January 13, 2021). 
+ 10.1 Amended and Restated EMCORE Corporation 2019 Equity Incentive Plan (incorporated by reference to Exhibit 10.1 to the Company s Current Report on Form 8-K filed on March 23, 2021). 
+ 10.2 Directors Compensation Policy (effective March 18, 2021). 
+ 10.3 Form of time-based Restricted-Stock Unit Award Agreement (for directors) under the Amended and Restated EMCORE Corporation 2019 Equity Incentive Plan (as of March 2021). 
+ 10.4 Form of performance-based Restricted-Stock Unit Award Agreement (for executive officers) under the Amended and Restated EMCORE Corporation 2019 Equity Incentive Plan (as of March 2021). 
+ 31.1 Certificate of Chief Executive Officer Pursuant to Section 302 of the Sarbanes-Oxley Act of 2002. 
+ 31.2 Certificate of Chief Financial Officer Pursuant to Section 302 of the Sarbanes-Oxley Act of 2002. 
+ 32.1 Certificate of Chief Executive Officer Pursuant to Section 906 of the Sarbanes-Oxley Act of 2002. 
+ 32.2 Certificate of Chief Financial Officer Pursuant to Section 906 of the Sarbanes-Oxley Act of 2002. 
+ 101.INS Inline XBRL Instance Document the instance document does not appear in the Interactive Data File because its XBRL tags are embedded within the Inline XBRL document. 101.SCH XBRL Taxonomy Extension Schema Document. 101.CAL XBRL Taxonomy Extension Calculation Linkbase Document. 101.LAB XBRL Taxonomy Extension Label Linkbase Document. 101.PRE XBRL Taxonomy Extension Presentation Linkbase Document. 101.DEF XBRL Taxonomy Extension Definition Linkbase Document. 104 Cover Page Interactive Data File (formatted in Inline XBRL and contained in Exhibit 101). 
+ 
+ _______________________________________ 
+ Management contract or compensatory plan 
+ Filed herewith 
+ Furnished herewith 
+ 32 
+
+Table of Contents 
+
+ SIGNATURES 
+ Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized. 
+ EMCORE CORPORATION Date: May 7, 2021 By: / s / Jeffrey Rittichier 
+ Jeffrey Rittichier Chief Executive Officer (Principal Executive Officer) Date: May 7, 2021 By: / s / Tom Minichiello 
+ Tom Minichiello Chief Financial Officer (Principal Financial and Accounting Officer) 
+ 
+ 33 
+
+<EX-10.2>
+ 2
+ directorcompensationpolicy.htm
+ EX-10.2
+
+Document 
+ Exhibit 10.2 
+
+ EMCORE CORPORATION 
+ DIRECTORS COMPENSATION POLICY 
+ (Amended Effective as of March 18, 2021) 
+ Directors of EMCORE Corporation (the Company who are not employed by the Company or one of its subsidiaries non-employee directors are entitled to the compensation set forth below for their service as a member of the Board of Directors (the Board of the Company. The Board has the right to amend this policy from time to time. 
+ Cash Compensation All Board Members Annual Cash Retainer 50,000 Board Committee Chairpersons Annual Audit Committee Chairperson Retainer 20,000 Annual Compensation Committee Chairperson Retainer 9,500 Annual Nominating Committee Chairperson Retainer 8,000 Annual Strategy and Alternatives Committee Chairperson Retainer 8,000 Other Board Committee Members Annual Audit Committee Member Retainer 10,000 Annual Compensation Committee Member Retainer 5,000 Annual Nominating Committee Member Retainer 3,000 Annual Strategy and Alternatives Committee Member Retainer 3,000 3-Year Equity Compensation 3-Year Equity Award 225,000 Chairperson 3-Year Equity Award 127,500 
+ 
+ Cash Compensation 
+ Each non-employee director will be entitled to an annual cash retainer while serving on the Board in the amount set forth above (the Annual Cash Retainer ). A non-employee director who serves as the Chairperson of the Audit Committee, the Compensation Committee, the Nominating Committee or the Strategy and Alternatives Committee of the Board will be entitled to an additional annual cash retainer while serving in that position in the applicable amount set forth above (an Additional Committee Chair Retainer ). A non-employee director who serves as a member of the Audit Committee, the Compensation Committee, the Nominating Committee or the Strategy and Alternatives Committee of the Board (but is not Chairperson of such Board committee) will be entitled to an additional annual cash retainer while serving in that position in the applicable amount set forth above (an Additional Committee Member Retainer ). 
+ The amounts of the Annual Cash Retainer, Additional Committee Chair Retainer and Additional Committee Member Retainer (collectively, the Cash Retainer reflected above are expressed as annualized amounts. These retainers will be paid on a quarterly basis, at the end of each quarter in arrears, and will be pro-rated if a non-employee director serves (or serves in the corresponding position, as the case may be) for only a portion of the 
+ 1 
+
+quarter (with the proration based on the number of calendar days in the quarter that the director served as a non-employee director or held the particular position, as the case may be). 
+ Elective Grants of Equity Awards 
+ Any time that the Company s trading window is open under the Company s Executive Insider Trading Policy, a non-employee director may elect that all or a portion of his or her Cash Retainer be converted into fully vested shares of the Company s common stock (such amount the Exchanged Retainer ). Such election shall be made by completing the election form as the Board may prescribe from time to time (an Election Form and filing such completed form with the Company during an open trading window under the Company s Executive Insider Trading Policy. The number of shares issued pursuant to an Election Form shall be determined by dividing (i) the amount of the Exchanged Retainer for the applicable quarter by (ii) the per-share closing price of the Company s common stock on the last trading day of the applicable quarter, with the result rounded down to the nearest whole share. Any fractional amount of the Exchanged Retainer less than the price of a share of the common stock on the payment date shall be forfeited. Any such shares issued pursuant to an Election Form shall be issued under, and subject to the terms of, the Company s 2019 Equity Incentive Plan or any other equity compensation plan approved by the Company s shareholders and in effect at the time of grant (the Equity Plan ). 
+ Equity Compensation 
+ 3-Year Equity Award and 3-Year Chairperson Equity Award 
+ Beginning with the 2021 annual meeting of the Company s shareholders, and continuing every three years thereafter (i.e. 2024, 2027, etc.) on the date of the applicable annual meeting of the Company s shareholders, each non-employee director serving as a director immediately following such annual meeting will automatically be granted an award of restricted stock units (a 3-Year Equity Award determined by dividing (1) the 3-Year Equity Award grant value set forth above (or in the case of the Chairperson of the Board, the 3-Year Equity Award grant value set forth above plus the 3-Year Chairperson Equity Award grant value set forth above) by (2) the per-share closing price of the Company s common stock on the date of such annual meeting (rounded down to the nearest whole unit). Each 3-Year Equity Award will vest as to 1 3 of the shares of the Company s common stock underlying the award on each of the first three anniversaries of the grant date (or, if the Company s annual meeting of shareholders for the applicable year occurs prior to such vesting date, on the day prior to that annual meeting), subject to the non-employee director s continued service on the Board through each such vesting date. 
+ For each new non-employee director appointed or elected to the Board other than on the date of an annual meeting of the Company s shareholders, on the date that the new non-employee director first becomes a member of the Board, the new non-employee director will automatically be granted a pro-rata portion of the 3-Year Equity Award (a Pro-Rata Equity Award determined by dividing (1) a pro-rata portion of the 3-Year Equity Award grant value set forth above (or, in the case of a newly elected Chairperson of the Board, the 3-Year Equity Award grant value set forth above plus the 3-Year Chairperson Equity Award grant value set forth above) by (2) the per-share closing price of the Company s common stock on the date the new non-employee director first became a member of the Board (rounded down to the nearest whole unit). The prorata portion of the 3-Year Equity Award grant value and, if applicable, 3-Year Chairperson Equity Award grant value for purposes of a Pro-Rata Equity Award will equal the 3-Year Equity Award (and, if applicable, 3-Year Chairperson Equity Award) grant value set forth above multiplied by a fraction (not greater than one), the numerator of which is 36 minus the number of whole months that as of the particular grant date had elapsed since the Company s last annual meeting of shareholders at which 3-Year Equity Awards were granted by the Company to non-employee directors (the Vesting Months ), and the denominator of which is 36. Each Pro-Rata Equity Award will vest as follows (a) if less than 12 months have elapsed as of the particular grant date since the Company s last annual meeting of shareholders at which 3-Year Equity Awards were granted by the Company to non-employee directors, then a fraction (not greater than one) of the shares of the Company s common stock underlying the award, the numerator of which is 12 minus the number of whole months that as of the particular grant date had elapsed since the Company s last annual meeting of shareholders, and the denominator is the number of Vesting Months, shall vest on the first anniversary of the last annual meeting of shareholders (or, if the Company s next annual meeting of shareholders occurs prior to such vesting date, on the day prior to that annual meeting) and thereafter the remaining shares of the Company s common stock underlying the award shall vest in two equal installments on each of the next two anniversaries of the initial 
+ 2 
+
+vesting date (or, if the Company s annual meeting of shareholders for the applicable year occurs prior to such vesting date, on the day prior to that annual meeting), in each case subject to the non-employee director s continued service on the Board through such vesting date (b) if at least 12 months but less than 24 months have elapsed as of the particular grant date since the Company s last annual meeting of shareholders at which 3-Year Equity Awards were granted by the Company to non-employee directors, then a fraction (not greater than one) of the shares of the Company s common stock underlying the award, the numerator of which is 12 minus the number of whole months that as of the particular grant date had elapsed since the Company s last annual meeting of shareholders, and the denominator is the number of Vesting Months, shall vest on the first anniversary of the last annual meeting of shareholders (or, if the Company s next annual meeting of shareholders occurs prior to such vesting date, on the day prior to that annual meeting) and thereafter the remaining shares of the Company s common stock underlying the award shall vest on the next anniversary of the initial vesting date (or, if the Company s annual meeting of shareholders for the applicable year occurs prior to such vesting date, on the day prior to that annual meeting), in each case subject to the non-employee director s continued service on the Board through such vesting date and (c) if at least 24 months have elapsed as of the particular grant date since the Company s last annual meeting of shareholders at which 3-Year Equity Awards were granted by the Company to non-employee directors, then 100 of the shares of the Company s common stock underlying the award shall vest on the first anniversary of the last annual meeting of shareholders (or, if the Company s next annual meeting of shareholders occurs prior to such vesting date, on the day prior to that annual meeting), in each case subject to the non-employee director s continued service on the Board through such vesting date. 
+ In the event that an existing nonemployee director of the Board is appointed to serve as Chairperson of the Board other than on the date of an annual meeting of the Company s shareholders, then such Chairperson shall be granted a Pro-Rata Equity Award determined by dividing (1) a pro-rata portion of the 3-Year Chairperson Equity Award grant value set forth above by (2) the per-share closing price of the Company s common stock on the date the new non-employee director first became Chairperson of the Board (rounded down to the nearest whole unit) subject to the pro rata vesting terms set forth above. In the event that a non-employee director ceases to serve as Chairperson but remains a non-employee director of the Board after the date of the last annual meeting of shareholders and prior to the first anniversary of such meeting date (but remains a nonemployee director of the Board), such director shall be entitled to vest in a pro-rata portion of any outstanding unvested 3-Year Chairperson Equity Award determined as follows (a) if less than 12 months have elapsed as since the date on which the 3-Year Chairperson Equity Awards was granted, then by multiplying (1) the number of restricted stock units subject to such 3-Year Chairperson Equity Award that remain unvested by (2) a fraction (not greater than one), the numerator of which is the number of whole months that as of such date have elapsed since the Company s last annual meeting of shareholders(or, if less, the number of whole months since the Chairperson s appointment to serve as Chairperson), and the denominator of which is 36 (rounded down to the nearest whole unit) (b) if at least 12 months but less than 24 months have elapsed since the date on which the 3-Year Chairperson Equity Awards was granted, then by multiplying (1) the number of restricted stock units subject to such 3-Year Chairperson Equity Award that remain unvested by (2) a fraction (not greater than one), the numerator of which is the number of whole months that as of such date have elapsed since the Company s last annual meeting of shareholders, and the denominator of which is 24 (rounded down to the nearest whole unit) and (c) if at least 24 months have elapsed as since the date on which the 3-Year Chairperson Equity Awards was granted, then by multiplying (1) the number of restricted stock units subject to such 3-Year Chairperson Equity Award that remain unvested by (2) a fraction (not greater than one), the numerator of which is the number of whole months that as of such date have elapsed since the Company s last annual meeting of shareholders, and the denominator of which is 12 (rounded down to the nearest whole unit) in each case subject to the non-employee director s continued service on the Board through the vesting date. 
+ General 
+ Unless otherwise determined by the Board, each award of restricted stock units will be made under and subject to the terms and conditions of the Equity Plan. 
+ Restricted stock unit awards granted under the Equity Plan are generally forfeited as to the unvested portion of the award upon the non-employee director s termination of service as a director for any reason. However, vesting of a non-employee director s outstanding and unvested restricted stock units will accelerate should the director s services terminate due to the director s death or Disability (as defined in the Equity Plan). 
+ 3 
+
+Expense Reimbursement 
+ All directors will be entitled to reimbursement from the Company for their reasonable travel (including airfare and ground transportation), lodging and meal expenses incident to meetings of the Board or committees thereof or in connection with other Board related business. 
+ 4 
+
+</EX-10.2>
+
+<EX-10.3>
+ 3
+ directorrsuagreementform3-.htm
+ EX-10.3
+
+Document 
+ Exhibit 10.3 
+
+ EMCORE Corporation 2019 Equity Incentive Plan 
+ 
+ Restricted Stock Unit Award Agreement 
+
+To 
+
+EMCORE Corporation, a New Jersey corporation (the Company ), has granted you an award (the Award of restricted stock units (the Restricted Stock Units under the EMCORE Corporation 2019 Equity Incentive Plan, as adopted effective December 14, 2018, and as further amended from time to time (the Plan ), conditioned upon your agreement to the terms and conditions described below. Each Restricted Stock Unit represents, on the books of the Company, a unit which is equivalent to one share of the Company s common stock, no par value per share (the Common Stock ). The effective Grant Date will be , subject to your promptly signing and returning a copy of this Agreement (as defined below) to the Company. 
+ This Restricted Stock Unit Award Agreement (the Agreement evidences the Award of the Restricted Stock Units. This Agreement and the Award of the Restricted Stock Units are made in consideration of your employment or service relationship with the Company or an affiliate of the Company (as applicable, your Employer ). The Award is subject in all respects to and incorporates by reference the terms and conditions of the Plan and any terms and conditions relating to Restricted Stock Units and specifies other applicable terms and conditions of your Restricted Stock Units. 
+ A copy of the Plan and the Prospectus for the Plan, as amended from time to time (the Prospectus ), is being provided or made available to you in connection with the Award. By executing this Agreement, you acknowledge that you have received a copy of the Plan and the Prospectus. You may request additional copies of the Plan or Prospectus by contacting EMCORE Corporation, Attn Chief Financial Officer, 2015 West Chestnut Street, Alhambra, CA 91803. You also may request from the Secretary of the Company copies of the other documents that make up a part of the Prospectus (described more fully at the end of the Prospectus), as well as all reports, proxy statements and other communications distributed to the Company s security holders generally. 
+ 1. Terminology Conflicts . The Glossary at the end of this Agreement includes definitions of certain capitalized words used in this Agreement. All terms not defined in this Agreement (including the Glossary) have the meanings given in the Plan. Unless otherwise specifically provided in this Agreement, in the event of any conflict, ambiguity or inconsistency between or among any defined term in this Agreement or the Plan, the provisions of, first, the Plan and second, this Agreement, will control in that order of priority, except in the case of Section 14 of this Agreement, which will control in all cases. 
+ 2. Terms and Conditions of Award . The following terms and conditions will apply 
+ 
+ 1 
+
+(a) Vesting Condition . All of the Restricted Stock Units are nonvested and forfeitable as of the Grant Date. So long as you continue to be an Eligible Person through the applicable date upon which vesting is scheduled to occur, the Restricted Stock Units will vest and become nonforfeitable as follows 
+ (i)To the extent the Award is granted on the date of an annual meeting of the Company s stockholders (an Annual Meeting at which Awards are granted to non-employee members of the Board of Directors of the Company Directors ), one-third of the Restricted Stock Units will vest and become nonforfeitable on each anniversary of the Grant Date (or, if the Annual Meeting for the applicable year occurs prior to such vesting date, on the day prior to that Annual Meeting), such that 100 of the Restricted Stock Units will be vested and nonforfeitable on the 3 rd anniversary of the Grant Date (or, if the Annual Meeting for the applicable year occurs prior to such date, on the day prior to that Annual Meeting). 
+ (ii)To the extent the Award is granted on a date other than the date of an Annual Meeting at which Awards are granted to Directors 
+ (1) If less than 12 months have elapsed as of the Grant Date since the Company s last Annual Meeting at which Awards were granted to Directors, then a fraction (not greater than one) of the Restricted Stock Units, the numerator of which is 12 minus the number of whole months that as of the Grant Date had elapsed since the last Annual Meeting, and the denominator of which is 36 minus the number of whole months that as of the Grant Date had elapsed since the last Annual Meeting at which Awards were granted to Directors (the Vesting Months ), will vest and become nonforfeitable on the first anniversary of the last Annual Meeting (or, if the Company s next Annual Meeting occurs prior to such vesting date, on the day prior to such Annual Meeting), and the remaining Restricted Stock Units will vest and become nonforfeitable in two equal installments on each of the next two anniversaries of the initial vesting date (or, if the Company s Annual Meeting for the applicable year occurs prior to such vesting date, on the day prior to such Annual Meeting). 
+ (2) If at least 12 months but less than 24 months have elapsed as of the Grant Date since the Company s last Annual Meeting at which Awards were granted to Directors, then a fraction (not greater than one) of the Restricted Stock Units, the numerator of which is 12 minus the number of whole months that as of the Grant Date had elapsed since the last Annual Meeting, and the denominator of which is the number of Vesting Months, will vest and become nonforfeitable on the first anniversary of the last Annual Meeting (or, if the Company s next Annual Meeting occurs prior to such vesting date, on the day prior to such Annual Meeting), and the remaining Restricted Stock Units will vest and become 
+ 
+ 2 
+
+nonforfeitable on the next anniversary of the initial vesting date (or, if the Company s Annual Meeting for the applicable year occurs prior to such vesting date, on the day prior to such Annual Meeting). 
+ (3) If at least 24 months have elapsed as of the Grant Date since the Company s last Annual Meeting at which Awards were granted to Directors, then the Restricted Stock Units will vest and become nonforfeitable on the first anniversary of the last Annual Meeting (or, if the Company s next Annual Meeting occurs prior to such vesting date, on the day prior to such Annual Meeting). 
+ (b) Continued Service Vesting Condition . In order for any of your Restricted Stock Units to become vested and nonforfeitable, you must continue to be an Eligible Person through the applicable vesting date. Unless this Agreement provides to the contrary, none of the Restricted Stock Units will become vested and nonforfeitable after you cease to be an Eligible Person, and any Restricted Stock Units that are nonvested and forfeitable as of the date you cease to an Eligible Person shall terminate for no consideration. 
+ (c) Corporate Transactions . If a corporate transaction specified in Section 7.2 of the Plan occurs while any of your Restricted Stock Units are outstanding, any then unvested Restricted Stock Units shall immediately vest and become nonforfeitable in connection with such corporate transaction immediately prior to the effectiveness of such corporate transaction. 
+ (d) Termination of Service . If you cease to be an Eligible Person for any reason, all Restricted Stock Units that are not then vested and nonforfeitable will, after giving effect to any accelerated vesting as a result of your ceasing to be an Eligible Person, be immediately forfeited for no consideration. 
+ (e) Termination of Service as Chairperson . If you cease to serve as Chairperson of the Board of Directors of the Company but remain a Director, a portion of the unvested Restricted Stock Units for your service as Chairperson will vest and become nonforfeitable on the first anniversary of the last Annual Meeting (or, if the Company s next Annual Meeting occurs prior to such vesting date, on the day prior to such Annual Meeting), in an amount (rounded down to the nearest whole Restricted Stock Unit) equal to a fraction (not greater than one) of the full Award of Restricted Stock Units, the numerator of which is the number of whole months that have elapsed from the last Annual Meeting until the date you cease to serve as Chairperson of the Board (or, if less, the number of whole months that have elapsed from your appointment to serve as Chairperson until the date you cease to serve as Chairperson), and the denominator of which is the number of Vesting Months, subject to your continuing to be an Eligible Person through such vesting date. 
+ (f) Settlement . Any Restricted Stock Units subject to this Award that become vested and nonforfeitable shall be paid in an equivalent number of whole shares of 
+ 
+ 3 
+
+Common Stock (with any fractional Restricted Stock Units rounded down to the nearest whole number of shares of Common Stock) as soon as practicable following the applicable vesting date, but in any event no later than the 15 th day of the third calendar month following the end of the calendar year in which the vesting date occurs provided that any Restricted Stock Units that become vested and nonforfeitable in connection with or following a corporate transaction specified in Section 7.2 of the Plan will be paid no later than the 30 th day following the applicable vesting date. Upon issuance, such shares of Common Stock may be sold, transferred, pledged, assigned or otherwise alienated or hypothecated in compliance with applicable law, this Agreement and any other agreement to which such shares are subject. Your settlement rights pursuant to this Agreement shall be no greater than the right of any unsecured general creditor of the Company. The Company will not be required to issue fractional shares of Common Stock upon settlement of the Restricted Stock Units. 
+ 3. Restrictions on Transfer . You may not sell, assign, transfer, pledge, hedge, hypothecate, encumber or dispose of in any way (whether by operation of law or otherwise) any Restricted Stock Units, and Restricted Stock Units may not be subject to execution, attachment or similar process. Any sale or transfer, or purported sale or transfer, shall be null and void. The Company will not be required to recognize on its books any action taken in contravention of these restrictions. 
+ 4. Issuance of Shares . 
+ (a) Notwithstanding any other provision of this Agreement, you may not sell the shares of Common Stock acquired upon vesting of the Restricted Stock Units unless such shares are registered under the Securities Act, or, if such shares are not then so registered, such sale would be exempt from the registration requirements of the Securities Act. The sale of such shares must also comply with other applicable law and any applicable insider trading policy of the Company governing the Common Stock and you may not sell the shares of Common Stock if the Company determines that such sale would not be in material compliance with such applicable law or insider trading policy. 
+ (b) The shares of Common Stock issued in settlement of the Restricted Stock Units shall be registered in your name. The Company will deliver a share certificate to you, or deliver shares electronically or in certificate form to your designated broker on your behalf. If you are deceased (or in case of your Disability and if necessary) at the time that a delivery of share certificates is to be made, the certificates will be delivered to your executor, administrator, legally authorized guardian or personal representative. The Company may at any time place legends referencing any applicable law restrictions on all certificates representing shares of Common Stock issued pursuant to this Agreement, and the certificate shall bear such restrictive legends or restrictions as the Company, in its sole discretion, shall require. You will, at the request of the Company, promptly present to the Company any and all certificates representing shares acquired pursuant to this Agreement in your possession in order to carry out the provisions of this Section 4(b). 
+ 
+ 4 
+
+(c) The grant of the Restricted Stock Units and the shares of Common Stock issued in settlement of the Restricted Stock Units will be subject to and in compliance with all applicable requirements of applicable law with respect to such securities. No shares of Common Stock may be issued hereunder if the issuance of such shares would constitute a violation of any applicable law. The inability of the Company to obtain from any regulatory body having jurisdiction the authority, if any, deemed by the Company s legal counsel to be necessary to the lawful issuance of any shares subject to the Restricted Stock Units shall relieve the Company of any liability in respect of the failure to issue such shares as to which such requisite authority shall not have been obtained. As a condition to the settlement of the Restricted Stock Units, the Company may require you to satisfy any qualifications that may be necessary or appropriate, to evidence compliance with any applicable law and to make any representation or warranty with respect thereto as may be requested by the Company. 
+ 5. Tax Withholding . The Company or the Employer shall be entitled to require a cash payment by or on your behalf (including, without limitation, subject to such procedures as the Administrator may adopt, pursuant to a broker-assisted cashless arrangement with a third party who facilitates the sale of shares of Common Stock deliverable upon any payment of Restricted Stock Units) and or to deduct from other compensation payable to you any sums required by federal, state or local tax law to be withheld with respect to the grant, vesting or payment of the Restricted Stock Units in whole or in part. The Company may, in its discretion, agree that it will, upon any payment of shares of Common Stock in respect of the Restricted Stock Units, automatically reduce the number of shares to be delivered by (or otherwise reacquire) the appropriate number of whole shares, valued at their then fair market value, to satisfy any withholding obligations of the Company and the Employer with respect to such distribution of shares at the applicable withholding rates. 
+ 6. Adjustments for Corporate Transactions and Other Events . 
+ (a) Adjustment Events . Upon an event specified in Section 7.1 of the Plan, the number, amount and type of shares of Common Stock (or other securities or property) subject to your Restricted Stock Units will, without further action of the Administrator, be adjusted to reflect such event pursuant to the provisions of Section 7.1 of the Plan. The Administrator may make adjustments, in its discretion, to address the treatment of fractional shares with respect to the Restricted Stock Units as a result of the adjustment event. Adjustments under this Section 6 will be made by the Administrator, whose determination as to what adjustments, if any, will be made and the extent thereof will be final, binding and conclusive. No fractional Restricted Stock Units will result from any such adjustments. 
+ (b) Binding Nature of Agreement . The terms and conditions of this Agreement will apply with equal force to any additional and or substitute securities received by you in exchange for, or by virtue of your granting of, the Restricted Stock Units, whether as a result of any adjustment event or other similar event, except as otherwise determined by the Administrator. If the Restricted Stock Units are converted 
+ 
+ 5 
+
+into or exchanged for, or stockholders of the Company receive by reason of any distribution in total or partial liquidation or pursuant to any merger of the Company or acquisition of its assets, securities of another entity, or other property (including cash), then the rights of the Company under this Agreement will inure to the benefit of the Company s successor, and this Agreement will apply to the securities or other property received upon such conversion, exchange or distribution in the same manner and to the same extent as the Restricted Stock Units. 
+ 7. Dividend Equivalent Rights . As of each date that the Company pays an ordinary cash dividend on its outstanding Common Stock for which the related record date occurs after the Grant Date and prior to the date all Restricted Stock Units subject to the Award have either been paid or have terminated, the Company shall credit you with an additional number of Restricted Stock Units equal to (a) the amount of the ordinary cash dividend paid by the Company on a single share of Common Stock on that date, multiplied by (b) the number of Restricted Stock Units subject to the Award outstanding and unpaid as of such record date (including any Restricted Stock Units previously credited under this Section 7 and with such total number subject to adjustment pursuant to Section 7.1 of the Plan and this Agreement), divided by (c) the closing price of a share of Common Stock on that date. Any Restricted Stock Units credited pursuant to the foregoing provisions of this Section 7 will be subject to the same vesting, payment, termination and other terms, conditions and restrictions as the original Restricted Stock Units to which they relate. No crediting of Restricted Stock Units will be made pursuant to this Section 7 with respect to any Restricted Stock Units which, as of the related record date, have either been paid or have terminated. 
+ 8. No Right to Continued Employment or Service . The Award shall not confer upon you any right to be retained as an employee or service provider, nor restrict in any way the right of your Employer, which right is hereby expressly reserved, to terminate your employment or service relationship at any time with or without Cause (regardless of whether such termination results in (a) the failure of any Award to vest (b) the forfeiture of any unvested or vested portion of any Award and or (c) any other adverse effect on your interests under the Plan). Nothing in the Plan or this Agreement shall confer on you the right to receive any future Awards under the Plan. 
+ 9. No Rights as Stockholder . You shall not have any rights as a stockholder of the Company with respect to any shares of Common Stock corresponding to the Restricted Stock Units granted hereby unless and until shares of Common Stock are issued to you in respect thereof. No adjustment shall be made for dividends, distributions or other rights for which the record date is prior to the date such certificate or certificates are issued, except as provided in Section 6 and Section 7 of this Agreement. 
+ 10. The Company s Rights . The existence of the Restricted Stock Units does not affect in any way the right or power of the Company or its stockholders to make or authorize any or all adjustments, recapitalizations, reorganizations or other changes in the Company s capital structure or its business, including that of its affiliates, or any merger or consolidation of the Company or any affiliate, or any issue of bonds, debentures, preferred or other stocks with 
+ 
+ 6 
+
+preference ahead of or convertible into, or otherwise affecting the Common Stock or the rights thereof, or the dissolution or liquidation of the Company or any affiliate, or any sale or transfer of all or any part of the Company s or any affiliate s assets or business, or any other corporate act or proceeding, whether of a similar character or otherwise. 
+ 11. Entire Agreement . This Agreement, inclusive of the Plan incorporated into this Agreement, contains the entire agreement between you, your Employer and the Company with respect to the Restricted Stock Units. Any and all existing oral or written agreements, representations, warranties, written inducements, or other communications made prior to the execution of this Agreement by any person with respect to the Award or the Restricted Stock Units are superseded by this Agreement and are void and ineffective for all purposes. 
+ 12. Conformity with Plan . This Agreement is intended to conform in all respects with, and is subject to all applicable provisions of, the Plan. In the event of any ambiguity in this Agreement or any matters as to which this Agreement is silent, the Plan will govern. 
+ 13. Amendment . This Agreement may be amended from time to time by the Administrator in its discretion provided , however , that this Agreement may not be modified in a manner that would have a materially adverse effect on the Restricted Stock Units as determined in the discretion of the Administrator, except as provided in the Plan or in any other written document signed by you and the Company. This Agreement may not be amended, modified or supplemented orally. 
+ 14. Governing Law . The validity, interpretation, construction and performance of this Agreement shall be governed by the laws of the State of New Jersey applicable to contracts executed and to be performed entirely within such state, without regard to the conflict of law provisions thereof. 
+ 15. Severability . If a court of competent jurisdiction determines that any portion of this Agreement is in violation of any statute or public policy, then only the portions of this Agreement which violate such statute or public policy shall be stricken, and all portions of this Agreement which do not violate any statute or public policy shall continue in full force and effect. Further, it is the parties intent that any court order striking any portion of this Agreement should modify the terms as narrowly as possible to give as much effect as possible to the intentions of the parties under this Agreement. 
+ 16. Further Assurances . You agree to use your reasonable and diligent best efforts to proceed promptly with the transactions contemplated herein, to fulfill the conditions precedent for your benefit or to cause the same to be fulfilled and to execute such further documents and other papers and perform such further acts as may be reasonably required or desirable to carry out the provisions hereof and the transactions contemplated herein. The Company may require you to furnish or execute such other documents as the Company shall reasonably deem necessary to comply with or satisfy the requirements of applicable law. 
+ 17. Investment Representation . If at the time of settlement of all or part of the Restricted Stock Units, the Common Stock is not registered under the Securities Act and or there 
+ 
+ 7 
+
+is no current prospectus in effect under the Securities Act with respect to the Common Stock, you shall execute, prior to the issuance of any shares of Common Stock in settlement of the Restricted Stock Units to you by the Company, an agreement (in such form as the Administrator may specify) in which you, among other things, represent, warrant and agree that you are acquiring the shares acquired under this Agreement for your own account, for investment only and not with a view to the resale or distribution thereof, that you have knowledge and experience in financial and business matters, that you are capable of evaluating the merits and risks of owning any shares of Common Stock acquired under this Agreement, that you are a person who is able to bear the economic risk of such ownership and that any subsequent offer for sale or distribution of any of such shares shall be made only pursuant to (a) a registration statement on an appropriate form under the Securities Act, which registration statement has become effective and is current with regard to the shares being offered or sold, or (b) a specific exemption from the registration requirements of the Securities Act, it being understood that to the extent any such exemption is claimed, you shall, prior to any offer for sale or sale of such shares, obtain a prior favorable written opinion, in form and substance satisfactory to the Administrator, from counsel for or approved by the Administrator, as to the applicability of such exemption thereto. 
+ 18. Headings . Section headings are used in this Agreement for convenience of reference only and shall not affect the meaning of any provision of this Agreement. 
+ 19. Binding Effect Benefits . This Agreement shall be binding upon and inure to the benefit of the parties to this Agreement and their respective successors and assigns. Nothing in this Agreement, express or implied, is intended or shall be construed to give any person other than the parties to this Agreement or their respective successors or assigns any legal or equitable right, remedy or claim under or in respect of any agreement or any provision contained herein. 
+ 20. Section 409A . It is intended that the terms of the Award will not result in the imposition of any tax liability pursuant to Section 409A of the Code. This Agreement shall be construed and interpreted consistent with that intent. 
+ 21. Interpretation . The Administrator shall have full power and discretion to construe and interpret the Plan (and any rules and regulations issued thereunder) and this Award. Any determination or interpretation by the Administrator under or pursuant to the Plan or this Award shall be final and binding and conclusive on all persons affected hereby. 
+ 22. Authorization to Share Personal Data . You authorize any affiliate of the Company that employs or retains you or that otherwise has or lawfully obtains personal data relating to you to divulge or transfer such personal data to the Company or to a third party, in each case in any jurisdiction, if and to the extent appropriate in connection with this Agreement or the administration of the Plan. 
+ 23. Notices . All notices and other communications required or permitted to be given under this Agreement shall be in writing and shall be deemed to have been given if delivered personally or sent by certified or express mail, return receipt requested, postage prepaid, or by any recognized international equivalent of such delivery, to the Company or you, as the case may 
+ 
+ 8 
+
+be, at the following addresses or to such other address as the Company or you, as the case may be, shall specify by notice to the other 
+ (i)if to the Company, to it at 
+ EMCORE Corporation 2015 West Chestnut Street Alhambra, CA 91803 Attention Chief Financial Officer Fax (626) 293-3424 
+ (ii)if to you, to your most recent address as shown on the books and records of the Company or affiliate employing or retaining you. 
+ All such notices and communications shall be deemed to have been received on the date of delivery if delivered personally or on the third business day after the mailing thereof. 
+ 24. Limitation on Rights No Right to Future Grants Extraordinary Item of Compensation . By entering into this Agreement and accepting the Awards evidenced hereby, you acknowledge (a) that the Plan is discretionary in nature and may be suspended or terminated by the Company at any time (b) that the Award does not create any contractual or other right to receive future grants of Awards (c) that participation in the Plan is voluntary (d) that the value of the Awards is not part of normal or expected compensation for purposes of calculating any severance, resignation, redundancy, end of service payments, bonuses, long-service awards, pension or retirement benefits or similar payments and (e) that the future value of the Common Stock is unknown and cannot be predicted with certainty. 
+ 25. Consent to Electronic Delivery . By entering into this Agreement and accepting the Award evidenced hereby, you hereby consent to the delivery of information (including, without limitation, information required to be delivered to you pursuant to applicable law) regarding the Company and its affiliates, the Plan, this Agreement and the Award via Company web site or other electronic delivery. 
+ 26. Clawback Policy . The Restricted Stock Units are subject to the terms of the Company s recoupment, clawback or similar policy as it may be in effect from time to time, as well as any similar provisions of applicable law, any of which could in certain circumstances require repayment or forfeiture of the Restricted Stock Units or any shares of Common Stock or other cash or property received with respect to the Restricted Stock Units (including any value received from a disposition of the shares acquired upon payment of the Restricted Stock Units). 
+ 27. Counterparts . This Agreement may be executed in counterparts (including electronic signatures or facsimile copies), each of which will be deemed an original, but all of which together will constitute the same instrument. 
+ The Glossary follows on the next page. 
+ 
+ 9 
+
+GLOSSARY 
+
+a. Cause means (as determined by the Administrator) (i) your willful and continued failure to perform substantially your material duties with your Employer (other than any such failure resulting from your incapacity as a result of physical or mental illness) after a written demand for substantial performance specifying the manner in which you have not performed such duties is delivered to you by the person or entity that supervises or manages you, (ii) engaging in willful and serious misconduct that is injurious to the Company or any of its Subsidiaries, (iii) one or more acts of fraud or personal dishonesty resulting in or intended to result in personal enrichment at the expense of the Company or any of its Subsidiaries, (iv) substantial abusive use of alcohol, drugs or similar substances that, in the sole judgment of the Company, impairs your job performance, (v) material violation of any Company policy that results in harm to the Company or any of its Subsidiaries or (vi) indictment for or conviction of (or plea of guilty or nolo contendere) to a felony or of any crime (whether or not a felony) involving moral turpitude. A termination for Cause shall include a determination by the Administrator following your termination of employment for any other reason that, prior to such termination of employment, circumstances constituting Cause existed. Notwithstanding the foregoing, if you are a party to an employment agreement with the Company (an Employment Agreement ), Cause shall have the meaning, if any, specified in your Employment Agreement. 
+ b. Securities Act means the Securities Act of 1933 and the rules promulgated thereunder, as amended. 
+ c. You Your . You means the recipient of the Restricted Stock Units as reflected in the first paragraph of this Agreement. Whenever the word you or your is used in any provision of this Agreement under circumstances where the provision should logically be construed, as determined by the Administrator, to apply to the estate, personal representative, or beneficiary to whom the Restricted Stock Units may be transferred by will or by the laws of descent and distribution, the words you and your will be deemed to include such person. 
+ The signature page follows. 
+
+10 
+
+IN WITNESS WHEREOF, the Company has caused this Agreement to be executed by its duly authorized officer as of Date . 
+ 
+ EMCORE CORPORATION 
+ 
+ By 
+ Name 
+ Title 
+ 
+ The undersigned hereby represents that he she has read the Prospectus and is familiar with the Plan s terms. The undersigned hereby acknowledges that he she has carefully read this Agreement and agrees, on behalf of himself herself and on behalf of his her beneficiaries, estate and permitted assigns, to be bound by all of the provisions set forth herein, and that the Award and Restricted Stock Units are subject to all of the terms and provisions of this Agreement, and of the Plan under which it is granted, as the Plan and this Agreement may be amended in accordance with their respective terms. The undersigned agrees to accept as binding, conclusive, and final all decisions or interpretations of the Administrator concerning any questions arising under this Agreement or the Plan with respect to the Award or Restricted Stock Units. 
+ 
+ WITNESS 
+ AWARD RECIPIENT 
+
+Date 
+ 
+ 11 
+
+</EX-10.3>
+
+<EX-10.4>
+ 4
+ psuagreement-xexecutiveoff.htm
+ EX-10.4
+
+Document 
+ Exhibit 10.4 
+
+ EMCORE Corporation 2019 Equity Incentive Plan 
+ 
+ Performance-Based Restricted Stock Unit Award Agreement 
+ 
+ To 
+ 
+ EMCORE Corporation, a New Jersey corporation (the Company ), has granted you an award (the Award of a target number of performance-based restricted stock units (the Restricted Stock Units under the EMCORE Corporation 2019 Equity Incentive Plan, as adopted effective December 14, 2018, and as further amended from time to time (the Plan ), conditioned upon your agreement to the terms and conditions described below. Each Restricted Stock Unit represents, on the books of the Company, a unit which is equivalent to one share of the Company s common stock, no par value per share (the Common Stock ). The effective Grant Date will be , subject to your promptly signing and returning a copy of this Agreement (as defined below) to the Company. 
+ This Performance-Based Restricted Stock Unit Award Agreement (the Agreement evidences the Award of the Restricted Stock Units. This Agreement and the Award of the Restricted Stock Units are made in consideration of your employment or service relationship with the Company or an affiliate of the Company (as applicable, your Employer ). The Award is subject in all respects to and incorporates by reference the terms and conditions of the Plan and any terms and conditions relating to Restricted Stock Units and specifies other applicable terms and conditions of your Restricted Stock Units. 
+ A copy of the Plan and the Prospectus for the Plan, as amended from time to time (the Prospectus ), is being provided or made available to you in connection with the Award. By executing this Agreement, you acknowledge that you have received a copy of the Plan and the Prospectus. You may request additional copies of the Plan or Prospectus by contacting EMCORE Corporation, Attn Chief Financial Officer, 2015 West Chestnut Street, Alhambra, CA 91803. You also may request from the Secretary of the Company copies of the other documents that make up a part of the Prospectus (described more fully at the end of the Prospectus), as well as all reports, proxy statements and other communications distributed to the Company s security holders generally. 
+ 1. Terminology Conflicts . The Glossary at the end of this Agreement includes definitions of certain capitalized words used in this Agreement. All terms not defined in this Agreement (including the Glossary) have the meanings given in the Plan. Unless otherwise specifically provided in this Agreement, in the event of any conflict, ambiguity or inconsistency between or among any defined term in this Agreement or the Plan, the provisions of, first, the Plan and second, this Agreement, will control in that order of priority, except in the case of Section 14 of this Agreement, which will control in all cases. 
+ 2. Terms and Conditions of Award . The following terms and conditions will apply 
+ 
+ 1 
+
+(a) Performance Vesting Condition . Your target number of Restricted Stock Units shall be subject to the performance-based forfeiture and vesting provisions below 
+ (i)All of the Restricted Stock Units are nonvested and forfeitable as of the Grant Date. 
+ (ii)Subject to earlier termination as provided in this Agreement, your Restricted Stock Units are subject to a vesting requirement based on the Company s Total Shareholder Return achieved relative to the Total Shareholder Return for the Index. The Company s Total Shareholder Return will be measured over a three-year performance period that will begin on and end on (the Performance Period ). Total Shareholder Return performance for the Performance Period will be determined with reference to the goals set forth in the table below 
+ Total Shareholder Return for the Performance Period Relative to the Total Shareholder Return for the Index 
+ of Target Number of Units Becoming Vested and Nonforfeitable 
+ 50 of Index 
+ 0 
+ 50 of Index 
+ 0 
+ 60 of Index 
+ 20 
+ 80 of Index 
+ 60 
+ 100 of Index 
+ 100 
+ 120 of Index 
+ 140 
+ 140 of Index 
+ 180 
+ 150 of Index 
+ 200 
+ 150 of Index 
+ 200 
+
+Except as described below, all of your Restricted Stock Units will terminate for no consideration at the end of the Performance Period if the Company achieves a Total Shareholder Return that is equal to or less than fifty percent (50 of the Total Shareholder Return for the Index. If the Company achieves a Total Shareholder Return relative to the Index for the Performance Period between the percentages listed in the table above, the percentage of your Restricted Stock Units that will be eligible to become vested and nonforfeitable will be pro-rated on a straight-line basis between the closest two percentages listed in the table above. The maximum percentage of your Restricted Stock Units that may be eligible to become vested and nonforfeitable is the maximum percentage listed in the table above. Any of your Restricted Stock Units that do not become eligible to become vested and nonforfeitable at the end of the Performance Period based on the Company s Total Shareholder Return for the Performance Period will automatically terminate for no consideration at the end of the Performance Period. 
+ 
+ 2 
+
+(b) Continued Service Vesting Condition . In addition to achievement of the Total Shareholder Return performance-vesting requirements set forth above, in order for any of your Restricted Stock Units to become vested and nonforfeitable, you must continue to be an Eligible Person through the applicable vesting date. Unless this Agreement provides to the contrary, none of the Restricted Stock Units will become vested and nonforfeitable after you cease to be an Eligible Person, and any Restricted Stock Units that are nonvested and forfeitable as of the date you cease to be an Eligible Person shall terminate for no consideration. 
+ (c) Change in Control . If a Change in Control occurs while any of your Restricted Stock Units are outstanding, the following provisions shall apply 
+ (i)If the Change in Control occurs after the end of the Performance Period but before any Restricted Stock Units that have become vested and nonforfeitable based on the Company s Total Shareholder Return performance for the completed Performance Period have been paid, such vested and nonforfeitable Restricted Stock Units will be paid as provided for in Section 2(e) below. 
+ (ii)If the Change in Control occurs during the Performance Period while any of your Restricted Stock Units are outstanding, the Performance Period (an Adjusted Performance Period will be deemed to end on the day immediately preceding the Change in Control and performance will be measured based on the Company s Total Shareholder Return relative to the Index through the date of the Change in Control, provided that (1) instead of using an average stock price to measure the Company s Total Shareholder Return at the end of the Adjusted Performance Period, the Company s Total Shareholder Return at the end of the Adjusted Performance Period will be measured using the price per share of Common Stock to be paid in the Change in Control in accordance with the definitive agreement governing the transaction constituting the Change in Control (or, in the absence of such agreement, the closing price per share of Common Stock on the last trading day prior to the Change in Control, as reported at the close of regular trading on the principal exchange on which the Common Stock is listed), and (2) the Total Shareholder Return for the Index shall be determined in accordance with the definition of Total Shareholder Return, but using the day immediately preceding the Change in Control as the last day of the Adjusted Performance Period. Any Restricted Stock Units that become eligible to become vested and nonforfeitable based on the Company s Total Shareholder Return performance for the Adjusted Performance Period (or if you are a party to an employment agreement with the Company (an Employment Agreemen t that entitles you to vest in a minimum of the target number of Restricted Stock Units for the Adjusted Performance Period as a result of a Change in Control or qualifying termination of employment following a Change in Control, the target number of Restricted Stock Units if greater) shall be referred to as Adjusted Performance Period Units ). For the avoidance of doubt, if you are party to an Employment Agreement that entitles you to vest in a specified percentage of your 
+ 
+ 3 
+
+outstanding equity awards as a result of a Change in Control or qualifying termination of employment following a Change in Control, the Employment Agreement shall entitle you to vest in the Adjusted Performance Period Units as determined above. 
+ (iii)Any Restricted Stock Units for the Adjusted Performance Period that do not become Adjusted Performance Period Units shall terminate at the end of the Adjusted Performance Period for no consideration. 
+ (iv)If you are a party to an Employment Agreement that entitles you to vest in the Adjusted Performance Period Units for the Adjusted Performance Period solely as a result of a Change in Control, you will be entitled to vest in the number of Adjusted Performance Period Units becoming vested and nonforfeitable pursuant to the terms of your Employment Agreement (the Accelerated Adjusted Units ). The Accelerated Adjusted Units will be paid as provided for in Section 2(e) below. 
+ (v)Any Adjusted Performance Period Units for the Adjusted Performance Period that are not Accelerated Adjusted Units (the Time-Based Adjusted Units ), will become vested and nonforfeitable on the last day of the original Performance Period (before any adjustment), subject to you continuing to be an Eligible Person through such date. In addition, (1) if you suffer an involuntary termination without Cause within two years following the Change in Control and prior to the last day of the original Performance Period, all of your unvested Time-Based Adjusted Units will become vested and nonforfeitable as of the date of your termination without Cause, and (2) if you are party to an Employment Agreement that entitles you to vest in any Time-Based Adjusted Units as a result of a qualifying termination of employment following a Change in Control and you experience a qualifying termination of employment prior to the last day of the original Performance Period, the applicable number of Time-Based Adjusted Units becoming vested pursuant to the terms of your Employment Agreement will become vested and nonforfeitable as of the date of your qualifying termination of employment. Any Time-Based Adjusted Units becoming vested and nonforfeitable will be paid as provided for in Section 2(e) below. 
+ (vi)Notwithstanding anything to the contrary in this Agreement or the Plan, in the event of a Change in Control or other event specified in Section 7.2 of the Plan in which the Restricted Stock Units are not assumed, all of the Adjusted Performance Period Units shall become vested and nonforfeitable as of the last day of the Adjusted Performance Period and will be paid as provided for in Section 2(e) below. For the avoidance of doubt and notwithstanding anything to the contrary in the Plan, any Restricted Stock Units for an Adjusted Performance Period that do not become Adjusted Performance Period Units shall terminate at the end of the Adjusted Performance Period. 
+ 
+ 4 
+
+(d) Termination of Service . If you cease to be an Eligible Person for any reason, all Restricted Stock Units that are not then vested and nonforfeitable will, after giving effect to any accelerated vesting as a result of your ceasing to be an Eligible Person, be immediately forfeited for no consideration. 
+ (e) Settlement . Any Restricted Stock Units subject to this Award that become vested and nonforfeitable shall be paid in an equivalent number of whole shares of Common Stock (with any fractional Restricted Stock Units rounded down to the nearest whole number of shares of Common Stock) as soon as practicable following the applicable vesting date, but in any event no later than the 15 th day of the third calendar month following the end of the calendar year in which the vesting date occurs provided that any Restricted Stock Units that become vested and nonforfeitable in connection with or following a Change in Control or other corporate transaction specified in Section 7.2 of the Plan will be paid no later than the 30 th day following the applicable vesting date. Upon issuance, such shares of Common Stock may be sold, transferred, pledged, assigned or otherwise alienated or hypothecated in compliance with applicable law, this Agreement and any other agreement to which such shares are subject. Your settlement rights pursuant to this Agreement shall be no greater than the right of any unsecured general creditor of the Company. The Company will not be required to issue fractional shares of Common Stock upon settlement of the Restricted Stock Units. 
+ 3. Restrictions on Transfer . You may not sell, assign, transfer, pledge, hedge, hypothecate, encumber or dispose of in any way (whether by operation of law or otherwise) any Restricted Stock Units, and Restricted Stock Units may not be subject to execution, attachment or similar process. Any sale or transfer, or purported sale or transfer, shall be null and void. The Company will not be required to recognize on its books any action taken in contravention of these restrictions. 
+ 4. Issuance of Shares . 
+ (a) Notwithstanding any other provision of this Agreement, you may not sell the shares of Common Stock acquired upon vesting of the Restricted Stock Units unless such shares are registered under the Securities Act, or, if such shares are not then so registered, such sale would be exempt from the registration requirements of the Securities Act. The sale of such shares must also comply with other applicable law and any applicable insider trading policy of the Company governing the Common Stock and you may not sell the shares of Common Stock if the Company determines that such sale would not be in material compliance with such applicable law or insider trading policy. 
+ (b) The shares of Common Stock issued in settlement of the Restricted Stock Units shall be registered in your name. The Company will deliver a share certificate to you, or deliver shares electronically or in certificate form to your designated broker on your behalf. If you are deceased (or in case of your Disability and if necessary) at the time that a delivery of share certificates is to be made, the certificates will be delivered to your executor, administrator, legally authorized guardian or personal representative. The Company may at any time place legends referencing any applicable law restrictions on all 
+ 
+ 5 
+
+certificates representing shares of Common Stock issued pursuant to this Agreement, and the certificate shall bear such restrictive legends or restrictions as the Company, in its sole discretion, shall require. You will, at the request of the Company, promptly present to the Company any and all certificates representing shares acquired pursuant to this Agreement in your possession in order to carry out the provisions of this Section 4(b). 
+ (c) The grant of the Restricted Stock Units and the shares of Common Stock issued in settlement of the Restricted Stock Units will be subject to and in compliance with all applicable requirements of applicable law with respect to such securities. No shares of Common Stock may be issued hereunder if the issuance of such shares would constitute a violation of any applicable law. The inability of the Company to obtain from any regulatory body having jurisdiction the authority, if any, deemed by the Company s legal counsel to be necessary to the lawful issuance of any shares subject to the Restricted Stock Units shall relieve the Company of any liability in respect of the failure to issue such shares as to which such requisite authority shall not have been obtained. As a condition to the settlement of the Restricted Stock Units, the Company may require you to satisfy any qualifications that may be necessary or appropriate, to evidence compliance with any applicable law and to make any representation or warranty with respect thereto as may be requested by the Company. 
+ 5. Tax Withholding . Unless (1) otherwise determined by the Administrator at any time after the Grant Date or (2) you have previously notified the Chief Financial Officer of the Company (or his designee) that you will pay the amount of any applicable federal, state or local tax law withholding taxes directly to the Company in cash, upon any payment of shares of Common Stock in respect of the Restricted Stock Units, the Company shall automatically reduce the number of shares to be delivered by (or otherwise reacquire) the appropriate number of whole shares, valued at their then fair market value, to satisfy any withholding obligations of the Company and the Employer with respect to such distribution of shares at the applicable withholding rates. In the event that the Administrator determines not to satisfy, or the Company cannot legally satisfy, such withholding obligations by such reduction of shares, or in the event of a cash payment or any other withholding event in respect of the Restricted Stock Units, the Company or the Employer shall be entitled to require a cash payment by or on your behalf and or to deduct from other compensation payable to you any sums required by federal, state or local tax law to be withheld with respect to such distribution or payment. 
+ 6. Adjustments for Corporate Transactions and Other Events . 
+ (a) Adjustment Events . Upon an event specified in Section 7.1 of the Plan, the number, amount and type of shares of Common Stock (or other securities or property) subject to your Restricted Stock Units will, without further action of the Administrator, be adjusted to reflect such event pursuant to the provisions of Section 7.1 of the Plan. The Administrator may make adjustments, in its discretion, to address the treatment of fractional shares with respect to the Restricted Stock Units as a result of the adjustment event. Adjustments under this Section 6 will be made by the Administrator, whose determination as to what adjustments, if any, will be made and the extent thereof will be 
+ 
+ 6 
+
+final, binding and conclusive. No fractional Restricted Stock Units will result from any such adjustments. 
+ (b) Binding Nature of Agreement . The terms and conditions of this Agreement will apply with equal force to any additional and or substitute securities received by you in exchange for, or by virtue of your granting of, the Restricted Stock Units, whether as a result of any adjustment event or other similar event, except as otherwise determined by the Administrator. If the Restricted Stock Units are converted into or exchanged for, or stockholders of the Company receive by reason of any distribution in total or partial liquidation or pursuant to any merger of the Company or acquisition of its assets, securities of another entity, or other property (including cash), then the rights of the Company under this Agreement will inure to the benefit of the Company s successor, and this Agreement will apply to the securities or other property received upon such conversion, exchange or distribution in the same manner and to the same extent as the Restricted Stock Units. 
+ 7. Dividend Equivalent Rights . As of each date that the Company pays an ordinary cash dividend on its outstanding Common Stock for which the related record date occurs after the Grant Date and prior to the date all Restricted Stock Units subject to the Award have either been paid or have terminated, the Company shall credit you with an additional number of Restricted Stock Units equal to (a) the amount of the ordinary cash dividend paid by the Company on a single share of Common Stock on that date, multiplied by (b) the number of Restricted Stock Units subject to the Award outstanding and unpaid as of such record date (including any Restricted Stock Units previously credited under this Section 7 and with such total number subject to adjustment pursuant to Section 7.1 of the Plan and this Agreement), divided by (c) the closing price of a share of Common Stock on that date. Any Restricted Stock Units credited pursuant to the foregoing provisions of this Section 7 will be subject to the same vesting, payment, termination and other terms, conditions and restrictions as the original Restricted Stock Units to which they relate. No crediting of Restricted Stock Units will be made pursuant to this Section 7 with respect to any Restricted Stock Units which, as of the related record date, have either been paid or have terminated. 
+ 8. No Right to Continued Employment or Service . The Award shall not confer upon you any right to be retained as an employee or service provider, nor restrict in any way the right of your Employer, which right is hereby expressly reserved, to terminate your employment or service relationship at any time with or without Cause (regardless of whether such termination results in (a) the failure of any Award to vest (b) the forfeiture of any unvested or vested portion of any Award and or (c) any other adverse effect on your interests under the Plan). Nothing in the Plan or this Agreement shall confer on you the right to receive any future Awards under the Plan. 
+ 9. No Rights as Stockholder . You shall not have any rights as a stockholder of the Company with respect to any shares of Common Stock corresponding to the Restricted Stock Units granted hereby unless and until shares of Common Stock are issued to you in respect thereof. No adjustment shall be made for dividends, distributions or other rights for which the 
+ 
+ 7 
+
+record date is prior to the date such certificate or certificates are issued, except as provided in Section 6 and Section 7 of this Agreement. 
+ 10. The Company s Rights . The existence of the Restricted Stock Units does not affect in any way the right or power of the Company or its stockholders to make or authorize any or all adjustments, recapitalizations, reorganizations or other changes in the Company s capital structure or its business, including that of its affiliates, or any merger or consolidation of the Company or any affiliate, or any issue of bonds, debentures, preferred or other stocks with preference ahead of or convertible into, or otherwise affecting the Common Stock or the rights thereof, or the dissolution or liquidation of the Company or any affiliate, or any sale or transfer of all or any part of the Company s or any affiliate s assets or business, or any other corporate act or proceeding, whether of a similar character or otherwise. 
+ 11. Entire Agreement . This Agreement, inclusive of the Plan incorporated into this Agreement, contains the entire agreement between you, your Employer and the Company with respect to the Restricted Stock Units. Any and all existing oral or written agreements, representations, warranties, written inducements, or other communications made prior to the execution of this Agreement by any person with respect to the Award or the Restricted Stock Units are superseded by this Agreement and are void and ineffective for all purposes. 
+ 12. Conformity with Plan . This Agreement is intended to conform in all respects with, and is subject to all applicable provisions of, the Plan. In the event of any ambiguity in this Agreement or any matters as to which this Agreement is silent, the Plan will govern. 
+ 13. Amendment . This Agreement may be amended from time to time by the Administrator in its discretion provided , however , that this Agreement may not be modified in a manner that would have a materially adverse effect on the Restricted Stock Units as determined in the discretion of the Administrator, except as provided in the Plan or in any other written document signed by you and the Company. This Agreement may not be amended, modified or supplemented orally. 
+ 14. Governing Law . The validity, interpretation, construction and performance of this Agreement shall be governed by the laws of the State of New Jersey applicable to contracts executed and to be performed entirely within such state, without regard to the conflict of law provisions thereof. 
+ 15. Severability . If a court of competent jurisdiction determines that any portion of this Agreement is in violation of any statute or public policy, then only the portions of this Agreement which violate such statute or public policy shall be stricken, and all portions of this Agreement which do not violate any statute or public policy shall continue in full force and effect. Further, it is the parties intent that any court order striking any portion of this Agreement should modify the terms as narrowly as possible to give as much effect as possible to the intentions of the parties under this Agreement. 
+ 16. Further Assurances . You agree to use your reasonable and diligent best efforts to proceed promptly with the transactions contemplated herein, to fulfill the conditions precedent 
+ 
+ 8 
+
+for your benefit or to cause the same to be fulfilled and to execute such further documents and other papers and perform such further acts as may be reasonably required or desirable to carry out the provisions hereof and the transactions contemplated herein. The Company may require you to furnish or execute such other documents as the Company shall reasonably deem necessary to comply with or satisfy the requirements of applicable law. 
+ 17. Investment Representation . If at the time of settlement of all or part of the Restricted Stock Units, the Common Stock is not registered under the Securities Act and or there is no current prospectus in effect under the Securities Act with respect to the Common Stock, you shall execute, prior to the issuance of any shares of Common Stock in settlement of the Restricted Stock Units to you by the Company, an agreement (in such form as the Administrator may specify) in which you, among other things, represent, warrant and agree that you are acquiring the shares acquired under this Agreement for your own account, for investment only and not with a view to the resale or distribution thereof, that you have knowledge and experience in financial and business matters, that you are capable of evaluating the merits and risks of owning any shares of Common Stock acquired under this Agreement, that you are a person who is able to bear the economic risk of such ownership and that any subsequent offer for sale or distribution of any of such shares shall be made only pursuant to (a) a registration statement on an appropriate form under the Securities Act, which registration statement has become effective and is current with regard to the shares being offered or sold, or (b) a specific exemption from the registration requirements of the Securities Act, it being understood that to the extent any such exemption is claimed, you shall, prior to any offer for sale or sale of such shares, obtain a prior favorable written opinion, in form and substance satisfactory to the Administrator, from counsel for or approved by the Administrator, as to the applicability of such exemption thereto. 
+ 18. Headings . Section headings are used in this Agreement for convenience of reference only and shall not affect the meaning of any provision of this Agreement. 
+ 19. Binding Effect Benefits . This Agreement shall be binding upon and inure to the benefit of the parties to this Agreement and their respective successors and assigns. Nothing in this Agreement, express or implied, is intended or shall be construed to give any person other than the parties to this Agreement or their respective successors or assigns any legal or equitable right, remedy or claim under or in respect of any agreement or any provision contained herein. 
+ 20. Section 409A . It is intended that the terms of the Award will not result in the imposition of any tax liability pursuant to Section 409A of the Code. This Agreement shall be construed and interpreted consistent with that intent. 
+ 21. Interpretation . The Administrator shall have full power and discretion to construe and interpret the Plan (and any rules and regulations issued thereunder) and this Award. Any determination or interpretation by the Administrator under or pursuant to the Plan or this Award shall be final and binding and conclusive on all persons affected hereby. 
+ 22. Authorization to Share Personal Data . You authorize any affiliate of the Company that employs or retains you or that otherwise has or lawfully obtains personal data relating to you to divulge or transfer such personal data to the Company or to a third party, in 
+ 
+ 9 
+
+each case in any jurisdiction, if and to the extent appropriate in connection with this Agreement or the administration of the Plan. 
+ 23. Notices . All notices and other communications required or permitted to be given under this Agreement shall be in writing and shall be deemed to have been given if delivered personally or sent by certified or express mail, return receipt requested, postage prepaid, or by any recognized international equivalent of such delivery, to the Company or you, as the case may be, at the following addresses or to such other address as the Company or you, as the case may be, shall specify by notice to the other 
+ (i)if to the Company, to it at 
+ EMCORE Corporation 2015 West Chestnut Street Alhambra, CA 91803 Attention Chief Financial Officer Fax (626) 293-3424 
+ (ii)if to you, to your most recent address as shown on the books and records of the Company or affiliate employing or retaining you. 
+ All such notices and communications shall be deemed to have been received on the date of delivery if delivered personally or on the third business day after the mailing thereof. 
+ 24. Limitation on Rights No Right to Future Grants Extraordinary Item of Compensation . By entering into this Agreement and accepting the Awards evidenced hereby, you acknowledge (a) that the Plan is discretionary in nature and may be suspended or terminated by the Company at any time (b) that the Award does not create any contractual or other right to receive future grants of Awards (c) that participation in the Plan is voluntary (d) that the value of the Awards is not part of normal or expected compensation for purposes of calculating any severance, resignation, redundancy, end of service payments, bonuses, long-service awards, pension or retirement benefits or similar payments and (e) that the future value of the Common Stock is unknown and cannot be predicted with certainty. 
+ 25. Consent to Electronic Delivery . By entering into this Agreement and accepting the Award evidenced hereby, you hereby consent to the delivery of information (including, without limitation, information required to be delivered to you pursuant to applicable law) regarding the Company and its affiliates, the Plan, this Agreement and the Award via Company web site or other electronic delivery. 
+ 26. Clawback Policy . The Restricted Stock Units are subject to the terms of the Company s recoupment, clawback or similar policy as it may be in effect from time to time, as well as any similar provisions of applicable law, any of which could in certain circumstances require repayment or forfeiture of the Restricted Stock Units or any shares of Common Stock or other cash or property received with respect to the Restricted Stock Units (including any value received from a disposition of the shares acquired upon payment of the Restricted Stock Units). 
+ 
+ 10 
+
+27. Counterparts . This Agreement may be executed in counterparts (including electronic signatures or facsimile copies), each of which will be deemed an original, but all of which together will constitute the same instrument. 
+ The Glossary follows on the next page. 
+ 
+ 11 
+
+GLOSSARY 
+
+a. Beneficial Ownership (including correlative terms) shall have the same meaning given such term in Rule 13d-3 promulgated under the Exchange Act. 
+ b. Cause means (as determined by the Administrator) (i) your willful and continued failure to perform substantially your material duties with your Employer (other than any such failure resulting from your incapacity as a result of physical or mental illness) after a written demand for substantial performance specifying the manner in which you have not performed such duties is delivered to you by the person or entity that supervises or manages you, (ii) engaging in willful and serious misconduct that is injurious to the Company or any of its Subsidiaries, (iii) one or more acts of fraud or personal dishonesty resulting in or intended to result in personal enrichment at the expense of the Company or any of its Subsidiaries, (iv) substantial abusive use of alcohol, drugs or similar substances that, in the sole judgment of the Company, impairs your job performance, (v) material violation of any Company policy that results in harm to the Company or any of its Subsidiaries or (vi) indictment for or conviction of (or plea of guilty or nolo contendere) to a felony or of any crime (whether or not a felony) involving moral turpitude. A termination for Cause shall include a determination by the Administrator following your termination of employment for any other reason that, prior to such termination of employment, circumstances constituting Cause existed. Notwithstanding the foregoing, if you are a party to an Employment Agreement, Cause shall have the meaning, if any, specified in your Employment Agreement. 
+ c. Change in Control means the occurrence of any of the following 
+ (i) an acquisition in one transaction or a series of related transactions (other than directly from the Company or pursuant to Awards granted under the Plan or other similar awards granted by the Company under predecessor equity incentive plans) of any Voting Securities by any Person, immediately after which such Person has Beneficial Ownership of fifty percent (50 or more of the combined voting power of the Company s then outstanding Voting Securities provided, however, in determining whether a Change in Control has occurred hereunder, Voting Securities which are acquired in a Non-Control Acquisition shall not constitute an acquisition that would cause a Change in Control 
+ (ii) the individuals who, immediately prior to the effective date of the Plan, are members of the Board (the Incumbent Board ), cease for any reason to constitute at least a majority of the members of the Board provided, however, that if the election, or nomination for election, by the Company s common stockholders, of any new director was approved by a vote of at least a majority of the Incumbent Board, such new director shall, for purposes of the Plan, be considered as a member of the Incumbent Board provided further, however, that no individual shall be considered a member of the Incumbent Board if such individual initially assumed office as a result of either an actual or threatened Election Contest (as described in Rule 14a-11 promulgated under the 
+ 
+ 12 
+
+Exchange Act) or other actual or threatened solicitation of proxies or consents by or on behalf of a Person other than the Board (a Proxy Contest including by reason of any agreement intended to avoid or settle any Election Contest or Proxy Contest or 
+ (iii) the consummation of 
+ (A) a merger, consolidation or reorganization involving the Company unless 
+ (1) the stockholders of the Company, immediately before such merger, consolidation or reorganization, own, directly or indirectly, immediately following such merger, consolidation or reorganization, more than fifty percent (50 of the combined voting power of the outstanding voting securities of the corporation resulting from such merger or consolidation or reorganization (the Surviving Corporation in substantially the same proportion as their ownership of the Voting Securities immediately before such merger, consolidation or reorganization, 
+ (2) the individuals who were members of the Incumbent Board immediately prior to the execution of the agreement providing for such merger, consolidation or reorganization constitute at least a majority of the members of the board of directors of the Surviving Corporation, or a corporation Beneficially Owning, directly or indirectly, a majority of the voting securities of the Surviving Corporation, and 
+ (3) no Person, other than (i) the Company, (ii) any Related Entity, (iii) any employee benefit plan (or any trust forming a part thereof) that, immediately prior to such merger, consolidation or reorganization, was maintained by the Company, the Surviving Corporation, or any Related Entity or (iv) any Person who, together with its Affiliates, immediately prior to such merger, consolidation or reorganization had Beneficial Ownership of fifty percent (50 or more of the then outstanding Voting Securities, owns, together with its Affiliates, Beneficial Ownership of fifty percent (50 or more of the combined voting power of the Surviving Corporation s then outstanding voting securities (a transaction described in clauses (1) through (3) above is referred to herein as a Non-Control Transaction 
+ (B) a complete liquidation or dissolution of the Company or 
+ (C) the sale or other disposition of all or substantially all of the assets or business of the Company to any Person (other than a transfer to a Related Entity or the distribution to the Company s stockholders of the stock of a Related Entity or any other assets). 
+ 
+ 13 
+
+Notwithstanding the foregoing, a Change in Control shall not be deemed to occur solely because any Person (the Subject Person acquired Beneficial Ownership of fifty percent (50 or more of the combined voting power of the then outstanding Voting Securities as a result of the acquisition of Voting Securities by the Company which, by reducing the number of Voting Securities then outstanding, increases the proportional number of shares Beneficially Owned by the Subject Persons, provided that if a Change in Control would occur (but for the operation of this sentence) as a result of the acquisition of Voting Securities by the Company, and (1) before such share acquisition by the Company the Subject Person becomes the Beneficial Owner of any new or additional Voting Securities in a related transaction or (2) after such share acquisition by the Company the Subject Person becomes the Beneficial Owner of any new or additional Voting Securities which in either case increases the percentage of the then outstanding Voting Securities Beneficially Owned by the Subject Person, then a Change in Control shall be deemed to occur. Solely for purposes of this Change in Control definition, (x) Affiliate shall mean, with respect to any Person, any other Person that, directly or indirectly, controls, is controlled by, or is under common control with, such Person (y) any Relative (for this purpose, Relative means a spouse, child, parent, parent of spouse, sibling or grandchild) of an individual shall be deemed to be an Affiliate of such individual for this purpose and (z) neither the Company nor any Person controlled by the Company shall be deemed to be an Affiliate of any holder of Common Stock. 
+ d. Exchange Act means the Securities Exchange Act of 1934 and the rules promulgated thereunder, as amended. 
+ e. Index means the Russell Microcap Index. 
+ f. Non-Control Acquisition means an acquisition by (i) an employee benefit plan (or a trust forming a part thereof) maintained by (A) the Company or (B) any corporation or other Person of which a majority of its voting power or its voting equity securities or equity interest is owned, directly or indirectly, by the Company (a Related Entity ), (ii) the Company or any Related Entity, or (iii) any Person in connection with a Non-Control Transaction. 
+ g. Person means person as such term is used for purposes of Section 13(d) or 14(d) of the Exchange Act, including, without limitation, any individual, corporation, limited liability company, partnership, trust, unincorporated organization, government or any agency or political subdivision thereof, or any other entity or any group of Persons. 
+ h. Securities Act means the Securities Act of 1933 and the rules promulgated thereunder, as amended. 
+ i. Total Shareholder Return means the total shareholder return over the Performance Period for either the Company or the Index assuming that any dividends are reinvested in a company s stock on the payment date. Except as provided in Section 2(c)(ii), (1) total shareholder return for the Company shall be calculated using (i) the average Company stock price at the close of regular trading on the principal exchange on which the stock is listed or traded for the -trading-day period ending with the last day on which the applicable exchange is 
+ 
+ 14 
+
+open for trading preceding the first day of the Performance Period, and (ii) the average Company stock price at the close of regular trading on the principal exchange on which the stock is listed or traded for the -trading-day period ending with the last trading day of the Performance Period, and (2) total shareholder return for the Index will be measured over the same -trading day periods, as applicable, as for the Company. 
+ j. You Your . You means the recipient of the Restricted Stock Units as reflected in the first paragraph of this Agreement. Whenever the word you or your is used in any provision of this Agreement under circumstances where the provision should logically be construed, as determined by the Administrator, to apply to the estate, personal representative, or beneficiary to whom the Restricted Stock Units may be transferred by will or by the laws of descent and distribution, the words you and your will be deemed to include such person. 
+ k. Voting Securities means all the outstanding voting securities of the Company entitled to vote generally in the election of the Board. 
+ The signature page follows. 
+
+15 
+
+IN WITNESS WHEREOF, the Company has caused this Agreement to be executed by its duly authorized officer as of Date . 
+ 
+ EMCORE CORPORATION 
+ 
+ By 
+ Date 
+ 
+ The undersigned hereby represents that he she has read the Prospectus and is familiar with the Plan s terms. The undersigned hereby acknowledges that he she has carefully read this Agreement and agrees, on behalf of himself herself and on behalf of his her beneficiaries, estate and permitted assigns, to be bound by all of the provisions set forth herein, and that the Award and Restricted Stock Units are subject to all of the terms and provisions of this Agreement, and of the Plan under which it is granted, as the Plan and this Agreement may be amended in accordance with their respective terms. The undersigned agrees to accept as binding, conclusive, and final all decisions or interpretations of the Administrator concerning any questions arising under this Agreement or the Plan with respect to the Award or Restricted Stock Units. 
+ 
+ WITNESS 
+ AWARD RECIPIENT 
+
+Date 
+ 
+ 16 
+
+</EX-10.4>
+
+<EX-31.1>
+ 5
+ emkr-2021x3x31xexx311.htm
+ EX-31.1
+
+Document 
+
+Exhibit 31.1 
+ EMCORE CORPORATION 
+ CERTIFICATION PURSUANT TO SECTION 302 
+ OF THE SARBANES-OXLEY ACT OF 2002 
+ I, Jeffrey Rittichier, certify that 
+ 1. I have reviewed this Quarterly Report on Form 10-Q of EMCORE Corporation Report 
+ 2. Based on my knowledge, this Report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this Report 
+ 3. Based on my knowledge, the financial statements, and other financial information included in this Report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this Report 
+ 4. The registrant's other certifying officer and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have 
+ a. Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this Report is being prepared 
+ b. Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles 
+ c. Evaluated the effectiveness of the registrant's disclosure controls and procedures and presented in this Report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this Report based on such evaluation and 
+ d. Disclosed in this Report any change in the registrant's internal control over financial reporting that occurred during the registrant's most recent fiscal quarter (the registrant's fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant's internal control over financial reporting and 
+ 5. The registrant's other certifying officer and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant's auditors and the audit committee of the registrant's board of directors (or persons performing the equivalent functions) 
+ a. All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant's ability to record, process, summarize and report financial information and 
+ b. Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant's internal control over financial reporting. 
+ Date May 7, 2021 By s Jeffrey Rittichier 
+ Jeffrey Rittichier Chief Executive Officer (Principal Executive Officer) 
+
+</EX-31.1>
+
+<EX-31.2>
+ 6
+ emkr-2021x3x31xexx312.htm
+ EX-31.2
+
+Document 
+
+Exhibit 31.2 
+ EMCORE CORPORATION 
+ CERTIFICATION PURSUANT TO SECTION 302 
+ OF THE SARBANES-OXLEY ACT OF 2002 
+ I, Tom Minichiello, certify that 
+ 1. I have reviewed this Quarterly Report on Form 10-Q of EMCORE Corporation Report 
+ 2. Based on my knowledge, this Report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this Report 
+ 3. Based on my knowledge, the financial statements, and other financial information included in this Report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this Report 
+ 4. The registrant's other certifying officer and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have 
+ a. Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this Report is being prepared 
+ b. Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles 
+ c. Evaluated the effectiveness of the registrant's disclosure controls and procedures and presented in this Report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this Report based on such evaluation and 
+ d. Disclosed in this Report any change in the registrant's internal control over financial reporting that occurred during the registrant's most recent fiscal quarter (the registrant's fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant's internal control over financial reporting and 
+ 5. The registrant's other certifying officer and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant's auditors and the audit committee of the registrant's board of directors (or persons performing the equivalent functions 
+ a. All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant's ability to record, process, summarize and report financial information and 
+ b. Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant's internal control over financial reporting. 
+ Date May 7, 2021 By s Tom Minichiello 
+ Tom Minichiello Chief Financial Officer (Principal Financial and Accounting Officer) 
+
+</EX-31.2>
+
+<EX-32.1>
+ 7
+ emkr-2021x3x31xexx321.htm
+ EX-32.1
+
+Document 
+
+Exhibit 32.1 
+ STATEMENT REQUIRED BY 18 U.S.C. 1350, AS ADOPTED 
+ PURSUANT TO 906 OF THE SARBANES-OXLEY ACT OF 2002 
+ In connection with the Quarterly Report on Form 10-Q of EMCORE Corporation (the Company for the quarterly period ended December 31, 2020, as filed with the Securities and Exchange Commission on the date hereof (the Report ), I, Jeffrey Rittichier, Chief Executive Officer (Principal Executive Officer) of the Company, certify, pursuant to 18 U.S.C. 1350, as adopted pursuant to 906 of the Sarbanes-Oxley Act of 2002, that 
+ 1) The Report fully complies with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act of 1934 and 
+ 2) The information contained in the Report fairly presents, in all material respects, the financial condition and results of operations of the Company. 
+ Date May 7, 2021 By s Jeffrey Rittichier 
+ Jeffrey Rittichier Chief Executive Officer (Principal Executive Officer) 
+ The foregoing certification is being furnished pursuant to 18 U.S.C. Section 1350. It is not being filed for purposes of Section 18 of the Securities Exchange Act of 1934, as amended, and it is not to be incorporated by reference into any filing of the Company, regardless of any general incorporation language in such filings. 
+
+</EX-32.1>
+
+<EX-32.2>
+ 8
+ emkr-2021x3x31xexx322.htm
+ EX-32.2
+
+Document 
+
+Exhibit 32.1 
+ STATEMENT REQUIRED BY 18 U.S.C. 1350, AS ADOPTED 
+ PURSUANT TO 906 OF THE SARBANES-OXLEY ACT OF 2002 
+ In connection with the Quarterly Report on Form 10-Q of EMCORE Corporation (the Company for the quarterly period ended December 31, 2020, as filed with the Securities and Exchange Commission on the date hereof (the Report ), I, Tom Minichiello, Chief Financial (Principal Financial and Accounting Officer) of the Company, certify, pursuant to 18 U.S.C. 1350, as adopted pursuant to 906 of the Sarbanes-Oxley Act of 2002, that 
+ 1) The Report fully complies with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act of 1934 and 
+ 2) The information contained in the Report fairly presents, in all material respects, the financial condition and results of operations of the Company. 
+ Date May 7, 2021 By s Tom Minichiello 
+ Tom Minichiello Chief Financial Officer (Principal Financial and Accounting Officer) 
+ The foregoing certification is being furnished pursuant to 18 U.S.C. Section 1350. It is not being filed for purposes of Section 18 of the Securities Exchange Act of 1934, as amended, and it is not to be incorporated by reference into any filing of the Company, regardless of any general incorporation language in such filings. 
+
+</EX-32.2>
+
+<EX-101.SCH>
+ 9
+ emkr-20210331.xsd
+ XBRL TAXONOMY EXTENSION SCHEMA DOCUMENT
+
+</EX-101.SCH>
+
+<EX-101.CAL>
+ 10
+ emkr-20210331_cal.xml
+ XBRL TAXONOMY EXTENSION CALCULATION LINKBASE DOCUMENT
+
+</EX-101.CAL>
+
+<EX-101.DEF>
+ 11
+ emkr-20210331_def.xml
+ XBRL TAXONOMY EXTENSION DEFINITION LINKBASE DOCUMENT
+
+</EX-101.DEF>
+
+<EX-101.LAB>
+ 12
+ emkr-20210331_lab.xml
+ XBRL TAXONOMY EXTENSION LABEL LINKBASE DOCUMENT
+
+</EX-101.LAB>
+
+<EX-101.PRE>
+ 13
+ emkr-20210331_pre.xml
+ XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE DOCUMENT
+
+</EX-101.PRE>
+
