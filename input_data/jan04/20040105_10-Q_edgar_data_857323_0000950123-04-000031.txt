@@ -1,0 +1,3068 @@
+<Header>
+<FileStats>
+    <FileName>20040105_10-Q_edgar_data_857323_0000950123-04-000031.txt</FileName>
+    <GrossFileSize>188157</GrossFileSize>
+    <NetFileSize>134460</NetFileSize>
+    <NonText_DocumentType_Chars>0</NonText_DocumentType_Chars>
+    <HTML_Chars>1448</HTML_Chars>
+    <XBRL_Chars>0</XBRL_Chars>
+    <XML_Chars>0</XML_Chars>
+    <N_Exhibits>5</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0000950123-04-000031.hdr.sgml : 20040105
+<ACCEPTANCE-DATETIME>20040105135027
+ACCESSION NUMBER:		0000950123-04-000031
+CONFORMED SUBMISSION TYPE:	10-Q
+PUBLIC DOCUMENT COUNT:		6
+CONFORMED PERIOD OF REPORT:	20031122
+FILED AS OF DATE:		20040105
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			GTECH HOLDINGS CORP
+		CENTRAL INDEX KEY:			0000857323
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC. [7370]
+		IRS NUMBER:				050450121
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0223
+
+	FILING VALUES:
+		FORM TYPE:		10-Q
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-11250
+		FILM NUMBER:		04503395
+
+	BUSINESS ADDRESS:	
+		STREET 1:		55 TECNOLOGY WAY
+		CITY:			WEST GREENWICH
+		STATE:			RI
+		ZIP:			02817
+		BUSINESS PHONE:		4013921000
+
+	MAIL ADDRESS:	
+		STREET 1:		55 TECHNOLOGY WAY
+		STREET 2:		LEGAL DEPARTMENT
+		CITY:			WEST GREENWICH
+		STATE:			RI
+		ZIP:			02817
+
+</SEC-Header>
+</Header>
+
+ 
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ KuguSoJigNXdgKc3xvbc26aVbZCCdT/a5ZABsGYjZu2AyA9GDZRm7hSBr5nytVgI
+ 7HS5CopPjY59LcndZlG91Q==
+
+ 0000950123-04-000031.txt : 20040105
+
+10-Q
+ 1
+ y92859e10vq.txt
+ 10-Q
+
+FORM 10-Q
+
+ SECURITIES AND EXCHANGE COMMISSION
+ Washington, D.C. 20549
+
+ QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE
+ SECURITIES EXCHANGE ACT OF 1934
+
+ For the quarterly period ended November 22, 2003
+
+Commission file number 1-11250
+
+ GTECH Holdings Corporation
+- --------------------------------------------------------------------------------
+ (Exact name of registrant as specified in its charter)
+
+ Delaware 05-0450121
+ ------------------------------- -------------------------------
+ (State or other jurisdiction of (I.R.S. Employer Identification
+ incorporation or organization) Number)
+
+55 Technology Way, West Greenwich, Rhode Island 02817
+- --------------------------------------------------------------------------------
+(Address of principal executive offices) (Zip Code)
+
+Registrant's telephone number, including area code: (401)392-1000
+
+Indicate by check mark whether the registrant (1) has filed all reports required
+to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during
+the preceding 12 months (or for such shorter period that the registrant was
+required to file such reports), and (2) has been subject to such filing
+requirements for the past 90 days.
+
+Yes [X] No [ ]
+
+Indicate by check mark whether the registrant is an accelerated filer (as
+defined in Rule 12b-2 of the Securities Exchange Act of 1934)
+
+Yes [X] No [ ]
+
+At December 27, 2003, there were 59,083,106 shares of the registrant's Common
+Stock outstanding.
+
+INDEX
+
+GTECH HOLDINGS CORPORATION AND SUBSIDIARIES
+
+Page
+ Number
+ ------
+ 
+PART I. FINANCIAL INFORMATION
+
+Item 1. Financial Statements
+
+ Consolidated Balance Sheets 3
+
+ Consolidated Income Statements 4-5
+
+ Consolidated Statements of Cash Flows 6
+
+ Consolidated Statements of Shareholders' Equity 7
+
+ Notes to Consolidated Financial Statements 8-25
+
+Item 2. Management's Discussion and Analysis of Financial Condition
+ and Results of Operations 26-42
+
+Item 3. Quantitative and Qualitative Disclosures about Market Risk 43
+
+Item 4. Controls and Procedures 43
+
+PART II. OTHER INFORMATION
+
+Item 1. Legal Proceedings 43
+
+Item 6. Exhibits and Reports on Form 8-K 44
+
+SIGNATURES 45
+
+EXHIBITS
+
+PART 1. FINANCIAL INFORMATION
+
+Item 1. FINANCIAL STATEMENTS
+
+CONSOLIDATED BALANCE SHEETS
+
+GTECH HOLDINGS CORPORATION AND SUBSIDIARIES
+
+(Unaudited)
+ November 22, February 22,
+ 2003 2003
+ ------------ ------------
+ (Dollars in thousands)
+ 
+ASSETS
+CURRENT ASSETS:
+ Cash and cash equivalents 320,536 116,174
+ Trade accounts receivable, net 122,718 107,666
+ Sales-type lease receivables 7,288 4,400
+ Inventories 58,852 72,287
+ Deferred income taxes 29,410 29,410
+ Other current assets 27,202 18,660
+ ----------- -----------
+ TOTAL CURRENT ASSETS 566,006 348,597
+
+SYSTEMS, EQUIPMENT AND OTHER ASSETS RELATING TO CONTRACTS, net 561,930 410,911
+
+GOODWILL, net 188,809 115,498
+
+OTHER ASSETS 169,232 79,189
+ ----------- -----------
+ TOTAL ASSETS 1,485,977 954,195
+ =========== ===========
+
+LIABILITIES AND SHAREHOLDERS' EQUITY
+CURRENT LIABILITIES:
+ Accounts payable 74,171 74,042
+ Accrued expenses 52,903 51,200
+ Employee compensation 32,170 37,494
+ Advance payments from customers 95,856 52,442
+ Deferred revenue and advance billings 10,075 17,264
+ Income taxes payable 56,072 54,043
+ Taxes other than income taxes 28,017 16,020
+ Short term borrowings 2,379 2,616
+ Current portion of long-term debt 9,012 6,992
+ ----------- -----------
+ TOTAL CURRENT LIABILITIES 360,655 312,113
+
+LONG-TERM DEBT, less current portion 557,912 287,088
+
+OTHER LIABILITIES 51,716 39,428
+
+COMMITMENTS AND CONTINGENCIES - -
+
+SHAREHOLDERS' EQUITY:
+ Preferred Stock, par value .01 per share - 20,000,000 shares authorized, none issued - -
+ Common Stock, par value .01 per share - 150,000,000 shares authorized,
+ 92,296,404 and 92,296,404 shares issued; 59,065,006 and 56,638,331 shares
+ outstanding at November 22, 2003 and February 22, 2003, respectively 923 923
+ Additional paid-in capital 267,759 235,266
+ Accumulated other comprehensive loss (78,937) (95,488)
+ Retained earnings 801,204 684,653
+ ----------- -----------
+ 990,949 825,354
+ Less cost of 33,231,398 and 35,658,073 shares in treasury at
+ November 22, 2003 and February 22, 2003, respectively (475,255) (509,788)
+ ----------- -----------
+ 515,694 315,566
+ ----------- -----------
+ TOTAL LIABILITIES AND SHAREHOLDERS' EQUITY 1,485,977 954,195
+ =========== ===========
+
+See Notes to Consolidated Financial Statements
+
+ -3-
+
+CONSOLIDATED INCOME STATEMENTS
+
+GTECH HOLDINGS CORPORATION AND SUBSIDIARIES
+
+(Unaudited)
+ Three Months Ended
+ -------------------------
+ November 22, November 23,
+ 2003 2002
+ ------------ ------------
+ (Dollars in thousands,
+ except per share amounts)
+ 
+Revenues:
+ Services 231,225 207,784
+ Sales of products 23,697 48,682
+ --------- ---------
+ 254,922 256,466
+Costs and expenses:
+ Costs of services 131,991 129,122
+ Costs of sales 13,094 39,070
+ --------- ---------
+ 145,085 168,192
+ --------- ---------
+
+Gross profit 109,837 88,274
+
+Selling, general and administrative 28,167 24,358
+Research and development 12,926 10,903
+ --------- ---------
+ Operating expenses 41,093 35,261
+ --------- ---------
+
+Operating income 68,744 53,013
+
+Other income (expense):
+ Interest income 1,494 1,028
+ Equity in earnings of unconsolidated affiliates 1,500 1,406
+ Other income 4,052 234
+ Interest expense (2,986) (2,728)
+ --------- ---------
+ 4,060 (60)
+ --------- ---------
+
+Income before income taxes 72,804 52,953
+
+Income taxes 26,937 20,122
+ --------- ---------
+
+Net income 45,867 32,831
+ ========= =========
+
+Basic earnings per share 0.78 0.58
+ ========= =========
+
+Diluted earnings per share 0.69 0.57
+ ========= =========
+
+Weighted average shares outstanding - basic 58,820 56,981
+ ========= =========
+
+Weighted average shares outstanding - diluted 66,927 58,062
+ ========= =========
+
+Dividends per share - common stock 0.17 -
+ ========= =========
+
+See Notes to Consolidated Financial Statements
+
+ -4-
+
+CONSOLIDATED INCOME STATEMENTS
+
+GTECH HOLDINGS CORPORATION AND SUBSIDIARIES
+
+(Unaudited)
+ Nine Months Ended
+ -------------------------
+ November 22, November 23,
+ 2003 2002
+ ------------ ------------
+ (Dollars in thousands,
+ except per share amounts)
+ 
+Revenues:
+ Services 692,782 643,119
+ Sales of products 78,972 65,717
+ --------- ---------
+ 771,754 708,836
+Costs and expenses:
+ Costs of services 391,593 402,999
+ Costs of sales 50,533 49,426
+ --------- ---------
+ 442,126 452,425
+ --------- ---------
+
+Gross profit 329,628 256,411
+
+Selling, general and administrative 79,498 70,168
+Research and development 41,422 24,575
+ --------- ---------
+ Operating expenses 120,920 94,743
+ --------- ---------
+
+Operating income 208,708 161,668
+
+Other income (expense):
+ Interest income 3,703 2,847
+ Equity in earnings of unconsolidated affiliates 6,120 3,363
+ Other income 3,337 1,912
+ Interest expense (6,997) (8,371)
+ --------- ---------
+ 6,163 (249)
+ --------- ---------
+
+Income before income taxes 214,871 161,419
+
+Income taxes 79,502 61,340
+ --------- ---------
+
+Net income 135,369 100,079
+ ========= =========
+
+Basic earnings per share 2.34 1.75
+ ========= =========
+
+Diluted earnings per share 2.12 1.71
+ ========= =========
+
+Weighted average shares outstanding - basic 57,882 57,252
+ ========= =========
+
+Weighted average shares outstanding - diluted 64,356 58,529
+ ========= =========
+
+Dividends per share - common stock 0.34 -
+ ========= =========
+
+See Notes to Consolidated Financial Statements
+
+ -5-
+
+CONSOLIDATED STATEMENTS OF CASH FLOWS
+
+GTECH HOLDINGS CORPORATION AND SUBSIDIARIES
+
+(Unaudited)
+ Nine Months Ended
+ ---------------------------
+ November 22, November 23,
+ 2003 2002
+ ------------ ------------
+ (Dollars in thousands)
+ 
+OPERATING ACTIVITIES
+Net income 135,369 100,079
+Adjustments to reconcile net income to net cash provided by
+ operating activities:
+ Depreciation 81,449 101,858
+ Intangibles amortization 2,908 4,051
+ Tax benefit related to stock award plans 11,871 7,299
+ Non-cash gain from consolidation of West Greenwich Technology
+ Associates, L.P. (5,292) -
+ Termination of interest rate swaps - 11,357
+ Deferred income taxes provision - 1,130
+ Equity in earnings of unconsolidated affiliates, net of dividends received (263) 559
+ Other 6,943 5,351
+ Changes in operating assets and liabilities:
+ Trade accounts receivable 2,358 11,723
+ Inventories 22,879 14,944
+ Advance payments from customers 43,414 5,211
+ Other assets and liabilities 8,300 17,402
+ ------------ ------------
+NET CASH PROVIDED BY OPERATING ACTIVITIES 309,936 280,964
+
+INVESTING ACTIVITIES
+Purchases of systems, equipment and other assets relating to contracts (211,867) (131,221)
+Acquisitions (net of cash acquired) (74,174) -
+Refundable performance deposit (20,000) -
+License fee (12,500) -
+Other (9,691) (1,350)
+ ------------ ------------
+NET CASH USED FOR INVESTING ACTIVITIES (328,232) (132,571)
+
+FINANCING ACTIVITIES
+Net proceeds from issuance of long-term debt 252,527 -
+Principal payments on long-term debt (31,688) (46,408)
+Proceeds from stock options 22,068 15,842
+Dividends paid (19,928) -
+Purchases of treasury stock - (57,424)
+Tender premiums and fees - (3,434)
+Other (3,583) 2,926
+ ------------ ------------
+NET CASH PROVIDED BY (USED FOR) FINANCING ACTIVITIES 219,396 (88,498)
+
+Effect of exchange rate changes on cash 3,262 2,519
+ ------------ ------------
+INCREASE IN CASH AND CASH EQUIVALENTS 204,362 62,414
+
+Cash and cash equivalents at beginning of period 116,174 35,095
+ ------------ ------------
+
+CASH AND CASH EQUIVALENTS AT END OF PERIOD 320,536 97,509
+ ============ ============
+
+See Notes to Consolidated Financial Statements
+
+ -6-
+
+CONSOLIDATED STATEMENTS OF SHAREHOLDERS' EQUITY - (Unaudited)
+
+GTECH HOLDINGS CORPORATION AND SUBSIDIARIES
+
+Accumulated
+ Additional Other
+ Outstanding Common Paid-in Comprehensive
+ Shares Stock Capital Income (Loss)
+ ----------- -------- ----------- -------------
+ (Dollars in thousands)
+ 
+Balance at February 22, 2003 56,638,331 923 235,266 (95,488)
+
+Comprehensive income:
+ Net income - - - -
+ Other comprehensive income (loss), net of tax:
+ Foreign currency translation - - - 19,190
+ Unrecognized net loss on derivative instruments - - - (2,624)
+ Unrealized loss on investments - - - (15)
+
+Comprehensive income
+Cash dividends on common stock 0.17 per share) - - - -
+Shares issued to acquire Interlott Technologies, Inc. 717,565 - 20,622 -
+Shares issued under employee stock purchase
+ and stock award plans 185,484 - - -
+Shares issued upon exercise of stock options 1,523,626 - - -
+Tax benefits related to stock award plans - - 11,871 -
+ ---------- -------- ----------- -------------
+
+Balance at November 22, 2003 59,065,006 923 267,759 (78,937)
+ ========== ======== =========== =============
+ 
+ Retained Treasury
+ Earnings Stock Total
+ ----------- ------------ ----------
+ (Dollars in thousands)
+ 
+Balance at February 22, 2003 684,653 (509,788) 315,566
+
+Comprehensive income:
+ Net income 135,369 - 135,369
+ Other comprehensive income (loss), net of tax:
+ Foreign currency translation - - 19,190
+ Unrecognized net loss on derivative instruments - - (2,624)
+ Unrealized loss on investments - - (15)
+ ----------
+Comprehensive income 151,920
+Cash dividends on common stock 0.17 per share) (20,069) - (20,069)
+Shares issued to acquire Interlott Technologies, Inc. - 10,212 30,834
+Shares issued under employee stock purchase
+ and stock award plans 865 2,639 3,504
+Shares issued upon exercise of stock options 386 21,682 22,068
+Tax benefits related to stock award plans - - 11,871
+ ----------- ------------ ----------
+
+Balance at November 22, 2003 801,204 (475,255) 515,694
+ =========== ============ ==========
+
+See Notes to Consolidated Financial Statements
+
+ -7-
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+GTECH HOLDINGS CORPORATION AND SUBSIDIARIES
+
+NOTE 1 - ORGANIZATION, BASIS OF PRESENTATION AND STOCK-BASED COMPENSATION PLANS
+
+ORGANIZATION
+
+GTECH Holdings Corporation ("Holdings") is a global information technology
+company providing software, networks and professional services that power
+high-performance, transaction processing solutions. When used in these notes,
+the terms "Holdings", "the Company", "we", "our", and "us" refer to GTECH
+Holdings Corporation and its consolidated subsidiaries, unless otherwise
+specified. We have a single operating and reportable business segment, the
+Transaction Processing segment. Our core market is the lottery industry, with a
+growing presence in commercial services transaction processing. The accounting
+policies of the Transaction Processing segment are the same as those described
+in Note 1 - "Organization and Summary of Significant Accounting Policies" in our
+Consolidated Financial Statements and footnotes included in our fiscal 2003
+Annual Report on Form 10-K, as amended. Management evaluates the performance of
+this segment based on operating income.
+
+BASIS OF PRESENTATION
+
+The accompanying unaudited consolidated financial statements of Holdings, the
+parent of GTECH Corporation ("GTECH"), have been prepared in accordance with
+generally accepted accounting principles ("GAAP") for interim financial
+information and with the instructions to Form 10-Q and Article 10 of Regulation
+S-X. They do not include all information and notes required by GAAP for complete
+financial statements. In the opinion of management, all adjustments (consisting
+of normal recurring accruals) considered necessary for a fair presentation have
+been included. Operating results for the nine-month period ended November 22,
+2003 are not necessarily indicative of the results that may be expected for the
+full fiscal year ending February 28, 2004. The balance sheet at February 22,
+2003 has been derived from the audited financial statements at that date. For
+further information refer to the Consolidated Financial Statements and footnotes
+included in our fiscal 2003 Annual Report on Form 10-K, as amended.
+
+Certain amounts in our prior period financial statements have been reclassified
+to conform to the current period presentation.
+
+STOCK-BASED COMPENSATION PLANS
+
+We follow Accounting Principles Board Opinion No. 25, "Accounting for Stock
+Issued to Employees" and related Interpretations, in accounting for our
+stock-based compensation plans and we have elected to continue to use the
+intrinsic value-based method to account for stock option grants. We have adopted
+the disclosure-only provisions of Statement of Financial Accounting Standards
+No. 148, "Accounting for Stock-Based Compensation - Transition and Disclosure",
+an amendment of Statement of Financial Accounting Standards No. 123.
+Accordingly, no compensation expense has been recognized for our stock-based
+compensation plans other than for restricted stock.
+
+ -8-
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (continued)
+
+NOTE 1 - ORGANIZATION, BASIS OF PRESENTATION AND STOCK-BASED COMPENSATION PLANS
+(continued)
+
+Had we elected to recognize compensation expense based upon the fair value at
+the grant dates for awards under these plans, net income and earnings per share
+would have been reduced to the pro forma amounts listed in the table below. The
+fair value of each grant is estimated on the date of grant using the
+Black-Scholes option pricing model.
+
+Three Months Ended Nine Months Ended
+ ---------------------------- ---------------------------
+ November 22, November 23, November 22, November 23,
+ 2003 2002 2003 2002
+ ------------ ------------ ------------ ------------
+ (Dollars and shares in thousands, except per share amounts)
+ 
+Net income, as reported 45,867 32,831 135,369 100,079
+Deduct: Total stock-based compensation
+ expense determined under the fair value
+ method for all awards, net of related
+ tax effects (893) (1,862) (3,803) (5,293)
+ ------------ ------------ ------------ ------------
+Pro forma net income 44,974 30,969 131,566 94,786
+ ============ ============ ============ ============
+
+Basic earnings per share:
+ As reported .78 .58 2.34 1.75
+ Pro forma .76 .54 2.27 1.66
+Diluted earnings per share:
+ As reported .69 .57 2.12 1.71
+ Pro forma .68 .53 2.06 1.62
+
+NOTE 2 - BUSINESS ACQUISITIONS
+
+POLCARD S.A.
+
+On May 28, 2003, we completed the acquisition of a controlling equity position
+in PolCard S.A. ("PolCard"), for a purchase price, net of cash acquired, of
+ 35.9 million. PolCard is the largest debit and credit card merchant transaction
+acquirer and processor in Poland. At August 23, 2003, PolCard's outstanding
+equity was owned 66.5 by us, 33.2 by two funds managed by Innova Capital Sp. z
+o.o. ("Innova"), a Warsaw-based private equity investment advisor, and 0.3 by
+the Polish Bank Association, one of PolCard's previous owners. In September
+2003, Innova exercised its rights under an option agreement to purchase from us,
+3.7 of PolCard's equity for a purchase price of 2.3 million. Following the
+exercise of this right, we now own 62.8 of PolCard's outstanding equity, while
+the two funds managed by Innova own, in aggregate, 36.9 of PolCard's
+outstanding equity, the fair value of which approximated 22.2 million. The
+Polish Bank Association continues to own 0.3 of the outstanding equity of
+PolCard. We have a fair value option to purchase Innova's interest in PolCard,
+and Innova has the reciprocal right to sell its interest in PolCard to us at
+fair value, during the period commencing approximately four and ending
+approximately six years after closing.
+
+ -9-
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (continued)
+
+NOTE 2 - BUSINESS ACQUISITIONS (continued)
+
+INTERLOTT TECHNOLOGIES, INC.
+
+On September 18, 2003, we completed the acquisition of Interlott Technologies,
+Inc. ("Interlott"), a leading provider of instant ticket vending machines for
+the worldwide lottery industry. Interlott shareholders were given the
+opportunity to elect to receive either 9.00 per share in cash or a number of
+shares of Holdings common stock having a value of 9.00, or a combination of
+both, subject to adjustment so that the aggregate consideration we paid was
+48.5 in cash and 51.5 in Holdings common stock. The final exchange ratio of
+0.2156 shares of Holdings common stock for every share of Interlott common stock
+was determined based on the average closing price of 41.74 for Holdings common
+stock for the 20 trading day period commencing August 14, 2003 through September
+11, 2003. For purposes of purchase accounting, Holdings common stock was valued
+at 42.97 per share using the average price of Holdings common stock two days
+prior to the acquisition date in accordance with Emerging Issues Task Force
+Issue No. 99-12, "Determination of the Measurement Date for the Market Price of
+Acquirer Securities issued in a Purchase Business Combination". The aggregate
+purchase price, including assumed debt, was as follows:
+
+Aggregate
+ purchase price
+ --------------
+ (in millions)
+ 
+Cash 9.00 per share of Interlott common stock) 28.2
+Cash payment to cancel outstanding stock options relating to Interlott
+ common stock 5.7
+ --------------
+ Cash purchase price 33.9
+Issuance of 717,565 shares of Holdings common stock 30.8
+ --------------
+ Total aggregate purchase price 64.7
+Cash payment to settle Interlott debt 22.5
+ --------------
+ 87.2
+ ==============
+
+The PolCard and Interlott acquisitions are individually and in the aggregate,
+not material to our consolidated financial statements and accordingly, pro forma
+financial information has not been presented. Neither acquisition required the
+approval of our shareholders.
+
+SPIELO MANUFACTURING INC.
+
+On November 7, 2003, we entered into an agreement to acquire all of the shares
+of privately-held Spielo Manufacturing Inc. ("Spielo"), a leading provider of
+video lottery terminals and related products and services to the global gaming
+industry. This agreement provides for us to pay a potential aggregate cash
+purchase price of approximately 185 million, which includes a 150 million cash
+payment at the closing and an earn-out amount of up to 35 million in the 18
+months following the closing, which Spielo shareholders are entitled to receive
+based upon Spielo achieving certain video lottery terminal installation
+objectives in New York. Our obligation to complete this acquisition is subject
+to securing regulatory and gaming license approvals, and satisfying certain
+other closing conditions. Approval of this transaction by our shareholders is
+not required. We expect the closing of the Spielo acquisition to be completed in
+the second quarter of fiscal year 2005.
+
+ -10-
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (continued)
+
+NOTE 3 - INVENTORIES
+
+November 22, February 22,
+ 2003 2003
+ ------------ ------------
+ (Dollars in thousands)
+ 
+Inventories consist of:
+ Raw materials 7,328 14,133
+ Work in progress 49,509 54,855
+ Finished goods 2,015 3,299
+ ------------ ------------
+ 58,852 72,287
+ ============ ============
+
+Inventories include amounts we manufacture or assemble for our long-term service
+contracts and amounts related to product sales contracts. Work in progress at
+November 22, 2003 and February 22, 2003, includes approximately 46.2 million
+and 51.3 million, respectively, related to product sale contracts.
+
+Amounts received from customers in advance of revenue recognition (primarily
+related to product sale contracts included in work in progress above) totaled
+ 95.9 million and 52.4 million at November 22, 2003 and February 22, 2003,
+respectively.
+
+NOTE 4 - LICENSE FEE
+
+In the first quarter of this fiscal year, we entered into a Master Contract with
+the Rhode Island Lottery (the "Lottery") that amends our existing contracts with
+the Lottery and grants us the right to be the exclusive provider of online,
+instant ticket and video lottery central systems and services for the Lottery
+during the 20-year term of the Master Contract for a 12.5 million up-front
+license fee which we paid in July 2003. This license fee is included in Other
+Assets in our Consolidated Balance Sheet at November 22, 2003 and will be
+amortized as a reduction in service revenue on a straight-line basis over the
+20-year term of the Master Contract.
+
+The Master Contract is part of a comprehensive economic development package that
+provides incentives for us to keep our world corporate headquarters and
+manufacturing operations in Rhode Island. Under the terms of the Master
+Contract, we are to invest (or cause to be invested) at least 100 million in
+the State of Rhode Island, in the aggregate, by December 31, 2008. This
+investment commitment includes the 12.5 million up-front license fee; new
+online and video lottery related hardware, software and services; the
+development of a new world corporate headquarters facility of at least 210,000
+square feet in Providence, Rhode Island by December 31, 2006; and improvements
+to our existing manufacturing facility in West Greenwich, Rhode Island. We have
+agreed to employ at least 1,000 people full-time in Rhode Island by the end of
+calendar year 2005 and maintain that level of employment thereafter. In the
+event the State of Rhode Island takes certain actions which affect our financial
+performance, we will be automatically released from the in-state employment
+obligation. We currently plan to satisfy our obligation to invest (or cause to
+be invested) at least 100 million in the State of Rhode Island by December 31,
+2008 by investing: (i) approximately 23 million during fiscal 2004; (ii)
+approximately 24 million during fiscal 2005; (iii) approximately 51 million
+during fiscal 2006; and (iv) the balance during fiscal 2007. In addition,
+in July 2003 we entered into a tax stabilization agreement (the "Agreement")
+with the City of Providence (the "City"), whereby the City agreed to stabilize
+the real estate and personal property taxes payable in connection with our new
+world corporate headquarters facility in the City and the personal property
+associated with such facility for 20 years. We also agreed to complete and
+occupy the facility by December 31, 2006, employ 500 employees at the facility
+by 2009, and we made certain commitments regarding our employment, purchasing
+and education activities in the City. The Lottery may terminate the Master
+Contract in the event that we fail to meet our obligations as stated above.
+
+ -11-
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (continued)
+
+NOTE 5- REFUNDABLE PERFORMANCE DEPOSIT
+
+On September 23, 2003, we entered into a 12-year contract extension to provide
+online lottery products and services to SAZKA, a.s. ("SAZKA"), the operator of
+lottery and betting games in the Czech Republic. The contract extension will
+commence on January 1, 2006 and expire on December 31, 2017. As part of the
+agreement with SAZKA, we paid SAZKA a 20 million performance deposit that SAZKA
+will repay upon achievement of certain milestones beginning in 2006, and is
+scheduled to be fully repaid by 2010. This performance deposit is included in
+Other Assets in our Consolidated Balance Sheet at November 22, 2003.
+
+NOTE 6 - PRODUCT WARRANTIES
+
+We offer a product warranty on all of our manufactured products (primarily
+terminals and related peripherals) sold to our customers. Although we do not
+have a standard product warranty, our typical warranty provides that we will
+repair or replace defective products for a period of time (usually a minimum of
+90 days) from the date revenue is recognized or from the date a product is
+delivered and tested. We estimate product warranty costs that we expect to incur
+during the warranty period and we record a charge to costs of sales for the
+estimated warranty cost at the time the product sale is recorded. In determining
+the appropriate warranty provision, consideration is given to historical
+warranty cost information, the status of the terminal model in its life cycle
+and current terminal performance. We periodically assess the adequacy of our
+product warranty reserves and adjust them as necessary in the period when the
+information necessary to make the adjustment becomes available.
+
+We typically do not provide a product warranty on purchased products sold to our
+customers but attempt to pass the manufacturer's warranty, if any, on to them.
+
+A summary of product warranty activity, which is included in Accrued Expenses in
+our Consolidated Balance Sheets, is as follows (dollars in thousands):
+
+Balance at February 23, 2003 437
+Additional reserves 519
+Charges incurred (40)
+ -----------
+Balance at November 22, 2003 916
+ ===========
+
+-12-
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (continued)
+
+NOTE 7 - LONG-TERM DEBT
+
+November 22, February 22,
+ 2003 2003
+ ------------ ------------
+ (Dollars in thousands)
+ 
+Long-term debt consists of:
+ 4.75 Senior Notes due 2010 249,622 -
+ 1.75 Convertible Debentures due 2021 175,000 175,000
+ 7.87 Series B Senior Notes due 2007 90,000 95,000
+ Loan on World Headquarters due 2007 27,933 -
+ Other 24,369 24,080
+ ------------ ------------
+ 566,924 294,080
+ Less current portion 9,012 6,992
+ ------------ ------------
+ 557,912 287,088
+ ============ ============
+
+We have an unsecured revolving credit facility of 300 million expiring in June
+2006 (the "Credit Facility"). There were no outstanding borrowings under the
+Credit Facility at November 22, 2003 or February 22, 2003. Up to 100 million of
+the Credit Facility may be used for the issuance of letters of credit. As of
+November 22, 2003, there was 290.0 million available for borrowing under the
+Credit Facility, after considering 10.0 million of letters of credit issued and
+outstanding.
+
+In September 2003, we repurchased 5.0 million of our 7.87 Series B Senior
+Notes due 2007 (the "Series B Senior Notes"). The Series B Senior Notes are
+unsecured and are guaranteed by Holdings and certain of our subsidiaries and
+interest on each series is payable semi-annually in arrears on May 15 and
+November 15 of each year.
+
+In October 2003, we issued in a private placement, 250 million of 4.75 Senior
+Notes due 2010 (the "Senior Notes"). The Senior Notes are unsecured and are
+guaranteed by certain of our subsidiaries and interest is payable semi-annually
+in arrears on April 15 and October 15 of each year, beginning in April 2004. We
+intend to use the proceeds from the offering for general corporate purposes,
+which may include funding future acquisitions. In conjunction with this Senior
+Note offering, in October 2003, we entered into three interest rate swaps for an
+aggregate amount of 150 million, which effectively entitle us to exchange fixed
+rate payments for variable rate payments for the period October 15, 2003 to
+October 15, 2010.
+
+NOTE 8 - COMMITMENTS AND CONTINGENCIES
+
+See "Legal Proceedings" in Part II, Item 1 and "Management's Discussion and
+Analysis of Financial Condition and Results of Operations" in Part I, Item 2 of
+this report.
+
+ -13-
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (continued)
+
+NOTE 9 - GUARANTEES AND INDEMNIFICATIONS
+
+PERFORMANCE AND OTHER BONDS
+
+In connection with certain contracts and procurements, we have been required to
+deliver performance bonds for the benefit of our customers and bid and
+litigation bonds for the benefit of potential customers, respectively. These
+bonds give the beneficiary the right to obtain payment and/or performance from
+the issuer of the bond if the events set forth in the bond occur. In the case of
+performance bonds, which generally have a term of one year, such events include
+our failure to perform our obligations under the applicable contract. To obtain
+these bonds, we are required to indemnify the issuers against the costs they
+incur if a beneficiary exercises its rights under a bond. Historically, our
+customers have not exercised their rights under these bonds and we do not
+currently anticipate that they will do so. The following table provides
+information related to potential commitments at November 22, 2003:
+
+Total potential
+ commitments
+ ---------------
+ (in thousands)
+ 
+Performance bonds 164,813
+Financial guarantees 7,294
+All other bonds 9,137
+ ---------------
+ 181,244
+ ===============
+
+LOTTERY TECHNOLOGY SERVICES INVESTMENT CORPORATION
+
+We have a 44 interest in Lottery Technology Services Investment Corporation
+("LTSIC"), which we account for using the equity method of accounting. LTSIC's
+wholly owned subsidiary, Lottery Technology Services Corporation ("LTSC"),
+provides equipment and services (which we supplied to LTSC), to the Bank of
+Taipei. The Bank of Taipei holds the license to operate the Taiwan Public
+Welfare Lottery.
+
+In order to assist LTSC with the financing they required to enable them to
+perform under their obligation to operate the Taiwan Public Welfare Lottery on
+behalf of the Bank of Taipei, at November 22, 2003, we guaranteed 4.9 million
+principal amount of loans made by an unrelated commercial lender to LTSC. The
+loans have a maturity date of January 2007 and our guarantee expires in July
+2007. We did not receive any consideration in exchange for our guarantees on
+behalf of LTSC. Rather, these guarantees were issued in connection with the
+formation of LTSC and LTSIC.
+
+We are recognizing 56 of our product sales to, and service revenue from, LTSC.
+The remaining 44 of product sales (and related cost) and service revenue, has
+been deferred as a result of our equity interest in LTSIC and related guarantee
+of LTSC's debt, respectively, and is principally included in Other Liabilities
+in our Consolidated Balance Sheets at November 22, 2003 and February 22, 2003.
+Product sale deferrals are being recognized ratably over the life of our
+contract with LTSC and service revenue deferrals are being recognized as the
+guaranteed debt is repaid. At November 22, 2003, deferred product gross profit
+and deferred service revenue totaled 3.8 million and 6.7 million,
+respectively.
+
+TIMES SQUARED INCORPORATED
+
+We guaranteed outstanding lease obligations of Times Squared Incorporated
+("Times Squared") for which we received no monetary consideration. The amount
+outstanding under the lease at November 22, 2003, was 2.4 million. Our
+guarantee expires in December 2013. Times Squared is a nonprofit corporation
+established to provide, among other things, secondary and high school level
+educational programs. Times Squared operates a Charter School for Engineering,
+Mathematics, Science and Technology in Providence, Rhode Island that serves
+inner city children who aspire to careers in the sciences and technology.
+
+ -14-
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (continued)
+
+NOTE 9 - GUARANTEES AND INDEMNIFICATIONS (continued)
+
+LOTTERY TECHNOLOGY ENTERPRISES
+
+We have a 1 interest in Lottery Technology Enterprises ("LTE"), a joint venture
+between us and District Enterprise for Lottery Technology Applications of
+Washington, D.C. The joint venture agreement terminates on December 31, 2012.
+LTE holds a 10-year contract (which expires in November 2009) with the District
+of Columbia Lottery and Charitable Games Control Board. Under Washington, D.C.
+law, by virtue of our 1 interest in LTE, we are jointly and severally liable,
+with the other partner, for the acts of the joint venture.
+
+GAMING ENTERTAINMENT (DELAWARE) L.L.C.
+
+We have a 50 interest in Gaming Entertainment (Delaware) L.L.C. ("GED"). GED is
+also owned 50 by a subsidiary of Full House Resorts, Inc. ("FHRI"). Pursuant to
+a 1995 management agreement ("Agreement"), GED manages a casino for Harrington
+Raceway, Inc. ("Harrington") and in return receives a percentage of gross
+revenues and operating profits as defined in the Agreement. Along with FHRI, we
+guarantee the payment of all amounts due Harrington under the Agreement. Our
+guarantee expires on February 1, 2012 or upon expiration of the Delaware Horse
+Racing Redevelopment Act. The consideration we receive in exchange for the
+guarantee are the equity earnings from our ownership in GED.
+
+NOTE 10 -- COMPREHENSIVE INCOME
+
+The components of comprehensive income are as follows:
+
+Three Months Ended Nine Months Ended
+ -------------------------- --------------------------
+ November 22, November 23, November 22, November 23,
+ 2003 2002 2003 2002
+ ------------ ------------ ------------ ------------
+ (Dollars in thousands)
+ 
+Net income 45,867 32,831 135,369 100,079
+
+Other comprehensive income (loss),
+ net of tax
+ Foreign currency translation 14,086 10,814 19,190 4,907
+ Unrecognized net gain (loss) on
+ derivative instruments (1,576) 129 (2,624) (1,143)
+ Unrealized loss on investments (14) (32) (15) (104)
+ ---------- --------- ---------- ----------
+Comprehensive income 58,363 43,742 151,920 103,739
+ ========== ========= ========== ==========
+
+-15-
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (continued)
+
+NOTE 11 - EARNINGS PER SHARE
+
+The following table shows the computation of basic and diluted earnings per
+share:
+
+Three Months Ended Nine Months Ended
+ ------------------------------- -------------------------------
+ November 22, November 23, November 22, November 23,
+ 2003 2002 2003 2002
+ -------------- --------------- -------------- ---------------
+ (Dollars and shares in thousands, except per share amounts)
+ 
+Numerator:
+ Net income (Numerator for basic earnings
+ per share) 45,867 32,831 135,369 100,079
+
+Effect of dilutive securities:
+ Interest expense on 1.75 Convertible
+ Debentures, net of tax 517 - 1,182 -
+ -------------- --------------- -------------- ---------------
+Numerator for diluted earnings per share 46,384 32,831 136,551 100,079
+ ============== =============== ============== ===============
+
+Denominator:
+ Denominator for basic earnings per share-
+ weighted-average shares 58,820 56,981 57,882 57,252
+
+Effect of dilutive securities:
+ 1.75 Convertible Debentures 6,364 - 4,806 -
+ Employee stock options 1,559 1,025 1,537 1,187
+ Unvested restricted and stock bonus
+ discount shares 184 56 131 90
+ -------------- --------------- -------------- ---------------
+ Dilutive potential common shares 8,107 1,081 6,474 1,277
+
+Denominator for diluted earnings per
+ share-adjusted weighted-average shares
+ and assumed conversions 66,927 58,062 64,356 58,529
+ ============== =============== ============== ===============
+
+Basic earnings per share .78 .58 2.34 1.75
+ ============== =============== ============== ===============
+
+Diluted earnings per share .69 .57 2.12 1.71
+ ============== =============== ============== ===============
+
+Our 1.75 Convertible Debentures ("Debentures") are convertible at the option of
+the holder into shares of our common stock at an initial conversion rate of
+36.3636 shares of common stock per 1,000 principal amount of Debentures, which
+is equivalent to an initial conversion price of approximately 27.50 per share.
+The Debentures become convertible when, among other circumstances, the closing
+price of our common stock is more than 120 of the conversion price
+(approximately 33 per share) for at least 20 out of 30 consecutive trading days
+prior to the date of surrender for conversion. There are a total of 6.4 million
+shares issuable upon the conversion of the Debentures.
+
+The Debentures were convertible for all 64 trading days in the quarter ended
+November 22, 2003, and all 6.4 million shares were included in the computation
+of diluted earnings per share. For the quarter ended November 23, 2002, none of
+the 6.4 million shares were included in the computation of diluted earnings per
+share because, in accordance with their terms, the Debentures had not yet become
+convertible.
+
+ -16-
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (continued)
+
+NOTE 11 - EARNINGS PER SHARE (continued)
+
+The Debentures were convertible for 144 out of 191 trading days during the nine
+month period ended November 22, 2003, and approximately 4.8 million shares were
+included in the computation of diluted earnings per share. For the nine months
+ended November 23, 2002, none of the 6.4 million shares were included in the
+computation of diluted earnings per share because, in accordance with their
+terms, the Debentures had not yet become convertible.
+
+NOTE 12 - CONSOLIDATION OF WEST GREENWICH TECHNOLOGY ASSOCIATES, L.P.
+
+We have a 50 limited partnership interest in West Greenwich Technology
+Associates, L.P. (the "Partnership"), which owns our world headquarters
+facilities and leases them to us. The general partner of the Partnership is an
+unrelated third party. Prior to the third quarter of fiscal 2004, we accounted
+for the Partnership using the equity method of accounting. Beginning in the
+third quarter of fiscal 2004, we consolidate the Partnership in accordance with
+Financial Accounting Standards Board Interpretation No. 46, "Consolidation of
+Variable Interest Entities", which requires the consolidation of a variable
+interest entity (as defined) by its primary beneficiary. As a result, we
+recorded our world headquarters facilities owned by the Partnership as an asset,
+and the Partnership's debt obligation as a liability in our consolidated
+financial statements. The adoption of this interpretation increased balance
+sheet assets and liabilities by 30.0 million and 26.7 million, respectively,
+and resulted in a one-time, non-cash, after-tax gain of 3.3 million. The
+pre-tax gain of 5.3 million is recorded in Other Income in our consolidated
+financial statements and not as a cumulative-effect adjustment because the gain
+is not material to our consolidated financial statements.
+
+NOTE 13 - INCOME TAXES
+
+Our effective income tax rate is greater than the statutory rate primarily due
+to state income taxes and certain expenses that are not deductible for income
+tax purposes.
+
+NOTE 14 - RECENT ACCOUNTING PRONOUNCEMENTS
+
+In January 2003, the Financial Accounting Standards Board ("FASB") issued
+Interpretation No. 46, "Consolidation of Variable Interest Entities" ("FIN 46"),
+which requires the consolidation of a variable interest entity (as defined) by
+its primary beneficiary. Primary beneficiaries are those companies that are
+subject to a majority of the risk of loss or entitled to receive a majority of
+the variable interest entity's residual returns, or both. In determining
+whether it is the primary beneficiary of a variable interest entity, a company
+with a variable interest must also treat a variable interest held by the
+company's related parties in that same entity as its own interests. In December
+2003, the FASB published a revision to FIN 46 to clarify some of the provisions
+of FIN 46 and to exempt certain entities from its requirements. FIN 46, as
+revised, applies to variable interest entities that are commonly referred to as
+special-purpose entities for periods ending after December 15, 2003 (our fiscal
+2004 fourth quarter) and for all other types of variable interest entities for
+periods ending after March 15, 2004 (our fiscal 2005 first quarter). Earlier
+application is permitted.
+
+ -17-
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (continued)
+
+NOTE 14 - RECENT ACCOUNTING PRONOUNCEMENTS (continued)
+
+We have applied the provisions of FIN 46 to our 50 limited partnership interest
+in West Greenwich Technology Associates, L.P. (the "Partnership"), which owns
+our world headquarters facilities and leases them to us, resulting in the
+consolidation of the Partnership in the third quarter of fiscal 2004. Refer to
+Note 12 for detailed disclosures.
+
+Our evaluation of the impact of FIN 46 on certain of our investments created
+prior to February 1, 2003 is ongoing and is not expected to have a material
+impact on our financial statements. If applicable, we would not be required to
+apply FIN 46 to these investments until our fiscal 2005 first quarter.
+
+NOTE 15 - SUPPLEMENTAL GUARANTOR/NON-GUARANTOR FINANCIAL INFORMATION
+
+On December 18, 2001, Holdings (the "Parent Company") issued 175 million
+principal amount of 1.75 Convertible Debentures due 2021 (the "Convertible
+Debentures"). On October 9, 2003, the Parent Company issued 250 million
+principal amount of 4.75 Senior Notes due 2010 (the "Senior Notes"). The
+Convertible Debentures and Senior Notes are unsecured and unsubordinated
+obligations of the Parent Company that are jointly and severally, fully and
+unconditionally guaranteed by GTECH and three of its wholly-owned subsidiaries:
+GTECH Rhode Island Corporation, GTECH Latin America Corporation and Interlott
+Technologies, Inc. (collectively with GTECH, the "Guarantor Subsidiaries").
+Condensed consolidating financial information is presented below.
+
+Selling, general and administrative costs and research and development costs are
+allocated to each subsidiary based on the ratio of the subsidiaries combined
+service revenue and sales of products to consolidated revenues.
+
+The Parent Company conducts business through its consolidated subsidiaries and
+unconsolidated affiliates and has, as its only material asset, an investment in
+GTECH. Equity in earnings of consolidated affiliates recorded by the Parent
+Company includes the Parent Company's share of the after-tax earnings of GTECH.
+Taxes payable and deferred income taxes are obligations of the subsidiaries.
+Income tax expense related to both current and deferred income taxes are
+allocated to each subsidiary based on our consolidated effective income tax
+rates.
+
+ -18-
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (continued)
+
+NOTE 15 - SUPPLEMENTAL GUARANTOR/NON-GUARANTOR FINANCIAL INFORMATION (continued)
+
+Condensed Consolidating Balance Sheets
+November 22, 2003
+
+Parent Guarantor Non-Guarantor Eliminating
+ Company Subsidiaries Subsidiaries Entries Consolidated
+ --------------- ------------- --------------- ------------- --------------
+ (Dollars in thousands)
+ 
+Assets
+Current Assets:
+ Cash and cash equivalents - 270,568 49,968 - 320,536
+ Trade accounts receivable, net - 78,282 44,436 - 122,718
+ Due from subsidiaries and
+ affiliates - 38,706 - (38,706) -
+ Sales-type lease receivables - 3,591 3,697 - 7,288
+ Inventories - 45,344 18,449 (4,941) 58,852
+ Deferred income taxes - 24,700 4,710 - 29,410
+ Other current assets - 10,980 16,222 - 27,202
+ --------------- ------------- --------------- ------------- --------------
+ Total Current Assets - 472,171 137,482 (43,647) 566,006
+
+Systems, Equipment and Other
+ Assets Relating to Contracts, net - 488,007 81,791 (7,868) 561,930
+Investment in Subsidiaries and
+ Affiliates 515,694 151,833 - (667,527) -
+Goodwill, net - 114,807 74,002 - 188,809
+Other Assets - 89,841 79,391 - 169,232
+ --------------- ------------- --------------- ------------- --------------
+ Total Assets 515,694 1,316,659 372,666 (719,042) 1,485,977
+ =============== ============= =============== ============= ==============
+
+Liabilities and Shareholders' Equity
+Current Liabilities:
+ Accounts payable - 49,614 24,557 - 74,171
+ Due to subsidiaries and affiliates - - 38,706 (38,706) -
+ Accrued expenses - 34,670 18,233 - 52,903
+ Employee compensation - 25,036 7,134 - 32,170
+ Advance payments from
+ customers - 43,138 52,718 - 95,856
+ Deferred revenue and advance
+ billings - 7,202 2,873 - 10,075
+ Income taxes payable - 51,690 4,382 - 56,072
+ Taxes other than income taxes - 14,522 13,495 - 28,017
+ Short term borrowings - - 2,379 - 2,379
+ Current portion of long-term debt - 3,537 5,475 - 9,012
+ -------------- ------------- --------------- ------------- --------------
+ Total Current Liabilities - 229,409 169,952 (38,706) 360,655
+
+Long-Term Debt, less current
+ portion - 524,038 33,874 - 557,912
+Other Liabilities - 34,709 17,007 - 51,716
+Shareholders' Equity 515,694 528,503 151,833 (680,336) 515,694
+ --------------- ------------- --------------- ------------- --------------
+ Total Liabilities and
+ Shareholders' Equity 515,694 1,316,659 372,666 (719,042) 1,485,977
+ =============== ============= =============== ============= ==============
+
+-19-
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (continued)
+
+NOTE 15 - SUPPLEMENTAL GUARANTOR/NON-GUARANTOR FINANCIAL INFORMATION (continued)
+
+Condensed Consolidating Income Statements
+Three Months Ended November 22, 2003
+
+Parent Guarantor Non-Guarantor Eliminating
+ Company Subsidiaries Subsidiaries Entries Consolidated
+ --------------- ------------- --------------- ------------- --------------
+ (Dollars in thousands)
+ 
+Revenues:
+ Services - 164,238 66,987 - 231,225
+ Sales of products - 14,308 9,389 - 23,697
+ Intercompany sales and fees - 21,582 12,050 (33,632) -
+ --------------- ------------- --------------- ------------- --------------
+ - 200,128 88,426 (33,632) 254,922
+Costs and expenses:
+ Costs of services - 93,176 39,667 (852) 131,991
+ Costs of sales - 8,851 4,252 (9) 13,094
+ Intercompany cost of sales
+ and fees - 16,285 5,796 (22,081) -
+ --------------- ------------- --------------- ------------- --------------
+ - 118,312 49,715 (22,942) 145,085
+ --------------- ------------- --------------- ------------- --------------
+
+Gross profit - 81,816 38,711 (10,690) 109,837
+
+Selling, general and administrative - 19,718 8,449 - 28,167
+Research and development - 9,045 3,881 - 12,926
+ --------------- ------------- --------------- ------------- --------------
+ Operating expenses - 28,763 12,330 - 41,093
+ --------------- ------------- --------------- ------------- --------------
+
+Operating income - 53,053 26,381 (10,690) 68,744
+
+Other income (expense):
+ Interest income - 510 984 - 1,494
+ Equity in earnings of
+ unconsolidated affiliates - 430 1,070 - 1,500
+ Equity in earnings of
+ consolidated affiliates 45,867 18,038 - (63,905) -
+ Other income - 3,574 478 - 4,052
+ Interest expense - (2,705) (281) - (2,986)
+ --------------- ------------- --------------- ------------- --------------
+ 45,867 19,847 2,251 (63,905) 4,060
+ --------------- ------------- --------------- ------------- --------------
+
+Income before income taxes 45,867 72,900 28,632 (74,595) 72,804
+
+Income taxes - 26,973 10,594 (10,630) 26,937
+ --------------- ------------- --------------- -------------- --------------
+
+Net income 45,867 45,927 18,038 (63,965) 45,867
+ =============== ============= =============== ============= ==============
+
+-20-
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (continued)
+
+NOTE 15 - SUPPLEMENTAL GUARANTOR/NON-GUARANTOR FINANCIAL INFORMATION (continued)
+
+Condensed Consolidating Income Statements
+Nine Months Ended November 22, 2003
+
+Parent Guarantor Non-Guarantor Eliminating
+ Company Subsidiaries Subsidiaries Entries Consolidated
+ --------------- ------------- --------------- ------------- --------------
+ (Dollars in thousands)
+ 
+Revenues:
+ Services - 503,436 189,346 - 692,782
+ Sales of products - 34,393 44,579 - 78,972
+ Intercompany sales and fees - 66,924 33,983 (100,907) -
+ --------------- ------------- --------------- ------------- --------------
+ - 604,753 267,908 (100,907) 771,754
+Costs and expenses:
+ Costs of services - 275,207 119,285 (2,899) 391,593
+ Costs of sales - 18,832 31,764 (63) 50,533
+ Intercompany cost of sales
+ and fees - 70,889 14,348 (85,237) -
+ --------------- ------------- --------------- ------------- --------------
+ - 364,928 165,397 (88,199) 442,126
+ --------------- ------------- --------------- ------------- --------------
+
+Gross profit - 239,825 102,511 (12,708) 329,628
+
+Selling, general and administrative - 55,404 24,094 - 79,498
+Research and development - 28,860 12,562 - 41,422
+ --------------- ------------- --------------- ------------- --------------
+ Operating expenses - 84,264 36,656 - 120,920
+ --------------- ------------- --------------- ------------- --------------
+
+Operating income - 155,561 65,855 (12,708) 208,708
+
+Other income (expense):
+ Interest income - 1,070 2,633 - 3,703
+ Equity in earnings of
+ unconsolidated affiliates - 3,001 3,119 - 6,120
+ Equity in earnings of
+ consolidated affiliates 135,369 42,551 - (177,920) -
+ Other income (expense) - 6,303 (2,966) - 3,337
+ Interest expense - (5,897) (1,100) - (6,997)
+ --------------- ------------- --------------- ------------- --------------
+ 135,369 47,028 1,686 (177,920) 6,163
+ --------------- ------------- --------------- ------------- --------------
+
+Income before income taxes 135,369 202,589 67,541 (190,628) 214,871
+
+Income taxes - 74,958 24,990 (20,446) 79,502
+ --------------- ------------- --------------- ------------- --------------
+
+Net income 135,369 127,631 42,551 (170,182) 135,369
+ =============== ============= =============== ============= ==============
+
+-21-
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (continued)
+
+NOTE 15 - SUPPLEMENTAL GUARANTOR/NON-GUARANTOR FINANCIAL INFORMATION (continued)
+
+Condensed Consolidating Income Statements
+Three Months Ended November 23, 2002
+
+Parent Guarantor Non-Guarantor Eliminating
+ Company Subsidiaries Subsidiaries Entries Consolidated
+ --------------- ------------- --------------- ------------- --------------
+ (Dollars in thousands)
+ 
+Revenues:
+ Services - 156,069 51,715 - 207,784
+ Sales of products - 43,266 5,416 - 48,682
+ Intercompany sales and fees - 19,858 11,956 (31,814) -
+ --------------- ------------- --------------- ------------- --------------
+ - 219,193 69,087 (31,814) 256,466
+Costs and expenses:
+ Costs of services - 93,275 38,846 (2,999) 129,122
+ Costs of sales - 35,222 3,968 (120) 39,070
+ Intercompany cost of sales
+ and fees - 14,835 5,739 (20,574) -
+ --------------- ------------- --------------- ------------- --------------
+ - 143,332 48,553 (23,693) 168,192
+ --------------- ------------- --------------- ------------- --------------
+
+Gross profit - 75,861 20,534 (8,121) 88,274
+
+Selling, general and administrative - 18,958 5,400 - 24,358
+Research and development - 8,421 2,482 - 10,903
+ --------------- ------------- --------------- ------------- --------------
+ Operating expenses - 27,379 7,882 - 35,261
+ --------------- ------------- --------------- ------------- --------------
+
+Operating income - 48,482 12,652 (8,121) 53,013
+
+Other income (expense):
+ Interest income - 514 514 - 1,028
+ Equity in earnings of
+ unconsolidated affiliates - 289 1,117 - 1,406
+ Equity in earnings of
+ consolidated affiliates 32,831 10,976 - (43,807) -
+ Other income (expense) - (3,562) 3,796 - 234
+ Interest expense - (2,351) (377) - (2,728)
+ --------------- ------------- --------------- ------------- --------------
+ 32,831 5,866 5,050 (43,807) (60)
+ --------------- ------------- --------------- ------------- --------------
+
+Income before income taxes 32,831 54,348 17,702 (51,928) 52,953
+
+Income taxes - 20,652 6,726 (7,256) 20,122
+ --------------- ------------- --------------- ------------- --------------
+
+Net income 32,831 33,696 10,976 (44,672) 32,831
+ =============== ============= =============== ============= ==============
+
+-22-
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (continued)
+
+NOTE 15 - SUPPLEMENTAL GUARANTOR/NON-GUARANTOR FINANCIAL INFORMATION\
+(continued)
+
+Condensed Consolidating Income Statements
+Nine Months Ended November 23, 2002
+
+Parent Guarantor Non-Guarantor Eliminating
+ Company Subsidiaries Subsidiaries Entries Consolidated
+ -------------- ------------ --------------- ------------- -------------
+ (Dollars in thousands)
+ 
+Revenues:
+ Services - 487,222 155,897 - 643,119
+ Sales of products - 53,401 12,316 - 65,717
+ Intercompany sales and fees - 68,642 36,866 (105,508) -
+ ------------- ------------ --------------- -------------- -------------
+ - 609,265 205,079 (105,508) 708,836
+Costs and expenses:
+ Costs of services - 287,529 123,885 (8,415) 402,999
+ Costs of sales - 41,078 8,783 (435) 49,426
+ Intercompany cost of sales
+ and fees - 43,619 13,026 (56,645) -
+ ------------- ----------- --------------- -------------- -------------
+ - 372,226 145,694 (65,495) 452,425
+ ------------- ----------- --------------- -------------- -------------
+
+Gross profit - 237,039 59,385 (40,013) 256,411
+
+Selling, general and administrative - 53,515 16,653 - 70,168
+Research and development - 18,738 5,837 - 24,575
+ ------------- ----------- --------------- -------------- -------------
+ Operating expenses - 72,253 22,490 - 94,743
+ ------------- ----------- --------------- -------------- -------------
+
+Operating income - 164,786 36,895 (40,013) 161,668
+
+Other income (expense):
+ Interest income - 1,263 1,584 - 2,847
+ Equity in earnings of
+ unconsolidated affiliates - 585 2,778 - 3,363
+ Equity in earnings of
+ consolidated affiliates 100,079 29,206 - (129,285) -
+ Other income (expense) - (5,233) 7,145 - 1,912
+ Interest expense - (7,075) (1,296) - (8,371)
+ ------------- ----------- --------------- -------------- -------------
+ 100,079 18,746 10,211 (129,285) (249)
+ ------------- ----------- --------------- -------------- -------------
+
+Income before income taxes 100,079 183,532 47,106 (169,298) 161,419
+
+Income taxes - 69,742 17,900 (26,302) 61,340
+ ------------- ----------- --------------- -------------- -------------
+
+Net income 100,079 113,790 29,206 (142,996) 100,079
+ ============= =========== =============== ============== =============
+
+-23-
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (continued)
+
+NOTE 15 - SUPPLEMENTAL GUARANTOR/NON-GUARANTOR FINANCIAL INFORMATION
+(continued)
+
+Condensed Consolidating Statements of Cash Flows
+Nine Months Ended November 22, 2003
+
+Parent Guarantor Non-Guarantor Eliminating
+ Company Subsidiaries Subsidiaries Entries Consolidated
+ --------------- ------------- --------------- ------------- --------------
+ (Dollars in thousands)
+
+Net cash provided by operating
+ activities - 253,810 56,508 (382) 309,936
+
+Investing Activities
+ Purchases of systems, equipment
+ and other assets relating to
+ contracts - (200,454) (11,795) 382 (211,867)
+ Acquisitions (net of cash acquired) - (40,426) (33,748) - (74,174)
+ Refundable performance deposit - - (20,000) - (20,000)
+ License fee - (12,500) - - (12,500)
+ Other - (9,691) - - (9,691)
+ --------------- ------------- --------------- ------------- --------------
+Net cash used for investing
+ activities - (263,071) (65,543) 382 (328,232)
+
+Financing Activities
+ Net proceeds from issuance
+ of long-term debt - 251,006 1,521 - 252,527
+ Principal payments on long-term
+ debt - (27,759) (3,929) - (31,688)
+ Proceeds from stock options 22,068 - - - 22,068
+ Dividends paid (19,928) - - - (19,928)
+ Intercompany capital transactions (3,222) (30,526) 33,748 - -
+ Other 1,082 (1,819) (2,846) - (3,583)
+ --------------- ------------- --------------- ------------- --------------
+Net cash provided by (used for)
+ financing activities - 190,902 28,494 - 219,396
+
+Effect of exchange rate changes
+ on cash - 188 3,074 - 3,262
+ --------------- ------------- --------------- ------------- --------------
+Increase in cash and cash
+ equivalents - 181,829 22,533 - 204,362
+Cash and cash equivalents at
+ beginning of period - 88,739 27,435 - 116,174
+ --------------- ------------- --------------- ------------- --------------
+Cash and cash equivalents at end
+ of period - 270,568 49,968 - 320,536
+ =============== ============= =============== ============= ==============
+
+-24-
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (continued)
+
+NOTE 15 - SUPPLEMENTAL GUARANTOR/NON-GUARANTOR FINANCIAL INFORMATION
+(continued)
+
+Condensed Consolidating Statements of Cash Flows
+Nine Months Ended November 22, 2003
+
+Parent Guarantor Non-Guarantor Eliminating
+ Company Subsidiaries Subsidiaries Entries Consolidated
+ --------------- ------------- --------------- ------------- --------------
+ (Dollars in thousands)
+ 
+Net cash provided by operating
+ activities - 265,956 14,922 86 280,964
+
+Investing Activities
+ Purchases of systems, equipment
+ and other assets relating to
+ contracts - (121,396) (9,739) (86) (131,221)
+ Other - (1,350) - - (1,350)
+ --------------- ------------- --------------- ------------- --------------
+
+Net cash used for investing
+ activities - (122,746) (9,739) (86) (132,571)
+
+Financing Activities
+ Principal payments on long-term
+ debt - (42,989) (3,419) - (46,408)
+ Purchases of treasury stock (57,424) - - - (57,424)
+ Proceeds from stock options 15,842 - - - 15,842
+ Tender premiums and fees - (3,434) - - (3,434)
+ Intercompany capital transactions 40,698 (40,698) - - -
+ Other 884 (120) 2,162 - 2,926
+ --------------- ------------- --------------- ------------- --------------
+Net cash used for financing
+ activities - (87,241) (1,257) - (88,498)
+
+Effect of exchange rate changes
+ on cash - (1,767) 4,286 - 2,519
+ --------------- ------------- --------------- ------------- --------------
+Increase in cash and
+ cash equivalents - 54,202 8,212 - 62,414
+Cash and cash equivalents at
+ beginning of period - 25,865 9,230 - 35,095
+ --------------- ------------- --------------- ------------- --------------
+Cash and cash equivalents at end
+ of period - 80,067 17,442 - 97,509
+ =============== ============= =============== ============= ==============
+
+-25-
+
+Item 2. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS
+ OF OPERATIONS
+
+The terms "Holdings", "the Company", "we", "our" and "us" refer to GTECH
+Holdings Corporation and its consolidated subsidiaries, unless otherwise
+specified.
+
+Statements contained in this section and elsewhere in this report which are not
+historical statements constitute "forward-looking statements" within the meaning
+of Section 27A of the Securities Act and Section 21E of the Securities Exchange
+Act of 1934. Generally, the words "believe", "expect", "estimate", "anticipate",
+"will", "may", "could", "plan", "continue" and similar expressions identify
+forward-looking statements. Such statements may include, without limitation,
+statements relating to:
+
+ - the future prospects for and stability of the lottery industry and
+ other businesses in which we are engaged or expect to be engaged;
+
+ - our future operating and financial performance (including, without
+ limitation, expected future growth in revenues, profit margins and
+ earnings per share);
+
+ - our ability to retain existing contracts and to obtain and retain new
+ contracts;
+
+ - the future performance of comparable investment opportunities; and
+
+ - the results and effects of legal proceedings and investigations.
+
+These forward-looking statements reflect management's assessment based on
+information currently available, but are not guarantees and are subject to risks
+and uncertainties that could cause actual results to differ materially from
+those contemplated in the forward-looking statements. These risks and
+uncertainties include the following:
+
+ - government regulations and other actions affecting the online lottery
+ industry could have a negative effect on our business and sales;
+
+ - our lottery operations are dependent upon our continued ability to
+ retain and extend our existing contracts and win new contracts;
+
+ - slow growth or declines in sales of online lottery goods and services
+ and other transaction processing services could lead to lower revenues
+ and net income;
+
+ - our results of operations are exposed to foreign currency exchange
+ rate fluctuations, which could result in lower revenues, net income
+ and cash flows when such results are translated into U.S. dollar
+ accounts;
+
+ - we derive close to half of our revenues from foreign jurisdictions
+ (including over ten percent from our Brazilian operations) and are
+ subject to the economic, political and social instability risks of
+ doing business in foreign jurisdictions;
+
+ - we have a concentrated customer base and the loss of any of these
+ customers (or lower sales from any of these customers) could lead to
+ lower revenues;
+
+ - our quarterly operating results may fluctuate significantly, including
+ as a result of variations in the amount and timing of product sales,
+ the occurrence of large jackpots in lotteries (which increase the
+ amount wagered and our revenue) and expenses incurred in connection
+ with lottery start-ups;
+
+ - we operate in a highly competitive environment and increased
+ competition may cause us to experience lower net income or to lose
+ contracts;
+
+ - we are subject to substantial penalties for failure to perform under
+ our contracts;
+
+ - we may not be able to respond in a timely manner to technological
+ changes or to satisfy future technology demands of our customers, in
+ which case we may fall behind our competitors;
+
+ - if we are unable to manage potential risks related to acquisitions,
+ our business and growth prospects could suffer;
+
+ - expansion of the gaming industry faces opposition which could limit
+ our access to new or existing markets to the detriment of our
+ business;
+
+ - our business prospects and future success depend upon our ability to
+ attract and retain qualified employees;
+
+ -26-
+
+- our business prospects and future success rely heavily upon the
+ integrity of our employees and executives and the security of our
+ systems;
+
+ - our dependence on certain suppliers creates a risk of implementation
+ delays if the supply contract is terminated or breached, and any
+ delays may result in substantial penalties;
+
+ - our non-lottery ventures, which are an increasingly important aspect
+ of our business, may fail;
+
+ - we may not be able to successfully integrate the operations of
+ companies that we acquire into our business, and may thereby fail to
+ realize the strategic and financial benefits that we had expected from
+ such acquisitions;
+
+ - we may be subject to adverse determinations in pending legal
+ proceedings, which could involve substantial monetary judgments or
+ reputational damage; and
+
+ - other risks and uncertainties set forth below and elsewhere in this
+ report, in our fiscal 2003 Form 10-K, as amended, and in our
+ subsequent press releases and Form 10-Q's and other reports and
+ filings with the Securities and Exchange Commission.
+
+The foregoing list of important factors is not all-inclusive.
+
+General
+
+We operate on a 52 or 53-week fiscal year ending on the last Saturday in
+February and fiscal 2004 ends on February 28, 2004. Fiscal 2004 is a 53-week
+year and we will include the extra week in our fourth quarter ending February
+28, 2004.
+
+We have derived substantially all of our revenues from the rendering of services
+and the sale or supply of computerized online lottery systems and components to
+government-authorized lotteries. Our service revenues are derived primarily from
+lottery service contracts, which are typically at least five years in duration,
+and generally provide compensation to us based upon a percentage of a lottery's
+gross online lottery sales. These percentages vary depending on the size of the
+lottery and the scope of services provided to the lottery. We derive product
+sale revenues primarily from the installation of new online lottery systems,
+installation of new software and sales of lottery terminals and equipment in
+connection with the expansion of existing lottery systems. Our product margins
+fluctuate depending on the mix, volume and timing of product sale contracts. The
+size and timing of these transactions have resulted in variability in product
+sale revenues from period to period. We currently anticipate that product sales
+during fiscal 2004 will be in the range of 105 million to 110 million.
+
+We continue to evaluate a variety of opportunities to broaden our offerings of
+high-volume transaction processing services outside of our core market of
+providing online lottery services, such as the processing and transmission of
+commercial, non-lottery transactions including bill payments, electronic tax
+payments, utility payments, prepaid cellular telephone recharges and
+retail-based programs such as gift cards. Currently, our networks in Brazil,
+Chile, the Czech Republic and Jamaica process bill payments and other commercial
+service transactions. In addition, in May 2003 we acquired PolCard, the largest
+debit and credit card merchant transaction acquirer and processor in Poland. In
+the near term, we expect to concentrate our efforts to grow commercial service
+revenues in Brazil, Poland, the United Kingdom and Turkey. While our goal is to
+leverage our technology, infrastructure and relationships to drive growth in
+commercial services, if, in the course of pursuing these opportunities, we see a
+chance to gain access to certain markets through the acquisition of existing
+businesses, we may consider making such acquisitions.
+
+ -27-
+
+Our business is highly regulated, and the competition to secure new government
+contracts is often intense. From time to time, competitors challenge our
+contract awards and there have been, and may continue to be, investigations of
+various types, including grand jury investigations conducted by governmental
+authorities into possible improprieties and wrongdoing in connection with
+efforts to obtain and/or the awarding of lottery contracts and related matters.
+In light of the fact that such investigations frequently are conducted in
+secret, we may not necessarily know of the existence of an investigation which
+might involve us. Because our reputation for integrity is an important factor in
+our business dealings with lottery and other governmental agencies, a
+governmental allegation or a finding of improper conduct on our part or
+attributable to us in any manner could have a material adverse effect on our
+business, including our ability to retain existing contracts or to obtain new or
+renewal contracts. In addition, continuing adverse publicity resulting from
+these investigations and related matters could have a material adverse effect on
+our reputation and business. See the following for further information
+concerning these matters and other contingencies:
+
+ - "Legal Proceedings" in Part II, Item 1 in this report;
+
+ - "Legal Proceedings" in Part II, Item 1 in our Quarterly Report for the
+ quarterly period ended May 24, 2003;
+
+ - Part I, Item 1 - "Certain Factors That May Affect Future Performance -
+ Government regulations and other actions affecting the online lottery
+ industry could have a negative effect on our business" in our fiscal
+ 2003 Annual Report on Form 10-K, as amended;
+
+ - Part I, Item 3 - "Legal Proceedings" in our fiscal 2003 Annual Report
+ on Form 10-K, as amended;
+
+ - Note 11 to the Consolidated Financial Statements in our fiscal 2003
+ Annual Report on Form 10-K, as amended
+
+We are a global business and we derive a substantial portion of our revenue from
+our operations outside the United States. In particular, in fiscal 2003, we
+derived 49.2 of our revenues from international operations and 10.3 of our
+revenues from our Brazilian operations alone (including 9.8 of our revenues
+from Caixa Economica Federal, the operator of Brazil's National Lottery, our
+largest customer in fiscal 2003 based on annual revenues). In addition, a
+substantial portion of our assets, primarily consisting of equipment we use to
+operate online lottery systems for our customers, are held outside of the United
+States. We are also exposed to more general risks of international operations,
+including increased governmental regulation of the online lottery industry in
+the markets where we operate; exchange controls or other currency restrictions;
+and significant political instability.
+
+Significant Contract Bids and Extensions
+
+A majority of our revenues and cash flow is derived from our portfolio of
+long-term online lottery service contracts, each of which in the ordinary course
+of our business is periodically the subject of competitive procurement or
+renegotiation. In the third quarter of fiscal 2004, we continued to execute
+against our growth strategy by signing new contracts and contract extensions
+both domestically and abroad.
+
+During the third quarter of fiscal 2004, following public, competitive
+procurements, we were selected by both the Florida Lottery and Tennessee
+Education Lottery Corporation to supply new online lottery systems, lottery
+terminals, and related telecommunications networks in each of those respective
+states. On November 26, 2003 (after the close of the third quarter of this
+fiscal year), we signed a six-year integrated services contract with the Florida
+Lottery which is expected to commence on February 1, 2005 and includes two,
+two-year extension options. In Tennessee, the proposed seven-year integrated
+services contract is expected to commence on February 10, 2004 and does not
+include any extension options. In addition, during the third quarter of fiscal
+2004, we signed a 12-year contract extension to provide online lottery products
+and services to SAZKA a.s., the operator of lottery and betting games in the
+Czech Republic and we also extended our relationship with lottery customers in
+Denmark and Portugal.
+
+ -28-
+
+In December 2003 (after the close of our fiscal 2004 third quarter), following a
+public, competitive procurement, we signed a 10-year integrated services
+contract to provide online, instant and passive lottery technology and
+management services in Sri Lanka, which includes a five-year extension option.
+We anticipate launching the new system in mid-2004.
+
+Over the past several fiscal years, contract renewal and extension rates in the
+United States have generally been lower than existing contract rates due to a
+number of factors, including the substantial growth of lottery sales during the
+latter part of the 1990's and calendar year 2002, reductions in the cost of
+technology and telecommunications services, and general market and competitive
+dynamics. In anticipation and response to these trends, beginning in fiscal
+2001, we began the implementation of our new Enterprise Series-led technology
+strategy combined with the implementation of a number of ongoing cost savings
+initiatives and efficiency improvement programs designed to enable us to
+maintain our market leadership in the lottery industry.
+
+Recent Developments
+
+POLCARD S.A.
+
+On May 28, 2003, we completed the acquisition of a controlling equity position
+in PolCard S.A. ("PolCard"), for a purchase price, net of cash acquired, of
+ 35.9 million. PolCard is the largest debit and credit card merchant transaction
+acquirer and processor in Poland. At August 23, 2003, PolCard's outstanding
+equity was owned 66.5 by us, 33.2 by two funds managed by Innova Capital Sp. z
+o.o. ("Innova"), a Warsaw-based private equity investment advisor, and 0.3 by
+the Polish Bank Association, one of PolCard's previous owners. In September
+2003, Innova exercised its rights under an option agreement to purchase from us,
+3.7 of PolCard's equity for a purchase price of 2.3 million. Following the
+exercise of this right, we now own 62.8 of PolCard's outstanding equity, while
+the two funds managed by Innova own, in aggregate, 36.9 of PolCard's
+outstanding equity, the fair value of which approximated 22.2 million. The
+Polish Bank Association continues to own 0.3 of the outstanding equity of
+PolCard. We have a fair value option to purchase Innova's interest in PolCard,
+and Innova has the reciprocal right to sell its interest in PolCard to us at
+fair value, during the period commencing approximately four and ending
+approximately six years after closing.
+
+INTERLOTT TECHNOLOGIES, INC.
+
+On September 18, 2003, we completed the acquisition of Interlott Technologies,
+Inc. ("Interlott"), a leading provider of instant ticket vending machines for
+the worldwide lottery industry. Interlott shareholders were given the
+opportunity to elect to receive either 9.00 per share in cash or a number of
+shares of Holdings common stock having a value of 9.00, or a combination of
+both, subject to adjustment so that the aggregate consideration we paid was
+48.5 in cash and 51.5 in Holdings common stock. The final exchange ratio of
+0.2156 shares of Holdings common stock for every share of Interlott common stock
+was determined based on the average closing price of 41.74 for Holdings common
+stock for the 20 trading day period commencing August 14, 2003 through September
+11, 2003. For purposes of purchase accounting, Holdings common stock was valued
+at 42.97 per share using the average price of Holdings common stock two days
+prior to the acquisition date in accordance with Emerging Issues Task Force
+Issue No. 99-12, "Determination of the Measurement Date for the Market Price of
+Acquirer Securities issued in a Purchase Business Combination". The aggregate
+purchase price, including assumed debt, was as follows:
+
+ -29-
+
+Aggregate
+ purchase price
+ --------------
+ (in millions)
+ 
+Cash 9.00 per share of Interlott common stock) 28.2
+Cash payment to cancel outstanding stock options relating to Interlott
+ common stock 5.7
+ --------------
+ Cash purchase price 33.9
+Issuance of 717,565 shares of Holdings common stock 30.8
+ --------------
+ Total aggregate purchase price 64.7
+Cash payment to settle Interlott debt 22.5
+ --------------
+ 87.2
+ ==============
+
+The PolCard and Interlott acquisitions did not require the approval of our
+shareholders.
+
+SPIELO MANUFACTURING INC.
+
+On November 7, 2003, we entered into an agreement to acquire all of the shares
+of privately-held Spielo Manufacturing Inc. ("Spielo"), a leading provider of
+video lottery terminals and related products and services to the global gaming
+industry. This agreement provides for us to pay a potential aggregate cash
+purchase price of approximately 185 million, which includes a 150 million cash
+payment at the closing and an earn-out amount of up to 35 million in the 18
+months following the closing, which Spielo shareholders are entitled to receive
+based upon Spielo achieving certain video lottery terminal installation
+objectives in New York. Our obligation to complete this acquisition is subject
+to securing regulatory and gaming license approvals, and satisfying certain
+other closing conditions. Approval of this transaction by our shareholders is
+not required. We expect the closing of the Spielo acquisition to be completed in
+the second quarter of fiscal year 2005.
+
+DIVIDEND
+
+On October 31, 2003, we paid our second quarterly cash dividend of 0.17 per
+share to shareholders of record as of October 15, 2003, for a total of 10.0
+million.
+
+Critical Accounting Policies
+
+We have identified the accounting policies listed below that we believe are most
+critical to our financial condition and results of operations, and that require
+management's most difficult, subjective and complex judgments in estimating the
+effect of inherent uncertainties. This section should be read in conjunction
+with Note 1 to our Consolidated Financial Statements included in our fiscal 2003
+Annual Report on Form 10-K, as amended, which includes other significant
+accounting policies.
+
+REVENUE RECOGNITION
+
+Amounts received from customers in advance of revenue recognition are recorded
+in Advance Payments from Customers in our Consolidated Balance Sheets. We record
+liquidated damages (which equaled 0.47 , 0.14 and 0.47 of our total revenues
+in fiscal 2003, 2002 and 2001, respectively) as a reduction of revenue in the
+period they become probable and estimable.
+
+Service revenues from commercial transaction processing services are recorded
+based on the net amount retained, which is the amount billed to our customer
+less the amount paid to our suppliers, in accordance with Emerging Issues Task
+Force Issue No. 99-19, "Reporting Revenue Gross as a Principal Versus Net as an
+Agent".
+
+ -30-
+
+We generally conduct business under one of three types of contractual
+arrangements: Product Sales Contracts, Operating Contracts and Facilities
+Management Contracts.
+
+PRODUCT SALES CONTRACTS
+
+Under Product Sales Contracts, we construct, sell, deliver and install a turnkey
+online lottery system ("lottery system") or lottery equipment and license the
+computer software for a fixed price, and the lottery authority subsequently
+operates the lottery system.
+
+Because Product Sales Contracts include significant customization and
+modification and other services prior to customer acceptance that are considered
+essential to the lottery software inherent in our lottery systems, revenue is
+recognized using contract accounting. Under contract accounting, amounts due to
+us, and costs incurred by us in constructing the lottery system, prior to
+customer acceptance, are deferred. Revenue attributable to the lottery system is
+recognized upon customer acceptance as long as there are no substantial doubts
+regarding collectibility (the completed contract method of accounting).
+
+In certain Product Sale Contracts (primarily the sale of lottery terminals), we
+are not responsible for installation. In these cases, we recognize revenue when
+the four basic revenue recognition criteria of SEC Staff Accounting Bulletin 101
+have been met.
+
+1. Persuasive evidence of an arrangement exists - Revenue is only
+ recognized if a signed contract or legally enforceable purchase order
+ is obtained.
+
+2. Delivery has occurred or services have been rendered - Revenue is only
+ recognized if appropriate evidence of delivery is obtained and once any
+ customer acceptance criteria have been met.
+
+3. The seller's price to the buyer is fixed or determinable - Revenue is
+ only recognized if the sales price is fixed and determinable in the
+ signed contract or legally enforceable purchase order.
+
+4. Collectibility is reasonably assured - Revenue is only recognized when
+ there are no significant doubts regarding the collectibility of the
+ amounts due from the customer.
+
+Revenues received under Product Sale Contracts are classified as Sales of
+Products in our Consolidated Income Statements.
+
+OPERATING CONTRACTS
+
+Under Operating Contracts, we generally construct, install and operate the
+lottery system, but sell and transfer full title and interest in the lottery
+system to the customer for a fixed fee. Fees paid to us for ongoing services and
+the licensing of the computer software are generally variable and are based on a
+percentage of a lottery's gross online and instant lottery sales.
+
+Because Operating Contracts include significant customization and modification
+and other services prior to customer acceptance that are considered essential to
+the lottery software inherent in our lottery systems, revenue is recognized
+using contract accounting. Under contract accounting, amounts due to us, and
+costs incurred by us in constructing the lottery system, prior to customer
+acceptance, are deferred. Revenue attributable to the lottery system is
+recognized upon customer acceptance as long as there are no substantial doubts
+regarding collectibility (the completed contract method of accounting) and are
+classified as Sales of Products in our Consolidated Income Statements. Ongoing
+service and license fees are recognized as revenue in the period earned and are
+classified as Service Revenue in our Consolidated Income Statements.
+
+We have not entered into any new Operating Contracts in the last three fiscal
+years. Additionally, Operating Contract revenue accounted for less than 2 of
+our consolidated revenue during fiscal 2003. These types of contractual
+arrangements have diminished in importance and we expect similar levels of
+revenue in the future.
+
+ -31-
+
+FACILITIES MANAGEMENT CONTRACTS
+
+Under typical Facilities Management Contracts, we construct, install and operate
+the lottery system, and retain ownership of the lottery system. These contracts
+generally provide for a variable amount of monthly or weekly service fees paid
+to us directly from the lottery authority based on a percentage of a lottery's
+gross online and instant lottery sales. These fees are recognized as revenue in
+the period earned and are classified as Service Revenue in our Consolidated
+Income Statements.
+
+RECEIVABLES AND INVENTORY RESERVES
+
+We evaluate the collectibility of trade accounts and sales-type lease
+receivables on a customer-by-customer basis and we believe our reserves are
+adequate; however, if economic circumstances change significantly resulting in a
+major customer's inability or unwillingness to meet its financial obligations to
+us, original estimates of the recoverability of amounts due to us could be
+reduced by significant amounts requiring additional reserves.
+
+Inventories are stated at the lower of cost (first-in, first-out method) or
+market. Inventories include amounts related to products we manufacture or
+assemble for our long-term service contracts, which are transferred to Systems,
+Equipment and Other Assets Relating to Contracts in our Consolidated Balance
+Sheets upon shipment. Inventories also include amounts related to product sales
+contracts, including product sales under long-term contracts. We regularly
+review inventory quantities on hand and record provisions for potentially
+obsolete or slow-moving inventory based primarily on our estimated forecast of
+product demand and production requirements. We believe our reserves are
+adequate; however, should future sales forecasts change, our original estimates
+of obsolescence could increase by a significant amount requiring additional
+reserves.
+
+IMPAIRMENT OF GOODWILL
+
+We perform a test for the impairment of goodwill annually, during our fiscal
+third quarter, or more frequently if events or circumstances indicate that
+goodwill may be impaired. Because we have a single operating and reportable
+business segment (the Transaction Processing Segment), we perform this test by
+comparing the fair value of the Transaction Processing Segment with its book
+value, including goodwill. If the fair value of the Transaction Processing
+Segment exceeds its book value, goodwill is not impaired. If the book value
+exceeds the fair value, we would calculate the potential impairment loss by
+comparing the implied fair value of goodwill with the book value. If the implied
+goodwill is less than the book value, a write-down would be recorded.
+
+IMPAIRMENT OF LONG-LIVED ASSETS
+
+We periodically evaluate the recoverability of long-lived assets whenever
+indicators of impairment are present. Indicators of impairment include such
+items as declines in revenues and earnings or cash flows or material adverse
+changes in the economic or political stability of a particular country, which
+may indicate that the carrying amount of an asset is not recoverable. If facts
+and circumstances indicate that our long-lived assets may be impaired, the
+estimated future undiscounted cash flows associated with these long-lived assets
+would be compared to their carrying amounts to determine if a write-down to fair
+value is necessary.
+
+ -32-
+
+Consolidation of West Greenwich Technology Associates, L.P.
+
+We have a 50 limited partnership interest in West Greenwich Technology
+Associates, L.P. (the "Partnership"), which owns our world headquarters
+facilities and leases them to us. The general partner of the Partnership is an
+unrelated third party. Prior to the third quarter of fiscal 2004, we accounted
+for the Partnership using the equity method of accounting. Beginning in the
+third quarter of fiscal 2004, we consolidate the Partnership in accordance with
+Financial Accounting Standards Board Interpretation No. 46, "Consolidation of
+Variable Interest Entities", which requires the consolidation of a variable
+interest entity (as defined) by its primary beneficiary. As a result, we
+recorded our world headquarters facilities owned by the Partnership as an asset,
+and the Partnership's debt obligation as a liability in our consolidated
+financial statements. The adoption of this interpretation increased balance
+sheet assets and liabilities by 30.0 million and 26.7 million, respectively,
+and resulted in a one-time, non-cash, after-tax gain of 3.3. The pre-tax gain
+of 5.3 million is recorded in Other Income in our consolidated financial
+statements and not as a cumulative-effect adjustment because the gain is not
+material to our consolidated financial statements.
+
+Effect of Recent Accounting Pronouncements
+
+In January 2003, the Financial Accounting Standards Board ("FASB") issued
+Interpretation No. 46, "Consolidation of Variable Interest Entities" ("FIN 46"),
+which requires the consolidation of a variable interest entity (as defined) by
+its primary beneficiary. Primary beneficiaries are those companies that are
+subject to a majority of the risk of loss or entitled to receive a majority of
+the variable interest entity's residual returns, or both. In determining
+whether it is the primary beneficiary of a variable interest entity, a company
+with a variable interest must also treat a variable interest held by the
+company's related parties in that same entity as its own interests. In December
+2003, the FASB published a revision to FIN 46 to clarify some of the provisions
+of FIN 46 and to exempt certain entities from its requirements. FIN 46, as
+revised, applies to variable interest entities that are commonly referred to as
+special-purpose entities for periods ending after December 15, 2003 (our fiscal
+2004 fourth quarter) and for all other types of variable interest entities for
+periods ending after March 15, 2004 (our fiscal 2005 first quarter). Earlier
+application is permitted.
+
+We have applied the provisions of FIN 46 to our 50 limited partnership interest
+in West Greenwich Technology Associates, L.P. (the "Partnership"), which owns
+our world headquarters facilities and leases them to us, resulting in the
+consolidation of the Partnership in the third quarter of fiscal 2004. Refer to
+"Consolidation of West Greenwich Technology Associates, L.P." above for detailed
+disclosures.
+
+Our evaluation of the impact of FIN 46 on certain of our investments created
+prior to February 1, 2003 is ongoing and is not expected to have a material
+impact on our financial statements. If applicable, we would not be required to
+apply FIN 46 to these investments until our fiscal 2005 first quarter.
+
+-33-
+
+Results of Operations
+
+THREE MONTHS ENDED NOVEMBER 22, 2003 VERSUS THREE MONTHS ENDED NOVEMBER 23, 2002
+
+Revenues were 254.9 million in the third quarter of fiscal 2004, compared to
+ 256.5 million in the third quarter of fiscal 2003, down 1.5 million, or 0.6 .
+
+The following discussion on service revenues should be read in conjunction with
+the table below (in millions):
+
+Three Months Ended
+ -------------------------------------------------------
+ Change
+ November 22, November 23, -------------------
+Service revenues 2003 2002 
+- ---------------------- -------------- -------------- --------- -----
+ 
+Domestic lottery 123.5 116.2 7.3 6.2
+International lottery 86.4 79.7 6.7 8.5
+Commercial services 20.7 11.2 9.5 85.8
+All other 0.6 0.7 (0.1) (21.0)
+ -------------- -------------- --------- -----
+ 231.2 207.8 23.4 11.3
+ ============== ============== ========= =====
+
+Our domestic lottery service revenues were 123.5 million in the third quarter
+of fiscal 2004, compared to 116.2 million in the third quarter of fiscal 2003,
+up 7.3 million, or 6.2 . This 6.2 increase was primarily due to higher service
+revenues of approximately 3 from an increase in sales by our domestic lottery
+customers, with the balance of the increase due to the combined effect of higher
+jackpot activity and new contracts, including the impact of the Interlott
+acquisition, net of contractual rate changes. While we are not able to quantify
+precisely the reasons for increases in sales by our domestic lottery customers,
+we believe that in general, such increases are attributable to enhanced
+marketing efforts by state lottery authorities seeking to offset declining tax
+revenues and the successful introduction by state lottery authorities of new
+games and products, modifications to existing games (such as matrix changes and
+more frequent drawings) and expanded distribution channels, such as Keno.
+
+Our international lottery service revenues grew to 86.4 million in the third
+quarter of fiscal 2004, from 79.7 million in the third quarter of fiscal 2003,
+up 6.7 million, or 8.5 . This 8.5 increase includes higher service revenues of
+approximately 7 from an increase in sales by our international lottery
+customers, with the balance of the increase due to the impact of favorable
+foreign exchange rates, net of the combined effect of lower jackpot activity and
+contractual rate changes. While we are not able to quantify precisely the
+reasons for increases in sales by our international lottery customers, we
+believe that in general, such increases are attributable to more rapid growth
+rates typical of newer lottery jurisdictions and the successful introduction of
+new games.
+
+Service revenues from commercial transaction processing services were 20.7
+million in the third quarter of fiscal 2004, compared to 11.2 million in the
+third quarter of fiscal 2003, up 9.5 million, or 85.8 , primarily due to the
+acquisition of PolCard, which contributed 6.8 million of service revenues in
+the third quarter of this fiscal year.
+
+Product sales were 23.7 million in the third quarter of fiscal 2004, compared
+to 48.7 million in the third quarter of fiscal 2003, down 25.0 million or
+51.3 . Product sales in the third quarter of the prior year included a one-time
+sale of a turnkey system to our customer in France.
+
+Our service margins improved from 37.9 in the third quarter of fiscal 2003 to
+42.9 in the third quarter of fiscal 2004, primarily due to lower depreciation
+of approximately 2 percentage points, principally related to fully depreciated
+assets associated with our contract with Caixa Economica Federal in Brazil, with
+the balance of the increase primarily due to the impact of higher service
+revenues.
+
+ -34-
+
+Our product margins fluctuate depending on the mix, volume and timing of product
+sales contracts. Our product margins were 44.7 in the third quarter of fiscal
+2004 compared to 19.7 in the third quarter of fiscal 2003. This change was
+primarily due to the different mix of sales, with higher margin software and
+equipment sales recorded in the third quarter of fiscal 2004.
+
+Operating expenses were 41.1 million in the third quarter of fiscal 2004,
+compared to 35.3 million in the third quarter of fiscal 2003, up 5.8 million,
+or 16.5 . This increase was driven by 3.8 million of increased spending on
+selling, general and administrative expenses, primarily driven by increased
+business development activities and the consolidation of PolCard and Interlott.
+In addition, our investment in research and development increased by 2.0
+million as we continue our efforts to accelerate the development and deployment
+of Enterprise Series into the marketplace. As a percentage of revenues,
+operating expenses were 16.1 and 13.7 during the third quarters of fiscal 2004
+and 2003, respectively.
+
+Other income was 4.1 million in the third quarter of fiscal 2004, compared to
+ 0.2 million in the third quarter of fiscal 2003. This 3.9 million increase was
+primarily due to a one-time, non-cash, pre-tax gain of 5.3 million resulting
+from the consolidation of the partnership that owns our world headquarters
+facilities, in compliance with Financial Accounting Standards Board
+Interpretation No. 46, "Consolidation of Variable Interest Entities".
+
+Weighted average diluted shares in the third quarter of fiscal 2004 increased by
+8.9 million shares to 66.9 million shares, primarily due to the convertibility
+during the third quarter of our 175 million principal amount of 1.75 
+Convertible Debentures (the "Debentures") into shares of our common stock,
+resulting in a decrease to diluted earnings per share of approximately 0.07.
+These Debentures are convertible at the option of the holder into shares of our
+common stock at a conversion price of approximately 27.50 per share when, among
+other circumstances, our stock closes above 33 per share for at least 20 out of
+30 consecutive trading days prior to the date of surrender for conversion. There
+are a total of 6.4 million shares issuable upon the conversion of the
+Debentures. The Debentures were convertible for all 64 trading days in the third
+quarter of fiscal 2004, and accordingly, all 6.4 million shares were included in
+the computation of diluted earnings per share.
+
+Our effective income tax rate decreased from 38 in the third quarter of fiscal
+2003 to 37 in the third quarter of fiscal 2004 principally due to a larger
+percentage of international profits taxed at rates that are lower than the U.S.
+statutory tax rate and the increased recognition of research and development tax
+credits.
+
+NINE MONTHS ENDED NOVEMBER 22, 2003 VERSUS NINE MONTHS ENDED NOVEMBER 23, 2002
+
+Revenues were 771.8 million in the first nine months of fiscal 2004, compared
+to 708.8 million in the first nine months of fiscal 2003, up 63.0 million, or
+8.9 .
+
+The following discussion on service revenues should be read in conjunction with
+the table below (in millions):
+
+Nine Months Ended
+ -------------------------------------------------------
+ Change
+ November 22, November 23, -------------------
+Service revenues 2003 2002 
+- ---------------- -------------- -------------- --------- ----
+ 
+Domestic lottery 378.4 363.2 15.2 4.2
+International lottery 260.2 239.6 20.6 8.6
+Commercial services 52.3 38.3 14.0 36.3
+All other 1.9 2.0 (0.1) (8.0)
+ -------------- -------------- --------- ----
+ 692.8 643.1 49.7 7.7
+ ============== ============== ========= ====
+
+-35-
+
+Our domestic lottery service revenues were 378.4 million in the first nine
+months of fiscal 2004, compared to 363.2 million in the first nine months of
+fiscal 2003, up 15.2 million, or 4.2 . This 4.2 increase includes higher
+service revenues of approximately 4 from an increase in sales by our domestic
+lottery customers, with the balance of the increase due to the combined effect
+of new contracts and the impact of the PolCard and Interlott acquisitions, net
+of contractual rate changes. While we are not able to quantify precisely the
+reasons for increases in sales by our domestic lottery customers, we believe
+that in general, such increases are attributable to enhanced marketing efforts
+by state lottery authorities seeking to offset declining tax revenues and the
+successful introduction by state lottery authorities of new games and products,
+modifications to existing games (such as matrix changes and more frequent
+drawings) and expanded distribution channels, such as Keno.
+
+Our international lottery service revenues were 260.2 million in the first nine
+months of fiscal 2004, compared to 239.6 million in the first nine months of
+fiscal 2003, up 20.6 million, or 8.6 . This 8.6 increase includes higher
+service revenues of approximately 10 from an increase in sales by our
+international lottery customers, along with the impact of favorable foreign
+exchange rates, partially offset by the impact of contractual rate changes.
+While we are not able to quantify precisely the reasons for increases in sales
+by our international lottery customers, we believe that in general, such
+increases are attributable to more rapid growth rates typical of newer lottery
+jurisdictions and the successful introduction of new games.
+
+Service revenues from commercial transaction processing services were 52.3
+million in the first nine months of fiscal 2004, compared to 38.3 million in
+the first nine months of fiscal 2003, up 14.0 million, or 36.3 , primarily due
+to the consolidation of PolCard, which contributed 13.9 million of service
+revenues in the first nine months of this fiscal year.
+
+Product sales were 79.0 million in the first nine months of fiscal 2004,
+compared to 65.7 million in the first nine months of fiscal 2003, up 13.3
+million. This increase was primarily driven by the sale of our new interactive,
+web-based software application, ES Interactive, to our customer in the United
+Kingdom.
+
+Our service margins improved from 37.3 in the first nine months of fiscal 2003
+to 43.5 in the first nine months of fiscal 2004. This 6.2 percentage point
+increase was primarily due to lower depreciation of 3.0 percentage points
+(principally related to fully depreciated assets associated with our contract
+with Caixa Economica Federal in Brazil), 1.4 percentage points from the absence
+of certain consulting costs incurred during the first nine months of the prior
+year, and the balance of the increase primarily due to the impact of higher
+service revenues.
+
+Our product margins fluctuate depending on the mix, volume and timing of product
+sales contracts. Our product margins were 36.0 in the first nine months of
+fiscal 2004 compared to 24.8 in the first nine months of fiscal 2003, primarily
+due to the different mix of sales during the two periods.
+
+Operating expenses were 120.9 million in the first nine months of fiscal 2004,
+compared to 94.7 million in the first nine months of fiscal 2003, up 26.2
+million, or 27.6 . This increase was driven by 16.9 million of increased
+spending on research and development as we continue our efforts to accelerate
+the development and deployment of Enterprise Series into the marketplace. In
+addition, selling, general and administrative expense was up 9.3 million,
+primarily driven by an increase in business development and related bidding
+activity, along with expenses of PolCard and Interlott. As a percentage of
+revenues, operating expenses were 15.7 and 13.4 during the first nine months
+of fiscal 2004 and 2003, respectively.
+
+ -36-
+
+The components of other income in the first nine months of fiscal 2004 and 2003
+are as follows (in millions):
+
+Nine Months Ended
+ ---------------------------------
+ November 22, November 23,
+ 2003 2002
+ -------------- ---------------
+ 
+Non-cash gain resulting from the consolidation of the partnership that 5.3 -
+ owns our world headquarters facilities
+Foreign exchange gains 0.3 5.4
+Tender premiums and fees associated with the early retirement of our - (2.1)
+ 7.75 Series A Senior Notes due 2004, net of proceeds from the sale
+ of certain interest rate swaps associated with these notes
+Other (2.3) (1.4)
+ -------------- ---------------
+ Total other income 3.3 1.9
+ ============== ===============
+
+Weighted average diluted shares in the first nine months of fiscal 2004
+increased by 5.8 million shares to 64.4 million shares, primarily due to the
+convertibility during the first nine months of this fiscal year of our 175
+million principal amount of 1.75 Convertible Debentures (the "Debentures") into
+shares of our common stock, resulting in a decrease to diluted earnings per
+share of approximately 0.15. These Debentures are convertible at the option of
+the holder into shares of our common stock at a conversion price of
+approximately 27.50 per share when, among other circumstances, our stock closes
+above 33 per share for at least 20 out of 30 consecutive trading days prior to
+the date of surrender for conversion. There are a total of 6.4 million shares
+issuable upon the conversion of the Debentures. The Debentures were convertible
+for 144 out of 191 trading days in the first nine months of fiscal 2004, and
+approximately 4.8 million shares were included in the computation of diluted
+earnings per share.
+
+Our effective income tax rate decreased from 38 in the first nine months of
+fiscal 2003 to 37 in the first nine months of fiscal 2004 principally due to a
+larger percentage of international profits taxed at rates that are lower than
+the U.S. statutory tax rate and the increased recognition of research and
+development tax credits.
+
+Changes in Financial Position, Liquidity and Capital Resources
+
+During the first nine months of fiscal 2004, we generated 309.9 million of cash
+from operations which, along with cash on hand, was principally used to purchase
+ 211.9 million of systems, equipment and other assets relating to contracts and
+to fund acquisitions of 74.2 million. In addition, during the third quarter of
+this fiscal year, we issued 250 million of 4.75 Senior Notes. At November 22,
+2003, we had 320.5 million of cash and cash equivalents on hand, of which
+approximately 96.4 million was invested in a savings account at a major U.S.
+financial institution with a credit rating of AA- and Aa2 from Standard and
+Poor's and Moody's Investor Service, respectively, and approximately 196.1
+million was invested in tax-exempt municipal and auction rate securities that
+typically have a minimal credit rating of A- or A3 from Standard and Poor's and
+Moody's Investor Service, respectively. At November 22, 2003, the weighted
+average duration and weighted average taxable equivalent yield of the portfolio
+was approximately eight days and 1.6 , respectively. At the end of the fiscal
+2004 third quarter, there was 290.0 million available for borrowing under our
+ 300 million credit facility after considering 10.0 million of letters of
+credit issued and outstanding under the credit facility.
+
+Trade accounts receivable, net increased by 15.0 million, from 107.7 million
+at February 22, 2003 to 122.7 million at November 22, 2003, primarily due to
+ 29.4 million related to the consolidation of PolCard and Interlott, partially
+offset by collections related to product sales we recorded in the prior fiscal
+year.
+
+ -37-
+
+Inventories decreased by 13.4 million, from 72.3 million at February 22, 2003
+to 58.9 million at November 22, 2003, primarily due to the sale of ES
+Interactive to our customer in the United Kingdom, partially offset by an
+increase of inventory associated with product sales expected to be recorded
+during fiscal 2005 and inventory associated with the acquisition of Interlott.
+
+Other current assets increased by 8.5 million, from 18.7 million at February
+22, 2003 to 27.2 million at November 22, 2003, primarily due to 6.1 million of
+prepayments and 3.9 million of value-added tax receivables, both related to
+ongoing lottery system installations, primarily in Europe.
+
+Systems, equipment and other assets relating to contracts, net, increased by
+ 151.0 million, from 410.9 million at February 22, 2003 to 561.9 million at
+November 22, 2003, primarily due to the purchase of 211.9 million of systems,
+equipment and other assets relating to contracts (principally related to lottery
+system implementations in California and Georgia and the consolidation of
+Interlott and PolCard), partially offset by depreciation expense.
+
+Goodwill, net, increased by 73.3 million, from 115.5 million at February 22,
+2003 to 188.8 million at November 22, 2003, primarily due to the acquisition of
+PolCard, the largest debit and credit card merchant transaction acquirer and
+processor in Poland, along with the acquisition of Interlott, a leading provider
+of instant ticket vending machines for the worldwide lottery industry.
+
+Other assets increased by 90.0 million, from 79.2 million at February 22, 2003
+to 169.2 million at November 22, 2003, primarily due to the consolidation of
+the partnership that owns our world headquarters facilities, a 20.0 million
+refundable performance deposit we paid to our customer in the Czech Republic, a
+ 12.5 million up-front license fee we paid to the Rhode Island Lottery, with the
+balance related to intangible assets recorded as a result of our acquisitions of
+PolCard and Interlott.
+
+Advance payments from customers increased by 43.5 million, from 52.4 million
+at February 22, 2003 to 95.9 million at November 22, 2003, primarily due to
+advances received from customers related to product sales that are expected to
+be recorded during fiscal 2005 and 2006, partially offset by the sale of ES
+Interactive to our customer in the United Kingdom.
+
+Taxes other than income taxes increased by 12.0 million, from 16.0 million at
+February 22, 2003 to 28.0 million at November 22, 2003, primarily due to 9.0
+million of value-added tax payables related to ongoing lottery system
+installations, primarily in Europe.
+
+Long-term debt, less current portion, increased by 270.8 million, from 287.1
+million at February 22, 2003 to 557.9 million at November 22, 2003, primarily
+due to proceeds from the issuance of 250 million of 4.75 Senior Notes during
+the third quarter of fiscal 2004 and the consolidation of the partnership that
+owns our world headquarters facilities.
+
+Other liabilities increased by 12.3 million, from 39.4 million at February 22,
+2003 to 51.7 million at November 22, 2003 due to an advance payment we received
+from a lottery customer that will be amortized to service revenue ratably over
+the base contract term.
+
+Our business is capital-intensive. We currently estimate that net cash to be
+used for investing activities in fiscal 2004 will be in the range of 400
+million to 410 million, including investments we made to acquire PolCard and
+Interlott, and spending on new contract assets necessary for the recently
+announced contracts in Tennessee and Sri Lanka. We expect our principal sources
+of liquidity to be existing cash balances, along with cash we generate from
+operations. Our credit facility provides for an unsecured revolving line of
+credit of 300 million and matures in June 2006. As of November 22, 2003, there
+were no borrowings under the credit facility. Up to 100 million of the Credit
+Facility may be used for the issuance of letters of credit. As of November 22,
+2003, there was 290.0 million available for borrowing under the Credit
+Facility, after considering 10.0 million of letters of credit issued and
+outstanding. We
+
+ -38-
+
+currently expect that our cash flow from operations, existing cash balances and
+available borrowings under our credit facility will be sufficient for the
+foreseeable future to fund our anticipated working capital and ordinary capital
+expenditure needs, to service our debt obligations, to fund anticipated internal
+growth, to fund all or a portion of the cash needed for potential acquisitions,
+to pay dividends, to fund the capital requirements under our Master Contract
+with the Rhode Island Lottery, and to repurchase shares of our common stock,
+from time to time, under our share repurchase programs. Notwithstanding the
+foregoing, we may seek alternative sources of financing to fund certain of our
+obligations under our Master Contract with the Rhode Island Lottery and to fund
+future potential acquisitions and growth opportunities that are not currently
+contemplated in the 400 million to 410 million range of fiscal 2004 investing
+activities disclosed above.
+
+Details of our contractual obligations for long-term debt and operating leases
+as of February 22, 2003 are as follows (in millions):
+
+Fiscal
+ ----------------------------------------------------------------------------
+ 2004 2005 2006 2007 2008 Thereafter Total
+ -------- -------- -------- -------- -------- ---------- --------
+ 
+Long-term debt 7.0 5.6 5.1 5.8 95.6 175.0 294.1
+Operating leases 18.7 14.8 7.3 33.4 3.1 6.1 83.4
+ -------- ------- -------- ------- -------- ---------- --------
+Total 25.7 20.4 12.4 39.2 98.7 181.1 377.5
+ ======== ======= ======== ======= ======== ========== ========
+
+Operating lease payments include a 28 million residual value payment that we
+may be required to pay in fiscal 2007, or earlier under certain limited
+circumstances, related to the lease of our world headquarters facilities.
+
+Guarantees and Indemnifications
+
+PERFORMANCE AND OTHER BONDS
+
+In connection with certain contracts and procurements, we have been required to
+deliver performance bonds for the benefit of our customers and bid and
+litigation bonds for the benefit of potential customers, respectively. These
+bonds give the beneficiary the right to obtain payment and/or performance from
+the issuer of the bond if the events set forth in the bond occur. In the case of
+performance bonds, which generally have a term of one year, such events include
+our failure to perform our obligations under the applicable contract. To obtain
+these bonds, we are required to indemnify the issuers against the costs they
+incur if a beneficiary exercises its rights under a bond. Historically, our
+customers have not exercised their rights under these bonds and we do not
+currently anticipate that they will do so. The following table provides
+information related to potential commitments at November 22, 2003:
+
+Total potential
+ commitments
+ ---------------
+ (in millions)
+ 
+Performance bonds 164.8
+Financial guarantees 7.3
+All other bonds 9.1
+ ---------------
+ 181.2
+ ===============
+
+LOTTERY TECHNOLOGY SERVICES INVESTMENT CORPORATION
+
+We have a 44 interest in Lottery Technology Services Investment Corporation
+("LTSIC"), which we account for using the equity method of accounting. LTSIC's
+wholly owned subsidiary, Lottery Technology Services Corporation ("LTSC"),
+provides equipment and services (which we supplied to LTSC), to the Bank of
+Taipei. The Bank of Taipei holds the license to operate the Taiwan Public
+Welfare Lottery.
+
+ -39-
+
+In order to assist LTSC with the financing they required to enable them to
+perform under their obligation to operate the Taiwan Public Welfare Lottery on
+behalf of the Bank of Taipei, at November 22, 2003, we guaranteed 4.9 million
+principal amount of loans made by an unrelated commercial lender to LTSC. The
+loans have a maturity date of January 2007 and our guarantee expires in July
+2007. We did not receive any consideration in exchange for our guarantees on
+behalf of LTSC. Rather, these guarantees were issued in connection with the
+formation of LTSC and LTSIC.
+
+We are recognizing 56 of our product sales to, and service revenue from, LTSC.
+The remaining 44 of product sales (and related cost) and service revenue, has
+been deferred as a result of our equity interest in LTSIC and related guarantee
+of LTSC's debt, respectively, and is principally included in Other Liabilities
+in our Consolidated Balance Sheets at November 22, 2003 and February 22, 2003.
+Product sale deferrals are being recognized ratably over the life of our
+contract with LTSC and service revenue deferrals are being recognized as the
+guaranteed debt is repaid. At November 22, 2003, deferred product gross profit
+and deferred service revenue totaled 3.8 million and 6.7 million,
+respectively.
+
+TIMES SQUARED INCORPORATED
+
+We guaranteed outstanding lease obligations of Times Squared Incorporated
+("Times Squared") for which we received no monetary consideration. The amount
+outstanding under the lease at November 22, 2003, was 2.4 million. Our
+guarantee expires in December 2013. Times Squared is a nonprofit corporation
+established to provide, among other things, secondary and high school level
+educational programs. Times Squared operates a Charter School for Engineering,
+Mathematics, Science and Technology in Providence, Rhode Island that serves
+inner city children who aspire to careers in the sciences and technology.
+
+LOTTERY TECHNOLOGY ENTERPRISES
+
+We have a 1 interest in Lottery Technology Enterprises ("LTE"), a joint venture
+between us and District Enterprise for Lottery Technology Applications of
+Washington, D.C. The joint venture agreement terminates on December 31, 2012.
+LTE holds a 10-year contract (which expires in November 2009) with the District
+of Columbia Lottery and Charitable Games Control Board. Under Washington, D.C.
+law, by virtue of our 1 interest in LTE, we are jointly and severally liable,
+with the other partner, for the acts of the joint venture.
+
+GAMING ENTERTAINMENT (DELAWARE) L.L.C.
+
+We have a 50 interest in Gaming Entertainment (Delaware) L.L.C. ("GED"). GED is
+also owned 50 by a subsidiary of Full House Resorts, Inc. ("FHRI"). Pursuant to
+a 1995 management agreement ("Agreement"), GED manages a casino for Harrington
+Raceway, Inc. ("Harrington") and in return receives a percentage of gross
+revenues and operating profits as defined in the Agreement. Along with FHRI, we
+guarantee the payment of all amounts due Harrington under the Agreement. Our
+guarantee expires on February 1, 2012 or upon expiration of the Delaware Horse
+Racing Redevelopment Act. The consideration we receive in exchange for the
+guarantee are the equity earnings from our ownership in GED.
+
+Market Risk Disclosures
+
+The primary market risk inherent in our financial instruments and exposures is
+the potential loss arising from adverse changes in interest rates and foreign
+currency rates. Our exposure to commodity price changes is not considered
+material and is managed through our procurement and sales practices. We did not
+own any marketable equity securities during the first nine months of fiscal
+2004.
+
+ -40-
+
+Interest rates
+
+Interest rate market risk is estimated as the potential change in the fair value
+of our total debt or current earnings resulting from a hypothetical 10 adverse
+change in interest rates. At November 22, 2003, after taking into consideration
+ 150 million of interest rate swaps, the estimated fair value of our 250
+million of 4.75 Senior Notes due 2010 and 90 million of 7.87 Series B Senior
+Notes due 2007 approximated 351.3 million (as determined by an independent
+investment banker). At November 22, 2003, after taking into consideration the
+interest rate swaps, a hypothetical 10 increase in interest rates would
+decrease the estimated fair value of these Senior Notes to 349.1 million and a
+hypothetical 10 decrease in interest rates would increase the estimated fair
+value of these Senior Notes to 353.6 million.
+
+At November 22, 2003, the estimated fair value of our 175 million principal
+amount of 1.75 Convertible Debentures was 312.4 million (based on a quoted
+market price of 178.50 per Debenture). At November 22, 2003, a hypothetical 10 
+increase in interest rates would reduce the estimated fair value of the
+Convertible Debentures to 311.8 million and a hypothetical 10 decrease in
+interest rates would increase the estimated fair value of the Convertible
+Debentures to 313.0 million.
+
+A hypothetical 10 adverse or favorable change in interest rates applied to
+variable rate debt would not have a material effect on current earnings.
+
+We use various techniques to mitigate the risk associated with future changes in
+interest rates, including entering into interest rate swaps. In October 2003, we
+entered into three interest rate swaps for an aggregate amount of 150 million,
+which effectively entitle us to exchange fixed rate payments for variable rate
+payments for the period October 15, 2003 to October 15, 2010.
+
+Equity price risk
+
+At November 22, 2003, the estimated fair value of our 175 million principal
+amount of 1.75 Convertible Debentures was 312.4 million (based on a quoted
+market price of 178.50 per Debenture). At November 22, 2003, a hypothetical 10 
+increase in the market price of our common stock would increase the estimated
+fair value of the Convertible Debentures to 340.0 million and a hypothetical
+10 decrease in the market price of our common stock would reduce the estimated
+fair value of the Convertible Debentures to 285.6 million.
+
+Foreign Currency Exchange Rates
+
+We are subject to foreign exchange exposures arising from current and
+anticipated transactions denominated in currencies other than our functional
+currency (United States dollars) and from the translation of foreign currency
+balance sheet accounts into United States dollar balance sheet accounts.
+
+We seek to manage our foreign exchange risk by securing payment from our
+customers in United States dollars, by sharing risk with our customers, by
+utilizing foreign currency borrowings, by leading and lagging receipts and
+payments, and by entering into foreign currency exchange and option contracts.
+In addition, a significant portion of the costs attributable to our foreign
+currency revenues are payable in the local currencies. In limited circumstances,
+but whenever possible, we negotiate clauses into our contracts that allow for
+price adjustments should a material change in foreign exchange rates occur.
+
+ -41-
+
+From time to time, we enter into foreign currency exchange and option contracts
+to reduce the exposure associated with current transactions and anticipated
+transactions denominated in foreign currencies. However, we do not engage in
+foreign currency speculation. At November 22, 2003, a hypothetical 10 adverse
+change in foreign exchange rates would result in a translation loss of 15.9
+million that would be recorded in the equity section of our balance sheet.
+
+At November 22, 2003, a hypothetical 10 adverse change in foreign exchange
+rates would result in a net pre-tax transaction loss of 1.6 million that would
+be recorded in current earnings after considering the effects of foreign
+exchange contracts currently in place.
+
+At November 22, 2003, a hypothetical 10 adverse change in foreign exchange
+rates would result in a net reduction of cash flows from anticipatory
+transactions during the remainder of fiscal 2004 of 3.1 million, after
+considering the effects of foreign exchange contracts currently in place. The
+percentage of fiscal 2004 anticipatory cash flows that were hedged varied
+throughout the first nine months of fiscal 2004, but averaged 50 .
+
+As of November 22, 2003, we had contracts for the sale of foreign currency of
+approximately 66.9 million (primarily Euro, pounds sterling and Brazilian real)
+and the purchase of foreign currency of approximately 67.2 million (primarily
+pounds sterling, Euro, Singapore dollars, Brazilian real and Swedish krona).
+
+ -42-
+
+Item 3. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
+
+See "Market Risk Disclosures" above.
+
+Item 4. CONTROLS AND PROCEDURES
+
+We maintain disclosure controls and procedures that are designed to ensure that
+information required to be disclosed in our Securities Exchange Act reports is
+recorded, processed, summarized and reported within the time periods specified
+in the Securities and Exchange Commission's rules and forms, and that such
+information is accumulated and communicated to our management, including our
+President and Chief Executive Officer ("CEO") and our Senior Vice President and
+Chief Financial Officer ("CFO"), as appropriate, to allow timely decisions
+regarding required disclosure. In designing and evaluating the disclosure
+controls and procedures, management recognized that any controls and procedures,
+no matter how well designed and operated, can provide only reasonable assurance
+of achieving the desired control objectives and management was required to apply
+its judgment in evaluating the cost-benefit relationship of possible controls
+and procedures. Our controls and procedures are designed to provide a reasonable
+level of assurance in reaching our desired controls and procedures objectives.
+
+As of the end of the quarterly period covered by this report, we carried out an
+evaluation under the supervision and with the participation of our management,
+including our CEO and our CFO, of the effectiveness of the design and operation
+of our disclosure controls and procedures (as defined in Rule 13a-15(e) under
+the Securities Exchange Act of 1934), and of any changes in our internal control
+over financial reporting (as defined in Rule 13a-15(f) under the Securities
+Exchange Act of 1934) that occurred during the quarterly period covered by this
+report. Based upon that evaluation, the CEO and CFO concluded that the Company's
+disclosure controls and procedures were effective in reaching a reasonable level
+of assurance of achieving management's desired controls and procedures
+objectives, and that no change in our internal control over financial reporting
+occurred during the quarterly period covered by this report that has materially
+affected, or is reasonably likely to materially affect, our internal control
+over financial reporting. Subsequent to the date of this evaluation, there have
+been no significant changes in our internal controls or in other factors that
+could significantly affect these controls, and no corrective actions have been
+taken with regard to significant deficiencies or material weaknesses in such
+controls.
+
+PART II. OTHER INFORMATION
+
+Item 1. LEGAL PROCEEDINGS
+
+For information respecting certain legal proceedings, refer to Part I, Item 3 -
+"Legal Proceedings" and Note 11 to the Consolidated Financial Statements in our
+fiscal 2003 Annual Report on Form 10-K, as amended, and Part II, Item 1 - "Legal
+Proceedings" in our Quarterly Report for the quarterly period ended May 24,
+2003.
+
+ -43-
+
+Item 6. EXHIBITS AND REPORTS ON FORM 8-K
+
+(a) Exhibits - The exhibits to this report are as follows:
+
+ 12.1 Computation of Ratio of Earnings to Fixed Charges
+
+ 31.1 Certification Pursuant to Section 302 of the Sarbanes-Oxley Act
+ of 2002, of W. Bruce Turner, President and Chief Executive
+ Officer of the Company
+
+ 31.2 Certification Pursuant to Section 302 of the Sarbanes-Oxley Act
+ of 2002, of Jaymin B. Patel, Senior Vice President and Chief
+ Financial Officer of the Company
+
+ 32.1 Certification Pursuant to 18 United States Code Section 1350, as
+ Adopted Pursuant to Section 906 of the Sarbanes-Oxley Act of
+ 2002, of W. Bruce Turner, President and Chief Executive Officer
+ of the Company
+
+ 32.2 Certification Pursuant to 18 United States Code Section 1350, as
+ Adopted Pursuant to Section 906 of the Sarbanes-Oxley Act of
+ 2002, of Jaymin B. Patel, Senior Vice President and Chief
+ Financial Officer of the Company
+
+(b) Reports on Form 8-K - We filed the following reports with the Securities
+ and Exchange Commission on Form 8-K during the quarter to which this report
+ relates:
+
+ (i) We filed a report on Form 8-K on September 12, 2003 incorporating
+ by reference a press release we issued on September 12, 2003
+ announcing our fiscal 2004 second quarter results. In addition,
+ we incorporated by reference the transcripts from our fiscal 2004
+ second quarter earnings conference call held on September 12,
+ 2003.
+
+ (ii) We filed a report on Form 8-K on September 18, 2003 incorporating
+ by reference a press release we issued on September 18, 2003
+ describing that we completed the acquisition of Interlott
+ Technologies, Inc., a leading provider of instant ticket vending
+ machines for the lottery industry worldwide.
+
+ (iii) We filed a report on Form 8-K/A on October 6, 2003 refiling our
+ September 12, 2003 Form 8-K under the correct filing codes for
+ GTECH Holdings Corporation.
+
+ (iv) We filed a report on Form 8-K on October 8, 2003 incorporating by
+ reference a press release we issued on October 8, 2003 describing
+ that we intended to offer approximately 200 million in aggregate
+ principal amount of seven-year senior notes in an unregistered
+ offering to qualified institutional buyers pursuant to Rule 144A
+ under the Securities Act of 1933.
+
+ (v) We filed a report on Form 8-K on October 9, 2003 incorporating by
+ reference a press release we issued on October 9, 2003 describing
+ that we agreed to sell 250 million of 4.75 senior notes due
+ 2010, for aggregate proceeds of approximately 248.1 million.
+
+ (vi) We filed a report on Form 8-K on November 7, 2003 incorporating
+ by reference a press release we issued on November 7, 2003
+ describing our agreement to acquire all of the shares of
+ privately-held Spielo Manufacturing Inc., a leading provider of
+ video lottery terminals and related products and services to the
+ global gaming industry. In addition, we incorporated by reference
+ the transcripts from our conference call held on November 7, 2003
+ respecting such acquisition.
+
+ -44-
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the
+registrant has duly caused this report to be signed on its behalf by the
+undersigned thereunto duly authorized.
+
+ GTECH HOLDINGS CORPORATION
+
+Date: January 5, 2004 By /s/ Jaymin B. Patel
+ -------------------------------------------------
+ Jaymin B. Patel, Senior Vice President and Chief
+ Financial Officer (Principal Financial Officer)
+
+Date: January 5, 2004 By /s/ Robert J. Plourde
+ -------------------------------------------------
+ Robert J. Plourde, Vice President, Corporate
+ Controller and Chief Accounting Officer
+ (Principal Accounting Officer)
+
+ -45-
+
+<EX-12.1>
+ 3
+ y92859exv12w1.txt
+ COMPUTATION OF RATIO OF EARNINGS
+
+.
+ .
+ .
+
+ EXHIBIT 12.1
+
+ GTECH HOLDINGS CORPORATION AND SUBSIDIARIES
+
+ COMPUTATION OF RATIO OF EARNINGS TO FIXED CHARGES
+
+(Unaudited)
+ Nine Months Ended
+ --------------------------------
+ November 22, November 23,
+ 2003 2002
+ ----------- -----------
+ (Dollars in thousands, except ratios)
+ 
+Earnings:
+
+ Income before income taxes 214,871 161,419
+ Add:
+ Interest on indebtedness 6,997 8,371
+ Equity income, net of distributions (263) 559
+ Minority interests 3,540 1,548
+ Portion of rents representative of the interest factor 4,833 4,833
+ Amortization of capitalized interest 540 925
+ ----------- -----------
+ Adjusted earnings 230,518 177,655
+ =========== ===========
+
+FIXED CHARGES:
+ Interest on indebtedness 6,997 8,371
+ Portion of rents representative of the interest factor 4,833 4,833
+ Capitalized interest 1,376 21
+ ----------- -----------
+ Total fixed charges 13,206 13,225
+ =========== ===========
+
+ Ratio of earnings to fixed charges 17.46 13.43
+ =========== ===========
+
+</EX-12.1>
+
+<EX-31.1>
+ 4
+ y92859exv31w1.txt
+ CERTIFICATION
+
+Exhibit 31.1
+
+ CERTIFICATION
+
+I, W. Bruce Turner, President and Chief Executive Officer of GTECH Holdings
+Corporation (the "Company"), certify that:
+
+(1) I have reviewed this quarterly report on Form 10-Q of the Company;
+
+(2) Based on my knowledge, this quarterly report does not contain any
+ untrue statement of a material fact or omit to state a material fact
+ necessary to make the statements made, in light of the circumstances
+ under which such statements were made, not misleading with respect to
+ the period covered by this quarterly report;
+
+(3) Based on my knowledge, the financial statements, and other financial
+ information included in this quarterly report, fairly present in all
+ material respects the financial condition, results of operations and
+ cash flows of the Company as of, and for, the periods presented in this
+ quarterly report;
+
+(4) The Company's other certifying officer and I are responsible for
+ establishing and maintaining disclosure controls and procedures (as
+ defined in Exchange Act Rules 13a -15(e) and 15d-15(e)) for the Company
+ and we have:
+
+ (a) designed such disclosure controls and procedures, or caused
+ such disclosure controls and procedures to be designed under
+ our supervision, to ensure that material information relating
+ to the Company, including its consolidated subsidiaries, is
+ made known to us by others within those entities, particularly
+ during the period in which this quarterly report was being
+ prepared;
+
+ (b) evaluated the effectiveness of the Company's disclosure
+ controls and procedures and presented in this quarterly report
+ our conclusions about the effectiveness of the disclosure
+ controls and procedures, as of the end of the period covered
+ by this quarterly report based on such evaluation; and
+
+ (c) disclosed in this quarterly report any change in the Company's
+ internal control over financial reporting (as defined in
+ Exchange Act Rules 13-15(f) and 15d-15(f)) that occurred
+ during the Company's most recent fiscal quarter that has
+ materially affected, or is reasonably likely to materially
+ affect, the Company's internal control over financial
+ reporting; and
+
+(5) The Company's other certifying officer and I have disclosed, based on
+ our most recent evaluation, of internal control over financial
+ reporting, to the Company's auditors and the audit committee of the
+ Company's board of directors:
+
+ (a) all significant deficiencies and material weaknesses in the
+ design or operation of internal control over financial
+ reporting which are reasonably likely to adversely affect the
+ Company's ability to record, process, summarize and report
+ financial information; and
+
+ (b) any fraud, whether or not material, that involves management
+ or other employees who have a significant role in the
+ Company's internal control over financial reporting.
+
+ GTECH HOLDINGS CORPORATION
+
+Date: January 5, 2004 By /s/ W. Bruce Turner
+ -------------------------------------
+ W. Bruce Turner
+ President and Chief Executive Officer
+
+</EX-31.1>
+
+<EX-31.2>
+ 5
+ y92859exv31w2.txt
+ CERTIFICATION
+
+Exhibit 31.2
+
+ CERTIFICATION
+
+I, Jaymin B. Patel, Senior Vice President and Chief Financial Officer of GTECH
+Holdings Corporation (the "Company"), certify that:
+
+(1) I have reviewed this quarterly report on Form 10-Q of the Company;
+
+(2) Based on my knowledge, this quarterly report does not contain any
+ untrue statement of a material fact or omit to state a material fact
+ necessary to make the statements made, in light of the circumstances
+ under which such statements were made, not misleading with respect to
+ the period covered by this quarterly report;
+
+(3) Based on my knowledge, the financial statements, and other financial
+ information included in this quarterly report, fairly present in all
+ material respects the financial condition, results of operations and
+ cash flows of the Company as of, and for, the periods presented in this
+ quarterly report;
+
+(4) The Company's other certifying officer and I are responsible for
+ establishing and maintaining disclosure controls and procedures (as
+ defined in Exchange Act Rules 13a -15(e) and 15d-15(e)) for the Company
+ and we have:
+
+ (a) designed such disclosure controls and procedures, or caused
+ such disclosure controls and procedures to be designed under
+ our supervision, to ensure that material information relating
+ to the Company, including its consolidated subsidiaries, is
+ made known to us by others within those entities, particularly
+ during the period in which this quarterly report was being
+ prepared;
+
+ (b) evaluated the effectiveness of the Company's disclosure
+ controls and procedures and presented in this quarterly report
+ our conclusions about the effectiveness of the disclosure
+ controls and procedures, as of the end of the period covered
+ by this quarterly report based on such evaluation; and
+
+ (c) disclosed in this quarterly report any change in the Company's
+ internal control over financial reporting (as defined in
+ Exchange Act Rules 13-15(f) and 15d-15(f)) that occurred
+ during the Company's most recent fiscal quarter that has
+ materially affected, or is reasonably likely to materially
+ affect, the Company's internal control over financial
+ reporting; and
+
+(5) The Company's other certifying officer and I have disclosed, based on
+ our most recent evaluation, of internal control over financial
+ reporting, to the Company's auditors and the audit committee of the
+ Company's board of directors:
+
+ (a) all significant deficiencies and material weaknesses in the
+ design or operation of internal control over financial
+ reporting which are reasonably likely to adversely affect the
+ Company's ability to record, process, summarize and report
+ financial information; and
+
+ (b) any fraud, whether or not material, that involves management
+ or other employees who have a significant role in the
+ Company's internal control over financial reporting.
+
+ GTECH HOLDINGS CORPORATION
+
+Date: January 5, 2004 By /s/ Jaymin B. Patel
+ ------------------------------------------
+ Jaymin B. Patel, Senior Vice President and
+ Chief Financial Officer
+
+</EX-31.2>
+
+<EX-32.1>
+ 6
+ y92859exv32w1.txt
+ CERTIFICATION
+
+Exhibit 32.1
+
+ GTECH HOLDINGS CORPORATION
+
+ CERTIFICATION PURSUANT TO
+ 18 U.S.C. SECTION 1350 AS ADOPTED
+ PURSUANT TO SECTION 906 OF THE
+ SARBANES-OXLEY ACT OF 2002
+
+In connection with the Quarterly Report of GTECH Holdings Corporation (the
+"Company") on Form 10-Q for the period ending November 22, 2003 as filed with
+the Securities and Exchange Commission on the Date hereof (the "Report"), I, W.
+Bruce Turner, President and Chief Executive Officer of the Company, certify,
+pursuant to 18 U.S.C section 1350, as adopted pursuant to sections 906 of the
+Sarbanes-Oxley Act of 2002, that:
+
+1. The Report fully complies with the requirements of section 13(a) or
+ 15(d) of the Securities Exchange Act of 1934; and
+
+2. The information contained in the Report fairly presents, in all
+ material respects, the financial condition and result of operations of
+ the Company.
+
+ GTECH HOLDINGS CORPORATION
+
+Date: January 5, 2004 By /s/ W. Bruce Turner
+ -------------------------------------
+ W. Bruce Turner
+ President and Chief Executive Officer
+
+</EX-32.1>
+
+<EX-32.2>
+ 7
+ y92859exv32w2.txt
+ CERTIFICATION
+
+Exhibit 32.2
+
+ GTECH HOLDINGS CORPORATION
+
+ CERTIFICATION PURSUANT TO
+ 18 U.S.C. SECTION 1350 AS ADOPTED
+ PURSUANT TO SECTION 906 OF THE
+ SARBANES-OXLEY ACT OF 2002
+
+In connection with the Quarterly Report of GTECH Holdings Corporation (the
+"Company") on Form 10-Q for the period ending November 22, 2003 as filed with
+the Securities and Exchange Commission on the Date hereof (the "Report"), I,
+Jaymin B. Patel, Senior Vice President and Chief Financial Officer of the
+Company, certify, pursuant to 18 U.S.C section 1350, as adopted pursuant to
+sections 906 of the Sarbanes-Oxley Act of 2002, that:
+
+1. The Report fully complies with the requirements of section 13(a) or
+ 15(d) of the Securities Exchange Act of 1934; and
+
+2. The information contained in the Report fairly presents, in all
+ material respects, the financial condition and result of operations of
+ the Company.
+
+ GTECH HOLDINGS CORPORATION
+
+Date: January 5, 2004 By /s/ Jaymin B. Patel
+ ------------------------------------------
+ Jaymin B. Patel, Senior Vice President and
+ Chief Financial Officer
+
+</EX-32.2>
+

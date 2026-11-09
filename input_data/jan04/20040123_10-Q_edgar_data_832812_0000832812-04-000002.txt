@@ -1,0 +1,2392 @@
+<Header>
+<FileStats>
+    <FileName>20040123_10-Q_edgar_data_832812_0000832812-04-000002.txt</FileName>
+    <GrossFileSize>140754</GrossFileSize>
+    <NetFileSize>112285</NetFileSize>
+    <NonText_DocumentType_Chars>0</NonText_DocumentType_Chars>
+    <HTML_Chars>1226</HTML_Chars>
+    <XBRL_Chars>0</XBRL_Chars>
+    <XML_Chars>0</XML_Chars>
+    <N_Exhibits>5</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0000832812-04-000002.hdr.sgml : 20040123
+<ACCEPTANCE-DATETIME>20040122202305
+ACCESSION NUMBER:		0000832812-04-000002
+CONFORMED SUBMISSION TYPE:	10-Q
+PUBLIC DOCUMENT COUNT:		6
+CONFORMED PERIOD OF REPORT:	20031212
+FILED AS OF DATE:		20040123
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			KINDERCARE LEARNING CENTERS INC /DE
+		CENTRAL INDEX KEY:			0000832812
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-CHILD DAY CARE SERVICES [8351]
+		IRS NUMBER:				630941966
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0531
+
+	FILING VALUES:
+		FORM TYPE:		10-Q
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-17098
+		FILM NUMBER:		04538833
+
+	BUSINESS ADDRESS:	
+		STREET 1:		650 NE HOLLADAY STREET
+		STREET 2:		SUITE 1400
+		CITY:			PORTLAND
+		STATE:			OR
+		ZIP:			97232
+		BUSINESS PHONE:		(503) 872-1300
+
+	MAIL ADDRESS:	
+		STREET 1:		650 NE HOLLADAY STREET
+		STREET 2:		SUITE 1400
+		CITY:			PORTLAND
+		STATE:			OR
+		ZIP:			97232
+
+</SEC-Header>
+</Header>
+
+ 
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ U7S5PoIky8dWXhl6gasgVWyAKqvmBXrBD2d96D5oVhFzbhme88DSFF/bLlkWuZAR
+ tZsfYEo35dg3vY3PDsuabg==
+
+ 0000832812-04-000002.txt : 20040123
+
+10-Q
+ 1
+ kcfy04q2.txt
+ FORM 10-Q
+ 
+================================================================================
+
+UNITED STATES SECURITIES AND EXCHANGE COMMISSION
+ WASHINGTON, D.C. 20549
+ FORM 10-Q
+
+ (Mark One)
+
+ [X] QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE
+ SECURITIES EXCHANGE ACT OF 1934
+
+ For the quarterly period ended December 12, 2003
+
+OR
+
+ [ ] TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF
+ THE SECURITIES EXCHANGE ACT OF 1934
+
+ Commission file number 333-42137
+
+ KINDERCARE LEARNING CENTERS, INC.
+ (Exact name of registrant as specified in its charter)
+
+ Delaware 63-0941966
+ (State or other (I.R.S. Employer
+ jurisdiction of incorporation) Identification No.)
+
+650 NE Holladay Street, Suite 1400
+ Portland, OR 97232
+ (Address of principal executive offices)
+
+(503) 872-1300
+ (Registrant's telephone number, including area code)
+
+(Former name, address and fiscal year, if changed since last report)
+
+Indicate by check mark whether the registrant: (1) has filed all reports
+required to be filed by Section 13 or 15(d) of the Securities Exchange Act of
+1934 during the preceding 12 months (or for such shorter period that the
+registrant was required to file such reports), and (2) has been subject to such
+filing requirements for the past 90 days. Yes [X] No [ ]
+
+ Indicate by check mark whether the registrant is an accelerated filer (as
+defined in Rule 12b-2 of the Exchange Act). Yes [ ] No [X]
+
+ The number of shares of the registrant's common stock, .01 par value per
+share, outstanding at January 16, 2004 was 19,696,797.
+
+================================================================================
+ 
+ KinderCare Learning Centers, Inc. and Subsidiaries
+
+ Index
+
+Part I. Financial Information................................................ 2
+
+ Item 1. Financial Statements and Supplementary Data:
+
+ Consolidated balance sheets at December 12, 2003
+ and May 30, 2003 (unaudited)............................. 2
+
+ Consolidated statements of operations for the twelve
+ and twenty-eight weeks ended December 12, 2003
+ and December 13, 2002 (unaudited)........................ 3
+
+ Consolidated statements of stockholders' equity and
+ comprehensive income for the twenty-eight weeks
+ ended December 12, 2003 and the fiscal year ended
+ May 30, 2003 (unaudited)................................. 4
+
+ Consolidated statements of cash flows for the
+ twenty-eight weeks ended December 12, 2003
+ and December 13, 2002 (unaudited)........................ 5
+
+ Notes to unaudited consolidated financial statements........ 6
+
+ Item 2. Management's discussion and analysis of financial
+ condition and results of operations.........................13
+
+ Item 3. Quantitative and qualitative disclosures about market risk..28
+
+ Item 4. Controls and procedures.....................................29
+
+Part II. Other Information....................................................30
+
+ Item 4. Submission of matters to a vote of security holders.........30
+
+ Item 6. Exhibits and reports on Form 8-K............................30
+
+Signatures....................................................................32
+
+1
+ 
+ PART I.
+
+ ITEM 1. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA
+
+KinderCare Learning Centers, Inc. and Subsidiaries
+ Consolidated Balance Sheets
+ (Dollars in thousands, except per share amounts)
+ (Unaudited)
+
+ December 12, May 30,
+ 2003 2003
+ ----------- -----------
+ 
+Assets
+Current assets:
+ Cash and cash equivalents........................... 28,152 18,066
+ Receivables, net.................................... 32,321 31,493
+ Prepaid expenses and supplies....................... 8,568 9,423
+ Deferred income taxes............................... 12,852 14,500
+ Assets held for sale................................ 2,436 3,260
+ ----------- -----------
+ Total current assets............................ 84,329 76,742
+
+ Property and equipment, net........................... 739,074 663,239
+ Deferred income taxes................................. 8,356 1,868
+ Goodwill.............................................. 42,565 42,565
+ Deferred financing costs.............................. 21,447 9,445
+ Other assets.......................................... 26,028 17,234
+ ----------- -----------
+ 921,799 811,093
+ =========== ===========
+Liabilities and Stockholders' Equity
+Current liabilities:
+ Bank overdrafts..................................... 7,468 9,304
+ Accounts payable.................................... 7,489 8,888
+ Current portion of long-term debt................... 4,307 13,744
+ Accrued expenses and other liabilities.............. 112,393 109,671
+ ----------- -----------
+ Total current liabilities....................... 131,657 141,607
+
+ Long-term debt........................................ 542,076 441,336
+ Long-term self-insurance liabilities.................. 28,676 22,771
+ Deferred income taxes................................. 5,059 3,696
+ Other noncurrent liabilities.......................... 77,619 66,524
+ ----------- -----------
+ Total liabilities............................... 785,087 675,934
+ ----------- -----------
+
+ Commitments and contingencies
+
+ Stockholders' equity:
+ Preferred stock, .01 par value; authorized
+ 10,000,000 shares; none outstanding............. -- --
+ Common stock, .01 par value; authorized 100,000,000
+ shares; issued and outstanding 19,696,797 and
+ 19,661,216, respectively........................ 197 197
+ Additional paid-in capital.......................... 26,425 25,909
+ Notes receivable from stockholders.................. (1,578) (1,085)
+ Retained earnings................................... 111,621 110,297
+ Accumulated other comprehensive income (loss)....... 47 (159)
+ ----------- -----------
+ Total stockholders' equity...................... 136,712 135,159
+ ----------- -----------
+ 921,799 811,093
+ =========== ===========
+
+See accompanying notes to unaudited consolidated financial statements.
+
+2
+ 
+ KinderCare Learning Centers, Inc. and Subsidiaries
+ Consolidated Statements of Operations
+ (Dollars and number of shares outstanding in thousands,
+ except per share amounts)
+ (Unaudited)
+
+Twelve Weeks Ended Twenty-Eight Weeks Ended
+ ------------------------- -------------------------
+ December 12, December 13, December 12, December 13,
+ 2003 2002 2003 2002
+ ----------- ----------- ----------- -----------
+ 
+Revenues, net...................... 196,607 194,388 456,638 447,087
+ ----------- ----------- ----------- -----------
+Operating expenses:
+ Salaries, wages and benefits..... 107,113 108,588 253,584 252,700
+ Depreciation and amortization.... 14,503 14,168 33,070 31,181
+ Rent............................. 12,034 12,048 28,982 27,041
+ Provision for doubtful accounts.. 1,331 1,626 3,201 3,297
+ Other............................ 44,736 41,884 108,588 102,702
+ ----------- ----------- ----------- -----------
+ Total operating expenses.... 179,717 178,314 427,425 416,921
+ ----------- ----------- ----------- -----------
+ Operating income............... 16,890 16,074 29,213 30,166
+Investment income.................. 63 73 135 181
+Interest expense................... (9,546) (9,615) (22,508) (22,454)
+Loss on the early extinguishment
+ of debt ......................... (177) -- (3,846) --
+ ----------- ----------- ----------- -----------
+ Income before income taxes
+ and discontinued operations.. 7,230 6,532 2,994 7,893
+Income tax expense................. (2,855) (2,586) (1,177) (3,125)
+ ----------- ----------- ----------- -----------
+ Income before discontinued
+ operations................... 4,375 3,946 1,817 4,768
+Discontinued operations, net of
+ income tax benefit (expense) of
+ 25, 232), 319 and 7,
+ respectively..................... (37) 354 (493) (11)
+ ----------- ----------- ----------- -----------
+ Net income.................. 4,338 4,300 1,324 4,757
+ =========== =========== =========== ===========
+
+Basic and diluted net income
+ per share:
+ Income before discontinued
+ operations................... 0.22 0.20 0.09 0.24
+ Discontinued operations, net... -- 0.02 (0.02) --
+ ----------- ----------- ----------- -----------
+ Net income.................. 0.22 0.22 0.07 0.24
+ =========== =========== =========== ===========
+
+Weighted average common shares
+ outstanding:
+ Basic.......................... 19,697 19,983 19,690 19,734
+ Diluted........................ 19,951 19,877 20,085 19,932
+
+See accompanying notes to unaudited consolidated financial statements.
+
+3
+ 
+ KinderCare Learning Centers, Inc. and Subsidiaries
+ Consolidated Statements of Stockholders' Equity and Comprehensive Income
+ (Dollars and number of shares in thousands)
+ (Unaudited)
+
+Notes Accumulated
+ Common Stock Additional Receivable Other
+ ------------------- Paid-In from Retained Comprehensive
+ Shares Amount Capital Stockholders Earnings Income (Loss) Total
+ --------- -------- ---------- ------------ ---------- ------------- ----------
+ 
+Balance at May 31, 2002............... 19,819 198 28,107 (1,426) 96,882 (492) 123,269
+
+Comprehensive income:
+ Net income.......................... -- -- -- -- 13,415 -- 13,415
+ Cumulative translation adjustment... -- -- -- -- -- 333 333
+ ----------
+ Total comprehensive income........ 13,748
+Retirement of common stock............ (120) (1) (1,645) -- -- -- (1,646)
+Repurchase of common stock............ (38) -- (553) -- -- -- (553)
+Proceeds from collection of
+ stockholders' notes receivable...... -- -- -- 341 -- -- 341
+ --------- -------- ---------- ------------ ---------- ------------- ----------
+ Balance at May 30, 2003........... 19,661 197 25,909 (1,085) 110,297 (159) 135,159
+Comprehensive income:
+ Net income.......................... -- -- -- -- 1,324 -- 1,324
+ Cumulative translation adjustment... -- -- -- -- -- 206 206
+ ----------
+ Total comprehensive income........ 1,530
+Issuance of common stock.............. 49 -- 714 -- -- -- 714
+Repurchase of common stock............ (13) -- (198) -- -- -- (198)
+Issuance of stockholders' notes
+ receivable.......................... -- -- -- (638) -- -- (638)
+Proceeds from collection of
+ stockholders' notes receivable...... -- -- -- 145 -- -- 145
+ --------- -------- ---------- ------------ ---------- ------------- ----------
+ Balance at December 12, 2003...... 19,697 197 26,425 (1,578) 111,621 47 136,712
+ ========= ======== ========== ============ ========== ============= ==========
+
+See accompanying notes to unaudited consolidated financial statements.
+
+4
+ 
+ KinderCare Learning Centers, Inc. and Subsidiaries
+ Consolidated Statements of Cash Flows
+ (Dollars in thousands)
+ (Unaudited)
+
+Twenty-Eight Weeks Ended
+ ------------------------------
+ December 12, December 13,
+ 2003 2002
+ ------------- -------------
+ 
+Cash flows from operations:
+ Net income........................................ 1,324 4,757
+ Adjustments to reconcile net income to net cash
+ provided by operating activities:
+ Depreciation.................................. 33,683 31,617
+ Amortization of deferred financing costs and
+ deferred gain on sale-leasebacks............ 3,421 1,345
+ Provision for doubtful accounts............... 3,256 3,474
+ Gain on sales and disposals of property and
+ equipment................................... (672) (1,507)
+ Deferred tax expense (benefit)................ (3,477) 5,570
+ Changes in operating assets and liabilities:
+ Increase in receivables..................... (4,084) (4,587)
+ Decrease (increase) in prepaid expenses
+ and supplies.............................. 855 (33)
+ Increase in other assets.................... (1,117) (1)
+ Increase (decrease) in accounts payable,
+ accrued expenses and other current and
+ noncurrent liabilities.................... 8,338 (5,059)
+ Other, net.................................... 206 291
+ ------------- -------------
+ Net cash provided by operating activities....... 41,733 35,867
+ ------------- -------------
+Cash flows from investing activities:
+ Purchases of property and equipment............... (30,581) (54,191)
+ Purchases of property and equipment previously in
+ the synthetic lease facility.................... (97,851) --
+ Proceeds from sales of property and equipment..... 32,421 34,853
+ Increase in restricted cash....................... (6,017) --
+ Proceeds from (issuance of) notes receivable...... (1,656) 56
+ ------------- -------------
+ Net cash used by investing activities........... (103,684) (19,282)
+ ------------- -------------
+Cash flows from financing activities:
+ Proceeds from long-term borrowings................ 327,800 36,000
+ Payments on long-term borrowings.................. (236,497) (48,158)
+ Deferred financing costs related to refinanced
+ debt............................................ (17,092) --
+ Payments on capital leases........................ (361) (573)
+ Proceeds from issuance of common stock............ 714 --
+ Proceeds from collection of stockholders' notes
+ receivable...................................... 145 267
+ Issuance of notes receivable to stockholders...... (638) --
+ Repurchase of common stock........................ (198) (402)
+ Bank overdrafts................................... (1,836) (480)
+ ------------- -------------
+ Net cash provided by (used in) financing
+ activities.................................... 72,037 (13,346)
+ ------------- -------------
+ Increase in cash and cash equivalents......... 10,086 3,239
+ Cash and cash equivalents at the beginning of
+ the period...................................... 18,066 8,619
+ ------------- -------------
+ Cash and cash equivalents at the end of the
+ period.......................................... 28,152 11,858
+ ============= =============
+ Supplemental cash flow information:
+ Interest paid................................... 19,342 19,719
+ Income taxes paid, net.......................... 3,172 1,823
+ Non-cash financial activities:
+ Retirement of common stock.................... -- 1,646
+
+See accompanying notes to unaudited consolidated financial statements.
+
+5
+ 
+ KinderCare Learning Centers, Inc. and Subsidiaries
+ Notes to Unaudited Consolidated Financial Statements
+
+1. Nature of Business
+
+ KinderCare Learning Centers, Inc., referred to as KinderCare, is the
+leading for-profit provider of early childhood education and care in the United
+States. At December 12, 2003 we served approximately 120,000 children and their
+families at 1,253 child care centers. At our child care centers, we provide
+educational and care services to infants and children up to twelve years of age.
+However, the majority of the children we serve are from six weeks to five years
+old. The total licensed capacity at our centers was approximately 167,000 at
+December 12, 2003.
+
+ We operate early childhood education and care centers under two brands as
+follows:
+
+ o KinderCare - At December 12, 2003, we operated 1,183 KinderCare
+ centers. The brand was established in 1969 and operates centers in 39
+ states, as well as two centers located in the United Kingdom.
+
+ o Mulberry - We operated 70 Mulberry centers at December 12, 2003, which
+ are located primarily in the northeast region of the United States and
+ southern California. In addition we had eight service contracts to
+ operate before-and-after-school programs.
+
+ We also partner with companies to provide on- or near-site care to help
+employers attract and retain employees. Included in the 1,253 centers at
+December 12, 2003 are 45 employer-sponsored centers. In addition to our
+center-based child care operations, we own and operate a distance learning
+company serving teenagers and young adults. Our subsidiary, KC Distance
+Learning, Inc., offers an accredited high school program delivered in either
+online or correspondence format. We have made minority investments in Voyager
+Expanded Learning, Inc., a developer of educational curricula for elementary and
+middle schools and a provider of a public school teacher retraining program, and
+Chancellor Beacon Academies, Inc., an education management company.
+
+ Fiscal Year. References to fiscal 2004 and fiscal 2003 are to the 52 weeks
+ended May 28, 2004 and May 30, 2003, respectively. Our fiscal year ends on the
+Friday closest to May 31. The second quarter is comprised of 12 weeks and ended
+on December 12, 2003 in fiscal 2004 and December 13, 2002 in fiscal 2003. The
+first quarter is comprised of 16 weeks, while the second, third and fourth
+quarters are each comprised of 12 weeks.
+
+2. Summary of Significant Accounting Policies
+
+ Basis of Presentation. The unaudited consolidated financial statements
+include the financial statements of KinderCare and our subsidiaries, all of
+which are wholly owned. All significant intercompany balances and transactions
+have been eliminated in consolidation.
+
+ In the opinion of management, the unaudited consolidated financial
+statements reflect the adjustments, all of which are of a normal recurring
+nature, necessary to present fairly our financial position at December 12, 2003,
+our results of operations for the twelve and twenty-eight weeks ended December
+12, 2003 and December 13, 2002 and cash flows for the twenty-eight weeks ended
+December 12, 2003 and December 13, 2002. Interim results are not necessarily
+indicative of results to be expected for a full fiscal year because of seasonal
+and short-term variances and other factors such as the timing of new center
+openings and center closures. The unaudited consolidated financial statements
+should be read in conjunction with the annual consolidated financial statements
+and notes thereto included in our Annual Report on Form 10-K for the fiscal year
+ended May 30, 2003.
+
+ Revenue Recognition. We recognize revenue for child care services as earned
+in accordance with Securities and Exchange Commission ("SEC") Staff Accounting
+
+ 6
+ 
+Bulletin ("SAB") No. 101, Revenue Recognition in Financial Statements, as
+amended. Net revenues include tuition, fees and non-tuition income, reduced by
+discounts. We receive fees for reservation, registration, education and other
+services. Non-tuition income is primarily comprised of field trip revenue.
+Registration and education fees are amortized over the estimated average
+enrollment period, not to exceed twelve months. Tuition, other fees and
+non-tuition income are recognized as the related services are provided.
+
+ Comprehensive Income. Comprehensive income is comprised of the following,
+for the periods indicated, with dollars in thousands:
+
+Twelve Weeks Ended Twenty-Eight Weeks Ended
+ ------------------------ ------------------------
+ December 12, December 13, December 12, December 13,
+ 2003 2002 2003 2002
+ ----------- ----------- ----------- -----------
+ 
+Net income.......................... 4,338 4,300 1,324 4,757
+Cumulative translation adjustment... 236 82 206 291
+ ----------- ----------- ----------- -----------
+ 4,574 4,382 1,530 5,048
+ =========== =========== =========== ===========
+
+Stock-Based Compensation. We measure compensation expense for our
+stock-based employee compensation plans using the method prescribed by
+Accounting Principles Board Opinion ("APB") No. 25, Accounting for Stock Issued
+to Employees, and provide pro forma disclosures of net income and earnings per
+share as if the method prescribed by Statement of Financial Accounting Standards
+("SFAS") No. 123, Accounting for Stock-Based Compensation, had been applied in
+measuring compensation expense.
+
+ In accordance with SFAS No. 148, Accounting for Stock-Based Compensation -
+Transition and Disclosure, we have provided the required disclosures below. Had
+compensation expense for our stock option plans been determined based on the
+estimated weighted average fair value of the options at the date of grant in
+accordance with SFAS No. 123, our net income and basic and diluted net income
+per share would have been as follows, with dollars in thousands, except per
+share data:
+
+Twelve Weeks Ended Twenty-Eight Weeks Ended
+ ------------------------ ------------------------
+ December 12, December 13, December 12, December 13,
+ 2003 2002 2003 2002
+ ----------- ----------- ----------- -----------
+ 
+Reported net income................... 4,338 4,300 1,324 4,757
+Compensation costs for stock
+ option plan, net of taxes........... (222) (132) (520) (309)
+ ----------- ----------- ----------- -----------
+ Pro forma net income.............. 4,116 4,168 804 4,448
+ =========== =========== =========== ===========
+
+Pro forma net income per share:
+ Basic and diluted net income per
+ share before discontinued
+ operations, net................... 0.21 0.19 0.06 0.22
+ Discontinued operations, net
+ of taxes.......................... -- 0.02 (0.02) --
+ ----------- ----------- ----------- -----------
+ Adjusted net income per share.. 0.21 0.21 0.04 0.22
+ =========== =========== =========== ===========
+
+7
+ 
+ A summary of the weighted average fair values was as follows:
+
+Twelve Weeks Ended Twenty-Eight Weeks Ended
+ ------------------------ ------------------------
+ December 12, December 13, December 12, December 13,
+ 2003 2002 2003 2002
+ ----------- ----------- ----------- -----------
+ 
+Weighted average fair value of options
+ granted during the period, using the
+ Black-Scholes option pricing model..... 4.91 4.01 7.34 4.27
+Assumptions used to estimate the
+ present value of options at the
+ grant date:
+ Volatility........................... 39.2 36.2 39.2 36.2 
+ Risk-free rate of return............. 3.8 3.6 3.7 3.9 
+ Dividend yield....................... 0.0 0.0 0.0 0.0 
+ Number of years to exercise options.. 7 7 7 7
+
+Discontinued Operations. Discontinued operations included the operating
+results for the 21 centers closed during the twenty-eight weeks ended December
+12, 2003 and the 28 centers closed in fiscal year 2003 for all periods
+presented. A summary of discontinued operations was as follows with dollars in
+thousands:
+
+Twelve Weeks Ended Twenty-Eight Weeks Ended
+ ------------------------ ------------------------
+ December 12, December 13, December 12, December 13,
+ 2003 2002 2003 2002
+ ----------- ----------- ----------- -----------
+ 
+Revenues, net........................... 239 2,923 1,501 7,684
+Operating expenses...................... 301 2,337 2,313 7,701
+ ----------- ----------- ----------- -----------
+ Operating income (loss)............... (62) 586 (812) (17)
+Interest expense........................ -- -- -- (1)
+Income tax benefit (expense)............ 25 (232) 319 7
+ ----------- ----------- ----------- -----------
+ Discontinued operations, net of tax... (37) 354 (493) (11)
+ =========== =========== =========== ===========
+
+Operating expenses for the twelve and twenty-eight weeks ended December 12,
+2003 included gains on closed center sales of 0.6 million. Operating expenses
+for the twelve and twenty-eight weeks ended December 13, 2002 included gains on
+closed center sales in the amount of 1.1 million and 1.2 million,
+respectively, and an impairment charge of 0.1 million.
+
+ Of the center closures, ten were held for sale at December 12, 2003. As a
+result, 2.4 million and 3.3 million of property and equipment was classified
+as current in the unaudited consolidated balance sheets at December 12, 2003 and
+May 30, 2003, respectively.
+
+ 8
+ 
+ Net Income per Share. The difference between basic and diluted net income
+per share was a result of the dilutive effect of options, which are considered
+potential common shares. A summary of the weighted average common shares was as
+follows, in thousands:
+
+Twelve Weeks Ended Twenty-Eight Weeks Ended
+ ------------------------ ------------------------
+ December 12, December 13, December 12, December 13,
+ 2003 2002 2003 2002
+ ----------- ----------- ----------- -----------
+ 
+Basic weighted average common
+ shares outstanding................... 19,697 19,683 19,690 19,734
+Dilutive effect of options............. 254 194 395 198
+ ----------- ----------- ----------- -----------
+ Diluted weighted average
+ common shares outstanding........ 19,951 19,877 20,085 19,932
+ =========== =========== =========== ===========
+Shares excluded from potential shares
+ due to their anti-dilutive effect.... 1,277 2,168 1,115 2,163
+ =========== =========== =========== ===========
+
+Restricted Cash. Restricted cash includes cash held in connection with our
+ 300.0 million mortgage loan, see "Note 4. Long-Term Debt." At December 12,
+2003, restricted cash of 6.0 million was included in other assets in our
+unaudited consolidated balance sheet. The restricted cash relates primarily to
+capital expenditure and debt service requirements under the mortgage loan.
+
+ Property and Equipment, net. In connection with our debt refinancing in
+July 2003, our 300.0 million mortgage loan was secured by first mortgages or
+deeds of trust on 475 of our owned centers. In addition, we mortgaged another
+119 of our owned centers for our revolving credit facility. At December 12,
+2003, the net book value of 399.1 million for these 594 centers was included in
+property and equipment in our unaudited consolidated balance sheet.
+
+ Deferred Financing Costs. Deferred financing costs are amortized on a
+straight-line basis over the lives of related debt facilities, such method
+approximates the effective yield method. At December 12, 2003 and May 30, 2003,
+deferred financing costs were 21.4 million and 9.4 million, respectively. The
+increase in deferred financing costs for the twenty-eight weeks ended December
+12, 2003 was due to our debt refinancing in July 2003, see "Note 4. Long-Term
+Debt." A summary of the increase was as follows, with dollars in thousands:
+
+ Balance at May 30, 2003..................... 9,445
+ Deferred financing cost additions........... 17,092
+ Deferred financing costs written-off in
+ connection with refinancing............... (2,957)
+ Amortization of deferred financing costs
+ for the twenty-eight weeks ended
+ December 12, 2003......................... (2,133)
+ ----------
+ Balance at December 12, 2003............ 21,447
+ ==========
+
+ Recently Issued Accounting Pronouncements. Financial Accounting Standards
+Board Interpretation ("FIN") 46, Consolidation of Variable Interest Entities,
+requires consolidation where there is a controlling financial interest in a
+variable interest entity, previously referred to as a special-purpose entity,
+and certain other entities. The implementation of FIN 46 has been delayed and
+will be effective during the fourth quarter of our fiscal year 2004. We do not
+anticipate an impact to our consolidated financial statements.
+
+ SFAS No. 150, Accounting for Certain Financial Instruments with
+Characteristics of Both Liabilities and Equity, establishes standards for how an
+issuer classifies and measures certain financial instruments with
+characteristics of both liabilities and equity. The statement requires that an
+issuer classify a financial instrument that is within its scope as a liability,
+or an asset in some circumstances.
+
+ 9
+ 
+SFAS No. 150 was effective for financial instruments entered into or modified
+after May 31, 2003, and otherwise was effective in the second quarter of our
+fiscal 2004. This statement did not have a material impact to our consolidated
+financial statements.
+
+ Use of Estimates. The preparation of financial statements in conformity
+with accounting principles generally accepted in the United States of America
+requires management to make estimates and assumptions that affect the reported
+amounts of assets and liabilities and disclosure of contingent assets and
+liabilities at the date of the financial statements and the reported amounts of
+revenues and expenses during the reporting period. Actual results could differ
+from those estimates under different conditions or if our assumptions change.
+
+ Reclassifications. Certain prior period amounts have been reclassified to
+conform to the current period's presentation.
+
+3. Property and Equipment
+
+ Property and equipment consisted of the following, with dollars in
+thousands:
+
+December 12, May 30,
+ 2003 2003
+ ------------ ------------
+ 
+Land....................................... 171,146 156,656
+Buildings and leasehold improvements....... 661,953 584,606
+Equipment.................................. 193,884 182,954
+Construction in progress................... 17,101 22,708
+ ------------ ------------
+ 1,044,084 946,924
+Accumulated depreciation and amortization... (305,010) (283,685)
+ ------------ ------------
+ 739,074 663,239
+ ============ ============
+
+10
+ 
+4. Long-Term Debt
+
+ Long-term debt consisted of the following, with dollars in thousands:
+
+December 12, May 30,
+ 2003 2003
+ ------------ ------------
+ 
+ Secured:
+ Mortgage loan payable in monthly installments
+ through July 2008, interest rate at adjusted
+ LIBOR plus 2.25 of 3.37 at December 12, 2003.. 298,906 --
+ Borrowings under revolving credit facilities,
+ interest rate at:
+ o December 12, 2003 - adjusted LIBOR plus
+ 3.25 
+ o May 30, 2003 - adjusted LIBOR plus 1.25 
+ of 2.57 and ABR of 4.25 .................... -- 104,000
+ Term loan facility, interest rate at adjusted
+ LIBOR plus 2.50 of 3.82 at May 30, 2003....... -- 47,000
+ Industrial refunding revenue bonds at variable
+ rates of interest of 1.25 to 1.70 and 1.60 
+ to 2.50 , respectively, supported by letters
+ of credit, maturing calendar 2009............... 8,500 8,500
+ Industrial revenue bonds secured by real property
+ with maturities to calendar 2005 at interest
+ rates of 2.80 to 4.55 and 2.98 to 4.55 ,
+ respectively.................................... 3,702 3,739
+ Real and personal property mortgages payable in
+ monthly installments maturing calendar 2005,
+ interest rate of 7.00 .......................... 26 34
+ Unsecured:
+ Senior subordinated notes due calendar 2009,
+ interest rate of 9.5 , payable semi-annually.... 233,700 290,000
+ Notes payable in monthly installments through
+ calendar 2008, interest rate of 8.00 ........... 1,549 1,807
+ ------------ ------------
+ 546,383 455,080
+ Less current portion of long-term debt.......... 4,307 13,744
+ ------------ ------------
+ 542,076 441,336
+ ============ ============
+
+Refinancing. In July 2003 we refinanced a portion of our debt. We obtained
+a 125.0 million revolving credit facility, and, as described below in greater
+detail, one of our subsidiaries obtained a 300.0 million mortgage loan.
+Proceeds from the mortgage loan were used to pay off the balance on the then
+existing revolving credit facility, the term loan facility and the synthetic
+lease facility. We also used a portion of the remaining proceeds to purchase
+ 37.0 million aggregate principal amount of our 9.5 senior subordinated notes.
+In accordance with SFAS No. 6, Classification of Short-Term Obligations
+Expected to Be Refinanced, an Amendment of ARB No. 43, Chapter 3A, the 104.0
+million balance on our previous revolving credit facility and our annual 0.5
+million installment on our term loan were classified as long-term debt at May
+30, 2003, since they were refinanced on a long-term basis during our first
+quarter.
+
+ Mortgage Loan. The 300.0 million mortgage loan is secured by first
+mortgages or deeds of trust on 475 of our owned centers located in 33 states. We
+
+ 11
+ 
+refer to the mortgage loan as the CMBS Loan and the 475 mortgaged centers as the
+CMBS Centers. In connection with the CMBS Loan, the CMBS Centers were
+transferred to a newly formed wholly owned subsidiary of ours, which is the
+borrower under the CMBS Loan and is referred to as the CMBS Borrower. Because
+the CMBS Centers are owned by the CMBS Borrower and subject to the CMBS Loan,
+recourse to the CMBS Centers by our creditors will be effectively subordinated
+to recourse by holders of the CMBS Loan.
+
+ The CMBS Loan is nonrecourse to the CMBS Borrower and us, subject to
+customary recourse provisions, and has a maturity date of July 9, 2008, which
+may be extended to July 9, 2009, subject to certain conditions. The CMBS Loan
+bears interest at a per annum rate equal to LIBOR plus 2.25 and requires
+monthly payments of principal and interest. Principal payments are based on a
+thirty-year amortization (based on an assumed rate of 6.50 ). We have purchased
+an interest rate cap agreement to protect us from significant changes in LIBOR
+during the initial three years of the CMBS Loan. Under the cap agreement, which
+terminates July 9, 2006, LIBOR is capped at 6.50 . We are required to purchase
+additional interest rate cap agreements capping LIBOR at a rate no higher than
+7.00 for the period from July 9, 2006 to the maturity date of the CMBS Loan.
+
+ Each of the centers included in the CMBS Centers is being ground leased by
+the CMBS Borrower to another wholly owned subsidiary formed in connection with
+the CMBS Loan, which is referred to as the CMBS Operator, and is being managed
+by us pursuant to a management agreement with the CMBS Operator. Transactions
+between the CMBS Borrower and the CMBS Operator are eliminated in consolidation
+since both the CMBS Borrower and the CMBS Operator are wholly owned
+subsidiaries.
+
+ Prepayment of the CMBS Loan is prohibited through July 8, 2005, after which
+prepayment is permitted in whole, subject to a prepayment premium of 3.0 from
+July 8, 2005 through July 8, 2006, 2.0 from July 9, 2006 through July 8, 2007
+and 1.0 from July 9, 2007 through January 8, 2008, with no prepayment penalty
+thereafter. In addition, after July 8, 2005, the loan may be partially prepaid
+as follows:
+
+ o up to 15.0 million each loan year in connection with releases of
+ mortgaged centers with no prepayment premium, and
+
+ o up to 5.0 million each loan year subject to payment of the applicable
+ prepayment premium.
+
+ The CMBS Loan contains a provision that requires the loan servicer to
+escrow 50 of excess cash flow generated from the CMBS Centers (determined after
+payment of debt service on the CMBS Loan, certain fees and required reserve
+amounts) if the net operating income, as defined in the CMBS Loan agreement, of
+the CMBS Centers declines to 60.0 million, as adjusted to account for released
+properties. The amount of excess cash flow to be escrowed increases to 100 if
+the net operating income of the CMBS Centers declines to 50.0 million, as
+adjusted. The net operating income of the CMBS Centers for the trailing twelve
+months ended December 12, 2003 was approximately 81.1 million. The maximum
+amount of excess cash flow that can be escrowed is limited to one year of debt
+service on the CMBS Loan and one year of rent due under the ground lease with
+the CMBS Operator during the term of the CMBS Loan. The escrowed amounts are
+released if the CMBS Centers generate the necessary minimum net operating income
+for two consecutive fiscal quarters. The annual debt service on the CMBS Loan is
+approximately 22.8 million (assuming a 6.50 interest rate). The annual rent
+under the ground lease is 34.0 million for the term of the CMBS Loan. These
+excess cash flow provisions could limit the amount of cash made available to us.
+Our restricted cash balance in connection with the CMBS Loan was 6.0 million at
+December 12, 2003. The restricted cash balance will fluctuate periodically due
+primarily to the timing of debt service payments compared to our period end
+date.
+
+ Credit Facility. Our 125.0 million credit facility is secured by first
+mortgages or deeds of trusts on 119 of our owned centers and certain other
+collateral and has a maturity date of July 9, 2008. The revolving credit
+facility includes borrowing capacity of up to 75.0 million for letters of
+credit and up to 10.0 million for selected short-term borrowings. At December
+12, 2003 there were no borrowings outstanding under our credit facility.
+
+ 12
+ 
+ The credit facility bears interest, at our option, at either of the
+following rates, which are adjusted in quarterly increments based on our ratio
+of total consolidated debt to total consolidated EBITDA (EBITDA is defined in
+the credit facility as net income before interest expense, income taxes,
+depreciation, amortization, non-recurring charges, non-cash charges, gains and
+losses on asset sales, restructuring charges or reserves and non-cash gains):
+
+ o An adjusted LIBOR rate plus 2.00 to 3.25 . At December 12, 2003 this
+ rate would have been adjusted LIBOR plus 3.25 , or an all-in rate of
+ 4.37 .
+
+ o An alternative base rate plus 0.75 to 2.00 . At December 12, 2003
+ this rate would have been the alternative base rate plus 2.00 , or an
+ all-in rate of 6.00 .
+
+ The credit facility contains customary covenants and provisions that
+restrict our ability to:
+
+ o make certain fundamental changes to our business,
+
+ o consummate asset sales,
+
+ o declare dividends,
+
+ o grant liens,
+
+ o incur additional indebtedness, amend the terms of or repay certain
+ indebtedness, and
+
+ o make capital expenditures.
+
+ In addition, the credit facility requires us to meet or exceed certain
+leverage and interest and lease expense coverage ratios.
+
+ The credit facility requires us to pay a commitment fee at a rate ranging
+from 0.40 to 0.50 on the available commitment. The fee is payable quarterly in
+arrears. In addition, we are required to pay a letter of credit fee at a rate
+ranging from 2.00 to 3.25 , minus 0.125 , as well as a fronting fee of 0.125 ,
+in each case on the average daily stated amount of each letter of credit. These
+fees are also payable quarterly in arrears. At December 12, 2003 the rates for
+our commitment and letter of credit fees were 0.50 and 3.125 , respectively.
+
+ 5. Commitments and Contingencies
+
+ We are presently, and are from time to time, subject to claims and
+litigation arising in the ordinary course of business. We believe that none of
+the claims or litigation of which we are aware will materially affect our
+financial position, operating results or cash flows, although assurance cannot
+be given with respect to the ultimate outcome of any such actions.
+
+ ITEM 2. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION
+ AND RESULTS OF OPERATIONS
+
+Introduction
+
+ The following discussion should be read in conjunction with the unaudited
+consolidated financial statements and the related notes included elsewhere in
+this report. Our fiscal year ends on the Friday closest to May 31. The
+information presented refers to the twelve weeks ended December 12, 2003 as "the
+second quarter of fiscal 2004" and the twelve weeks ended December 13, 2002 as
+"the second quarter of fiscal 2003." Our first fiscal quarter includes 16 weeks
+and the remaining quarters each include twelve weeks.
+
+ We calculate the average weekly tuition rate as net revenues, exclusive of
+fees and non-tuition income, divided by FTE attendance for the related time
+period. The average weekly tuition rate represents
+
+ 13
+ 
+the approximate weighted average weekly tuition rate at all of the centers paid
+by parents for children to attend the centers five full days during a week.
+However, the occupancy mix between full- and part-time children at each center
+can significantly affect these averages with respect to any specific center. FTE
+attendance is not a strict head count. Rather, the methodology determines an
+approximate number of full-time children based on weighted averages. For
+example, an enrolled full-time child equates to one FTE, while a part-time child
+enrolled for five half-days equates to 0.5 FTE. The FTE measurement of center
+capacity utilization does not necessarily reflect the actual number of full- and
+part-time children enrolled. Occupancy is a measure of the utilization of center
+capacity. We calculate occupancy as the full-time equivalent, or FTE, attendance
+at all of the centers divided by the sum of the centers' licensed capacity.
+
+ A center is included in comparable center net revenues when it has been
+open and operated by us at least one year and it has not been rebuilt or
+permanently relocated within that year. Therefore, a center is considered
+comparable during the first four-week period it has prior year net revenues.
+Non-comparable centers include those that have been closed during the past year.
+
+ This report will be available on our website, kindercare.com, as soon as
+practicable after filing with the Securities and Exchange Commission. The
+information on our website is not incorporated by reference in this report.
+
+Second Quarter of Fiscal 2004 compared to Second Quarter of Fiscal 2003
+
+ The following table shows the comparative operating results of KinderCare,
+with dollars in thousands, except the average weekly tuition rate:
+
+Twelve Weeks Twelve Weeks Change
+ Ended Percent Ended Percent Amount
+ December 12, of December 13, of Increase/
+ 2003 Revenues 2002 Revenues (Decrease)
+ ------------ ----------- ------------ ----------- ------------
+ 
+Revenues, net................... 196,607 100.0 194,388 100.0 2,219
+ ------------ ----------- ------------ ----------- ------------
+Operating expenses:
+ Salaries, wages and benefits:
+ Center expense.............. 99,244 50.5 100,304 51.6 (1,060)
+ Field and corporate expense. 7,869 4.0 8,284 4.3 (415)
+ ------------ ----------- ------------ ----------- ------------
+ Total salaries, wages and
+ benefits................ 107,113 54.5 108,588 55.9 (1,475)
+ Depreciation and amortization. 14,503 7.4 14,168 7.2 335
+ Rent.......................... 12,034 6.1 12,048 6.2 (14)
+ Other......................... 46,067 23.4 43,510 22.4 2,557
+ ------------ ----------- ------------ ----------- ------------
+ Total operating expenses.... 179,717 91.4 178,314 91.7 1,403
+ ------------ ----------- ------------ ----------- ------------
+ Operating income.......... 16,890 8.6 16,074 8.3 816
+ ============ =========== ============ =========== ============
+Average weekly tuition rate..... 153.17 144.06 9.11
+Occupancy....................... 59.9 64.0 (4.1)
+
+Revenues, net. Net revenues increased 2.2 million, or 1.1 , from the same
+period last year to 196.6 million in the second quarter of fiscal 2004. The
+increase was due to higher average weekly tuition rates, offset by reduced
+occupancy, as well as additional net revenues generated by the newly opened
+centers. Comparable center net revenues decreased 1.6 million, or 0.8 .
+
+ The average weekly tuition rate increased 9.11, or 6.3 , to 153.17 in the
+second quarter of fiscal 2004 due primarily to tuition increases. Occupancy
+declined to 59.9 from 64.0 for the same period last year due primarily to
+reduced full-time equivalent attendance within the population of older centers.
+A factor that has contributed to this decline includes reduced or flat
+government funding for child care assistance programs.
+
+ 14
+ 
+ During the second quarters of fiscal 2004 and 2003, we opened and closed
+centers as follows:
+
+Twelve Weeks Ended
+ -------------------------
+ December 12, December 13,
+ 2003 2002
+ ----------- -----------
+ 
+Number of centers at the beginning of the period.... 1,260 1,264
+Openings............................................ 2 6
+Closures............................................ (9) (4)
+ ----------- -----------
+Number of centers at the end of the period.......... 1,253 1,266
+ =========== ===========
+Total center licensed capacity at the end of the
+ period............................................ 167,000 167,000
+
+Salaries, wages and benefits. Expenses for salaries, wages and benefits
+decreased 1.5 million, or 1.4 , from the same period last year to 107.1
+million. Total salaries, wages and benefits expense as a percentage of net
+revenues was 54.5 for the second quarter of fiscal 2004 compared to 55.9 for
+the second quarter of fiscal 2003.
+
+ Expenses for salaries, wages and benefits directly associated with the
+centers was 99.2 million, a decrease of 1.1 million from the same period last
+year. The decrease was primarily due to control over labor hours and a reduction
+in medical insurance costs, offset by costs from newly opened centers and
+overall higher wage rates. See "Wage Increases." At the center level, salaries,
+wages and benefits expense as a percentage of net revenues declined to 50.5 
+from 51.6 for the same period last year due primarily to improved labor
+productivity. Expenses for salaries, wages and benefits associated with field
+and corporate employees decreased 0.4 million due primarily to the absence of
+one-time termination benefits related to our field management reorganization,
+which had been recognized in the second quarter of fiscal 2003.
+
+ Depreciation and amortization. Depreciation and amortization expense
+increased 0.3 million from the same period last year to 14.5 million.
+Significant changes in depreciation included the impact of centers previously
+included in our synthetic lease facility, our sale-leaseback program and
+impairment charges. Additional depreciation expense of 1.3 million was incurred
+as a result of purchasing the centers previously held under the synthetic lease
+facility. In connection with our sale-leaseback program, whereby centers are
+classified as operating leases when they are sold and leased back, depreciation
+expense decreased 0.4 million. Impairment charges of 0.4 million were
+recognized in the second quarter of fiscal 2004, a decrease of 0.3 million from
+the same period last year. These charges related to under-performing centers and
+certain undeveloped properties.
+
+ Rent. Rent expense remained relatively flat at 12.0 million in the second
+quarter of 2004 compared to the same period last year. During the second quarter
+of fiscal 2004, the rent expense associated with the centers previously included
+in the synthetic lease facility was eliminated as a result of our July 1, 2003
+debt refinancing, which resulted in decreased rent expense of 0.8 million
+compared to the second quarter of fiscal 2003. Our sale-leaseback program,
+whereby centers are sold and leased back, resulted in additional rent expense of
+ 1.3 million. See "Liquidity and Capital Resources." All gains on these
+transactions were included as an offset within rent expense. The net impact was
+an increase in rent expense from the sale-leaseback program of 0.8 million in
+the second quarter of fiscal 2004 compared to the same period last year.
+
+ Other operating expenses. Other operating expenses increased 2.6 million,
+or 5.9 , from the same period last year to 46.1 million. The increase was due
+primarily to 2.4 million of increased insurance costs and additional center
+level costs for newly opened centers. Other operating expenses as a percentage
+of net revenues increased to 23.4 from 22.4 for the same period last year
+primarily as a result of the higher insurance costs.
+
+ 15
+ 
+ Other operating expenses include costs directly associated with the
+centers, such as food, insurance, transportation, janitorial, maintenance,
+utilities and marketing costs, and expenses related to field management and
+corporate administration.
+
+ Operating income. Operating income was 16.9 million, an increase of 0.8
+million, or 5.1 , from the same period last year. Operating income increased due
+to higher tuition rates. During the second quarter of fiscal 2004 operating
+income, as a percentage of net revenues, was 8.6 compared to 8.3 for the same
+period last year.
+
+ Interest expense. Interest expense was 9.5 million compared to 9.6
+million for the same period last year. Our weighted average interest rate on our
+long-term debt, including amortization of deferred financing costs, but
+excluding the write-off discussed below, was 7.2 and 7.5 for the second
+quarter of fiscal 2004 and fiscal 2003, respectively.
+
+ Loss on the early extinguishment of debt. As a result of acquiring 4.3
+million of our 9.5 senior subordinated notes in the second quarter of fiscal
+2004, we recognized a loss on the early extinguishment of debt of 0.2 million.
+These costs included the write-off of deferred financing costs of 0.1 million
+associated with the debt that was repaid and the incurrence of premium costs of
+ 0.1 million.
+
+ Income tax expense. Income tax expense was 2.9 million, or 39.5 of pretax
+income, in the second quarter of fiscal 2004. In the second quarter of fiscal
+2003, income tax expense was 2.6 million, or 39.6 of pretax income. Income tax
+expense was computed by applying estimated effective income tax rates to the
+income or loss before income taxes. Income tax expense varies from the statutory
+federal income tax rate due primarily to state income taxes and non-tax
+deductible expenses, offset by tax credits.
+
+ Discontinued operations. We recorded a loss of less than 0.1 million and
+income of 0.4 million on discontinued operations in the second quarters of
+fiscal 2004 and 2003, respectively, which represents the operating results, net
+of tax, for all periods presented of the 21 centers closed during the
+twenty-eight weeks ended December 12, 2003 and the 28 centers closed in fiscal
+2003. Discontinued operations included the following, with dollars in the
+thousands:
+
+Twelve Weeks Ended
+ -------------------------
+ December 12, December 13,
+ 2003 2002
+ ----------- -----------
+ 
+Revenues, net.................................... 239 2,923
+ ----------- -----------
+Operating expenses (income):
+ Salaries, wages and benefits.................. 258 1,857
+ Depreciation.................................. 290 374
+ Rent.......................................... 33 339
+ Provision for doubtful accounts............... 24 99
+ Other......................................... (304) (332)
+ ----------- -----------
+ Total operating expenses................... 301 2,337
+ Operating (loss) income....................... (62) 586
+
+Income tax benefit (expense)..................... 25 (232)
+ ----------- -----------
+ Discontinued operations, net of tax........... (37) 354
+ =========== ===========
+
+Depreciation expense for the twelve weeks ended December 13, 2002 included
+ 0.1 million of impairment charges. Other operating expense included 0.6
+million and 1.1 million for gains on closed center sales in the second quarter
+of fiscal 2004 and 2003, respectively.
+
+ Net income. Net income was 4.3 million in both the second quarters of
+fiscal 2004 and 2003. Basic and diluted net income per share were both 0.22 for
+the second quarters of fiscal 2004 and 2003.
+
+ 16
+ 
+Twenty-Eight Weeks ended December 12, 2003 compared to Twenty-Eight Weeks ended
+December 13, 2002.
+
+ The following table shows the comparative operating results of KinderCare,
+with dollars in thousands, except the average weekly tuition rate:
+
+Twenty-Eight Twenty-Eight Change
+ Weeks Ended Percent Weeks Ended Percent Amount
+ December 12, of December 13, of Increase/
+ 2003 Revenues 2002 Revenues (Decrease)
+ ------------ ----------- ------------ ----------- ------------
+ 
+Revenues, net.................... 456,638 100.0 447,087 100.0 9,551
+ ------------ ----------- ------------ ----------- ------------
+Operating expenses:
+ Salaries, wages and benefits:
+ Center expense............... 235,162 51.5 234,444 52.4 718
+ Field and corporate expense.. 18,422 4.0 18,256 4.1 166
+ ------------ ----------- ------------ ----------- ------------
+ Total salaries, wages and
+ benefits................. 253,584 55.5 252,700 56.5 884
+ Depreciation and amortization.. 33,070 7.2 31,181 7.0 1,889
+ Rent........................... 28,982 6.4 27,041 6.1 1,941
+ Other.......................... 111,789 24.5 105,999 23.7 5,790
+ ------------ ----------- ------------ ----------- ------------
+ Total operating expenses..... 427,425 93.6 416,921 93.3 10,504
+ ------------ ----------- ------------ ----------- ------------
+ Operating income........... 29,213 6.4 30,166 6.7 (953)
+ ============ =========== ============ =========== ============
+Average weekly tuition rate...... 151.86 143.50 8.36
+Occupancy........................ 59.7 63.1 (3.4)
+
+Revenues, net. Net revenues increased 9.6 million, or 2.1 , from the same
+period last year to 456.6 million in the twenty-eight weeks ended December 12,
+2003. The increase was due to higher average weekly tuition rates, offset by
+reduced occupancy, as well as additional net revenues generated by the newly
+opened centers. Comparable center net revenues decreased 0.7 million, or 0.2 .
+
+ The average weekly tuition rate increased 8.36, or 5.8 , to 151.86 in the
+twenty-eight weeks ended December 12, 2003 due primarily to tuition increases.
+Occupancy declined to 59.7 from 63.1 for the same period last year due
+primarily to reduced full-time equivalent attendance within the population of
+older centers. A factor that has contributed to this decline includes reduced or
+flat government funding for child care assistance programs.
+
+ During the periods indicated, we opened and closed centers as follows:
+
+Twenty-Eight Weeks Ended
+ ------------------------
+ December 12, December 13,
+ 2003 2002
+ ----------- -----------
+ 
+Number of centers at the beginning of the period.. 1,264 1,264
+Openings.......................................... 10 18
+Closures.......................................... (21) (16)
+ ----------- -----------
+ Number of centers at the end of the period...... 1,253 1,266
+ =========== ===========
+Total center licensed capacity at the end of
+ the period...................................... 167,000 167,000
+
+17
+ 
+ Salaries, wages and benefits. Expenses for salaries, wages and benefits
+increased 0.9 million, from the same period last year to 253.6 million. Total
+salaries, wages and benefits expense as a percentage of net revenues was 55.5 
+and 56.5 for the twenty-eight weeks ended December 12, 2003 and December 13,
+2002, respectively.
+
+ Expenses for salaries, wages and benefits directly associated with the
+centers was 235.2 million, an increase of 0.7 million from the same period
+last year. The increase was primarily due to costs from newly opened centers and
+overall higher wage rates, offset by control over labor hours and a reduction in
+medical insurance costs. See "Wage Increases." At the center level, salaries,
+wages and benefits expense as a percentage of net revenues declined to 51.5 
+from 52.4 for the same period last year due primarily to improved labor
+productivity.
+
+ Depreciation and amortization. Depreciation and amortization expense
+increased 1.9 million from the same period last year to 33.1 million.
+Significant changes in depreciation included the impact of centers previously
+included in our synthetic lease facility, our sale-leaseback program and
+impairment charges. Additional depreciation expense of 2.2 million was incurred
+as a result of purchasing the centers previously held under the synthetic lease
+facility. In connection with our sale-leaseback program, whereby centers are
+classified as operating leases when they are sold and leased back, depreciation
+expense decreased 1.2 million. Impairment charges of 0.9 million were
+recognized in the twenty-eight weeks ended December 12, 2003, an increase of
+ 0.2 million over the same period last year. These charges related to
+under-performing centers and certain undeveloped properties.
+
+ Rent. Rent expense increased 1.9 million from the same period last year to
+ 29.0 million. The rent expense related to our sale-leaseback program increased
+ 3.9 million from the same period last year. Deferred gains related to this
+program were included as an offset within rent expense. During the twenty-eight
+weeks ended December 12, 2003, the net impact was an increase in rent expense
+from the sale-leaseback program of 2.7 million from the same period last year.
+See "Liquidity and Capital Resources." In addition, the rental rates experienced
+on new and renewed center leases are higher than those experienced in previous
+fiscal periods. During the twenty-eight weeks ended December 12, 2003, the rent
+expense associated with the centers previously included in the synthetic lease
+facility was eliminated as a result of our July 1, 2003 debt refinancing, which
+resulted in a 1.7 million decrease in rent expense, compared to the same period
+last year.
+
+ Other operating expenses. Other operating expenses increased 5.8 million,
+or 5.5 , from the same period last year to 111.8 million. The increase was due
+primarily to 4.4 million of increased insurance costs and additional center
+level costs for newly opened centers. Other operating expenses as a percentage
+of net revenues increased to 24.5 from 23.7 for the same period last year
+primarily as a result of the higher insurance costs.
+
+ Other operating expenses include costs directly associated with the
+centers, such as food, insurance, transportation, janitorial, maintenance,
+utilities and marketing costs, and expenses related to field management and
+corporate administration.
+
+ Operating income. Operating income was 29.2 million, a decrease of 1.0
+million, or 3.2 , from the same period last year. Operating income decreased due
+to 3.2 million of higher insurance costs and 2.7 million of increased rent
+expense from sale-leasebacks, offset by higher tuition rates and control over
+labor productivity. Operating income as a percentage of net revenues was 6.4 
+compared to 6.7 for the same period last year.
+
+ Interest expense. Interest expense was 22.5 million for both of the
+twenty-eight week periods ended December 12, 2003 and December 13, 2002. Our
+weighted average interest rate on our long-term debt, including amortization of
+deferred financing costs, but excluding the write-off discussed below, was 6.8 
+and 7.6 for the twenty-eight weeks ended December 12, 2003 and December 13,
+2002, respectively.
+
+ 18
+ 
+ Loss on the early extinguishment of debt. As a result of our debt
+refinancing in July 2003 and the acquisition of a portion of our 9.5 senior
+subordinated notes, we recognized a loss on the early extinguishment of debt of
+ 3.8 million in the twenty-eight weeks ended December 12, 2003. These costs
+included the write-off of deferred financing costs of 2.9 million associated
+with the debt that was repaid and the incurrence of premium costs of 0.9
+million in connection with the acquisition of a portion of our 9.5 senior
+subordinated notes. In the twenty-eight weeks ended December 12, 2003, we
+purchased 45.3 million aggregate principal amount of our 9.5 senior
+subordinated notes. These purchases excluded our 11.0 million aggregate
+principal amount acquired in the first quarter of fiscal 2004, which was
+committed to at the end of fiscal 2003. See "Liquidity and Capital Resources."
+
+ Income tax expense. Income tax expense was 1.2 million, or 39.3 of pretax
+income, and 3.1 million, or 39.6 of pretax income, in the twenty-eight weeks
+ended December 12, 2003 and December 13, 2002, respectively. Income tax expense
+was computed by applying estimated effective income tax rates to the income or
+loss before income taxes. Income tax expense varies from the statutory federal
+income tax rate due primarily to state income taxes and non-tax deductible
+expenses, offset by tax credits.
+
+ Discontinued operations. We recorded a loss on discontinued operations in
+the twenty-eight weeks ended December 12, 2003 and December 13, 2002, which
+represents the operating results, net of tax, for all periods presented of the
+21 centers closed during the twenty-eight weeks ended December 12, 2003 and the
+28 centers closed in fiscal 2003. Discontinued operations included the
+following, with dollars in the thousands:
+
+Twenty-Eight Weeks Ended
+ ------------------------
+ December 12, December 13,
+ 2003 2002
+ ----------- -----------
+ 
+Revenues, net................................... 1,501 7,684
+ ----------- -----------
+Operating expenses:
+ Salaries, wages and benefits................. 1,192 4,971
+ Depreciation................................. 617 666
+ Rent......................................... 165 893
+ Provision for doubtful accounts.............. 55 177
+ Other........................................ 284 994
+ ----------- -----------
+ Total operating expenses.................. 2,313 7,701
+ Operating loss............................... (812) (17)
+ Interest expense............................. -- (1)
+Income tax benefit.............................. 319 7
+ ----------- -----------
+ Discontinued operations, net of tax.......... (493) (11)
+ =========== ===========
+
+Depreciation expense for the twenty-eight weeks ended December 13, 2002
+included 0.1 million of impairment charges. Other operating expenses included
+gains on closed center sales of 0.6 million and 1.2 million in the
+twenty-eight weeks ended December 12, 2003 and December 13, 2002, respectively.
+
+ Net income. Net income was 1.3 million and 4.8 million in the
+twenty-eight weeks ended December 12, 2003 and December 13, 2002, respectively.
+The most significant reason for the decrease was 3.8 million 2.4 million
+after tax) of charges from the early extinguishment of debt, as discussed above.
+Rising insurance costs and increased rent expense also contributed to the
+decrease in net income in the twenty-eight weeks ended December 12, 2003. Basic
+and diluted net income per share were both 0.07 for the twenty-eight weeks
+ended December 12, 2003. For the twenty-eight weeks ended December 13, 2002,
+basic and diluted net income per share were both 0.24.
+
+ 19
+ 
+Liquidity and Capital Resources
+
+ In July 2003 we refinanced a portion of our debt. We obtained a 125.0
+million revolving credit facility, and, as described below in greater detail,
+one of our subsidiaries obtained a 300.0 million mortgage loan. Proceeds from
+the mortgage loan were used to pay off the 98.0 million balance of the then
+existing revolving credit facility, 47.0 million of term loan facility and
+ 97.9 million under the synthetic lease facility. We also used a portion of the
+remaining proceeds to purchase 37.0 million aggregate principal amount of our
+9.5 senior subordinated notes.
+
+ The 300.0 million mortgage loan is secured by first mortgages or deeds of
+trust on 475 of our owned centers located in 33 states. We refer to the mortgage
+loan as the CMBS Loan and the 475 mortgaged centers as the CMBS Centers. In
+connection with the CMBS Loan, the CMBS Centers were transferred to a newly
+formed wholly owned subsidiary of ours, which is the borrower under the CMBS
+Loan and is referred to as the CMBS Borrower. Because the CMBS Centers are owned
+by the CMBS Borrower and subject to the CMBS Loan, recourse to the CMBS Centers
+by our creditors will be effectively subordinated to recourse by holders of the
+CMBS Loan.
+
+ The CMBS Loan is nonrecourse to the CMBS Borrower and us, subject to
+customary recourse provisions, and has a maturity date of July 9, 2008, which
+may be extended to July 9, 2009, subject to certain conditions. The CMBS Loan
+bears interest at a per annum rate equal to LIBOR plus 2.25 and requires
+monthly payments of principal and interest. Principal payments are based on a
+thirty-year amortization (based on an assumed rate of 6.50 ). We have purchased
+an interest rate cap agreement to protect us from significant changes in LIBOR
+during the initial three years of the CMBS Loan. Under the cap agreement, which
+terminates July 9, 2006, LIBOR is capped at 6.50 . We are required to purchase
+additional interest rate cap agreements capping LIBOR at a rate no higher than
+7.00 for the period from July 9, 2006 to the maturity date of the CMBS Loan.
+
+ Each of the centers included in the CMBS Centers is being ground leased by
+the CMBS Borrower to another wholly owned subsidiary formed in connection with
+the CMBS Loan, which is referred to as the CMBS Operator, and is being managed
+by us pursuant to a management agreement with the CMBS Operator. Transactions
+between the CMBS Borrower and the CMBS Operator are eliminated in consolidation
+since both the CMBS Borrower and the CMBS Operator are wholly owned
+subsidiaries.
+
+ Prepayment of the CMBS Loan is prohibited through July 8, 2005, after which
+prepayment is permitted in whole, subject to a prepayment premium of 3.0 from
+July 8, 2005 through July 8, 2006, 2.0 from July 9, 2006 through July 8, 2007
+and 1.0 from July 9, 2007 through January 8, 2008, with no prepayment penalty
+thereafter. In addition, after July 8, 2005, the loan may be partially prepaid
+as follows:
+
+ o up to 15.0 million each loan year in connection with releases of
+ mortgaged centers with no prepayment premium, and
+
+ o up to 5.0 million each loan year subject to payment of the applicable
+ prepayment premium.
+
+ The CMBS Loan contains a provision that requires the loan servicer to
+escrow 50 of excess cash flow generated from the CMBS Centers (determined after
+payment of debt service on the CMBS Loan, certain fees and required reserve
+amounts) if the net operating income, as defined in the CMBS Loan Agreement, of
+the CMBS Centers declines to 60.0 million, as adjusted to account for released
+properties. The amount of excess cash flow to be escrowed increases to 100 if
+the net operating income of the CMBS Centers declines to 50.0 million, as
+adjusted. The net operating income of the CMBS Centers for the trailing twelve
+months ended December 12, 2003 was approximately 81.1 million. The maximum
+amount of excess cash flow that can be escrowed is limited to one year of debt
+service on the CMBS Loan and one year of rent due under the ground lease with
+the CMBS Operator during the term of the CMBS Loan. The escrowed amounts are
+released if the CMBS centers generate the necessary minimum net operating income
+for two consecutive fiscal quarters. The annual debt service on the
+
+ 20
+ 
+CMBS Loan is approximately 22.8 million (assuming a 6.50 interest rate). The
+annual rent due under the ground lease is 34.0 million during the term of the
+CMBS Loan. These excess cash flow provisions could limit the amount of cash made
+available to us.
+
+ Our 125.0 million credit facility is secured by first mortgages or deeds
+of trusts on 119 of our owned centers and certain other collateral and has a
+maturity date of July 9, 2008. The revolving credit facility includes borrowing
+capacity of up to 75.0 million for letters of credit and up to 10.0 million
+for selected short-term borrowings. At December 12, 2003 there were no
+borrowings outstanding under our credit facility.
+
+ During the twenty-eight week period ended December 12, 2003, we acquired
+ 45.3 million aggregate principal amount of our 9.5 senior subordinated notes
+at an aggregate price of 45.4 million, which included a loss of 0.9 million.
+In addition, these transactions resulted in the write-off of deferred financing
+costs of 0.9 million. The 1.8 million of costs were included in interest
+expense in the twenty-eight weeks ended December 12, 2003. We also acquired
+ 11.0 million aggregate principal amount of our 9.5 senior subordinated notes
+at an aggregate price of 11.1 million in the first quarter of fiscal 2004. We
+have provided notice to the trustee that we intend to redeem 40.0 million
+aggregate principal amount of our 9.5 senior subordinated notes. The redemption
+will occur on February 18, 2004, subject to deposit of the redemption funds. The
+redemption will be funded primarily by cash flow from operations, proceeds
+received from sale-leaseback transactions and borrowings under our credit
+facility, to the extent necessary.
+
+ Our principal sources of liquidity are cash flow generated from operations,
+proceeds received from our sale-leaseback program and borrowings under our
+revolving credit facility. At December 12, 2003, we had no outstanding
+borrowings under our revolving credit facility and had outstanding letters of
+credit totaling 55.3 million. Our availability under our new credit facility
+was 69.7 million. Our principal uses of liquidity are new center development
+and debt service.
+
+ Our consolidated net cash provided by operating activities for the
+twenty-eight weeks ended December 12, 2003 was 41.7 million compared to 35.9
+million in the same period last year. The increase of 5.8 million was due
+primarily to a change in working capital. Cash and cash equivalents totaled
+ 28.2 million at December 12, 2003, compared to 18.1 million at May 30, 2003.
+
+ EBITDA, which is a non-GAAP financial measure, is defined as earnings
+before interest, taxes, depreciation, amortization and the related components of
+discontinued operations. EBITDA reflects a non-GAAP financial measure of our
+liquidity. A non-GAAP financial measure is a numerical measure of historical or
+future financial performance, financial position or cash flow that excludes or
+includes amounts, or is subject to adjustments that have the effect of excluding
+or including amounts, from the most directly comparable measure calculated and
+presented in accordance with accounting principles generally accepted in the
+United States of America ("GAAP"). We believe EBITDA is a useful tool for
+certain investors and creditors for measuring our ability to meet debt service
+requirements. Additionally, management uses EBITDA for purposes of reviewing our
+results of operations on a more comparable basis. EBITDA does not represent cash
+flow from operations as defined by GAAP, is not necessarily indicative of cash
+available to fund all cash flow needs and should not be considered an
+alternative to net income under GAAP for purposes of evaluating our results of
+operations. EBITDA was calculated as follows, with dollars in thousands:
+
+ 21
+
+Twelve Weeks Ended Twenty-Eight Weeks Ended
+ ------------------------- -------------------------
+ December 12, December 13, December 12, December 13,
+ 2003 2002 2003 2002
+ ----------- ----------- ----------- -----------
+ 
+Net income..................... 4,338 4,300 1,324 4,757
+Interest expense, net.......... 9,660 9,542 26,219 22,273
+Income tax expense............. 2,855 2,586 1,177 3,125
+Depreciation and amortization.. 14,503 14,168 33,070 31,181
+Discontinued operations:
+ Interest expense............. -- -- -- 1
+ Income tax (benefit) expense. (25) 232 (319) (7)
+ Depreciation................. 290 374 617 666
+ ----------- ----------- ----------- -----------
+ EBITDA..................... 31,621 31,202 62,088 61,996
+ =========== =========== =========== ===========
+EBITDA - percentage of net
+ revenues................... 16.1 16.1 13.6 13.9 
+
+A reconciliation of EBITDA to cash provided by operating activities was as
+follows, with dollars in thousands:
+
+Twelve Weeks Ended Twenty-Eight Weeks Ended
+ ------------------------- -------------------------
+ December 12, December 13, December 12, December 13,
+ 2003 2002 2003 2002
+ ----------- ----------- ----------- -----------
+ 
+Net cash provided by operating activities... 34,888 29,911 41,733 35,867
+Income tax expense.......................... 2,855 2,586 1,177 3,125
+Deferred income tax (expense) benefit....... 5,325 (2,297) 3,477 (5,570)
+Interest expense, net....................... 9,660 9,542 26,219 22,273
+Effect of discontinued operations on
+ interest and taxes........................ (25) 232 (319) (6)
+Change in operating assets and liabilities.. (21,023) (8,871) (10,321) 6,688
+Other non-cash items........................ 59 (99) 122 (381)
+ ----------- ----------- ----------- -----------
+ EBITDA.................................... 31,621 31,202 62,088 61,996
+ =========== =========== =========== ===========
+
+During the twelve and twenty-eight week periods ended December 12, 2003,
+EBITDA increased 0.4 million, or 1.3 , and 0.1 million or 0.1 , respectively,
+from the same period last year. Despite higher tuition rates and improved labor
+productivity, we have experienced higher insurance costs and increased rent
+expense due primarily to our sale-leaseback program. EBITDA is not intended to
+indicate that cash flow is sufficient to fund all of our cash needs or represent
+cash flow from operations as defined by accounting principles generally accepted
+in the United States of America. In addition, EBITDA should not be used as a
+tool for comparison as the computation may not be the same for all companies.
+
+ In fiscal year 2000, we entered into a 100.0 million synthetic lease
+facility under which a syndicate of lenders financed the construction of new
+centers for lease to us for a three to five year period. A total of 44 centers
+were constructed at a cost of 97.9 million. The synthetic lease facility was
+terminated in July 2003 as part of our refinancing. The 44 centers are now owned
+by us and the assets are reflected in our fiscal year 2004 consolidated
+financial statements.
+
+ During the fourth quarter of fiscal year 2002, we began selling centers to
+individual real estate investors and then leasing them back. The resulting
+leases have been classified as operating leases. We will continue to manage the
+operations of any centers that are sold in such transactions. The sales were
+summarized as follows, with dollars in thousands:
+
+ 22
+
+Twenty-Eight
+ Weeks Ended Fiscal Year Ended
+ ------------ -------------------------
+ December 12, May 30, May 31,
+ 2003 2003 2002
+ ------------ ----------- -----------
+ 
+Number of centers...................... 18 41 5
+Net proceeds from completed sales...... 31,312 88,703 9,180
+Deferred gains......................... 11,606 32,507 2,600
+
+The deferred gains are amortized on a straight-line basis, typically over a
+period of 15 years. Subsequent to December 12, 2003, we closed 12.3 million in
+sales, which included five centers, and are currently in the process of
+negotiating another 62.9 million of sales related to 24 centers. It is possible
+that we will be unable to complete these transactions in process. We expect our
+sale-leaseback efforts to continue throughout fiscal year 2004, assuming the
+market for such transactions remains favorable.
+
+ We expect to fund future new center development through our 125.0 million
+revolving credit facility and sale-leaseback proceeds, although alternative
+forms of funding continue to be evaluated and new arrangements may be entered
+into in the future.
+
+ We believe that cash flow generated from operations, proceeds from our
+sale-leaseback program and borrowings under our revolving credit facility will
+adequately provide for our working capital and debt service needs and will be
+sufficient to fund our expected capital expenditures for the foreseeable future.
+Any future acquisitions, joint ventures or similar transactions may require
+additional capital, and such capital may not be available to us on acceptable
+terms or at all. Although no assurance can be given that such sources of capital
+will be sufficient, the capital expenditure program has substantial flexibility
+and is subject to revision based on various factors, including but not limited
+to, business conditions, cash flow requirements, debt covenants, competitive
+factors and seasonality of openings. If we experience a lack of working capital,
+it may reduce our future capital expenditures. If these expenditures were
+substantially reduced, in management's opinion, our operations and cash flow
+would be adversely impacted.
+
+ We may experience decreased liquidity during the summer months and the
+calendar year-end holidays due to decreased attendance during these periods. New
+enrollments are generally highest during the traditional fall "back to school"
+period and after the calendar year-end holidays. Enrollment generally decreases
+5 to 10 during the summer months and calendar year-end holidays.
+
+ We have certain contractual obligations and commercial commitments.
+Contractual obligations are those that will require cash payments in accordance
+with the terms of a contract, such as a loan or lease agreement. Commercial
+commitments represent potential obligations for performance in the event of
+demands by third parties or other contingent events, such as lines of credit.
+Our contractual obligations and commercial commitments at December 12, 2003 were
+as follows, with dollars in thousands:
+
+Remainder Fiscal Year
+ of Fiscal ---------------------------------------------------
+ Total 2004 2005 2006 2007 2008 Thereafter
+ ---------- ---------- -------- -------- -------- -------- -----------
+ 
+Long-term debt............... 546,383 2,163 7,570 4,136 4,314 4,447 523,753
+Capital lease obligations.... 28,593 1,042 2,240 2,279 2,396 2,415 18,221
+Operating lease.............. 431,738 19,652 45,192 41,935 38,178 35,034 251,747
+ ---------- ---------- -------- -------- -------- -------- -----------
+ 1,006,714 22,857 55,002 48,350 44,888 41,896 793,721
+ ========== ========== ======== ======== ======== ======== ===========
+
+23
+ 
+Capital Expenditures
+
+ During the twenty-eight weeks ended December 12, 2003 and December 13,
+2002, we opened ten and 18 new centers, respectively. We expect to open
+approximately 20 new centers in fiscal 2004 and to continue our practice of
+closing centers that are identified as not meeting performance expectations. In
+addition, we may acquire existing centers from local or regional early childhood
+education and care providers. We may not be able to successfully negotiate and
+acquire sites and/or previously constructed centers, meet our targets for new
+center additions or meet targeted deadlines for development of new centers.
+
+ New centers are located based upon detailed site analyses that include
+feasibility and demographic studies and financial modeling. The length of time
+from site selection to construction and, finally, the opening of a community
+center ranges from 16 to 24 months. Frequently, new site negotiations are
+delayed or canceled or construction is delayed for a variety of reasons, many of
+which are outside our control. The average total cost per community center
+typically ranges from 1.9 million to 2.8 million depending on the size and
+location of the center. However, the actual costs of a particular center may
+vary from such range.
+
+ Our new centers typically have a licensed capacity ranging from 145 to 180,
+while the centers constructed during fiscal 1997 and earlier have an average
+licensed capacity of 125. When mature, these larger centers are designed to
+generate higher revenues, operating income and margins than our older centers.
+These new centers also have higher average costs of construction and typically
+take three to four years to reach maturity. On average, our new centers should
+begin to produce positive EBITDA during the first year of operation and begin to
+produce positive net income by the end of the second year of operation.
+Accordingly, as more new centers are developed and opened, profitability will be
+negatively impacted in the short-term but is expected to be enhanced in the
+long-term once these new centers achieve anticipated levels of occupancy.
+
+ Capital expenditures included the following, with dollars in thousands:
+
+Twenty-Eight Weeks Ended
+ ---------------------------
+ December 12, December 13,
+ 2003 2002
+ ------------ ------------
+ 
+New center development.................. 15,900 34,568
+Renovation of existing facilities....... 9,073 11,223
+Equipment purchases..................... 4,971 7,424
+Information systems purchases........... 637 976
+ ------------ ------------
+ 30,581 54,191
+ ============ ============
+
+Capital expenditures for the twenty-eight weeks ended December 12, 2003 do
+not include 97.9 million spent to purchase the 44 centers previously included
+in the synthetic lease facility.
+
+ Capital expenditure limits under our credit facility for fiscal year 2004
+are 110.0 million. We have some ability to incur additional indebtedness,
+including through mortgages or sale-leaseback transactions, subject to the
+limitations imposed by the indenture under which our senior subordinated notes
+were issued and our revolving credit facility.
+
+Application of Critical Accounting Policies
+
+ Critical Accounting Estimates. The preparation of financial statements in
+conformity with accounting principles generally accepted in the United States of
+America requires that management make estimates and assumptions that affect the
+amounts reported in the financial statements and accompanying notes. Predicting
+future events is inherently an imprecise activity and as such requires the use
+of
+
+ 24
+ 
+judgment. Actual results may vary from estimates in amounts that may be material
+to the financial statements.
+
+ For a description of our significant accounting policies, see "Note 2.
+Summary of Significant Accounting Policies" to the unaudited consolidated
+financial statements. For a more complete description, please refer to our
+Annual Report on Form 10-K for the fiscal year ended May 30, 2003. The following
+accounting estimates and related policies are considered critical to the
+preparation of our financial statements due to the business judgment and
+estimation processes involved in their application. Management has reviewed the
+development and selection of these estimates and their related disclosure with
+the Audit Committee of the Board of Directors.
+
+ Revenue recognition. Tuition revenues, net of discounts, and other revenues
+are recognized as services are performed. Payments may be received in advance of
+services being rendered, in which case the revenue is deferred and recognized
+during the appropriate time period, typically a week. Our non-refundable
+registration and education fees are amortized over the average enrollment
+period, not to exceed one year. The recognition of our net revenues meets the
+criteria of the Securities and Exchange Commission Staff Accounting Bulletin No.
+101, Revenue Recognition in Financial Statements, as amended, including the
+existence of an arrangement, the rendering of services, a determinable fee and
+probable collection.
+
+ Accounts receivable. Our accounts receivable are comprised primarily of
+tuition due from governmental agencies, parents and employers. Accounts
+receivable are presented at estimated net realizable value. We use estimates in
+determining the collectibility of our accounts receivable and must rely on our
+evaluation of historical experience, governmental funding levels, specific
+customer issues and current economic trends to arrive at appropriate reserves.
+Material differences may result in the amount and timing of bad debt expense if
+actual experience differs significantly from management estimates.
+
+ Long-lived and intangible assets. We assess the potential impairment of
+property and equipment and finite-lived intangibles whenever events or changes
+in circumstances indicate that the carrying value may not be recoverable, in
+accordance with SFAS No. 144, Accounting for the Impairment or Disposal of
+Long-Lived Assets. An asset's value is impaired if our estimate of the aggregate
+future cash flows, undiscounted and without interest charges, to be generated by
+the asset is less than the carrying value of the asset. Such cash flows consider
+factors such as expected future operating income and historical trends, as well
+as the effects of demand and competition. To the extent impairment has occurred,
+the loss will be measured as the excess of the carrying amount of the asset over
+its fair value. Such estimates require the use of judgment and numerous
+subjective assumptions, which, if actual experience varies, could result in
+material differences in the requirements for impairment charges. Impairment
+charges, which were included as a component of depreciation expense, were as
+follows with dollars in thousands:
+
+Twelve Weeks Ended Twenty-Eight Weeks Ended
+ ------------------------- -------------------------
+ December 12, December 13, December 12, December 13,
+ 2003 2002 2003 2002
+ ----------- ----------- ----------- -----------
+ 
+Impairment charges included in
+ depreciation expense............. 369 669 945 749
+Impairment charges included in
+ discontinued operations.......... -- 106 -- 106
+ ----------- ----------- ----------- -----------
+Total impairment charges........... 369 775 945 855
+ =========== =========== =========== ===========
+
+Investments. Investments, wherein we do not exert significant influence or
+own over 20 of the investee's stock, are accounted for under the cost method.
+We measure the fair values of these investments annually, or more frequently if
+there is an indication of impairment, using multiples of comparable companies
+and discounted cash flow analysis.
+
+ 25
+ 
+ Self-insurance obligations. We self-insure a portion of our general
+liability, workers' compensation, auto, property and employee medical insurance
+programs. We purchase stop loss coverage at varying levels in order to mitigate
+our potential future losses. The nature of these liabilities, which may not
+fully manifest themselves for several years, requires significant judgment. We
+estimate the obligations for liabilities incurred but not yet reported or paid
+based on available claims data and historical trends and experience, as well as
+future projections of ultimate losses, expenses, premiums and administrative
+costs. The accrued obligations for these self-insurance programs were 52.3
+million and 45.1 million at December 12, 2003 and May 30, 2003, respectively.
+Our internal estimates are reviewed throughout the fiscal year by a third party
+actuary. While we believe that the amounts accrued for these obligations are
+sufficient, any significant increase in the number of claims and/or costs
+associated with claims made under these programs could have a material adverse
+effect on our financial position, cash flows or results of operations.
+
+ Income taxes. Accounting for income taxes requires us to estimate our
+future tax liabilities. Due to timing differences in the recognition of items
+included in income for accounting and tax purposes, deferred tax assets or
+liabilities are recorded to reflect the impact arising from these differences on
+future tax payments. With respect to recorded tax assets, we assess the
+likelihood that the asset will be realized. If realization is in doubt because
+of uncertainty regarding future profitability or enacted tax rates, we provide a
+valuation allowance related to the asset. Should any significant changes in the
+tax law or our estimate of the necessary valuation allowance occur, we would be
+required to record the impact of the change. This could have a material effect
+on our financial position or results of operations.
+
+Initial Adoption of Accounting Policies
+
+ SFAS No. 149, Amendments of Statement 133 on Derivative Instruments and
+Hedging Activities, amends and clarifies financial accounting and reporting for
+derivative instruments, including certain derivative instruments embedded in
+other contracts (collectively referred to as derivatives) and for hedging
+activities under SFAS No. 133, Accounting for Derivative Instruments and Hedging
+Activities. SFAS No. 149 was adopted for contracts entered into or modified and
+for hedging relationships designated after June 30, 2003. This adoption did not
+have a material impact on our consolidated financial statements.
+
+Recently Issued Accounting Pronouncements
+
+ FIN 46, Consolidation of Variable Interest Entities, requires consolidation
+where there is a controlling financial interest in a variable interest entity,
+previously referred to as a special-purpose entity, and certain other entities.
+The implementation of FIN 46 has been delayed and will be effective during the
+fourth quarter of our fiscal year 2004. We do not anticipate an impact to our
+consolidated financial statements.
+
+ SFAS No. 150, Accounting for Certain Financial Instruments with
+Characteristics of Both Liabilities and Equity, establishes standards for how an
+issuer classifies and measures certain financial instruments with
+characteristics of both liabilities and equity. The statement requires that an
+issuer classify a financial instrument that is within its scope as a liability,
+or an asset in some circumstances. SFAS No. 150 was effective for financial
+instruments entered into or modified after May 31, 2003, and otherwise was
+effective in the second quarter of our fiscal year 2004. This statement did not
+have a material impact to our consolidated financial statements.
+
+Wage Increases
+
+ Expenses for salaries, wages and benefits represented approximately 55.5 
+of net revenues for the twenty-eight weeks ended December 12, 2003. We believe
+that, through increases in our tuition rates, we can mitigate any future
+increase in expenses caused by adjustments to the federal or state minimum wage
+rates or other market adjustments. However, we may not be able to increase our
+rates sufficiently to
+
+ 26
+ 
+offset such increased costs. We continually evaluate our wage structure and may
+implement changes at targeted local levels.
+
+Forward-Looking Statements
+
+ We have made statements in this report that constitute forward-looking
+statements as that term is defined in the federal securities laws. These
+forward-looking statements concern our operations, economic performance and
+financial condition and include statements regarding: opportunities for growth;
+the number of early childhood education and care centers expected to be added in
+future periods; the profitability of newly opened centers; capital expenditure
+levels; the ability to refinance or incur additional indebtedness; strategic
+acquisitions, investments, alliances and other transactions; changes in
+operating systems and policies and their intended results; our expectations and
+goals for increasing center revenue and improving our operational efficiencies;
+changes in the regulatory environment; the potential benefit of tax incentives
+for child care programs; our projected cash flow; and our marketing efforts to
+sell and leaseback centers. The forward-looking statements are subject to
+various known and unknown risks, uncertainties and other factors. When we use
+words such as "believes," "expects," "anticipates," "plans," "estimates" or
+similar expressions we are making forward-looking statements.
+
+ Although we believe that our forward-looking statements are based on
+reasonable assumptions, our expected results may not be achieved. Actual results
+may differ materially from our expectations. Important factors that could cause
+actual results to differ from expectations include, among others:
+
+ o the effects of general economic conditions;
+
+ o competitive conditions in the child care and early education
+ industries;
+
+ o various factors affecting occupancy levels, including, but not limited
+ to, the reduction in or changes to the general labor force that would
+ reduce the need for child care services;
+
+ o the availability of a qualified labor pool, the impact of labor
+ organization efforts and the impact of government regulations
+ concerning labor and employment issues;
+
+ o federal and state regulations regarding changes in child care
+ assistance programs, welfare reform, transportation safety, minimum
+ wage increases and licensing standards;
+
+ o the loss of government funding for child care assistance programs;
+
+ o our inability to successfully execute our growth strategy;
+
+ o the availability of financing or additional capital;
+
+ o our difficulty in meeting or inability to meet our obligations to
+ repay our indebtedness;
+
+ o the availability of sites and/or licensing or zoning requirements that
+ may make us unable to open new centers;
+
+ o our ability to integrate acquisitions;
+
+ o our inability to successfully defend against or counter negative
+ publicity associated with claims involving alleged incidents at our
+ centers;
+
+ o our inability to obtain insurance at the same levels, or at costs
+ comparable to those incurred historically;
+
+ o the effects of potential environmental contamination existing on any
+ real property owned or leased by us; and
+
+ 27
+ 
+ o other risk factors that are discussed in this report and, from time to
+ time, in our other Securities and Exchange Commission reports and
+ filings.
+
+ We caution you that these risks may not be exhaustive. We operate in a
+continually changing business environment and new risks emerge from time to
+time.
+
+ You should not rely upon forward-looking statements except as statements of
+our present intentions and of our present expectations that may or may not
+occur. You should read these cautionary statements as being applicable to all
+forward-looking statements wherever they appear. We assume no obligation to
+update or revise the forward-looking statements or to update the reasons why
+actual results could differ from those projected in the forward-looking
+statements.
+
+ ITEM 3. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
+
+ Market risk represents the risk of loss that may impact our consolidated
+financial position, results of operations or cash flows. We are exposed to
+market risk in the areas of interest rates and foreign currency exchange rates.
+
+Interest Rates
+
+ Our exposure to market risk for changes in interest rates relates primarily
+to debt obligations. We have no cash flow exposure due to rate changes on our
+9.5 senior subordinated notes aggregating 233.7 million at December 12, 2003.
+We also have no cash flow exposure on certain industrial revenue bonds,
+mortgages and notes payable aggregating 5.3 million at December 12, 2003.
+However, we have cash flow exposure on our revolving credit facility entered
+into on July 1, 2003 and certain industrial revenue bonds subject to variable
+LIBOR or adjusted base rate pricing. While there were no borrowings outstanding
+under our revolving credit facility at December 12, 2003, we had borrowings up
+to 27.0 million for the twenty-eight weeks ended December 12, 2003.
+Accordingly, a 1 (100 basis points) change in the LIBOR rate would have
+resulted in interest expense changing by less than 0.1 million in the twelve
+and twenty-eight weeks ended December 12, 2003, respectively. A 1 (100 basis
+points) change in the variable LIBOR or adjusted base rate pricing on our
+industrial revenue bonds, aggregating 8.5 million at December 12, 2003, would
+have resulted in interest expense changing by less than 0.1 million in the
+second quarters of fiscal 2004 and 2003, and in the twenty-eight weeks ended
+December 12, 2003 and December 13, 2002, respectively.
+
+ We have cash flow exposure on the CMBS Loan entered into in July 2003,
+which bears interest at a rate equal to LIBOR plus 2.25 . A 1 (100 basis
+points) change in the LIBOR rate would have resulted in interest expense
+changing by approximately 0.7 million and 1.4 million in the twelve and
+twenty-eight weeks ended December 12, 2003, respectively. We have purchased an
+interest rate cap agreement to protect us from significant movements in LIBOR
+during the initial three years of the CMBS Loan. The LIBOR strike price is 6.50 
+under the interest rate cap agreement, which terminates July 9, 2006, at which
+time we are required to purchase an additional interest rate cap agreement for
+the duration of the loan term.
+
+ In addition, we have cash flow exposure on our vehicle leases with variable
+interest rates. A 1 (100 basis points) change in the interest rate defined in
+our vehicle lease agreement would have resulted in rent expense changing by
+approximately 0.1 million in both of the second quarters of fiscal 2004 and
+2003, and 0.3 million in the twenty-eight weeks ended December 12, 2003 and
+December 13, 2002, respectively.
+
+Foreign Exchange Risk
+
+ We are exposed to foreign exchange risk to the extent of fluctuations in
+the United Kingdom pound sterling. Based upon the relative size of our
+operations in the United Kingdom, we do not believe
+
+ 28
+ 
+that the reasonably possible near-term change in the related exchange rate would
+have a material effect on our financial position, results of operations and cash
+flows.
+
+ ITEM 4. CONTROLS AND PROCEDURES
+
+ Disclosure Controls and Procedures. Our management has evaluated, under the
+supervision and with the participation of our Chief Executive Officer ("CEO")
+and Chief Financial Officer ("CFO"), the effectiveness of our disclosure
+controls and procedures at the end of the period covered by this report,
+pursuant to Rule 13a-15(b) under the Securities Exchange Act of 1934 (the
+"Exchange Act"). Based on that evaluation, our CEO and CFO have concluded that,
+at the end of the period covered by this report, our disclosure controls and
+procedures are effective in ensuring that information required to be disclosed
+in our Exchange Act reports is:
+
+ o recorded, processed, summarized and reported in a timely manner, and
+
+ o accumulated and communicated to our management, including our CEO and
+ CFO, as appropriate to allow timely decisions regarding required
+ disclosure.
+
+ Internal Control Over Financial Reporting. There has been no change in our
+internal controls over financial reporting that occurred during our second
+quarter ended December 12, 2003 that has materially affected, or is reasonably
+likely to materially affect, our internal controls over financial reporting.
+
+ 29
+ 
+ PART II.
+
+ ITEM 4. SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS
+
+ On November 5, 2003 at our annual meeting of stockholders the following
+matters were submitted to a vote of security holders:
+
+ Election of Directors. Six directors were re-elected to serve until the
+next annual meeting of stockholders or until their successors are elected and
+qualified:
+
+ Number of Shares
+ -------------------------
+ Name For Withheld
+ -------------------- ---------- --------
+ David J. Johnson 18,987,658 155,130
+ Henry R. Kravis 18,987,658 155,130
+ George R. Roberts 18,987,658 155,130
+ Micheal W. Michelson 18,987,658 155,130
+ Scott C. Nutall 18,987,658 155,130
+ Richard J. Goldstein 19,142,440 348
+
+ There were no abstentions.
+
+ Appointment of Auditors. The appointment of Deloitte and Touche, LLP to
+serve as our independent auditors for the fiscal year ending May 28, 2004 was
+ratified with 19,130,630 shares voting for, 16,794 shares voting against and 364
+shares abstaining.
+
+ ITEM 6. EXHIBITS AND REPORTS ON FORM 8-K
+
+(a) Exhibits: The following exhibits are filed with this report or incorporated
+ herein by reference:
+
+ 3(a) Amended and Restated Certificate of Incorporation of KinderCare
+ (incorporated by reference from Exhibit 3(a) to our Annual Report on
+ Form 10-K for the fiscal year ended May 31, 2002).
+
+ 3(b) Restated Bylaws of KinderCare effective September 1, 2001
+ (incorporated by reference from Exhibit 3(a) to our Quarterly Report
+ on Form 10-Q for the quarterly period ended September 21, 2001).
+
+ 4(a) Indenture dated February 13, 1997 between KinderCare and Marine
+ Midland Bank, as Trustee (incorporated by reference from Exhibit 4.1
+ of our Registration Statement on Form S-4, filed March 11, 1997, File
+ No. 333-23127).
+
+ 4(b) First Supplemental Indenture dated September 1, 1999 to the Indenture
+ dated as of February 13, 1997 between KinderCare and HSBC Bank USA
+ (formerly known as Marine Midland Bank), as Trustee (incorporated by
+ reference from Exhibit 4(a) to our Quarterly Report on Form 10-Q for
+ the quarterly period ended September 17, 1999).
+
+ 4(c) Form of 9.5 Series B Senior Subordinated Note due 2009 (incorporated
+ by reference from Exhibit 4.3 of our Registration Statement on Form
+ S-4, filed March 11, 1997, File No. 333-23127).
+
+ 10(a) Amendment No. 2 to Nonqualified Deferred Compensation Plan, effective
+ January 1, 2004.
+
+ 31(a) Certification of Chief Executive Officer of registrant pursuant to
+ SEC Rule 13a-14(a)/15d-14(a), as adopted pursuant to Section 302 of
+ the Sarbanes-Oxley Act of 2002.
+
+ 31(b) Certification of Chief Financial Officer of registrant pursuant to
+ SEC Rule 13a- 14(a)/15d-14(a), as adopted pursuant to Section 302 of
+ the Sarbanes-Oxley Act of 2002.
+
+ 32(a) Certification of Chief Executive Officer of registrant pursuant to 18
+ U.S.C. Section 1350, as adopted pursuant to Section 906 of the
+ Sarbanes-Oxley Act of 2002.
+
+30
+ 
+ 32(b) Certification of Chief Financial Officer of registrant pursuant to 18
+ U.S.C. Section 1350, as adopted pursuant to Section 906 of the
+ Sarbanes-Oxley Act of 2002.
+
+(b) Reports on Form 8-K: Furnished November 4, 2003 for first quarter fiscal
+ 2004 earnings released on November 3, 2003.
+
+ 31
+ 
+ SIGNATURES
+
+ Pursuant to the requirements of the Securities Exchange Act of 1934, the
+registrant has duly caused this report to be signed on its behalf by the
+undersigned, thereunto duly authorized, on January 23, 2004.
+
+ KINDERCARE LEARNING CENTERS, INC.
+
+By: /s/ DAVID J. JOHNSON
+ -------------------------------------
+ David J. Johnson
+ Chief Executive Officer and
+ Chairman of the Board of Directors
+ (Principal Executive Officer)
+
+By: /s/ DAN R. JACKSON
+ -------------------------------------
+ Dan R. Jackson
+ Executive Vice President,
+ Chief Financial Officer
+ (Principal Financial and Accounting Officer)
+
+ 32
+
+<EX-10.A>
+ 3
+ nqdcpam2.txt
+ AMENDMENT NO. 2 TO NQDCP
+ 
+ AMENDMENT NO. 2
+ TO
+ KINDERCARE LEARNING CENTERS, INC.
+ NONQUALIFIED DEFERRED COMPENSATION PLAN
+
+KinderCare Learning Centers, Inc.
+A Delaware corporation
+650 NE Holladay, Suite 1400
+Portland, OR 97232 Company
+
+ The Plan, as restated effective January 1, 1999, and amended by Amendment
+No. 1, is further amended as follows:
+
+ 1. Time and Manner of Payment
+
+ In order to narrow the circumstances in which automatic payment is made to
+a participant whose employment terminates before retirement and to limit the
+number of different elections a participant can make with respect to the time
+and manner of payment, 6.2 through 6.6 of the Plan are revised to read as
+follows:
+
+ 6.2 A participant's Payment Date shall be one of the following as
+ selected under 6.5:
+
+ (a) The date the participant terminates employment under 6.7 for
+ any reason.
+
+ (b) January 1 following the date the participant has terminated
+ employment under 6.7.
+
+ 6.3 A participant whose employment terminates before attainment of age
+ 65 for any reason other than disability or death shall receive only the
+ Deferred Compensation Account and the vested portion of the Matching
+ Contribution Account under 6.1. The vested accounts of a participant whose
+ employment terminates for any reason other than disability or death shall
+ be paid to the participant in a lump sum within 60 days following the
+ Payment Date if:
+
+ (a) The value of the participant's vested accounts is less than
+ 25,000; and
+
+ (b) The participant is under age 55 on the date of employment
+ termination.
+
+6.4 A participant's vested accounts shall be paid in one of the
+ following forms as selected under 6.5 and 6.6:
+
+ (a) In a lump sum within 30 days after the Payment Date.
+
+ (b) In quarterly installments over a period of 3, 5, or 10 years,
+ as specified by the participant in the deferral election.
+
+ (c) In annual installments over a period of 3, 5, or 10 years, as
+ specified by the participant in the deferral election.
+
+ (d) In a combination of a lump sum, as described in (a), and one
+ schedule of installments, as determined under (b) or (c), with the
+ percentage of the Accounts payable in each form specified by the
+ participant in the deferral election.
+
+ 6.5 In the deferral election a participant shall select the Payment
+ Date under 6.2 and the form of payment under 6.4. A participant's selection
+ of Payment Date and form of payment shall apply to all the participant's
+ Accounts until changed by a new deferral election. A change in the
+ participant's selection shall take effect on the January 1 following the
+ date the deferral election is received by the Committee.
+
+ 6.6 If installments are selected, the payout period of 3, 5, or 10
+ years shall be specified in the deferral election. The installment size
+ shall be fixed on the benefit starting date and each later January 1 as
+ though equal installments were to be paid for the remainder of the payment
+ period including projected earnings at a rate estimated by the Committee.
+
+ 2. Effective Date
+
+ The changes made by this Amendment shall be effective January 1, 2004.
+The Payment Date and form of payment selected by a participant in a deferral
+election for 2004 shall apply to the payment of all of the participant's
+Accounts for Payment Dates on or after January 1, 2004. The Plan as in effect
+before January 1, 2004, and the deferral elections made in prior years, shall
+continue to apply to the Accounts of participants with Payment Dates before
+January 1, 2004, and shall continue to apply to the Accounts of other
+participants until they make a deferral election for 2004 or a subsequent year.
+
+ KinderCare Learning Centers, Inc.
+
+By: /s/ DAVID J. JOHNSON
+
+ Name of signer: David J. Johnson
+
+ Date signed: December 5, 2003
+
+</EX-10.A>
+
+<EX-31.A>
+ 4
+ ceo30231a.txt
+ SECTION 302 CERTIFICATION OF CEO
+ 
+CERTIFICATION
+
+I, David J. Johnson, certify that:
+
+1. I have reviewed this Quarterly Report on Form 10-Q of KinderCare Learning
+ Centers, Inc. for the quarterly period ended December 12, 2003;
+
+2. Based on my knowledge, this report does not contain any untrue statement of
+ a material fact or omit to state a material fact necessary to make the
+ statements made, in light of the circumstances under which such statements
+ were made, not misleading with respect to the period covered by this
+ report;
+
+3. Based on my knowledge, the financial statements, and other financial
+ information included in this report, fairly present in all material
+ respects the financial condition, results of operations and cash flows of
+ the registrant as of, and for, the periods presented in this report;
+
+4. The registrant's other certifying officer and I are responsible for
+ establishing and maintaining disclosure controls and procedures (as defined
+ in Exchange Act Rules 13a-15(e) and 15d-15(e)) for the registrant and we
+ have:
+
+ a. Designed such disclosure controls and procedures, or caused such
+ disclosure controls and procedures to be designed under our
+ supervision, to ensure that material information relating to the
+ registrant, including its consolidated subsidiaries, is made known to
+ us by others within those entities, particularly during the period in
+ which this report is being prepared;
+
+ b. Evaluated the effectiveness of the registrant's disclosure controls
+ and procedures and presented in this report our conclusions about the
+ effectiveness of the disclosure controls and procedures, as of the end
+ of the period covered by this report based on such evaluation; and
+
+ c. Disclosed in this report any change in the registrant's internal
+ control over financial reporting that occurred during the registrant's
+ most recent fiscal quarter (the registrant's fourth quarter in the
+ case of an annual report) that has materially affected, or is
+ reasonably likely to materially affect, the registrant's internal
+ control over financial reporting; and
+
+5. The registrant's other certifying officer and I have disclosed, based on
+ our most recent evaluation of internal control over financial reporting, to
+ the registrant's auditors and the audit committee of the registrant's board
+ of directors:
+
+ a. All significant deficiencies and material weaknesses in the design or
+ operation of internal control over financial reporting which are
+ reasonably likely to adversely affect the registrant's ability to
+ record, process, summarize and report financial information; and
+
+ b. Any fraud, whether or not material, that involves management or other
+ employees who have a significant role in the registrant's internal
+ control over financial reporting.
+
+Date: January 23, 2004
+
+By: /s/ DAVID J. JOHNSON
+ -----------------------------------------
+ David J. Johnson
+ Chief Executive Officer and
+ Chairman of the Board of Directors
+ (Principal Executive Officer)
+
+</EX-31.A>
+
+<EX-31.B>
+ 5
+ cfo30231b.txt
+ SECTION 302 CERTIFICATION OF CFO
+ 
+CERTIFICATION
+
+I, Dan R. Jackson, certify that:
+
+1. I have reviewed this Quarterly Report on Form 10-Q of KinderCare Learning
+ Centers, Inc. for the quarterly period ended December 12, 2003;
+
+2. Based on my knowledge, this report does not contain any untrue statement of
+ a material fact or omit to state a material fact necessary to make the
+ statements made, in light of the circumstances under which such statements
+ were made, not misleading with respect to the period covered by this
+ report;
+
+3. Based on my knowledge, the financial statements, and other financial
+ information included in this report, fairly present in all material
+ respects the financial condition, results of operations and cash flows of
+ the registrant as of, and for, the periods presented in this report;
+
+4. The registrant's other certifying officer and I are responsible for
+ establishing and maintaining disclosure controls and procedures (as defined
+ in Exchange Act Rules 13a-15(e) and 15d-15(e)) for the registrant and we
+ have:
+
+ a. Designed such disclosure controls and procedures, or caused such
+ disclosure controls and procedures to be designed under our
+ supervision, to ensure that material information relating to the
+ registrant, including its consolidated subsidiaries, is made known to
+ us by others within those entities, particularly during the period in
+ which this report is being prepared;
+
+ b. Evaluated the effectiveness of the registrant's disclosure controls
+ and procedures and presented in this report our conclusions about the
+ effectiveness of the disclosure controls and procedures, as of the end
+ of the period covered by this report based on such evaluation; and
+
+ c. Disclosed in this report any change in the registrant's internal
+ control over financial reporting that occurred during the registrant's
+ most recent fiscal quarter (the registrant's fourth quarter in the
+ case of an annual report) that has materially affected, or is
+ reasonably likely to materially affect, the registrant's internal
+ control over financial reporting; and
+
+5. The registrant's other certifying officer and I have disclosed, based on
+ our most recent evaluation of internal control over financial reporting, to
+ the registrant's auditors and the audit committee of the registrant's board
+ of directors:
+
+ a. All significant deficiencies and material weaknesses in the design or
+ operation of internal control over financial reporting which are
+ reasonably likely to adversely affect the registrant's ability to
+ record, process, summarize and report financial information; and
+
+ b. Any fraud, whether or not material, that involves management or other
+ employees who have a significant role in the registrant's internal
+ control over financial reporting.
+
+Date: January 23, 2004
+
+By: /s/ DAN R. JACKSON
+ -----------------------------------------
+ Dan R. Jackson
+ Executive Vice President,
+ Chief Financial Officer
+ (Principal Financial and Accounting
+ Officer)
+
+</EX-31.B>
+
+<EX-32.A>
+ 6
+ ceo90632a.txt
+ SECTION 906 CERTIFICATION OF CEO
+ 
+ Exhibit 32.a
+
+Certification Pursuant to 18 U.S.C. Section 1350
+ As Adopted Pursuant to Section 906 of the Sarbanes-Oxley Act of 2002
+
+In connection with the Quarterly Report of KinderCare Learning Centers,
+Inc. ("KinderCare"), on Form 10-Q for the quarterly period ended December 12,
+2003, as filed with the Securities and Exchange Commission on the date hereof
+(the "Report"), I, David J. Johnson, Chief Executive Officer of KinderCare,
+certify, pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906
+of the Sarbanes-Oxley Act of 2002, that:
+
+1. The Report fully complies with the requirements of Section 13(a) or 15(d)
+ of the Securities Exchange Act of 1934; and
+
+2. The information contained in the Report fairly presents, in all material
+ respects, the financial condition and results of operations of KinderCare.
+
+Date: January 23, 2004
+
+ /s/ DAVID J. JOHNSON
+ -----------------------------------------
+ David J. Johnson
+ Chief Executive Officer and
+ Chairman of the Board of Directors
+ (Principal Executive Officer)
+
+</EX-32.A>
+
+<EX-32.B>
+ 7
+ cfo90632b.txt
+ SECTION 906 CERTIFICATION OF CFO
+ 
+ Exhibit 32.b
+
+Certification Pursuant to 18 U.S.C. Section 1350
+ As Adopted Pursuant to Section 906 of the Sarbanes-Oxley Act of 2002
+
+In connection with the Quarterly Report of KinderCare Learning Centers,
+Inc. ("KinderCare"), on Form 10-Q for the quarterly period ended December 12,
+2003, as filed with the Securities and Exchange Commission on the date hereof
+(the "Report"), I, Dan R. Jackson, Chief Financial Officer of KinderCare,
+certify, pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906
+of the Sarbanes-Oxley Act of 2002, that:
+
+1. The Report fully complies with the requirements of Section 13(a) or 15(d)
+ of the Securities Exchange Act of 1934; and
+
+2. The information contained in the Report fairly presents, in all material
+ respects, the financial condition and results of operations of KinderCare.
+
+Date: January 23, 2004
+
+ /s/ DAN R. JACKSON
+ -----------------------------------------
+ Dan R. Jackson
+ Executive Vice President, Chief Financial
+ Officer
+ (Principal Financial and Accounting
+ Officer)
+
+</EX-32.B>
+

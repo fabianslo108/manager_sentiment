@@ -1,0 +1,1560 @@
+<Header>
+<FileStats>
+    <FileName>20040113_10-Q_edgar_data_1101302_0001193125-04-003893.txt</FileName>
+    <GrossFileSize>281143</GrossFileSize>
+    <NetFileSize>64811</NetFileSize>
+    <NonText_DocumentType_Chars>0</NonText_DocumentType_Chars>
+    <HTML_Chars>193401</HTML_Chars>
+    <XBRL_Chars>0</XBRL_Chars>
+    <XML_Chars>0</XML_Chars>
+    <N_Exhibits>4</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0001193125-04-003893.hdr.sgml : 20040113
+<ACCEPTANCE-DATETIME>20040113171125
+ACCESSION NUMBER:		0001193125-04-003893
+CONFORMED SUBMISSION TYPE:	10-Q
+PUBLIC DOCUMENT COUNT:		5
+CONFORMED PERIOD OF REPORT:	20031129
+FILED AS OF DATE:		20040113
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			ENTEGRIS INC
+		CENTRAL INDEX KEY:			0001101302
+		STANDARD INDUSTRIAL CLASSIFICATION:	PLASTICS PRODUCTS, NEC [3089]
+		IRS NUMBER:				411941551
+		STATE OF INCORPORATION:			MN
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		10-Q
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-30789
+		FILM NUMBER:		04523332
+
+	BUSINESS ADDRESS:	
+		STREET 1:		3500 LYMAN BOULEVARD
+		CITY:			CHASKA
+		STATE:			MN
+		ZIP:			55318
+		BUSINESS PHONE:		6125563131
+
+	MAIL ADDRESS:	
+		STREET 1:		3500 LYMAN BOULEVARD
+		CITY:			CHASKA
+		STATE:			MN
+		ZIP:			55318
+
+</SEC-Header>
+</Header>
+
+ 
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ G4ZKX/yGwjYmiFo+clQG/e7zACkcWIgyw1aW5zt8i4XjNVhdIK/h7vXAMEn3ILFP
+ J6LWu5Dz3aMEvKLr+BF7dg==
+
+ 0001193125-04-003893.txt : 20040113
+
+10-Q
+ 1
+ d10q.htm
+ FORM 10-Q
+
+Form 10-Q 
+
+Table of Contents 
+
+ UNITED STATES SECURITIES AND EXCHANGE COMMISSION
+ WASHINGTON, DC 20549 FORM 10-Q 
+
+QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+ or 
+
+TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+
+For Quarter Ended November 29, 2003 
+ 
+ Commission File Number 000-30789 
+ ENTEGRIS, INC. (Exact name of registrant as specified in charter) 
+
+Minnesota 
+ 
+ 41-1941551 
+ 
+ (State or other jurisdiction of incorporation) 
+ 
+ (IRS Employer ID No.) 
+ 3500 Lyman
+Boulevard, Chaska, Minnesota 55318 (Address of Principal Executive Offices) Registrant s Telephone Number (952) 556-3131 Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934
+during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days. YES NO Indicate by check mark whether the registrant is an accelerated filer (as defined in Rule 12b-2 of the Exchange
+Act). YES NO APPLICABLE ONLY TO CORPORATE ISSUERS: Indicate the number of shares outstanding of each of the issuer s
+classes of common stock, as of the close of the latest practicable date. 
+
+Class 
+ 
+ Outstanding at December 31, 2003 
+ 
+ Common Stock, 0.01 Par Value 
+ 
+ 72,716,093 
+
+Table of Contents 
+
+ENTEGRIS, INC., INC. AND SUBSIDIARIES FORM 10-Q TABLE OF CONTENTS FOR THE QUARTER ENDED NOVEMBER 29, 2003 
+
+Description 
+ 
+ Page 
+
+PART I 
+
+Item 1. 
+
+Unaudited Consolidated Financial Statements 
+
+Consolidated Balance Sheets as of November 29, 2003 and August 30, 2003 
+ 
+ 3 
+
+Consolidated Statements of Operations for the Three Months Ended November 29, 2003 and November 30, 2002 
+ 
+ 4 
+
+Consolidated Statements of Cash Flows for the Three Months Ended November 29, 2003 and November 30, 2002 
+ 
+ 5 
+
+Notes to Consolidated Financial Statements 
+ 
+ 6 
+
+Item 2. 
+
+Management s Discussion and Analysis of Financial Condition and Results of Operations 
+ 
+ 10 
+
+Item 3. 
+
+Quantitative and Qualitative Disclosures About Market Risk 
+ 
+ 17 
+
+Item 4. 
+
+Controls and Procedures 
+ 
+ 17 
+
+PART II 
+
+Other Information 
+
+Item 1. 
+
+Legal Proceedings 
+ 
+ 18 
+
+Item 6. 
+
+Exhibits and Reports on Form 8-K 
+ 
+ 18 
+ 
+ 2 
+
+Table of Contents 
+
+Item 1. Financial Statements 
+ ENTEGRIS, INC. AND SUBSIDIARIES CONSOLIDATED BALANCE SHEETS (Dollars in thousands) (Unaudited) 
+
+November 29, 2003 
+
+August 30, 2003 
+ 
+ ASSETS 
+
+Current assets 
+
+Cash and cash equivalents 
+
+72,784 
+
+80,546 
+ 
+ Short-term investments 
+
+28,069 
+
+24,541 
+ 
+ Trade accounts receivable, net of allowance for doubtful accounts of 1,722 and 1,793, respectively 
+
+51,139 
+
+48,567 
+ 
+ Trade accounts receivable due from affiliates 
+
+4,769 
+
+4,037 
+ 
+ Inventories 
+
+39,394 
+
+38,163 
+ 
+ Deferred tax assets and refundable income taxes 
+
+14,334 
+
+14,637 
+ 
+ Other current assets 
+
+4,003 
+
+3,564 
+
+Total current assets 
+
+214,492 
+
+214,055 
+
+Property, plant and equipment, net 
+
+94,455 
+
+95,212 
+
+Other assets 
+
+Investments 
+
+8,536 
+
+8,596 
+ 
+ Intangible assets, net of amortization 
+
+28,237 
+
+29,441 
+ 
+ Goodwill 
+
+67,480 
+
+67,480 
+ 
+ Other 
+
+2,107 
+
+2,882 
+
+Total assets 
+
+415,307 
+
+417,666 
+
+LIABILITIES AND SHAREHOLDERS EQUITY 
+
+Current liabilities 
+
+Current maturities of long-term debt 
+
+2,547 
+
+2,412 
+ 
+ Short-term borrowings 
+
+10,710 
+
+16,455 
+ 
+ Accounts payable 
+
+10,075 
+
+9,570 
+ 
+ Accrued liabilities 
+
+21,886 
+
+25,852 
+ 
+ Accrued income taxes 
+
+869 
+
+Total current liabilities 
+
+46,087 
+
+54,289 
+
+Long-term debt, less current maturities 
+
+12,035 
+
+10,070 
+ 
+ Deferred tax liabilities 
+
+15,524 
+
+15,642 
+ 
+ Commitments and contingencies 
+
+Shareholders equity 
+
+Common stock, 0.01 par value; 200,000,000 authorized; issued and outstanding shares: 72,660,270 and 72,512,100,
+respectively 
+
+727 
+
+725 
+ 
+ Additional paid-in capital 
+
+146,233 
+
+142,540 
+ 
+ Deferred compensation expense 
+
+(2,629) 
+
+Retained earnings 
+
+193,844 
+
+192,207 
+ 
+ Accumulated other comprehensive income 
+
+3,486 
+
+2,193 
+
+Total shareholders equity 
+
+341,661 
+
+337,665 
+
+Total liabilities and shareholders equity 
+
+415,307 
+
+417,666 
+
+See
+accompanying notes to consolidated financial statements. 
+ 3 
+
+Table of Contents 
+
+ENTEGRIS, INC. AND SUBSIDIARIES CONSOLIDATED STATEMENTS OF OPERATIONS (Dollars in thousands, except per share data) (Unaudited) 
+
+Three Months Ended 
+
+November 29, 2003 
+
+November 30, 2002 
+
+Sales to non-affiliates 
+
+63,722 
+
+48,878 
+
+Sales to affiliates 
+
+4,954 
+
+5,371 
+
+Net sales 
+
+68,676 
+
+54,249 
+
+Cost of sales 
+
+41,147 
+
+32,371 
+
+Gross profit 
+
+27,529 
+
+21,878 
+
+Selling, general and administrative expenses 
+
+21,044 
+
+18,922 
+
+Engineering, research and development expenses 
+
+4,603 
+
+4,073 
+
+Other charges 
+
+1,812 
+
+Operating income (loss) 
+
+1,882 
+
+(2,929) 
+ 
+ Interest income, net 
+
+(42) 
+
+(300) 
+ 
+ Other (income) expense, net 
+
+(557) 
+
+4,787 
+
+Income (loss) before income taxes and other items below 
+
+2,481 
+
+(7,416) 
+ 
+ Income tax expense (benefit) 
+
+841 
+
+(1,832) 
+ 
+ Equity in net loss of affiliates 
+
+3 
+
+58 
+
+Net income (loss) 
+
+1,637 
+
+(5,642) 
+
+Earnings (loss) per common share: 
+
+Basic 
+
+0.02 
+
+(0.08) 
+ 
+ Diluted 
+
+0.02 
+
+(0.08) 
+
+Weighted shares outstanding: 
+
+Basic 
+
+72,576 
+
+71,165 
+
+Diluted 
+
+76,946 
+
+71,165 
+ 
+ See
+accompanying notes to consolidated financial statements. 
+ 4 
+
+Table of Contents 
+
+ENTEGRIS, INC. AND SUBSIDIARIES CONSOLIDATED STATEMENTS OF CASH FLOWS (Dollars in thousands) (Unaudited) 
+
+Three months ended 
+
+November 29, 2003 
+
+November 30, 2002 
+
+OPERATING ACTIVITIES 
+
+Net income (loss) 
+
+1,637 
+
+(5,642) 
+ 
+ Adjustments to reconcile net income (loss) to net cash provided by operating activities: 
+
+Depreciation and amortization 
+
+6,607 
+
+6,775 
+
+Deferred compensation expense 
+
+119 
+
+Impairment of property and equipment 
+
+350 
+
+Impairment of investment in Metron Technology N.V. 
+
+4,452 
+
+Gain on sale of investment in Metron Technology N.V. 
+
+(759) 
+
+Provision for doubtful accounts 
+
+(71) 
+
+(188) 
+ 
+ Provision for deferred income taxes 
+
+(1,153) 
+ 
+ Equity in net loss of affiliates 
+
+3 
+
+58 
+
+Gain on sale of property and equipment 
+
+(103) 
+
+(57) 
+ 
+ Changes in operating assets and liabilities: 
+
+Trade accounts receivable 
+
+(1,334) 
+
+492 
+
+Trade accounts receivable due from affiliates 
+
+(732) 
+
+1,177 
+
+Inventories 
+
+(503) 
+
+1,154 
+
+Accounts payable and accrued liabilities 
+
+(4,589) 
+
+(74) 
+ 
+ Other current assets 
+
+(439) 
+
+17 
+
+Accrued income taxes and refundable income taxes 
+
+1,077 
+
+(682) 
+ 
+ Other 
+
+806 
+
+(303) 
+
+Net cash provided by operating activities 
+
+1,719 
+
+6,376 
+
+INVESTING ACTIVITIES 
+
+Acquisition of property and equipment 
+
+(3,512) 
+
+(2,517) 
+ 
+ Purchases of intangible assets 
+
+(169) 
+
+(299) 
+ 
+ Proceeds from sale of investment in Metron Technology N.V. 
+
+1,006 
+
+Proceeds from sales of property and equipment 
+
+238 
+
+85 
+
+Purchases of short-term investments 
+
+(10,240) 
+
+(11,070) 
+ 
+ Maturities of short-term investments 
+
+6,712 
+
+18,587 
+
+Other 
+
+(21) 
+
+(2,028) 
+
+Net cash (used in) provided by investing activities 
+
+(5,986) 
+
+2,758 
+
+FINANCING ACTIVITIES 
+
+Principal payments on short-term borrowings and long-term debt 
+
+(7,067) 
+
+(1,652) 
+ 
+ Proceeds from short-term borrowings and long-term debt 
+
+2,282 
+
+1,428 
+
+Issuance of common stock 
+
+947 
+
+84 
+
+Net cash used in financing activities 
+
+(3,838) 
+
+(140) 
+
+Effect of exchange rate changes on cash and cash equivalents 
+
+343 
+
+(146) 
+
+(Decrease) increase in cash and cash equivalents 
+
+(7,762) 
+
+8,848 
+
+Cash and cash equivalents at beginning of period 
+
+80,546 
+
+74,830 
+
+Cash and cash equivalents at end of period 
+
+72,784 
+
+83,678 
+
+See
+accompanying notes to consolidated financial statements. 
+ 5 
+
+Table of Contents 
+
+ENTEGRIS, INC. AND SUBSIDIARIES NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Dollars in thousands) 
+
+1. 
+ Summary of Significant Accounting Policies In the opinion of the Company, the accompanying unaudited consolidated financial statements contain all adjustments necessary to present fairly, in
+conformity with accounting principles generally accepted in the United States of America, the financial position as of November 29, 2003 and August 30, 2003, the results of operations for the three months ended November 29, 2003 and November 30,
+2002 and cash flows for the three months ended November 29, 2003 and November 30, 2002. Certain prior year amounts have been reclassified to conform to the current period presentation. Effective August 31, 2003, the Company adopted the provisions of Emerging Issues Task Force Issue 00-10 (EITF 00-10),
+Accounting for Shipping and Handling Fees and Costs. The Company has historically classified shipping and handling costs as an offset to amounts billed to customers included in net sales. Effective with the adoption of EITF 00-10, 0.5 million of
+shipping and handling costs were reclassified from net sales to cost of goods sold for the three months ended November 30, 2002. The consolidated financial statements and notes are presented as permitted by Form 10-Q and do not contain certain information included in the
+Company s annual consolidated financial statements and notes. The information included in this Form 10-Q should be read in conjunction with Management s Discussion and Analysis and consolidated financial statements and notes thereto
+included in the Company s Form 10-K for the year ended August 30, 2003. The results of operations for the three months ended November 29, 2003 and November 30, 2002 are not necessarily indicative of the results to be expected for the full year.
+ The Company s fiscal year is a 52- or 53-week period
+ending on the last Saturday of August. The fiscal year ending August 28, 2004 comprises 52 weeks. In fiscal 2004, the Company s interim quarters end on November 29, 2003, February 28, 2004 and May 29, 2004. The previous fiscal year ended on
+August 30, 2003 and comprised 52 weeks. Fiscal years are identified in this report according to the calendar year in which they end. For example, the fiscal year ending August 28, 2004 is referred to as fiscal 2004 . 
+
+2. 
+ Stock-Based Compensation The Company has two stock-based employee compensation plans. The Company accounts for these plans under the recognition and measurement principles of APB
+Opinion No. 25, Accounting for Stock Issued to Employees , and related interpretations. The exercise price of the Company s employee stock options generally equals the market price of the underlying stock on the date of grant for all
+options granted, and thus, under APB 25, no compensation expense is recognized. For employee stock options granted during the first three months of fiscal 2004, the Company determined pro forma compensation expense under the provisions of SFAS No. 123 using the Black-Scholes pricing model and the
+following assumptions: 1) an expected dividend yield of 0 , 2) an expected stock price volatility of 75 , 3) a risk-free interest rate of 4.0 and 4) an expected life of 8 years. The weighted average fair value of options granted during the first
+three months of fiscal 2004 with all exercise prices equal to the market price at the date of grant was 9.27. 
+ 6 
+
+Table of Contents 
+
+ The following table illustrates the effect on net income and earnings per share if the Company had
+applied the fair value recognition provisions of FASB Statement No. 123, Accounting for Stock-Based Compensation , to stock-based employee compensation. 
+
+Three Months Ended 
+
+November 29, 2003 
+
+November 30, 2002 
+
+Net income (loss), as reported 
+
+1,637 
+
+(5,642) 
+ 
+ Stock compensation expense fair value based method 
+
+(1,642) 
+
+(1,500) 
+
+Pro forma net income (loss) 
+
+(5) 
+
+(7,142) 
+
+Basic net earnings (loss) per share, as reported 
+
+0.02 
+
+(0.08) 
+ 
+ Pro forma basic net earnings (loss) per share 
+
+0.00 
+
+(0.10) 
+
+Diluted net earnings (loss) per share, as reported 
+
+0.02 
+
+(0.08) 
+ 
+ Pro forma diluted net earnings (loss) per share 
+
+0.00 
+
+(0.10) 
+
+3. 
+ Earnings (loss) per share The following table presents a reconciliation of the denominators used in the computation of basic and diluted loss per share. 
+
+Three Months Ended 
+
+November 29, 2003 
+ 
+ November 30, 2002 
+ 
+ Basic earnings (loss) per share-weighted common shares outstanding 
+ 
+ 72,576,000 
+ 
+ 71,165,000 
+ 
+ Weighted common shares assumed upon exercise of stock options 
+ 
+ 4,370,000 
+
+Diluted earnings (loss) per share-weighted common shares and common shares equivalent outstanding 
+ 
+ 76,946,000 
+ 
+ 71,165,000 
+
+The effect of the
+inclusion of stock options in the first quarter of fiscal 2003 is anti-dilutive. 
+
+4. 
+ Inventories Inventories consist of the following (in thousands): 
+
+November 29, 2003 
+ 
+ August 30, 2003 
+ 
+ Raw materials 
+
+12,218 
+
+12,061 
+ 
+ Work-in process 
+
+4,038 
+
+1,663 
+ 
+ Finished goods 
+
+22,599 
+
+23,811 
+ 
+ Supplies 
+
+539 
+
+628 
+
+Total inventories 
+
+39,394 
+
+38,163 
+
+7 
+
+Table of Contents 
+
+5. 
+ Comprehensive Income (Loss) For the three months ended November 29, 2003 and November 30, 2002 net income (loss), items of other comprehensive income (loss) and comprehensive income
+(loss) are as follows (in thousands): 
+
+Three months ended 
+
+November 29, 2003 
+
+November 30, 2002 
+
+Net income (loss) 
+
+1,637 
+
+(5,642) 
+ 
+ Items of other comprehensive income (loss): 
+
+Foreign currency translation 
+
+1,185 
+
+(71) 
+ 
+ Net change in unrealized gain (loss) on marketable securities 
+
+491 
+
+(17) 
+ 
+ Reclassification adjustment for realized gain on sale of marketable securities included in earnings 
+
+(383) 
+
+Reclassification adjustment for impairment loss on marketable securities included in earnings 
+
+1,913 
+
+Comprehensive income (loss) 
+
+2,930 
+
+(3,817) 
+
+6. 
+ Intangible Assets and Goodwill As of November 29, 2003, goodwill amounted to approximately 67.5 million, unchanged since the end of fiscal 2003. Other intangible assets, which include
+patents and other identifiable intangible assets, net of amortization, of approximately 28.2 million as of November 29, 2003, are being amortized over useful lives ranging from 3 to 17 years and are as follows (in thousands): 
+
+As of November 29, 2003 
+ 
+ Amortized intangible assets: 
+ 
+ Gross carrying amount 
+ 
+ Accumulated amortization 
+ 
+ Patents 
+
+18,573 
+
+5,893 
+ 
+ Unpatented technology 
+
+9,844 
+
+2,431 
+ 
+ Employment and noncompete agreements 
+
+5,837 
+
+2,039 
+ 
+ Other 
+
+6,048 
+
+1,702 
+
+40,302 
+
+12,065 
+
+Aggregate
+amortization expense for the first three months of fiscal 2003 amounted to 1.4 million. Estimated amortization expense for the fiscal years 2004 to 2008 and thereafter is approximately 5.1 million, 4.7 million, 4.4 million, 4.0 million, 3.6
+million and 7.9 million, respectively. 
+
+7. 
+ Other Charge During the first quarter of fiscal 2003, the Company recorded a pre-tax charge of 1.8 million related to the relocation of its Upland, California
+operations and certain workforce reductions. The charge included 0.9 million in termination costs related to a workforce reduction of approximately 75 employees, 0.4 million for estimated losses for asset impairment and 0.5 million for future
+lease commitments on the Upland facility. As of November 29, 2003, future cash outlays of 0.2 million remained outstanding in connection with the aforementioned charge, and are related to severance payments of 0.1 million, which run through May
+2004, and lease commitments of 0.1 million, which run through July 2005. 
+
+8. 
+ Investment in Metron Technology N.V. The Company is a founding shareholder of Metron Technology N.V. (Metron), a publicly traded company. In the first quarter of fiscal 2004, the Company
+reported other income of 0.6 million, which included a gain of 0.8 million, or 0.5 million after tax, on the sale of 346,100 shares of 
+ 
+ 8 
+
+Table of Contents 
+
+Metron s common stock. At November 29, 2003, the Company held approximately 1.2 million shares of Metron common stock with fair value of 5.5 million,
+based on the closing price of 4.52 per share on the NASDAQ Stock Market. The carrying value of the shares was 2.4 million at that date. In the first quarter of fiscal 2003, the Company recorded an impairment loss of 4.5 million, or 3.3 million after tax, related to the write-down of the
+Company s equity investment in Metron. At the time of the impairment charge, the Company owned approximately 1.6 million shares of Metron common stock with a carrying value of 7.6 million. At November 30, 2002, the fair value of the
+Company s investment was 3.1 million, based on a fair value of 2.00 per share, the closing price of Metron at that date. The decline in fair value was determined to be other-than-temporary. Accordingly, an impairment loss of 4.5 million was
+recognized and the investment in Metron common stock written down to a new carrying value of 3.1 million. 
+
+9. 
+ Warranty Guarantees The Company accrues for warranty costs based on historical trends and the expected material and labor costs to provide warranty services. The majority of
+products sold are generally covered by a warranty for periods ranging from 90 days to one year. The following table summarizes the activity related to the product warranty liability during the three-month periods ended November 29, 2003 and November
+30, 2002 (in thousands): 
+
+Three months ended 
+
+November 29, 2003 
+
+November 30, 2002 
+
+Balance at beginning of fiscal year 
+
+2,065 
+
+735 
+
+Accrual for warranties issued during the period 
+
+147 
+
+284 
+
+Settlements during the period 
+
+(151) 
+
+(282) 
+
+Balance at end of period 
+
+2,061 
+
+737 
+
+10. 
+ Recently Issued Accounting Pronouncements In December 2002, the Emerging Issues Task Force issued EITF No. 00-21, Revenue Arrangements with Multiple Deliverables. This issue addresses
+certain aspects of the accounting for arrangements under which a company will perform multiple revenue-generating activities. In some arrangements, the different revenue-generating activities (deliverables) are sufficiently separable, and there
+exists sufficient evidence of their fair values to separately account for some or all of the deliverables (that is, there are separate units of accounting). In other arrangements, some or all of the deliverables are not independently functional, or
+there is not sufficient evidence of their fair values to account for them separately. This issue addresses when and, if so, how an arrangement involving multiple deliverables should be divided into separate units of accounting. This issue does not
+change otherwise applicable revenue recognition criteria. EITF No. 00-21is applicable for the Company for revenue arrangements entered into beginning in fiscal 2004. The adoption of EITF No. 00-21did not have a material effect on the Company s
+consolidated financial statements. In January 2003, the
+Financial Accounting Standards Board (FASB) issued Interpretation No. 46, Consolidation of Variable Interest Entities (VIE), an interpretation of ARB No. 51, which requires all VIEs to be consolidated by the primary beneficiary. The primary
+beneficiary is the entity that holds the majority of the beneficial interests in the VIE. In addition, the interpretation expands disclosure requirements for both VIEs that are consolidated as well as VIEs from which the entity is the holder of a
+significant amount of the beneficial interests, but not the majority. The disclosure requirements of this interpretation are effective for all financial statements issued after January 31, 2003. The consolidation requirements of this interpretation
+have recently been deferred and are now effective for all periods ending no later than March 15, 2004. The Company believes it has no variable interest entities and, therefore, it does not expect that the adoption of this new standard will have a
+material impact on its consolidated financial statements. 
+ 9 
+
+Table of Contents 
+
+ In May 2003, the FASB issued SFAS No. 150, Accounting for Certain Financial Instruments with
+Characteristics of both Liabilities and Equity. The Statement clarifies the accounting for certain financial instruments that, under previous guidance, issuers could account for as equity. SFAS No. 150 requires that those instruments be
+classified as liabilities in statements of financial position. This statement became effective for the Company during the first quarter of fiscal 2004. The adoption of SFAS No. 150 did not have a material effect on its consolidated financial
+statements. 
+
+11. 
+ Restricted stock During the first quarter of fiscal 2004, the Company awarded 222,000 restricted shares of the Company s common stock pursuant to the Entegris, Inc.
+1999 Long-Term Incentive and Stock Option Plan. The value of such stock was established by the market price on the date of the grants and was recorded as deferred compensation, which is shown as a reduction of shareholders equity in the
+accompanying consolidated financial statements. The deferred compensation is being amortized ratably over the applicable restricted stock vesting periods. For the three months ended November 29, 2003, 0.1 million was charged to expense related to
+restricted shares. 
+ Item 2. Management s Discussion and Analysis of Financial Condition and Results of Operations Overview The Company is a leading provider of materials integrity
+management products and services that protect and transport the critical materials used in key technology-driven industries. The Company derives most of its revenue from the sale of products and services to the semiconductor and data storage
+industries. The Company s customers consist primarily of semiconductor manufacturers, semiconductor equipment and materials suppliers, and hard disk manufacturers which are served through direct sales efforts, as well as sales and distribution
+relationships, in the United States, Asia and Europe. The Company s
+fiscal year is a 52- or 53-week period ending on the last Saturday of August. The current fiscal year will end on August 28, 2004 and includes 52 weeks. The previous fiscal year ended on August 30, 2003 and also comprised 52 weeks. Fiscal years are
+identified in this report according to the calendar year in which they end. For example, the fiscal year ending August 28, 2004 is referred to as fiscal 2004 . Forward-Looking Statements The
+information in this Management s Discussion and Analysis of Financial Condition and Results of Operations, except for the historical information, contains forward-looking statements. These statements are subject to risks and uncertainties.
+These forward-looking statements could differ materially from actual results. The Company assumes no obligation to publicly release the results of any revision or updates to these forward-looking statements to reflect future events or unanticipated
+occurrences. This discussion and analysis should be read in conjunction with the Consolidated Financial Statements and the related Notes, which are included elsewhere in this report. Critical Accounting Policies Management s discussion and analysis of financial condition and results of operations are based upon the Company s consolidated financial statements, which have been prepared in accordance with accounting principles generally
+accepted in the United States. The preparation of these consolidated financial statements requires the Company to make estimates, assumptions and judgments that affect the reported amounts of assets, liabilities, revenues and expenses and related
+disclosure of contingent assets and liabilities. At each balance sheet date, management evaluates its estimates, including, but not limited to, those related to accounts receivable, warranty and sales return obligations, inventories, long-lived
+assets, and income taxes. The Company bases its estimates on historical experience and on various other assumptions that are believed to be reasonable under the circumstances. Actual results may differ from these estimates under different
+assumptions or conditions. The critical accounting policies affected significantly by estimates, assumptions and judgments used in the preparation of the Company s consolidated financial statements are discussed below. Allowance for Doubtful Accounts and Other Accounts Receivable-Related Valuation Accounts
+ The Company maintains an allowance for doubtful accounts as well as reserves for sales returns and allowances, and warranty claims. Significant
+management judgments and estimates must be made and used in connection with establishing these valuation accounts. Material differences could result in the amount and timing of the Company s results of operations for any period if we made
+different judgments or utilized different estimates. In addition, actual results could be different from the Company s current estimates, possibly resulting in increased future charges to earnings. 
+ 10 
+
+Table of Contents 
+
+ The Company provides an allowance for doubtful accounts for all individual receivables judged to be unlikely for
+collection. For all other accounts receivable, the Company records an allowance for doubtful accounts based on a combination of factors. Specifically, management analyzes the age of receivable balances, historical bad debts write-off experience,
+industry and geographic concentrations of customers, general customer creditworthiness and current economic trends when determining its allowance for doubtful accounts. At November 29, 2003, the Company s allowance for doubtful accounts was
+ 1.7 million compared to 1.8 million at August 30, 2003. A reserve for sales
+returns and allowances is established based on historical trends and current trends in product returns. The Company s reserve for sales returns and allowances was 0.7 million at November 29, 2003 compared to 1.0 million at August 30, 2003.
+ The Company records a liability for estimated warranty claims. The amount of
+the accrual is based on historical claims data and sales levels by product group, along with other factors. Claims could be materially different from actual results for a variety of reasons, including a change in the Company s warranty policy
+in response to industry trends, competition or other external forces, manufacturing changes that could impact product quality, or as yet unrecognized defects in products sold. The Company s accrual for estimated future warranty costs was 2.1
+million at both November 29, 2003 and August 30, 2003. Both balances include 1.3 million in accrued warranty costs assumed in connection with a fiscal 2003 acquisition. Inventory Valuation The Company uses certain estimates and judgments to properly value inventory. In general, the Company s
+inventories are recorded at the lower of manufacturing cost or market value. Each quarter, the Company evaluates its ending inventories for obsolescence and excess quantities. This evaluation includes analyses of inventory levels, historical
+write-off trends, expected product lives, sales levels by product and projections of future sales demand. Inventories that are considered obsolete are written off or are reserved for fully. In addition, reserves are established for inventory
+quantities in excess of forecasted demand. Inventory reserves were 4.9 million at November 29, 2003 compared to 4.6 million at August 30, 2003. The Company s inventories comprise materials and products subject to technological obsolescence and which are sold in a highly competitive industry. If future demand
+or market conditions are less favorable than current analyses, additional inventory write-downs or reserves may be required and would be reflected in cost of sales in the period the revision is made. Impairment of Long-Lived Assets The Company routinely considers whether indicators of
+impairment of its property and equipment assets, particularly its molding equipment, are present. If such indicators are present, it is determined whether the sum of the estimated undiscounted cash flows attributable to the assets in question is
+less than their carrying value. If less, an impairment loss is recognized based on the excess of the carrying amount of the assets over their respective fair values. Fair value is determined by discounted estimated future cash flows, appraisals or
+other methods deemed appropriate. If the assets determined to be impaired are to be held and used, the Company recognizes an impairment charge to the extent the present value of anticipated net cash flows attributable to the asset are less than the
+asset s carrying value. The fair value of the asset then becomes the asset s new carrying value, which we depreciate over the remaining estimated useful life of the asset. The Company assesses the impairment of intangible assets and related goodwill at least annually, or whenever events or changes in
+circumstances indicate that the carrying value may not be recoverable. Factors considered important which could trigger an impairment review, and potentially an impairment charge, include the following: 
+
+significant underperformance relative to historical or projected future operating results; 
+ 11 
+
+Table of Contents 
+
+significant changes in the manner of use of the acquired assets or the Company s overall business strategy; 
+
+significant negative industry or economic trends; and 
+
+significant decline in the Company s stock price for a sustained period changing the Company s market capitalization relative to its net book value;
+ The Company s marketable equity securities are periodically
+reviewed to determine if declines in fair value below cost basis are other-than-temporary, requiring an impairment loss to be recorded and the investment written down to a new cost basis. At November 29, 2003, the Company s investment in Metron
+Technology N.V. common stock had a carrying value of 2.4 million with a fair value of 5.5 million. Income Taxes In the preparation of the Company s consolidated financial statements, management is required to estimate income taxes in each of the jurisdictions in which the Company operates. This process
+involves estimating actual current tax exposures together with assessing temporary differences resulting from differing treatment of items for tax and accounting purposes. These differences result in deferred tax assets and liabilities, which are
+included in the Company s consolidated balance sheet. The Company has
+significant amounts of deferred tax assets. Management reviews its deferred tax assets for recoverability on a quarterly basis and assesses the need for valuation allowances. These deferred tax assets are evaluated by considering historical levels
+of income, estimates of future taxable income streams and the impact of tax planning strategies. A valuation allowance is recorded to reduce deferred tax assets when it is determined that it is more likely than not that the Company would not be able
+to realize all or part of its deferred tax assets. The Company carried no valuation allowance against its net deferred tax assets at either November 29, 2003 or August 30, 2003. Three Months Ended November 29, 2003 Compared to Three Months Ended November 30, 2002 The following table compares quarterly results with year-ago results, as a percentage of
+sales, for each caption. 
+
+Three Months Ended 
+
+November 29, 2003 
+
+November 30, 2002 
+
+Net sales 
+ 
+ 100.0 
+
+100.0 
+
+Cost of sales 
+ 
+ 59.9 
+
+59.7 
+
+Gross profit 
+ 
+ 40.1 
+
+40.3 
+
+Selling, general and administrative expenses 
+ 
+ 30.6 
+
+34.9 
+
+Engineering, research and development expenses 
+ 
+ 6.7 
+
+7.5 
+
+Other charges 
+
+3.3 
+
+Operating income (loss) 
+ 
+ 2.7 
+
+(5.4) 
+ 
+ Interest income, net 
+ 
+ (0.1) 
+ 
+ (0.6) 
+ 
+ Other (income) expense, net 
+ 
+ (0.8) 
+ 
+ 8.8 
+
+Income (loss) before income taxes and other items below 
+ 
+ 3.6 
+
+(13.7) 
+ 
+ Income tax expense (benefit) 
+ 
+ 1.2 
+
+(3.4) 
+ 
+ Equity in net loss of affiliated companies 
+
+0.1 
+
+Net income (loss) 
+ 
+ 2.4 
+
+(10.4) 
+
+Net sales Net sales were 68.7
+million in the first quarter of fiscal 2004, up 27 compared to 54.2 million in the first quarter of fiscal 2003. Sequentially, sales for the quarter were 4 lower than the fourth quarter of fiscal 2003. 
+ 12 
+
+Table of Contents 
+
+ The following table summarizes total net sales by markets served for the three months ended November 29, 2003 and
+November 30, 2002 (in thousands), along with the year-to-year percentage change: 
+
+Three Months Ended 
+ 
+ Percentage change 
+
+November 29, 2003 
+ 
+ November 30, 2002 
+
+Semiconductor 
+
+50,405 
+
+42,498 
+ 
+ 19 
+
+Data storage 
+
+9,536 
+
+6,105 
+ 
+ 56 
+
+Services 
+
+4,690 
+
+4,673 
+
+Other 
+
+4,045 
+
+973 
+ 
+ 316 
+
+Net sales 
+
+68,676 
+
+54,249 
+ 
+ 27 
+
+The semiconductor market generated 73 
+of the Company s overall sales, compared to about 78 a year earlier, with sales up about 19 over the prior year s first quarter. Semiconductor market sales decreased from the 2003 fourth quarter to the 2004 first quarter by about 6 .
+Unit-driven product lines such as wafer shippers, test, assembly and packaging products and containers saw sales increases. Wafer process related sales were weaker than in the fourth quarter largely because of the timing of 300mm fab build-outs.
+Fluid-handling products sales also were not as strong as in the previous quarter, except for some of the Company s longer lead-time products such as flow meters and flow controllers. The Company anticipates heightened industry activity in the semiconductor market. Unit-driven product sales continue to improve and orders
+for all product lines are building. The Company expects unit-driven sales increases from the first to the second quarter in the mid-single digit percentage range at or above industry IC unit growth levels. Levels for capital spending-driven product
+sales are more difficult to forecast since it is unable to anticipate when customers will require shipments. However, at present, the Company expects percentage sales increases for its capital spending-driven products to be more significant than for
+its unit-driven product offerings. Data storage market sales accounted
+for 14 percent of overall sales, compared to about 11 a year earlier, with sales up 56 over the year-ago period. Sequentially, from the fourth to first quarter, sales increased by 14 . Customers accelerated projects and ordered more products than
+anticipated. Accordingly, the Company expects a slight sales decrease in data storage product sales next quarter. Services market revenues accounted for 7 of Entegris overall sales, compared to about 9 a year ago, with an 18 decline from fiscal 2003 s fourth quarter.
+This sequential decrease is related to fewer sales of equipment used to clean wafer, disk carrier and shipping products. This decline was expected and the Company anticipates next quarter s sales to improve slightly as more equipment is
+scheduled to ship. Life Sciences market sales were approximately 5 of
+Entegris overall sales, up over 300 from the first quarter a year ago. Sales rose about 37 from fiscal 2003 s fourth quarter. About 37 of the year-to-year improvement was due to sales by Electrol Specialties (ESC), a market leader in
+clean-in-place technology, which was acquired by the Company in January 2003. The lead times in the Life Sciences market are longer particularly as it relates to ESC s clean-in-place product offering. As such, lead-times can extend to 16 to 18
+weeks from order to shipment. This provides greater visibility to this market. For next quarter, the Company anticipates sales to remain at the level of first quarter sales. On a geographic basis, total sales to North America were 40 , Asia Pacific 27 , Europe 15 and Japan 18 . Sales increased from the first
+quarter 2003 to the first quarter 2004 in all geographic regions, most notably in Japan and Asia Pacific. Sales in Asia Pacific increased, while sales to Japan were relatively flat versus the fourth quarter. In both Europe and North America, sales
+declined sequentially largely because of fewer 300mm fab build-outs. The
+Company estimates that about 60 of total sales for the quarter were for unit-driven products and 40 for products associated with capital spending. The comparable figures a year ago were about 70 and 30 , respectively. 
+ 13 
+
+Table of Contents 
+
+ Overall, semiconductor industry conditions remain difficult to project. There remain considerable risks related to a
+variety of factors. Accordingly, the Company s projection for next quarter is subject to uncertainty. The Company expects sales for the second quarter of fiscal 2004 to increase by about 5 to 10 from first quarter levels, with the
+semiconductor market expected to be the most significant contributor to the sales increase. Gross profit Gross profit in the first quarter of fiscal 2004 increased by 5.7 million to 27.5 million, an increase of 26 from the 21.9 million reported in the first quarter of fiscal 2003. The gross margin
+percentage for the fiscal 2004 first quarter was 40.1 versus 40.3 in the year-ago first quarter. Gross profit dollar gains were reported by both domestic and international operations. Gross margin levels remained flat as the benefits of increased
+factory utilization were offset by the impact of stronger sales in the Company s life sciences market, where gross margins are below those of the semiconductor and data storage markets. As discussed above, management expects overall sales levels for the second quarter of fiscal
+2004 to improve from first quarter sales levels. In addition, the Company expects its gross margin to improve about 100 to 300 basis points from first quarter levels, mainly as a result of improved factory utilization, believed to be the most
+significant factor associated with changes in gross margin levels. Selling,
+general and administrative expenses . Selling, general and administrative (SG A) expenses increased 2.1 million, or 11 , to 21.0 million in the first quarter of fiscal 2004, up from 18.9 million in the first quarter of fiscal 2003.
+The year-to-year increase was due partly to higher sales commissions and bonus accruals. In addition, fiscal 2004 s first quarter includes incremental amortization and other additional costs associated with the Company s fiscal 2003
+second-quarter acquisitions, and the transition to a direct sales model in Japan for certain products sold under a distribution relationship until February 2003. SG A costs, as a percent of net sales, decreased to 30.6 from 34.9 . This decline reflects the higher SG A costs being more than
+offset by the Company s increase in net sales. Looking forward,
+the Company expects that SG A expenses in absolute dollars will generally increase as sales and profitability improve, and higher sales commissions, profit sharing and charitable donation accruals are recorded. The costs of compliance with the
+provisions of Section 404 of the Sarbanes-Oxley Act and issuance of shares of restricted stock will add to SG A costs over the remainder of fiscal 2004. Other charges The Company incurred no other charges in the first quarter of fiscal 2004. During the first quarter of fiscal 2003, the
+Company recorded a pre-tax charge of 1.8 million related to the relocation of its Upland, California operations and certain workforce reductions. The charge included 0.9 million in termination costs related to a workforce reduction of
+approximately 75 employees, 0.4 million for estimated losses for asset impairment and 0.5 million for future lease commitments on the Upland facility. As of November 29, 2003, future cash outlays of 0.2 million remained outstanding in connection
+with the aforementioned charge, and are related to severance payments of 0.1 million, which run through May 2004, and lease commitments of 0.1 million, which run through July 2005. Engineering, research and development expenses Engineering, research and development (ER D) expenses were 4.6 million in
+the first quarter of fiscal 2004, up 13 from 4.1 million in the first quarter of fiscal 2003. About one-half of the increase was to due to the addition of employees hired in connection with the Company s February 2003 acquisition of Asyst
+Technologies, Inc. s wafer and reticle carrier product lines. Despite the increase in ER D expenses, such costs, as a percent of net sales, decreased to 6.7 from 7.5 , mainly reflecting higher net sales in the current year s
+first quarter. The Company continued to focus on the support of current product lines, and the development of new products and manufacturing technologies. Interest income, net Net interest income of 42,000 in the first quarter of fiscal 2004 compared to 0.3 million in the year-ago period. The reduction
+reflects the low rates of interest available on the Company s investment in short-term debt securities as well as the lower net invested balance compared to the year-ago period. 
+ 14 
+
+Table of Contents 
+
+ Other (income) expense, net Other income was 0.6 million in the first quarter of fiscal 2004 compared to
+other expense of 4.8 million in the first quarter of fiscal 2003. Included in
+other income in the first quarter of fiscal 2004 was a gain of 0.8 million, or 0.5 million after tax, on the sale of 346,100 shares of Metron Technology N.V. (Metron) common stock. Other expense in the first quarter of fiscal 2004 included 0.2
+million of foreign currency transaction losses. Included in other expense in
+the first quarter of fiscal 2003 was the impairment loss of 4.5 million, or 3.3 million after tax, related to the write-down of the Company s equity investment in Metron common stock. At the time of the impairment charge, the Company owned
+approximately 1.6 million shares of Metron common stock with a carrying value of 7.6 million. At November 30, 2002, the fair value of the Company s investment was 3.1 million, based on a fair value of 2.00 per share, the closing price of
+Metron at that date. The decline in fair value was determined to be other-than-temporary. Accordingly, an impairment loss of 4.5 million was recognized and the investment in Metron common stock written down to a new carrying value of 3.1 million.
+Other expense in the first quarter of fiscal 2003 also included 0.3 million of foreign currency transaction losses. Income tax expense (benefit) Income tax expense was 0.8 million in the first quarter of fiscal 2004 compared to an income tax benefit of 1.8 million in the first
+quarter of fiscal 2003. The effective tax rate was 33.9 in the first quarter of fiscal 2004, compared to 24.7 in the first quarter of fiscal 2003. The lower rate a year ago was primarily due to the Company s expectation of nominal full-year
+profits, combined with lower taxes on foreign operations, a tax benefit associated with export activities, and a tax credit associated with R D activities. 
+ Based on the current analysis of its tax situation, the Company anticipates the effective tax rate for the full fiscal year 2004 to be about 34 . However, tax
+calculations are complex and sensitive to estimates of annual levels of profitability. Therefore, it is possible that there will be volatility in the Company s effective tax rate during the remainder of the fiscal year. Equity in net income of affiliates Equity in the net loss of affiliates was 3,000 in
+the first quarter of fiscal 2004, compared to 58,000 in the year-ago period, and represents the Company s share of losses in entities accounted for under the equity method of accounting. Net income (loss) The Company recorded net income of 1.6 million, or 0.02 per
+diluted share, in the first quarter of fiscal 2004, compared to a net loss of 5.6 million, or 0.08 per diluted share, in the first quarter of fiscal 2003. Liquidity and Capital Resources Operating activities Cash flow provided by operating activities totaled 1.7 million in the first quarter of fiscal 2004. The Company s net earnings of 1.6
+million, combined with various noncash charges, including depreciation and amortization of 6.6 million, slightly exceeded the impact of working capital demands. Working capital at November 29, 2003 stood at 168.4 million, up 8.6 million from
+August 30, 2003, and included 100.9 million in cash, cash equivalents and short-term investments. Accounts receivable increased by 2.1 million, reflecting the acceleration of sales levels late in the quarter. Inventories increased by 0.5 million from the fourth quarter of fiscal 2003. Finished goods inventory at
+domestic facilities, where the Company s focused on implementing build-to-order and inventory management processes, declined by nearly 2 million sequentially. Overall, work in process inventory rose by over 2 million as production levels rose
+in the latter part of the quarter. Accounts payable and accrued liabilities decreased by 4.6 million from the previous quarter mainly due to the payment of fiscal 2003 accrued incentive compensation. Investing activities Cash flow used in investing activities totaled 6.0 million in
+the first quarter of fiscal 2004. Acquisition of property and equipment totaled 3.5 million, primarily for additions of manufacturing, 
+ 
+ 15 
+
+Table of Contents 
+
+computer and laboratory equipment. The Company expects capital expenditures of 20 million to 25 million during fiscal 2004, consisting mainly of spending
+on manufacturing equipment, tooling and information systems. The company had
+purchases of short-term investments, net of maturities, of 3.5 million during the quarter. Short-term investments stood at 28.1million at November 29, 2003. The Company recorded proceeds of 1.0 million in connection with its sale of 346,100
+shares of Metron common stock as described above under the caption Other income . Financing activities Cash used by financing activities totaled 3.8 million during the first quarter of fiscal 2004. The Company made payments of 7.1 million on borrowings, including the payment of the final
+ 5.0 million of the 14.0 million originally borrowed in February 2003 when the Company acquired the wafer and reticle carrier product line of Asyst Technologies, Inc. Proceeds from new borrowings totaled 2.3 million during the quarter. 
+ The Company received proceeds of 0.9 million in connection with common shares issued
+under the Company s stock option plan. As of November 30, 2002, the
+Company s sources of available funds comprised 72.8 million in cash and cash equivalents, 28.1 million in short-term investments and various credit facilities. Entegris has an unsecured revolving credit agreement with two domestic commercial
+banks with aggregate borrowing capacity of 40 million, with no borrowings outstanding at November 29, 2003 and lines of credit with seven international banks that provide for borrowings of currencies for the Company s overseas subsidiaries,
+equivalent to an aggregate of approximately 16.7 million. Borrowings outstanding on these lines of credit were approximately 10.7 million at November 29, 2003. Under the unsecured revolving credit agreement, the Company is subject to, and is in compliance with, certain financial covenants including
+ratios requiring a fixed charge coverage of not less than 1.10 to 1.00 and a leverage ratio of not more than 2.25 to 1.00. In addition, the Company must maintain a calculated consolidated and domestic tangible net worth, which, as of November 29,
+2003, are 205 million and 125 million, respectively, while also maintaining consolidated and domestic aggregate amounts of cash and short-term investments of not less than 75 million and 40 million, respectively. At November 29, 2003, the Company s shareholders equity stood at 341.7 million
+compared to 337.7 million at the beginning of the year. The components of the increase included the Company s net earnings of 1.6 million, proceeds of 0.9 million associated with the issuance of shares issued under the Company s stock
+option plan and an increase in other comprehensive income of 1.3 million. The
+Company believes that its cash and cash equivalents, short-term investments, cash flow from operations and available credit facilities will be sufficient to meet its working capital and investment requirements for the next 12 months. However, future
+growth, including potential acquisitions, may require the Company to raise capital through additional equity or debt financing. There can be no assurance that any such financing would be available on commercially acceptable terms. On June 9, 2003, the Company announced that it had filed a shelf registration statement with
+the Securities and Exchange Commission. Up to 25,000,000 shares of the Company s common stock may be offered from time to time under the registration statement, including 15,500,000 newly issued shares by Entegris and 9,500,000 currently
+outstanding shares by certain shareholders of the Company. The common stock may not be sold nor may offers to buy be accepted prior to the time the registration statement becomes effective. The Company stated that it would use the net proceeds from
+any future sale of new Entegris shares for general corporate purposes or to finance acquisitions. The Company would not receive any proceeds from any sale of shares by the selling shareholders. Cautionary Statements This report contains forward-looking statements 
+within the meaning of the Private Securities Litigation Reform Act of 1995. These statements may include forward-looking statements which reflect the Company s current views with respect to future events and financial 
+ 
+ 16 
+
+Table of Contents 
+
+performance. The words believe, expect, anticipate, intends, estimate, forecast, 
+ project, should and similar expressions are intended to identify forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995. All forecasts and projections in this
+document are forward-looking statements, and are based on management s current expectations of the Company s near-term results, based on current information available pertaining to the Company, including the risk factors
+identified in the Company s Annual Report on Form 10-K for the fiscal year ended August 30, 2003. Among these risks and uncertainties are general economic conditions, the volatile and cyclical nature of the semiconductor industry, the risks
+associated with political and global market instability, including the impact of war, the ability of the Company to develop and protect its intellectual property, the risks associated with the acceptance of new products and services and the
+successful integration of acquisitions. Other factors could also cause the Company s results to differ materially from those contained in its forward-looking statements. 
+ Item 3: Quantitative and Qualitative Disclosures About Market Risk Entegris principal market risks are sensitive to changes in interest rates and foreign currency exchange rates. The Company s current exposure
+to interest rate fluctuations is not significant. Most of its long-term debt at November 29, 2003 carries fixed rates of interest. The Company s cash equivalents and short-term investments are debt instruments with maturities of 12 months or
+less. A 100 basis point change in interest rates would potentially increase or decrease net income by approximately 0.5 million annually. The Company uses derivative financial instruments to manage foreign currency exchange rate risk associated with the sale of products in currencies other
+than the U.S. dollar. At November 29, 2003, the company was party to forward contracts to deliver Japanese yen with notional value of approximately 11 million. The cash flows and earnings of foreign-based operations are also subject to fluctuations
+in foreign exchange rates. A hypothetical 10 change in the foreign currency exchange rates would potentially increase or decrease net income by approximately 1.0 million. The Company s investment in Metron common stock is accounted for as an available-for-sale security. Consequently, the
+Company s financial position is exposed to fluctuations in the price of Metron stock. At November 29, the Company s investment in Metron Technology N.V. common stock had a carrying value of 2.4 million with a fair value of approximately
+ 5.5 million. Accordingly, a 10 adverse change in Metron s per share price would result in an approximate 0.6 million decrease in the fair value of the Company s investment. 
+ Item 4: Controls and Procedures Disclosure controls and procedures are controls and other procedures that are designed to ensure that information required to be disclosed in the reports that are filed or submitted under the Exchange Act is recorded, processed, summarized
+and reported, within the time periods specified in the Securities and Exchange Commissions rules and forms. Disclosure controls and procedures include, without limitation, controls and procedures designed to ensure that information required to
+be disclosed in the reports that are filed under the Exchange Act is accumulated and communicated to management, including the chief executive officer and chief financial officer, as appropriate to allow timely decisions regarding required
+disclosure. Under the supervision of and with the participation of management, including the chief executive officer and chief financial officer, the Company has evaluated the effectiveness of the design and operation of its disclosure controls and
+procedures as of November 29, 2003, and based on its evaluation, our chief executive officer and chief financial officer have concluded that these controls and procedures are effective. There have been no significant changes in internal controls or in other factors that could significantly affect these
+controls subsequent to the date of the evaluation described above, including any corrective actions with regard to significant deficiencies and material weaknesses. 
+ 17 
+
+Table of Contents 
+
+PART II OTHER INFORMATION 
+ 
+ Item 1. Legal Proceedings In September 2002,
+Lucent Technologies, Inc. named the Company as a defendant along with Poly-Flur Engineering Inc., FSI International, Inc. and BOC Capital Group in an action filed in circuit court in Orange County, Florida for damages arising from a chemical spill
+at its facility in January 2000. To date, Lucent has requested aggregate damages from all defendants in the range of 52 million, and has specifically requested damages of 12 million from the Company. While the outcome of this matter cannot be
+predicted with any certainty, based on the information to date, the Company believes that it has valid defenses to the claims and, furthermore, has adequate insurance to cover any damages assessed against the Company and as such, does not believe
+that the matter will have a material adverse effect on its financial position, operating results or cash flows. 
+ Item 6. Exhibits and Reports on Form 8-K 
+
+(a) 
+ Exhibits: 
+
+31.1 
+ 
+ Certification of Chief Executive Officer Pursuant to Section 302 of the Sarbanes-Oxley Act of 2002. 
+
+31.2 
+ 
+ Certification of Chief Financial Officer Pursuant to Section 302 of the Sarbanes-Oxley Act of 2002. 
+
+32.1 
+ 
+ Certification of Chief Executive Officer Pursuant to 18 U.S.C. Section 1350, as Adopted Pursuant to Section 906 of the Sarbanes-Oxley Act of 2002. 
+
+32.2 
+ 
+ Certification of Chief Financial Officer Pursuant to 18 U.S.C. Section 1350, as Adopted Pursuant to Section 906 of the Sarbanes-Oxley Act of 2002. 
+
+(b) 
+ Reports on Form 8-K On September 18, 2003, the Company filed a current report on Form 8-K to furnish a copy of the Company s press release reporting the Company s
+preliminary financial results for its fourth quarter and fiscal year ended August 30, 2003. On October 2, 2003, the Company filed a current report on Form 8-K to furnish a copy of the Company s press release announcing the Company s financial results for its fourth quarter and fiscal year ended
+August 30, 2003 
+ 18 
+
+Table of Contents 
+
+ CONFORMED COPY SIGNATURES Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned thereunto
+duly authorized. 
+
+ENTEGRIS, INC. 
+
+Date: January 13, 2004 
+ 
+ /s/ James E. Dauwalter 
+
+James E. Dauwalter 
+
+President and Chief Executive Officer 
+
+Date: January 13, 2004 
+ 
+ /s/ John D. Villas 
+
+John D. Villas 
+
+Chief Financial Officer 
+ 
+ 19 
+
+<EX-31.1>
+ 3
+ dex311.htm
+ CERTIFICATION OF CEO PURSUANT TO SS 302 OF SARBANES-OXLEY ACT OF 2002
+
+Certification of CEO pursuant to ss 302 of Sarbanes-Oxley Act of 2002 
+
+EXHIBIT 31.1 CERTIFICATION PURSUANT TO SECTION 302 OF THE SARBANES-OXLEY ACT OF 2002 I, James E. Dauwalter, certify that: 
+
+1. 
+ I have reviewed this Quarterly Report on Form 10-Q of Entegris, Inc.; 
+
+2. 
+ Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the
+circumstances under which such statements were made, not misleading with respect to the period covered by this report; 
+
+3. 
+ Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects, the financial condition, results
+of operations and cash flows of the registrant as of, and for, the periods presented in this report; 
+
+4. 
+ The registrant s other certifying officer and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e)
+and 15d-15(e) for the registrant and have: 
+
+a) 
+ Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information
+relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared; 
+
+b) 
+ Evaluated the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure
+controls and procedures, as of the end of the period covered by this report based on such evaluation; and 
+
+c) 
+ Disclosed in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s fourth fiscal quarter that has
+materially affected, or is reasonably likely to materially affect, the registrant s internal control over financial reporting. 
+
+5. 
+ The registrant s other certifying officer and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant s
+auditors and the audit committee of registrant s board of directors (or persons performing the equivalent functions): 
+
+a) 
+ All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the
+registrant s ability to record, process, summarize and report financial information; and 
+
+b) 
+ Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s internal control over financial reporting.
+
+Date: January 13, 2004 
+
+/s/ JAMES E. DAUWALTER 
+ 
+ James E. Dauwalter 
+ 
+ President and Chief Executive Officer 
+ 
+ (Principal Executive Officer) 
+
+</EX-31.1>
+
+<EX-31.2>
+ 4
+ dex312.htm
+ CERTIFICATION OF CFO PURSUANT TO SS 302 OF SARBANES-OXLEY ACT OF 2002
+
+Certification of CFO pursuant to ss 302 of Sarbanes-Oxley Act of 2002 
+
+EXHIBIT 31.2 CERTIFICATION PURSUANT TO SECTION 302OF THE SARBANES-OXLEY ACT OF 2002 I, John D. Villas, certify that: 
+
+1. 
+ I have reviewed this Quarterly Report on Form 10-Q of Entegris, Inc.; 
+
+2. 
+ Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the
+circumstances under which such statements were made, not misleading with respect to the period covered by this report; 
+
+3. 
+ Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects, the financial condition, results
+of operations and cash flows of the registrant as of, and for, the periods presented in this report; 
+
+4. 
+ The registrant s other certifying officer and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e)
+and 15d-15(e) for the registrant and have: 
+
+a) 
+ Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information
+relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared; 
+
+b) 
+ Evaluated the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure
+controls and procedures, as of the end of the period covered by this report based on such evaluation; and 
+
+c) 
+ Disclosed in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s fourth fiscal quarter that has
+materially affected, or is reasonably likely to materially affect, the registrant s internal control over financial reporting. 
+
+5. 
+ The registrant s other certifying officer and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant s
+auditors and the audit committee of registrant s board of directors (or persons performing the equivalent functions): 
+
+a) 
+ All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the
+registrant s ability to record, process, summarize and report financial information; and 
+
+b) 
+ Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s internal control over financial reporting.
+
+Date: January 13, 2004 
+
+/s/ JOHN D. VILLAS 
+ 
+ John D. Villas 
+ 
+ Chief Financial Officer 
+ 
+ (Principal Financial and Accounting Officer) 
+
+</EX-31.2>
+
+<EX-32.1>
+ 5
+ dex321.htm
+ CERTIFICATION OF CEO PURSUANT TO SS 906 OF SARBANES-OXLEY ACT OF 2002
+
+Certification of CEO pursuant to ss 906 of Sarbanes-Oxley Act of 2002 
+
+EXHIBIT 32.1 CERTIFICATION PURSUANT TO 18 U.S.C. SECTION 1350, AS ADOPTED PURSUANT TO SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002 In connection with the Quarterly Report of Entegris, Inc, a Minnesota corporation (the Company ), on Form 10-Q for the period ended November 29, 2003 as filed with the Securities and Exchange Commission on the date hereof, I,
+James E. Dauwalter, President and Chief Executive Officer of the Company, hereby certify, pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002 that: (1) The report fully complies with the requirements of Section 13(a) or
+15(d) of the Securities Exchange Act of 1934; and (2) The
+information contained in the report fairly presents, in all material respects, the financial condition and results of operations of the Company. Date: January 13, 2004 
+
+/s/ James E. Dauwalter 
+
+James E. Dauwalter 
+ 
+ President and Chief Executive Officer 
+
+</EX-32.1>
+
+<EX-32.2>
+ 6
+ dex322.htm
+ CERTIFICATION OF CFO PURSUANT TO SS 906 OF SARBANES-OXLEY ACT OF 2002
+
+Certification of CFO pursuant to ss 906 of Sarbanes-Oxley Act of 2002 
+
+EXHIBIT 32.2 CERTIFICATION PURSUANT TO 18 U.S.C. SECTION 1350, AS ADOPTED PURSUANT TO SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002 In connection with the Quarterly Report of Entegris, Inc, a Minnesota corporation (the Company ), on Form 10-Q for the period ended November 29, 2003 as filed with the Securities and Exchange Commission on the date hereof, I,
+John D. Villas, Chief Financial Officer of the Company, hereby certify, pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002 that: (1) The report fully complies with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act of 1934; and
+ (2) The information contained in the report fairly presents,
+in all material respects, the financial condition and results of operations of the Company. Date: January 13, 2004 
+
+/s/ John D. Villas 
+
+John D. Villas 
+ 
+ Chief Financial Officer 
+
+</EX-32.2>
+

@@ -1,0 +1,2462 @@
+<Header>
+<FileStats>
+    <FileName>20040130_10-Q_edgar_data_353567_0000353567-04-000009.txt</FileName>
+    <GrossFileSize>722582</GrossFileSize>
+    <NetFileSize>159930</NetFileSize>
+    <NonText_DocumentType_Chars>0</NonText_DocumentType_Chars>
+    <HTML_Chars>519885</HTML_Chars>
+    <XBRL_Chars>0</XBRL_Chars>
+    <XML_Chars>0</XML_Chars>
+    <N_Exhibits>6</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0000353567-04-000009.hdr.sgml : 20040130
+<ACCEPTANCE-DATETIME>20040130160146
+ACCESSION NUMBER:		0000353567-04-000009
+CONFORMED SUBMISSION TYPE:	10-Q
+PUBLIC DOCUMENT COUNT:		7
+CONFORMED PERIOD OF REPORT:	20031231
+FILED AS OF DATE:		20040130
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			ICO INC
+		CENTRAL INDEX KEY:			0000353567
+		STANDARD INDUSTRIAL CLASSIFICATION:	PLASTICS PRODUCTS, NEC [3089]
+		IRS NUMBER:				760566682
+		STATE OF INCORPORATION:			TX
+		FISCAL YEAR END:			0930
+
+	FILING VALUES:
+		FORM TYPE:		10-Q
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-08327
+		FILM NUMBER:		04556037
+
+	BUSINESS ADDRESS:	
+		STREET 1:		5333 WESTHEIMER ROAD
+		STREET 2:		SUITE 600
+		CITY:			HOUSTON
+		STATE:			TX
+		ZIP:			77056
+		BUSINESS PHONE:		7133514100
+
+	MAIL ADDRESS:	
+		STREET 1:		5333 WESTHEIMER ROAD
+		STREET 2:		SUITE 600
+		CITY:			HOUSTON
+		STATE:			TX
+		ZIP:			77056
+
+</SEC-Header>
+</Header>
+
+ 
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ AF7VRaAmDcQQYQI3bmOLseKHWXPtXehYTYkzf4ZtH56MUl/5rllK3KQ+j5vNtEer
+ o4DH9E+Clwb9fPW4u2z3dQ==
+
+ 0000353567-04-000009.txt : 20040130
+
+10-Q
+ 1
+ ico10q-123103.htm
+ ICO 10Q 12-31-03
+ 
+ ICO 10Q 12-31-03 
+
+UNITED STATES 
+
+ SECURITIES AND EXCHANGE COMMISSION 
+
+Washington, D.C. 20549 
+
+FORM 10-Q 
+
+(X) QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) 
+
+ OF THE SECURITIES EXCHANGE ACT OF 1934 
+
+For the Quarterly Period Ended December 31, 2003 
+
+OR 
+
+) TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) 
+
+ OF THE SECURITIES EXCHANGE ACT OF 1934 
+
+For the transition period from to . 
+
+Commission File Number 0-10068 
+
+ICO, Inc. 
+
+(Exact name of registrant as specified in its charter) 
+
+TEXAS 
+
+76-0566682 
+
+(State of incorporation) 
+
+(I.R.S. Employer Identification No.) 
+
+5333 Westheimer, Suite 600 
+
+Houston, Texas 
+
+77056 
+
+(Address of principal executive offices) 
+
+(Zip Code) 
+
+(713) 351-4100 
+
+ (Telephone Number) 
+
+Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days. 
+
+YES x NO ___ . 
+
+Indicate by checkmark whether the registrant is an accelerated filer (as defined in Rule 12b-2 of the Exchange Act). 
+
+ YES___ NO x . 
+
+Common stock, without par value 25,257,471 shares 
+
+ outstanding as of January 29, 2004 
+
+- 1 - 
+
+ICO, INC. 
+
+ INDEX TO QUARTERLY REPORT ON FORM 10-Q 
+
+Part I. Financial Information 
+
+Page 
+
+Item 1. Financial Statements 
+
+Consolidated Balance Sheets as of December 31, 2003 and September 30, 2003......... 
+
+3 
+
+Consolidated Statement of Operations for the Three Months Ended December 31, 
+
+ 2003 and 2002 ............................................................................................................
+
+4 
+
+Consolidated Statements of Comprehensive Income (Loss) for the Three Months Ended 
+
+ December 31, 2003 and 2002 ......................................................................................
+
+5 
+
+Consolidated Statements of Cash Flows for the Three Months Ended December 31, 
+
+ 2003 and 2002 .............................................................................................................
+
+6 
+
+Notes to Consolidated Financial Statements ...................................................................
+
+7 
+
+Item 2. Management s Discussion and Analysis of Financial Condition and Results of Operations 
+
+11 
+
+Item 3. Quantitative and Qualitative Disclosures About Market Risks ........................................ 
+
+16 
+
+Item 4. Controls and Procedures ..............................................................................................
+
+17 
+
+Part II. Other Information 
+
+Item 1. Legal Proceedings .........................................................................................................
+
+18 
+
+Item 5. Other Information ..........................................................................................................
+
+18 
+
+Item 6. Exhibits and Reports on Form 8-K ................................................................................
+
+18 
+
+- 2 - 
+
+ICO, INC. 
+
+ CONSOLIDATED BALANCE SHEETS 
+
+ (Unaudited and in thousands, except share data) 
+
+December 31, 
+
+ 2003 
+
+September 30, 
+
+ 2003 
+
+ASSETS 
+
+Current assets: 
+
+Cash and cash equivalents 
+
+3,546 
+
+4,114 
+
+Trade accounts receivables (less allowance for doubtful accounts of 2,187 
+
+ and 2,047, respectively) 
+
+43,325 
+
+41,310 
+
+Inventories 
+
+27,679 
+
+24,166 
+
+Assets held for sale 
+
+1,141 
+
+- 
+
+Prepaid expenses and other 
+
+11,731 
+
+11,952 
+
+Total current assets 
+
+87,422 
+
+81,542 
+
+Property, plant and equipment, net 
+
+55,086 
+
+54,639 
+
+Goodwill 
+
+8,613 
+
+8,245 
+
+Other 
+
+658 
+
+835 
+
+Total assets 
+
+151,779 
+
+145,261 
+
+LIABILITIES, STOCKHOLDERS EQUITY AND ACCUMULATED OTHER 
+
+ COMPREHENSIVE INCOME (LOSS) 
+
+Current liabilities: 
+
+Short-term borrowings 
+
+6,668 
+
+5,846 
+
+Current portion of long-term debt 
+
+4,973 
+
+3,210 
+
+Accounts payable 
+
+23,776 
+
+22,120 
+
+Accrued salaries and wages 
+
+3,293 
+
+3,766 
+
+Other accrued expenses 
+
+11,553 
+
+11,399 
+
+Oilfield Services liabilities retained 
+
+2,021 
+
+2,476 
+
+Total current liabilities 
+
+52,284 
+
+48,817 
+
+Deferred income taxes 
+
+4,700 
+
+4,108 
+
+Long-term liabilities 
+
+1,773 
+
+1,629 
+
+Long-term debt, net of current portion 
+
+23,039 
+
+23,378 
+
+Total liabilities 
+
+81,796 
+
+77,932 
+
+Commitments and contingencies 
+
+Stockholders equity: 
+
+Preferred stock, without par value - 345,000 shares authorized; 322,500 shares 
+
+ issued and outstanding with a liquidation preference of 34,426 and 
+
+ 33,882, respectively 
+
+13 
+
+13 - 
+
+Undesignated preferred stock, without par value- 105,000 shares authorized; 
+
+ 0 shares issued and outstanding 
+
+- 
+
+- - 
+
+Junior participating preferred stock, without par value B 0 and 50,000 shares 
+
+ authorized, respectively; 0 shares issued and outstanding 
+
+- 
+
+- - 
+
+Common stock, without par value B 50,000,000 shares authorized; 
+
+ 25,257,471 and 25,146,550 shares issued and outstanding, respectively 
+
+43,660 
+
+43,555 
+
+Additional paid-in capital 
+
+102,822 
+
+102,811 
+
+Accumulated other comprehensive loss 
+
+(1,783 
+
+(4,211 
+
+Accumulated deficit 
+
+(74,729 
+
+(74,839 
+
+Total stockholders equity 
+
+69,983 
+
+67,329 
+
+Total liabilities and stockholders equity 
+
+151,779 
+
+145,261 
+
+The accompanying notes are an integral part of these financial statements. 
+
+- 3 - 
+
+ICO, INC. 
+
+ CONSOLIDATED STATEMENT OF OPERATIONS 
+
+ (Unaudited and in thousands, except share data) 
+
+Three Months Ended 
+
+ December 31, 
+
+2003 
+
+2002 
+
+Revenues: 
+
+Sales 
+
+48,214 
+
+37,531 
+
+Services 
+
+8,633 
+
+7,717 
+
+Total Revenues 
+
+56,847 
+
+45,248 
+
+Cost and expenses: 
+
+Cost of sales and services 
+
+46,108 
+
+37,928 
+
+Selling, general and administrative 
+
+7,601 
+
+8,023 
+
+Stock option compensation expense 
+
+11 
+
+63 
+
+Depreciation and amortization 
+
+2,052 
+
+2,214 
+
+Impairment, restructuring and other costs 
+
+104 
+
+- 
+
+Operating income (loss) 
+
+971 
+
+(2,980 
+
+Other income (expense): 
+
+Interest expense, net 
+
+(632 
+
+(1,536 
+
+Other 
+
+212 
+
+519 
+
+Income (loss) from continuing operations before income taxes and cumulative 
+
+ effect of change in accounting principle 
+
+551 
+
+(3,997 
+
+Provision (benefit) for income taxes 
+
+346 
+
+(1,163 
+
+Income (loss) from continuing operations before cumulative effect of change in 
+
+ accounting principle 
+
+205 
+
+(2,834 
+
+Income (loss) from discontinued operations, net of provision (benefit) for 
+
+ income taxes of 51) and 66, respectively 
+
+(95 
+
+516 
+
+Net income (loss) before cumulative effect of change in accounting principle 
+
+110 
+
+(2,318 
+
+Cumulative effect of change in accounting principle, net of benefit for 
+
+ income taxes of 0 and (580), respectively 
+
+- 
+
+(28,863 
+
+Net income (loss) 
+
+110 
+
+(31,181 
+
+Preferred dividends 
+
+- 
+
+(544 
+
+Net income (loss) applicable to common stock 
+
+110 
+
+(31,725 
+
+Basic and diluted income (loss) per share: 
+
+Income (loss) from continuing operations before cumulative effect of 
+
+ change in accounting principle 
+
+.01 
+
+(.14 
+
+Income (loss) from discontinued operations 
+
+(.01 
+
+.02 
+
+Net income (loss) before cumulative effect of change in accounting 
+
+ principle 
+
+- 
+
+(.12 
+
+Cumulative effect of change in accounting principle 
+
+- 
+
+-( (1.17 
+
+Basic and diluted net income (loss) per common share 
+
+- 
+
+(1.29 
+
+Basic and diluted weighted average shares outstanding 
+
+25,238,000 
+
+24,670,000 
+
+The accompanying notes are an integral part of these financial statements. 
+
+- 4 - 
+
+ICO, INC. 
+
+ CONSOLIDATED STATEMENT OF COMPREHENSIVE INCOME (LOSS) 
+
+ (Unaudited and in thousands) 
+
+Three Months 
+
+Ended December 31, 
+
+2003 
+
+2002 
+
+Net income (loss) 
+
+110 
+
+(31,181 
+
+Other comprehensive income (loss) 
+
+Foreign currency translation adjustment 
+
+2,578 
+
+1,733 
+
+Unrealized loss on foreign currency hedges 
+
+(150 
+
+(18 
+
+Comprehensive income (loss) 
+
+2,538 
+
+(29,466 
+
+The accompanying notes are an integral part of these financial statements. 
+
+- 5 - 
+
+ICO, INC. 
+
+ CONSOLIDATED STATEMENT OF CASH FLOWS 
+
+ (Unaudited and in thousands) 
+
+Three Months Ended 
+
+ December 31, 
+
+2003 
+
+2002 
+
+Cash flows from operating activities: 
+
+Net income (loss) from continuing operations 
+
+205 
+
+(31,697 
+
+Adjustments to reconcile net income (loss) from continuing operations to net cash provided 
+
+ by (used for) operating activities: 
+
+Depreciation and amortization 
+
+2,052 
+
+2,214 
+
+Cumulative effect of change in accounting principle before tax 
+
+29,443 
+
+Unrealized gain on foreign currency 
+
+(146 
+
+(430 
+
+Changes in assets and liabilities: 
+
+Receivables 
+
+743 
+
+2,386 
+
+Inventories 
+
+(2,164 
+
+(267 
+
+Prepaid expenses and other assets 
+
+323 
+
+253 
+
+Income taxes payable 
+
+(110 
+
+(411 
+
+Deferred taxes 
+
+261 
+
+(1,339 
+
+Accounts payable 
+
+(128 
+
+(473 
+
+Accrued interest 
+
+(259 
+
+(3,865 
+
+Other liabilities 
+
+(382 
+
+(1,113 
+
+Total adjustments 
+
+190 
+
+26,398 
+
+Net cash provided by (used for) operating activities by continuing operations 
+
+395 
+
+(5,299 
+
+Net cash used for operating activities by discontinued operations 
+
+(309 
+
+(11,550 
+
+Net cash provided by (used for) operating activities 
+
+86 
+
+(16,849 
+
+Cash flows used for investing activities: 
+
+Capital expenditures 
+
+(1,478 
+
+(2,476 
+
+Proceeds from dispositions of property, plant and equipment 
+
+61 
+
+44 
+
+Net cash used for investing activities by continuing operations 
+
+(1,417 
+
+(2,432 
+
+Cash flows used for financing activities: 
+
+Payment of dividend on preferred stock 
+
+(544 
+
+Proceeds from debt 
+
+1,214 
+
+858 
+
+Term debt repayments 
+
+(741 
+
+(103,105 
+
+Debt retirement costs 
+
+(483 
+
+Net cash provided by (used for) financing activities by continuing operations 
+
+473 
+
+(103,274 
+
+Effect of exchange rates on cash 
+
+290 
+
+261 
+
+Net decrease in cash and equivalents 
+
+(568 
+
+(122,294 
+
+Cash and equivalents at beginning of period 
+
+4,114 
+
+129,072 
+
+Cash and equivalents at end of period 
+
+3,546 
+
+6,778 
+
+The accompanying notes are an integral part of these financial statements. 
+
+- 6 - 
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS 
+
+ (Unaudited and in thousands, except share and per share data) 
+
+NOTE 1. BASIS OF FINANCIAL STATEMENTS 
+
+The accompanying unaudited consolidated financial statements have been prepared in accordance with Rule 10-01 of Regulation S-X, "Interim Financial Statements," and accordingly do not include all information and footnotes required under generally accepted accounting principles for complete financial statements. The financial statements have been prepared in conformity with the accounting principles and practices as disclosed in the Annual Report on Form 10-K for the year ended September 30, 2003 for ICO, Inc. (the A Company @ ). In the opinion of management, these interim financial statements contain all adjustments (consisting only of normal recurring adjustments) necessary for a fair presentation of the Company's financial position as of December 31, 2003, the results of operations for the three months ended December 31, 2003 and 2002 and the changes in its cash position for the three months ended December 31, 2003 and 2002. Results of operations for the three-month period ended December 31, 2003 are not necessarily indicative of the results that may be expected for the year ending September 30, 2004. For additional information, refer to the consolidated financial statements and footnotes included in the Company's Annual Report on Form 10-K for the year ended September 30, 2003. 
+
+NOTE 2. RECENTLY ISSUED ACCOUNTING PRONOUNCEMENTS 
+
+In December 2003, the Securities and Exchange Commission issued Staff Accounting Bulletin No. 104, Revenue Recognition ("SAB 104"), which supercedes SAB 101, Revenue Recognition in Financial Statements. SAB 104 s primary purpose is to rescind accounting guidance contained in SAB 101 related to multiple element revenue arrangements, which was sup
+erceded as a result of the issuance of EITF 00-21, Accounting for Revenue Arrangements with Multiple Deliverables . While the wording of SAB 104 has changed to reflect the issuance of EITF 00-21, the revenue recognition principles of SAB 101 remain largely unchanged by the issuance of SAB 104. The Company does not expect this bulletin to have a material impact on the Company s financial statements. 
+
+NOTE 3. CUMULATIVE EFFECT OF CHANGE IN ACCOUNTING PRINCIPLE 
+
+Effective October 1, 2002, the Company adopted Financial Accounting Standards No. 142 ("SFAS 142"), Goodwill and Other Intangible Assets, which established Standards for reporting acquired goodwill and other intangible assets. This Statement accounts for goodwill based on the reporting units of the combined entity into which an acquired entity is integrated. In accordance with SFAS 142, goodwill and indefinite lived intangible assets are tested for impairment at least annually at the reporting unit level, rather than being amortized, and the amortization period of intangible assets with finite lives is no longer limited to forty years. Using the discounted cash flow method under the requirements of SFAS 142, the Company recorded an impairment of 
+goodwill of 28,863, net of income tax benefit of 580 during the three months ended December 31, 2002 as a result of the adoption of SFAS 142 on October 1, 2002. This impairment charge is reflected in the consolidated statement of operations as a cumulative effect of change in accounting principle. 
+
+NOTE 4. EARNINGS PER SHARE AND STOCKHOLDERS EQUITY 
+
+Earnings per share is based on earnings applicable to common shareholders and is calculated using the weighted average number of common shares outstanding. During the three months ended December 31, 2003 and December 31, 2002, the potentially dilutive effects of the Company = s exchangeable preferred stock (which would have an anti-dilutive effect) and common stock options and warrants, with exercise prices exceeding fair market value of the underlying common shares, have been excluded from diluted earnings per share. Additionally, the potentially dilutive effects of common stock options have been excluded from diluted earnings per share for those periods in which the Company generated a net loss. The total number of anti-dilutive securities for the three months ended December 31, 2003 was 4,502,000 compared to 4,779,000 for the three months ended December 31, 2002. 
+
+- 7 - 
+
+Quarterly dividends (in an aggregate amount of 544 per quarter) have not been paid or declared on the Company s Preferred Stock since January 1, 2003. Any undeclared or unpaid Preferred Stock dividends will need to be declared and paid before the Company may pay a dividend on the Company s Common Stock. 
+
+On October 31, 1997, the Board of Directors adopted a Shareholders Rights Plan (the "Rights Plan") and declared a dividend of one Junior Participating Preferred Share purchase right with respect to each share of common stock outstanding at the close of business on November 21, 1997. On April 1, 1998, a successor Rights Plan was adopted by the Board of Directors with essentially identical terms and conditions. Under the terms of the Rights Plan, the Board amended the Rights Plan on October 31, 2003, to provide that the plan would expire on November 3, 2003, and the Rights Plan so expired. 
+
+NOTE 5. INVENTORIES 
+
+Inventories consisted of the following: 
+
+December 31, 
+
+ 2003 
+
+September 30, 
+
+ 2003 
+
+Raw materials 
+
+15,595 
+
+12,806 
+
+Finished goods 
+
+11,560 
+
+11,244 
+
+Work in progress 
+
+252 
+
+241 
+
+Supplies 
+
+1,411 
+
+1,356 
+
+Less reserve 
+
+(1,139 
+
+(1,481 
+
+Total inventory 
+
+27,679 
+
+24,166 
+
+NOTE 6. INCOME TAXES 
+
+The Company s effective income tax rates were a provision of 63 compared to a benefit of 29 during the three months ended December 31, 2003 and 2002, respectively. The change in effective tax rates was due to the relation between pretax income or loss to nondeductible items and other permanent differences and the mix of pretax income or loss generated by the Company s operations in various taxing jurisdictions. In addition, during the first quarter of 2004, the Company placed an additional valuation allowance against the deferred tax asset balance of the Company s Brazilian and Swedish facilities. A valuation allowance is established when it is more likely than not that some or all of a deferred tax asset will not be realized. 
+
+The Company has a prior year domestic net operating loss for tax purposes of approximately 7,832. This loss will be carried back to the 2002 tax year generating a tax refund of approximately 2,741. The 2,741 receivable is included in Prepaid Expenses and Other current assets in the Consolidated Balance Sheet. 
+
+NOTE 7. COMMITMENTS AND CONTINGENCIES 
+
+The Company has letters of credit outstanding in the United States of approximately 2,065 and 2,090 as of December 31, 2003 and September 30, 2003, respectively and foreign letters of credit outstanding of 2,425 and 2,495 as of December 31, 2003 and September 30, 2003, respectively. 
+
+Varco Indemnification Claims. Between May 2003 and September 2003, Varco International, Inc. ("Varco") asserted approximately 29 claims for contractual indemnity against the Company in connection with the September 2002 sale of substantially all of the Company s Oilfield Services business ("Oilfield Services") to Varco. Varco claims that the Company breached a number of representations and warranties in the purchase agreement relating to this sale, and alleges that the expected loss range for its indemnity claims is between 16,000 and 21,600. A portion of those indemnity demands (representing aggregate losses of approximately 365) relate to product liability claims. The balance of the indemnity demands relate to alleged historical contamination or alleged non-compliance with environmental rules at approximately 26 former Company properties located in both the United States and Canada. The Company has engaged an independent third-party 
+
+- 8 - 
+
+environmental consulting company to review Varco s claims, and has visited most of the sites to which Varco s claims relate, and based on the preliminary information received to date from the third-party consultant and its own assessment made from such visits, the Company believes that most of Varco s indemnity claims fail to state a valid claim under the purchase agreement or are otherwise without merit and, where potential liability does exist, that Varco s cost estimates are grossly inflated. The Company s follow-up investigation on some of these claims is, however, still in the preliminary stages, and it has requested additional information from Varco where appropriate. 
+
+The parties have agreed to a limited information exchange in an attempt to resolve the disputed indemnity claims without resorting to litigation. In the purchase agreement relating to this sale, the Company agreed, subject to certain limitations, to indemnify Varco for losses arising out of our breach of representations and warranties contained in the agreement in excess of 1,000, and placed 5,000 of the sale proceeds in escrow to be used to pay for these indemnification obligations, should they arise. The 5,000 in proceeds was included in the gain on the sale of the Oilfield Services business recognized in fiscal year 2002. The Company does not believe that Varco has demonstrated, under the terms of the purchase agreement, that it is entitled
+ to any damages in excess of the 1,000 threshold. At this point, the Company is not aware of any formal litigation initiated by Varco against the Company in connection with this dispute, but in the event that it cannot avoid litigation to obtain a release of the escrowed funds, the Company intends to assert its entitlement to the funds and defend itself vigorously. Because the Company believes that most of Varco s indemnity claims fail to state a valid claim under the purchase agreement or are otherwise without merit and, where potential liability does exist, that Varco s cost estimates are grossly inflated, it has not reserved any amounts on its balance sheet in contemplation of such liabilities or the uncollectability of the 5,000 receivable of the escrowed sales proceeds. 
+
+There is no assurance, however, that the Company will not be liable for the amount of Varco s claims or any additional amount under indemnification provisions of the purchase agreement, and a final adverse court decision awarding substantial money damages would have a material adverse impact on the Company s financial condition, liquidity and results of operations. 
+
+NOTE 8. DISCONTINUED OPERATIONS 
+
+On September 6, 2002, the Company completed the sale of substantially all of its Oilfield Services business to Varco. The initial purchase price was subject to a post-closing working capital adjustment for which a gain of 582 was recorded during the three months ended December 31, 2002. All proceeds from the sale have been received except for 5,000 which was placed in escrow to be used to pay for indemnification obligations, should they arise. See Note 7 Commitments and Contingencies for further discussion of the indemnification claims. The Oilfield Services results of operations are presented as discontinued operations, net of income taxes, in the consolidated statement of operations and th
+e Oilfield Services liabilities retained are shown as a separate line item in the consolidated balance sheet. 
+
+On July 31, 2003, the Company sold its remaining oilfield service operation to Permian Enterprises, Ltd. for 4,053 in cash and the assumption of certain liabilities and recorded a pre-tax gain of 600. 
+
+NOTE 9. LONG-TERM DEBT 
+
+In the first quarter of fiscal 2003, the Company repurchased 104,480 principal amount of its 10 3/8 Senior Notes due 2007 at a weighted average net discount of 976.78 per 1,000 principal amount plus accrued interest in two separate transactions. The Company recorded in other income in the Consolidated Statement of Operations a gain on these purchases of approximately 14, net of transaction costs and write-off of debt offering costs. 
+
+- 9 - 
+
+NOTE 10. ASSETS HELD FOR SALE 
+
+In the first quarter of fiscal 2004, the Company received a No Further Action Determination ("NFA") from the New Jersey Department of Environmental Protection in relation to certain land the Company acquired in 1996 as part of the Wedco Technology, Inc. acquisition. The Company entered into a contract to sell this land in 1999 and with the receipt of the NFA, the Company expects to close on the sale of this property during fiscal year 2004. Also during the first quarter of 2004, the Company ceased its operations at its Lovelady, Texas facility as previously announced during fiscal 2003 and signed in January 2004 a purchase and sale agreement. The net book value of the real estate for both properties is included in the Assets Held for Sale line it
+em in the Consolidated Balance Sheet at December 31, 2003. The Company expects the Lovelady, Texas property to be sold during fiscal year 2004 following the potential buyer s completion of due diligence. 
+
+NOTE 11. RELATED PARTY 
+
+During the first quarter of fiscal 2003, the Company repurchased 104,480 principal amount of its 10 3/8 Senior Notes due 2007. The Company used the investment banking services of Jefferies and Company to manage the repurchases. David E.K. Frischkorn, Jr., a member of the Company s Board of Directors, was a Managing Director of Jefferies and Company during the time of the Senior Notes repurchases. The Company paid Jefferies and Company approximately 380 for their services related to these transactions. 
+
+NOTE 12. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK 
+
+The Company s primary market risk exposures include debt obligations carrying variable interest rates and forward purchase contracts intended to hedge accounts payable obligations denominated in currencies other than a given operation s functional currency. Forward currency contracts are used by the Company as a method to establish a fixed functional currency cost for certain raw material purchases denominated in non-functional currency (typically the U.S. dollar). 
+
+The following table summarizes the Company s market-sensitive financial instruments. These transactions are considered non-trading activities: 
+
+Financial Instruments 
+
+US Equivalent 
+
+Weighted 
+
+ Average Interest Rate 
+
+Currency Denomination 
+
+December 31, 
+
+September 30, 
+
+December 31, 
+
+September 30, 
+
+of Indebtedness 
+
+2003 
+
+2003 
+
+2003 
+
+2003 
+
+Euro (1) 
+
+2,830 
+
+2,496 
+
+4.71 
+
+4.71 
+
+British Pounds Sterling (1) 
+
+1,630 
+
+1,198 
+
+5.75 
+
+5.75 
+
+New Zealand Dollar (1) 
+
+1,422 
+
+1,197 
+
+7.23 
+
+7.23 
+
+Australian Dollar (1) 
+
+240 
+
+- 
+
+7.92 
+
+- 
+
+Swedish Krona (1) 
+
+528 
+
+909 
+
+5.45 
+
+5.45 
+
+Malaysian Ringgit (1) 
+
+18 
+
+46 
+
+7.75 
+
+7.75 
+
+(1) Maturity dates are expected to be less than one year. 
+
+- 10 - 
+
+The Company does not have any financial instruments classified as off-balance sheet as of December 31, 2003 and September 30, 2003. 
+
+December 31, 2003 
+
+September 30, 2003 
+
+Receive US /Pay NZ : 
+
+Contract Amount 
+
+None 
+
+US 427 
+
+Average Contractual Exchange Rate 
+
+(US /NZ .5884 
+
+Expected Maturity Dates 
+
+October 2003 through 
+
+November 2003 
+
+Receive US /Pay Australian : 
+
+Contract Amount 
+
+US 1,230 
+
+US 2,178 
+
+Average Contractual Exchange Rate 
+
+(US /A .6754 
+
+(US /A .6624 
+
+Expected Maturity Dates 
+
+January 2004 through 
+
+October 2003 through 
+
+February 2004 
+
+December 2003 
+
+ITEM 2. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS (Unaudited and in thousands, except share and per share data) 
+
+Introduction 
+
+The Company s revenues are primarily derived from (1) product sales and (2) toll services in the polymers processing industry. Product sales entail the Company purchasing resin which is further processed within the Company s operating facilities. The further processing of the material may involve size reduction services and/or compounding services. Compounding services include the manufacture and sale of concentrates. After processing, the Company sells the finished products to customers. Toll services involve both size reduction and compounding services whereby these services are performed on customer owned material. Service revenues are recognized as the services are performed and, in the case of product sales, revenue
+s are recognized when the title of the product passes to the customer, which is generally upon shipment. 
+
+Cost of sales and services is primarily comprised of purchased raw materials, compensation and benefits to non-administrative employees, occupancy costs, repair and maintenance, electricity and equipment costs and supplies. Selling, general and administrative expenses consist primarily of compensation and related benefits to the sales and marketing, executive management, information technology, accounting, legal, human resources and other administrative employees of the Company, other sales and marketing expenses, communications costs, systems costs, insurance costs and legal and accounting professional fees. 
+
+Demand for the Company s products and services tends to be driven by overall economic factors and, particularly, consumer spending. The trend of applicable resin prices also impacts customer demand. As resin prices are falling, customers tend to reduce their inventories and, therefore, reduce their need for the Company s products and services. Conversely, as resin prices are rising, customers often increase their inventories and accelerate their purchases of products and services from the Company. Additionally, demand for the Company s products and services tends to be seasonal, with customer demand historically being weakest during the Company s first fiscal quarter due to the holiday season and also due to property taxes levied in the U.S. on customers inventories on January 1. However, during the first quarter of fiscal 2004, the Company experienced customer demand which exceeded the demand of the Company s third and fourth quarters of fiscal 2003. The Company s fourth fiscal quarter also tends to be softer compared to the Company s second and third fiscal quarters, in terms of customer demand, due to vacation periods in the Company s European markets. 
+
+- 11 - 
+
+Critical Accounting Policies 
+
+The Company s discussion and analysis of our financial condition and results of operations are based upon our consolidated financial statements, which have been prepared in accordance with accounting principles generally accepted in the United States of America. The consolidated financial statements are impacted by the accounting policies used and the estimates and assumptions made by management during their preparation. Management believes the following critical accounting policies affect its more significant judgments and estimates used in the preparation of its consolidated financial statements. 
+
+Use of Estimates- The preparation of financial statements in conformity with generally accepted accounting principles in the United States requires management to make estimates and assumptions that affect the reported amounts of assets and liabilities and disclosure of contingent assets and liabilities, if any, at the date of the financial statements and the reported amounts of revenues and expenses during the reporting period. The more significant areas requiring use of estimates relate to employee benefit liabilities, valuation allowances for deferred tax assets, workers c
+ompensation, inventory reserves, allowance for doubtful accounts related to accounts receivable, and commitments and contingencies. Actual results could differ from these estimates. Management believes that its estimates are reasonable. 
+
+Revenue and Related Cost Recognition- The Company recognizes revenue from services upon completion of the services and related expenses are recognized as incurred. For product sales, revenues and related expenses are recognized when ownership is transferred, which generally occurs when the products are shipped. 
+
+Impairment of Property, Plant and Equipment- Property, plant and equipment are reviewed for impairment whenever an event or change in circumstances indicates the carrying amount of an asset or group of assets may not be recoverable. The impairment review includes comparison of undiscounted future cash flows expected to be generated by the asset or group of assets with the associated assets carrying value. If the carrying value of the asset or group of assets exceeds the expected future cash flows (undiscounted and without interest charges), an impairment loss is recognized to the extent that the carrying amount of the asset exceeds its fair value. 
+
+Impairment of Goodwill and Other Intangible Assets- Effective October 1, 2002, the Company adopted Statement of Financial Accounting Standards No. 142 ("SFAS 142"), Goodwill and Other Intangible Assets, which established standards for reporting acquired goodwill and other intangible assets. This statement accounts for goodwill based on the reporting units of the combined entity into which an acquired entity is integrated. In accordance with SFAS 142, goodwill and indefinite lived intangible assets are tested for impairment at least annually at the reporting unit level, rather than being amortized, and the amortization period of intangibl
+e assets with finite lives is no longer limited to forty years. 
+
+Currency Translation- Amounts in foreign currencies are translated into U.S. dollars. When local functional currency is translated to U.S. dollars, the effects are recorded as a separate component of Other Comprehensive income or loss. Exchange gains and losses resulting from foreign currency transactions are recognized in earnings. 
+
+- 12 - 
+
+The fluctuations of the U.S. Dollar against the Euro, Swedish Krona, British Pound, New Zealand Dollar, Australian Dollar and the Brazilian Real have impacted the translation of revenues and expenses of the Company s international operations. The table below summarizes the impact of changing exchange rates for the above currencies for the three months ended December 31, 2003. 
+
+Three Months Ended 
+
+December 31, 2003 
+
+Total revenues 
+
+5,450 
+
+Operating income (loss) 
+
+239 
+
+Pre-tax income (loss) 
+
+196 
+
+Net income (loss) 
+
+119 
+
+Stock Options- Effective October 1, 2002, the Company adopted the fair value recognition provisions of Statement of Financial Accounting Standard No. 123, Accounting for Stock-Based Compensation, ("SFAS 123") to all employee awards granted, modified or settled after October 1, 2002. The Company adopted the prospective method to implement SFAS 123 under the provisions of SFAS No. 148, Accounting for Stock-Based Compensation-Transition and Disclosure- an amendment of SFAS 123. Awards under the Company s plans vest over periods ranging from immediate vesting to five years. 
+
+Results of Operations 
+
+Three Months Ended December 31, 2003 Compared to the Three Months Ended December 31, 2002 
+
+Revenues. Total revenues increased 11,599 or 26 to 56,847 during the three months ended December 31, 2003, compared to the same period of fiscal 2002 due to an increase in both sales and service revenues. S ales revenue increased 10,683 or 28 to 48,214 during the three months ended December 31, 2003 compared to the same period of fiscal 2002. The increase in sales revenue was caused by an increase in sales volumes, particularly for the Company's domestic concentrate manufacturing operation, Australasian operations and certai
+n European locations and due to stronger foreign currencies relative to the U.S. Dollar (an impact of approximately 4,850 see "Currency Translation" in Critical Accounting Policies). The increase caused by volumes and foreign currency was offset by lower average product sales prices, mostly due to a less favorable mix of product sales. The adverse change in the mix of product sales was primarily attributable to the Company s North American ICO Polymers and film concentrate manufacturing operations. Service revenues increased 916 or 12 to 8,633 for the three months ended December 31, 2003 compared to the same period in fiscal 2002 caused primarily by stronger foreign currencies relative to the U.S. dollar (an impact of approximately 600). 
+
+Costs and Expenses. Gross margins (calculated as the difference between net revenues and cost of sales, divided by net revenues) improved to 18.9 during the three months ended December 31, 2003 compared to 16.2 in the three months ended December 31, 2002, respectively. Gross margins improved due to significantly improved results at the Company s North American film concentrate business, Australasian and European operations compared to the previous fiscal year s first quarter. The improved results were primarily a result of improved operating leverage due to the Company s overall increase in volumes sol
+d which increased approximately 12 due to increased customer demand. 
+
+Selling, general and administrative expenses (including stock option compensation expense) declined 474 or 6 during the three months ended December 31, 2003 compared to the same period in fiscal 2003. As a percentage of revenues, sales, general and administrative expenses decreased to 13.4 of revenue compared to 17.9 for the same quarter last year. The decline in sales, general and administrative expenses was primarily due to the cost reduction program implemented in the fourth quarter of fiscal 2003, partially offset by the effect of stronger foreign currencies relative to the US dollar (an impact of approximately 600). 
+
+- 13 - 
+
+Net Interest Expense. Net interest expense for the three months ended December 31, 2003 decreased 904 or 59 compared to the same period in fiscal 2003. This decline in expense was primarily due to the repurchase of 104,480 of Senior Notes during the first quarter of fiscal 2003. 
+
+Income Taxes. The Company s effective income tax rates were a provision of 63 compared to a benefit of 29 during the three months ended December 31, 2003 and 2002, respectively. The change in effective tax rates was due to the relation between pretax income or loss to nondeductible items and other permanent differences and the mix of pretax income or loss generated by the Company s operations in various taxing jurisdictions. In addition, during the first quarter of 2004, the Company placed an additional valuation allowance against the deferred tax asset balance of the Company s Brazilian and Swedi
+sh facilities. A valuation allowance is established when it is more likely than not that some or all of a deferred tax asset will not be realized. 
+
+Income (Loss) From Discontinued Operations. Income (loss) from discontinued operations decreased from income of 516 during the three months ended December 31, 2002, to a loss of 95 during the first quarter of fiscal 2004 as a result of the 582 gain on the post-closing working capital adjustment recorded during the three months ended December 31, 2002. 
+
+Cumulative Effect of Change in Accounting Principle. Effective October 1, 2002, the Company adopted Financial Accounting Standards No. 142 ("SFAS 142"), Goodwill and Other Intangible Assets, which established Standards for reporting acquired goodwill and other intangible assets. This Statement accounts for goodwill based on the reporting units of the combined entity into which an acquired entity is integrated. In accordance with SFAS 142, goodwill and indefinite lived intangible assets are tested for impairment at least annually at the reporting unit level, rather than being amortized, and the amortization period of in
+tangible assets with finite lives is no longer limited to forty years. Using the discounted cash flow method under the requirements of SFAS 142, the Company recorded an impairment of goodwill of 28,863, net of income tax benefit of 580 during the three months ended December 31, 2002 as a result of the adoption of SFAS 142 on October 1, 2002. This impairment charge is reflected in the consolidated statement of operations as a cumulative effect of change in accounting principle. (See Note 3- "Cumulative Effect of Change of Accounting Principle" for further information on this charge). 
+
+Net Income (Loss). For the three months ended December 31, 2003, the Company had net income of 110 compared to a net loss of 31,181 for the comparable period in fiscal 2003, due to the factors discussed above. 
+
+Liquidity and Capital Resources. The following are considered by management as key measures of liquidity applicable to the Company: 
+
+December 31, 2003 
+
+September 30, 2003 
+
+Cash and cash equivalents 
+
+3,546 
+
+4,114 
+
+Working capital 
+
+35,138 
+
+32,725 
+
+Cash and cash equivalents declined 568 and working capital increased 2,413 during the three months ended December 31, 2003 due to the factors described below. 
+
+For the three months ended December 31, 2003, cash provided by (used for) operating activities by continuing operations increased to cash provided of 395 from cash used of 5,299 for the three months ended December 31, 2002. The increase in cash provided by operating activities occurred primarily due to lower interest payments, higher net income from continuing operations before cumulative effect of change in accounting principle, and other various working capital changes. 
+
+Capital expenditures totaled 1,478 during the three months ended December 31, 2003. The Company anticipates that available cash and existing credit facilities will be sufficient to fund remaining fiscal 2004 capital expenditure requirements. 
+
+- 14 - 
+
+Cash provided by (used for) financing activities during the three months ended December 31, 2003 was cash provided of 473 compared to cash used of 103,274 during the three months ended December 31, 2002. The change was primarily the result of decreased debt repayments due to the retirement of 104,480 of Senior Notes during the three months ended December 31, 2002. 
+
+As of December 31, 2003, the Company had approximately 18,460 of additional borrowing capacity available under various foreign and domestic credit arrangements. In April 2002, the Company established a three-year domestic credit facility secured by domestic receivables and inventory with a maximum borrowing capacity of 15,000. The borrowing capacity varies based upon the levels of domestic receivables and inventory. As of December 31, 2003, the Company had approximately 9,730 of borrowing capacity under the domestic credit facility and 8,730 available under various foreign credit facilities. 
+
+The Company s foreign credit facilities are generally collateralized by assets owned by subsidiaries of the Company and also carry various financial covenants. The Company s domestic credit facility is collateralized by domestic receivables and inventory and carries a variable interest rate. The variable interest rate is currently equal to either one-quarter percent per annum in excess of the prime rate or two and one-quarter (2 percent per annum in excess of the adjusted euro dollar rate and may be adjusted depending upon the Company s leverage ratio, as defined, excess credit availability under the credit facility and the Company s financial results. The Company s domestic credit facility contains cust
+omary financial covenants which vary depending upon excess availability, as defined in the credit facility agreement. 
+
+The Company s domestic credit facility contains a number of covenants including, among others, limitations on the ability of the Company and its restricted subsidiaries to (i) incur additional indebtedness, (ii) pay dividends or redeem any capital stock, (iii) incur liens or other encumbrances on their assets, (iv) enter into transactions with affiliates, (v) merge with or into any other entity or (vi) sell any of their assets. In addition, any "change of control" of the Company or its restricted subsidiaries will constitute a default under the facility ("change of control" means (i) the sale, lease or other disposition of all or substantially all of the assets of such entity, (ii) the adoption of a plan relating to the liquidation or dissol
+ution of such entity, (iii) any person or group becoming beneficial owner of more than 50 of the total voting power of the voting stock of such entity or (iv) until April 2004, a majority of the members of the board of directors of any such entity no longer being "continuing directors" where "continuing directors" means the members of the board on the date of the credit facility and members that were nominated for election or elected to the board with the affirmative vote of a majority of the "continuing directors" who were members of the board at the time of such nomination or election). 
+
+The Company anticipates that existing cash balances, cash flow from operations, and borrowing capacity will provide adequate liquidity for fiscal 2004. There can, however, be no assurance the Company will be successful in obtaining sources of capital that will be sufficient to support the Company s requirements in the long-term. 
+
+In connection with the Company s November 2002 repurchase of 89,570 principal amount of the Company s outstanding Senior Notes, the terms of the Senior Notes indenture were amended significantly. The amended Senior Notes indenture contains a number of covenants including: restrictions on the sale of assets of the Company in excess of 150,000 and a change of control provision that requires the Company to repurchase all of the Senior Notes at a repurchase price in cash equal to 101 of the principal amount of the Senior Notes upon the occurrence of a change of control. A "change of control" means (i) the sale, lease or other dispos
+ition of all or substantially all of the assets of the Company and its restricted subsidiaries, (ii) the adoption of a plan relating to the liquidation or dissolution of the Company, (iii) any person or group becoming the beneficial owner of more than 50 of the total voting power of the voting stock of the Company or (iv) a majority of the members of the Board of Directors no longer being "continuing directors" where "continuing directors" means the members of the Board of Directors on the date of the indenture and members that were nominated for election or elected to the Board of Directors with the affirmative vote of a majority of the "continuing directors" who were members of the Board at the time of such nomination or election. The interpretation of the phrase "all or substantially all" as used in the Senior Notes indenture varies according to the facts and circumstances of the subject transaction, has no 
+
+- 15 - 
+
+clearly established meaning under New York law (which governs the indenture) and is subject to judicial interpretation. As of December 31, 2003 and September 30, 2003, Senior Notes outstanding were 10,095. 
+
+Off-Balance Sheet Arrangements. The Company does not have any financial instruments classified as off-balance sheet as of December 31, 2003 and September 30, 2003. 
+
+ITEM 3. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK 
+
+The Company s primary market risk exposures include debt obligations carrying variable interest rates and forward purchase contracts intended to hedge accounts payable obligations denominated in currencies other than a given operation s functional currency. Forward currency contracts are used by the Company as a method to establish a fixed functional currency cost for certain raw material purchases denominated in non-functional currency (typically the U.S. dollar). 
+
+The following table summarizes the Company s market-sensitive financial instruments. These transactions are considered non-trading activities: 
+
+Financial Instruments 
+
+US Equivalent 
+
+Weighted 
+
+ Average Interest Rate 
+
+December 31, 
+
+September 30, 
+
+December 31, 
+
+September 30, 
+
+Currency Denomination of Indebtedness 
+
+2003 
+
+2003 
+
+2003 
+
+2003 
+
+Euro (1) 
+
+2,830 
+
+2,496 
+
+4.71 
+
+4.71 
+
+British Pounds Sterling (1) 
+
+1,630 
+
+1,198 
+
+5.75 
+
+5.75 
+
+New Zealand Dollar (1) 
+
+1,422 
+
+1,197 
+
+7.23 
+
+7.23 
+
+Australian Dollar (1) 
+
+240 
+
+- 
+
+7.92 
+
+- 
+
+Swedish Krona (1) 
+
+528 
+
+909 
+
+5.45 
+
+5.45 
+
+Malaysian Ringgit (1) 
+
+18 
+
+46 
+
+7.75 
+
+7.75 
+
+(1) Maturity dates are expected to be less than one year. 
+
+The Company does not have any financial instruments classified as off-balance sheet as of December 31, 2003 and September 30, 2003. 
+
+December 31, 2003 
+
+September 30, 2003 
+
+Receive US /Pay NZ : 
+
+Contract Amount 
+
+None 
+
+US 427 
+
+Average Contractual Exchange Rate 
+
+(US /NZ .5884 
+
+Expected Maturity Dates 
+
+October 2003 through 
+
+November 2003 
+
+Receive US /Pay Australian : 
+
+Contract Amount 
+
+US 1,230 
+
+US 2,178 
+
+Average Contractual Exchange Rate 
+
+(US /A .6754 
+
+(US /A .6624 
+
+Expected Maturity Dates 
+
+January 2004 through 
+
+October 2003 through 
+
+February 2004 
+
+December 2003 
+
+- 16 - 
+
+ITEM 4. CONTROLS AND PROCEDURES 
+
+(a) Evaluation of disclosure controls and procedures. The Company s Chief Executive Officer and Chief Financial Officer, based on their evaluation of the Company s disclosure controls and procedures (as defined in Rule 13a-15(e) or 15d-15(e) under the Securities Exchange Act, as amended), have concluded that as of December 31, 2003, the Company s disclosure controls and procedures
+ were effective to ensure that the information the Company is required to disclose in reports it files or submits under the Securities Exchange Act of 1934, as amended, is recorded, processed, summarized and reported within the time periods specified in the Securities and Exchange Commission rules and forms. 
+
+(b) Changes in internal controls. There have been no significant changes in the Company's internal controls or in other factors that have materially affected, or are reasonably likely to materially affect, the Company's internal controls subsequent to the evaluation referred to in the preceding paragraph (a). There were no significant deficiencies or material weakness identified and, therefore, 
+no corrective actions were taken. 
+
+- 17 - 
+
+PART II OTHER INFORMATION 
+
+ITEM 1. LEGAL PROCEEDINGS 
+
+For a description of the Company s legal proceedings, see Note 7 to the Consolidated Financial Statements included in Part I, Item 1 of this quarterly report on Form 10-Q and Part I, Item 3 of the Company s Form 10-K filed December 19, 2003. 
+
+ITEM 5. OTHER INFORMATION 
+
+The Company s chief executive and chief financial officers have each submitted to the Securities and Exchange Commission their certifications as required under 18 U.S.C. 1350, accompanying the filing of this Report. 
+
+ITEM 6. EXHIBITS AND REPORTS ON FORM 8-K 
+
+(a) Exhibits Reference is hereby made to the exhibit index which appears below. 
+
+The following instruments and documents are included as Exhibits to this Form 10-Q. Exhibits incorporated by reference are so indicated by parenthetical information. 
+
+Exhibit No. 
+
+Exhibit 
+
+10.1 
+
+Employment Agreement between ICO, Inc. and W. Robert Parkey, Jr., dated January 14, 2004, to be effective on February 2, 2004. 
+
+10.2 
+
+Employment Agreement between ICO, Inc. and Jon C. Biro, dated January 28, 2004. 
+
+31.1 
+
+Certification of Chief Executive Officer and ICO, Inc. pursuant to 15 U.S.C. Section 7241. 
+
+31.2 
+
+Certification of Chief Financial Officer and ICO, Inc. pursuant to 15 U.S.C. Section 7241. 
+
+32.1 
+
+Certification of Chief Executive Officer of ICO, Inc. pursuant to 18 U.S.C. Section 1350. 
+
+32.2 
+
+Certification of Chief Financial Officer of ICO, Inc. pursuant to 18 U.S.C. Section 1350. 
+
+Filed herewith 
+
+(b) Reports on Form 8-K 
+
+ On November 4, 2003, the Company filed a Current Report on Form 8-K reporting that it had amended its Rights Agreement dated April 1, 1998 between ICO, Inc. and Harris Trust Savings Bank, which amendment would cause the Rights Agreement to terminate as of the close of business on November 3, 2003. 
+
+On December 9, 2003, the Company filed a Current Report on Form 8-K reporting that its board of directors appointed John F. Gibson to serve on the board, filling a vacant seat, to serve as a Class II director with a term ending at the Company s 2005 annual meeting. 
+
+On December 15, 2003, the Company filed a Current Report on Form 8-K reporting that it had announced its financial results for the quarter and fiscal year ended September 30, 2003. 
+
+- 18 - 
+
+SIGNATURES 
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned, thereunto duly authorized. 
+
+ICO, Inc. 
+
+(Registrant) 
+
+January 30, 2004 
+
+/s/ Jon C. Biro 
+
+Jon C. Biro 
+
+ Chief Financial Officer and 
+
+ (interim) Chief Executive Officer 
+
+/s/ Bradley T. Leuschner 
+
+Bradley T. Leuschner 
+
+ Chief Accounting Officer and 
+
+ (interim) Treasurer 
+
+- 19 - 
+
+<EX-10.1>
+ 3
+ exhibit10-1.htm
+ EXHIBIT 10.1 - PARKEY EMPLOYMENT AGMT
+ 
+ Exhibit 10.1 - Parkey Employment Agmt 
+
+Exhibit 10.1 
+
+EMPLOYMENT AGREEMENT 
+
+This Employment Agreement ("Agreement") is entered into by and between ICO, Inc. (the "Company") and W. Robert Parkey, Jr. ("Employee"), to be effective as of February 2, 2004 (the "Effective Date"). 
+
+WITNESSETH: 
+
+WHEREAS , Employee will become employed by Company on the Effective Date; and 
+
+WHEREAS , the Company desires to employ Employee from and after the Effective Date pursuant to the terms and conditions and for the consideration set forth in this Agreement, and Employee desires to be employed by Company pursuant to such terms and conditions and for such consideration. 
+
+NOW, THEREFORE , for and in consideration of the mutual promises, covenants, and obligations contained herein, the Company and Employee agree as follows: 
+
+ARTICLE 1: EMPLOYMENT AND DUTIES: 
+
+1.1 The Company agrees to employ Employee, and Employee agrees to be employed by the Company, beginning as of the Effective Date and continuing until the date of termination of Employee s employment ("Termination Date"), subject to the terms and conditions of this Agreement. The "Employment Period," as used herein, shall mean the period commencing on the Effective Date, and ending on the Termination Date. The "Term," as used herein, shall mean the initial two years of the Employment Period, expiring at midnight of the day before the second anniversary of the Effective Date. At least six (6) weeks prior to the expiration of th
+e Term, the board of directors ("Board") of the Company shall notify the Employee, in writing pursuant to Section 5.1, of the Board s desire to continue Employee s employment beyond the end of the Term. If the Board desires to retain the Employee, then a new employment agreement shall be negotiated, prepared, and put into effect prior to the end of the Term of this Agreement; however if the parties cannot agree to the terms of a new agreement by the expiration of the Term (or any mutually agreed to extension thereof), then Employee s employment shall terminate at the end of the Term (or any mutually agreed to extension thereof), and shall be subject to 3.1(d). The Company shall be responsible for payment of up to 5,000 of Employee s legal and accounting advisory expenses incurred in connection with the negotiation and execution of a new employment agreement between Employee and the Company. 
+
+1.2 Beginning as of the Effective Date, Employee shall be employed as President and Chief Executive Officer of the Company, and shall be a member of the Board. Employee may also serve as an officer and/or director of the Company s domestic and foreign affiliated subsidiaries, and in such other key contributor capacities as may be requested by the Employer. 
+
+Page 1 of 18 
+
+Employee agrees to serve in such positions, and to perform diligently and to the best of Employee s abilities the duties and services pertaining to such positions as reasonably determined by Company, as well as such additional or different duties and services appropriate to such positions which the Employee from time to time may be directed to perform by the Company. Employee shall report to the Board. 
+ 1.3 Employee shall at all times comply with and be subject to such policies and procedures as the Company may establish from time to time, including, without limitation, the Company s Employee Handbook and Code of Business Ethics. 
+
+1.4 Employee shall, during the Employment Period, devote Employee s full business time, energy, and best efforts to the business and affairs of the Company. Employee may not engage, directly or indirectly, in any other business, investment, or activity that interferes with Employee s performance of Employee s duties hereunder, is contrary to the interest of the Company or any of its affiliated subsidiaries and divisions (collectively, the "ICO Entities" or, individually, an "ICO Entity"), or requires any significant portion of Employee s business time. The ICO Entities as of the Effective Date are listed on Exh
+ibit A attached hereto and incorporated herein. In the event that, during the Employment Period, any of the ICO Entities establish or purchase a 10 or more direct or indirect equity interest in any entity not listed on Exhibit A, such entity shall be deemed to be an ICO Entity for the purposes of this Agreement. The foregoing notwithstanding, the parties recognize and agree that Employee may engage in passive personal investments and other business activities which do not conflict with the business and affairs of the Company or the ICO Entities or interfere with Employee s performance of his duties hereunder. Employee shall be eligible to serve on the board of directors or committees thereof of entities that are not ICO Entities during Employee s employment by the Company, subject to the Board s advance consideration and approval thereof. Employee shall be permitted to retain any compensation received for approved service on any unaffiliated corporation s board of directors or committees
+ thereof. 
+
+1.5 Employee acknowledges and agrees that Employee owes a fiduciary duty of loyalty, fidelity, and allegiance to act at all times in the best interests of the Company and other ICO Entities and to do no act which would, directly or indirectly, injure any such entity s business, interests, or reputation. It is agreed that any direct or indirect interest in, connection with, or benefit from any outside activities, particularly commercial activities, which interest might in any way adversely affect the Company, or any ICO Entity, involves a possible conflict of interest. In keeping with Employee s fiduciary duties to the Co
+mpany, Employee agrees that during the Employment Period Employee shall not knowingly become involved in a conflict of interest with the Company or the ICO Entities, or upon discovery thereof, allow such a conflict to continue. Moreover, during the Employment Period Employee shall not engage in any activity which might involve a possible conflict of interest without first obtaining approval in accordance with this Agreement and the Company s policies and procedures. 
+
+Page 2 of 18 
+
+ARTICLE 2: COMPENSATION AND BENEFITS: 
+
+2.1 During the Employment Period, the Employee shall receive a base salary ("Base Salary") of Three Hundred and Ten Thousand Dollars 310,000) per annum, less all required deductions, including but not limited federal withholding, social security and other taxes, and payable bi-weekly on the Company s regular payroll schedule. During the Employment Period, the Base Salary may be reviewed periodically by the Compensation Committee of the Board (the "Compensation Committee"). The Compensation Committee may make recommendations to the Board to revise the Employee s Base Salary, which may only be revised upon approval by th
+e Board. Any increase in the Base Salary shall not serve to limit or reduce any other obligation to the Employee under this Agreement. During the Term, the Base Salary shall not be reduced. 
+
+2.2 In addition to the Base Salary, the Employee shall be eligible, upon the conclusion of each fiscal year during the Employment Period, to receive an annual bonus (an "Annual Incentive Bonus"), pursuant to an Annual Incentive Bonus structure and formula that has been established and pre-approved by the Board. The Annual Incentive Bonus earned for a given fiscal year, if any, shall be paid in lump sum cash (subject to all legally required withholdings) on or before the last day of the first quarter of the following fiscal year (during or after the Term). Any Annual Incentive Bonus will be considered earned only if the Employee is
+ employed on the October 1 st immediately following the fiscal year on which the bonus is calculated, unless a pro-rata bonus is due as specifically provided for in this Agreement. 
+
+(a) The bonus for the first fiscal year during the Employment Period (which shall be a partial year, ending on September 30, 2004) ("the "Year One Annual Incentive Bonus"), shall be calculated as follows: 
+
+(i) If EBITDA is less than 9.8 million, no Year One Annual Incentive Bonus shall be earned. 
+
+(ii) If EBITDA is greater than or equal to 9.8 million, but less than 12 million, the Year One Annual Incentive Bonus will be X of Base Salary, where 
+
+X = (EBITDA 7,600,000)/ 88,000 
+
+(iii) If EBITDA is greater than or equal to 12 million, the Year One Annual Incentive Bonus will be Y of Base Salary, where 
+
+Y = (EBITDA 6,000,000) /120,000 
+
+For the purposes of the above formula, "EBITDA" is defined as the consolidated operating income or loss from continuing operations plus: (i) depreciation and amortization; (ii) impairment, restructuring, and other 
+
+Page 3 of 18 
+
+costs, and (iii) stock option compensation expense. EBITDA is calculated and determined based on the Company s audited financial statements. 
+
+(b) The Board, subject to the mutual agreement between the Employee and the Board, shall approve the structure and formula for calculating the Year Two Annual Incentive Bonus (for the fiscal year commencing on October 1, 2004), and for calculating the Annual Incentive Bonus for each fiscal year thereafter. The structure for calculating the Year Two Annual Incentive Bonus shall be similar to the structure for calculating the Year One Annual Incentive Bonus, but the formula shall be based on the Year Two business plan, as presented to and accepted by the Board. 
+
+2.3. In addition to the Base Salary and other benefits afforded to Employee under this Agreement, on the Effective Date Employee shall receive options ("Options") to purchase 600,000 shares of the Common Stock of the Company ("Shares"). 
+
+The Options shall be granted, vest, and, have an exercise price as follows: 
+
+(a) Options to purchase 200,000 Shares, which shall be 100 fully vested on the first anniversary of the Effective Date, shall be granted at an exercise price of 1.25 per Share. Options to purchase 70,000 of the Shares referenced in this clause (a) shall be granted on the Effective Date, and to the extent permitted under the Internal Revenue Code (the "Code"), shall be Incentive Stock Options ("ISOs"). Options to purchase 130,000 of the Shares referenced in this clause (a) shall be granted within five (5) business days after the Company s 2004 Annual Meeting of Shareholders, and in any event no later than April 1, 2004. 
+
+(b) Options to purchase 200,000 Shares, which shall be 100 fully vested on the second anniversary of the Effective Date, shall be granted at an exercise price of 1.75 per Share. Options to purchase 70,000 of the Shares referenced in this clause (b) shall be granted on the Effective Date, and to the extent permitted under the Code, shall be ISOs. Options to purchase 130,000 of the Shares referenced in this clause (b) shall be granted within five (5) business days after the Company s 2004 Annual Meeting of Shareholders, and in any event no later than April 1, 2004. 
+
+(c) Options to purchase 200,000 Shares, which shall be 100 fully vested on the third anniversary of the Effective Date, shall be granted at an exercise price of 2.25 per Share. Options to purchase 70,000 of the Shares referenced in this clause (c) shall be granted on the Effective Date, and to the extent permitted under the Code, shall be ISOs. Options to purchase 130,000 of the Shares referenced in this clause (c) shall be granted within five (5) business days after the Company s 2004 Annual Meeting of Shareholders, and in any event no later than April 1, 2004. 
+
+Page 4 of 18 
+
+Notwithstanding the exercise prices outlined above, in the event that the Fair Market Value (as defined in the applicable stock option plan under which the options are granted) of the Common Stock on the last trading day immediately preceding the Effective Date is greater than the exercise price stated in any of clauses (a), (b), or (c) above, the exercise price for the referenced Options shall be the Fair Market Value of such Shares on the last trading day before the Effective Date. 
+
+The Options shall expire on the seventh anniversary of the Effective Date. Notwithstanding the foregoing, upon termination of Employee s employment for any reason then the options shall expire upon the first business day following the expiration of the three (3) month period after Employee s Termination Date. 
+
+The Options shall be granted under the terms of the Company s 1994, 1995, 1996, and/or 1998 Employee Stock Option Plans, at the Company s discretion, or on terms substantially identical to the terms in such plans, and subject to the Employee s execution of option agreements in compliance with all terms and conditions of the applicable plans. 
+
+2.4 During the Employment Period, the Employee shall be entitled to participate in incentive, savings, and retirement plans, and other standard benefit plans afforded to executive-level employees of the Company, including, without limitation, all medical, dental, disability, group life, accidental death, D O indemnity, and travel accident insurance plans and programs of the Company, to the extent Employee is otherwise eligible under the terms and conditions of the applicable plan or policy, and as such plans or policies may be from time to time be amended, modified or terminated by the Company without prior notice. Dependants 
+of Employee may participate in such plans to the extent allowed for other dependants of executive level Employees of the Company as allowed by the applicable plan. This Agreement shall not be construed to limit in any respect the Company s right to establish, amend, modify, or terminate any benefit plan or policy. Furthermore, the Company shall not by reason of this Article 2 be obligated to institute, maintain, or refrain from changing, amending, or discontinuing, any incentive compensation, employee benefit, or stock or stock option program or plan, so long as such actions are similarly applicable to covered employees generally. 
+
+2.5 During the Employment Period, the Company shall pay or reimburse Employee for all actual, reasonable, and customary expenses incurred by Employee in the course of his employment in accordance with the Company s policies and procedures in effect at the time. Such expenses paid or reimbursed by the Company shall include, but not be limited to, the following: 
+
+(a) In lieu of use of a Company vehicle, and maintenance, repair, and insurance expenses associated therewith, the Employee shall receive a monthly vehicle 
+
+Page 5 of 18 
+
+allowance in the sum of 700.00 ("Vehicle Allowance"), paid on the first payday of each month. 
+
+(b) The Company shall pay or reimburse Employee for all business-related air travel. It is understood that all international travel shall be business class, and that the Employee s spouse may accompany Employee on such international travel on an occasional basis through use of Platinum American Express "partner flies free" plan, or similar plans providing for the spouse to fly free when accompanying Employee. All domestic travel shall be coach class. 
+
+(c) The Company shall pay all costs associated with the Employee s cellular telephone and cellular telephone service. 
+
+(d) The Company shall pay for or reimburse Employee for all business-related expenses to attend, from time to time, President and CEO-related seminars or conferences that will serve to benefit the Company; and for the maintaining and/or increasing the level of contemporary executive management skills, that will serve to benefit the Company. 
+
+2.6 During the Employment Period, the Employee shall be entitled to four weeks of vacation, fully paid, per calendar year. 
+
+2.7 The Company may withhold from any compensation, benefits, or amounts payable under this Agreement all federal, state, city, or other taxes as may be required pursuant to any law or governmental regulation or ruling. 
+
+2.8 Following the end the of the Company s 2004 fiscal year, the Board shall review the Employee s performance to allow, within ninety days after the end of the 2004 fiscal year and subject to the Board s conclusions in its performance review, for negotiations regarding increases in the Employee s Base Salary, bonus structure, equity compensation, severance payment terms, and/or benefits. 
+
+2.9 No amendment, modification, or repeal of Article Eleven of the Articles of Incorporation of the Company (as amended on or before the date hereof) or Article 7 of the Amended and Restated Bylaws of ICO, Inc., as amended October 5, 2001, shall have the effect of limiting or denying any indemnification rights with respect to actions of Employee occurring, or proceedings arising, prior 
+to such amendment, modification, or repeal, which indemnification rights Employee would otherwise have been entitled to if such amendment, modification, or repeal had not been effectuated, and the provisions of Article 7 of the Amended and Restated Bylaws of ICO, Inc., as amended October 5, 2001, shall continue to apply to Employee with respect to actions taken or proceedings arising prior to such amendment, modification, or repeal, as if such amendment, modification or repeal had not been effectuated. Notwithstanding the foregoing, nothing in this Section 2.9 shall entitle Employee to indemnification (i) to any extent not permitted by the Texas Business Corporation Act, as amended from time to time, and (ii) 
+
+Page 6 of 18 
+
+with respect to actions occurring at or after (but not as to actions of Employee occurring prior to) the time of such amendment, modification, or repeal that are the basis for Employee s claim for indemnity to any extent that indemnity for such later actions of Employee is not permitted by such Articles of Incorporation or Bylaws as so amended, modified, or repealed. Employee s rights to indemnification shall continue in effect after the termination of this Agreement, regardless of the cause of termination, for a period of five (5) years thereafter, and as to any claim for indemnification raised or in existence during that five-year period, Employee s rights 
+and the Company s obligations under this Section 2.9 shall continue until such claim is resolved without further right of appeal . 
+
+ARTICLE 3: TERMINATION OF EMPLOYMENT AND EFFECTS OF SUCH TERMINATION: 
+
+3.1 (a) Employee s employment shall be terminated during the Employment Period by reason of the following circumstances: 
+
+(i) Death of Employee . 
+
+(ii) Permanent Disability . "Permanent Disability" shall mean Employee s physical or mental incapacity to perform his usual duties, with such condition likely to remain continuously and permanently as determined by the Board of Directors. The decisions as to whether and as of what date Employee has become permanently disabled are delegated to the Board of Directors for determination, and any dispute of Employee with any such decision shall be limited to whether the Board of Directors reached such dec
+ision in good faith. 
+
+(iii) Voluntary Termination . "Voluntary Termination" shall mean a termination of employment at the election of Employee (other than for Good Reason, as defined in Section 3.2(b) below)). Employee will provide the Company with six (6) weeks advance notice of his intent to terminate his employment voluntarily. Employee shall continue to remain an employee of the Company through the six week notice period and will perform such duties, if any, assigned to him by the Company during the notice perio
+d. Notwithstanding the foregoing, the Company may, at its option, waive the Employee s obligation to remain an employee during all or any portion of the six week notice period, in which case Employee s employment shall cease immediately. 
+
+(iv) Termination by Company for Cause . "Termination for Cause" shall mean a termination of employment immediately upon notice to the Employee from the Company that an event constituting "Cause" has occurred. For purposes 
+
+Page 7 of 18 
+
+of this Agreement, the term "Cause" shall be defined as: (a) an act of dishonesty or fraud; (b) a knowing and material violation of any written policy of the Company or applicable to the Company s operations; (c) a knowing and material violation of an applicable law, rule, or regulation that exposes the Company to damages or liability; (d) a material breach of fiduciary duty; or (e) conviction of a felony. In the event that Employee is terminated for Cause, Employee shall be provided with notice of such termination in accordance with Section 5.1 below. 
+
+(b) In the event Employee s employment terminates as a result of any of the circumstances described in 3.1(a)(i) through (iv) above, all future compensation to which Employee would otherwise be entitled and all future benefits for which Employee is eligible shall cease and terminate as of the Termination Date, except as specifically provided in this Section 3.1, and Employee shall receive payment, if any, for accrued and unused vacation days according to the Company s current policy applicable to payment for unused vacation. In the event of termination for any of the reasons set forth in 3.1(a)(i) through (iv) above, Emp
+loyee shall not be entitled to receive an Annual Incentive Bonus for the fiscal year in which the termination occurs, but shall be entitled to receive an Annual Incentive Bonus, if any, that has been earned but not yet paid to Employee for the fiscal year prior to the fiscal year in which the termination occurs. 
+
+(c) Notwithstanding anything contained in 3.1(b), in the event that Employee s employment terminates as a result of death or permanent disability resulting from any accident or incident beyond Employee s control that occurs while Employee is traveling on Company business or is in the course and scope of employment (excluding any accident or incident occurring when Employee is traveling within Houston and to or from his normal place of business or his residence), the preceding paragraph shall not apply, and instead Employee (or his Estate, as the case may be) shall be entitled to receive payment subject to and calculated 
+in accordance with the provisions of Sections 3.2(a) and 3.2(a)(i) through (iv) below. 
+
+(d) In the event that Employee s employment terminates upon the expiration of the Term because (i) the Board does not desire to continue Employee s employment beyond the Term, (ii) the Employee does not desire to continue his employment beyond the Term, and/or (iii) after the Board has provided the Employee of notice of its desire to the retain the Employee beyond the end of the Term, the parties are unable to agree to the terms of a new agreement by the expiration of the Term (or any mutual extension thereof), then the Termination Date shall be the last day of the Term, and all future compensation to which Employee would otherwise be
+ entitled and all future benefits for which Employee might otherwise be eligible shall cease and terminate as of the Termination Date (other than claims for benefits and payments to be payable after Termination Date under any of the Company s health or welfare plans), and Employee shall receive payment, if any, for accrued and unused vacation days according to the Company s current policy applicable to payment for unused vacation. Furthermore, if Employee s employment ceases at the end of the Term pursuant to this Section 3.1(d), then Employee shall be entitled to receive the Year Two Annual Incentive Bonus, if any, in the event that it has been 
+
+Page 8 of 18 
+
+earned but has not yet been paid to Employee, and shall be entitled to receive a pro-rated Annual Incentive Bonus calculated based on the first quarter (October 1 December 31) of the Company s 2006 fiscal year, to be paid within thirty (30) business days following the end of the Term. 
+
+3.2 The Company reserves the right to terminate Employee s employment without cause. If the Company decides to terminate Employee without cause, it shall provide him with written notice of termination ("Notice of Termination"). The Notice of Termination shall specify the Termination Date. 
+
+(a) If the Termination Date occurs during the Term, Company shall pay Employee, within thirty (30) days after the Termination Date, and after Employee s execution of a full release of all claims against the Company (excluding only claims for benefits and payments to be payable after Termination Date under any of the Company s health or welfare plans, and claims for indemnification against third parties pursuant to Article 7 of the Amended and Restated Bylaws of ICO, Inc., as amended October 5, 2001), an "Early Termination Payment," in lump sum cash (subject to required taxes and withholdings) consisting of the following: 
+
+(i) pro rata Base Salary through the Termination Date, and in the event that the prior fiscal year s Annual Incentive Bonus, if any, has been earned but not yet paid, such Annual Incentive Bonus for the prior fiscal year; and 
+
+(ii) payment, if any, for accrued and unused vacation days according to the Company s current policy applicable to payment for unused vacation; and 
+
+(iii) a sum equal to Employee s current annual Base Salary; and 
+
+(iv) a pro-rated portion of the Annual Incentive Bonus for the fiscal year during which the Termination Date occurs. Such pro-rated portion of the Annual Incentive Bonus will be calculated according to the following example: If the Termination Date occurs on the last day of the second quarter of the 2004 fiscal year, and EBITDA is on track to reach 12,000,000 by the end of the 2004 fiscal year (e.g. EBITDA has reached 6,000,000 as of the last day of the second quarter), Employee would be entitled to receive (representing 182/364 days in the fiscal year) of the percentage of Base Salary that he would otherwise be entitled to receive 
+if EBITDA reached 12,000,000 at the end of that fiscal year, so in this case he would be entitled to 25 (representing of 50 of his Base Salary. 
+
+(b) "Good Reason" shall mean a termination of employment by Employee under any one of the following circumstances: 
+
+(i) In the event of a material breach by Company of any material provision of this Agreement which remains uncorrected for thirty (30) days following written notice ("Material Breach Notice Period") of such breach by 
+
+Page 9 of 18 
+
+Employee to the Board, Employee may terminate this Agreement provided that Employee provides the Board with written notice of such termination, specifying a Termination Date that is on or after the date of such written notice but within sixty (60) days after the expiration of the Material Breach Notice Period and more than forty-five (45) days prior to the expiration of the Term. 
+
+(ii) In the event that there is any material diminution of Employee s job description, job role, responsibilities, and/or scope of position during the Term, Employee may terminate this Agreement upon written notice to the Board of Directors specifying a Termination Date that is on or after the date of such written notice and more than forty-five (45) days prior to the expiration of the Term. 
+
+(iii) If there is any amendment, modification, or repeal of Article Eleven of the Articles of Incorporation of the Company (as amended on or before the date hereof) and/or Article 7 of the Amended and Restated Bylaws of ICO, Inc. (as amended October 5, 2001) by the shareholders or the Board, which amendment, modification, or repeal shall have the effect of limiting or denying, except in any immaterial respect, any indemnification rights that Employee would otherwise be entitled to if such amendment, modification, or repeal had not been effectuated, then Employee may terminate this Agreement within thirty (30) days of the taking effect of suc
+h amendment, modification, or repeal, upon written notice to the Board. 
+
+In the event of such termination by Employee for Good Reason, Employee shall be entitled to an Early Termination Payment subject to and calculated in accordance with the provisions of Sections 3.2(a) and 3.2(a)(i) through (iv) above. 
+
+3.3. Termination following a Change of Control 
+
+(a) For the purposes of this Agreement, "Change of Control" means any of the following events: (i) a merger, share exchange or consolidation in which the Company will not be the surviving entity (or survives only as a subsidiary of an entity), (ii) the sale or exchange by the Company all or substantially all of its assets to any other person or entity, (iii) the acquisition of ownership or control (including, without limitation, power to vote) by any person or entity, including a "group" as contemplated by Section 13(d)(3) of the 1934 Act, of more than 50 of the outstanding shares of the Company's voting stock
+ (based upon voting power); provided , however , that a Change of Control will not include (A) any reorganization, merger, consolidation, sale, exchange, or similar transaction, which involves solely the Company and one or more entities wholly-owned, directly or indirectly, by the Company immediately prior to such event; or (B) the consummation of any transaction or series of integrated transactions immediately following which the record holders of the voting stock of the Company immediately prior to such transaction or series of transactions continue to hold 50 or more of the voting 
+
+Page 10 of 18 
+
+stock (based upon voting power) of (1) any entity that owns, directly or indirectly, the stock of the Company, (2) any entity with which the Company has merged, or (3) any entity that owns an entity with which the Company has merged. 
+
+(b) A "COC Termination" shall be deemed to have occurred if (i) there is a Change of Control during the Term, and (ii) within the twelve (12) month period immediately following the Change of Control (but still within the Term) (A) the Employee s employment terminates for any reason other than the circumstances described in Sections 3.1(a) through (e) above, (B) Employee is required to relocate over 100 miles from Houston, Texas; (C) Employee is required to commute to a location over 100 miles from the Company s current corporate offices; (D) Employee s Base Salary is mat
+erially reduced or any other material benefit of the Employee s employment is materially reduced; or (E) there is any material diminution of Employee s job description, job role, responsibilities, and/or scope of position. In the event of a COC Termination, the Company or successor in interest shall be obligated to pay employee, within thirty (30) days after the Termination Date, and after Employee s execution of a full release of all claims against the Company (excluding only claims for benefits and payments to be payable after Termination Date under any of the Company s health or welfare plans, and claims for indemnification against third parties pursuant to Article 7 of the Amended and Restated Bylaws of ICO, Inc., as amended October 5, 2001), a "COC Termination Payment," in lump sum cash (subject to required taxes and withholdings), consisting of the following: 
+
+(i) pro rata Base Salary through the Termination Date, and in the event that the prior fiscal year s Annual Incentive Bonus, if any, has been earned but not yet paid, such Annual Incentive Bonus for the prior fiscal year; and 
+
+(ii) a sum equal to 150 of the Employee s current annual Base Salary; and 
+
+(iii) a pro-rated portion of the Annual Incentive Bonus for the fiscal year during which the Termination Date occurs, calculated consistent with the example set forth in 3.2(a)(iv) above. 
+
+In addition to the COC Termination Payment, in the event of a COC Termination: (x) the Company shall pay any premiums due under COBRA (or any legal successor thereto) in order to maintain Employee s current medical and dental insurance coverages for the 12-month period immediately following the Termination Date, and (y) with regard to any of the Company s welfare plans (e.g. life insurance) that Employee participates in immediately prior to the Termination Date, if such plans allow for continued coverage after termination of employment, the Company shall pay the premiums that would otherwise be due from the Employee in order to maintain Employee s coverages during the 12-month period immediately following the Termination Date. 
+
+3.4 Any Early Termination Payment or COC Termination Payment ("Termination Benefit") paid to Employee pursuant to Section 3.2 or 3.3 shall be in consideration of Employee s continuing obligations under Article 4. Nothing contained in this Article 3 shall be construed to be a waiver by Employee of any benefits accrued for or due Employee under any 
+
+Page 11 of 18 
+
+employee benefit plan (as such term is defined in the Employee Retirement Income Security Act of 1974, as amended), maintained by the Company except that Employee shall not be entitled to any severance benefits pursuant to any severance plan or program of the Company. 
+
+3.5 Termination of the employment relationship does not terminate those obligations imposed by this Agreement which are continuing obligations, including Employee s obligations under Article 4. 
+
+ARTICLE 4: 
+
+ OWNERSHIP AND PROTECTION OF INTELLECTUAL PROPERTY 
+
+ AND CONFIDENTIAL INFORMATION; 
+
+ NON-COMPETITION AGREEMENT: 
+
+4.1 All information, ideas, concepts, improvements, discoveries, and inventions, whether patentable or not, which are conceived, made, developed or acquired by Employee, individually or in conjunction with others, during Employee s employment by the Company (whether during business hours or otherwise and whether on the Company s premises or otherwise) which relate to the business, products or services of the Company or any of the ICO Entities (including, without limitation, all such information relating to corporate opportunities, confidential financial information, research and development activities, sales data, pricin
+g and trading terms, evaluations, opinions, interpretations, acquisition prospects, the identity of customers or potential customers and their requirements, the identity of key contacts within the customers organizations or within the organizations of acquisition prospects, marketing and merchandising techniques, prospective names, and marks), and all writings or material of any type embodying any of such items, shall be the sole and exclusive property of ICO or the ICO Entities, as the case may be. 
+
+4.2 Employee acknowledges that the businesses of the Company and the ICO Entities are highly competitive and that their strategies, methods, books, records, and documents, their technical information concerning their products, equipment, services, and processes, procurement procedures and pricing techniques, the names of and other information (such as credit and financial data) concerning their customers and business affiliates (including but not limited to the products and/or services marketed, advertised, and/or sold to customers and prospective customers, and the prices charged or quoted to them for such products and/or service
+s, and the business activities, needs, and requirements for products and/or services of such customers or prospective customers) all comprise confidential business information and trade secrets which are valuable, special, and unique assets which the Company or the ICO Entities use in their business to obtain a competitive advantage over their competitors. Employee further acknowledges that protection of such confidential business information and trade secrets against unauthorized disclosure and use is of critical importance to the Company and the ICO Entities in maintaining their competitive position. Employee hereby agrees that Employee will not, at any time during or after the Employment Period, make any unauthorized disclosure of any confidential business information or trade secrets of the Company or any other ICO Entity, or make any use thereof, except in the carrying out of his employment responsibilities hereunder. 
+
+Page 12 of 18 
+
+Confidential business information shall not include information in the public domain (but only if the same becomes part of the public domain through a means other than a disclosure prohibited hereunder). The above notwithstanding a disclosure shall not be unauthorized if (i) it is required by law or by a court of competent jurisdiction or (ii) it is in connection with any judicial arbitration, dispute resolution or other legal proceeding in which Employee s legal rights and obligations as an Employee or under this Agreement are at issue; provided, however, that Employee shall, to the extent practicable and lawful in any such events, give prior notice to the Company of his intent to disclose any such confidential business information in such context so as to allow the Company or the applica
+ble ICO Entity an opportunity (which Employee will cooperate with and will not oppose) to obtain such protective orders or similar relief with respect thereto as may be deemed appropriate. 
+
+4.3 All written materials, records, and other documents made by, or coming into the possession of, Employee during the Employment Period which contain or disclose confidential business information or trade secrets of the Company or the ICO Entities shall be and remain the property of the Company or the ICO Entities, as the case may be. Upon termination of Employee s employment with the Company, for any reason, Employee promptly shall deliver the same and all copies thereof to the Company. 
+
+4.4 To enable Employee to perform the duties contemplated by this Agreement, the Company promises that it will disclose confidential information, including confidential business information and trade secrets of the nature described or referenced in Sections 4.1 4.3 above, during the Employment Period and before termination of the employment relationship established by this Agreement. In return for and ancillary to the promise made by the Company to make such disclosure, Employee hereby makes a reciprocal promise designed to enforce the Company s interest in protecting its confidential information and its goodwill. Acco
+rdingly, Employee promises to comply with the obligations set forth in Sections 4.1 through 4.3 above, and furthermore, Employee agrees that, during Employee s employment with the Company and/or any other ICO Entity, and for fifteen (15) months following the end of employment with the Company or any other ICO Entity for any reason, Employee will not, directly or through any other person, firm, or corporation, in any country in which the Company or any ICO Entity does business: 
+
+(a) perform services as an employee, officer, director or independent contractor for any Competing Enterprise (as defined below); 
+
+(b) be an owner, shareholder (except for the ownership by Employee of less than Five Percent (5 of the equity securities of any publicly-traded company), agent, or partner of, or serve in an executive position with, any Competing Enterprise; 
+
+(c) call on or otherwise communicate with any customer or prior customer of the Company and/or any ICO Entity, including any respective successors and assigns, for the purpose of soliciting business for a Competing Enterprise or for someone other than the Company and/or other ICO Entities; or 
+
+Page 13 of 18 
+
+(d) do anything to interfere with the normal operation of the businesses of the Company or any other ICO Entity, including, without limitation, make any effort personally or through others to recruit, hire, or solicit any employee or independent contractor of the Company or another ICO Entity to leave the Company or such ICO Entity, or to interfere in any way with any ICO Entity s relationships with its customers or suppliers. 
+
+For purposes of this Section, the term "Competing Enterprise" shall mean: any person or any business organization of whatever form, excluding the Company and/or any other ICO Entity, engaged directly or indirectly in any business or enterprise whose business activities specifically relate to or involve: (i) grinding, processing, blending, and/or compounding of polymer products for (a) the rotational molding industry, or (b) any other industry that ICO Polymers North America, Inc. or any other ICO Entity specifically services or sells to; or (ii) the production of concentrates or compounds or other processing services related to polymer products as conducted by Bayshore Industrial, Inc. or any other ICO Entities. 
+
+ARTICLE 5: MISCELLANEOUS: 
+
+5.1 For purposes of this Agreement, notices and all other communications provided for herein shall be in writing and shall be deemed to have been duly given when received by or tendered to Employee or the Company, as applicable, by pre-paid courier or by United States registered or certified mail, return receipt requested, postage prepaid, addressed as follows: 
+
+If to the Company, to 
+
+ICO, Inc., To the attention of the Chairman of the Board of Directors 
+
+ 5333 Westheimer Road, Suite 600 
+
+ Houston, Texas 77056 
+
+or to such other address as either party shall have furnished to the other in writing in accordance herewith. Notice and communications shall be effective when actually received by the addressee. 
+
+If to Employee, to his last known personal residence. 
+
+Notwithstanding the foregoing, any Notice of Termination pursuant to Article 3 may be delivered to the Employee in accordance with the above sentences in this Section 5.1, or by email to the Employee s Company email address, and in the event of such delivery by email, the Delivery Date shall be conclusively determined to be the date when such email was received on the Company s server regardless of the date when such email was opened by the Employee. 
+
+5.2 This Agreement shall be governed by and construed and enforced, in all respects in accordance with the law of the State of Texas, without regard to principles of conflicts of law, unless preempted by federal law, in which case federal law shall govern; provided, however, that 
+
+Page 14 of 18 
+
+the dispute resolution process in Section 5.5 shall govern in all respects with regard to the resolution of disputes hereunder. 
+
+5.3 No failure by either party hereto at any time to give notice of any breach by the other party of, or to require compliance with, any condition or provision of this Agreement shall be deemed a waiver of similar or dissimilar provisions or conditions at the same or at any prior or subsequent time. 
+
+5.4 It is a desire and intent of the parties that the terms, provisions, covenants, and remedies contained in this Agreement shall be enforceable to the fullest extent permitted by law. If any such term, provision, covenant, or remedy of this Agreement or the application thereof to any person, association, or entity or circumstances shall, to any extent, be construed to be invalid or unenforceable in whole or in part, then such term, provision, covenant, or remedy shall be construed in a manner so as to permit its enforceability under the applicable law to the fullest extent permitted by law. In any case, the remaining provisions 
+of this Agreement or the application thereof to any person, association, or entity or circumstances other than those to which they have been held invalid or unenforceable, shall remain in full force and effect. 
+
+5.5 It is the mutual intention of the parties to have any dispute concerning this Agreement resolved out of court. Accordingly, the parties agree that any claim or controversy of whatever nature arising from or relating in any way to this Agreement or the employment of the Employee by the Company, and any continuing obligations under this Agreement, including disputes arising under the common law or federal or state statutes, laws or regulations and disputes with respect to the arbitrability of any claim or controversy, shall be resolved exclusively by final and binding arbitration before a single experienced employment arbitrator
+ selected by the parties and conducted in accordance with the agreement of the parties or as determined by the arbitrator. If the parties are unable to agree to an arbitrator, an arbitrator will be selected in accordance with the Employment Dispute Resolution ("EDR") Rules of the American Arbitration Association ("AAA"). The arbitration will be conducted in Houston, Texas, pursuant to the EDR Rules of the AAA, and the arbitrator shall have full authority to award or grant all remedies provided by law. The judgment upon the award may be enforced by any court having jurisdiction thereof. Each party shall pay the fees of their respective attorneys, the expenses of their witnesses, and any other expenses incurred by such party in connection with the arbitration; provided, however, that the Company shall pay for the fees of the arbitrator or the administrative and filing fees charged by the AAA. However, either party, on its own behalf and on behalf of any other ICO Entities, shall be entitled to seek a restraini
+ng order or injunction in any court of competent jurisdiction to prevent any breach or the continuation of any breach of the provisions of herein . 
+
+5.6 This Agreement shall be binding upon and inure to the benefit of the Company, to the extent herein provided, the Company and any other person, association, or entity which may hereafter acquire or succeed to all or substantially all of the business or assets of the Company by any means whether direct or indirect, by purchase, merger, consolidation, or otherwise. Employee s rights and obligations under this Agreement are personal and such rights, benefits, 
+
+Page 15 of 18 
+
+and obligations of Employee shall not be voluntarily or involuntarily assigned, alienated, or transferred, whether by operation of law or otherwise, without the prior written consent of the Company. 
+
+5.7 This Agreement replaces and extinguishes any previous agreements and discussions pertaining to the subject matter covered herein. This Agreement constitutes the entire agreement of the parties with regard to the terms of Employee s employment, termination of employment and severance benefits, and contains all of the covenants, promises, representations, warranties, and agreements between the parties with respect to such matters. Each party to this Agreement acknowledges that no representation, inducement, promise, or agreement, oral or written, has been made by either party with respect to the foregoing matters which is n
+ot embodied herein, and that no agreement, statement, or promise relating to the employment of Employee by the Company that is not contained in this Agreement shall be valid or binding, except as set forth in any applicable Employee benefit plan. It is understood that, by signing below, Employee acknowledges that this Agreement supercedes any agreements or understandings regarding the subject matter covered herein made prior to the Employee signing this document. Any modification of this Agreement will be effective only if it is in writing and signed by each party whose rights hereunder are affected thereby, provided that any such modification must be authorized or approved by the Board of Directors or its delegate, as appropriate. 
+
+Page 16 of 18 
+
+IN WITNESS WHEREOF , the Company and Employee have duly executed this Agreement in multiple originals to be effective on the Effective Date. 
+
+ICO, Inc.
+
+/s/ Christopher N. O Sullivan 
+
+Christopher N. O Sullivan 
+
+Chairman of the Board of Directors 
+
+Date: January 14, 2004
+
+Employee 
+
+/s/ W. Robert Parkey, Jr. 
+
+W. Robert Parkey, Jr. 
+
+Date: January 14, 2004 
+
+Page 17 of 18 
+
+EXHIBIT A 
+
+The ICO Entities (as defined in Section 1.4) are listed below, with country of incorporation and state (if U.S.) indicated. 
+
+Bayshore Industrial, Inc. USA, TX 
+
+ Courtenay Polymers Pty Ltd. - Australia 
+
+ Fabri-Moulds Ltd. - UK 
+
+ ICO Europe BV The Netherlands 
+
+ ICO Global Services, Inc. USA, DE 
+
+ ICO Holdings Australia Pty Ltd. - Australia 
+
+ ICO Holdings New Zealand Ltd. New Zealand 
+
+ ICO Holland BV The Netherlands 
+
+ ICO Italia Srl - Italy 
+
+ ICO Minerals, Inc. USA, DE 
+
+ ICO Offshore Cayman Islands 
+
+ ICO P O, Inc. USA, DE 
+
+ ICO Petrochemical Cayman Islands Cayman Islands 
+
+ ICO Polymers do Brasil Ltda. - Brazil 
+
+ ICO Polymers France SAS - France 
+
+ ICO Polymers Hellas Ltd. - Greece 
+
+ ICO Polymers North America, Inc. USA, NJ 
+
+ ICO Polymers UK Ltd. - UK 
+
+ ICO Polymers, Inc. USA, DE 
+
+ ICO Scandinavia AB - Sweden 
+
+ ICO Technology, Inc. USA, DE 
+
+ ICO UK Ltd. - UK 
+
+ ICO Worldwide, LP USA, TX 
+
+ ICO Worldwide (UK), Ltd. - UK 
+
+ ICO Worldwide Tubular Services PTE Ltd. - Singapore 
+
+ Innovation Company, S.A. de C.V. - Mexico 
+
+ J.R. Courtenay (N.Z.) Ltd. New Zealand 
+
+ J.R. Courtenay Sdn Bhd - Malaysia 
+
+ Rotec Chemicals, Ltd. - UK 
+
+ Lomic SCI - France 
+
+ Soreco SAS - France 
+
+ Swavasey Colours Ltd. - UK 
+
+ Tecron Industries Ltd. - UK 
+
+ Verplast Srl - Italy 
+
+ Wedco Minerais Ltda. - Brazil 
+
+ Wedco Petrochemical, Inc. USA, DE 
+
+ Wedco Technology U.K. Ltd. - UK 
+
+ Wedco Technology, Inc. USA, NJ 
+
+ Worldwide GP, LLC USA, DE 
+
+ Worldwide LP, LLC USA, DE 
+
+Page 18 of 18 
+
+</EX-10.1>
+
+<EX-10.2>
+ 4
+ exhibit10-2.htm
+ EXHIBIT 10.2 - BIRO EMPLOYMENT AGMT
+ 
+ Exhibit 10.2 - Biro Employment Agmt 
+
+Exhibit 10.2 
+
+SECOND AMENDED AND RESTATED 
+
+ EMPLOYMENT AGREEMENT 
+
+This Employment Agreement ("Agreement") is entered into by and between ICO, Inc. (the "Company") and Jon C. Biro ("Employee"), to be effective as of January 28, 2004 (the "Effective Date"). 
+
+WITNESSETH: 
+
+WHEREAS , Employee is currently employed by the Company, and shall continue to be employed by Company on the Effective Date; and 
+
+WHEREAS , the Company desires to employ Employee from and after the Effective Date pursuant to the terms and conditions and for the consideration set forth in this Agreement, and Employee desires to be employed by Company pursuant to such terms and conditions and for such consideration. 
+
+NOW, THEREFORE , for and in consideration of the mutual promises, covenants, and obligations contained herein, the Company and Employee agree as follows: 
+
+ARTICLE 1: EMPLOYMENT AND DUTIES: 
+
+1.1 The Company agrees to employ Employee, and Employee agrees to be employed by the Company, beginning as of the Effective Date and continuing until the date of termination of Employee s employment ("Termination Date"), subject to the terms and conditions of this Agreement. It is expressly understood and agreed that, as of the Effective Date, this Agreement shall amend, supercede, and replace the Amended and Restated Employment Agreement dated September 4, 1998, by and between Employee and the Company, and all amendments and supplements to that agreement. The "Employment Period," as used herein, shall mean the period commenc
+ing on the Effective Date, and ending on the Termination Date. The "Term," as used herein, shall mean the period commencing on the Effective Date, and expiring at midnight of the day before the second anniversary of the Effective Date. 
+
+(a) At least six (6) weeks prior to the expiration of the Term (and each mutually agreed to extension thereof), the board of directors ("Board") of the Company shall notify the Employee, in writing pursuant to Section 5.1, of the Board s desire to continue Employee s employment beyond the end of the Term (or any mutually agreed to extension thereof). If the Board desires to retain the Employee, then the parties shall amend this agreement to extend the Employment Period for an additional two-year period ("Extension Period"), and the Term (or any mutually agreed to extension thereof) shall be extended for an additional two 
+
+Page 1 of 19 
+
+years, or a new employment agreement (on substantially the same terms as this Agreement) shall be negotiated, prepared, and put into effect prior to the end of the Term (or any mutually agreed to extension thereof); however if the parties cannot agree to the terms of a new agreement by the expiration of the Term (or any mutually agreed to extension thereof), then Employee s employment shall terminate at the end of the Term (or any mutually agreed to extension thereof), and shall be subject to 3.1(d). 
+
+(b) For the avoidance of doubt it is the parties understanding that if this Agreement is extended for an Extension Period or any subsequent Extension Period, at the end of any such Extension Period, the provisions of Section 1.1(a) shall apply, and any reference in this Agreement to the Term shall include any mutually agreed extension thereof, whether or not expressly noted. 
+
+(c) The Company shall be responsible for payment of up to 4,000 of Employee s legal and accounting advisory expenses incurred in connection with the initial negotiation and execution of this Second Amended and Restated Employment, and up to 4,000 of Employee s legal and accounting advisory expenses incurred in connection with any new employment agreement between Employee and the Company that is proposed or prepared by Company and presented to Employee prior to the expiration of the initial two-year Term of this Agreement and each subsequent extension thereof. 
+
+1.2 Beginning as of the Effective Date and throughout the Term (and mutually agreed to extension thereof), Employee shall continue to be employed as Chief Financial Officer and Treasurer of the Company, and shall be a member of the Board. Employee shall also continue to serve as an officer and/or director of the Company s domestic and foreign affiliated subsidiaries, and in such other key contributor capacities as may be requested by the Employer. Employee agrees to serve in such positions, and to perform diligently and to the best of Employee s abilities the duties and services pertaining to such positions as reasonably
+ determined by Company, as well as such additional or different duties and services appropriate to such positions which the Employee from time to time may be directed to perform by the Company. Employee shall report to the Chief Executive Officer. 
+
+1.3 Employee shall at all times comply with and be subject to such policies and procedures as the Company may establish from time to time, including, without limitation, the Company s Employee Handbook and Code of Business Ethics. 
+
+1.4 Employee shall, during the Employment Period, devote Employee s full business time, energy, and best efforts to the business and affairs of the Company. Employee may not engage, directly or indirectly, in any other business, investment, or activity that interferes with Employee s performance of Employee s duties hereunder, is contrary to the interest of the Company or any of its affiliated subsidiaries and divisions (collectively, the "ICO Entities" or, 
+
+Page 2 of 19 
+
+individually, an "ICO Entity"), or requires any significant portion of Employee s business time. The ICO Entities as of the Effective Date are listed on Exhibit A attached hereto and incorporated herein. In the event that, during the Employment Period, any of the ICO Entities establish or purchase a 10 or more direct or indirect equity interest in any entity not listed on Exhibit A, such entity shall be deemed to be an ICO Entity for the purposes of this Agreement. The foregoing notwithstanding, the parties recognize and agree that Employee may engage in passive personal investments and other business activities which do not conflict with the business and affairs of the Company or the ICO Entities or interfere with Employee s performance of his duties hereunder. Employee shall be eli
+gible to serve on the board of directors or committees thereof of entities that are not ICO Entities during Employee s employment by the Company, subject to the Board s advance consideration and approval thereof. Employee shall be permitted to retain any compensation received for approved service on any unaffiliated corporation s board of directors or committees thereof. 
+
+1.5 Employee acknowledges and agrees that Employee owes a fiduciary duty of loyalty, fidelity, and allegiance to act at all times in the best interests of the Company and other ICO Entities and to do no act which would, directly or indirectly, injure any such entity s business, interests, or reputation. It is agreed that any direct or indirect interest in, connection with, or benefit from any outside activities, particularly commercial activities, which interest might in any way adversely affect the Company, or any ICO Entity, involves a possible conflict of interest. In keeping with Employee s fiduciary duties to the Company, Employe
+e agrees that during the Employment Period Employee shall not knowingly become involved in a conflict of interest with the Company or the ICO Entities, or upon discovery thereof, allow such a conflict to continue. Moreover, during the Employment Period Employee shall not engage in any activity which might involve a possible conflict of interest without first obtaining approval in accordance with this Agreement and the Company s policies and procedures. 
+
+ARTICLE 2: COMPENSATION AND BENEFITS: 
+
+2.1 During the Employment Period, the Employee shall receive a base salary ("Base Salary") of Two Hundred and Thirty Thousand Dollars 230,000) per annum, less all required deductions, including but not limited federal withholding, social security and other taxes, and payable bi-weekly on the Company s regular payroll schedule. During the Employment Period, the Base Salary shall be reviewed at least annually by the Compensation Committee of the Board (the "Compensation Committee"). The Compensation Committee may make recommendations to the Board to increase the Employee s Base Salary, which may only be effective upon ap
+proval by the Board. Any increase in the Base Salary shall not serve to limit or reduce any other obligation to the Employee under this Agreement. During the Term (and each mutual extension thereof), the Base Salary shall not be reduced. 
+
+2.2 In addition to the Base Salary, the Employee shall be eligible, upon the conclusion of each fiscal year during the Employment Period, to receive an annual bonus (an 
+
+Page 3 of 19 
+
+"Annual Incentive Bonus"), pursuant to an Annual Incentive Bonus structure and formula that has been established and pre-approved by the Board. The Annual Incentive Bonus earned for a given fiscal year, if any, shall be paid in lump sum cash (subject to all legally required withholdings) on or before the last day of the first quarter of the following fiscal year (during or after the Term). Any Annual Incentive Bonus will be considered earned only if the Employee is employed on the October 1 st immediately following the fiscal year on which the bonus is calculated, unless a pro-rata bonus is due as specifi
+cally provided for in this Agreement. 
+
+(a) The bonus for the first fiscal year during the Employment Period (ending on September 30, 2004) ("the "Year One Annual Incentive Bonus"), shall be calculated as follows: 
+
+(i) If EBITDA is less than 9.8 million, no Year One Annual Incentive Bonus shall be earned. 
+
+(ii) If EBITDA is greater than or equal to 9.8 million, but less than 12 million, the Year One Annual Incentive Bonus will be X of Base Salary, where 
+
+X = [(EBITDA 7,600,000)/ 88,000] x 65 
+
+(iii) If EBITDA is greater than or equal to 12 million, the Year One Annual Incentive Bonus will be Y of Base Salary, where 
+
+Y = [(EBITDA 6,000,000) /120,000] x 65 
+
+For the purposes of the above formula, "EBITDA" is defined as the consolidated operating income or loss from continuing operations plus: (i) depreciation and amortization; (ii) impairment, restructuring, and other costs, and (iii) stock option compensation expense. EBITDA is calculated and determined based on the Company s audited financial statements. 
+
+(b) The Board, subject to the mutual agreement between the Employee and the Board, shall approve the structure and formula for calculating the Year Two Annual Incentive Bonus (for the fiscal year commencing on October 1, 2004), and for calculating the Annual Incentive Bonus for each fiscal year thereafter (provided that the Term of this Agreement has been so extended). The structure for calculating the Year Two Annual Incentive Bonus shall be similar to the structure for calculating the Year One Annual Incentive Bonus, but the formula shall be based on the Year Two business plan, as presented to and accepted by the Board. It is the parties intention that Employee s Annual Incentive Bonuses be calculated consistent with the Company s Chief Executive Officer s Annual Incentive Bonuses. 
+
+Page 4 of 19 
+
+2.3. In addition to the Base Salary and other benefits afforded to Employee under this Agreement, on the Effective Date Employee shall be granted options ("Options") to purchase 126,000 shares of the Common Stock of the Company ("Shares"). 
+
+The Options shall vest as follows: 
+
+(a) Options to purchase 42,000 Shares shall be 100 fully vested on the Effective Date. 
+
+(b) Options to purchase 42,000 Shares shall be 100 fully vested two days before the first anniversary of the Effective Date. 
+
+(c) Options to purchase 42,000 Shares shall be 100 fully vested two days before the second anniversary of the Effective Date. 
+
+All of the 126,000 Options shall be granted at an exercise price equal to the Fair Market Value (as defined in the applicable stock option plan under which the options are granted) of the Common Stock on the Effective Date, and to the extent permitted under the Internal Revenue Code, shall be Incentive Stock Options ("ISOs"). The Options shall expire on the seventh anniversary of the Effective Date. Notwithstanding the foregoing, upon termination of Employee s employment for any reason then the options shall expire upon the first business day following the expiration of the three (3) month period after Employee s Termination Date. The Options shall be granted under the terms of the Company s 1994, 1995, 1996, and/or 1998 Employee Stock Option Plans, at the Company s disc
+retion, or on terms substantially identical to the terms in such plans, and subject to the Employee s execution of option agreements in compliance with all terms and conditions of the applicable plans. 
+
+2.4 During the Employment Period, the Employee shall be entitled to participate in incentive, savings, and retirement plans, and other standard benefit plans afforded to executive-level employees of the Company, including, without limitation, all medical, dental, disability, group life, accidental death, D O indemnity, and travel accident insurance plans and programs of the Company, to the extent Employee is otherwise eligible under the terms and conditions of the applicable plan or policy, and as such plans or policies may be from time to time be amended, modified or terminated by the Company without prior notice. Dependents 
+of Employee may participate in such plans to the extent allowed for other dependants of executive level Employees of the Company as allowed by the applicable plan. This Agreement shall not be construed to limit in any respect the Company s right to establish, amend, modify, or terminate any benefit plan or policy. Furthermore, the Company shall not by reason of this Article 2 be obligated to institute, maintain, or refrain from changing, amending, or discontinuing, any incentive compensation, employee benefit, or stock or stock option program or plan, so long as such actions are similarly applicable to covered employees generally. 
+
+Page 5 of 19 
+
+2.5 During the Employment Period, the Company shall pay or reimburse Employee for all actual, reasonable, and customary expenses incurred by Employee in the course of his employment in accordance with the Company s policies and procedures in effect at the time. Such expenses paid or reimbursed by the Company shall include, but not be limited to, the following: 
+
+(a) In lieu of use of a Company vehicle, and maintenance, repair, and insurance expenses associated therewith, the Employee shall receive a monthly vehicle allowance in the sum of 1,290.00 ("Vehicle Allowance"), paid on the first payday of each month. 
+
+(b) The Company shall pay or reimburse Employee for all business-related air travel. It is understood that all international travel shall be business class, and that the Employee s spouse may accompany Employee on such international travel on an occasional basis through use of Platinum American Express "partner flies free" plan, or similar plans providing for the spouse to fly free when accompanying Employee. All domestic travel shall be coach class. 
+
+(c) The Company shall pay all costs associated with the Employee s cellular telephone and cellular telephone service. 
+
+(d) The Company shall pay for or reimburse Employee for all business-related expenses to attend, from time to time, seminars or conferences approved by the Chief Executive Officer that will serve to benefit the Company; and for the maintaining and/or increasing the level of professional and contemporary executive management skills, that will serve to benefit the Company. 
+
+2.6 During the Employment Period, the Employee shall be entitled to four weeks of vacation, fully paid, per calendar year. 
+
+2.7 The Company may withhold from any compensation, benefits, or amounts payable under this Agreement all federal, state, city, or other taxes as may be required pursuant to any law or governmental regulation or ruling. 
+
+2.8 Following the end the of the Company s 2004 fiscal year, the Board shall review the Employee s performance to allow, within ninety days after the end of the 2004 fiscal year and subject to the Board s conclusions in its performance review, for negotiations regarding increases in the Employee s Base Salary, bonus structure, equity compensation, severance payment terms, and/or benefits. 
+
+2.9 No amendment, modification, or repeal of Article Eleven of the Articles of Incorporation of the Company (as amended on or before the date hereof) or Article 7 of the Amended and Restated Bylaws of ICO, Inc., as amended October 5, 2001, shall have the effect 
+
+Page 6 of 19 
+
+of limiting or denying any indemnification rights with respect to actions of Employee occurring, or proceedings arising, prior to such amendment, modification, or repeal, which indemnification rights Employee would otherwise have been entitled to if such amendment, modification, or repeal had not been effectuated, and the provisions of Article 7 of the Amended and Restated Bylaws of ICO, Inc., as amended October 5, 2001, shall continue to apply to Employee with respect to actions taken or proceedings arising prior to such amendment, modification, or repeal, as if such amendment, modification or repeal had not been effectuated. Notwithstanding the foregoing, nothing in this Section 2.9 shall entitle Employee to indemnification (i) to any extent not permitted by the Texas Business
+ Corporation Act, as amended from time to time, and (ii) with respect to actions occurring at or after (but not as to actions of Employee occurring prior to) the time of such amendment, modification, or repeal that are the basis for Employee s claim for indemnity to any extent that indemnity for such later actions of Employee is not permitted by such Articles of Incorporation or Bylaws as so amended, modified, or repealed. Employee s rights to indemnification shall continue in effect after the termination of this Agreement, regardless of the cause of termination, for a period of five (5) years thereafter, and as to any claim for indemnification raised or in existence during that five-year period, Employee s rights and the Company s obligations under this Section 2.9 shall continue until such claim is resolved without further right of appeal . 
+
+ARTICLE 3: TERMINATION OF EMPLOYMENT AND EFFECTS OF SUCH TERMINATION: 
+
+3.1 (a) Employee s employment shall be terminated during the Employment Period by reason of the following circumstances: 
+
+(i) Death of Employee . 
+
+(ii) Permanent Disability . "Permanent Disability" shall mean Employee s physical or mental incapacity to perform his usual duties, with such condition likely to remain continuously and permanently as determined by the Board of Directors. The decisions as to whether and as of what date Employee has become permanently disabled are delegated to the Board of Directors for determination, and any dispute of Employee with any such decision shall be limited to whether the Board of Directors reached such decision in good faith. 
+
+(iii) Voluntary Termination . "Voluntary Termination" shall mean a termination of employment at the election of Employee (other than for Good Reason, as defined in Section 3.2(b) below), including termination upon the expiration of the Term because Employee does not desire to continue his employment beyond the end of the Term (as described in Section 3.1(d)(i) below). Employee will provide the Company with six (6) weeks advance notice of 
+
+Page 7 of 19 
+
+his intent to terminate his employment voluntarily. Employee shall continue to remain an employee of the Company through the six week notice period and will perform such duties, if any, assigned to him by the Company during the notice period. Notwithstanding the foregoing, the Company may, at its option, waive the Employee s obligation to remain an employee during all or any portion of the six week notice period, in which case Employee s employment shall cease immediately. 
+
+(iv) Termination by Company for Cause . "Termination for Cause" shall mean a termination of employment immediately upon notice to the Employee from the Company that an event constituting "Cause" has occurred. For purposes of this Agreement, the term "Cause" shall be defined as: (a) an act of dishonesty or fraud; (b) a knowing and material violation of any written policy of the Company or applicable to the Company s operations; (c) a knowing and material violation of an applicable law, rule, or regulation that exposes the
+ Company to damages or liability; (d) a material breach of fiduciary duty; or (e) conviction of a felony. In the event that Employee is terminated for Cause, Employee shall be provided with notice of such termination in accordance with Section 5.1 below. 
+
+(b) In the event Employee s employment terminates as a result of any of the circumstances described in 3.1(a)(i) through (iv) above, all future compensation to which Employee would otherwise be entitled and all future benefits for which Employee is eligible shall cease and terminate as of the Termination Date, except as specifically provided in this Section 3.1 or the terms of any of the Company s health or welfare plans, and Employee shall receive payment, if any, for accrued and unused vacation days according to the Company s current policy applicable to p
+ayment for unused vacation. In the event of termination for any of the reasons set forth in 3.1(a)(i) through (iv) above, Employee shall not be entitled to receive an Annual Incentive Bonus for the fiscal year in which the termination occurs, but shall be entitled to receive an Annual Incentive Bonus, if any, that has been earned but not yet paid to Employee for the fiscal year prior to the fiscal year in which the termination occurs. 
+
+(c) Notwithstanding anything contained in 3.1(b), in the event that Employee s employment terminates as a result of death or permanent disability resulting from any accident or incident beyond Employee s control that occurs while Employee is traveling on Company business or is in the course and scope of employment (excluding any accident or incident occurring when Employee is traveling within Houston and to or from his normal place of business or his residence), the preceding paragraph shall not apply, and instead Employee (or his Estate, as the case may be) shal
+l be entitled to receive payment subject to and calculated in accordance with the provisions of Sections 3.2(a) and 3.2(a)(i) through (iv) below. 
+
+(d) In the event that Employee s employment terminates upon the expiration of the Term because the parties are unable to agree to the terms of a new agreement by the expiration of 
+
+Page 8 of 19 
+
+the Term (or any mutual extension thereof), then the Termination Date shall be the last day of the Term (or any mutual extension thereof), and: 
+
+(i) if the Company has offered to extend the Term of this Agreement (or any mutual extension thereof) (without amending the terms of this Agreement, other than by increasing Employee s salary, bonus, and/or other remuneration or benefits hereunder), or to enter into a new agreement on terms that are substantially the same as the terms of this Agreement (other than by increasing Employee s salary, bonus, and/or other remuneration or benefits hereunder), then if Employee declines to accept the Company s offer, Employee s termination shall be treated as a Voluntary Termination, and the provisions of Section 3.1(b) shall appl
+y; or 
+
+(ii) if the Company has not offered (x) to extend the Term of this Agreement (or any mutual extension thereof) (without amending the terms of this Agreement, other than by increasing Employee s salary, bonus, and/or other remuneration or benefits hereunder), or (y) to enter into a new agreement on terms that are substantially the same as the terms of this Agreement (other than by increasing Employee s salary, bonus, and/or other remuneration or benefits hereunder), then Employee shall be entitled to an Early Termination Payment subject to and calculated in accordance with the provisions of Sections 3.2(a) and 3.2(a)(i) through (iv)
+ below. 
+
+3.2 The Company reserves the right to terminate Employee s employment for any reason other than the circumstances described in Sections 3.1(a)(i) through 3.1(a)(iv) above, or to terminate Employee s employment upon the expiration of the Term, in which case it shall provide him with written notice of termination ("Notice of Termination"). The Notice of Termination shall specify the Termination Date. 
+
+(a) If the Termination Date occurs during the Term (or any mutual extension thereof), or on the last day of the Term (or any mutual extension thereof) because the Board does not desire to continue Employee s employment beyond the Term (or any mutual extension thereof), Company shall pay Employee, within thirty (30) days after the Termination Date, and after Employee s execution of a full release of all claims against the Company (excluding only claims for benefits and payments to be payable after Termination Date under any of the Company s health or welfare plans, and claims for indemnification against third parties pursuant to
+ Article 7 of the Amended and Restated Bylaws of ICO, Inc., as amended October 5, 2001), an "Early Termination Payment," in lump sum cash (subject to required taxes and withholdings) consisting of the following: 
+
+Page 9 of 19 
+
+(i) pro rata Base Salary through the Termination Date, and in the event that the prior fiscal year s Annual Incentive Bonus, if any, has been earned but not yet paid, such Annual Incentive Bonus for the prior fiscal year; and 
+
+(ii) payment, if any, for accrued and unused vacation days according to the Company s current policy applicable to payment for unused vacation; and 
+
+(iii) a sum equal to 200 of the Employee s current annual Base Salary; and 
+
+(iv) a pro-rated portion of the Annual Incentive Bonus for the fiscal year during which the Termination Date occurs. Such pro-rated portion of the Annual Incentive Bonus will be calculated according to the following example: If the Termination Date occurs on the last day of the second quarter of the 2004 fiscal year, and EBITDA is on track to reach 12,000,000 by the end of the 2004 fiscal year (e.g. EBITDA has reached 6,000,000 as of the last day of the second quarter), Employee would be entitled to receive (representing 182/364 days in the fiscal year) of the percentage of Base Salary that he would otherwise be entitled to receive 
+if EBITDA reached 12,000,000 at the end of that fiscal year, so in this case he would be entitled to 16.25 (representing of 32.5 of his Base Salary. 
+
+(b) "Good Reason" shall mean a termination of employment by Employee under any one of the following circumstances: 
+
+(i) In the event of a material breach by Company of any material provision of this Agreement which remains uncorrected for thirty (30) days following written notice ("Material Breach Notice Period") of such breach by Employee to the Board, Employee may terminate this Agreement provided that Employee provides the Board with written notice of such termination, specifying a Termination Date that is on or after the date of such written notice but within sixty (60) days after the expiration of the Material Breach Notice Period. 
+
+(ii) In the event that there is any material diminution of Employee s job description, job role, responsibilities, and/or scope of position during the Term, Employee may terminate this Agreement upon written notice to the Board of Directors specifying a Termination Date that is on or after the date of such written notice. 
+
+(iii) If there is any amendment, modification, or repeal of Article Eleven of the Articles of Incorporation of the Company (as amended on or before the date hereof) and/or Article 7 of the Amended and Restated Bylaws of 
+
+Page 10 of 19 
+
+ICO, Inc. (as amended October 5, 2001) by the shareholders or the Board, which amendment, modification, or repeal shall have the effect of limiting or denying, except in any immaterial respect, any indemnification rights that Employee would otherwise be entitled to if such amendment, modification, or repeal had not been effectuated, then Employee may terminate this Agreement within thirty (30) days of the taking effect of such amendment, modification, or repeal, upon written notice to the Board. 
+
+(iv) If the Company requires the Employee to be based at any office or location outside the greater Houston metropolitan area, except for travel reasonably required in the performance of the Employee s responsibilities, then the Employee may terminate this Agreement upon written notice to the Board of Directors specifying a Termination Date that is on or after the date of such written notice. 
+
+In the event of such termination by Employee for Good Reason, Employee shall be entitled to an Early Termination Payment subject to and calculated in accordance with the provisions of Sections 3.2(a) and 3.2(a)(i) through (iv) above. 
+
+3.3. Termination following a Change of Control 
+
+(a) For the purposes of this Agreement, "Change of Control" means any of the following events: (i) a merger, share exchange or consolidation in which the Company will not be the surviving entity (or survives only as a subsidiary of an entity), (ii) the sale or exchange by the Company all or substantially all of its assets to any other person or entity, (iii) the acquisition of ownership or control (including, without limitation, power to vote) by any person or entity, including a "group" as contemplated by Section 13(d)(3) of the 1934 Act, of more than 50 of the outstanding shares of the Company's voting stock (based upon v
+oting power); provided , however , that a Change of Control will not include (A) any reorganization, merger, consolidation, sale, exchange, or similar transaction, which involves solely the Company and one or more entities wholly-owned, directly or indirectly, by the Company immediately prior to such event; or (B) the consummation of any transaction or series of integrated transactions immediately following which the record holders of the voting stock of the Company immediately prior to such transaction or series of transactions continue to hold 50 or more of the voting stock (based upon vo
+ting power) of (1) any entity that owns, directly or indirectly, the stock of the Company, (2) any entity with which the Company has merged, or (3) any entity that owns an entity with which the Company has merged. 
+
+(b) A "COC Termination" shall be deemed to have occurred if (i) there is a Change of Control during the Term (or any mutual extension thereof), and (ii) within the twelve (12) month period immediately following the Change of Control (but still within the Term (or any mutual extension thereof) (A) the Employee s employment terminates for any reason other than 
+
+Page 11 of 19 
+
+the circumstances described in Sections 3.1(a)(i) through 3.1(a)(iv) above, (B) Employee is required to relocate outside the Houston, Texas metropolitan area; (C) Employee is required to commute to a location outside the Houston, Texas metropolitan area; (D) Employee s Base Salary is materially reduced or any other material benefit of the Employee s employment is materially reduced; or (E) there is any material diminution of Employee s job description, job role, responsibilities, and/or scope of position. In the event of a COC Termination, the Company or successor in interest shall be obligated to pay employee, within thirty (30) days after the Termination Date, and after Employee s execution of a full release of all claims against the Company (excluding only claims for bene
+fits and payments to be payable after Termination Date under any of the Company s health or welfare plans, and claims for indemnification against third parties pursuant to Article 7 of the Amended and Restated Bylaws of ICO, Inc., as amended October 5, 2001), an Early Termination Payment subject to and calculated in accordance with the provisions of Sections 3.2(a) and 3.2(a)(i) through (iv) above. 
+
+In addition to an Early Termination Payment, in the event of a COC Termination: (x) the Company shall pay any premiums due under COBRA (or any legal successor thereto) in order to maintain Employee s current medical and dental insurance coverages for the 12-month period immediately following the Termination Date, and (y) with regard to any of the Company s welfare plans (e.g. life insurance) that Employee participates in immediately prior to the Termination Date, if such plans allow for continued coverage after termination of employment, the Company shall pay the premiums that would otherwise be due from the Employee in order to maintain Employee s coverages during the 12-month period immediately following the Termination Date. 
+
+3.4 Any Early Termination Payment paid to Employee pursuant to Section 3.2 or 3.3 shall be in consideration of Employee s continuing obligations under Article 4. Nothing contained in this Article 3 shall be construed to be a waiver by Employee of any benefits accrued for or due Employee under any employee benefit plan (as such term is defined in the Employee Retirement Income Security Act of 1974, as amended), maintained by the Company except that Employee shall not be entitled to any severance benefits pursuant to any severance plan or program of the Company. 
+
+3.5 Termination of the employment relationship does not terminate those obligations imposed by this Agreement which are continuing obligations, including Employee s obligations under Article 4. 
+
+3.6 Notwithstanding anything in this Agreement to the contrary, if any amounts due to the Employee under this Agreement and any other agreement, plan or program constitute a "parachute payment," as such term is defined in Code Section 280G(b)(2), and the amount of the parachute payment, reduced by all federal, state and local taxes applicable thereto, including the excise tax imposed pursuant to Code Section 4999, is less than the amount the Employee would receive if he were paid three times his "base amount," as defined in Code Section 280G(b)(3), less one dollar, reduced by all federal, state and 
+local taxes applicable thereto, then the aggregate 
+
+Page 12 of 19 
+
+of the amounts constituting the parachute payment shall be reduced to an amount that will equal three times his base amount less one dollar. The determinations to be made with respect to this Section shall be made by an accounting firm selected by the Employee and paid by the Company, and which may be the Company s independent auditors. 
+
+ARTICLE 4: 
+
+ OWNERSHIP AND PROTECTION OF INTELLECTUAL PROPERTY 
+
+ AND CONFIDENTIAL INFORMATION; 
+
+ NON-COMPETITION AGREEMENT: 
+
+4.1 All information, ideas, concepts, improvements, discoveries, and inventions, whether patentable or not, which are conceived, made, developed or acquired by Employee, individually or in conjunction with others, during Employee s employment by the Company (whether during business hours or otherwise and whether on the Company s premises or otherwise) which relate to the business, products or services of the Company or any of the ICO Entities (including, without limitation, all such information relating to corporate opportunities, confidential financial information, research and development activities, sales data, pricin
+g and trading terms, evaluations, opinions, interpretations, acquisition prospects, the identity of customers or potential customers and their requirements, the identity of key contacts within the customers organizations or within the organizations of acquisition prospects, marketing and merchandising techniques, prospective names, and marks), and all writings or material of any type embodying any of such items, shall be the sole and exclusive property of ICO or the ICO Entities, as the case may be. 
+
+4.2 Employee acknowledges that the businesses of the Company and the ICO Entities are highly competitive and that their strategies, methods, books, records, and documents, their technical information concerning their products, equipment, services, and processes, procurement procedures and pricing techniques, the names of and other information (such as credit and financial data) concerning their customers and business affiliates (including but not limited to the products and/or services marketed, advertised, and/or sold to customers and prospective customers, and the prices charged or quoted to them for such products and/or service
+s, and the business activities, needs, and requirements for products and/or services of such customers or prospective customers) all comprise confidential business information and trade secrets which are valuable, special, and unique assets which the Company or the ICO Entities use in their business to obtain a competitive advantage over their competitors. Employee further acknowledges that protection of such confidential business information and trade secrets against unauthorized disclosure and use is of critical importance to the Company and the ICO Entities in maintaining their competitive position. Employee hereby agrees that Employee will not, at any time during or after the Employment Period, make any unauthorized disclosure of any confidential business information or trade secrets of the Company or any other ICO Entity, or make any use thereof, except in the carrying out of his employment responsibilities hereunder. Confidential business information shall not include information in the public domain but only if 
+
+Page 13 of 19 
+
+the same becomes part of the public domain through a means other than a disclosure prohibited hereunder). The above notwithstanding a disclosure shall not be unauthorized if (i) it is required by law or by a court of competent jurisdiction or (ii) it is in connection with any judicial arbitration, dispute resolution or other legal proceeding in which Employee s legal rights and obligations as an Employee or under this Agreement are at issue; provided, however, that Employee shall, to the extent practicable and lawful in any such events, give prior notice to the Company of his intent to disclose any such confidential business information in such context so as to allow the Company or the applicable ICO Entity an opportunity (which Employee will cooperate with and will not oppose) to obtain s
+uch protective orders or similar relief with respect thereto as may be deemed appropriate. Not withstanding the foregoing, the parties agree that nothing in this Agreement shall apply to or restrict in any way Employee from communicating to any state or federal law enforcement agency information that Employee is required by law to so communicate. 
+
+4.3 All written materials, records, and other documents made by, or coming into the possession of, Employee during the Employment Period which contain or disclose confidential business information or trade secrets of the Company or the ICO Entities shall be and remain the property of the Company or the ICO Entities, as the case may be. Upon termination of Employee s employment with the Company, for any reason, Employee promptly shall deliver the same and all copies thereof to the Company. 
+
+4.4 To enable Employee to perform the duties contemplated by this Agreement, the Company promises that it will disclose confidential information, including confidential business information and trade secrets of the nature described or referenced in Sections 4.1 4.3 above, during the Employment Period and before termination of the employment relationship established by this Agreement. In return for and ancillary to the promise made by the Company to make such disclosure, Employee hereby makes a reciprocal promise designed to enforce the Company s interest in protecting its confidential information and its goodwill. Acco
+rdingly, Employee promises to comply with the obligations set forth in Sections 4.1 through 4.3 above, and furthermore, Employee agrees that, during Employee s employment with the Company and/or any other ICO Entity, and for fifteen (15) months following the end of employment with the Company or any other ICO Entity for any reason, Employee will not, directly or through any other person, firm, or corporation, in any country in which the Company or any ICO Entity does business: 
+
+(a) perform services as an employee, officer, director or independent contractor for any Competing Enterprise (as defined below); 
+
+(b) be an owner, shareholder (except for the ownership by Employee of less than Five Percent (5 of the equity securities of any publicly-traded company), agent, or partner of, or serve in an executive position with, any Competing Enterprise; 
+
+Page 14 of 19 
+
+(c) call on or otherwise communicate with any customer or prior customer of the Company and/or any ICO Entity, including any respective successors and assigns, for the purpose of soliciting business for a Competing Enterprise or for someone other than the Company and/or other ICO Entities; or 
+
+(d) do anything to interfere with the normal operation of the businesses of the Company or any other ICO Entity, including, without limitation, make any effort personally or through others to recruit, hire, or solicit any employee or independent contractor of the Company or another ICO Entity to leave the Company or such ICO Entity, or to interfere in any way with any ICO Entity s relationships with its customers or suppliers. 
+
+For purposes of this Section, the term "Competing Enterprise" shall mean: any person or any business organization of whatever form, excluding the Company and/or any other ICO Entity, engaged directly or indirectly in any business or enterprise whose business activities specifically relate to or involve: (i) grinding, processing, blending, and/or compounding of polymer products for (a) the rotational molding industry, or (b) any other industry that ICO Polymers North America, Inc. or any other ICO Entity specifically services or sells to; or (ii) the production of concentrates or compounds or other processing services related to polymer products as conducted by Bayshore Industrial, Inc. or any other ICO Entities. 
+
+ARTICLE 5: MISCELLANEOUS: 
+
+5.1 For purposes of this Agreement, notices and all other communications provided for herein shall be in writing and shall be deemed to have been duly given when received by or tendered to Employee or the Company, as applicable, by pre-paid courier or by United States registered or certified mail, return receipt requested, postage prepaid, addressed as follows: 
+
+If to the Company, to 
+
+ICO, Inc., To the attention of the Chairman of the Board of Directors 
+
+ 5333 Westheimer Road, Suite 600 
+
+ Houston, Texas 77056 
+
+or to such other address as either party shall have furnished to the other in writing in accordance herewith. Notice and communications shall be effective when actually received by the addressee. 
+
+If to Employee, to his last known personal residence. 
+
+Notwithstanding the foregoing, any Notice of Termination pursuant to Article 3 may be delivered to the Employee in accordance with the above sentences in this Section 5.1, or by email to the Employee s Company email address, and in the event of such delivery by email, the 
+
+Page 15 of 19 
+
+Delivery Date shall be conclusively determined to be the date when such email was received on the Company s server regardless of the date when such email was opened by the Employee. 
+
+5.2 This Agreement shall be governed by and construed and enforced, in all respects in accordance with the law of the State of Texas, without regard to principles of conflicts of law, unless preempted by federal law, in which case federal law shall govern; provided, however, that the dispute resolution process in Section 5.5 shall govern in all respects with regard to the resolution of disputes hereunder. 
+
+5.3 No failure by either party hereto at any time to give notice of any breach by the other party of, or to require compliance with, any condition or provision of this Agreement shall be deemed a waiver of similar or dissimilar provisions or conditions at the same or at any prior or subsequent time. 
+
+5.4 It is a desire and intent of the parties that the terms, provisions, covenants, and remedies contained in this Agreement shall be enforceable to the fullest extent permitted by law. If any such term, provision, covenant, or remedy of this Agreement or the application thereof to any person, association, or entity or circumstances shall, to any extent, be construed to be invalid or unenforceable in whole or in part, then such term, provision, covenant, or remedy shall be construed in a manner so as to permit its enforceability under the applicable law to the fullest extent permitted by law. In any case, the remaining provisions 
+of this Agreement or the application thereof to any person, association, or entity or circumstances other than those to which they have been held invalid or unenforceable, shall remain in full force and effect. 
+
+5.5 It is the mutual intention of the parties to have any dispute concerning this Agreement resolved out of court. Accordingly, the parties agree that any claim or controversy of whatever nature arising from or relating in any way to this Agreement or the employment of the Employee by the Company, and any continuing obligations under this Agreement, including disputes arising under the common law or federal or state statutes, laws or regulations and disputes with respect to the arbitrability of any claim or controversy, shall be resolved exclusively by final and binding arbitration before a single experienced employment arbitrator
+ selected by the parties and conducted in accordance with the agreement of the parties or as determined by the arbitrator. If the parties are unable to agree to an arbitrator, an arbitrator will be selected in accordance with the Employment Dispute Resolution ("EDR") Rules of the American Arbitration Association ("AAA"). The arbitration will be conducted in Houston, Texas, pursuant to the EDR Rules of the AAA, and the arbitrator shall have full authority to award or grant all remedies provided by law. The judgment upon the award may be enforced by any court having jurisdiction thereof. The Company shall pay for the fees of the arbitrator or the administrative and filing fees charged by the AAA. However, either party, on its own behalf and on behalf of any other ICO Entities, shall be entitled to seek a restraining order or injunction in any court of competent jurisdiction to prevent any breach or the continuation of any breach of the provisions of herein. 
+
+Page 16 of 19 
+
+5.6 This Agreement shall be binding upon and inure to the benefit of the Company, and any other person, association, or entity which may hereafter acquire or succeed to all or substantially all of the business or assets of the Company by any means whether direct or indirect, by purchase, merger, consolidation, or otherwise. Employee s rights and obligations under this Agreement are personal and such rights, benefits, and obligations of Employee shall not be voluntarily or involuntarily assigned, alienated, or transferred, whether by operation of law or otherwise, without the prior written consent of the Company. 
+
+5.7 This Agreement replaces and extinguishes any previous agreements and discussions pertaining to the subject matter covered herein. This Agreement constitutes the entire agreement of the parties with regard to the terms of Employee s employment, termination of employment and severance benefits, and contains all of the covenants, promises, representations, warranties, and agreements between the parties with respect to such matters. Each party to this Agreement acknowledges that no representation, inducement, promise, or agreement, oral or written, has been made by either party with respect to the foregoing matters which is n
+ot embodied herein, and that no agreement, statement, or promise relating to the employment of Employee by the Company that is not contained in this Agreement shall be valid or binding, except as set forth in any applicable Employee benefit plan. It is understood that, by signing below, Employee acknowledges that this Agreement supercedes any agreements or understandings regarding the subject matter covered herein made prior to the Employee signing this document. Any modification of this Agreement will be effective only if it is in writing and signed by each party whose rights hereunder are affected thereby, provided that any such modification must be authorized or approved by the Board of Directors or its delegate, as appropriate. 
+
+Page 17 of 19 
+
+IN WITNESS WHEREOF , the Company and Employee have duly executed this Agreement in multiple originals to be effective on the Effective Date. 
+
+ICO, Inc. 
+
+/s/ Christopher N. O Sullivan 
+
+Christopher N. O Sullivan 
+
+Chairman of the Board of Directors 
+
+Date: January 28, 2004 
+
+Employee 
+
+/s/ Jon C. Biro 
+
+Jon C. Biro 
+
+Date: January 28, 2004 
+
+Page 18 of 19 
+
+EXHIBIT A 
+
+The ICO Entities (as defined in Section 1.4) are listed below, with country of incorporation and state (if U.S.) indicated. 
+
+Bayshore Industrial, Inc. USA, TX 
+
+ Courtenay Polymers Pty Ltd. - Australia 
+
+ Fabri-Moulds Ltd. - UK 
+
+ ICO Europe BV The Netherlands 
+
+ ICO Global Services, Inc. USA, DE 
+
+ ICO Holdings Australia Pty Ltd. - Australia 
+
+ ICO Holdings New Zealand Ltd. New Zealand 
+
+ ICO Holland BV The Netherlands 
+
+ ICO Italia Srl - Italy 
+
+ ICO Minerals, Inc. USA, DE 
+
+ ICO Offshore Cayman Islands 
+
+ ICO P O, Inc. USA, DE 
+
+ ICO Petrochemical Cayman Islands Cayman Islands 
+
+ ICO Polymers do Brasil Ltda. - Brazil 
+
+ ICO Polymers France SAS - France 
+
+ ICO Polymers Hellas Ltd. - Greece 
+
+ ICO Polymers North America, Inc. USA, NJ 
+
+ ICO Polymers UK Ltd. - UK 
+
+ ICO Polymers, Inc. USA, DE 
+
+ ICO Scandinavia AB - Sweden 
+
+ ICO Technology, Inc. USA, DE 
+
+ ICO UK Ltd. - UK 
+
+ ICO Worldwide, LP USA, TX 
+
+ ICO Worldwide (UK), Ltd. - UK 
+
+ ICO Worldwide Tubular Services PTE Ltd. - Singapore 
+
+ Innovation Company, S.A. de C.V. - Mexico 
+
+ J.R. Courtenay (N.Z.) Ltd. New Zealand 
+
+ J.R. Courtenay Sdn Bhd - Malaysia 
+
+ Rotec Chemicals, Ltd. - UK 
+
+ Lomic SCI - France 
+
+ Soreco SAS - France 
+
+ Swavasey Colours Ltd. - UK 
+
+ Tecron Industries Ltd. - UK 
+
+ Verplast Srl - Italy 
+
+ Wedco Minerais Ltda. - Brazil 
+
+ Wedco Petrochemical, Inc. USA, DE 
+
+ Wedco Technology U.K. Ltd. - UK 
+
+ Wedco Technology, Inc. USA, NJ 
+
+ Worldwide GP, LLC USA, DE 
+
+ Worldwide LP, LLC USA, DE 
+
+Page 19 of 19 
+
+</EX-10.2>
+
+<EX-31.1>
+ 5
+ exhibit31-1.htm
+ EXHIBIT 31.1 - CEO CERT 7241
+ 
+ Exhibit 31.1 - CEO cert 7241 
+
+Exhibit 31.1 
+
+CERTIFICATION PURSUANT TO SECTION 302 OF THE SARBANES-OXLEY ACT 
+
+I, Jon C. Biro, certify that: 
+
+1. I have reviewed this quarterly report on Form 10-Q of ICO, Inc. (the "Company") for the period ending December 31, 2003; 
+
+2. Based on my knowledge, this annual report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report; 
+
+3. Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the Company as of, and for, the periods presented in this report; 
+
+4. The Company's other certifying officer and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f) for the Company and have: 
+
+a) designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the Company, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this annual report is being prepared; 
+
+b) designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles. 
+
+c) evaluated the effectiveness of the Company's disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure control and procedures, as of the end of the period covered by this report based on such evaluation; and 
+
+d) disclosed in this report any change in the Company s internal control over financial reporting that occurred during the Company s most recent fiscal quarter that has materially affected, or is reasonably likely to materially affect, the Company s internal control over financial reporting. 
+
+5. The Company's other certifying officer and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the Company's auditors and the audit committee of the Company's board of directors: 
+
+a) all significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the Company's ability to record, process, summarize and report financial information; and 
+
+b) any fraud, whether or not material, that involves management or other employees who have a significant role in the Company's internal control over financial reporting. 
+
+/s/ Jon C. Biro 
+
+Name: 
+
+Jon C. Biro 
+
+Title: 
+
+Interim Chief Executive Officer 
+
+Date: 
+
+January 30, 2004 
+
+</EX-31.1>
+
+<EX-31.2>
+ 6
+ exhibit31-2.htm
+ EXHIBIT 31.2 - CFO CERT 7241
+ 
+ Exhibit 31.2 - CFO cert 7241 
+
+Exhibit 31.2 
+
+CERTIFICATION PURSUANT TO SECTION 302 OF THE SARBANES-OXLEY ACT 
+
+I, Jon C. Biro, certify that: 
+
+1. I have reviewed this quarterly report on Form 10-Q of ICO, Inc. (the "Company") for the period ending December 31, 2003; 
+
+2. Based on my knowledge, this annual report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report; 
+
+3. Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the Company as of, and for, the periods presented in this report; 
+
+4. The Company's other certifying officer and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f) for the Company and have: 
+
+a) designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the Company, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this annual report is being prepared; 
+
+b) designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles. 
+
+c) evaluated the effectiveness of the Company's disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure control and procedures, as of the end of the period covered by this report based on such evaluation; and 
+
+d) disclosed in this report any change in the Company s internal control over financial reporting that occurred during the Company s most recent fiscal quarter that has materially affected, or is reasonably likely to materially affect, the Company s internal control over financial reporting. 
+
+5. The Company's other certifying officer and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the Company's auditors and the audit committee of the Company's board of directors: 
+
+a) all significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the Company's ability to record, process, summarize and report financial information; and 
+
+b) any fraud, whether or not material, that involves management or other employees who have a significant role in the Company's internal control over financial reporting. 
+
+/s/ Jon C. Biro 
+
+Name: 
+
+Jon C. Biro 
+
+Title: 
+
+Chief Financial Officer 
+
+Date: 
+
+January 30, 2004 
+
+</EX-31.2>
+
+<EX-32.1>
+ 7
+ exhibit32-1.htm
+ EXHIBIT 32.1 - CEO CERT 1350
+ 
+ Exhibit 32.1 - CEO cert 1350 
+
+Exhibit 32.1 
+
+CERTIFICATION OF 
+
+ CHIEF EXECUTIVE OFFICER OF ICO, INC. 
+
+ PURSUANT TO 18 U.S.C. 1350 
+
+In connection with the accompanying report on Form 10-Q for the period ending December 31, 2003 and filed with the Securities and Exchange Commission on the date hereof (the "Report"), I, Jon C. Biro, the Interim Chief Executive Officer of ICO, Inc. (the "Company"), hereby certify, to my knowledge, that: 
+
+ 1. The Report fully complies with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act of 1934; and 
+
+2. The information contained in the Report fairly presents, in all material respects, the financial condition and results of operations of the Company in respect of those items required to be described or presented in such Report under Section 13(a) or Section 15(d) of the Securities Exchange Act of 1934. 
+
+/s/ Jon C. Biro
+
+Name: 
+
+Jon C. Biro 
+
+Interim Chief Executive Officer 
+
+Date: 
+
+January 30, 2004 
+
+This certification is furnished solely pursuant to Section 906 of the Sarbanes-Oxley Act of 2002 and shall not be deemed to be a part of the Report or "filed" for any purpose whatsoever. 
+
+</EX-32.1>
+
+<EX-32.2>
+ 8
+ exhibit32-2.htm
+ EXHIBIT 32.2 - CFO CERT 1350
+ 
+ Exhibit 32.2 - CFO cert 1350 
+
+Exhibit 32.2 
+
+CERTIFICATION OF 
+
+ CHIEF FINANCIAL OFFICER OF ICO, INC. 
+
+ PURSUANT TO 18 U.S.C. 1350 
+
+In connection with the accompanying report on Form 10-Q for the period ending December 31, 2003 and filed with the Securities and Exchange Commission on the date hereof (the "Report"), I, Jon C. Biro, the Chief Financial Officer of ICO, Inc. (the "Company"), hereby certify, to my knowledge, that: 
+
+1. The Report fully complies with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act of 1934; and 
+
+2. The information contained in the Report fairly presents, in all material respects, the financial condition and results of operations of the Company in respect of those items required to be described or presented in such Report under Section 13(a) or Section 15(d) of the Securities Exchange Act of 1934. 
+
+/s/ Jon C. Biro 
+
+Name: 
+
+Jon C. Biro 
+
+Chief Financial Officer 
+
+Date: 
+
+January 30, 2004 
+
+This certification is furnished solely pursuant to Section 906 of the Sarbanes-Oxley Act of 2002 and shall not be deemed to be a part of the Report or "filed" for any purpose whatsoever. 
+
+</EX-32.2>
+

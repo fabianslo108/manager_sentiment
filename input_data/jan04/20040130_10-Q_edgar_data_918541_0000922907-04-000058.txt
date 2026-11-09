@@ -1,0 +1,2162 @@
+<Header>
+<FileStats>
+    <FileName>20040130_10-Q_edgar_data_918541_0000922907-04-000058.txt</FileName>
+    <GrossFileSize>131022</GrossFileSize>
+    <NetFileSize>103700</NetFileSize>
+    <NonText_DocumentType_Chars>0</NonText_DocumentType_Chars>
+    <HTML_Chars>1565</HTML_Chars>
+    <XBRL_Chars>0</XBRL_Chars>
+    <XML_Chars>0</XML_Chars>
+    <N_Exhibits>4</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0000922907-04-000058.hdr.sgml : 20040130
+<ACCEPTANCE-DATETIME>20040130145756
+ACCESSION NUMBER:		0000922907-04-000058
+CONFORMED SUBMISSION TYPE:	10-Q
+PUBLIC DOCUMENT COUNT:		5
+CONFORMED PERIOD OF REPORT:	20030930
+FILED AS OF DATE:		20040130
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			NN INC
+		CENTRAL INDEX KEY:			0000918541
+		STANDARD INDUSTRIAL CLASSIFICATION:	BALL & ROLLER BEARINGS [3562]
+		IRS NUMBER:				621096725
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		10-Q
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-23486
+		FILM NUMBER:		04555591
+
+	BUSINESS ADDRESS:	
+		STREET 1:		2000 WATERS EDGE DR
+		CITY:			JOHNSON CITY
+		STATE:			TN
+		ZIP:			37604
+		BUSINESS PHONE:		4237439151
+
+	MAIL ADDRESS:	
+		STREET 1:		2000 WATERS EDGE DR
+		CITY:			JOHNSON CITY
+		STATE:			TN
+		ZIP:			37604
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	NN BALL & ROLLER INC
+		DATE OF NAME CHANGE:	19940203
+
+</SEC-Header>
+</Header>
+
+ 
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ RMn8W+CzE8SVCuW8r/JlwxA+8JA3PV65FtNJQn/Ir/OgEfxTPE/0OClyYOVZmRgC
+ UZ2MFE4CwFS7Bu7uzay9Dg==
+
+ 0000922907-04-000058.txt : 20040130
+
+10-Q
+ 1
+ form10q_093003.htm
+
+Form 10-Q for NN, Inc. 
+
+================================================================================
+
+ UNITED STATES SECURITIES AND EXCHANGE COMMISSION
+ Washington, D.C. 20549
+
+FORM 10-Q 
+
+|X| QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES
+EXCHANGE ACT OF 1934
+
+ For the quarterly period ended September 30, 2003 
+
+ OR
+
+|_| TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES
+EXCHANGE ACT OF 1934
+
+ For the transition period from _________ to _________
+
+Commission File Number 0-23486 
+
+NN, Inc. 
+ (Exact name of registrant as specified in its charter)
+
+Delaware 62-1096725 
+ (State or other jurisdiction of (I.R.S. Employer
+ incorporation or organization) Identification Number)
+
+ 2000 Waters Edge Drive
+ Building C, Suite 12
+ Johnson City, Tennessee 37604 
+ (Address of principal executive offices, including zip code)
+
+ (423) 743-9151 
+ (Registrant's telephone number, including area code)
+
+Indicate by check mark whether the registrant (1) has filed all reports required
+to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during
+the preceding 12 months (or for such shorter period that the registrant was
+required to file such reports), and (2) has been subject to such filing
+requirements for the past 90 days. Yes | | No |X|
+
+Indicate by check mark whether the registrant is an accelerated filer (as
+defined in Rule 12b-2 of the Exchange Act). Yes |X| No |_|
+
+As of January 30, 2004 there were 16,711,590 shares of the registrant's common
+stock, par value 0.01 per share, outstanding.
+
+================================================================================
+
+NN, Inc.
+ INDEX 
+
+Page No. 
+ Part I. Financial Information 
+
+Item 1. Financial Statements:
+
+ Consolidated Statements of Income and Comprehensive Income
+ for the three and nine months ended September 30, 2003 and
+ 2002 (unaudited) 2
+
+ Condensed Consolidated Balance Sheets at September 30, 2003 and
+ December 31, 2002 (unaudited) 3
+
+ Consolidated Statements of Changes in Stockholders' Equity
+ for the nine months ended September 30, 2003 and 2002 (unaudited) 4
+
+ Consolidated Statements of Cash Flows for the nine months ended
+ September 30, 2003 and 2002 (unaudited) 5
+
+ Notes to Consolidated Financial Statements (unaudited) 6
+
+Item 2. Management's Discussion and Analysis of Financial
+ Condition and Results of Operations 17
+
+Item 3. Quantitative and Qualitative Disclosures about Market Risk 26
+
+Item 4. Controls and Procedures 27
+
+ Part II. Other Information 
+
+Item 1. Legal Proceedings 28
+
+Item 2. Changes in Securities and Use of Proceeds 28
+
+Item 3. Defaults Upon Senior Securities 28
+
+Item 4. Other Information 28
+
+Item 5. Exhibits and Reports on Form 8-K 28
+
+Signatures 29
+
+1
+
+PART I. FINANCIAL INFORMATION
+
+ NN, Inc.
+ Consolidated Statements of Income and Comprehensive Income
+ (Unaudited) 
+
+ Three Months Ended Nine Months Ended
+ September 30, September 30,
+
+ Restated Restated
+Thousands of Dollars, Except Per Share Data 2003 2002 2003 2002
+- ------------------------------------------------------------------------------------------------------------------------ 
+Net sales 64,612 47,451 186,415 143,836
+Cost of goods sold (exclusive of depreciation
+ shown separately below) 50,294 35,631 142,758 107,302
+Selling, general and administrative 5,247 4,076 15,650 13,311
+Depreciation and amortization 3,642 2,881 10,203 8,443
+Restructuring and impairment costs (gain) (224) -- 2,498 78
+ -------------- ------------- ------------- -------------
+ Income from operations 5,653 4,863 15,306 14,702
+
+Interest expense, net 881 597 2,225 1,876
+Other (income) expense (38) (20) 272 (516)
+ -------------- ------------- ------------- -------------
+Income before provision for income taxes 4,810 4,286 12,809 13,342
+Provision for income taxes 1,646 1,612 4,630 4,957
+Minority interest in consolidated subsidiaries -- 555 675 2,010
+ -------------- ------------- ------------- -------------
+ Net income 3,164 2,119 7,504 6,375
+
+Other comprehensive income:
+ Foreign currency translation 1,292 (125) 5,460 2,255
+ -------------- ------------- ------------- -------------
+ Comprehensive income 4,456 1,994 12,964 8,630
+ ============== ============= ============= =============
+
+Basic income per common share: 0.19 0.14 0.48 0.42
+ ============== ============= ============= =============
+
+ Weighted average shares outstanding 16,660 15,368 15,804 15,344
+ ============== ============= ============= =============
+
+Diluted income per common share: 0.18 0.14 0.46 0.40
+ ============== ============= ============= =============
+
+ Weighted average shares outstanding 17,167 15,648 16,194 15,755
+ ============== ============= ============= =============
+
+Cash dividends per common share 0.08 0.08 0.24 0.24
+ ============== ============= ============= =============
+
+See accompanying notes. 
+
+ 2
+
+NN, Inc.
+ Condensed Consolidated Balance Sheets
+ (Unaudited) 
+
+Restated
+ September 30, December 31,
+Thousands of Dollars 2003 2002
+- ----------------------------------------------------------------------------------------------
+Assets 
+Current assets:
+ Cash and cash equivalents 4,790 5,144
+ Accounts receivable, net 45,432 28,965
+ Inventories, net 34,391 23,402
+ Other current assets 5,859 3,901
+ ------------------ ------------------
+ Total current assets 90,472 61,412
+
+Property, plant and equipment, net 105,621 88,199
+Assets held for sale 1,805 2,214
+Goodwill, net 53,061 39,374
+Other assets 4,667 4,016
+ ------------------ ------------------
+ Total assets 255,626 195,215
+ ================== ==================
+
+ Liabilities and Stockholders' Equity 
+Current liabilities:
+ Accounts payable 32,666 22,983
+ Book overdraft -- 37
+ Accrued salaries and wages 11,453 6,354
+ Income taxes payable 1,755 620
+ Short-term debt 2,000 --
+ Current maturities of long-term debt 10,675 7,000
+ Other current liabilities 3,743 3,240
+ ------------------ ------------------
+ Total current liabilities 62,292 40,234
+
+Non-current deferred tax liability 10,732 9,334
+Long-term debt 72,722 46,135
+Accrued pension and other 10,468 9,319
+ ------------------ ------------------
+ Total liabilities 156,214 105,022
+
+Minority interest in consolidated subsidiaries -- 12,285
+ ------------------ ------------------
+
+Total stockholders' equity 99,412 77,908
+ ------------------ ------------------
+
+Total liabilities and stockholders' equity 255,626 195,215
+ ================== ==================
+
+See accompanying notes. 
+
+ 3
+
+NN, Inc.
+ Consolidated Statements of Changes in Stockholders' Equity
+ (Unaudited) 
+
+Common Stock Accumulated
+ Number Additional Other
+ Of Par paid in Retained Comprehensive
+Thousands of Dollars and Shares Shares value capital Earnings Income (Loss) Total
+- -------------------------------------------------------------------------------------------------------------------------------- 
+Balance, January 1, 2002, Restated 15,317 154 40,111 36,139 (5,422) 70,982
+ Shares issued 51 -- 332 -- -- 332
+ Net income -- -- -- 6,375 -- 6,375
+ Dividends declared -- -- -- (3,685) -- (3,685)
+ Other comprehensive income -- -- -- -- 2,255 2,255
+ ----------- --------- ---------- ----------- ----------- -----------
+Balance, September 30, 2002, Restated 15,368 154 40,443 38,829 (3,167) 76,259
+ =========== ========= ========== =========== =========== ===========
+
+Balance, January 1, 2003, Restated 15,370 154 40,457 38,984 (1,687) 77,908
+ Shares issued 1,330 14 12,421 -- -- 12,435
+ Net income -- -- -- 7,504 -- 7,504
+ Dividends declared -- -- -- (3,895) -- (3,895)
+ Other comprehensive income -- -- -- -- 5,460 5,460
+ ----------- --------- ---------- ----------- ---------- -----------
+Balance, September 30, 2003 16,700 168 52,878 42,593 3,773 99,412
+ =========== ========= ========== =========== =========== ===========
+
+See accompanying notes. 
+
+ 4
+
+NN, Inc.
+ Consolidated Statements of Cash Flows
+ (Unaudited)
+
+Nine Months Ended
+ September 30,
+Thousands of Dollars 2003 2002
+- -------------------------------------------------------------------------------------------------------------- 
+ Operating Activities: 
+ Net income 7,504 6,375
+ Adjustments to reconcile net income to net cash provided (used) by operating
+ activities:
+ Depreciation and amortization 10,203 8,443
+ (Gain) loss on disposals of property, plant and equipment (145) (12)
+ Minority interest in consolidated subsidiary 675 2,010
+ Loss on extinguishment of debt 455 --
+ Restructuring and impairment costs 2,742 78
+ Changes in operating assets and liabilities:
+ Accounts receivable (14,506) (5,117)
+ Inventories (3,736) 1,738
+ Other current assets (406) 425
+ Other assets (3,056) (6)
+ Accounts payable 6,653 1,515
+ Income taxes payable (128) 1,883
+ Other liabilities 2,015 4,063
+ ------------ -----------
+ Net cash provided by operating activities 8,271 21,395
+ ------------ -----------
+
+ Investing Activities: 
+ Acquisition of Veenendaal, The Netherlands (17,933) --
+ Purchase of minority interest (15,583) --
+ Acquisition of property, plant, and equipment (7,200) (4,626)
+ Proceeds from disposals of property, plant and equipment 145 43
+ ------------ -----------
+ Net cash used by investing activities (40,571) (4,583)
+ ------------ -----------
+
+ Financing Activities: 
+ Proceeds from long-term debt 89,745 --
+ Proceeds from short-term debt 2,000 --
+ Debt issuance costs (823) --
+ Book overdraft (37) (260)
+ Repayment of long-term debt (60,962) (11,971)
+ Repayment of short-term debt -- --
+ Proceeds from issuance of stock 5,498 332
+ Dividends paid (3,895) (3,686)
+ ------------ -----------
+ Net cash provided (used) by financing activities 31,526 (15,585)
+ ------------ -----------
+
+Effect of exchange rate changes on cash and cash equivalents 420 356
+
+ Net Change in Cash and Cash Equivalents (354) 1,583
+ Cash and Cash Equivalents at Beginning of Period 5,144 3,024
+ ------------ -----------
+ Cash and Cash Equivalents at End of Period 4,790 4,607
+ ============ ===========
+
+Supplemental schedule of non-cash investing and financing activities:
+ Stock issued related to acquisition of Veenendaal 6,937 --
+ ============ ===========
+
+See accompanying notes. 
+
+ 5
+
+NN, Inc.
+ Notes To Consolidated Financial Statements
+ (unaudited) 
+
+Note 1. Interim Financial Statements 
+
+The accompanying consolidated financial statements of NN, Inc. (the "Company")
+have not been audited by independent accountants, except that the balance sheet
+at December 31, 2002 is derived from the Company's audited financial statements.
+In the opinion of the Company's management, the financial statements reflect all
+adjustments necessary to present fairly the results of operations for the three
+and nine month periods ended September 30, 2003 and 2002, the Company's
+financial position at September 30, 2003 and December 31, 2002, and the cash
+flows for the nine month periods ended September 30, 2003 and 2002. These
+adjustments are of a normal recurring nature and are, in the opinion of
+management, necessary for fair presentation of the financial position and
+operating results for the interim periods. As used in this Quarterly Report on
+Form 10-Q, the terms "NN", "the Company", "we", "our", or "us" mean NN, Inc. and
+its subsidiaries.
+
+Certain information and footnote disclosures normally included in the financial
+statements prepared in accordance with generally accepted accounting principles
+have been condensed or omitted from the interim financial statements presented
+in this Quarterly Report on Form 10-Q. These Condensed, Consolidated, Unaudited
+Financial Statements should be read in conjunction with our audited Consolidated
+Financial Statements and the Notes thereto included in our most recent annual
+report on Form 10-K/A which we filed with the Commission on January 30, 2004.
+
+The results for the first, second and third quarters of 2003 are not necessarily
+indicative of future results.
+
+Certain 2002 amounts have been reclassified to conform with the 2003
+presentation.
+
+The Company has revised the accounting treatment for the formation of NN
+Euroball, ApS ("Euroball") on July 31, 2000 and the Company's subsequent
+purchase of the minority interests held by INA/FAG and SKF. See Note 12.
+Additionally, the Company has reclassified minority interest in consolidated
+subsidiaries from a component of total liabilities to a separate line item in
+the Consolidated Balance Sheet at December 31, 2002.
+
+Note 2. Derivative Financial Instruments 
+
+We have an interest rate swap accounted for in accordance with Statement of
+Financial Accounting Standards (SFAS) No. 133, "Accounting for Derivative
+Instruments and Hedging Activities", effective January 1, 2001. The Company
+adopted SFAS No. 133 on January 1, 2001, which establishes accounting and
+reporting standards for derivative instruments and for hedging activities. The
+Standard requires the recognition of all derivative instruments on the balance
+sheet at fair value. The Standard allows for hedge accounting if certain
+requirements are met including documentation of the hedging relationship at
+inception and upon adoption of the Standard.
+
+In connection with a variable Euribor rate debt financing in July 2000, our
+subsidiary, NN Euroball ApS entered into an interest rate swap with a notional
+amount of Euro 12.5 million for the purpose of fixing the interest rate on a
+portion of its debt financing. The interest rate swap provides for the Company
+to receive variable Euribor interest payments and pay 5.51 fixed interest. The
+interest rate swap agreement expires in July 2006 and the notional amount
+amortizes in relation to initially established principal payments on the
+underlying debt over the life of the swap. This original debt was repaid in May
+2003, however, the swap remains pursuant to its original terms.
+
+As of September 30, 2003, the fair value of the swap was approximately 508,000,
+which is recorded in other non-current liabilities. The change in fair value
+during the nine month period ended September 30, 2003 and 2002 was a loss of
+approximately 63,000 and a loss of approximately 42,000, respectively, which
+have been included as a component of other (income) expense.
+
+6
+
+Note 3. Inventories 
+
+Inventories are stated at the lower of cost or market. Cost is determined using
+the first-in, first-out method.
+
+Inventories are comprised of the following (in thousands):
+
+ Sept. 30, Dec. 31,
+ 2003 2002
+ (Unaudited)
+ ------------- -------------- 
+Raw materials 7,517 5,400
+Work in process 7,662 5,139
+Finished goods 19,433 13,065
+Less inventory reserves (221) (202)
+ ------------- --------------
+ 34,391 23,402
+ ============= ==============
+
+Inventories on consignment at customer locations as of September 30, 2003 and
+December 31, 2002 were 2,255 and 3,093, respectively.
+
+ Note 4. Net Income Per Share 
+
+ Three Months Ended Nine Months Ended
+ September 30, September 30,
+Thousands of Dollars, Except Share and Per Share Data 2003 2002 2003 2002
+- ----------------------------------------------------- -------------- -------------- ------------- -------------- 
+Net income 3,164 2,119 7,504 6,375
+ ============== ============== ============= ==============
+
+Weighted average basic shares 16,660,350 15,367,773 15,804,069 15,344,116
+Effect of dilutive stock options 506,293 279,865 389,831 411,297
+ -------------- -------------- ------------- --------------
+Weighted average dilutive shares outstanding 17,166,643 15,647,638 16,193,900 15,755,413
+ ============== ============== ============= ==============
+
+Basic net income per share 0.19 0.14 0.48 0.42
+ ============== ============== ============= ==============
+Diluted net income per share 0.18 0.14 0.46 0.40
+ ============== ============== ============= ==============
+
+Excluded from the shares outstanding for each of the three and nine month
+periods ended September 30, 2003 and 2002 were no antidilutive options, in
+either period.
+
+ Note 5. Segment Information 
+
+During 2003 and 2002, the Company's reportable segments are based on differences
+in product lines and geographic locations and are divided among Domestic Ball
+and Roller, European operations ("NN Europe") and Plastic and Rubber Components.
+The Domestic Ball and Roller Segment is comprised of two manufacturing
+facilities in the eastern United States. The NN Europe Segment is comprised of
+precision ball manufacturing facilities located in Kilkenny, Ireland, Eltmann,
+Germany and Pinerolo, Italy acquired in July 2000 and Veenendaal, The
+Netherlands ("Veenendaal") a tapered roller and metal cage manufacturing
+operation acquired in May 2003. See Note 6, "Acquisitions and Joint Ventures".
+All of the facilities in the Domestic Ball and Roller Segment are engaged in the
+production of precision balls and rollers used primarily in the bearing
+industry. All of the facilities in the NN Europe Segment are engaged in the
+production of precision balls used primarily in the bearing industry except for
+Veenendaal which is engaged in the production of tapered rollers and cages for
+use primarily in the bearing industry. The Plastic and Rubber Components Segment
+is comprised of the Industrial Molding Corporation ("IMC") business, located in
+Lubbock, Texas, which was acquired in July 1999, NN Arte ("Arte") formed in
+August of 2000 (see Note 7), located in Guadalajara, Mexico and The Delta Rubber
+Company ("Delta") business, located in Danielson, Connecticut, which was
+acquired in February 2001. IMC and Arte are engaged in the production of plastic
+injection molded products for the bearing, automotive, instrumentation, fiber
+optic and office automation markets. Delta is engaged principally in the
+production of engineered bearing seals used principally in automotive,
+industrial, agricultural, mining and aerospace applications. The Plastic and
+Rubber Components Segment's name has been changed from the Plastics Segment
+effective with the
+
+7
+
+March 31, 2003 quarterly report on Form 10-Q. The businesses and methods of
+calculation comprising this segment have not changed.
+
+The NN Europe Segment, prior to the filing of the June 30, 2003 quarterly report
+on Form 10-Q, was referred to as the Euroball Segment and was comprised only of
+the manufacturing facilities located in Kilkenny, Ireland, Eltmann, Germany, and
+Pinerolo, Italy. The name of this segment has been changed following the
+Veenendaal acquisition.
+
+The accounting policies of each segment are the same as those described in the
+summary of significant accounting policies in the Company's Annual Report on
+Form 10-K, as amended, for the fiscal year ended December 31, 2002 including
+those policies as discussed in Note 1. We evaluate segment performance based on
+profit or loss from operations before income taxes and minority interest. We
+account for inter-segment sales and transfers at current market prices; however,
+we did not have any material inter-segment transactions during the three or nine
+month periods ended September 30, 2003 and 2002.
+
+ Three Months Ended September 30,
+ 2003 2002
+ Domestic Plastic and Domestic Plastic and
+ Ball Rubber Ball Restated Rubber
+Thousands of Dollars Roller NN Europe Components Roller NN Europe Components
+- ------------------------------------------------------------------------------------------------------------------------------ 
+Revenues from external
+customers 14,414 37,784 12,414 13,253 21,734 12,464
+Segment pretax profit 1,090 2,897 823 1,613 1,996 677
+Segment assets 53,077 144,560 57,989 64,211 71,192 57,028
+
+ Nine Months Ended September 30,
+ 2003 2002
+ Domestic Plastic and Domestic Plastic and
+ Ball Rubber Ball Restated Rubber
+Thousands of Dollars Roller NN Europe Components Roller NN Europe Components
+- ------------------------------------------------------------------------------------------------------------------------------ 
+Revenues from external
+customers 42,588 104,829 38,998 40,177 66,639 37,020
+Segment pretax profit (loss) 3,469 9,871 (531) 4,046 7,055 2,241
+Segment assets 53,077 144,560 57,989 64,211 71,192 57,028
+
+ Note 6. Acquisitions and Joint Ventures 
+
+On December 20, 2002, we acquired the 23 percent interest in NN Euroball, ApS
+("Euroball") held by INA/FAG. INA/FAG is a global bearing manufacturer and one
+of our largest customers. We paid approximately 13.4 million Euros 13.8
+million) for INA/FAG's interest in Euroball. Euroball was formed in 2000 by the
+Company, FAG Kugelfischer George Shaefer AG, which was subsequently acquired by
+INA - Schaeffler KG ("INA/FAG"), and AB SKF ("SKF"). See Note 12 for additional
+information.
+
+On May 2, 2003 we acquired the 23 percent interest in NN Euroball, ApS
+("Euroball") held by SKF. We paid approximately 13.8 million Euros 15.6
+million) for SKF's interest in Euroball. Upon consummation of this transaction,
+we became the sole owner of Euroball. See Note 12 for additional information.
+
+On May 2, 2003 we acquired 100 percent of the tapered roller and metal cage
+manufacturing operations of SKF in Veenendaal, The Netherlands. The results of
+Veenendaal's operations have been included in the consolidated financial
+statements since that date. We paid consideration of approximately 23.0 million
+Euros 25.7 million) and incurred other costs of approximately 1.0 million,
+for the Veenendaal net assets acquired from SKF. The Veenendaal operation
+manufactures rollers for tapered roller bearings and metal cages for both
+tapered roller and spherical roller bearings allowing us to expand our bearing
+component offering. The results of the Veenendaal operation are included in the
+NN Europe Segment.
+
+In connection with the acquisition of SKF's Veenendaal, The Netherlands
+operations, SKF purchased from us 700,000 shares of our common stock for an
+aggregate fair value of approximately 6.9 million which was applied to the
+purchase of SKF's Veenendaal, The Netherlands operations. For purposes of
+valuing
+
+8
+
+the 700,000 common shares issued in our Consolidated Financial Statements, the
+value was determined based on the average market price of NN, Inc.'s common
+shares over the two-day period before, the day of, and the two-day period after
+the terms of the acquisition were agreed to, April 14, 2003.
+
+The following table summarizes the estimated fair value of the assets acquired
+and liabilities assumed at the date of acquisition. The purchase price is
+subject to adjustment due to working capital changes. We are in the process of
+obtaining third-party valuations of certain tangible and intangible assets;
+thus, the allocation of the purchase price is subject to refinement.
+
+ (In thousands)
+ At May 2, 2003
+ ------------------- 
+ Current assets 6,081
+ Property, plant and equipment 14,747
+ Goodwill and other intangible assets 11,263
+ -------------------
+ Total assets acquired 32,091
+ Current liabilities 5,431
+ -------------------
+ Net assets acquired 26,660
+ ===================
+
+The full amount assigned to goodwill is expected to be deductible for tax
+purposes.
+
+The following unaudited proforma summary presents the financial information for
+the three and nine month periods ended September 30, 2003 and 2002 as if our
+Veenendaal acquisition had occurred as of the beginning of each of the periods
+presented. These pro forma results have been prepared for comparative purposes
+and do not purport to be indicative of what would have occurred had the
+acquisition been made as of the beginning of each of the periods presented, nor
+are they indicative of future results.
+
+ (In thousands, except per share data)
+ -----------------------------------------
+ Three months Nine months
+ ended ended
+ September 30, September 30,
+ 2003 2003
+ (unaudited) (unaudited)
+ -------------------- -------------------- 
+ Net sales 64,612 203,859
+ Net income 3,164 7,813
+ Basic earnings per share 0.19 0.49
+ Diluted earnings per share 0.18 0.48
+
+ (In thousands, except per share data)
+ -----------------------------------------
+ Three months Nine months
+ ended ended
+ September 30, September 30,
+ 2002 2002
+ (unaudited) (unaudited)
+ --------------------- ------------------- 
+ Net sales 59,962 183,085
+ Net income 2,414 7,068
+ Basic earnings per share 0.16 0.46
+ Diluted earnings per share 0.15 0.45
+
+On April 1, 2003, we exercised our call right and purchased the remaining 49
+percent interest in NN Mexico, LLC. Based on the purchase price formula
+contained in the principal agreement between the parties, the purchase price for
+the 49 percent interest was zero.
+
+9
+
+Note 7. Restructuring and Impairment Charges 
+
+ NN Art Plant Closing in Guadalajara, Mexico 
+
+In May, 2003, we decided to close our Guadalajara, Mexico plastic injection
+molding facility. This operation was started in September of 2000 to supply
+certain Mexican operations of multi-national manufacturers of office automation
+equipment. Several of these customers have recently shifted their manufacturing
+operations to other geographic regions in the world. The closure was
+substantially completed during the third quarter of 2003. The financial results
+of this operation have been included in the Plastic and Rubber Components
+Segment.
+
+The plant closing is expected to result in the termination of approximately 42
+full time hourly and salary employees located at the Guadalajara facility.
+During the three months ended June 30, 2003 we recorded restructuring costs of
+approximately 282,000 related to the severance payments for the affected
+employees. During the three months ended September 30, 2003 we re-evaluated the
+adequacy of the severance reserve and reduced the charge by approximately
+ 52,000. For the nine months ended September 30, 2003 total restructuring costs
+of 230,000 have been recorded related to the severance payments for the
+affected employees.
+
+As a result of the closing, we have performed a test of the recoverability of
+the goodwill asset associated with the Guadalajara, Mexico operation. This test
+was pursuant to the provisions of Statement of Financial Accounting Standards
+No. 142 "Goodwill and Other Intangible Assets" which require that interim tests
+of the recoverability of goodwill be performed under certain circumstances. As a
+result, we recorded an impairment charge of approximately 0 and 1.3 million to
+fully write-off the goodwill asset during the three and nine month periods ended
+September 30, 2003, respectively.
+
+We have decided to sell much of the machinery and equipment with certain pieces
+of machinery and equipment to be transferred and utilized by our Industrial
+Molding facility in Lubbock, Texas. Pursuant to the provisions of Statement of
+Accounting Standards No. 144 "Accounting for the Impairment or Disposal of
+Long-lived Assets" we recorded an impairment charge of 1.1 million during the
+three months ended June 30, 2003 to write-down the machinery and equipment to
+its estimated fair market value. During the three months ended September 30,
+2003 we recorded a gain of 145,000 related to the disposition of certain pieces
+of the machinery and equipment assets that were previously assessed as impaired.
+During the nine months ended September 30, 2003, we recorded a total impairment
+charge related to the machinery and equipment of 0.9 million.
+
+During the three months ended June 30, 2003, we recorded an accounts receivable
+write-down of 107,000 to reduce accounts receivable to its estimated fair
+market value. During the three months ended September 30, 2003, we recorded a
+gain of 76,000 related to recoveries of accounts receivable that were
+previously determined to be uncollectible. During the nine months ended
+September 30, 2003, we recorded a total impairment charge related to the
+accounts receivable asset of 31,000.
+
+Additionally, during the three months ended June 30, 2003, we recorded an
+inventory write-down of 324,000 to reduce the carrying value of inventory to
+its estimated fair market value. During the three months ended September 30,
+2003, we recorded a gain related to the disposition of the impaired inventory
+asset of 216,000. During the nine months ended September 30, 2003, we recorded
+a total write-down related to the inventory asset of 108,000. These amounts
+related to the inventory asset have been recorded as a component of cost of
+goods sold.
+
+The amounts we will ultimately realize upon disposition of these assets could
+differ materially from the amounts assumed in arriving at the net impairment
+losses recorded during the nine months ended September 30, 2003.
+
+The following summarizes the 2003 restructuring and impairment charges related
+to the closure of NN Art :
+
+10
+
+Reserve
+ Non-Cash Paid in Balance
+In thousands Charges Write-downs 2003 At 9/30/03
+ --------------- ----------------- ---------------- --------------- 
+Asset impairments 2,368 2,368 -- --
+Lease exit costs 40 -- -- 40
+Severance and other employee costs 230 -- 45 185
+ --------------- ----------------- ---------------- ---------------
+Total 2,598 2,368 45 225
+ =============== ================= ================ ===============
+
+ Walterboro, South Carolina Plant Closing 
+
+In September of 2001, we announced that we would close our Walterboro, South
+Carolina ball manufacturing facility as part of our ongoing strategy to locate
+manufacturing capacity in closer proximity to customers. The closure was
+substantially completed by December 31, 2001. Current plans are to sell the land
+and building. The plant closing resulted in the termination of approximately 80
+full time hourly and salaried employees in 2001.
+
+Prior to December 31, 2001, production capacity and certain machinery and
+equipment were transferred from the Walterboro facility to our two domestic ball
+facilities in Erwin, Tennessee and Mountain City, Tennessee. We recorded
+restructuring costs of 62,000 for additional severance payments during the nine
+months ended September 30, 2002. There were no restructuring costs recorded for
+the nine months ended September 30, 2003.
+
+ Termination of Employees in Italy 
+
+Our Euroball subsidiary incurred restructuring charges of 16,000 for the nine
+months ended September 30, 2002 for additional severance payments as a result of
+the termination of 15 hourly employees and 3 salaried employees at its
+production facility in Italy. Additionally, approximately 69,000 of the
+severance payments recorded during 2001 and 2002 were paid during the nine
+months ended September 30, 2002 and there are no remaining accrued restructuring
+costs included in other current liabilities as of September 30, 2002 and
+September 30, 2003 related to Euroball.
+
+ Note 8. New Accounting Pronouncements 
+
+In June 2001, the FASB issued Statement of Financial Accounting Standards No.
+141, "Business Combinations" (Statement No. 141), and Statement of Financial
+Accounting Standards No. 142, "Goodwill and Other Intangible Assets" (Statement
+No. 142). Statement No. 141 requires that the purchase method of accounting be
+used for all business combinations initiated after June 30, 2001. Statement No.
+141 also specifies criteria that intangible assets acquired in a purchase method
+business combination must meet to be recognized and reported apart from
+goodwill. Statement No. 142 requires that goodwill and intangible assets with
+indefinite useful lives no longer be amortized, but rather, periodically tested
+for impairment. The effective date of Statement No. 142 is January 1, 2002. As
+of the date of adoption, we had unamortized goodwill of approximately 36.6
+million, which is subject to the provisions of Statement No. 142.
+
+As a result of adopting these new standards, our accounting policies for
+goodwill and other intangibles changed on January 1, 2002, as described below:
+
+Goodwill: We recognized the excess of the purchase price of an acquired entity
+over the fair value of the net identifiable assets as goodwill. Goodwill is
+tested for impairment on an annual basis and between annual tests in certain
+circumstances. Impairment losses are recognized whenever the implied fair value
+of goodwill is less than its carrying value. Prior to January 1, 2002, goodwill
+was amortized over a twenty-year period using the straight-line method.
+Beginning January 1, 2002, goodwill is no longer amortized.
+
+Other Acquired Intangibles: We recognize an acquired intangible asset apart from
+goodwill whenever the asset arises from contractual or other legal rights, or
+whenever it is capable of being divided or separated from the acquired entity or
+sold, transferred, licensed, rented, or exchanged, whether individually or in
+combination with a related contract, asset or liability. An intangible asset
+other than goodwill is amortized
+
+11
+
+over its estimated useful life unless that life is determined to be indefinite.
+We will review the lives of intangible assets each reporting period and, if
+necessary, recognize impairment losses if the carrying amount of an intangible
+asset subject to amortization is not recoverable from expected future cash flows
+and its carrying amount exceeds its fair value.
+
+We completed the transitional goodwill impairment reviews required by the new
+standards during the first six months of 2002 and the annually required goodwill
+impairment review during the fourth quarter of 2002. In performing the
+impairment reviews, we estimated the fair values of the reporting units using a
+method that incorporates valuations derived from earnings before interest
+expense, taxes, depreciation and amortization ("EBITDA") multiples based upon
+market multiples and recent capital market transactions and also incorporates
+valuations determined by each segment's discounted future cash flows. As of
+January 1, 2002, the transition date and as of October 1, 2002, the most recent
+annual review date, there was no impairment to goodwill as the fair values
+exceeded the carrying values of the reporting units.
+
+The changes in the carrying amount of goodwill for the nine month period ended
+September 30, 2003 are as follows:
+
+ Plastic and
+ Rubber
+ Components NN Europe
+In thousands Segment Segment Total
+ ------------------- --------------- ----------------- 
+Balance as of January 1, 2003 26,712 12,662 39,374
+Goodwill acquired -- 14,000 14,000
+Impairment losses (1,285) -- (1,285)
+Currency impacts -- 972 972
+ ------------------- --------------- -----------------
+Balance as of September 30, 2003 25,427 27,634 53,061
+ =================== =============== =================
+
+In July 2001, the FASB issued Statement of Financial Accounting Standards No.
+143, "Accounting For Asset Retirement Obligations." This Statement requires
+capitalizing any retirement costs as part of the total cost of the related
+long-lived asset and subsequently allocating the total expense to future periods
+using a systematic and rational method. Adoption of the Statement is required
+for fiscal years beginning after June 15, 2002. We adopted SFAS No. 143 on
+January 1, 2003 and this adoption did not have a material impact on the
+financial statements.
+
+In April 2002, the FASB issued SFAS No. 145, "Rescission of FASB Statements No.
+4, 44, and 64, Amendment of FASB Statement No. 13, and Technical Corrections".
+SFAS No. 4 had required all gains and losses from extinguishment of debt to be
+aggregated and, if material, classified as an extraordinary item, net of related
+income tax effect. SFAS No. 145 rescinds SFAS No. 4 and the related required
+classifications gains and losses form extinguishment of debt as extraordinary
+items. Additionally, the SFAS No. 145 amends SFAS No. 13 to require that certain
+lease modifications that have economic effects similar to sale-leaseback
+transactions be accounted for in the same manner as sale-leaseback transactions.
+SFAS No. 145 is applicable for us at the beginning of fiscal year 2003, with the
+provisions related to SFAS No. 13 for transactions occurring after May 15, 2002.
+We adopted SFAS No. 145 effective January 1, 2003 and this adoption did not have
+a material impact on the financial statements.
+
+In July 2002, the FASB issued SFAS No. 146, "Accounting for Costs Associated
+with Exit or Disposal Activities". SFAS No. 146 requires costs associated with
+exit or disposal activities to be recognized when they are incurred rather than
+at the date of a commitment to an exit or disposal plan. SFAS No. 146 is to be
+applied prospectively to exit or disposal activities initiated after December
+31, 2002. We adopted SFAS No. 146 on January 1, 2003 and this adoption did not
+have a material impact on the financial statements.
+
+In December 2002, the FASB issued SFAS No. 148, "Accounting for Stock-Based
+Compensation - Transition and Disclosure - an amendment of FASB Statement No.
+123". SFAS No. 148 provides alternative methods of transition for a voluntary
+change to the fair value based method of accounting for stock-based employee
+compensation. In addition, SFAS No. 148, which was effective for the year ending
+December 31, 2002, amends the disclosures in both annual and interim financial
+statements about the method of accounting for stock-based employee compensation
+and the effect of the method used on
+
+12
+
+reported results. We have adopted the provisions of SFAS 123, which encourages
+but does not require a fair value based method of accounting for stock
+compensation plans. We have elected to continue accounting for its stock
+compensation plan using the intrinsic value based method under Auditing
+Practices Board ("APB") Opinion No. 25 and, accordingly, have not recorded
+compensation expense for each of the three and nine month periods ended
+September 30, 2003 and September 30, 2002. Had compensation cost for our stock
+compensation plan been determined based on the fair value at the option grant
+dates, our net income and earnings per share would have been reduced to the
+proforma amounts indicated below:
+
+ Three months ended Nine months ended
+ September 30, September 30,
+In Thousands, Except per Share Data
+- -----------------------------------
+ 2003 2002 2003 2002
+ ------------ ----------- ----------- ----------- 
+Net income - as reported 3,164 2,119 7,504 6,375
+ Stock based compensation costs
+ (income), net of income tax,
+ included in net income as reported (5) (219) 195 (69)
+ Stock based compensation costs,
+ net of income tax, that would have
+ been included in net income if the
+ fair value method had been applied 424 278 494 516
+ ------------ ----------- ----------- -----------
+Net income - proforma 2,735 1,622 7,205 5,790
+ ============ =========== =========== ===========
+
+Basic earnings per share - as reported 0.19 0.14 0.48 0.42
+ Stock based compensation costs
+ (income), net of income tax,
+ included in net income as reported -- (0.01) 0.01 (0.01)
+ Stock based compensation costs,
+ net of income tax, that would have
+ been included in net income if the
+ fair value method had been applied 0.03 0.02 0.03 0.03
+ ------------ ----------- ----------- -----------
+Basic earnings per share - proforma 0.16 0.11 0.46 0.38
+ ============ =========== =========== ===========
+Earnings per share-assuming dilution - 0.18 0.14 0.46 0.40
+as reported
+ Stock based compensation costs
+ (income), net of income tax,
+ included in net income as reported -- (0.01) 0.01 --
+ Stock based compensation costs,
+ net of income tax, that would have
+ been included in net income if the
+ fair value method had been applied 0.02 0.02 0.03 0.03
+ ------------ ----------- ----------- -----------
+Earnings per share - assuming dilution-
+proforma 0.16 0.11 0.44 0.37
+ ============ =========== =========== ===========
+
+The fair value of each option grant was estimated based on actual information
+available through September 30, 2003 and 2002 using the Black Scholes
+option-pricing model with the following assumptions:
+
+Term Vesting period
+Risk free interest rate 3.28 and 3.28 at September 30,2003 and 2002, respectively
+Dividend yield 3.66 and 3.46 at September 30, 2003 and 2002, respectively
+Volatility 50.62 and 50.37 at September 30, 2003 and 2002, respectively
+
+In November 2002, the FASB issued FASB Interpretation ("FIN") No. 45,
+"Guarantor's Accounting and Disclosure Requirements for Guarantees, Including
+Indirect Guarantees of Indebtedness of Others," an interpretation of FASB
+Statements No. 5, 57, and 107 and rescission of FASB Interpretation No. 34. This
+interpretation elaborates the disclosures to be made by a guarantor in its
+interim and annual financial
+
+13
+
+statements about its obligations under certain guarantees that it has issued. It
+also clarifies that a guarantor is required to recognize, at the inception of a
+guarantee, a liability for the fair value of the obligation undertaken in
+issuing the guarantee. The initial recognition and initial measurement
+provisions of this interpretation are applicable on a prospective basis to
+guarantees issued or modified after December 31, 2002 and have not had a
+material effect on the Company's consolidated results of operations, financial
+position or cash flows.
+
+In January 2003, the FASB issued Financial Interpretation No. 46, "Consolidation
+of Variable Interest Entities," ("FIN 46"). This interpretation addresses
+consolidation by business enterprises of variable interest entities with certain
+defined characteristics. Based on our current understanding, we do not expect
+FIN 46 to have a significant impact on our consolidated financial statements.
+
+In April 2003, the FASB issued SFAS No. 149, "Derivative Instruments and Hedging
+Activities". SFAS No. 149 amends and clarifies financial accounting and
+reporting for derivative instruments, including certain derivative instruments
+embedded in other contracts and for hedging activities under SFAS No. 133,
+"Accounting for Derivative Instruments and Hedging Activities". SFAS No. 149
+requires that contracts with comparable characteristics be accounted for
+similarly and is effective for contracts entered into or modified after June 30,
+2003 and for hedging relationships designated after June 30, 2003. The adoption
+of this standard has not had a material impact on the financial statements.
+
+In May 2003, the FASB issued SFAS No. 150, "Accounting for Certain Financial
+Instruments with Characteristics of both Liabilities and Equity". SFAS No. 150
+establishes standards for how an issuer classifies and measures certain
+financial instruments with characteristics of both liabilities and equity. SFAS
+No. 150 is otherwise generally effective for financial instruments entered into
+or modified after May 31, 2003, and otherwise is effective at the beginning of
+the first interim period beginning after June 15, 2003. The Company adopted SFAS
+No. 150 on July 1, 2003 and this adoption did not have a material impact on the
+financial statements.
+
+ Note 9. Long-Term Debt and Short-Term Debt 
+
+On May 1, 2003 in connection with the purchase of SKF's Veenendaal component
+manufacturing operations and SKF's 23 percent interest in Euroball, we entered
+into a new 90 million syndicated credit facility with AmSouth Bank ("AmSouth")
+as the administrative agent and Suntrust Bank as the Euro loan agent for the
+lenders under which we borrowed 60.4 million and 26.3 million Euros 29.6
+million). This new financing arrangement replaces our prior credit facility with
+AmSouth and Hypo Vereinsbank Luxembourg, S.A. The credit facility consists of a
+ 30.0 million revolver expiring on March 1, 2005, bearing interest at a floating
+rate equal to LIBOR (1.16 at September 30, 2003) plus an applicable margin of
+1.25 to 2.0, a 30.4 million term loan expiring on May 1, 2008, bearing interest
+at a floating rate equal to LIBOR (1.16 at September 30, 2003) plus an
+applicable margin of 1.25 to 2.0 and a 26.3 million 29.6 million) Euros term
+loan expiring on May 1, 2008 which bears interest at a floating rate equal to
+Euro LIBOR (2.13 at September 30, 2003) plus an applicable margin of 1.25 to
+2.0. The loan agreement contains customary financial and non-financial
+covenants. Such covenants specify that we must maintain certain liquidity
+measures. The loan agreement also contains customary restrictions on, among
+other things, additional indebtedness, liens on our assets, sales or transfers
+of assets, investments, restricted payments (including payment of dividends and
+stock repurchases), issuance of equity securities, and mergers, acquisitions and
+other fundamental changes in the Company's business. The credit agreement is
+un-collateralized except for the pledge of stock of certain foreign
+subsidiaries. We were in compliance with all such covenants as of September 30,
+2003. In connection with this refinancing, capitalized costs in the amount of
+ 455,000 associated with the paid-off credit facilities were written-off during
+the three month period ended June 30, 2003 and are included as a component of
+other (income) expense.
+
+On October 9, 2003, we acquired certain assets comprised of land, building and
+machinery and equipment of the precision ball operations of KLF - Gulickaren
+("KLF"), based in Kysucke Nove Mesto, Slovakia. We paid consideration of
+approximately 1.7 million Euros 2.0 million). The assets will be utilized by
+our newly established subsidiary AKMCH s.r.o. ("AKMCH") based in Kysucke Nove
+Mesto, Slovakia, which will begin production in early 2004. The financial
+results of the operations will be included in our NN Europe Segment.
+
+14
+
+In connection with the acquisition of KLF's operations in Slovakia, on September
+23, 2003 we entered into a 2.0 million short-term unsecured promissory note
+with AmSouth as the lender. This note, which bears interest at the prime rate
+(4.0 at September 30, 2003), matured on November 14, 2003. We have extended the
+maturity date of this note for an additional 90 days.
+
+ Note 10. Sale of Common Stock 
+
+During May 2003, we completed a public offering of 3.6 million shares of our
+stock by a group of selling shareholders. We did not receive any proceeds from
+the sale of the shares previously held by the group of selling shareholders,
+however, the underwriters did exercise their over-allotment option of 533,600
+shares, which were offered by us. Net proceeds received by us in connection with
+the exercise of the over-allotment option were approximately 5.1 million.
+
+ Note 11. Subsequent Events 
+
+On October 9, 2003, we acquired certain assets comprised of land, building and
+machinery and equipment of the precision ball operations of KLF - Gulickaren
+("KLF"), based in Kysucke Nove Mesto, Slovakia. We paid consideration of
+approximately 1.7 million Euros 2.0 million). The assets will be utilized by
+our newly established subsidiary AKMCH based in Kysucke Nove Mesto, Slovakia,
+which will begin production in early 2004. The financial results of the
+operations will be included in our NN Europe Segment. See Note 9.
+
+ Note 12. Restatement 
+
+The Company has restated its Consolidated Financial Statements for the year
+ended December 31, 2002 and the three and nine months ended September 30, 2002
+solely to amend the financial reporting of certain transactions related to the
+formation of Euroball on July 31, 2000 and the subsequent purchases of the
+minority interests held by INA/FAG and SKF on December 20, 2002 and May 2, 2003,
+respectively. These restatements had no material effect on
+the Company's reported net sales, gross profit, income from operations or
+cash flows for the three and nine month periods ended September 30,
+2003 and September 30, 2002.
+
+We have revised the valuation of the original purchase associated with the
+formation of Euroball in July 2000. This revision resulted in a reduction of
+goodwill of approximately 4,108 Euro 3,792). Further, we increased
+stockholders' equity by approximately 10,044 Euro 9,270) to reflect the amount
+by which the Company's proportionate interest in Euroball exceeded the book
+value of the net assets exchanged by the Company. As a result of these two
+adjustments, minority interest in consolidated subsidiaries has been reduced by
+approximately 7,421 at December 31, 2002, goodwill has decreased by 4,308 at
+December 31, 2002 and paid-in-capital increased by 9,270 at December 31, 2002
+from amounts previously reported. Comprehensive income has also been restated at
+December 31, 2002 and for the three and nine months ended September 30, 2002 for
+foreign currency translation effects of these adjustments.
+
+In the previously issued December 31, 2002 Consolidated Financial Statements,
+when the Company acquired the 23 interests in Euroball held by INA/FAG in
+December 2002 and the 23 interest held by SKF in May 2003, the excess of
+minority interest in consolidated subsidiaries over the purchase price was
+recorded as a non-taxable gain in the amount of approximately 5,904 and 6,600,
+respectively. As restated in the accompanying Consolidated Financial Statements,
+the non-taxable gains have been excluded and the excess of the purchase price
+over the fair value of INA/FAG's 23 interest and SKF's 23 interest in the net
+assets of Euroball was allocated to goodwill. The resulting impact to the
+Consolidated Financial Statements is an increase to goodwill of approximately
+ 1,517 and 3,667 and a decrease in retained earnings of approximately 5,904
+and 12,504 at December 31, 2002 and September 30, 2003, respectively, and
+reversal of the gain previously recorded in the Consolidated Statement of Income
+and Comprehensive Income for the year ended December 31, 2002.
+
+Additionally, the Company has reclassified minority interest in consolidated
+subsidiaries from a component of total liabilities to a separate line item in
+the Consolidated Balance Sheet at December 31, 2002.
+
+15
+
+Effect on selected Consolidated Financial Statement data as of December 31,
+2002, 2001 and 2000:
+
+ Selected Consolidated Balance Sheet Data
+ December 31, 2002
+ (In thousands) 
+ As Previously
+ Reported As Restated
+ ------------- ------------
+ Goodwill 42,166 39,374
+ Total assets 198,007 195,215
+ Total liabilities 124,728 105,022
+ Minority interest in consolidated subsidiaries 19,706 12,285
+ Additional paid-in capital 31,187 40,457
+ Retained earnings 44,888 38,984
+ Accumulated other comprehensive loss (2,950) (1,687)
+ Total stockholders' equity 73,279 77,908
+ Total liabilities and stockholders' equity 198,007 195,215
+
+Selected Consolidated Statement of Income and Comprehensive Income Data
+ Three months ended September 30, 2002
+ (In thousands) 
+ As Previously
+ Reported As Restated
+ -------------- ------------
+ Foreign currency translation (66) (125)
+ Comprehensive income 2,053 1,994
+
+ Nine months ended September 30, 2002
+ (In thousands) 
+ As Previously
+ Reported As Restated
+ ------------- ------------
+ Foreign currency translation 1,268 2,255
+ Comprehensive income 7,643 8,630
+
+16
+
+MANAGEMENT'S DISCUSSION AND ANALYSIS OF
+ FINANCIAL CONDITION AND RESULTS OF OPERATIONS 
+
+Results of Operations
+
+Three Months Ended September 30, 2003 Compared to the Three Months Ended
+September 30, 2002 
+
+ Net Sales. Net sales increased by approximately 17.1 million or 36.2 from
+ 47.5 million for the third quarter of 2002 to 64.6 million for the third
+quarter of 2003. By segment, net sales increased 1.2 million, and 16.0 million
+for the Domestic Ball and Roller Segment and the NN Europe Segment,
+respectively. Net sales for the Plastic and Rubber Components Segment decreased
+by 0.1 million. Within the NN Europe Segment, 12.5 million of the increase is
+related to our May 2, 2003 acquisition of Veenendaal and the inclusion of three
+months of its operations. Of the remaining 3.5 million increase 3.2 million is
+related to the impact of currency exchange rates and 0.3 million is related to
+increased demand. Within the Domestic Ball and Roller Segment the 1.2 million
+increase is related to increased demand.
+
+ Cost of Goods Sold. Cost of goods sold increased by 14.7 million or 41.2 from
+ 35.6 million in the third quarter of 2002 to 50.3 million in the third quarter
+of 2003. By segment, cost of goods sold increased 1.2 million for the Domestic
+Ball and Roller Segment, 0.2 million for the Plastic and Rubber Components
+Segment and 13.3 million for the NN Europe Segment. Within the Domestic Ball
+and Roller Segment the increase is principally related to increased net sales
+demand. Within the NN Europe Segment, 10.2 million is related to the inclusion
+of Veenendaal results due to the May 2, 2003 acquisition, 2.5 million is
+related to impact of currency exchange rates and 0.6 million is principally
+related to increases in net sales demand and material surcharges. Within the
+Plastic and Rubber Components Segment the increase is related to cost increases
+within the Guadalajara, Mexico facility.
+
+ Selling, General and Administrative Expenses . Selling, general and
+administrative expenses increased by 1.1 million, or 28.7 , from 4.1 million
+in the third quarter of 2002 to 5.2 million in the third quarter of 2003. By
+segment, selling, general and administrative expenses increased by 0.9 million
+and 0.3 million for the Domestic Ball and Roller Segment and the NN Europe
+Segment, respectively. Within the NN Europe Segment, the inclusion of a full
+quarter of Veenendaal results due to the May 2, 2003 acquisition contributed
+ 0.9 million of the increase and the impact of currency exchange rates resulted
+in a 0.2 million increase. Selling, general and administrative expenses
+remained unchanged for the Plastic and Rubber Components Segment. As a
+percentage of net sales, selling, general and administrative expenses decreased
+from 8.6 in the third quarter of 2002 to 8.1 in the third quarter of 2003.
+
+ Depreciation and Amortization. Depreciation and amortization expenses increased
+by 0.8 million, or 26.4 , from 2.8 million in the third quarter of 2002 to
+ 3.6 million in the third quarter of 2003. Within the NN Europe Segment the
+inclusion of a full quarter of Veenendaal results due to the May 2, 2003
+acquisition contributed 0.6 million of the increase and currency impacts
+resulted in a 0.2 million increase. Depreciation and amortization expense
+remained unchanged for the Domestic Ball and Roller and Plastic and Rubber
+Components Segments. As a percentage of net sales, depreciation and amortization
+decreased from 6.1 in the third quarter of 2002 to 5.6 in the third quarter of
+2003.
+
+ Restructuring and Impairment Costs. Restructuring and impairment costs decreased
+by 0.2 million from 0 in the third quarter of 2002 to 0.2 million) in the
+third quarter of 2003. The decrease is related to gains recorded during the
+third quarter of 2003 related to the disposition of certain previously impaired
+NN Arte assets. Restructuring and impairment charges had no effect on net sales
+in the third quarter of 2002.
+
+ Interest Expense . Interest expense increased by 0.3 million from 0.6 million
+in the third quarter of 2002 to 0.9 million in the third quarter of 2003. The
+increase is attributed to increased debt levels due to the previously announced
+acquisition of Veenendaal during May 2003, the previously announced purchase of
+the 23 interest in Euroball held by INA/FAG during December 2002, and the
+previously announced purchase of the 23 interest in Euroball held by SKF during
+May 2003.
+
+ Minority Interest in Consolidated Subsidiary. Minority interest of consolidated
+subsidiary decreased 0.6
+
+17
+
+million from 0.6 million in the third quarter of 2002 to 0 in the third
+quarter of 2003. This decrease is due entirely to the Euroball joint venture,
+which the Company has been required to consolidate since its formation on August
+1, 2000. During the third quarter of 2002, minority interest in consolidated
+subsidiary represented the 46 of the shares of the joint venture held by the
+minority partners. On May 2, 2003 we purchased the 23 interest held by SKF. As
+previously announced, we purchased the 23 interest in Euroball held by INA/FAG
+on December 20, 2002. Effective May 2, 2003 and as of September 30, 2003, we own
+100 of the shares of Euroball. Minority interest in consolidated subsidiary
+represents the combined interest in Euroball's earnings of the minority partner
+and the 49 interest in Arte's earnings of the minority partner (the 49 
+interest in NN Arte's earnings is zero in the third quarter of 2002).
+
+ Net Income. Net income increased by 1.1 million, or 49.3 , from 2.1 million in
+the third quarter of 2002 to 3.2 million in the third quarter of 2003. As a
+percentage of net sales, net income increased from 4.5 in the third quarter of
+2002 to 4.9 in the third quarter of 2003.
+
+ Nine Months Ended September 30, 2003 Compared to the Nine Months Ended September
+30, 2002 
+
+ Net Sales. Net sales increased by approximately 42.6 million or 29.6 from
+ 143.8 million for the first nine months of 2002 to 186.4 million for the first
+nine months of 2003. By segment, net sales increased 38.2 million, 2.0 million
+and 2.4 million for the NN Europe Segment, the Plastic and Rubber Components
+Segment and the Domestic Ball and Roller Segment, respectively. Within the NN
+Europe Segment, 21.8 million of the increase is related to the inclusion of
+five months of Veenendaal results which we acquired on May 2, 2003, 14.4
+million is related to currency impacts and 2.0 million is related to increases
+in demand. Within the Plastic and Rubber Components Segment and Domestic Ball
+and Roller Segment the increase is principally related to increases in demand as
+well as new programs within the Plastic and Rubber Components Segment.
+
+ Cost of Goods Sold. Cost of goods sold increased by 35.5 million or 33.0 from
+ 107.3 million for the first nine months of 2002 to 142.8 million for the first
+nine months of 2003. By segment, cost of goods sold increased 1.9 million for
+the Domestic Ball and Roller Segment, 2.9 million for the Plastic and Rubber
+Components Segment and 30.7 million for the NN Europe Segment. Within the
+Domestic Ball and Roller Segment the increase is principally related to
+increased net sales demand. Within the NN Europe Segment, 18.2 million is
+related to the inclusion of Veenendaal results due to the May 2, 2003
+acquisition, 10.8 million is related to impact of currency exchange rates and
+ 1.7 million is principally related to increases in net sales demand and
+material surcharges. Within the Plastic and Rubber Components Segment 0.2
+million of the increase is related to cost increases and 0.1 million is related
+to inventory write-offs within the Guadalajara, Mexico facility and 2.1 of the
+increase is related to net sales demand related to other business units included
+in the Segment.
+
+ Selling, General and Administrative. Selling, general and administrative
+expenses increased by approximately 2.3 million, or 17.6 , from 13.3 million
+for the first nine months of 2002 to 15.6 million for the first nine months of
+2003. By segment, selling general and administrative expenses decreased 0.2
+million for the Plastic and Rubber Components Segment due principally to
+staffing reductions. For the Domestic Ball and Roller Segment and the NN Europe
+Segment, selling, general and administrative expenses increased 0.1 million and
+ 2.4 million, respectively. Within the Domestic Ball and Roller Segment the
+increase of 0.1 million consists of 0.3 million of non-cash compensation
+charges associated with a portion of certain employee stock options offset by
+ 0.2 million of cost reductions. Within the NN Europe Segment, 1.6 million of
+the increase is related to the inclusion of five months of Veenendaal results
+which we acquired on May 2, 2003 and 1.1 million of the increase is related to
+currency impacts. As a percentage of net sales, selling, general and
+administrative expenses decreased from 9.3 for the first nine months of 2002 to
+8.4 for the first nine months of 2003.
+
+ Depreciation and Amortization . Depreciation and amortization expenses increased
+by 1.8 million, or 20.9 , from 8.4 million in the first nine months of 2002 to
+ 10.2 million for the first nine months of 2003. Within the NN Europe Segments
+ 1.0 million of the increase is related to the inclusion of five months of
+Veenendaal results due to the May 2, 2003 acquisition and 0.7 million of the
+increase is related to currency impacts. As a percentage of net sales,
+depreciation and amortization expenses decreased from 5.9 for the first nine
+months of 2002 to 5.5 for the first nine months of 2003.
+
+18
+
+Restructuring and Impairment Costs. Restructuring and impairment costs increased
+by 2.4 million from 0.1 million for the first nine months of 2002 to 2.5
+million for the first nine months of 2003. The increase is related to the
+restructuring and impairment charges recorded in the second and third quarters
+of 2003 due to the previously announced closure of our Guadalajara, Mexico
+injection molding facility. The charges, net of gains recorded related to the
+disposition of certain assets, consist of 2.2 million related to asset
+write-downs to their estimated fair market values, including 1.3 million
+related to goodwill, and 0.9 million related to property, plant and equipment.
+In addition, a 0.3 million charge related to employee severance costs and lease
+exit costs has been recorded.
+
+ Interest Expense . Interest expense increased by 0.3 million from 1.9 million
+for the first nine months of 2002 to 2.2 million for the first nine months of
+2003. The increase is attributed to increased debt levels due to the previously
+announced acquisition of Veenendaal during May 2003, the previously announced
+purchase of the 23 interest in Euroball held by INA/FAG during December 2002,
+and the previously announced purchase of the 23 interest in Euroball held by
+SKF during May 2003.
+
+ Minority Interest in Consolidated Subsidiary. Minority interest of consolidated
+subsidiary decreased 1.3 million from 2.0 million for the first nine months of
+2002 to 0.7 million for the first nine months of 2003. This decrease is due
+entirely to the Euroball joint venture, which the Company has been required to
+consolidate since its formation on August 1, 2000. During the first nine months
+of 2002, minority interest in consolidated subsidiary represented the 46 of the
+shares of the joint venture held by the minority partners. During the first nine
+months of 2003, minority interest in consolidated subsidiary represents the 23 
+of the shares of the joint venture held by SKF through May 2, 2003. On May 2,
+2003 we purchased the 23 interest held by SKF. Effective May 2, 2003 and as of
+September 30, 2003, we own 100 of the shares of Euroball. Minority interest in
+consolidated subsidiary represents the combined interest in Euroball's earnings
+of the minority partner and the 49 interest in NN Arte's earnings of the
+minority partner (the 49 interest in NN Arte's earnings is zero in the first
+nine months of 2002 and 2003).
+
+ Net Income. Net income increased by 1.1 million, or 17.7 , from 6.4 million in
+the first nine months of 2002 to 7.5 million in the first nine months of 2003.
+As a percentage of net sales, net income decreased from 4.4 in the first nine
+months of 2002 to 4.0 in the first nine months of 2003.
+
+ Recent Developments 
+
+On October 9, 2003 we acquired certain assets comprised of land, building and
+machinery and equipment of the precision ball operations of KLF - Gulickaren
+("KLF"), based in Kysucke Nove Mesto, Slovakia. We paid consideration of
+approximately 1.7 million Euros 2.0 million). The assets will be utilized by
+our newly established subsidiary AKMCH based in Kysucke Nove Mesto, Slovakia,
+which will begin production in early 2004. The financial results of the
+operations will be included in our NN Europe Segment.
+
+ Liquidity and Capital Resources 
+
+In connection with the acquisition of KLF's operations in Slovakia, on September
+23, 2003 we entered into a 2.0 million short-term promissory note with AmSouth
+Bank ("AmSouth") as the lender. This note, which bears interest at the prime
+rate (4.0 at September 30, 2003), matures on November 14, 2003. We have
+extended the maturity of this note for an additional 90 days. See Note 9 and
+Note 11 of the Notes to Consolidated Financial Statements.
+
+On May 1, 2003 in connection with the purchase of SKF's Veenendaal component
+manufacturing operations and SKF's 23 percent interest in Euroball, we entered
+into a new 90 million syndicated credit facility with AmSouth Bank ("AmSouth")
+as the administrative agent and Suntrust Bank as the Euro loan agent for the
+lenders under which we borrowed 60.4 million and 26.3 million Euros 29.6
+million). This new financing arrangement replaces our prior credit facility with
+AmSouth and Euroball's credit facility with Hypo Vereinsbank Luxembourg, S.A.
+The credit facility consists of a 30.0 million revolver expiring on March 1,
+2005, bearing interest at a floating rate equal to LIBOR (1.16 at September 30,
+2003) plus an applicable margin of 1.25 to 2.0, a 30.4 million term loan
+expiring on May 1, 2008, bearing interest at a floating rate equal to LIBOR
+(1.16 at September 30, 2003) plus an applicable margin of 1.25 to 2.0 and a
+26.3 million 29.6 million) Euros term loan expiring on May 1, 2008 which bears
+interest at a floating rate
+
+19
+
+equal to Euro LIBOR (2.13 at September 30, 2003) plus an applicable margin of
+1.25 to 2.0. The loan agreement contains customary financial and non-financial
+covenants. Such covenants specify that we must maintain certain liquidity
+measures. The loan agreement also contains customary restrictions on, among
+other things, additional indebtedness, liens on our assets, sales or transfers
+of assets, investments, restricted payments (including payment of dividends and
+stock repurchases), issuance of equity securities, and mergers, acquisitions and
+other fundamental changes in our business. The credit facility is
+un-collateralized except for the pledge of stock of certain foreign
+subsidiaries. We were in compliance with all such covenants as of September 30,
+2003.
+
+Our arrangements with our domestic customers typically provide that payments are
+due within 30 days following the date of shipment of goods by us, while
+arrangements with certain export customers (other than export customers that
+have entered into an inventory management program with the Company) generally
+provide that payments are due within either 90 or 120 days following the date of
+shipment. Our net sales have historically been of a seasonal nature due to our
+relative percentage of European business coupled with slower European production
+during the month of August.
+
+We bill and receive payment from some of our customers in Euro as well as other
+currencies. To date, we have not been materially adversely affected by currency
+fluctuations. Nonetheless, as a result of these sales, our foreign exchange
+transaction and translation risk has increased. Various strategies to manage
+this risk are available to management including producing and selling in local
+currencies and hedging programs. As of September 30, 2003, no currency hedges
+were in place. In addition, a strengthening of the U.S. dollar and/or Euro
+against foreign currencies could impair our ability to compete with
+international competitors for foreign as well as domestic sales.
+
+Working capital, which consists principally of accounts receivable and
+inventories, was 28.2 million at September 30, 2003 as compared to 21.2
+million at December 31, 2002. The ratio of current assets to current liabilities
+decreased from 1.53:1 at December 31, 2002 to 1.45:1 at September 30, 2003. Cash
+flow from operations decreased to 8.3 million during the first nine months of
+2003 from 21.4 million during the first nine months of 2002.
+
+During 2003, we plan to spend approximately 9.0 million to 10.0 million on
+capital expenditures of which approximately 7.1 million has been spent through
+September 30, 2003 including the purchase of additional machinery and equipment
+for all of our domestic facilities as well as four European facilities. We
+intend to finance these activities with cash generated from operations and funds
+available under the credit facilities described above. We believe that funds
+generated from operations and borrowings from the credit facilities will be
+sufficient to finance our working capital needs and projected capital
+expenditure requirements through December 2004.
+
+20
+
+The Euro 
+
+We currently have operations in Italy, Germany, Ireland, and The Netherlands,
+all of which are Euro participating countries, and sell product to customers in
+many of the participating countries. The Euro has been adopted as the functional
+currency at these locations.
+
+ Seasonality and Fluctuation in Quarterly Results 
+
+Our net sales historically have been of a seasonal nature due to a significant
+portion of our sales to European customers that cease or significantly slow
+production during the month of August.
+
+ Inflation and Changes in Prices 
+
+While the Company's operations have not been materially affected by inflation
+during recent years, prices for 52100 Steel, engineered resins and other raw
+materials purchased by the Company are subject to material change. For example,
+during 1995, due to an increase in worldwide demand for 52100 Steel and the
+decrease in the value of the United States Dollar relative to foreign
+currencies, the Company experienced an increase in the price of 52100 Steel and
+some difficulty in obtaining an adequate supply of 52100 Steel from its existing
+suppliers. In the Company's U.S. operations our typical pricing arrangements
+with steel suppliers are subject to adjustment once every six months. The
+Company's NN Europe Segment has entered into long term agreements with its
+primary steel supplier, which provide for standard terms and conditions and
+annual pricing adjustments to offset material price fluctuations in steel. The
+Company typically reserves the right to increase product prices periodically in
+the event of increases in its raw material costs. In the past, the Company has
+been able to minimize the impact on its operations resulting from the 52100
+Steel price fluctuations by taking such measures. Certain sales agreements are
+in effect with SKF and INA/FAG, which provide for minimum purchase quantities
+and specified, annual sales price reductions that may be modified up or down for
+changes in material costs. These agreements expire during 2006 and 2008.
+
+ Critical Accounting Policies 
+
+Our significant accounting policies, including the assumptions and judgments
+underlying them, are disclosed in the Company's Annual Report on Form 10-K, as
+amended, for the fiscal year ended December 31, 2002 including those policies as
+discussed in Note 2. These policies have been consistently applied in all
+material respects and address such matters as revenue recognition, inventory
+valuation, asset impairment recognition, business combination accounting and
+pension and postretirement benefits. Due to the estimation processes involved,
+management considers the following summarized accounting policies and their
+application to be critical to understanding the Company's business operations,
+financial condition and results of operations. There can be no assurance that
+actual results will not significantly differ from the estimates used in these
+critical accounting policies.
+
+ Accounts Receivable. Substantially all of the Company's accounts receivable are
+due primarily from the served markets: bearing manufacturers, automotive
+industry, electronics, industrial, agricultural and aerospace. In establishing
+allowances for doubtful accounts, the Company performs credit evaluations of its
+customers, considering numerous inputs when available including the customers'
+financial position, past payment history, relevant industry trends, cash flows,
+management capability, historical loss experience and economic conditions and
+prospects. While management believes that adequate allowances for doubtful
+accounts have been provided in the Consolidated Financial Statements, it is
+possible that the Company could experience additional unexpected credit losses.
+
+ Inventories. Inventories are stated at the lower of cost or market. Cost is
+determined using the first-in, first-out method. The Company's inventories are
+not generally subject to obsolescence due to spoilage or expiring product life
+cycles. The Company operates generally as a make-to-order business; however, the
+Company also stocks products for certain customers in order to meet delivery
+schedules. While management believes that adequate write-downs for inventory
+obsolescence have been made in the Consolidated Financial Statements, the
+Company could experience additional inventory write-downs in the future.
+
+21
+
+Acquisitions and Acquired Intangibles. For new acquisitions, the Company uses
+estimates, assumptions and appraisals to allocate the purchase price to the
+assets acquired and to determine the amount of goodwill. These estimates are
+based on market analyses and comparisons to similar assets. Annual tests are
+required to be performed to assess whether recorded goodwill is impaired. The
+annual tests require management to make estimates and assumptions with regard to
+the future operations of its reporting units, the expected cash flows that they
+will generate, and their market value. These estimates and assumptions therefore
+impact the recorded value of assets acquired in a business combination,
+including goodwill, and whether or not there is any subsequent impairment of the
+recorded goodwill and the amount of such impairment.
+
+ Impairment of Long-Lived Assets. The Company's long-lived assets include
+property, plant and equipment. The recoverability of the long-term assets is
+dependent on the performance of the companies which the Company has acquired, as
+well as volatility inherent in the external markets for these acquisitions. In
+assessing potential impairment for these assets the Company will consider these
+factors as well as forecasted financial performance. For assets held for sale,
+appraisals are relied upon to assess the fair market value of those assets.
+Future adverse changes in market conditions or adverse operating results of the
+underlying assets could result in the Company having to record additional
+impairment charges not previously recognized.
+
+ Pension and Post-Retirement Obligations. The Company uses several assumptions in
+determining its periodic pension and post-retirement expense and obligations
+which are included in the Consolidated Financial Statements. These assumptions
+include determining an appropriate discount rate, rate of compensation increase
+as well as the remaining service period of active employees. The Company uses an
+independent actuary to calculate the periodic pension and post-retirement
+expense and obligations based upon these assumptions and actual employee census
+data.
+
+22
+
+Cautionary Statements for Purposes of the "Safe Harbor" Provisions of the
+Private Securities Litigation Reform Act of 1995 
+
+The Company wishes to caution readers that this report contains, and future
+filings by the Company, press releases and oral statements made by the Company's
+authorized representatives may contain, forward-looking statements that involve
+certain risks and uncertainties. Statements regarding capital expenditures,
+future borrowings, and financial commitments are forward-looking statements.
+Readers can identify forward-looking statements by the use of such verbs as
+expects, anticipates, believes or similar verbs or conjugations of such verbs.
+The Company's actual results could differ materially from those expressed in
+such forward-looking statements due to important factors bearing on the
+Company's business, many of which already have been discussed in this filing and
+in the Company's prior filings. The differences could be caused by a number of
+factors or combination of factors including, but not limited to, the risk
+factors described below.
+
+ You should carefully consider the following risks and uncertainties, and all
+other information contained in or incorporated by reference in this quarterly
+report on Form 10-Q, before making an investment in our common stock. Any of the
+following risks could have a material adverse effect on our business, financial
+condition or operating results. In such case, the trading price of our common
+stock could decline and you may lose all or part of your investment. 
+
+ The demand for our products is cyclical, which could adversely impact our revenues. 
+
+The end markets for fully assembled bearings are cyclical and tend to decline in
+response to overall declines in industrial production. As a result, the market
+for bearing components is also cyclical and impacted by overall levels of
+industrial production. Our sales in the past have been negatively affected, and
+in the future will be negatively affected, by adverse conditions in the
+industrial production sector of the economy or by adverse global or national
+economic conditions generally.
+
+ We depend on a very limited number of foreign sources for our primary raw
+material and are subject to risks of shortages and price fluctuation. 
+
+The steel that we use to manufacture precision balls and rollers is of an
+extremely high quality and is available from a limited number of producers on a
+global basis. Due to quality constraints in the U.S. steel industry, we obtain
+substantially all of the steel used in our U.S. ball and roller production from
+overseas suppliers. In addition, we obtain substantially all of the steel used
+in our European ball production from a single European source. If we had to
+obtain steel from sources other than our current suppliers, particularly in the
+case of our European operations, we could face higher prices and transportation
+costs, increased duties or taxes, and shortages of steel. Problems in obtaining
+steel, and particularly 52100 chrome steel, in the quantities that we require
+and on commercially reasonable terms, could increase our costs, negatively
+impact our ability to operate our business efficiently and have a material
+adverse effect on the operating and financial results of our Company.
+
+ We operate in and sell products to customers outside the U.S. and are subject to
+several related risks. 
+
+Because we obtain a majority of our raw materials from overseas suppliers,
+actively participate in overseas manufacturing operations and sell to a large
+number of international customers, we face risks associated with the following:
+
+23
+
+o adverse foreign currency fluctuations;
+
+ o changes in trade, monetary and fiscal policies, laws and regulations,
+ and other activities of governments, agencies and similar
+ organizations;
+
+ o the imposition of trade restrictions or prohibitions;
+
+ o high tax rates that discourage the repatriation of funds to the U.S.;
+
+ o the imposition of import or other duties or taxes; and
+
+ o unstable governments or legal systems in countries in which our
+ suppliers, manufacturing operations, and customers are located.
+
+We do not have a hedging program in place associated with consolidating the
+operating results of our foreign businesses into U.S. Dollars. An increase in
+the value of the U.S. Dollar and/or the Euro relative to other currencies may
+adversely affect our ability to compete with our foreign-based competitors for
+international, as well as domestic, sales. In the first nine months of 2003,
+approximately 34 of the 42.6 million increase in revenues was attributable to
+favorable currency fluctuations. Also, a decline in the value of the Euro
+relative to the U.S. Dollar will negatively impact our consolidated financial
+results, which are denominated in U.S. Dollars.
+
+In addition, due to the typical slower summer manufacturing season in Europe, we
+expect that revenues in the third fiscal quarter will reflect lower sales, as
+our sales to European customers have increased as a percentage of net sales.
+
+ We depend heavily on a relatively limited number of customers, and the loss of
+any major customer would have a material adverse effect on our business . 
+
+Sales to various U.S. and foreign divisions of SKF, which is one of the largest
+bearing manufacturers in the world, accounted for approximately 33 of
+consolidated net sales in 2002, and sales to INA/FAG accounted for approximately
+19 of consolidated net sales in 2002. Our recent acquisition at SKF's tapered
+roller and metal cage production facility, along with the related long-term
+supply agreement with SKF, will increase our dependence on SKF in the future.
+During 2002, our ten largest customers accounted for approximately 73 of our
+consolidated net sales. None of our other customers individually accounted for
+more than 5 of our consolidated net sales for 2002. Recent consolidation of
+certain of our bearing customers, including the acquisition at the Torrington
+Company by Timken, will increase our dependence on a smaller number of
+customers. The loss of all or a substantial portion of sales to these customers
+would cause us to lose a substantial portion of our revenue and would lower our
+profit margin and cash flows from operations.
+
+ The costs and difficulties of integrating acquired business could impede our
+future growth. 
+
+We cannot assure you that any future acquisition will enhance our financial
+performance. Our ability to effectively integrate any future acquisitions will
+depend on, among other things, the adequacy of our implementation plans, the
+ability of our management to oversee and operate effectively the combined
+operations and our ability to achieve desired operating efficiencies and sales
+goals. The integration of any acquired businesses might cause us to incur
+unforeseen costs, which would lower our profit margin and future earnings and
+would prevent us from realizing the expected benefits of these acquisitions.
+
+ We may not be able to continue to make the acquisitions necessary for us to
+realize our growth strategy. 
+
+Acquiring businesses that complement or expand our operations has been and
+continues to be an important element of our business strategy. This strategy
+calls for growth through acquisitions constituting approximately two-thirds of
+our future growth, with the remainder resulting from internal growth and market
+penetration. We bought our plastic bearing component business in 1999, formed
+Euroball with our two largest bearing customers, SKF and INA/FAG, in 2000 and
+acquired our bearing seal operations in
+
+24
+
+2001. During 2002, we purchased INA/FAG's minority interest in Euroball and on
+May 2, 2003, we acquired SKF's minority interest in Euroball, to become the sole
+owner at Euroball. On May 2, 2003 we acquired SKF's tapered roller and metal
+cage manufacturing operations in Veenendaal, The Netherlands. We cannot assure
+you that we will be successful in identifying attractive acquisition candidates
+or completing acquisitions on favorable terms in the future. In addition, we may
+borrow funds to acquire other businesses, increasing our interest expense and
+debt levels. Our inability to acquire businesses, or to operate them profitably
+once acquired, could have a material adverse effect on our business, financial
+position, results of operations and cash flows.
+
+ Our growth strategy depends on outsourcing, and if the industry trend toward
+outsourcing does not continue, our business could be adversely affected . 
+
+Our growth strategy depends in significant part on major bearing manufacturers
+continuing to outsource components, and expanding the number of components being
+outsourced. This requires manufacturers to depart significantly from their
+traditional methods of operations. If major bearing manufacturers do not
+continue to expand outsourcing efforts or determine to reduce their use of
+outsourcing, our ability to grow our business could be materially adversely
+affected.
+
+ Our market is highly competitive and many of our competitors have significant
+advantages that could adversely affect our business. 
+
+The global market for bearing components is highly competitive, with a majority
+of production represented by the captive production operations of certain large
+bearing manufacturers and the balance represented by independent manufacturers.
+Captive manufacturers make components for internal use and for sale to third
+parties. All of the captive manufacturers, and many independent manufacturers,
+are significantly larger and have greater resources than do we. Our competitors
+are continuously exploring and implementing improvements in technology and
+manufacturing processes in order to improve product quality, and our ability to
+remain competitive will depend, among other things, on whether we are able to
+keep pace with such quality improvements in a cost effective manner.
+
+ The production capacity we have added over the last several years has at times
+resulted in our having more capacity than we need, causing our operating costs
+to be higher than expected. 
+
+We have expanded our ball and roller production facilities and capacity over the
+last several years. During 1997, we built an additional manufacturing plant in
+Kilkenny, Ireland, and we continued this expansion in 2000 through the formation
+of Euroball with SKF and INA/FAG. Our ball and roller facilities have not always
+operated at full capacity and from time to time our results of operations have
+been adversely affected by the under-utilization of our production facilities,
+and we face risks of further under-utilization or inefficient utilization of our
+production facilities in future years.
+
+ The price of our common stock may be volatile. 
+
+The market price of our common stock could be subject to significant
+fluctuations and may decline. Among the factors that could affect our stock
+price are:
+
+ o our operating and financial performance and prospects;
+
+ o quarterly variations in the rate of growth of our financial
+ indicators, such as earnings per share, net income and revenues;
+
+ o changes in revenue or earnings estimates or publication of research
+ reports by analysts;
+
+ o loss of any member of our senior management team;
+
+ o speculation in the press or investment community;
+
+ o strategic actions by us or our competitors, such as acquisitions or
+ restructurings;
+
+25
+
+o sales of our common stock by stockholders;
+
+ o general market conditions; and
+
+ o domestic and international economic, legal and regulatory factors
+ unrelated to our performance.
+
+The stock markets in general have experienced extreme volatility that has often
+been unrelated to the operating performance of particular companies. These broad
+market fluctuations may adversely affect the trading price of our common stock.
+
+ Provisions in our charter documents and Delaware law may inhibit a takeover,
+which could adversely affect the value of our common stock. 
+
+Our certificate of incorporation and bylaws, as well as Delaware corporate law,
+contain provisions that could delay or prevent a change of control or changes in
+our management that a stockholder might consider favorable and may prevent you
+from receiving a takeover premium for your shares. These provisions include, for
+example, a classified board of directors and the authorization of our board of
+directors to issue up to 5,000,000 preferred shares without a stockholder vote.
+In addition, our restated certificate of incorporation provides that
+stockholders may not call a special meeting.
+
+We are a Delaware corporation subject to the provisions of Section 203 of the
+Delaware General Corporation Law, an anti-takeover law. Generally, this statute
+prohibits a publicly-held Delaware corporation from engaging in a business
+combination with an interested stockholder for a period of three years after the
+date of the transaction in which such person became an interested stockholder,
+unless the business combination is approved in a prescribed manner. A business
+combination includes a merger, asset sale or other transaction resulting in a
+financial benefit to the stockholder. We anticipate that the provisions of
+Section 203 may encourage parties interested in acquiring us to negotiate in
+advance with our board of directors, because the stockholder approval
+requirement would be avoided if a majority of the directors then in office
+approve either the business combination or the transaction that results in the
+stockholder becoming an interested stockholder.
+
+These provisions apply even if the offer may be considered beneficial by some of
+our stockholders. If a change of control or change in management is delayed or
+prevented, the market price of our common stock could decline.
+
+ Item 3. Quantitative and Qualitative Disclosures About Market Risk 
+
+We are exposed to changes in financial market conditions in the normal course of
+our business due to our use of certain financial instruments as well as
+transacting in various foreign currencies. To mitigate our exposure to these
+market risks, we have established policies, procedures and internal processes
+governing our management of financial market risks. We are exposed to changes in
+interest rates primarily as a result of our borrowing activities. At September
+30, 2003, these borrowings included a 30 million term loan and a 30 million
+revolving credit facility which was used to maintain liquidity and fund our
+business operations. At September 30, 2003, we had 55.9 million outstanding
+under the domestic credit facilities and Euroball had 25.0 million Euro 28.5
+million) outstanding under the Euro term loan. At September 30, 2003, a
+one-percent increase in the interest rate charged on our outstanding borrowings
+under both credit facilities would result in interest expense increasing
+annually by approximately 0.8 million. In connection with a variable EURIBOR
+rate debt financing in July 2000 our majority owned subsidiary, Euroball entered
+into an interest rate swap with a notional amount of Euro 12.5 million for the
+purpose of fixing the interest rate on a portion of their debt financing. The
+interest rate swap provides for us to receive variable Euribor interest payments
+and pay 5.51 fixed interest. The interest rate swap agreement expires in July
+2006 and the notional amount amortizes in relation to principal payments on the
+underlying debt over the life of the swap. This original debt was repaid in May
+2003, however, the swap remains pursuant to its original terms. On May 1, 2003,
+we entered into a new 90 million syndicated credit facility. This new financing
+arrangement replaces our prior credit facility with AmSouth and Euroball's
+credit facility with Hypo Vereinsbank Luxembourg, S.A., see "Management's
+Discussion and Analysis of Financial
+
+ 26
+
+Condition and Results of Operations - Liquidity and Capital Resources". The
+nature and amount of our borrowings may vary as a result of future business
+requirements, market conditions and other factors.
+
+Translation of our operating cash flows denominated in foreign currencies is
+impacted by changes in foreign exchange rates. Our NN Europe Segment, bills and
+receives payments from some of its foreign customers in their own currency. To
+date, we have not been materially adversely affected by currency fluctuations of
+foreign exchange restrictions. However, to help reduce exposure to foreign
+currency fluctuation, management has incurred debt in Euros and has periodically
+used foreign currency hedges. These currency hedging programs allow management
+to hedge currency exposures when these exposures meet certain discretionary
+levels. We did not hold a position in any foreign currency hedging instruments
+as of September 30, 2003.
+
+ Item 4. Controls and Procedures 
+
+ a) As of September 30, 2003, we carried out an evaluation, under the
+ supervision and with the participation of the Company's management,
+ including the Company's Chief Executive Officer and Chief Financial
+ Officer, of the effectiveness of the design and operation of the
+ Company's disclosure controls and procedures pursuant to Rule 13a-14
+ and 15d-14 of the Securities Exchange Act of 1934 (the "Exchange
+ Act"). Based upon that evaluation, the Company's management, including
+ the Chief Executive Officer and Chief Financial Officer, concluded
+ that the Company's disclosure controls and procedures are effective in
+ timely alerting them to material information relating to the Company
+ (including its consolidated subsidiaries) required to be included in
+ the Company's Exchange Act filings.
+
+ b) There have been no changes in this fiscal quarter in the Company's
+ internal control over financial reporting or in other factors that
+ have materially affected, or are reasonably likely to materially
+ affect, the registrant's internal control over financial reporting.
+
+27
+
+Part II. Other Information 
+
+Item 1. Legal Proceedings 
+
+All legal proceedings and actions involving the Company are of an ordinary and
+routine nature and are incidental to the operations of the Company. Management
+believes that such proceedings should not, individually or in the aggregate,
+have a material adverse effect on the Company's business or financial condition
+or on the results of operations.
+
+ Item 2. Change in Securities and Use of Proceeds 
+
+None
+
+ Item 3. Defaults upon Senior Securities 
+
+None
+
+ Item 4. Other Information 
+
+None
+
+ Item 5. Exhibits and Reports on Form 8-K. 
+
+ (a) Exhibits Required by Item 601 of Regulation S-K
+
+ 31.1 Certification of Chief Executive Officer pursuant to Section 302 of
+ Sarbanes-Oxley Act.
+
+ 31.2 Certification of Chief Financial Officer pursuant to Section 302 of
+ Sarbanes-Oxley Act.
+
+ 32.1 Certification of Chief Executive Officer pursuant to Section 906 of
+ Sarbanes-Oxley Act.
+
+ 32.2 Certification of Chief Financial Officer pursuant to Section 906 of
+ Sarbanes-Oxley Act.
+
+(b) Reports on Form 8-K
+
+ The Company furnished a Form 8-K, in response to Items 12 and 7, on
+ July 29, 2003 announcing its second quarter 2003 earnings.
+
+ The Company filed a Form 8-K, in response to Item 4, on August 25,
+ 2003 announcing the dismissal of KPMG LLP as the Company's independent
+ auditors, following approval by the Audit Committee of the Company's
+ Board of Directors.
+
+ The Company filed an amended Form 8-K, in response to Items 4 and 7,
+ on August 26, 2003 to file the letter from KPMG to the Securities and
+ Exchange Commission.
+
+ The Company filed a Form 8-K, in response to Item 4, on August 26,
+ 2003 announcing the appointment of PricewaterhouseCooopers LLP to
+ serve as the Company's independent auditors for the year ending
+ December 31, 2003, following approval by the Audit Committee of the
+ Company's Board of Directors.
+
+28
+
+SIGNATURES 
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the
+registrant has duly caused this report to be signed on its behalf by the
+undersigned thereunto duly authorized.
+
+NN, Inc.
+
+ (Registrant)
+
+Date: January 30, 2004 /s/ Roderick R. Baty
+ ---------------- ---------------------------
+ Roderick R. Baty,
+ Chairman, President and
+ Chief Executive Officer
+ (Duly Authorized Officer)
+
+Date: January 30, 2004 /s/ David L. Dyckman
+ ---------------- ---------------------------
+ David L. Dyckman
+ Vice President - Corporate Development
+ Chief Financial Officer
+ (Principal Financial Officer)
+ (Duly Authorized Officer)
+
+Date: January 30, 2004 /s/ William C. Kelly, Jr.
+ ---------------- ---------------------------
+ William C. Kelly, Jr.,
+ Treasurer, Secretary and
+ Chief Administrative Officer
+ (Duly Authorized Officer)
+
+<EX-31>
+ 3
+ form10q_093003exh311.htm
+ EXHIBIT 31.1
+
+Exhibit 31.1 
+
+Exhibit 31.1
+ 
+ CERTIFICATIONS 
+
+ I, Roderick R. Baty, certify that:
+
+ 1. I have reviewed this quarterly report on Form 10-Q of NN, Inc.;
+
+ 2. Based on my knowledge, this report does not contain any untrue
+ statement of a material fact or omit to state a material fact necessary to
+ make the statements made, in light of the circumstances under which such
+ statements were made, not misleading with respect to the period covered by
+ this report;
+
+ 3. Based on my knowledge, the financial statements, and other
+ financial information included in this report, fairly present in all
+ material respects the financial condition, results of operations and cash
+ flows of the registrant as of, and for, the periods presented in this
+ report;
+
+ 4. The registrant's other certifying officers and I are responsible
+ for establishing and maintaining disclosure controls and procedures (as
+ defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) for the registrant
+ and have:
+
+ (a) Designed such disclosure controls and procedures, or caused such
+ disclosure controls and procedures to be designed under our
+ supervision, to ensure that material information relating to the
+ registrant, including its consolidated subsidiaries, is made
+ known to us by others within those entities, particularly during
+ the period in which this report is being prepared;
+
+ (b) Evaluated the effectiveness of the registrant's disclosure
+ controls and procedures and presented in this report our
+ conclusions about the effectiveness of the controls and
+ procedures, as of the end of the period covered by this report
+ based on such evaluation; and
+
+ (c) Disclosed in this report any change in the registrant's internal
+ control over financial reporting that occurred during the
+ registrant's most recent fiscal quarter (the registrant's fourth
+ fiscal quarter in the case of an annual report) that has
+ materially affected, or is reasonably likely to materially
+ affect, the registrant's internal control over financial
+ reporting; and
+
+ 5. The registrant's other certifying officers and I have disclosed,
+ based on our most recent evaluation of internal control over financial
+ reporting, to the registrant's auditors and the audit committee of the
+ registrant's board of directors (or persons performing the equivalent
+ functions):
+
+ (a) All significant deficiencies and material weaknesses in the
+ design or operation of internal control over financial reporting
+ which are reasonably likely to adversely affect the registrant's
+ ability to record, process, summarize and report financial
+ information; and
+
+ (b) Any fraud, whether or not material, that involves management or
+ other employees who have a significant role in the registrant's
+ internal control over financial reporting.
+
+ Date: January 30, 2004
+ ----------------
+
+/s/ Roderick R. Baty
+ -----------------------------------
+ Roderick R. Baty
+ Chairman, President and
+ Chief Executive Officer
+
+</EX-31>
+
+<EX-31>
+ 4
+ form10q_093003exh312.htm
+ EXHIBIT 31.2
+
+Exhibit 31.2 
+
+Exhibit 31.2
+ 
+ CERTIFICATIONS 
+
+ I, David L. Dyckman, certify that:
+
+ 1. I have reviewed this quarterly report on Form 10-Q of NN, Inc.;
+
+ 2. Based on my knowledge, this report does not contain any untrue
+ statement of a material fact or omit to state a material fact necessary to
+ make the statements made, in light of the circumstances under which such
+ statements were made, not misleading with respect to the period covered by
+ this report;
+
+ 3. Based on my knowledge, the financial statements, and other
+ financial information included in this report, fairly present in all
+ material respects the financial condition, results of operations and cash
+ flows of the registrant as of, and for, the periods presented in this
+ report;
+
+ 4. The registrant's other certifying officers and I are responsible
+ for establishing and maintaining disclosure controls and procedures (as
+ defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) for the registrant
+ and have:
+
+ (a) Designed such disclosure controls and procedures, or caused such
+ disclosure controls and procedures to be designed under our
+ supervision, to ensure that material information relating to the
+ registrant, including its consolidated subsidiaries, is made
+ known to us by others within those entities, particularly during
+ the period in which this report is being prepared;
+
+ (b) Evaluated the effectiveness of the registrant's disclosure
+ controls and procedures and presented in this report our
+ conclusions about the effectiveness of the controls and
+ procedures, as of the end of the period covered by this report
+ based on such evaluation; and
+
+ (c) Disclosed in this report any change in the registrant's internal
+ control over financial reporting that occurred during the
+ registrant's most recent fiscal quarter (the registrant's fourth
+ fiscal quarter in the case of an annual report) that has
+ materially affected, or is reasonably likely to materially
+ affect, the registrant's internal control over financial
+ reporting; and
+
+ 5. The registrant's other certifying officers and I have disclosed,
+ based on our most recent evaluation of internal control over financial
+ reporting, to the registrant's auditors and the audit committee of the
+ registrant's board of directors (or persons performing the equivalent
+ functions):
+
+ (d) All significant deficiencies and material weaknesses in the
+ design or operation of internal control over financial reporting
+ which are reasonably likely to adversely affect the registrant's
+ ability to record, process, summarize and report financial
+ information; and
+
+ (b) Any fraud, whether or not material, that involves management or
+ other employees who have a significant role in the registrant's
+ internal control over financial reporting.
+
+ Date: January 30, 2004
+ ----------------
+
+/s/ David L. Dyckman
+ ---------------------------------------
+ David L. Dyckman
+ Chief Financial Officer
+
+</EX-31>
+
+<EX-32>
+ 5
+ form10q_093003exh321.htm
+ EXHIBIT 32.1
+
+Exhibit 32.1 
+
+Exhibit 32.1
+
+ CERTIFICATION OF CHIEF EXECUTIVE OFFICER PURSUANT
+ TO SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002
+
+In connection with the Quarterly Report of NN, Inc. (the "Company") on Form 10-Q
+for the interim period ended September 30, 2003, as filed with the Securities
+and Exchange Commission on the date hereof (the "Report"), the undersigned, in
+the capacity and date indicated below, hereby certifies pursuant to 18 U.S.C.
+ss.1350, as adopted pursuant to ss.906 of the Sarbanes-Oxley Act of 2002, that,
+to my knowledge: (1) The Report fully complies with the requirements of Section
+13(a) or 15(d) of the Securities Exchange Act of 1934, and (2) The information
+contained in the Report fairly presents, in all material respects, the financial
+condition and results of operations of the Company.
+
+Date: January 30, 2004 /s/ Roderick R. Baty
+ ---------------- --------------------
+ Roderick R. Baty
+ Chairman, President and Chief
+ Executive Officer
+
+[A signed original of this written statement required by Section 906 has
+ been provided to NN, Inc. and will be retained by NN, Inc. and furnished to
+ the Securities and Exchange Commission or its staff upon request.]
+
+</EX-32>
+
+<EX-32>
+ 6
+ form10q_093003exh322.htm
+ EXHIBIT 32.2
+
+Exhibit 32.2 
+
+Exhibit 32.2
+
+ CERTIFICATION OF CHIEF FINANCIAL OFFICER PURSUANT
+ TO SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002
+
+In connection with the Quarterly Report of NN, Inc. (the "Company") on Form 10-Q
+for the interim period ended September 30, 2003, as filed with the Securities
+and Exchange Commission on the date hereof (the "Report"), the undersigned, in
+the capacity and date indicated below, hereby certifies pursuant to 18 U.S.C.
+ss.1350, as adopted pursuant to ss.906 of the Sarbanes-Oxley Act of 2002, that,
+to my knowledge: (1) The Report fully complies with the requirements of Section
+13(a) or 15(d) of the Securities Exchange Act of 1934, and (2) The information
+contained in the Report fairly presents, in all material respects, the financial
+condition and results of operations of the Company.
+
+Date: January 30, 2004 /s/ David L. Dyckman
+ ---------------- --------------------
+ David L. Dyckman
+ Chief Financial Officer
+
+[A signed original of this written statement required by Section 906 has been
+provided to NN, Inc. and will be retained by NN, Inc. and furnished to the
+Securities and Exchange Commission or its staff upon request.]
+
+</EX-32>
+

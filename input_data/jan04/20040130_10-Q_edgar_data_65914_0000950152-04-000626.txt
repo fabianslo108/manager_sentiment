@@ -1,0 +1,964 @@
+<Header>
+<FileStats>
+    <FileName>20040130_10-Q_edgar_data_65914_0000950152-04-000626.txt</FileName>
+    <GrossFileSize>46727</GrossFileSize>
+    <NetFileSize>33606</NetFileSize>
+    <NonText_DocumentType_Chars>0</NonText_DocumentType_Chars>
+    <HTML_Chars>543</HTML_Chars>
+    <XBRL_Chars>0</XBRL_Chars>
+    <XML_Chars>0</XML_Chars>
+    <N_Exhibits>4</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0000950152-04-000626.hdr.sgml : 20040130
+<ACCEPTANCE-DATETIME>20040130152624
+ACCESSION NUMBER:		0000950152-04-000626
+CONFORMED SUBMISSION TYPE:	10-Q
+PUBLIC DOCUMENT COUNT:		5
+CONFORMED PERIOD OF REPORT:	20000930
+FILED AS OF DATE:		20040130
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			MID STATE RACEWAY INC
+		CENTRAL INDEX KEY:			0000065914
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-RACING, INCLUDING TRACK OPERATION [7948]
+		IRS NUMBER:				150555258
+		STATE OF INCORPORATION:			NY
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		10-Q
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-01607
+		FILM NUMBER:		04555764
+
+	BUSINESS ADDRESS:	
+		STREET 1:		PO BOX 860
+		CITY:			VERNON
+		STATE:			NY
+		ZIP:			13476
+		BUSINESS PHONE:		3158292201
+
+</SEC-Header>
+</Header>
+
+ 
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ AI4nxfk+Jw5RDgVkXz1zZOm3WficvElKGRh98QUk20bIGGNZT/Zm6TCHcYsGKJ5i
+ LiOX8Y8XM4492+V493BZRw==
+
+ 0000950152-04-000626.txt : 20040130
+
+10-Q
+ 1
+ l05345ae10vq.txt
+ MID-STATE RACEWAY, INC. 10-Q/QTR END 9-30-00
+
+UNITED STATES
+ SECURITIES AND EXCHANGE COMMISSION
+ Washington, D.C. 20549
+
+ FORM 10-Q
+
+[X] QUARTERLY REPORT UNDER SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT
+ OF 1934
+
+ For the Quarterly period ended September 30, 2000
+
+ OR
+
+[ ] TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES
+ EXCHANGE ACT OF 1934
+
+ For the transition period from _______________ to _________________
+
+ Commission File No. 0-1607
+ ------
+
+MID-STATE RACEWAY, INC.
+- --------------------------------------------------------------------------------
+ (Exact name of Registrants as specified in their respective charters)
+
+New York 15-0555258
+- ------------------------------------ ------------------------------------
+ (State or Other Jurisdiction of (IRS Employer Identification No.)
+ Incorporation or Organization)
+
+PO Box 860, Vernon, New York 13476
+- ----------------------------------------------- -----------------
+ (Address of Principal Executive Offices) (Zip Code)
+
+ Registrant's Telephone Number, Including Area Code: (315) 829-2201
+ --------------
+
+ Indicate by check mark whether the registrant (1) has filed all reports
+required to be filed by Section 13 or 15(d) of the Securities Exchange Act of
+1934 during the preceding 12 months (or for such shorter period that the
+registrant was required to file such reports), and (2) has been subject to such
+filing requirements for the past 90 days.
+
+[ ] YES [X] NO
+
+ Indicate by check mark whether the registrant is an accelerated filer (as
+defined in Rule 12b-2 of the Exchange Act).
+
+[ ] YES [X] NO
+
+ Indicate the number of shares outstanding of each of the issuer's classes
+of common stock, as of the latest practicable date:
+
+ Class Outstanding September 30, 2000
+ ----- ------------------------------
+common stock, 0.10 par value 442,766 shares
+
+TABLE OF CONTENTS
+
+ PAGE
+ ----
+
+PART I. FINANCIAL INFORMATION
+
+Item 1. Financial Statements
+
+ Consolidated Balance Sheets
+ -September 30, 2000 and December 31, 1999..........................3
+
+ Consolidated Statements of Operations
+ -Three months ended September 30, 2000 and September 30, 1999
+ -Nine months ended September 30, 2000 and September 30, 1999.......5
+
+ Consolidated Statements of Cash Flows
+ -Six months ended September 30, 2000 and September 30, 1999........6
+
+ Notes to Consolidated Financial Statements.........................7
+
+Item 2. Management's Discussion and Analysis of the Financial
+ Condition and Results of Operations............................8
+
+Item 3. Quantitative and Qualitative Disclosures About Market Risk........10
+
+Item 4. Controls and Procedures...........................................10
+
+PART II. OTHER INFORMATION
+
+Item 1. Legal Proceedings.................................................11
+
+Item 2. Changes in Securities and Use of Proceeds.........................11
+
+Item 3. Defaults Upon Senior Securities...................................11
+
+Item 4. Submission of Matters to a Vote of Security Holders...............11
+
+Item 5. Other Information.................................................12
+
+Item 6. Exhibits and Reports on Form 8-K..................................12
+
+Signatures
+Certifications
+
+2
+
+PART I. FINANCIAL INFORMATION
+
+ITEM 1. FINANCIAL STATEMENTS
+
+MID-STATE RACEWAY, INC. AND SUBSIDIARY
+
+CONSOLIDATED BALANCE SHEET
+- --------------------------------------------------------------------------------
+
+(UNAUDITED)
+ SEPTEMBER 30, DECEMBER 31,
+ ASSETS 2000 1999
+ ------------- ------------
+ 
+CURRENT ASSETS
+ Cash and cash equivalents 274,722 1,113,529
+ Cash restricted for purses, capital improvements and
+ uncashed winning tickets 81,419 157,909
+ Grant receivable -- 233,751
+ Accounts receivable, net of allowance for doubtful
+ accounts of 25,000 in 2000 and 112,000 in 1999 439,222 339,864
+ Investments 302,567 200,125
+ Other current assets 168,550 161,264
+ ----------- -----------
+ Total current assets 2,206,442
+ 1,266,480
+
+PROPERTY, PLANT AND EQUIPMENT
+ Land, racing plant and equipment 16,703,314 13,223,647
+ Other Properties 121,671 121,671
+ ----------- -----------
+ 16,824,985 13,345,318
+ Less accumulated depreciation 11,356,005 11,194,298
+ ----------- -----------
+ 5,468,980 2,151,020
+
+OTHER ASSETS 60,776 29,265
+
+ 6,796,236 4,386,727
+ =========== ===========
+
+See notes to unaudited consolidated financial statements
+
+ 3
+
+MID-STATE RACEWAY, INC. AND SUBSIDIARY
+
+CONSOLIDATED BALANCE SHEET
+- --------------------------------------------------------------------------------
+
+(UNAUDITED)
+ SEPTEMBER 30, DECEMBER 31,
+ LIABILITIES AND SHAREHOLDERS' EQUITY 2000 1999
+ ------------- ------------
+ 
+CURRENT LIABILITIES
+ Accounts payable and accrued expenses 1,655,320 964,070
+ Line of credit 54,697 --
+ Current portion of long term debt 3,742,291 --
+ Current portion of real estate taxes payable 30,000 72,000
+ Uncashed winning tickets 9,860 63,392
+ Retention for capital improvements 30,299 84,272
+ ----------- -----------
+ Total current liabilities 5,522,467 1,183,734
+
+REAL ESTATE TAXES PAYABLE, LESS CURRENT PORTION 154,053 30,000
+
+LONG TERM DEBT, NET OF CURRENT PORTION 375,935 1,250,000
+
+DEFERRED RETIREMENT BENEFITS -- 1,013,861
+
+SHAREHOLDERS' EQUITY
+ Common stock, par value .10 per share;authorized 10,000,000 shares;
+ issued and outstanding 442,766 in 2000; 438,386 in 1999 44,277 43,839
+ Additional paid-in-capital 2,084,909 2,041,547
+ (Accumulated deficit) (1,391,954) (1,180,260)
+ Accumulated other comprehensive income 6,549 4,006
+ ----------- -----------
+ Total shareholders' equity 743,781 909,132
+ ----------- -----------
+
+ 6,796,236 4,386,727
+ =========== ===========
+
+See notes to unaudited consolidated financial statements
+
+ 4
+
+MID-STATE RACEWAY, INC. AND SUBSIDIARY
+
+CONSOLIDATED STATEMENT OF OPERATIONS
+- --------------------------------------------------------------------------------
+
+Three Months Ended Nine Months Ended
+ September 30, September 30, September 30, September 30,
+ 2000 1999 2000 1999
+ 50 Racing 50 Racing 73 Racing 104 Racing
+ Days Days Days Days
+ ------------- ------------- ------------- -------------
+ (Unaudited) (Unaudited)
+
+Operating Revenues 2,615,666 1,916,627 5,727,031 4,785,375
+
+Operating Expenses 3,133,972 2,609,162 6,448,977 5,683,872
+ ----------- ----------- ----------- -----------
+
+Income (loss) from operations (518,306) (692,535) (721,946) (898,497)
+ ----------- ----------- ----------- -----------
+
+Other income (loss):
+ Special events income (loss), net (408,083) 36,420 (408,083) 44,630
+ Commissions for Capital Improvements (22,753) -- -- --
+ Aid from state and local governments 101,960 -- 138,209 --
+ Investment income (17,691) 1,793 17,735 9,787
+ Interest expense (121,228) (37,084) (206,962) (105,000)
+ ----------- ----------- ----------- -----------
+ Total other income (loss) (467,795) 1,129 (459,101) (50,583)
+ ----------- ----------- ----------- -----------
+
+Income (loss) before provision for taxes on
+ income and extraordinary income (986,101) (691,406) (1,181,047) (949,080)
+ ----------- ----------- ----------- -----------
+
+Provision for taxes on income:
+ Currently payable (708) -- (708) --
+ Deferred benefit -- -- 376,800 --
+ ----------- ----------- ----------- -----------
+ -- -- 376,092 --
+ ----------- ----------- ----------- -----------
+
+Income (loss) before extraordinary item (986,809) (691,406) (804,955) (949,080)
+
+Extraordinary item - Gain on
+ extinguishment of deferred
+ benefit liability,net of deferred
+ income taxes -- -- 593,261 --
+ ----------- ----------- ----------- -----------
+
+Net income (loss) (986,809) (691,406) (211,694) (949,080)
+ =========== =========== =========== ===========
+
+Income (loss) per common share - basic
+ and diluted:
+ Income (loss) before extraordinary item (1.71) (2.76) (2.67) (3.79)
+ =========== =========== =========== ===========
+ Extraordinary item -- -- 1.34 --
+ =========== =========== =========== ===========
+ Net income (loss) (1.71) (2.76) (0.48) --
+ =========== =========== =========== ===========
+Cash dividend per share -- -- -- --
+ =========== =========== =========== ===========
+
+See notes to unaudited consolidated financial statements
+
+ 5
+
+MID-STATE RACEWAY, INC. AND SUBSIDIARY
+
+CONSOLIDATED STATEMENTS OF CASH FLOWS
+- --------------------------------------------------------------------------------
+
+NINE MONTHS ENDED
+ SEPTEMBER 30, SEPTEMBER 30,
+ 2000 1999
+ ------------- -------------
+ (Unaudited)
+ 
+CASH FLOWS FROM OPERATING ACTIVITIES:
+
+ Net loss (211,694) (949,080)
+
+ Adjustments to reconcile net income (loss) to net
+ cash used in operating activities:
+ Depreciation 161,707 125,150
+ Extinguishment of deferred benefit liability (593,261) --
+ Deferred tax benefit (376,800) --
+ Realized and unrealized (gain) loss on investments 2,543 --
+ Imputed interest expense 67,299 --
+ Change in allowance for doubtful accounts (87,000) --
+ Changes in:
+ Restricted cash 76,490 (61,894)
+ Accounts and grants receivable 221,393 305,004
+ Other current expenses 81,714 39,592
+ Other assets (31,511) 36,149
+ Real estate taxes payable 82,053 (54,000)
+ Accounts payable 346,250 618,961
+ Uncashed winning tickets (53,532) (50,767)
+ Retention for capital improvements (53,973) 56,105
+ ----------- ---------
+
+ Net cash used in operating activities (368,322) 65,220
+ ----------- ---------
+
+CASH FLOWS FROM INVESTING ACTIVITIES:
+ Proceeds from maturities and sales of available-for-sale
+ investment securities 228,451 --
+ Purchase of available-for-sale investment securities (330,893) --
+ Purchase of properties and equipment (868,667) (280,688)
+ ----------- ---------
+
+ Net cash used in investing activities (971,109) (280,688)
+ ----------- ---------
+
+CASH FLOWS FROM FINANCING ACTIVITIES:
+ Proceeds from debt 524,328 250,000
+ Principal payments on capital leases (23,704) --
+ ----------- ---------
+ Net cash provided by financing activities 500,624 250,000
+ ----------- ---------
+
+Net increase (decrease) in cash (838,807) 34,532
+
+Cash, beginning of period 1,113,529 437,241
+ ----------- ---------
+
+Cash, end of period 274,722 471,773
+ =========== =========
+
+See notes to unaudited consolidated financial statements
+
+ 6
+
+MID-STATE RACEWAY, INC. AND SUBSIDIARY
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (UNAUDITED)
+- --------------------------------------------------------------------------------
+
+1. BASIS OF PRESENTATION
+
+The accompanying consolidated financial statements of Mid-State Raceway, Inc.
+and Subsidiary (the "Company") have been prepared in accordance with generally
+accepted accounting principles for interim financial information and with the
+instructions to Form 10-Q and Rule 10-01 of Regulation S-X. Accordingly, they do
+not include all of the information and footnotes required by accounting
+principles generally accepted in the United States of America for complete
+financial statements. The balance sheet as of December 31, 1999 has been derived
+from the audited balance sheet included in the Company's annual report filed on
+Form 10-K. In the opinion of management, quarterly results include all
+adjustments (consisting of only normal recurring adjustments) that the Company
+considers necessary for a fair presentation of such information for interim
+periods. Results shown for the latest interim period are not necessarily
+indicative of the results to be obtained for a full fiscal year.
+
+The unaudited financial statements include the accounts of the Company and its
+subsidiary. These financial statements have not been reviewed by independent
+accountants as required. Upon completion of a review, an amendment to this Form
+10Q will be filed if necessary. All material intercompany transactions and
+balances have been eliminated in consolidation.
+
+2. COMPREHENSIVE INCOME
+
+The components of comprehensive income (loss) were as follows:
+
+Nine Months ended
+ Sept. 30, 2000 Sept. 30, 1999
+ -------------- --------------
+
+Net loss (211,694) (949,080)
+Other comprehensive loss:
+Unrealized gain on securities available for
+sale, net of tax effect of 1,695 in 2000 2,543 --
+ --------- ---------
+Comprehensive loss (209,151) (949,080)
+ ========= =========
+
+3. REAL ESTATE TAXES PAYABLE
+
+Amounts recorded for real estate taxes at September 30, 2000 as a result of an
+agreement with Oneida County in 1998 were not paid in 2001 and became
+delinquent. Certain of these amounts were repaid in 2002 and the remaining
+amounts will be paid in monthly instalments of 10,000 per month from March 2003
+to December 2003 and 16,974 per month from January 2004 to December 2005
+pursuant to a revised agreement with the County of Oneida.
+
+4. LINE OF CREDIT
+
+The revolving line of credit in the amount of 351,000 was terminated in October
+2001 and fully repaid in January 2002.
+
+7
+
+5. LONG-TERM DEBT
+
+During 2000 and 2001 the Company was in default on certain long-term debt due to
+non-payment of interest and/or principal. In March 2002 substantially all of the
+Company's long-term debt was refinanced through an 8,500,000 mortgage loan
+agreement with ALL Capital, LLC (an unaffiliated company). The refinancing
+included repayment of a 700,000 line of credit agreement which was initiated in
+2001.
+
+6. PURCHASE OPTION AGREEMENT
+
+In September 2001 the Board of Director's authorized its President and Chief
+Executive Officer to execute an exclusive option agreement for the sale of the
+Company to a group of private purchasers. Consistent with the execution of the
+option agreement the purchasers provided a 700,000 line of credit previously
+discussed. In June 2002 management notified the group of purchasers that option
+agreement had been terminated. As a result of the termination the Company may be
+required to pay 130,000 to the group.
+
+7. STOCK WARRANTS
+
+In November 2000 the Company voted to issue two warrants to two former officers
+of the Company to allow them to purchase until November 4, 2004 150,000 shares
+at 10 per share.
+
+In addition, in November 2000 a board member was granted a warrant to purchase
+7,500 shares at 10 per share with an expiration date of November 2004 and
+another board member was granted a warrant to purchase 2,500 shares of stock at
+ 10 per share through August 2004.
+
+None of the above warrants were ever issued by the Company.
+
+8. DELINQUENT SECURITIES AND EXCHANGE COMMISSION (SEC) FILINGS
+
+The Company is delinquent in filing a number of periodic reports, including
+annual and quarterly financial information, required to be filed with the SEC.
+The consequences of the Company's failure to file these reports and the actions,
+if any, that the SEC might initiate against the Company in this connection, are
+not presently determinable.
+
+9. NEW YORK STATE RACING AND WAGERING BOARD COMPLIANCE AUDIT
+
+During early 2001, the New York State Racing and Wagering Board (the Board)
+reviewed the Company's compliance with the Board's policies and procedures. In
+March 2001, the Board issued a report documenting numerous instances of
+non-compliance with applicable Board statutes, rules, and regulations. This
+report was also critical of certain business and managerial practices. The Board
+also fined the Company's President and CEO 5,000 for non-compliance. On March
+28, 2001, the Board granted a limited 90-day track and simulcast license.
+Further, the Board required the Company to demonstrate compliance and continued
+financial viability over the 90-day period in order to receive a racing license
+for the 2001 live racing season. On June 21, 2001, the Board approved the
+Company's track and simulcast license for the remainder of 2001.
+
+8
+
+ITEM 2. MANAGEMENT'S DISCUSSION AND ANALYSIS OF THE FINANCIAL CONDITION AND
+RESULTS OF OPERATIONS
+
+ RESULTS OF OPERATIONS
+
+OPERATING REVENUES
+
+Operating revenues for the nine months ended September 30, 2000 increased by
+ 941,656 or 20 and increased by 699,039 or 36 for the quarter ended September
+30, 2000 when compared to the same periods ending September 30, 1999.
+
+The increase in operating revenues for both periods is mainly the result of the
+inclusion of revenue from room rentals from the hotel acquired in June 2000 and
+food and beverage concessions now operated by the Company. This revenue offset a
+decrease in wagering and simulcast revenue due to a decline in racing days for
+the nine months ended September 30, 2000 from 104 to 73 when compared to the
+nine months ended September 30, 1999.
+
+OPERATING EXPENSES
+
+Operating expenses for the quarter ended September 30, 2000 increased 20 or
+ 524,810 when compared to the quarter ended September 30, 1999 mainly due to
+startup costs and increased food, beverage and utility costs from operating the
+hotel acquired in June 2000.
+
+For the nine months ended September 30, 2000, operating expenses were 765,105,
+or 13 higher than for the same period in 1999. The increased expenses represent
+increased costs of payroll and benefits, utilities, and food and beverage costs
+related to the increase in revenue discussed previously.
+
+INTEREST EXPENSE
+
+Interest expense for the quarter ended September 30, 2000 was 121,228 versus
+ 37,084 for the same quarter in 1999. The expense for the nine months ended
+September 30, 2000 was 206,962 versus 105,000 for the nine months ended
+September 30, 1999 and is due to increases in the amount of long-term debt in
+the last twelve months to fund operations, and startup costs related to
+acquiring the hotel.
+
+INCOME TAXES
+
+Income tax expense was not significant in the quarter ended September 30, 2000
+and September 30, 1999 because of operating losses incurred.
+
+Income tax expense of 376,092 for the nine months ended September 30, 2000
+represents the tax effect of the extraordinary gain recognized in 2000 for the
+extinguishment of the deferred retirement liability. There was no provision for
+the nine months ended September 30, 1999 due to operating losses incurred.
+
+NET LOSS
+
+The net loss for the quarter ended September 30, 2000 was more than the loss
+incurred for the quarter ended September 30, 1999 by 295,403 mainly due to
+losses from special events of 408,083 in the 2000 quarter because of poor
+attendance and inclement weather.
+
+9
+
+For the nine months ended September 30, 2000 the net loss was 211,694 versus
+ 949,080 for the nine months ended September 30, 1999 mainly due to increased
+interest expense in 2000 and the extraordinary gain on extinguishment of the
+deferred retirement liability recognized in 2000.
+
+The increased operating revenues in 2000 were offset by increased expenses and
+did not provide increases in profitability in 2000.
+
+ LIQUIDITY AND CAPITAL RESOURCES
+
+At September 30, 2000 the Company had 274,722 of cash and cash equivalents
+versus 1,113,529 at December 31, 1999. Operating losses for the nine months
+ended September 30, 2000 were funded by this cash as was the racing track
+expansion. In addition the Company utilized proceeds of additional debt of
+ 524,328. Remaining investments at fair market value are 302,567 at September
+30, 2000.
+
+Increase in long-term debt at September 30, 2000 and particularly the current
+portion of long-term debt when compared to December 31, 1999 is the result of
+current year borrowings in the amount of 2,816,000 due to a third party
+bankruptcy trustee in connection with the purchase of the hotel in June 2000.
+This amount was due in February 2002 and was subsequently paid with proceeds
+from the 15,000,000 mortgage debt refinancing in August 2002 as discussed in
+the notes to the financial statements.
+
+ITEM 3. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
+
+There were no material changes in the Company's market risk or related
+strategies during the quarter ended September 30, 2000.
+
+ITEM 4. CONTROLS AND PROCEDURES
+
+(a) Disclosure Controls and Procedures.
+
+Within the 90 days before the date of this Form 10-Q, we evaluated the
+effectiveness of the design and operation of our "disclosure controls and
+procedures". Mid-State Raceway, Inc. and Subsidiary conducted this evaluation
+under the supervision and with the participation of management, including our
+Chief Executive Officer and Principal Financial and Accounting Officer.
+
+(i) Definition of Disclosure Controls and Procedures.
+
+Disclosure controls and procedures are controls and other procedures that are
+designed with the objective of ensuring that information required to be
+disclosed in our periodic reports filed under the Exchange Act, such as this
+report, is recorded, processed, summarized and reported within the time periods
+specified in the SEC's rules and forms. As defined by the SEC, such disclosure
+controls and procedures are also designed with the objective of ensuring that
+such information is accumulated and communicated to our management, including
+the Chief Executive Officer and Principal Financial and Accounting Officer, in
+such a manner as to allow timely disclosure decisions.
+
+(ii) Limitations on the Effectiveness of Disclosure Controls and Procedures and
+Internal Controls.
+
+The Company recognizes that a system of disclosure controls
+and procedures (as well as a system of internal controls), no matter how well
+conceived and operated, cannot provide absolute
+
+10
+
+assurance that the objectives of the system are met. Further, the design of such
+a system must reflect the fact that there are resource constraints, and the
+benefits of controls must be considered relative to their costs. Because of the
+inherent limitations in all control systems, no evaluation of controls can
+provide absolute assurance that all control issues have been detected. These
+inherent limitations include the realities that judgments in decision-making can
+be faulty, and that breakdowns can occur because of simple error or mistake.
+Additionally, controls can be circumvented in a number of ways. Because of the
+inherent limitations in a cost-effective control system, system failures may
+occur and not be detected.
+
+(iii) Conclusions with Respect to Our Evaluation of Disclosure Controls and
+Procedures. Subject to the limitations described above, our Chief Executive
+Officer and Principal Financial and Accounting Officer have concluded that our
+disclosure controls and procedures are effective in timely alerting them to
+material information relating to Mid-State Raceway, Inc. and subsidiary required
+to be included in The Company's periodic SEC filings.
+
+(b) Changes in Internal Controls.
+There have been no significant changes in The Company's internal controls or in
+other factors that could significantly affect these controls subsequent to the
+date of their evaluation.
+
+PART II. OTHER INFORMATION
+
+ ITEM 1. LEGAL PROCEEDINGS
+
+There were no material changes to any legal proceedings during the quarter ended
+September 30, 2000.
+
+ ITEM 2. CHANGES IN SECURITIES AND USE OF PROCEEDS
+
+None.
+
+ ITEM 3. DEFAULTS UPON SENIOR SECURITIES
+
+See Note 5 of Notes to Consolidated Financial Statements.
+
+ ITEM 4. SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS
+
+The Company held its Annual Meeting of the Shareholders on September 8, 2000 for
+the following purposes:
+
+ 1. To elect four persons to the Company's Board of Directors to
+ serve until the Company's 2003 Annual Meeting of the Shareholders
+ or until their successors have been duly elected.
+
+ Following is a listing of the Directors of the Company after the
+ election and the expiration of their term as a Director:
+
+ Year 2001 Annual Meeting
+ ------------------------
+ Patrick Bombardo
+ Gwen K. Bennett
+ Paul V. Noyes
+ James J. Moran
+
+11
+
+Year 2002 Annual Meeting
+ ------------------------
+ Edward A. Kiley
+ Jeremiah Law
+ Dr. Robert Legler, DVM
+ Wesley E. Wendt, Sr.
+
+ Year 2003 Annual Meeting
+ ------------------------
+ Leighton R. Burns
+ Justice M. Cheney
+ Joel Gosler
+ John J. Signorelli
+
+ 2. To approve an Amendment to the Company's Certificate of
+ Incorporation and by-laws to increase the maximum number of
+ directors from 12 to 15. Since the Company's Certificate of
+ Incorporation requires an 80 vote of all shares issued and
+ outstanding to change this section of the Certificate of
+ Incorporation and since only 66 of all shares issued and
+ outstanding were present at the meeting, this Amendment was
+ defeated.
+
+ 3. To approve an Amendment to the Company's Certificate of
+ Incorporation and by-laws to amend the objects and purposes for
+ which the company was formed to include the operation of a hotel
+ on the Company's premises, the conduct of events, festivals,
+ concerts, fairs, shows and the like on the Company's premises,
+ farming and ranching on the Company's premises and any activity
+ which will enhance and supplement the Company's horse racing
+ business. This item was approved.
+
+ 4. To approve an Amendment to the Company's Certificate of
+ Incorporation and by-laws to establish the position of Chairman
+ of the Board as separate from the President of the Company. This
+ item was approved.
+
+Proxies were not solicited from the Shareholders.
+
+ ITEM 5. OTHER INFORMATION
+
+None.
+
+ ITEM 6. EXHIBITS AND REPORTS ON FORM 8-K
+
+Exhibit 31.1 Certification of Chief Executive Officer
+Exhibit 31.2 Certification of Principal Financial and Accounting Officer
+Exhibit 32.1 Sarbanes-Oxley Chief Executive Officer
+Exhibit 32.2 Sarbanes-Oxley Principal Financial and Accounting Officer
+
+12
+
+SIGNATURES
+- ----------
+
+ Pursuant to the requirements of Section 13 or 15(d) of the Securities and
+Exchange Act of 1934, the Registrant has duly caused this Report to be signed on
+its behalf by the undersigned, thereunto duly authorized.
+
+MID-STATE RACEWAY, INC.
+
+DATE: JANUARY 10, 2004 BY: /S/ DAVID E. WILSON
+ -------------------------------------
+ David E. Wilson
+ Chief Operating Officer
+
+BY: /S/ ROSE FRAWERT
+ -------------------------------------
+ Rose Frawert
+ Principal Financial and
+ Accounting Officer
+
+ 13
+
+<EX-31.1>
+ 3
+ l05345aexv31w1.txt
+ EXHIBIT 31.1
+
+Exhibit 31.1
+
+CERTIFICATIONS
+
+Certification of Chief Executive Officer
+
+I, Hoolae Paoa, certify that:
+
+1. I have reviewed this quarterly report on Form 10-Q of Mid-State Raceway, Inc.
+and Subsidiary;
+
+2. Based on my knowledge, this quarterly report does not contain any untrue
+statement of a material fact or omit to state a material fact necessary to make
+the statements made, in light of the circumstances under which such statements
+were made, not misleading with respect to the period covered by this quarterly
+report;
+
+3. Based on my knowledge, the financial statements, and other financial
+information included in this quarterly report, fairly present in all material
+respects the financial condition, results of operations and cash flows of the
+registrant as of, and for, the periods presented in this quarterly report;
+
+4. The registrant's other certifying officers and I are responsible for
+establishing and maintaining disclosure controls and procedures (as defined in
+Exchange Act Rules 13a-14 and 15d-14) for the registrant and have:
+
+a) designed such disclosure controls and procedures to ensure that material
+information relating to the registrant, including its consolidated subsidiaries,
+is made known to us by others within those entities, particularly during the
+period in which this quarterly report is being prepared;
+
+b) evaluated the effectiveness of the registrant's disclosure controls and
+procedures as of a date within 90 days prior to the filing date of this
+quarterly report (the "Evaluation Date"); and
+
+c) presented in this quarterly report our conclusions about the effectiveness of
+the disclosure controls and procedures based on our evaluation as of the
+Evaluation Date;
+
+5. The registrant's other certifying officers and I have disclosed, based on our
+most recent evaluation, to the registrant's auditors and the audit committee of
+registrant's board of directors (or persons performing the equivalent
+functions):
+
+a) all significant deficiencies in the design or operation of internal controls
+which could adversely affect the registrant's ability to record, process,
+summarize and report financial data and have identified for the registrant's
+auditors any material weaknesses in internal controls; and
+
+b) any fraud, whether or not material, that involves management or other
+employees who have a significant role in the registrant's internal controls; and
+
+6. The registrant's other certifying officers and I have indicated in this
+quarterly report whether there were significant changes in internal controls or
+in other factors that could significantly affect internal controls subsequent to
+the date of our most recent evaluation, including any corrective actions with
+regard to significant deficiencies and material weaknesses.
+
+Date: January 10, 2004
+
+/s/ Hoolae Paoa
+Hoolae Paoa
+Chief Executive Officer
+
+ 13
+
+</EX-31.1>
+
+<EX-31.2>
+ 4
+ l05345aexv31w2.txt
+ EXHIBIT 31.2
+
+Exhibit 31.2
+
+Certification of Principal Financial and Accounting Officer
+
+I, Rose Frawert, certify that:
+
+1. I have reviewed this quarterly report on Form 10-Q of Mid-State Raceway, Inc.
+and Subsidiary;
+
+2. Based on my knowledge, this quarterly report does not contain any untrue
+statement of a material fact or omit to state a material fact necessary to make
+the statements made, in light of the circumstances under which such statements
+were made, not misleading with respect to the period covered by this quarterly
+report;
+
+3. Based on my knowledge, the financial statements, and other financial
+information included in this quarterly report, fairly present in all material
+respects the financial condition, results of operations and cash flows of the
+registrant as of, and for, the periods presented in this quarterly report;
+
+4. The registrant's other certifying officers and I are responsible for
+establishing and maintaining disclosure controls and procedures (as defined in
+Exchange Act Rules 13a-14 and 15d-14) for the registrant and have:
+
+a) designed such disclosure controls and procedures to ensure that material
+information relating to the registrant, including its consolidated subsidiaries,
+is made known to us by others within those entities, particularly during the
+period in which this quarterly report is being prepared;
+
+b) evaluated the effectiveness of the registrant's disclosure controls and
+procedures as of a date within 90 days prior to the filing date of this
+quarterly report (the "Evaluation Date"); and
+
+c) presented in this quarterly report our conclusions about the effectiveness of
+the disclosure controls and procedures based on our evaluation as of the
+Evaluation Date;
+
+5. The registrant's other certifying officers and I have disclosed, based on our
+most recent evaluation, to the registrant's auditors and the audit committee of
+registrant's board of directors (or persons performing the equivalent
+functions):
+
+a) all significant deficiencies in the design or operation of internal controls
+which could adversely affect the registrant's ability to record, process,
+summarize and report financial data and have identified for the registrant's
+auditors any material weaknesses in internal controls; and
+
+b) any fraud, whether or not material, that involves management or other
+employees who have a significant role in the registrant's internal controls; and
+
+6. The registrant's other certifying officers and I have indicated in this
+quarterly report whether there were significant changes in internal controls or
+in other factors that could significantly affect internal controls subsequent to
+the date of our most recent evaluation, including any corrective actions with
+regard to significant deficiencies and material weaknesses.
+
+Date: January 10, 2004
+
+/s/ Rose Frawert
+Rose Frawert
+Principal Financial and Accounting Officer
+
+ 14
+
+</EX-31.2>
+
+<EX-32.1>
+ 5
+ l05345aexv32w1.txt
+ EXHIBIT 32.1
+
+Exhibit 32.1
+
+Certification Pursuant to 18 U.S.C. Section 1350 As Adopted Pursuant
+to Section 906 of the Sarbanes-Oxley Act of 2002
+
+I, Hoolae Paoa, Chief Executive Officer of Mid-State Raceway, Inc. and
+Subsidiary (the "Company"), certify, pursuant to Section 906 of the
+Sarbanes-Oxley Act of 2002, 18 U.S.C. Section 1350, that:
+
+(1) the Quarterly Report on Form 10-Q of the Company for the quarter ended
+September 30, 2000 (the "Report") fully complies with the requirements of
+Section 13(a) or 15(d) of the Securities Exchange Act of 1934, as amended (15
+U.S.C. 78m or 78o(d)); and
+
+(2) the information contained in the Report fairly presents, in all material
+respects, the financial condition and results of operations of the Company.
+
+Date: January 10, 2004
+
+/s/ Hoolae Paoa
+Hoolae Paoa
+Chief Executive Officer
+
+ 15
+
+</EX-32.1>
+
+<EX-32.2>
+ 6
+ l05345aexv32w2.txt
+ EXHIBIT 32.2
+
+Exhibit 32.2
+
+Certification Pursuant to 18 U.S.C. Section 1350 As Adopted Pursuant to Section
+906 of the Sarbanes-Oxley Act of 2002
+
+I, Rose Frawert, Principal Financial and Accounting Officer of Mid-State
+Raceway, Inc. and Subsidiary (the "Company"), certify, pursuant to Section 906
+of the Sarbanes-Oxley Act of 2002, 18 U.S.C. Section 1350, that:
+
+(1) the Quarterly Report on Form 10-Q of the Company for the quarter ended
+September 30, 2000 (the "Report") fully complies with the requirements of
+Section 13(a) or 15(d) of the Securities Exchange Act of 1934, as amended (15
+U.S.C. 78m or 78o(d)); and
+
+(2) the information contained in the Report fairly presents, in all material
+respects, the financial condition and results of operations of the Company.
+
+Date: January 10, 2004
+
+/s/ Rose Frawert
+Rose Frawert
+Principal Financial and Accounting Officer
+
+ 16
+
+</EX-32.2>
+

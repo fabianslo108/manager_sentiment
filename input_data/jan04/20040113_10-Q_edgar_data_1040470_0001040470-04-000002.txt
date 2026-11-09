@@ -1,0 +1,1765 @@
+<Header>
+<FileStats>
+    <FileName>20040113_10-Q_edgar_data_1040470_0001040470-04-000002.txt</FileName>
+    <GrossFileSize>98679</GrossFileSize>
+    <NetFileSize>82465</NetFileSize>
+    <NonText_DocumentType_Chars>0</NonText_DocumentType_Chars>
+    <HTML_Chars>704</HTML_Chars>
+    <XBRL_Chars>0</XBRL_Chars>
+    <XML_Chars>0</XML_Chars>
+    <N_Exhibits>3</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0001040470-04-000002.hdr.sgml : 20040113
+<ACCEPTANCE-DATETIME>20040113165017
+ACCESSION NUMBER:		0001040470-04-000002
+CONFORMED SUBMISSION TYPE:	10-Q
+PUBLIC DOCUMENT COUNT:		4
+CONFORMED PERIOD OF REPORT:	20031130
+FILED AS OF DATE:		20040113
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			AEHR TEST SYSTEMS
+		CENTRAL INDEX KEY:			0001040470
+		STANDARD INDUSTRIAL CLASSIFICATION:	INSTRUMENTS FOR MEAS & TESTING OF ELECTRICITY & ELEC SIGNALS [3825]
+		IRS NUMBER:				942424084
+		STATE OF INCORPORATION:			CA
+		FISCAL YEAR END:			0531
+
+	FILING VALUES:
+		FORM TYPE:		10-Q
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-22893
+		FILM NUMBER:		04523163
+
+	BUSINESS ADDRESS:	
+		STREET 1:		400 KATO TERRACE
+		CITY:			FREMONT
+		STATE:			CA
+		ZIP:			94539
+		BUSINESS PHONE:		5106239400
+
+	MAIL ADDRESS:	
+		STREET 1:		400 KATO TERRACE
+		CITY:			FREMONT
+		STATE:			CA
+		ZIP:			94539
+
+</SEC-Header>
+</Header>
+
+ 
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ LVy9eSxcHnqc9pSNpwLjzmNs2aq5y8vkZ/FNjReyJwa+Os3jnxZTr9MGkMocXINg
+ o2YOSSkPTZkgWOR+tE4gMw==
+
+ 0001040470-04-000002.txt : 20040113
+
+10-Q
+ 1
+ q204-e10q.txt
+ FORM 10-Q
+
+FORM 10-Q
+ SECURITIES AND EXCHANGE COMMISSION
+ WASHINGTON, D.C. 20549
+
+/X/ QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(D) OF THE SECURITIES
+ EXCHANGE ACT OF 1934
+
+ For the quarterly period ended November 30, 2003.
+
+ OR
+
+/ / TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(D) OF THE SECURITIES
+ EXCHANGE ACT OF 1934
+
+ For the transition period from _________ to __________.
+
+ Commission file number: 000-22893.
+
+ AEHR TEST SYSTEMS
+ (Exact name of Registrant as specified in its charter)
+
+ CALIFORNIA 94-2424084
+- -------------------------------------- ------------------------------------
+(State or other jurisdiction of (I.R.S. Employer Identification No.)
+incorporation or organization)
+
+ 400 KATO TERRACE
+ FREMONT, CA 94539
+- -------------------------------------- ------------------------------------
+ (Address of principal (Zip Code)
+ executive offices)
+ (510) 623-9400
+- ------------------------------------------------------------------------------
+ (REGISTRANT'S TELEPHONE NUMBER, INCLUDING AREA CODE)
+
+ FORMER NAME, FORMER ADDRESS AND FORMER FISCAL YEAR, IF CHANGED SINCE
+LAST REPORT.
+
+ N/A
+
+ Indicate by check mark whether the Registrant (1) has filed all reports
+required to be filed by Section 13 or 15(d) of the Securities Exchange Act of
+1934 during the preceding 12 months (or for such shorter period as the
+Registrant was required to file such reports), and (2) has been subject to
+such filing requirements for the past 90 days.
+
+ (Item 1) YES X NO
+ --- ---
+
+ (Item 2) YES X NO
+ --- ---
+
+ Indicate by check mark whether the Registrant is an accelerated filer (as
+defined in Rule 12b-2 of the Exchange Act).
+
+ YES NO X
+ --- ---
+
+ Number of shares of Common Stock, 0.01 par value, outstanding
+at December 31, 2003 was 7,185,799.
+
+1
+
+FORM 10-Q
+
+ FOR THE QUARTER ENDED NOVEMBER 30, 2003
+
+ INDEX
+
+PART I. FINANCIAL INFORMATION
+
+ITEM 1. Condensed Consolidated Financial Statements (Unaudited)
+
+ Condensed Consolidated Balance Sheets as of
+ November 30, 2003 and May 31, 2003 . . . . . . . . . . . 3
+
+ Condensed Consolidated Statements of Operations for the three
+ months and six months ended November 30, 2003 and 2002 . 4
+
+ Condensed Consolidated Statements of Cash Flows for the
+ six months ended November 30, 2003 and 2002. . . . . . . 5
+
+ Notes to Condensed Consolidated Financial Statements. . . . . 6
+
+ITEM 2. Management's Discussion and Analysis of Financial Condition
+ and Results of Operations. . . . . . . . . . . . . . . . 10
+
+ITEM 3. Quantitative and Qualitative Disclosures about Market Risks. . 21
+
+ITEM 4. Controls and Procedures. . . . . . . . . . . . . . . . . . . . 22
+
+PART II. OTHER INFORMATION
+
+ITEM 1. Legal Proceedings . . . . . . . . . . . . . . . . . . . . . . 22
+
+ITEM 2. Changes in Securities and Use of Proceeds . . . . . . . . . . 22
+
+ITEM 3. Defaults Upon Senior Securities . . . . . . . . . . . . . . . 22
+
+ITEM 4. Submission of Matters to a Vote of Security Holders . . . . . 22
+
+ITEM 5. Other Information . . . . . . . . . . . . . . . . . . . . . . 23
+
+ITEM 6. Exhibits and Reports on Form 8-K . . . . . . . . . . . . . . . 23
+
+SIGNATURE PAGE . . . . . . . . . . . . . . . . . . . . . . . . . . . . 24
+
+2
+
+PART I. FINANCIAL STATEMENTS
+
+Item 1. CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+
+ AEHR TEST SYSTEMS
+ CONDENSED CONSOLIDATED BALANCE SHEETS
+ (in thousands, except per share data)
+
+November 30, May 31,
+ 2003 2003
+ (unaudited)
+ ----------- -----------
+ 
+ ASSETS
+Current assets:
+ Cash and cash equivalents . . . . . . . . . . . 6,370 8,362
+ Short-term investments. . . . . . . . . . . . . 5,243 2,429
+ Accounts receivable . . . . . . . . . . . . . . 3,280 2,889
+ Inventories . . . . . . . . . . . . . . . . . . 7,897 9,247
+ Prepaid expenses and other. . . . . . . . . . . 417 1,640
+ ----------- -----------
+ Total current assets . . . . . . . . . . . . 23,207 24,567
+
+Property and equipment, net . . . . . . . . . . . 1,395 1,515
+Long-term investments . . . . . . . . . . . . . . 1,281 607
+Goodwill. . . . . . . . . . . . . . . . . . . . . 274 274
+Other assets, net . . . . . . . . . . . . . . . . 1,255 1,284
+ ----------- -----------
+ Total assets . . . . . . . . . . . . . . . . 27,412 28,247
+ =========== ===========
+
+ LIABILITIES AND SHAREHOLDERS' EQUITY
+Current liabilities:
+ Accounts payable. . . . . . . . . . . . . . . . 897 748
+ Accrued expenses. . . . . . . . . . . . . . . . 2,221 1,739
+ Deferred revenue. . . . . . . . . . . . . . . . 455 106
+ ----------- -----------
+ Total current liabilities . . . . . . . . . . 3,573 2,593
+
+Deferred revenue. . . . . . . . . . . . . . . . . 30 30
+Accrued lease commitment. . . . . . . . . . . . . 299 279
+ ----------- -----------
+ Total liabilities . . . . . . . . . . . . . . 3,902 2,902
+ ----------- -----------
+Shareholders' equity:
+ Common stock, .01 par value:
+ Issued and outstanding: 7,186 shares and
+ 7,157 shares at November 30, 2003 and
+ May 31, 2003 respectively . . . . . . . . . . 72 72
+ Additional paid-in capital. . . . . . . . . . . 36,418 36,364
+ Accumulated other comprehensive income. . . . . 1,389 1,521
+ Accumulated deficit . . . . . . . . . . . . . . (14,369) (12,612)
+ ----------- -----------
+ Total shareholders' equity . . . . . . . . . 23,510 25,345
+ ----------- -----------
+ Total liabilities and shareholders' equity. . 27,412 28,247
+ =========== ===========
+
+The accompanying notes are an integral part of these
+ condensed consolidated financial statements.
+
+ 3
+
+AEHR TEST SYSTEMS AND SUBSIDIARIES
+ CONDENSED CONSOLIDATED STATEMENTS OF OPERATIONS
+ (in thousands, except per share data)
+ (Unaudited)
+
+Three Months Ended Six Months Ended
+ November 30 November 30
+ --------------------- --------------------
+ 2003 2002 2003 2002
+ --------- --------- --------- --------
+ 
+Net sales. . . . . . . . . . . . . . . . . . . 3,593 2,928 7,762 6,436
+Cost of sales. . . . . . . . . . . . . . . . . 2,251 1,908 4,794 3,857
+ --------- --------- -------- --------
+Gross profit . . . . . . . . . . . . . . . . . 1,342 1,020 2,968 2,579
+ --------- --------- -------- --------
+Operating expenses:
+ Selling, general and administrative. . . . . 1,269 1,452 2,783 3,163
+ Research and development . . . . . . . . . . 1,139 1,234 2,358 2,195
+ --------- --------- -------- --------
+ Total operating expenses . . . . . . . . 2,408 2,686 5,141 5,358
+ --------- --------- -------- --------
+Loss from operations . . . . . . . . . . . . . (1,066) (1,666) (2,173) (2,779)
+
+Interest income . . . . . . . . . . . . . . . 34 58 270 141
+Other income (expense), net. . . . . . . . . . 98 (363) 161 (259)
+ --------- --------- -------- --------
+Loss before income taxes . . . . . . . . . . . (934) (1,971) (1,742) (2,897)
+
+Income tax expense (benefit) . . . . . . . . . 15 21 15 (18)
+ --------- --------- -------- --------
+Net loss . . . . . . . . . . . . . . . . . . . (949) (1,992) (1,757) (2,879)
+ --------- --------- -------- --------
+Other comprehensive loss, net of tax:
+ Foreign currency translation
+ adjustments income (expense). . . .. . . . (58) 43 (122) 4
+ Unrealized holding gains (losses) arising
+ during period. . . . . . . . . . . . . . . 9 6 (10) 7
+ --------- --------- -------- --------
+Comprehensive loss . . . . . . . . . . . . . . (998) (1,943) (1,889) (2,868)
+ ========= ========= ======== ========
+
+Net loss per share (basic) . . . . . . . . . . (0.13) (0.28) (0.25) (0.40)
+Net loss per share (diluted) . . . . . . . . . (0.13) (0.28) (0.25) (0.40)
+
+Shares used in per share calculation:
+ Basic. . . . . . . . . . . . . . . . . . . . 7,181 7,164 7,169 7,174
+ Diluted. . . . . . . . . . . . . . . . . . . 7,181 7,164 7,169 7,174
+
+The accompanying notes are an integral part of these
+ condensed consolidated financial statements.
+
+ 4
+
+AEHR TEST SYSTEMS
+ CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS
+ (in thousands)
+ (Unaudited)
+
+Six Months Ended
+ November 30,
+ ----------------------
+ 2003 2002
+ ---------- ----------
+ 
+Cash flows from operating activities:
+ Net loss...................................... (1,757) (2,879)
+ Adjustments to reconcile net loss to net
+ cash provided by (used in) operating
+ activities:
+ Loss on impairment of an investment......... -- 365
+ Provision for doubtful accounts............. (7) 110
+ Depreciation and amortization............... 210 323
+ Changes in operating assets and liabilities:
+ Accounts receivable....................... (369) (832)
+ Inventories............................... 1,368 (217)
+ Accounts payable.......................... (47) (246)
+ Accrued expenses and deferred revenue..... 823 (254)
+ Accrued lease commitment.................. 20 32
+ Other current assets...................... 1,225 22
+ ---------- ----------
+ Net cash provided by (used in)
+ operating activities.................. 1,466 (3,576)
+ ---------- ----------
+Cash flows from investing activities:
+ Net (increase) decrease in short-
+ term investments.......................... (2,814) 3,786
+ Net increase in long-term
+ investments............................... (684) (301)
+ Additions to property and equipment......... (70) (70)
+ (Increase) decrease in other assets......... 37 (85)
+ ---------- ----------
+ Net cash provided by (used in)
+ investing activities.................. (3,531) 3,330
+ ---------- ----------
+Cash flows from financing activities:
+ Proceeds from issuance of common stock
+ and exercise of stock options............. 54 50
+ Repurchase of common stock.................. -- (156)
+ ---------- ----------
+ Net cash provided by (used in)
+ financing activities.................. 54 (106)
+ ---------- ----------
+
+Effect of exchange rates on cash................ 19 20
+ ---------- ----------
+ Net decrease in cash and
+ cash equivalents...................... (1,992) (332)
+
+Cash and cash equivalents, beginning of period.. 8,362 7,485
+ ---------- ----------
+Cash and cash equivalents, end of period........ 6,370 7,153
+ ========== ==========
+
+The accompanying notes are an integral part of these
+ condensed consolidated financial statements.
+
+ 5
+
+AEHR TEST SYSTEMS
+ NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+ THREE MONTHS ENDED NOVEMBER 30, 2003
+ (UNAUDITED)
+
+1. BASIS OF PRESENTATION
+ The accompanying condensed consolidated financial information has been
+prepared by Aehr Test Systems, without audit, in accordance with the
+instructions to Form 10-Q and therefore does not include all information and
+footnotes necessary for a fair presentation of financial position, results of
+operations and cash flows in accordance with generally accepted accounting
+principles.
+
+ PRINCIPLES OF CONSOLIDATION. The consolidated financial statements
+include the accounts of Aehr Test Systems and its subsidiaries (collectively,
+the "Company," "we," "us," and "our"). All significant intercompany balances
+have been eliminated in consolidation.
+
+ ACCOUNTING ESTIMATES. The preparation of financial statements in
+conformity with generally accepted accounting principles requires management
+to make estimates and assumptions that affect the reported amounts of assets
+and liabilities and disclosure of contingent assets and liabilities at the
+date of the financial statements and the reported amounts of revenues and
+expenses during the reporting period. Actual results may differ from those
+estimates.
+
+ UNAUDITED INTERIM FINANCIAL DATA. In the opinion of management, the
+unaudited condensed consolidated financial statements for the interim periods
+presented reflect all adjustments, consisting of only normal recurring
+adjustments, necessary for a fair presentation of the consolidated financial
+position and results of operations as of and for such periods indicated.
+These condensed consolidated financial statements and notes thereto should be
+read in conjunction with the consolidated financial statements and notes
+thereto included in the Company's Annual Report on Form 10-K for the fiscal
+year ended May 31, 2003. Results for the interim periods presented herein are
+not necessarily indicative of results which may be reported for any other
+interim period or for the entire fiscal year.
+
+2. STOCK-BASED COMPENSATION
+
+ The Company accounts for stock-based employee compensation arrangements in
+accordance with provisions of Accounting Principles Board Opinion No. 25,
+"Accounting for Stock Issued to Employees," ("APB 25") and related
+interpretations and complies with the disclosure provisions of Statement of
+Financial Accounting Standards No. 123, "Accounting for Stock-Based
+Compensation" ("SFAS 123"), as amended by Statement of Financial Accounting
+Standards No. 148, "Accounting for Stock-Based Compensation - Transition and
+Disclosure" ("SFAS 148"). Under APB 25, compensation expense is based on the
+difference, if any, on the date of the grant, between the fair value of the
+Company's shares and the exercise price of the option. Stock-based
+compensation for consultants or other third parties are accounted for in
+accordance with SFAS 123 and Emerging Issues Task Force No. 96-18, "Accounting
+for Equity Instruments That Are Issued to Other Than Employees for Acquiring,
+or in Conjunction with Selling, Goods or Services".
+
+ 6
+
+For purposes of pro forma disclosures, the estimated fair value of the
+stock options and grants under the Company's Employee Stock Purchase Plan are
+amortized to expense over the vesting period. The Company's pro forma
+information follows (in thousands, except per share amounts):
+
+Three Months Ended Six Months Ended
+ November 30, November 30,
+ --------- --------- --------- ---------
+ 2003 2002 2003 2002
+ --------- --------- --------- ---------
+ 
+Net loss, as reported:...................... (949) (1,992) (1,757) (2,879)
+
+Deduct: Total stock-based employee
+ compensation expense determined
+ under fair value based method
+ for all awards, net of related
+ tax effects......................... (165) (149) (321) (400)
+ --------- --------- --------- ---------
+Pro forma net loss.......................... (1,114) (2,141) (2,078) (3,279)
+ ========= ========= ========= =========
+Net loss per share:
+
+Basic, as reported.......................... (0.13) (0.28) (0.25) (0.40)
+ ========= ========= ========= =========
+Basic, pro forma............................ (0.16) (0.30) (0.29) (0.46)
+ ========= ========= ========= =========
+Diluted, as reported........................ (0.13) (0.28) (0.25) (0.40)
+ ========= ========= ========= =========
+Diluted, pro forma.......................... (0.16) (0.30) (0.29) (0.46)
+ ========= ========= ========= =========
+ 
+ The above pro forma effects on loss may not be representative of the
+effects on net income (loss) for future years as option grants typically vest
+over several years and additional options are generally granted each year.
+
+ The fair value of each option and stock purchase plan grant has been
+estimated on the date of grant using the Black-Scholes option pricing model
+and the following weighted average assumptions:
+
+Three Months Ended Six Months Ended
+ November 30, November 30,
+ --------- --------- --------- ---------
+ 2003 2002 2003 2002
+ --------- --------- --------- ---------
+ 
+Risk-free Interest Rate .............. 3.17 2.98 3.00 3.37 
+Expected Life......................... 5 years 5 years 5 years 5 years
+Volatility............................ 0.81 0.79 0.81 0.79
+Dividend Yield........................ -- -- -- --
+
+7
+
+3. EARNINGS PER SHARE
+
+ EARNINGS PER SHARE. Earnings per share is computed based on the
+weighted average number of common and common equivalent shares (common stock
+options and warrants) outstanding, when dilutive, during each period using the
+treasury stock method.
+
+Three Months Ended Six Months Ended
+ November 30, November 30,
+ --------- --------- --------- ---------
+ 2003 2002 2003 2002
+ --------- --------- --------- ---------
+ (in thousands, except per share amounts)
+ 
+Net loss available to common shareholders:
+
+Numerator: Net loss......................... (949) (1,992) (1,757) (2,879)
+ --------- --------- --------- ---------
+Denominator for basic net loss per share:
+ Weighted-average shares outstanding ...... 7,181 7,164 7,169 7,174
+ --------- --------- --------- ---------
+Shares used in basic per share calculation.. 7,181 7,164 7,169 7,174
+
+Effect of dilutive securities:
+ Employee stock options.................. -- -- -- --
+ --------- --------- --------- ---------
+Denominator for diluted net loss
+ per share............................... 7,181 7,164 7,169 7,174
+ --------- --------- --------- ---------
+
+Basic net loss per share.................... (0.13) (0.28) (0.25) (0.40)
+ ========= ========= ========= =========
+Diluted net loss per share.................. (0.13) (0.28) (0.25) (0.40)
+ ========= ========= ========= =========
+ 
+ Stock options to purchase 1,335,182 and 1,227,708 shares of common stock
+were outstanding on November 30, 2003 and November 30, 2002, respectively, but
+were not included in the computation of diluted loss per share because the
+inclusion of such shares would be anti-dilutive.
+
+4. INVENTORIES
+
+Inventories are comprised of the following (in thousands):
+
+November 30, May 31,
+ 2003 2003
+ ----------- -----------
+ 
+Raw materials and sub-assemblies 3,904 3,845
+Work in process 3,484 4,694
+Finished goods 509 708
+ ----------- -----------
+ 7,897 9,247
+ =========== ===========
+
+5. SEGMENT INFORMATION
+
+ The Company operates in one industry segment. The Company is engaged in
+the design, manufacture, marketing and servicing of test and burn-in equipment
+used in the semiconductor manufacturing industry.
+
+ The Company develops, manufactures and sells systems to semiconductor
+manufacturers and operates in one operating segment. The following presents
+information about the Company's operations in different geographic areas (in
+thousands):
+
+ 8
+
+United Adjust-
+ States Asia Europe ments Total
+ --------- --------- --------- --------- ---------
+ 
+Three months ended November 30, 2003:
+ Net sales...................... 2,922 273 501 (103) 3,593
+ Portion of U.S. net sales
+ from export sales............ 2,463 -- -- -- 2,463
+ Income (loss) from operations.. (1,058) (65) 57 -- (1,066)
+ Identifiable assets............ 35,450 896 748 (9,682) 27,412
+ Long-lived assets.............. 1,113 269 13 -- 1,395
+
+Six months ended November 30, 2003:
+ Net sales...................... 6,525 614 1,074 (451) 7,762
+ Portion of U.S. net sales
+ from export sales............ 4,992 -- -- -- 4,992
+ Income (loss) from operations.. (2,180) (117) 120 4 (2,173)
+ Identifiable assets............ 35,450 896 748 (9,682) 27,412
+ Long-lived assets.............. 1,113 269 13 -- 1,395
+
+Fiscal year ended May 31, 2003:
+ Net sales...................... 13,977 661 1,365 (911) 15,092
+ Portion of U.S. net sales
+ from export sales............ 9,885 -- -- -- 9,885
+ Income (loss) from operations.. (4,445) (478) 57 142 (4,724)
+ Identifiable assets............ 36,903 959 773 (10,388) 28,247
+ Long-lived assets.............. 1,239 259 17 -- 1,515
+ 
+ The Company's foreign operations are primarily those of its Japanese and
+German subsidiaries. Substantially all of the sales of the subsidiaries are
+made to unaffiliated Japanese or European customers. Net sales and income
+(loss) from operations from outside the United States include the operating
+results of Aehr Test Systems Japan K.K. and Aehr Test Systems GmbH.
+Adjustments consist of intercompany eliminations. Identifiable assets are all
+assets identified with operations in each geographic area.
+
+6. GOODWILL
+
+ The Company has adopted the provisions of Statement of Financial
+Accounting Standards No. 142 ("SFAS 142"), "Goodwill and Other Intangible
+Assets," effective June 1, 2002. In accordance with SFAS 142, the Company
+ceased the amortization of goodwill as of June 1, 2002. Net goodwill at
+November 30, 2003 and May 31, 2003 was 274,000.
+
+ In accordance with the provisions of SFAS 142, the Company performed an
+initial test of goodwill impairment. The test showed no impairment of the
+Company's goodwill as of June 1, 2002, the initial date of adopting SFAS 142.
+In accordance with the provisions of SFAS 142, the Company performed an annual
+goodwill impairment test on May 31, 2003 and it showed no impairment of the
+Company's goodwill as of that date.
+
+7. PRODUCT WARRANTIES
+
+ The Company provides for the estimated cost of product warranties at the
+time the products are shipped. While the Company engages in extensive product
+quality programs and processes, including actively monitoring and evaluating
+the quality of its component suppliers, the Company's warranty obligation is
+affected by product failure rates, material usage and service delivery costs
+incurred in correcting a product failure. Should actual product failure
+rates, material usage or service delivery costs differ from the Company's
+estimates, revisions to the estimated warranty liability would be required.
+
+9
+
+Three months Six months
+ ended ended
+ --------------------------
+ November 30, 2003
+ ------------ -----------
+ (in thousands)
+ 
+Balance at the beginning of the period 141 111
+Accruals for warranties issued during the period 10 133
+Accruals related to pre-existing warranties
+ (including changes in estimates) -- --
+Settlements made during the period
+ (in cash or in kind) (39) (132)
+ ----------- -----------
+Balance at the end of the period 112 112
+ =========== ===========
+ 
+8. RECENT ACCOUNTING PRONOUNCEMENTS
+
+ In November 2002, the Emerging Issues Task Force ("EITF") reached a
+consensus on Issue No. 00-21, "Revenue Arrangements with Multiple
+Deliverables". EITF Issue No. 00-21 provides guidance on how to account for
+arrangements that involve the delivery or performance of multiple products,
+services and/or rights to use assets. The provisions of EITF Issue No. 00-21
+are required to be applied to revenue arrangements entered into in fiscal
+periods beginning after June 15, 2003. The adoption of EITF Issue No. 00-21
+did not have a material impact on the Company's financial position or results
+of operations.
+
+ In January 2003, the Financial Accounting Standards Board ("FASB")issued
+FASB Interpretation No. 46 ("FIN 46"), "Consolidation of Variable Interest
+Entities, an Interpretation of Accounting Research Bulletin No. 51". FIN 46
+requires certain variable interest entities to be consolidated by the primary
+beneficiary of the entity if the equity investors in the entity do not have
+the characteristics of a controlling financial interest or do not have
+sufficient equity at risk for the entity to finance its activities without
+additional subordinated financial support from other parties. The provisions
+of FIN 46 must be applied for periods after December 15, 2003. The adoption
+of FIN 46 did not have a material impact on the Company's financial position
+or results of operations.
+
+ In May 2003, the FASB issued Statement of Financial Accounting Standards
+No.150 ("SFAS 150"), "Accounting for Certain Financial Instruments with
+Characteristics of both Liabilities and Equity." SFAS 150 establishes
+standards for classification and measurement of certain financial instruments
+with characteristics of both liabilities and equity. SFAS 150 requires
+financial instruments within its scope be classified as a liability (or an
+asset in some circumstances). Many of those financial instruments were
+previously classified as equity. SFAS 150 is effective for financial
+instruments entered into or modified after May 31, 2003. For financial
+instruments created before and still existing as of the issuance of this
+statement, a cumulative effect of change in accounting principle shall be
+reported upon implementation in the first interim period beginning after June
+15, 2003. The adoption of SFAS 150 did not have a material impact on the
+Company's financial position or results of operations.
+
+Item 2. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND
+RESULTS OF OPERATIONS
+
+ The following discussion of the financial condition and results of
+operations of the Company should be read in conjunction with the Condensed
+Consolidated Financial Statements and the related notes that appear elsewhere
+in this document.
+
+ 10
+
+This Management's Discussion and Analysis of Financial Condition and
+Results of Operation and other parts of this Form 10-Q contains forward-
+looking statements that involve risks and uncertainties. These statements
+typically may be identified by the use of forward-looking words or phrases
+such as "believe," "expect," "intend," "anticipate," "should," "planned,"
+"estimated," and "potential," among others. All forward-looking statements
+included in this document are based on our current expectations, and we assume
+no obligation to update any of these forward-looking statements. The Private
+Securities Litigation Reform Act of 1995 provides a "safe harbor" for these
+forward-looking statements. In order to comply with the terms of the safe
+harbor, we note that a variety of factors could cause actual results and
+experience to differ materially from the anticipated results or other
+expectations expressed in these forward-looking statements. The risks and
+uncertainties that may affect the operations, performance, development, and
+results of our businesses include but are not limited to those factors that
+might be described from time to time in periodic filings with the Securities
+and Exchange Commission and include those set forth in this Quarterly Report
+on Form 10-Q as "Factors that May Affect Future Results of Operations," as
+well as other factors beyond our control.
+
+CRITICAL ACCOUNTING POLICIES
+
+ The Company's discussion and analysis of its financial condition and
+results of operations are based upon the Company's consolidated financial
+statements, which have been prepared in accordance with accounting principles
+generally accepted in the United States of America. The preparation of these
+financial statements requires the Company to make estimates and judgments that
+affect the reported amounts of assets, liabilities, revenues and expenses, and
+related disclosure of contingent assets and liabilities. On an ongoing basis,
+the Company evaluates its estimates, including those related to customer
+programs and incentives, product returns, bad debts, inventories, investments,
+intangible assets, income taxes, financing operations, warranty obligations,
+long-term service contracts, and contingencies and litigation. The Company
+bases its estimates on historical experience and on various other assumptions
+that are believed to be reasonable under the circumstances, the results of
+which form the basis for making judgments about the carrying values of assets
+and liabilities that are not readily apparent from other sources. Actual
+results may differ from these estimates under different assumptions or
+conditions.
+
+ The Company believes the following critical accounting policies affect its
+more significant judgments and estimates used in the preparation of its
+consolidated financial statements.
+
+ REVENUE RECOGNITION
+
+ The Company's revenue recognition policy is significant because revenue is
+a key component of the results of operations. The Company's revenue consists
+primarily of sales of systems, die carriers, test fixtures, upgrades and spare
+parts, and revenues from service contracts. The Company recognizes revenue
+upon shipment and defers recognition of revenue for any amounts subject to
+acceptance until such acceptance occurs. The amount of revenue deferred is
+the greater of the fair value of the undelivered element or the contractual
+agreed to amounts. Royalty revenue related to licensing income from
+Performance Test Boards ("PTBs") is recognized when paid by the licensee.
+This income is recorded in net sales.
+
+ In addition, the Company's revenue recognition policy determines the
+timing of certain expenses, such as commissions and royalties. The Company
+follows very specific and detailed guidelines in measuring revenue in
+accordance with SAB 101; however, certain judgments affect the application of
+the revenue policy. Revenue results are difficult to predict, and any
+shortfall in revenue or delay in recognizing revenue could cause the operating
+results to vary significantly from quarter to quarter and could result in
+future operating losses. The Company's revenue recognition policy is further
+
+ 11
+
+affected by estimated reductions to revenue for special pricing agreements,
+price protection, promotions and other volume-based incentives. If market
+conditions decline, the Company may take actions to increase customer
+incentive offerings possibly resulting in an incremental reduction of revenue
+or increase in cost at the time the incentive is offered. The Company
+maintains allowances for doubtful accounts for estimated losses resulting from
+the inability of its customers to make required payments. If the financial
+conditions of the Company's customers deteriorate, resulting in an impairment
+of their ability to make payments, additional allowances may be required.
+
+ WARRANTY OBLIGATIONS
+
+ The Company records the estimated cost of product warranties at the time
+revenue is recognized. While the Company engages in extensive product quality
+programs and processes, including actively monitoring and evaluating the
+quality of its component suppliers, the Company's warranty obligation is
+affected by product failure rates, material usage and service delivery costs
+incurred in correcting a product failure. The Company's estimate of warranty
+reserve is based on management assessment of future warranty obligations and
+on historical warranty obligations. Should actual product failure rates,
+material usage or service delivery costs differ from the Company's estimates,
+revisions to the estimated warranty liability would be required.
+
+ INVENTORY OBSOLESCENCE
+
+ The Company writes down its inventory for estimated obsolescence or
+unmarketable inventory by an amount equal to the difference between the cost
+of inventory and the estimated market value based upon assumptions about
+future demand and market conditions. If actual market conditions are less
+favorable than those projected by management, additional inventory write-downs
+may be required.
+
+ INVESTMENT IMPAIRMENT
+
+ The Company records an investment impairment charge when it believes an
+investment has experienced a decline in value that is other than temporary.
+Future adverse changes in market conditions or poor operating results of
+underlying investments could result in losses or an inability to recover the
+carrying value of the investments that may not be reflected in an investment's
+current carrying value, thereby possibly requiring an impairment charge in the
+future.
+
+ DEFERRED TAX ASSETS
+
+ The Company records a valuation allowance to reduce its deferred tax
+assets to the amount that is more likely than not to be realized. While the
+Company has considered future taxable income and ongoing prudent and feasible
+tax planning strategies in assessing the need for the valuation allowance, in
+the event the Company determines that it will be able to realize its deferred
+tax assets in the future in excess of its net recorded amount, an adjustment
+to the deferred tax asset will increase income in the period such
+determination is made. Likewise, should the Company determine that it would
+not be able to realize all or part of its net deferred tax asset in the
+future, an adjustment to the deferred tax asset will be charged to income in
+the period such determination is made.
+
+RESULTS OF OPERATIONS
+
+ The following table sets forth items in the Company's Condensed
+Consolidated Statements of Operations as a percentage of net sales for the
+periods indicated.
+
+ 12
+
+Three Months Ended Six Months Ended
+ November 30, November 30,
+ ---------------------- --------------------
+ 2003 2002 2003 2002
+ ---------- ---------- --------- ----------
+ 
+Net sales. . . . . . . . . . . . . . . . . . . 100.0 100.0 100.0 100.0 
+Cost of sales. . . . . . . . . . . . . . . . . 62.6 65.2 61.8 59.9
+ ---------- ---------- --------- --------
+Gross profit . . . . . . . . . . . . . . . . . 37.4 34.8 38.2 40.1
+ ---------- ---------- --------- --------
+Operating expenses:
+ Selling, general and administrative. . . . . 35.3 49.6 35.8 49.1
+ Research and development . . . . . . . . . . 31.7 42.1 30.4 34.1
+ ---------- ---------- --------- --------
+ Total operating expenses . . . . . . . . 67.0 91.7 66.2 83.2
+ ---------- ---------- --------- --------
+Loss from operations . . . . . . . . . . . . . (29.6) (56.9) (28.0) (43.1)
+
+Interest income . . . . . . . . . . . . . . . 0.9 2.0 3.5 2.2
+Other income (expense), net . . . . . . . . . 2.7 (12.4) 2.1 (4.1)
+ ---------- ---------- --------- --------
+Loss before income taxes . . . . . . . . . . . (26.0) (67.3) (22.4) (45.0)
+
+Income tax expense (benefit) . . . . . . . . . 0.4 0.7 0.2 (0.3)
+ ---------- ---------- --------- --------
+Net loss . . . . . . . . . . . . . . . . . . . (26.4) (68.0) (22.6) (44.7) 
+ ========== ========== ========= ========
+
+THREE MONTHS ENDED NOVEMBER 30, 2003 COMPARED TO THREE MONTHS ENDED NOVEMBER
+30, 2002
+
+ NET SALES. Net sales increased to 3.6 million in the three months ended
+November 30, 2003 from 2.9 million in the three months ended November 30,
+2002, an increase of 22.7 . The increase in net sales resulted primarily from
+an increase in sales of the Company's MAX products of approximately 1.6
+million, partially offset by a decrease in sales of MTX products of
+approximately 874,000. The Company anticipates that net sales in the third
+quarter of fiscal 2004 will be similar to the net sales of the second quarter
+of fiscal 2004.
+
+ GROSS PROFIT. Cost of sales consists primarily of the cost of materials,
+assembly and test costs, and overhead from operations. Gross profit increased
+to 1.3 million in the three months ended November 30, 2003 from 1.0 million
+in the three months ended November 30, 2002, an increase of 31.6 . Gross
+profit margin increased to 37.4 in the three months ended November 30, 2003
+from 34.8 in the three months ended November 30, 2002. The increase in gross
+profit margin was primarily the result of a change in product mix,
+particularly a decrease in MTX systems sold, resulting in lower material costs
+as a percentage of net sales, partially offset by an increase in provision for
+inventory reserves of approximately 139,000.
+
+ SELLING, GENERAL AND ADMINISTRATIVE. Selling, general and administrative
+("SG&A") expenses consist primarily of salaries and related costs of
+employees, customer support costs, commission expenses to independent sales
+representatives, product promotion and other professional services. SG&A
+expenses decreased to 1.3 million in the three months ended November 30, 2003
+from 1.5 million in the three months ended November 30, 2002, a decrease of
+12.6 . The decrease in SG&A expenses was primarily due to decreases in the
+product support expenses and the provision for bad debt reserve of
+approximately 80,000 and 66,000, respectively.
+
+ RESEARCH AND DEVELOPMENT. Research and development ("R&D") expenses
+consist primarily of salaries and related costs of employees engaged in
+ongoing research, design and development activities, costs of engineering
+materials and supplies, and professional consulting expenses. R&D expenses
+decreased to 1.1 million in the three months ended November 30, 2003 from
+ 1.2 million in the three months ended November 30, 2002, a decrease of 7.7 .
+The decrease in R&D expenses was primarily due to a decrease in project
+material expenses of 204,000 predominantly related to the development of the
+
+ 13
+
+Company's FOX product line, partially offset by an increase in outside
+services of 90,000.
+
+ INTEREST INCOME. Interest income decreased to 34,000 in the three months
+ended November 30, 2003 from 58,000 in the three months ended November 30,
+2002, a decrease of 41.4 . The decrease in interest income was primarily
+related to a lower average rate of return on investments.
+
+ OTHER INCOME (EXPENSE), NET. Other income, net was 98,000 in the three
+months ended November 30, 2003, compared with other expense, net of 363,000
+in the three months ended November 30, 2002. The increase in other income
+(expense), net was primarily due to foreign currency exchange gains recorded
+by the Company and its subsidiaries in the three months ended November 30,
+2003, compared with a non-cash impairment charge of 365,000 of an investment
+to record an other-than-temporary decline in the fair value of the investment
+in the three months ended November 30, 2002.
+
+ INCOME TAX EXPENSE (BENEFIT). Income tax expense decreased to 15,000 in
+the three months ended November 30, 2003, from 21,000 in the three months
+ended November 30, 2002. The income tax expense in the three months ended
+November 30, 2003 and in the three months ended November 30, 2002 related
+primarily to the tax expense recorded as a result of income earned in the
+Company's German subsidiary. The Company's U.S. operations and its Japanese
+subsidiary have experienced significant cumulative losses and thus generated
+certain net operating losses available to offset future taxes payable in the
+U.S. and Japan. As a result of the cumulative operating losses in the
+Company's U.S. operations and its Japanese subsidiary, a valuation allowance
+was established for the full amount of its U.S. operations and the Japanese
+subsidiary's net deferred tax assets in the fourth quarter of fiscal 2002.
+The Company's effective income tax rate did not approximate the statutory tax
+rates of the jurisdictions in which the Company operates primarily because no
+tax benefit was recorded for losses in either the Company's U.S. operations or
+its Japanese subsidiary.
+
+SIX MONTHS ENDED NOVEMBER 30, 2003 COMPARED TO SIX MONTHS ENDED NOVEMBER 30,
+2002
+
+ NET SALES. Net sales increased to 7.8 million in the six months ended
+November 30, 2003 from 6.4 million in the six months ended November 30, 2002,
+an increase of 20.6 . The increase in net sales resulted primarily from an
+increase in sales of the Company's MAX products.
+
+ GROSS PROFIT. Gross profit increased to 3.0 million in the six months
+ended November 30, 2003 from 2.6 million in the six months ended November 30,
+2002, an increase of 15.1 . The gross profit margin decreased to 38.2 in the
+six months ended November 30, 2003 from 40.1 in the six months ended November
+30, 2002. The decrease in gross profit margin was primarily the result of an
+increase in provision for inventory reserves of 149,000.
+
+ SELLING, GENERAL AND ADMINISTRATIVE. SG&A expenses decreased to 2.8
+million in the six months ended November 30, 2003 from 3.2 million in the six
+months ended November 30, 2002, a decrease of 12.0 . The decrease in SG&A
+expenses was primarily due to decreases in the provision for bad debt reserve
+and commissions to outside sales representatives of approximately 129,000 and
+ 116,000, respectively. The decrease in commissions to outside sales
+representatives in the six months ended November 30, 2003 was primarily due to
+a lower level of commissionable sales to territories in which sales
+representatives are utilized.
+
+ RESEARCH AND DEVELOPMENT. R&D expenses increased to 2.4 million in the
+six months ended November 30, 2003 from 2.2 million in the six months ended
+November 30, 2002, an increase of 7.4 . The increase in R&D expenses was
+primarily due to increases in outside services and employment related expenses
+of approximately 68,000 and 45,000, respectively.
+
+ 14
+
+INTEREST INCOME. Interest income increased to 270,000 in the six months
+ended November 30, 2003 from 141,000 in the six months ended November 30,
+2002, an increase of 91.5 . The increase in interest income was primarily
+related to interest income received in the first quarter of fiscal 2004 in
+connection with income tax refunds relating to prior years.
+
+ OTHER INCOME (EXPENSE), NET. Other income, net was 161,000 in the six
+months ended November 30, 2003, compared with other expense, net of 259,000
+in the six months ended November 30, 2002. The increase in other income
+(expense), net was primarily due to foreign currency exchange gains of
+ 186,000 recorded by the Company and its subsidiaries in the six months ended
+November 30, 2003, compared with a non-cash impairment charge of 365,000 of
+an investment to record an other-than-temporary decline in the fair value of
+the investment in the six months ended November 30, 2002.
+
+ INCOME TAX EXPENSE (BENEFIT). Income tax expense was 15,000 in the six
+months ended November 30, 2003, compared with income tax benefit of 18,000 in
+the six months ended November 30, 2002. The income tax expense in the six
+months ended November 30, 2003 was primarily due to the tax expense recorded
+as a result of income earned in the Company's German subsidiary. The income
+tax benefit in the six months ended November 30, 2002 was primarily due to the
+tax benefit recorded as a result of losses incurred in the Company's German
+subsidiary. The Company's U.S. operations and its Japanese subsidiary have
+experienced significant cumulative losses and thus generated certain net
+operating losses available to offset future taxes payable in the U.S. and
+Japan. As a result of the cumulative operating losses in the Company's U.S.
+operations and its Japanese subsidiary, a valuation allowance was established
+for the full amount of its U.S. operations and the Japanese subsidiary's net
+deferred tax assets in the fourth quarter of fiscal 2002. The Company's
+effective income tax rate did not approximate the statutory tax rates of the
+jurisdictions in which the Company operates primarily because no tax benefit
+is being recorded for losses in either the Company's U.S. operations or its
+Japanese subsidiary.
+
+LIQUIDITY AND CAPITAL RESOURCES
+
+ Net cash provided by operating activities was approximately 1.5 million
+for the six months ended November 30, 2003, and net cash used in operating
+activities was approximately 3.6 million for the six months ended November
+30, 2002. For the six months ended November 30, 2003, net cash provided by
+operating activities was due primarily to decreases in inventories of 1.4
+million and other current assets related to the receipt of income tax refunds
+of 1.2 million, partially offset by the net loss of 1.8 million. For the
+six months ended November 30, 2002, net cash used in operating activities was
+due primarily to the net loss of 2.9 million and an increase in accounts
+receivable of 832,000.
+
+ Net cash used in investing activities was approximately 3.5 million for
+the six months ended November 30, 2003 and net cash provided by investing
+activities was approximately 3.3 million for the six months ended November
+30, 2002. The cash used in investing activities during the six months ended
+November 30, 2003 was primarily due to the purchase of short-term and long-
+term investments. Cash provided by investing activities during the six months
+ended November 30, 2002 was primarily due to the sale of short-term
+investments.
+
+ Financing activities provided cash of approximately 54,000 in the six
+months ended November 30, 2003. Financing activities used cash of
+approximately 106,000 in the six months ended November 30, 2002. Net cash
+provided by financing activities during the six months ended November 30, 2003
+was due to the proceeds from issuance of common stock and exercise of stock
+options. Net cash used in financing activities during the six months ended
+November 30, 2002 was primarily due to the Company's repurchase of its
+outstanding common shares in accordance with a share repurchase program
+announced in 1998, as described below.
+
+ 15
+
+As of November 30, 2003, the Company had working capital of 19.6 million,
+compared with 22.0 million as of May 31, 2003. Working capital consists of
+cash and cash equivalents, short-term investments, accounts receivable,
+inventory and other current assets, less current liabilities.
+
+ The Company announced in August 1998 that its board of directors had
+authorized the repurchase of up to 1,000,000 shares of its outstanding common
+shares. The Company may repurchase the shares in the open market or in
+privately negotiated transactions, from time to time, subject to market
+conditions. The number of shares of common stock actually acquired by the
+Company will depend on subsequent developments and corporate needs, and the
+repurchase program may be interrupted or discontinued at any time. Any such
+repurchase of shares, if consummated, may use a portion of the Company's
+working capital. As of November 30, 2003, the Company had repurchased 523,700
+shares at an average price of 3.95 per share.
+
+ From time to time, the Company evaluates potential acquisitions of
+businesses, products or technologies that complement the Company's business.
+Any such transactions, if consummated, may use a portion of the Company's
+working capital or require the issuance of equity. The Company has no present
+understandings, commitments or agreements with respect to any material
+acquisitions.
+
+ There have been no material changes in the composition, magnitude or other
+key characteristics of the Company's contractual obligations or other
+commitments as disclosed in the Company's Form 10-K for the year ended May 31,
+2003.
+
+ The Company anticipates that the existing cash balance together with
+anticipated cash provided by operations are adequate to meet its working
+capital and capital equipment requirements through calendar year 2004. After
+calendar year 2004, depending on its rate of growth and profitability, the
+Company may require additional equity or debt financing to meet its working
+capital requirements or capital equipment needs. There can be no assurance
+that additional financing will be available when required, or, if available,
+that such financing can be obtained on terms satisfactory to the Company.
+
+OFF-BALANCE SHEET ARRANGEMENTS
+
+ The Company has not entered into any off-balance sheet financing
+arrangements as of November 30, 2003.
+
+RECENT ACCOUNTING PRONOUNCEMENTS
+
+ In November 2002, the Emerging Issues Task Force ("EITF") reached a
+consensus on Issue No. 00-21, "Revenue Arrangements with Multiple
+Deliverables". EITF Issue No. 00-21 provides guidance on how to account for
+arrangements that involve the delivery or performance of multiple products,
+services and/or rights to use assets. The provisions of EITF Issue No. 00-21
+are required to be applied to revenue arrangements entered into in fiscal
+periods beginning after June 15, 2003. The adoption of EITF Issue No. 00-21
+did not have a material impact on the Company's financial position or results
+of operations.
+
+ In January 2003, the Financial Accounting Standards Board ("FASB") issued
+FASB Interpretation No. 46 ("FIN 46"), "Consolidation of Variable Interest
+Entities, an Interpretation of Accounting Research Bulletin No. 51". FIN 46
+requires certain variable interest entities to be consolidated by the primary
+beneficiary of the entity if the equity investors in the entity do not have
+the characteristics of a controlling financial interest or do not have
+sufficient equity at risk for the entity to finance its activities without
+additional subordinated financial support from other parties. The provisions
+of FIN 46 must be applied for periods after December 15, 2003. The adoption
+of FIN 46 did not have a material impact on the Company's financial position
+or results of operations.
+
+ 16
+
+In May 2003, the FASB issued Statement of Financial Accounting Standards
+No.150 ("SFAS 150"), "Accounting for Certain Financial Instruments with
+Characteristics of both Liabilities and Equity." SFAS 150 establishes
+standards for classification and measurement of certain financial instruments
+with characteristics of both liabilities and equity. SFAS 150 requires
+financial instruments within its scope be classified as a liability (or an
+asset in some circumstances). Many of those financial instruments were
+previously classified as equity. SFAS 150 is effective for financial
+instruments entered into or modified after May 31, 2003. For financial
+instruments created before and still existing as of the issuance of this
+statement, a cumulative effect of change in accounting principle shall be
+reported upon implementation in the first interim period beginning after June
+15, 2003. The adoption of SFAS 150 did not have a material impact on the
+Company's financial position or results of operations.
+
+FACTORS THAT MAY AFFECT FUTURE RESULTS OF OPERATIONS
+
+ Set forth below and elsewhere in this Quarterly Report on Form 10-Q and in
+other documents we file with the Securities and Exchange Commission are risks
+and uncertainties that could cause actual results to differ materially from
+the results contemplated by the forward-looking statements in this Quarterly
+Report on Form 10-Q. We believe that these risks and uncertainties are the
+principal material risks facing the Company as of the date of this Form 10-Q.
+In the future, we may become subject to additional risks that are not
+currently known to us. If any of these risks actually occur, our business,
+financial condition and operating results could be seriously harmed. As a
+result, the trading price of our common stock could decline, and you could
+lose all or part of the value of your investment.
+
+ FLUCTUATIONS IN OPERATING RESULTS. The Company has experienced and
+expects to continue to experience significant fluctuations in its quarterly
+and annual operating results. The Company's future operating results will
+depend upon a variety of factors, including the timing of significant orders,
+the mix of products sold, changes in pricing by the Company, its competitors,
+customers or suppliers, market acceptance of new products and enhanced
+versions of the Company's products, capital spending patterns by customers,
+the Company's ability to produce systems and products in volume and meet
+customer requirements, and the number of products sold under volume purchase
+arrangements, which tend to have lower selling prices. Accordingly, past
+performance may not be indicative of future performance.
+
+ DEPENDENCE ON TIMING AND SIZE OF SALES ORDERS AND SHIPMENT. The Company
+derives a substantial portion of its revenues from the sale of a relatively
+small number of systems which typically range in purchase price from
+approximately 200,000 to over 1 million per system. As a result, the loss
+or deferral of a limited number of system sales could have a material adverse
+effect on the Company's net sales and operating results in a particular
+period. A delay or reduction in shipments near the end of a particular
+quarter, due, for example, to unanticipated shipment reschedulings, customer
+cancellations or deferrals, customer credit issues, unexpected manufacturing
+difficulties experienced by the Company, or delays in deliveries by suppliers,
+could cause net sales in a particular quarter to fall significantly below the
+Company's expectations.
+
+ RECENT OPERATING LOSSES. The Company incurred loss from operations of
+ 4.7 million, 4.5 million and 5.2 million in fiscal 2003, 2002 and 2000,
+respectively. The Company reported operating income in fiscal 2001 and from
+fiscal 1996 to 1998, due to increased net sales that were substantially the
+result of sales of new products, particularly sales of MTX systems. In fiscal
+1998, the Company began to feel an industry slowdown due to uncertainties
+caused primarily by the financial crisis in Asia and DRAM overcapacity and
+therefore, recorded operating losses in fiscal 1999 and 2000. Beginning in
+the second half of fiscal 2001, the Company experienced the result of a sharp
+and severe industry downturn and recorded operating losses in both fiscal 2002
+and 2003. There can be no assurance that the Company's net sales and
+operating results will not continue to be further impacted by this prolonged
+
+ 17
+
+downturn in the semiconductor equipment market and global economy. Failure to
+become profitable may depress the market price of the Company's common stock
+and its ability to raise capital, if necessary.
+
+ DEPENDENCE ON MARKET ACCEPTANCE OF FOX SYSTEM. One element of the
+Company's business strategy is to capture an increasing share of the test
+equipment market through sales of the FOX wafer-level burn-in and test system.
+The FOX system is newly designed to simultaneously burn-in and functionally
+test all of the die on a wafer. The market for the FOX systems is in the very
+early stages of development. The FOX system was introduced in July 2001. The
+Company's strategy depends, in part, upon its ability to persuade potential
+customers that the FOX system can successfully contact and functionally test
+all of the die on a wafer simultaneously, and that this method of testing is
+cost-effective for the customer. There can be no assurance that the Company's
+strategy will be successful. The failure of the FOX system to achieve
+significant market acceptance would have a material adverse effect on the
+Company's future operating results and long-term prospects. The Company's
+stock price may also decline.
+
+ DEPENDENCE ON MARKET ACCEPTANCE OF MTX SYSTEM. A principle element of the
+Company's business strategy is to capture an increasing share of the memory
+test equipment market through sales of the MTX massively parallel test system.
+The MTX system is designed to perform both burn-in and many of the final test
+functions currently performed by high-cost memory testers. The Company's
+strategy depends, in part, upon its ability to persuade potential customers
+that the MTX system can successfully perform a significant portion of such
+final test functions and that transferring such tests to MTX systems will
+reduce their overall capital and test costs. There can be no assurance that
+the Company's strategy will be successful. The failure of the MTX system to
+achieve market acceptance would have a material adverse effect on the
+Company's business, financial condition and operating results.
+
+ CUSTOMER CONCENTRATION. Sales to the Company's five largest customers
+accounted for approximately 73.0 , 61.7 and 58.8 of its net sales in fiscal
+2003, 2002 and 2001, respectively. Sales to the Company's five largest
+customers accounted for approximately 77.4 of its net sales in the six months
+ended November 30, 2003. During fiscal 2003, Texas Instruments Incorporated
+and First International Computer, Inc. accounted for 45.3 and 10.7 of the
+Company's net sales, respectively. During fiscal 2002, Texas Instruments,
+Formosa Advanced Technologies Co. Ltd. and ASE Test, Inc. accounted for 22.3 ,
+17.1 and 11.1 of the Company's net sales, respectively. During fiscal 2001,
+Texas Instruments and Formosa Advanced Technologies Co. Ltd. accounted for
+25.2 and 12.7 of the Company's net sales, respectively. No other customers
+represented more than 10 of the Company's net sales for any of such periods.
+The loss of or reduction or delay in orders from a significant customer, or a
+delay in collecting or failure to collect accounts receivable from a
+significant customer could adversely affect the Company's business, financial
+condition and operating results.
+
+ LIMITED MARKET FOR BURN-IN SYSTEMS. Historically, a substantial portion
+of the Company's net sales were derived from the sale of dynamic burn-in
+systems. The market for burn-in systems is mature and estimated to be
+approximately 120 million per year. There can be no assurance that the
+market for burn-in systems will grow, and sales of the Company's burn-in
+products could decline.
+
+ LENGTHY SALES CYCLE. Sales of the Company's systems depend, in
+significant part, upon the decision of a prospective customer to increase
+manufacturing capacity or to restructure current manufacturing facilities,
+either of which typically involve a significant commitment of capital. The
+loss of individual orders due to the lengthy sales and evaluation cycle, or
+delays in the sale of even a limited number of systems could have a material
+adverse effect on the Company's business, operating results and financial
+condition and, in particular, could contribute to significant fluctuations in
+operating results on a quarterly basis.
+
+ 18
+
+DEPENDENCE ON INTERNATIONAL SALES AND OPERATIONS. Approximately 73.0 ,
+62.7 and 60.6 of the Company's net sales for fiscal 2003, 2002 and 2001,
+respectively, were attributable to sales to customers outside of the United
+States. A substantial portion of the Company's sales has been in Asia.
+Turmoil in the Asian financial markets has resulted, and may result in the
+future, in dramatic currency devaluations, stock market declines, restriction
+of available credit and general financial weakness. In addition, DRAM prices
+in Asia have on occasion declined dramatically, and will likely do so again in
+the future. These developments may affect the Company in several ways. The
+Company believes that many international semiconductor manufacturers limited
+their capital spending (including the purchase of MTXs) in fiscal years 2001,
+2002 and 2003, and that the uncertainty of the DRAM market may cause some
+manufacturers in the future to again delay capital spending plans. Such
+developments could have a material adverse effect on the Company's business,
+financial condition and results of operations.
+
+ RAPID TECHNOLOGICAL CHANGE; IMPORTANCE OF TIMELY PRODUCT INTRODUCTION.
+The semiconductor equipment industry is subject to rapid technological change
+and new product introductions and enhancements. The Company's ability to
+remain competitive will depend in part upon its ability to develop new
+products and to introduce these products at competitive prices and on a timely
+and cost-effective basis. There can be no assurance that the Company will be
+successful in selecting, developing, manufacturing and marketing new products
+that satisfy market demand. Any such failure would materially adversely
+affect the Company's business, financial condition and results of operations.
+The Company has experienced significant delays from time to time in the
+introduction of, and technical and manufacturing difficulties with, certain of
+its products and may experience delays and technical and manufacturing
+difficulties in future introductions or volume production of new products.
+The Company's inability to complete product development, or to manufacture and
+ship products in volume and in time to meet customer requirements would
+materially adversely affect the Company's business, financial condition and
+results of operations.
+
+ INTENSE COMPETITION. In each of the markets it serves, the Company faces
+competition from established competitors and potential new entrants. New
+product introductions by the Company's competitors or by new market entrants
+could cause a decline in sales or loss of market acceptance of the Company's
+existing products. Increased competitive pressure could also lead to
+intensified price-based competition, resulting in lower prices that could
+adversely affect the Company's business, financial condition and operating
+results. Competing suppliers of burn-in and functional test systems include
+Japan Engineering Company and Reliability Incorporated. In addition,
+suppliers of memory test equipment including Advantest Corporation and
+Teradyne, Inc. may seek to offer competitive parallel test systems in the
+future. The Company's MAX and ATX monitored and dynamic burn-in systems
+increasingly have faced and are expected to continue to face severe
+competition, especially from local, low cost manufacturers and from systems
+manufacturers that offer higher power dissipation per integrated circuit, or
+IC. Also, the FOX full wafer contact system is expected to face competition
+from larger systems manufacturers that have more advanced technological know-
+how and a broader range of manufacturing resources. The Company's test
+fixture products face numerous competitors. The Company has granted royalty-
+bearing licenses to several companies to make PTBs for use with the Company's
+MTX systems. Sales of PTBs by licensees result in royalties to the Company
+but reduce the Company's own sales of PTBs.
+
+ CYCLICALITY OF SEMICONDUCTOR INDUSTRY AND CUSTOMER PURCHASES; RISK OF
+CANCELLATIONS AND RESCHEDULINGS. The semiconductor and semiconductor
+equipment industries in general, and the market for DRAMs and other memory
+devices in particular, historically have been highly volatile and have
+experienced periodic downturns and slowdowns. These downturns and slowdowns
+have adversely affected the Company's operating results in the past. A large
+portion of the Company's net sales are attributable to a few customers and
+therefore a reduction in purchases by one or more customers could materially
+adversely affect the Company's financial results. Semiconductor equipment
+
+ 19
+
+companies may experience a significant rate of cancellations and reschedulings
+of purchase orders, as was the case in the industry in 2001, 2002 and 2003.
+Future cancellations and reschedulings could adversely affect the Company's
+business, financial condition and results of operation.
+
+ DEPENDENCE ON SUBCONTRACTORS; SOLE OR LIMITED SOURCES OF SUPPLY. The
+Company's MTX, MAX, ATX and FOX systems and DiePak carriers contain several
+components, including environmental chambers, power supplies, wafer and die
+contactors, signal distribution substrates and certain ICs, which are
+currently supplied by only one or a limited number of suppliers. In the event
+that any significant subcontractor or single source supplier was to become
+unable or unwilling to continue to manufacture subassemblies, components or
+parts in required volumes, the Company would have to identify and qualify
+acceptable replacements. The process of qualifying subcontractors and
+suppliers could be lengthy, and no assurance can be given that any additional
+sources would be available to the Company on a timely basis. Any delay,
+interruption or termination of a supplier relationship could have a material
+adverse effect on the Company's business, financial condition and operating
+results.
+
+ POSSIBLE VOLATILITY OF STOCK PRICE. The market price of the Company's
+common stock has been, and may continue to be, extremely volatile. The
+Company believes that factors such as announcements of developments related to
+the Company's business, fluctuations in the Company's operating results,
+failure to meet securities analysts' expectations, general conditions in the
+semiconductor and semiconductor equipment industries and the worldwide economy
+could cause the price of the Company's common stock to fluctuate
+substantially. In addition, in recent years the stock market in general, and
+the market for small capitalization and high technology stocks in particular,
+has experienced extreme price fluctuations which have often been unrelated to
+the operating performance of affected companies. Such fluctuations could
+adversely affect the market price of the Company's common stock.
+
+ MANAGEMENT OF CHANGING BUSINESS. If the Company is to be successful, it
+must expand its operations. Such expansion will place a significant strain on
+the Company's administrative, operational and financial resources. Further,
+such expansion will result in a continuing increase in the responsibility
+placed upon management personnel and will require development or enhancement
+of operational, managerial and financial systems and controls. If the Company
+is unable to manage the expansion of its operations effectively, the Company's
+business, financial condition and operating results will be materially and
+adversely affected.
+
+ DEPENDENCE ON KEY PERSONNEL; ABILITY TO ATTRACT AND RETAIN SKILLED
+PERSONNEL. The Company's success depends to a significant extent upon the
+continued service of Rhea Posedel, its Chief Executive Officer, as well as
+other executive officers and key employees. The loss of the services of any
+of its executive officers or a group of key employees could have a material
+adverse effect on the Company's business, financial condition and operating
+results. The Company's future success will depend in significant part upon
+its ability to attract and retain highly skilled technical, management, sales
+and marketing personnel. Competition for such personnel in the semiconductor
+equipment industry is intense, and there can be no assurance that the Company
+will be successful in attracting or retaining such personnel. The Company's
+inability to attract and retain the executive management and other key
+personnel it requires will limit its ability to expand its business and would
+have a material adverse effect on the Company's business, financial condition
+and operating results.
+
+ INTELLECTUAL PROPERTY PROTECTION AND INFRINGEMENT. The Company's ability
+to compete successfully is dependent in part upon its ability to protect its
+proprietary technology and information. Although the Company attempts to
+protect its proprietary technology through patents, copyrights, trade secrets
+and other measures, there can be no assurance that these measures will be
+adequate or that competitors will not be able to develop similar technology
+independently. These competitors would then be able to offer services and
+
+ 20
+
+develop, manufacture and sell products, which compete directly with the
+Company's services and products. In that case, the Company's revenues and
+operating results could decline.
+
+ Further, there can be no assurance that claims allowed on any patent
+issued to the Company will be sufficiently broad to protect the Company's
+technology, that any patent will issue from any pending application or that
+foreign intellectual property laws will protect the Company's intellectual
+property. The laws of some foreign countries do not protect proprietary
+rights to the same extent as the laws of the U.S., and many companies have
+encountered significant problems in protecting their proprietary rights in
+these foreign countries. These problems can be caused by, for example, a lack
+of rules and processes allowing for meaningfully defending intellectual
+property rights. If the Company does not adequately protect its intellectual
+property, competitors may be able to practice the Company's technologies and
+erode the Company's competitive advantage, and the Company's business and
+operating results could be harmed.
+
+ There are no pending claims against the Company regarding infringement of
+any patents or other intellectual property rights of others. However, the
+Company may receive, in the future, communications from third parties
+asserting intellectual property claims against the Company. There can be no
+assurance that any such claim made in the future will not result in
+litigation, which could involve significant expense to the Company, and, if
+the Company is required or deems it appropriate to obtain a license relating
+to one or more products or technologies, there can be no assurance that the
+Company would be able to do so on commercially reasonable terms, or at all.
+
+ ENVIRONMENTAL REGULATIONS. Federal, state and local regulations impose
+various controls on the use, storage, discharge, handling, emission,
+generation, manufacture and disposal of toxic or other hazardous substances
+used in the Company's operations. The Company believes that its activities
+conform in all material respects to current environmental and land use
+regulations applicable to its operations and its current facilities and that
+it has obtained environmental permits necessary to conduct its business.
+Nevertheless, the failure to comply with current or future regulations could
+result in substantial fines being imposed on the Company, suspension of
+production, alteration of its manufacturing processes or cessation of
+operations. Such regulations could require the Company to acquire expensive
+remediation equipment or to incur substantial expenses to comply with
+environmental regulations. Any failure by the Company to control the use,
+disposal or storage of, or adequately restrict the discharge of, hazardous or
+toxic substances could subject the Company to significant liabilities.
+
+Item 3. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISKS
+
+ The Company considered the provisions of Financial Reporting Release No.
+48 "Disclosures of Accounting Policies for Derivative Financial Instruments
+and Derivative Commodity Instruments, and Disclosures of Quantitative and
+Qualitative Information about Market Risk Inherent in Derivative Commodity
+Instruments." The Company had no holdings of derivative financial or
+commodity instruments at November 30, 2003.
+
+ The Company is exposed to financial market risks, including changes in
+interest rates and foreign currency exchange rates. The Company invests
+excess cash in a managed portfolio of corporate and government bond
+instruments with maturities of 18 months or less. The Company does not use
+any financial instruments for speculative or trading purposes. Fluctuations
+in interest rates would not have a material effect on the Company's financial
+position, results of operations and cash flows.
+
+ A majority of the Company's revenue and capital spending is transacted in
+U.S. Dollars. The Company, however, enters into transactions in other
+currencies, primarily Japanese Yen. Substantially all sales to Japanese
+customers are denominated in Yen. Since the price is determined at the time a
+purchase order is accepted, the Company is exposed to the risks of
+
+ 21
+
+fluctuations in the Yen-U.S. Dollar exchange rate during the lengthy period
+from purchase order to ultimate payment. This exchange rate risk is partially
+offset to the extent that the Company's Japanese subsidiary incurs expenses
+payable in Yen. To date, the Company has not invested in instruments designed
+to hedge currency risks. In addition, the Company's Japanese subsidiary
+typically carries debt or other obligations due to the Company that may be
+denominated in either Yen or U.S. Dollars. Since the Japanese subsidiary's
+financial statements are based in Yen and the Company's financial statements
+are based in U.S. Dollars, the Japanese subsidiary and the Company recognize
+foreign exchange gain or loss in any period in which the value of the Yen
+rises or falls in relation to the U.S. Dollar. A 10 decrease in the value of
+the Yen as compared with the U.S. Dollar would potentially result in an
+additional net loss of approximately 191,000.
+
+Item 4. CONTROLS AND PROCEDURES
+
+ Evaluation of disclosure controls and procedures. Our management
+evaluated, with the participation of our Chief Executive Officer and our Chief
+Financial Officer, the effectiveness of our disclosure controls and procedures
+as of the end of the period covered by this Quarterly Report on Form 10-Q.
+Based on this evaluation, our Chief Executive Officer and our Chief Financial
+Officer have concluded that our disclosure controls and procedures are
+effective to ensure that information we are required to disclose in reports
+that we file or submit under the Securities and Exchange Act of 1934 is
+recorded, processed, summarized and reported within the time periods specified
+in the Securities and Exchange Commission rules and forms.
+
+ Changes in internal controls over financial reporting. There was no
+change in our internal control over financial reporting that occurred during
+the period covered by this Quarterly Report on Form 10-Q that has materially
+affected, or is reasonably likely to materially affect, our internal control
+over financial reporting.
+
+ PART II - OTHER INFORMATION
+
+Item 1. LEGAL PROCEEDINGS
+
+ None.
+
+Item 2. CHANGES IN SECURITIES AND USE OF PROCEEDS
+
+ None.
+
+Item 3. DEFAULTS UPON SENIOR SECURITIES
+
+ None.
+
+Item 4. SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS
+
+ The Company held an Annual Meeting of Shareholders on October 15, 2003
+(the "Annual Meeting"). There were issued and outstanding on September 4,
+2003, the record date, 7,157,386 shares of Common Stock. There were present
+at the Annual Meeting in person and by proxy Shareholders of the Company who
+were holders of 6,889,467 shares of Common Stock entitled to vote thereat,
+constituting a quorum. At the Annual Meeting, the following votes were cast
+for the proposals indicated:
+
+Proposal One: Election of Directors of the Company.
+
+ NOMINEE VOTES FOR VOTES WITHHELD BROKER NON-VOTES
+- ------------------ --------- -------------- ----------------
+Rhea J. Posedel 5,289,202 1,600,265 --
+Robert R. Anderson 6,488,927 400,540 --
+William W.R. Elder 6,488,927 400,540 --
+Mukesh Patel 6,488,927 400,540 --
+Mario M. Rosati 5,286,481 1,602,986 --
+
+ 22
+
+Proposal Two: Amendment to the Company's 1996 Stock Option Plan to increase
+the number of shares reserved for issuance thereunder by 400,000 shares, to a
+new total of 1,950,000 shares.
+
+ VOTES
+ ---------
+FOR 3,175,873
+AGAINST 2,344,236
+ABSTAIN 3,100
+BROKER NON-VOTES --
+
+Proposal Three: Amendment to the Company's 1997 Employee Stock Purchase Plan
+to increase the number of shares reserved for issuance thereunder by 100,000
+shares, to a new total of 400,000 shares.
+
+ VOTES
+ ---------
+FOR 5,483,601
+AGAINST 36,508
+ABSTAIN 3,100
+BROKER NON-VOTES --
+
+Proposal Four: Ratify the selection of PricewaterhouseCoopers LLP as the
+Company's independent auditors of the Company for the fiscal year ending May
+31, 2004.
+
+ VOTES
+ ---------
+FOR 6,886,765
+AGAINST 2,000
+ABSTAIN 202
+BROKER NON-VOTES --
+
+Item 5. OTHER INFORMATION
+
+ None.
+
+Item 6. EXHIBITS AND REPORTS ON FORM 8-K
+
+ (a) Exhibits
+
+ The Exhibits listed on the accompanying "Index to Exhibits" are filed as
+part hereof, or incorporated by reference into, the report.
+
+ (b) Report on Form 8-K
+
+ On September 24, 2003, the Company furnished a current report on Form
+8-K, attaching a press release announcing financial results for the first
+quarter ended August 31, 2003 and certain other information. The Form 8-K
+included the Company's unaudited financial statements for the first quarter
+ended August 31, 2003.
+
+23
+
+SIGNATURES
+
+ Pursuant to the requirements of the Securities Exchange Act of 1934, the
+registrant has duly caused this report to be signed on its behalf by the
+undersigned, thereunto duly authorized.
+
+ Aehr Test Systems
+ (Registrant)
+
+Date: January 13, 2004 /s/ RHEA J. POSEDEL
+ ---------------
+ Rhea J. Posedel
+ Chief Executive Officer and
+ Chairman of the Board of Directors
+
+Date: January 13, 2004 /s/ GARY L. LARSON
+ --------------
+ Gary L. Larson
+ Vice President of Finance and
+ Chief Financial Officer
+
+24
+
+AEHR TEST SYSTEMS
+ INDEX TO EXHIBITS
+
+Exhibit No. Description
+- ---------- ------------
+
+ 31.1 Certification of Chief Executive Officer pursuant to Rules
+ 13a-14(a) and 15d-14(a) promulgated under the Securities
+ Exchange Act of 1934, as amended, as adopted pursuant to
+ Section 302(a) of the Sarbanes-Oxley Act of 2002.
+
+ 31.2 Certification of Chief Financial Officer pursuant to Rules
+ 13a-14(a) and 15d-14(a) promulgated under the Securities
+ Exchange Act of 1934, as amended, as adopted pursuant to
+ Section 302(a) of the Sarbanes-Oxley Act of 2002.
+
+32.1 Certification of Chief Executive Officer and Chief Financial
+ Officer pursuant to 18 U.S.C. Section 1350, as adopted
+ pursuant to Section 906 of the Sarbanes-Oxley Act of 2002.
+
+ 99.1 Press Release dated September 24, 2003. (This is incorporated
+ by reference to Exhibit 99.1 to Aehr Test Systems' Form 8-K
+ filed September 24, 2003).
+
+25
+
+<EX-31>
+ 4
+ ex311ceo.txt
+ EXHIBIT 31.1
+
+Exhibit 31.1
+ CERTIFICATION
+
+I, Rhea J. Posedel, certify that:
+
+1. I have reviewed this quarterly report on Form 10-Q of Aehr Test Systems;
+
+2. Based on my knowledge, this report does not contain any untrue statement
+of a material fact or omit to state a material fact necessary to make the
+statements made, in light of the circumstances under which such statements
+were made, not misleading with respect to the period covered by this report;
+
+3. Based on my knowledge, the financial statements, and other financial
+information included in this report, fairly present in all material respects
+the financial condition, results of operations and cash flows of the
+registrant as of, and for, the periods presented in this report;
+
+4. The registrant's other certifying officer(s) and I are responsible for
+establishing and maintaining disclosure controls and procedures (as defined in
+Exchange Act Rules 13a-15(e) and 15d-15(e)) for the registrant and have:
+
+ a) Designed such disclosure controls and procedures, or caused such
+disclosure controls and procedures to be designed under our supervision, to
+ensure that material information relating to the registrant, including its
+consolidated subsidiaries, is made known to us by others within those
+entities, particularly during the period in which this report is being
+prepared;
+
+ b) Evaluated the effectiveness of the registrant's disclosure controls
+and procedures and presented in this report our conclusions about the
+effectiveness of the disclosure controls and procedures, as of the end of the
+period covered by this report based on such evaluations; and
+
+ c) Disclosed in this report any change in the registrant's internal
+control over financial reporting that occurred during the registrant's most
+recent fiscal quarter that has materially affected, or is reasonably likely to
+materially affect, the registrant's internal control over financial reporting;
+and
+
+5. The registrant's other certifying officer(s) and I have disclosed, based
+on our most recent evaluation of internal control over financial reporting, to
+the registrant's auditors and the audit committee of the registrant's board of
+directors (or persons performing the equivalent functions):
+
+ a) All significant deficiencies and material weaknesses in the design
+or operation of internal control over financial reporting which are reasonably
+likely to adversely affect the registrant's ability to record, process,
+summarize and report financial information; and
+
+ b) Any fraud, whether or not material, that involves management or
+other employees who have a significant role in the registrant's internal
+control over financial reporting.
+
+Date: January 13, 2004
+ /s/ RHEA J. POSEDEL
+ -----------------------
+ Rhea J. Posedel
+ Chief Executive Officer
+
+</EX-31>
+
+<EX-31>
+ 5
+ ex312cfo.txt
+ EXHIBIT 31.2
+
+Exhibit 31.2
+ CERTIFICATION
+
+I, Gary L. Larson, certify that:
+
+1. I have reviewed this quarterly report on Form 10-Q of Aehr Test Systems;
+
+2. Based on my knowledge, this report does not contain any untrue statement
+of a material fact or omit to state a material fact necessary to make the
+statements made, in light of the circumstances under which such statements
+were made, not misleading with respect to the period covered by this report;
+
+3. Based on my knowledge, the financial statements, and other financial
+information included in this report, fairly present in all material respects
+the financial condition, results of operations and cash flows of the
+registrant as of, and for, the periods presented in this report;
+
+4. The registrant's other certifying officer(s) and I are responsible for
+establishing and maintaining disclosure controls and procedures (as defined in
+Exchange Act Rules 13a-15(e) and 15d-15(e)) for the registrant and have:
+
+ a) Designed such disclosure controls and procedures, or caused such
+disclosure controls and procedures to be designed under our supervision, to
+ensure that material information relating to the registrant, including its
+consolidated subsidiaries, is made known to us by others within those
+entities, particularly during the period in which this report is being
+prepared;
+
+ b) Evaluated the effectiveness of the registrant's disclosure controls
+and procedures and presented in this report our conclusions about the
+effectiveness of the disclosure controls and procedures, as of the end of the
+period covered by this report based on such evaluations; and
+
+ c) Disclosed in this report any change in the registrant's internal
+control over financial reporting that occurred during the registrant's most
+recent fiscal quarter that has materially affected, or is reasonably likely to
+materially affect, the registrant's internal control over financial reporting;
+and
+
+5. The registrant's other certifying officer(s) and I have disclosed, based
+on our most recent evaluation of internal control over financial reporting, to
+the registrant's auditors and the audit committee of the registrant's board of
+directors (or persons performing the equivalent functions):
+
+ a) All significant deficiencies and material weaknesses in the design
+or operation of internal control over financial reporting which are reasonably
+likely to adversely affect the registrant's ability to record, process,
+summarize and report financial information; and
+
+ b) Any fraud, whether or not material, that involves management or
+other employees who have a significant role in the registrant's internal
+control over financial reporting.
+
+Date: January 13, 2004
+ /s/ GARY L. LARSON
+ ---------------------------
+ Gary L. Larson
+ Chief Financial Officer
+
+</EX-31>
+
+<EX-32>
+ 6
+ ex321ceocfo.txt
+ EXHIBIT 32.1
+
+Exhibit 32.1
+
+CERTIFICATION OF CHIEF EXECUTIVE OFFICER AND CHIEF FINANCIAL OFFICER
+ PURSUANT TO
+ 18 U.S.C. SECTION 1350,
+ AS ADOPTED PURSUANT TO
+ SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002
+
+I, Rhea J. Posedel, certify, pursuant to 18 U.S.C. Section 1350, as
+adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002, that the
+Quarterly Report of Aehr Test Systems on Form 10-Q for the period ending
+November 30, 2003 fully complies with the requirements of Section 13(a) or
+15(d) of the Securities Exchange Act of 1934 and that information contained in
+such Quarterly Report on Form 10-Q fairly presents in all material respects
+the financial condition and results of operations of Aehr Test Systems.
+
+ By: /s/ RHEA J. POSEDEL
+ ----------------------------------
+ Rhea J. Posedel
+ Chief Executive Officer
+
+I, Gary L. Larson, certify, pursuant to 18 U.S.C. Section 1350, as adopted
+pursuant to Section 906 of the Sarbanes-Oxley Act of 2002, that the Quarterly
+Report of Aehr Test Systems on Form 10-Q for the period ending November 30,
+2003 fully complies with the requirements of Section 13(a) or 15(d) of the
+Securities Exchange Act of 1934 and that information contained in such
+Quarterly Report on Form 10-Q fairly presents in all material respects the
+financial condition and results of operations of Aehr Test Systems.
+
+ By: /s/ GARY L. LARSON
+ ----------------------------------
+ Gary L. Larson
+ Chief Financial Officer
+
+</EX-32>
+

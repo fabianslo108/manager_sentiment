@@ -1,0 +1,876 @@
+<Header>
+<FileStats>
+    <FileName>20040116_10-Q_edgar_data_823070_0000823070-04-000009.txt</FileName>
+    <GrossFileSize>40077</GrossFileSize>
+    <NetFileSize>28630</NetFileSize>
+    <NonText_DocumentType_Chars>0</NonText_DocumentType_Chars>
+    <HTML_Chars>161</HTML_Chars>
+    <XBRL_Chars>0</XBRL_Chars>
+    <XML_Chars>0</XML_Chars>
+    <N_Exhibits>0</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0000823070-04-000009.hdr.sgml : 20040116
+<ACCEPTANCE-DATETIME>20040116134711
+ACCESSION NUMBER:		0000823070-04-000009
+CONFORMED SUBMISSION TYPE:	10-Q
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20031130
+FILED AS OF DATE:		20040116
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			NOFIRE TECHNOLOGIES INC
+		CENTRAL INDEX KEY:			0000823070
+		STANDARD INDUSTRIAL CLASSIFICATION:	MISCELLANEOUS CHEMICAL PRODUCTS [2890]
+		IRS NUMBER:				223218682
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0831
+
+	FILING VALUES:
+		FORM TYPE:		10-Q
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-11061
+		FILM NUMBER:		04529295
+
+	BUSINESS ADDRESS:	
+		STREET 1:		21 INDUSTRIAL AVE
+		CITY:			UPPER SADDLE RIVER
+		STATE:			NJ
+		ZIP:			07458
+		BUSINESS PHONE:		2018181616
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	PNF INDUSTRIES INC
+		DATE OF NAME CHANGE:	19950913
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	PORTAFONE INTERNATIONAL CELLULAR COMMUNICATIONS INC
+		DATE OF NAME CHANGE:	19920128
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	NFW CAPITAL GROUP INC
+		DATE OF NAME CHANGE:	19900427
+
+</SEC-Header>
+</Header>
+
+ 
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ Qvg926Qtrwa38n0VFt2EX727aZA+c3H8JZDS6XiH5KLnBsK5Lk7VU7TeYWQAOxkJ
+ CZTq1SGWADUGYV37evqV3g==
+
+ 0000823070-04-000009.txt : 20040116
+
+10-Q
+ 1
+ r10q1103.txt
+
+SECURITIES AND EXCHANGE COMMISSION
+
+ Washington, D.C. 20549
+
+ FORM 10-QSB
+
+ [X] QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d)
+ OF THE SECURITIES EXCHANGE ACT OF 1934
+ For the Quarterly Period Ended November 30, 2003
+
+ [] TRANSITION REPORT PURSUANT TO SECTION 13 OR 15 (d)
+ OF THE SECURITIES EXCHANGE ACT OF 1934
+ For the Transition Period from _________
+
+ Commission File Number: 0-19945
+
+ NoFire Technologies, Inc.
+ -------------------------
+ (Name of small business issuer in its charter)
+
+ Delaware 22-3218682
+ --------- -----------
+ (State or other jurisdiction of (I.R.S. Employer
+ incorporation or organization) Identification No.)
+
+ 21 Industrial Avenue, Upper Saddle River, New Jersey 07458
+ -----------------------------------------------------------
+ (Address of principal executive offices) (Zip Code)
+
+ Issuer's telephone number (201) 818-1616
+ -------------
+
+Check whether the issuer (1) filed all reports required to be filed by
+Section 13 or 15(d) of the Securities Exchange Act of 1934 during the past
+12 months (or for such shorter period that the registrant was required to
+file such reports), and (2) has been subject to such filing requirements
+for the past 90 days.
+
+ YES X NO
+ --- ---
+
+Check whether the issuer has filed all documents and reports required to
+be filed by Section 12, 13 or 15(d) of the Exchange Act after the
+distribution of securities under a plan confirmed by the Court.
+
+ YES X NO
+ --- ---
+
+State the number of shares of each of the issuer's classes of common equity
+outstanding at the latest practicable date: 20,939,019 shares of Common
+Stock as of January 16,2004.
+
+Transitional Small Business Disclosure Format (check one):
+
+ YES NO X
+ --- ---
+
+Page 1
+
+NOFIRE TECHNOLOGIES, INC.
+
+ FORM 10-QSB
+
+ INDEX
+
+PART I - FINANCIAL INFORMATION PAGE
+
+Item 1. Financial Statements:
+
+ Balance Sheets as of November 30, 2003(unaudited)
+ and August 31, 2003 3
+
+ Statements of Operations for the Three Months
+ ended November 30,2003 and 2002 and
+ the period July 13, 1987 (date of inception)
+ through November 30, 2003 (unaudited) 5
+
+ Statements of Cash Flows for the
+ Three Months ended November 30, 2003 and 2002
+ and the period July 13, 1987 (date of inception)
+ through November 30, 2003 (unaudited). 6
+
+ Notes to Unaudited Financial Statements 9
+
+Item 2. Management's Discussion and Analysis of
+ Financial Condition and Results of Operations 9
+
+Item 3. Controls and Procedures 11
+
+Part II - OTHER INFORMATION
+
+Item 1. Legal 11
+
+Item 6. Exhibits and Reports on Form 8-K
+
+ Signatures 12
+
+ Certification of Financial Information 13
+
+ Sarbanes-Oxley Act Section 906 Certification Exhibit 1
+
+Page 2
+
+PART I - FINANCIAL INFORMATION
+
+ITEM 1. FINANCIAL STATEMENTS
+
+ NOFIRE TECHNOLOGIES, INC.
+ (A Development Stage Company)
+
+ BALANCE SHEETS
+
+November 30, August 31,
+ 2003 2003
+ ----------- ----------
+ (UNAUDITED)
+
+ ASSETS
+
+CURRENT ASSETS:
+ Cash 27,425 197,161
+ Accounts receivable - trade 36,325 59,353
+ Inventories 96,567 54,067
+ Prepaid expenses and other current assets 46,820 46,747
+ Receivable for sale of tax loss
+ carry forward 43,290 -
+ --------- ----------
+ Total Current Assets 250,427 357,328
+ --------- ----------
+EQUIPMENT, less accumulated depreciation 5,914 6,495
+ --------- ----------
+OTHER ASSETS:
+ Patents, less accumulated amortization of
+ 1,524,665 at November 30, 2003 and
+ 1,523,013 at August 31, 2003 8,366 10,018
+ Security deposits 24,879 19,379
+ ---------- ---------
+ 33,245 29,397
+ ---------- ---------
+ 289,586 393,220
+ ========== ==========
+
+See accompanying notes to financial statements
+ Page 3
+
+NOFIRE TECHNOLOGIES, INC.
+ (A Development Stage Company)
+
+ BALANCE SHEETS
+
+ November 30, August 31,
+ 2003 2003
+ ----------- ----------
+ (UNAUDITED)
+
+ LIABILITIES AND STOCKHOLDERS' EQUITY
+ (DEFICIENCY)
+
+CURRENT LIABILITIES:
+ Settled liabilities 1,168,718 1,168,718
+ Accounts payable and accrued expenses 724,276 830,287
+ Loans and advances payable to
+ stockholders 9,970 16,470
+ Deferred salaries 1,376,401 1,362,743
+ Loans payable 204,652 204,652
+ Convertible Debentures 8 430,000 200,000
+ ---------- ---------
+ Total Current Liabilities 3,914,017 3,782,870
+ ---------- ---------
+
+LOAN PAYABLE 88,811 88,811
+
+COMMITMENTS AND CONTINGENCIES
+
+STOCKHOLDERS' EQUITY (DEFICIENCY):
+ Common stock .20 par value:
+ Authorized - 50,000,000 shares
+ Issued and outstanding -20,939,019
+ shares at November 30, 2003 and
+ August 31, 2003 4,187,804 4,187,804
+ Capital in excess of par value 4,138,757 4,000,757
+ Deficit accumulated in the development
+ stage (12,039,803) (11,667,022)
+ ---------- ----------
+ Total Stockholders' Equity (Deficiency) (3,713,242 (3,478,461)
+ ---------- ----------
+ 289,586 393,220
+ ========== ==========
+
+See accompanying notes to financial statements
+
+Page 4
+
+NOFIRE TECHNOLOGIES, INC.
+ (A Development Stage Company)
+
+ STATEMENTS OF OPERATIONS
+ July 13, 1987
+ (Date of
+ For the Three Months Inception)
+ Ended November 30, through
+ 2003 2002 November 30, 2003
+ ---------- ------ ----------
+ (UNAUDITED) (UNAUDITED)
+
+NET SALES 73,443 101,593 1,803,427
+ ---------- ---------- ----------
+COSTS AND EXPENSES:
+ Cost of sales 30,683 52,636 941,114
+ Write-down of excess inventory - - 55,000
+ General and administrative 299,266 238,617 15,328,549
+ ---------- ---------- ----------
+ 329,949 291,253 16,324,663
+ ---------- --------- ----------
+LOSS FROM OPERATIONS (256,506) (189,660) (14,521,236)
+ ---------- ---------- ----------
+OTHER EXPENSES:
+ Interest expense 159,640 37,088 1,913,921
+ Interest income 75) (75) (24,515)
+ Reorganization items - - 365,426
+ Litigation settlement - - 198,996
+ ---------- ---------- ----------
+ 159,565 37,013 2,453,828
+ ---------- ---------- ----------
+LOSS BEFORE DISCONTINUED OPERATION
+ AND EXTRAORDINARY ITEM (416,071) (226,673) (16,975,064)
+
+DISCONTINUED OPERATIONS - - (1,435,392)
+ ---------- ---------- ----------
+LOSS BEFORE EXTRAORDINARY ITEM (416,071) (226,673) (18,410,456)
+
+EXTRAORDINARY ITEM - Gain on
+ debt discharge - - 507,952
+ ---------- ---------- ----------
+LOSS BEFORE INCOME TAXES (416,071) (226,673) (17,902,504)
+
+DEFERRED INCOME TAX BENEFIT 43,290 179,719 636,574
+ ---------- ---------- ----------
+NET LOSS (372,781) (46,954) (17,265,930)
+ ========== ========== ==========
+
+WEIGHTED AVERAGE COMMON SHARES
+ OUTSTANDING 20,939,019 20,627,530
+ ========== ==========
+
+BASIC AND DILUTED EARNINGS LOSS
+ PER COMMON SHARE (0.02) (0.00)
+ ========== ==========
+
+See accompanying notes to financial statements
+
+ Page 5
+
+NOFIRE TECHNOLOGIES, INC.
+ (A Development Stage Company)
+
+ STATEMENTS OF CASH FLOWS
+
+July 13, 1987
+ (Date of
+ For the Three Months Inception)
+ Ended November 30, through
+ 2003 2002 November 30, 2003
+ --------- --------- ----------
+ (UNAUDITED) (UNAUDITED)
+
+CASH FLOWS FROM OPERATING ACTIVITIES:
+ Net loss (372,781) (46,954) (17,265,930)
+ Adjustments to reconcile net loss to
+ net cash flows from operating activities:
+ Depreciation and amortization 2,233 2,234 1,846,114
+ Extraordinary gain on debt discharge - - (507,952)
+ Amortization of interest expense for
+ settled liabilities - - 634,522
+ Amortization of interest expense for
+ discount on convertible debentures 138,000 - 298,000
+
+ Amortization of interest expense for
+ discount on note payable - - 38,781
+ Revaluation of assets and liabilities
+ to fair value - - 482,934
+ Litigation settlement - - 198,996
+ Common stock issued in exchange for
+ services - (44,000) 141,780
+ Repricing of warrants -
+ Write-down of excess inventory - - 55,000
+ Warrants issued for consulting services - - 25,000
+ Changes in operating assets and liabilities
+ (net of effects from reverse purchase
+ acquisition)
+ Accounts receivable - trade 23,028 23,668 (36,325)
+ Inventories (42,500) 16,800 (151,567)
+ Prepaid expenses (73) 11,526 (46,820)
+ Receivable for sale of state
+ tax loss carryforward (43,290) (179,719) 43,290)
+ Accounts payable and accrued expenses(106,011) 60,012 3,561,459
+ Security deposits (5,500) - (24,879)
+ Deferred salaries 13,658 82,537 1,376,701
+ Obligation from discontinued
+ operations - - 51,118
+ ---------- --------- ----------
+ Net cash flows from operating activities (393,236) (73,896) (9,230,711)
+ ---------- --------- ----------
+
+CASH FLOWS FROM INVESTING ACTIVITIES:
+ Purchase of equipment - - (40,712)
+ Increase in patent costs - - (164,320)
+ Acquisition accounted for as a
+ reverse purchase - - (517,893)
+ ----------- --------- ----------
+Net cash flows from investing activities - - (722,925)
+ ----------- --------- ----------
+
+See accompanying notes to financial statements
+
+Page 6
+
+NOFIRE TECHNOLOGIES, INC.
+ (A Development Stage Company)
+
+ STATEMENTS OF CASH FLOWS
+
+July 13,1987
+ (Date of
+ For the Three Months Inception)
+ Ended November 30, through
+ 2003 2002 November 30, 2003
+ --------- --------- ----------
+ 
+ (UNAUDITED) (UNAUDITED)
+CASH FLOWS FROM FINANCING ACTIVITIES:
+ Proceeds from long-term debt - - 1,506,113
+ Principal payments on notes payable - - (75,000)
+ Principal payment on settled liabilities - - (2,884,416)
+ Proceeds from issuance of common stock,
+ net of related expenses - - 8,724,943
+ Payments on advances from stockholders (6,500) - (67,250)
+ Loans and advances from stockholders - - 79,053
+ Interest accrued on loans from
+ stockholders - - (8,053)
+ Proceeds from issuance of convertible
+ debentures 230,000 - 2,366,002
+ Proceeds from short-term loans - 75,000 293,463
+ ---------- ---------- ---------
+Net cash flows from financing activities 223,500 75,000 9,981,061
+ ---------- ---------- ---------
+NET CHANGE IN CASH (169,736) 1,104 27,425
+
+CASH AT BEGINNING OF PERIOD 197,161 483 -
+ ---------- ---------- ----------
+CASH AT END OF PERIOD 27,425 1,587 27,425
+ ========== ========== ==========
+
+SUPPLEMENTAL CASH FLOW INFORMATION
+
+Interest paid 1,154 - 81,407
+ ========== ========== ==========
+
+Income taxes paid (received) - - (593,284)
+ ========== ========== ==========
+
+Common stock issued in exchange
+ for settlement of debt - - 2,439,816
+ ========== ========== ==========
+
+Common stock issued in exchange
+ for subscriptions receivable - - 95,000
+ ========== ========== ==========
+
+Common stock issued in exchange for
+ services - - 131,700
+ ========== ========== ==========
+
+See accompanying notes to financial statements
+
+Page 7
+
+NOFIRE TECHNOLOGIES, INC.
+ (A Development Stage Company)
+
+ NOTES TO THE FINANCIAL STATEMENTS
+ (Unaudited)
+
+ November 30, 2003
+
+NOTE 1 - Basis of Presentation:
+
+The balance sheet at the end of the preceding fiscal year has been derived
+from the audited balance sheet contained in the Company's Form 10-KSB for the
+year ended August 31, 2003 (the "10-KSB") and is presented for comparative
+purposes. All other financial statements are unaudited. In the opinion of
+management, all adjustments which include only normal recurring adjustments
+necessary to present fairly the financial position, results of operations and
+cash flows for all periods presented have been made. The results of
+operations for interim periods are not necessarily indicative of the operating
+results for the full year.
+
+Footnote disclosures normally included in financial statements prepared in
+accordance with accounting principles generally accepted in the United States
+of America have been omitted in accordance with the published rules and
+regulations of the Securities and Exchange Commission. These financial
+statements should be read in conjunction with the financial statements and
+notes thereto included in the 10-KSB for the most recent fiscal year.
+
+Loss per Share - Loss per share is based on the weighted average number of
+shares outstanding during the periods. The effect of warrants outstanding
+is not included since it would be anti-dilutive.
+
+NOTE 2 - Reorganization:
+
+The Company owned 89 of the outstanding common stock of both No Fire Ceramic
+Products, Inc. and No Fire Engineering, Inc. together with an option to
+acquire the remaining 11 of such stock. Both of those subsidiaries were
+dissolved during the fiscal year ended August 31, 1997.
+
+Under a Chapter 11 proceeding, the Bankruptcy Court confirmed a Plan of
+Reorganization for the Company which became effective on August 11, 1995.
+Claims of creditors, to the extent allowed under the Plan, were required to be
+paid over a four-year period.
+
+NOTE 3 - Management's Actions to Overcome Operating and Liquidity
+ Problems:
+
+The Company's financial statements have been presented on the going concern
+basis which contemplates the realization of assets and the satisfaction of
+liabilities in the normal course of business. The Company's viability as a
+going concern is dependent upon its ability to achieve profitable operations
+through increased sales and/or obtaining additional financing. Without
+achieving these, there is substantial doubt about the Company's ability to
+continue as a going concern.
+
+The Company has a liability for settled claims payable to creditors in
+connection with its reorganization under the Plan. Without the achievement
+of profitable operations or additional financing, funds for repayment would
+not be available.
+Page 8
+
+NOFIRE TECHNOLOGIES, INC.
+ (A Development Stage Company)
+
+ NOTES TO THE FINANCIAL STATEMENTS
+ (Unaudited)
+
+ November 30, 2003
+
+Management believes that successful passing of stringent tests, obtaining
+various civil and government approvals, and actions it has undertaken to
+revise the Company's operating and marketing structure should provide it
+with the opportunity to generate revenues needed to realize profitable
+operations and to attract the necessary financing and/or capital for the
+payment of outstanding obligations.
+
+NOTE 4 - CONVERTIBLE DEBENTURES:
+
+ Between September and November 2003, the Company issued to six
+accredited investors, 230,000 of convertible debentures which mature
+between May and October 2004 bearing interest at 8 . The debentures,
+entitle the holders, to convert the debt into common stock at a rate of
+one share for each 0.30 principal amount plus any outstanding accrued
+interest. In conjunction with this transaction, the Company issued
+warrants to the six investors, to purchase a total of 1,165,000 shares
+of the Company's common stock for 0.30- 0.32, expiring in five years.
+The warrants vested immediately.
+
+ The value, attributed to the warrants issued along with the debenture
+transactions above, totaling 138,000, has been charged to interest expense.
+
+ During the quarter ended November 30, 2003 warrants for the purchase of
+1,330,250 shares of the Company's common stock expired unexercised.
+
+Note 5- STOCK-BASED COMPENSATION
+
+ The Company follows the intrinsic value method of Accounting Principles
+Board Opinion No. 25, "Accounting for Stock Issued to Employees" (APB 25) and
+related interpretations in accounting for its employee stock options because,
+in the opinion of management, Financial Accounting Standards Board Statement
+No. 123, Accounting for Stock-Based Compensation" (FAS 123) requires use of
+option valuation models that were not developed for use in valuing employee
+stock options. FAS 123 permits a company to elect to follow the intrinsic
+value method of APB 25 rather than the alternative fair value accounting
+provided under FAS 123, but requires pro forma net income (loss) and earnings
+(loss) per share disclosures as well as various other disclosures. The
+Company has adopted the disclosure provisions required under Financial
+Accounting standards Board Statement No. 148, "Accounting for Stock-Based
+Compensation Transition and Disclosure " (FAS 148).
+
+ There were no awards of stock-based compensation granted or outstanding
+during the 3 months ended November 30,2003 and 2002.
+
+NOTE 6- SUBSEQUENT EVENTS
+
+ In December of 2003 the Company issued five-year warrants to purchase a
+total of 165,000 shares of the Company's common stock to three employees and
+two individual at an exercise price of 0.30 per share. The warrants
+vested immediately.
+
+ In December 2003, warrants for the purchase of 1,458,000 shares of the
+Company's common stock expired unexercised.
+
+Page 9
+
+ITEM 2. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND
+ RESULTS OF OPERATIONS
+
+GENERAL
+
+The Company continued its product development and application testing, and now
+has numerous certifications for specific applications. Since August 1995, the
+Company has applied for eight patents, five of which have been issued. The
+other three are pending. Additionally, one patent has been purchased by the
+Company. The Company has been increasing its marketing efforts
+principally by retaining the services of specialized distribution firms. The
+Company's management believes that marketing efforts to date have brought the
+Company closer to achieving greater sales for applications in many diverse
+industries including: military, maritime, wood products, structural steel and
+nuclear power plants. Significant tests have been passed and approvals
+received to qualify the Company's products in naval and other military and
+governmental applications. Aggressive marketing efforts are underway to
+obtain orders in these applications. Obstacles encountered in obtaining
+orders for most applications are the continuing tests and approvals required,
+competition against well established and better capitalized companies, cost,
+the slow process of specifying new products in highly regulated industrial
+applications, and the decisions not to use any fire retardant product.
+
+In general, the Company's products perform their intended uses well and are
+in a form that is safe and easy to use. The Company's most pressing need
+continues to be cash infusion as discussed below in the section on Liquidity
+and Capital Resources. The Company is limiting its research and development
+efforts in order to concentrate on sales of existing products. While new
+market opportunities frequently arise, the Company has opted to concentrate
+on targeting sales of present products rather than developing new products.
+Efforts to establish additional U.S. distributors are being accelerated.
+Additional efforts are also being directed to increase international sales
+by establishing distributor relationships in strategic locations throughout
+the industrialized world.
+
+The number of manufacturing and quality control employees will increase with
+increased production. The salaried administrative and marketing staff will be
+evaluated and may be increased to support sales and marketing initiatives.
+Additional support for direct sales is expected to be provided by independent
+commission agents or employees compensated principally by commission.
+
+COMPARISON THREE MONTHS ENDED NOVEMBER 30, 2003 AND NOVEMBER 30, 2002
+
+Sales of 73,443 for the three months ended November 30, 2003 represented an
+decrease of 28 from the 101,593 for the comparable three-month period of the
+prior year. Cost of goods sold during the same periods decreased 42 from
+ 52,636 to 30,683 resulting in a gross profit of 42,760 compared to 48,957
+in the prior year. Selling, general and administrative expenses for the three
+months ended November 30, 2003 was 299,266, representing an increase of
+ 60,649 or 25 from the 238,617 of the similar period of the prior year.
+The most significant changes were increases of 26,000 in professional fees
+and 44,000 in the repricing of warrants and decreases of 32,000 in officer's
+salaries.
+
+Page 10
+
+During the quarters ended November 30, 2003 and 2002 the Company realized
+approximately 43,000 and 180,000, respectively, through the sale of a
+portion of its New Jersey Net Operating Loss Carry Forward under a program
+sponsored by that state.
+
+LIQUIDITY AND CAPITAL RESOURCES
+
+At November 30, 2003 the Company had cash balances of 27,425. In order to
+fund continuing operations during the three months ended on that date,
+the Company issued to six accredited investors 230,000 worth of
+convertible debentures which mature between September and November 2004
+bearing interest at 8 . The debentures entitles the holders,
+to convert the debt into common stock at a rate of one share for each
+ 0.30 principal amount plus any outstanding accrued interest.
+
+The Company has deferred payment of 1,168,718 of the installments of the
+Chapter 11 liability to unsecured creditors that were due in September 1996,
+1997, 1998 and 1999. Of that deferred amount, 790,686 is due to officers and
+directors of the Company. In order to pay those liabilities and meet working
+capital needs until significant sales levels are achieved, the Company will
+continue to explore alternative sources of funding including exercise of
+warrants, bank and other borrowings, issuance of convertible debentures,
+issuance of common stock to settle debt, and the sale of equity securities in
+a public or private offering. There is no assurance that the Company will be
+successful in securing requisite financing.
+
+Item 3. Controls and Procedures
+
+Within the 90-day period prior to the date of this report, our Chief Executive
+Officer and Chief Financial Officer performed an evaluation of our disclosure
+controls and procedures, which have been designed to permit us to effectively
+identify and timely disclose important information. They concluded that the
+controls and procedures were effective. Since the date of the evaluation, we
+have made no significant changes in our internal controls or in other factors
+that could significantly affect our internal controls.
+
+PART II. OTHER INFORMATION
+
+Item 1. Legal Proceedings
+
+ None
+
+ITEM 6. EXHIBITS AND REPORTS ON FORM 8-K
+
+Exhibit 1- Sarbanes-Oxley Act Section 906 Certification
+
+No reports on Form 8-K were filed during the quarter ended November 30, 2003.
+Page 11
+
+SIGNATURES
+
+In accordance with the requirements of the Exchange Act, the registrant
+caused this report to be signed on its behalf by the undersigned,
+thereunto duly authorized.
+
+Dated: January 16,2004 NoFire Technologies, Inc.
+
+By: /s/ Samuel Gottfreid
+ Sam Gottfreid
+ Chief Executive Officer
+
+By: /s/ Sam Oolie
+ Sam Oolie
+ Chairman of the Board,
+ Chief Financial Officer
+
+Page 12
+
+I, Sam Oolie, certify that:
+
+1. I have reviewed this annual report on Form 10-KSB of
+NoFire Technologies, Inc.;
+
+2. Based on my knowledge, this annual report does not
+contain any untrue statement of a material fact or omit
+to state a material fact necessary to make the statements
+made, in light of the circumstances under which such
+statements were made, not misleading with respect to the
+period covered by this annual report;
+
+3. Based on my knowledge, the financial statements, and
+other financial information included in this annual
+report, fairly present in all material respects the
+financial condition, results of operations and cash flows
+of
+the registrant as of, and for, the periods presented in
+this annual report;
+
+4. The registrant's other certifying officers and I are
+responsible for establishing and maintaining disclosure
+controls and procedures (as defined in Exchange Act Rules
+13a-14 and 15d-14) for the registrant and have:
+
+ a) designed such disclosure controls and procedures to
+ensure that material information relating to the
+registrant, including its consolidated subsidiaries, is
+made known to us by others within those entities,
+particularly during the period in which this annual report
+is being prepared;
+
+ b) evaluated the effectiveness of the registrant's
+disclosure controls and procedures as of a date within 90
+days prior to the filing date of this annual report (the
+"Evaluation Date"); and
+
+ c) presented in this annual report our conclusions about
+the effectiveness of the disclosure controls and procedures
+based on our evaluation as of the Evaluation Date;
+
+5. The registrant's other certifying officers and I have
+disclosed, based on our most recent evaluation, to the
+registrant's board of directors (or persons performing the
+equivalent functions):
+Page 13
+
+a) all significant deficiencies in the design or
+operation of internal controls which could adversely affect
+the registrant's ability to record, process, summarize and
+report financial data and have identified auditors any
+material weaknesses in internal controls; and
+ b) any fraud, whether or not material, that involves
+management or other employees who have a significant role
+in the registrant's internal controls; and
+6. The registrant's other certifying officers and I
+indicated in this quarterly report that there were no
+significant changes in internal controls or in other
+factors that could significantly affect internal control
+subsequent to the date of our most recent evaluation,
+including any
+corrective actions with regard to significant deficiencies
+and material weaknesses.
+
+Date: January 16, 2004 /s/Sam Oolie
+ -------------
+- --------------
+ Sam Oolie,
+
+ Chief Financial Officer
+
+Page 14
+
+I, Samuel Gottfried certify that:
+
+1. I have reviewed this annual report on Form 10-KSB of
+NoFire Technologies, Inc.;
+
+2. Based on my knowledge, this annual report does not
+contain any untrue statement of a material fact or omit to
+state a material fact necessary to make the statements
+made, in light of the circumstances under which such
+statements were made, not misleading with respect to the
+period covered by
+this annual report;
+
+3. Based on my knowledge, the financial statements, and
+other financial information included in this annual
+report, fairly present in all material respects the
+financial condition, results of operations and cash flows
+of
+the registrant as of, and for, the periods presented in
+this annual report;
+
+4. The registrant's other certifying officers and I are
+responsible for establishing and maintaining disclosure
+controls and procedures (as defined in Exchange Act Rules
+13a-14 and 15d-14) for the registrant and have:
+
+ a) designed such disclosure controls and procedures to
+ensure that material information relating to the
+registrant, including its consolidated subsidiaries, is
+made known to us by others within those entities,
+particularly during the period in which this annual report
+is being prepared;
+
+ b) evaluated the effectiveness of the registrant's
+disclosure controls and procedures as of a date within 90
+days prior to the filing date of this annual report (the
+"Evaluation Date"); and
+
+ c) presented in this annual report our conclusions about
+the effectiveness of the disclosure controls and procedures
+based on our evaluation as of the Evaluation Date;
+
+5. The registrant's other certifying officers and I have
+disclosed, based on our most recent evaluation, to the
+registrant's board of directors (or persons performing the
+equivalent functions):
+Page 15
+
+a) all significant deficiencies in the design or
+operation of internal controls which could adversely affect
+the registrant's ability to record, process, summarize and
+report financial data and have identified for the
+registrant's auditors any material weaknesses in internal
+controls; and
+
+ b) any fraud, whether or not material, that involves
+management or other employees who have a significant role
+in the registrant's internal controls; and
+
+6. The registrant's other certifying officers and I have
+indicated in this
+annual report whether there were significant changes in
+internal controls or in other factors that could
+significantly affect internal controls subsequent to the
+date of our most recent evaluation, including any
+corrective actions with regard to significant deficiencies
+and material
+weaknesses.
+
+Date: January 16,2004 /s/ SamuelGottfreid
+ ---------------------
+ Samuel Gottfreid
+ --------------------
+ Chief Executive Officer
+
+Page 16
+
+CERTIFICATION
+
+Pursuant to section 906 of the Sarbanes-Oxley Act of 2002 (subsections (a) and
+(b) of section 1350, chapter 63 of title 18, United States Code), each of the
+undersigned officers of NoFire Technologies, Inc., a Delaware corporation (the
+company), does hereby certify, to the best of such officer's knowledge and
+belief, that:
+
+ The Quarterly Report on Form 10-QSB for the Quarter ended November 30,
+ 2003 of the Company fully complies with the requirements of section 13
+ (a) or 15 (d) of the Securities Exchange Act of 1934: and
+
+ The information contained in the Form 10-QSB fairly presents in all
+
+ material respects, the financial condition and results of operations of
+ the Company.
+
+Dated: January 16, 2004 /s/ Samuel Gottfreid
+ -------------------
+ Chief Executive Officer
+
+Dated:	January 16, 2004 /s/ Sam Oolie
+ -----------------------
+ Chief Financial Officer
+
+EXHIBIT 1
+

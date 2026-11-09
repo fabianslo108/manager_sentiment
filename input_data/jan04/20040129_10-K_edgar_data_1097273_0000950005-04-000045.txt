@@ -1,0 +1,2284 @@
+<Header>
+<FileStats>
+    <FileName>20040129_10-K_edgar_data_1097273_0000950005-04-000045.txt</FileName>
+    <GrossFileSize>137258</GrossFileSize>
+    <NetFileSize>102061</NetFileSize>
+    <NonText_DocumentType_Chars>0</NonText_DocumentType_Chars>
+    <HTML_Chars>849</HTML_Chars>
+    <XBRL_Chars>0</XBRL_Chars>
+    <XML_Chars>0</XML_Chars>
+    <N_Exhibits>4</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0000950005-04-000045.hdr.sgml : 20040129
+<ACCEPTANCE-DATETIME>20040129162654
+ACCESSION NUMBER:		0000950005-04-000045
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		5
+CONFORMED PERIOD OF REPORT:	20031031
+FILED AS OF DATE:		20040129
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			M B A HOLDINGS INC
+		CENTRAL INDEX KEY:			0001097273
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-BUSINESS SERVICES, NEC [7389]
+		IRS NUMBER:				870522680
+		STATE OF INCORPORATION:			NV
+		FISCAL YEAR END:			1031
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-28221
+		FILM NUMBER:		04552819
+
+	BUSINESS ADDRESS:	
+		STREET 1:		9419 E SAN SALVADOR
+		STREET 2:		SUITE 105
+		CITY:			SCOTTSDALE
+		STATE:			AZ
+		ZIP:			85258-5510
+		BUSINESS PHONE:		480-860228
+
+	MAIL ADDRESS:	
+		STREET 1:		9419 E SAN SALVADOR
+		STREET 2:		SUITE 105
+		CITY:			SCOTTSDALE
+		STATE:			AZ
+		ZIP:			85258-5510
+
+</SEC-Header>
+</Header>
+
+ 
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ NMXGEW8uI+ArrqhnrULgSfxeZ9UlQl44HIydx9Cy3gcCoMQA18HF6PcqC6V+nFLJ
+ no2oDgC+Dtv8ZW4Z/f3EJQ==
+
+ 0000950005-04-000045.txt : 20040129
+
+10-K
+ 1
+ p18111_10k.txt
+ FORM 10-K
+ 
+ UNITED STATES
+ SECURITIES AND EXCHANGE COMMISSION
+ WASHINGTON, D.C. 20549
+
+ FORM 10-K
+
+(Mark One)
+
+(X) ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE
+ ACT OF 1934
+
+For the fiscal year ended October 31, 2003
+
+ OR
+ ) TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE
+ ACT OF 1934
+
+For the transition period from _____________________ to______________________
+
+Commission file number
+
+M.B.A. HOLDINGS, INC.
+ (Exact name of business issuer as specified in its charter)
+
+ Nevada 87-0522680
+ (State or other jurisdiction of (I.R.S. Employer
+ incorporation or organization) Identification No.)
+
+ 9419 E. San Salvador, Suite 105
+ Scottsdale, Arizona 85258-5510
+(Address of principal executive offices) (Zip Code)
+
+Registrant's telephone number, including area code (480) 860-2288
+
+Securities registered under Section 12(b) of the Exchange Act: None.
+
+Securities registered under Section 12(g) of the Exchange Act:
+ Common Stock, .001 par value
+ (Title of class)
+
+Indicate by check mark whether the issuer (1) filed all reports required to be
+filed by Section 13 or 15(d) of the Exchange Act during the past 12 months (or
+for such shorter period that the registrant was required to file such reports),
+and (2) has been subject to such filing requirements for the past 90 days. Yes
+[X] No [ ].
+
+Indicate by check mark if disclosure of delinquent filers pursuant to Item 405
+of Regulation S-K (ss. 229.405of this chapter) is not contained herein, and will
+not be contained, to the best of registrant's knowledge, in definitive proxy or
+information statements incorporated by reference in Part III of this Form 10-K
+or any amendment to this Form 10-K. [ ]
+
+State the aggregate market value of the voting and non-voting common equity held
+by non-affiliates of the registrant. The aggregate market value shall be
+computed by reference to the price at which the common equity was sold, or the
+average bid and asked prices of such common equity, as of a specified date
+within 60 days prior to the date of filing. As of December 31, 2003, the
+aggregate market value non-affiliates of the registrant as reported on NASDAQ,
+was 468,520.
+
+Indicate the number of shares outstanding of each of the registrant's classes of
+common stock, as of the latest practicable date.
+
+As of December 31, 2003, there were 2,061,787 shares of the issuer's common
+stock issued and 2,030,187 outstanding.
+
+DOCUMENTS INCORPORATED BY REFERENCE
+
+List hereunder the following documents if incorporated by reference and the Part
+of the Form 10-K (e.g., Part I, Part II, etc.) into which the document is
+incorporated: (1) Any annual report to security holders; (2) Any proxy or
+information statement; and (3) Any prospectus filed pursuant to Rule 42(b) or
+(c) or under the Securities Act of 1933. The listed documents should be clearly
+described for identification purposes (e.g., annual report to security holders
+for the fiscal year ended December 24, 1980). None
+
+ Part I
+
+Item 1. Business
+
+M.B.A. Holdings, Inc. (the "Company"), through its wholly owned subsidiary,
+Mechanical Breakdown Administrators, Inc., markets and administers vehicular
+mechanical breakdown insurance ("MBI") policies and sells contracts for repair
+services to vehicles ("VSCs"). The MBI policies and VSC contracts are for the
+repair of automobiles, light trucks, recreational vehicles, motorcycles, boats
+and certain automotive components.
+
+MECHANICAL BREAKDOWN INSURANCE
+
+The Company acts as an agent for insurance companies and sells their MBI
+policies. In addition, it provides marketing educational/support services and
+arranges for sub-agents to sell the policies. After the sale, the Company
+provides third-party administrative policy services (claims adjudication,
+cancellation processing and technical computer services) for policies sold by
+the Company or its sub-agents. The MBI policies are contracts of insurance for
+repair services to vehicles that are entered into between the insurance
+companies and the ultimate consumer/purchaser. The insurance company is directly
+liable for the costs of claims that arise under the terms of the insurance
+policy. The Company currently has agency and/or servicing agreements with
+American Bankers Insurance Group of Florida, Kemper Cost Management, Inc.,
+Heritage Warranty Mutual Insurance RRG, Inc., Fireman's Fund Insurance Company
+and American Security Insurance Company.
+
+MBI policies have terms that range from twelve (12) to eighty-four (84) months
+and generally contain elapsed mileage limitations. Actual repairs or
+replacements covered by the policies are made by independent repair facilities.
+The costs of the repairs remain the responsibility of the insurance company that
+provided the MBI policy.
+
+The policy premium has been established by the insurance companies and agreed to
+by the Company and insurance regulators. In general, at the time an MBI policy
+is sold, approximately 51 - 60 of the premium is retained by the insurance
+company, approximately 20 -36 of the premium is paid to the sub-agent (if
+applicable). The remainder is paid to the Company as its sales commission and
+fee for providing administrative policy services.
+
+For the years ended October 31, 2003, 2002, and 2001, the net revenues related
+to sales and servicing of MBI policies represented approximately 50 , 71 and
+64 , respectively, of the Company's net revenues less direct acquisition costs
+of vehicle service contracts.
+
+VEHICLE SERVICE CONTRACTS
+
+The Company markets and administers VSC programs that supplement the
+manufacturer's warranty and enhance the profitability of the sale of
+automobiles, light trucks, recreational vehicles, motorcycles, boats and
+automotive components. These contracts are sold principally through dealerships.
+A VSC is a contract between the Company and the consumer/purchaser that offers
+repair coverage for periods ranging from one (1) to eighty-four (84) months
+and/or with mileage limitations ranging from 1,000 to 100,000 miles. The
+coverage is for a broad range of possible failures of mechanical components that
+may occur during the term of the contract. The coverage is supplemental to the
+manufacturers' warranty. The Company is primarily responsible for the
+administration of the contract and related claims during the life of the
+contract.
+
+At the time a VSC is sold, the Company purchases an insurance policy that
+insures its' liability. This coverage provides indemnification to the Company
+against loss resulting from service contract claims. The insurance protection is
+provided by highly rated independent insurance companies including Heritage
+Warranty Mutual Insurance RRG, Inc. and Fireman's Fund Insurance Company.
+
+2
+
+For the years ended October 31, 2003, 2002, and 2001, the net VSC revenues less
+direct acquisition costs related to sales and servicing of VSCs represented
+approximately 50 , 29 and 36 , respectively, of the Company's total net
+revenues less direct acquisition costs of vehicle service contracts. The
+relative increase in VSC revenues as a percent of total business written is the
+result of the Company's ability to establish selling agency relationships with
+Internet direct marketers like Consumers' Guide and to increases in the
+Company's direct Internet sales.
+
+VIRTUAL PRIVATE NETWORK
+
+The Company has developed a computerized sales system using the Internet that it
+calls its Virtual Private Network ("VPN"). The VPN enables financial
+institutions, dealerships and the general public to obtain individualized
+policy/contract pricing using their personal computer. The system user provides
+the VPN with the vehicle identification number of the vehicle being insured
+together with a few other specific data items. The VPN returns an accurate
+premium quotation and provides the customer with the ability to purchase the
+policy/contract on line. When an Internet purchase is made, the system transmits
+the completed application, approval and policy data directly to the financial
+institution/dealership/purchaser and prints the insurance policy itself on an
+on-site printer. The information gathered in the quotation process is
+transmitted directly to the Company's policy management system. Payments for
+Internet sales are accomplished either by credit card or by a billing to the
+financial institution/dealership.
+
+SIGNIFICANT CUSTOMERS
+
+In 2003, a national insurance brokerage firm accounted for 2,433,000 of VSC
+sales while another major customer accounted for 1,673,000 of 2003 VSC sales.
+These two firms combined accounted for 77 of all 2003 VSC sales. The Company
+services these accounts under contracts that are subject to renewal annually.
+
+COMPETITION
+
+M.B.A. Holdings, Inc. competes with a number of independent administrators,
+divisions of distributors, manufacturers, financial institutions and insurance
+companies. While the Company believes that it occupies a strong position among
+competitors in its field, it is not the largest marketer and administrator of
+MBIs and VSCs. Some competitors have greater operating experience, more
+employees and/or greater financial resources. Furthermore, many manufacturers of
+motor vehicles market and administer their own VSC programs for and through
+their captive dealers.
+
+SALES AND MARKETING
+
+The Company maintains its own staff of sales and marketing personnel. This
+individual conducts the sales training and motivational programs that are the
+primary form of specialized assistance provided by the Company to its
+retailers/dealers and financial institutions. As an adjunct to these programs,
+the Company develops the training materials that are used at these educational
+seminars. In addition, the Company markets its products directly to consumers
+through its VPN and through selected automobile magazine advertisements.
+
+The number of policies and contracts sold annually during the last three fiscal
+years are:
+
+ Number of
+Time Period Policies and Contracts
+- ----------- --------------------------
+For the twelve months ended October 31, 2003 4,858
+For the twelve months ended October 31, 2002 8,130
+For the twelve months ended October 31, 2001 15,847
+
+The decline in the numbers of policies and contracts sold is due to a loss of
+market share by the Company's associated credit unions. This loss was due to
+increased competition for the financing of vehicle sales and the extended
+warranties that are sold at the time of financing. The loans by the vehicle
+manufacturers including zero interest rate loans and cash refunds have changed
+the manner in which vehicle buyers finance their purchases of both the vehicle
+and the extended warranty program. Furthermore, recent federal privacy
+legislation has forced the
+
+3
+
+Company to eliminate its' very successful direct mail program. The Company is no
+longer able to obtain customer information from state vehicle licensing bureaus
+and is therefore unable to mail the marketing literature.
+
+The Company will continue to look for ways to increase sales including strategic
+alliances with vehicle sellers and others, the inclusion of other types of
+mechanical equipment such as watercraft and off-road vehicles and the further
+expansion of its VPN system to more directly reach the ultimate consumer with
+its product information.
+
+FEDERAL AND STATE REGULATION
+
+Federal law and the statutes of most states regulate the MBI and VSC programs
+that are developed and marketed by the Company. The Company continually reviews
+all existing and proposed statutes and regulations to ascertain their
+applicability to its existing and future operations. Generally, these state laws
+regulate the type of coverage that is allowed to be offered within that state.
+
+The Company or its principals are licensed in the following states: Alabama,
+Arizona, California, Colorado, Connecticut, Delaware, Florida, Georgia, Idaho,
+Illinois, Indiana, Iowa, Kansas, Kentucky, Louisiana, Maine, Maryland,
+Massachusetts, Michigan, Minnesota, Mississippi, Missouri, Montana, Nebraska,
+Nevada, New Hampshire, New Jersey, New Mexico, New York, North Carolina, North
+Dakota, Ohio, Oklahoma, Oregon, Pennsylvania, South Carolina, South Dakota,
+Tennessee, Texas, Utah, Washington, West Virginia, Wisconsin, and Wyoming.
+
+The Company makes every effort to comply with all applicable statutes and
+regulations. Nevertheless, it cannot be assured that its interpretations, if
+challenged, would be upheld by a court or regulatory body. On every occasion
+that the Company has been notified that it is not in compliance with state
+regulation, the Company has been able to take the steps necessary to achieve
+compliance. The Company has recently been notified by the state of Arizona that
+certain changes will be required in order to continue sales in that state. The
+Company is working with Arizona Department of Insurance officials to find ways
+to meet Arizona's requirements.
+
+In the event the Company's authorization to do business in a specific state is
+challenged successfully, the Company may be required to cease operations in that
+state and could suffer financial sanctions. These actions, should they occur,
+could have materially adverse consequences and could affect the Company's
+ability to continue operating. However, within the framework of current
+statutes, the Company does not believe that this is a present concern.
+
+EMPLOYEES
+
+The Company and its subsidiary employed 29 individuals at October 31, 2003 and
+32 at October 31, 2002. There is one external sales person who is responsible to
+recruit and train the insurance agents or representatives of the financial
+institutions and dealerships in the M.B.A. product line. In addition, the
+Company has assigned five individuals to handle customer inquiries that many
+times result in direct sales. The remainder of the staff is assigned to the
+management and support departments including: claims adjudication, data entry,
+information systems, finance and administration.
+
+The Company is not a party to a collective bargaining agreement.
+
+Item 2. Properties
+
+The Company's executive offices are located in leased premises at 9419 E. San
+Salvador Drive, Suite 105, Scottsdale, Arizona. The Company leases approximately
+19,750 square feet from Cactus Family Investments, LLC, a firm in which the
+Company's Chief Executive Officer and Vice President are principals. The current
+lease has an original five-year term that expired December 31, 2003. The Company
+has entered into a lease extension agreement that provides for a month-to-month
+rental pending renegotiation. The original lease provided for annual base rent
+payments ranging from 212,000 to 276,000. The lease extension requires monthly
+payments equal to that required in the last month of the original lease
+(Approximately 25,000 per month). The expiring lease terms and pricing have
+been established at fair market value that was determined by comparison to other
+leases in the area for similar space. (See Item 14 Certain Relationships and
+Related Transactions).
+
+4
+
+Item 3. Legal Proceedings
+
+The Company is subject to claims and lawsuits that arise in the ordinary course
+of business, consisting principally of alleged errors and omissions connected
+with the sale of insurance, with personnel matters and with disputes over
+outstanding accounts. The Company is currently involved in a dispute with one of
+its associated insurance companies over alleged wrongdoing, an alleged breach of
+its Administrative Agreement and over reimbursement for claims and cancellations
+expenditures. The Company maintains a reserve for claims arising in the ordinary
+course of business and believes that this reserve is sufficient to cover the
+costs of such claims. Based on the information presently available and
+considering the Company's Executive and Officers' Liability coverage, management
+does not believe the settlement of any such claims or lawsuits will have a
+material adverse effect on the financial position, results of operations or cash
+flows of the Company.
+
+Item 4. Submission of Matters to a Vote of Security Holders
+
+There were no matters submitted to a vote of security holders during this fiscal
+year, through the solicitation of proxies or otherwise.
+
+Controls and Procedures
+
+In the year ended October 31, 2003, we did not make any significant changes in,
+nor take any corrective actions regarding our internal controls or other factors
+that could significantly affect these controls. We periodically review our
+internal controls for effectiveness and we have performed an evaluation of
+disclosure controls and procedures during this final quarter. We will conduct a
+similar evaluation each quarter.
+
+Part II
+
+Item 5. Market for Registrant's Common Equity and Related Stockholder Matters
+
+The Company's Common Stock has been reported in NASDAQ, and currently is
+reported on NASDAQ's OTC: BB under the trading symbol "MBAI". As of October 31,
+2003, there were 2,061,787 common shares issued and 2,030,187 outstanding. On
+that date, the closing bid price for the Company's common stock, as reported by
+NASDAQ was 1.60. The following is a summary of the price range of the Company's
+common stock during its 2003 and 2002 fiscal years:
+
+ Bid
+ ------------------
+ Common Stock High Low
+- -----------------------------------------------------------------
+Quarter of Fiscal 2003
+First 1.05 1.00
+Second 2.00 1.01
+Third 1.60 1.37
+Fourth 1.60 1.60
+
+Quarter of Fiscal 2002
+First 1.85 1.65
+Second 1.65 1.50
+Third 1.50 1.05
+Fourth 1.05 1.05
+
+The Company has never paid cash dividends on any shares of its common stock, and
+the Company's Board of Directors intends to continue this policy for the
+foreseeable future. Earnings, if any, will be used to finance the development
+and expansion of the Company's business. Future dividend policy will depend upon
+the Company's earnings, capital requirements, financial condition and other
+factors considered relevant by the Company's Board of Directors.
+
+During the fiscal year ended 2003, the Company issued 50,000 unregistered common
+shares.
+
+5
+
+Item 6. Selected Financial Data
+
+Fiscal Year ended October 31, 2003 2002 2001 2000 1999
+- ------------------------------------------------------------------------------------------------------------------------------------
+ 
+Net revenues 5,628,408 5,935,478 16,468,434 8,323,876 5,597,524
+Net (loss) income (1,785,460) (847,797) (212,546) 177,149 148,016
+Net (loss) income per common share (basic) (.90) (.43) (.11) .09 .07
+Total assets 9,747,162 11,212,975 9,423,030 16,647,549 14,735,278
+
+Long-term obligation and redeemable preferred stock 8,301 -- 8,077 18,840 --
+Cash dividends declared per common share -- -- -- -- --
+
+Item 7. Management's Discussion and Analysis of Financial Condition and Results
+of Operations.
+
+The following discussion should be read in conjunction with the financial
+statements and footnotes that appear elsewhere in this report.
+
+This discussion and analysis provides information that management believes is
+relevant to an assessment and understanding of the Company's results of
+operations and financial condition. The selected financial information is
+derived from the Company's historical financial statements and should be read in
+conjunction with such financial statements and notes thereto set forth elsewhere
+herein and the "Forward-Looking Statements" explanation included herein.
+
+CRITICAL ACCOUNTING POLICIES
+
+The Management's Discussion and Analysis of Financial Condition and Results of
+Operations, set forth below, discusses our consolidated financial statements
+that have been prepared in accordance with accounting principles generally
+accepted in the United States of America. The preparation of these financial
+statements requires us to make estimates and assumptions that affect the
+reported amount of assets and liabilities at the date of the financial
+statements, the disclosure of contingent assets and liabilities at that date and
+the reported amounts of revenues and expenses during the reporting period. On an
+on-going basis, we evaluate our estimates and judgments, including those related
+to revenue recognition, valuation allowances for deferred tax assets and
+accounts receivable. In addition, we consider the potential impairment of our
+long-lived assets. We base our estimates and judgments on historical experience
+and on various other factors that are believed to be reasonable under the
+circumstances. The result of these estimates and judgments form the basis for
+making conclusions about the carrying value of assets and liabilities that are
+not readily apparent from other sources. Actual results may differ from these
+estimates under different assumptions or conditions.
+
+A critical accounting policy is one which is both important to the portrayal of
+the Company's financial condition and results and one that requires management's
+most difficult, subjective or complex judgments, often as a result of the need
+to make estimates about the effect of matters that are inherently uncertain.
+Management believes the following critical accounting policies affect its more
+significant judgments and estimates in the preparation of its consolidated
+financial statements.
+
+ Revenue Recognition - Net revenues includes the commissions earned on
+ sales of MBI, fees for providing administrative claims services
+ related to the MBI sold and revenues related to the sales and
+ servicing of VSC.
+
+ The Company receives a commission from the sale of each MBI
+ policy. That commission is payment for marketing the policy and
+ for providing administrative claims and cancellation services.
+ The Company has elected early adoption of Emerging Issues Task
+ Force Issue No. 00-21, "Revenue Arrangements with Multiple
+ Deliverables". It will recognize the revenue earned from each
+ MBI policy on a straight-line basis over the term of that
+ policy.
+
+ Customers generally have the right to cancel their policy or
+ vehicle service contract at any time. When a customer cancels
+ the policy or contract, the unused portion of the policy or
+ contract premium is returned to
+
+6
+
+the customer after deduction of a cancellation fee. The Company,
+ the insurance companies, and the sub-agents (if applicable)
+ repay their unearned balance on the policy to the customer. The
+ cancellation fee is retained entirely by the Company. When a
+ policy is cancelled, the Company records the Company's portion
+ of the cancellation repayment (net of any cancellation fee
+ received and net of any related deferred revenue) as a reduction
+ or increase (as applicable) in total revenues.
+
+ VSCs are contracts between the Company and the purchaser. The
+ Company insures its obligations by obtaining an insurance policy
+ that guarantees the Company's obligations under the contract. In
+ accordance with Financial Accounting Standards Board Technical
+ Bulletin 90-1 Accounting for Separately Priced Extended Warranty
+ and Product Maintenance Contracts, revenues and costs associated
+ with the sales of these contracts are deferred and recognized in
+ income on a straight-line basis over the actual life of the
+ contracts.
+
+ Deferred Income Taxes - Deferred income tax is recorded based upon
+ differences between the financial statement and tax basis of
+ assets and liabilities using income tax rates currently in
+ effect. The decline in the number of contracts sold and the
+ losses that the Company has experienced in both the current year
+ and prior years have placed serious doubt on the Company's
+ ability to realize the value of the deferred income tax assets
+ that were recorded in earlier years. Accordingly, a valuation
+ allowance equal to 100 of the value of the deferred income tax
+ asset has been provided in the current year.
+
+ The Company will continue to evaluate its critical accounting
+ policies and adjust them as circumstances dictate.
+
+RESULTS OF OPERATIONS
+
+COMPARISON OF FISCAL YEAR 2003 AND FISCAL YEAR 2002
+
+NET REVENUES
+
+Net revenues for the year ended October 31, 2003 totaled 5,628,000, a decrease
+of 307,000 from the year ended October 31, 2002 net revenues of 5,935,000. The
+decrease in net revenues is the result of increased competition for vehicle
+sales and loans by the vehicle manufacturers including zero interest rate loans
+and expanded initial warranty programs. As discusses above, during Fiscal 2003,
+the Company elected to adopt EITF 00-21, "Revenue Arrangements with Multiple
+Deliverables". The effect of this action is to defer all MBI related revenue
+over the life of the underlying policy. This policy adoption has resulted in
+less MBI revenue being recognized in the current year. The Company is attempting
+to reverse this downward trend with its VPN system and with increased marketing
+contacts with other Internet vendors.
+
+In 2001 two underwriters transferred the responsibility for the administration
+of their contracts and policies to an unrelated third party relieving the
+Company of the majority of its continuing responsibilities. The Company
+continues to perform certain administrative duties relating to the calculation
+and administration of policy and contract cancellation for these underwriters.
+Approximately 11,000 of net deferred income remains at October 31, 2003 to
+offset costs to be incurred in administrating the cancellations of these
+policies.
+
+OPERATING EXPENSES
+
+Operating expenses decreased 409,000 to 6,915,000 in the year ended October
+31, 2003 compared to the similar period ended October 31, 2002. Excluding VSC
+direct acquisition costs, operating expenses declined 249,000 and were 33 of
+net revenues in 2003 compared to 36 in 2002 as the Company continued to reduce
+expenses where ever possible. These efforts resulted in total personnel costs
+being reduced 150,897 from the prior year. The expense reductions were
+accomplished through task combinations and staffing reductions.
+
+OTHER INCOME (EXPENSE)
+
+Other income increased 31,000 to 64,000 primarily as a result of the Company
+collecting a contractual override from one of its insurance companies. Interest
+income declined 7,000 from 14,000 in fiscal 2002 to 7,000 in fiscal
+
+7
+
+2003 as a result of the nation-wide decline in interest rates and to the decline
+in funds available for investment. There were 3,000 of realized gains on
+investments in 2003. There were no realized gains in 2002.
+
+INCOME TAXES
+
+Provisions for income taxes in the period ended October 31, 2003 reflect the
+fact that the Company is no longer able to carry back current year losses to
+recover federal income taxes paid in previous years. The period ended October
+31, 2002 included provisions for such loss carry back. The Company received
+ 431,000 during the year from the carry back of those prior year losses. The
+differences in the effective tax rates in fiscal 2003 compared to fiscal 2002 is
+the result of changes in the deferrals, an increase in the valuation allowance
+to 100 and the receipt of the federal income tax loss carry back refund.
+
+PENDING ACCOUNTING STANDARDS
+
+In January 2003, the FASB issued FIN No. 46, Consolidation of Variable Interest
+Entities ("FIN 46") which is an interpretation of Accounting Research Bulletin
+No. 51, Consolidated Financial Statements. FIN 46 requires a variable interest
+entity ("VIE") to be consolidated by a company that is considered to be the
+primary beneficiary of that VIE. In December 2003, the FASB issued FIN No. 46
+(revised December 2003), "Consolidation of Variable Interest Entities" ("FIN
+46-R") to address certain FIN 46 implementation issues. The Company is currently
+evaluating the application of FIN 46 as it relates to the potential
+consolidation of Cactus Family Investments, LLC, an entity owned by the majority
+shareholders of the Company.
+
+COMPARISON OF FISCAL YEAR 2002 AND FISCAL YEAR 2001
+
+NET REVENUES
+
+Net revenues for the year ended October 31, 2002 totaled 5,935,000, a decrease
+of 10,533,000 from the year ended October 31, 2001 net revenues of 16,468,000.
+The decrease in net revenues is the result of the recognition of 8,488,000 of
+deferred VSC revenues in fiscal 2001 that were derived from two underwriters.
+These underwriters transferred the responsibility for the administration of
+certain contracts and policies to an unrelated third party relieving the Company
+of the majority of its continuing responsibilities. At the same time, the
+Company also recognized 8,089,000 of deferred direct acquisition costs
+associated with the same contracts and policies. The remainder of the net
+revenue decline is the result of increased competition for vehicle sales and
+loans by the vehicle manufacturers including the zero interest rate loan and
+expanded initial warranty programs. The Company is attempting to reverse this
+downward trend with its VPN system and with increased marketing contacts with
+other Internet vendors.
+
+The Company continues to perform certain administrative duties relating to the
+calculation and administration of policy and contract cancellations. At the date
+the responsibility transfer was recognized (July 31, 2001), the remaining
+balance in deferred revenue and deferred direct acquisition costs relating to
+these underwriters that is available to offset against future cancellation
+administration equaled 1,537,000 of deferred revenue and 1,455,000 of deferred
+direct acquisition costs. The Company will recognize this revenue and expense
+over the remaining life of the policies or contracts. If an individual policy or
+contract is cancelled, the company will recognize the remaining portion of the
+unearned revenue and direct acquisition cost as a current event. Approximately
+ 56,000 of net deferred income remains at October 31, 2002 to offset costs to be
+incurred in administrating the cancellations of these policies.
+
+The Company also wrote off a receivable from the underwriters for deferred
+administrative costs. When a policy or contract is sold, the Company would remit
+a portion of their commission to the underwriter for an administrative services
+reserve. As these policies and contracts expire, the underwriters would return
+that portion of the administrative services reserve to the Company. The
+administrative release agreements contained provisions whereby the Company
+agreed to forfeit all of the deferred administrative costs remitted to the
+underwriters. The total amount written off was 254,000. The net effect of the
+above adjustments was to increase fiscal 2001 net operating income by 490,000.
+
+8
+
+OPERATING EXPENSES
+
+Operating expenses decreased 9,402,000 to 7,324,000 in the year ended October
+31, 2002 compared to the similar period ended October 31, 2001. As explained in
+the net revenue discussion above, the Company recognized the deferred direct
+acquisition costs of VSC that were associated with the contracts that were no
+longer administered by the Company. Excluding VSC direct acquisition costs,
+operating expenses declined 189,000 but were 36.0 of net revenues in 2002
+compared to 14.1 in 2001 as the Company could no longer reduce operating
+expenses at a rate equal to the decline in net revenues. The Company continued
+to aggressively cut costs and expenses in most expense categories. Increases
+were experienced in license and fee costs as a result of the Company's efforts
+to replace the lost underwriters' business, in professional fees as the Company
+defended itself in the law suit described above, in rent and lease expense due
+to the terms of the lease escalator, in advertising expense and in other
+operating expenses as a result of a charge to increase the law suit reserve
+
+OTHER INCOME (EXPENSE)
+
+Finance fee income increased 30.3 as more purchasers of policies elected to
+finance premiums. Interest income declined 37,000 from 51,000 in fiscal 2001
+to 14,000 in fiscal 2002 as a result of the nation-wide decline in interest
+rates and to the decline in funds available for investment. There were no
+realized gains on investments in 2002.
+
+INCOME TAXES
+
+Provisions for income taxes in the period ended October 31, 2002 and 2001
+reflect the Company's intent to carry back the current year losses to recover
+federal income taxes paid in previous years. Similar provisions for recoverable
+state income taxes were not provided, as Arizona law does not allow for loss
+carry back. The differences in the effective tax rates in fiscal 2002 compared
+to fiscal 2001 is the result of the valuation allowance placed on the state net
+operating loss carry forward and the recording of the federal income tax loss
+carry back. The Company received 425,000 in such refunds during fiscal 2002.
+
+LIQUIDITY AND CAPITAL RESOURCES
+
+COMPARISON OF OCTOBER 31, 2003 AND OCTOBER 31, 2002
+
+The Company incurred significant losses during the current fiscal year and has
+experienced additional losses in prior years. A related party has advanced funds
+on demand notes and through the deferral of rent payments (See Note 4) in order
+to overcome working capital deficiencies during the year. Subsequent to October
+31, 2003, the Company granted the related party, Cactus Family Investments, LLC,
+a security interest in all of its unencumbered assets. There is no assurance
+that additional advances will be made if additional working capital is required.
+The lack of continuing working capital infusions could affect future operations.
+Accordingly, the accompanying financial statements have been prepared assuming
+the Company will continue as a going concern. The Company has incurred a loss in
+November and December 2003 and expects such losses to continue into the early
+months of 2004. The Company continues to pursue cost cutting measures and to
+seek additional business to reduce working capital needs
+
+Working capital at October 31, 2003 consisted of current assets of 4,825,000
+and current liabilities of 6,412,000, or a current ratio of 0.75: 1. At October
+31, 2002, the current ratio was 0.97:1 with current assets of 6,156,000 and
+current liabilities of 6,325,000.
+
+As of October 31, 2003, the Company's cash position decreased to 740,000 from
+ 896,000 at October 31, 2002. Of this amount, 291,000 is classified as
+restricted cash in 2003 and 285,000 in 2002. The largest component of the
+restricted cash represented claims payment advances provided by insurance
+companies. These advances enable the Company to make claims payments on behalf
+of the insurance companies. The increase in restricted cash in 2003 is due to
+timing of reimbursements. The continuing decline in sales volume has resulted in
+lower premiums being held on deposit pending payment to the insurance companies
+and therefore lower cash balances.
+
+Deferred direct costs, including both the current and non-current portions,
+decreased 271,000 to 8,535,000 at October 31, 2003 from 8,806,000 at October
+31, 2002. Direct costs are costs that are directly related to the sale of VSCs.
+These costs are deferred in the same manner as are VSC revenue. The decrease is
+the result of a continuation of lower than normal sales levels.
+
+9
+
+The Company collects funds throughout the year and remits a portion of the funds
+to the insurance companies. As of October 31, 2003, the amount owed to the
+insurance companies decreased by 57,000 to 736,000 from 793,000 at October
+31, 2002. The change is due to the timing of payments remitted to and
+reimbursements received from the insurance companies.
+
+Deferred revenues, including both the current and non-current portions,
+decreased 243,000 to 9,880,000 at October 31, 2003 from 10,123,000 at October
+31, 2002. Deferred revenue consists of VSC gross sales and estimated
+administrative service fees relating to the sales of MBI policies. The decrease
+is due to the continuing decline in sales volume in 2003.
+
+The Company is operating with a working capital line of credit from Merrill
+Lynch that expired November 30, 2003. The Company intends to repay this
+indebtedness in the near future. The Company has received advances from related
+parties that are secured by a short-term note payable to its Chief Executive
+Officer. As of October 31, 2003, the related party indebtedness increased
+ 328,000 to 545,000 from 217,000 at October 31, 2002. The Company's ability to
+fund its operations over the short-term is not hindered by lack of short-term
+funding as the Chief Executive Officer and principal shareholder has provided
+additional funds as needed. The Company uses premiums received to pay agent
+commissions, to fund operations and to supplement claims payment advances
+provided by insurance companies to administer and pay claims. The Company
+believes its future operations may require advances from its principal
+shareholder. There is no assurance that such advances will be made.
+
+This Annual Report on Form 10-K contains certain forward-looking statements and
+information which we believe are within the meaning of Section 27A of the
+Securities Act of 1933, as amended, and Section 21E of the Securities Exchange
+Act of 1934, as amended. The forward looking statements contained herein can be
+identified by the use of forward-looking terminology such as "believes,"
+"expects," "may," "will," "should," or "anticipates," or the negative thereof or
+other variations thereon or comparable terminology, or by discussions of
+strategy that involve risks and uncertainties. The Company wishes to caution the
+reader that these forward-looking statements that are not historical facts, are
+only predictions. No assurances can be given that the future results indicated,
+whether expressed or implied, will be achieved. While sometimes presented with
+numerical specificity, these projections and other forward-looking statements
+are based upon a variety of assumptions relating to the business of the Company,
+which, although considered reasonable by the Company, may not be realized.
+Because of the number and range of assumptions underlying the Company's
+projections and forward-looking statements, many of which are subject to
+significant uncertainties and contingencies that are beyond the reasonable
+control of the Company, some of the assumptions inevitably will not materialize,
+and unanticipated events and circumstances may occur subsequent to the date of
+this report. Examples of uncertainties that could cause such differences
+include, but are not limited to, the ability of the Company to attract and
+retain key personnel, the ability of the Company to secure additional capital to
+finance its business plan, and competition from other companies in the same
+industry. These forward-looking statements are based on current expectations and
+the Company assumes no obligation to update this information. Therefore, the
+actual experience of the Company and the results achieved during the period
+covered by any particular projections or forward-looking statements may differ
+substantially from those projected. Consequently, the inclusion of projections
+and other forward-looking statements should not be regarded as a representation
+by the Company or any other person that these estimates and projections will be
+realized, and actual results may vary materially. There can be no assurance that
+any of these expectations will be realized or that any of the forward-looking
+statements contained herein will prove to be accurate.
+
+Item 7A. Qualitative Information about Market Risk
+
+Since the Company does not underwrite its own policies, a change in the current
+rate of inflation is not expected to have a material effect on the Company. The
+precise effect of inflation on operations however cannot be determined.
+
+The Company does not have any long-term receivables and its line of credit debt
+is fully secured by marketable securities. Therefore, it is not subject to
+significant interest rate risk.
+
+The Company has a net loss of 1,785,000 for the twelve months ended October 31,
+2003. This net loss is due to the Company having a substantial decline in MBI
+market share from increased competition. The future effect of this increased
+competition may have an adverse effect on future earnings.
+
+10
+
+Item 8. Financial Statements and Supplementary Data
+
+FINANCIAL STATEMENTS
+
+Index to Consolidated Financial Statements for the years ended October 31, 2003,
+2002, and 2001:
+
+Report of Independent Certified Public Accountants
+
+Consolidated Balance Sheets
+
+Consolidated Statements of Operations and Comprehensive Income (Loss)
+
+Consolidated Statements of Stockholders' Deficit
+
+Consolidated Statements of Cash Flows
+
+Notes to Consolidated Financial Statements
+
+11
+
+REPORT OF MANAGEMENT
+Board of Directors and Stockholders
+M.B.A. Holdings, Inc.
+Scottsdale, Arizona
+January 29, 2004
+
+Management is responsible for the accompanying consolidated financial
+statements, which have been prepared in conformity with accounting principles
+generally accepted in the United States of America. In preparing the financial
+statements, it is necessary for management to make informed judgements and
+estimates which it believes are appropriate under the circumstances. Financial
+information presented elsewhere in this annual report is consistent with that in
+the financial statements.
+
+In meeting its responsibility for preparing reliable financial statements, the
+Company maintains a system of internal accounting controls designed to provide
+reasonable assurance that assets are safeguarded and transactions are properly
+recorded and executed in accordance with corporate policy and management
+authorization. The Company believes its accounting controls provide reasonable
+assurance that errors or irregularities, which could be material to the
+financial statements, are prevented or would be detected within a timely period.
+In designing such control procedures, management recognizes judgements are
+required to assess costs and expected benefits of a system of internal
+accounting controls. Adherence to these policies and procedures is reviewed
+through a coordinated effort of the Company's accounting staff and independent
+auditors.
+
+The Audit Committee of the Board of Directors is comprised solely of outside
+directors and is responsible for overseeing and monitoring the quality of the
+Company's accounting and auditing practices. The independent accountants have
+full and free access to the Audit Committee and meet periodically with the
+committee to discuss accounting, auditing and financial reporting matters.
+
+/s/ Gaylen M. Brotherson
+
+Gaylen M. Brotherson
+Chairman and Chief Executive Officer
+
+/s/ Dennis M. O'Connor
+
+Dennis M. O'Connor
+Chief Financial Officer
+
+12
+
+REPORT of INDEPENDENT CERTIFIED PUBLIC ACCOUNTANTS
+Board of Directors and Stockholders
+M.B.A. Holdings, Inc.
+Scottsdale, Arizona
+
+We have audited the accompanying consolidated balance sheets of M.B.A. Holdings,
+Inc. and subsidiary (the "Company") as of October 31, 2003 and 2002 and the
+related consolidated statements of operations and comprehensive loss,
+stockholders' (deficit) equity, and cash flows for the years then ended. These
+financial statements are the responsibility of the Company's management. Our
+responsibility is to express an opinion on these financial statements based on
+our audits. The financial statements of the Company as of October 31, 2001 were
+audited by other auditors whose report dated January 10, 2002, expressed an
+unqualified opinion on those statements.
+
+We conducted our audits in accordance with auditing standards generally accepted
+in the United States of America. Those standards require that we plan and
+perform the audit to obtain reasonable assurance about whether the financial
+statements are free of material misstatement. An audit includes examining, on a
+test basis, evidence supporting the amounts and disclosures in the financial
+statements. An audit also includes assessing the accounting principles used and
+significant estimates made by management, as well as evaluating the overall
+financial statement presentation. We believe that our audits provide a
+reasonable basis for our opinion.
+
+In our opinion, the consolidated financial statements referred to above present
+fairly, in all material respects, the financial position of the Company as of
+October 31, 2003 and 2002, and the results of its operations and its cash flows
+for the year then ended in conformity with accounting principles generally
+accepted in the United States of America.
+
+The accompanying consolidated financial statements have been prepared assuming
+that the Company will continue as a going concern. As discussed in Note 2 to the
+consolidated financial statements, the Company has incurred significant losses
+from operations, anticipates additional losses in the next year and has
+insufficient working capital as of October 31, 2003 to fund such losses. These
+conditions raise substantial doubt as to the ability of the Company to continue
+as a going concern. These consolidated financial statements do not include any
+adjustments that might result from such uncertainty.
+
+/s/ Semple & Cooper, LLP
+Phoenix, Arizona
+January 16, 2004
+
+13
+ 
+M.B.A. HOLDINGS, INC. AND SUBSIDIARY
+
+CONSOLIDATED BALANCE SHEETS
+OCTOBER 31, 2003 AND 2002
+
+- ----------------------------------------------------------------------------------------------
+ASSETS 2003 2002
+ ------------ ------------
+ 
+CURRENT ASSETS:
+ Cash and cash equivalents 448,240 611,520
+ Restricted cash 291,437 284,966
+ Investments (Note 5) 117,203 159,042
+ Accounts receivable, net of allowance for doubtful accounts
+ of 0 (2003 and 2002) 232,184 182,300
+ Prepaid expenses and other current assets 5,248 10,429
+ Deferred direct costs 3,730,410 4,206,456
+ Income tax receivable (Note 6) -- 436,778
+ Deferred income tax asset (Note 6) -- 264,198
+ ------------ ------------
+ Total current assets 4,824,722 6,155,689
+ ------------ ------------
+PROPERTY AND EQUIPMENT:
+ Computer equipment 309,128 285,894
+ Office equipment and furniture 140,259 140,259
+ Vehicle 15,000 16,400
+ Leasehold improvements 80,182 80,182
+ ------------ ------------
+ Total property and equipment 544,569 522,735
+ Accumulated depreciation and amortization (426,661) (368,065)
+ ------------ ------------
+ Property and equipment - net 117,908 154,670
+
+DEFERRED DIRECT COSTS 4,804,532 4,599,368
+DEFERRED INCOME TAX ASSET (Note 6) -- 303,248
+ ------------ ------------
+TOTAL ASSETS 9,747,162 11,212,975
+ ============ ============
+
+See notes to consolidated financial statements.
+
+14
+
+M.B.A. HOLDINGS, INC. AND SUBSIDIARY
+
+CONSOLIDATED BALANCE SHEETS
+OCTOBER 31, 2003 AND 2002
+
+- ------------------------------------------------------------------------------------------------
+LIABILITIES AND STOCKHOLDERS' DEFICIT 2003 2002
+ ------------ ------------
+ 
+CURRENT LIABILITIES:
+ Net premiums payable to insurance companies 736,442 793,389
+ Accounts payable and accrued expenses 622,756 522,136
+ Line of credit borrowings 196,897 --
+ Accounts and note payable - officer (Note 8) 516,309 216,931
+ Capital lease obligations (Note 8) 7,882 8,222
+ Deferred revenues 4,332,133 4,783,991
+ ------------ ------------
+ Total current liabilities 6,412,419 6,324,669
+Capital lease obligation - net of current portion (Note 8) 8,301 --
+Other liabilities -- 49,572
+Deferred rent 4,809 31,064
+Deferred income taxes 4,666 --
+Deferred revenues - net of current portion 5,548,214 5,338,994
+ ------------ ------------
+ Total liabilities 11,978,409 11,744,299
+ ------------ ------------
+COMMITMENTS AND CONTINGENCIES (Notes 7,8, 9 and 10) -- --
+STOCKHOLDERS' DEFICIT (Note 2 and 7):
+ Preferred stock, .001 par value; 20,000,000 shares
+ authorized; none issued and outstanding -- --
+ Common stock, .001 par value; 80,000,000 shares
+ authorized; 2,061,787 shares issued; 2,030,187 outstanding 2,062 2,012
+ Additional paid-in-capital 280,801 200,851
+ Accumulated other comprehensive income (loss), net of tax 119 (5,418)
+ Retained deficit (2,458,729) (673,269)
+ Less: 31,600 shares of common stock in treasury, at cost (55,500) (55,500)
+ ------------ ------------
+ Total stockholders' deficit (2,231,247) (531,324)
+ ------------ ------------
+TOTAL LIABILITIES AND STOCKHOLDERS' DEFICIT 9,747,162 11,212,975
+ ============ ============
+
+See notes to consolidated financial statements.
+
+15
+
+M.B.A. HOLDINGS, INC. AND SUBSIDIARY
+
+CONSOLIDATED STATEMENTS OF OPERATIONS AND COMPREHENSIVE INCOME (LOSS)
+YEARS ENDED OCTOBER 31, 2003, 2002 AND 2001
+
+- ---------------------------------------------------------------------------------------------------------------
+
+ 2003 2002 2001
+ 
+NET REVENUES:
+ Vehicle service contract gross income 5,328,915 5,406,387 15,136,581
+ Net mechanical breakdown insurance income 299,493 529,091 1,331,853
+ ------------ ------------ ------------
+Total net revenues 5,628,408 5,935,478 16,468,434
+ ------------ ------------ ------------
+OPERATING EXPENSES:
+ Direct acquisition costs of vehicle service contracts 5,029,185 5,189,412 14,402,029
+ Salaries and employee benefits 1,036,242 1,187,139 1,399,267
+ Mailings and postage 17,932 101,287 121,416
+ Related party rent expense 311,912 251,625 248,010
+ Lease expense 13,842 20,636 34,498
+ Professional fees 132,232 160,379 91,357
+ Telephone 147,346 89,907 96,896
+ Depreciation and amortization 59,996 79,866 78,833
+ Merchant and bank charges 6,475 8,853 20,783
+ Insurance 21,587 32,613 32,959
+ Supplies 11,990 13,884 28,709
+ License and fees 21,493 26,717 24,104
+ Other operating expenses 104,578 162,080 146,958
+ ------------ ------------ ------------
+ Total operating expenses 6,914,810 7,324,398 16,725,819
+ ------------ ------------ ------------
+OPERATING LOSS (1,286,402) (1,388,920) (257,385)
+ ------------ ------------ ------------
+OTHER INCOME (EXPENSE):
+ Finance fee income 21,476 26,210 20,120
+ Interest income 7,414 13,870 51,288
+ Interest expense (13,924) (8,121) (10,775)
+ Other income (expense) 63,906 33,333 (293)
+ Realized gains on investments 2,914 -- 15,629
+ ------------ ------------ ------------
+ Other income - net 81,786 65,292 75,969
+ ------------ ------------ ------------
+LOSS BEFORE INCOME TAXES (1,204,616) (1,323,628) (181,416)
+INCOME TAXES (Note 6) 580,844 (475,831) 31,130
+ ------------ ------------ ------------
+NET LOSS (1,785,460) (847,797) (212,546)
+ ============ ============ ============
+BASIC NET LOSS PER SHARE (0.90) (0.43) (0.11)
+ ============ ============ ============
+DILUTED NET LOSS PER SHARE (0.90) (0.43) (0.11)
+ ============ ============ ============
+AVERAGE NUMBER OF COMMON SHARES
+ OUTSTANDING - BASIC 1,982,653 1,980,187 1,980,187
+ ============ ============ ============
+AVERAGE NUMBER OF COMMON AND
+ DILUTIVE SHARES OUTSTANDING 1,982,653 1,980,187 1,980,187
+ ============ ============ ============
+Net loss (1,785,460) (847,797) (212,546)
+Other comprehensive income net of tax:
+ Net unrealized gain (loss) on available-for-sale securities 5,537 (2,269) (15,364)
+ ------------ ------------ ------------
+Comprehensive loss (1,779,923) (850,066) (227,910)
+ ============ ============ ============
+ 
+See notes to consolidated financial statements.
+
+16
+
+M.B.A. HOLDINGS, INC. AND SUBSIDIARY
+
+CONSOLIDATED STATEMENTS OF STOCKHOLDERS' DEFICIT
+YEARS ENDED OCTOBER 31, 2003, 2002 AND 2001
+
+- ------------------------------------------------------------------------------------------------------------------------------------
+ Accumulated Total
+ Common Stock Additional Other Retained Stockholders'
+ ---------------------- Paid Comprehensive Earnings Treasury Deficit)
+ Shares Amount In-Capital Income (Deficit) Stock Equity
+
+BALANCE, NOVEMBER 1, 2000 2,011,787 2,012 200,851 12,215 387,074 (55,500.00) 546,652
+
+ Unrealized loss on
+ available-for-sale securities (15,364) (15,364)
+
+ Net loss (212,546) (212,546)
+ --------- ------ -------- -------- ----------- -------- ------------
+
+BALANCE, OCTOBER 31, 2001 2,011,787 2,012 200,851 (3,149) 174,528 (55,500) 318,742
+
+ Unrealized loss on
+ available-for-sale securities (2,269) (2,269)
+
+ Net loss (847,797) (847,797)
+ --------- ------ -------- -------- ----------- -------- ------------
+
+BALANCE, OCTOBER 31, 2002 2,011,787 2,012 200,851 (5,418) (673,269) (55,500) (531,324)
+
+ Unrealized gain on
+ available-for-sale securities 5,537 5,537
+ Issuance of common shares 50,000 50 79,950 80,000
+
+ Net loss (1,785,460) (1,785,460)
+ --------- ------ -------- -------- ----------- -------- ------------
+
+BALANCE, OCTOBER 31, 2003 2,061,787 2,062 280,801 119 (2,458,729) (55,500) (2,231,247)
+ ===============================================================================================
+
+See notes to consolidated financial statements
+
+17
+
+CONSOLIDATED STATEMENTS OF CASH FLOWS
+YEARS ENDED OCTOBER 31, 2003, 2002 AND 2001
+
+- ------------------------------------------------------------------------------------------------------------------
+ OCTOBER 31,
+ 2003 2002 2001
+ ----------- ----------- -----------
+ 
+CASH FLOWS FROM OPERATING ACTIVITIES:
+ Net loss (1,785,460) (847,797) (212,546)
+ Adjustments to reconcile net loss to net cash used in
+ operating activities:
+ Depreciation and amortization 59,996 79,866 78,833
+ (Gain) loss on sale of equipment -- (22,500) 22,237
+ Related party rent expense accrued but not paid 311,912 -- --
+ Deferred income taxes 572,112 (26,737) 343,117
+ Changes in assets and liabilities:
+ Restricted cash (6,471) (124,564) 326,613
+ Accounts receivable (49,884) (35,990) 258,060
+ Prepaid expenses and other current assets 5,181 69,921 80,894
+ Deferred direct costs 270,882 (2,166,872) 6,059,515
+ Income tax receivable 436,778 (41,291) (240,050)
+ Net premiums payable to insurance companies (56,947) 408,276 (52,101)
+ Accounts payable and accrued expenses 100,620 143,311 (128,060)
+ Other liabilities (49,572) (175,838) 88,876
+ Deferred rent (26,255) (11,192) 717
+ Deferred revenues (242,638) 2,179,649 (6,896,833)
+ ----------- ----------- -----------
+ Net cash used in operating activities (459,746) (571,758) (270,728)
+ ----------- ----------- -----------
+CASH FLOWS FROM INVESTING ACTIVITIES:
+ Purchase of property and equipment (3,833) (17,593) (55,382)
+ Proceeds from sale of equipment -- 22,500 24,000
+ Purchase of investments (2,612) (458) (129,481)
+ Proceeds from sales and maturities of investments 49,988 -- 288,327
+ ----------- ----------- -----------
+ Net cash provided by investing activities 43,543 4,449 127,464
+ ----------- ----------- -----------
+CASH FLOWS FROM FINANCING ACTIVITIES:
+ Drawings on line of credit 196,897 643,654 --
+ Repayments of line of credit drawings -- (643,654) --
+ Proceeds of note payable - officer 67,466 106,548 --
+ Payments on capital lease obligations (11,440) (10,743) (9,208)
+ ----------- ----------- -----------
+ Net cash provided by (used in) financing activities 252,923 95,805 (9,208)
+ ----------- ----------- -----------
+NET DECREASE IN CASH AND CASH EQUIVALENTS (163,280) (471,504) (152,472)
+CASH AND CASH EQUIVALENTS, BEGINNING OF YEAR 611,520 1,083,024 1,235,496
+ ----------- ----------- -----------
+CASH AND CASH EQUIVALENTS, END OF YEAR 448,240 611,520 1,083,024
+ =========== =========== ===========
+SUPPLEMENTAL DISCLOSURES OF CASH FLOW INFORMATION:
+ Cash paid for interest 3,644 4,902 10,660
+ =========== =========== ===========
+
+ Cash paid for (recovered from) income taxes (431,186) (425,396) --
+ =========== =========== ===========
+
+NON-CASH TRANSACTIONS:
+ Related party notes payable satisfied by issuing common shares
+ and services provided 80,000 -- --
+ =========== =========== ===========
+
+ Unrealized gains (losses) on available -for-sale securities 5,537 (2,269) (15,364)
+ =========== =========== ===========
+
+ Property and equipment financed with capital lease obligations 19,401 -- --
+ =========== =========== ===========
+
+See notes to consolidated financial statements.
+
+18
+
+M.B.A. HOLDINGS, INC. AND SUBSIDIARY
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+YEARS ENDED OCTOBER 31, 2003, 2002 AND 2001
+- --------------------------------------------------------------------------------
+
+1. DESCRIPTION OF BUSINESS AND SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+
+Description of Business - M.B.A. Holdings, Inc. and subsidiary (the "Company")
+are located in Scottsdale, Arizona and are principally engaged in selling
+mechanical breakdown insurance policies ("MBI") (as an agent for insurance
+companies), selling vehicle service contracts ("VSC") for new automobiles,
+trucks, recreational vehicles, and travel trailers, and providing claims
+administrative services for MBI and VSC sold. The consolidated financial
+statements include the accounts of M.B.A. Holdings, Inc. and its wholly owned
+subsidiary, Mechanical Breakdown Administrators, Inc. All significant
+intercompany balances and transactions have been eliminated.
+
+The Company prepares its financial statements in accordance with accounting
+principles generally accepted in the United States of America. Significant
+accounting policies are as follows:
+
+ a. Cash and Cash Equivalents - The Company considers all highly
+ liquid investments with original maturities of three months or
+ less when purchased to be cash equivalents.
+
+ b. Restricted cash represents claims payment advances provided by
+ the insurance companies to enable the Company to make claims
+ payments on their behalf.
+
+ c. Investments that are primarily marketable debt and equity
+ securities, are classified as available-for-sale and are
+ stated at estimated fair value as of October 31, 2003 and
+ 2002. Fair value is estimated based on quoted market prices.
+ Unrealized gains (losses) are excluded from earnings and
+ reported, net of income tax, as a separate component of
+ shareholders' equity (deficit).
+
+ d. Accounts receivable consist primarily of amounts due from
+ insurance companies for reimbursement of previously paid
+ claims. For the years ended October 31, 2003 and 2002,
+ management believes that all outstanding balances will be
+ realized. Accounts receivable are unsecured and do not include
+ finance charges.
+
+ e. Property and Equipment - The historical cost of computer
+ equipment, office equipment and furniture is depreciated by
+ accelerated and straight-line methods over their estimated
+ useful lives, which range from three to seven years. Leasehold
+ improvements are amortized over the shorter of the life of the
+ asset or the related lease term. The costs of maintenance and
+ repairs are charged to expense in the year incurred.
+
+ The Company reviews its long-lived assets for possible
+ impairment in accordance with SFAS No. 144, Accounting for the
+ Impairment or Disposal of Long-Lived Assets, which supercedes
+ SFAS No. 121, Accounting for the Impairment of Long-Lived
+ Assets and for Long-Lived Assets to Be Disposed Of and amends
+ Accounting Principles Board Opinion No. 30, Reporting the
+ Results of Operations - Reporting the Effects of Disposal of a
+ Segment of a Business, and Extraordinary, Unusual and
+ Infrequently Occurring Events and Transactions. The new rules
+ apply to the classification and impairment analysis conducted
+ on long-lived assets other than certain intangible assets,
+ resolve existing conflicting treatment on the impairment of
+ long-lived assets and provide implementation guidance
+ regarding impairment calculations. SFAS No. 144 also expands
+ the scope to include all distinguishable components of an
+ entity that will be eliminated from ongoing operations in a
+ disposal transaction. The Company has concluded that no
+ impairment charge is necessary during 2003 and 2002.
+
+ f. Benefit Plan - The Company maintains the Mechanical Breakdown
+ Administrators 401(k) Profit Sharing Plan covering
+ substantially all employees. Participation in employer
+ discretionary contributions commences on the earliest plan
+ entry date after an employee meets eligibility requirements.
+ Employees
+
+19
+
+may elect to contribute to the plan and the Company may make
+ discretionary contributions. No discretionary contributions
+ were made during the years ended October 31, 2003, 2002 or
+ 2001.
+
+ f. Net premiums payable to insurance companies represent premiums
+ collected from the policyholders on behalf of the insurance
+ companies. Amounts collected are periodically remitted to the
+ appropriate insurance company.
+
+ g. Revenue Recognition - Net revenues includes the commissions
+ earned on sales of MBI, fees for providing administrative
+ claims services related to the MBI sold and revenues related
+ to the sales and servicing of VSC.
+
+ The Company receives a commission from the sale of each MBI
+ policy. That commission is payment for marketing the policy
+ and for providing administrative claims and cancellation
+ services. The Company has elected early adoption on November
+ 1, 2002 of Emerging Issues Task Force Issue No. 00-21,
+ Revenue Arrangements with Multiple Deliverables. It will
+ recognize the revenue earned from each MBI policy on a
+ straight-line basis over the term of that policy. The net
+ effect of this change in 2003 is a deferral of revenues of
+ 87,000.
+
+ Customers generally have the right to cancel their policy or
+ vehicle service contract at any time. When a customer cancels
+ the policy or contract, the unused portion of the policy or
+ contract premium is returned to the customer after deduction
+ of a cancellation fee. The Company, the insurance companies,
+ and the sub-agents (if applicable) repay their unearned
+ balance on the policy to the customer. The cancellation fee is
+ retained entirely by the Company. When a policy is cancelled,
+ the Company records the Company's portion of the cancellation
+ repayment (net of any cancellation fee received and net of any
+ related deferred revenue) as a reduction or increase (as
+ applicable) in total revenues.
+
+ VSCs are contracts between the Company and the purchaser. The
+ Company insures its obligations by obtaining an insurance
+ policy that guarantees the Company's obligations under the
+ contract. In accordance with Financial Accounting Standards
+ Board Technical Bulletin 90-1 Accounting for Separately Priced
+ Extended Warranty and Product Maintenance Contracts, revenues
+ and costs associated with the sales of these contracts are
+ deferred and recognized in income on a straight-line basis
+ over the actual life of the contracts.
+
+ The Company applies Emerging Issues Task Force ("EITF") No.
+ 99-19 "Reporting Revenue Gross as a Principal versus Net as an
+ Agent." Accordingly, revenues from MBI are presented on a net
+ basis as the Company acts only as an agent for Insurance
+ companies. Conversely, VSC revenues and related costs are
+ presented gross because the Company is contracting directly
+ with the policyholders.
+
+ h. Income Taxes - Provision for recoverable income taxes and
+ related income tax receivable in the year ended October 31,
+ 2002 reflect the Company's intent to carry back the current
+ year losses to recover federal income taxes paid in previous
+ years. Arizona law does not provide for the carry back of
+ losses and therefore provisions for recoverable state income
+ taxes have not been provided.
+
+ Deferred income tax is recorded based upon differences between
+ the financial statement and tax basis of assets and
+ liabilities using income tax rates currently in effect. A
+ valuation allowance is recorded against deferred tax assets
+ when it is likely that the value of a deferred tax asset will
+ not be realized.
+
+ i. Net Income Per Share - Net income per share is calculated in
+ accordance with SFAS No. 128, Earnings Per Share which
+ requires dual presentation of basic and diluted EPS on the
+ face of the statements of income and requires a reconciliation
+ of the numerator and denominator of basic and diluted EPS
+ calculations. Basic income per common share is computed on the
+ weighted average number of shares of common stock outstanding
+ during each period. Income per common share assuming dilution
+ is computed on the weighted average number of shares of common
+ stock outstanding plus additional shares representing the
+ exercise of outstanding common stock options using the
+ treasury stock method. No dilutive effect is assumed in loss
+ years. Below is the reconciliation required by SFAS No. 128.
+
+20
+
+Number of shares used in computing income per share
+ Year Ended October 31, 2003 2002 2001
+ --------- --------- ---------
+Average number of common shares
+outstanding - Basic 1,982,653 1,980,187 1,980,187
+
+Dilutive shares from common stock options
+calculated using the treasury stock method -- -- --
+ --------- --------- ---------
+
+Average number of common and dilutive
+shares outstanding 1,982,653 1,980,187 1,980,187
+ ========= ========= =========
+
+k. Stock-Based Compensation - At October 31, 2003, the Company
+ had options outstanding that related to stock-based
+ compensation from prior years. These options are accounted for
+ under the recognition and measurement principles of Accounting
+ Principles Board Opinion No. 25 "Accounting for stock issued
+ to employees" and related interpretations, as more fully
+ described in Note 7. Pro Forma information regarding the
+ impact of stock-based compensation on net income and loss per
+ share is required by SFAS No. 123, "Accounting for Stock-Based
+ Compensation" and SFAS No. 148, "Accounting for Stock-Based
+ Compensation - Transition and Disclosure". For years ended
+ October 31, 2003, 2002, 2001, there are no pro forma
+ adjustments necessary to net loss and basic and diluted loss
+ per share information, had the Company accounted for its
+ employee stock options under the fair recognition provisions
+ of SFAS No. 123.
+
+ l. Comprehensive income consists of net income and other gains
+ and losses affecting stockholders' equity that, under
+ generally accepted accounting principles are excluded from net
+ income. For the Company, such items consist primarily of
+ unrealized gains and losses on marketable debt and equity
+ investments.
+
+ m. Use of Estimates - The preparation of financial statements in
+ conformity with accounting principles generally accepted in
+ the United States of America requires management to make
+ estimates and assumptions that affect the reported amounts of
+ assets and liabilities, disclosure of contingent assets and
+ liabilities at the date of the financial statements and the
+ reported amounts of revenues and expenses during the reporting
+ period. Actual results could differ from those estimates.
+
+ n. Pending Accounting Standards - In October 2002, the FASB
+ issued SFAS No. 147, Acquisitions of Certain Financial
+ Institutions, which amends SFAS No. 72, Accounting for Certain
+ Acquisitions of Banking or Thrift Institutions, and no longer
+ requires the separate recognition and subsequent amortization
+ of goodwill that was originally required by SFAS No. 72. SFAS
+ No. 147 also amends SFAS No. 144, Accounting for the
+ Impairment or Disposal of Long-Lived Assets, to include in its
+ scope long-term consumer-relationship intangible assets (such
+ as core deposit intangibles). Effective October 1, 2002, the
+ Company adopted SFAS 147, and the adoption did not have
+ material effect on the financial statements.
+
+ In December 2002, the FASB issued SFAS No. 148, Accounting for
+ Stock-Based Compensation - Transition and Disclosure, which
+ amends SFAS No. 123, "Accounting for Stock-Based Compensation"
+ ("FAS 123"). SFAS 148 provides alternative methods of
+ transition for a voluntary change to the fair
+
+21
+
+value based method of accounting for stock-based employee
+ compensation. In addition, SFAS 148 amends the disclosure
+ requirement of SFAS 123 to require more prominent and more
+ frequent disclosures in financial statements of the effects of
+ stock-based compensation. The transition guidance and annual
+ disclosure provisions of SFAS 148 are effective for fiscal
+ years ending after December 15, 2002. The interim disclosure
+ provisions are effective for financial reports containing
+ condensed financial statements for interim periods beginning
+ after December 15, 2002. The Company has adopted SFAS 148 and
+ has accordingly modified its disclosures related to
+ stock-based compensation.
+
+ In April 2003, the FASB issued SFAS No. 149, Amendment of
+ Statement 133 on Derivative Instruments and Hedging
+ Activities. This Statement amends and clarifies the accounting
+ for derivative instruments, including certain derivative
+ instruments embedded in other contracts and for hedging
+ activities under SFAS No. 133. In particular, SFAS No. 149 (1)
+ clarifies under what circumstances a contract with an initial
+ net investment meets the characteristic of a derivative as
+ discussed in SFAS No. 133, (2) clarifies when a derivative
+ contains a financing component, (3) amends the definition of
+ an underlying derivative to conform it to the language used in
+ FASB Interpretation No. 45, Guarantor Accounting and
+ Disclosure Requirements for Guarantees, Including Indirect
+ Guarantees of Indebtedness of Others, and (4) amends certain
+ other existing pronouncements. SFAS No. 149 is generally
+ effective for contracts entered into or modified after June
+ 30, 2003. The Company has adopted SFAS No. 149 effective July
+ 1, 2003, and it did not materially effect the consolidated
+ financial position or results of operations.
+
+ In May 2003, the FASB issued SFAS No. 150, Accounting for
+ Certain Financial Instruments with Characteristics of both
+ Liabilities and Equity. This Statement establishes standards
+ for classifying and measuring as liabilities certain financial
+ instruments that embody obligations of the issuer and have
+ characteristics of both liabilities and equity. SFAS No. 150
+ is effective at the beginning of the first interim period
+ beginning after June 15, 2003; including all financial
+ instruments created or modified after May 31, 2003. SFAS No.
+ 150 currently has no impact on the Company.
+
+ In November 2002, the FASB issued FASB Interpretation No. 45,
+ Guarantor's Accounting for Disclosure Requirements for
+ Guarantees, Including Indirect Guarantees of Indebtedness of
+ Others, an interpretation of FASB Statements No. 5, 57, and
+ 107 and rescission of FASB Interpretation No. 34, Disclosure
+ of Indirect Guarantees of Indebtedness of Others ("FIN 45").
+ FIN 45 clarifies the requirements for a guarantor's accounting
+ for and disclosure of certain guarantees issued and
+ outstanding. It also requires a guarantor to recognize, at the
+ inception of a guarantee, a liability for the fair value of
+ the obligation undertaken in issuing the guarantee. This
+ Interpretation also incorporates without reconsideration the
+ guidance in FASB Interpretation No. 34, which is being
+ superseded. The Company has adopted this standard, and it did
+ not materially affect the consolidated financial position or
+ results of operations.
+
+ In January 2003, the FASB issued FIN No. 46, Consolidation of
+ Variable Interest Entities" ("FIN 46") which is an
+ interpretation of Accounting Research Bulletin No. 51,
+ Consolidated Financial Statements. FIN 46 requires a variable
+ interest entity ("VIE") to be consolidated by a company that
+ is considered to be the primary beneficiary of that VIE. In
+ December 2003, the FASB issued FIN No. 46 (revised December
+ 2003), Consolidation of Variable Interest Entities ("FIN
+ 46-R") to address certain FIN 46 implementation issues. The
+ Company is currently evaluating the application of FIN 46 as
+ it relates to Cactus Family Investments, LLC, an entity owned
+ by the majority shareholders of the Company.
+
+ o. Concentrations of Credit Risk - The Company maintains its cash
+ balances in financial institutions. Deposits, not to exceed
+ 100,000, are insured by the Federal Deposit Insurance
+ Corporation. At October 31, 2003, 2002 and 2001, the Company
+ had uninsured cash of approximately 619,000, 536,000 and
+ 411,000, respectively.
+
+ p. Advertising costs are expensed as incurred and are included in
+ other operating expenses. Advertising expense totaled
+ approximately 19,000, 23,000 and 18,000 for the years ended
+ October 31, 2003, 2002 and 2001, respectively.
+
+22
+
+q. Reclassifications - Certain reclassifications have been made
+ to the 2002 and 2001 amounts to conform to the 2003
+ presentation.
+
+2. LIQUIDITY AND GOING CONCERN
+
+The Company incurred significant losses during the current fiscal year and has
+experienced additional losses in prior years. A related party has advanced funds
+on demand notes and through the deferral of rent payments (See Note 4) in order
+to overcome working capital deficiencies during the year. Subsequent to October
+31, 2003, the Company granted the related party, Cactus Family Investments, LLC,
+a security interest in all of its unencumbered assets. There is no assurance
+that additional advances will be made if additional working capital is required.
+The Company has been notified by the State of Arizona that it does not meet
+Arizona's requirement that the Company be solvent to make sales in that state.
+The Company is seeking alternatives to meet Arizona's regulations. Based upon
+the foregoing, the accompanying financial statements have been prepared assuming
+the Company will continue as a going concern. The Company has incurred a loss in
+November and December 2003 and expects such losses to continue into the early
+months of 2004. The Company continues to pursue cost cutting measures and to
+seek additional business to reduce working capital needs.
+
+3. SIGNIFICANT EVENTS
+
+In 2001, two of the Company's underwriters transferred the administration of the
+contracts/policies sold and administered by M.B.A. to a third party. The
+transfer of this responsibility relieved the Company of its obligations under
+the agency agreement except for obligations relating to future contract/policy
+cancellations. As a result, 8,488,000 of deferred VSC revenue, 8,089,000 of
+deferred direct acquisition costs and 345,000 of deferred administrative
+service fee revenue were recognized as income and operating expenses in the
+third quarter of 2001.
+
+In 2001, the Company also wrote off a receivable from the underwriters for
+deferred administrative costs. When a contract/policy was sold, the Company
+remitted a portion of its commission to the underwriter as a reserve for
+administrative services. As the contracts/policies expired, the underwriter
+would return the reserve submitted. As a part of the administrative release
+agreements, the Company agreed to forfeit 254,000 of the reserves for deferred
+administrative costs held by the underwriters.
+
+The net effect of the above transactions is an increase in net operating income
+of 490,000 in fiscal 2001.
+
+The Company continues to perform certain administrative duties relating to the
+calculation and administration of contract/policy cancellations. The balance
+included in deferred revenue and deferred direct acquisition costs at July 31,
+2001 for these cancellations, 1,537,000 and 1,455,000 respectively, will be
+recognized in income and expense over the remaining life of the contract/policy.
+If the contract/policy is cancelled, the company will recognize the remaining
+portion of the unearned revenue and direct acquisition cost in the month of
+cancellation. Approximately 11,000 of net deferred income remains at October
+31, 2003 to offset costs that are expected to be incurred in administrating the
+cancellations of these contracts/policies.
+
+4. RELATED PARTY TRANSACTIONS
+
+Included in accounts and note payable - officer at October 31, 2003 and 2002 is
+ 349,000 and 160,000 of accrued rent for office space payable to Cactus Family
+Investments, LLC, an entity owned by the Company's majority stockholders. Rent
+expense for the years ending October 31, 2003, 2002 and 2001 was 312,000,
+ 252,000 and 248,000, respectively. The lease expiring December 31, 2003 was
+signed with an affiliate on January 1, 1999. A month-to-month lease extension at
+the December 2003 rate (approximately 25,000 per month) was signed in December
+2003. The expiring lease included escalating rent amounts that have been
+recorded as expense on a straight-line basis over the lease term.
+
+At various times beginning in February 2002, Gaylen Brotherson, the Company's
+Chief Executive Officer, has loaned the Company funds for working capital. The
+loan balances were 167,709 and 106,548 at October 31, 2003 and 2002
+respectively. The loans mature annually on October 31st and bear interest at a
+rate of 6 . Subsequent to
+
+23
+
+October 31, 2003, the Company renegotiated the terms of the notes and granted
+the related party, Cactus Family Investments, LLC, a security interest in all of
+its unencumbered assets. The current note is payable on demand and bears
+interest at 6 .
+
+The Company pays a substantial portion of its claims obligations through the use
+of credit cards held personally by its majority shareholders and repays the
+credit card companies directly. The Company has agreed to indemnify the majority
+shareholders from its obligations arising from the use of these credit cards.
+
+5. MARKETABLE SECURITIES
+
+The following table summarizes the Company's available for sale securities as of
+October 31, 2003 and October 31, 2002:
+
+October 31, 2003 Gross Gross
+ Amortized Unrealized Unrealized Fair
+ Costs Gains Losses Value
+ -------- -------- -------- --------
+ 
+Marketable Securities:
+ Corporate bonds 33,642 4,158 37,800
+ Mutual Funds 61,861 2,074 63,935
+ Equities 27,601 (12,133) 15,468
+ -------- -------- -------- --------
+
+Total Marketable Securities at October 31, 2003 123,104 6,232 (12,133) 117,203
+ ======== ======== ======== ========
+ 
+October 31, 2002 Gross Gross
+ Amortized Unrealized Unrealized Fair
+ Costs Gains Losses Value
+ -------- -------- -------- --------
+ 
+Marketable Securities:
+ Corporate bonds 33,642 4,018 37,660
+ Mutual Funds 106,179 3,827 110,006
+ Equities 27,601 (16,225) 11,376
+ -------- --------- -------- --------
+
+Total Marketable Securities at October 31, 2002 167,422 7,845 (16,225) 159,042
+ ======== ========= ======== ========
+
+6. INCOME TAXES
+
+Income taxes were as follows for the years ended October 31:
+
+ 2003 2002 2001
+ -------- --------- ---------
+
+Current -- (450,668) (311,987)
+Deferred 580,844 (25,163) 343,117
+ -------- --------- ---------
+
+Total income tax (benefit) expense 580,844 (475,831) 31,130
+ ======== ========= ========
+
+24
+
+The effective income tax rate differs from the federal statutory income tax rate
+in effect each year as a result of the following items:
+
+ 2003 2002 2001
+ ---- ---- ----
+Federal statutory income tax rate 34 34 34 
+State taxes 6 6 6
+Operating loss utilization -- (34) --
+Net operating loss carryback -- (34) --
+Valuation Allowance (40) (6) (49)
+Deferred revenues, net 8 (2) --
+Other 40 -- (8)
+ ---- ---- ----
+Effective income tax rate 48 (36) (17) 
+ ==== ==== ====
+
+At October 31, 2003, the Company had a state net operating loss carry forward
+deductions available of 973,000, which expires in 2006, 1,237,000, which
+expires in 2007 and 1,137,000 which expires in 2008. The Company will carry
+forward the current year taxable loss of 1,137,000 for federal income tax
+purposes as well.
+
+The deferred tax liabilities at October 31, 2003 and 2002 are composed of the
+tax effects of:
+
+ 2003 2002
+ ---- ----
+Excess of net book basis of
+fixed assets over tax basis 4,666 19,073
+ ======= =======
+
+7. STOCK OPTIONS AND STOCK AWARDS
+
+During the year ended October 31, 1998, the Company issued stock options to
+certain employees. The Company applies APB Opinion No. 25 and related
+interpretations in measuring compensation expense for its stock options. During
+the years ended October 31, 2003, 2002 and 2001, no compensation expense was
+recognized.
+
+A summary of the Company's outstanding options as of October 31, 2003 is
+presented below:
+
+ Weighted Average
+ Exercise Expiration Contractual Life
+ Options Price Date (In Years)
+
+33,334 2.25 February 15, 2006 2.30
+ 25,000 1.20 September 30, 2008 4.92
+ 1,667 1.20 October 31, 2008 5.01
+ 100,000 0.94 June 1, 2008 4.59
+ 20,000 1.05 September 30, 2008 4.92
+ 5,000 1.05 October 31, 2008 5.01
+ --------- ----
+ 185,001 4.27
+ --------- ----
+
+25
+
+A summary of the activity regarding the Company's outstanding options for the
+years ended October 31 is presented below:
+
+2003 2002 2001
+ ------------------------- ----------------------- ----------------------
+ Weighted Weighted Weighted
+ Average Average Average
+ Exercise Exercise Exercise
+ Shares Price Shares Price Shares Price
+
+Options outstanding at beginning of year 185,001 1.23 185,001 1.23 185,001 1.23
+Options granted -- -- -- -- -- --
+Options exercised -- -- -- -- -- --
+Options cancelled -- -- -- -- -- --
+ ------- -------- ------- -------- ------- --------
+Options outstanding at end of year 185,001 1.23 185,001 1.23 185,001 1.23
+ ======= ======== ======= ======== ======= ========
+
+In addition to the options and shares issued during the year ended October 31,
+1998, discussed above, the Company also has reserved, for issuance, various
+options and shares to employees, which are based on the occurrence of future
+events including the Company reaching certain sales levels. Under an arrangement
+approved by the Board of Directors, the CEO and Vice-President each will be
+granted options if sales growth goals are met. For every 5 million in sales
+growth, the CEO will receive options to purchase 1,667 shares at an exercise
+price of 80 percent of market price at the date sales goals are met. The
+President will receive options to purchase 5,000 shares at an exercise price of
+70 percent of the market price at the date sales goals are met, for every 5
+million in sales growth.
+
+8. OPERATING AND CAPITAL LEASES
+
+The Company has operating leases for office space and equipment and a capital
+lease for equipment that expire on various dates through the year ending October
+31, 2004. The equipment under capital lease is included in property and
+equipment at October 31, 2003 and 2002 with values of 28,873 and 9,472
+respectively, net of accumulated amortization of 49,463 and 21,528
+respectively. Total rental expense was approximately, 312,000, 294,000 and
+ 283,000 for the years ended October 31, 2003, 2002 and 2001, respectively.
+
+ Future minimum lease payments under non-cancelable lease agreements at October
+31, 2003 are as follows:
+
+ Operating Capital
+ Lease Leases
+
+2004 45,930 8,203
+2005 8,203
+2006 2,830
+ ------- -------
+Total 45,930 19,236
+ =======
+
+Less portion representing interest 3,053
+ -------
+Total 16,183
+ =======
+
+The interest rates under the capital leases obligations range from approximately
+15 to 19 per annum and are imputed based on the lessor's implicit rate of
+return at the inception of the lease.
+
+26
+
+9. SIGNIFICANT CUSTOMERS
+
+In 2003, a national insurance brokerage firm accounted for 2,433,000 of VSC
+sales while another major customer accounted for 1,673,000 of 2003 VSC sales.
+These two firms combined accounted for 77 of all 2003 VSC sales. The Company
+services these accounts under contracts that are subject to renewal annually.
+
+10. COMMITMENTS AND CONTINGENCIES
+
+The Company is subject to claims and lawsuits that arise in the ordinary course
+of business, consisting principally of alleged errors and omissions in
+connection with the sale of insurance and personnel matters and of disputes over
+outstanding accounts. The Company is currently involved in a dispute, for
+undisclosed damages, with one of its associated insurance companies over alleged
+wrongdoing, an alleged breach of its Administrative Agreement and over
+reimbursement for claims and cancellations expenditures. The Company maintains a
+reserve for claims arising in the ordinary course of business and believes that
+this reserve is sufficient to cover the costs of such claims. On the basis of
+information presently available, management does not believe the settlement of
+any such claims or lawsuits will have a material adverse effect on the financial
+position, results of operations or cash flows of the Company.
+
+11. LINE OF CREDIT
+
+The Company has available a 200,000 working capital line of credit which
+expires on November 30, 2003. Borrowings under the line of credit bear interest
+at a variable rate per annum equal to the sum of the thirty-day dealer
+commercial paper rate, as published in The Wall Street Journal plus 3.15 
+(4.21 at October 31, 2003). Borrowings are collateralized by the Company's
+investments. There was 196,897 outstanding at October 31, 2003. There was no
+outstanding balance at October 31, 2002 or 2001. The Company intends to repay
+the indebtedness in the near future.
+
+12. QUARTERLY FINANCIAL INFORMATION (UNAUDITED)
+
+For the year ended October 31, 2003
+ 1st 2nd 3rd 4th
+ Qtr Qtr Qtr Qtr
+ ----------- ----------- ----------- -----------
+ 
+Net revenues 1,440,774 1,421,496 1,400,657 1,365,482
+Gross profit 174,338 169,619 172,801 82,466
+Net (loss) income (212,543) (329,358) (375,010) (868,549)
+Net (loss) income per share (0.11) (0.17) (0.18) (0.44)
+
+For the year ended October 31, 2002
+ 1st 2nd 3rd 4th
+ Qtr Qtr Qtr Qtr
+ ----------- ----------- ----------- -----------
+ 
+Net revenues 1,867,748 2,349,498 10,813,767 1,173,703
+Gross profit 310,307 402,172 848,066 293,939
+Net (loss) income (157,906) (99,361) 173,436 (251,111)
+Net (loss) income per share (0.08) (0.05) 0.09 (0.13)
+
+27
+
+Item 9. Changes in and Disagreements with Auditors on Accounting and Financial
+Disclosure.
+
+The Company has not had disagreements with its auditors on any matter regarding
+accounting principles or financial statement disclosures.
+
+The data required by Item 304 of Regulation S-K is set forth below:
+
+Part III
+
+Item 10. Directors and Executive Officers of the Registrant
+
+The Company's Board of Directors consists of four people. All Directors hold
+offices until the next annual meeting at which time there is an election for
+their successors.
+
+Position with
+
+ Name Age Company
+- --------------------------------------------------------------------------------
+Gaylen M. Brotherson 64 President, CEO, Chairman of the Board, Director
+Judy K. Brotherson 56 Vice-President, Secretary, Director
+Edward E. Wilczewski 63 Director
+Michael Brady 62 Director
+
+Gaylen and Judy Brotherson are husband and wife. No other family relationship
+exists between the Directors or the executive officers.
+
+THE BUSINESS EXPERIENCE OF EACH OF THE COMPANY'S DIRECTORS IS AS FOLLOWS:
+
+Gaylen Brotherson, 64, became President, CEO, Chairman of the Board, and
+Director of the Company in November 1995. He was the founder of Mechanical
+Breakdown Administrators, Inc. Mr. Brotherson served in the United States Navy.
+In 1960, he received his life, health and accident licenses as well as his
+property and casualty license. Presently, he is licensed as an insurance agent
+in 27 states. He has been in the vehicle service contract business since 1974.
+Since 1984 he has been actively involved in marketing and administering
+mechanical breakdown insurance policies and VSCs under Mechanical Breakdown
+Administrators, Inc. Also, Mr. Brotherson serves on the Board of Directors of
+Bank USA, in Phoenix, AZ.
+
+Judy Brotherson, 56, has been Vice-President, Secretary and Director of the
+Company since November 1995. Mrs. Brotherson is a graduate of Creighton
+University. Since 1975, she has worked primarily in family owned businesses. She
+holds insurance licenses in approximately 32 states. She was one of the chief
+designers of the M.B.A. software management system. She has been working at
+M.B.A. since 1989 primarily involved in overseeing the finance and data-entry
+departments.
+
+Edward Wilczewski, 63, has been a Director of the Company since June 1998. Mr.
+Wilczewski served in the Navy for six years. Mr. Wilczewski is a graduate of the
+University of Omaha. Primarily for the past thirty years including the present
+time, he has owned and operated The Charter Group of Arizona, a real estate
+development company. His company has developed various real estate projects
+ranging from single-family homes to apartment complexes.
+
+Michael Brady, 62, has been a Director of the Company since December 2000. Mr.
+Brady is a graduate of Creighton University. For the last 35 years, he has been
+a lawyer and business person operating domestically and internationally.
+Specifically, for the last several years, he has been the Chairman of the
+European Trade Link Company, which is an international distribution company.
+Also, he is the President of Vandermaal/Brady
+
+28
+
+International Inc., which is a US based international consulting company. From
+July 1998 to December 1999, he served as the Chairman of American Bantrust
+Mortgage Services Corp., which is a US based mortgage-banking company. From 1997
+to August 1999, he served on the Board of Directors of Modis Training
+Technologies Inc., which was a US based semiconductor training company. From
+1990 to 1996, he started as the Chief Legal Counsel and became the Chief
+Executive Officer of Metrol Security Services Inc., which was a US based full
+service burglar, fire alarm installation and monitoring company.
+
+OTHER EXECUTIVE OFFICERS AND KEY EMPLOYEES
+
+Dennis M. O'Connor, 64, is the Chief Financial Officer. He joined the Company in
+November of 2001 as a consultant and entered the full time employ of the Company
+in June 2002. Prior to joining the Company, Mr. O'Connor worked for more than
+forty years in various financial leadership positions. Mr. O'Connor was educated
+at Canisius College, Buffalo, NY where he received a Bachelor of Science degree
+and Master of Business Administration degree. Mr. O'Connor is a Certified Public
+Accountant.
+
+Item 11. Executive Compensation
+
+The following table provides the annual and other compensation of the Chief
+Executive Officer and any other employee who qualifies under Regulation S-K
+section 229.402 for the years ended October 31, 2001, 2002 and 2003.
+
+LONG-TERM
+ ANNUAL COMPENSATION COMPENSATION
+ ----------------------------------------- --------------------------------
+ Restricted Stock
+ Stock Option
+ (shares) (shares)
+Name of Principal Position Year Salary Bonus Other (1) awards awards
+- ----------------- -------- ---- ------ ----- --------- ------ ------
+ 
+Gaylen M. Brotherson Chairman of Board 2001 50,000 21,894
+ President and 2002 50,000 14,173
+ Chief Executive Officer 2003 50,000 8,184
+
+Judy K. Brotherson Vice-President, Secretary 2001 50,000
+ 2002 50,000
+ 2003 50,000
+
+(1) Included in Other Annual Compensation are an auto lease paid for Gaylen
+Brotherson in fiscal 2001and 2002, auto insurance for Gaylen Brotherson in
+fiscal 2001 and 2002 and life insurance premiums for Gaylen Brotherson in years
+2001, 2002 and 2003
+
+Option Grants In Last Fiscal Year
+None
+
+29
+
+Other Incentives and Compensation
+
+The Company does not have a formal stock option plan. Currently, stock options
+are granted by the Board of Directors. At October 31, 2003, there were only two
+employees, Gaylen Brotherson and Judy Brotherson, who had stock options. All
+options are exercisable. Below is a summary of existing options.
+
+Number of Strike Expiration
+ Name Shares Price Date
+- ---------------------------------------------------------------------------
+Gaylen Brotherson 33,334 2.25 2/15/06
+ 25,000 1.20 10/31/08
+ 1,667 1.20 10/31/08
+
+Judy Brotherson 100,000 0.94 6/1/08
+ 20,000 1.05 9/30/08
+ 5,000 1.05 10/31/08
+
+In addition, per the Board of Directors' resolution dated February 15, 1996,
+Gaylen Brotherson receives an option to purchase 1,667 shares at 80 of the
+stock's fair market value for each 5,000,000 increase in sales after
+ 25,000,000 on the date the sales goals are reached. Per the Board of Directors'
+resolution dated June 1, 1998, Judy Brotherson receives an option to purchase
+5,000 shares at 70 of the stock's fair market value for each 5,000,000
+increase in sales after 25,000,000 on the date the sales goals are reached.
+These options will expire ten years from the grant date.
+
+Item 12. Security Ownership of Certain Beneficial Owners and Management.
+
+The following table sets forth information as of October 31, 2003 concerning
+shares of Common Stock with .001 par value, the Company's only voting
+securities. This table includes all beneficial owners who own more than 5 of
+the outstanding voting securities, each of the Company's directors by each
+person who is known by the Company to own beneficially more than 5 of the
+outstanding voting securities of the Company, and by the Company's executive
+officers and directors as a group.
+
+Name And Address Amount and Nature
+Title of Class of Beneficial Owner of Beneficial Owner Percent of Class
+- ------------------------------------------------------------------------------------------------
+ 
+Common Stock Gaylen Brotherson 902,615 shares (1) 44.5 
+ 9419 E. San Salvador
+ Suite 105
+ Scottsdale, AZ 85258
+
+Common Stock Judy Brotherson 825,301 shares (1) 40.7 
+ 9419 E. San Salvador
+ Suite 105
+ Scottsdale, AZ 85258
+
+Common Stock CEDE & Co 219,928 10.8 
+ Box 220
+ Bowling Green Station
+ New York, NY 10274
+
+Common Stock All Directors and Executive 1,727,916 shares 85.1 
+ Officers as a Group (five people)
+
+30
+
+(1) This amount represents shares owned and excludes the 60,001 options to
+purchase common stock for Gaylen Brotherson and the 125,000 options to purchase
+common stock for Judy Brotherson. If these options were exercised by Gaylen
+Brotherson and Judy Brotherson, then their percentage of ownership would change
+to 43.5 and 42.9 , respectively (see Item 6. Executive Compensation).
+
+Item 13. Certain Relationships and Related Transactions
+
+The Company leases its office space from Cactus Family Investments, LLC. The
+managing member of Cactus Family Investments, LLC is Gaylen Brotherson, the
+Chief Executive Officer. Rent expense for this office space was 312,000,
+ 252,000 and 248,000 for the years ended October 31, 2003, 2002, and 2001,
+respectively. The Company signed a new lease with the affiliated entity on
+January 1, 1999. This new lease expires on December 31, 2003. In December 2003,
+the Company extended the existing lease on a month-to-month basis and is
+obligated to pay monthly rent equal to the final monthly rent payment required
+by the expiring lease.
+
+Part IV
+
+Item 14. Exhibits, Financial Statement Schedules, and reports on Form 8-K.
+
+ (a) Exhibit Index
+
+ Exhibit 31.1 Certification of Chief Executive Officer Pursuant to
+ 18 U.S.C. Section 1350, as Adopted Pursuant to Section
+ 302 of the Sarbanes-Oxley Act of 2002
+
+ Exhibit 31.2 Certification of Chief Financial Officer Pursuant to
+ 18 U.S.C. Section 1350, as Adopted Pursuant to Section
+ 302 of the Sarbanes-Oxley Act of 2002
+
+ Exhibit 32.1 Certification of Chief Executive Officer Pursuant to
+ 18 U.S.C. Section 1350, as Adopted Pursuant to Section
+ 906 of the Sarbanes-Oxley Act of 2002
+
+ Exhibit 32.2 Certification of Chief Financial Officer Pursuant to
+ 18 U.S.C. Section 1350, as Adopted Pursuant to Section
+ 906 of the Sarbanes-Oxley Act of 2002
+
+ (b) Reports on Form 8-K
+
+ Form 8-K Current Report was filed September 16, 2002. This Current
+ Report contained the sworn statements of Gaylen M. Brotherson, Chief
+ Executive Officer and Dennis M. O'Connor, Chief Financial Officer in
+ the form specified by the Securities and Exchange Commission.
+
+ Form 8-K Current Report was filed October 23, 2002 and amended
+ October 30, 2002. This Current Report disclosed that Deloitte &
+ Touche, LLP had declined to stand for re-election. The Current
+ Report stated that the last two years reports did not contain an
+ adverse opinion, that there were no disagreements on any matters of
+ accounting principles or practices, financial statement disclosure
+ or auditing scope of procedure.
+
+ From 8-K Current Report was filed November 27, 2002. This Current
+ Report stated that the firm Semple & Cooper, LLP has been engaged as
+ the principal accountants of the Company.
+
+The following documents are filed as part of this report under Part II Item 8:
+
+Reference is made to the Index to Financial Statements and Financial Statement
+Schedules included in Item 9 of Part II hereof, where such documents are listed.
+
+31
+
+SIGNATURES
+Pursuant to the requirements of Section 13 or 15 (d) of the Securities Exchange
+Act of 1934, the Registrant has duly caused this report to be signed on its
+behalf by the undersigned thereto duly authorized.
+
+MBA Holdings, Inc.
+
+By: /s/ Gaylen M. Brotherson Dated: January 29, 2004
+- ------------------------------------
+Gaylen Brotherson
+Chairman of the Board and Chief Executive Officer
+
+By: /s/ Dennis M. O'Connor Dated: January 29, 2004
+- -----------------------------------
+Dennis M. O'Connor,
+Chief Financial Officer
+
+32
+
+<EX-31.1>
+ 3
+ p18111_ex31-1.txt
+ CERTIFICATION OF CEO RE: SECTION 302
+ 
+Exhibit 31.1
+
+Certification of Chief Executive Officer Pursuant to 18 U.S.C. Section 1350, as
+Adopted Pursuant to Section 302 of the Sarbanes-Oxley Act of 2002
+
+Solely for the purposes of complying with Section 1, U.S.C., 1950, I, the
+undersigned Chairman of the Board and Chief Executive Officer of M.B.A.
+Holdings, Inc. (the "Company") hereby certify, based on my knowledge, that the
+Annual Report on Form 10-K of the Company for the fiscal year ended October 31,
+2003 (the "Report") fully complies with the requirements of Section 13 (a) of
+the Securities Exchange Act of 1934 and that the information contained in the
+Report fairly presents, in all material respects, the financial condition of the
+Company.
+
+Dated January 29, 2004
+
+By /s/ Gaylen M. Brotherson
+ ----------------------------------------
+ Gaylen M. Brotherson
+ Chairman of the Board and
+ Chief Executive Officer
+
+ 33
+
+</EX-31.1>
+
+<EX-31.2>
+ 4
+ p18111_ex31-2.txt
+ CERTIFICATION OF CFO RE: SECTION 302
+
+Exhibit 31.2
+
+Certification of Chief Financial Officer Pursuant to 18 U.S.C. Section 1350, as
+Adopted Pursuant to Section 302 of the Sarbanes-Oxley Act of 2002
+
+Solely for the purposes of complying with Section 1, U.S.C., 1950, I, the
+undersigned Chief Financial Officer of M.B.A. Holdings, Inc. (the "Company")
+hereby certify, based on my knowledge, that the Annual Report on Form 10-K of
+the Company for the fiscal year ended October 31, 2003 (the "Report") fully
+complies with the requirements of Section 13 (a) of the Securities Exchange Act
+of 1934 and that the information contained in the Report fairly presents, in all
+material respects, the financial condition of the Company.
+
+Dated January 29, 2004
+
+By /s/ Dennis M. O'Connor
+ -------------------------------------
+ Dennis M. O'Connor
+ Chief Financial Officer
+
+ 34
+
+</EX-31.2>
+
+<EX-32.1>
+ 5
+ p18111_ex32-1.txt
+ CERTIFICATION OF CEO RE: SECTION 906
+
+Exhibit 32.1
+
+Statement Under Oath of Principal Executive Officer Regarding Facts and
+Circumstances Relating to Exchange Act Filings
+
+I, Gaylen M. Brotherson, state and attest that:
+
+(1) To the best of my knowledge, based upon a review of the covered reports
+ of M.B.A. Holdings, Inc., and, except as corrected or supplemented in a
+ subsequent covered report:
+
+ o no covered report contained an untrue statement of a material
+ fact as of the end of the period covered by such report (or in
+ the case of a report on Form 8-K or definitive proxy materials,
+ as of the date on which it was filed); and
+
+ o no covered report omitted to state a material fact necessary to
+ make the statements in the covered report, in light of the
+ circumstances under which they were made, not misleading as of
+ the end of the period covered by such report (or in the case of a
+ report on Form 8-K or definitive proxy materials, as of the date
+ on which it was filed).
+
+(2) I have reviewed the contents of this statement with the Company's Audit
+ Committee.
+
+(3) In this statement under oath, each of the following, if filed on or
+ before the date of this statement, is a "covered report":
+
+ o Annual Report on Form 10-K of M.B.A. Holdings, Inc. for the year
+ ended October 31, 2003 filed with the Securities and Exchange
+ Commission, File Number 1-9183,
+
+ o all reports on Form 10-Q, all reports on Form 8-K and all
+ definitive proxy materials of M.B.A. Holdings, Inc. filed with
+ the Commission subsequent to the filing of the Form 10-K
+ identified above; and
+
+ o any amendments to any of the foregoing.
+
+/s/ Gaylen M. Brotherson
+- -------------------------------
+Gaylen M. Brotherson
+January 29, 2004
+
+ Subscribed and sworn to before me
+ This 29th day of January 2004.
+
+ /s/ Shelly Beesley
+ ----------------------------------
+ Notary Public
+ My Commission Expires: September 30, 2007
+
+ 35
+
+</EX-32.1>
+
+<EX-32.2>
+ 6
+ p18111_ex32-2.txt
+ CERTIFICATION OF CFO RE: SECTION 906
+
+Exhibit 32.2
+
+Statement Under Oath of Principal Financial Officer Regarding Facts and
+Circumstances Relating to Exchange Act Filings
+
+I, Dennis M. O'Connor, state and attest that:
+
+(1) To the best of my knowledge, based upon a review of the covered reports
+ of M.B.A. Holdings, Inc., and, except as corrected or supplemented in a
+ subsequent covered report:
+
+ o no covered report contained an untrue statement of a material
+ fact as of the end of the period covered by such report (or in
+ the case of a report on Form 8-K or definitive proxy materials,
+ as of the date on which it was filed); and
+
+ o no covered report omitted to state a material fact necessary to
+ make the statements in the covered report, in light of the
+ circumstances under which they were made, not misleading as of
+ the end of the period covered by such report (or in the case of a
+ report on Form 8-K or definitive proxy materials, as of the date
+ on which it was filed).
+
+(2) I have reviewed the contents of this statement with the Company's Audit
+ Committee.
+
+(3) In this statement under oath, each of the following, if filed on or
+ before the date of this statement, is a "covered report":
+
+ o Annual Report on Form 10-K of M.B.A. Holdings, Inc. for the year
+ ended October 31, 2003 filed with the Securities and Exchange
+ Commission, File Number 1-9183,
+
+ o all reports on Form 10-Q, all reports on Form 8-K and all
+ definitive proxy materials of M.B.A. Holdings, Inc. filed with
+ the Commission subsequent to the filing of the Form 10-K
+ identified above; and
+
+ o any amendments to any of the foregoing.
+
+By: /s/ Dennis M. O'Connor
+- -------------------------------
+Dennis M. O'Connor
+January 29, 2004
+
+ Subscribed and sworn to before me
+ This 29th day of January 2004.
+
+ /s/ Shelly Beesley
+ ----------------------------------
+ Notary Public
+ My Commission Expires:
+ September 30, 2007
+
+ 36
+
+</EX-32.2>
+

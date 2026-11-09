@@ -1,0 +1,1510 @@
+<Header>
+<FileStats>
+    <FileName>20040114_10-Q_edgar_data_1032067_0001019687-04-000047.txt</FileName>
+    <GrossFileSize>87115</GrossFileSize>
+    <NetFileSize>70065</NetFileSize>
+    <NonText_DocumentType_Chars>0</NonText_DocumentType_Chars>
+    <HTML_Chars>653</HTML_Chars>
+    <XBRL_Chars>0</XBRL_Chars>
+    <XML_Chars>0</XML_Chars>
+    <N_Exhibits>5</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0001019687-04-000047.hdr.sgml : 20040114
+<ACCEPTANCE-DATETIME>20040114125539
+ACCESSION NUMBER:		0001019687-04-000047
+CONFORMED SUBMISSION TYPE:	10-Q
+PUBLIC DOCUMENT COUNT:		6
+CONFORMED PERIOD OF REPORT:	20031130
+FILED AS OF DATE:		20040114
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			MEADE INSTRUMENTS CORP
+		CENTRAL INDEX KEY:			0001032067
+		STANDARD INDUSTRIAL CLASSIFICATION:	OPTICAL INSTRUMENTS & LENSES [3827]
+		IRS NUMBER:				952988062
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0228
+
+	FILING VALUES:
+		FORM TYPE:		10-Q
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-22183
+		FILM NUMBER:		04524444
+
+	BUSINESS ADDRESS:	
+		STREET 1:		6001 OAK CANYON
+		CITY:			IRVINE
+		STATE:			CA
+		ZIP:			92618
+		BUSINESS PHONE:		9494511450
+
+	MAIL ADDRESS:	
+		STREET 1:		6001 OAK CANYON
+		CITY:			IRVING
+		STATE:			CA
+		ZIP:			92618
+
+</SEC-Header>
+</Header>
+
+ 
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ DTR5zNmTDI4zF4pbfqTS16tDSqW9lDcC44OVZATlbG0xN8SSLbk9WIA7km/IMNFX
+ e9H05v63NeSJfA5NBtdDRQ==
+
+ 0001019687-04-000047.txt : 20040114
+
+10-Q
+ 1
+ meade_10q-113003.txt
+
+================================================================================
+
+ UNITED STATES
+ SECURITIES AND EXCHANGE COMMISSION
+ WASHINGTON, D.C. 20549
+ ________________
+
+ FORM 10-Q
+
+[X] QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES
+ EXCHANGE ACT OF 1934
+
+ FOR THE QUARTER ENDED NOVEMBER 30, 2003
+ OR
+
+[ ] TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES
+ EXCHANGE ACT OF 1934
+
+ COMMISSION FILE NUMBER 0-22183
+ ________________
+
+ MEADE INSTRUMENTS CORP.
+- --------------------------------------------------------------------------------
+ (Exact Name of Registrant as Specified in Its Charter)
+
+ DELAWARE 95-2988062
+ -------- ----------
+ (State or Other Jurisdiction (I.R.S. Employer
+of Incorporation or Organization) Identification No.)
+
+ 6001 OAK CANYON, IRVINE, CA 92618
+ --------------------------- -----
+(Address of Principal Executive Offices) (Zip Code)
+
+(949) 451-1450
+ --------------
+ (Registrant's Telephone Number, Including Area Code)
+
+ Indicate by check mark whether the Registrant (1) has filed all reports
+required to be filed by Section 13 or 15(d) of the Securities Exchange Act of
+1934 during the preceding 12 months (or for such shorter period that the
+Registrant was required to file such reports) and (2) has been subject to such
+filing requirements for the past 90 days.
+
+ Yes [X] No [ ]
+
+ Indicate by check mark whether the registrant is an accelerated filer (as
+defined in Rule 12b-2 of the Exchange Act).
+
+ Yes [ ] No [X]
+
+ Number of shares of common stock outstanding as of December 31, 2003 is
+19,985,107.
+
+================================================================================
+
+MEADE INSTRUMENTS CORP.
+
+ TABLE OF CONTENTS
+
+ PART I -- FINANCIAL INFORMATION
+
+Page No.
+ --------
+
+Consolidated Balance Sheets (Unaudited) -- November 30, 2003 and February 28, 2003....................... 1
+
+Consolidated Statements of Income (Unaudited) -- Three and Nine Months Ended
+November 30, 2003 and 2002............................................................................... 2
+
+Consolidated Statements of Cash Flows (Unaudited) -- Nine Months Ended November 30, 2003 and 2002........ 3
+
+Notes to Consolidated Financial Statements (Unaudited)................................................... 4
+
+Management's Discussion and Analysis of Financial Condition and Results of Operations.................... 7
+
+Quantitative and Qualitative Disclosures about Market Risk............................................... 10
+
+Controls and Procedures.................................................................................. 11
+
+PART II -- OTHER INFORMATION
+
+Legal Proceedings........................................................................................ 12
+
+Changes in Securities and Use of Proceeds................................................................ 13
+
+Defaults Upon Senior Securities.......................................................................... 13
+
+Submission of Matters to a Vote of Security Holders...................................................... 13
+
+Other Information........................................................................................ 13
+
+Exhibits and Reports on Form 8-K......................................................................... 14
+
+Signatures............................................................................................... 15
+
+i
+
+ITEM 1. FINANCIAL STATEMENTS.
+
+MEADE INSTRUMENTS CORP.
+
+ CONSOLIDATED BALANCE SHEETS
+ (UNAUDITED)
+
+ASSETS
+ NOVEMBER 30, FEBRUARY 28,
+ 2003 2003
+ -------------- --------------
+ 
+Cash ...................................................................... 2,167,000 2,445,000
+Accounts receivable, less allowance for doubtful accounts of 1,033,000
+ at November 30, 2003 and 714,000 at February 28, 2003 ................ 50,126,000 22,364,000
+Inventories ............................................................... 47,409,000 40,050,000
+Deferred income taxes ..................................................... 4,356,000 5,240,000
+Prepaid income taxes ...................................................... -- 818,000
+Prepaid expenses and other current assets ................................. 467,000 563,000
+ -------------- --------------
+ Total current assets ........................................ 104,525,000 71,480,000
+Other assets .............................................................. 488,000 818,000
+Goodwill and acquisition-related intangible assets, net ................... 5,486,000 5,657,000
+Property and equipment, net of accumulated depreciation of 10,736,000
+ at November 30, 2003 and 9,286,000 at February 28, 2003 .............. 4,663,000 5,842,000
+ -------------- --------------
+ 115,162,000 83,797,000
+ ============== ==============
+
+ LIABILITIES AND STOCKHOLDERS' EQUITY
+Current liabilities:
+ Bank line of credit ................................................... 31,275,000 9,063,000
+ Accounts payable ...................................................... 9,292,000 5,464,000
+ Accrued liabilities ................................................... 6,983,000 6,293,000
+ Income taxes payable .................................................. 702,000 --
+ Current portion, long-term debt and capital lease obligations ......... 585,000 583,000
+ -------------- --------------
+ Total current liabilities ................................... 48,837,000 21,403,000
+Long-term bank debt ....................................................... 1,818,000 2,139,000
+
+Commitments and contingencies
+Stockholders' equity:
+ Common stock, 0.01 par value, 50,000,000 shares authorized;
+ 19,985,000 and 19,806,000 shares issued and outstanding
+ at November 30, 2003 and at February 28, 2003, respectively ........ 200,000 198,000
+ Additional paid-in capital ............................................ 40,504,000 39,979,000
+ Retained earnings ..................................................... 26,143,000 23,439,000
+ Accumulated other comprehensive income ................................ 420,000 96,000
+ -------------- --------------
+ 67,267,000 63,712,000
+ Unearned ESOP shares .................................................. (2,760,000) (3,457,000)
+ -------------- --------------
+ Total stockholders' equity .................................. 64,507,000 60,255,000
+ -------------- --------------
+ 115,162,000 83,797,000
+ ============== ==============
+
+See accompanying notes to consolidated financial statements.
+
+ 1
+
+MEADE INSTRUMENTS CORP.
+
+ CONSOLIDATED STATEMENTS OF INCOME
+ (UNAUDITED)
+
+THREE MONTHS ENDED NINE MONTHS ENDED
+ NOVEMBER 30, NOVEMBER 30,
+ 2003 2002 2003 2002
+ ------------- ------------- ------------- -------------
+ 
+Net sales ............................. 54,448,000 44,519,000 107,223,000 88,607,000
+Cost of sales ......................... 37,892,000 29,558,000 76,773,000 60,077,000
+ ------------- ------------- ------------- -------------
+ Gross profit ........................ 16,556,000 14,961,000 30,450,000 28,530,000
+Selling expenses ...................... 6,573,000 5,107,000 14,158,000 11,188,000
+General and administrative expenses ... 3,275,000 3,645,000 8,970,000 9,368,000
+ESOP expense .......................... 341,000 303,000 635,000 731,000
+Research and development expenses ..... 462,000 730,000 1,451,000 2,210,000
+ ------------- ------------- ------------- -------------
+ Operating income .................... 5,905,000 5,176,000 5,236,000 5,033,000
+Interest expense ...................... 325,000 293,000 761,000 728,000
+ ------------- ------------- ------------- -------------
+ Income before income taxes .......... 5,580,000 4,883,000 4,475,000 4,305,000
+Provision for income taxes ............ 2,204,000 1,987,000 1,771,000 1,782,000
+ ------------- ------------- ------------- -------------
+Net income ............................ 3,376,000 2,896,000 2,704,000 2,523,000
+ ============= ============= ============= =============
+Basic earnings per share .............. 0.18 0.17 0.14 0.16
+ ============= ============= ============= =============
+Diluted earnings per share ............ 0.17 0.17 0.14 0.16
+ ============= ============= ============= =============
+Weighted average number of shares
+ outstanding-- basic ................. 19,070,000 16,611,000 18,911,000 15,608,000
+ ============= ============= ============= =============
+Weighted average number of shares
+ outstanding-- diluted ............... 19,335,000 16,755,000 19,068,000 15,852,000
+ ============= ============= ============= =============
+
+See accompanying notes to consolidated financial statements.
+
+ 2
+
+MEADE INSTRUMENTS CORP.
+
+ CONSOLIDATED STATEMENTS OF CASH FLOWS
+ (UNAUDITED)
+
+NINE MONTHS ENDED
+ NOVEMBER 30,
+ -----------------------------
+ 2003 2002
+ ------------- -------------
+ 
+Cash flows from operating activities:
+ Net income .......................................................... 2,704,000 2,523,000
+ Adjustments to reconcile net income to net cash provided
+ by (used by) operating activities:
+ Depreciation and amortization ....................................... 1,541,000 1,409,000
+ ESOP contribution ................................................... 635,000 731,000
+ Changes in assets and liabilities, net of effects of acquisition:
+ Increase in accounts receivable .................................. (27,344,000) (27,048,000)
+ (Increase) decrease in inventories ............................... (6,955,000) 7,146,000
+ Decrease in prepaid expenses and other assets .................... 1,224,000 4,411,000
+ Increase in accounts payable ..................................... 3,683,000 3,957,000
+ Increase in accrued liabilities .................................. 783,000 2,104,000
+ Increase in income taxes payable ................................. 1,468,000 1,523,000
+ ------------- -------------
+ Net cash used in operating activities ..................... (22,261,000) (3,244,000)
+ ------------- -------------
+Cash flows from investing activities:
+ Capital expenditures ................................................ (323,000) (679,000)
+ Acquisition of Simmons, net of cash acquired ........................ -- (16,000,000)
+ ------------- -------------
+ Net cash used in investing activities ..................... (323,000) (16,679,000)
+ ------------- -------------
+Cash flows from financing activities:
+ Net borrowings under bank lines of credit ........................... 22,012,000 12,941,000
+ Payments on long-term bank notes .................................... (398,000) (407,000)
+ Net proceeds from the sale of common stock .......................... -- 7,344,000
+ Proceeds from the exercise of stock options ......................... 410,000 --
+ Payments under capital lease obligations ............................ (25,000) (118,000)
+ ------------- -------------
+ Net cash provided by financing activities ................. 21,999,000 19,760,000
+ ------------- -------------
+Effect of exchange rate changes on cash ................................. 307,000 230,000
+ ------------- -------------
+Net increase (decrease) in cash ......................................... (278,000) 67,000
+Cash at beginning of period ............................................. 2,445,000 1,249,000
+ ------------- -------------
+Cash at end of period ................................................... 2,167,000 1,316,000
+ ============= =============
+
+See accompanying notes to consolidated financial statements.
+
+ 3
+
+MEADE INSTRUMENTS CORP.
+ NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+ (UNAUDITED)
+
+A. THE CONSOLIDATED FINANCIAL STATEMENTS HAVE BEEN PREPARED BY THE COMPANY AND
+ARE UNAUDITED.
+
+ In management's opinion, the information and amounts furnished in this
+report reflect all adjustments (consisting of normal recurring adjustments)
+considered necessary for the fair presentation of the financial position and
+results of operations for the interim periods presented. These financial
+statements should be read in conjunction with the Company's Annual Report on
+Form 10-K for the fiscal year ended February 28, 2003.
+
+ The Company has experienced, and expects to continue to experience,
+substantial fluctuations in its sales, gross margins and profitability from
+quarter to quarter. Factors that influence these fluctuations include the volume
+and timing of orders received, changes in the mix of products sold, market
+acceptance of the Company's products, competitive pricing pressures, the
+Company's ability to meet demand and delivery schedules and the timing and
+extent of research and development expenses, marketing expenses and product
+development expenses. In addition, a substantial portion of the Company's net
+sales and operating income typically occur in the third quarter of the Company's
+fiscal year primarily due to disproportionately higher customer demand for
+certain of the Company's less-expensive products during the holiday season. The
+results of operations for the quarters ended November 30, 2003 and 2002,
+respectively, are not necessarily indicative of the operating results for the
+entire fiscal year.
+
+B. COMPOSITION OF CERTAIN BALANCE SHEET ACCOUNTS
+
+ The composition of inventories is as follows:
+
+ NOVEMBER 30, FEBRUARY 28,
+ 2003 2003
+ -------------- --------------
+Raw materials................................. 8,746,000 7,442,000
+Work-in-process............................... 5,723,000 4,972,000
+Finished goods................................ 32,940,000 27,636,000
+ -------------- --------------
+ 47,409,000 40,050,000
+ ============== ==============
+
+ The composition of goodwill and acquisition-related intangible assets
+is as follows:
+
+ NOVEMBER 30, FEBRUARY 28,
+ 2003 2003
+ -------------- --------------
+Goodwill...................................... 1,548,000 1,548,000
+Brand names and other......................... 3,431,000 3,431,000
+ -------------- --------------
+ Total non-amortizing acquisition-related
+ intangible assets....................... 4,979,000 4,979,000
+ -------------- --------------
+Trademarks.................................... 1,398,000 1,398,000
+Accumulated amortization...................... (891,000) (720,000)
+ -------------- --------------
+ Total amortizing acquisition-related
+ intangible assets....................... 507,000 678,000
+ -------------- --------------
+ Total goodwill and acquisition-related
+ intangible assets....................... 5,486,000 5,657,000
+ ============== ==============
+
+ Goodwill in the above table is shown net of 418,000 of amortization
+accumulated prior to the Company's adoption of Statement of Financial Accounting
+Standards No. 142, "Goodwill and Other Intangible Assets" ("SFAS No. 142") which
+requires that goodwill and identifiable assets determined to have an indefinite
+life no longer be amortized, but instead be tested for impairment at least
+annually. The Company adopted SFAS No. 142 effective March 1, 2002.
+
+C. COMMITMENTS AND CONTINGENCIES
+
+ In 2001 and 2002, the Company filed suits against Tasco Sales, Inc.
+("Tasco") and Celestron International, Inc. ("Celestron"), charging the two
+companies with patent infringement and unfair competition. The complaints allege
+that a number of Tasco's and Celestron's consumer telescopes willfully infringe
+certain of the Company's U.S. patents. In addition to seeking compensation for
+damages incurred, the suits seek to enjoin Tasco and Celestron from continuing
+to manufacture or sell products that infringe certain of the Company's patents.
+Tasco and Celestron filed answers and certain counterclaims which deny the
+Company's allegations. The counterclaim also alleges, among other things, that
+the Company is infringing a Celestron design patent. In February and May 2003,
+Celestron prevailed on partial summary judgments in which the court held that
+Celestron did not literally or equivalently infringe one of the Company's
+patents. Meade subsequently filed a notice of appeal in connection with the
+partial summary judgments obtained by Celestron. Due to the uncertainties of
+litigation, the Company is unable to provide an evaluation of the likelihood of
+either a favorable or unfavorable outcome in these matters.
+
+ 4
+
+In September 2003, the Company and Celestron agreed to pursue
+non-binding mediation of the outstanding litigation between the parties. The
+mediation is currently scheduled to take place in March 2004.
+
+ The Company is also involved from time to time in litigation incidental
+to its business. Management believes that the outcome of such litigation will
+not have a material adverse effect on the financial position, results of
+operations or cash flows of the Company.
+
+ The Company provides reserves for the estimated cost of product
+warranty-related claims at the time of sale, and periodically adjusts the
+provision to reflect actual experience. The amount of warranty liability accrued
+reflects management's best estimate of the expected future cost of honoring
+Company obligations under its warranty plans. Additionally, from time to time,
+specific warranty accruals may be made if unforeseen technical problems arise.
+Meade and Bresser branded products are generally covered by a one-year limited
+warranty. Many of the Simmons products have lifetime limited warranties. Changes
+in the warranty liability during the period ended November 30, 2003 follows.
+
+Balance at February 28, 2003............................. 1,794,000
+Warranty accrual......................................... 714,000
+Labor and material usage................................. (672,000)
+ ---------------
+Balance at November 30, 2003............................. 1,836,000
+ ===============
+
+D. NET INCOME PER SHARE
+
+ Basic earnings per share amounts exclude the dilutive effect of
+potential shares of common stock. Basic earnings per share are based upon the
+weighted-average number of shares of common stock outstanding. Diluted earnings
+per share are based upon the weighted-average number of shares of common stock
+and dilutive potential shares of common stock outstanding for each period
+presented. Potential shares of common stock include outstanding stock options
+which are included under the treasury stock method. The sole difference between
+the basic weighted average number of shares outstanding and the diluted weighted
+average number of shares outstanding for the three and nine months ended
+November 30, 2003 and 2002, reflects additional potential shares of common stock
+for outstanding stock options.
+
+E. COMPREHENSIVE INCOME
+
+ Comprehensive income (loss) is defined as a change in the equity of a
+business enterprise during a period from transactions and other events and
+circumstances from non-owner sources and, at November 30, 2003, includes foreign
+currency translation adjustments and adjustments to the fair value of highly
+effective derivative instruments. For the periods ended November 30, 2003, the
+Company had other comprehensive income (loss) as follows:
+
+THREE MONTHS ENDED NINE MONTHS ENDED
+ NOVEMBER 30, NOVEMBER 30,
+ 2003 2002 2003 2002
+ ------------ ------------ ------------ ------------
+ 
+Net income ............................................. 3,376,000 2,896,000 2,704,000 2,523,000
+Currency translation adjustment ........................ 412,000 28,000 408,000 380,000
+Change in fair value of foreign currency forward
+ contracts, net of tax ............................... 392,000 140,000 (13,000) (53,000)
+Unrealized loss in marketable securities, net of tax ... -- -- (97,000) --
+Change in fair value of interest rate swap ............. 9,000 -- 26,000 (21,000)
+ ------------ ------------ ------------ ------------
+Total other comprehensive income ....................... 4,189,000 3,064,000 3,028,000 2,829,000
+ ============ ============ ============ ============
+
+5
+
+F. DERIVATIVE INSTRUMENTS AND HEDGING ACTIVITIES
+
+ The Company utilizes a variety of derivative financial instruments to
+manage its currency exchange rate and interest rate risks as summarized below.
+The Company does not enter into these arrangements for trading or speculation
+purposes.
+
+NOVEMBER 30, 2003 FEBRUARY 28, 2003
+ --------------------------------------- --------------------------------------
+ NOTIONAL AMOUNT FAIR VALUE NOTIONAL AMOUNT FAIR VALUE
+ ------------------ -------------------- - ------------------- ------------------
+ 
+Interest rate swap agreement 1,190,000 (23,000) 1,505,000 (49,000)
+Cash flow forward currency
+contracts 1,316,000 (22,000) -- --
+
+At November 30, 2003, the fair values of forward currency contracts and
+interest rate swap agreements are recorded in accrued liabilities on the
+accompanying balance sheets. Changes in the fair value of the interest rate swap
+agreement and the cash flow forward currency contracts have been recorded as a
+component of other comprehensive income, net of tax, as these items have been
+designated and qualify as cash flow hedges. The settlement dates on the forward
+currency contracts vary based on the underlying instruments through March 2004.
+
+G. STOCK BASED COMPENSATION
+
+ The Company accounts for employee stock-based compensation in
+accordance with the intrinsic value method described in Accounting Principles
+Board Opinion No. 25 and related interpretations. The Company has adopted the
+disclosure only provisions of SFAS No. 123. Accordingly, no compensation cost
+has been recognized for the fixed stock option plans. Had compensation cost for
+the Company's stock-based compensation plans been determined based on the fair
+value at the grant dates for awards under those plans, consistent with the
+method prescribed by SFAS No. 123, the Company's income and income per share
+would have been decreased to the pro forma amounts indicated below.
+
+THREE MONTHS ENDED NINE MONTHS ENDED
+ NOVEMBER 30, NOVEMBER 30,
+ 2003 2002 2003 2002
+ ------------ -------------- -------------- --------------
+ 
+ Reported net income..................................... 3,376,000 2,896,000 2,704,000 2,523,000
+ Pro forma compensation cost, net of income taxes......... (45,000) (365,000) (583,000) (1,228,000)
+ ------------ -------------- -------------- --------------
+ Pro forma net income.................................... 3,331,000 2,531,000 2,121,000 1,295,000
+ ============ ============== ============== ==============
+ Reported income per share - basic....................... 0.18 0.17 0.14 0.16
+ ============ ============== ============== ==============
+ Reported income per share - diluted..................... 0.17 0.17 0.14 0.16
+ ============ ============== ============== ==============
+ Pro forma income per share - basic and diluted.......... 0.17 0.15 0.11 0.08
+ ============ ============== ============== ==============
+
+6
+
+ITEM 2. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION
+ AND RESULTS OF OPERATIONS.
+
+RESULTS OF OPERATIONS
+
+ The nature of the Company's business is seasonal. Historically, sales
+in the third quarter have been higher than sales achieved in each of the other
+three fiscal quarters of the year. Thus, expenses and, to a greater extent,
+operating income vary by quarter. Caution, therefore, is advised when appraising
+results for a period shorter than a full year, or when comparing any period
+other than to the same period of the previous year.
+
+ THREE MONTHS ENDED NOVEMBER 30, 2003 COMPARED TO THREE MONTHS ENDED
+ NOVEMBER 30, 2002
+
+ Net sales for the third quarter of fiscal 2004 were 54.4 million
+compared to 44.5 million for the second quarter of fiscal 2003, an increase of
+22.3 . The Simmons subsidiary, acquired on October 25, 2002, contributed
+approximately 9.7 million to third quarter fiscal 2004 sales compared to
+approximately 3.4 million in the prior year period. Sales at the Company's
+European subsidiary contributed approximately 2 million to the increase over
+last year with the balance coming from improved telescope sales in the U.S.
+
+ Gross profit increased from 15.0 million (33.6 of net sales) for the
+third quarter of fiscal 2003 to 16.6 million (30.4 of net sales) for the
+third quarter of fiscal 2004, an increase of 10.7 . The increase was due to
+increased sales over the prior year quarter. The decrease in gross margin (gross
+profit as a percent of net sales) was due to continuing pricing pressure on many
+of the Meade product lines, principally small and mid-range telescopes during
+the third quarter. Also negatively affecting gross margins was the approximately
+ 8 million of the revenue increase over the prior year quarter attributable to
+the European and Simmons subsidiaries. These subsidiaries, as distribution
+companies, typically produce gross margins that are less than the historical
+gross margins at Meade.
+
+ Selling expenses increased from 5.1 million (11.5 of net sales) for
+the third quarter of fiscal 2003 to 6.6 million (12.1 of net sales) for the
+third quarter of fiscal 2004. The increase was primarily attributed to selling
+expenses at Simmons. General and administrative expenses decreased from 3.6
+million (8.2 of net sales) for the third quarter of fiscal 2003, to 3.3
+million (6.0 of net sales) for the third quarter of fiscal 2004, a decrease of
+10.2 . The majority of this decrease was due to lower consulting and
+professional fees (approximately 0.5 million less in the current quarter
+compared to the prior year quarter) which was partially offset by an increase in
+compensation costs.
+
+ ESOP contribution expense was flat at 0.3 million (0.7 of net sales
+in the prior year compared to 0.6 of net sales in the current quarter). The
+non-cash ESOP contribution expense may fluctuate as the number of shares
+allocated and the market value of the Company's common stock changes.
+
+ Research and development expenses decreased from 0.7 million (1.6 of
+net sales) for the third quarter of fiscal 2003 to 0.5 million (0.8 of net
+sales) for the third quarter of fiscal 2004, a decrease of 36.7 . This decrease
+was due to a reduction in engineering personnel and outside consulting costs
+principally in response to diminished demand for the Company's industrial
+optical products. The Company's research and development efforts are principally
+concentrated on product improvement and new product development for the
+Company's core consumer products market.
+
+ Interest expense remained flat at approximately 0.3 million for each
+of the quarters presented. Increases in average borrowings over the prior year
+were offset by lower borrowing rates.
+
+ NINE MONTHS ENDED NOVEMBER 30, 2003 COMPARED TO NINE MONTHS ENDED
+ NOVEMBER 30, 2002
+
+ Net sales for the nine months ended November 30, 2003 were 107.2
+million compared to 88.6 million for the comparable prior year period, an
+increase of 21.0 . The increase in net sales over the prior year was due to
+sales of over 25 million at the Simmons subsidiary (acquired in October 2002),
+increases at Meade's European subsidiary of over 3 million and an approximately
+ 3 million increase in sales of mid-priced and higher-priced telescopes in the
+U.S. Offsetting these increases was a reduction of approximately 4 million in
+net sales of the Company's lower-priced telescopes, primarily consisting of a
+model sold at a specialty mass merchant in the prior year that was not sold in
+the current year. Also offsetting the sales increases was a decrease of
+approximately 2 million in binocular sales, and approximately 2 million in
+accessory and other related product sales.
+
+ 7
+
+Gross profit increased from 28.5 million (32.2 of net sales) for the
+nine months ended November 30, 2002 to 30.5 million (28.4 of net sales) for
+the comparable current year period, an increase of 6.7 . The increase was due to
+increased sales over the prior year period. The decrease in gross margin (gross
+profit as a percent of net sales) was due to continuing pricing pressure on many
+of the Meade product lines. Also negatively affecting gross margins was the
+revenue increase over the prior year attributable to the European and Simmons
+subsidiaries. These subsidiaries, as distribution companies, typically produce
+gross margins that are less than the historical gross margins at Meade.
+
+ Selling expenses increased from 11.2 million (12.6 of net sales) for
+the nine months ended November 30, 2002 to 14.2 million (13.2 of net sales)
+for the comparable current year period, an increase of 26.6 . This increase was
+primarily due to selling expenses at Simmons (approximately 3.5 million for the
+nine month period) partially offset by a decrease in advertising expenses.
+During the prior year period, the Company spent approximately 1.0 million in
+television, radio and print advertising costs related to the introduction and
+promotion of CaptureView, the Company's binocular with an integrated digital
+camera that were not duplicated during the current year. Any future promotional
+expenses relating to CaptureView binoculars will be incurred as the products are
+sold into the market.
+
+ General and administrative expenses decreased from 9.4 million (10.6 
+of net sales) for the nine months ended November 30, 2002 to 9.0 million (8.4 
+of net sales) for the comparable current year period, a decrease of 4.2 .
+Simmons general and administrative expenses for the nine month period were
+approximately 1.0 million. The prior year period included approximately 0.7
+million incurred in connection with the Company's effort to acquire certain of
+the assets of Tasco and Celestron. Those acquisition costs did not recur in the
+current year period. The Company did not consummate the proposed acquisition of
+Tasco and Celestron assets. In addition to the 0.7 million previously
+discussed, consulting and professional fees were approximately 0.5 million less
+in the current period compared to the prior year period, partially offset by an
+increase in compensation costs.
+
+ ESOP contribution expense decreased from 0.7 million (0.8 of net
+sales) for the nine months ended November 30, 2002 to 0.6 million (0.6 of net
+sales) for the comparable current year period, a decrease of 13.1 . The decrease
+in this non-cash charge was principally due to decreases in the average market
+price of the Company's stock allocated to the Employee Stock Ownership Plan
+during the period. The non-cash ESOP contribution expense may fluctuate as the
+number of shares allocated and the market value of the Company's common stock
+changes.
+
+ Research and development expenses decreased from 2.2 million (2.5 of
+net sales) for the nine months ended November 30, 2002 to 1.5 million (1.4 of
+net sales) for the comparable current year period, a decrease of 34.3 . This
+decrease was due to a reduction in engineering personnel and outside consulting
+costs principally in response to diminished demand for the Company's industrial
+optical products. The Company's research and development efforts are principally
+concentrated on product improvement and new product development for the
+Company's core consumer products market.
+
+ Interest expense remained relatively flat at approximately 0.8 million
+for each of the periods presented. Increases in average borrowings over the
+prior year were offset by lower borrowing rates.
+
+LIQUIDITY AND CAPITAL RESOURCES
+
+ For the nine months ended November 30, 2003 the Company funded its
+operations with short-term bank borrowings. Internally generated cash flow from
+net income adjusted for non-cash charges was used by increases in accounts
+receivable and inventories, partially offset by an increase in accounts payable.
+Accounts receivable increased as expected with increased sales during the
+quarter. Inventories increased as expected to support a full cycle of sales at
+the Company's Simmons subsidiary. Accounts payable increased with the increase
+in inventories. Net working capital totaled approximately 55.7 million at
+November 30, 2003, compared to 50.1 million at February 28, 2003. Working
+capital requirements fluctuate during the year due to the seasonal nature of the
+business. These requirements are typically financed through a combination of
+internally generated cash flow from operating activities and short-term bank
+borrowings.
+
+ The Company continues to depend on operating cash flow and availability
+under its bank lines of credit to provide short-term liquidity. Availability
+under its bank lines of credit at November 30, 2003 was approximately 9.0
+million. In the event the Company's plans require more capital than is presently
+anticipated, additional sources of liquidity such as debt or equity financings,
+may be required to meet its capital needs. There can be no assurance that such
+additional sources of capital will be available on reasonable terms, if at all.
+However, management believes that operating cash flow and bank borrowing
+capacity in connection with the Company's business should provide sufficient
+liquidity for the Company's obligations for at least the next twelve months.
+
+ 8
+
+Capital expenditures, including financed purchases of equipment,
+aggregated 0.3 million and 0.7 million for the nine months ended November 30,
+2003 and 2002, respectively. The Company had no material capital expenditure
+commitments at November 30, 2003.
+
+ The Company provides reserves for the estimated cost of product
+warranty-related claims at the time of sale, and periodically adjusts the
+provision to reflect actual experience. The amount of warranty liability accrued
+reflects management's best estimate of the expected future cost of honoring
+Company obligations under its warranty plans. Additionally, from time to time,
+specific warranty accruals may be made if unforeseen technical problems arise.
+Meade and Bresser branded products are generally covered by a one-year limited
+warranty. Many of the Simmons products have lifetime limited warranties. Changes
+in the warranty liability during the period ended November 30, 2003 follows.
+
+Balance at February 28, 2003............................. 1,794,000
+Warranty accrual......................................... 714,000
+Labor and material usage................................. (672,000)
+ ---------------
+Balance at November 30, 2003............................. 1,836,000
+ ===============
+
+NEW ACCOUNTING PRONOUNCEMENTS
+
+ In January 2003, the Company adopted SFAS 146, which addresses
+accounting for costs associated with exit or disposal activities. In addition,
+the FASB issued FIN 46, which requires that certain variable interest entities
+be consolidated by the primary beneficiary of the entity if the equity investors
+in the entity do not have a controlling financial interest or do not have
+sufficient equity at risk. FIN 46 is effective immediately for all variable
+interest entities created after January 31, 2003. For all such entities created
+prior to February 1, 2003, FIN 46 is effective for interim or annual fiscal
+periods ending after December 15, 2003. The adoption of these statements did not
+have a material effect on the Company's financial position or results of
+operations.
+
+ In April 2003, the FASB issued SFAS No. 149, Amendment of Statement No.
+133 on Derivative Instruments and Hedging Activities. This statement is
+effective for contracts entered into or modified after June 30, 2003 and for
+hedging relationships designated after June 30, 2003. It amends and clarifies
+financial accounting and reporting for derivative instruments, including certain
+derivative instruments embedded in other contracts and for hedging activities.
+SFAS 149 amends SFAS 133 for decisions made as part of the Derivatives
+Implementation Group process that effectively required amendments to SFAS 133,
+in connection with other FASB projects dealing with financial instruments and in
+connection with implementation issues raised in relation to the application of
+the definition of a derivative. The application of this statement did not have
+an impact on the Company's consolidated financial statements.
+
+ In May 2003, the FASB issued SFAS No. 150, Certain Financial
+Instruments with Characteristics of Both Liabilities and Equity. This statement
+establishes standards for how a company clarifies and measures certain financial
+instruments with characteristics of both liabilities and equity. It requires a
+company to classify such instruments as liabilities, whereas they previously may
+have been classified as equity. SFAS 150 is effective for all financial
+instruments entered into or modified after May 31, 2003, and otherwise is
+effective July 1, 2003. The application of this statement did not have an impact
+on the Company's consolidated financial statements.
+
+FORWARD-LOOKING INFORMATION
+
+ The preceding "Management's Discussion and Analysis of Financial
+Condition and Results of Operations" section contains various "forward looking
+statements" within the meaning of Section 27A of the Securities Act of 1933, as
+amended, and Section 21E of the Securities and Exchange Act of 1934, as amended,
+which represent the Company's reasonable judgment concerning the future and are
+subject to risks and uncertainties that could cause the Company's actual
+operating results and financial position to differ materially, including the
+following: the Company's ability to expand the markets for telescopes,
+binoculars, riflescopes, microscope and other optical products; the Company's
+ability to continue to develop and bring to market new and innovative products,
+including, without limitation the new line of CaptureView binoculars, at
+competitive prices; the Company's ability to integrate, develop and grow the
+Simmons business; the Company's ability to further develop its wholly owned
+manufacturing facility in Mexico in combination with its existing manufacturing
+capabilities; the Company expanding its distribution network; the Company's
+ability to further develop the business of its European subsidiary; the Company
+experiencing fluctuations in its sales, gross margins and profitability from
+quarter to quarter consistent with prior periods; the Company's expectation that
+its contingent liabilities will not have a material effect on the Company's
+financial position or results of operations; and the Company's expectation that
+it will have sufficient funds to meet any working capital requirements during
+the foreseeable future with internally generated cash flow and borrowing
+ability.
+
+ 9
+
+In addition to other information in this report, the Company cautions
+that certain factors, including, without limitation, the following, should be
+considered carefully in evaluating the Company and its business and that such
+factors may cause the Company's actual operating results to differ materially
+from those set forth in the forward looking statements described above or to
+otherwise be adversely affected:
+
+ Our business is vulnerable to changing economic conditions, including:
+
+ o a decline in general economic conditions;
+
+ o uncertainties affecting consumer spending; and
+
+ o changes in interest rates causing a reduction of investment
+ income or in the value of market interest rate sensitive
+ instruments.
+
+Our intellectual property rights are subject to risks, including:
+
+ o the potential that we may be unable to obtain and maintain
+ patents and copyrights to protect our computerized telescope
+ and other product technology;
+
+ o competitors' infringement upon Meade's existing intellectual
+ property; and
+
+ o approval of competitors' patent applications that may restrict
+ our ability to compete effectively.
+
+ Our business is subject to other risks, including:
+
+ o a general decline in demand for the Company's products;
+
+ o an inability to continue to design and manufacture products
+ that will achieve and maintain commercial success;
+
+ o the potential that we may fail to penetrate the binocular and
+ riflescope markets and achieve meaningful sales;
+
+ o any significant interruption of our manufacturing abilities in
+ our domestic or Mexican facilities or in any of our suppliers
+ located in the Far East;
+
+ o greater than anticipated competition;
+
+ o discovery of facts not presently known to Meade or
+ determinations by judges, juries or other finders of fact
+ which do not accord with Meade's evaluation of the possible
+ liability or outcome of existing litigation;
+
+ o any loss of, or the failure to replace, any significant
+ portion of the sales made to any significant customer of the
+ Company;
+
+ o currency exchange rate fluctuations greater than the Company
+ has experienced which could hinder the Company's ability to
+ remain price competitive; and
+
+ o increasing ESOP charges in the event the market price of the
+ Company's stock increases.
+
+ITEM 3. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
+
+ The Company is exposed to certain levels of market risks, including
+changes in foreign currency exchange rates and interest rates. Market risk is
+the potential loss arising from adverse changes in market rates and prices, such
+as foreign currency exchange and interest rates.
+
+ The Company conducts business in a number of foreign currencies,
+principally in Europe. These currencies have been relatively stable against the
+U.S. dollar for the past several years. As a result, foreign currency
+fluctuations have not had a material impact historically on Meade's revenues or
+results of operations. There can be no assurance that foreign currencies will
+remain stable relative to the U.S. dollar or that future fluctuations in the
+value of foreign currencies will not have a material adverse effect on the
+Company's business, operating results, revenues and financial condition.
+
+ 10
+
+The Company has adopted a foreign currency hedging program that
+utilizes foreign currency forward contracts to hedge variable cash flows
+associated with recognized liabilities and to hedge exposure to changes in the
+fair value of unrecognized firm commitments. The Company does not enter into
+derivatives or other financial instruments for trading or speculative purposes.
+The instruments that Meade uses for hedging are readily marketable traded
+forward contracts with financial institutions. Meade expects that the changes in
+fair value of such contracts will have a high correlation to the price changes
+in the related hedged cash flow. Any gains and losses on these hedge contracts
+are expected to offset changes in the value of the related exposures. During the
+nine months ended November 30, 2003, the Company entered into cash flow forward
+currency contracts with notional amounts aggregating 1.3 million. The fair
+value of these contracts at November 30, 2003 was 22,000).
+
+ Under the terms of the U.S. Credit Agreement, the Company was required
+to enter into an interest-rate swap to convert the variable interest rate on its
+U.S. Term Loan to a fixed interest rate. The resulting cost of funds (7.9 per
+annum) is currently higher than that which would have been available if the
+variable rate had been applied during the period. Under the interest-rate swap
+contract, the Company has agreed with the bank to exchange, at specified
+intervals, the difference between variable-rate and fixed-rate interest amounts,
+calculated by reference to agreed-upon notional amounts. The change in the fair
+value of the interest rate swap for the nine months ended November 30, 2003 was
+a gain of 26,000 which is included in other comprehensive income for the nine
+months then ended.
+
+ITEM 4. CONTROLS AND PROCEDURES
+
+ As of the end of the period covered by this report, the Company's chief
+executive officer and chief financial officer have evaluated the effectiveness
+of the Company's disclosure controls and procedures (as such term is defined in
+Rules 13a-15(e) and 15d-15(e) under the Exchange Act). These disclosure controls
+and procedures are designed to ensure that the information required to be
+disclosed by the Company in the reports it files under the Exchange Act is
+gathered, analyzed and disclosed with adequate timeliness, accuracy and
+completeness.
+
+ The Company's chief executive officer and chief financial officer
+concluded, based on their evaluation, that the Company's disclosure controls and
+procedures are effective for the Company, taking into consideration the size and
+nature of the Company's business and operations.
+
+ No change in the Company's internal control over financial reporting
+occurred during the last fiscal quarter that has materially affected, or is
+reasonably likely to materially affect, the Company's internal control over
+financial reporting.
+
+ 11
+
+PART II -- OTHER INFORMATION
+
+ITEM 1. LEGAL PROCEEDINGS
+
+ On October 17, 2001, the Company filed suit against Tasco Sales, Inc.
+("Tasco") and Celestron International, Inc. ("Celestron"), charging the two
+companies with patent infringement and unfair competition. The complaint, filed
+in the United States District Court, Central District of California, Southern
+Division (Case No. SA-CV 01-976 (GLT)), alleges that Tasco and Celestron
+willfully infringed Meade's Patent No. 6,304,376, entitled "Fully Automated
+Telescope System With Distributed Intelligence." In addition to seeking
+compensation for damages incurred, including enhanced damages, the suit seeks to
+enjoin Tasco and Celestron from continuing to manufacture or sell products that
+infringe Meade's patent. On or around November 7, 2001, the defendants filed an
+answer, subsequently amended, to the complaint in which it denied the Company's
+allegations and set forth various affirmative defenses. On or around November
+19, 2001, Defendants filed a counterclaim, also subsequently amended, against
+the Company for declaratory judgment of non-infringement of the Company's
+patent, for declaratory judgment that the Company's patent is unenforceable and
+invalid, and for claims that the Company is infringing a Celestron design
+patent, U.S. Patent No. D438,221, and Celestron's trade dress. The counterclaim
+further alleges that the Company has willfully infringed Celestron's design
+patent and seeks an unspecified amount of damages, enhanced damages, and an
+injunction and other unspecified relief against the Company. However, Celestron
+subsequently dismissed its design-patent counterclaim with prejudice as to Meade
+products on sale up to that time. On February 28, 2003, a partial Summary
+Judgment issued in favor of Celestron in which the Court held that Celestron did
+not literally infringe Meade's `376 patent. On May 23, 2003, a further partial
+Summary Judgment was issued in favor of Celestron in which the Court held that
+Celestron did not infringe Meade's `376 patent under the doctrine of
+equivalents. The parties dismissed their remaining claims against each other,
+and Meade filed an appeal of the court's two summary judgment orders on
+September 18, 2003. The appeal will be decided by the Court of Appeals for the
+Federal Circuit. Due to the uncertainties of litigation, the Company is unable
+to provide an evaluation of the likelihood of either a favorable or unfavorable
+outcome in these cases.
+
+ On June 4, 2002, the Company filed suit against Celestron, Tasco and other
+related or affiliated parties charging the defendant with patent infringement.
+The complaint, ("the `799 lawsuit") filed in the United States District Court,
+Central District of California, Southern Division (Case No. SA CV 02-544 (GLT)),
+alleges that the defendants willfully infringed Meade's Patent No. 6,392,799,
+entitled "Fully Automated Telescope System With Distributed Intelligence." The
+patent covers the Company's "level the telescope and point it North" alignment
+technology (the "Telescope Alignment Technology"), which allows a telescope user
+to easily align a computer operated telescope. In addition to seeking
+compensation for damages incurred, including enhanced damages, the suit seeks to
+enjoin Tasco, Celestron and the other defendants from continuing to manufacture
+or sell products that infringe Meade's telescope alignment patent. In July 2003,
+Celestron and the other defendants filed a motion for Summary Judgment that the
+defendants' products do not infringe Meade's Telescope Alignment Technology,
+both literally or under the doctrine of equivalents. Meade has opposed that
+motion. The motion is not set to be heard until at least December 2003. The
+Company intends to continue to vigorously assert the `799 patent against
+Celestron, Tasco, and the other defendants and to vigorously defend against
+their counterclaims. Due to the uncertainties of litigation, the Company is
+unable to provide an evaluation of the likelihood of either a favorable or
+unfavorable outcome in this case.
+
+ On June 7, 2002, the Company filed suit against Celestron, Tasco and other
+related or affiliated parties, charging the defendants with correction of patent
+inventorship, false and misleading representations in violation of the Lanham
+Act, unfair competition and fraudulent business practices. The complaint, ("the
+`942 lawsuit) filed in the United States District Court, Central District of
+California, Southern Division (Case No. SA-CV 02-558 (GLT)), alleges that the
+defendants misappropriated the Company's Telescope Alignment Technology and
+subsequently conspired to obtain United States Patent No. 6,369,942, entitled
+"Auto-alignment tracking telescope mount" ("the `942 Patent"), by fraudulently
+representing themselves as the inventors and owners of the Telescope Alignment
+Technology. In addition to other remedies, the suit seeks to establish that
+Meade invented the Telescope Alignment Technology and that equitable and legal
+title to the `942 Patent should be vested in the Company. Due to the
+uncertainties of litigation, the Company is unable to provide an evaluation of
+the likelihood of either a favorable or unfavorable outcome in this case.
+
+ On November 21, 2002, Celestron filed an action alleging that Meade products
+infringe United States Patent No. 6,467,738 entitled "Tripod Structure for
+Telescopes." The complaint seeks injunctive relief, compensatory and treble
+damages in an unspecified amount, and attorneys' fees and costs. Meade has filed
+an answer denying all claims in Celestron's complaint. Celestron had sought a
+preliminary injunction in this matter, which was denied pursuant to an order
+entered on December 17, 2002. Due to the uncertainties of litigation, the
+Company is unable to provide an evaluation of the likelihood of either a
+favorable or unfavorable outcome in this case.
+
+ 12
+
+Celestron and Tasco, in May 2002, transferred certain of their assets in an
+assignment for the benefit of creditors proceeding to James Feltman, an
+assignee. Assignee James Feltman subsequently sold the assets on or around June
+24, 2002 to a new Celestron entity, Celestron Acquisition LLC. Celestron
+Acquisition LLC, along with Celestron and Tasco, is a defendant in the
+above-referenced lawsuits. James Feltman is also a named defendant in the `799
+lawsuit, but not the `942 lawsuit.
+
+ On September 9, 2003, the Company, Celestron and James Feltman agreed to
+pursue non-binding mediation of all outstanding litigation between the parties.
+As part of the mediation process, the parties agreed to stay all the litigation
+(including the discovery process) in the above four cases. The mediation is
+currently scheduled to take place in March 2004.
+
+ The Company is also involved from time to time in litigation incidental to
+its business. Management believes that the outcome of such litigation will not
+have a material adverse effect on the financial position, results of operations
+or cash flows of the Company.
+
+ITEM 2. CHANGES IN SECURITIES AND USE OF PROCEEDS
+
+ Not applicable.
+
+ITEM 3. DEFAULTS UPON SENIOR SECURITIES
+
+ Not applicable.
+
+ITEM 4. SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS
+
+ Not applicable.
+
+ITEM 5. OTHER INFORMATION
+
+ Not applicable.
+
+13
+
+ITEM 6. EXHIBITS AND REPORTS ON FORM 8-K
+
+ 6(a) Exhibits filed with this Form 10-Q.
+
+1. Exhibit 10.54 First amendment to amended and restated credit agreement
+
+2. Exhibit 31.1 Sarbanes-Oxley Act Section 302 Certification by Steven G. Murdock
+
+3. Exhibit 31.2 Sarbanes-Oxley Act Section 302 Certification by Brent W. Christensen
+
+4. Exhibit 32.1 Sarbanes-Oxley Act Section 906 Certification by Steven G. Murdock
+
+5. Exhibit 32.2 Sarbanes-Oxley Act Section 906 Certification by Brent W. Christensen
+
+6(b) Reports on Form 8-K.
+
+ The Company filed the following Report with the SEC
+
+ 1. Form 8-K, filed on September 18, 2003, covering a press
+ release announcing the Company's financial results for the
+ quarterly period ended August 31, 2003.
+
+ 2. Form 8-K, filed on September 30, 2003, covering a press
+ release announcing the resignation of John C. Diebel from the
+ Company's Board of Directors, effective October 30, 2003.
+
+14
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934,
+the registrant has duly caused this report to be signed on its behalf by the
+undersigned thereunto duly authorized.
+
+Date: January 14, 2004
+ MEADE INSTRUMENTS CORP.
+
+By: /s/ STEVEN G. MURDOCK
+ --------------------------------------
+ Steven G. Murdock
+ PRESIDENT, CHIEF EXECUTIVE OFFICER
+ AND SECRETARY
+
+By: /s/ BRENT W. CHRISTENSEN
+ --------------------------------------
+ Brent W. Christensen
+ SENIOR VICE PRESIDENT, FINANCE AND
+ CHIEF FINANCIAL OFFICER
+
+15
+
+<EX-10.54>
+ 3
+ meade_10qex10-54.txt
+
+EXHIBIT 10.54
+
+FIRST AMENDMENT TO
+ ------------------
+ AMENDED AND RESTATED CREDIT AGREEMENT
+ -------------------------------------
+
+THIS FIRST AMENDMENT TO AMENDED AND RESTATED CREDIT AGREEMENT (this
+"Amendment") is dated as of October 27, 2003 (the "Amendment Closing Date") and
+entered into by and between BANK OF AMERICA, N.A., as lender (the "Lender"),
+with offices at 55 South Lake Avenue, Suite 900, Pasadena, California 91101, and
+Meade Instruments Corp., a Delaware corporation, and Simmons Outdoor
+Corporation, a Delaware corporation (such entities being referred to hereinafter
+each individually as a "Borrower" and collectively, the "Borrowers").
+
+ WHEREAS, the Lender and the Borrowers have entered into that certain
+Amended and Restated Credit Agreement dated as of October 25, 2002 (as amended,
+restated or modified from time to time, the "Agreement"); and
+
+ WHEREAS, the Borrowers have requested that the Lender amend the
+Agreement in certain respects, and the Lender is willing to so amend the
+Agreement pursuant to the terms and conditions provided herein.
+
+ NOW, THEREFORE, in consideration of the mutual conditions and
+agreements set forth in the Agreement and this Amendment, and other good and
+valuable consideration, the receipt and sufficiency of which are hereby
+acknowledged, the parties, intending to be legally bound, hereby agree as
+follows:
+
+ ARTICLE I
+ ---------
+
+ Definitions
+ -----------
+
+ Section 1.01. DEFINITIONS. Capitalized terms used in this Amendment, to
+the extent not otherwise defined herein, shall have the same meanings as in the
+Agreement, as amended hereby.
+
+ ARTICLE II
+ ----------
+
+ Section 2.01. NEW DEFINITIONS. The following definitions are hereby
+added to the Agreement to read as follows:
+
+ " `HISTORICAL DILUTION PERIOD' means, with respect to any month, the
+ six months consisting of (i) the 3 months that are 9, 10, and 11 months
+ prior to such month, and (ii) the 3 months that are 21, 22, and 23
+ months prior to such month. For example, for October, 2003, the
+ Historical Dilution Period would consist of January, 2003, December,
+ 2002, and November, 2002, and January 2002, December 2001, and
+ November, 2001."
+
+ " `AVERAGE DILUTION PERCENTAGE' means, for any month, the average of
+ the Monthly Dilution Percentages within the applicable Historical
+ Dilution Period."
+
+" `MONTHLY DILUTION PERCENTAGE' means, for any calendar month, the
+ percent calculated as of the first day of such month and rounded up to
+ the next whole percent and obtained by dividing (i) the sum of all
+ adjustments during such month made to the Accounts to reflect
+ correcting adjustments which consist of short pays or other disputed
+ amounts, uncollectible items being transferred to the bad debt
+ allowance account, reclassifications, other non-cash credits,
+ allowances, discounts, write-offs or other offsets to the Accounts
+ which the Lender, in its reasonable commercial discretion, deems
+ appropriate to reduce the value of Accounts, by (ii) the total
+ reductions to the Accounts in such month (which shall include all cash
+ collections plus all non-cash reductions)."
+
+ Section 2.02. AMENDED DEFINITIONS. The following definitions are hereby
+amended and now read as follows:
+
+ " `ADJUSTED DILUTION PERCENTAGE' means, for any period, the lesser of
+ (i) the Average Dilution Percentage, or (ii) the amount determined by
+ subtracting 7.5 from the Average Dilution Percentage and multiplying
+ the remainder by 2."
+
+ " `DATED ACCOUNTS' means Accounts which are otherwise Eligible
+ Accounts, except that such Accounts arise from either (i) the sale of
+ goods made in June of any year by Simmons, with the latest possible
+ payment due date for such goods being January 15 of the following year,
+ or (ii) the sale of goods made between July 1st and November 30th by
+ any Borrower in any year, with the latest possible payment due date for
+ such goods being January 15 of the following year."
+
+ Section 2.03. DELETED DEFINITION. The definition of "Dilution
+Percentage" is hereby deleted in its entirety.
+
+ ARTICLE III
+ -----------
+
+ Section 3.01. CONDITIONS PRECEDENT. The effectiveness of this Amendment
+is subject to the satisfaction of the following conditions precedent:
+
+ (i) The representations and warranties contained herein and in
+ the Agreement, as amended hereby, shall be true and correct in all
+ material respects as of the date hereof as if made on the date hereof,
+ except for such representations and warranties limited by their terms
+ to a specific date;
+
+ (ii) The Borrowers shall have delivered to the Lender an
+ executed original copy of this Amendment;
+
+ (iii) No Default or Event of Default shall have occurred and
+ be continuing; and
+
+ (iv) All proceedings taken in connection with the transactions
+ contemplated by this Amendment and all documentation and other legal
+ matters incident thereto shall be satisfactory to the Lender in its
+ sole and absolute discretion.
+
+2
+
+ARTICLE IV
+ ----------
+
+ Section 4.01. ACKNOWLEDGMENT. The Borrowers hereby represent and
+warrant that the execution and delivery of this Amendment and compliance by the
+Borrowers with all of the provisions of this Amendment, (i) are within its
+powers and purposes, (ii) have been duly authorized or approved by the
+Borrowers, and (iii) when executed and delivered by or on behalf of the
+Borrowers will constitute valid and binding obligations of the Borrowers,
+enforceable in accordance with their terms. Each Borrower reaffirms its
+obligation to pay all amounts due the Lender under the Loan Documents in
+accordance with the terms thereof, as modified hereby.
+
+ Section 4.02. LOAN DOCUMENTS UNMODIFIED. Except as otherwise
+specifically modified by this Amendment, all terms and provisions of the
+Agreement and all other Loan Documents, as modified hereby, shall remain in full
+force and effect. Nothing contained in this Amendment shall in any way impair
+the validity or enforceability of the Loan Documents, as modified hereby or
+alter, waive, annul, vary, affect, or impair any provisions, conditions, or
+covenants contained therein or any rights, powers, or remedies granted therein.
+Any lien and/or security interest granted to the Lender in the Collateral set
+forth in the Agreement or any other Loan Document are and shall remain unchanged
+and in full force and effect and the Agreement and the other Loan Documents
+shall continue to secure the payment and performance of all of the Obligations
+thereunder, as modified hereby, and the Borrowers' obligations hereunder.
+
+ Section 4.03. PARTIES, SUCCESSORS AND ASSIGNS. This Amendment shall be
+binding upon and shall inure to the benefit of each of the Borrowers, the
+Lender, and their respective successors and assigns.
+
+ Section 4.04. COUNTERPARTS. This Amendment may be executed in one or
+more counterparts, each of which when so executed shall be deemed to be an
+original, but all of which when taken together shall constitute one and the same
+instrument.
+
+ Section 4.05. HEADINGS. The headings, captions and arrangements used in
+this Amendment are for convenience only and shall not affect the interpretation
+of this Amendment.
+
+ Section 4.06. EXPENSES OF THE LENDER. Each Borrower agrees to pay on
+demand (i) all costs and expenses reasonably incurred by the Lender in
+connection with the preparation, negotiation and execution of this Amendment and
+the other Loan Documents executed pursuant hereto and any and all subsequent
+amendments, modifications, and supplements hereto or thereto, including, without
+limitation, the costs and fees of the Lender's legal counsel and the allocated
+cost of staff counsel and (ii) all costs and expenses reasonably incurred by the
+Lender in connection with the enforcement or preservation of any rights under
+the Agreement, this Amendment and/or other Loan Documents, including, without
+limitation, the costs and fees of the Lender's legal counsel, the allocated cost
+of staff counsel, and the costs and fees associated with any environmental due
+diligence conducted in relation hereto.
+
+ Section 4.07. TOTAL AGREEMENT. This Amendment, the Agreement, and all
+other Loan Documents shall constitute the entire agreement between the parties
+relating to the subject matter hereof, and shall rescind all prior agreements
+and understandings between the parties hereto relating to the subject matter
+hereof, and shall not be changed or terminated orally.
+
+ 3
+
+IN WITNESS WHEREOF, the parties have executed and delivered this
+Amendment as of the day and year first above written.
+
+"BORROWERS":
+
+ MEADE INSTRUMENTS CORP.
+ SIMMONS OUTDOOR CORPORATION
+
+Dated as of October 27, 2003 By: /s/ Brent W. Christensen
+ ---------------------------
+ Name: Brent W. Christensen
+ Title: Senior Vice President - Finance
+ and Chief Financial Officer
+
+"LENDER":
+
+ BANK OF AMERICA, N.A.
+
+Dated as of October 27, 2003 By: /s/ Todd R. Eggertsen
+ ---------------------------
+ Name: Todd R. Eggertsen
+ Title: Vice President
+
+4
+
+</EX-10.54>
+
+<EX-31.1>
+ 4
+ meade_10qex31-1.txt
+
+Exhibit 31.1
+
+ CERTIFICATIONS
+
+ I, Steven G. Murdock, certify that:
+
+ 1. I have reviewed this quarterly report on Form 10-Q of Meade
+Instruments Corp.;
+
+ 2. Based on my knowledge, this report does not contain any untrue
+statement of a material fact or omit to state a material fact necessary to make
+the statements made, in light of the circumstances under which such statements
+were made, not misleading with respect to the period covered by this report;
+
+ 3. Based on my knowledge, the financial statements, and other financial
+information included in this report, fairly present in all material respects the
+financial condition, results of operations and cash flows of the registrant as
+of, and for, the periods presented in this report;
+
+ 4. The registrant's other certifying officer and I are responsible for
+establishing and maintaining disclosure controls and procedures (as defined in
+Exchange Act Rules 13a-15(e) and 15d-15(e)) for the registrant and have:
+
+ a) designed such disclosure controls and procedures, or caused
+ such disclosure controls and procedures to be designed under
+ our supervision, to ensure that material information relating
+ to the registrant, including its consolidated subsidiaries, is
+ made known to us by others within those entities, particularly
+ during the period in which this report is being prepared;
+
+ b) evaluated the effectiveness of the registrant's disclosure
+ controls and procedures and presented in this report our
+ conclusions about the effectiveness of the disclosure controls
+ and procedures as of the end of the period covered by this
+ report based on such evaluation; and
+
+ c) disclosed in this report any change in the registrant's
+ internal control over financial reporting that occurred during
+ the registrant's most recent fiscal quarter (the registrant's
+ fourth fiscal quarter in the case of an annual report) that
+ has materially affected, or is reasonably likely to materially
+ affect, the registrant's internal control over financial
+ reporting; and
+
+ 5. The registrant's other certifying officer and I have disclosed,
+based on our most recent evaluation of internal control over financial
+reporting, to the registrant's auditors and the audit committee of the
+registrant's board of directors (or persons performing the equivalent
+functions):
+
+ a) all significant deficiencies and material weaknesses in the
+ design or operation of internal control over financial
+ reporting which are reasonably likely to adversely affect the
+ registrant's ability to record, process, summarize and report
+ financial information; and
+
+ b) any fraud, whether or not material, that involves management
+ or other employees who have a significant role in the
+ registrant's internal control over financial reporting
+
+Date: January 14, 2004
+
+By: /s/ STEVEN G. MURDOCK,
+ -----------------------------------
+PRESIDENT, CEO AND SECRETARY
+
+</EX-31.1>
+
+<EX-31.2>
+ 5
+ meade_10qex31-2.txt
+
+Exhibit 31.2
+
+ CERTIFICATIONS
+
+ I, Brent W. Christensen, certify that:
+
+ 1. I have reviewed this quarterly report on Form 10-Q of Meade
+Instruments Corp.;
+
+ 2. Based on my knowledge, this report does not contain any untrue
+statement of a material fact or omit to state a material fact necessary to make
+the statements made, in light of the circumstances under which such statements
+were made, not misleading with respect to the period covered by this report;
+
+ 3. Based on my knowledge, the financial statements, and other financial
+information included in this report, fairly present in all material respects the
+financial condition, results of operations and cash flows of the registrant as
+of, and for, the periods presented in this report;
+
+ 4. The registrant's other certifying officer and I are responsible for
+establishing and maintaining disclosure controls and procedures (as defined in
+Exchange Act Rules 13a-15(e) and 15d-15(e)) for the registrant and have:
+
+ a) designed such disclosure controls and procedures, or caused
+ such disclosure controls and procedures to be designed under
+ our supervision, to ensure that material information relating
+ to the registrant, including its consolidated subsidiaries, is
+ made known to us by others within those entities, particularly
+ during the period in which this report is being prepared;
+
+ b) evaluated the effectiveness of the registrant's disclosure
+ controls and procedures and presented in this report our
+ conclusions about the effectiveness of the disclosure controls
+ and procedures as of the end of the period covered by this
+ report based on such evaluation; and
+
+ c) disclosed in this report any change in the registrant's
+ internal control over financial reporting that occurred during
+ the registrant's most recent fiscal quarter (the registrant's
+ fourth fiscal quarter in the case of an annual report) that
+ has materially affected, or is reasonably likely to materially
+ affect, the registrant's internal control over financial
+ reporting; and
+
+ 5. The registrant's other certifying officer and I have disclosed,
+based on our most recent evaluation of internal control over financial
+reporting, to the registrant's auditors and the audit committee of the
+registrant's board of directors (or persons performing the equivalent
+functions):
+
+ a) all significant deficiencies and material weaknesses in the
+ design or operation of internal control over financial
+ reporting which are reasonably likely to adversely affect the
+ registrant's ability to record, process, summarize and report
+ financial information; and
+
+ b) any fraud, whether or not material, that involves management
+ or other employees who have a significant role in the
+ registrant's internal control over financial reporting
+
+Date: January 14, 2004
+
+By: /s/ BRENT W. CHRISTENSEN,
+ ---------------------------------------
+SENIOR VICE PRESIDENT FINANCE AND CFO
+
+</EX-31.2>
+
+<EX-32.1>
+ 6
+ meade_10qex32-1.txt
+
+Exhibit 32.1
+
+ WRITTEN STATEMENT
+ PURSUANT TO
+ 18 U.S.C. SECTION 1350
+
+ The undersigned, Steven G. Murdock, the Chief Executive Officer of
+Meade Instruments Corp. (the "Company"), pursuant to 18 U.S.C. ss. 1350, hereby
+certifies that:
+
+ (i) the Form 10Q for the quarterly period ended November 30, 2003 of
+the Company (the "Report) fully complies with the requirements of section 13(a)
+and 15(d) of the Securities Exchange Act of 1934; and
+
+ (ii) the information contained in the Report fairly presents, in all
+material respects, the financial condition and results of operations of the
+Company.
+
+Date: January 14, 2004
+
+By: /s/ Steven G. Murdock
+
+This certification accompanies this Report on Form 10-Q pursuant to Section 906
+of the Sarbanes-Oxley Act of 2002 and shall not, except to the extent required
+by such Act, be deemed filed by the Company for purposes of Section 18 of the
+Security Exchange Act of 1934, as amended.
+
+</EX-32.1>
+
+<EX-32.2>
+ 7
+ meade_10qex32-2.txt
+
+Exhibit 32.2
+
+ WRITTEN STATEMENT
+ PURSUANT TO
+ 18 U.S.C. SECTION 1350
+
+ The undersigned, Brent W. Christensen, the Chief Financial Officer of
+Meade Instruments Corp. (the "Company"), pursuant to 18 U.S.C. ss. 1350, hereby
+certifies that:
+
+ (i) the Form 10Q for the quarterly period ended November 30, 2003 of
+the Company (the "Report) fully complies with the requirements of section 13(a)
+and 15(d) of the Securities Exchange Act of 1934; and
+
+ (ii) the information contained in the Report fairly presents, in all
+material respects, the financial condition and results of operations of the
+Company.
+
+Date: January 14, 2003
+
+By: /s/ Brent W. Christensen
+
+This certification accompanies this Report on Form 10-Q pursuant to Section 906
+of the Sarbanes-Oxley Act of 2002 and shall not, except to the extent required
+by such Act, be deemed filed by the Company for purposes of Section 18 of the
+Security Exchange Act of 1934, as amended.
+
+</EX-32.2>
+

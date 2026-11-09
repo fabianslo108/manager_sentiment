@@ -1,0 +1,2024 @@
+<Header>
+<FileStats>
+    <FileName>20040114_10-Q_edgar_data_912603_0001072613-04-000023.txt</FileName>
+    <GrossFileSize>116452</GrossFileSize>
+    <NetFileSize>88737</NetFileSize>
+    <NonText_DocumentType_Chars>0</NonText_DocumentType_Chars>
+    <HTML_Chars>708</HTML_Chars>
+    <XBRL_Chars>0</XBRL_Chars>
+    <XML_Chars>0</XML_Chars>
+    <N_Exhibits>5</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0001072613-04-000023.hdr.sgml : 20040114
+<ACCEPTANCE-DATETIME>20040114084942
+ACCESSION NUMBER:		0001072613-04-000023
+CONFORMED SUBMISSION TYPE:	10-Q
+PUBLIC DOCUMENT COUNT:		6
+CONFORMED PERIOD OF REPORT:	20031130
+FILED AS OF DATE:		20040114
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			SCHNITZER STEEL INDUSTRIES INC
+		CENTRAL INDEX KEY:			0000912603
+		STANDARD INDUSTRIAL CLASSIFICATION:	WHOLESALE-MISC DURABLE GOODS [5090]
+		IRS NUMBER:				930341923
+		STATE OF INCORPORATION:			OR
+		FISCAL YEAR END:			0831
+
+	FILING VALUES:
+		FORM TYPE:		10-Q
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-22496
+		FILM NUMBER:		04523895
+
+	BUSINESS ADDRESS:	
+		STREET 1:		3200 NW YEON AVE
+		STREET 2:		P O BOX 10047
+		CITY:			PORTLAND
+		STATE:			OR
+		ZIP:			97210-0047
+		BUSINESS PHONE:		5032249900
+
+	MAIL ADDRESS:	
+		STREET 1:		P O BOX 10047
+		CITY:			PORTLAND
+		STATE:			OR
+		ZIP:			97210
+
+</SEC-Header>
+</Header>
+
+ 
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ REYQEcJOB6yxS9hKlbIQFIVr5S31keaZbDjx+uIMIVUaatnWp315Hfjnq+qEt8Fj
+ 58mSWPyQtaoAFQ5x+eNy8A==
+
+ 0001072613-04-000023.txt : 20040114
+
+10-Q
+ 1
+ form10q_12407.txt
+ SCHNITZER STEEL INDUSTRIES, INC. FORM 10-Q
+ 
+================================================================================
+
+ UNITED STATES
+ SECURITIES AND EXCHANGE COMMISSION
+ WASHINGTON, D.C. 20549
+
+FORM 10-Q
+
+[X] Quarterly report pursuant to Section 13 or 15(d) of the Securities Exchange
+ Act of 1934 for the quarterly period ended November 30, 2003 or
+
+[_] Transition report pursuant to Section 13 or 15(d) of the Securities
+ Exchange Act of 1934 for the transition period from ________ to ________.
+
+Commission file number 0-22496
+
+SCHNITZER STEEL INDUSTRIES, INC.
+- --------------------------------------------------------------------------------
+ (Exact name of registrant as specified in its charter)
+
+OREGON 93-0341923
+- ------------------------------- -------------------
+(State or other jurisdiction of (I.R.S. Employer
+ incorporation or organization) Identification No.)
+
+3200 N.W. Yeon Ave.
+ P.O Box 10047
+ Portland, OR 97296-0047
+- ---------------------------------------- ----------
+(Address of principal executive offices) (Zip Code)
+
+(503) 224-9900
+ ----------------------------------------------------
+ (Registrant's telephone number, including area code)
+
+Indicate by check mark whether the registrant (1) has filed all reports required
+to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during
+the preceding 12 months (or for such shorter period that the registrant was
+required to file such reports), and (2) has been subject to such filing
+requirements for the past 90 days.
+Yes [X] No [_]
+
+Indicate by check mark whether the registrant is an accelerated filer (as
+defined in Rule 12b-2 of the Act).
+Yes [X] No [_]
+
+The Registrant had 13,810,822 shares of Class A Common Stock, par value of 1.00
+per share, and 6,180,676 shares of Class B Common Stock, par value of 1.00 per
+share, outstanding at December 31, 2003.
+
+================================================================================
+ 
+ INDEX
+
+PAGE NO.
+ --------
+
+PART I. FINANCIAL INFORMATION
+
+Consolidated Balance Sheets at November 30, 2003
+ and August 31, 2003 ...................................................... 3
+
+Consolidated Statement of Operations for the
+ Three Months Ended November 30, 2003 and 2002 ............................ 4
+
+Consolidated Statement of Shareholders' Equity for
+ the Year Ended August 31, 2003 and the Three
+ Months Ended November 30, 2003 ........................................... 5
+
+Consolidated Statement of Cash Flows for the Three
+ Months Ended November 30, 2003 and 2002 .................................. 6
+
+Notes to Consolidated Financial Statements ................................... 7
+
+Management's Discussion and Analysis of Financial
+ Condition and Results of Operations ......................................13
+
+Quantitative and Qualitative Disclosures about Market Risk....................23
+
+Controls and Procedures.......................................................24
+
+PART II. OTHER INFORMATION
+
+Exhibits and Reports on Form 8-K..............................................24
+
+SIGNATURE PAGE................................................................25
+
+2
+ 
+ SCHNITZER STEEL INDUSTRIES, INC.
+ CONSOLIDATED BALANCE SHEETS
+ (in thousands, except per share amounts)
+ 
+ Nov. 30, 2003 Aug. 31, 2003
+ ------------ ------------
+ (Unaudited) (Audited)
+ 
+ Assets
+ ------
+Current Assets:
+ Cash 4,990 1,687
+ Accounts receivable, less allowance for
+ doubtful accounts of 749 and 712 21,879 38,428
+ Accounts receivable from related parties 330 555
+ Inventories (Note 2) 67,388 61,143
+ Deferred income taxes 4,524 4,524
+ Prepaid expenses and other 7,523 7,400
+ ------------ ------------
+ Total current assets 106,634 113,737
+
+Net property, plant and equipment 142,714 141,224
+
+Other assets:
+ Investment in joint and advances to venture partnerships 125,357 119,066
+ Notes receivable, less current portion 1,439 1,565
+ Goodwill 111,874 107,209
+ Intangibles and other 3,968 5,093
+ ------------ ------------
+ 491,986 487,894
+ ============ ============
+
+ Liabilities and Shareholders' Equity
+ ------------------------------------
+Current liabilities:
+ Current portion of long-term debt 235 220
+ Accounts payable 19,286 21,537
+ Accrued payroll liabilities 6,727 8,896
+ Current portion of environmental liabilities 4,600 4,639
+ Other accrued liabilities 5,977 6,004
+ ------------ ------------
+ Total current liabilities 36,825 41,296
+
+Deferred income taxes 27,693 33,093
+
+Long-term debt, less current portion 84,983 87,045
+
+Environmental liabilities, net of current portion 16,375 17,139
+
+Other long-term liabilities 2,741 2,704
+
+Minority interests 3,899 3,620
+
+Commitments and contingencies -- --
+
+Shareholders' equity:
+ Preferred stock--20,000 shares authorized, none issued -- --
+ Class A common stock--75,000 shares 1 par value
+ authorized, 13,802 and 12,445 shares issued and outstanding 13,802 12,445
+ Class B common stock--25,000 shares 1 par value
+ authorized, 6,182 and 7,061 shares issued and outstanding 6,182 7,061
+ Additional paid-in capital 108,567 104,249
+ Retained earnings 190,919 179,242
+ ------------ ------------
+ Total shareholders' equity 319,470 302,997
+ ------------ ------------
+ 491,986 487,894
+ ============ ============
+
+The accompanying notes are an integral part of this statement.
+
+ 3
+ 
+ SCHNITZER STEEL INDUSTRIES, INC.
+ CONSOLIDATED STATEMENT OF OPERATIONS
+ (in thousands, except per share amounts)
+ (unaudited)
+ 
+ For The Three Months Ended November 30,
+ ---------------------------------
+ 2003 2002
+ ------------ ------------
+ 
+Revenues 128,376 90,667
+
+Cost and expenses:
+ Cost of goods sold and other operating expenses 106,698 76,780
+ Selling and commission expenses 1,278 1,185
+ General and administrative expenses 8,232 7,106
+ ------------ ------------
+
+Income from wholly-owned operations 12,168 5,596
+
+Income from joint ventures 5,937 3,175
+ ------------ ------------
+
+Income from operations 18,105 8,771
+
+Other income (expense):
+ Interest expense (440) (380)
+ Other income (expense) 204 (203)
+ ------------ ------------
+
+ (236) (583)
+ ------------ ------------
+Income before cumulative effect of change
+ in accounting principle, income taxes,
+ minority interests and pre-acquisition interests 17,869 8,188
+
+Income tax provision (5,182) (2,015)
+ ------------ ------------
+Income before cumulative effect of change
+ in accounting principle, minority interests,
+ and pre-acquisition interests 12,687 6,173
+
+Minority interests, net of tax (510) (447)
+Pre-acquisition interests, net of tax -- (1,852)
+ ------------ ------------
+Income before cumulative effect of change
+ in accounting principle 12,177 3,874
+
+Cumulative effect of change in accounting principle -- (983)
+ ------------ ------------
+Net income 12,177 2,891
+ ============ ============
+Net income per share - basic:
+ Income before cumulative effect of change
+ in accounting principle 0.62 0.21
+ Cumulative effect of change in accounting principle -- (0.05)
+ ------------ ------------
+ Net Income 0.62 0.16
+ ============ ============
+Net income per share - diluted:
+ Income before cumulative effect of change
+ in accounting principle 0.59 0.20
+ Cumulative effect of change in accounting principle -- (0.05)
+ ------------ ------------
+ Net Income 0.59 0.15
+ ============ ============
+ 
+ The accompanying notes are an integral part of this statement.
+
+ 4
+
+SCHNITZER STEEL INDUSTRIES, INC.
+ CONSOLIDATED STATEMENT OF SHAREHOLDERS' EQUITY
+ (in thousands)
+ (unaudited)
+ 
+ Class A Class B
+ Common Stock Common Stock Additional
+ ------------------------ ------------------------ Paid-in Retained
+ Shares Amount Shares Amount Capital Earnings Total
+ ---------- ---------- ---------- ---------- ---------- ---------- ----------
+ 
+Balance at August 31, 2002 5,025 5,025 4,180 4,180 96,074 147,669 252,948
+
+Class B common stock converted
+ to Classs A common stock 635 635 (635) (635) --
+Class A common stock issued 547 547 8,175 8,722
+Net income 43,201 43,201
+Stock dividend 6,238 6,238 3,516 3,516 (9,754) --
+Cash dividends paid (1,874) (1,874)
+ ---------- ---------- ---------- ---------- ---------- ---------- ----------
+
+Balance at August 31, 2003 12,445 12,445 7,061 7,061 104,249 179,242 302,997
+
+Class B common stock converted
+ to Classs A common stock 879 879 (879) (879) --
+Class A common stock issued 478 478 4,318 4,796
+Net income 12,177 12,177
+Cash dividends paid (500) (500)
+ ---------- ---------- ---------- ---------- ---------- ---------- ----------
+
+Balance at November 30, 2003 13,802 13,802 6,182 6,182 108,567 190,919 319,470
+ ========== ========== ========== ========== ========== ========== ==========
+
+The accompanying notes are an integral part of this statement.
+
+ 5
+
+SCHNITZER STEEL INDUSTRIES, INC.
+ CONSOLIDATED STATEMENT OF CASH FLOWS
+ (in thousands)
+ (unaudited)
+
+For The Three Months Ended November 30,
+ ---------------------------------
+ 2003 2002
+ ------------ ------------
+ 
+Operations:
+Net income 12,177 2,891
+Noncash items included in income:
+ Cumulative effect of change in accounting principle -- 983
+ Depreciation and amortization 5,050 4,029
+ Minority and pre-acquisition interests 718 3,106
+ Equity in income of joint ventures (5,937) (3,175)
+ Deferred income tax (5,400) (1)
+ (Gain) loss on disposal of assets (341) 16
+Cash provided (used) by changes in working capital:
+ Accounts receivable 16,774 12,659
+ Inventories (6,245) (15,035)
+ Prepaid expenses and other (123) 74
+ Accounts payable (2,251) (4,066)
+ Accrued liabilities (2,198) (1,343)
+ Environmental liabilities (803) (314)
+ Other assets and liabilities 973 (3,543)
+ ------------ ------------
+
+Net cash provided (used) by operations 12,394 (3,719)
+ ------------ ------------
+
+Investing:
+Capital expenditures (6,209) (4,231)
+Investment in subsidiaries (4,695) --
+Cash received from joint ventures 42 1,005
+Cash paid to joint ventures (433) (284)
+Proceeds from sale of assets 395 18
+ ------------ ------------
+
+Net cash used by investments (10,900) (3,492)
+ ------------ ------------
+
+Financing:
+Issuance of Class A common stock 4,796 --
+Distributions to minority and pre-acquisition interests (440) --
+Dividends declared and paid (500) (461)
+Decrease in long-term debt (2,047) (22,694)
+ ------------ ------------
+
+Net cash provided (used) by financing 1,809 (23,155)
+ ------------ ------------
+
+Net increase (decrease) in cash 3,303 (30,366)
+
+Cash at beginning of period 1,687 32,974
+ ------------ ------------
+
+Cash at end of period 4,990 2,608
+ ============ ============
+
+The accompanying notes are an integral part of this statement.
+
+ 6
+ 
+ SCHNITZER STEEL INDUSTRIES, INC.
+ NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+ FOR THE THREE MONTHS ENDED NOVEMBER 30, 2003 AND 2002
+
+NOTE 1 - SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES:
+
+BASIS OF PRESENTATION
+The accompanying unaudited interim financial statements of Schnitzer Steel
+Industries, Inc. (the Company) have been prepared pursuant to the rules and
+regulations of the Securities and Exchange Commission (SEC). Certain information
+and note disclosures normally included in annual financial statements have been
+condensed or omitted pursuant to those rules and regulations. In the opinion of
+management, all adjustments, consisting only of normal, recurring adjustments
+considered necessary for a fair presentation, have been included. Although
+management believes that the disclosures made are adequate to ensure that the
+information presented is not misleading, management suggests that these
+financial statements be read in conjunction with the financial statements and
+notes thereto included in the Company's annual report for the fiscal year ended
+August 31, 2003. The results for the three months ended November 30, 2003 and
+2002 are not necessarily indicative of the results of operations for the entire
+year.
+
+Note 3 of the Notes to the Consolidated Financial Statements describes an
+acquisition that occurred on February 14, 2003. Under Statement of Financial
+Accounting Standards No. 141 ("SFAS 141"), "Business Combinations," the
+acquisition is considered a "step" acquisition due to the fact that the Company
+had a significant joint venture interest in the acquired business for a number
+of years. Additionally, since the acquisition occurred during the year, the
+Company elected to include it in the consolidated results as though it had
+occurred at the beginning of fiscal 2003. Thus, the statement of operations,
+balance sheet, and statement of cash flows for the three months ended November
+30, 2002 have been adjusted to consolidate the acquisition as of September 1,
+2002. Also, the acquired businesses were consolidated with the Company's
+previous interest in the business to form a separate reporting segment called
+the Auto Parts Business. As such, the financial information that was reported in
+the Company's Form 10-Q for the quarter ended November 30, 2002 has been
+restated to consolidate the acquisition as of September 1, 2002.
+
+RECLASSIFICATIONS
+Certain prior year amounts have been reclassified to conform to the fiscal 2004
+presentation. These changes had no impact on previously reported results of
+operations or shareholders' equity.
+
+EARNINGS AND DIVIDENDS PER SHARE
+Basic earnings per share (EPS) are computed based upon the weighted average
+number of common shares outstanding during the period. Diluted EPS reflects the
+potential dilution that would occur if securities or other contracts to issue
+common stock were exercised or converted into common stock.
+
+ 7
+
+SCHNITZER STEEL INDUSTRIES, INC.
+ NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+ FOR THE THREE MONTHS ENDED NOVEMBER 30, 2003 AND 2002
+
+The following represents reconciliation from basic EPS to diluted EPS (in
+thousands, except per share amounts):
+
+For the Three Months Ended
+ November 30,
+ 2003 2002
+ -------- --------
+ 
+Income before cumulative effect of change in accounting principle 12,177 3,874
+Cumulative effect of change in accounting principle -- (983)
+ -------- --------
+Net income 12,177 2,891
+ ======== ========
+
+Computation of shares (1):
+ Average common shares outstanding 19,721 18,410
+ Stock options 910 300
+ -------- --------
+ Diluted average common shares outstanding 20,631 18,710
+ ======== ========
+
+Basic EPS:
+ Income before cumulative effect of change in accounting principle 0.62 0.21
+ Cumulative effect of change in accounting principle -- (0.05)
+ ------ ------
+ Net income 0.62 0.16
+ ====== ======
+
+Diluted EPS:
+ Income before cumulative effect of change in accounting principle 0.59 0.20
+ Cumulative effect of change in accounting principle -- (0.05)
+ ------ ------
+ Net income 0.59 0.15
+ ====== ======
+
+Dividend per share 0.025 0.025
+ ====== ======
+
+(1) Basic and diluted earnings per share and dividends per common share for the
+ three months ended November 30, 2002, have been adjusted to reflect the
+ one-for-one share dividend paid on August 14, 2003, to shareholders of
+ record on July 24, 2003.
+
+Options to purchase 1,003,400 shares were outstanding at November 30, 2002, but
+not included in the computation of diluted earnings per share because the
+options' exercise prices were greater than the average market price of the
+common shares and, therefore, the effect would be anti-dilutive.
+
+STOCK INCENTIVE PLAN
+The Company's compensation expense for its stock incentive plans is determined
+using the intrinsic value method. Accordingly, because the exercise price equals
+the market price on the date of the grant, no compensation expense is recognized
+by the Company for stock options issued to employees, consultants and directors.
+If the fair value based method had been applied in measuring stock compensation
+expense, the pro forma effect on net income per share would have been as follows
+(in thousands, except earnings per share):
+
+ 8
+ 
+ SCHNITZER STEEL INDUSTRIES, INC.
+ NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+ FOR THE THREE MONTHS ENDED NOVEMBER 30, 2003 AND 2002
+
+Three Months Ended
+ November 30,
+ ------------
+ 2003 2002
+ ------- ------
+Reported net income 12,177 2,891
+Stock compensation expense, net of tax -- 219)
+ ------- ------
+Pro forma net income 12,177 2,672
+ ======= ======
+
+Reported basic income per share 0.62 0.16
+Pro forma basic income per share 0.62 0.14
+
+Reported diluted income per share 0.59 0.15
+Pro forma diluted income per share 0.59 0.14
+
+Pro forma diluted net income per share for the quarter ended November 30, 2002
+is computed excluding potential common shares of 1,003,400, as their effect is
+anti-dilutive.
+
+GOODWILL AND INTANGIBLE ASSETS
+The changes in the carrying amount of goodwill for the three months ended
+November 30, 2003, are as follows (in thousands):
+
+Metals Steel
+ Recycling Manufacturing Auto Parts
+ Business Business Business Total
+ -------- -------- -------- -----
+ 
+Balance as of August 31, 2003,
+audited 34,771 -- 72,438 107,209
+Acquisition (Note 3) -- -- 4,665 4,665
+ -------- -------- -------- --------
+Balance as of November 30, 2003,
+unaudited 34,771 -- 77,103 111,874
+ ======== ======== ======== ========
+
+The Company performed a transitional impairment test of its goodwill and
+intangible assets during the second quarter of fiscal 2003. As a result of this
+test, the Company recorded a non-cash impairment charge of 983,000, effective
+September 1, 2002, and reported it as a "Cumulative effect of change in
+accounting principle" on the Consolidated Statement of Operations. The goodwill
+was not deductible for tax purposes, thus the amount was not tax affected. The
+Company will perform impairments tests annually and whenever events and
+circumstances indicate that the value of goodwill and other indefinite-lived
+intangible assets might be impaired.
+
+NOTE 2 - INVENTORIES:
+
+Inventories consisted of the following (in thousands):
+
+ November 30, August 31,
+ 2003 2003
+ ----------- ----------
+ (Unaudited) (Audited)
+
+ Recycled metals 25,296 21,115
+ Work in process 9,363 8,254
+ Finished goods 20,475 19,912
+ Supplies 12,254 11,862
+ ------- -------
+ 67,388 61,143
+ ======= =======
+
+ 9
+
+SCHNITZER STEEL INDUSTRIES, INC.
+ NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+ FOR THE THREE MONTHS ENDED NOVEMBER 30, 2003 AND 2002
+
+NOTE 3 - BUSINESS COMBINATIONS:
+
+During the Company's most recent fiscal year, on February 14, 2003, the
+Company's wholly-owned subsidiary, Norprop, Inc. ("Norprop") closed its
+acquisition (the "Acquisition") of all of the stock of Pick and Pull Auto
+Dismantling, Inc., which was the Company's 50 partner in Pick-N-Pull Auto
+Dismantlers, a California general partnership (the "Joint Venture") and all of
+the membership interests in Pick-N-Pull Auto Dismantlers, Stockton, LLC
+("Stockton"). The cost of the Acquisition consisted of 71.4 million of cash
+paid to the seller at closing, 3.3 million of debt assumed and immediately paid
+off, and 0.6 million of acquisition costs. In addition, Norprop assumed
+approximately 12.5 million of debt owed by the Joint Venture to the Company. An
+additional payment of 4.7 million was made during the fiscal quarter ended
+November 30, 2003, as a result of an amendment to the Purchase Agreement,
+bringing the total purchase price to 92.5 million (or 88.9 million net of the
+seller's 3.6 million share of the Joint Venture's cash on hand at closing). The
+Joint Venture stores together with the Stockton store are one of the country's
+leading self-service used auto parts networks with 23 store locations, 17 in
+northern California, two in Nevada, and one in each of Texas, Utah, Illinois and
+Indiana.
+
+The purchase price is subject to the terms of the Purchase Agreement, which
+provides for a purchase price adjustment one year after closing based upon
+calendar year 2002 and 2003 earnings before interest, taxes, depreciation and
+amortization (EBITDA) of the acquired Auto Parts Business. As defined by the
+Purchase Agreement, the contingent future adjustment may increase or decrease
+the initial purchase price by up to 12 million.
+
+The purchase price allocation has been prepared on a preliminary basis and is
+subject to changes due primarily to the contingent future adjustment mentioned
+above. The following is a summary of the estimated fair values of the assets
+acquired and liabilities assumed as of the date of the acquisition (in
+millions):
+
+Property, plant and equipment 13.3
+Other tangible assets 2.6
+Other assets 5.4
+Liabilities (4.1)
+Goodwill 75.3
+ -----
+ Total 92.5
+ =====
+
+Goodwill of 75.3 million represents the excess of purchase price over the fair
+value of the net tangible assets acquired, and, as a result of a tax election
+filed jointly by the Company and seller, substantially all of it will be
+deductible for tax purposes over a 15-year period. Also, approximately 1.8
+million of goodwill existed on the Joint Venture's balance sheet prior to the
+Acquisition but was not shown separately in accordance with the equity method of
+accounting. Therefore, the total increase to goodwill related to the Acquisition
+was 77.1 million. In accordance with Statement of Financial Accounting
+Standards No. 142, "Goodwill and Other Intangible Assets," goodwill is not
+amortized and will be tested for impairment at least annually.
+
+NOTE 4 - SEGMENT INFORMATION:
+
+The Company operates in three industry segments: metal processing and recycling
+(Metals Recycling Business), mini-mill steel manufacturing (Steel Manufacturing
+Business) and self-service used auto parts (Auto Parts Business). Additionally,
+the Company is a non-controlling partner in joint ventures, which are either in
+the metals recycling business or are suppliers of unprocessed metals. The Joint
+Ventures in the Metals Recycling Business sell recycled metals that have been
+processed at their facilities (Processing) and also buy and sell third parties'
+processed metals (Brokering). The Company considers these joint ventures to be
+separate segments because they are managed separately. These joint ventures are
+accounted for using the equity method. As such, the operating information
+provided below related to the joint ventures is shown separately from
+consolidated
+
+ 10
+
+SCHNITZER STEEL INDUSTRIES, INC.
+ NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+ FOR THE THREE MONTHS ENDED NOVEMBER 30, 2003 AND 2002
+
+information, except for the Company's equity in the net income of, investments
+in and advances to the joint ventures. Additionally, assets and capital
+expenditures are not shown for the joint ventures as management does not use
+that information to allocate resources or assess performance. The Company does
+not allocate corporate interest income and expense, income taxes or other income
+and expenses related to corporate activity to its operating segments.
+
+The financial statement information that was reported in the Company's Form 10-Q
+for the quarter ended November 30, 2002 has been restated to include the new
+reporting segment called the Auto Parts Business. This segment was formed as a
+result of an acquisition which occurred in February 2003. Please refer to Note 3
+of the Notes to the Consolidated Financial Statements.
+
+Revenues from external customers for the Company's consolidated operations are
+as follows (in thousands):
+
+ For the Three Months Ended
+ November 30,
+ 2003 2002
+ -------- --------
+
+ Metals Recycling Business 79,602 45,574
+ Auto Parts Business 17,660 16,139
+ Steel Manufacturing Business 53,219 42,830
+ Intersegment revenues (22,105) (13,876)
+ -------- --------
+ Consolidated revenues 128,376 90,667
+ ======== ========
+
+The joint ventures' revenues from external customers are as follows (in
+thousands):
+
+ For the Three Months Ended
+ November 30,
+ 2003 2002
+ -------- --------
+Joint Ventures in the Metals Recycling Business:
+ Processing 128,711 104,570
+ Brokering 45,121 50,532
+Joint Venture Suppliers of Metals 2,048 2,095
+ -------- --------
+Total revenues 175,880 157,197
+ ======== ========
+
+The Company's income (loss) from operations is as follows (in thousands):
+
+ For the Three Months Ended
+ November 30,
+ 2003 2002
+ -------- --------
+Metals Recycling Business 9,923 3,096
+Auto Parts Business 5,889 5,208
+Steel Manufacturing Business (142) (1,257)
+Joint Ventures in the Metals Recycling Business 5,986 3,071
+Joint Ventures Suppliers of Metals (49) 104
+Corporate expense (2,646) (2,024)
+Eliminations (856) 573
+ -------- --------
+Consolidated income from operations 18,105 8,771
+ ======== ========
+
+Income from operations generated by the joint ventures represents the Company's
+equity in the income or loss of these entities.
+
+ 11
+
+SCHNITZER STEEL INDUSTRIES, INC.
+ NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+ FOR THE THREE MONTHS ENDED NOVEMBER 30, 2003 AND 2002
+
+The Company's share of depreciation and amortization expense included in the
+determination of joint ventures' income from operations is as follows (in
+thousands):
+
+For the Three Months Ended
+ November 30,
+ 2003 2002
+ -------- --------
+Joint Ventures in the Metal Recycling Business 1,732 1,636
+Joint Ventures Suppliers or Metals 66 74
+ -------- --------
+Total 1,798 1,710
+ ======== ========
+
+12
+
+SCHNITZER STEEL INDUSTRIES, INC.
+
+ITEM 2. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS
+OF OPERATIONS
+
+GENERAL
+
+The Company operates in three industry segments. The Company's Metals Recycling
+Business collects, processes and recycles steel and other metals through its
+facilities. The Company's Steel Manufacturing Business operates a mini-mill near
+Portland, Oregon, which melts recycled metal, produces finished steel products
+and maintains one mill depot in Southern California and a third party depot in
+Central California. The Company's Auto Parts Business purchases used and wrecked
+automobiles and allows retail customers the opportunity of extracting parts for
+purchase in its self-service auto parts stores, with 17 located in California,
+two in Nevada and one store in each of Texas, Utah, Illinois and Indiana.
+Additionally, the Company is a non-controlling partner in joint ventures that
+are either in the metals recycling business or are suppliers of unprocessed
+metals. The Joint Ventures in the Metals Recycling Business sell recycled metals
+that have been processed at their facilities (Processing) and also buy and sell
+third parties' processed metals (Brokering).
+
+Note 3 of the Notes to the Consolidated Financial Statements describes an
+acquisition that occurred on February 14, 2003. Under Statement of Financial
+Accounting Standards No. 141 ("SFAS 141"), "Business Combinations," the
+acquisition is considered a "step" acquisition due to the fact that the Company
+had a significant joint venture interest in the acquired business for a number
+of years. Additionally, since the acquisition occurred during the year, the
+Company elected to include it in the consolidated results as though it had
+occurred at the beginning of fiscal 2003. Thus, the statement of operations,
+balance sheet, and statement of cash flows for the three months ended November
+30, 2002 have been adjusted to consolidate the acquisition as of September 1,
+2002. Also, the acquired businesses were consolidated with the Company's
+previous interest in the business to form a separate reporting segment called
+the Auto Parts Business. As such, the financial information that was reported in
+the Company's Form 10-Q for the quarter ended November 30, 2002 has been
+restated to consolidate the acquisition as of September 1, 2002.
+
+13
+
+SCHNITZER STEEL INDUSTRIES, INC.
+
+RESULTS OF OPERATIONS
+
+The Company's revenues and operating results by business segment are summarized
+below (in thousands):
+
+ For the Three Months Ended
+ November 30,
+ 2003 2002
+ --------- ---------
+REVENUES:
+Metals Recycling Business:
+ Ferrous sales 65,894 33,930
+ Nonferrous sales 12,409 10,115
+ Other sales 1,299 1,529
+ --------- ---------
+ Total sales 79,602 45,574
+
+Auto Parts Business 17,660 16,139
+Steel Manufacturing Business 53,219 42,830
+Intercompany sales eliminations (22,105) (13,876)
+ --------- ---------
+ Total 128,376 90,667
+ ========= =========
+
+INCOME (LOSS) FROM OPERATIONS:
+Metals Recycling Business 9,923 3,096
+Auto Parts Business 5,889 5,208
+Steel Manufacturing Business (142) (1,257)
+Joint Ventures 5,937 3,175
+Corporate expense (2,646) (2,024)
+Intercompany eliminations (856) 573
+ --------- ---------
+ Total 18,105 8,771
+ ========= =========
+
+NET INCOME 12,177 2,891
+ ========= =========
+
+The Joint Ventures' revenues and results of operations were as follows (in
+thousands):
+ 
+ For the Three Months Ended
+ November 30,
+ 2003 2002
+ -------- ---------
+ 
+Total revenues from external customers recognized by:
+
+Joint Ventures in the Metals Recycling Business
+ Processing 128,711 104,570
+ Trading 45,121 50,532
+Joint Venture Suppliers of Metals 2,048 2,095
+ -------- --------
+ 175,880 157,197
+
+Income from joint ventures recognized by the Company from:
+
+Joint Ventures in the Metals Recycling Business 5,986 3,071
+Joint Venture Suppliers of Metals (49) 104
+ -------- --------
+ 5,937 3,175
+ ======== ========
+ 
+ 14
+
+SCHNITZER STEEL INDUSTRIES, INC.
+
+The following table summarizes certain selected operating data for the Company
+and its joint venture businesses:
+
+ For the Three Months Ended
+ November 30,
+ 2003 2002
+ -------- --------
+SHIPMENTS (in thousands):
+
+METALS RECYCLING BUSINESS:
+Ferrous recycled metal (long tons):
+ To Steel Manufacturing Business 158 115
+ To other unaffiliated domestic customers 16 38
+ To export customers 235 142
+ -------- --------
+ Total ferrous recycled metal 409 295
+ ======== ========
+
+Nonferrous metal (pounds) 28,300 25,500
+ ======== ========
+
+STEEL MANUFACTURING BUSINESS:
+Finished steel products (net tons) 163 142
+ ======== ========
+
+JOINT VENTURES IN THE METALS RECYCLING BUSINESS:
+Ferrous recycled metal (long tons):
+ Processed 675 636
+ Brokered 677 470
+ -------- --------
+ 1,352 1,106
+ ======== ========
+
+FIRST QUARTER FISCAL 2004 COMPARED TO FIRST QUARTER FISCAL 2003
+
+GENERAL. During the first quarter of fiscal 2004, the Metals Recycling Business
+continued to experience improved market conditions, which have not been seen
+since before the 1997 Asian financial crisis. Markets began to improve early in
+calendar 2002 primarily due to export tariffs and bans imposed by some of the
+countries of the former Soviet Union which caused the supplies of ferrous
+recycled metals available to export from those countries to decrease. In
+addition, global demand for ferrous recycled metal has grown due primarily to
+the growing Asian economies, in particular, China. Due to the rising prices,
+certain foreign steel producers delayed placing new orders during the first
+quarter of fiscal 2003. By the end of the quarter, foreign buyers needed to
+replenish their inventories and began to place orders at price levels that were
+at or above prices recognized in the first two months of the quarter. As a
+result, the Metals Recycling Business' ferrous sales volumes were unusually low
+in the first quarter of fiscal 2003. Throughout much of the remainder of fiscal
+2003 and into the first quarter of fiscal 2004, selling prices continued to rise
+primarily due to strong Asian demand, the tight supply of ferrous metal
+available in the export market and the weakness of the U.S. dollar relative to
+other foreign currencies. Demand, which is being fueled primarily by China,
+continues to remain strong. In 2000, China produced an estimated 129 million
+tons of steel representing 16 of the world's production. It's anticipated that
+China will produce approximately 215 million tons of crude steel in all of 2003
+representing nearly 23 of the world's total production. This growing steel
+production is directly increasing demand and prices for recycled ferrous metal.
+
+The Company has also experienced modest increases in demand domestically over
+the previous year due to improvements in the U.S. economy. Additionally,
+continued strong demand for nonferrous recycled metals, particularly from China,
+boosted nonferrous metals selling prices. During the same period, the cost of
+unprocessed metal rose as well, which, combined with rising ocean freight rates,
+partially offset the increase in selling prices. Ocean freight costs rose 50 
+from the first quarter of last year, due to the combination of higher
+
+ 15
+
+SCHNITZER STEEL INDUSTRIES, INC.
+
+fuel prices and an increase in Asian demand for bulk cargo vessels that
+traditionally ship scrap metal and other bulk commodity products.
+
+The Joint Ventures in the Metals Recycling Business were affected by many of the
+same supply and demand factors as the Company's wholly-owned Metals Recycling
+Business during the first fiscal 2004 quarter.
+
+The Steel Manufacturing Business saw higher average selling prices and higher
+sales volumes during the first quarter of fiscal 2004 compared with the first
+quarter of fiscal 2003. Sales prices benefited from a higher valued product
+sales mix and lower volumes of competing imported steel, which is partially
+attributed to the weakness of the U.S. dollar and higher ocean freight rates.
+Additionally, steel producers continued to raise selling prices in an attempt to
+offset the sharp rise in raw material and energy costs. Sales volumes have
+increased over the first quarter of fiscal 2003, due primarily to industry
+consolidation, modest increases in end user demand and lower steel imports
+resulting from the weakness in the U.S. dollar relative to foreign currencies.
+Partially offsetting the higher selling prices and volumes was an increase in
+the cost of ferrous recycled metal.
+
+The Auto Parts Business segment was formed in the second quarter of fiscal 2003
+as a result of the acquisition referred to in the "Overview" section. It
+purchases used and salvaged vehicles, sells parts from those vehicles through
+its retail facilities and wholesale operations and sells the remaining portion
+of the vehicles to metal recyclers. The retail operations are somewhat seasonal
+and principally affected by weather conditions and promotional events. Since the
+stores are open to the natural elements, during periods of prolonged wet, cold
+or extreme heat, the retail business tends to slow down due to the difficult
+customer working conditions. Further, the Company generally runs promotional
+events during seasonably moderate times of the year when it is most likely to
+affect the buying patterns of its retail customers. As a result, the Company's
+first and third fiscal quarters tend to generate the most retail sales and the
+second and fourth fiscal quarters are the slowest in terms of retail sales. The
+Auto Parts Business' other primary source of revenue is the sale of scrap metal
+and other parts wholesale. Revenues for the wholesale product lines are
+principally affected by commodity prices and shipping schedules. In recent
+years, the wholesale business has also improved by efficiency and work practice
+changes, which has increased the volume of wholesale parts sales. As mentioned
+earlier in the discussions regarding the Metal Recycling Business, recycled
+metal prices have increased dramatically since the second quarter of fiscal
+2002, which has positively affected the wholesale revenues and profits of the
+Auto Parts Business.
+
+Net income for the first quarter of fiscal 2004 compared with the same quarter
+in the previous fiscal year benefited from improvements in all of the Company's
+business segments. The Metals Recycling Business and the Steel Manufacturing
+Business experienced higher average selling prices as well as higher sales
+volumes. The Auto Parts Business saw an increase in wholesale revenues offset by
+a modest decline in retail revenues. Wholesale revenues have increased due to
+the increase in recycled metals prices. The joint ventures in the metals
+recycling business also saw higher income primarily due to the same factors as
+the Company's Metals Recycling Business.
+
+REVENUES. Consolidated revenues for the quarter ended November 30, 2003
+increased 42 from 90.7 million to 128.4 million compared with the first
+quarter of fiscal 2003. The increase was primarily a result of increases in the
+Metals Recycling Business' sales volume and average net selling price per ton.
+The Steel Manufacturing Business also showed gains in average selling prices and
+sales volumes and the Auto Parts Business wholesale revenues increased while its
+retail revenues have declined slightly.
+
+Revenues for the Metals Recycling Business for the quarter ended November 30,
+2003, before intercompany eliminations, increased 34.0 million (75 compared
+with the fiscal 2003 quarter primarily due to higher average net selling prices
+per ton and higher sales volumes. Total ferrous sales volumes increased by
+approximately 114,000 tons (39 due primarily to the market conditions
+previously mentioned in the "General" paragraph. Ferrous export sales volumes
+increased 65 . Sales to the Steel Manufacturing Business increased by 43,000
+tons (37 to 158,000 tons in order to meet the increased melt shop production
+at the Company's steel mill. The average sales price, net of shipping costs
+(average net sales price), for ferrous metals
+
+ 16
+
+SCHNITZER STEEL INDUSTRIES, INC.
+
+increased 38 per ton (37 to 140 per ton from the first quarter of fiscal
+2004 due to the lower supplies of competing metal in global markets and strong
+demand in Asia. Nonferrous sales volume increased 11 and the average selling
+price per pound increased 11 , which was primarily attributable to continued
+strong demand from China.
+
+The Steel Manufacturing Business' revenues for the quarter ended November 30,
+2003 increased 10.4 million (24 ), to 53.2 million compared with the prior
+year quarter, reflecting higher average sales prices and higher volumes.
+Finished steel shipments were 15 higher than the prior year with the average
+finished steel net selling price up 26 per ton (9 to 310 per ton compared
+with the same quarter last year. These price increases were primarily caused by
+steel producers attempting to offset the sharp rise in raw material and energy
+costs. The wire rod average net sales price was up 3 compared with the first
+quarter of fiscal 2003. Average rebar selling prices have increased 13 and
+merchant bar selling prices have increased 12 from the first fiscal 2003
+quarter. These increases were due to market dynamics in which the production
+costs for most suppliers were higher than selling prices and selling prices
+needed to be adjusted upward.
+
+Revenues for the Auto Parts Business for the first quarter ended November 30,
+2003, before intercompany eliminations, increased 1.5 million (9 compared
+with the fiscal 2003 quarter primarily due to an increase in wholesale revenues
+driven by higher sales prices for scrapped auto bodies due to rising ferrous
+recycled metal prices. Wholesale prices also benefited from the implementation
+of improved efficiencies and changes in work practices which was caused in part
+by a new distribution center. This, coupled with strong pricing, resulted in
+increased sales volumes. Retail revenues were down slightly due to a reduction
+in customer admissions in certain markets resulting primarily from increased
+competition.
+
+COST OF GOODS SOLD. Consolidated cost of goods sold increased 29.9 million
+(39 for the first quarter ended November 30, 2003, compared with the same
+period last year. Cost of goods sold decreased as a percentage of revenues from
+85 to 83 . Gross profit increased 7.8 million to 21.7 million during the
+latest quarter compared to the prior year quarter driven by profit margin
+improvements at the Company's Metal Recycling and Steel Manufacturing Business
+segments.
+
+For the Metal Recycling Business, the cost of goods sold as a percentage of
+revenues decreased compared with the first quarter of fiscal 2003 from 85 to
+82 . Gross profit increased by 7.4 million to 14.4 million. The increase in
+gross profit was attributable to higher average net selling prices per ton and
+higher sales volumes. Compared with the first quarter of last year, the average
+ferrous metals cost of sales per ton increased 31 due primarily to higher
+purchase costs for unprocessed ferrous metals. Generally, a change in the cost
+of unprocessed metal has a strong correlation to changes in the average selling
+price. Thus, as selling prices rose compared with last year's quarter, so did
+the cost of unprocessed metal.
+
+For the first quarter of fiscal 2004, cost of goods sold for the Steel
+Manufacturing Business increased 9.1 million (21 compared to the same period
+last year and as a percentage of revenues decreased from 101 to 99 . Cost of
+goods sold per ton increased 6 primarily due to higher raw material costs. In
+the first quarter of fiscal 2004, the gross profit was 0.7 million compared
+with a gross loss of 0.5 million in the first quarter of last year. This
+improvement was primarily attributable to higher prices offset by higher raw
+material costs. The Auto Parts Business' cost of sales was 1.0 million (11 higher during the first quarter of fiscal 2004 as compared to the cost of sales
+for the fiscal 2003 quarter. The higher cost of sales was due to higher car
+purchase costs that result from higher scrap metal prices. As a percentage of
+revenues, the cost of sales remained relatively unchanged from the prior year.
+
+JOINT VENTURES. The Joint Ventures in the Metals Recycling Business
+predominantly sell recycled ferrous metal. Revenues for this segment in the
+first quarter of fiscal 2004 increased 18.7 million (12 compared with the
+prior year quarter primarily due to higher average net selling prices per ton.
+Due to the same supply and demand circumstances described earlier for the
+Company's wholly-owned businesses, the Joint Ventures that process
+
+ 17
+
+SCHNITZER STEEL INDUSTRIES, INC.
+
+recycled metals had a 35 increase in the average net selling price per ton for
+ferrous recycled metals and sales volumes increased 6 over the prior year.
+
+The Company's equity in income from its Joint Ventures for the first quarter of
+fiscal 2004 increased to 5.9 million from 3.2 million in the first quarter of
+fiscal 2003. The increase in income from these Joint Ventures was primarily
+caused by the earlier-mentioned higher selling prices of the processing Joint
+Ventures. Additionally, the Joint Ventures have worked to improve operational
+efficiencies, thereby increasing their operating margins per ton.
+
+GENERAL AND ADMINISTRATIVE EXPENSE. Compared with the first quarter of fiscal
+2003, general and administrative expense for the same quarter this fiscal year
+increased 1.1 million. As a percentage of revenues, general and administrative
+expense has decreased by 1.4 percentage points, from 7.8 to 6.4 due to
+spreading the Company's fixed costs over higher revenues.
+
+INTEREST EXPENSE. Interest expense for the first quarter of fiscal 2004
+increased 16 to 0.4 million compared with the first quarter of fiscal 2003.
+The increase was primarily a result of higher average debt balances during the
+fiscal 2004 quarter compared with the fiscal 2003 quarter.
+
+INCOME TAX PROVISION. The tax rate for the first quarter of fiscal 2004 was
+approximately 29.0 , compared with a tax rate of 24.6 for the prior year
+quarter. The current quarter rate is lower than the 35 federal statutory tax
+rate for three primary reasons: (1) The implementation of SFAS 142 has
+eliminated the amortization of goodwill for financial reporting purposes, while
+some goodwill can be amortized for tax purposes; (2) export sales, which under
+current Federal law are taxed at a lower rate than domestic sales, have
+increased; and (3) net operating loss carryforwards that accompanied an earlier
+acquisition continue to provide benefit.
+
+PRE-ACQUISITION INTERESTS. For the first quarter of fiscal 2003, pre-acquisition
+interests of 1.9 million, which are net of tax, represent the share of income
+attributable to the former joint venture partner prior to the acquisition. See
+Note 3 of the Notes to the Consolidated Financial Statements.
+
+CUMULATIVE EFFECT OF CHANGE IN ACCOUNTING PRINCIPLE. The Company performed a
+transitional impairment test of its goodwill and intangible assets during the
+second quarter of fiscal 2003. As a result of this test, the Company recorded a
+non-cash impairment charge of 983,000, effective September 1, 2002, and
+reported it as a "Cumulative effect of change in accounting principle" on the
+Consolidated Statement of Operations.
+
+LIQUIDITY AND CAPITAL RESOURCES. Cash provided by operations for the three
+months ended November 30, 2003 was 12.4 million compared with a cash usage of
+ 3.7 million for the same period in the prior fiscal year. The change in cash
+flow was due primarily to higher net income and a smaller increase in inventory
+levels for the current period compared to the previous year.
+
+Capital expenditures for the three months ended November 30, 2003 were 6.2
+million compared with 4.2 million during the first three months of fiscal 2003.
+The increase was primarily due to improvement projects at the Company's Oakland,
+California recycling facility and its steel mill. The Company expects to spend
+approximately 24.3 million on capital projects during the remainder of fiscal
+2004.
+
+As a result of acquisitions completed in prior years the Company had 21.0
+million of accrued environmental liabilities as of November 30, 2003. The
+Company expects to require significant future cash outlays as it incurs the
+actual costs relating to the remediation of such environmental liabilities.
+
+As of November 30, 2003, the Company had a committed unsecured bank credit
+facility totaling 150 million that matures in May 2006. The Company also had an
+additional unsecured line of credit of 20 million, which is uncommitted. The
+Company's debt agreements have certain restrictive covenants. As of November 30,
+2003, the Company was in compliance with such covenants and had aggregate bank
+borrowings outstanding of 77.0 million.
+
+ 18
+
+SCHNITZER STEEL INDUSTRIES, INC.
+
+In July 2002, the Company's metals recycling joint ventures with Hugo Neu
+Corporation entered into a 70 million revolving credit facility ("JV Credit
+Facility") with a group of banks for working capital and general corporate
+purposes. Prior to that time, the joint ventures' working capital and other cash
+needs had been met by advances provided equally by the Company and its partner,
+Hugo Neu Corporation. The JV Credit Facility expires in July 2004 and is secured
+by the inventory and receivables of the joint venture businesses. The Company is
+not a guarantor of the JV Credit Facility. The JV Credit Facility has a number
+of covenants and restrictions, including restrictions on the level of
+distributions to the joint venture partners. As of November 30, 2003, the joint
+ventures were in compliance with such covenants. Borrowings under the JV Credit
+Facility totaled 64.0 million at November 30, 2003. The increased borrowing
+levels were primarily caused by increases in working capital resulting from
+increasing volumes from the global trading business coupled with shipping delays
+that resulted in a temporary build up in inventory. Additionally, the Joint
+Ventures recently requested an increase in the credit line of 40 million to
+fund growth.
+
+Pursuant to a stock repurchase program, the Company is authorized to repurchase
+up to 3.0 million shares of its stock when the market price of the Company's
+stock is not reflective of management's opinion of an appropriate valuation of
+the stock. Management believes that repurchasing shares under these conditions
+enhances shareholder value. During the first three months of fiscal 2004, the
+Company made no share repurchases. As of November 30, 2003, the Company had
+repurchased a total of 1.3 million shares under this program.
+
+The Company believes that its current cash balance, internally generated funds
+and existing credit facilities will provide adequate financing for capital
+expenditures, working capital, joint ventures, stock repurchases, debt service
+requirements and future environmental obligations for the next twelve months. In
+the longer term, the Company may seek to finance business expansion with
+additional borrowing arrangements or additional equity financing.
+
+OUTLOOK. The Metals Recycling Business normally accepts orders 60 to 90 days
+before shipment. Based upon the Metals Recycling Businesses' second quarter 2004
+order backlog, contracted selling prices are, on average, higher than the amount
+realized in the first quarter of fiscal 2004, and significantly higher than the
+amount reported during last year's second quarter. The higher selling prices are
+expected to be tempered by rising ocean freight rates as well as upward pressure
+on the cost to purchase metal from suppliers. Sales volumes are anticipated to
+be in the range of 520,000 to 550,000 tons. Similar market factors are expected
+to affect our Joint Ventures in the Metals Recycling Business.
+
+On December 4, 2003, President Bush terminated the steel import tariffs that
+were enacted in March 2002. The tariffs affected two of the Steel Manufacturing
+Business's three major production lines, namely rebar and merchant bar products.
+It has been management's belief that the tariffs, when enacted, did not
+significantly benefit the pricing of the Company's products. Thus, the
+President's decision to rescind the tariffs is not expected to significantly
+affect the prices of these products going forward. Management anticipates the
+domestic economy will continue to improve, which should benefit the Company's
+Steel Manufacturing Business. However, second quarter demand and sales volumes
+are traditionally the lowest of the four fiscal quarters due to seasonal and
+weather factors. Over the last few months, the Steel Manufacturing Business and
+its competitors announced a number of price increases, which led to higher
+selling prices. Two additional announced price increases totaling 40 per ton on
+rebar and merchant bar are expected to take effect in the second quarter of 2004
+and should result in higher average selling prices. The higher selling prices
+should mitigate the rise in recycled metal and energy costs. The Steel
+Manufacturing Business also received 1.8 million during the second quarter as a
+final payment regarding an electrode price fixing settlement that was settled in
+favor of a number of steel mills, including the Company. This amount will be
+recognized as income from operations during the second quarter of fiscal 2004.
+
+ 19
+
+SCHNITZER STEEL INDUSTRIES, INC.
+
+Due to adverse weather conditions, the second quarter of each fiscal year is
+seasonably slow for the Auto Parts Business in terms of retail sales. The slower
+retail sales are expected to be partially offset by stronger wholesale revenues.
+
+Overall, the Company estimates its second quarter 2004 income from operations to
+be in the 19 million to 22 million range. This amount compares to income from
+operations of 13.1 million reported for the second quarter of fiscal 2003.
+
+The Company anticipates that its effective tax rate will continue to benefit
+from net operating loss carryforwards that were acquired as part of a 1996
+acquisition as well as from Extraterritorial Income Exclusion benefits
+associated with certain export sales. These, as well as other factors, should
+result in an effective fiscal 2004 tax rate in the high twenty percent range.
+
+FACTORS THAT COULD AFFECT FUTURE RESULTS. Management's Discussion and Analysis
+of Financial Condition and Results of Operations, particularly "Outlook" above,
+contains forward-looking statements, within the meaning of Section 27A of the
+Securities Act of 1933 and Section 21E of the Securities Act of 1934, that are
+made pursuant to the safe harbor provisions of the Private Securities Litigation
+Reform Act of 1995. One can generally identify these forward-looking statements
+because they contain "expect", "believe" "anticipate", "estimate" and other
+words which convey a similar meaning. One can also identify these statements as
+they do not relate strictly to historical or current facts. Examples of factors
+affecting Schnitzer Steel Industries, Inc.'s consolidated operations and its
+joint ventures (the Company) that could cause actual results to differ
+materially are the following:
+
+Cyclicality and General Market Considerations: Selling prices for recycled
+metals are highly cyclical in nature and subject to worldwide economic
+conditions. In addition, the cost and availability of recycled metals are
+subject to volatile supply and demand conditions beyond the Company's control,
+resulting in periodic fluctuations in recycled metals prices. While the Company
+attempts to maintain margins by responding to changing recycled metals selling
+prices through adjustments to its metals purchase prices, the Company's ability
+to do so is limited by competitive factors as well as the impact of lower prices
+on the volume of recycled metal available to the Company. Moreover, increases in
+recycled metals prices can adversely affect the operating results of the
+Company's Steel Manufacturing Business because increases in steel prices
+generally lag increases in ferrous recycled metals prices.
+
+The steel industry is also highly cyclical in nature and sensitive to general
+economic conditions. Future economic downturns or a stagnant economy may
+adversely affect the performance of the Company.
+
+The Company expects to continue to experience seasonal fluctuations in its
+revenues and net income. Revenues can fluctuate significantly quarter-to-quarter
+due to factors such as the seasonal slowdown in the construction industry, which
+is an important buyer of the Company's finished steel products. The timing and
+extent of the slowdown is also dependent on the weather.
+
+Another factor, which may affect revenues, relates to the seasonal reduction in
+demand for recycled metal from foreign customers who tend to reduce their
+finished steel production during the summer months to offset higher energy
+costs. Also, severe weather conditions may affect the Company's global market
+conditions.
+
+The Company makes a number of large ferrous recycled metals shipments to foreign
+steel producers each year. Customer requirements, shipping schedules and other
+factors limit the Company's control over the timing of these shipments.
+Variations in the number of foreign shipments from quarter to quarter will
+result in fluctuations in quarterly revenues and earnings. The Company's
+expectations regarding ferrous metal sales prices and volumes, as well as
+earnings, are based in part on a number of assumptions (for example,
+uncertainties relating to customer orders, metal availability, estimated freight
+rates, cost and volume of inventory yet to be processed, and production output,
+etc.).
+
+ 20
+
+SCHNITZER STEEL INDUSTRIES, INC.
+
+The Auto Parts Business experiences modest seasonal fluctuations in demand. The
+retail stores are open to the natural elements. During periods of extreme
+temperatures and precipitation, customers tend to delay their purchases and wait
+for milder conditions. As a result, retail sales are generally higher during the
+spring and fall of each calendar year and lower in the winter and summer months.
+
+Competition: The recycled metals industry is highly competitive, with the volume
+of purchases and sales subject to a number of competitive factors, principally
+price. The Company has competition from both large and numerous smaller
+companies in its markets for the purchase of recyclable metals. The Company
+competes with a number of domestic and foreign recycled metals processors and
+brokers for processed and unprocessed metal as well as for sales to domestic and
+foreign customers. In the recent past, lower cost ferrous recycled metals
+supplies from the countries of the former Soviet Union had adversely affected
+the Company's ferrous recycled metals selling prices and volumes. Currently,
+those countries have export tariffs and some outright export bans which have
+significantly reduced their export volumes and lowered the worldwide supply of
+ferrous recycled metals. These tariffs and bans have had a positive effect on
+the Company's selling prices and volumes. However, the Company cannot predict
+when or if the countries of the former Soviet Union will change their export
+policies and what effect, if any, such changes might have on the Company's
+operating results.
+
+Some of the more significant domestic competitors include regional steel mills
+and their brokers who compete for recycled metal for the purpose of providing
+the mill with feedstock to produce finished steel. During periods when market
+supplies of metal are in short supply, these buyers may, at times, react by
+raising buying prices to levels that are not reasonable in relation to more
+normal market conditions. As a result, the Company may have to raise its buying
+prices to maintain its production levels.
+
+The domestic steel industry also is highly competitive. Steel prices can be
+highly volatile and price is a significant competitive factor. The Company
+competes with several domestic steel producers in the Western United States for
+sales of its products. In recent years, the Company has experienced significant
+foreign competition, which is sometimes subsidized by large foreign government
+agencies. There can be no assurance that such competition will not increase in
+the future. In March and April 2002, the ITC imposed tariffs on imported steel,
+under Section 201 of the 1974 Trade Act, to temporarily aid the domestic steel
+industry. On December 4, 2003, President Bush, in response to pressure by the
+World Trade Organization, terminated these tariffs. However, management is of
+the belief that the tariffs did not significantly benefit selling prices for
+finished steel products on the West Coast of the United States. In the spring of
+2002, the U.S. Government imposed anti-dumping and countervailing duties against
+wire rod products from eight foreign countries. These duties have assisted the
+Company in increasing sales of wire rod products; any expiration or termination
+of the duties could have a corresponding adverse effect.
+
+In December 2002, Nucor Corporation assumed ownership of the assets of
+Birmingham Steel Corp., and acquired a steel manufacturing business in Seattle,
+Washington. Nucor Corporation, the leader in setting finished steel prices in
+the Company's markets, has a significant share of the West Coast finished steel
+market and is considered an aggressive competitor. The long term impact, if any,
+which Nucor's ownership and operation of Birmingham Steel's Seattle facility
+will have on the Steel Manufacturing Business' and the Metals Recycling
+Business' operating results cannot be determined at this time. Additionally,
+until recently the Steel Manufacturing Business also competed with the North
+Star steel mill in Kingman, Arizona, a producer of wire rod and rebar products,
+which was sold to Nucor. That facility is currently idle, but any future
+start-up of its operations could negatively impact the Company's recycled metal
+and finished steel markets and prices.
+
+Geographical Concentration: The Company competes in the scrap metal business
+through its wholly-owned Metals Recycling Business as well as through its joint
+venture businesses. Over the last few years, a significant portion of the
+revenues and operating profits earned in these segments have been generated from
+sales to Asian countries, principally China and South Korea. In addition, the
+Company's sales in these countries are also concentrated with relatively few
+customers that vary depending on buying cycles and general market conditions.
+Due to the
+
+ 21
+
+SCHNITZER STEEL INDUSTRIES, INC.
+
+concentration of sales in these countries and to a relatively small customer
+base, a significant change in buying patterns, change in political events,
+change in regulatory requirements, tariffs and other export restrictions within
+the United States, severe weather conditions or general changes in economic
+conditions could adversely affect the financial results of the Company.
+
+Joint Ventures: The Company has significant investments in joint venture
+companies. The Company does not manage the day-to-day activities of these
+businesses. As a result, it does not have the same ability to control the
+operations and related financial results as it does with its consolidated
+businesses. These businesses are, however, affected by many of the same risk
+factors mentioned above. Therefore, it is difficult to predict the financial
+results of these businesses. Additionally, two of these joint ventures continue
+to use LIFO inventory accounting, which tends to defer income taxes.
+Historically, the effects of LIFO adjustments, which are recorded during the
+fourth quarter of each fiscal year, have been difficult to predict.
+
+Energy Supply: The Company and its joint ventures utilize various energy sources
+to operate their facilities. In particular, electricity and natural gas
+currently represent approximately 11 of the cost of steel manufactured for the
+Company's Steel Manufacturing Business. The Steel Manufacturing Business
+purchases electric power under a long-term contract from McMinnville Water &
+Light (McMinnville) which in turn relies on the Bonneville Power Administration
+(BPA). Historically, these contracts have had favorable prices and are long-term
+in nature. The Company has a five-year contract that expires in September 2006.
+On October 1, 2001, the BPA increased its electricity rates due to increased
+demand on the West Coast and lower supplies. This increase was in the form of a
+Cost Recovery Adjustment Clause (CRAC) added to BPA's contract with McMinnville.
+The CRAC is an additional monthly surcharge on selected power charges to recover
+costs associated with buying higher priced power during the West Coast power
+shortage. Because the BPA can adjust the CRAC every six months, it is not
+possible to predict future rate changes.
+
+The Steel Manufacturing Business also has a contract for natural gas. The
+current annual contract expires on October 31, 2004. The new contract price has
+increased 15 over the previous year's contract.
+
+If the Company is unable to negotiate favorable terms of electricity, natural
+gas and other energy sources, this could adversely affect the performance of the
+Company.
+
+Tax Laws: The Company has been able to reduce its effective tax rate below the
+federal statutory tax rate for each of the last three years by using a
+combination of Net Operating Loss Carryforwards (NOLs), State of California
+Enterprise Zone tax credits and Foreign Sales Corporations or Extraterritorial
+Income Exclusions. The Company cannot predict how future tax law changes might
+affect the Company's effective tax rate.
+
+Currency Fluctuations: Demand from the Company's foreign customers is partially
+driven by foreign currency fluctuations relative to the U.S. dollar. Recent
+weakness of the U.S. dollar relative to foreign currencies is believed to have
+had a significant effect in the increases in recycled metals prices over the
+last year, as well as resulted in increasing the cost of certain finished steel
+imports. Strengthening of the U.S. dollar could adversely affect the
+competitiveness of the Company's products in the markets in which the Company
+competes. The Company has no control over such fluctuations and, as such, these
+dynamics could affect the Company's revenues and earnings.
+
+Shipping and Handling: Both the Metals Recycling Business and the Steel
+Manufacturing Business often rely on third parties to handle and transport their
+products to end users in a timely manner. The cost to transport the products, in
+particular by ocean freight, can be affected by circumstances over which the
+Company has no control such as fuel prices, political events, governmental
+regulations on transportation and changes in market rates due to carrier
+availability. In estimating quarterly volumes of ferrous metal exports, the
+Company makes assumptions regarding the anticipated timing of ship arrival into
+loading ports and the estimated time to load the ships. The actual timing of
+ship departure, and thus the ultimate revenue recognition, can vary due to ship
+availability, weather, mechanical delays, and governmental regulatory delays.
+One export ferrous shipment can
+
+ 22
+
+SCHNITZER STEEL INDUSTRIES, INC.
+
+range from 25,000 to 40,000 tons representing a significant portion of the
+Company's quarterly revenue and profit. Thus, the delay of one shipment into the
+next quarter can significantly affect the quarterly financial results.
+
+Insurance: The cost of the Company's insurance is affected not only by its own
+loss experience but also by cycles in the insurance market. The Company cannot
+predict future events and circumstances which could cause rates to materially
+change such as war, terrorist activities or natural disasters.
+
+Auto Parts Business: The Auto Parts Business competes with both full-service and
+self-service auto dismantlers as well as larger well financed retail auto parts
+chains for retail customers. Periodically, the Auto Parts Business increases
+prices, which may affect customer flow and buying patterns. Additionally, in
+markets where the Company has only a few stores, it does not have the same
+pricing power it experiences in the larger markets in which it operates. As this
+segment expands, the Company may experience new competition from others
+attempting to replicate the Company's business model. The ultimate impact of
+these dynamics cannot be predicted. Also, the business competes for its
+automobile inventory with other dismantlers, used car dealers, auto auctions and
+metal recyclers. Inventory costs can fluctuate significantly depending on market
+conditions and prices for recycled metal.
+
+The Auto Parts Business is subject to a number of other risks that could prevent
+it from maintaining or exceeding its current levels of profitability, such as
+volatile supply and demand conditions affecting prices and volumes in the
+markets for its products, services and raw materials; environmental issues;
+local and worldwide economic conditions; increased competition; and business
+integration and management transition issues.
+
+Intercompany Sales: The Auto Parts Business sells autobodies to the Metals
+Recycling Business, and the Metals Recycling Business sells ferrous recycled
+metal to the Steel Manufacturing Business, at prices that are intended to
+approximate market. When the Company consolidates it results in accordance with
+generally accepted accounting principles, the Company eliminates the
+intercompany sales and purchases and also eliminates the estimated profit
+remaining in inventory ("Profit Elimination") at the end of each reporting
+period. In estimating future operating and financial performance, the Company
+makes assumptions regarding the forecasted Profit Elimination computation and
+its impact on the quarterly financial results of the Company. Small variations
+in price, sales volume, production volume, and purchase volumes from both within
+the Company and from third parties can result in significant differences between
+forecasted Profit Elimination and actual results.
+
+One should understand that it is not possible to predict or identify all factors
+that could cause actual results to differ from the Company's forward-looking
+statements. Consequently, the reader should not consider any such list to be a
+complete statement of all potential risks or uncertainties. Further, the Company
+does not assume any obligation to update any forward-looking statement.
+
+ITEM 3. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
+
+The Company periodically uses derivative financial instruments to limit exposure
+to changes in interest rates. Because such derivative instruments are used
+solely as hedges and not for speculative trading purposes, they do not represent
+incremental risk to the Company. For further discussion of derivative financial
+instruments, refer to "FAIR VALUE OF FINANCIAL INSTRUMENTS" in the consolidated
+Financial Statements included in Item 8 of Form 10-K for the fiscal year ended
+August 31, 2003.
+
+ITEM 4. CONTROLS AND PROCEDURES
+
+Schnitzer Steel Industries, Inc. management, under supervision of the Chief
+Executive Officer and Chief Financial Officer, is responsible for establishing
+and maintaining disclosure controls and procedures for Schnitzer Steel
+Industries, Inc. and its subsidiaries. As of November 30, 2003, with the
+participation of the Chief Executive Officer and the Chief Financial Officer,
+management completed an evaluation of the
+
+ 23
+
+SCHNITZER STEEL INDUSTRIES, INC.
+
+Company's disclosure controls and procedures. Based upon this evaluation, the
+Company's Chief Executive Officer and Chief Financial Officer have concluded
+that the disclosure controls and procedures are effective to ensure that all
+material information relating to Schnitzer Steel Industries, Inc. and its
+subsidiaries is made known to them by others within the organization as
+appropriate to allow timely decisions regarding required disclosures.
+
+There were no changes in the Company's internal control over financial reporting
+during the first fiscal quarter that have materially affected, or are reasonably
+likely to materially affect, the internal control over financial reporting.
+
+PART II
+
+ITEM 6. EXHIBITS AND REPORTS ON FORM 8-K
+
+(A) EXHIBITS
+
+ 2.1 Amendment No. 1 dated November 14, 2003, to Stock and Membership
+ Interest Purchase Agreement dated January 8, 2003, among Bob
+ Spence, Pick and Pull Auto Dismantling, Inc., Pick-N-Pull Auto
+ Dismantlers, Pick-N-Pull Auto Dismantlers, Stockton, LLC, Norprop,
+ Inc. and the Company
+
+ 31.1 Certification of Chief Executive Officer pursuant to Section 302
+ of the Sarbanes-Oxley Act of 2002
+
+ 31.2 Certification of Chief Financial Officer pursuant to Section 302
+ of the Sarbanes-Oxley Act of 2002
+
+ 32.1 Certification of Chief Executive Officer pursuant to 18 U.S.C.
+ Section 1350 as adopted pursuant to Section 906 of the
+ Sarbanes-Oxley Act of 2002.
+
+ 32.2 Certification of Chief Financial Officer pursuant to 18 U.S.C.
+ Section 1350 as adopted pursuant to Section 906 of the
+ Sarbanes-Oxley Act of 2002.
+
+(B) REPORTS ON FORM 8-K
+
+The following reports were filed on Form 8-K during the fiscal quarter ended
+November 30, 2003:
+
+ On October 2, 2003, the Company filed a Current Report on Form 8-K, to
+ report under Item 12 the issuance of a press release announcing
+ financial results for the Company's quarter and year ended August 31,
+ 2003.
+
+ 24
+
+SCHNITZER STEEL INDUSTRIES, INC.
+
+ SIGNATURE
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the
+Registrant has duly caused this report to be signed on its behalf by the
+undersigned thereunto duly authorized.
+
+SCHNITZER STEEL INDUSTRIES, INC.
+ (Registrant)
+
+Date: January 14, 2004 By: /s/ Barry A. Rosen
+ ---------------- ---------------------------
+ Barry A. Rosen
+ Vice President, Finance and
+ Chief Financial Officer
+
+25
+
+<EX-2.1>
+ 3
+ exh2-1_12407.txt
+ AMENDED STOCK PURCHASE AGREEMENT
+ 
+ EXHIBIT 2.1
+ -----------
+
+ AMENDMENT NO. 1 TO
+ STOCK AND MEMBERSHIP INTEREST PURCHASE AGREEMENT
+
+ This Amendment No. 1 to Stock and Membership Purchase Agreement
+(this "Amendment"), dated as of November 14, 2003, is by and among Bob Spence
+("Seller"); Pick and Pull Auto Dismantling, Inc., a California corporation (the
+"Company"); Pick-N-Pull Auto Dismantlers, a California general partnership (the
+"Partnership"); Pick-N-Pull Auto Dismantlers, Stockton, LLC, a California
+limited liability company (the "LLC"); Schnitzer Steel Industries, Inc., and
+Oregon corporation ("Schnitzer"); and Norprop, Inc., an Oregon corporation
+("Buyer").
+
+ RECITALS
+
+ A. Seller, the Company, the Partnership, the LLC, Schnitzer and
+Buyer are parties to that certain Stock and Membership Interest Purchase
+Agreement dated as of January 8, 2003 (the "Purchase Agreement"), pursuant to
+which Seller sold to Buyer all of the outstanding stock of the Company (the
+"Stock") and his 100 membership interest in the LLC. Capitalized terms used and
+not otherwise defined in this Amendment have the meanings given to them in the
+Purchase Agreement.
+
+ B. Seller and Buyer have recently disagreed as to the proper method
+of determining scrap pricing for purposes of calculating 2003 Adjusted
+Partnership EBITDA and 2003 LLC EBITDA and thereby determining the appropriate
+adjustments to the Company Purchase Price and LLC Purchase Price under Sections
+2.4 and 2.5 of the Purchase Agreement.
+
+ C. Buyer desires that Seller (and Seller's spouse) and Buyer jointly
+elect to treat the sale of the Stock pursuant to the Purchase Agreement as a
+sale of assets under Section 338(h)(10) of the Internal Revenue Code of 1986, as
+amended (the "Code").
+
+ D. As consideration for Seller's making the above-described election
+and agreeing to resolve the differences with respect to scrap pricing for
+purposes of calculating the amount of any purchase price adjustments under
+Sections 2.4 and 2.5 of the Purchase Agreement, Buyer is willing to pay Seller,
+as additional consideration for the sale of the Stock, cash in the amount of
+ 4,665,000.
+
+ NOW, THEREFORE, in consideration of the mutual promises contained
+herein, the parties agree as follows:
+
+ AGREEMENT
+
+ 1. Addition of Section 2.8 Regarding Tax Election. The following new
+Section 2.8 is hereby added to the Purchase Agreement:
+
+ 2.8 Tax Election.
+
+ 2.8.1 Delivery of Election. Seller shall execute and cause
+ his spouse to execute and place in the mail no later than
+ November 17, 2003 an election pursuant to Section 338(h)(10) of
+ the Code, providing for the sale of the Stock to be treated as a
+ sale of assets for tax purposes (the "Election"). The Election
+ shall be postmarked no later than November 17, 2003, shall be
+ mailed by registered or
+
+ 1
+
+certified mail, postage prepaid, and shall be addressed to the
+ office of the United States Internal Revenue Service as directed
+ by Buyer.
+
+ 2.8.2 Allocation of Deemed Sale Price. The 338(h)(10)
+ election shall be based on and consistent with the comprehensive
+ allocation of the aggregate deemed sale price prepared pursuant
+ to this Section 2.8.2. After final determination of the amount of
+ the adjustments under Sections 2.4 and 2.5 of this Agreement,
+ Buyer shall prepare a comprehensive allocation of the aggregate
+ deemed sale price, which allocation shall take into account such
+ adjustments, and such other factors as are required by applicable
+ Treasury Regulations or any corresponding provision of state or
+ local law. Any disputes regarding Buyer's allocation shall be
+ resolved in accordance with the dispute resolution procedures set
+ forth in Section 10.15.
+
+ 2.8.3 No Modifications to Election. Each of Buyer and Seller
+ agrees that neither of them shall take any action to modify the
+ Election following the execution thereof, or to modify or revoke
+ the Section 338(h)(10) election following the filing of the
+ Election, without the written consent of the other.
+
+ 2.8.4 Tax Returns. Buyer and Seller shall file all tax
+ returns in a manner consistent with the information contained in
+ the Election as filed and the final agreed allocation pursuant to
+ Section 2.8.2, and shall not take any position inconsistent with
+ such final agreed allocation as reflected in the Election;
+ provided, however, that Buyer and Seller may each make such
+ reasonable adjustments to the final agreed allocations and any
+ corresponding Tax return positions as may be required by
+ applicable Treasury Regulations under Section 338 of the Code (or
+ any corresponding provision of state or local law) to reflect
+ additional payments, if any, pursuant to this Agreement.
+
+ 2.8.5 Indemnification Against Additional Tax Liability. Buyer
+ shall indemnify Seller against any incremental Tax liability of
+ (a) Seller and (b) the Company during the period prior to the
+ Closing (the "S-Corp") in excess of One Million One Hundred
+ Thousand Dollars 1,100,000) resulting solely from the making of
+ the Section 338(h)(10) election in accordance with this Section
+ 2.8. Any payment required under the immediately preceding
+ sentence will be grossed up for any Taxes that are or will become
+ owing by Seller or the S-Corp to any Tax authority by an amount
+ necessary for Seller to receive the amount required under the
+ immediately preceding sentence on a net after-Tax basis. Buyer
+ shall pay Seller the amounts required under this Section within
+ ten (10) business days of receiving Seller's tax calculation and
+ substantiating documentation.
+
+ 2. Addition of Section 2.9 Regarding Additional Consideration for
+the Stock. The following Section 2.9 is hereby added to the Purchase Agreement:
+
+ 2.9 Additional Consideration for the Sale of the Stock.
+ Subject to Seller's compliance with the provisions of Section
+ 2.8, as additional consideration for the sale of the Stock, Buyer
+ shall pay to Seller Four Million Six Hundred Sixty Five Thousand
+ Dollars 4,665,000) by wire transfer of immediately available
+ funds within four (4) business days of
+
+ 2
+
+receiving a copy of Seller's Section 338(h)(10) election. For
+ avoidance of doubt, Buyer's payment under this Section 2.9 shall
+ not enter into the calculation of 2003 Adjusted Partnership
+ EBITDA or 2003 LLC EBITDA and accordingly shall have no effect on
+ the amount of any adjustments pursuant to Sections 2.4 and 2.5.
+
+ 3. Addition of Section 2.10 Regarding Scrap Pricing. The following
+Section 2.10 is hereby added to the Purchase Agreement:
+
+ 2.10 Scrap Pricing. Seller and Buyer hereby consent to and
+ waives any right to object to using the prices actually paid by
+ Schnitzer for scrap sales to Schnitzer by the Seller Entities
+ during calendar year 2003 for purposes of calculating 2003
+ Adjusted Partnership EBITDA and 2003 LLC EBITDA and determining
+ the appropriate adjustments to the Company Purchase Price and LLC
+ Purchase Price under Sections 2.4 and 2.5. Each of Seller and
+ Buyer fully releases and discharges the other from any and all
+ claims that he or it may have that relate to or arise out of the
+ parties' failure to base calculations of 2003 Adjusted
+ Partnership EBITDA and 2003 LLC EBITDA for purposes of
+ determining such adjustments on the pricing methodology described
+ in Section 10.13.1.
+
+ 4. Governing Law. The construction and performance of this Amendment
+will be governed by the laws of the State of Oregon, including, without
+limitation, the choice-of-law provisions thereof. The exclusive jurisdiction and
+venue for any legal action or arbitration under this Amendment shall be
+Multnomah County, Oregon.
+
+ 5. Disputes. Any dispute arising out of or relating to this
+Amendment shall be settled in accordance with the provisions of Sections 2.4.3,
+2.5.3 and 10.15 of the Purchase Agreement.
+
+ 6. Counterparts. This Agreement may be executed by the parties in
+separate counterparts, each of which shall be deemed an original hereof, but all
+of which shall constitute one and the same instrument.
+
+ 7. No Other Amendment. Except as expressly amended herein, all other
+terms and provisions of the Purchase Agreement shall remain unmodified and in
+full force and effect.
+
+REMAINDER OF PAGE INTENTIONALLY LEFT BLANK.
+
+3
+
+IN WITNESS WHEREOF, the parties hereto have executed this Amendment,
+or have caused this Amendment to be duly executed on their respective behalf by
+their respective officers thereunto duly authorized, as of the day and year
+first above written.
+
+Company: Buyer:
+
+PICK AND PULL AUTO DISMANTLING, NORPROP, INC.,
+INC., a California corporation an Oregon corporation
+
+By: /s/Barry A. Rosen
+Its: Vice President By: /s/Barry A. Rosen
+ ------------------------ -----------------------
+ Its: Vice President
+ ----------------------
+
+SCHNITZER STEEL INDUSTRIES, INC.,
+ an Oregon corporation
+
+By:/s/Barry A. Rosen
+ -------------------------
+ Its: Vice President
+ -----------------------
+Partnership:
+
+PICK-N-PULL AUTO DISMANTLERS,
+a California general partnership Seller:
+By: Norprop, Inc., Partner
+
+By:/s/Barry A. Rosen /s/Bob Spence
+ --------------------------- ----------------------------
+Its: Vice President (Bob Spence)
+ ------------------------
+
+LLC:
+
+PICK-N-PULL AUTO DISMANTLERS,
+STOCKTON, LLC,
+a California limited liability company
+By: Norprop, Inc., Partner
+
+By:/s/Barry A. Rosen
+ ---------------------------
+Its: Vice President
+
+4
+
+</EX-2.1>
+
+<EX-31.1>
+ 4
+ exh31-1_12407.txt
+ SECTION 302 CERTIFICATION OF C.E.O.
+ 
+ EXHIBIT 31.1
+ ------------
+
+ CERTIFICATION PURSUANT TO SECTION 302 OF THE SARBANES OXLEY ACT OF 2002
+
+I, Robert W. Philip, certify that:
+
+1. I have reviewed this quarterly report on Form 10-Q of Schnitzer Steel
+ Industries, Inc.;
+
+2. Based on my knowledge, this report does not contain any untrue statement of
+ a material fact or omit to state a material fact necessary to make the
+ statements made, in light of the circumstances under which such statements
+ were made, not misleading with respect to the period covered by this
+ report;
+
+3. Based on my knowledge, the financial statements, and other financial
+ information included in this report, fairly present in all material
+ respects the financial condition, results of operations and cash flows of
+ the registrant as of, and for, the periods presented in this report;
+
+4. The registrant's other certifying officer and I are responsible for
+ establishing and maintaining disclosure controls and procedures (as defined
+ in Exchange Act Rules 13a-15(e) and 15d-15(e) for the registrant and have:
+
+ (a) Designed such disclosure controls and procedures, or caused such
+ disclosure controls and procedures to be designed under our
+ supervision, to ensure that material information relating to the
+ registrant, including its consolidated subsidiaries, is made known to
+ us by others within those entities, particularly during the period in
+ which this report is being prepared;
+
+ (b) Evaluated the effectiveness of the registrant's disclosure controls
+ and procedures and presented in this report our conclusions about the
+ effectiveness of the disclosure controls and procedures, as of the end
+ of the period covered by this report based on such evaluation; and
+
+ (c) Disclosed in this report any change in the registrant's internal
+ control over financial reporting that occurred during the registrant's
+ most recent fiscal quarter (the registrant's fourth fiscal quarter in
+ the case of an annual report) that has materially affected, or is
+ reasonably likely to materially affect, the registrant's internal
+ control over financial reporting; and
+
+5. The registrant's other certifying officer and I have disclosed, based on
+ our most recent evaluation of internal control over financial reporting, to
+ the registrant's auditors and the audit committee of the registrant's board
+ of directors (or persons performing the equivalent functions):
+
+ (a) All significant deficiencies and material weaknesses in the design or
+ operation of internal control over financial reporting which are
+ reasonably likely to adversely affect the registrant's ability to
+ record, process, summarize and report financial information; and
+
+ (b) Any fraud, whether or not material, that involves management or other
+ employees who have a significant role in the registrant's internal
+ control over financial reporting.
+
+January 14, 2004
+
+/s/Robert W. Philip
+- -------------------------------------
+Robert W. Philip
+President and Chief Executive Officer
+
+</EX-31.1>
+
+<EX-31.2>
+ 5
+ exh31-2_12407.txt
+ SECTION 302 CERTIFICATION OF C.F.O.
+ 
+ EXHIBIT 31.2
+ ------------
+
+ CERTIFICATION PURSUANT TO SECTION 302 OF THE SARBANES OXLEY ACT OF 2002
+
+I, Barry A. Rosen, certify that:
+
+1. I have reviewed this quarterly report on Form 10-Q of Schnitzer Steel
+ Industries, Inc.;
+
+2. Based on my knowledge, this report does not contain any untrue statement of
+ a material fact or omit to state a material fact necessary to make the
+ statements made, in light of the circumstances under which such statements
+ were made, not misleading with respect to the period covered by this
+ report;
+
+3. Based on my knowledge, the financial statements, and other financial
+ information included in this report, fairly present in all material
+ respects the financial condition, results of operations and cash flows of
+ the registrant as of, and for, the periods presented in this report;
+
+4. The registrant's other certifying officer and I are responsible for
+ establishing and maintaining disclosure controls and procedures (as defined
+ in Exchange Act Rules 13a-15(e) and 15d-15(e) for the registrant and have:
+
+ (a) Designed such disclosure controls and procedures, or caused such
+ disclosure controls and procedures to be designed under our
+ supervision, to ensure that material information relating to the
+ registrant, including its consolidated subsidiaries, is made known to
+ us by others within those entities, particularly during the period in
+ which this report is being prepared;
+
+ (b) Evaluated the effectiveness of the registrant's disclosure controls
+ and procedures and presented in this report our conclusions about the
+ effectiveness of the disclosure controls and procedures, as of the end
+ of the period covered by this report based on such evaluation; and
+
+ (c) Disclosed in this report any change in the registrant's internal
+ control over financial reporting that occurred during the registrant's
+ most recent fiscal quarter (the registrant's fourth fiscal quarter in
+ the case of an annual report) that has materially affected, or is
+ reasonably likely to materially affect, the registrant's internal
+ control over financial reporting; and
+
+5. The registrant's other certifying officer and I have disclosed, based on
+ our most recent evaluation of internal control over financial reporting, to
+ the registrant's auditors and the audit committee of the registrant's board
+ of directors (or persons performing the equivalent functions):
+
+ (a) All significant deficiencies and material weaknesses in the design or
+ operation of internal control over financial reporting which are
+ reasonably likely to adversely affect the registrant's ability to
+ record, process, summarize and report financial information; and
+
+ (b) Any fraud, whether or not material, that involves management or other
+ employees who have a significant role in the registrant's internal
+ control over financial reporting.
+
+January 14, 2004
+
+/s/Barry A. Rosen
+- --------------------------------------
+Barry A. Rosen
+Vice President, Finance and Chief Financial Officer
+
+</EX-31.2>
+
+<EX-32.1>
+ 6
+ exh32-1_12407.txt
+ SECTION 906 CERTIFICATION OF C.E.O.
+ 
+ EXHIBIT 32.1
+ ------------
+
+ CERTIFICATION PURSUANT TO
+ 18 U.S.C. SECTION 1350
+ AS ADOPTED PURSUANT TO
+ SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002
+
+In connection with the Quarterly Report of Schnitzer Steel Industries, Inc. (the
+"Company") on Form 10-Q for the quarter ended November 30, 2003 as filed with
+the Securities and Exchange Commission on the date hereof (the "Report"), I,
+Robert W. Philip, President and Chief Executive Officer of the Company, certify,
+pursuant to 18 U.S.C. ss. 1350, as adopted pursuant to ss. 906 of the
+Sarbanes-Oxley Act of 2002, that, to my knowledge:
+
+(1) The Report fully complies with the requirements of section 13(a) of the
+ Securities Exchange Act of 1934; and
+
+(2) The information contained in the Report fairly presents, in all material
+ respects, the financial condition and results of operations of the Company.
+
+/s/ROBERT W. PHILIP
+- -------------------------------------
+Robert W. Philip
+President and Chief Executive Officer
+
+January 14, 2004
+
+</EX-32.1>
+
+<EX-32.2>
+ 7
+ exh32-2_12407.txt
+ SECTION 906 CERTIFICATION OF C.F.O.
+ 
+ EXHIBIT 32.2
+ ------------
+
+ CERTIFICATION PURSUANT TO
+ 18 U.S.C. SECTION 1350
+ AS ADOPTED PURSUANT TO
+ SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002
+
+In connection with the Quarterly Report of Schnitzer Steel Industries, Inc. (the
+"Company") on Form 10-Q for the year ended November 30, 2003 as filed with the
+Securities and Exchange Commission on the date hereof (the "Report"), I, Barry
+A. Rosen, Vice President, Finance and Treasurer, and Chief Financial Officer of
+the Company, certify, pursuant to 18 U.S.C. ss. 1350, as adopted pursuant to ss.
+906 of the Sarbanes-Oxley Act of 2002, that, to my knowledge:
+
+(1) The Report fully complies with the requirements of section 13(a) of the
+ Securities Exchange Act of 1934; and
+
+(2) The information contained in the Report fairly presents, in all material
+ respects, the financial condition and results of operations of the Company.
+
+/s/BARRY A. ROSEN
+- -----------------------------------
+Barry A. Rosen
+Vice President, Finance and Treasurer, and
+Chief Financial Officer
+
+January 14, 2004
+
+</EX-32.2>
+

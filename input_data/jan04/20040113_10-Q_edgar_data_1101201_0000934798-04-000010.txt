@@ -1,0 +1,2114 @@
+<Header>
+<FileStats>
+    <FileName>20040113_10-Q_edgar_data_1101201_0000934798-04-000010.txt</FileName>
+    <GrossFileSize>108558</GrossFileSize>
+    <NetFileSize>80183</NetFileSize>
+    <NonText_DocumentType_Chars>0</NonText_DocumentType_Chars>
+    <HTML_Chars>659</HTML_Chars>
+    <XBRL_Chars>0</XBRL_Chars>
+    <XML_Chars>0</XML_Chars>
+    <N_Exhibits>3</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0000934798-04-000010.hdr.sgml : 20040113
+<ACCEPTANCE-DATETIME>20040113165323
+ACCESSION NUMBER:		0000934798-04-000010
+CONFORMED SUBMISSION TYPE:	10-Q
+PUBLIC DOCUMENT COUNT:		4
+CONFORMED PERIOD OF REPORT:	20031129
+FILED AS OF DATE:		20040113
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			ICON INTERNATIONAL HOLDINGS INC
+		CENTRAL INDEX KEY:			0000785312
+		IRS NUMBER:				841425493
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		10-Q
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	333-93711-01
+		FILM NUMBER:		04523178
+
+	BUSINESS ADDRESS:	
+		STREET 1:		C/O ICON HEALTH & FITNESS INC
+		STREET 2:		1500 SOUTH 100 WEST
+		CITY:			LOGAN
+		STATE:			UT
+		ZIP:			84321
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			FREE MOTION FITNESS INC
+		CENTRAL INDEX KEY:			0001174469
+		IRS NUMBER:				870666332
+		STATE OF INCORPORATION:			UT
+		FISCAL YEAR END:			0531
+
+	FILING VALUES:
+		FORM TYPE:		10-Q
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	333-89440-02
+		FILM NUMBER:		04523175
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1500 SOUTH
+		STREET 2:		1000 WEST
+		CITY:			LOGAN
+		STATE:			UT
+		ZIP:			86321
+
+	MAIL ADDRESS:	
+		STREET 1:		1500 SOUTH
+		STREET 2:		1000 WEST
+		CITY:			LOGAN
+		STATE:			UT
+		ZIP:			86321
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			NORDICTRACK INC
+		CENTRAL INDEX KEY:			0001174470
+		IRS NUMBER:				870674680
+		STATE OF INCORPORATION:			UT
+		FISCAL YEAR END:			0531
+
+	FILING VALUES:
+		FORM TYPE:		10-Q
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	333-89440-01
+		FILM NUMBER:		04523176
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1500 SOUTH
+		STREET 2:		1000 WEST
+		CITY:			LOGAN
+		STATE:			UT
+		ZIP:			86321
+
+	MAIL ADDRESS:	
+		STREET 1:		1500 SOUTH
+		STREET 2:		1000 WEST
+		CITY:			LOGAN
+		STATE:			UT
+		ZIP:			86321
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			ICON HEALTH & FITNESS INC
+		CENTRAL INDEX KEY:			0000934798
+		STANDARD INDUSTRIAL CLASSIFICATION:	 [3949]
+		IRS NUMBER:				870531206
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0531
+
+	FILING VALUES:
+		FORM TYPE:		10-Q
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	033-87930
+		FILM NUMBER:		04523173
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1500 SOUTH 1000 WEST
+		CITY:			LOGAN
+		STATE:			UT
+		ZIP:			84321
+		BUSINESS PHONE:		4357507737
+
+	MAIL ADDRESS:	
+		STREET 1:		1500 SOUTH 1000 WEST
+		CITY:			LOGAN
+		STATE:			UT
+		ZIP:			84321
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			UNIVERSAL TECHNICAL SERVICES INC
+		CENTRAL INDEX KEY:			0001101200
+		IRS NUMBER:				870468754
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0531
+
+	FILING VALUES:
+		FORM TYPE:		10-Q
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	333-93711-02
+		FILM NUMBER:		04523179
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1500 SOUTH 1000 WEST
+		CITY:			LOGAN
+		STATE:			UT
+		ZIP:			84321
+		BUSINESS PHONE:		4357507737
+
+	MAIL ADDRESS:	
+		STREET 1:		1500 SOUTH 1000 WEST
+		CITY:			LOGAN
+		STATE:			UT
+		ZIP:			84321
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			JUMPKING INC
+		CENTRAL INDEX KEY:			0001101201
+		IRS NUMBER:				870481821
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0531
+
+	FILING VALUES:
+		FORM TYPE:		10-Q
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	333-93711-03
+		FILM NUMBER:		04523181
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1500 SOUTH 1000 WEST
+		CITY:			LOGAN
+		STATE:			UT
+		ZIP:			84321
+		BUSINESS PHONE:		4357507737
+
+	MAIL ADDRESS:	
+		STREET 1:		1500 SOUTH 1000 WEST
+		CITY:			LOGAN
+		STATE:			UT
+		ZIP:			84321
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			510152 N B LTD
+		CENTRAL INDEX KEY:			0001101202
+		STATE OF INCORPORATION:			A0
+		FISCAL YEAR END:			0531
+
+	FILING VALUES:
+		FORM TYPE:		10-Q
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	333-93711-04
+		FILM NUMBER:		04523180
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1500 SOUTH 1000 WEST
+		CITY:			LOGAN
+		STATE:			UT
+		ZIP:			84321
+		BUSINESS PHONE:		4357507737
+
+	MAIL ADDRESS:	
+		STREET 1:		1500 SOUTH 1000 WEST
+		CITY:			LOGAN
+		STATE:			UT
+		ZIP:			84321
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			ICON IP INC
+		CENTRAL INDEX KEY:			0001182076
+		IRS NUMBER:				870649577
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		10-Q
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	333-89440-07
+		FILM NUMBER:		04523174
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1500 SOUTH 1000 WEST
+		CITY:			LOGAN
+		STATE:			UT
+		ZIP:			84321
+		BUSINESS PHONE:		4357505000
+
+	MAIL ADDRESS:	
+		STREET 1:		1500 SOUTH 1000 WEST
+		CITY:			LOGAN
+		STATE:			UT
+		ZIP:			84321
+
+</SEC-Header>
+</Header>
+
+ 
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ VAqWR6OP+OCMvVOIHWpzBIr0qvuq3wdfB5ye0lDqrJAhThHRXU8H3H2NpAuis/9c
+ 8yzgjV436eJjVB8ZC1dMsg==
+
+ 0000934798-04-000010.txt : 20040113
+
+10-Q
+ 1
+ str10q2qf03.txt
+ FORM 10-Q WITH DEBT SHOWN ST
+ 
+ FORM 10-Q
+
+ UNITED STATES SECURITIES AND EXCHANGE COMMISSION
+ WASHINGTON, D.C. 20549
+
+ (Mark One)
+[ ]QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15 (d) OF THE SECURITIES
+ EXCHANGE
+ ACT OF 1934 for the quarterly period ended November 29, 2003
+
+ OR
+
+[ ]TRANSITION REPORT PURSUANT TO SECTION 13 OR 15 (d) OF THE SECURITIES
+ EXCHANGE
+ACT OF 1934 for the transition period from ________to_____
+
+ Commission file number: 333-93711
+
+ICON Health & Fitness, Inc.
+ (Exact name of registrant as specified in its charter)
+
+ Delaware 87-0531206
+(State or other jurisdiction of (I.R.S. Employer Identification
+ incorporation or organization) No.)
+
+1500 South 1000 West, Logan, Utah 84321
+ (Address and zip code of principal executive offices)
+
+ 435 750-5000
+ (Registrant's telephone number, including area code)
+
+ Not Applicable
+ (Former name, former address and former fiscal year, if changed since
+ last report)
+
+ Indicate by checkmark whether the registrant (1) has filed all reports
+required to be filed by Section 13 or 15(d) of the Securities Exchange Act of
+1934 during the preceding 12 months (or for such shorter period that the
+registrant was required to file such reports), and (2) has been subject to such
+filing requirements for the past 90 days. Yes [X] No [ ]
+
+APPLICABLE ONLY TO ISSUERS INVOLVED IN BANKRUPTCY PROCEEDINGS DURING
+THE PRECEDING FIVE YEARS:
+
+ Indicate by check mark whether the registrant has filed all
+documents and reports required to be filed by Sections 12, 13, or 15(d)
+of the Securities Exchange Act of 1934 subsequent to the distribution
+of securities under a plan confirmed by a court. Yes [ ] No [ ]
+
+ APPLICABLE ONLY TO CORPORATE ISSUERS
+
+ Indicate the number of shares outstanding of each of the issuer's classes
+of common stock, as of the latest practicable date:
+
+ ICON Health & Fitness, Inc. 1,000 shares.
+
+ICON Health & Fitness, Inc.
+
+ INDEX
+
+ Page No.
+ --------
+
+PART I - FINANCIAL INFORMATION 3
+
+Item 1. Financial Statements 3-6
+
+ Condensed Consolidated Balance
+ Sheets as of November 29, 2003(unaudited),
+ May 31, 2003 and November 30, 2002(unaudited) 3
+
+ Condensed Consolidated Statements of
+ Operations (unaudited) for the three months
+ ended November 29, 2003 and November 30, 2002 4
+
+ Condensed Consolidated Statements of
+ Operations (unaudited) for the six months
+ ended November 29, 2003 and November 30, 2002 5
+
+ Condensed Consolidated Statements
+ of Cash Flows (unaudited) for the six months
+ ended November 29, 2003 and November 30, 2002 6
+
+ Notes to Condensed Consolidated
+ Financial Statements (unaudited) 7-15
+
+Item 2. Management's Discussion and Analysis of
+ Financial Condition and Results of
+ Operations 16-23
+
+Item 3. Quantitative and Qualitative Disclosures
+ About Market Risk 23
+
+Item 4. Controls and Procedures 23
+
+PART II - OTHER INFORMATION 24
+
+Item 1. Legal Proceedings 24
+
+Item 2. Changes in Securities 24
+
+Item 3. Defaults Upon Senior Securities 24
+
+Item 4. Submission of Matters to a Vote of
+ Securities Holders 24
+
+Item 5. Other Information 24
+
+Item 6. Exhibits and Reports on Form 8-K 24
+
+Signatures 24-25
+
+Certifications 26-28
+
+Exhibit Index 29
+
+PART I - FINANCIAL INFORMATION
+
+Item 1. Financial Statements
+
+ICON Health & Fitness, Inc.
+CONDENSED CONSOLIDATED BALANCE SHEETS
+(In Thousands)
+ November 29, 2003 May 31, 2003 November 30, 2002
+ ----------------- ------------ -----------------
+Assets (Unaudited) (Restated) (Restated)
+ (Unaudited)
+Current assets:
+ Cash 7,803 4,650 4,372
+ Accounts receivable, net 303,053 175,164 246,350
+ Inventories, net:
+ Raw materials 95,255 53,748 94,312
+ Finished goods 121,239 107,960 106,229
+ -------- -------- --------
+ Total inventories, net 216,494 161,708 200,541
+ Deferred income taxes 6,727 7,323 6,188
+ Other current assets 10,829 9,830 12,396
+ -------- -------- --------
+Total current assets 544,906 358,675 469,847
+
+Property and equipment 109,336 98,266 103,135
+Less accumulated depreciation (55,444) (49,489) (55,113)
+ -------- -------- --------
+Property and equipment, net 53,892 48,777 48,022
+Intangible assets, net 30,194 29,069 30,877
+Deferred income taxes 6,577 8,379 11,022
+Other assets, net 20,836 20,214 19,070
+ -------- -------- --------
+Total assets 656,405 465,114 578,838
+ ======== ======== ========
+
+Liabilities and Stockholder's Equity
+Current liabilities:
+ Current portion of
+ long-term debt 5,000 91,328 190,486
+ Accounts payable 203,234 121,177 166,249
+ Accrued liabilities 31,641 33,964 25,452
+ Income taxes payable 4,001 4,228 3,631
+ Interest payable 7,517 7,484 7,626
+ -------- -------- --------
+Total current liabilities 251,393 258,181 393,444
+Long term-debt 331,341 152,904 152,876
+Other liabilities 11,293 9,691 6,842
+ -------- -------- --------
+ Total liabilities 594,027 420,776 553,162
+ -------- -------- --------
+
+Minority interest 3,500 - -
+
+Stockholder's Equity
+ Common stock and additional
+ paid-in capital 204,155 204,155 204,155
+ Receivable from Parent (2,200) (2,200) (2,200)
+ Accumulated deficit (143,577) (157,252) (173,681)
+ Accumulated other
+ comprehensive income(loss) 500 (365) (2,598)
+ -------- -------- --------
+Total stockholder's equity 58,878 44,338 25,676
+ -------- -------- --------
+Total liabilities and
+ stockholder's equity 656,405 465,114 578,838
+ ======== ======== ========
+
+See accompanying notes to condensed consolidated financial statements.
+
+ICON Health & Fitness, Inc.
+CONDENSED CONSOLIDATED STATEMENTS OF OPERATIONS (Unaudited)
+(In Thousands)
+
+ For the Three Months Ended
+ November 29, 2003 November 30, 2002
+ ----------------- -----------------
+Net sales 331,822 292,732
+Cost of sales 235,804 210,725
+ -------- --------
+Gross profit 96,018 82,007
+ -------- --------
+Operating expenses:
+ Selling 35,821 30,632
+ Research and development 3,353 2,588
+ General and administrative 25,714 20,101
+ -------- --------
+Total operating expenses 64,888 53,321
+ -------- --------
+
+Income from operations 31,130 28,686
+
+Interest expense 6,359 6,526
+Amortization of deferred financing fees 277 184
+ -------- --------
+Income before income taxes 24,494 21,976
+Provision for income taxes 9,093 8,275
+ -------- --------
+Net income 15,401 13,701
+Other comprehensive income(loss),
+ comprised of foreign currency
+ translation adjustment, net of
+ income tax expense of 1,009 in 2003
+ and income tax benefit of 342 in 2002. 1,645 (567)
+ -------- --------
+Comprehensive income 17,046 13,134
+ ======== ========
+
+See accompanying notes to condensed consolidated financial statements.
+
+ICON Health & Fitness, Inc.
+CONDENSED CONSOLIDATED STATEMENTS OF OPERATIONS (Unaudited)
+(In Thousands)
+
+ For the Six Months Ended
+ November 29, 2003 November 30, 2002
+ ----------------- -----------------
+Net sales 529,645 462,955
+Cost of sales 370,053 337,545
+ -------- --------
+Gross profit 159,592 125,410
+ -------- --------
+Operating expenses:
+ Selling 70,162 53,102
+ Research and development 6,603 5,208
+ General and administrative 46,926 36,342
+ -------- --------
+Total operating expenses 123,691 94,652
+ -------- --------
+
+Income from operations 35,901 30,758
+
+Interest expense 12,352 12,925
+Amortization of deferred
+ financing fees 318 486
+ -------- --------
+Income before income taxes 23,231 17,347
+Provision for income taxes 9,556 7,087
+ -------- --------
+Net income 13,675 10,260
+Other comprehensive income(loss),
+ comprised of foreign currency
+ translation adjustment, net of
+ income tax expense of 530 in
+ 2003 and net of income tax benefit
+ of 486 in 2002 865 (793)
+ -------- --------
+Comprehensive income 14,540 9,467
+ ======== ========
+
+See accompanying notes to condensed consolidated financial statements.
+
+ICON Health & Fitness, Inc.
+CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS (Unaudited)
+(In Thousands) For the Six Months Ended
+ November 29, 2003 November 30, 2002
+ ----------------- -----------------
+OPERATING ACTIVITIES:
+
+Net income 13,675 10,260
+Adjustments to reconcile net income to net
+ cash used in operating activities:
+
+ Provision for deferred taxes 1,868 167
+ Amortization of deferred financing fees 318 486
+ Depreciation and amortization 11,116 8,216
+ Amortization of debt discount 127 46
+
+Changes in operating assets and liabilities:
+ Accounts receivable, net (127,889) (93,172)
+ Inventories, net (54,786) (66,788)
+ Other assets, net (84) 8,873
+ Accounts payable and accrued liabilities 79,734 55,085
+ Income taxes, net (227) (1,789)
+ Interest payable 33 4,581
+ Other liabilities (228) -
+ -------- --------
+Net cash used in operating activities (76,343) (74,035)
+ -------- --------
+
+INVESTING ACTIVITIES:
+
+Purchase of property and equipment (9,123) (9,452)
+Purchase of property and equipment, China (3,088) -
+Purchase of intangible assets (5,145) (2,476)
+ -------- --------
+Net cash used in investing activities (17,356) (11,928)
+ -------- --------
+
+FINANCING ACTIVITIES:
+
+Borrowings on revolving credit facility,
+ net of payments 94,482 89,879
+Payments on term note (2,500) (2,500)
+Minority Interest 3,500 -
+Payment of fees-debt (25) (538)
+ -------- --------
+Net cash provided by financing
+ activities 95,457 86,841
+ -------- --------
+
+Effect of exchange rates on cash 1,395 (1,279)
+ -------- --------
+Net increase (decrease) in cash 3,153 (401)
+Cash, beginning of period 4,650 4,773
+ -------- --------
+Cash, end of period 7,803 4,372
+ ======== ========
+
+See accompanying notes to condensed consolidated financial statements.
+
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (Unaudited)
+
+Note A - Basis of Presentation
+
+ This report covers ICON Health & Fitness, Inc. & Subsidiaries
+(collectively, "the Company"). The Company's parent company, HF Holdings, Inc.
+("HF Holdings"), is not a registrant.
+
+ The Company is one of the world's leading manufacturers and marketers of
+fitness equipment. The Company is headquartered in Logan, Utah and has more than
+4,500 employees worldwide. The Company develops, manufactures and markets
+fitness equipment under the following company-owned brand names: NordicTrack,
+ProForm, HealthRider, Weslo, Weider, IMAGE and Free Motion, as well as Reebok
+and Gold's Gym under license agreements.
+
+ The accompanying unaudited condensed consolidating financial statements
+have been prepared in accordance with accounting principles generally accepted
+in the United States of America for interim financial information and with the
+instructions to Form 10-Q and Rule 10-01 of Regulation S-X. Accordingly, they do
+not include all of the information and footnotes required by accounting
+principles generally accepted in the United States of America for complete
+financial statement presentation. In addition, certain minor reclassifications
+of previously reported financial information were made to conform to the current
+period's presentation.
+
+ The Company, in its opinion, has included all adjustments, consisting only
+of normal recurring accruals, necessary for a fair presentation of the results
+of operations for the three months and six months ended November 29, 2003 and
+November 30, 2002. The condensed consolidating financial statements and notes
+thereto should be read in conjunction with the audited financial statements and
+notes for the year ended May 31, 2003 included in the Company's annual report on
+Form 10-K/A as amended with the Securities and Exchange Commission on October
+14, 2003. Interim results including comparative balance sheets are not
+necessarily indicative of results for the full fiscal year due to the inherent
+seasonality in the Company's business. See "Seasonality" in Management's
+Discussion and Analysis of Financial Condition and Results of Operations.
+
+Critical Accounting Policies
+
+ The Company's discussion of results of operations and financial condition
+relies on its consolidated financial statements that are prepared based on
+certain critical accounting policies that require management to make judgments
+and estimates that are subject to varying degrees of uncertainty. The Company
+believes that investors need to be aware of these policies and how they impact
+its financial statements as a whole, as well as its related discussion and
+analysis presented herein. While the Company believes that these accounting
+policies are based on sound measurement criteria, actual future events can and
+often do result in outcomes that can be materially different from these
+estimates or forecasts. The accounting policies and related risks described in
+the Company's annual report on Form 10-K/A as amended with the Securities and
+Exchange Commission on October 14, 2003 are those that depend most heavily on
+these judgments and estimates. As of November 29, 2003, there have been no
+material changes to any of the critical accounting policies contained therein.
+
+ Stock-Based Compensation Plans - The Company accounts for employee
+stock-based compensation arrangements in accordance with provisions of
+Accounting Principles Board Opinion (APB) No. 25, "Accounting for Stock Issued
+to Employees." Accordingly, no compensation cost has been recognized for options
+granted to employees under its fixed stock option plan.
+
+ On December 31, 2002, the FASB issued SFAS No. 148, "Accounting for
+Stock-Based Compensation Transition and Disclosure," which amends SFAS No. 123,
+"Accounting for Stock-Based Compensation". SFAS No. 148 requires more prominent
+and frequent disclosures about the effects of stock-based compensation, which
+the Company has adopted for the period ending May 31, 2003. As permitted by SFAS
+No. 148, the Company will continue to account for its stock based compensation
+according to the provisions of APB No. 25.
+
+ There were no stock options granted in the six months ended November 29,
+2003 and November 30, 2002, respectively. All previously granted options were
+fully vested as of November 30, 2002. Had compensation cost for the Company's
+stock options been recognized based upon the estimated fair value on the grant
+date under the fair value methodology prescribed by SFAS No. 123, the Company's
+net earnings would have been as follows (table in thousands):
+
+Six Months Ended
+ November 29, November 30,
+ 2003 2002
+ ------------ ------------
+ 
+Net income, as reported 13,675 10,260
+Less: Total stock-based employee
+ compensation expense determined
+ under fair value based method for
+ all awards, net of related tax effects - 28
+ ------- -------
+Pro forma net income 13,675 10,232
+ ======= =======
+
+Note B - Accounting Changes
+
+ See "Recent Accounting Standards" under Management's Discussion and
+Analysis of Financial Condition and Results of Operations.
+
+Note C - Commitments and Contingencies
+
+ Due to the nature of the Company's products, the Company is subject to
+product liability claims involving personal injuries allegedly related to the
+Company's products. These claims include injuries sustained by individuals using
+the Company's products. The Company currently carries an occurrence-based
+product liability insurance policy. The current policy provides coverage for the
+period from October 1, 2003 to October 1, 2004 of up to 10.0 million per
+occurrence and 10.0 million in the aggregate. The policy has a deductible on
+each claim of up to 1.0 million. For occurrences prior to October 1, 2003, the
+policy provided coverage of up to 5.0 million per occurrence and 5.0 million
+in the aggregate. The policy had a deductible on each claim of up to 1.0
+million. For occurrences prior to October 1, 2002, the policy provided coverage
+of up to 5.0 million per occurrence and 5.0 million in the aggregate. The
+policy had a deductible on each claim of up to 0.5 million. The Company
+believes that its insurance is generally adequate to cover product liability
+claims. Nevertheless, currently pending claims and any future claims are subject
+to the uncertainties related to litigation, and the ultimate outcome of any such
+proceedings or claims cannot be predicted. Due to uncertainty with respect to
+the nature and extent of manufacturers' and distributors' liability for personal
+injuries, the Company cannot guarantee that its product liability insurance is
+or will be adequate to cover such claims. The Company vigorously defends any and
+all product liability claims brought against it and does not believe that any
+current pending claims or series of claims will have a material adverse effect
+on its results of operations, liquidity or financial position.
+
+ The Company is party to a variety of non-product liability commercial
+lawsuits involving contract claims, arising in the ordinary course of its
+business. The Company believes that adverse resolution of these lawsuits would
+not have a material adverse effect upon its results of operations, liquidity or
+financial position.
+
+ In December 2001, a claim was made against the Company alleging the Company
+received 1.7 million of preferential transfers in connection with the 1999
+Service Merchandise bankruptcy proceedings. The Company's counsel is currently
+vigorously defending the proposed claim. At this time, the Company and its
+counsel are unable to determine the likelihood of an unfavorable outcome or the
+amount or range of potential recovery or loss.
+
+ The Company was involved in litigation with Vectra Fitness, Inc.
+("Vectra"). Vectra filed a civil action in the United States District Court, for
+the Western District of Washington in Seattle, Washington. In September 2003,
+the Company, in settlement of litigation, entered into a license agreement with
+Vectra for certain strength training equipment.
+
+ The Company is also involved in several intellectual property and patent
+infringement claims, arising in the ordinary course of its business. The Company
+believes that the ultimate outcome of these matters will not have a material
+adverse effect upon its results of operations, liquidity or financial position.
+
+ In fiscal 2003, the Company formed a foreign subsidiary to build a
+manufacturing facility in Xiamen, China. The Company's equity interest in the
+foreign subsidiary is 70 , which will be funded in the form of equity and debt.
+The Company is in the process of arranging for the debt portion of the
+financing, which is expected to be provided by the Bank of China. As of November
+29, 2003, the Company has made contributions of 2.0 million and the minority
+interest contributions were 3.5 million. The minority interest shareholder is
+also a long-time vendor of the Company. The Company has recorded sales in
+separate sales transactions from this customer of approximately 40.6 million
+and 23.5 million during the six month and three month period ended November 29,
+2003. He also holds an equity interest in the Company. As a result of the
+Company's controlling interest in the foreign subsidiary, the investment has
+been reported on a consolidated basis beginning in the first quarter of fiscal
+2004.
+
+Note D - Revolving Credit Line
+
+The credit agreement which includes the Company's 210 million revolving credit
+line ("Revolver") requires the Company to maintain a lock-box arrangement
+whereby remittances from the Company's customers reduce the borrowings
+outstanding under the Revolver. Recently, the Company determined that the credit
+agreement also contains a Material Adverse Effect ("MAE") clause which grants
+the agent and lenders having more the 66 and 2/3 of the commitment or
+borrowings the right to block the Company's requests for future advances. EITF
+Issue 95-22 "Balance Sheet Classification of Borrowings Outstanding under
+Revolving Credit Agreements That Include both a Subjective Acceleration Clause
+and a Lock-Box Arrangement" requires borrowings under credit agreements with
+these two provisions to be classified as current obligations. On January 13,
+2004, the Company obtained written waivers from the agent and lenders having
+more than 33 and 1/3 of the commitment or borrowings waiving their rights under
+the MAE clause for the period from January 13, 2004 to January 18, 2005.
+Accordingly, the Company has classified the outstanding borrowings under the
+credit agreement, which totaled 178.3 million at November 29, 2003 as a
+long-term liability. In addition, the Company has restated the May 31, 2003 and
+November 30, 2002 balance sheets to properly reflect the borrowings as current
+as of May 31, 2003 and November 30, 2002. This reclassification had no impact on
+the Company's debt covenants under the credit agreement, its ability to draw on
+existing facilities or its previously reported net income.
+
+Note E - Guarantor/Non-Guarantor Financial Information
+
+ The Company's subsidiaries Jumpking, Inc., 510152 N.B. Ltd., Universal
+Technical Services, Inc., ICON International Holdings, Inc., NordicTrack, Inc.,
+Free Motion Fitness, Inc. and ICON IP, Inc. ("Subsidiary Guarantors") have fully
+and unconditionally guaranteed on a joint and several basis, the obligation to
+pay principal and interest with respect to the 11.25 Notes. A significant
+portion of the Company's operating income and cash flow is generated by its
+subsidiaries. As a result, funds necessary to meet the Company's debt service
+obligations are provided in part by distributions or advances from its
+subsidiaries. Under certain circumstances, contractual and legal restrictions,
+as well as the financial condition and operating requirements of the Company's
+subsidiaries, could limit the Company's ability to obtain cash from its
+subsidiaries for the purpose of meeting its debt service obligations, including
+the payment of principal and interest on the 11.25 Notes. Although holders of
+the 11.25 Notes will be direct creditors of the Company's principal direct
+subsidiaries by virtue of the guarantees, the Company has indirect subsidiaries
+located primarily in Europe ("Non-Guarantor Subsidiaries") that are not included
+among the Guarantor Subsidiaries, and such subsidiaries will not be obligated
+with respect to the 11.25 Notes. As a result, the claims of creditors of the
+Non-Guarantor Subsidiaries will effectively have priority with respect to the
+assets and earnings of such companies over the claims of creditors of the
+Company, including the holders of the 11.25 Notes.
+
+ The following supplemental condensed consolidating financial statements are
+presented (in thousands):
+
+ 1. Condensed consolidating balance sheets as of November 29, 2003, May 31,
+2003 and November 30, 2002, condensed consolidating statements of operations for
+the three months and six months ended November 29, 2003 and November 30, 2002,
+and condensed consolidating statements of cash flows for the six months ended
+November 29, 2003 and November 30, 2002.
+
+ 2. The Company's combined Subsidiary Guarantors and combined Non-Guarantor
+subsidiaries with their investments in subsidiaries are accounted for using the
+equity method.
+
+ 3. Elimination entries necessary to consolidate the Company and all of its
+subsidiaries.
+
+Supplemental Condensed Consolidating Balance Sheet
+ November 29, 2003
+ ------------------------------------------------------
+ ICON Combined Combined
+ Health & Guarantor Non-Guarantor
+ Fitness,Inc. Subsidiaries Subsidiaries Eliminations Consolidated
+ ------------ ------------ ------------ ------------ ------------
+ 
+ASSETS
+
+Current assets:
+Cash 113 6,223 1,467 - 7,803
+Accounts receivable,
+ net 236,587 77,027 18,070 (28,631) 303,053
+Inventories, net 128,920 70,686 17,622 (734) 216,494
+Deferred income taxes 6,469 254 4 - 6,727
+Other current assets 569 6,557 3,703 - 10,829
+ -------- -------- ------- --------- --------
+Total current assets 372,658 160,747 40,866 (29,365) 544,906
+ -------- -------- ------- --------- --------
+
+Property and equipment,
+ net 39,642 12,929 1,321 - 53,892
+Receivable from
+ affiliates 123,363 18,866 - (142,229) -
+Intangible assets, net 21,901 7,075 1,218 - 30,194
+Deferred income taxes 4,950 1,627 - - 6,577
+Investment in
+ subsidiaries 46,909 - - (46,909) -
+Other assets, net 14,473 6,337 26 - 20,836
+ -------- -------- ------- --------- --------
+Total assets 623,896 207,581 43,431 (218,503) 656,405
+ ======== ======== ======= ========== ========
+
+LIABILITIES AND STOCKHOLDER'S EQUITY (DEFICIT)
+
+Current liabilities:
+Current portion of
+ long-term debt 5,000 - - - 5,000
+Accounts payable 153,405 38,479 39,981 (28,631) 203,234
+Accrued liabilities 19,000 7,748 4,893 - 31,641
+Income taxes payable 2,591 694 716 4,001
+Interest payable 7,517 - - - 7,517
+ -------- --------- ------- --------- --------
+Total current
+ liabilities 187,513 46,921 45,590 (28,631) 251,393
+ -------- --------- ------- --------- --------
+
+Long-term debt 331,329 12 - - 331,341
+Other liabilities 5,845 5,448 - - 11,293
+Payable to affiliates 25,749 94,358 22,123 (142,230) -
+
+Minority interest - - - 3,500 3,500
+
+Stockholder's Equity(deficit):
+Common stock and
+ additional paid-in
+ capital 206,323 42,760 5,481 (50,409) 204,155
+Receivable from parent (2,200) - - - (2,200)
+Retained earnings
+ (accumulated deficit) (131,145) 14,652 (26,351) (733) (143,577)
+Accumulated other
+ comprehensive
+ income (loss) 482 3,430 (3,412) - 500
+ -------- --------- ------- --------- --------
+Total stockholder's
+ equity (deficit) 73,460 60,842 (24,282) (51,142) 58,878
+ -------- --------- ------- --------- --------
+Total liabilities
+ and stockholder's
+ equity(deficit) 623,896 207,581 43,431 (218,503) 656,405
+ ======= ======= ====== ======== =======
+
+Supplemental Consolidating Condensed Balance Sheet
+ May 31, 2003
+ ---------------------------------------------------------------------
+ ICON Combined Combined
+ Health & Guarantor Non-Guarantor
+ Fitness, Inc. Subsidiaries Subsidiaries Eliminations Consolidated
+ ------------- ------------ ------------ ------------ ------------
+ (Restated) (Restated)
+ 
+ASSETS
+
+Current assets:
+Cash 941 2,385 1,324 - 4,650
+Accounts
+ receivable, net 103,461 74,425 12,376 (15,098) 175,164
+Inventories, net 101,297 51,142 9,825 (556) 161,708
+Deferred income taxes 6,838 241 244 - 7,323
+Other current
+ assets 1,611 4,397 3,822 - 9,830
+ -------- -------- ------- --------- --------
+Total current
+ assets 214,148 132,590 27,591 (15,654) 358,675
+ -------- -------- ------- --------- --------
+Property and
+ equipment, net 37,813 9,581 1,383 - 48,777
+Receivable from
+ affiliates 116,479 25,889 - (142,368) -
+Intangible assets,
+ net 20,295 7,556 1,218 - 29,069
+Deferred income taxes 8,154 225 - - 8,379
+Investment in
+ subsidiaries 57,793 - - (57,793) -
+Other assets, net 12,936 7,255 23 - 20,214
+ -------- -------- ------- --------- --------
+Total assets 467,618 183,096 30,215 (215,815) 465,114
+ ======== ======== ======= ========= ========
+
+LIABILITIES AND STOCKHOLDER'S EQUITY (DEFICIT)
+
+Current liabilities:
+Current portion of
+ long-term debt 91,328 - - - 91,328
+Accounts payable 86,192 25,876 24,207 (15,098) 121,177
+Accrued liabilities 21,772 6,802 5,390 - 33,964
+Income taxes payable 3,969 (856) 1,115 - 4,228
+Interest payable 7,484 - - - 7,484
+ -------- -------- ------- --------- --------
+Total current
+ liabilities 210,745 31,822 30,712 (15,098) 258,181
+ -------- -------- ------- --------- --------
+Long-term debt 152,889 15 - - 152,904
+Other liabilities 4,015 5,676 - - 9,691
+Payable to
+ affiliates 25,889 95,128 21,351 (142,368) -
+
+Stockholder's equity(deficit):
+Common stock and
+ additional
+ paid-in capital 206,324 37,259 5,481 (44,909) 204,155
+Receivable from
+ Parent (2,200) - - - (2,200)
+Retained earnings
+ (accumulated
+ deficit) (130,525) 11,191 (24,478) (13,440) (157,252)
+Accumulated other
+ comprehensive
+ income (loss) 481 2,005 (2,851) - (365)
+ -------- -------- ------- --------- --------
+Total stockholder's
+ equity (deficit) 74,080 50,455 (21,848) (58,349) 44,338
+ -------- -------- ------- --------- --------
+Total liabilities
+ and stockholder's
+ equity (deficit) 467,618 183,096 30,215 (215,815) 465,114
+ ======== ======== ======= ========= ========
+
+Supplemental Condensed Consolidating Balance Sheet
+ November 30, 2002
+ ------------------------------------------------------
+ ICON Combined Combined
+ Health & Guarantor Non-Guarantor
+ Fitness,Inc. Subsidiaries Subsidiaries Eliminations Consolidated
+ ------------ ------------ ------------ ------------ ------------
+ (Restated) (Restated)
+ 
+ASSETS
+
+Current assets:
+Cash 1,589 1,438 1,345 - 4,372
+Accounts receivable,
+ net 199,597 57,687 12,604 (23,538) 246,350
+Inventories, net 125,992 65,573 9,484 (508) 200,541
+Deferred income taxes 5,894 210 84 - 6,188
+Other current assets 3,435 5,938 3,023 - 12,396
+ -------- -------- ------- --------- --------
+Total current assets 336,507 130,846 26,540 (24,046) 469,847
+ -------- -------- ------- --------- --------
+
+Property and equipment,
+ net 37,110 10,053 859 - 48,022
+Receivable from
+ affiliates 99,439 15,155 - (114,594) -
+Intangible assets, net 21,622 8,037 1,218 - 30,877
+Deferred income taxes 9,830 1,192 - - 11,022
+Investment in
+ subsidiaries 44,909 - - (44,909) -
+Other assets, net 19,052 - 18 - 19,070
+ -------- -------- ------- --------- --------
+Total assets 568,469 165,283 28,635 (183,549) 578,838
+ ======== ======== ======= ========== ========
+
+LIABILITIES AND STOCKHOLDER'S EQUITY (DEFICIT)
+
+Current liabilities:
+Current portion of
+ long-term debt 190,482 4 - - 190,486
+Accounts payable 131,980 34,094 23,713 (23,538) 166,249
+Accrued liabilities 14,419 7,798 3,235 - 25,452
+Income taxes payable 3,010 501 120 - 3,631
+Interest payable 7,626 - - - 7,626
+ -------- --------- ------- --------- --------
+Total current
+ liabilities 347,517 42,397 27,068 (23,538) 393,444
+ -------- --------- ------- --------- --------
+
+Long-term debt 152,858 18 - - 152,876
+Other liabilities 3,146 3,696 - - 6,842
+Payable to affiliates 15,155 78,109 21,330 (114,594) -
+
+Stockholder's Equity (deficit):
+
+Common stock and
+ additional paid-in
+ capital 206,324 37,259 5,481 (44,909) 204,155
+Receivable from parent (2,200) - - - (2,200)
+Retained earnings
+ (accumulated deficit) (154,813) 5,215 (23,575) (508) (173,681)
+Accumulated other
+ comprehensive
+ income (loss) 482 (1,411) (1,669) - (2,598)
+ -------- --------- ------- --------- --------
+Total stockholder's
+ equity (deficit) 49,793 41,063 (19,763) (45,417) 25,676
+ -------- --------- ------- --------- --------
+Total liabilities
+ and stockholder's
+ equity (deficit) 568,469 165,283 28,635 (183,549) 578,838
+ ======= ======= ====== ======== =======
+
+Supplemental Condensed Consolidating Statement of Operations
+ Three Months Ended November 29, 2003
+ ---------------------------------------------------------------------
+ ICON Combined Combined
+ Health & Guarantor Non-Guarantor
+ Fitness,Inc. Subsidiaries Subsidiaries Eliminations Consolidated
+ ------------ ------------ ------------ ------------ ------------
+
+Net sales 233,430 78,076 20,316 - 331,822
+Cost of sales 175,206 47,095 13,396 107 235,804
+ -------- ------- ------- ------ --------
+Gross profit 58,224 30,981 6,920 (107) 96,018
+
+Total operating
+ expenses 31,355 28,227 5,306 - 64,888
+ -------- ------- ------- ------ --------
+Income from operations 26,869 2,754 1,614 (107) 31,130
+Interest expense (5,860) (1) (498) - (6,359)
+Amortization of deferred
+ financing fees (277) - - - (277)
+Equity in earnings
+ of subsidiaries 3,472 - - (3,472) -
+ -------- ------- ------- ------ --------
+Income before
+ income taxes 24,204 2,753 1,116 (3,579) 24,494
+Provision (benefit)
+ for income taxes 8,803 (510) 800 - 9,093
+ -------- ------- ------- ------ --------
+Net income 15,401 3,263 316 (3,579) 15,401
+ ======== ======= ======= ======== ========
+
+Supplemental Condensed Consolidating Statement of Operations
+ Three Months Ended November 30, 2002
+ ---------------------------------------------------------------------
+ ICON Combined Combined
+ Health & Guarantor Non-Guarantor
+ Fitness,Inc. Subsidiaries Subsidiaries Eliminations Consolidated
+ ------------ ------------ ------------ ------------ ------------
+ 
+Net sales 208,156 68,315 16,261 - 292,732
+Cost of sales 157,648 43,840 9,146 91 210,725
+ -------- ------- ------- ---- --------
+Gross profit 50,508 24,475 7,115 (91) 82,007
+
+Total operating
+ expenses 24,319 23,657 5,345 - 53,321
+ -------- ------- ------- ---- --------
+Income from operations 26,189 818 1,770 (91) 28,686
+Interest expense (6,080) (1) (445) - (6,526)
+Amortization of deferred
+ financing fees (184) - - - (184)
+Equity in earnings
+ of subsidiaries 1,788 - - (1,788) -
+ -------- ------- ------- ------ --------
+Income before
+ income taxes 21,713 817 1,325 (1,879) 21,976
+Provision for
+ income taxes 8,012 26 237 - 8,275
+ -------- ------- ------- ------ --------
+Net income 13,701 791 1,088 (1,879) 13,701
+ ======== ======= ======= ======= ========
+
+Supplemental Condensed Consolidating Statement of Operations
+ Six Months Ended November 29, 2003
+ ---------------------------------------------------------------------
+ ICON Combined Combined
+ Health & Guarantor Non-Guarantor
+ Fitness,Inc. Subsidiaries Subsidiaries Eliminations
+Consolidated
+ ------------ ------------ ------------ ------------ ------------
+ 
+Net sales 346,006 154,217 29,422 - 529,645
+Cost of sales 257,459 93,358 19,058 178 370,053
+ -------- -------- ------- ----- --------
+Gross profit 88,547 60,859 10,364 (178) 159,592
+
+Total operating
+ expenses 55,786 57,046 10,859 - 123,691
+ -------- -------- ------- ----- --------
+Income (loss)
+ from operations 32,761 3,813 (495) (178) 35,901
+Interest expense (11,377) (1) (974) - (12,352)
+Amortization of
+ deferred financing
+ fees (318) - - - (318)
+Equity in earnings
+ of subsidiaries 1,411 - - (1,411) -
+ -------- -------- ------- ------ --------
+Income (loss)
+ before taxes 22,477 3,812 (1,469) (1,589) 23,231
+Provision for
+ income taxes 8,802 350 404 - 9,556
+ -------- -------- ------- ------ --------
+Net income (loss) 13,675 3,462 (1,873) (1,589) 13,675
+ ======== ======== ========= ======== ========
+
+Supplemental Condensed Consolidating Statement of Operations
+ Six Months Ended November 30, 2002
+ ---------------------------------------------------------------------
+ ICON Combined Combined
+ Health & Guarantor Non-Guarantor
+ Fitness,Inc. Subsidiaries Subsidiaries Eliminations Consolidated
+ ------------ ------------ ------------ ------------ ------------
+ 
+Net sales 314,555 124,585 23,815 - 462,955
+Cost of sales 240,821 82,489 14,036 199 337,545
+ -------- -------- ------- ----- --------
+Gross profit 73,734 42,096 9,779 (199) 125,410
+
+Total operating
+ expenses 44,074 42,459 8,119 - 94,652
+ -------- -------- ------- ----- --------
+Income (loss)
+ from operations 29,660 (363) 1,660 (199) 30,758
+Interest expense (12,036) (5) (884) - (12,925)
+Amortization of
+ deferred financing
+ fees (486) - - - (486)
+Equity in earnings
+ of subsidiaries (76) - - 76 -
+ -------- -------- ------- ----- --------
+Income (loss)
+ before taxes 17,062 (368) 776 (123) 17,347
+Provision for
+ income taxes 6,802 48 237 - 7,087
+ -------- -------- ------- ----- --------
+Net income (loss) 10,260 (416) 539 (123) 10,260
+ ======== ========= ======= ====== ========
+
+Supplemental Condensed Consolidating Statement of Cash Flows
+ Six Months Ended November 29, 2003
+ -------------------------------------------------------------------
+ ICON Combined Combined
+ Health & Guarantor Non-Guarantor
+ Fitness,Inc. Subsidiaries Subsidiaries Eliminations Consolidated
+ ------------ ------------ ------------ ------------ ------------
+ 
+Operating activities:
+Net cash provided by
+ (used in) operating
+ activities: (71,967) (4,492) 116 - (76,343)
+ -------- -------- ------- ------ --------
+Investing activities:
+Net cash used in
+ investing activities: (12,327) (4,845) (184) - (17,356)
+ -------- -------- ------- ------ --------
+Financing activities:
+ Proceeds from new
+ credit facility, net
+ of payments 94,485 - - - 94,485
+ Payments on term note (2,500) - - - (2,500)
+ Payments on other
+ long-term debt, net - (3) - - (3)
+ Minority interest (2,000) 5,500 - - 3,500
+ Payment of fees-debt (25) - - - (25)
+ Other (7,024) 6,253 771 - -
+ -------- -------- ------- ------ --------
+Net cash provided by
+ financing activities: 82,936 11,750 771 - 95,457
+ -------- -------- ------- ------ --------
+Effect of exchange
+ rates on cash 530 1,425 (560) - 1,395
+ -------- -------- ------- ------ --------
+Net increase (decrease)
+ in cash (828) 3,838 143 - 3,153
+Cash, beginning of period 941 2,385 1,324 - 4,650
+ -------- -------- ------- ------ --------
+Cash, end of period 113 6,223 1,467 - 7,803
+ ======== ======== ======= ====== ========
+
+Supplemental Condensed Consolidating Statement of Cash Flows
+ Six Months Ended November 30, 2002
+ -------------------------------------------------------------------
+ ICON Combined Combined
+ Health & Guarantor Non-Guarantor
+ Fitness,Inc. Subsidiaries Subsidiaries Eliminations Consolidated
+ ------------ ------------ ------------ ------------ ------------
+ 
+Operating activities:
+Net cash used in operating
+ activities: (55,717) (16,787) (1,531) - (74,035)
+ -------- -------- ------- ------ --------
+Investing activities:
+Net cash used in
+ investing activities: (10,391) (1,361) (176) - (11,928)
+ -------- -------- ------- ------ --------
+Financing activities:
+ Proceeds from new
+ credit facility, net
+ of payments 89,901 - - - 89,901
+ Payments on term note (2,500) - - - (2,500)
+ Payments on other
+ long-term debt, net - (22) - - (22)
+ Payment of fees-debt (538) - - - (538)
+ Other (19,009) 18,531 478 - -
+ -------- -------- ------- ------ --------
+Net cash provided by
+ financing activities: 67,854 18,509 478 - 86,841
+ -------- -------- ------- ------ --------
+Effect of exchange
+ rates on cash (484) (371) (424) - (1,279)
+ -------- -------- ------- ------ --------
+Net increase (decrease)
+ in cash 1,262 (10) (1,653) - (401)
+Cash, beginning of period 327 1,448 2,998 - 4,773
+ -------- -------- ------- ------ --------
+Cash, end of period 1,589 1,438 1,345 - 4,372
+ ======== ======== ======= ====== ========
+
+Item 2 Management's Discussion and Analysis of Financial Condition and Results
+of Operations.
+
+ We are one of the world's leading manufacturers and marketers of fitness
+equipment. We are headquartered in Logan, Utah and have more than 4,500
+employees worldwide. We develop, manufacture and market fitness equipment under
+the following company-owned brand names: NordicTrack, ProForm, HealthRider,
+Weslo, Weider, IMAGE and Free Motion, as well as Reebok and Gold's Gym under
+license agreements.
+
+ This Form 10-Q contains "forward-looking statements" within the meaning of
+Section 27A of the Securities Act of 1933 and Section 21E of the Securities
+Exchange Act of 1934. The forward-looking statements contained in this report
+involve risks and uncertainties. The statements contained in this report that
+are not purely historical are forward-looking statements. Forward-looking
+statements include, without limitation, statements containing the words
+"anticipates," "believes," "expects," "intends," "future," and words and terms
+of similar substance express management's belief, expectations or intentions
+regarding future performance. Our actual results could differ materially from
+our historical operating results and from those anticipated in these
+forward-looking statements as a result of certain factors, including without
+limitation, those set forth in our Annual Report on Form 10-K/A and other
+factors and uncertainties contained in our other filings with the Securities and
+Exchange Commission. You are cautioned not to place undue reliance on such
+forward-looking statements, which speak only as of the date they were made. We
+disclaim any obligation or undertaking to provide any updates or revisions to
+any forward-looking statement to reflect any change in our expectations or any
+change in events, conditions or circumstances on which the forward-looking
+statement is based.
+
+ Three Months Ended November 29, 2003 Compared to Three Months Ended
+ November 30, 2002
+- --------------------------------------------------------------------------------
+
+ Net sales for the second quarter of fiscal 2004 increased 39.1 million, or
+13.4 , to 331.8 million from 292.7 million in the comparable period in 2003.
+The increase in sales was not attributable to a single customer, distributor or
+any other specific factor. The increase was across all product lines for which
+there was increased demand, particularly direct to consumer sales. Sales of our
+cardiovascular and other equipment in the second quarter of fiscal 2004
+increased 27.1 million, or 11.0 , to 273.4 million. Sales of our strength
+training equipment in the second quarter of fiscal 2004 increased 12.0 million,
+or 25.9 , to 58.4 million.
+
+ Gross profit in the second quarter of fiscal 2004 was 96.0 million, or
+28.9 of net sales, compared to 82.0 million, or 28.0 of net sales, in the
+second quarter of fiscal 2003. This 17.1 increase was largely due to increased
+direct to consumer sales, changes in product mix and manufacturing efficiencies.
+
+ Selling expenses increased 5.2 million, or 17.0 , to 35.8 million in the
+second quarter of fiscal 2004. This increase is a result of increased direct
+consumer advertising. Expressed as a percentage of net sales, selling expenses
+were 10.8 in the second quarter of fiscal 2004 and 10.5 in the second quarter
+of fiscal 2003.
+ Research and development expenses increased 0.8 million, or 30.8 , to 3.4
+million in the second quarter of fiscal 2004. Expressed as a percentage of net
+sales, research and development expenses were 1.0 in the second quarter of
+fiscal 2004 and 0.9 in the second quarter of fiscal 2003. This increase is
+attributable to management's efforts to continue to develop both current and
+future products.
+
+ General and administrative expenses increased 5.6 million, or 27.9 , to
+ 25.7 million in the second quarter of fiscal 2004. This increase was
+attributable to significant increases in legal fees, depreciation, and rent and
+lease expense. Expressed as a percentage of net sales, general and
+administrative expenses were 7.7 in the second quarter of fiscal 2004 and 6.9 
+in second quarter of fiscal 2003.
+
+ As a result of the foregoing factors, income from operations increased 2.4
+million, or 8.4 , to 31.1 million in the second quarter of fiscal 2004.
+Expressed as a percentage of net sales, income from operations was 9.4 in the
+second quarter of fiscal 2004 compared with 9.8 in the second quarter of fiscal
+2003.
+
+ As a result of the foregoing factors, EBITDA (as defined under
+"Seasonality") increased 4.1 million or 12.5 to 36.8 million in the second
+quarter of fiscal 2004. Expressed as a percentage of net sales, EBITDA was 11.1 
+in the second quarter of fiscal 2004 compared with 11.2 in the second quarter
+of fiscal 2003.
+
+ Interest expense, including amortization of deferred financing fees,
+remained at 6.7 million for the second quarter of fiscal 2004. This result
+reflects the continued lower interest rates on our borrowings during the period.
+Expressed as a percentage of net sales, interest expense including amortization
+of deferred financing fees was 2.0 in the second quarter of fiscal 2004 and
+2.3 in the second quarter of fiscal 2003.
+
+ The provision for income taxes was 9.1 million for the second quarter of
+fiscal 2004, compared with a provision of 8.3 million in the second quarter of
+fiscal 2003. Income tax expense, as a percentage of pre-tax income, was 37.1 in
+the second quarter of fiscal 2004, compared to 37.7 in the second quarter of
+fiscal 2003. The change in the effective tax rate was primarily the result of an
+increase in foreign losses.
+
+ As a result of the foregoing factors, net income was 15.4 million for the
+second quarter of fiscal 2004, compared to net income in the second quarter of
+fiscal 2003 of 13.7 million, an increase of 12.4 over the same period last
+year.
+
+ Six Months Ended November 29, 2003 Compared to Six Months Ended
+ November 30, 2002
+- --------------------------------------------------------------------------------
+
+ During the first six months of fiscal 2004, net sales increased 66.6
+million, or 14.4 , to 529.6 million from 463.0 million in the first six months
+of fiscal 2003. The increase in sales was not attributable to a single customer,
+distributor or any other specific factor. The increase was across all product
+lines for which there was increased demand, particularly direct to consumer
+sales. Sales of our cardiovascular and other equipment in the first six months
+of fiscal 2004 increased 39.0 million or 9.9 , to 432.1 million. Sales of our
+strength training equipment in the first six months of fiscal 2004 increased
+ 27.6 million, or 39.5 , to 97.5 million.
+
+ Gross profit for the first six months of fiscal 2004 was 159.6 million, or
+30.1 of net sales, compared to 125.4 million, or 27.1 of net sales, for the
+first six months of fiscal 2003. This 27.3 increase was largely due to
+increased direct to consumer sales, changes in product mix and manufacturing
+efficiencies.
+
+ Selling expenses increased 17.1 million, or 32.2 to 70.2 million in the
+first six months of fiscal 2004. This increase reflected increased direct
+consumer advertising, freight and commissions. Expressed as a percentage of net
+sales, selling expenses were 13.3 in the first six months of fiscal 2004 and
+11.5 in the first six months of fiscal 2003.
+
+ Research and development expenses increased 1.4 million, or 26.9 , to 6.6
+million in the first six months of fiscal 2004. Expressed as a percentage of net
+sales, research and development expenses were 1.2 in the first six months of
+fiscal 2004 and 1.1 in the first six months of fiscal 2003. This increase is
+attributable to management's efforts to continue to develop both current and
+future products.
+
+ General and administrative expenses increased 10.6 million, or 29.2 , to
+ 46.9 million in the first six months of fiscal 2004. This increase was
+attributable to significant increases in insurance costs, higher salaries and
+wages, supplies, and rent and lease expense. Expressed as a percentage of net
+sales, general and administrative expenses were 8.9 in the first six months of
+fiscal 2004 and 7.8 in the first six months of fiscal 2003.
+
+ As a result of the foregoing factors, income from operations increased 5.1
+million, or 16.6 , to 35.9 million in the first six months of fiscal 2004.
+Expressed as a percentage of net sales, income from operations income was 6.8 
+in the first six months of fiscal 2004 compared with 6.7 in the first six
+months of fiscal 2003.
+
+ As a result of the foregoing factors, EBITDA (as defined under
+"Seasonality") increased 8.0 million or 20.5 to 47.0 million in the second
+quarter of fiscal 2004. Expressed as a percentage of net sales, EBITDA was 8.9 
+in the second quarter of fiscal 2004 compared with 8.4 in the second quarter of
+fiscal 2003.
+
+ Interest expense, including amortization of deferred financing fees,
+decreased 0.7 million, or 5.2 , to 12.7 million in the first six months of
+fiscal 2004. This decrease reflects the continued lower interest rates on our
+borrowings during the period. Expressed as a percentage of net sales, interest
+expense including amortization of deferred financing fees was 2.4 in the first
+six months of fiscal 2004 and 2.9 in the first six months of fiscal 2003.
+
+ The provision for income taxes was 9.5 million for the first six months of
+fiscal 2004, compared with a provision of 7.1 million for the first six months
+of fiscal 2003. Income tax expense, as a percentage of pre-tax income, for the
+first six months of fiscal 2004 was 40.9 , compared to 41.0 in the first six
+months of fiscal 2003. The change in the effective tax rate was primarily the
+result of an increase in foreign losses.
+
+ As a result of the foregoing factors, net income was 13.7 million for the
+first six months of fiscal 2004, compared to net income in the first six months
+of fiscal 2003 of 10.3 million, an increase of 33.0 over the same period last
+year.
+
+Seasonality
+
+ The market for exercise equipment is highly seasonal, with peak periods
+occurring from late fall through February. As a result, the first and fourth
+quarters of every fiscal year are generally our weakest periods in terms of
+sales. During these periods, we build product inventory to prepare for the heavy
+demand anticipated during the upcoming peak season. This operating strategy
+helps us to realize the efficiencies of a steady pace of year-round production.
+
+ The following are the net sales, net income (loss) and EBITDA by quarter
+for fiscal years 2004, 2003 and 2002:
+
+First Second Third Fourth
+ Quarter(1) Quarter(2) Quarter(3) Quarter(4)
+ ---------- ---------- --------- ----------
+ (dollars in millions)
+ 
+Net Sales (5)
+2004 197.8 331.8 - -
+2003 170.2 292.7 344.0 204.6
+2002 134.2 264.6 296.0 176.6
+
+Net Income (Loss)
+2004 (1.7) 15.4 - -
+2003 (3.4) 13.7 20.3 (3.9)
+2002 (7.5) 11.1 25.5 (9.7)
+
+The following is a reconciliation of net income (loss) to EBITDA by quarter (6):
+
+EBITDA
+2004
+Net income (loss) (1.7) 15.4 - -
+Add back:
+ Depreciation and amortization 5.5 5.6 - -
+ Provision for income tax 0.4 9.1 - -
+ Interest expense 6.0 6.4 - -
+ Amortization of deferred
+ financing fees - .3 - -
+ ----- ----- ----- -----
+EBITDA 10.2 36.8 - -
+ ===== ===== ===== =====
+
+2003
+Net income (loss) (3.4) 13.7 20.3 (3.9)
+Add back:
+ Depreciation and amortization 4.2 4.0 5.0 6.0
+ Provision for (benefit from)
+ income tax (1.2) 8.3 10.7 (0.2)
+ Interest expense 6.4 6.5 6.3 5.9
+ Amortization of deferred
+ financing fees 0.3 0.2 0.2 0.5
+ ----- ----- ----- -----
+EBITDA 6.3 32.7 42.5 8.3
+ ===== ===== ===== =====
+
+2002
+Net income (loss) (7.5) 11.1 25.5 (9.7)
+Add back:
+ Depreciation and amortization 4.5 4.3 4.9 5.5
+ Provision for (benefit from)
+ income tax (4.8) 8.2 1.4 (4.4)
+ Interest expense 6.8 6.8 6.0 6.6
+ Amortization of deferred
+ financing fees 0.9 0.9 0.9 0.4
+ ----- ----- ----- -----
+EBITDA (0.1) 31.3 38.7 (1.6)
+ ===== ===== ===== =====
+- -----------
+ 
+(1) Our first quarter ended August 30, August 31, and September 1 for fiscal
+years 2004, 2003 and 2002, respectively.
+
+(2) Our second quarter ended November 29, November 30 and December 1 for fiscal
+years 2004, 2003 and 2002, respectively.
+
+(3) Our third quarter ended March 1 and March 2 for fiscal years 2003 and 2002,
+respectively.
+
+(4) Our fourth quarter ended May 31 for fiscal years 2003 and 2002,
+respectively.
+
+(5) In November of 2001, the Emerging Issues Task Force issued EITF 01-09,
+"Accounting for Consideration Given by Vendor to a Customer" ("EITF 01-09")
+effective for annual or interim financial statements for periods beginning after
+December 15, 2001. EITF 01-09 provides guidance on the accounting treatment of
+various types of consideration given by a vendor to a customer. We adopted EITF
+01-09 in fiscal 2003. Net sales are shown as if EITF 01-09 were adopted for all
+periods presented. Net sales without the adjustment for EITF 01-09 were as
+follows:
+
+ First Second Third Fourth
+ Quarter(1) Quarter(2) Quarter(3) Quarter(4)
+ ---------- ---------- ---------- ----------
+ (dollars in millions)
+ Net Sales
+ 2004 202.8 339.2 - -
+ 2003 175.8 301.5 354.8 210.9
+ 2002 138.1 272.1 304.9 181.0
+
+(6) EBITDA is a presentation of "earnings before interest, taxes, depreciation,
+and amortization." EBITDA data is included because management understands that
+such information is considered by bankers and certain investors as an additional
+basis on evaluating a company's ability to pay interest, repay debt and make
+capital expenditures. In addition, performance bonuses paid to management are
+based in part on EBITDA. EBITDA may not be comparable to similarly titled
+measures reported by other companies. In addition, EBITDA is a non-GAAP measure
+and should not be considered an alternative to operating or net income in
+measuring company results.
+
+Liquidity and Capital Resources
+
+ Net cash used in operating activities was 76.3 million in the first six
+months of fiscal 2004, compared to 74.0 million of cash used in operating
+activities in the first six months of fiscal 2003. In the first six months of
+fiscal 2004, major sources of funds were non-cash provisions of 11.1 million
+for depreciation and amortization and an increase in accounts payable and
+accrued liabilities of 79.7 million. These changes were offset by increases in
+inventories of 54.8 million and accounts receivable of 127.9 million. These
+changes are due to our increase in sales during the course of the first several
+months of the fiscal year leading up to its peak selling season, which occurs
+between the months of October and December. In the first six months of fiscal
+2003, major sources of funds were non-cash provisions of 8.2 million for
+depreciation and amortization, and an increase in accounts payable and accrued
+liabilities of 55.1 million. These increases were offset by increases in
+inventories of 66.8 million and accounts receivable of 93.2 million. Such
+increases were due to the aforementioned factors relating to sales increases.
+
+ Net cash used in investing activities was 17.4 million in the first six
+months of fiscal 2004, compared to 11.9 million in the first six months of
+fiscal 2003. Investing activities in the first six months of fiscal 2004
+consisted primarily of capital expenditures of 9.1 million related to upgrades
+in plant and tooling, purchases of additional manufacturing equipment excluding
+ 3.1 million of capital expenditures for the manufacturing facility in China and
+purchases of intangibles of 5.1 million. Cash used in investing activities in
+the first six months of fiscal 2003 was primarily for capital expenditures of
+ 9.5 million and purchases of intangibles of 2.5 million.
+
+Net cash provided by financing activities was 95.5 million in the first
+six months of fiscal 2004, compared to 86.8 million of cash provided by
+financing activities in the first six months of fiscal 2003. Cash provided by
+financing activities resulted from net borrowings on our existing credit
+facilities and the minority contribution of 3.5 million from our recent
+expansion to China.
+
+ Our primary short-term liquidity needs consist of financing seasonal
+merchandise inventory buildups and paying cash interest expense under our
+existing credit facilities and on the 11.25 subordinated notes due in April of
+2012. Our principal source of financing for our seasonal merchandise inventory
+buildup and increased accounts receivable is revolving credit borrowings under
+the existing credit facilities. At November 29, 2003, we had 50.0 million of
+availability under these facilities. Our working capital borrowing needs are
+typically at their lowest level from April through June, increase somewhat
+through the summer and sharply increase from September through November to
+finance accounts receivable and purchases of inventory in advance of the holiday
+and post-holiday selling season. Generally, in the period from November through
+February, our working capital borrowings remain at their highest level and then
+are paid down to their lowest annual levels from April through August.
+
+ The credit agreement which includes our 210 million revolving credit line
+("Revolver") requires us to maintain a lock-box arrangement whereby remittances
+from our customers reduce the borrowings outstanding under the Revolver.
+Recently, we determined that the credit agreement also contains a Material
+Adverse Effect ("MAE") clause which grants the agent and lenders having more the
+66 and 2/3 of the commitment or borrowings the right to block our requests for
+future advances. EITF Issue 95-22 "Balance Sheet Classification of Borrowings
+Outstanding under Revolving Credit Agreements That Include both a Subjective
+Acceleration Clause and a Lock-Box Arrangement" requires borrowings under credit
+agreements with these two provisions to be classified as current obligations. On
+January 13, 2004, we obtained written waivers from the agent and lenders having
+more than 33 and 1/3 of the commitment or borrowings waiving their rights under
+the MAE clause for the period from January 13, 2004 to January 18, 2005.
+Accordingly, we have classified the outstanding borrowings under the credit
+agreement, which totaled 178.3 million at November 29, 2003 as a long-term
+liability. In addition, we have restated the May 31, 2003 and November 30, 2002
+balance sheets to properly reflect the borrowings as current as of May 31, 2003
+and November 30, 2002. This reclassification had no impact on our debt covenants
+under the credit agreement, its ability to draw on existing facilities or its
+previously reported net income.
+
+ We do not believe that any of these MAEs have occurred or can reasonably be
+expected to occur based upon our history and our relationship with the Revolver
+lenders. We intend to manage the Credit Facility as long-term debt with a final
+maturity date in 2007, as provided for in the credit agreement that we signed.
+
+ The balance outstanding under the existing credit facility consisted of (in
+millions):
+
+November 29, 2003 May 31, 2003 November 30, 2002
+ ----------------- ------------ -----------------
+ Revolver 167.0 72.6 169.2
+ Term Loan 16.3 18.7 21.3
+ ------ ------ ------
+ 183.3 91.3 190.5
+ ====== ====== ======
+
+As of November 29, 2003, our consolidated indebtedness was approximately
+ 336.3 million, of which approximately 183.3 million was senior indebtedness.
+With the exception of the increases in the revolver noted above, our contractual
+cash obligations and commercial commitments remained consistent with those at
+the end of fiscal 2003.
+
+ Based on our current level of operations, we believe that cash flow from
+operations and available cash, together with available borrowings under our
+existing credit facility, will be adequate to meet future liquidity needs for at
+least the next few years. We may, however, need to refinance all or a portion of
+the principal amount of the notes on or prior to maturity. In May of 2003, we
+amended our credit agreement to provide for the debt financing in China.
+
+Critical Accounting Policies
+
+ Our discussion of results of operations and financial condition relies on
+our consolidated financial statements that are prepared based on certain
+critical accounting policies that require management to make judgments and
+estimates that are subject to varying degrees of uncertainty. We believe that
+investors need to be aware of these policies and how they impact our financial
+statements as a whole, as well as our related discussion and analysis presented
+herein. While we believe that these accounting policies are based on sound
+measurement criteria, actual future events can and often do result in outcomes
+that can be materially different from these estimates or forecasts. The
+accounting policies and related risks described in our annual report on Form
+10-K/A as amended with the Securities and Exchange Commission on October 14,
+2003 are those that depend most heavily on these judgments and estimates. As of
+November 29, 2003, there have been no material changes to any of the critical
+accounting policies contained therein.
+
+Recent Accounting Pronouncements
+
+ In January 2003, the FASB issued FIN 46, "Consolidation of Variable
+Interest Entities", which clarifies the application of Accounting Research
+Bulletin No. 51, "Consolidated Financial Statements" to certain entities in
+which equity investors do not have the characteristics of a controlling
+financial interest or do not have sufficient equity at risk for the entity to
+finance its activities without additional subordinated financial support from
+other parties. FIN 46 is applicable immediately for variable interest entities
+created after January 31, 2003. For variable interest entities created prior to
+January 31, 2003, the provisions of FIN 46, as amended, are applicable no later
+than December 31, 2003. The adoption of FIN 46 did not have a material effect on
+our consolidated financial statements.
+
+ On December 31, 2002, the FASB issued SFAS No. 148, "Accounting for
+Stock-Based Compensation Transition and Disclosure," which amends SFAS No. 123,
+"Accounting for Stock-Based Compensation". SFAS No. 148 requires more prominent
+and frequent disclosures about the effects of stock-based compensation, which
+the Company has adopted for the period ending May 31, 2003.
+As permitted by SFAS No. 148, the Company will continue to account for its stock
+based compensation according to the provisions of APB No. 25.
+
+ In May 2003, the FASB issued SFAS No. 150, "Accounting for Certain
+Financial Instruments with Characteristics of Both Liabilities and Equity". SFAS
+No. 150 establishes standards on the classification and measurement of certain
+financial instruments with characteristics of both liabilities and equity. The
+provisions of SFAS No. 150 are effective for financial instruments entered into
+or modified after May 31, 2003 and to all other instruments that exist as of the
+beginning of the first interim financial reporting period beginning after June
+15, 2003. We do not expect SFAS No. 150 to have a material effect on our
+consolidated financial statements.
+
+Item 3 Quantitative and Qualitative Disclosures about Market Risk
+
+Interest Rate Risk
+
+ Fluctuations in the general level of interest rates on our current and
+future fixed and variable rate debt obligations expose us to market risk. We are
+vulnerable to significant fluctuations in interest rates on our variable rate
+debt and on any future repricing or refinancing of our fixed rate debt and on
+future debt.
+
+ We use long-term and medium-term debt as a source of capital. At November
+29, 2003, we had approximately 153.0 million in outstanding fixed rate debt,
+consisting of 11.25 subordinated notes maturing in April 2012. When debt
+instruments of this type mature, we typically refinance such debt at the
+then-existing market interest rates, which may be more or less than the interest
+rates on the maturing debt.
+
+ Our credit facility has variable interest rates and any fluctuation in
+interest rates could increase or decrease our interest expense. At November 29,
+2003 we had approximately 183.3 million in outstanding variable rate debt.
+
+Foreign Currency Risk
+
+ In addition to the United States, we have operations or transact business
+in Canada, the United Kingdom, France, Italy, Germany, and Asia. The operations
+in these foreign countries conduct business in their local currencies as well as
+other regional currencies. To mitigate our exposure to transactions denominated
+in currencies other than the functional currency of each entity, we enter into
+forward exchange contracts from time to time to protect our margin on a portion
+of our forecasted foreign currency sales. As of November 29, 2003, no forecast
+sales were hedged by forward exchange contracts. Because of the variety of
+currencies in which purchases and sales are transacted, it is not possible to
+predict the impact of a movement in foreign currency exchange rates on future
+operating results. However, we intend to continue to mitigate our exposure to
+foreign exchange gains or losses.
+
+Item 4 Controls and Procedures
+
+ (a) Evaluation of Disclosure Controls and Procedures. Our Chief Executive
+Officer, Chief Operating Officer and Chief Financial Officer have evaluated the
+effectiveness of our disclosure controls and procedures (as such term is defined
+in Rules 13a-14(c) and 15d-14(c) under the Securities Exchange Act of 1934, as
+amended (the "Exchange Act")) as of November 29, 2003 (the "Evaluation Date").
+Based on such evaluation, such officers have concluded that, as of the
+Evaluation Date, our disclosure controls and procedures are effective in
+alerting them, on a timely basis, to material information relating to us
+(including our consolidated subsidiaries) required to be included in our
+periodic filings under the Exchange Act.
+
+ (b) Changes in Internal Controls. Since the Evaluation Date, there have not
+been any significant changes in our internal controls or in other factors that
+could significantly affect such controls.
+
+PART II - OTHER INFORMATION
+
+Item 1. Legal Proceedings.
+
+ See Note C in Item 1 in Part I.
+
+Item 2. Changes in Securities.
+
+ None.
+
+Item 3. Defaults Upon Senior Securities.
+
+ None.
+
+Item 4. Submission of Matters to a Vote of Security Holders.
+
+ None.
+
+Item 5. Other Information.
+
+ None.
+
+Item 6. Exhibits and Reports on Form 8-K.
+
+ (a) Exhibits
+
+ 99.01. Certification of Chief Executive Officer pursuant to 18 U.S.C.
+Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of
+2002.
+
+ 99.02. Certification of Chief Operating Officer pursuant to 18 U.S.C.
+Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of
+2002.
+
+ 99.03. Certification of Chief Financial Officer pursuant to 18 U.S.C.
+Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of
+2002.
+
+ (b) Reports on Form 8-K
+
+ Report on Form 8-K dated October 14, 2003 containing the Company's press
+release dated October 14, 2003 announcing earnings for the first quarter and
+fiscal 2004, which ended August 30, 2003.
+
+ Report on Form 8-K dated January 6, 2004 outlining a pending management
+transition based on news that Scott Watterson, Chief Executive Officer and Gary
+Stevenson, Chief Operating Officer intend to resign from their respective
+positions sometime in the second or third quarter of calendar 2004.
+
+SIGNATURES
+
+ Pursuant to the requirements of the Securities Exchange Act of 1934, the
+registrant has duly caused this report to be signed on its behalf of the
+undersigned thereunto duly authorized.
+
+ICON Health & Fitness, Inc.
+(Registrant)
+
+By /s/ Gary Stevensen Date: January 13, 2004
+ ------------------------------------------
+ Gary Stevenson, Chief Operating Officer
+
+By /s/ S. Fred Beck Date: January 13, 2004
+ --------------------------------------
+ S. Fred Beck, Chief Financial Officer
+
+CERTIFICATION
+ -------------
+
+I, Scott R. Watterson, certify that:
+
+1. I have reviewed this quarterly report of ICON Health & Fitness, Inc.;
+
+2. Based on my knowledge, this quarterly report does not contain any untrue
+statement of a material fact or omit to state a material fact necessary to make
+the statements made, in light of the circumstances under which such statements
+were made, not misleading with respect to the period covered by this report;
+
+3. Based on my knowledge, the financial statements, and other financial
+information included in this report, fairly present in all material respects the
+financial condition, results of operations and cash flows of the registrant as
+of, and for, the periods presented in this report;
+
+4. The registrant's other certifying officer(s) and I are responsible for
+establishing and maintaining disclosure controls and procedures (as defined in
+Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial
+reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the
+registrant and have:
+
+a) designed such disclosure controls and procedures, or caused such disclosure
+controls and procedures to be designed under our supervision, to ensure that
+material information relating to the registrant, including its consolidated
+subsidiaries, is made known to us by others within those entities, particularly
+during the period in which this report is being prepared;
+
+b) designed such internal control over financial reporting, or caused such
+internal control over financial reporting to be designed under our supervision,
+to provide reasonable assurance regarding the reliability of financial reporting
+and the preparation of financial statements for external purposes in accordance
+with generally accepted accounting principles;
+
+c) evaluated the effectiveness of the registrant's disclosure controls and
+procedures and presented in this report our conclusions about the effectiveness
+of the disclosure controls and procedures, as of the end of the period covered
+by this report based on such evaluation; and
+
+d) disclosed in this report any change in the registrant's internal control over
+financial reporting that occurred during the registrant's most recent fiscal
+quarter (the registrant's fourth fiscal quarter in the case of an annual report)
+that has materially affected, or is reasonably likely to materially affect, the
+registrant's internal control over financial reporting; and
+
+5. The registrant's other certifying officer(s) and I have disclosed, based on
+our most recent evaluation of internal control over financial reporting, to the
+registrant's auditors and the audit committee of registrant's board of directors
+(or persons performing the equivalent function):
+
+a) all significant deficiencies and material weaknesses in the design or
+operation of internal control over financial reporting which are reasonably
+likely to adversely affect the registrant's ability to record, process,
+summarize and report financial information; and
+
+b) any fraud, whether or not material, that involves management or other
+employees who have a significant role in the registrant's internal control over
+financial reporting.
+
+Date: January 13, 2004
+
+/s/ Scott R. Watterson
+- ----------------------
+Scott R. Watterson
+Chief Executive Officer
+
+CERTIFICATION
+ -------------
+
+I, Gary E. Stevenson, certify that:
+
+1. I have reviewed this quarterly report of ICON Health & Fitness, Inc.;
+
+2. Based on my knowledge, this quarterly report does not contain any untrue
+statement of a material fact or omit to state a material fact necessary to make
+the statements made, in light of the circumstances under which such statements
+were made, not misleading with respect to the period covered by this report;
+
+3. Based on my knowledge, the financial statements, and other financial
+information included in this report, fairly present in all material respects the
+financial condition, results of operations and cash flows of the registrant as
+of, and for, the periods presented in this report;
+
+4. The registrant's other certifying officer(s) and I are responsible for
+establishing and maintaining disclosure controls and procedures (as defined in
+Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial
+reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the
+registrant and have:
+
+a) designed such disclosure controls and procedures, or caused such disclosure
+controls and procedures to be designed under our supervision, to ensure that
+material information relating to the registrant, including its consolidated
+subsidiaries, is made known to us by others within those entities, particularly
+during the period in which this report is being prepared;
+
+b) designed such internal control over financial reporting, or caused such
+internal control over financial reporting to be designed under our supervision,
+to provide reasonable assurance regarding the reliability of financial reporting
+and the preparation of financial statements for external purposes in accordance
+with generally accepted accounting principles;
+
+c) evaluated the effectiveness of the registrant's disclosure controls and
+procedures and presented in this report our conclusions about the effectiveness
+of the disclosure controls and procedures, as of the end of the period covered
+by this report based on such evaluation; and
+
+d) disclosed in this report any change in the registrant's internal control over
+financial reporting that occurred during the registrant's most recent fiscal
+quarter (the registrant's fourth fiscal quarter in the case of an annual report)
+that has materially affected, or is reasonably likely to materially affect, the
+registrant's internal control over financial reporting; and
+
+5. The registrant's other certifying officer(s) and I have disclosed, based on
+our most recent evaluation of internal control over financial reporting, to the
+registrant's auditors and the audit committee of registrant's board of directors
+(or persons performing the equivalent function):
+
+a) all significant deficiencies and material weaknesses in the design or
+operation of internal control over financial reporting which are reasonably
+likely to adversely affect the registrant's ability to record, process,
+summarize and report financial information; and
+
+b) any fraud, whether or not material, that involves management or other
+employees who have a significant role in the registrant's internal control over
+financial reporting.
+
+Date: January 13, 2004
+
+/s/ Gary E. Stevenson
+- ---------------------
+Gary E. Stevenson
+Chief Operating Officer
+
+ CERTIFICATION
+ -------------
+
+I, S. Fred Beck, certify that:
+
+1. I have reviewed this quarterly report of ICON Health & Fitness, Inc.;
+
+2. Based on my knowledge, this quarterly report does not contain any untrue
+statement of a material fact or omit to state a material fact necessary to make
+the statements made, in light of the circumstances under which such statements
+were made, not misleading with respect to the period covered by this report;
+
+3. Based on my knowledge, the financial statements, and other financial
+information included in this report, fairly present in all material respects the
+financial condition, results of operations and cash flows of the registrant as
+of, and for, the periods presented in this report;
+
+4. The registrant's other certifying officer(s) and I are responsible for
+establishing and maintaining disclosure controls and procedures (as defined in
+Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial
+reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the
+registrant and have:
+
+a) designed such disclosure controls and procedures, or caused such disclosure
+controls and procedures to be designed under our supervision, to ensure that
+material information relating to the registrant, including its consolidated
+subsidiaries, is made known to us by others within those entities, particularly
+during the period in which this report is being prepared;
+
+b) designed such internal control over financial reporting, or caused such
+internal control over financial reporting to be designed under our supervision,
+to provide reasonable assurance regarding the reliability of financial reporting
+and the preparation of financial statements for external purposes in accordance
+with generally accepted accounting principles;
+
+c) evaluated the effectiveness of the registrant's disclosure controls and
+procedures and presented in this report our conclusions about the effectiveness
+of the disclosure controls and procedures, as of the end of the period covered
+by this report based on such evaluation; and
+
+d) disclosed in this report any change in the registrant's internal control over
+financial reporting that occurred during the registrant's most recent fiscal
+quarter (the registrant's fourth fiscal quarter in the case of an annual report)
+that has materially affected, or is reasonably likely to materially affect, the
+registrant's internal control over financial reporting; and
+
+5. The registrant's other certifying officer(s) and I have disclosed, based on
+our most recent evaluation of internal control over financial reporting, to the
+registrant's auditors and the audit committee of registrant's board of directors
+(or persons performing the equivalent function):
+
+a) all significant deficiencies and material weaknesses in the design or
+operation of internal control over financial reporting which are reasonably
+likely to adversely affect the registrant's ability to record, process,
+summarize and report financial information; and
+
+b) any fraud, whether or not material, that involves management or other
+employees who have a significant role in the registrant's internal control over
+financial reporting.
+
+Date: January 13, 2004
+
+/s/ S. Fred Beck
+- ----------------
+S. Fred Beck
+Chief Financial Officer
+
+EXHIBIT INDEX
+Exhibit No. Name
+- ----------- ----
+
+99.01 Certification of Chief Executive Officer pursuant to 18
+ U.S.C. Section 1350, as adopted pursuant to Section 906
+ of the Sarbanes-Oxley Act of 2002
+
+99.02 Certification of Chief Operating Officer pursuant to 18
+ U.S.C. Section 1350, as adopted pursuant to Section 906
+ of the Sarbanes-Oxley Act of 2002
+
+99.03 Certification of Chief Financial Officer pursuant to 18
+ U.S.C. Section 1350, as adopted pursuant to Section 906
+ of the Sarbanes-Oxley Act of 2002
+
+<EX-99>
+ 3
+ ex9901-2q.txt
+ 99.1
+ 
+EXHIBIT 99.01
+
+ Certification Pursuant to
+ 18 U.S.C. Section 1350,
+ as Adopted Pursuant to
+ Section 906 of the Sarbanes-Oxley Act of 2002
+
+In connection with the Quarterly Report of ICON Health & Fitness, Inc. (the
+"Company") on Form 10-Q for the period ended November 29, 2003, as filed with
+the Securities and Exchange Commission on the date hereof (the "Report"), I,
+Scott R. Watterson, Chief Executive Officer of the Company, certify, pursuant to
+18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley
+Act of 2002, that, to the best of my knowledge and belief:
+
+ (1) the Report fully complies with the requirements of Section 13(a) or
+ 15(d) of the Securities Exchange Act of 1934; and
+ (2) the information contained in the Report fairly presents, in all
+ material respects, the financial condition and result of operations of
+ the Company.
+
+Scott R. Watterson
+Chief Executive Officer
+January 13, 2004
+
+A signed original of this written statement is required by Section 906, or other
+document authenticating, acknowledging, or otherwise adopting the signature that
+appears in typed form within the electronic version of this written statement
+has been provided to the Company and will be retained by the Company and
+furnished to the Securities and Exchange Commission or its staff upon request.
+
+</EX-99>
+
+<EX-99>
+ 4
+ ex9902-2q.txt
+ 99.2
+ 
+EXHIBIT 99.02
+
+ Certification Pursuant to
+ 18 U.S.C. Section 1350,
+ as Adopted Pursuant to
+ Section 906 of the Sarbanes-Oxley Act of 2002
+
+In connection with the Quarterly Report of ICON Health & Fitness, Inc. (the
+"Company") on Form 10-Q for the period ended November 29, 2003, as filed with
+the Securities and Exchange Commission on the date hereof (the "Report"), I,
+Gary E. Stevenson, Chief Operating Officer of the Company, certify, pursuant to
+18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley
+Act of 2002, that, to the best of my knowledge and belief:
+
+ (1) the Report fully complies with the requirements of Section 13(a) or
+ 15(d) of the Securities Exchange Act of 1934; and
+ (2) the information contained in the Report fairly presents, in all
+ material respects, the financial condition and result of operations of
+ the Company.
+
+Gary E. Stevenson
+Chief Operating Officer
+January 13, 2004
+
+A signed original of this written statement is required by Section 906, or other
+document authenticating, acknowledging, or otherwise adopting the signature that
+appears in typed form within the electronic version of this written statement
+has been provided to the Company and will be retained by the Company and
+furnished to the Securities and Exchange Commission or its staff upon request.
+
+</EX-99>
+
+<EX-99>
+ 5
+ ex9903-2q.txt
+ 99.3
+ 
+EXHIBIT 99.03
+
+ Certification Pursuant to
+ 18 U.S.C. Section 1350,
+ as Adopted Pursuant to
+ Section 906 of the Sarbanes-Oxley Act of 2002
+
+In connection with the Quarterly Report of ICON Health & Fitness, Inc. (the
+"Company") on Form 10-Q for the period ended November 29, 2003, as filed with
+the Securities and Exchange Commission on the date hereof (the "Report"), I, S.
+Fred Beck, Chief Financial Officer of the Company, certify, pursuant to 18
+U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley
+Act of 2002, that, to the best of my knowledge and belief:
+
+ (1) the Report fully complies with the requirements of Section 13(a) or
+ 15(d) of the Securities Exchange Act of 1934; and
+ (2) the information contained in the Report fairly presents, in all
+ material respects, the financial condition and result of operations of
+ the Company.
+
+S. Fred Beck
+Chief Financial Officer
+January 13, 2004
+
+A signed original of this written statement is required by Section 906, or other
+document authenticating, acknowledging, or otherwise adopting the signature that
+appears in typed form within the electronic version of this written statement
+has been provided to the Company and will be retained by the Company and
+furnished to the Securities and Exchange Commission or its staff upon request.
+
+</EX-99>
+

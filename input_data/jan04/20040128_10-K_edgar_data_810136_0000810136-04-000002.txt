@@ -1,0 +1,5985 @@
+<Header>
+<FileStats>
+    <FileName>20040128_10-K_edgar_data_810136_0000810136-04-000002.txt</FileName>
+    <GrossFileSize>936652</GrossFileSize>
+    <NetFileSize>163392</NetFileSize>
+    <NonText_DocumentType_Chars>292174</NonText_DocumentType_Chars>
+    <HTML_Chars>376320</HTML_Chars>
+    <XBRL_Chars>0</XBRL_Chars>
+    <XML_Chars>0</XML_Chars>
+    <N_Exhibits>5</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0000810136-04-000002.hdr.sgml : 20040128
+<ACCEPTANCE-DATETIME>20040127175352
+ACCESSION NUMBER:		0000810136-04-000002
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		8
+CONFORMED PERIOD OF REPORT:	20031102
+FILED AS OF DATE:		20040128
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			PHOTRONICS INC
+		CENTRAL INDEX KEY:			0000810136
+		STANDARD INDUSTRIAL CLASSIFICATION:	SEMICONDUCTORS & RELATED DEVICES [3674]
+		IRS NUMBER:				060854886
+		STATE OF INCORPORATION:			CT
+		FISCAL YEAR END:			1031
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-15451
+		FILM NUMBER:		04547382
+
+	BUSINESS ADDRESS:	
+		STREET 1:		15 SECOR ROAD
+		STREET 2:		PO BOX 5226
+		CITY:			BROOKFIELD
+		STATE:			CT
+		ZIP:			06804
+		BUSINESS PHONE:		2037759000
+
+	MAIL ADDRESS:	
+		STREET 1:		15 SECOR ROAD
+		STREET 2:		P O BOX 5226
+		CITY:			BROOKFIELD
+		STATE:			CT
+		ZIP:			06804
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	PHOTRONIC LABS INC
+		DATE OF NAME CHANGE:	19900514
+
+</SEC-Header>
+</Header>
+
+ 
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ A1NldQsWa3Dfy68zIc+8PO7KOsDzutvV1XV/Uczg8pGQTAFPVdikEN7+zifQBbC/
+ At3pg5VMrv2/R4EVRkkGRg==
+
+ 0000810136-04-000002.txt : 20040128
+
+10-K
+ 1
+ plab_10-k2003.htm
+ PHOTRONICS FORM 10-K 2003
+
+Photronics Form 10-K 2003 
+
+SECURITIES AND EXCHANGE COMMISSION 
+ Washington, D.C. 20549 
+
+FORM 10-K 
+
+x 
+
+ANNUAL REPORT PURSUANT TO SECTION 13 OR 15 (d) OF THE
+SECURITIES EXCHANGE ACT OF 1934 
+
+For the fiscal year ended November 2, 2003 
+
+OR 
+
+o 
+
+TRANSITION REPORT PURSUANT TO SECTION 13 OR 15 (d) OF THE
+SECURITIES EXCHANGE ACT OF 1934 
+
+For the transition period from ___ to ___ 
+
+Commission file
+number 0-15451 
+
+PHOTRONICS, INC. 
+
+(Exact name of registrant as specified in its charter) 
+
+Connecticut 
+ (State or other jurisdiction 
+ of incorporation or organization) 
+
+06-0854886 
+ (IRS Employer 
+ Identification Number) 
+
+15 Secor Road, Brookfield, Connecticut 06804 
+
+(Address of principal executive offices and zip code) 
+
+(203) 775-9000 
+
+(Registrant's telephone number, including area code) 
+
+Securities registered pursuant to Section 12(b) of the
+Act: None 
+
+Securities registered pursuant to Section 12(g) of the
+Act: Common Stock, 0.01 par value per share 
+
+Indicate by check mark whether the registrant (1) has filed all reports required to be
+filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that
+the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days. 
+Yes x No o 
+
+Indicate by check mark if disclosure of delinquent filers pursuant to Item 405 of
+Regulation S-K is not contained herein, and will not be contained, to the best of registrant's knowledge in definitive proxy or
+information statements incorporated by reference in Part III of this Form 10-K or any amendment to this Form 10-K. 
+ o 
+
+Indicate by check mark whether the registrant is an accelerated filer (as defined in Rule
+12b-2 of the Exchange Act). 
+Yes x No o 
+
+As of May 2, 2003, which was the last business day of the registrant's most recently
+completed second fiscal quarter, the aggregate market value of the shares of the registrant common stock held by non-affiliates was
+approximately 378,364,441 (based upon the closing price of 13.00 per share as reported by the Nasdaq National Market on
+that date.) 
+
+As of December 31, 2003, 32,509,936 shares of the registrant's common stock were
+outstanding. 
+
+DOCUMENTS INCORPORATED BY REFERENCE 
+
+Proxy Statement for the 2004 
+
+Annual Meeting of Shareholders 
+
+Incorporated into Part III 
+
+to be held on March 24, 2004 
+
+of this Form 10-K 
+
+Forward Looking Information 
+
+Certain statements in this report are considered "forward
+looking statements" within the meaning of the Private Securities Litigation Reform Act of 1995. All forward looking statements
+involve risks and uncertainties. In particular, any statement contained in this annual report on Form 10-K, in press releases,
+written statements or other documents filed with the Securities and Exchange Commission, or in the Company's communications and
+discussions with investors and analysts in the normal course of business through meetings, phone calls and conference calls,
+regarding the consummation and benefits of future acquisitions, expectations with respect to future sales, financial performance,
+operating efficiencies and product expansion, are subject to known and unknown risks, uncertainties and contingencies, many of
+which are beyond the control of the Company. These factors may cause actual results, performance or achievements to differ
+materially from anticipated results, performances or achievements. Factors that might affect such forward looking statements
+include, but are not limited to, overall economic and business conditions; the demand and receipt of orders for the Company's
+products; competitive factors in the industries and geographic markets in which the Company competes; changes in federal, state and
+foreign tax requirements (including tax rate changes, new tax laws and revised tax law interpretations); the Company's ability to
+place new equipment in service on a timely basis; interest rate fluctuations and other capital market conditions, including foreign
+currency rate fluctuations; economic and political conditions in international markets; the ability to obtain additional
+financings ; the ability to achieve anticipated synergies and other cost savings in connection with acquisitions and
+productivity programs; the timing, impact and other uncertainties of future acquisitions; the seasonal and cyclical nature of the
+semiconductor industry; the availability of capital; management changes; damage or destruction to the Company's facilities by
+natural disasters, labor strikes, political unrest or terrorist activity ; the ability to fully utilize its tools; the
+ability of the Company to receive desired yields, pricing, product mix, and market acceptance of its products; and changes in
+technology. Any forward looking statements should be considered in light of these factors. 
+
+ -2- 
+
+PART I 
+
+ITEM 1. BUSINESS 
+
+General 
+
+Photronics, Inc. is one of the world's leading manufacturers
+of photomasks, which are high precision photographic quartz plates containing microscopic images of electronic circuits. Photomasks
+are a key element in the manufacture of semiconductors and are used as masters to transfer circuit patterns onto semiconductor
+wafers during the fabrication of integrated circuits and, to a lesser extent, other types of electrical components. The Company
+operates principally from nine manufacturing facilities, three of which are located in the United States, three in Europe and one
+each in Korea, Singapore and Taiwan. 
+
+Photronics, Inc. is a Connecticut corporation, organized in
+1969. Its principal executive offices are located at 15 Secor Road, Brookfield, Connecticut 06804, telephone (203) 775-9000.
+
+Photronics, Inc. and its subsidiaries are collectively referred to herein as the "Company." The Company's website is located at
+http://www.photronics.com. The Company makes available, free of charge through its website, its annual reports on Form 10-K,
+quarterly reports on Form 10-Q, current reports on Form 8-K, and amendments to those reports filed or furnished pursuant to Section
+13(a) or 15(d) of the Securities Exchange Act of 1934 as soon as reasonably practicable after such materials are electronically
+filed or furnished to the Securities and Exchange Commission. The information contained or incorporated in the Company's website is
+not part of these documents. 
+
+Fiscal 2003 Developments 
+
+In March 2003, the Company implemented a plan to consolidate
+its North American manufacturing network in order to increase capacity utilization and manufacturing efficiencies. Total
+consolidation and related charges of 42.0 million were recorded during the second quarter of fiscal 2003. Components of the charge
+include 3.4 million for workforce reductions, 4.4 million for facility lease payments, and 34.2 million of non-cash charges for
+the impairment in carrying value of fixed assets. Through November 2, 2003, cash charges of 2.7 million had been
+expended. 
+
+On April 15, 2003, the Company sold 150.0 million, 2.25 
+convertible subordinated notes due 2008 in a private offering pursuant to Rule 144A under the Securities Act of 1933. These notes
+were subsequently registered for resale pursuant to a registration statement on Form S-3. Those notes are convertible into the
+Company's common stock at a conversion price of 15.89 per share. Net proceeds from the issuance amounted to approximately 145.2
+million. On June 2, 2003, a portion of the net proceeds was used to redeem all 62.1 million of the Company's outstanding 6 
+convertible subordinated notes due 2004. Pursuant to the terms of the related indenture, the 6 convertible subordinated notes were
+redeemed at 100.8571 of the principal amount plus accrued interest of 1.9 million for an aggregate redemption price of 64.5
+million, including a premium of 0.5 million. An early extinguishment charge of 0.9 million was incurred on the redemption of the
+6 convertible subordinated notes. 
+
+The Company's 100 million revolving credit facility, which
+expires in July 2005, was amended on April 9, 2003 to relax certain financial covenants as a result of the Company's March 2003
+consolidation plan and April 2003 issuance of 150.0 million convertible subordinated notes. 
+
+Manufacturing Technology 
+
+The Company manufactures photomasks, which are used as
+masters to transfer circuit patterns onto semiconductor wafers. The Company's photomasks are manufactured in accordance with
+circuit designs provided on a confidential basis by its customers. The typical manufacturing process for a photomask involves the
+receipt and conversion of circuit design data to manufacturing pattern data. A lithography system then exposes the circuit pattern
+onto the photomask blank. The exposed areas are dissolved and etched to produce that pattern on the photomask. The photomask is
+inspected for defects and conformity to the customer design data, any defects are repaired, any required pellicles (protective
+membranes) are applied and, after final inspection, the photomask is shipped to the customer. 
+
+-3- 
+
+The Company currently supports customers across the full
+spectrum of integrated circuit production technologies by manufacturing photomasks using electron beam or laser-based technologies
+and, to a significantly lesser degree, optical-based technologies. Electron beam and laser-based systems are the predominant
+technologies used for photomask manufacturing. These technologies are capable of producing the finer line resolution, tighter
+overlay and larger die size for the larger and more complex circuits currently being designed. Electron beam and laser generated
+photomasks can be used with the most advanced processing techniques to produce the most advanced
+semiconductor devices intended for use in an array of products. These include devices used for microprocessors, memory,
+telecommunications and related applications. The Company currently owns a number of electron beam and laser-based systems. The
+production of photomasks by the optical method is less expensive and precise. The optical method traditionally is used to
+manufacture less complex and lower priced photomasks. 
+
+The first several layers of photomasks sometimes are
+required to be delivered by the Company within 24 hours from the time it receives a customer's design data. The ability to
+manufacture high quality photomasks within short time periods is dependent upon efficient manufacturing methods, high yield and
+high equipment reliability. The Company believes that it meets these requirements by making significant investments in
+manufacturing and data processing systems and statistical process control methods to optimize the manufacturing process and reduce
+cycle times. 
+
+Quality control is an integral part of the photomask
+manufacturing process. Photomasks are manufactured in temperature, humidity and particulate controlled clean rooms because of the
+high level of precision, quality and yields required. Each photomask is inspected several times during the manufacturing process to
+ensure compliance with customer specifications. The Company continues to make substantial investments in equipment to inspect and
+repair photomasks and to ensure that customer specifications are met. After inspection and any necessary repair, the Company
+utilizes proprietary processes to clean the photomasks prior to shipment. 
+
+The vast majority of photomasks produced for the
+semiconductor industry employ geometries of 130 nanometer or larger. At these geometries, the Company can produce full lines of
+photomasks and there is no significant technology employed by the Company's competitors that is not available to the Company. Very
+recently, a limited amount of semiconductor fabrication has begun in the 90 nanometer range. The Company is currently capable of
+producing a broad range of photomasks at these smaller geometries. However, as is typical of industries in the midst of
+technological change, some of the Company's competitors may be able to achieve higher manufacturing yields than the Company when
+producing these smaller geometry photomasks, in part because these competitors may have completed more cycles of learning than the
+Company in this area and in part because of the Company's need to replicate production of these complex photomasks at its many
+locations world-wide. The Company believes that these cases are few and are not material to its business. 
+
+Sales and Marketing 
+
+The market for photomasks primarily consists of domestic and
+foreign semiconductor manufacturers and designers, including a limited number of manufacturers who have the capability to
+manufacture photomasks. Generally, the Company and each of its customers engage in a qualification and correlation process before
+the Company becomes an approved supplier. Thereafter, the Company typically negotiates pricing parameters for a customer's orders
+based on the customer's specifications. Some prices may remain in effect for an extended period. In some instances, the Company
+enters into purchase arrangements, based on the understanding that, as long as the Company's performance is competitive, the
+Company will receive a specified percentage of that customer's photomask requirements. 
+
+The Company conducts its sales and marketing activities
+primarily through a staff of full-time sales personnel and customer service representatives who work closely with the Company's
+management and technical personnel. In addition to the sales personnel at the Company's manufacturing facilities, the Company has
+sales offices throughout the United States, Europe and Asia. 
+
+The Company supports international customers through both
+its domestic and foreign facilities. The Company considers its presence in international markets important to attracting new
+customers, providing global solutions to its existing customers and serving customers that utilize manufacturing foundries outside
+of the United States, principally in Asia. For a statement of the amount of net sales, operating income or loss, and identifiable
+assets attributable to each of the Company's geographic areas of operations, see Note 15 to the consolidated financial
+statements. 
+
+-4- 
+
+Customers 
+
+The Company primarily sells its products to leading
+semiconductor manufacturers. The Company's largest customers during fiscal 2003 include the following: 
+
+Agere Systems Inc. 
+
+Polarfab LLC 
+
+Atmel Corp. 
+
+Samsung Electronics Co., Ltd. 
+
+Chartered Semiconductor Manufacturing, Ltd. 
+
+Seagate Technology, Inc. 
+
+Hynix Semiconductor 
+
+Silicon Integrated System Corp. 
+
+Intersil Corporation 
+
+Skyworks Solutions, Inc. 
+
+Jazz Semiconductor, Inc. 
+
+ST Microelectronics, Inc. 
+
+Macronix International Co., Ltd. 
+
+Systems on Silicon Mfg. Co., Pte Ltd. 
+
+Motorola Inc. 
+
+Texas Instruments Incorporated 
+
+National Semiconductor Corporation 
+
+United Microelectronics Corp. 
+
+Philips Semiconductor Manuf., Inc. 
+
+Winbond Electronics Corp. 
+
+During fiscal year 2003, the Company sold its products and
+services to approximately 600 customers. Samsung Electronics Co., Ltd. accounted for approximately 16 and 10 of the Company's net
+sales in fiscal 2003 and 2002, respectively. The Company's five largest customers, in the aggregate, accounted for approximately
+36 of net sales in fiscal 2003 and 2002. A significant decrease in the amount of sales to any of these customers could have a
+material adverse effect on the financial performance and business prospects of the Company. 
+
+Research and Development 
+
+The Company conducts ongoing research and development
+activities in four of its advanced manufacturing locations covering all major regions represented by the Company's customer base,
+intended to maintain the Company's leadership in technology and manufacturing efficiency. Since fiscal 1994, the Company has
+increased its investment in research and development activities and current efforts include deep ultraviolet, phase-shift and
+optical proximity correction photomasks for advanced semiconductor manufacturing as well as masks for emerging technologies
+including masks for Immersion Lithography, Fiber Bragg Gratings, MEMS and nanotechnology. Phase-shift and optical proximity
+correction photomasks use advanced materials, designs and lithography techniques for enhanced resolution of images on a
+semiconductor wafer. The Company also conducts research and development activities in modeling and simulation necessary for
+effective integration of the most advanced mask-based optical lithography solutions. Currently these activities are focused on 90
+nanometer and 65 nanometer node lithography, but the Company believes these core competencies will continue to be a critical part
+of semiconductor manufacturing as optical lithography continues to scale device capabilities below 65 nanometer. The Company has
+incurred expenses of 30.0 million, 30.2 million and 24.9 million for research and development in fiscal 2003, 2002 and 2001,
+respectively. The Company believes that it owns or controls valuable proprietary information necessary for its business as
+presently conducted. Recently, the Company has either applied for or been granted patents pertaining to its business segment. The
+Company believes that its intellectual property is and will continue to be important to the Company's technical leadership in the
+field of photomasks. 
+
+Patents 
+
+The Company owns or has rights to 13 patents in the United
+States. The general subject matter of these patents relates to the manufacture of photomasks themselves and the use of photomasks
+to manufacture other products. The expiration dates of these patents range from 2011 to 2022. While the Company believes that its
+intellectual property is and will continue to be important to the Company's technical leadership in the field of photomasks, the
+Company's operations are not dependent on any one individual patent. The Company protects its intellectual property rights
+regarding products and manufacturing processes through patents and trade secrets and the Company also relies on non-disclosure
+agreements with employees and vendors to protect its proprietary processes. 
+
+-5- 
+
+Materials and Supplies 
+
+Raw materials used by the Company generally include high
+precision quartz plates, which are used as photomask blanks, primarily obtained from Japanese suppliers including Hoya Corporation,
+or Hoya, and Ulcoat USA, Incorporated, or Ulcoat; pellicles, which are protective transparent cellulose membranes; electronic grade
+chemicals, which are used in the manufacturing process; and compacts, which are durable plastic containers in which photomasks are
+shipped. These materials are generally sourced from a limited number of suppliers and the Company is not dependent on any one
+supplier for its raw materials. The Company believes that its utilization of a select group of strategic suppliers enables it to
+access the most advanced material technologically available. 
+
+The Company has established purchasing arrangements with
+Hoya and Ulcoat, and the Company expects that it will purchase substantially all of its photomask blanks from these suppliers as
+long as their price, quality, delivery and service are competitive. On an ongoing basis, the Company continues to consider
+additional supplier sources. 
+
+The Company relies on a limited number of equipment
+suppliers to develop and supply the equipment used in the photomask manufacturing process. Although the Company has been able to
+obtain equipment on a timely basis, the inability to obtain equipment when required could adversely affect the Company's business
+and results of operations. The Company also relies on these and additional suppliers to develop future generations of manufacturing
+systems to support the Company's requirements. 
+
+Backlog 
+
+The first several levels of a set of photomasks for a
+circuit pattern at times are required to be shipped within 24 hours of receiving a customer's design. Because of the short period
+between order and shipment dates (typically from one day to two weeks) for a significant amount of the Company's sales, the dollar
+amount of current backlog is not considered to be a reliable indication of future sales volume. 
+
+International Operations 
+
+International sales, which
+exclude export sales, were approximately 59 , 50 and 36 of the Company's sales in fiscal 2003, 2002 and 2001, respectively. The
+Company believes that maintaining significant international operations requires it to have, among other things, a local presence in
+the markets in which it operates. This requires a significant investment in financial, management, operational and other
+resources. 
+
+Operations outside the United States are subject to inherent
+risks, including fluctuations in exchange rates, political and economic conditions in various countries, unexpected changes in
+regulatory requirements, tariffs and other trade barriers, difficulties in staffing and managing foreign operations, longer
+accounts receivable payment cycles and potentially adverse tax consequences. These factors may have a material adverse effect on
+the Company's ability to generate sales outside the United States and, consequently, on its business and results of
+operations. 
+
+Competition 
+
+The photomask industry is highly competitive and most of the
+Company's customers utilize more than one photomask supplier. The Company's ability to compete depends primarily upon the
+consistency of product quality and timeliness of delivery, as well as pricing, technical capability and service. The Company also
+believes that proximity to customers is an important factor in certain markets. Certain competitors have substantially greater
+financial, technical, sales, marketing and other resources than the Company. The Company believes that consistency of product
+quality and timeliness of delivery are the principal factors considered by customers in selecting their photomask suppliers. The
+Company's inability to meet these requirements could adversely affect its sales. The Company believes that it is able to compete
+effectively because of its dedication to customer service, its investment in state-of-the-art photomask equipment and facilities
+and its experienced technical employees. 
+
+-6- 
+
+Further, since the mid-1980s, there has been a decrease in the
+number of independent manufacturers as a result of independents being acquired or discontinuing operations. The Company believes
+that entry into the market by a new independent manufacturer would require a major investment of capital, a significant period of
+time to establish a commercially viable operation and additional time to attain meaningful market share and achieve
+profitability. 
+
+The Company estimates that for the types of photomasks it
+manufactures in North America, the size of the total market (captive and merchant) is approximately 500 million and the rest of
+the world is estimated to be approximately 2.0 billion. The Company believes that as a result of its acquisition of PKL LTD, it is
+one of the largest photomask manufacturers in the world. Competitors include Compugraphics, Inc., Dai Nippon Printing Co., Ltd.,
+DuPont Photomasks, Inc., Hoya Corporation, Taiwan Mask Corporation, Toppan Printing Co., Ltd. and Toppan Chungwha Electronics. The
+Company also competes with semiconductor manufacturers' captive photomask manufacturing operations. The Company expects to face
+continued competition from these and other suppliers in the future. In the past, competition led to pressure to reduce prices,
+which the Company believes contributed to the decrease in the number of independent manufacturers. This pressure to reduce prices
+may continue in the future. In addition, some of the Company's customers, such as International Business Machines Corporation, NEC
+Corporation, Taiwan Semiconductor Manufacturing Company and Samsung Electronics Co., Ltd., possess their own captive facilities for
+manufacturing photomasks. Also, certain semiconductor manufacturers market their photomask manufacturing services to outside
+customers as well as to their internal organizations. 
+
+Employees 
+
+As of December 31, 2003, the Company and its majority-owned
+subsidiaries employed approximately 1,420 persons on a full-time basis. The Company believes it offers competitive compensation and
+other benefits and that its employee relations are good. Except for employees in the United Kingdom, none of its employees are
+represented by a union. 
+
+ITEM 2. DESCRIPTION OF PROPERTY 
+
+The following table presents certain information about the
+Company's photomask manufacturing facilities: 
+
+Location 
+
+Facility Size 
+ (Sq. Ft.) 
+
+Type of 
+ Interest 
+
+Allen, TX 
+
+60,000 
+
+Owned 
+
+Austin, TX 
+
+50,000 
+
+Owned 
+
+Brookfield, CT (Building #1) 
+
+19,600 
+
+Owned 
+
+Brookfield, CT (Building
+#2) 
+
+20,000 
+
+Owned 
+
+Bridgend, South Wales 
+
+28,000 
+
+Leased 
+
+Cheonan, Korea 
+
+64,000 
+
+Owned 
+
+Dresden, Germany 
+
+10,000 
+
+Leased 
+
+Hsinchu, Taiwan 
+
+73,000 
+
+Leased 
+
+Manchester, England 
+
+42,000 
+
+Owned 
+
+Singapore 
+
+20,000 
+
+Leased 
+
+As part of the Company's 2003 consolidation and workforce
+reduction plan, the Company closed its manufacturing facility in Phoenix, Arizona. The Company believes that its existing
+manufacturing facilities are adequate for further plant expansions at existing sites. 
+
+ITEM 3. LEGAL PROCEEDINGS 
+
+The Company is subject to various claims that arise in the
+ordinary course of business. The Company believes such claims, individually or in the aggregate, will not have a material adverse
+effect on the business of the Company. 
+
+ITEM 4. SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS 
+
+No matters were submitted to a vote of the Company's
+security holders during the fourth quarter of fiscal 2003. 
+
+-7- 
+
+PART II 
+
+ITEM 5. MARKET FOR REGISTRANT'S COMMON EQUITY 
+ AND RELATED SHAREHOLDERS'
+MATTERS 
+
+The Common Stock of the Company is traded on the NASDAQ
+National Market ("NASDAQ") under the symbol PLAB. The table below shows the range of high and low sale prices per share for each
+quarter for fiscal year 2003 and 2002, as reported on the NASDAQ. 
+
+High 
+
+Low 
+
+Fiscal Year Ended November 2,
+2003: 
+
+Quarter Ended February 2, 2003 
+
+17.50 
+
+9.00 
+
+Quarter Ended May 4, 2003 
+
+13.53 
+
+10.00 
+
+Quarter Ended August 3, 2003 
+
+20.05 
+
+12.59 
+
+Quarter Ended November 2, 2003 
+
+26.00 
+
+16.10 
+
+Fiscal Year Ended November 3, 2002: 
+
+Quarter Ended January 31, 2002 
+
+35.13 
+
+24.41 
+
+Quarter Ended April 30, 2002 
+
+35.57 
+
+28.82 
+
+Quarter Ended July 31, 2002 
+
+35.40 
+
+10.01 
+
+Quarter Ended November 3, 2002 
+
+13.92 
+
+7.19 
+
+On December 31, 2003, the closing sale price for the Common
+Stock as reported by NASDAQ was 19.92. Based on information available to the Company, the Company believes it has approximately
+9,000 beneficial shareholders. 
+
+The Company has not paid any cash dividends to date and, for
+the foreseeable future, anticipates that earnings will continue to be retained for use in its business. The Company's revolving
+credit facility (see Note 7 to the consolidated financial statements) limits the amount of cash dividends it can pay to its
+shareholders. 
+
+On April 15, 2003, the Company sold 150.0 million of its
+2.25 convertible subordinated notes due 2008 in a private offering to qualified institutional buyers pursuant to Rule 144A under
+the Securities Act of 1933. Those notes are convertible into the Company's common stock at a conversion price of 15.89 per share.
+Net proceeds from the issuance amounted to approximately 145.2 million. A portion of these net proceeds was used to redeem all
+ 62.1 million of the Company's outstanding 6 convertible subordinated notes due 2004. 
+
+The information regarding the Company's equity compensation
+required to be disclosed by Item 201(d) of Regulation S-K is incorporated by reference into Item 12 of Part III of this
+report. 
+
+-8- 
+
+ITEM 6. SELECTED FINANCIAL DATA 
+
+The following selected financial data is derived from the
+Company's consolidated financial statements. The consolidated financial statements for all periods presented gives retroactive
+effect to the 2000 merger of the Company and Align-Rite International, Inc., which was accounted for as a pooling of interests. The
+data should be read in conjunction with the consolidated financial statements and notes thereto and other financial information
+included elsewhere in this Form 10-K. 
+
+Years Ended 
+
+November 2, 
+ 2003 
+
+November 3, 
+ 2002 
+
+October 31 
+ 2001 (a) 
+
+October 31, 
+ 2000 (b) 
+
+October 31, 
+ 1999 
+
+OPERATING DATA: 
+
+Net sales 
+
+348,884 
+
+386,871 
+
+377,969 
+
+331,212 
+
+277,395 
+
+Cost and Expenses: 
+
+Cost of sales 
+
+250,687 
+
+276,451 
+
+254,272 
+
+220,650 
+
+193,467 
+
+Selling, general and administrative 
+
+56,154 
+
+57,973 
+
+53,758 
+
+46,059 
+
+40,119 
+
+Research and development 
+
+29,965 
+
+30,154 
+
+24,858 
+
+20,731 
+
+16,611 
+
+Consolidation, restructuring and 
+ related charges 
+
+42,000 
+
+(c) 
+
+14,500 
+
+(d) 
+
+38,100 
+
+(e) 
+
+23,000 
+
+(f) 
+
+- 
+
+Operating income (loss) 
+
+(29,922) 
+
+7,793 
+
+6,981 
+
+20,772 
+
+27,198 
+
+Other income (expense): 
+
+Interest expense 
+
+(14,826) 
+
+(17,801) 
+
+(11,966) 
+
+(11,091) 
+
+(7,731) 
+
+Interest and other income, net 
+
+3,083 
+
+(g) 
+
+4,510 
+
+2,664 
+
+5,783 
+
+3,335 
+
+Income (loss) before income tax 
+ provision (benefit) and minority 
+ interest 
+
+(41,665) 
+
+(5,498) 
+
+(2,321) 
+
+15,464 
+
+22,802 
+
+Income tax provision (benefit) 
+
+924 
+
+(7,019) 
+
+(3,000) 
+
+4,700 
+
+8,354 
+
+Minority interest in income of 
+ consolidated subsidiaries 
+
+(5,573) 
+
+(6,378) 
+
+(4,705) 
+
+(588) 
+
+- 
+
+Net income (loss) 
+
+(48,162) 
+
+(4,857) 
+
+(4,026) 
+
+10,176 
+
+14,448 
+
+Earnings (loss) per share: 
+
+Basic 
+
+(1.50) 
+
+(c) (g) 
+
+(0.16) 
+
+(d) 
+
+(0.13) 
+
+(e) 
+
+0.35 
+
+(f) 
+
+0.52 
+
+Diluted 
+
+(1.50) 
+
+(c) (g) 
+
+(0.16) 
+
+(d) 
+
+(0.13) 
+
+(e) 
+
+0.34 
+
+(f) 
+
+0.51 
+
+Weighted average number of 
+ common shares outstanding: 
+
+Basic 
+
+32,144 
+
+31,278 
+
+29,919 
+
+28,761 
+
+27,800 
+
+Diluted 
+
+32,144 
+
+31,278 
+
+29,919 
+
+29,831 
+
+28,105 
+
+As of 
+
+November 2, 
+ 2003 
+
+November 3, 
+ 2002 
+
+October 31, 
+ 2001 (a) 
+
+October 31, 
+ 2000 (b) 
+
+October 31, 
+ 1999 
+
+Working capital 
+
+258,509 
+
+142,028 
+
+48,732 
+
+78,393 
+
+33,484 
+
+Property, plant and equipment, net 
+
+387,977 
+
+443,860 
+
+402,776 
+
+395,281 
+
+348,144 
+
+Total assets 
+
+865,540 
+
+832,442 
+
+660,698 
+
+604,976 
+
+502,309 
+
+Long-term debt 
+
+368,307 
+
+296,785 
+
+188,021 
+
+202,797 
+
+148,281 
+
+Shareholders' equity 
+
+308,329 
+
+339,115 
+
+287,161 
+
+293,980 
+
+254,130 
+
+-9- 
+
+a) 
+
+Effective August 27, 2001, the Company acquired a majority of the total share capital of
+PKL LTD ("PKL"), a photomask manufacturer based in Korea. The operating results of PKL have been included in the consolidated
+statement of operations since the effective date of the acquisition. 
+
+b) 
+
+Effective June 20, 2000, the Company acquired a majority of the total share capital of
+Precision Semiconductor Mask Corporation ("PSMC"), a photomask manufacturer based in Taiwan. The operating results of PSMC have
+been included in the consolidated statement of operations since the effective date of the acquisition. 
+
+c) 
+
+Includes consolidation charge of 42.0 million 39.9 million after tax or 1.24 per
+diluted share) in connection with the closure of the Company's Phoenix, Arizona manufacturing facility and the consolidation of the
+Company's North American operating infrastructure. 
+
+d) 
+
+Includes consolidation charge of 14.5 million 10 million after tax or 0.32 per diluted
+share) in connection with the closure of the Company's Milpitas, California manufacturing facility and workforce
+reduction. 
+
+e) 
+
+Includes consolidation charges of 38.1 million 26.1 million after tax, or 0.87 per
+diluted share) in connection with the final phase of the Company's merger with Align-Rite International, Inc. and subsequent
+consolidation of facilities in California, Florida and Germany. 
+
+f) 
+
+Includes restructuring and related charges incurred in connection with the closure of the
+Company's Sunnyvale, California and Neuchatel, Switzerland facilities and merger related expenses totaling 14.8 million (after
+tax) or 0.52 per diluted share. 
+
+g) 
+
+Includes early extinguishment charge of 0.9 million after tax or .03 per diluted share
+in connection with the early redemption of the Company's 6 62.1 million convertible notes due June 2004. 
+
+ITEM 7. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION 
+ AND RESULTS OF
+OPERATIONS 
+
+Results of Operations for the Years Ended 
+November 2, 2003, November 3, 2002 and October 31, 2001 
+
+Overview 
+
+In 2001, the
+Company completed the acquisition of a majority equity interest in PKL LTD, or PKL, a leading Korean photomask supplier, for 
+ 56 million. In April 2002, the Company acquired an additional 28 of PKL in exchange for 1,212,218 shares of the Company's common
+stock. The acquisition was accounted for as a purchase and accordingly goodwill in the aggregate of 69.4 million was recorded. The
+operating results of PKL have been included in the Company's consolidated statements of operations since August 27,
+2001. 
+
+The Company sells substantially all of its photomasks to
+semiconductor designers and manufacturers. The Company believes that the demand for photomasks primarily depends on integrated
+circuit design activity rather than the volume of semiconductor sales. Consequently, an increase in semiconductor sales does not
+necessarily result in a corresponding increase in photomask sales. In addition, the reduced use of customized integrated circuits,
+a reduction in design complexity or other changes in the technology or methods of manufacturing semiconductors or a slowdown in the
+introduction of new semiconductor designs could reduce demand for photomasks even if demand for semiconductors increases. Further,
+advances in semiconductor and photomask design and semiconductor production methods could reduce the demand for photomasks.
+Historically, the semiconductor industry has been volatile, with sharp periodic downturns and slowdowns. These downturns have been
+characterized by, among other things, diminished product demand, excess production capacity and accelerated erosion of selling
+prices. The semiconductor industry has been in a downturn since 2001 which has had a significant impact on its net sales and
+operating results. The Company cannot predict as to when the current downturn will end or that it will not continue to worsen or
+materially adversely affect its business, financial condition and operating results in the near term. 
+
+The photomask industry has been and is expected to continue
+to be characterized by technological change and evolving industry standards. In order to remain competitive, the Company will be
+required to continually anticipate, respond to and utilize changing technologies. In particular, the Company believes that, as
+semiconductor geometries continue to become smaller, it will be required to manufacture complex optically enhanced reticles,
+including optical proximity correction and phase-shift photomasks. Additionally, demand for photomasks has been, and could in the
+future be adversely affected by changes in methods of semiconductor manufacturing (which could affect the type or quantity of
+photomasks utilized), such as changes in semiconductor demand that favor field programmable gate arrays and other semiconductor
+designs that replace application specific integrated circuits. To date, the Company has not experienced a significant loss of
+revenue as a result of alternative semiconductor design methodologies. Additionally, increased market acceptance of alternative
+methods of transferring circuit designs onto semiconductor wafers, such as direct-write lithography, could reduce or eliminate the
+need for photomasks. Presently, direct-write lithography has not been proven to be a commercially viable alternative to photomasks,
+as it is considered too slow for high volume semiconductor wafer production. However, should direct-write or any other alternative
+methods of transferring integrated circuit designs to semiconductor wafers be done without the use of photomasks, the Company's
+business and results of operations would be materially adversely affected. 
+
+ -10- 
+
+If the Company is unable to anticipate, respond to or utilize these or other changing
+technologies, due to resource, technological or other constraints, its business and results of operations could be materially
+adversely affected. 
+
+Both revenues and costs have been affected by the increased
+demand for high-end technology photomasks that require more advanced manufacturing capabilities but generally command higher
+average selling prices. To meet the technological demands of its customers and position the Company for future growth, the Company
+continues to make substantial investments in high-end manufacturing capability both at existing and new facilities. The Company's
+capital expenditures for new facilities and equipment to support its customers' requirements for high technology products was
+approximately 222.2 million for the three fiscal years ended November 2, 2003, resulting in significant increases in operating
+expenses. Based on the anticipated technological changes in the industry, the Company expects these trends to continue. 
+
+The manufacture of photomasks for use in fabricating
+integrated circuits and other related products built using comparable photomask-based process technologies has been and continues
+to be capital intensive based upon the need to maintain a technology-based infrastructure. The Company's integrated global
+manufacturing network and employees, which consists of nine sites, represent a significant portion of its fixed operating cost
+base. Should sales volumes decrease based upon the flow of design releases from the Company's customers, the Company may have
+excess and underutilized production capacity that could significantly impact operating margins. 
+
+The vast majority of photomasks produced for the
+semiconductor industry employ geometries of 130 nanometers or larger. At these geometries, the Company can produce full lines of
+photomasks and there is no significant technology employed by the Company's competitors that is not available to the Company. Very
+recently, a limited amount of semiconductor fabrication has begun in the 90 nanometer range. The Company is currently capable of
+producing a broad range of photomasks at these smaller geometries. However, as is typical of industries in the midst of
+technological change, some of the Company's competitors may be able to achieve higher manufacturing yields than the Company when
+producing these smaller geometry photomasks, in part because these competitors may have completed more cycles of learning than the
+Company in this area and in part because of the Company's need to replicate production of these complex photomasks at its four
+advanced technology locations world-wide. The Company believes that these cases are not material to its business. 
+
+Results of Operations 
+
+The following table represents selected operating
+information expressed as a percentage of net sales: 
+
+Year Ended 
+
+November 2, 
+ 2003 
+
+November 3, 
+ 2002 
+
+October 31, 
+ 2001 
+
+Net
+sales 
+
+100.0 
+
+100.0 
+
+100.0 
+
+Cost of sales 
+
+71.9 
+
+71.5 
+
+67.3 
+
+Gross margin 
+
+28.1 
+
+28.5 
+
+32.7 
+
+Selling, general and administrative expenses 
+
+16.1 
+
+15.0 
+
+14.2 
+
+Research and development expenses 
+
+8.6 
+
+7.8 
+
+6.6 
+
+Consolidation, restructuring and related charges 
+
+12.0 
+
+3.7 
+
+10.1 
+
+Operating income (loss) 
+
+(8.6) 
+
+2.0 
+
+1.8 
+
+Interest expense 
+
+(4.2) 
+
+(4.6) 
+
+(3.1) 
+
+Investment and other income, net 
+
+0.9 
+
+1.2 
+
+0.7 
+
+Loss before income tax provision (benefit) 
+
+and minority interest 
+
+(11.9) 
+
+(1.4) 
+
+(0.6) 
+
+Income tax provision (benefit) 
+
+0.3 
+
+(1.8) 
+
+(0.8) 
+
+Minority interest 
+
+(1.6) 
+
+(1.7) 
+
+(1.3) 
+
+Net loss 
+
+(13.8) 
+
+(1.3) 
+
+(1.1) 
+
+-11- 
+
+Net Sales 
+
+Net sales for the fiscal year ended November 2, 2003
+decreased 38.0 million or 9.8 to 348.9 million as compared to 386.9 million in fiscal 2002. The decrease was attributable to a
+slow-down in new design releases, due in part, to decreased end user demand, both consumer and corporate, for devices utilizing
+semiconductors and continued increased competitive pricing pressures for mature technology products. During 2003, the Company
+experienced an overall decline in average selling prices and unit volumes as a result of the competitive pricing pressures for
+mature technology products and a decrease in new design releases. Additionally, in 2003, the Company continued to experience a
+reduction in sales in North America, due in part to the continued migration of semiconductor manufacturing to Asian foundries by
+certain North America customers. By geographic area, net sales in Asia increased 18.4 million or 14.2 , while North America sales
+decreased 52.3 million or 26.9 and European sales decreased 4.1 million or 6.5 . 
+
+Net sales for the fiscal year ended November 3, 2002
+increased 2.4 to 386.9 million, compared to 378.0 million in 2001 primarily as a result of increased growth in Asia as a result
+of inclusion of the Company's majority-held subsidiary in Korea for 2002. The increase, however, was partially mitigated by
+decreased sales in North America, as certain North American customers moved their semiconductor manufacturing to foundries located
+in Asia. Other factors contributing to the increased sales in 2002 included an improved sales mix of high-end technology products
+and increased unit volume associated with increased design releases. The increased design releases were primarily experienced
+during the first six months of the year. Sales decreased during the second half of 2002 due to a slow-down in new design releases
+for mature and high-end technology products, due in part, to the decreased end user demand, both consumer and corporate, for
+devices utilizing semiconductors and continued increased competitive pricing pressures for mature products. 
+
+Gross Margin 
+
+The decline in the Company's gross margins in 2003, 2002 and
+2001 was primarily associated with the decreased utilization of the Company's expanded fixed equipment base, primarily in North
+America, due to decreased demand and competitive pricing pressures. During the later half of 2001, continuing through 2003, the
+Company was impacted by the severe and prolonged downturn in the semiconductor industry, which resulted in decreased demand and
+increased competitive pricing pressures. The Company also began to experience increased growth in Asia during this time, while
+North America sales began to decline. To mitigate the decline in its business, which has impacted its gross margins, in April 2001
+the Company commenced a consolidation plan, which reduced its manufacturing locations from seven to five in the United States, and
+from four to three in Europe. In August 2002, the Company continued to reduce its operating cost structure by closing its Milpitas,
+California facility. In March 2003, the Company began to further restructure its operations in the United States by closing its
+Phoenix, Arizona facility and reducing its global work force. 
+
+Gross margin for the fiscal year ended November 2, 2003
+decreased to 28.1 from 28.5 for the fiscal year ended November 3, 2002. The decrease was primarily associated with decreased
+sales volume, which decreased the utilization of the Company's fixed equipment cost base, due in part to lower than anticipated
+demand for high end technology products which have design rules of 0.18 micron and below, and competitive pricing pressures for
+mature product technologies resulting in lower average selling prices. 
+
+Gross margin for the fiscal year ended November 3, 2002
+decreased to 28.5 from 32.7 for the fiscal year ended October 31, 2001. The decrease was primarily associated with the decreased
+utilization of the Company's expanded fixed equipment cost base, primarily in North America, due in part to decreased demand and
+competitive pricing pressures for mature product technologies. The decreased demand for all technologies was primarily experienced
+during the latter half of 2002 as fewer designs were released into production. Additionally, improved gross margins at the
+Company's subsidiary in Korea were offset by lower margins from the Company's other locations. 
+
+Selling, General and Administrative Expenses 
+
+Selling, general and administrative expenses for the fiscal
+year ended November 2, 2003 decreased 3.1 to 56.2 million, or 16.1 of net sales, from 58.0 million, or 15.0 of net sales for
+the fiscal year ended November 3, 2002. The decrease was primarily attributable to reduced salary and wages and facility costs
+associated with the Company's North American consolidation initiatives. 
+
+-12- 
+
+Selling, general and administrative expenses for the fiscal
+year ended November 3, 2002 increased 7.8 to 58.0 million, or 15.0 of net sales, from 53.8 million, or 14.2 of net sales for
+the fiscal year ended October 31, 2001. The increase in 2002 was primarily attributable to the inclusion of the Company's Korean
+subsidiary for all of 2002 and increased information technology costs associated with the Company's global infrastructure. These
+increases were partially mitigated by reduced amortization costs of 1.1 million in 2002 as a result of the Company's adoption of
+Statement of Financial Accounting Standards ("SFAS") No. 142, "Goodwill and Other Intangible Assets" (see Note 5 to the
+consolidated financial statements). 
+
+Research and Development 
+
+Research and development expenses for the fiscal year ended
+November 2, 2003, decreased 0.6 to 30.0 million, or 8.6 of net sales, from 30.2 million, or 7.8 of net sales in fiscal 2002.
+Research and development expenses consists primarily of the global development efforts of high-end process technologies for
+advanced, sub wavelength reticle solutions in Next Generation Lithography ("NGL") applications which include the Company's five
+installed nano-technology line tool sets. 
+
+Research and development expenses for the fiscal year ended
+November 3, 2002, increased 21.3 to 30.2 million, or 7.8 of net sales, from 24.9 million, or 6.6 of net sales in fiscal 2001.
+The increase in fiscal year 2002 is attributable to the continuing global development efforts of high-end process technologies for
+advanced, sub wavelength reticle solutions in NGL applications. 
+
+Consolidation, Restructuring and Related Charges 
+
+Since 2001, the Company has closed four manufacturing
+facilities in North America and one in Europe due in part to the migration of semiconductor manufacturing to Asia and excess
+capacity associated with decreased demand. The decision to close facilities in North America corresponded to the decreased North
+American sales volume. The Company's North American net sales declined from 241.9 million in fiscal 2001 to 194.3 million in
+fiscal 2002, and to 142.0 million in fiscal 2003. The decline in North America sales from 2001 to 2003 resulted in increased North
+America operating losses during 2002 and 2003. The decline in sales volume and operating profits in North America was attributable
+to the Company's customers migrating their business to lower cost foundries, primarily located in Asia. This created excess
+capacity in the United States. Competitive pricing pressures and weakened demand further eroded the Company's United States
+operating results. 
+
+In March of 2003, the Company initiated a plan to close its
+Phoenix, Arizona manufacturing facility and further consolidate its North American manufacturing network in order to increase
+capacity utilization and manufacturing efficiencies. Total consolidation and related charges of 42.0 million were recorded during
+the second quarter of fiscal 2003. Components of the charge include 3.4 million for workforce reduction of approximately 170
+employees in the United States, 4.4 million for facility lease payments, and 34.2 million of non-cash charges for the impairment
+in carrying value of fixed assets. The majority of the photomasks produced at the Company's Arizona facility were cross-qualified
+with other United States manufacturing sites. Consequently, the decision to close the Phoenix, Arizona facility had minimal impact
+on United States production or customer service. 
+
+In August 2002, the Company implemented a plan to reduce its
+operating cost structure by reducing its work force in the United States by approximately 135 employees and by ceasing the
+manufacture of photomasks at its Milpitas, California facility. Total consolidation and related charges of 14.5 million were
+recorded in the fourth quarter of fiscal 2002. Of the total charge, 10.5 million was non-cash for the impairment in carrying value
+of fixed assets, 2.5 million of cash charges for severance and benefits for terminated employees that will be paid during their
+entitlement periods and 1.5 million of cash charges for facilities closing costs as well as lease termination costs. 
+
+In April 2001, the Company initiated a plan to consolidate
+its global photomask manufacturing network in order to increase capacity utilization and manufacturing efficiencies, as well as
+accelerate the expansion of its world-class technology development. Total consolidation and related charges associated with this
+plan of 38.1 million were recorded in the second quarter of fiscal 2001. Of the total charge, 30.6 million related to this plan
+and 7.5 million related to the impairment of intangible assets that no longer had any future economic benefit to the Company. A
+significant component of this associated plan included the closing of the former Align-Rite manufacturing facilities in Burbank,
+California, Palm Bay, Florida and Heilbronn, Germany which resulted in a reduction in work force of approximately 120 employees.
+The 
+
+-13- 
+
+consolidation charge of 30.6 million includes 4.0 million of cash charges for severance
+benefits for terminated employees paid during their entitlement periods, 4.5 million for facilities closings and lease termination
+costs expended over the projected lease terms, and non-cash charges of 22.1 million that approximated the carrying value of fixed
+assets that were primarily associated with this plan based upon their expected disposition. 
+
+The following tables set forth the Company's restructuring
+reserves as of November 2, 2003, November 3, 2002 and October 31, 2001 and reflect the activities affecting the reserves for years
+then ended: 
+
+Year Ended 
+ November 2, 2003 
+
+November 3, 
+ 2002 
+
+November 2, 
+ 2003 
+
+Balance 
+
+Charges 
+
+Credits 
+
+Balance 
+
+Manufacturing capacity reduction 
+ and other 
+
+4,268 
+
+38,575 
+
+(36,988) 
+
+5,855 
+
+Workforce reductions 
+
+1,691 
+
+3,425 
+
+(3,617) 
+
+1,499 
+
+Total 
+
+5,959 
+
+42,000 
+
+(40,605) 
+
+7,354 
+
+Year Ended 
+
+November 3, 2002 
+
+October 31, 
+
+November 3, 
+
+2001 
+
+2002 
+
+Balance 
+
+Charges 
+
+Credits 
+
+Balance 
+
+Manufacturing capacity reduction 
+ and other 
+
+4,990 
+
+12,025 
+
+(12,747) 
+
+4,268 
+
+Workforce reductions 
+
+2,567 
+
+2,475 
+
+(3,351) 
+
+1,691 
+
+Total 
+
+7,557 
+
+14,500 
+
+(16,098) 
+
+5,959 
+
+Year Ended 
+
+October 31, 2001 
+
+October 31, 
+ 2000 
+
+October 31, 
+ 2001 
+
+Balance 
+
+Charges 
+
+Credits 
+
+Balance 
+
+Manufacturing capacity reduction 
+ and other 
+
+- 
+
+34,134 
+
+(29,144) 
+
+4,990 
+
+Workforce reductions 
+
+- 
+
+3,966 
+
+(1,399) 
+
+2,567 
+
+Total 
+
+- 
+
+38,100 
+
+(30,543) 
+
+7,557 
+
+As of November 2, 2003, the Company anticipates that
+substantially all of the 1.5 million relating to workforce reductions will be paid by the end of the second quarter of fiscal year
+2004, and non-cancelable lease obligations and other of 5.9 million will be paid over the respective lease terms through
+2009. 
+
+-14- 
+
+Other Income (Expense) 
+
+Interest expense for the fiscal year ended November 2, 2003
+decreased by 3.0 million to 14.8 million as compared to 17.8 million for fiscal 2002. The decrease is primarily the result of
+reduced overall effective borrowing rates, partially offset by increased borrowings. Investment and other income, net, during
+fiscal 2003 decreased by 1.4 million to 3.1 million as compared to 4.5 million in fiscal 2002 primarily due to a 2.6 million
+gain on the repurchase of 41.2 million of the Company's 6 convertible subordinated notes in 2002. 
+
+Interest expense for the year ended November 3, 2002
+increased by 5.8 million to 17.8 million as compared to 12.0 million for 2001, primarily the result of a 200 million, 4.75 
+convertible subordinated notes offering completed in December 2001 and additional borrowings associated with the Company's
+investments in Asia. Investment and other income, net, during fiscal 2002 increased by 1.8 million to 4.5 million as compared to
+ 2.7 million in fiscal 2001 primarily due to a 2.6 million gain on the repurchase of 41.2 million of the Company's 6 convertible
+subordinated notes. 
+
+Income Taxes 
+
+The Company's operations have followed the recent migration
+of semiconductor industry fabrication to Asia, where the Company operates in countries where it is accorded favorable tax
+jurisdictions. The Company is accorded tax holidays in Taiwan and Singapore, which expire in 2006 and 2005, respectively. In Korea,
+various investment tax credits have been utilized to reduce the Company's effective income tax rate. 
+
+The provision for income taxes for the fiscal year ended
+November 3, 2003 was 0.9 million or 2.0 of pretax loss. The effective rate of a 2 provision differs from the federal statutory
+rate of a 35 benefit as a result of the Company's inability to record additional deferred tax benefits for net operating losses in
+the United States. Other factors contributing to the effective tax rate in 2003 include income from geographic regions for which
+the Company has tax holidays and available tax credits, including Taiwan and Korea. 
+
+For the fiscal year ended November 3, 2002 the Company
+recognized an income tax benefit of 7.0 million or 59.1 of the pretax loss. The loss was a result of the Company's consolidation
+plan charge, which primarily impacted United States tax rates, and a significant increase in the Company's operations during 2002
+in tax jurisdictions where the Company has tax holidays and available tax credits. The availability of tax holidays in some Asian
+jurisdictions did not play a significant role in the Company's decision to close some of its North American facilities nor in the
+Company's increased Asian presence which is in response to fundamental changes taking place in the semiconductor industry that the
+Company serves. As semiconductor fabrication has migrated to Asia, in large part from the United States, the Company has followed,
+in order to avoid a severe loss of business. 
+
+Minority Interest in Consolidated Subsidiaries 
+
+Minority interest charges were 5.6 million for the fiscal
+year ended November 2, 2003 and 6.4 million for the fiscal year ended November 3, 2002, and reflected the minority interest in
+earnings of the Company's non-wholly owned subsidiaries located in Taiwan and Korea. The decrease in minority interest charge
+compared to the prior year was due to the Company's ownership interest in PKL increasing by 28 in April 2002. 
+
+The minority interest charge of 5.6 million in fiscal 2003,
+ 6.4 million in fiscal 2002 and 4.7 million in fiscal 2001 reflected the portion of income attributable to the minority
+shareholders of the Company's non-wholly owned subsidiaries. 
+
+Liquidity and Capital Resources 
+
+On April 15, 2003, the Company sold 150.0 million of its
+2.25 convertible subordinated notes due 2008 in a private offering pursuant to Rule 144A under the Securities Act of 1933. These
+notes are convertible into the Company's common stock at a conversion price of 15.89 per share. Net proceeds from the issuance
+amounted to approximately 145.2 million. On June 2, 2003, a portion of the net proceeds was used to redeem all 62.1 million of
+the Company's outstanding 6 convertible subordinated notes due 2004. Pursuant to the terms of the related indenture, the 6 
+convertible subordinated notes were redeemed at 100.8571 of the principal amount plus accrued interest of 1.9 million for an
+aggregate redemption price of 64.5 million, including a premium of 0.5 million. An early extinguishment charge of 
+
+-15- 
+
+0.9 million was incurred on the redemption of the 6 convertible subordinated notes. This
+charge included the aforementioned 0.5 million premium and 0.4 million of unamortized deferred financing costs which were
+expensed at the time of redemption. 
+
+On December 12, 2001, the Company sold 200 million of 4.75 
+convertible subordinated notes due 2006 in a private offering pursuant to Rule 144A under the Securities Act of 1933. These notes
+are convertible into the Company's common stock at a conversion price of 37.00 per share. Total net proceeds from the issuance
+amounted to approximately 193.2 million. Concurrently with the issuance of these notes, on December 12, 2001 the Company repaid
+all of its outstanding borrowings under its previous revolving credit agreement which amounted to 57.7 million and terminated the
+agreement. 
+
+The Company regularly reviews the availability and terms on
+which it might issue additional equity or debt securities in the public or private markets. 
+
+The Company has a credit agreement, that expires in July
+2005, with a group of financial institutions that provides for a revolving credit facility with an aggregate commitment of 100
+million. The credit facility allows for borrowings in various currencies with an interest rate that is based on the terms of the
+agreement and will vary based on currencies borrowed and market conditions. During most of 2003, the Company had borrowed 10.9
+million in Korean won denominated borrowings which had an effective interest rate of approximately 7 . The Company repaid all of
+its outstanding borrowings 10.9 million in Korean won) under the 100 million credit facility in October 2003. The facility fee
+is 0.4 of the total aggregate commitment. The credit facility agreement contains various financial and other covenants, including,
+but not limited to: Defined maximum ratio of senior funded debt to EBITDA, Minimum EBITDA to interest expense, Minimum consolidated
+net worth and cash balances, Limitation on cash dividends available for payment to shareholders and annual capital expenditures. As
+of November 2, 2003, approximately 70 million was available under the facility. On April 9, 2003, the credit facility was amended
+to relax certain financial covenants as a result of the Company's March 2003 consolidation plan and the Company's issuance of 150
+million of convertible subordinated notes. 
+
+The Company's working capital at November 2, 2003 was 258.5
+million compared with 142.0 million at November 3, 2002. The increase in working capital was primarily associated with the net
+proceeds of the Company's 150.0 million of convertible subordinated notes issued in April 2003 partially offset by the redemption
+of all 62.1 million of the Company's 6 convertible subordinated notes. Cash, cash equivalents and short-term investments at
+November 2, 2003 were 231.8 million compared to 129.1 million at November 3, 2002. Cash provided by operating activities for the
+fiscal year ended November 2, 2003 decreased to 83.2 million from 136.4 million for the fiscal year ended November 3, 2002, due
+in part to the increased net loss in fiscal 2003 and payments for certain capital equipment which was accrued for at November 3,
+2002. 
+
+Cash used by investing activities of 48.0 million consisted
+principally of capital equipment purchases of 47.0 million. The Company expects capital expenditures for fiscal 2004 to be
+approximately 75.0 - 85.0 million. Capital expenditures for fiscal 2004 will be used primarily to continue to expand the
+Company's high-end technical capability. 
+
+Cash provided by financing activities of 64.1 million
+consisted principally of the proceeds from the issuance of the Company's 2.25 convertible subordinated notes of 145.2 million
+offset by the redemption of the Company's 6 convertible subordinated notes and other net debt repayments of 23.9 million. 
+ In the third quarter of fiscal 2003, the Company repurchased all 62.1 million of its 6 convertible subordinated
+notes for total consideration of 62.6 million, which included a premium of 0.5 million. The Company
+believes that its currently available resources, together with its capacity for growth and its accessibility to debt and equity
+financing sources, are sufficient to satisfy its cash requirements for the foreseeable future. 
+
+The Company's commitments represent investments in
+additional manufacturing capacity as well as advanced equipment for the production of high-end, more complex photomasks. At
+November 2, 2003, the Company had commitments outstanding for capital expenditures of approximately 33.0 million. Additional
+commitments for capital requirements are expected to be incurred during fiscal 2004. 
+
+-16- 
+
+Cash Requirements 
+
+The Company's cash requirements over the next 12 months will
+be primarily to fund operations, including spending on research and development, capital expenditures and debt service, as well as
+any cash acquisitions that it may undertake. The Company expects that cash and cash equivalents on hand and cash generated from
+operations will be sufficient to meet its cash requirements for the next 12 months. However, the Company cannot assure that
+additional sources of financing would be available to the Company on commercially favorable terms should the Company's capital
+requirements exceed cash available from operations. 
+
+Contractual Cash Obligations 
+
+The following table quantifies the Company's future
+contractual obligations as of November 2, 2003 (in millions): 
+
+Payments Due in Fiscal 
+
+Total 
+
+2004 
+
+2005 
+ 
+ 2006 
+
+2007 
+ 
+ 2008 
+
+Thereafter 
+
+Long-term debt 
+
+373.8 
+
+5.5 
+
+16.1 
+
+352.2 
+
+- 
+
+Operating leases 
+
+7.1 
+
+2.0 
+
+3.7 
+
+1.0 
+
+0.4 
+
+Unconditional purchase 
+ obligations 
+
+45.2 
+
+38.3 
+
+6.9 
+
+- 
+
+- 
+
+Total 
+
+426.1 
+
+45.8 
+
+26.7 
+
+353.2 
+
+0.4 
+
+Certain Transactions 
+
+The Chairman of the Board of the Company is also the
+Chairman of the Board and majority shareholder of a company who is a supplier of secure managed information technology services.
+Another director of the Company is also an employee and a director of this company. In 2002, the Company entered into a fifty-two
+month service contract with this company to provide services to all of the Company's worldwide facilities at a cost of
+approximately 3.2 million per year. In 2003, the Company has entered into additional contracts with this company ranging from 12
+months to 52 months to provide additional services for approximately 0.7 million per year. The Company incurred expenses of 3.9
+million in 2003 and 2.4 million in 2002 related to services provided by this company, of which the amount owed to this company was
+ 0.5 million at November 2, 2003 and 0.3 million at November 3, 2002. 
+
+An officer of the Company is also the CEO,
+president and director of one of the Company's majority held subsidiaries that purchases photomask blanks from a company of which
+he is a significant shareholder. In 2003, the Company purchased 2.2 million of photomask blanks from this company of which 0.4
+million was owed to this company as of November 2, 2003. 
+
+The Company believes that the terms of the transactions
+described above with affiliated persons were negotiated at arm's-length and were no less favorable to the Company than the Company
+could have obtained from non-affiliated parties. 
+
+Application of Critical Accounting Procedures 
+
+The
+Company's consolidated financial statements are based on the selection and application of significant accounting policies, which
+require management to make significant estimates and assumptions. The Company believes that the following are some of the more
+critical judgment areas in the application of the Company's accounting policies that affect its financial condition and results of
+operations. 
+
+-17- 
+
+Estimates and Assumptions 
+
+The preparation of financial statements in conformity with
+accounting principles generally accepted in the United States of America requires management to make estimates and assumptions that
+affect amounts reported in them. Management bases its estimates on historical experience and on various other assumptions that are
+believed to be reasonable under the circumstances. The Company's estimates are based on the facts and circumstances available at
+the time; different reasonable estimates could have been used in the current period, and changes in the accounting estimates used
+are likely to occur from period to period, which may have a material impact on the presentation of the Company's financial
+condition and results of operations. Actual results reported by the Company may differ from such estimates. The Company reviews
+these estimates periodically and reflects the effect of revisions in the period that they are determined. 
+
+Derivative Instruments and Hedging Activities 
+
+The Company records derivatives on the consolidated balance
+sheet as assets or liabilities, measured at fair value. Gains or losses resulting from changes in the values of those derivatives
+are reported in the consolidated statements of operations or as accumulated other comprehensive income (loss), a separate component
+of shareholders' equity, depending on the use of the derivatives and whether they qualify for hedge accounting. In order to qualify
+for hedge accounting, the derivative must be highly effective in achieving offsetting changes in fair value or cash flows of the
+hedged items during the term of the hedge. The Company uses judgment in assessing the fair value of derivatives and related
+financial instruments including assumptions utilized in derivative fair value models in such areas as projected interest rates and
+changes in the Company's stock price during the contract term. 
+
+Property, Plant and Equipment 
+
+Property, plant and equipment is stated at cost less
+accumulated depreciation and amortization. Repairs and maintenance as well as renewals and replacements of a routine nature are
+charged to operations as incurred, while those which improve or extend the lives of existing assets are capitalized. Upon sale or
+other disposition, the cost of the asset and accumulated depreciation are removed from the accounts, and any resulting gain or loss
+is reflected in operations. 
+
+Depreciation and amortization are computed on the
+straight-line method over the estimated useful lives of the related assets. Buildings and improvements are depreciated over 15 to
+40 years, machinery and equipment over 3 to 10 years and furniture, fixtures and office equipment over 3 to 5 years. Leasehold
+improvements are amortized over the life of the lease or the estimated useful life of the improvement, whichever is less. Judgment
+and assumptions are used in establishing estimated useful lives and depreciation periods. The Company also uses judgment and
+assumptions as it periodically reviews property, plant and equipment for any potential impairment in carrying values whenever
+events such as a significant industry downturn, plant closures, technological obsolescence or other changes in circumstances
+indicate that their carrying amount may not be recoverable. Actual fair values may differ from estimated fair values. 
+
+Intangible Assets 
+
+Intangible assets consist primarily of goodwill and other
+acquisition-related intangibles, and software development costs. These assets are stated at fair value as of the date acquired less
+accumulated amortization. Amortization is calculated on a straight-line basis over an estimated useful life of 5 years for software
+development costs and, prior to November 1, 2001, 3 to 15 years for goodwill and acquisition-related assets. As a result of the
+adoption of SFAS No. 142, goodwill is no longer amortized, but the future economic benefit of the carrying value of all intangible
+assets is reviewed annually and whenever events or changes in circumstances indicate the carrying value of an intangible asset may
+not be recoverable based on discounted cash flows or market factors, an impairment loss would be recorded in the period so
+determined. 
+
+-18- 
+
+Impairment of Long-Lived Assets 
+
+Long-lived assets and certain identifiable assets to be held
+and used are reviewed for impairment whenever events or changes in circumstances indicate that the carrying amount of such assets
+may not be recoverable. Determination of recoverability is based on the Company's estimate of undiscounted future cash flows
+resulting from the use of the asset and its eventual disposition. Measurement of an impairment loss for long-lived assets and
+certain identifiable intangible assets that management expects to hold and use is based on the fair value of the asset. Long-lived
+assets and certain identifiable intangible assets to be disposed of are reported at the lower of carrying amount or fair value less
+costs to sell. 
+
+Income Taxes 
+
+The income tax provision (benefit) is computed on the basis
+of consolidated financial statement income or loss before income taxes. Deferred income taxes reflect the tax effects of
+differences between the carrying amounts of assets and liabilities for financial reporting purposes and the amounts used for income
+tax purposes. In the event the Company determines that future taxable income is not expected to be sufficient, the Company uses
+judgment and assumptions to determine if valuation allowances for deferred income tax assets are required by considering future
+market growth, forecasted operations, future taxable income, and the mix of earnings in the tax jurisdictions in which it operates
+in order to determine the need for a valuation allowance. 
+
+The Company considers income taxes in each of the tax
+jurisdictions in which it operates in order to determine its effective income tax rate. Current income tax exposure is identified
+along with assessing temporary differences resulting from differing treatment of items for tax and financial reporting purposes.
+These differences result in deferred tax assets and liabilities, which are included in the Company's consolidated balance sheets.
+The actual annual amount of taxable income in each tax jurisdiction may differ from the estimates used to compute the effective
+income tax rate during the first, second and third quarters. Additionally, the Company evaluates the recoverability of deferred
+income tax assets from future taxable income and establishes valuation allowances if recovery is deemed not likely. Accordingly,
+the income tax provision in the consolidated statements of operations is impacted by changes in the valuation allowance.
+Significant management estimates and judgment are required in determining any valuation allowance recorded against net deferred tax
+assets. 
+
+Revenue Recognition 
+
+The Company recognizes revenue upon shipment of goods to
+customers. The Company makes estimates and assumptions and uses judgment relating to discounts and estimates for product return and
+warranties, which are accrued and recognized at the time of sale. 
+
+Discounts - Sales discounts are negotiated
+with customers prior to billing and at the time of billing, sales invoices are prepared net of negotiated sales
+discounts. 
+
+Product
+Returns - Customer returns have historically been insignificant. However, the Company does
+record a liability for the insignificant amount of estimated sales returns based upon historical experience. 
+
+Warranties and Other Post
+Shipment Obligations - For a 30-day period, the Company warrants that items sold will conform
+to customer specification. However, the Company's liability is limited to repair or replacement of the photomasks at its sole
+option. The Company inspects photomasks for conformity to customer specifications prior to shipment. Accordingly, customer returns
+of items under warranty have historically been insignificant. However, the Company records a liability for the insignificant amount
+of estimated warranty returns based on historical experience. The Company's specific return policies include accepting returns for
+products with defects, or products that have not been produced to precise customer specifications. At the time of shipment, a
+liability is established for these items. 
+
+Customer Acceptance - As title and risk of
+loss pass upon delivery to common carriers or hand delivery to the customer, customer acceptance occurs concurrently with
+delivery. 
+
+Arrangements with Distributors - The Company does not
+sell to distributors. 
+
+-19- 
+
+Allowance for Doubtful Accounts - The Company is
+required to use considerable judgment in estimating the collectibility of its accounts receivable. This estimate is based on a
+variety of factors, including the length of time receivables are past due, macroeconomic conditions, significant one-time events,
+and historical experience. 
+
+Effect of New Accounting Standards 
+
+In May 2003, the FASB issued SFAS No. 150, "Accounting for
+Certain Financial Instruments with Characteristics of both Liabilities and Equity." This statement requires that an issuer classify
+financial instruments that are within its scope as a liability. Many of those instruments were classified as equity under previous
+guidance. Most of the guidance in SFAS No. 150 is effective for all financial instruments entered into or modified after May 31,
+2003, and otherwise effective at the beginning of the first interim period beginning after June 15, 2003. On November 5, 2003, the
+FASB issued FAS 150-3 which deferred the effective date of SFAS No. 150 indefinitely for certain mandatory redeemable non
+controlling interests. In addition, on November 7, 2003 the FASB issued FSP No. FAS 150-4, which states that employee stock
+ownership plan shares (ESOP) which are mandatorily redeemable or free standing agreements to repurchase ESOP shares are not within
+the scope of Statement 150. Management has evaluated the provisions of this statement, and does not believe it has an impact on the
+Company's consolidated financial statements. 
+
+ITEM 7A. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK 
+
+The Company records derivatives on the balance sheet as
+assets or liabilities, measured at fair value. Gains or losses resulting from changes in the values of those derivatives are
+reported in the statement of operations or as accumulated other comprehensive income (loss), a separate component of shareholders'
+equity, depending on the use of the derivatives and whether they qualify for hedge accounting. In order to qualify for hedge
+accounting, the derivative must be highly effective in achieving offsetting changes in fair value or cash flows of the hedged items
+during the term of the hedge. In general, the types of risks hedged are those relating to the variability of future cash flows
+caused by movements in foreign currency exchange rates. The Company documents its risk management strategy and hedge effectiveness
+at the inception of and during the term of each hedge. 
+
+In the fourth quarter of fiscal year 2002, the Company
+entered into an interest rate swap contract, which effectively converted 100 million of its 4.75 fixed rate convertible
+subordinated notes to a variable rate. Contract payments are made on a LIBOR based variable rate (2.49 at November 2, 2003) and
+are received at the 4.75 fixed rate. 
+
+The interest rate swap contract is used to adjust the
+proportion of total debt that is subject to fixed interest rates. This contract is considered to be a hedge against interest rate
+risk of the Company's fixed rate debt obligation. Accordingly, the contract has been reflected at fair value in the Company's
+consolidated balance sheets and the related portion of fixed rate debt being hedged is reflected at an amount equal to the sum of
+its carrying value plus an adjustment representing the change in fair value of the debt obligation attributable to the interest
+rate risk being hedged. In addition, changes during any accounting period in the fair value of the contract, as well as offsetting
+changes in the adjusted carrying value of the related portion of fixed rate debt being hedged, are recognized as adjustments to
+interest expense in the Company's consolidated statements of operations. The net effect of this accounting on the Company's
+operations results is that the interest expense portion of fixed rate debt being hedged is generally recorded based on variable
+rates. At this time, the Company does not have plans to enter into additional interest rate swap contracts, however, at a future
+point the Company may decide to do so. 
+
+-20- 
+
+Foreign Currency Exchange Rate Risk 
+
+The Company conducts business in several major international
+currencies through its worldwide operations and is subject to changes in foreign exchange rates of such currencies. Changes in
+exchange rates can positively or negatively affect the Company's sales, operating margins and retained earnings. The functional
+currencies of the Company's Asian subsidiaries are the Korean won, New Taiwan dollar and Singapore dollar. The functional
+currencies of the Company's European subsidiaries are the British pound and euro. 
+
+The Company attempts to minimize its risk to foreign
+currency transaction losses by producing its products in the same country in which the products are sold and thereby generating
+revenues and incurring expenses in the same currency and by managing its working capital. However, there can be no assurance that
+this approach will be successful, especially in the event of a significant adverse movement in the value of any foreign currencies
+against the United States dollar. The Company does not engage in purchasing forward exchange contracts for speculative
+purposes. 
+
+The Company's primary net foreign currency exposures as of
+November 2, 2003 included the Korean won and the Singapore dollar. As of November 2, 2003, a 10 adverse movement in the value of
+these currencies against the United States dollar would have resulted in a net unrealized pre-tax loss of 2.7 million. The
+Company's exposure to other foreign currency risks include the Japanese yen, euro, and British pound and the Company does not
+believe that a 10 change in the exchange rates of these currencies would have a material effect on its consolidated financial
+position, results of operations or cash flows. 
+
+Interest Rate Risk 
+
+The majority of the Company's borrowings are in the form of
+its convertible subordinated notes, which bear interest at rates of 2.25 and 4.75 and certain foreign secured and unsecured notes
+payable which bear interest at rates between 1.7 and 6.5 . In addition, the interest rate swap contract discussed above subjects
+the Company to market risk as interest rates fluctuate and impacts the interest payments due on the 100 million notional amount of
+the contract. At November 2, 2003, the Company had approximately 120 million in variable rate financial instruments which were
+sensitive to interest rate risk. The Company does not believe a 10 change in interest rates would have a material effect on its
+consolidated financial position, results of operations or cash flows. 
+
+-21- 
+
+ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA 
+
+INDEX TO CONSOLIDATED FINANCIAL STATEMENTS 
+
+Page 
+
+Independent Auditors' Report 
+
+23 
+
+Consolidated Balance Sheets at 
+ November 2, 2003 and November 3, 2002 
+
+24 
+
+Consolidated Statements of Operations 
+ for the years ended November 2, 2003, November 3, 2002 and October 31, 2001 
+
+25 
+
+Consolidated Statements of Shareholders' Equity 
+ for the years ended November 2, 2003, November 3, 2002 and October 31, 2001 
+
+26 
+
+Consolidated Statements of Cash Flows 
+ for the years ended November 2, 2003, November 3, 2002 and October 31, 2001 
+
+27 
+
+Notes to Consolidated Financial Statements 
+
+28 
+
+-22- 
+
+INDEPENDENT AUDITORS' REPORT 
+
+Board of Directors and Shareholders 
+Photronics, Inc. 
+Brookfield, Connecticut 
+
+We have audited the accompanying consolidated balance sheets
+of Photronics, Inc. and subsidiaries as of November 2, 2003 and November 3, 2002, and the related consolidated statements of
+operations, shareholders' equity, and cash flows for each of the three fiscal years ended November 2, 2003, November 3, 2002 and
+October 31, 2001. These consolidated financial statements are the responsibility of the Company's management. Our responsibility is
+to express an opinion on these consolidated financial statements based on our audits. 
+
+We conducted our audits in accordance with auditing
+standards generally accepted in the United States of America. Those standards require that we plan and perform the audit to obtain
+reasonable assurance about whether the financial statements are free of material misstatement. An audit includes examining, on a
+test basis, evidence supporting the amounts and disclosures in the financial statements. An audit also includes assessing the
+accounting principles used and significant estimates made by management, as well as evaluating the overall financial statement
+presentation. We believe that our audits provide a reasonable basis for our opinion. 
+
+In our opinion, such consolidated financial statements
+present fairly, in all material respects, the financial position of Photronics, Inc. and subsidiaries as of November 2, 2003 and
+November 3, 2002, and the results of their operations and their cash flows for each of the three fiscal years ended November 2,
+2003, November 3, 2002 and October 31, 2001 in conformity with accounting principles generally accepted in the United States of
+America. 
+
+As discussed in Note 5 to the consolidated financial
+statements, in 2002 the Company changed its method of accounting for goodwill and other intangible assets to conform to Statement
+of Financial Accounting Standards No. 142 "Goodwill and Other Intangible Assets." 
+
+DELOITTE TOUCHE LLP 
+Hartford, Connecticut 
+December 5, 2003 
+
+-23- 
+
+PHOTRONICS, INC. AND SUBSIDIARIES 
+
+Consolidated Balance Sheets 
+
+(in thousands, except per share amounts) 
+
+November 2, 
+ 2003 
+
+November 3, 
+ 2002 
+
+ASSETS 
+
+Current assets: 
+
+Cash and cash equivalents 
+
+214,777 
+
+113,944 
+
+Short-term investments 
+
+17,036 
+
+15,148 
+
+Accounts receivable (less allowance for doubtful accounts 
+ of 2,828 in 2003 and 1,840 in 2002) 
+
+59,579 
+
+62,545 
+
+Inventories 
+
+14,329 
+
+19,948 
+
+Deferred income taxes 
+
+27,469 
+
+21,270 
+
+Other current assets 
+
+6,692 
+
+16,205 
+
+Total current assets 
+
+339,882 
+
+249,060 
+
+Property, plant and equipment, net 
+
+387,977 
+
+443,860 
+
+Goodwill and other intangible assets, net 
+
+118,892 
+
+121,217 
+
+Other assets 
+
+18,789 
+
+18,305 
+
+865,540 
+
+832,442 
+
+LIABILITIES AND SHAREHOLDERS' EQUITY 
+
+Current liabilities: 
+
+Current portion of long-term debt and notes payable 
+
+5,505 
+
+10,649 
+
+Accounts payable 
+
+43,997 
+
+57,401 
+
+Accrued liabilities 
+
+31,871 
+
+38,982 
+
+Total current liabilities 
+
+81,373 
+
+107,032 
+
+Long-term debt 
+
+368,307 
+
+296,785 
+
+Deferred income taxes 
+
+42,435 
+
+33,330 
+
+Other liabilities 
+
+12,288 
+
+11,209 
+
+Total liabilities 
+
+504,403 
+
+448,356 
+
+Minority interest 
+
+52,808 
+
+44,971 
+
+Shareholders' equity: 
+
+Preferred stock, 0.01 par value, 
+ 2,000 shares authorized, none issued and outstanding 
+
+- 
+
+- 
+
+Common stock, 0.01 par value, 
+ 150,000 shares authorized, 32,487 shares issued and outstanding 
+ at November 2, 2003 and 32,033 shares issued and outstanding 
+ at November 3, 2002 
+
+325 
+
+320 
+
+Additional paid-in capital 
+
+199,535 
+
+195,588 
+
+Retained earnings 
+
+110,201 
+
+158,363 
+
+Accumulated other comprehensive loss 
+
+(1,732) 
+
+(14,999) 
+
+Deferred compensation on restricted stock 
+
+- 
+
+(157) 
+
+Total shareholders' equity 
+
+308,329 
+
+339,115 
+
+865,540 
+
+832,442 
+
+See accompanying notes to consolidated financial statements. 
+
+-24- 
+
+PHOTRONICS, INC. AND SUBSIDIARIES 
+
+Consolidated Statements of Operations 
+
+(in thousands, except per share amounts) 
+
+Years Ended 
+
+November 2, 
+ 2003 
+
+November 3, 
+ 2002 
+
+October 31, 
+ 2001 
+
+Net sales 
+
+348,884 
+
+386,871 
+
+377,969 
+
+Cost and expenses: 
+
+Cost of sales 
+
+250,687 
+
+276,451 
+
+254,272 
+
+Selling, general and administrative 
+
+56,154 
+
+57,973 
+
+53,758 
+
+Research and development 
+
+29,965 
+
+30,154 
+
+24,858 
+
+Consolidation, restructuring and related charges 
+
+42,000 
+
+14,500 
+
+38,100 
+
+Operating income (loss) 
+
+(29,922) 
+
+7,793 
+
+6,981 
+
+Other income (expense): 
+
+Interest expense 
+
+(14,826) 
+
+(17,801) 
+
+(11,966) 
+
+Investment and other income, net 
+
+3,083 
+
+4,510 
+
+2,664 
+
+Loss before income tax provision (benefit) 
+ and minority interest 
+
+(41,665) 
+
+(5,498) 
+
+(2,321) 
+
+Income tax provision (benefit) 
+
+924 
+
+(7,019) 
+
+(3,000) 
+
+Income before minority interest 
+
+(42,589) 
+
+1,521 
+
+679 
+
+Minority interest in income of consolidated 
+ subsidiaries 
+
+(5,573) 
+
+(6,378) 
+
+(4,705) 
+
+Net loss 
+
+(48,162) 
+
+(4,857) 
+
+(4,026) 
+
+Loss per share: 
+
+Basic 
+
+(1.50) 
+
+(0.16) 
+
+(0.13) 
+
+Diluted 
+
+(1.50) 
+
+(0.16) 
+
+(0.13) 
+
+Weighted average number of common shares 
+ outstanding: 
+
+Basic 
+
+32,144 
+
+31,278 
+
+29,919 
+
+Diluted 
+
+32,144 
+
+31,278 
+
+29,919 
+
+See accompanying notes to consolidated financial statements. 
+
+-25- 
+
+PHOTRONICS , INC. AND SUBSIDIARIES 
+
+Consolidated Statements of Shareholders' Equity 
+
+Years Ended November 2, 2003, November 3, 2002, October 31,
+2001 
+
+(in thousands) 
+
+Accumulated Other 
+ Comprehensive Income (Loss) 
+
+Deferred 
+
+Total 
+
+Common Stock 
+ 
+ Shares Amount 
+
+Add'l 
+ Paid-In 
+ Capital 
+
+Retained 
+ Earnings 
+
+Unrealized 
+ Investment 
+ Gains 
+
+Cash 
+ Flow 
+ Hedges 
+
+Foreign 
+ Currency 
+ Translation 
+
+Total 
+
+Compensation 
+ on Restricted 
+ Stock 
+
+Share- 
+ holders' 
+ Equity 
+
+Balance at October 31, 2000 
+
+29,688 
+
+297 
+
+136,445 
+
+167,246 
+
+5,300 
+
+- 
+
+(15,177) 
+
+(9,877) 
+
+(131) 
+
+293,980 
+
+Comprehensive income: 
+
+Net loss 
+
+- 
+
+- 
+
+- 
+
+(4,026) 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+(4,026) 
+
+Change in unrealized gains 
+ on investments 
+
+- 
+
+- 
+
+- 
+
+- 
+
+(2,318) 
+
+- 
+
+- 
+
+(2,318) 
+
+- 
+
+(2,318) 
+
+Change in fair value of 
+ cash flow hedges 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+(431) 
+
+- 
+
+(431) 
+
+- 
+
+(431) 
+
+Foreign currency translation 
+ adjustment 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+(10,114) 
+
+(10,114) 
+
+- 
+
+(10,114) 
+
+Total comprehensive loss 
+
+- 
+
+- 
+
+- 
+
+(4,026) 
+
+(2,318) 
+
+(431) 
+
+(10,114) 
+
+(12,863) 
+
+- 
+
+(16,889) 
+
+Sale of common stock through 
+ employee stock option and 
+ purchase plans 
+
+588 
+
+6 
+
+9,933 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+9,939 
+
+Amortization of restricted stock 
+ to compensation expense 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+131 
+
+131 
+
+Balance at October 31, 2001 
+
+30,276 
+
+303 
+
+146,378 
+
+163,220 
+
+2,982 
+
+(431) 
+
+(25,291) 
+
+(22,740) 
+
+- 
+
+287,161 
+
+Comprehensive income: 
+
+Net loss 
+
+- 
+
+- 
+
+- 
+
+(4,857) 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+(4,857) 
+
+Change in unrealized gains 
+ on investments 
+
+- 
+
+- 
+
+- 
+
+- 
+
+(2,082) 
+
+- 
+
+- 
+
+(2,082) 
+
+- 
+
+(2,082) 
+
+Change in fair value of 
+ cash flow hedges 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+(691) 
+
+- 
+
+(691) 
+
+- 
+
+(691) 
+
+Foreign currency translation 
+ adjustment 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+10,514 
+
+10,514 
+
+- 
+
+10,514 
+
+Total comprehensive income (loss) 
+
+- 
+
+- 
+
+- 
+
+(4,857) 
+
+(2,082) 
+
+(691) 
+
+10,514 
+
+7,741 
+
+- 
+
+2,884 
+
+Sale of common stock through 
+ employee stock option and 
+ purchase plans 
+
+527 
+
+5 
+
+8,464 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+8,469 
+
+Issuance of common stock in 
+ connection with acquisition of 
+ additional shares of PKL 
+
+1,212 
+
+12 
+
+40,173 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+40,185 
+
+Restricted stock awards, 
+ net of amortization to 
+ compensation expense 
+
+18 
+
+- 
+
+573 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+(157) 
+
+416 
+
+Balance at November 3, 2002 
+
+32,033 
+
+320 
+
+195,588 
+
+158,363 
+
+900 
+
+(1,122) 
+
+(14,777) 
+
+(14,999) 
+
+(157) 
+
+339,115 
+
+Comprehensive income: 
+
+Net loss 
+
+- 
+
+- 
+
+- 
+
+(48,162) 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+(48,162) 
+
+Change in unrealized gains 
+ on investments 
+
+- 
+
+- 
+
+- 
+
+- 
+
+2,165 
+
+- 
+
+- 
+
+2,165 
+
+- 
+
+2,165 
+
+Change in fair value of 
+ cash flow hedges 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+112 
+
+- 
+
+112 
+
+- 
+
+112 
+
+Foreign currency translation 
+ adjustment 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+10,990 
+
+10,990 
+
+- 
+
+10,990 
+
+Total comprehensive income (loss) 
+
+- 
+
+- 
+
+- 
+
+(48,162) 
+
+2,165 
+
+112 
+
+10,990 
+
+13,267 
+
+- 
+
+(34,895) 
+
+Sale of common stock through 
+ employee stock option and 
+ purchase plans 
+
+442 
+
+5 
+
+3,753 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+3,758 
+
+Restricted stock awards, 
+ net of amortization to 
+ compensation expense 
+
+12 
+
+- 
+
+194 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+157 
+
+351 
+
+Balance at November 2, 2003 
+
+32,487 
+
+325 
+
+199,535 
+
+110,201 
+
+3,065 
+
+(1,010) 
+
+(3,787) 
+
+(1,732) 
+
+- 
+
+308,329 
+
+See accompanying notes to consolidated financial statements. 
+
+-26- 
+
+PHOTRONICS, INC. AND SUBSIDIARIES 
+
+Consolidated Statements of Cash Flows 
+
+(in thousands) 
+
+Years Ended 
+
+November 2, 
+ 2003 
+
+November 3, 
+ 2002 
+
+October 31, 
+ 2001 
+
+Cash flows from operating activities: 
+
+Net loss 
+
+(48,162) 
+
+(4,857) 
+
+(4,026) 
+
+Adjustments to reconcile net loss 
+ to net cash provided by operating activities: 
+
+Depreciation and amortization of property, 
+ plant and equipment 
+
+82,640 
+
+80,402 
+
+67,502 
+
+Amortization of intangible assets 
+
+2,457 
+
+2,785 
+
+5,473 
+
+Gain on repurchase of notes 
+
+- 
+
+(2,648) 
+
+- 
+
+Deferred income taxes 
+
+(2,661) 
+
+(938) 
+
+(6,031) 
+
+Restructuring and related charges 
+
+42,000 
+
+14,500 
+
+38,100 
+
+Other 
+
+2,262 
+
+1,479 
+
+(631) 
+
+Changes in assets and liabilities, 
+ net of effects of acquisitions: 
+
+Accounts
+receivable 
+
+4,716 
+
+9,996 
+
+(205) 
+
+Inventories 
+
+6,196 
+
+2,194 
+
+1,353 
+
+Other current
+assets 
+
+9,819 
+
+(11,562) 
+
+2,276 
+
+Accounts payable,
+accrued liabilities and other 
+
+(16,035) 
+
+45,051 
+
+9,768 
+
+Net cash provided by operating activities 
+
+83,232 
+
+136,402 
+
+113,579 
+
+Cash flows from investing activities: 
+
+Acquisitions of and investments in
+photomask 
+ operations, net of cash acquired 
+
+- 
+
+- 
+
+(48,864) 
+
+Deposits on and purchase of property,
+plant 
+ and equipment 
+
+(47,022) 
+
+(126,462) 
+
+(48,670) 
+
+Purchase of short-term investments 
+
+- 
+
+(15,000) 
+
+- 
+
+Proceeds from sales of investments and
+other 
+
+(930) 
+
+732 
+
+(1,026) 
+
+Net cash used in investing activities 
+
+(47,952) 
+
+(140,730) 
+
+(98,560) 
+
+Cash flows from financing activities: 
+
+Repayment of long-term debt, net 
+
+(86,535) 
+
+(115,174) 
+
+(24,828) 
+
+Proceeds from issuance of common stock and
+other 
+
+5,501 
+
+4,590 
+
+7,817 
+
+Proceeds from issuance of convertible debt,
+net 
+
+145,170 
+
+193,237 
+
+- 
+
+Net cash provided by (used in) financing activities 
+
+64,136 
+
+82,653 
+
+(17,011) 
+
+Effect of exchange rate changes on cash 
+
+1,417 
+
+935 
+
+(1,506) 
+
+Net increase (decrease) in cash and cash equivalents 
+
+100,833 
+
+79,260 
+
+(3,498) 
+
+Cash and cash equivalents at beginning of year 
+
+113,944 
+
+34,684 
+
+38,182 
+
+Cash and cash equivalents at end of year 
+
+214,777 
+
+113,944 
+
+34,684 
+
+See accompanying notes to consolidated financial statements. 
+
+-27- 
+
+PHOTRONICS, INC. AND SUBSIDIARIES 
+
+Notes to Consolidated Financial Statements 
+
+Years Ended November 2, 2003, November 3, 2002 and October 31,
+2001 
+
+(in thousands, except per share amounts 
+
+NOTE 1 - SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES 
+
+Business 
+
+Photronics, Inc. ("Photronics" or the "Company") is one of
+the world's leading manufacturers of photomasks, which are high precision photographic quartz plates containing microscopic images
+of electronic circuits. Photomasks are a key element in the manufacture of semiconductors and are used as masters to transfer
+circuit patterns onto semiconductor wafers during the fabrication of integrated circuits and, to a lesser extent, other types of
+electrical components. The Company operates principally from nine manufacturing facilities, three of which are located in the
+United States, three in Europe and one each in Korea, Singapore and Taiwan. 
+
+Consolidation 
+
+The accompanying consolidated financial statements include
+the accounts of Photronics and its majority-owned subsidiaries, in which the Company exercises control. All significant
+intercompany balances and transactions have been eliminated in consolidation. 
+
+Estimates and Assumptions 
+
+The preparation of financial statements in conformity with
+accounting principles generally accepted in the United States of America requires management to make estimates and assumptions that
+affect amounts reported in them. Actual results may differ from such estimates. 
+
+Derivative Instruments and Hedging Activities 
+
+The Company records derivatives on the consolidated balance
+sheets as assets or liabilities, measured at fair value. Gains or losses resulting from changes in the values of those derivatives
+are reported in the consolidated statements of operations or as accumulated other comprehensive income (loss), depending on the use
+of the derivatives and whether they qualify for hedge accounting. In order to qualify for hedge accounting, the derivative must be
+highly effective in achieving offsetting changes in fair value or cash flows of the hedged items during the term of the hedge. The
+Company uses judgment in assessing the fair value of derivatives and related financial instruments including assumptions utilized
+in derivative fair value models in such areas as projected interest rates and changes in the Company's stock price during the
+contract term. 
+
+Fiscal Year 
+
+The Company's fiscal year ends on the Sunday closest to
+October 31, and as a result, a 53 week year occurs every five to six years. Fiscal years 2003 and 2001 include 52 weeks, and fiscal
+year 2002 includes 53 weeks. 
+
+Cash and Cash Equivalents 
+
+Cash and cash equivalents include cash and highly liquid
+investments purchased with an original maturity of three months or less. The carrying values approximate fair values based on the
+short maturity of these instruments. 
+
+-28- 
+
+Investments 
+
+The Company's investments, comprised of marketable equity
+securities and fixed income bonds are classified as available-for-sale, and are carried at fair value. Investments available for
+current operations are classified in the consolidated balance sheets as current assets; investments held for long-term purposes are
+classified as non-current assets. Unrealized gains and losses, net of tax, are reported as other comprehensive income (loss) as a
+separate component of shareholders' equity. Gains and losses are included in income when realized, determined based on the
+disposition of specifically identified investments. 
+
+Inventories 
+
+Inventories, principally raw materials, are stated at the
+lower of cost, determined under the first-in, first-out (FIFO) method, or market. 
+
+Property, Plant and Equipment 
+
+Property, plant and equipment is stated at cost less
+accumulated depreciation and amortization. Repairs and maintenance as well as renewals and replacements of a routine nature are
+charged to operations as incurred, while those which improve or extend the lives of existing assets are capitalized. Upon sale or
+other disposition, the cost of the asset and accumulated depreciation are eliminated from the accounts, and any resulting gain or
+loss is reflected in operations. 
+
+Depreciation and amortization are computed on the
+straight-line method over the estimated useful lives of the related assets. Buildings and improvements are depreciated over 15 to
+40 years, machinery and equipment over 3 to 10 years and furniture, fixtures and office equipment over 3 to 5 years. Leasehold
+improvements are amortized over the life of the lease or the estimated useful life of the improvement, whichever is less. The
+Company periodically reviews property, plant, and equipment for any potential impairment in carrying values. Judgment and
+assumptions are used in establishing estimated useful lives and depreciation periods. 
+
+Intangible Assets 
+
+Intangible assets consist primarily of goodwill and other
+acquisition-related intangibles, and software development costs. These assets are stated at fair value as of the date acquired less
+accumulated amortization. Amortization is calculated on a straight-line basis over an estimated useful life of 5 years for software
+development costs and, prior to November 1, 2001, 3 to 15 years for goodwill and acquisition-related assets (see Note 5). As a
+result of the adoption of SFAS No. 142, the future economic benefit of the carrying value of certain intangible assets (see Note 5)
+is reviewed periodically and any diminution in useful life or impairment in value based on discounted cash flows or market factors
+would be recorded in the period so determined. 
+
+Impairment of Long-Lived Assets 
+
+Long-lived assets and certain identifiable assets to be held
+and used are reviewed for impairment whenever events or changes in circumstances indicate that the carrying amount of such assets
+may not be recoverable. Determination of recoverability is based on an estimate of discounted future cash flows resulting from the
+use of the asset and its eventual disposition. Measurement of an impairment loss for long-lived assets and certain identifiable
+intangible assets that management expects to hold and use is based on the fair value of the asset. Long-lived assets and certain
+identifiable intangible assets to be disposed of are reported at the lower of carrying amount or fair value less costs to
+sell. 
+
+Income Taxes 
+
+The income tax provision (benefit) is computed on the basis
+of consolidated financial statement income or loss before income taxes. Deferred income taxes reflect the tax effects of
+differences between the carrying amounts of assets and liabilities for financial reporting and the amounts used for income tax
+purposes. In the event the Company determines that future taxable income is not expected to be sufficient, the Company uses
+judgment and assumptions to determine if a valuation allowance for deferred income tax assets is required. 
+
+-29- 
+
+The Company considers income taxes in each of the tax
+jurisdictions in which it operates in order to determine its effective income tax rate. Current tax exposure is identified along
+with assessing temporary differences resulting from differing treatment of items for tax and financial reporting purposes. These
+differences result in deferred tax assets and liabilities, which are included in the Company's consolidated balance sheets. The
+actual annual amount of taxable income in each tax jurisdiction may differ from the estimates used to compute the effective tax
+rate during the first, second and third quarters. Additionally, the Company evaluates the recoverability of deferred tax assets
+from future taxable income and establishes valuation allowances if recovery is deemed not likely. Accordingly, the income tax
+provision in the consolidated statements of operations is impacted by changes in the valuation allowance. Significant management
+judgment is required in determining the Company's provision for income taxes, deferred tax assets and liabilities and any valuation
+allowance recorded against net deferred tax assets. 
+
+Earnings Per Share 
+
+Basic EPS is based on the weighted average number of common
+shares outstanding for the period, excluding any dilutive common share equivalents. Diluted EPS reflects the potential dilution
+that could occur if certain securities or other contracts to issue common stock were exercised or converted. 
+
+Stock-Based Compensation 
+
+The Company records stock option awards in accordance with
+the provisions of Accounting Principles Board Opinion 25, "Accounting for Stock Issued to Employees." The Company estimates
+the fair value of stock option awards in accordance with SFAS No. 123, "Accounting for Stock-Based Compensation," as amended by
+SFAS No. 148, "Accounting for Stock-Based Compensation - Transition and Disclosure, an Amendment of FASB Statement No. 123" and
+discloses the resulting estimated compensation effect on net income (loss) on a pro forma basis (See Note 10). 
+
+The Company has several stock option plans under which
+incentive and non-qualified stock options may be granted. The Company accounts for those plans under the recognition and
+measurement principles of APB Opinion No. 25, "Accounting for Stock Issued to Employees and Related Interpretations." 
+All options granted under those plans had an exercise price equal to the market value of the underlying common stock on the date of
+grant and therefore no related compensation expense is reflected in operations. The following table illustrates the effect on net
+loss and loss per share if the Company had applied the fair value recognition provisions of FASB Statement No. 123, "Accounting for
+Stock-based Compensation," to stock-based employee compensation. 
+
+Year Ended 
+
+November 2, 
+ 2003 
+
+November 3, 
+ 2002 
+
+October 31, 
+ 2001 
+
+Net
+loss 
+
+(48,162) 
+
+(4,857) 
+
+(4,026) 
+
+Deduct: Total stock-based compensation 
+ expense determined under fair value-based 
+ method for all awards, net of related tax 
+ effects 
+
+(4,392) 
+
+(4,072) 
+
+(3,219) 
+
+Pro-forma net loss 
+
+(52,554) 
+
+(8,929) 
+
+(7,245) 
+
+Basic loss per share: 
+
+As reported 
+
+(1.50) 
+
+(0.16) 
+
+(0.13) 
+
+Pro-forma 
+
+(1.63) 
+
+(0.29) 
+
+(0.24) 
+
+Diluted loss per share: 
+
+As reported 
+
+(1.50) 
+
+(0.16) 
+
+(0.13) 
+
+Pro-forma 
+
+(1.63) 
+
+(0.29) 
+
+(0.24) 
+
+-30- 
+
+The fair value is estimated based on the Black Scholes
+option-pricing model. The fair value and weighted average assumptions for each of the fiscal years ended November 2, 2003, November
+3, 2002 and October 31, 2001 are as follows: 
+
+Year Ended 
+
+November 2, 
+ 2003 
+
+November 3, 
+ 2002 
+
+October 31, 
+ 2001 
+
+Weighted average fair value of options granted 
+
+12.72 
+
+11.46 
+
+9.02 
+
+Volatility 
+
+65.0 
+
+70.9 
+
+75.2 
+
+Risk-free rate of return 
+
+3.1 
+
+3.0 
+
+6.0 
+
+Dividend yield 
+
+0.0 
+
+0.0 
+
+0.0 
+
+Expected average life 
+
+2 years 
+
+3 years 
+
+3 years 
+
+Foreign Currency Translation 
+
+The Company's foreign subsidiaries maintain their accounts
+in their respective local currencies. Assets and liabilities of such subsidiaries are translated to U.S. dollars at year-end
+exchange rates. Income and expenses are translated at average rates of exchange prevailing during the year. Foreign currency
+translation adjustments are accumulated and reported as other comprehensive income (loss) as a separate component of shareholders'
+equity. The effects of changes in exchange rates on foreign currency transactions are included in operations. 
+
+Minority Interest 
+
+Minority interest represents the minority shareholders'
+proportionate share in the equity of the Company's two majority owned subsidiaries, PKL LTD (Korea) and Photronics Semiconductor
+Mask Corporation (Taiwan) of which minority shareholders owned approximately 24 and 42 , respectively, as of November 2,
+2003. 
+
+Revenue Recognition 
+
+The Company recognizes revenue upon shipment of goods to
+customers. The Company makes estimates and assumptions and uses judgment relating to discounts and estimates for product return and
+warranties, which are accrued and recognized at the time of sale. 
+
+Discounts - Sales discounts are negotiated
+with customers prior to billing and at the time of billing, sales invoices are prepared net of negotiated sales
+discounts. 
+
+Product
+Returns - Customer returns have historically been insignificant. However, the Company does
+record a liability for the insignificant amount of estimated sales returns based upon historical experience. 
+
+Warranties and Other Post
+Shipment Obligations - For a 30-day period, the Company warrants that items sold will conform
+to customer specification. However, the Company's liability is limited to repair or replacement of the photomasks at its sole
+option. The Company inspects photomasks for conformity to customer specifications prior to shipment. Accordingly, customer returns
+of items under warranty have historically been insignificant. However, the Company records a liability for the insignificant amount
+of estimated warranty returns based on historical experience. The Company's specific return policies include accepting returns for
+products with defects, or products that have not been produced to precise customer specifications. At the time of shipment, a
+liability is established for these items. 
+
+Customer Acceptance - As title and risk of
+loss pass upon delivery to common carriers or hand delivery to the customer, customer acceptance occurs concurrently with
+delivery. 
+
+Arrangements with Distributors - The Company does not
+sell to distributors. 
+
+-31- 
+
+Reclassifications 
+
+Certain prior year amounts have been reclassified to conform
+to the current year presentation. 
+
+NOTE 2 - BUSINESS COMBINATIONS 
+
+Acquisition of PKL Ltd. 
+
+In 2001, the Company completed the acquisition of a majority
+of the total share capital of PKL Ltd. ("PKL"), a photomask manufacturer based in Korea for approximately 56 million. In April of
+2002, the Company acquired an additional 28 of PKL in exchange for 1,212,218 shares of Photronics common stock at a fair value of
+ 33.15 per share. As of November 2, 2003 the Company owned approximately 76 of PKL. The acquisition was accounted for as a
+purchase and accordingly goodwill in the aggregate of 69.4 million was recorded. The assets acquired and liabilities assumed were
+recorded at fair value and the excess purchase price was allocated to goodwill as there were no other identifiable intangible
+assets. The Company paid a premium for its investment in PKL to increase its Asian region presence for competitive advantage
+purposes. The operating results of PKL have been included in the consolidated statements of operations of the Company from August
+27, 2001, the date the Company acquired majority share. 
+
+The following table presents unaudited consolidated pro
+forma information as if the initial majority acquisition of PKL and the additional acquisition of approximately 28 of PKL had
+occurred as of the beginning of the fiscal years ended November 3, 2002 and October 31, 2001 (for the fiscal year ended November 2,
+2003 the information is the same as reported in the consolidated statement of operations): 
+
+Year Ended 
+
+November 3, 
+ 2002 
+
+October 31, 
+ 2001 
+
+Net sales 
+
+386,871 
+
+416,274 
+
+Net loss 
+
+(3,927) 
+
+(751) 
+
+Diluted loss per share 
+
+(0.13) 
+
+(0.03) 
+
+In management's opinion, these unaudited consolidated pro
+forma amounts for 2002 and 2001 are not necessarily indicative of what the actual combined results of operations might have been
+had the acquisitions of PKL stock occurred at the beginning of the periods presented. 
+
+NOTE 3 - INVESTMENTS 
+
+Short-term investments at November 2,
+2003 and November 3, 2002 consist of available-for-sale fixed income and marketable equity securities. Long-term investments 3,719 at November 2, 2003 and 2,554 at November 3, 2002) included in "Other Assets" primarily consist of available-for-sale
+equity securities, where fair values were determined based upon quoted market prices. For investments with no quoted market price,
+the estimated fair value is based upon the financial condition and the operating results and projections of the investee and is
+considered to approximate cost. Unrealized gains on investments were determined as follows: 
+
+November 2, 
+ 2003 
+
+November 3, 
+ 2002 
+
+Fair
+value 
+
+20,755 
+
+17,702 
+
+Cost 
+
+16,540 
+
+16,095 
+
+4,215 
+
+1,607 
+
+Less deferred income taxes 
+
+1,150 
+
+707 
+
+Net unrealized gains 
+
+3,065 
+
+900 
+
+-32- 
+
+NOTE 4 - PROPERTY, PLANT AND EQUIPMENT 
+
+Property, plant and equipment consists of the following: 
+
+November 2, 
+ 2003 
+
+November 3, 
+ 2002 
+
+Land 
+
+8,803 
+
+5,224 
+
+Buildings and improvements 
+
+51,113 
+
+43,526 
+
+Machinery and equipment 
+
+754,974 
+
+729,782 
+
+Leasehold improvements 
+
+21,603 
+
+23,168 
+
+Furniture, fixtures and office equipment 
+
+27,281 
+
+27,096 
+
+863,774 
+
+828,796 
+
+Less accumulated depreciation and amortization 
+
+475,797 
+
+384,936 
+
+387,977 
+
+443,860 
+
+NOTE 5 - INTANGIBLE ASSETS 
+
+Effective November 1, 2001 the Company adopted SFAS No. 142,
+"Goodwill and Other Intangible Assets." This standard changed the accounting for goodwill and intangible assets with an
+indefinite life whereby such assets are no longer amortized; however, the standard does require evaluation for impairment and a
+corresponding writedown, if appropriate. SFAS No. 142 requires an initial evaluation of goodwill and impairment upon adoption and
+annual evaluations thereafter. The initial evaluation was performed as of November 1, 2001 and subsequent evaluations were
+performed in fiscal years 2002 and 2003 resulting in no impairment in the value of the Company's goodwill. 
+
+Comparative information as if goodwill had not been
+amortized follows (in thousands, except per share information): 
+
+Year Ended 
+
+November 2, 
+ 2003 
+
+November 3, 
+ 2002 
+
+October 31, 
+ 2001 
+
+Reported net loss 
+
+(48,162) 
+
+(4,857) 
+
+(4,026) 
+
+Goodwill amortization 
+
+- 
+
+- 
+
+1,111 
+
+Adjusted net loss 
+
+(48,162) 
+
+(4,857) 
+
+(2,915) 
+
+Reported diluted net loss 
+
+per share 
+
+(1.50) 
+
+(0.16) 
+
+(0.13) 
+
+Goodwill amortization 
+
+- 
+
+- 
+
+0.04 
+
+Adjusted diluted net loss per share 
+
+(1.50) 
+
+(0.16) 
+
+(0.09) 
+
+-33- 
+
+Goodwill at November 2, 2003 and November 3, 2002 amounted
+to approximately 115.9 million, and at October 31, 2001 amounted to approximately 85.1 million. Other intangible assets, which
+continue to be amortized, consist of software development costs. The balance of other intangible assets consists of a gross
+carrying amount of 13.1 million at November 2, 2003 and November 3, 2002, less accumulated amortization of 10.2 million at
+November 2, 2003 and 7.7 million at November 3, 2002. 
+
+Amortization expense of other
+intangible assets for the fiscal years ended November 2, 2003 and November 3, 2002 were approximately 2.5 million and 2.8
+million, respectively. Estimated annual amortization expense of other intangible assets is expected to be 2.3 million in 2004,
+ 0.3 million in 2005, 0.2 million in 2006, and 0.1 million in 2007. 
+
+NOTE 6 - ACCRUED LIABILITIES 
+
+Accrued liabilities consist of the following: 
+
+November 2, 
+ 2003 
+
+November 3, 
+ 2002 
+
+Salaries, wages and related benefits 
+
+7,472 
+
+8,348 
+
+Restructuring 
+
+7,354 
+
+5,959 
+
+Income taxes 
+
+5,097 
+
+6,833 
+
+Interest 
+
+2,759 
+
+5,322 
+
+Property taxes 
+
+2,751 
+
+2,018 
+
+Other 
+
+6,438 
+
+10,502 
+
+31,871 
+
+38,982 
+
+NOTE 7 - LONG-TERM DEBT 
+
+Long-term debt consists of the following: 
+
+November 2, 
+ 2003 
+
+November 3, 
+ 2002 
+
+4.75 convertible subordinated notes 
+ due December 15, 2006 including 
+ fair value adjustment of 2,232 
+ in 2003 and 1,672 in 2002 
+
+202,232 
+
+201,672 
+
+2.25 convertible subordinated notes 
+ due April 15, 2008 
+
+150,000 
+
+- 
+
+6 convertible subordinated notes 
+
+- 
+
+62,100 
+
+Debt of non-wholly owned subsidiaries: 
+
+Borrowings under current revolving credit facility 
+
+- 
+
+10,630 
+
+Unsecured notes payable 
+
+11,229 
+
+12,877 
+
+Secured notes payable 
+
+10,219 
+
+19,963 
+
+Other 
+
+132 
+
+192 
+
+373,812 
+
+307,434 
+
+Less current portion 
+
+5,505 
+
+10,649 
+
+Long-term debt 
+
+368,307 
+
+296,785 
+
+-34- 
+
+Long-term debt matures as follows: 2004 - 5,505; 2005 -
+ 3,740; 2006 - 12,335; 2007 - 202,232 and 2008 - 150,000. The fair value of long-term debt is estimated based on the current
+rates offered to the Company and is not significantly different from the carrying value, other than the fair value of its 4.75 and
+the 2.25 convertible subordinated notes. As of November 2, 2003, based upon quoted market prices the fair values of the 4.75 and
+2.25 convertible subordinated notes were approximately 200,000 and 233,000, respectively. 
+
+On April 15, 2003, the Company sold 150.0 million, 2.25 
+convertible subordinated notes due 2008 in a private offering pursuant to SEC Rule 144A. These notes are convertible into the
+Company's common stock at a conversion price of 15.89 per share. Net proceeds from the issuance amounted to approximately 145.2
+million. On June 2, 2003, a portion of the net proceeds was used to redeem 62.1 million of the Company's outstanding 6 
+convertible subordinated notes due 2004. Pursuant to the terms of the related indenture, the 6 convertible subordinated notes were
+redeemed at 100.8571 of the principal amount plus accrued interest of 1.9 million for an aggregate redemption price of 64.5
+million, including a premium of 0.5 million. An early extinguishment charge of 0.9 million was incurred on the redemption of the
+6 convertible subordinated notes. 
+
+On December 12, 2001 the Company sold 200 million of 4.75 
+convertible subordinated notes due 2006 in a private offering pursuant to SEC Rule 144A. These notes are convertible into the
+Company's common stock at a conversion price of 37.00 per share. Net proceeds from the issuance amounted to approximately 193.2
+million. Concurrent with the issuance of these notes, on December 12, 2001 the Company repaid all the outstanding borrowings under
+its former revolving credit agreement which amounted to 57.7 million and terminated the former revolving credit
+agreement. 
+
+The 100 million notional amount of the 4.75 convertible
+notes which have been effectively converted to a variable rate under an interest rate swap contract are stated at an amount equal
+to the sum of its principal amount plus 2.2 million as of November 2, 2003, representing the change in the fair value of the debt
+obligation attributable to the interest rate risk being hedged. This fair value adjustment has been calculated using a discounted
+cash flow methodology (see Note 14). 
+
+The Company has a credit agreement, that expires in July
+2005, with a group of financial institutions that provides for a revolving credit facility with an aggregate commitment of 100
+million. The credit facility allows for borrowings in various currencies with an interest rate that is based on the terms of the
+agreement and will vary based on currencies borrowed and market conditions. During most of 2003, the Company had borrowed 10.9
+million in Korean won denominated borrowings which had an effective interest rate of approximately 7 in 2003. The Company repaid
+all of its outstanding borrowings 10.9 million in Korean won) under the 100 million credit facility in October 2003. The
+facility fee is 0.4 of total aggregate commitment. The credit facility agreement contains various financial and other covenants,
+including, but not limited to: Defined maximum ratio of senior funded debt to EBITDA, Minimum EBITDA to interest expense, Minimum
+consolidated net worth and cash balances, Limitation on cash dividends available for payment to shareholders and annual capital
+expenditures. As of November 2, 2003, approximately 70 million was available under the facility. On April 9, 2003, the credit
+facility was amended to relax certain financial covenants as a result of the Company's March 2003 consolidation plan and the
+Company's issuance of 150 million of convertible subordinated notes. 
+
+In the fourth quarter of fiscal 2002, the Company
+repurchased 41.2 million of its 6 convertible notes for total consideration of 38.2 million. The Company recorded a gain on the
+repurchase of these notes of 2.6 million, net of the write off of deferred financing fees associated with the portion of 6 
+convertible notes that were repurchased. In 2002, the Company adopted SFAS No. 145, "Rescission of FASB Statements No. 4, 44 and
+64, Amendment of FASB Statement No. 13, and Technical Corrections." SFAS No. 145 rescinds certain guidance for reporting
+extinguishments of debt and provides guidance to determine if the transactions are part of recurring operations or if they meet the
+criteria for classification as an extraordinary item. The Company has classified the gain in other income in the accompanying
+fiscal 2002 consolidated statement of operations. 
+
+The unsecured and secured notes payable are obligations of
+non-wholly owned subsidiaries and are not guaranteed by the Company. Unsecured notes payable consist primarily of working capital
+loans and capital expenditure financing with interest rates ranging from approximately 5.9 to 6.5 at November 2, 2003. Secured
+notes payable consist primarily of collateralized equipment loans with interest rates ranging from approximately 1.7 to 6.0 and
+are due in monthly installments through May 2006. 
+
+Interest payments were 16.3 million, 15.7 million and
+ 11.0 million in fiscal 2003, 2002 and 2001, respectively. 
+
+-35- 
+
+NOTE 8 - EARNINGS PER SHARE 
+
+The effect of the potential conversion of the Company's
+convertible subordinated notes and the exercise of certain stock options was anti-dilutive for all years presented. If the assumed
+conversion of convertible subordinated notes and stock options had been dilutive, the incremental additional shares outstanding
+would have been 13,718 in 2003, 8,849 in 2002 and 4,453 in 2001. 
+
+NOTE 9 - INCOME TAXES 
+
+The provision (benefit) for income taxes consists of the
+following: 
+
+Year Ended 
+
+November 2, 
+ 2003 
+
+November 3, 
+ 2002 
+
+October 31, 
+ 2001 
+
+Current: 
+
+Federal 
+
+16 
+
+(7,870) 
+
+619 
+
+State 
+
+79 
+
+67 
+
+127 
+
+Foreign 
+
+3,490 
+
+1,722 
+
+2,285 
+
+3,585 
+
+(6,081) 
+
+3,031 
+
+Deferred: 
+
+Federal 
+
+(1,775) 
+
+(2,886) 
+
+(7,078) 
+
+State 
+
+(827) 
+
+52 
+
+(913) 
+
+Foreign 
+
+(59) 
+
+1,896 
+
+1,960 
+
+(2,661) 
+
+(938) 
+
+(6,031) 
+
+Total 
+
+924 
+
+(7,019) 
+
+(3,000) 
+
+The provision (benefit) for income taxes differs from the
+amount computed by applying the statutory U.S Federal income tax rate to loss before taxes as a result of the following: 
+
+Year Ended 
+
+November 2, 
+ 2003 
+
+November 3, 
+ 2002 
+
+October 31, 
+ 2001 
+
+U.S. Federal income tax 
+
+at statutory rate 
+
+(14,583) 
+
+(1,924) 
+
+(810) 
+
+State income taxes, 
+ net of federal benefit 
+
+(1,416) 
+
+(2,159) 
+
+(770) 
+
+Change in valuation 
+ allowance 
+
+18,767 
+
+2,189 
+
+- 
+
+Foreign tax rate differential 
+
+(3,693) 
+
+(4,097) 
+
+(3,920) 
+
+Other, net 
+
+1,849 
+
+(1,028) 
+
+2,500 
+
+924 
+
+(7,019) 
+
+(3,000) 
+
+-36- 
+
+The net deferred income tax liability consists of the
+following: 
+
+November 2, 
+ 2003 
+
+November 3, 
+ 2002 
+
+Deferred income tax assets: 
+
+Reserves not currently deductible 
+
+24,232 
+
+9,498 
+
+Intangibles amortization 
+
+1,307 
+
+1,798 
+
+Net operating losses 
+
+24,956 
+
+9,576 
+
+Alternative minimum tax credits 
+
+2,926 
+
+3,205 
+
+Tax credit carryforwards 
+
+3,838 
+
+3,810 
+
+Foreign exchange gain 
+
+- 
+
+1,626 
+
+Intercompany transactions 
+
+1,909 
+
+2,971 
+
+Non qualified stock options 
+
+247 
+
+1,825 
+
+Other 
+
+1,863 
+
+2,028 
+
+61,278 
+
+36,337 
+
+Valuation allowance 
+
+(23,217) 
+
+(2,510) 
+
+38,061 
+
+33,827 
+
+Deferred income tax liabilities: 
+
+Property, plant and equipment 
+
+48,597 
+
+43,113 
+
+Investments 
+
+2,289 
+
+1,846 
+
+Research and development costs 
+
+367 
+
+657 
+
+Other 
+
+1,774 
+
+271 
+
+53,027 
+
+45,887 
+
+Net deferred tax liability 
+
+14,966 
+
+12,060 
+
+The Company's operations have followed the recent migration
+of semiconductor industry fabrication to Asia, where the Company operates in countries where it is accorded favorable tax
+jurisdictions. The Company is accorded tax holidays in Taiwan and Singapore, which expire in 2006 and 2005, respectively. In Korea,
+various investment tax credits have been utilized to reduce the Company's effective income tax rate. 
+
+Income tax payments were 1.6 million, 0.8 million and 2.0
+million in fiscal 2003, 2002 and 2001 respectively. Cash received for refunds of income taxes paid in prior years amounted to 9.2
+million in fiscal 2003 and 13.5 million in fiscal 2002. 
+
+As of November 2, 2003, the Company had
+a federal net operating loss carryforward of 58.8 million which expires as follows: 5.0 million in 2020, 14.8 million in 2022
+and 39.0 million in 2023. The Company established a valuation allowance for a portion of its deferred tax assets because it is
+more likely than not that a portion of its net operating loss carryforwards may expire prior to utilization; such valuation
+allowance increased by 20.7 million, 2.2 million and 0.3 million for the fiscal years ended November 2, 2003, November 3, 2002
+and October 31, 2001, respectively. 
+
+As of November 2, 2003, the Company had 2.9 million of
+alternative minimum tax credit carryforwards that are available to offset future federal taxes payable. The Company also had a 0.9
+million general business credit carryforward available as a tax credit until year 2019 when, if still unused, will convert into a
+tax deduction. 
+
+As of November 2, 2003, deferred income taxes of
+approximately 25.3 million were not provided on undistributed earnings of certain foreign subsidiaries because such undistributed
+earnings are expected to be reinvested indefinitely overseas. 
+
+-37- 
+
+Deferred income tax benefits from the exercise of
+non-qualified stock options increased additional paid-in capital by 0.2 million in fiscal 2003 and 1.8 million in fiscal
+2002. 
+
+NOTE 10 - EMPLOYEE STOCK PURCHASE AND OPTION PLANS 
+
+The Company has adopted several stock option plans under
+which incentive and non-qualified stock options and restricted stock awards may be granted. All plans provide that the exercise
+price may not be less than the fair market value of the common stock at the date the options are granted and limit the term of
+options granted to a maximum of ten years. 
+
+The following table summarizes stock option activity for
+each of the three fiscal years ended November 2, 2003, November 3, 2002 and October 31, 2001 under the plans: 
+
+Stock Options 
+
+Weighted Average 
+ Exercise Price 
+ Per Share 
+
+Balance at October 31, 2000 
+
+2,793,666 
+
+16.21 
+
+Granted 
+
+352,950 
+
+18.66 
+
+Exercised 
+
+(428,092) 
+
+28.61 
+
+Cancelled 
+
+(131,287) 
+
+18.17 
+
+Balance at October 31, 2001 
+
+2,587,237 
+
+17.05 
+
+Granted 
+
+791,723 
+
+24.16 
+
+Exercised 
+
+(485,705) 
+
+9.90 
+
+Cancelled 
+
+(204,520) 
+
+22.73 
+
+Balance at November 3, 2002 
+
+2,688,735 
+
+20.14 
+
+Granted 
+
+462,839 
+
+12.72 
+
+Exercised 
+
+(391,966) 
+
+11.82 
+
+Cancelled 
+
+(457,523) 
+
+21.77 
+
+Balance at November 2, 2003 
+
+2,302,085 
+
+19.77 
+
+The following table summarizes information relating to
+outstanding and exercisable options as of November 2, 2003: 
+
+Range of Exercise Prices 
+
+0.94 - 12.99 
+
+12.99 - 22.73 
+
+22.73 - 32.47 
+
+Outstanding: 
+
+Number of options 
+
+579,467 
+
+1,052,246 
+
+670,372 
+
+Weighted average remaining years 
+
+6.9 
+
+6.4 
+
+6.9 
+
+Weighted average exercise price 
+
+12.06 
+
+19.44 
+
+27.11 
+
+Exercisable: 
+
+Number of options 
+
+301,786 
+
+650,298 
+
+245,499 
+
+Weighted average exercise price 
+
+11.60 
+
+20.14 
+
+27.01 
+
+The Company grants restricted stock awards annually. The
+restrictions on these awards lapse quarterly over a one-year service period. Restricted stock awards of 15,000, 18,000 and 12,000
+shares were awarded in fiscal years 2003, 2002 and 2001 respectively, at market prices per share of 12.93, 31.84 and 24.92,
+respectively. Compensation expense is recognized over the period of the restrictions. 
+
+At November 2, 2003, 1,450,274 shares were available for
+grant and 1,197,583 shares were exercisable at a weighted average exercise price of 19.39. 
+
+-38- 
+
+The Company maintains an Employee Stock Purchase Plan
+("Purchase Plan"), under which 600,000 shares of common stock were reserved for issuance. The Purchase Plan enables eligible
+employees to subscribe, through payroll deductions, to purchase shares of the Company's common stock at a purchase price equal to
+85 of the lower of the fair market value on the commencement date of the offering and the last day of the payroll payment period.
+At November 2, 2003, 562,976 shares had been issued and up to 37,024 shares are subject to outstanding subscriptions under the
+Purchase Plan. 
+
+NOTE 11 - EMPLOYEE BENEFIT PLANS 
+
+The Company maintains a 401(k) Savings and Profit-Sharing
+Plan (the "Plan") which covers all domestic employees who have completed six months of service and are eighteen years of age or
+older. Under the terms of the Plan, employees may contribute up to 25 of their compensation, subject to certain maximum amounts,
+which will be matched by the Company at 50 of the employee's contributions, which are not in excess of 4 of the employee's
+compensation. Employee and employer contributions vest fully upon contribution. Employer contributions amounted to 0.6 million in
+fiscal 2003, 0.7 million in fiscal 2002 and 0.9 million in fiscal 2001. 
+
+The Company maintains a cafeteria plan to provide eligible
+domestic employees with the option to receive non-taxable medical, dental, disability and life insurance benefits. The cafeteria
+plan is offered to all active full-time domestic employees and their qualifying dependents. The Company's contributions amounted to
+ 4.1 million in fiscal 2003, 5.5 million in 2002 and 5.7 million in fiscal 2001. 
+
+The Company's foreign subsidiaries maintain benefit plans
+for their employees, which vary by country. The obligations and cost of these plans are not significant to the Company's
+consolidated financial statements. 
+
+NOTE 12 - LEASES 
+
+The Company leases various real estate and equipment under
+non-cancelable operating leases. Rental expense under such leases amounted to 2.0 million in fiscal 2003, 2.6 million in fiscal
+2002 and 1.6 million in fiscal 2001. 
+
+Future minimum lease payments (excluding costs associated
+with facilities closed under restructuring plans) under non-cancelable operating leases with initial or remaining terms in excess
+of one year at November 2, 2003 follow: 
+
+2004 
+
+1,967 
+
+2005 
+
+2,317 
+
+2006 
+
+1,350 
+
+2007 
+
+507 
+
+2008 
+
+507 
+
+Thereafter 
+
+423 
+
+7,071 
+
+-39- 
+
+NOTE 13 - COMMITMENTS AND CONTINGENCIES 
+
+At November 2, 2003 the Company had capital expenditure
+
+purchase commitments outstanding of approximately 33.0 million. 
+
+Financial instruments that potentially subject the Company
+to credit risk consist principally of trade accounts receivable and temporary cash investments. The Company sells its products
+primarily to manufacturers in the semiconductor and computer industries in North America, Europe and Asia. The Company believes
+that the concentration of credit risk in its trade receivables is substantially mitigated by the Company's ongoing credit
+evaluation process and relatively short collection terms. The Company does not generally require collateral from customers. The
+Company establishes an allowance for doubtful accounts based upon factors surrounding the credit risk of specific customers,
+historical trends and other information. Historically, the Company has not incurred significant credit-related losses. 
+
+Financial Accounting Standards Board Statement No. 107,
+("FAS 107") "Disclosures About Fair Value of Financial Instruments" requires disclosure of fair value information about financial
+instruments, whether or not recognized in the balance sheets, for which it is practicable to estimate that value. In cases where
+quoted market prices are not available, fair values are based on estimates using present value or other valuation techniques. Those
+techniques are significantly affected by the assumptions used, including the discount rates and estimates of future cash flows. In
+that regard, the derived fair value estimates cannot be substantiated by comparisons to independent markets and, in many cases,
+could not be realized in immediate settlement of the instrument. Statement No. 107 excludes certain financial instruments from its
+disclosure requirements. Accordingly, the aggregate fair value amounts presented do not represent the underlying value of the
+Company. Other than the fair values of the Company's convertible subordinated notes disclosed in Note 7, the carrying values of the
+Company's other financial instruments approximate fair value. 
+
+NOTE 14 - DERIVATIVE INSTRUMENTS AND HEDGING ACTIVITIES 
+
+On October 22, 2002, the Company entered into an interest
+rate swap contract, which effectively converted 100 million of its 4.75 fixed rate convertible notes to a variable rate. Under
+the contract, payments are made on a LIBOR based variable rate (2.49 at November 2, 2003). 
+
+The interest rate swap contract is used to adjust the
+proportion of total debt that is subject to fixed interest rates. This contract is considered to be a hedge against interest rate
+risk of the Company's fixed rate debt obligations. Accordingly, the interest rate swap contract is stated at fair value in the
+Company's consolidated balance sheet and the related portion of fixed rate debt being hedged is stated at an amount equal to the
+sum of its principal amount plus an adjustment representing the change in fair value of the debt obligation attributable to the
+interest rate risk being hedged. In addition, changes during any accounting period in the fair value of the interest rate swap
+contract, as well as offsetting changes in the adjusted carrying value of the related portion of fixed rate debt being hedged, are
+recognized as adjustments to interest expense in the Company's consolidated statement of operations. The net effect of this
+interest rate swap contract on the Company's statement of operations is that the interest expense portion of fixed rate debt being
+hedged is generally recorded based on variable rates. 
+
+At November 2, 2003 the interest rate swap contract was
+recorded as an asset of 1.6 million in the Company's consolidated balance sheet. The fair value adjustment for the related portion
+of fixed rate debt being hedged increased the 100 million carrying amount of such debt by approximately 2.2 million (See Note 7).
+These fair values have been calculated using a discounted cash flow methodology. The net gain or loss on the ineffective portion of
+the interest rate swap contract was not material to the Company's consolidated statement of operations. 
+
+In fiscal year 2001, the Company entered into forward
+currency contracts to hedge transactions to purchase certain equipment to be settled in Japanese Yen. Such derivatives were
+designated and qualified as cash flow hedging instruments and reported at fair value. In 2003, the equipment was placed in service
+and the loss of 1.1 million included in accumulated other comprehensive income (loss) is being amortized as a charge to earnings
+over the life of the equipment. In 2003, the amortization was 0.1 million. 
+
+-40- 
+
+NOTE 15 - SEGMENT INFORMATION 
+
+The Company operates in a single industry segment as a
+manufacturer of photomasks, which are high precision quartz plates containing microscopic images of electronic circuits for use in
+the fabrication of semiconductors. In addition to its manufacturing facilities in the United States, the Company currently has
+operations in the United Kingdom, Germany, Switzerland, Singapore, Taiwan, and Korea. The Company's 2003, 2002
+and 2001 net sales, operating income (loss) and identifiable assets by geographic area were as follows: 
+
+Net 
+ Sales 
+
+Operating 
+ Income 
+ (Loss) 
+
+Total 
+ Identifiable 
+ Assets 
+
+2003: 
+
+North America 
+
+142,022 
+
+(60,033) 
+
+504,782 
+
+Europe 
+
+59,085 
+
+2,056 
+
+107,477 
+
+Asia 
+
+147,777 
+
+28,055 
+
+253,281 
+
+348,884 
+
+(29,922) 
+
+865,540 
+
+2002: 
+
+North America 
+
+194,279 
+
+(27,807) 
+
+460,099 
+
+Europe 
+
+63,192 
+
+11,936 
+
+120,509 
+
+Asia 
+
+129,400 
+
+23,664 
+
+251,834 
+
+386,871 
+
+7,793 
+
+832,442 
+
+2001: 
+
+North America 
+
+241,873 
+
+(12,980) 
+
+332,706 
+
+Europe 
+
+64,809 
+
+7,905 
+
+94,818 
+
+Asia 
+
+71,287 
+
+12,056 
+
+233,174 
+
+377,969 
+
+6,981 
+
+660,698 
+
+Approximately 2 , 4 and 4 of net domestic sales in fiscal
+2003, 2002 and 2001, respectively, were for delivery outside of the United States. 
+
+Samsung Electronics Co., Ltd. accounted for 16 and 10 of
+the Company's net sales in fiscal 2003 and 2002, respectively. During fiscal 2001 no single customer accounted for more than 10 of
+total net sales. 
+
+-41- 
+
+NOTE 16 - COMPREHENSIVE INCOME (LOSS) 
+
+The Company's comprehensive income (loss) as reported in the
+consolidated statements of shareholders' equity, consists of net earnings (losses) and all changes in equity during a period except
+those resulting from investments by owners and distributions to owners, which are presented before-tax. The Company does not
+provide for U.S. income taxes on foreign currency translation adjustments. Accumulated other comprehensive income (loss) consists
+of unrealized gains and losses on certain investments in equity securities and foreign currency translation adjustments. The
+related tax effects allocated to each component of other comprehensive income (loss) were as follows for the 
+three fiscal years ended November 2, 2003, November 3, 2002 and October 31, 2001: 
+
+Before-Tax 
+ Amount 
+
+Tax 
+ (Expense) 
+ or Benefit 
+
+Net-of-Tax 
+ Amount 
+
+2003: 
+
+Foreign currency translation adjustment 
+
+10,990 
+
+- 
+
+10,990 
+
+Loss on change in fair value of cash flow hedge 
+
+112 
+
+- 
+
+112 
+
+Unrealized holding losses arising during the period 
+
+2,608 
+
+(443) 
+
+2,165 
+
+Other comprehensive income (loss) 
+
+13,710 
+
+(443) 
+
+13,267 
+
+2002: 
+
+Foreign currency translation adjustment 
+
+10,514 
+
+- 
+
+10,514 
+
+Loss on change in fair value of cash flow hedge 
+
+(691) 
+
+- 
+
+(691) 
+
+Unrealized holding losses arising during the period 
+
+(3,200) 
+
+1,118 
+
+(2,082) 
+
+Other comprehensive income 
+
+6,623 
+
+1,118 
+
+7,741 
+
+2001: 
+
+Foreign currency translation adjustment 
+
+(10,114) 
+
+- 
+
+(10,114) 
+
+Loss on change in fair value of cash flow hedge 
+
+(431) 
+
+- 
+
+(431) 
+
+Unrealized holding losses arising during the period 
+
+(4,803) 
+
+2,485 
+
+(2,318) 
+
+Other comprehensive income (loss) 
+
+(15,348) 
+
+2,485 
+
+(12,863) 
+
+NOTE 17 - CONSOLIDATION, RESTRUCTURING AND RELATED CHARGES 
+
+Since 2001, the Company has closed four manufacturing
+facilities in North America and one in Europe due in part to the migration of semiconductor manufacturing to Asia, excess capacity,
+competitive pricing pressures and weakened demand. Decisions regarding which facilities to close were based on sales volume
+projections, customer base and production qualifications. 
+
+In March 2003, the Company implemented a plan to close its
+Phoenix, Arizona manufacturing facility and further consolidate its North American manufacturing network in order to increase
+capacity utilization and manufacturing efficiencies. Total consolidation and related charges of 42.0 million were recorded during
+the second quarter of fiscal 2003. Components of the charge include 3.4 million for workforce reductions of approximately 170
+employees in the United States, 4.4 million for facility lease payments, and 34.2 million of non-cash charges for the impairment
+of the carrying value of fixed assets. 
+
+In August 2002, the Company implemented a consolidation plan
+that included the ceasing of photomask manufacturing at its Milpitas, California site and a reduction of its workforce of
+approximately 135 employees in the United States. The total charge associated with this plan was 14.5 million, which included 2.5
+million for workforce reduction, 1.5 million for facility lease payments, and 10.5 million of non-cash charges for the impairment
+of the carrying value of fixed assets. 
+
+-42- 
+
+In April 2001, as part of the Company's final phase of its
+merger with Align-Rite, the Company initiated a consolidation plan to consolidate its global photomask manufacturing network and
+reduce its global workforce by approximately 120 employees. The total charge of 38.1 million consisted of non-cash charges of
+ 29.6 million for the impairment of fixed assets and intangible assets, 4.0 million for severance and benefits and 4.5 million
+for facility closing costs and lease payments. 
+
+For these previously announced actions, the Company's
+restructuring expenditures were 40.6 million, 16.1 million and 30.5 million for fiscal years ended November 2, 2003, November 3,
+2002 and October 31, 2001, respectively. These charges relate to the impairment in carrying value of fixed assets, severance and
+benefits for terminated employees, and non-cancelable facility lease payments. From April 2001 through November 2, 2003, the
+Company had expended, including non-cash charges, 87.2 million. 
+
+The following tables set forth the Company's restructuring
+reserves as of November 2, 2003, November 3, 2002 and October 31, 2001 and reflect the activities affecting the reserves for years
+then ended: 
+
+Year Ended 
+
+November 2, 2003 
+
+November 3, 
+ 2002 
+ Balance 
+
+Charges 
+
+Credits 
+
+November 2, 
+ 2003 
+ Balance 
+
+Manufacturing capacity reduction 
+ and other 
+
+4,268 
+
+38,575 
+
+(36,988) 
+
+5,855 
+
+Workforce reductions 
+
+1,691 
+
+3,425 
+
+(3,617) 
+
+1,499 
+
+Total 
+
+5,959 
+
+42,000 
+
+(40,605) 
+
+7,354 
+
+Year Ended 
+
+November 3, 2002 
+
+October 31, 
+ 2001 
+ Balance 
+
+Charges 
+
+Credits 
+
+November 3, 
+ 2002 
+ Balance 
+
+Manufacturing capacity reduction 
+ and other 
+
+4,990 
+
+12,025 
+
+(12,747) 
+
+4,268 
+
+Workforce reductions 
+
+2,567 
+
+2,475 
+
+(3,351) 
+
+1,691 
+
+Total 
+
+7,557 
+
+14,500 
+
+(16,098) 
+
+5,959 
+
+-43- 
+
+Year Ended 
+
+October 31, 2001 
+
+October 31, 
+ 2000 
+ Balance 
+
+Charges 
+
+Credits 
+
+October 31, 
+ 2001 
+ Balance 
+
+Manufacturing capacity reduction 
+ and other 
+
+- 
+
+34,134 
+
+(29,144) 
+
+4,990 
+
+Workforce reductions 
+
+- 
+
+3,966 
+
+(1,399) 
+
+2,567 
+
+Total 
+
+- 
+
+38,100 
+
+(30,543) 
+
+7,557 
+
+As of November 2, 2003, the Company anticipates that
+substantially all of the 1.5 million relating to workforce reductions will be paid by the end of the second quarter of fiscal year
+2004, and non-cancelable lease obligations and other of 5.9 million will be paid over the respective lease terms through
+2009. 
+
+Effective November 4, 2002, the Company adopted SFAS No.'s
+144 "Accounting for the Impairment or Disposal of Long-Lived Assets" and 146 "Accounting for Costs Associated with Exit or Disposal
+Activities." The March 2003 restructuring was accounted for in accordance with SFAS Nos. 144 and 146. 
+
+NOTE 18 - RELATED PARTY TRANSACTIONS 
+
+The Chairman of the Board of the Company is also the
+Chairman of the Board and majority shareholder of a company who is a supplier of secure managed information technology services.
+Another director of the Company is also an employee and a director of this company. In 2002, the Company entered into a fifty-two
+month service contract with this company to provide services to all of the Company's worldwide facilities at a cost of
+approximately 3.2 million per year. In 2003, the Company has entered into additional contracts with this company ranging from 12
+months to 52 months to provide additional services for approximately 0.7 million per year. The Company incurred expenses of 3.9
+million in 2003 and 2.4 million in 2002 related to services provided by this company, of which the amount owed to this company was
+ 0.5 million at November 2, 2003 and 0.3 million at November 3, 2002. 
+
+An officer of the Company is also the CEO,
+president and director of one of the Company's majority held subsidiaries that purchases photomask blanks from a company of which
+he is a significant shareholder. In 2003, the Company purchased 2.2 million of photomask blanks from this company of which 0.4
+million was owed to this company as of November 2, 2003. 
+
+In June of 2002, the Company purchased land from an entity
+controlled by the Chairman of the Board of the Company for approximately 0.5 million. The Company also purchased in June 2002 one
+of its manufacturing facilities (the "purchased manufacturing facility") and the land in June 2002 from an entity controlled by the
+Chairman's two sons, one of whom is a Board member, for approximately 2.2 million. The purchase price for both transactions was
+equal to the appraised value as established by independent appraisals obtained by the Company. 
+
+The Company previously leased the purchased manufacturing
+facility from the entity controlled by the chairman's two sons prior to the purchase by the Company. The rent paid to this entity
+for the fiscal year ended November 3, 2002 was approximately 45 thousand. 
+
+The Company believes that the terms of the transactions
+described above with affiliated companies and persons were negotiated at arm's-length and were no less favorable to the Company
+than the Company could have obtained from non-affiliated parties. 
+
+-44- 
+
+NOTE 19 - QUARTERLY RESULTS OF OPERATIONS (UNAUDITED) 
+
+The following table sets forth certain unaudited quarterly
+financial data: 
+
+First 
+
+Second 
+
+Third 
+
+Fourth 
+
+Year 
+
+2003: 
+
+(a) 
+
+(b) 
+
+(a) (b) 
+
+Net sales 
+
+81,393 
+
+85,548 
+
+90,454 
+
+91,489 
+
+348,884 
+
+Gross margin 
+
+17,635 
+
+22,740 
+
+28,424 
+
+29,398 
+
+98,197 
+
+Net income (loss) 
+
+(8,487) 
+
+(44,070) 
+
+1,272 
+
+3,123 
+
+(48,162) 
+
+Earnings (loss) per share: 
+
+Basic 
+
+(0.26) 
+
+(1.37) 
+
+0.04 
+
+0.10 
+
+(1.50) 
+
+Diluted 
+
+(0.26) 
+
+(1.37) 
+
+0.04 
+
+0.10 
+
+(1.50) 
+
+2002: 
+
+(c) 
+
+(c) 
+
+Net sales 
+
+95,686 
+
+103,057 
+
+98,070 
+
+90,058 
+
+386,871 
+
+Gross margin 
+
+27,932 
+
+31,738 
+
+28,078 
+
+22,672 
+
+110,420 
+
+Net income (loss) 
+
+1,747 
+
+2,519 
+
+1,185 
+
+(10,308) 
+
+(4,857) 
+
+Earnings (loss) per share: 
+
+Basic 
+
+0.06 
+
+0.08 
+
+0.04 
+
+(0.32) 
+
+(0.16) 
+
+Diluted 
+
+0.06 
+
+0.08 
+
+0.04 
+
+(0.32) 
+
+(0.16) 
+
+a) 
+
+Includes consolidation charge of 42.0 million 39.9 million after tax or 1.24 per
+diluted share), incurred in the second quarter of fiscal 2003, in connection with ceasing the manufacture of photomasks at the
+Phoenix, Arizona facility and the consolidation of the Company's North American operating infrastructure. 
+
+b) 
+
+Includes early extinguishment charge of 0.9 million after tax (or .03 per diluted share)
+incurred in the third quarter of fiscal 2003, in connection with the early redemption of the company's 6 62.1 million convertible
+notes due June 2004. 
+
+c) 
+
+Includes consolidation charges of 14.5 million 10.0 million after tax, or 0.32 per
+diluted share), incurred in the fourth quarter of fiscal 2002, in connection with a reduction in workforce in the United States and
+ceasing the manufacture of photomasks at the Milpitas, California facility. 
+
+NOTE 20 - OTHER RECENT ACCOUNTING PRONOUNCEMENTS 
+
+In May 2003, the FASB issued SFAS No. 150, "Accounting for
+Certain Financial Instruments with Characteristics of both Liabilities and Equity." This statement requires that an issuer classify
+financial instruments that are within its scope as a liability. Many of those instruments were classified as equity under previous
+guidance. Most of the guidance in SFAS No. 150 is effective for all financial instruments entered into or modified after May 31,
+2003, and otherwise effective at the beginning of the first interim period beginning after June 15, 2003. On November 5, 2003, the
+FASB issued FSP No. 150-3 which deferred the effective date of SFAS No. 150 indefinitely for certain mandatory redeemable non
+controlling interests. In addition, on November 7, 2003 the FASB issued FSP No. FAS 150-4, which states that employee stock
+ownership plan shares (ESOP) which are mandatorily redeemable or free-standing agreements to repurchase ESOP shares are not within
+the scope of Statement 150. Management has evaluated the provisions of this statement, and does not believe it has an impact on the
+Company's consolidated financial statements. 
+
+ITEM 9. CHANGES IN AND
+DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING 
+ AND FINANCIAL
+DISCLOSURE 
+
+None. 
+
+-45- 
+
+ITEM 9A. CONTROLS AND PROCEDURES 
+
+The Company's chief executive officer and chief financial
+officer have concluded that, as of the end of the fiscal year 2003, the Company's disclosure controls and procedures (as defined in
+Rules 13a-15(e) and 15d-15(e) of the Securities Exchange Act of 1934, as amended) were effective, based on the evaluation of these
+controls and procedures required by Rule 13a-15(b) or 15d-15(b) of the Securities Exchange Act of 1934, as amended. 
+
+PART III 
+
+ITEM 10. DIRECTORS AND EXECUTIVE OFFICERS OF THE
+REGISTRANT 
+
+The information as to Directors required by Item 401 and 405
+of Regulation S-K is set forth in the Company's 2004 definitive proxy statement which will be filed with the Securities and
+Exchange Commission pursuant to Regulation 14A within 120 days after the end of the fiscal year covered by this Form 10-K under the
+caption "PROPOSAL 1 - ELECTION OF DIRECTORS" and in paragraph three under the caption "MEETINGS AND COMMITTEES OF THE BOARD" and is
+incorporated herein by reference. The information as to Executive Officers is included in the Company's 2004 definitive proxy
+statement under the caption "EXECUTIVE OFFICERS" and is incorporated in this report by reference. 
+
+The Company has adopted a code of ethics that applies to its
+principal executive officer, principal financial officer and principal accounting officer or controller. A copy of the code of
+ethics may be obtained, free of charge, by writing to the General Counsel of Photronics, Inc., at 15 Secor Road, Brookfield,
+Connecticut 06804. 
+
+ITEM 11. EXECUTIVE COMPENSATION 
+
+The information required by Item 402 of Regulation S-K is
+set forth in the Company's 2004 definitive proxy statement under the captions "EXECUTIVE COMPENSATION," "STOCK OPTIONS", "CERTAIN
+AGREEMENTS," and "DIRECTORS' COMPENSATION" and is incorporated in this report by reference. 
+
+ITEM 12. SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND
+MANAGEMENT 
+ AND RELATED SHAREHOLDER
+MATTERS 
+
+The information required by Items 403 and 201(d) of
+Regulation S-K is set forth in the Company's 2004 definitive proxy statement under the captions "Ownership of Common Stock by
+Directors, Nominees, Officers and Certain Beneficial Owners" and "Equity Compensation Plan Information," respectively and is
+incorporated in this report by reference. 
+
+ITEM 13. CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS 
+
+The information required by Item 404 of Regulation S-K is
+set forth in the Company's 2004 definitive proxy statement under the caption "CERTAIN TRANSACTIONS" and is incorporated in this
+report by reference. 
+
+-46- 
+
+PART IV 
+
+ITEM 14. PRINCIPAL ACCOUNTANT FEES AND SERVICES 
+
+Not applicable 
+
+ITEM 15. EXHIBITS, FINANCIAL STATEMENT SCHEDULES, AND REPORTS ON FORM
+8-K 
+
+(A) The following documents are filed as part of this
+report: 
+
+1) 
+
+Financial Statements 
+
+Independent Auditors' Reports 
+
+Consolidated Balance Sheets at November 2, 2003 and November 3, 2002 
+
+Consolidated Statements of Operations for the years ended November 2, 2003, 
+ November 3, 2002 and October 31, 2001 
+
+Consolidated Statements of Shareholders' Equity for the years ended November 2,
+2003, 
+ November 3, 2002 and October 31, 2001 
+
+Consolidated Statements of Cash Flows for the years ended November 2, 2003, 
+ November 3, 2002 and October 31, 2001 
+
+Notes to Consolidated Financial Statements 
+
+2) 
+
+Financial Statement Schedules 
+
+Schedules for which provision is made in Regulation S-X of the Securities and
+Exchange 
+ Commission are not required under the related instructions or are inapplicable and, 
+ therefore, have been omitted. 
+
+3) 
+
+Exhibits: See Exhibits Index 
+
+(B) Reports on Form 8-K 
+
+On August 20, 2003, the Company filed a report dated August 20, 2003 on Form 8-K under
+Item 5 
+ which included the Company's press release announcing results for the third quarter ended 
+ August 3, 2003. No financial statements were filed with this report. 
+
+-47- 
+
+SIGNATURES 
+
+Pursuant to the requirements of Section 13 or 15(d) of the
+Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned,
+thereunto duly authorized. 
+
+PHOTRONICS, INC. 
+
+(Registrant) 
+
+By 
+
+/s/ SEAN T. SMITH 
+
+January 26, 2004 
+
+Sean T. Smith 
+ Vice President 
+ Chief Financial Officer 
+
+Pursuant to the requirements of the Securities Exchange Act
+of 1934, this report has been signed below by the following persons on behalf of the registrant and in the capacities and on the
+dates indicated. 
+
+By 
+
+/s/ CONSTANTINE S. MACRICOSTAS 
+
+January 26, 2004 
+
+Constantine S. Macricostas 
+ Chairman of the Board 
+ Director 
+
+By 
+
+/s/ DANIEL DEL ROSARIO 
+
+January 26, 2004 
+
+Daniel Del Rosario 
+ Chief Executive Officer 
+ Director 
+
+By 
+
+/s/ SEAN T. SMITH 
+
+January 26, 2004 
+
+Sean T. Smith 
+ Vice President 
+ Chief Financial Officer 
+
+By 
+
+/s/ WALTER M. FIEDEROWICZ 
+
+January 26, 2004 
+
+Walter M. Fiederowicz 
+ Director 
+
+By 
+
+/s/ JOSEPH A. FIORITA, JR. 
+
+January 26, 2004 
+
+Joseph A. Fiorita, Jr. 
+ Director 
+
+By 
+
+/s/ GEORGE C. MACRICOSTAS 
+
+January 26, 2004 
+
+George C. Macricostas 
+ Director 
+
+By 
+
+/s/ WILLEM D. MARIS 
+
+January 26, 2004 
+
+Willem D. Maris 
+ Director 
+
+-48- 
+
+EXHIBITS INDEX 
+
+Exhibit 
+ Number 
+
+Description 
+
+3.1 
+
+Certificate of Incorporation. (1) 
+
+3.2 
+
+Amendment to Certificate of Incorporation, dated March 16, 1990. (2) 
+
+3.3 
+
+Amendment to Certificate of Incorporation, dated March 16, 1995. (6) 
+
+3.4 
+
+Amendment to Certificate of Incorporation, dated November 13, 1997. (8) 
+
+3.5 
+
+Amendment to Certificate of Incorporation, dated April 15, 2002. (13) 
+
+3.6 
+
+By-Laws, as amended. (1) 
+
+4.1 
+
+Form of Stock Certificate. (1) 
+
+4.2 
+
+Form of Indenture between the Company and The Bank of Nova Scotia Trust Company of New
+York, as 
+ Trustee, relating to the 4.75 Convertible Subordinated Notes due December 15, 2006. (11) 
+
+4.3 
+
+Registration Rights Agreement, dated December 12, 2001 between the Company, Morgan Stanley
+ Co. 
+ Incorporated and Merrill Lynch, Pierce, Fenner and Smith. (11) 
+
+4.4 
+
+Registration Rights Agreement dated April 4, 2002 between the Company and Photo (L)
+Limited, Mask (L) 
+ Limited, Lakeway (L) Limited, and March (L) Limited. (10) 
+
+4.5 
+
+Form of Indenture between the Company and the Bank of New York, as Trustee, relating to
+the 2.25 
+ Convertible Subordinated Notes due April 15, 2008. (14) 
+
+4.6 
+
+Registration Rights Agreement, dated April 15, 2003 between the Company, Morgan Stanley
+ Co. 
+ Incorporated, Merrill Lynch, Pierce, Fenner and Smith Incorporated and JP Morgan Securities Inc. (14) 
+
+10.1 
+
+Credit Agreement dated as of July 12, 2002 among Photronics, Inc., JP Morgan Chase Bank,
+HSBC Bank 
+ USA, The Bank of New York, Fleet National Bank and Citizens Bank of Massachusetts. (12) 
+
+10.2 
+
+Master Service Agreement dated January 11, 2002 between the Company and RagingWire 
+ Telecommunications, Inc. (15) 
+
+10.3 
+
+Real Estate Agreement dated June 19, 2002 between Constantine Macricostas and the Company.
+(15) 
+
+10.4 
+
+Real Estate Agreement dated June 26, 2002 between George Macricostas and Stephen
+Macricostas and the 
+ Company. (15) 
+
+10.5 
+
+The Company's 1992 Employee Stock Purchase Plan. (3) 
+
+10.6 
+
+The Company's 1994 Employee Stock Option Plan. (4) + 
+
+10.7 
+
+The Company's 1996 Stock Option Plan. (7) + 
+
+10.8 
+
+The Company's 1998 Stock Option Plan. (9) + 
+
+10.9 
+
+The Company's 2000 Stock Option Plan filed as Appendix A to the Company's Notice of Annual
+Meeting 
+ and Proxy Statement dated April 4, 2000 is incorporated herein by reference. + 
+
+10.10 
+
+Form of Agreement regarding Life Insurance between the Company and Mr. Macricostas. (5)
++ 
+
+10.11 
+
+The Company's 2000 Stock Plan, as amended (13). + 
+
+-49- 
+
+10.12 
+
+Consulting Agreement between the Company and Michael J. Yomazzo, dated October 10, 1997.
+(8)+ 
+
+10.13 
+
+Consulting Agreement between the Company and Constantine S. Macricostas, dated October 10,
+1997. (8)+ 
+
+10.14 
+
+Pull/Call Option Agreement dated August 21, 2001, by and among Photronics, Inc., Photo (L)
+Limited, 
+ Mask (L) Limited, Lakeway (L) Limited, The HSBC Private Equity Fund 2 Limited, The HSBC Private 
+ Equity Fund, L.P., Taiwan Mask Corp. and Blue Water Ventures International Ltd. filed as Exhibit 10 to the 
+ Company's quarterly report on Form 10-Q for the quarter ended July 31, 2001 is incorporated herein by 
+ reference. 
+
+10.15 
+
+Second Amendment Agreement dated as of April 9, 2003 among Photronics, Inc., The
+Borrowing 
+ Subsidiaries Party Hereto, The Guarantors Party Hereto, The Lenders Party Hereto and JP Morgan Chase 
+ Bank, as Administrative Agent. (16) 
+
+21 
+
+List of Subsidiaries. 
+
+23 
+
+Consent of Deloitte Touche LLP. 
+
+31.1 
+
+Certification of Chief Executive Officer pursuant to Rule 13a-14(a)/15d-14(a) of the
+Securities Exchange 
+ Act of 1934, as adopted pursuant to Section 302 of the Sarbanes-Oxley Act of 2002. 
+
+31.2 
+
+Certification of Chief Financial Officer pursuant to Rule 13a-14(a)/15d-14(a) of the
+Securities Exchange 
+ Act of 1934, as adopted pursuant to Section 302 of the Sarbanes-Oxley Act of 2002. 
+
+32.1 
+
+Certification of Chief Executive Officer pursuant to 18 U.S.C. Section 1350 as adopted
+pursuant to Section 
+ 906 of the Sarbanes-Oxley Act of 2002. 
+
+32.2 
+
+Certification of Chief Financial Officer pursuant to 18 U.S.C. Section 1350 as adopted
+pursuant to Section 
+ 906 of the Sarbanes-Oxley Act of 2002. 
+
+Filed herewith. 
+
++ 
+
+Represents a management contract or compensatory plan or arrangement. 
+
+(1) 
+
+Filed as an exhibit to the Company's Registration Statement on Form S-1, File Number
+33-11694, which was 
+ declared effective by the Commission on March 10, 1987, and incorporated herein by reference. 
+
+(2) 
+
+Filed as an exhibit to the Company's Registration Statement on Form S-2, File Number
+33-34772 which was 
+ declared effective by the Commission on June 22, 1990, and incorporated herein by reference. 
+
+(3) 
+
+Filed as an exhibit to the Company's Registration Statement on Form S-8, File Number
+33-47446, which was 
+ filed on April 24, 1992, and incorporated herein by reference. 
+
+(4) 
+
+Filed as an exhibit to the Company's Registration Statement on Form S-8, File Number
+33-78102, which was 
+ filed on April 22, 1994, and incorporated herein by reference. 
+
+(5) 
+
+Filed as an exhibit to the Company's Quarterly Report on Form 10-Q for the quarter ended
+July 31, 1995, 
+ and incorporated herein by reference. 
+
+(6) 
+
+Filed as an exhibit to the Company's Current Report on Form 8-K, dated March 24, 1995, and
+incorporated 
+ herein by reference. 
+
+(7) 
+
+Filed as an exhibit to the Company's Registration Statement on Form S-8, File Number
+333-02245, which 
+ was filed on April 4, 1996, and incorporated herein by reference. 
+
+(8) 
+
+Filed as an exhibit to the Company's Annual Report on Form 10-K for the fiscal year ended
+November 2, 
+ 1997, and incorporated herein by reference. 
+
+(9) 
+
+Filed as an exhibit to the Company's Registration Statement on Form S-8, File Number
+333-50809, which 
+ was filed on April 23, 1998, and incorporated herein by reference. 
+
+-50- 
+
+(10) 
+
+Filed as an exhibit to the Company's Registration Statement on Form S-3, File Number
+333-88122 which 
+ was filed on May 13, 2002, and incorporated herein by reference. 
+
+(11) 
+
+Filed as an exhibit to the Company's Annual Report on Form 10-K for the fiscal year ended
+October 31, 
+ 2001, and incorporated herein by reference. 
+
+(12) 
+
+Filed as an exhibit to the Company's Quarterly Report on Form 10-Q for the quarter ended
+July 31, 2002, 
+ and incorporated herein by reference. 
+
+(13) 
+
+Filed as an exhibit to the Company's Registration Statement on Form S-8, File Number
+333-86846, which 
+ was filed on April 24, 2002, and incorporated herein by reference. 
+
+(14) 
+
+Filed as an exhibit to the Company's Registration Statement on Form S-3, File Number
+333-105918, which 
+ was filed on June 6, 2003 and incorporated herein by reference. 
+
+(15) 
+
+Filed as an exhibit to the Company's Annual Report on Form 10-K for the fiscal year ended
+November 3, 
+ 2002, and incorporated herein by reference. 
+
+(16) 
+
+Filed as an exhibit to the Company's Quarterly Report on Form 10-Q for the quarter ended
+May 4, 2003, and 
+ incorporated herein by reference. 
+
+COPIES OF EXHIBITS WILL BE
+PROVIDED TO SHAREHOLDERS UPON REQUEST. 
+
+-51- 
+
+10-K
+ 3
+ plab_10k-2003.pdf
+ FORM 10-K 2003 - PRINTER FRIENDLY VERSION
+
+<EX-23>
+ 4
+ plab_exht23.htm
+ INDEPENDENT AUDITORS' CONSENT
+
+EXHIBIT 23 
+
+EXHIBIT 23 
+
+Independent Auditors' Consent 
+
+We consent to the incorporation by reference in Registration
+Statements Nos. 333-02245, 333-42010, 333-50809, 333-86846, 33-17530, 33-28118 and 33-78102 on Form S-8 and Registration Statement
+Nos. 333-105918 and 333-88122 on Form S-3 of Photronics, Inc. of our report dated December 5, 2003 (which report expresses an
+unqualified opinion and includes an explanatory paragraph relating to the Company changing its method of accounting for goodwill
+and other intangible assets in 2002) appearing in this Annual Report on Form 10-K of Photronics, Inc. for the year ended November
+2, 2003. 
+
+/s/ Deloitte Touche LLP 
+ Hartford, Connecticut 
+ January 26, 2004 
+
+</EX-23>
+
+<EX-31.1>
+ 5
+ plab_exh31-1.htm
+ CERTIFICATION OF THE CHIEF EXECUTIVE OFFICER
+
+Exhibit 31.1 
+
+EXHIBIT 31.1 
+
+Rule 13a-14(a)/15d-14(a) Certification of the Chief Executive Officer 
+
+I, Daniel Del Rosario, Chief Executive Officer of Photronics, Inc., certify that: 
+
+1. 
+
+I have reviewed this annual report on Form 10-K of Photronics, Inc. 
+
+2. 
+
+Based on my knowledge, this annual report does not contain any untrue statement of a material fact or omit to state a material
+fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading
+with respect to the period covered by this annual report. 
+
+3. 
+
+Based on my knowledge, the financial statements, and other financial information included in this annual report, fairly present
+in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the
+periods presented in this annual report. 
+
+4. 
+
+The registrant's other certifying officer and I are responsible for establishing and maintaining disclosure controls and
+procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) for the registrant and have: 
+
+a) 
+
+designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our
+supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known
+to us by others within those entities, particularly during the period in which this annual report is being prepared; 
+
+b) 
+
+evaluated the effectiveness of the registrant's disclosure controls and procedures and presented in this annual report our
+conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this annual
+report based on such evaluation; and 
+
+c) 
+
+disclosed in this annual report any change in the registrant's internal control over financial reporting that occurred during
+the registrant's most recent fourth fiscal quarter that has materially affected, or is reasonably likely to materially affect, the
+registrant's internal control over financial reporting; and 
+
+5. 
+
+The registrant's other certifying officer and I have disclosed, based on our most recent evaluation of internal control over
+financial reporting, to the registrant's auditors and the audit committee of the registrant's board of directors: 
+
+a) 
+
+all significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting
+which are reasonably likely to adversely affect the registrant's ability to record, process, summarize and report financial
+information; and 
+
+b) 
+
+any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant's
+internal control over financial reporting. 
+
+January 26, 2004 
+
+/s/ DANIEL DEL ROSARIO 
+
+Daniel Del Rosario 
+ Chief Executive Officer 
+
+</EX-31.1>
+
+<EX-31.2>
+ 6
+ plab_exh31-2.htm
+ CERTIFICATION OF THE CHIEF FINANCIAL OFFICER
+
+Exhibit 31.2 
+
+EXHIBIT 31.2 
+
+Rule 13a-14(a)/15d-14(a) Certification of the Chief Financial Officer 
+
+I, Sean T. Smith, Chief Financial Officer of Photronics, Inc., certify that: 
+
+1. 
+
+I have reviewed this annual report on Form 10-K of Photronics, Inc. 
+
+2. 
+
+Based on my knowledge, this annual report does not contain any untrue statement of a material fact or omit to state a material
+fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading
+with respect to the period covered by this annual report. 
+
+3. 
+
+Based on my knowledge, the financial statements, and other financial information included in this annual report, fairly present
+in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the
+periods presented in this annual report. 
+
+4. 
+
+The registrant's other certifying officer and I are responsible for establishing and maintaining disclosure controls and
+procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) for the registrant and have: 
+
+a) 
+
+designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our
+supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known
+to us by others within those entities, particularly during the period in which this annual report is being prepared; 
+
+b) 
+
+evaluated the effectiveness of the registrant's disclosure controls and procedures and presented in this annual report our
+conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this annual
+report based on such evaluation; and 
+
+c) 
+
+disclosed in this annual report any change in the registrant's internal control over financial reporting that occurred during
+the registrant's most recent fourth fiscal quarter that has materially affected, or is reasonably likely to materially affect, the
+registrant's internal control over financial reporting; and 
+
+5. 
+
+The registrant's other certifying officer and I have disclosed, based on our most recent evaluation of internal control over
+financial reporting, to the registrant's auditors and the audit committee of the registrant's board of directors: 
+
+a) 
+
+all significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting
+which are reasonably likely to adversely affect the registrant's ability to record, process, summarize and report financial
+information; and 
+
+b) 
+
+any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant's
+internal control over financial reporting. 
+
+January 26, 2004 
+
+/s/ SEAN T. SMITH 
+
+Sean T. Smith 
+ Chief Financial Officer 
+
+</EX-31.2>
+
+<EX-32.1>
+ 7
+ plab_exh32-1.htm
+ SECTION 1350 - CERTIFICATION OF THE CHIEF EXECUTIVE OFFICER
+
+EXHIBIT 32.1 
+
+EXHIBIT 32.1 
+ 
+ Section 1350 Certification of the Chief Executive Officer 
+
+I, Daniel Del Rosario, Chief Executive Officer of Photronics, Inc. (the "Company"),
+certify, pursuant to Section 906 of the Sarbanes-Oxley Act of 2002, 18 U.S.C. Section 1350, that, to my knowledge: 
+
+(1) the Annual Report on Form 10-K of the Company for the
+fiscal year ended November 2, 2003 (the "Report") fully complies with the requirements of Section 13(a) or 15(d) of the Securities
+Exchange Act of 1934 and 
+
+(2) the information contained in the Report fairly presents,
+in all material respects, the financial condition and results of operations of the Company. 
+
+/s/ DANIEL DEL ROSARIO 
+
+Daniel Del Rosario 
+
+Chief Executive Officer 
+
+January 26, 2004 
+
+</EX-32.1>
+
+<EX-32.2>
+ 8
+ plab_exh32-2.htm
+ SECTION 1350 - CERTIFICATION OF THE CHIEF FINANCIAL OFFICER
+
+EXHIBIT 32.2 
+
+EXHIBIT 32.2 
+ 
+ Section 1350 Certification of the Chief Financial Officer 
+
+I, Sean T. Smith, Chief Financial Officer of Photronics, Inc. (the "Company"), certify,
+pursuant to Section 906 of the Sarbanes-Oxley Act of 2002, 18 U.S.C. Section 1350, that, to my knowledge: 
+
+(1) the Annual Report on Form 10-K of the Company for the
+fiscal year ended November 2, 2003 (the "Report") fully complies with the requirements of Section 13(a) or 15(d) of the Securities
+Exchange Act of 1934 and 
+
+(2) the information contained in the Report fairly presents,
+in all material respects, the financial condition and results of operations of the Company. 
+
+/s/ SEAN T. SMITH 
+
+Sean T. Smith 
+
+Chief Financial Officer 
+
+January 26, 2004 
+
+</EX-32.2>
+

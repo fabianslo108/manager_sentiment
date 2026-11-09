@@ -1,0 +1,2923 @@
+<Header>
+<FileStats>
+    <FileName>20040129_10-K_edgar_data_930454_0001193125-04-011142.txt</FileName>
+    <GrossFileSize>165552</GrossFileSize>
+    <NetFileSize>135272</NetFileSize>
+    <NonText_DocumentType_Chars>0</NonText_DocumentType_Chars>
+    <HTML_Chars>972</HTML_Chars>
+    <XBRL_Chars>0</XBRL_Chars>
+    <XML_Chars>0</XML_Chars>
+    <N_Exhibits>5</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0001193125-04-011142.hdr.sgml : 20040129
+<ACCEPTANCE-DATETIME>20040129140813
+ACCESSION NUMBER:		0001193125-04-011142
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		6
+CONFORMED PERIOD OF REPORT:	20031031
+FILED AS OF DATE:		20040129
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			UST PRIVATE EQUITY INVESTORS FUND INC
+		CENTRAL INDEX KEY:			0000930454
+		IRS NUMBER:				133786385
+		STATE OF INCORPORATION:			MD
+		FISCAL YEAR END:			1031
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	814-00158
+		FILM NUMBER:		04551720
+
+	BUSINESS ADDRESS:	
+		STREET 1:		114 WEST 47TH ST
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10036
+		BUSINESS PHONE:		2128521000
+
+	MAIL ADDRESS:	
+		STREET 1:		114 WEST 47TH STREET
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10036
+
+</SEC-Header>
+</Header>
+
+ 
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ BMEPABGt0yJdh3yOuCamuocTTEnBPdEglhFz7xuAXpIFFzum72npT2lMRTAIxWaW
+ A+IlUvvy6E/kZdxs0m56OQ==
+
+ 0001193125-04-011142.txt : 20040129
+
+10-K
+ 1
+ d10k.txt
+ UST PRIVATE EQUITY INVESTORS FUND, INC.
+
+================================================================================
+
+ SECURITIES AND EXCHANGE COMMISSION
+ WASHINGTON, D.C. 20549
+
+ ----------
+
+ FORM 10-K
+
+ FOR ANNUAL AND TRANSITION REPORTS
+ PURSUANT TO SECTIONS 13 OR 15(d) OF THE
+ SECURITIES EXCHANGE ACT OF 1934
+
+[X] ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE
+ ACT OF 1934
+For the fiscal year ended October 31, 2003
+
+ OR
+
+[_] TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES
+ EXCHANGE ACT OF 1934
+For the transition period from ______ to ______
+
+ Commission file number: 000-24856
+
+ ----------
+
+ UST PRIVATE EQUITY INVESTORS FUND, INC.
+ (Exact Name of Registrant as Specified in Its Charter)
+
+ MARYLAND 13-3786385
+(State or Other Jurisdiction of (I.R.S. Employer Identification No.)
+Incorporation or Organization)
+
+ 225 High Ridge Road
+ Stamford, CT 06905
+ (Address of Principal Executive Offices)
+
+ Registrant's telephone number, including area code: (203) 352-4400
+
+ Securities registered pursuant to Section 12(b) of the Act: NONE
+
+ Securities registered pursuant to Section 12(g) of the Act:
+ COMMON STOCK 0.01 PAR VALUE PER SHARE
+ (Title of Class)
+
+ ----------
+
+Indicate by check mark whether the registrant: (1) has filed all reports
+required to be filed by Section 13 or 15(d) of the Securities Exchange Act of
+1934 during the preceding 12 months (or for such shorter period that the
+registrant was required to file such reports), and (2) has been subject to such
+filing requirements for the past 90 days.
+Yes [X] No[_]
+
+Indicate by check mark if disclosure of delinquent filers pursuant to Item 405
+of Regulation S-K is not contained herein, and will not be contained, to the
+best of registrant's knowledge, in definitive proxy or information statements
+incorporated by reference in Part III of this Form 10-K or any amendment to this
+Form 10-K. [X]
+
+Indicate by check mark whether the registrant is an accelerated filer (as
+defined in Rule 12b-2 of the Act).
+Yes [_] No[X]
+
+The registrant's common stock is not listed on any exchange nor does it trade on
+any established securities market or other market.
+
+================================================================================
+
+TABLE OF CONTENTS
+
+Item No. Form 10-K
+- -------- Report Page
+ -----------
+ PART I
+
+ 1. Business 1
+ 2. Properties 4
+ 3. Legal Proceedings 4
+ 4. Submission of Matters to a Vote of Security Holders 4
+
+ PART II
+
+ 5. Market for Registrant's Common Equity and Related
+ Stockholder Matters 4
+ 6. Selected Financial Data 4
+ 7. Management's Discussion and Analysis of Financial
+ Condition and Results of Operations 5
+ 7A. Quantitative and Qualitative Disclosures About Market
+ Risk 8
+ 8. Financial Statements and Supplementary Data 8
+ 9. Changes in and Disagreements with Accountants on
+ Accounting and Financial Disclosure 22
+ 9A. Controls and Procedures 22
+
+ PART III
+
+ 10. Directors and Executive Officers of the Registrant 22
+ 11. Executive Compensation 25
+ 12. Security Ownership of Certain Beneficial Owners and
+ Management 25
+ 13. Certain Relationships and Related Transactions 26
+ 14. Principal Accountant Fees and Services 26
+
+ PART IV
+
+ 15. Exhibits, Financial Statement Schedules, and Reports
+ on Form 8-K 26
+
+- --------------------------------------------------------------------------------
+ FACTORS THAT MAY AFFECT FUTURE RESULTS
+
+ The Company's prospects are subject to certain uncertainties and risks.
+This Annual Report on Form 10-K contains certain forward-looking statements
+within the meaning of the federal securities laws that also involve substantial
+uncertainties and risks. The Company's future results may differ materially from
+its historical results and actual results could differ materially from those
+projected in the forward-looking statements as a result of certain risk factors.
+Readers should pay particular attention to the considerations described in the
+section of this report entitled "Management's Discussion and Analysis of
+Financial Condition and Results of Operations." Readers should also carefully
+review the risk factors described in the other documents the Company files, or
+has filed, from time to time with the Securities and Exchange Commission.
+- --------------------------------------------------------------------------------
+
+PART I
+
+ITEM 1. BUSINESS.
+
+Overview
+
+ UST Private Equity Investors Fund, Inc. (the "Company" or the "Fund") is a
+Maryland corporation organized on September 16, 1994. The Company is a
+non-diversified, closed-end management investment company operating as a
+business development company ("BDC") under the Investment Company Act of 1940
+("Investment Company Act"), as amended, and, in connection with its initial
+offering of shares, registered said offering of shares under the Securities Act
+of 1933, as amended. BDCs are a special type of investment company, as defined
+and regulated by the Investment Company Act of 1940, which focus primarily on
+investing in the privately issued securities of eligible portfolio companies,
+as defined by the Investment Company Act. A BDC must also make available
+significant managerial assistance to such companies. The Company's investment
+objective is to achieve long-term capital appreciation by investing in private
+later-stage venture capital and private middle-market companies and in certain
+venture capital, buyout and private equity funds that the Managing Investment
+Adviser (defined herein) believes offer significant long-term capital
+appreciation.
+
+ U.S. Trust Company, N.A., acting through its registered investment
+advisory division, U.S. Trust Company, N.A. Asset Management Division serves
+with United States Trust Company of New York, acting through its registered
+investment advisory division, U.S. Trust - New York Asset Management Division
+(each an "Investment Adviser" and together, the "Managing Investment Adviser"
+or "U.S. Trust") provide investment management services to the Company pursuant
+to a management agreement dated July 18, 2000 (the "Management Agreement").
+U.S. Trust Company, N.A. and United States Trust Company of New York are each a
+wholly-owned subsidiary of U.S. Trust Corporation, a registered bank holding
+company. U.S. Trust Corporation is an indirect wholly-owned subsidiary of The
+Charles Schwab Corporation. All officers of the Company are employees and/or
+officers of the Managing Investment Adviser. The Managing Investment Adviser is
+responsible for performing the management and administrative services necessary
+for the operation of the Company.
+
+ Pursuant to a Registration Statement on Form N-2 (File No. 33-84290) which
+was declared effective on December 16, 1994, the Company publicly offered up to
+50,000 shares of common stock at 1,000 per share. The Company held its initial
+and final closings on each of July 31, 1995 and October 31, 1995 representing
+over 28.0 million and 12.4 million, respectively. The Company sold a total of
+40,463 shares in the public offering for gross proceeds totaling 40,463,000
+(including one share purchased for 1,000 as of September 19, 1994 by David I.
+Fann, the Company's President and Co-Chief Executive Officer). Shares of the
+Company were made available through U.S. Trust Company of California, N.A. (the
+"Selling Agent") to clients of U.S. Trust and its affiliates who met the
+Company's investor suitability standards.
+
+ In connection with the public offering of the Company's shares, the
+Managing Investment Adviser paid to the Selling Agent a commission totaling
+ 10,000. The Company incurred offering costs associated with the public
+offering totaling 345,891. Net proceeds to the Company from the public
+offering, after offering costs, totaled 40,117,109.
+
+ The Company's Articles of Incorporation provide that the duration of the
+Company will be ten years from the final closing of the sale of the shares,
+subject to the rights of the Managing Investment Adviser and the investors to
+extend the term of the Company.
+
+ The following is a summary of the Company's investment portfolio over its
+life.
+
+ Investments Held -- Private Investment Funds
+
+ 1
+
+. Allegra Capital Partners III, L.P. ("Allegra") is a later-stage fund
+ based in New York City. Allegra invests primarily in companies in the
+ telecommunications, software and service industries with
+ Internet-driven strategies. Allegra has drawn all of the Fund's 2
+ million commitment. At October 31, 2003, the total value (fair market
+ value plus distributions) of this investment was 3.5 million.
+
+ . Brentwood Associates Buyout Fund II, L.P. ("Brentwood") is a buyout
+ and consolidation fund based in Westwood, CA. Brentwood's strategy is
+ to identify industries with consolidation characteristics, develop a
+ strategy for implementation and recruit management to execute that
+ strategy. Brentwood has drawn all of the Fund's 2 million
+ commitment. At October 31, 2003, the total value (fair market value
+ plus distributions) of this investment was 1.5 million.
+
+ . Bruckmann, Rosser, Sherrill & Co., L.P. ("BRS") is a leveraged buyout
+ fund based in New York City. BRS has drawn all of the Fund's 2
+ million commitment. At October 31, 2003, the total value (fair market
+ value plus distributions) of this investment was 2.1 million.
+
+ . Morgenthaler Venture Partners IV, L.P. ("Morgenthaler") is primarily
+ an early stage venture capital fund, investing largely in information
+ technology and healthcare companies, but also investing in buyouts of
+ basic businesses. Morgenthaler has drawn all of the Fund's 2 million
+ commitment. At October 31, 2003, the total value (fair market value
+ plus distributions) of this investment was 3.9 million.
+
+ . Sevin Rosen Fund V, L.P. ("Sevin Rosen") invests in early-stage
+ technology companies, focusing specifically on companies in
+ communications and eBusiness infrastructure and solutions, as well as
+ companies with Internet-enabled business models. Sevin Rosen has
+ drawn all of the Fund's 2 million commitment. At October 31, 2003,
+ the total value (fair market value plus distributions) of this
+ investment was 2.3 million.
+
+ . Vanguard V, L.P. ("Vanguard") is an early-stage fund investing in
+ information technology and healthcare. Vanguard has drawn all of the
+ Fund's 2 million commitment. At October 31, 2003, the total value
+ (fair market value plus distributions) of this investment was 5.2
+ million.
+
+ Investments Sold
+
+ . Accrue Software, Inc. (NASDAQ: ACRU), Cupertino, CA a provider of
+ customer relationship management software, acquired NeoVista Software
+ for 140 million of Accrue stock. The Fund had invested 1.0 million
+ in NeoVista. The Fund liquidated its shares of Accrue, and realized
+ proceeds of 1.3 million or 1.3x its original investment in NeoVista.
+
+ . Best Friends Pet Care, Inc., Norwalk, CT, is the largest operator of
+ pet kennels in the United States. The company's facilities offer a
+ wide range of pet services, including boarding, grooming and
+ training. In June 2001, Best Friends was sold to Brynwood Partners IV
+ L.P. The Fund realized net proceeds of .4 million and realized a
+ loss of 3.1 million.
+
+ . CommSite International, Inc., Vienna, VA, is a provider of wireless
+ towers and construction services. On May 13, 1999, American Tower
+ Corporation (NYSE: AMT) acquired CommSite. The Fund realized its
+ investment cost of 2.7 million from this transaction.
+
+ . Corsair Communications, Inc. (NASDAQ: CAIR), Palo Alto, CA, is a
+ wireless communication infrastructure company providing prepaid
+ cellular handset and fraud detection equipment and software. Corsair
+ completed its initial public offering in July 1997. The Fund sold all
+ of its shares in the company and realized proceeds of 5.1 million or
+ 1.5x on its 3.3 million investment.
+
+ 2
+
+. LogicVision, Inc. (NASDAQ: LGVN), San Jose, CA, is a developer of
+ built-in self-testing technologies used in semiconductor design,
+ testing and manufacture. As semiconductors become more complex, the
+ need to adopt new testing technology becomes critical. LogicVision
+ completed its initial public offering in October 2001. The Fund
+ received proceeds of .5 million in the sale of LogicVision common
+ stock in 2002 and realized a loss of 1.0 million.
+
+ . QuickLogic Corporation (NASDAQ: QUIK), Sunnyvale, CA, designs,
+ manufactures and markets high-capacity programmable logic
+ semiconductors, known as field programmable gate arrays, along with
+ comprehensive design software. The company's products shorten the
+ design cycle for electronic systems, accelerating time-to-market.
+ QuickLogic completed its initial public offering in October 1999. The
+ Fund sold its shares of QuickLogic for 8.2 million or 2.7x the cost
+ of the original investment.
+
+ . Rental Services Corporation (NYSE: RSV), Scottsdale, AZ, is a
+ consolidator of heavy equipment rental businesses. The Fund invested
+ 1 million in January 1996. In September 1996, Rental Services Corp.
+ completed its initial public offering. The Fund sold its shares in
+ the company for over 3 million and realized a return of 3.1x on its
+ investment.
+
+ . Signius Corporation (formerly known as ProCommunications, Corp.),
+ Somerset, NJ, provides telemessaging services for small and medium
+ sized businesses. In March 2000, Signius was sold for a nominal
+ amount and the Fund realized a 3.4 million loss.
+
+ Investments Written Off
+
+ . AbTox, Inc., Mundelein, IL, manufactured gas plasma sterilizers. The
+ company filed for bankruptcy in 1999 due to operating problems
+ arising from regulatory issues related to one of its products. The
+ Fund received 250,000 as part of the settlement of claims with the
+ bankruptcy trustee in 2001. In 2002, the Fund received a nominal
+ distribution pursuant to AbTox's liquidating plan and realized a 2.6
+ million loss.
+
+ . Cardiopulmonary Corporation, Milford, CT, is a manufacturer of a
+ smart ventilator, used in the acute and sub-acute hospital market
+ that adapts to patient's changing breathing patterns. The Fund's 2.2
+ million investment was written off in 2000 as a result of the
+ recapitalization of the company.
+
+ . P2 Holdings Corporation (formerly known as Plynetic Express), San
+ Leandro, CA, was a provider of rapid prototyping and rapid tooling
+ services. The company filed for bankruptcy in 1998 and the Fund
+ received no recovery of its 2.8 million investment.
+
+ . Party Stores Holdings, Inc., Melville, NY, operated the Party
+ Experience, Paperama, and Paper Cutter retail stores and filed for
+ bankruptcy in 1998 and the Fund received no recovery of its 2.1
+ million investment.
+
+ For additional information concerning the Company's investments, see the
+financial statements beginning on page 10 of this report.
+
+Competition
+
+ The Company encounters competition from other entities and individuals
+having similar investment objectives. Primary competition for desirable
+investments comes from investment partnerships, venture capital affiliates of
+large industrial and financial companies, investment companies and wealthy
+individuals. Some of the competing entities and individuals have investment
+managers or advisers with greater experience, resources and managerial
+capabilities than the Company and may therefore be in a stronger position than
+the Company to obtain access to attractive investments. To the extent that the
+Company can compete for such investments, it may not be able to do so on terms
+as favorable as those obtained by larger, more established investors.
+
+ 3
+
+Employees
+
+ At October 31, 2003, the Company had no full-time employees. All personnel
+of the Company are employed by and compensated by the Managing Investment
+Adviser pursuant to the Management Agreement.
+
+ITEM 2. PROPERTIES.
+
+ The Company does not own or lease any physical properties.
+
+ITEM 3. LEGAL PROCEEDINGS.
+
+ None.
+
+ITEM 4. SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS.
+
+ None.
+
+ PART II
+
+ITEM 5. MARKET FOR REGISTRANT'S COMMON EQUITY AND RELATED STOCKHOLDER MATTERS.
+
+Market Information
+
+ The Company has 50,000 authorized shares. As of December 31, 2003, 40,463
+shares were issued and outstanding. There is no established public trading
+market for the Company's shares.
+
+Holders
+
+ There were 837 holders of the Company's shares as of December 31, 2003.
+
+Dividends and Distributions
+
+ Fiscal Year Ended October 31, 2003. There were no dividends or
+distributions paid during fiscal year 2003.
+
+ Fiscal Year Ended October 31, 2002. On January 7, 2002, the Company paid a
+distribution of 71.81 per share of return of capital. On October 31, 2002, the
+Company paid a distribution of 34.06 per share of return of capital and a
+dividend of 4.77 per share of net investment income.
+
+ For additional information concerning the payment of dividends, see
+"Significant Accounting Policies" in the notes to the financial statements of
+the Company included in Item 8 hereof.
+
+ITEM 6. SELECTED FINANCIAL DATA.
+ in 000's except for per share data)
+
+Fiscal Year Ended 10/31/03 10/31/02 10/31/01 10/31/00 10/31/99
+
+ Financial Position
+Investments in securities 2,789 3,669 13,554 33,028 47,205
+Other Assets 259 483 806 235 561
+Total Assets 3,048 4,152 14,360 33,264 47,765
+
+ 4
+
+Notes Payable -- -- -- -- 7,000
+Liabilities 223 171 225 1,795 470
+Net Assets 2,825 3,981 14,135 31,469 40,295
+ Changes in Net Assets
+Net investment income (loss) (48) (98) (113) (50) (237)
+Net gain (loss) on
+ investments (1,108) (6,006) (11,363) 13,344 3,220
+Net change in incentive fees -- 426 1,136 (1,334) (228)
+Dividends -- 4,477 6,994 20,786 368
+ Per Share Data
+Net Assets 69.82 98.39 349.34 777.72 995.85
+Dividends Paid -- 110.64 172.84 513.71 9.08
+
+ITEM 7. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS
+ OF OPERATIONS.
+
+Liquidity and Capital Resources
+
+ At October 31, 2003, the Company held 86,455 in cash and 1,130,706 in
+short-term investments as compared to 0 in cash and 412,474 in short-term
+investments at October 31, 2002. During fiscal 2003, the Company received
+distributions from several of its private investment funds, as well as the
+payment of the management incentive fee receivable from the Managing Investment
+Adviser at October 31, 2002. The Company held a Special Meeting of Shareholders
+on December 23, 2003 for the purpose of seeking shareholder approval of the
+Purchase and Sale Agreement (the "Agreement" -- see Note 1(a) to the financial
+statements) and the Plan of Liquidation and Dissolution (the "Plan"). The
+Agreement and Plan must be approved by a shareholder vote of at least two-thirds
+of the Company's shares issued and outstanding. Under the Plan, the Company will
+liquidate its assets, make a provision for the satisfaction of its remaining
+obligations, and make a final liquidating distribution to its shareholders. At
+the December 23, 2003 Special Meeting of Shareholders, 53 of the outstanding
+shares of the company were represented by proxy vote. The Plan must be approved
+by a shareholder vote of at least two-thirds of the Company's shares issued and
+outstanding. Therefore, the Special Meeting of Shareholders was adjourned until
+January 21, 2004 in order to permit the further solicitation of proxy votes. At
+the January 21, 2004 Special Meeting of Shareholders, the required number of
+votes were obtained and the Agreement and Plan were approved. Accordingly, as of
+this date, the Company is pursing its plan to liquidate its assets, satisfy its
+remaining obligations, and make a final liquidating distribution to
+shareholders.
+
+Results of Operations
+
+Investment Income and Expenses
+
+ For the fiscal year ended October 31, 2003, the Company had investment
+income of 12,246 and operating expenses, net of expenses reimbursed by the
+Managing Investment Adviser, of 60,528, resulting in a net investment loss of 48,282). For the fiscal year ended October 31, 2002, the Company had
+investment income of 37,850 and operating expenses, net of expenses reimbursed
+by the Managing Investment Adviser, of 135,433, resulting in a net investment
+loss of 97,583). For the fiscal year ended October 31, 2001, the Company had
+investment income of 148,317 and operating expenses, net of expenses reimbursed
+by the Managing Investment Adviser, of 261,411, resulting in a net investment
+loss of 113,094). The decrease in the Company's net investment income is
+attributable to a reduced level of interest-bearing assets, as well as an
+overall decrease in short-term interest rates over the period. The decrease in
+net operating expenses is primarily attributable to the lower managing
+investment advisory fees paid as a result of declining net assets over time. The
+Company has reflected in the October 31, 2003 financial statements accrued
+liquidation expenses of 65,000 which were estimated to be incurred as part of
+its implementation of the Plan. The liquidation expenses were reimbursed to the
+Company by the Managing Investment Adviser as part of the voluntary
+reimbursement.
+
+ 5
+
+The Managing Investment Adviser provides investment management and
+administrative services required for the operation of the Company. In
+consideration of the services rendered by the Managing Investment Adviser, the
+Company pays a management fee based upon a percentage of the net assets of the
+Company invested or committed to be invested in certain types of investments and
+an incentive fee based in part on a percentage of net realized capital gains of
+the Company. The management fee is determined and payable quarterly. For the
+fiscal years ended October 31, 2003, 2002 and 2001, the Managing Investment
+Adviser earned 44,315, 105,251, and 231,165 in management fees, respectively.
+For the same periods, the Managing Investment Adviser reimbursed other operating
+expenses of the Company in the amount of 295,510, 224,571, and 295,736 as a
+result of expenses incurred in excess of these limits. In addition, for the
+fiscal years ended October 31, 2002 and 2001, the change in allowance for the
+management incentive fee was 425,788 and 1,136,372, respectively, resulting in
+receivables to the Company. The Company received recoupment of the management
+incentive fee receivables of 425,788 and 680,558 during the fiscal years ended
+October 31, 2003 and 2002, respectively. As of October 31, 2003, there was no
+incentive fee receivable from the Managing Investment Adviser or payable by the
+Company.
+
+Net Assets
+
+ At the fiscal year ended October 31, 2003, the Company's net assets were
+ 2,825,018, a decline of 1,155,959) from net assets of 3,980,977 at October
+31, 2002. The Company's net asset value per common share was 69.82 at October
+31, 2003 down 28.57) per share from the net asset value per common share of
+ 98.39 at October 31, 2002. At the fiscal year ended October 31, 2002, the
+Company's net assets were 3,980,977, a decline of 10,154,498) from net assets
+of 14,135,475 at October 31, 2001. The Company's net asset value per common
+share was 98.39 at October 31, 2002 down 250.95) per share from the net asset
+value per common share of 349.34 at October 31, 2001. This decline stemmed from
+the Company's net operating loss as well as distributions paid to shareholders
+during the fiscal year.
+
+ For the fiscal year ended October 31, 2003, the Company had a net decrease
+in net assets resulting from operations of 1,155,959) or 28.57) per share.
+This decline was mainly attributable to declines in the valuation of the
+Company's private investment funds, which were valued on a liquidation basis
+pursuant to the Plan. For the fiscal year ended October 31, 2002, the Company
+had a net decrease in net assets resulting from operations of 5,677,691) or 140.31) per share and paid distributions to shareholders during the period
+totaling 4,476,807) or 110.64) per share. The net loss from operations was
+the result of several factors including: 1) realized losses in connection with
+the sale of LogicVision, Inc. and QuickLogic Corporation, both public stock
+positions, totaling 1,282,157) or 31.69) per share, 2) a realized loss in
+the amount of 2,546,640) or 62.93) per share related to AbTox, Inc., a
+private company investment, due to the conclusion of the company's bankruptcy
+proceeding, 3) net unrealized losses, primarily related to the Company's third
+party private investment funds, totaling 2,177,099) or 53.80) per share, and
+4) a net investment loss of 97,583) or 2.41) per share. The Company also had
+a net change in allowance for the management incentive fee of 425,788 or 10.52
+per share, a reduction in accumulated management incentive fees payable to the
+Managing Investment Adviser, which offset the net realized and unrealized
+losses.
+
+Realized and Unrealized Gains and Losses from Portfolio Investments
+
+ For the fiscal year ended October 31, 2003, the Company had a 1,107,677)
+net realized and unrealized loss from investments, comprised of a 2,902 net
+realized gain on short-term investments and a 1,110,579) net change in
+unrealized depreciation on investments, attributable to declines in the
+valuation of the Company's Private Investment Funds. For the fiscal year ended
+October 31, 2002, the Company had a 6,005,896) net realized and unrealized
+loss from investments, comprised of a 3,828,797) net realized loss on
+investments and a 2,177,099) net change in unrealized depreciation on
+investments. For the fiscal year ended October 31, 2001, the Company had a 11,362,833) net realized and unrealized loss from investments, comprised of a 2,728,413) net realized loss on investments and a 8,634,420) net change in
+unrealized depreciation on investments. The net realized loss on investments for
+the fiscal year ended October 31, 2002 is primarily the result of realized
+losses on sales of LogicVision, Inc. and QuickLogic Corporation, both public
+stock positions, totaling 1,282,157) and a realized loss in the amount of 2,546,640) related to AbTox, Inc., a private company investment, due to the
+conclusion of the company's bankruptcy proceeding. During fiscal 2002, the
+Company also recorded net unrealized losses, primarily attributable to lower
+valuations of its private investment funds. The net realized loss on investments
+for the fiscal
+
+ 6
+
+year ended October 31, 2001 is primarily the result of sales of Accrue Software,
+Inc. and Best Friends, Inc., offset by the gain on sale of several stock
+distributions from private fund investments. The net change in unrealized
+depreciation during fiscal 2001 was primarily the result of valuation declines
+in the Company's private investment funds.
+
+Application of Critical Accounting Policies
+
+ Under the supervision of the Company's Valuation and Audit Committees,
+consisting of the independent directors of the Company, the Investment Advisers
+make certain critical accounting estimates with respect to the valuation of
+private portfolio investments. These estimates could have a material impact on
+the presentation of the Company's financial condition, because in total, they
+currently represent 58.7 of the Company's net assets at October 31, 2003. For
+the private investments held at October 31, changes to these estimates, i.e.
+changes in the valuations of these private investments, resulted in a 1.1
+million decrease in net asset value.
+
+ The value for securities for which no public market exists is difficult to
+determine. Generally speaking, such investments will be valued on a "going
+concern" basis without giving effect to any disposition costs. There is a range
+of values that is reasonable for such investments at any particular time.
+Because of the inherent uncertainty of valuation, the estimated values may
+differ significantly from the values that would have been used had a ready
+market for the securities existed, and the differences could be material.
+
+ Initially, direct private company investments are valued based upon their
+original cost until developments provide a sufficient basis for use of a
+valuation other than cost. Upon the occurrence of developments providing a
+sufficient basis for a change in valuation, direct private company investments
+will be valued by the "private market" or "appraisal" methods of valuation. The
+private market method shall only be used with respect to reliable third party
+transactions by sophisticated, independent investors. The appraisal method shall
+be based upon such factors affecting the company such as earnings, net worth,
+reliable private sale prices of the company's securities, the market prices for
+similar securities of comparable companies, an assessment of the company's
+future prospects or, if appropriate, liquidation value. The values for the
+investments referred to in this paragraph will be estimated regularly by the
+Investment Adviser or a committee of the Board, both under the supervision of
+the Board, and, in any event, not less frequently than quarterly. However, there
+can be no assurance that such value will represent the return that might
+ultimately be realized by the Company from the investments.
+
+ The valuation of the Company's private funds is based upon its pro-rata
+share of the value of the assets of a private fund as determined by such private
+fund, in accordance with its partnership agreement, constitutional or other
+documents governing such valuation, on the valuation date. If such valuation
+with respect to the Company's investments in private funds is not available by
+reason of timing or other event on the valuation date, or are deemed to be
+unreliable by the Investment Advisers, the Investment Advisers, under
+supervision of the Board, shall determine such value based on its judgment of
+fair value on the appropriate date, less applicable charges, if any.
+
+ The Investment Advisers also make estimates regarding discounts on market
+prices of publicly traded securities where appropriate. For securities which
+have legal, contractual or practical restrictions on transfer, a discount of 10 
+to 40 from the public market price will be applied.
+
+ On December 3, 2003, the Company sold its remaining interest in the Private
+Investment Fund Bruckmann, Rosser, Sherrill & Co., LP ("BRS") back to BRS. BRS
+repurchased the Company's interest in BRS for 885,000 and assumed all of the
+Company's commitments with respect to its investment in BRS. The Company has
+reflected the value of this investment on the October 31, 2003 Portfolio of
+Investments at this 885,000 sales price. On December 5, 2003, the Company sold
+its remaining interest in Cardiopulmonary Corp. for one dollar to an unrelated
+third party. The Company executed a "Purchase and Sale Agreement" on October 22,
+2003 to sell its remaining five private investment fund interests to Landmark
+Equity Partners X, L.P. and Landmark IAM Partnership, L.P (the "Purchasers").
+This Purchase and Sale Agreement was amended (the "Agreement") to reflect the
+impact of the December 3, 2003 sale of BRS. The sales price under the Agreement
+is 832,000, with a reduction for any distributions received by the Company
+subsequent to June 30, 2003 from these private investment funds. The Company has
+received distributions totaling 58,944 from these private investment funds from
+July 1, 2003 through October 31, 2003, resulting in an adjusted sales price of
+ 773,057. The Company has reflected this adjusted sales
+
+ 7
+
+price as the estimated fair value of the remaining five private investment funds
+and has allocated this value among each of the five individual Private
+Investment Funds based upon their respective valuations prior to execution of
+the Agreement. Because of the inherent uncertainty of valuation and the general
+illiquidity of the assets being sold, the values may differ significantly from
+the values that would have been used had a ready market for these securities
+existed, and the differences could be material. The Purchasers are not related
+parties to the Company.
+
+ITEM 7A. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK.
+
+ The following discussion includes forward-looking statements. Actual
+results could differ materially from those projected in the forward-looking
+statements.
+
+Equity Price Risk
+
+ At October 31, 2003, the Company's investment portfolio consisted of equity
+securities and private investment funds, representing 58.7 of the Company's net
+assets, which are not publicly traded. These investments are recorded at fair
+value as determined by the Managing Investment Adviser in accordance with
+valuation guidelines adopted by the Board of Directors. This method of valuation
+does not result in increases or decreases in the fair value of these equity
+securities in response to changes in market prices. Thus, these equity
+securities are not subject to equity price risk normally associated with public
+equity markets. At October 31, 2002, the Company held no investments in the
+equity securities of public companies. At October 31, 2001, publicly traded
+equity securities were valued at 1,733,075. Thus, there was exposure to equity
+price risk, estimated as the potential loss in fair value due to a hypothetical
+10 decrease in quoted market prices, of approximately a 173,308) decrease in
+the value of these securities. These securities were subsequently sold during
+fiscal 2002.
+
+ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA.
+
+Independent Auditors' Report
+
+Portfolios of Investments at October 31, 2003 and October 31, 2002
+
+Statements of Assets and Liabilities at October 31, 2003 and October 31, 2002
+
+Statements of Operations for the years ended October 31, 2003, October 31, 2002
+and October 31, 2001
+
+Statements of Changes in Net Assets for the years ended October 31, 2003,
+October 31, 2002 and October 31, 2001
+
+Statements of Cash Flows for the years ended October 31, 2003, October 31, 2002
+and October 31, 2001
+
+Financial Highlights - Selected Per Share Data and Ratios for the years ended
+October 31, 2003, October 31, 2002, October 31, 2001, October 31, 2000 and
+October 31, 1999
+
+Notes to Financial Statements
+
+Note - All other schedules are omitted because of the absence of conditions
+under which they are required or because the required information is included in
+the financial statements or the notes thereto.
+
+ 8
+
+REPORT OF ERNST & YOUNG LLP, INDEPENDENT AUDITORS
+
+Shareholders and Board of Directors
+UST Private Equity Investors Fund, Inc.
+
+ We have audited the accompanying statement of assets and liabilities
+(liquidation basis) of UST Private Equity Investors Fund, Inc. (the "Company"),
+including the portfolio of investments (liquidation basis), as of October 31,
+2003, the statement of assets and liabilities, including the portfolio of
+investments, as of October 31, 2002, the related statements of operations,
+changes in net assets and cash flows for each of the three years in the period
+ended October 31, 2003, and the financial highlights for each of the five years
+in the period ended October 31, 2003. These financial statements and financial
+highlights are the responsibility of the Company's management. Our
+responsibility is to express an opinion on these financial statements and
+financial highlights based on our audits.
+
+ We conducted our audits in accordance with auditing standards generally
+accepted in the United States. Those standards require that we plan and perform
+the audit to obtain reasonable assurance about whether the financial statements
+and financial highlights are free of material misstatement. An audit includes
+examining, on a test basis, evidence supporting the amounts and disclosures in
+the financial statements and financial highlights. Our procedures included
+confirmation of securities owned as of October 31, 2003 and 2002, by
+correspondence with the custodian, the general partners of the private
+investment funds and the private investment companies. An audit also includes
+assessing the accounting principles used and significant estimates made by
+management, as well as evaluating the overall financial statement presentation.
+We believe that our audits provide a reasonable basis for our opinion.
+
+ As described in Notes 1 and 5 to the financial statements, the Company's
+Board of Directors adopted the Plan of Liquidation of the Company on October 22,
+2003. As a result, the Company has changed its basis of accounting as of October
+31, 2003 from a going concern basis to a liquidation basis.
+
+ In our opinion, the financial statements and financial highlights referred
+to above present fairly, in all material respects, the financial position
+(liquidation basis) of UST Private Equity Investors Fund, Inc. at October 31,
+2003, its financial position at October 31, 2002, the results of its operations,
+its changes in nets assets and its cash flows for each of the three years in the
+period ended October 31, 2003, and the financial highlights for each of the five
+years in the period ended October 31, 2003, in conformity with accounting
+principles generally accepted in the United States applied on the basis
+described in the preceding paragraph.
+
+/s/ Ernst & Young LLP
+Boston, Massachusetts
+January 6, 2004
+
+ 9
+
+UST Private Equity Investors Fund, Inc.
+Portfolio of Investments October 31, 2003 (Liquidation Basis)
+
+Principal Acquisition
+ Amount Date## Value (Note 1)
+- ------------ -------------- --------------
+ 
+ AGENCY OBLIGATIONS -- 38.93 
+ 1,100,000 Federal Home Loan Bank Discount Notes, 0.95 ,
+ 11/05/03 (Cost 1,099,884) 1,099,884
+ --------------
+ Percentage
+ Owned
+- ------------
+ PRIVATE INVESTMENT FUNDS #, @ -- 58.70 
+ 3.88 Allegra Capital Partners III, LP (Cost 1,069,666) 03/96 to 04/00 106,237
+ 1.03 Brentwood Associates Buyout Fund II, LP (Cost 986,605) 01/96 to 04/00 197,863
+ 0.53 Bruckmann, Rosser, Sherrill & Co., LP (Cost 961,263) 12/95 to 04/00 885,000
+ 1.16 Morgenthaler Venture Partners IV, LP (Cost 647,935) 12/95 to 04/00 143,262
+ 1.81 Sevin Rosen Fund V, LP (Cost 1,722,502) 04/96 to 04/00 195,332
+ 2.45 Vanguard V, LP (Cost 1,484,045) 05/96 to 02/99 130,363
+ --------------
+ TOTAL PRIVATE INVESTMENT FUNDS (Cost 6,872,016) 1,658,057
+ --------------
+ Shares
+- ------------
+ PRIVATE COMPANIES #, @, -- 0.00 
+ Common Stocks -- 0.00 
+ Medical Devices -- 0.00 
+ 550,758 Cardiopulmonary Corp. 11/96 to 07/98 --
+ --------------
+ TOTAL PRIVATE COMPANIES (Cost 2,150,000) --
+ INVESTMENT COMPANIES -- 1.09 
+ 30,822 Dreyfus Government Cash Management Fund (Cost 30,822) 30,822
+ --------------
+TOTAL INVESTMENTS (Cost 10,152,722) -- 98.72 2,788,763
+OTHER ASSETS & LIABILITIES (NET) -- 1.28 36,255
+ --------------
+NET ASSETS -- 100.00 2,825,018
+ --------------
+ 
+- ---------
+# Restricted as to public resale. Acquired between December 1, 1995
+ and April 30, 2000. Total cost of restricted securities at October
+ 31, 2003 aggregated 9,022,016. Total value of restricted
+ securities owned at October 31, 2003 was 1,658,057 or 58.70 of
+ net assets.
+## Required disclosure for restricted securities only.
+@ Non-income producing security.
+
+ Notes to Financial Statements are an integral part of these Financial
+ Statements.
+
+ 10
+
+UST Private Equity Investors Fund, Inc.
+Portfolio of Investments at October 31, 2002
+
+Acquisition
+Principal Amount/Shares Date## Value (Note 1)
+- ------------------------------------------------------------------------------------------- --------------
+ 
+U.S. TREASURY OBLIGATIONS-- 7.53 
+ 300,000 U.S. Treasury Bills, 1.49 , 11/29/02 (Cost 299,652) 299,652
+ --------------
+PRIVATE INVESTMENT FUNDS #, @ -- 81.80 
+3.88 Allegra Capital Partners III, LP.................................... 03/96 to 04/00 401,249
+1.03 Brentwood Associates Buyout Fund II, LP............................. 01/96 to 04/00 279,993
+0.53 Bruckmann, Rosser, Sherrill & Co., LP............................... 12/95 to 04/00 1,650,860
+1.16 Morgenthaler Venture Partners IV, LP ............................... 12/95 to 04/00 455,052
+1.81 Sevin Rosen Fund V, LP.............................................. 04/96 to 04/00 208,331
+2.45 Vanguard V, LP .................................................... 05/96 to 02/99 261,048
+ --------------
+ TOTAL PRIVATE INVESTMENT FUNDS (Cost 7,359,913) 3,256,533
+ --------------
+PRIVATE COMPANIES #, @, + -- 0.00 
+ Common and Preferred Stocks -- 0.00 
+ Medical Devices -- 0.00 
+ 515,464 Cardiopulmonary Corp., Series D................................ 11/96 --
+ 35,294 Cardiopulmonary Corp., Series F................................ 07/98 --
+ --------------
+ TOTAL PRIVATE COMPANIES (Cost 2,150,000).............. --
+
+INVESTMENT COMPANIES -- 2.83 
+ 112,822 Dreyfus Government Cash Management Fund (Cost 112,822) ....... 112,822
+ --------------
+TOTAL INVESTMENTS (Cost 9,922,387) -- 92.16 .............................. 3,669,007
+OTHER ASSETS & LIABILITIES (NET) -- 7.84 ................................. 311,970
+ --------------
+NET ASSETS -- 100.00 ...................................................... 3,980,977
+ ==============
+ 
++ At October 31, 2002, the Fund owned 5 or more of Company's outstanding
+ shares thereby making the Company an affiliate as defined by the Investment
+ Company Act of 1940. Total market value of affiliated securities owned at
+ October 31, 2002 was 0.
+# Restricted as to public resale. Acquired between December 1, 1995 and April
+ 30, 2000. Total cost of restricted securities owned at October 31, 2002
+ aggregated 9,509,913. Total market value of restricted securities owned at
+ October 31, 2002 was 3,256,533 or 81.80 of net assets.
+## Required disclosure for restricted securities only.
+@ Non-income producing security.
+
+ Notes to Financial Statements are an integral part of these Financial
+ Statements.
+
+ 11
+
+UST Private Equity Investors Fund, Inc.
+Statements of Assets and Liabilities
+
+ October 31,
+ 2003
+ Liquidation
+ Basis 2002
+ ------------ ------------
+ASSETS:
+ Investments in unaffiliated issuers, at value
+ (Cost 8,002,722 and 7,772,387, respectively) 2,788,763 3,669,007
+ Investments in affiliates, at value (Cost
+ 2,150,000 and 2,150,000, respectively) -- --
+ ------------ ------------
+ Investments, at value (Cost 10,152,722 and
+ 9,9222,387, respectively) (Note 1) 2,788,763 3,669,007
+ Cash .......................................... 86,455 --
+ Receivable from investment adviser (Note 2) ... 172,851 479,962
+ Interest receivable ........................... 24 274
+ Prepaid expenses .............................. 88 3,148
+ ------------ ------------
+ Total Assets ............................... 3,048,181 4,152,391
+LIABILITIES:
+ Professional fees payable ..................... 126,104 83,254
+ Directors' fees payable (Note 2) .............. 66,000 60,000
+ Management fees payable (Note 2) .............. 7,277 13,714
+ Administration fees payable (Note 2) .......... 1,076 1,865
+ Accrued expenses and other payables ........... 22,706 12,581
+ ------------ ------------
+ Total Liabilities .......................... 223,163 171,414
+ ------------ ------------
+NET ASSETS ....................................... 2,825,018 3,980,977
+ ============ ============
+NET ASSETS consist of:
+ Accumulated net realized (loss) on
+ investments .................................. (5,948,268) (6,143,142)
+ Net unrealized (depreciation) on investments .. (7,363,959) (6,253,380)
+ Par value ..................................... 405 405
+ Paid-in capital in excess of par value ........ 16,136,840 16,377,094
+ ------------ ------------
+Total Net Assets ................................. 2,825,018 3,980,977
+ ============ ============
+ Shares of Common Stock Outstanding 0.01 par
+ value, 100,000 Authorized).................... 40,463 40,463
+ ============ ============
+NET ASSET VALUE PER SHARE ........................ 69.82 98.39
+ ============ ============
+
+ Notes to Financial Statements are an integral part of these Financial
+ Statements.
+
+ 12
+
+UST Private Equity Investors Fund, Inc.
+Statements of Operations
+
+Year Ended October 31,
+ 2003 2002 2001
+ ------------ ------------ ------------
+ 
+INVESTMENT INCOME:
+ Interest income ....................... 11,702 24,522 148,317
+ Dividend income ....................... 544 13,328 --
+ ------------ ------------ ------------
+ Total Income ....................... 12,246 37,850 148,317
+EXPENSES:
+ Managing investment adviser fees
+ (Note 2) ............................. 44,315 105,251 231,165
+ Directors' fees and expenses
+ (Note 2) ............................. 66,000 59,000 88,810
+ Administration fees (Note 2) .......... 12,927 22,705 58,000
+ Legal fees ............................ 161,419 111,555 100,000
+ Audit fees ............................ 30,600 30,600 30,600
+ Printing fees ......................... 35,600 20,600 20,600
+ Miscellaneous expenses ................ 5,177 10,293 27,972
+ ------------ ------------ ------------
+ Total Expenses ..................... 356,038 360,004 557,147
+ Expenses reimbursed by Managing
+ Investment Adviser (Note 2) .......... (295,510) (224,571) (295,736)
+ ------------ ------------ ------------
+ Net Expenses ....................... 60,528 135,433 261,411
+ ------------ ------------ ------------
+NET INVESTMENT (LOSS) .................... (48,282) (97,583) (113,094)
+ ------------ ------------ ------------
+NET REALIZED AND UNREALIZED GAIN (LOSS):
+ ON INVESTMENTS (Note 1)
+ Net realized gain (loss)
+ on investments ....................... 2,902 (3,828,797) (2,728,413)
+ Net change in unrealized (depreciation)
+ on Investments ....................... (1,110,579) (2,177,099) (8,634,420)
+ ------------ ------------ ------------
+NET REALIZED AND UNREALIZED (LOSS) ....... (1,107,677) (6,005,896) (11,362,833)
+ ON INVESTMENTS ------------ ------------ ------------
+Net change in allowance for management
+ incentive fee ........................... -- 425,788 1,136,372
+ ------------ ------------ ------------
+NET DECREASE IN NET ASSETS
+ RESULTING FROM OPERATIONS ............... (1,155,959) (5,677,691) (10,339,555)
+ ============ ============ ============
+ 
+ Notes to Financial Statements are an integral part of
+ these Financial Statements.
+
+ 13
+
+UST Private Equity Investors Fund, Inc.
+Statements of Changes in Net Assets
+
+Year Ended October 31,
+ 2003 2002 2001
+ ------------ ------------ ------------
+ 
+OPERATIONS:
+ Net investment (loss) ................. (48,282) (97,583) (113,094)
+ Net realized gain (loss) on
+ investments .......................... 2,902 (3,828,797) (2,728,413)
+ Net change in unrealized (depreciation)
+ on investments ....................... (1,110,579) (2,177,099) (8,634,420)
+ Net change in allowance for management
+ incentive fee ........................ -- 425,788 1,136,372
+ ------------ ------------ ------------
+ Net decrease in net assets resulting
+ from operations ...................... (1,155,959) (5,677,691) (10,339,555)
+DISTRIBUTIONS TO SHAREHOLDERS FROM:
+ In excess of net realized gain ........ -- -- (6,993,802)
+ From net investment income ............ -- (192,934) --
+ Return of capital ..................... -- (4,283,873) --
+ ------------ ------------ ------------
+ Total distributions ................ -- 4,476,807) (6,993,802)
+ ------------ ------------ ------------
+Net (decrease) in net assets ............. (1,155,959) (10,154,498) (17,333,357)
+NET ASSETS:
+ Beginning of year ..................... 3,980,977 14,135,475 31,468,832
+ ------------ ------------ ------------
+ End of year (including undistributed
+ net investment income of 0, 0, and
+ 694,997 respectively) ............... 2,825,018 3,980,977 14,135,475
+ ============ ============ ============
+ 
+ Notes to Financial Statements are an integral part of
+ these Financial Statements.
+
+ 14
+
+UST Private Equity Investors Fund, Inc.
+Statements of Cash Flows
+
+Year Ended October 31,
+ 2003 2002 2001
+ ------------ ------------ ------------
+ 
+CASH FLOWS FROM OPERATING ACTIVITIES:
+ Net (decrease) in net assets resulting
+ from operations ...................... (1,155,959) (5,677,691) (10,339,555)
+ Adjustments to reconcile net
+ (decrease) in net assets resulting
+ from operations to net cash
+ provided by operating activities:
+ Net change in unrealized depreciation
+ on investments ....................... 1,110,579 2,177,099 8,634,420
+ Proceeds received from the sale of
+ investments and distributions received
+ from private investment funds ........ 490,799 1,276,895 3,126,890
+ Net realized loss (gain) on
+ investments .......................... (2,902) 3,828,797 2,728,413
+ Net change in short-term investments... (718,232) 2,601,877 5,210,170
+ Decrease (increase) in receivable from
+ investment adviser ................... 307,111 303,131 (783,093)
+ Decrease in interest receivable ....... 250 2,089 2,880
+ Decrease (increase) in prepaid
+ expenses ............................. 3,060 1,706 (138)
+ Decrease in incentive fees payable .... -- -- (1,106,346)
+ Decrease in deferred incentive
+ fees payable ......................... -- -- (455,814)
+ Increase (decrease) in directors' fees
+ payable .............................. 6,000 (7,000) 311
+ Increase (decrease) in management
+ fees payable ......................... (6,437) 13,714 (64,155)
+ Increase (decrease) in other expenses
+ payable .............................. 52,186 (60,042) 56,051
+ ------------ ------------ ------------
+ Net cash provided by operating
+ activities ........................... 86,455 4,460,575 7,010,034
+ ------------ ------------ ------------
+CASH FLOWS FROM FINANCING ACTIVITIES:
+ Distributions to shareholders ......... -- (4,476,807) (6,993,802)
+ ------------ ------------ ------------
+ Net cash used by financing
+ activities ........................... -- (4,476,807) (6,993,802)
+ ------------ ------------ ------------
+ Net increase (decrease) in cash ....... 86,455 (16,232) 16,232
+Cash at beginning of year ................ -- 16,232 --
+ ------------ ------------ ------------
+Cash at end of year ...................... 86,455 -- 16,232
+ ============ ============ ============
+
+Notes to Financial Statements are an integral part of
+ these Financial Statements.
+
+ 15
+
+UST Private Equity Investors Fund, Inc.
+Financial Highlights--Selected Per Share Data and Ratios
+
+Per Share Operation Performance(1)
+
+Year Ended October 31,
+ 2003 2002 2001 2000 1999
+ ------------ ------------ ------------ ------------ -----------
+ 
+NET ASSET VALUE, BEGINNING OF
+ YEAR .................................... 98.39 349.34 777.72 995.85 936.84
+ ------------ ------------ ------------ ------------ -----------
+INCOME FROM INVESTMENT
+ OPERATIONS:
+ Net Investment (Loss) ................. (1.19) (2.41) (2.79) (1.23) (5.85)
+ Net Realized and Unrealized Gain
+ (Loss) on Investments ............... (27.38) (148.42) (280.83) 329.79 79.57
+ Net Change in Allowance for Management
+ Incentive fee ........................ -- 10.52 28.08 (32.98) (5.63)
+ ------------ ------------ ------------ ------------ -----------
+ Total from Investment Operations ... (28.57) (140.31) (255.54) 295.58 68.09
+ ------------ ------------ ------------ ------------ -----------
+DISTRIBUTIONS:
+ Net Investment Income ................. -- (4.77) -- -- --
+ Net Realized Gain ..................... -- -- -- (276.99) (9.08)
+ In Excess of Net Realized Gain ........ -- -- (172.84) (17.41) --
+ Paid-in Capital ....................... (105.87) -- (219.31) --
+ ------------ ------------ ------------ ------------ -----------
+ Total Distributions ................ -- (110.64) (172.84) (513.71) (9.08)
+ ------------ ------------ ------------ ------------ -----------
+NET ASSET VALUE, END OF YEAR ............. 69.82 98.39 349.34 777.72 995.85
+ ============ ============ ============ ============ ===========
+TOTAL NET ASSET VALUE RETURN(2) .......... (29.04) (40.17) (42.98) 35.41 7.33 
+ ============ ============ ============ ============ ===========
+RATIOS AND SUPPLEMENTAL DATA
+ Net Assets, End of Year (Thousands) ... 2,825 3,981 14,135 31,469 40,295
+ Ratio of Net Operating Expenses to
+ Average Net Assets ................... 1.60 1.50 1.28 1.54 1.62 
+ Ratio of Gross Operating Expenses to
+ Average Net Assets(3) ................ 9.40 3.99 2.72 1.92 2.01 
+ Ratio of Net Investment (Loss) to
+ Average Net Assets ................... (1.27) (1.08) (0.55) (0.14) (0.64) 
+ Interest Expense Ratio ................ N/A N/A N/A 0.01 0.04 
+ Portfolio Turnover Rate ............... 0 0 0 5 10 
+
+(1) For a share outstanding throughout each year.
+(2) Total investment return based on per share net asset value reflects the
+ effects of changes in net asset value based on the performance of the
+ Company during the period, and assumes dividends and distributions, if any,
+ were reinvested. The Company's shares were issued in a private placement
+ and are not traded. Therefore, market value total investment return is not
+ presented.
+(3) Expense ratio before waiver of fees and reimbursement of expenses by
+ Managing Investment Adviser.
+
+ Notes to Financial Statements are an integral part of
+ these Financial Statements.
+
+ 16
+
+UST PRIVATE EQUITY INVESTORS FUND, INC.
+
+ NOTES TO FINANCIAL STATEMENTS
+
+Note 1 -- Significant Accounting Policies
+
+ UST Private Equity Investors Fund, Inc. (the "Company") was incorporated
+under the laws of the State of Maryland on September 16, 1994, and is a
+non-diversified, closed-end management investment company that has elected to be
+treated as a business development company under the Investment Company Act of
+1940, as amended.
+
+ The following is a summary of the Company's significant accounting
+policies. Generally accepted accounting principles in the United States require
+management to make estimates and assumptions that affect the reported amounts
+and disclosures in the financial statements. Actual results could differ from
+these estimates.
+
+ As a result of the Board of Directors adopting the Plan of Liquidation on
+October 22, 2003, the Company adopted the liquidation basis of accounting as of
+October 31, 2003. See Note 5 - Subsequent Event: Plan of Liquidation and
+Dissolution. The liquidation basis of accounting requires that assets and
+liabilities be stated at their estimated fair value and settlement amounts.
+Accordingly, the portfolio of investments and the statement of assets and
+liabilities as of October 31, 2003 reflect assets and liabilities based on their
+estimated fair values and estimated settlement amounts. Changes in the estimated
+liquidation value of assets and liabilities subsequent to October 31, 2003 will
+be recognized in the period in which such changes are known.
+
+ (a) Portfolio valuation:
+
+ The Company values portfolio securities quarterly and at such other
+ times as, in the Board of Directors' view, circumstances warrant.
+ Investments in securities for which market quotations are readily available
+ generally will be valued at the last sale price on the date of valuation
+ or, if no sale occurred, at the mean of the latest bid and ask prices;
+ provided that, as to such securities that may have legal, contractual or
+ practical restrictions on transfer, a discount of 10 to 40 from the
+ public market price will be applied. Securities for which no public market
+ exists and other assets will be valued at fair value as determined in good
+ faith by the Managing Investment Adviser (as defined below) or a committee
+ of the Board of Directors or both under the supervision of the Board of
+ Directors pursuant to certain valuation procedures summarized below.
+ Securities having remaining maturities of 60 days or less from the date of
+ purchase are valued at amortized cost.
+
+ The value for securities for which no public market exists is
+ difficult to determine. Generally, such investments will be valued on a
+ "going concern" basis without giving effect to any disposition costs. There
+ is a range of values that is reasonable for such investments at any
+ particular time. Initially, direct investments are valued based upon their
+ original cost, until developments provide a sufficient basis for use of a
+ valuation other than cost. Upon the occurrence of developments providing a
+ sufficient basis for a change in valuation, direct investments will be
+ valued by the "private market" or "appraisal" methods of valuation. The
+ private market method shall only be used with respect to reliable third
+ party transactions by sophisticated, independent investors. The appraisal
+ method shall be based upon such factors affecting the investee such as
+ earnings, net worth, reliable private sale prices of the investee's
+ securities, the market prices for similar securities of comparable
+ companies, an assessment of the investee's future prospects or, if
+ appropriate, liquidation value. The values for the investments referred to
+ in this paragraph will be estimated regularly by the Managing Investment
+ Adviser or a committee of the Board of Directors under the supervision of
+ the Board of Directors and, in any event, not less frequently than
+ quarterly. However, there can be no assurance that such values will
+ represent the return that might ultimately be realized by the Company from
+ the investments.
+
+ The valuation of the Company's Private Investment Funds is based upon
+ its pro-rata share of the value of the net assets of a Private Investment
+ Fund as determined by such Private Investment Fund, in accordance with its
+ partnership agreement, constitutional or other documents governing such
+ valuation, on the valuation date. If
+
+ 17
+
+such valuation with respect to the Company's investments in Private
+ Investment Funds is not available by reason of timing or other event on the
+ valuation date, or are deemed to be unreliable by the Managing Investment
+ Adviser, the Managing Investment Adviser, under supervision of the Board,
+ shall determine such value based on its judgment of fair value on the
+ appropriate date, less applicable charges, if any.
+
+ On December 3, 2003, the Company sold its remaining interest in the
+ Private Investment Fund Bruckmann, Rosser, Sherrill & Co., LP ("BRS") back
+ to BRS. BRS repurchased the Company's interest in BRS for 885,000 and
+ assumed all of the Company's commitments with respect to its investment in
+ BRS. The Company has reflected the value of this investment on the October
+ 31, 2003 Portfolio of Investments at this 885,000 sales price. On December
+ 5, 2003, the Company sold its remaining interest in Cardiopulmonary Corp.
+ for one dollar to an unrelated third party.
+
+ The Company executed a "Purchase and Sale Agreement" on October 22,
+ 2003 to sell its Private Investment Fund interests to Landmark Equity
+ Partners X, L.P. and Landmark IAM Partnership, L.P (the "Purchasers"). This
+ Purchase and Sale Agreement was amended (the "Agreement") to reflect the
+ impact of the December 3, 2003 sale of BRS. The sales price under the
+ Agreement is 832,000, with a reduction for any distributions received by
+ the Company subsequent to June 30, 2003 from the five remaining Private
+ Investment Funds. The Company has received distributions totaling 58,943
+ from the five remaining Private Investment Funds from July 1, 2003 through
+ October 31, 2003, resulting in an adjusted sales price of 773,057. The
+ Company has reflected this adjusted sales price as the estimated fair value
+ of the remaining five Private Investment Funds as of October 31, 2003 and
+ has allocated this value among each of the five individual Private
+ Investment Funds based upon their respective valuations at June 30, 2003.
+ Because of the inherent uncertainty of valuation and the general
+ illiquidity of the assets being sold, the values may differ significantly
+ from the values that would have been used had a ready market for these
+ securities existed, and the differences could be material. The Purchasers
+ are not related parties to the Company.
+
+ The Agreement must be approved by a shareholder vote of at least
+ two-thirds of the Company's shares issued and outstanding. See Note 5 -
+ Subsequent Event: Plan of Liquidation and Dissolution.
+
+ At October 31, 2003 and October 31, 2002, market quotations were not
+ readily available for securities valued at 1,658,057 or 58.70 of net
+ assets and 3,256,533 or 81.80 of net assets, respectively. Such
+ securities were valued by the Managing Investment Adviser, under the
+ supervision of the Board of Directors. Because of the inherent uncertainty
+ of valuation, the estimated values may differ significantly from the values
+ that would have been used had a ready market for the securities existed,
+ and the differences could be material.
+
+ (b) Security transactions and investment income:
+
+ Security transactions are recorded on a trade date basis. Realized
+ gains and losses on investments sold are recorded on the basis of
+ identified cost. Interest income, adjusted for amortization of premiums and
+ discounts on investments, is earned from settlement date and is recorded on
+ the accrual basis. Dividend income is recorded on the ex-dividend date.
+
+ (c) Repurchase agreements:
+
+ The Company enters into agreements to purchase securities and to
+ resell them at a future date. It is the Company's policy to take receipt of
+ securities purchased and to ensure that the market value of the collateral
+ including accrued interest is sufficient to protect the Company from losses
+ incurred in the event the counterparty does not repurchase the securities.
+ If the seller defaults and the value of the collateral declines or if
+ bankruptcy proceedings are commenced with respect to the seller of the
+ security, realization of the collateral by the Company may be delayed or
+ limited.
+
+ 18
+
+(d) Federal income taxes:
+
+ It is the policy of the Company to continue to qualify as a "regulated
+ investment company" under subchapter M of the Internal Revenue Code and
+ distribute substantially all of its taxable income to its shareholders.
+ Therefore, no federal income or excise tax provision is required.
+
+ Dividends from net investment income are declared and paid at least
+ annually. Any net realized capital gains, unless offset by any available
+ capital loss carryforwards, are distributed to shareholders at least
+ annually. Dividends and distributions are determined in accordance with
+ federal income tax regulations that may differ from generally accepted
+ accounting principles. These "book/tax" differences are either considered
+ temporary or permanent and may be reclassified within the capital accounts
+ based on their federal tax basis treatment. The Company has reclassified
+ certain amounts of net investment loss and net realized loss on investments
+ to paid-in capital due to net operating losses and investment partnership
+ adjustments.
+
+ The Company has an unused capital loss carryforward of approximately
+ 6,986,206 available for income tax purposes, to be applied against future
+ net realized gains, if any, after October 31, 2003. If not applied,
+ 2,261,586 of the carryover will expire in 2009, 3,881,556 will expire in
+ 2010, and 843,064 will expire in 2011. At October 31, 2002, the Company
+ had an unused capital loss carryforward of approximately 6,143,142
+ available for income tax purposes, to be applied against future net
+ realized gains, if any, after October 31, 2002. If not applied, 2,261,586
+ of the carryover will expire in 2009 and 3,881,556 will expire in 2010.
+ Upon liquidation and dissolution, the unused capital loss carryforward will
+ expire. See Footnote 5.
+
+ The tax character of distributions paid may differ from the character
+ of distributions shown on the statement of changes in net assets due to tax
+ treatment of certain distributions. The tax character of distributions paid
+ during the fiscal years ended October 31, 2003 and 2002 were as follows:
+
+2003 2002
+ ---------- ------------
+ Ordinary Income -- 192,934
+ Return of Capital -- 4,283,873
+ ---------- ------------
+ Total -- 4,476,807
+ ---------- ------------
+
+The cost of the Private Investment Funds for federal tax purposes is
+ based on amounts reported to the Company on Schedule K-1 from the Private
+ Investment Funds. As of October 31, 2003, the Company has not received
+ information to determine the tax cost of the Private Investment Funds as of
+ October 31, 2003, and therefore the Company's unrealized gain or loss on a
+ tax basis. The cost basis for federal tax purposes of Company shares owned
+ by its shareholders is determined separately based upon previous Company
+ distributions and is not affected by the delay in receiving information
+ from the Private Investment Funds. At both October 31, 2003 and October 31,
+ 2002, the cost and unrealized loss for federal tax purposes of the Private
+ Companies is 2,150,000. At October 31, 2003 the cost for federal tax
+ purposes of the Agency Obligations and the Investment Companies is
+ 1,099,884 and 30,822, respectively, both resulting in no unrealized gain
+ or loss. At October 31, 2002, the cost of the U.S. Treasury Obligations and
+ Investment Companies was 299,652 and 112,822, respectively, both
+ resulting in no unrealized gain or loss.
+
+ Note 2 -- Investment Advisory Fee, Administration Fee and Related Party
+ Transactions
+
+ Prior to June 1, 2003, and pursuant to an Investment Management
+ Agreement ("Agreement"), United States Trust Company of New York ("U.S.
+ Trust NY") and U.S. Trust Company ("U.S. Trust") served as the Managing
+ Investment Adviser to the Company. Under the Agreement, for the services
+ provided, the Managing Investment Adviser is entitled to receive a
+ management fee at the annual rate of 1.50 of the net assets of the
+ Company, determined as of the end of each fiscal quarter, that are invested
+ or committed to be invested in Private Companies or Private Investment
+ Funds and equal to an annual rate of 0.50 of the net assets of the
+ Company, determined as of the end of each fiscal quarter, that are invested
+ in short-term investments and are
+
+ 19
+
+not committed to Private Companies or Private Investment Funds. Prior to
+ June 1, 2003, and pursuant to a sub-advisory agreement (the "Sub-Advisory
+ Agreement") among the Company, U.S. Trust NY, U.S. Trust and U.S. Trust
+ Company, N.A., U.S. Trust Company, N.A. served during the reporting period
+ as the investment sub-adviser to the Company and received an investment
+ management fee from the Managing Investment Adviser. As of October 31, 2003
+ and October 31, 2002, 7,277, and 13,714, respectively, were payable to
+ the Managing Investment Adviser.
+
+ In addition to the management fee, the Company has agreed to pay the
+ Managing Investment Adviser an incentive fee in an amount equal to 10 of
+ the cumulative realized capital gains (net of realized capital losses and
+ unrealized net capital depreciation), less the aggregate amount of
+ incentive fee payments in prior years. If the amount of the incentive fee
+ in any year is a negative number, or cumulative net realized gains less net
+ unrealized capital depreciation at the end of any year is less than such
+ amount calculated at the end of the previous year, the Managing Investment
+ Adviser will be required to repay the Company all or a portion of the
+ incentive fee previously paid. During the years ended October 31, 2003,
+ 2002, and 2001, the Company recouped 0, 425,788, and 1,136,372,
+ respectively, of incentive fees which had been paid by the Company to the
+ Managing Investment Adviser in prior years.
+
+ U.S. Trust NY is a New York state-chartered bank and trust company and
+ a member bank of the Federal Reserve System. Effective June 1, 2003, U.S.
+ Trust merged into U.S. Trust Company, N.A., a nationally chartered bank.
+ Pursuant to an assumption agreement dated June 1, 2003, U.S. Trust Company,
+ N.A. assumed the duties and obligations of U.S. Trust under the Agreement.
+ Pursuant to a termination agreement among the Company, U.S. Trust NY, U.S.
+ Trust and U.S. Trust Company, N.A., the Sub-Advisory Agreement terminated
+ on June 1, 2003. As a result, U.S. Trust Company, N.A., acting through its
+ registered investment advisory division, U.S. Trust Company, N.A. Asset
+ Management Division, now serves with U.S. Trust NY, acting through its
+ registered investment advisory division, U.S. Trust - New York Asset
+ Management Division, as Managing Investment Adviser to the Company with no
+ investment sub-adviser. The merger had no impact on the management or
+ operations of the investment advisory functions performed for the Company,
+ and did not constitute a change in control. U.S. Trust NY and U.S. Trust
+ Company, N.A. are each a wholly-owned subsidiary of U.S. Trust Corporation,
+ a registered bank holding company. U.S. Trust Corporation is a wholly-owned
+ subsidiary of The Charles Schwab Corporation.
+
+ PFPC, Inc. ("PFPC") provides administrative and accounting services to
+ the Company pursuant to an Administration and Accounting Services
+ Agreement. PFPC Trust Company provides custodian services to the Company
+ pursuant to a Custodian Services Agreement. Also, PFPC provides transfer
+ agency services to the Company pursuant to a Transfer Agency Agreement. For
+ the services provided to the Company by PFPC and its affiliates, PFPC is
+ entitled to an annual fee of 0.02 of average net assets plus reimbursement
+ of reasonable expenses, subject to a base fee, payable monthly.
+
+ The Managing Investment Adviser has voluntarily agreed to waive or
+ reimburse other operating expenses of the Company, exclusive of management
+ fees, to the extent they exceed 0.42 of the Company's average net assets,
+ and will waive or reimburse, exclusive of management fees, all such
+ expenses with respect to that portion of the Company's net assets,
+ determined as of the end of each fiscal quarter, that is invested in
+ short-term investments. This reimbursement amounted to 295,510, 224,571,
+ and 295,756 for the years ended October 31, 2003, October 31, 2002, and
+ October 31, 2001, respectively.
+
+ Each director of the Company receives an annual fee of 9,000, plus a
+ meeting fee of 1,500 for each meeting attended, and is reimbursed for
+ expenses incurred for attending meetings. No person who is an officer,
+ director or employee of the Managing Investment Adviser, or U.S. Trust
+ Corporation or its subsidiaries, who serves as an officer, director or
+ employee of the Company receives any compensation from the Company.
+
+Note 3 -- Purchases and Sales of Securities
+
+ Excluding short-term investments, the Company's purchases and sales of
+securities for the years ended October 31, 2003, October 31, 2002 and October
+31, 2001 were as follows:
+
+ 20
+
+Year Ended October 31, Purchases ) Proceeds Received )
+- ---------------------- ------------- ---------------------
+ 2003 -- 490,799
+ 2002 -- 1,276,895
+ 2001 -- 1,755,513
+
+Note 4 -- Transactions with Affiliated Portfolio Companies
+
+ An affiliated company is a company in which the Company has ownership
+ of over 5 of the voting securities. The Company did not receive dividend
+ or interest income from affiliated companies during the years ended October
+ 31, 2003 and October 31, 2002. Transactions with companies, which are or
+ were affiliates were as follows:
+
+For the Year Ended October 31, 2003
+
+ Shares Shares
+ Held at Realized Held at Cumulative
+ October 31, October 31, Conversion Conversion Gain October 31, Value
+Name of Investment 2003 2002 Value Acquisitions Dispositions (Loss) 2003 (Note 1)
+- ---------------------------------------------------------- ------------ ------------ ---------------------------------------
+ 
+Affiliated Companies
+Cardiopulmonary Corp.,Inc.,
+ Series D Preferred 515,464 -- -- 2,000,000 -- -- --
+Cardiopulmonary Corp.,Inc.,
+ Series F Preferred 35,294 -- -- 150,000 -- -- --
+Cardiopulmonary Corp.,Inc.,
+ Common Stock -- -- 2,150,000 -- -- 550,758 --
+ ------------------------------------------------------- ------------
+ Total Affiliated Companies -- 2,150,000 2,150,000 -- --
+
+For the Year Ended October 31, 2003
+
+ Shares Shares
+ Held at Realized Held at Cumulative
+ October 31, October 31, Conversion Conversion Gain October 31, Value
+Name of Investment 2003 2002 Value Acquisitions Dispositions (Loss) 2003 (Note 1)
+- ---------------------------------------------------------- ------------ ------------ ---------------------------------------
+ 
+Affiliated Companies
+Cardiopulmonary Corp.,Inc.,
+ Series D Preferred 515,464 -- -- -- -- 515,464 --
+Cardiopulmonary Corp.,Inc.,
+ Series F Preferred 35,294 -- -- -- -- 35,294 --
+ Total Affiliated Companies -- -- -- -- --
+
+Note 5 -- Subsequent Event: Plan of Liquidation and Dissolution
+
+ The Company held a Special Meeting of Shareholders on December 23, 2003 for
+the purpose of seeking shareholder approval of the Purchase and Sale Agreement
+(the "Agreement" -- see Note 1(a)) and a Plan of Liquidation and Dissolution
+(the "Plan"). The Agreement and Plan must be approved by a shareholder vote of
+at least two-thirds of the Company's shares issued and outstanding. Under the
+Plan, the Company will liquidate its assets, make a provision for the
+satisfaction of its remaining obligations, and make a final liquidating
+distribution to its shareholders.
+
+ At the December 23, 2003 Special Meeting of Shareholders, 53 of the
+outstanding shares of the Company were represented by proxy vote. The Company
+adjourned the Special Meeting of Shareholders until January 21, 2004 in order to
+permit the further solicitation of proxy votes.
+
+ The Company has reflected in the October 31, 2003 financial statements
+accrued liquidation expenses of 65,000 which were estimated to be incurred as
+part of its implementation of the Plan. The liquidation expenses were reimbursed
+to the Company by the Managing Investment Adviser as part of the voluntary
+reimbursement described in Note 2.
+
+Unaudited
+
+ At the January 21, 2004 Special Meeting of Shareholders, more than
+two-thirds of the outstanding shares of the Company were represented by proxy
+vote and the Agreement and Plan were approved. Accordingly, as of this date, the
+Company is pursing its plan to liquidate its assets, satisfy its remaining
+obligations, and make a final liquidating distribution to shareholders.
+
+21
+
+ITEM 9. CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND
+ FINANCIAL DISCLOSURE.
+
+ None.
+
+ITEM 9A. CONTROLS AND PROCEDURES.
+
+ (a) Evaluation of Disclosure Controls and Procedures. As of October 31,
+2003 (the end of the period covered by this report), the Company's principal
+executive officers and principal financial officer evaluated the effectiveness
+of the Company's disclosure controls and procedures (as defined in Exchange Act
+Rules 13a-15(e) and 15d-15(e)) and have concluded that, based on such
+evaluation, the Company's disclosure controls and procedures were adequate and
+effective to ensure that material information relating to the Company was made
+known to them by others within those entities.
+
+ (b) Changes in Internal Controls. There were no significant changes in the
+Company's internal controls over financial reporting or in other factors that
+could significantly affect these controls subsequent to the date of their
+evaluation, nor were there any significant deficiencies or material weaknesses
+in the Company's internal controls over financial reporting. Accordingly, no
+corrective actions were required or undertaken.
+
+ PART III
+
+ITEM 10. DIRECTORS AND EXECUTIVE OFFICERS OF THE REGISTRANT.
+
+Managers and Officers
+
+ Set forth below are names, ages, positions and certain other information
+concerning the current directors and executive officers of the Company as of
+October 31, 2003.
+
+Served in Present Principal Occupation During Past 5 Years
+ Name and Age Position Capacity Since and Other Affiliations
+- --------------------- ------------------- ------------------ ----------------------------------------
+ 
+David I. Fann, 39 President and July 20, 2000 Mr. Fann is a Managing Director of U.S.
+ Co-Chief Executive Trust Company, N.A. Mr. Fann is a
+ Officer director of Curon Medical, Inc. (Nasdaq:
+ CURN). Mr. Fann also serves as
+ President and Co-Chief Executive Officer
+ of Excelsior Private Equity Fund II,
+ Inc., Excelsior Venture Partners III,
+ LLC, and Excelsior Venture Investors
+ III, LLC.
+Douglas A. Lindgren, Co-Chief Executive July 20, 2000 Mr. Lindgren is a Managing Director of
+42 Officer and Chief U.S. Trust Company. Mr. Lindgren also
+ Investment Officer serves as Co-Chief Executive Officer of
+ Excelsior Private Equity Fund II, Inc.,
+ Excelsior Venture Partners III, LLC, and
+ Excelsior Venture Investors III, LLC,
+ Manager of Excelsior Directional Hedge
+ Fund of Funds, LLC, and Chairman of the
+ Board of Excelsior Buyout Investors, LLC
+ and Excelsior Absolute Return Fund of
+ Funds, LLC.
+
+22
+
+Robert Aufenanger, 50 Treasurer June 3, 2003 Mr. Aufenanger is a Senior Vice
+ President of U.S. Trust Company, N.A.
+ Prior to joining U.S. Trust in April
+ 2003, Mr. Aufenanger worked as a
+ consultant to various clients in the
+ fund industry and prior to this was
+ Chief Financial Officer for Icon
+ Holdings Corp. Mr. Aufenanger also
+ serves as Treasurer of Excelsior Private
+ Equity Fund II, Inc., Excelsior Venture
+ Partners III, LLC, and Excelsior Venture
+ Investors III, LLC, and Chief Financial
+ Officer of Excelsior Directional Hedge
+ Fund of Funds, LLC, Excelsior Buyout
+ Investors, LLC, and Excelsior Absolute
+ Return Fund of Funds, LLC.
+Lee A. Gardella, 36 Vice President July 20, 2000 Mr. Gardella is a Senior Vice President
+ of U.S. Trust Company, N.A. Mr. Gardella
+ also serves as Vice President of
+ Excelsior Private Equity Fund II, Inc.,
+ Excelsior Venture Partners III, LLC,
+ Excelsior Venture Investors III, LLC,
+ and Excelsior Absolute Return Fund of
+ Funds, LLC.
+James F. Rorer, 33 Vice President July 20, 2000 Mr. Rorer is a Vice President of U.S.
+ Trust Company, N.A. Prior to joining
+ U.S. Trust in May 1999, he worked at
+ Bain & Company. Mr. Rorer also serves as
+ Vice President of Excelsior Private
+ Equity Fund II, Inc., Excelsior Venture
+ Partners III, LLC, Excelsior Venture
+ Investors III, LLC, and Excelsior Buyout
+ Investors, LLC.
+Cynthia Englert, 39 Chief September 19, 2001 Ms. Englert is a Vice President of U.S.
+ Administrative Trust Company, N.A. Prior to joining
+ Officer and U.S. Trust in August 2001, Ms. Englert
+ Secretary held positions in finance at Whitney &
+ Co. and Greenwich Capital Markets, Inc.
+ Ms. Englert also serves as Chief
+ Administrative Officer and Secretary of
+ Excelsior Private Equity Fund II, Inc.,
+ Excelsior Venture Partners III, LLC, and
+ Excelsior Venture Investors III, LLC,
+ and Secretary of Excelsior Buyout
+ Investors, LLC and Excelsior Absolute
+ Return Fund of Funds, LLC.
+John C. Hover II, 60 Director and May 26, 2000 Mr. Hover was an Executive Vice
+ Chairman of the President of U.S. Trust Company (retired
+ Board since 1998). Mr. Hover also serves as
+ chairman of the board of directors or
+ managers of Excelsior Private Equity
+ Fund II, Inc., Excelsior Venture
+ Partners III, LLC, and Excelsior Venture
+ Investors III, LLC.
+
+23
+
+Gene M. Bernstein, 56 Director and May 26, 2000 Mr. Bernstein is Director of NIC Holding
+ member of the Audit Corp; Dean of the Skodneck Business
+ and Valuation Development Center at Hofstra University
+ Committees from 2000-2001; prior to this Mr.
+ Bernstein was President and Vice
+ Chairman at Northville Industries, a
+ petroleum marketing, distribution,
+ trading and storage company and
+ wholly-owned subsidiary of NIC Holding
+ Corp. Mr. Bernstein also serves as a
+ director or manager of Excelsior Private
+ Equity Fund II, Inc., Excelsior Venture
+ Partners III, LLC, Excelsior Venture
+ Investors III, LLC, and Excelsior
+ Directional Hedge Fund of Funds, LLC.
+Stephen V. Murphy, 58 Director and May 26, 2000 Mr. Murphy is President of S.V. Murphy &
+ member of the Audit Co., an investment banking firm. Mr.
+ and Valuation Murphy also serves as a director or
+ Committees manager of Excelsior Private Equity Fund
+ II, Inc., Excelsior Venture Partners
+ III, LLC, Excelsior Venture Investors
+ III, LLC, and Excelsior Directional
+ Hedge Fund of Funds, LLC.
+Victor F. Imbimbo, Director and May 26, 2000 Since October 2002, Mr. Imbimbo has been
+Jr., 51 member of the Audit head of healthcare marketing in the
+ and Valuation United States for TBWA, a global
+ Committees marketing agency. Prior to this, he was
+ with Bedrock Communications, Inc., a
+ consulting company addressing the merger
+ of traditional and digital
+ communications solutions. From
+ 1995-2002, he also served as
+ President/CEO of Health Excellence,
+ Inc., which is in the business of
+ conducting clinical trials. Mr. Imbimbo
+ also serves as a director or manager of
+ Excelsior Private Equity Fund II, Inc.,
+ Excelsior Venture Partners III, LLC,
+ Excelsior Venture Investors III, LLC,
+ and Excelsior Directional Hedge Fund of
+ Funds, LLC.
+
+Audit Committee Financial Expert
+
+ Mr. Murphy is the audit committee financial expert as defined by SEC rules
+and is "independent," as the term is used in Item 7(d)(3)(iv) of Schedule 14A
+under the Securities Exchange Act of 1934.
+
+Code of Ethics
+
+ As of the end of the period, October 31, 2003, the Company has adopted a
+code of ethics, which complies with the criteria provided in SEC rules, and
+applies to its principal executive officer, the principal financial officer and
+any other officers who serve a similar function. A copy of the code of ethics is
+filed as Exhibit 14 to this Form 10-K.
+
+Section 16(a) Beneficial Ownership Reporting Compliance
+
+ 24
+
+Under the federal securities laws, the Company's managers and executive
+officers and any persons holding more than 10 of the Company's outstanding
+units are required to report their ownership of units and any changes in the
+ownership of the Company's units to the Company and the Securities and Exchange
+Commission. To the best of the Company's knowledge, the Company's directors and
+executive officers have satisfied these filings.
+
+ITEM 11. EXECUTIVE COMPENSATION.
+
+ The Company has no full-time employees. Pursuant to the Investment
+Agreements, the Managing Investment Adviser employ and compensate all of the
+personnel of the Company, and also furnish all office facilities, equipment,
+management and other administrative services required for the operation of the
+Company. In consideration of the services rendered by the Managing Investment
+Adviser, the Company will pay a management fee based upon average quarterly net
+assets and an incentive fee based in part on a percentage of realized capital
+gains of the Company.
+
+ Directors receive compensation of 9,000 annually and 1,500 per meeting
+attended plus reasonable expenses. The Company does not have a stock option
+plan, other long-term incentive plan, retirement plan or other retirement
+benefits.
+
+ The following chart provides certain information about the fees received by
+the directors in the fiscal year ended October 31, 2003.
+
+ Aggregate Total Compensation
+ Compensation From the Company
+ From And Fund Complex 
+Name of Person/Position The Company Paid to Directors
+- ----------------------- ------------ -------------------
+John C. Hover II
+ Manager 19,500 53,750 (4 Funds)
+
+Gene M. Bernstein
+ Manager 19,500 74,250 (5 Funds)
+
+Stephen V. Murphy
+ Manager 19,500 74,250 (5 Funds)
+
+Victor F. Imbimbo, Jr.
+ Manager 19,500 74,250 (5 Funds)
+
+ The "Fund Complex" consists of UST Private Equity Investors Fund, Inc.,
+ Excelsior Private Equity Fund II, Inc., Excelsior Venture Partners III,
+ LLC, Excelsior Venture Investors III, LLC and Excelsior Directional Hedge
+ Fund of Funds, LLC. The parenthetical number represents the number of
+ investment companies (including the Company) from which such person
+ receives compensation that is considered a part of the same Fund Complex as
+ the Company.
+
+ITEM 12. SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT.
+
+ As of October 31, 2003, certain beneficial owners, the directors, the chief
+executive officer and the directors and executive officers as a group held of
+record the following shares. Except as set forth below, to the Company's
+knowledge and based solely on a review of Forms 13D and 13G filed with the
+Securities and Exchange Commission (or the lack of such filings, as the case may
+be), no other person beneficially owned more than 5 of the Company's shares.
+
+ 25
+
+Amount and Nature
+ of Beneficial
+Title of Class Name and Address of Beneficial Owner Ownership Percent of Class
+- -------------- -------------------------------------------- ----------------- ----------------
+ 
+Common Shares John C. Hover II 15 shares 
+ c/o United States Trust Company of New York,
+ 114 West 47th Street, New York, NY 10036
+ 1532.
+Common Shares Gene M. Bernstein 200 shares/(1)/ 
+ c/o United States Trust Company of New York,
+ 114 West 47th Street, New York, NY 10036
+ 1532.
+Common Shares Stephen V. Murphy 50 shares 
+ c/o United States Trust Company of New York,
+ 114 West 47th Street, New York, NY 10036
+ 1532.
+Common Shares David I. Fann 21 shares 
+ Palo Alto Square, 9th Floor, 3000 Camino
+ Real, Palo Alto, CA 94306.
+Common Shares Douglas A. Lindgren 25 shares 
+ /o U.S. Trust Company, 225 High Ridge Road,
+ Stamford, CT 06905.
+Common Shares Directors and executive officers
+ as a group (10 persons) 311 shares 
+
+Less than one percent.
+(1) Includes 60 shares beneficially owned by Mr. Bernstein's wife for which Mr.
+ Bernstein disclaims beneficial ownership.
+
+ITEM 13. CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS.
+
+ None.
+
+ITEM 14. PRINCIPAL ACCOUNTANT FEES AND SERVICES.
+
+ Not applicable.
+
+ PART IV
+
+ITEM 15. EXHIBITS, FINANCIAL STATEMENT SCHEDULES, AND REPORTS ON FORM 8-K.
+
+(a) 1. Financial Statements
+
+ The financial statements listed in Item 8, "Financial Statements and
+ Supplementary Data," beginning on page 9 are filed as part of this
+ report.
+
+ 2. Financial Statement Schedules
+
+ The financial statement schedules listed in Item 8, "Financial
+ Statements and Supplementary Data," beginning on page 9 are filed as
+ part of this report.
+
+ 3. Exhibits
+
+ 26
+
+Exhibit Number Description
+- -------------- ---------------------------------------------------------------
+
+ (3)(i) Articles of Incorporation of the Company/1/
+
+ (3)(ii) By-Laws of the Company/1/
+
+ (10)(a) Form of Management Agreement/2/
+
+ (10)(b) Form of Transfer Agency and Custody Agreement/3/
+
+ (10.1) Investment Sub-Advisory Agreement dated as of December 21,
+ 2001, among the Company, United States Trust Company of New
+ York, U.S. Trust Company and U.S. Trust Company, N.A./4//
+
+ (10.2) Administration and Accounting Services Agreement dated January
+ 1, 2002, between the Company and PFPC Inc./4/
+
+ (10.2) Custodian Services Agreement dated January 1, 2002, between the
+ Company and PFPC Trust Company./4/
+
+ (10.3) Transfer Agency Services Agreement dated February 1, 2002,
+ between the Company and PFPC Inc./4/
+
+ (14) Code of Ethics
+
+ (31.1) Certification of Co-Chief Executive Officer pursuant to Section
+ 302 of the Sarbanes-Oxley Act of 2002
+
+ (31.2) Certification of Co-Chief Executive Officer pursuant to Section
+ 302 of the Sarbanes-Oxley Act of 2002
+
+ (31.3) Certification of Treasurer pursuant to Section 302 of the
+ Sarbanes-Oxley Act of 2002
+
+ (32.1) Certification Pursuant to 18 U.S.C. Section 1350, as Adopted
+ Pursuant to Section 906 of the Sarbanes-Oxley Act of 2002.
+
+(b) Reports on Form 8-K
+
+ None.
+
+ SIGNATURES
+
+- --------
+(/1/) Incorporated by reference to the Company's Registration Statement on Form
+ N-2 (File No. 033-84290), filed with the Securities and Exchange
+ Commission on September 22, 1994.
+(/2/) Incorporated by reference to the Company's Definitive Proxy Statement for
+ the 2000 Annual Meeting of Stockholders, filed with the Securities and
+ Exchange Commission on May 25, 2000.
+(/3/) Incorporated by reference to the Company's Registration Statement on Form
+ N-2/A (File No. 033-84290) filed with the Securities and Exchange
+ Commission on November 1, 1994.
+(/4/) Incorporated by reference to the Company's Quarterly Report on Form 10-Q
+ as filed with the Securities and Exchange Commission on March 18, 2002.
+
+ 27
+
+Pursuant to the requirements of Section 13 or 15(d) of the Securities
+Exchange Act of 1934, the registrant has duly caused this report to be signed on
+its behalf by the undersigned, thereunto duly authorized.
+
+ UST PRIVATE EQUITY INVESTORS FUND, INC
+
+Date: January 29, 2004 By: /s/DOUGLAS A. LINDGREN
+ ----------------------------------------
+ Douglas A. Lindgren, Co-Chief Executive
+ Officer and Chief Investment Officer
+ (principal executive officer)
+
+ Pursuant to the requirements of the Securities Exchange Act of 1934, this
+report has been signed below by the following persons on behalf of the
+registrant and in the capacities and on the dates indicated:
+
+Signature Title Date
+ 
+/s/ DAVID I. FANN President and Co-Chief Executive Officer
+- ---------------------------- (principal executive officer) January 29, 2004
+David I. Fann
+
+Co-Chief Executive Officer and Chief Investment
+/s/ DOUGLAS A. LINDGREN Officer
+- ---------------------------- (principal executive officer) January 29, 2004
+Douglas A. Lindgren
+
+/s/ ROBERT F. AUFENANGER Treasurer
+- ---------------------------- (principal financial and accounting officer) January 29, 2004
+Robert F. Aufenanger
+
+/s/ JOHN C. HOVER II
+- ---------------------------- Chairman of the Board and Director January 29, 2004
+John C. Hover II
+
+/s/ GENE M. BERNSTEIN
+- ---------------------------- Director January 29, 2004
+Gene M. Bernstein
+
+/s/ STEPHEN V. MURPHY
+- ---------------------------- Director January 29, 2004
+Stephen V. Murphy
+
+/s/ VICTOR F. IMBIMBO, JR.
+- ---------------------------- Director January 29, 2004
+Victor F. Imbimbo, Jr
+
+28
+
+<EX-14>
+ 3
+ dex14.txt
+ CODE OF ETHICS
+
+Exhibit 14
+
+ UST PRIVATE EQUITY INVESTORS FUND, INC.
+ EXCELSIOR PRIVATE EQUITY FUND II, INC.
+ EXCELSIOR VENTURE PARTNERS III, LLC
+ EXCELSIOR VENTURE INVESTORS III, LLC
+ (THE "EXCELSIOR PRIVATE EQUITY FUNDS" OR THE "FUNDS")
+
+ CODE OF BUSINESS CONDUCT AND ETHICS
+ FOR PRINCIPAL EXECUTIVE AND SENIOR FINANCIAL OFFICERS
+
+ OUR VISION
+
+ Provide shareholders with the most useful and ethical private equity funds in
+ the nation.
+
+ OUR VALUES
+
+ Be fair, empathetic and responsive in our shareholders.
+ Strive relentlessly to innovate what we do how we do it.
+ Always earn and be worthy of our shareholders' trust.
+
+ SHAREHOLDER VALUE
+
+ Excelsior Private Equity Funds' Principal Executive Officers and Principal
+ Financial Officer and any other officers
+ who serve a similar function shall endeavor to act in the best interests of the
+ Funds and their shareholders.
+
+Introduction
+
+The Excelsior Private Equity Funds Code of Business Conduct and Ethics ("Code")
+covers all of the Funds. This Code applies to the Funds' Principal Executive
+Officers and Principal Financial Officer and any other officers who serve a
+similar function (each an "Officer").
+
+The Funds are committed to the highest standards of ethical conduct in the
+fulfillment of our Vision and Values. We are proud of our long-standing
+reputation for integrity and honesty that strengthens our Vision to provide our
+shareholders with the most useful and ethical private equity funds in the world.
+This reputation is not just a source of competitive advantage in the financial
+services industry; it is fundamental to the way we do business.
+
+This Code provides guidance on how you, as an Officer, uphold these ethical
+standards. It applies to your service to the Excelsior Private Equity Funds.
+
+The Code consists of an outline of policies regarding conduct in several key
+areas: ethical behavior and legal compliance, conflicts of interest,
+confidentiality and business practices. You are responsible for reviewing the
+Code and for acting in compliance with the Code in your daily activities.
+
+The Code is not exhaustive; it provides guidance for carrying out your
+responsibilities on behalf of the Funds and observing the highest standards of
+ethical conduct. Because the Code does not address every possible situation that
+may arise, you are responsible for exercising good judgment, applying ethical
+principles, and raising questions when in doubt. Your integrity and good
+judgment enhance the Funds' brand, build the Funds' reputation, and are the
+foundation of trust for our shareholder and business relationships.
+
+The Code also requires that Officers adhere to the specific information and
+guidance that is provided in US Trust company-wide policies and procedures,
+including the U.S. Trust Compliance Manual and the Investment Adviser Code of
+Ethics; policies and procedures for individual business and support units;
+publications that address
+
+ 29
+
+individual conduct; and documents to which you agree as a requirement of your
+employment, collectively referred to as "company policies." Company policies may
+be published in paper or electronic media.
+
+You are responsible for reviewing the Code including company policies applicable
+to you, and for acting in compliance with the Code in your daily activities. You
+may obtain company policies and forms from the US Trust internal web site or the
+Corporate Compliance Division.
+
+General Excelsior Private Equity Fund and Personal Standards of Conduct
+
+As an Officer you have a responsibility to act in a manner in which you earn the
+public's trust and confidence. Your conduct is guided by our values, which are
+to:
+
+ . Be fair, empathetic and responsive in serving our shareholders.
+
+ . Strive relentlessly to innovate what we do and how we do it.
+
+ . Always earn and be worthy of our shareholders' trust.
+
+Excelsior Private Equity Funds Conduct
+
+The following general principles guide our Excelsior Private Equity Funds
+conduct:
+
+ . We will act in accordance with applicable laws and regulations and
+ will not tolerate behavior that is otherwise.
+
+ . We will make public disclosures as required by law and regulation and
+ as deemed appropriate to enable reasonable evaluation of the Excelsior
+ Private Equity Funds.
+
+ . We will strive to provide an equitable return for our investors.
+
+ . We will provide products and services designed to help shareholders
+ achieve their financial goals.
+
+ . We will conduct business fairly, in open competition.
+
+Individual Conduct
+
+The following general principles guide your individual conduct:
+
+ . You will not take any action that will violate any applicable law or
+ regulation.
+
+ . You will adhere to the highest standards of ethical conduct.
+
+ . You will maintain the confidentiality of all information you obtain in
+ the course of your employment.
+
+ . You will escalate issues which you reasonably believe may place the
+ Funds at risk, and report any behavior you reasonably believe is
+ wrong.
+
+ . You will not abuse or take the Funds' assets or use them for your
+ personal gain.
+
+ . You will not engage in any activities that create a conflict of
+ interest between you and the Funds.
+
+ . You will comport yourself publicly in a manner that does not bring
+ discredit on the Funds.
+
+ . You will deal fairly with shareholders, colleagues and others.
+
+ . You will comply with this Code.
+
+ 30
+
+You have personal responsibility to conduct the Funds' business in a manner
+consistent with these principles, and you cannot avoid this responsibility by
+contrary instructions from a supervisor or by turning a blind eye. Many of these
+principles are explained in more detail below and in the Funds' other polices
+and procedures. If you have questions on any of them, you should consult with
+the Chief Legal Officer of the Funds or the Corporate Compliance Division of
+U.S. Trust ("UST").
+
+Ethical Behavior
+
+Your decisions and behavior have far-reaching implications. Standards of ethical
+and professional conduct reflect on the individual, on the Excelsior Private
+Equity Funds brand, and on the investment industry as a whole. A strong personal
+sense of ethics should always play a significant role in guiding you towards a
+proper course of action.
+
+Escalation of Concerns
+
+Guidance is provided throughout the Code on the appropriate means for
+escalating, disclosing and seeking approvals for activities governed by the
+Code. At a minimum, if you know of, or reasonably believe there is, a violation
+of applicable laws or this Code, you must report that information immediately to
+the Chief Legal Officer and Corporate Compliance Division. If you believe the
+person to whom you have reported the violation, or possible violation, has not
+taken appropriate action, you must contact the US Trust Corporation
+Ombudsperson. Neither you nor the person to whom you make a report should
+conduct preliminary investigations, unless authorized to do so by the Chief
+Legal Officer or Corporate Compliance Division. Anyone who in good faith raises
+an issue in accordance with this Code regarding a possible violation of law,
+regulation or company policy or any suspected illegal or unethical behavior will
+be protected from retaliation.
+
+Compliance with Laws, Rules, Regulations and Policies
+
+The foundation of the Funds' ethical standards is compliance with the letter and
+spirit of the law. You must respect and obey all of the laws, rules and
+regulations applicable to our business, including among others, securities and
+other federal, state and local laws. You are responsible for being familiar and
+complying with the Funds' policies and procedures. Although you are not expected
+to know the details of each law governing our business, you are expected to be
+familiar with and comply with the Funds' policies and procedures and, when in
+doubt, to seek advice from the Chief Legal Officer or Corporate Compliance
+Division as outlined in this Code.
+
+Conflicts of Interest
+
+To maintain the highest ethical standards in conducting our business, it is
+important that you do not place yourself in a position that would cloud your
+judgment in carrying out the business affairs of the Funds. A "conflict of
+interest" occurs when your private interest interferes in any way -- or even
+appears to interfere -- with the interests of the Funds. You have a duty to
+report any material transaction or relationship that reasonably could be
+expected to be or to create a conflict of interest with the Funds. If you have
+any questions regarding what might constitute a conflict of interest, or to
+report any transaction or relationship that you believe has occurred or may
+occur that might constitute a conflict of interest, contact the Chief Legal
+Officer or Corporate Compliance Division.
+
+Certain conflicts of interest arise out of the relationships between Officers
+and the Funds and already are subject to conflict of interest provisions in the
+Investment Company Act of 1940 ("Investment Company Act") and the Investment
+Advisers Act of 1940 ("Investment Advisers Act"). For example, Officers may not
+individually engage in certain transactions (such as the purchase or sale of
+securities or other property) with the Funds because of their status as
+"affiliated persons" of the Funds. The Funds' and UST's compliance programs and
+procedures are designed to prevent, or identify and correct, violations of these
+provisions. This Code does not, and is not intended to, repeat or replace these
+programs and procedures, and such conflicts fall outside of the parameters of
+this Code.
+
+Although typically not presenting an opportunity for improper personal benefit,
+conflicts arise from, or as a result of, the contractual relationship between
+the Funds and UST. Each Officer may also be an officer or employee of UST or its
+affiliates. As a result, this Code recognizes that the Officers will, in the
+normal course of their duties (whether formally for the Funds or for UST, or for
+both), be involved in establishing policies and implementing decisions that will
+have different effects on UST and the Funds. The participation of the Officers
+in such activities is inherent in
+
+ 31
+
+the contractual relationship between the Funds and UST and is consistent with
+the performance by the Officers of their duties as officers of the Funds. Thus,
+if performed in conformity with the provisions of the Investment Company Act and
+the Investment Advisers Act, such activities will be deemed to have been handled
+ethically. In addition, it is recognized by the Directors and Managers that the
+Officers may also be officers or employees of one or more other investment
+companies covered by this or other codes.
+
+Outside Directorships, Outside Employment and Other Outside Activities
+
+Your position with the Funds and UST must be your primary business association
+and must take precedence over any other employment or business affiliation you
+may have. We encourage you to accept appropriate directorships and advisory
+positions at most non-profit organizations and commercial firms; however, your
+service as an adviser to, or member of, the Board of a public company,
+non-profit charitable, civic, social service, religious, professional or trade
+organization must be consistent with the provisions for the Code, and not create
+a conflict of interest with your responsibilities to the Funds. This includes
+outside positions and activities that may be misconstrued to be activities of
+the Funds. Unless you have obtained prior approval from the Chief Legal Officer
+and Corporate Compliance Division, you may not hold any position, whether paid
+or unpaid, with any other organization or outside activity that may interfere
+with your duties and responsibilities at the Funds. Approval will only be
+granted where it is clear that the proposed activity will not interfere with
+your duties at the Funds or UST and that neither the Funds nor UST will incur
+any liability or responsibility for such outside activity.
+
+Conflicts of interest may arise in certain business situations in which you, or
+a member of your household (or of a relative whose financial interests you
+control), participate. Examples include making significant investments in
+companies that compete with the Funds or in entities that do business with the
+Funds. If you or a member of your household intends to hold such an investment,
+you must disclose it in writing to, and obtain prior approval for the investment
+from the Chief Legal Officer and Corporate Compliance Division.
+
+Personal Investment Accounts and "Inside Information"
+
+You must disclose any investment accounts maintained by you or any related
+parties. You must do this at the time of you become an Officer, at the time of
+any change in such information, and annually thereafter. Unless an investment
+qualifies for an exemption, new employees are required to transfer all
+investment accounts to a US Trust corporate affiliated bank or Charles Schwab &
+Co., Inc. within 90 days of employment. Officers may not buy, sell, trade or
+carry securities or commodities for their personal investment accounts under
+circumstances that could result in their becoming obligated to any dealer,
+broker or client or that could produce or appear to produce conflicts of
+interest.
+
+You should avoid circumstances that could introduce a personal financial bias
+into the handling of shareholder and Fund matters. In this regard, you should
+not become over-indebted and should borrow only from banks and other traditional
+lenders. You may not borrow from clients of U.S. Trust without full disclosure
+to, and prior written approval from, the Chief Legal Officer and Corporate
+Compliance
+
+Division. Employees may not borrow from a vendor of U.S. Trust, unless that
+vendor is a bank or traditional lender, and then only through such vendor's
+public lending process.
+
+A "corporate opportunity" is an opportunity discovered through the use of Fund
+property, information or position. Officers are prohibited from taking corporate
+opportunities for themselves personally. This rule includes any fee or other
+compensation offered or paid by Fund Shareholders in connection with routine
+company activity or for individual service as an executor, trustee, director or
+other fiduciary. It covers any other services performed for your benefit because
+of your role at the Funds, such as endorsements, lectures, articles, book
+reviews, compensation received from vendors and compensation paid for
+participating in interviews with the media and making radio or television
+appearances. You may not use Fund property, information or position for improper
+personal gain, and you may not compete with the Fund directly or indirectly.
+
+Acceptance of Gifts or Entertainment
+
+The acceptance of gifts or excessive entertainment from shareholders, vendors,
+suppliers, competitors or other employees must not constitute a conflict of
+interest or create the appearance of impropriety. You may accept small
+
+ 32
+
+gifts and entertainment that are worth less than the amount U.S. Trust
+Corporation policy sets as a limit, but you must be personally satisfied that
+the gift or entertainment is not intended to influence your judgment or the
+performance of your duties. If you have any questions regarding the
+appropriateness of a gift, you must obtain approval from the Chief Legal Officer
+and Corporate Compliance Division before accepting it.
+
+Confidentiality of Information
+
+As investment companies, we have particular responsibilities for safeguarding
+the information of our shareholders and the proprietary information of the
+Funds. You should be mindful of this obligation when you use the telephone, fax,
+telex, electronic mail, and other electronic means of storing and transmitting
+information. You should not discuss confidential information in public areas
+where it can be overheard, read confidential documents in public places, nor
+leave or discard confidential documents where they can be retrieved by others.
+
+Confidentiality of Shareholder Information
+
+Information concerning the identity of the Funds' underlying shareholders and
+their transactions and accounts is confidential. Such information may not be
+disclosed to persons working on behalf of the Funds except as they may need to
+know it in order to fulfill their responsibilities to the Funds. You may not
+disclose such information to anyone or any firm outside the Funds unless (i) the
+outside firm needs to know the information in order to perform services for the
+Funds and is bound to maintain its confidentiality; (ii) when the shareholder
+has consented or been given an opportunity to request that the information not
+be shared; (iii) as required by law; or (iv) as authorized by the Chief Legal
+Officer or Corporate Compliance Division.
+
+Information regarding shareholder or Funds transactions must not be used in any
+way to influence trades in personal accounts. Trading ahead of Funds
+transactions is known as frontrunning and is prohibited. Following Funds
+transactions with your trading activity is known as piggybacking or shadowing
+and is likewise prohibited. If you reasonably believe improper trading in
+personal or Funds accounts has occurred, you must report such conduct to the
+Chief Legal Officer and Corporate Compliance Division.
+
+Privacy
+
+Excelsior Private Equity funds are committed to safeguarding customers' privacy.
+We do not sell any personally identifiable customer information. Sharing of such
+information with third parties is limited to situations related to the
+processing and servicing of customer accounts, and to specifically delineated
+exceptions in the federal privacy law. We share information with our affiliates
+as allowed by federal law. You must be familiar with the procedural and systemic
+safeguards we maintain to protect this information and report any breaches of
+these safeguards to the Chief Legal Officer and Corporate Compliance Division.
+
+Proprietary Information of the Funds
+
+You have the responsibility to safeguard the Funds' proprietary information.
+Proprietary information includes intellectual property (copyrights, trademarks
+or patents or trade secrets), particular know-how (business or organizational
+designs, or business, marketing or service plans or ideas) and sensitive
+information about the Funds (databases, records, salary information or
+unpublished financial reports). If you have any questions about what constitutes
+proprietary information, or if you believe such information has been
+compromised, contact the Chief Legal Officer or Corporate Compliance Division.
+
+Protection and Use of the Funds' Assets
+
+You are obligated to protect the Funds' assets and ensure their efficient use.
+Theft, carelessness and waste have a direct impact on the Funds. The Funds'
+equipment should not be used for non-Funds business, though incidental personal
+use may be permitted. The Funds or UST have the right to examine your use of
+this property, including the contents of the desktop and/or laptop computer
+assigned to you, your use of all communications devices (telephones, voicemail,
+pages, fax machines, e-mail, on-line services) and any furniture or filing
+facilities used by you. You should have no expectation of privacy or
+confidentiality regarding your activities while on the premises of, or when
+using the facilities or systems of, the Funds or UST even though you may use
+security features such as personal
+
+ 33
+
+passwords. Breaches of this obligation must be reported to the Chief Legal
+Officer and Corporate Compliance Division.
+
+Non-Retaliation
+
+It is your obligation to report issues regarding possible violations of business
+regulations or this Code when you suspect in good faith that a violation may
+have or might occur. No Officer will be retaliated against for making a good
+faith complaint or bringing inappropriate conduct to the Funds' attention, for
+assisting another Officer in making a good faith report, for cooperating in an
+investigation, or for filing an administrative claim with a state or federal
+governmental agency. Any employee who engages in retaliatory conduct in
+violation of our policies will be subject to disciplinary action, up to and
+including termination of employment. If you reasonably believe retaliatory
+conduct has occurred, you must report such conduct to the Chief Legal Officer
+and Corporate Compliance Division.
+
+Business Practices
+
+It is your obligation to report issues regarding possible violations of business
+regulations or this Code when you suspect in good faith that a violation may
+have or might occur. As a financial institution, it is imperative that we
+operate with efficiency, with the highest business standards, and that we
+maintain and provide accurate information.
+
+Financial Disclosures
+
+The Funds are committed to providing full, fair, accurate, timely and
+understandable disclosure in reports and documents that the Funds file with, or
+submit to, the Securities and Exchange Commission and other regulatory agencies
+and in other public communications made by the Funds. You are required to comply
+with Funds policies and procedures to provide such full, fair, accurate, timely
+and understandable disclosure. If you have any questions about your duties in
+supporting the Funds' financial reporting processes, contact the Chief Legal
+Officer.
+
+Conduct of Audits
+
+Neither you nor any other person acting under your direction shall directly or
+indirectly take any action to fraudulently influence, coerce, manipulate, or
+mislead any independent public or certified public accountant engaged in the
+performance of an audit or review of the Funds' financial statements.
+
+Types of conduct that constitute improper influence include, but are not limited
+to, directly or indirectly:
+
+ . Offering or paying bribes or other financial incentives, including
+ offering future employment or contracts for non-audit services;
+
+ . Providing an auditor with inaccurate or misleading legal analysis;
+
+ . Threatening to cancel or canceling existing non-audit or audit
+ engagements if the auditor objects to the issuer's accounting;
+
+ . Seeking to have a partner removed from the audit engagement because
+ the partner objects to the Funds' accounting;
+
+ . Blackmailing; and
+
+ . Making physical threats.
+
+If you reasonably believe improper influence has occurred, you must report such
+conduct to the Chief Legal Officer.
+
+Record-Keeping
+
+We require honest and accurate recording and reporting of information to
+maintain the integrity of our business records and to make responsible business
+decisions. The Funds' books, records and accounts must (i) accurately reflect
+all transactions of the Funds and all other events that are subject of a
+specific regulatory record-keeping
+
+ 34
+
+requirement; (ii) be maintained in reasonable detail; and (iii) conform both to
+applicable legal requirements and to the Funds' system of internal controls.
+Unrecorded or "off the books" funds or assets are prohibited unless permitted by
+applicable law or regulation. Business records must not contain exaggeration,
+derogatory remarks, guesswork, or inappropriate characterizations of people and
+companies. This applies equally to e-mail, internal memoranda, formal reports,
+and all other forms of business records. You must be familiar with the Funds'
+record retention policies and always retain or destroy records according to
+them. In the event of litigation, governmental investigation or the threat of
+such action, you should consult the Chief Legal Officer or the Corporate
+Compliance Division regarding record retention.
+
+Any suspected breach of this obligation should be reported immediately to the
+Chief Legal Officer and Corporate Compliance Division and, if you are an
+employee, to your supervisor.
+
+Cooperating with Compliance, Audit, Regulatory Authorities and Authorized
+Investigations
+
+You must cooperate fully with compliance officers, auditors, examiners and
+regulatory authorities, and others who are conducting authorized examinations,
+investigations or other reviews of the Funds' records and business practices.
+Authorized requests for information and access to the Funds' records are to be
+satisfied in a timely, responsive and respectful manner.
+
+Any Officer who has been convicted of any crime involving dishonesty or a breach
+of trust must disclose such conviction to U.S. Trust Human Resources promptly,
+even if that crime did not relate to Fund business. Officers are also required
+to provide disclosures in accordance with the U.S. Trust Due Diligence
+questionnaire for New Employees and Annual Review Process.
+
+If you have any questions related to the appropriateness of providing access to
+the Fund's records, you should contact the Chief Legal Officer or Corporate
+Compliance Division. In the event of litigation or governmental investigation,
+you should consult the Chief Legal Officer regarding document production and
+record retention.
+
+Competition and Fair Dealing
+
+We operate our business fairly and honestly. We seek competitive advantage
+through performance and dedication to our Vision and Values and never through
+unethical or illegal business practices. It is our policy to comply with
+anti-trust laws. These laws are complex and not easily summarized but at a
+minimum require that there be no agreement or understanding between the Funds
+and their competitors that affect prices, terms or conditions of sale or that
+unreasonably restrain full and fair competition. You must always respect the
+rights of and deal fairly with the Funds' shareholders and competitors. You must
+never take unfair advantage of anyone through manipulation, concealment, abuse
+of privileged information, misrepresentation of material facts, or any other
+unfair dealing practice. If you have any question about what constitutes an
+unfair business practice, you should consult the Chief Legal Officer or
+Corporate Compliance Division.
+
+Copyright Law, the Internet and Software
+
+You must comply with the terms of all software licenses, use agreements for
+Internet site access, downloading provisions and all other state and federal
+laws governing all forms of intellectual property that you may encounter on the
+Internet.
+
+You may not copy software provided by the Funds or use it on a computer other
+than the one provided to you unless the license agreement permits such copying
+or use. Any authorized copies must contain the proper copyright and other
+required notices of the vendor. If you wish to use any software not provided by
+the Funds or UST, you must first obtain permission from the Computer Services
+Division of U.S. Trust Corporation and have the software tested by the Computer
+Services Division to assure application integrity and software compatibility
+with hour systems environment.
+
+Vendor Selection, Brokerage Allocation
+
+The selection of professional services, including those of brokers, dealers,
+attorneys or business consultants, should be based on competitive analysis of
+quality, price and benefit to the Funds. When transacting business on behalf of
+
+ 35
+
+the Funds, if you feel that you may have a potential conflict of interest, you
+must notify the Chief Legal Officer and Corporate Compliance Division of the
+potential conflict prior to initiating the transaction.
+
+If you are in a position to influence the selection of brokers, you are
+prohibited from having any financial interest in a brokerage firm (other than
+those whose shares are traded publicly) and you may not accept gifts or
+entertainment or any other form of compensation from the brokerage community
+except as permitted under this Code.
+
+Prohibition of Bribery and Kickbacks
+
+Our policies prohibit bribery or kickbacks of any kind and to anyone in the
+conduct of our business. The U.S. government has a number of laws and
+regulations applicable specifically to business gratuities that may be accepted
+by U.S. and foreign government personnel. The promise, offer or delivery to an
+official or employee of the U.S. government or an official, employee or
+candidate of a foreign government of a gift, favor, payment or other gratuity in
+violation of these rules would not only violate Excelsior Private Equity Funds
+policy but could also be a criminal offense. Similarly, federal law, as well as
+the laws of many states, prohibits engaging in "commercial bribery." Commercial
+bribery involves soliciting, demanding or agreeing to accept anything of value
+from any person intending to influence or be rewarded in connection with any
+business or transaction, and prohibits all such behavior, for example, with
+respect to vendors, competitors, shareholders, and government employees. If you
+have any questions or need any guidance, you should contact the Chief Legal
+Officer or Corporate Compliance Division.
+
+Compliance Procedures
+
+We will work together to ensure compliance with the Code and to take prompt
+action in response to reported violations of the Code.
+
+Seeking Guidance
+
+If you are unsure of what to do in any situation, seek guidance before you act.
+Use the Funds resources, including the Chief Legal Officer and the Corporate
+Compliance Division. If you feel that it is not appropriate to discuss a matter
+with the Chief Legal Officer or the Corporate Compliance Division, you may
+contact the Ombudsperson for U.S. Trust Corporation. Remember that you must
+report all incidents of misconduct, and you may do so without fear of
+retaliation. If you have violated the Code, however, making a report will not
+protect you from the consequences of your actions.
+
+Reporting Conduct that May be in Violation of the Code
+
+You must report conduct that you believe to be in violation of the Code,
+Excelsior Private Equity Funds policy, law or regulation. Reports should be
+escalated in the following manner:
+
+ . If you have a reasonable belief that a violation has occurred, or may
+ occur, you must report the conduct to the Chief Legal Officer and
+ Corporate Compliance Division.
+
+ . The Chief Legal Officer or Corporate Compliance Division will take all
+ appropriate action to investigate any potential violation reported to them
+ and will notify counsel for the Funds' independent Directors and Managers
+ ("Directors/Managers") and counsel for the Funds of the substance of the
+ potential violation.
+
+ . If after investigation, the Chief Legal Officer or Corporate Compliance
+ Division reasonably believes that no violation has occurred, they are not
+ required to take any further action.
+
+ . Any matter that the Chief Legal Officer or Corporate Compliance Division
+ believes is a violation will be reported to the Directors/Managers.
+
+ . If the Directors/Managers concur that a violation has occurred, the
+ Directors/Managers will consider appropriate action, which may include
+ review of, and appropriate modification to, applicable policies and
+ procedures; notification to appropriate personnel of US Trust or its
+ board; notification to appropriate personnel of the U.S. Trust Corporation
+ or its board; or a recommendation to dismiss the Officer.
+
+ 36
+
+Roles in Observing Compliance
+
+As an Officer of the Funds, you have a role in observing compliance with the
+Code. In general, that includes:
+
+Role of Officers
+
+ . Read and be familiar with conduct rules outlined in this Code and
+ periodically review them.
+
+ . Affirm in writing to the Directors/Managers that the Officer has received,
+ read and understands the Code.
+
+ . Annually affirm to the Directors/Managers that the Officer has complied
+ with the requirements of the Code.
+
+ . Comply with the conduct standards outlined in this Code in all dealings
+ and actions, including those with shareholders, the public and vendors.
+
+ . Report in a timely manner to the Chief Legal Officer and Corporate
+ Compliance Division any conduct that may constitute a violation of the
+ Code, Excelsior Private Equity Funds policies, or laws, rules and
+ regulations.
+
+ . Raise questions or concerns about conduct issues with your supervisor, the
+ Chief Legal Officer or Corporate Compliance Division, and seek advice when
+ in doubt.
+
+ . Cooperate with management during fact-finding investigations and comply
+ with any confidentiality rules imposed.
+
+Role of Directors/Managers
+
+ . Review the Code annually and recommend any changes.
+
+ . Review the Officer reports of compliance with the Code.
+
+Interpretation of Code and Waivers of the Code
+
+The Chief Legal Officer and Corporate Compliance Division are responsible for
+applying the Code to specific situations in which questions are presented under
+it and have the authority to interpret the Code in any particular situation.
+However, waivers of the Code may be made only by the Directors/Managers and will
+be promptly disclosed publicly as required by law.
+
+Amendments
+
+This Code may not be amended except in written form, which is specifically
+approved or ratified by a majority of the Directors/Managers including a
+majority of the independent Directors/Managers. Any amendments will, to the
+extent required, be disclosed in accordance with law.
+
+Other Policies and Procedures
+
+This Code constitutes the sole code of ethics adopted by the Funds for purposes
+of Section 406 of the Sarbanes-Oxley Act of 2002 and the rules and forms
+applicable to registered investment companies thereunder. Insofar as other
+policies or procedures of the Funds, UST, U.S. Trust Corporation or other
+Excelsior Private Equity Funds service providers govern or purport to govern the
+behavior or activities of an Officer who is subject to this Code, they are
+superseded by this Code to the extent that they conflict with the provisions of
+this Code. UST's code of ethics under Rule 17j-1 pursuant to the Investment
+Company Act of 1940 and UST's and US Trust Corporation's policies and procedures
+set forth in their respective compliance manuals and elsewhere are separate
+requirements applying to the Officers and are not part of this Code.
+
+Confidentiality
+
+ 37
+
+All reports and records prepared or maintained pursuant to this Code will be
+considered confidential and shall be maintained and protected accordingly.
+Except as otherwise required by law or this Code, such matters shall not be
+disclosed to anyone other than the Directors/Managers, U.S. Trust Corporation
+and their respective counsel.
+
+Internal Use
+
+This Code is intended for internal use by the Funds and does not constitute an
+admission, by or on behalf of any Funds, as to any fact, circumstance, or legal
+conclusion.
+
+Contacts
+
+If you have further questions about the Code, or about its applicability with
+respect to a particular matter, please contact the Chief Legal Officer or
+Corporate Compliance Division. If you feel that it is not appropriate to discuss
+a matter with Chief Legal Officer or the Corporate Compliance Division, you may
+contact the Ombudsperson.
+
+Chief Legal Officer:
+
+Alison Baur 415-636-3252
+
+Corporate Compliance Division:
+
+Sharon Davison 212-852-1042
+
+U.S. Trust Corporation Ombudsperson:
+
+Sam Scott Miller, Esq. 212-506-5130
+
+Orrick Herrington & Sutcliffe LLP
+
+38
+
+</EX-14>
+
+<EX-31.(1)>
+ 4
+ dex311.txt
+ CERTIFICATION OF CO-CHIEF EXECUTIVE OFFICER
+
+Exhibit 31.1
+
+ CERTIFICATION OF CO-CHIEF EXECUTIVE OFFICER
+ Pursuant to Section 302 of the Sarbanes Oxley Act of 2002
+
+I, David I. Fann, certify that:
+
+1. I have reviewed this annual report on Form 10-K of Excelsior Venture Partners
+III, LLC;
+
+2. Based on my knowledge, this report does not contain any untrue statement of a
+material fact or omit to state a material fact necessary to make the statements
+made, in light of the circumstances under which such statements were made, not
+misleading with respect to the period covered by this report;
+
+3. Based on my knowledge, the financial statements, and other financial
+information included in this report, fairly present in all material respects the
+financial condition, results of operations, changes in net assets, and cash
+flows of the registrant as of, and for, the periods presented in this report;
+
+4. The registrant's other certifying officers and I are responsible for
+establishing and maintaining disclosure controls and procedures (as defined in
+Exchange Act Rules 13a-15(e) and 15d-15(e)) for the registrant and have:
+ a) designed such disclosure controls and procedures, or caused such
+ disclosure controls and procedures to be designed under our supervision, to
+ ensure that material information relating to the registrant, including its
+ consolidated subsidiaries, is made known to us by others within those
+ entities, particularly during the period in which this report is being
+ prepared;
+
+ b) evaluated the effectiveness of the registrant's disclosure controls and
+ procedures and presented in this report our conclusions about the
+ effectiveness of the disclosure controls and procedures, as of the end of
+ the period covered by this report based on such evaluation; and
+
+ c) disclosed in this report any change in the registrant's internal control
+ over financial reporting that occurred during the registrant's most recent
+ fiscal quarter (the registrant's fourth fiscal quarter in the case of an
+ annual report) that has materially affected, or is reasonably likely to
+ materially affect, the registrant's internal control over financial
+ reporting; and
+
+5. The registrant's other certifying officers and I have disclosed, based on our
+most recent evaluation of internal control over financial reporting, to the
+registrant's auditors and the audit committee of the registrant's board of
+directors (or persons performing the equivalent functions):
+
+ a) all significant deficiencies and material weaknesses in the design or
+ operation of internal control over financial reporting which are reasonably
+ likely to adversely affect the registrant's ability to record, process,
+ summarize, and report financial information; and
+
+ b) any fraud, whether or not material, that involves management or other
+ employees who have a significant role in the registrant's internal control
+ over financial reporting.
+
+Date: January 29, 2004
+
+/s/ David I. Fann
+- -----------------------------------------
+David I. Fann, Co-Chief Executive Officer
+
+</EX-31.(1)>
+
+<EX-31.(2)>
+ 5
+ dex312.txt
+ CERTIFICATION OF CO-CHIEF EXECUTIVE OFFICER
+
+Exhibit 31.2
+
+ CERTIFICATION OF CO-CHIEF EXECUTIVE OFFICER
+ -------------------------------------------
+ Pursuant to Section 302 of the Sarbanes Oxley Act of 2002
+
+I, Douglas A. Lindgren, certify that:
+
+1. I have reviewed this annual report on Form 10-K of Excelsior Venture Partners
+III, LLC;
+
+2. Based on my knowledge, this report does not contain any untrue statement of a
+material fact or omit to state a material fact necessary to make the statements
+made, in light of the circumstances under which such statements were made, not
+misleading with respect to the period covered by this report;
+
+3. Based on my knowledge, the financial statements, and other financial
+information included in this report, fairly present in all material respects the
+financial condition, results of operations, changes in net assets, and cash
+flows of the registrant as of, and for, the periods presented in this report;
+
+4. The registrant's other certifying officers and I are responsible for
+establishing and maintaining disclosure controls and procedures (as defined in
+Exchange Act Rules 13a-15(e) and 15d-15(e)) for the registrant and have:
+ a) designed such disclosure controls and procedures, or caused such
+ disclosure controls and procedures to be designed under our supervision, to
+ ensure that material information relating to the registrant, including its
+ consolidated subsidiaries, is made known to us by others within those
+ entities, particularly during the period in which this report is being
+ prepared;
+
+ b) evaluated the effectiveness of the registrant's disclosure controls and
+ procedures and presented in this report our conclusions about the
+ effectiveness of the disclosure controls and procedures, as of the end of
+ the period covered by this report based on such evaluation; and
+
+ c) disclosed in this report any change in the registrant's internal control
+ over financial reporting that occurred during the registrant's most recent
+ fiscal quarter (the registrant's fourth fiscal quarter in the case of an
+ annual report) that has materially affected, or is reasonably likely to
+ materially affect, the registrant's internal control over financial
+ reporting; and
+
+5. The registrant's other certifying officers and I have disclosed, based on our
+most recent evaluation of internal control over financial reporting, to the
+registrant's auditors and the audit committee of the registrant's board of
+directors (or persons performing the equivalent functions):
+
+ a) all significant deficiencies and material weaknesses in the design or
+ operation of internal control over financial reporting which are reasonably
+ likely to adversely affect the registrant's ability to record, process,
+ summarize, and report financial information; and
+
+ b) any fraud, whether or not material, that involves management or other
+ employees who have a significant role in the registrant's internal control
+ over financial reporting.
+
+Date: January 29, 2004
+
+/s/ Douglas A. Lindgren
+- -----------------------------------------------
+Douglas A. Lindgren, Co-Chief Executive Officer
+
+</EX-31.(2)>
+
+<EX-31.(3)>
+ 6
+ dex313.txt
+ CERTIFICATION OF TREASURER
+
+Exhibit 31.3
+
+ CERTIFICATION OF TREASURER
+ --------------------------
+ Pursuant to Section 302 of the Sarbanes Oxley Act of 2002
+
+I, Robert F. Aufenanger, certify that:
+
+1. I have reviewed this annual report on Form 10-K of Excelsior Venture Partners
+III, LLC;
+
+2. Based on my knowledge, this report does not contain any untrue statement of a
+material fact or omit to state a material fact necessary to make the statements
+made, in light of the circumstances under which such statements were made, not
+misleading with respect to the period covered by this report;
+
+3. Based on my knowledge, the financial statements, and other financial
+information included in this report, fairly present in all material respects the
+financial condition, results of operations, changes in net assets, and cash
+flows of the registrant as of, and for, the periods presented in this report;
+
+4. The registrant's other certifying officers and I are responsible for
+establishing and maintaining disclosure controls and procedures (as defined in
+Exchange Act Rules 13a-15(e) and 15d-15(e)) for the registrant and have:
+ a) designed such disclosure controls and procedures, or caused such
+ disclosure controls and procedures to be designed under our supervision, to
+ ensure that material information relating to the registrant, including its
+ consolidated subsidiaries, is made known to us by others within those
+ entities, particularly during the period in which this report is being
+ prepared;
+
+ b) evaluated the effectiveness of the registrant's disclosure controls and
+ procedures and presented in this report our conclusions about the
+ effectiveness of the disclosure controls and procedures, as of the end of
+ the period covered by this report based on such evaluation; and
+
+ c) disclosed in this report any change in the registrant's internal control
+ over financial reporting that occurred during the registrant's most recent
+ fiscal quarter (the registrant's fourth fiscal quarter in the case of an
+ annual report) that has materially affected, or is reasonably likely to
+ materially affect, the registrant's internal control over financial
+ reporting; and
+
+5. The registrant's other certifying officers and I have disclosed, based on our
+most recent evaluation of internal control over financial reporting, to the
+registrant's auditors and the audit committee of the registrant's board of
+directors (or persons performing the equivalent functions):
+
+ a) all significant deficiencies and material weaknesses in the design or
+ operation of internal control over financial reporting which are reasonably
+ likely to adversely affect the registrant's ability to record, process,
+ summarize, and report financial information; and
+
+ b) any fraud, whether or not material, that involves management or other
+ employees who have a significant role in the registrant's internal control
+ over financial reporting.
+
+Date: January 29, 2004
+
+/s/ Robert F. Aufenanger
+- ----------------------------------------
+Robert F. Aufenanger, Treasurer
+
+</EX-31.(3)>
+
+<EX-32.(1)>
+ 7
+ dex321.txt
+ SECTION 906 CERTIFICATIONS
+
+Exhibit 32.1
+
+ Certification
+ Pursuant to Section 906 of the Sarbanes-Oxley Act of 2002
+ (Subsections (a) and (b) of Section 1350, Chapter 63 of Title 18,
+ United States Code)
+
+Pursuant to section 906 of the Sarbanes-Oxley Act of 2002 (subsections (a) and
+(b) of section 1350, chapter 63 of title 18, United States Code), each of the
+undersigned officers of UST Private Equity Investors Fund, Inc. (the "Company"),
+does hereby certify, to such officer's knowledge, that:
+
+The Annual Report on Form 10-K for the fiscal year ended October 31, 2003 (the
+"Form 10-K") of the Company fully complies with the requirements of Section 13
+(a) or 15(d) of the Securities Exchange Act of 1934, and the information
+contained in the Form 10-K fairly presents, in all material respects, the
+financial condition and results of operations of the Company.
+
+Date: January 29, 2004 /s/ David I. Fann
+ ------------------------------- --------------------------------------
+
+ Name: David I. Fann
+ Title: Co-Chief Executive Officer
+
+Date: January 29, 2004 /s/ Douglas A. Lindgren
+ ------------------------------- --------------------------------------
+
+ Name: Douglas A. Lindgren
+ Title: Co-Chief Executive Officer
+
+Date: January 29, 2004 /s/ Robert F. Aufenanger
+ ------------------------------- --------------------------------------
+
+ Name: Robert F. Aufenanger
+ Title: Treasurer
+
+The foregoing certification is being furnished solely pursuant to section 906 of
+the Sarbanes-Oxley Act of 2002 (subsections (a) and (b) of section 1350, chapter
+63 of title 18, United States Code) and is not being filed as part of a separate
+disclosure document.
+
+</EX-32.(1)>
+

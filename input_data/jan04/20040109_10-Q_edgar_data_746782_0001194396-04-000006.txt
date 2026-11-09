@@ -1,0 +1,6965 @@
+<Header>
+<FileStats>
+    <FileName>20040109_10-Q_edgar_data_746782_0001194396-04-000006.txt</FileName>
+    <GrossFileSize>769663</GrossFileSize>
+    <NetFileSize>176934</NetFileSize>
+    <NonText_DocumentType_Chars>0</NonText_DocumentType_Chars>
+    <HTML_Chars>507987</HTML_Chars>
+    <XBRL_Chars>0</XBRL_Chars>
+    <XML_Chars>0</XML_Chars>
+    <N_Exhibits>6</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0001194396-04-000006.hdr.sgml : 20040109
+<ACCEPTANCE-DATETIME>20040109160648
+ACCESSION NUMBER:		0001194396-04-000006
+CONFORMED SUBMISSION TYPE:	10-Q
+PUBLIC DOCUMENT COUNT:		7
+CONFORMED PERIOD OF REPORT:	20031130
+FILED AS OF DATE:		20040109
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			COGNOS INC
+		CENTRAL INDEX KEY:			0000746782
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-PREPACKAGED SOFTWARE [7372]
+		IRS NUMBER:				980119485
+		STATE OF INCORPORATION:			CA
+		FISCAL YEAR END:			0228
+
+	FILING VALUES:
+		FORM TYPE:		10-Q
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	033-72402
+		FILM NUMBER:		04518153
+
+	BUSINESS ADDRESS:	
+		STREET 1:		3755 RIVERSIDE DR
+		STREET 2:		PO BOX 9707
+		CITY:			OTTAWA ONTARIO CAN K
+		STATE:			A6
+		ZIP:			00000
+		BUSINESS PHONE:		6137381440
+
+	MAIL ADDRESS:	
+		STREET 1:		3755 RIVERSIDE DR
+		STREET 2:		POST OFFICE BOX 9707
+		CITY:			ONTARIO
+
+</SEC-Header>
+</Header>
+
+ 
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ PZHbtS6XiRCwXtxySnUJhCdVFcZiJD0kvWywq+CwIjkQ0GTZtM4ajuO8aDPnkpOL
+ LeGLbcEvA0beseVks2FGiw==
+
+ 0001194396-04-000006.txt : 20040109
+
+10-Q
+ 1
+ cognos30248_10q.htm
+ OTHER RELATED DOCUMENT
+
+Cognos Form 10-Q 
+
+UNITED STATES 
+
+SECURITIES AND EXCHANGE
+COMMISSION 
+
+ WASHINGTON, D.C. 20549 
+
+ _________________ 
+
+ FORM 10-Q 
+
+ [X] QUARTERLY REPORT
+PURSUANT TO SECTION 13 OR 15(d) OF 
+ THE SECURITIES EXCHANGE ACT
+OF 1934 
+
+ For the Quarterly
+Period Ended November 30, 2003 
+
+ OR 
+
+ [ ] 
+ TRANSITION REPORT
+PURSUANT TO SECTION 13 OR 15(d) OF 
+ THE SECURITIES EXCHANGE ACT
+OF 1934 
+For The Transition
+Period From _________ To ________ 
+
+ Commission File Number
+0-16006 
+
+ COGNOS INCORPORATED 
+ (Exact Name Of
+Registrant As Specified In Its Charter) 
+
+CANADA 
+ 98-0119485 
+ 
+ (State Or Other Jurisdiction Of 
+ (IRS Employer Identification No.) 
+ 
+ Incorporation Or Organization) 
+
+3755 Riverside Drive, 
+ P.O. Box 9707, Station T, 
+ Ottawa, Ontario, Canada 
+ (Address Of Principal Executive
+Offices) 
+ K1G 4K9 
+ (Zip Code 
+
+(613) 738-1440 
+ (Registrant s
+Telephone Number, Including Area Code) 
+
+ Indicate by check mark whether the
+registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the
+Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period
+that the registrant was required to file such reports), and (2) has been subject to such
+filing requirements for the past 90 days. YES X 
+ NO 
+
+Indicate by check mark whether the
+registrant is an accelerated filer (as defined in Rule 12b-2 of the Securities Exchange
+Act of 1934). YES X NO 
+
+The number of shares outstanding of
+the registrant s only class of Common Stock as of December 31, 2003, was 89,936,059. 
+
+COGNOS INCORPORATED 
+
+INDEX 
+
+PAGE 
+ 
+ PART I 
+FINANCIAL INFORMATION 
+ 
+ Item 1. 
+ 
+ Unaudited Consolidated Financial Statements 
+
+Consolidated Statements of Income for the three and nine months 
+
+ended November 30, 2003 and November 30, 2002 
+ 
+ 3 
+
+Consolidated Balance Sheets as of November 30, 2003 
+
+and February 28, 2003 
+ 4 
+
+Consolidated Statements of Cash Flows for the three and nine months 
+
+ended November 30, 2003 and November 30, 2002 
+ 5 
+
+Condensed Notes to the Consolidated Financial Statements 
+ 6 
+
+Item 2. 
+ Management's Discussion and Analysis of Financial Condition 
+
+and Results of Operations 
+ 16 
+
+Item 3. 
+ Quantitative and Qualitative Disclosure about Market Risk 
+ 49 
+
+Item 4. 
+ Controls and Procedures 
+ 50 
+
+PART II OTHER
+INFORMATION 
+ 
+ Item 1. 
+ Legal Proceedings 
+ 51 
+
+Item 6. 
+ Exhibits and Reports on Form 8-K 
+ 51 
+
+Signature 
+ 
+ 52 
+
+2 
+
+PART I FINANCIAL
+INFORMATION 
+
+Item 1. 
+
+Consolidated Financial Statements 
+
+COGNOS INCORPORATED CONSOLIDATED STATEMENTS
+OF INCOME (US 000s except share
+amounts, U.S. GAAP) 
+(Unaudited) 
+
+Three months ended November 30 
+ 
+ Nine months ended November 30 
+
+2003 
+ 
+ 2002 
+ 
+ 2003 
+ 
+ 2002 
+
+Revenue 
+
+Product license 
+ 72,551 
+ 
+ 62,223 
+ 
+ 192,586 
+ 
+ 167,097 
+
+Product support 
+ 68,676 
+ 
+ 52,853 
+ 
+ 198,965 
+ 
+ 152,269 
+
+Services 
+ 31,000 
+ 
+ 22,998 
+ 
+ 89,420 
+ 
+ 67,942 
+
+Total revenue 
+ 172,227 
+ 
+ 138,074 
+ 
+ 480,971 
+ 
+ 387,308 
+
+Cost of revenue 
+ 
+ Cost of product license 
+ 1,121 
+ 
+ 722 
+ 
+ 3,338 
+ 
+ 2,170 
+
+Cost of product support 
+ 7,051 
+ 
+ 5,240 
+ 
+ 20,793 
+ 
+ 14,682 
+
+Cost of services 
+ 22,924 
+ 
+ 17,599 
+ 
+ 65,286 
+ 
+ 50,219 
+
+Total cost of revenue 
+ 31,096 
+ 
+ 23,561 
+ 
+ 89,417 
+ 
+ 67,071 
+
+Gross margin 
+ 141,131 
+ 
+ 114,513 
+ 
+ 391,554 
+ 
+ 320,237 
+
+Operating expenses 
+ 
+ Selling, general, and administrative 
+ 86,185 
+ 
+ 67,492 
+ 
+ 248,199 
+ 
+ 201,100 
+
+Research and development 
+ 22,265 
+ 
+ 18,264 
+ 
+ 67,273 
+ 
+ 56,991 
+
+Amortization of intangible assets 
+ 1,890 
+ 
+ 759 
+ 
+ 5,705 
+ 
+ 2,358 
+
+Total operating expenses 
+ 110,340 
+ 
+ 86,515 
+ 
+ 321,177 
+ 
+ 260,449 
+
+Operating income 
+ 30,791 
+ 
+ 27,998 
+ 
+ 70,377 
+ 
+ 59,788 
+
+Interest expense 
+ (552) 
+ (211) 
+ (877) 
+ (442) 
+ 
+ Interest income 
+ 975 
+ 
+ 1,521 
+ 
+ 3,562 
+ 
+ 4,741 
+
+Income before taxes 
+ 31,214 
+ 
+ 29,308 
+ 
+ 73,062 
+ 
+ 64,087 
+
+Income tax provision 
+ 6,966 
+ 
+ 9,379 
+ 
+ 18,265 
+ 
+ 20,508 
+
+Net income 
+ 24,248 
+ 
+ 19,929 
+ 
+ 54,797 
+ 
+ 43,579 
+
+Net income per share 
+ 
+ Basic 
+ 0.27 
+ 
+ 0.23 
+ 
+ 0.61 
+ 
+ 0.50 
+
+Diluted 
+ 0.26 
+ 
+ 0.22 
+ 
+ 0.60 
+ 
+ 0.48 
+
+Weighted average number of shares (000s) 
+ 
+ Basic 
+ 89,692 
+ 
+ 87,845 
+ 
+ 89,133 
+ 
+ 87,916 
+
+Diluted 
+ 92,614 
+ 
+ 89,882 
+ 
+ 91,779 
+ 
+ 90,487 
+
+(See accompanying notes) 
+
+3 
+
+COGNOS INCORPORATED 
+CONSOLIDATED BALANCE
+SHEETS 
+(US 000s, U.S. GAAP) 
+
+November 30, 2003 
+ 
+ February 28, 2003 
+
+Assets 
+ (Unaudited) 
+ 
+ (Note 1) 
+
+Current assets 
+
+Cash and cash equivalents 
+ 166,227 
+ 
+ 162,588 
+
+Short-term investments 
+ 154,668 
+ 
+ 79,670 
+
+Accounts receivable 
+ 118,767 
+ 
+ 139,116 
+
+Prepaid expenses and other current assets 
+ 11,801 
+ 
+ 8,884 
+
+Deferred tax assets 
+ 4,165 
+ 
+ 5,427 
+
+455,628 
+ 
+ 395,685 
+
+Fixed assets 
+ 72,599 
+ 
+ 63,467 
+
+Intangible assets 
+ 23,703 
+ 
+ 29,408 
+
+Goodwill 
+ 170,475 
+ 
+ 169,991 
+
+722,405 
+ 
+ 658,551 
+
+Liabilities 
+ 
+ Current liabilities 
+ 
+ Accounts payable 
+ 25,623 
+ 
+ 33,310 
+
+Accrued charges 
+ 24,486 
+ 
+ 34,192 
+
+Salaries, commissions, and related items 
+ 45,357 
+ 
+ 48,916 
+
+Income taxes payable 
+ 9,797 
+ 
+ 4,395 
+
+Deferred revenue 
+ 129,882 
+ 
+ 146,008 
+
+235,145 
+ 
+ 266,821 
+
+Long-term liabilities 
+ -- 
+ 
+ 1,647 
+
+Deferred income taxes 
+ 19,628 
+ 
+ 13,561 
+
+254,773 
+ 
+ 282,029 
+
+Stockholders' Equity 
+ 
+ Capital stock 
+ 
+ Common shares and additional paid-in capital 
+ 
+ (November 30, 2003 - 89,915,921; 
+ 
+ February 28, 2003 - 88,124,914) 
+ 200,600 
+ 
+ 173,363 
+
+Treasury shares 
+ 
+ (November 30, 2003 - 43,500; February 28, 2003 - 22,500) 
+ (1,065) 
+ (501) 
+ 
+ Deferred stock-based compensation 
+ (870) 
+ (1,243) 
+ 
+ Retained earnings 
+ 268,324 
+ 
+ 213,527 
+
+Accumulated other comprehensive income (loss) 
+ 643 
+ 
+ (8,624) 
+
+467,632 
+ 
+ 376,522 
+
+722,405 
+ 
+ 658,551 
+
+(See accompanying notes) 
+
+4 
+
+COGNOS INCORPORATED CONSOLIDATED STATEMENTS
+OF CASH FLOWS 
+(US 000s, U.S. GAAP) 
+(Unaudited) 
+
+Three months ended November 30, 
+ 
+ Nine months ended November 30, 
+
+2003 
+ 
+ 2002 
+ 
+ 2003 
+ 
+ 2002 
+
+Cash flows from operating activities 
+
+Net income 
+ 24,248 
+ 
+ 19,929 
+ 
+ 54,797 
+ 
+ 43,579 
+
+Non-cash items 
+ 
+ Depreciation and amortization 
+ 7,252 
+ 
+ 5,242 
+ 
+ 21,718 
+ 
+ 15,247 
+
+Amortization of deferred stock-based compensation 
+ 215 
+ 
+ 148 
+ 
+ 605 
+ 
+ 518 
+
+Amortization of other deferred compensation 
+ 44 
+ 
+ 119 
+ 
+ 168 
+ 
+ 415 
+
+Deferred income taxes 
+ 1,227 
+ 
+ 4,389 
+ 
+ 5,280 
+ 
+ 3,659 
+
+Loss on disposal of fixed assets 
+ 76 
+ 
+ 8 
+ 
+ 539 
+ 
+ 109 
+
+33,062 
+ 
+ 29,835 
+ 
+ 83,107 
+ 
+ 63,527 
+
+Change in non-cash working capital 
+ 
+ Decrease (increase) in accounts receivable 
+ (5,716) 
+ (18,157) 
+ 26,181 
+ 
+ 15,642 
+
+Decrease (increase) in prepaid expenses and other current assets 
+ 2,327 
+ 
+ 1,687 
+ 
+ (1,533) 
+ 855 
+
+Increase (decrease) in accounts payable 
+ 837 
+ 
+ 4,259 
+ 
+ (9,941) 
+ (4,458) 
+ 
+ Decrease in accrued charges 
+ (4,610) 
+ (355) 
+ (11,682) 
+ (9,755) 
+ 
+ Increase (decrease) in salaries, commissions, and related items 
+ 6,647 
+ 
+ 3,390 
+ 
+ (7,141) 
+ 935 
+
+Increase (decrease) in income taxes payable 
+ 3,967 
+ 
+ 154 
+ 
+ 5,126 
+ 
+ (3,045) 
+ 
+ Decrease in deferred revenue 
+ (7,314) 
+ (5,484) 
+ (22,665) 
+ (14,903) 
+
+Net cash provided by operating activities 
+ 29,200 
+ 
+ 15,329 
+ 
+ 61,452 
+ 
+ 48,798 
+
+Cash flows from investing activities 
+ 
+ Maturity of short-term investments 
+ 88,663 
+ 
+ 19,851 
+ 
+ 205,473 
+ 
+ 190,232 
+
+Purchase of short-term investments 
+ (144,406) 
+ (139,146) 
+ (277,445) 
+ (228,789) 
+ 
+ Additions to fixed assets 
+ (6,165) 
+ (3,559) 
+ (18,349) 
+ (11,328) 
+ 
+ Acquisition costs 
+ (254) 
+ -- 
+ 
+ (484) 
+ -- 
+
+Net cash used in investing activities 
+ (62,162) 
+ (122,854) 
+ (90,805) 
+ (49,885) 
+
+Cash flows from financing activities 
+ 
+ Issue of common shares 
+ 8,896 
+ 
+ 4,106 
+ 
+ 27,005 
+ 
+ 9,831 
+
+Purchase of treasury shares 
+ -- 
+ 
+ -- 
+ 
+ (564) 
+ -- 
+
+Repurchase of shares 
+ -- 
+ 
+ (6,850) 
+ -- 
+ 
+ (19,992) 
+ 
+ Decrease in long-term debt and long-term liabilities 
+ -- 
+ 
+ (2,361) 
+ (1,697) 
+ (5,464) 
+
+Net cash provided by (used in) financing activities 
+ 8,896 
+ 
+ (5,105) 
+ 24,744 
+ 
+ (15,625) 
+
+Effect of exchange rate changes on cash 
+ 4,111 
+ 
+ 72 
+ 
+ 8,248 
+ 
+ 354 
+
+Net increase (decrease) in cash and cash equivalents 
+ (19,955) 
+ (112,558) 
+ 3,639 
+ 
+ (16,358) 
+ 
+ Cash and cash equivalents, beginning of period 
+ 186,182 
+ 
+ 289,100 
+ 
+ 162,588 
+ 
+ 192,900 
+
+Cash and cash equivalents, end of period 
+ 166,227 
+ 
+ 176,542 
+ 
+ 166,227 
+ 
+ 176,542 
+
+Short-term investments, end of period 
+ 154,668 
+ 
+ 161,561 
+ 
+ 154,668 
+ 
+ 161,561 
+
+Cash, cash equivalents, and short-term investments, end of period 
+ 320,895 
+ 
+ 338,103 
+ 
+ 320,895 
+ 
+ 338,103 
+
+(See accompanying notes) 
+
+5 
+
+COGNOS INCORPORATED 
+
+CONDENSED NOTES TO THE
+CONSOLIDATED FINANCIAL STATEMENTS 
+(Unaudited) 
+(All amounts in United States
+dollars, unless otherwise stated) 
+(In accordance with
+U.S. GAAP) 
+
+1. 
+ 
+ Basis
+of Presentation 
+
+The
+accompanying unaudited consolidated financial statements have been prepared by the
+Corporation in United States (U.S.) dollars and in accordance with generally accepted
+accounting principles (GAAP) in the U.S. with respect to interim financial statements,
+applied on a consistent basis. The consolidated balance sheet at February 28, 2003 has
+been extracted from the audited consolidated financial statements at that date.
+Accordingly, these consolidated financial statements do not include all of the information
+and footnotes required for compliance with GAAP in the U.S. for annual financial
+statements. These unaudited condensed notes to the consolidated financial statements
+should be read in conjunction with the audited financial statements and notes included in
+the Corporation s Annual Report on Form 10-K for the fiscal year ended February 28,
+2003. 
+
+The
+preparation of these unaudited consolidated financial statements requires management to
+make estimates and assumptions that affect the amounts reported in the consolidated
+financial statements and the accompanying notes. In the opinion of Management, these
+unaudited consolidated financial statements reflect all adjustments (which include only
+normal, recurring adjustments) necessary to state fairly the results for the periods
+presented. Actual results could differ from these estimates and the operating results for
+the interim periods presented are not necessarily indicative of the results expected for
+the full year. 
+
+All
+information is presented in U.S. dollars, unless otherwise stated. Consolidated financial
+statements prepared in accordance with Canadian GAAP, in U.S. dollars, are made available
+to all shareholders, and filed with various regulatory authorities. 
+
+2. 
+ 
+ Revenue
+Recognition 
+
+The
+Corporation recognizes revenue in accordance with Statement of Position (SOP) 97-2,
+ Software Revenue Recognition, issued by the American Institute of Certified Public
+Accountants. 
+
+Substantially
+all of the Corporation s product license revenue is earned from licenses of
+off-the-shelf software requiring no customization. Revenue from these licenses is
+recognized when all of the following criteria are met: persuasive evidence of an
+arrangement exists, delivery has occurred, the fee is fixed or determinable, and
+collectibility is probable. If a license includes the right to return the product for
+refund or credit, revenue is deferred, until the right of return lapses. 
+
+Revenue
+from product support contracts is recognized ratably over the life of the contract.
+Incremental costs directly attributable to the acquisition of product support contracts,
+and that would not have been incurred but for the acquisition of that contract, are
+deferred and 
+
+6 
+
+COGNOS INCORPORATED 
+
+CONDENSED NOTES TO THE
+CONSOLIDATED FINANCIAL STATEMENTS 
+(Unaudited) 
+(All amounts in United States
+dollars, unless otherwise stated) 
+(In accordance with
+U.S. GAAP) 
+
+expensed in the period the related revenue is recognized. These costs include
+commissions payable on sales of support contracts. 
+
+Services
+revenue from education, consulting, and other services is recognized at the time the
+services are rendered. Many of the Corporation s sales include both software and
+services. Where the service is (1) not essential to the functionality of any other element
+of the transaction and (2) stated separately such that the total price of the arrangement
+is expected to vary as a result of the inclusion or exclusion of the service, the software
+element is accounted for separately from the service element. Where these two criteria are
+not met, the entire arrangement is accounted for using the percentage of completion method
+in accordance with SOP 81-1, Accounting for Performance of Construction Type and
+Certain Production Type Contracts. 
+
+For
+contracts with multiple obligations (e.g. deliverable and undeliverable products, support
+obligations, education, consulting, and other services), the Corporation allocates revenue
+to each element of the contract based on objective evidence, specific to the Corporation,
+of the fair value of the element. 
+
+3. 
+ 
+ Stock-Based
+Compensation 
+
+The
+Corporation applies Accounting Principles Board Opinion 25, Accounting for Stock Issued
+to Employees (APB 25) in accounting for its stock option, stock purchase, and
+restricted share unit plans. Where the exercise price of stock options is equal to the
+market price of the stock on the trading day preceding the date of grant, no compensation
+cost has been recognized in the financial statements for its stock option and stock
+purchase plans. However, for certain options assumed on the acquisition of Adaytum, Inc.
+(Adaytum), under purchase accounting methodology, compensation cost has been recognized in
+the financial statements. For restricted share units, the fair value of each unit is
+calculated at the date of grant. Compensation cost relating to the restricted share unit
+plan is recognized in the financial statements over the vesting period. 
+
+In
+December 2002, the Financial Accounting Standards Board (FASB) issued Statement of
+Financial Accounting Standards (SFAS) No. 148, Accounting for Stock-Based Compensation
+ Transition and Disclosure. This statement provides alternative methods of
+transition for a voluntary change to the fair value based method of accounting for
+stock-based compensation. The statement also requires new and more prominent disclosures
+about the effects of stock-based compensation on reported results which are provided
+below. The Corporation has chosen to continue to apply APB 25 to account for stock-based
+compensation. 
+
+7 
+
+COGNOS INCORPORATED 
+
+CONDENSED NOTES TO THE
+CONSOLIDATED FINANCIAL STATEMENTS 
+(Unaudited) 
+(All amounts in United States
+dollars, unless otherwise stated) 
+(In accordance with
+U.S. GAAP) 
+
+If
+the fair values of the options granted had been recognized as compensation expense on a
+straight-line basis over the vesting period of the grant, stock-based compensation costs
+would have reduced net income, basic net income per share and diluted net income per share
+as indicated in the table below (000s, except per share amounts): 
+
+Three months ended November 30, 
+ 
+ Nine months ended November 30, 
+
+2003 
+ 
+ 2002 
+ 
+ 2003 
+ 
+ 2002 
+
+Net income: 
+
+As reported 
+ 24,248 
+ 
+ 19,929 
+ 
+ 54,797 
+ 
+ 43,579 
+
+Add: Stock-based employee 
+ 
+ compensation included above 
+ 215 
+ 
+ 148 
+ 
+ 605 
+ 
+ 518 
+
+Less: Stock-based employee 
+ 
+ compensation using fair value based 
+ 
+ method 
+ (5,435) 
+ (7,392) 
+ (17,498) 
+ (20,556) 
+
+Pro forma 
+ 19,028 
+ 
+ 12,685 
+ 
+ 37,904 
+ 
+ 23,541 
+
+Basic net income per share: 
+ 
+ As reported 
+ 0.27 
+ 
+ 0.23 
+ 
+ 0.61 
+ 
+ 0.50 
+
+Add: Stock-based employee 
+ 
+ compensation included above 
+ -- 
+ 
+ -- 
+ 
+ 0.01 
+ 
+ -- 
+
+Less: Stock-based employee 
+ 
+ compensation using fair value based 
+ 
+ method 
+ (0.06) 
+ (0.08) 
+ (0.19) 
+ (0.23) 
+
+Pro forma 
+ 0.21 
+ 
+ 0.15 
+ 
+ 0.43 
+ 
+ 0.27 
+
+Diluted net income per share: 
+ 
+ As reported 
+ 
+ 0.26 
+ 
+ 0.22 
+ 
+ 0.60 
+ 
+ 0.48 
+
+Add: Stock-based employee 
+ 
+ compensation included above 
+ -- 
+ 
+ -- 
+ 
+ -- 
+ 
+ 0.01 
+
+Less: Stock-based employee 
+ 
+ compensation using fair value based 
+ 
+ method 
+ (0.06) 
+ (0.08) 
+ (0.19) 
+ (0.23) 
+
+Pro forma 
+ 0.20 
+ 
+ 0.14 
+ 
+ 0.41 
+ 
+ 0.26 
+
+Weighted average number of shares: 
+ 
+ Basic 
+ 89,692 
+ 
+ 87,845 
+ 
+ 89,133 
+ 
+ 87,916 
+
+Diluted 
+ 92,614 
+ 
+ 89,882 
+ 
+ 91,779 
+ 
+ 90,487 
+
+8 
+
+COGNOS INCORPORATED 
+
+CONDENSED NOTES TO THE
+CONSOLIDATED FINANCIAL STATEMENTS 
+(Unaudited) 
+(All amounts in United States
+dollars, unless otherwise stated) 
+(In accordance with
+U.S. GAAP) 
+
+The
+fair value of the options was estimated at the date of grant using a Black-Scholes
+option-pricing model with the following weighted average assumptions: 
+
+Three months ended November 30, 
+ 
+ Nine months ended November 30, 
+
+2003 
+ 
+ 2002 
+ 
+ 2003 
+ 
+ 2002 
+
+Risk-free interest rates 
+ 
+ 3.0 
+ 
+ N/A 
+ 
+ 2.9 
+ 
+ 3.7 
+
+Expected life of options (years) 
+ 4.3 
+ 
+ N/A 
+ 4.3 
+ 
+ 2.9 
+
+Expected volatility 
+ 57.1 
+ 
+ N/A 
+ 57.2 
+ 
+ 67.9 
+
+Dividend yield 
+ 0.0 
+ 
+ N/A 
+ 0.0 
+ 
+ 0.0 
+
+There were no options granted during the three months ended November 30, 2002. 
+
+4. 
+ 
+ Goodwill 
+
+During
+the three and nine months ended November 30, 2003, there were additions to goodwill of
+ 254,000 and 484,000, respectively. During the three and nine months ended November 30,
+2002, there were additions to goodwill of 115,000 and 293,000, respectively. All
+additions during the three and nine months ended November 30, 2003 and November 30, 2002
+were related to additional consideration paid to the former shareholders of Teijin Cognos
+Incorporated (TCI). The consideration was based on the net revenue of TCI during each
+quarter as per the original agreement. The Corporation has designated the beginning of its
+fiscal year as the date for the annual impairment test, and performed the required test as
+of March 1, 2003. Based on this test, goodwill is not considered to be impaired. 
+
+Three months ended November 30, 
+ 
+ Nine months ended November 30, 
+
+2003 
+ 
+ 2002 
+ 
+ 2003 
+ 
+ 2002 
+
+000s) 
+ 
+ 000s) 
+
+Beginning balance 
+ 
+ 170,221 
+ 
+ 15,408 
+ 
+ 169,991 
+ 
+ 15,230 
+
+Additions 
+ 254 
+ 
+ 115 
+ 
+ 484 
+ 
+ 293 
+
+Closing balance 
+ 170,475 
+ 
+ 15,523 
+ 
+ 170,475 
+ 
+ 15,523 
+
+9 
+
+COGNOS INCORPORATED 
+
+CONDENSED NOTES TO THE
+CONSOLIDATED FINANCIAL STATEMENTS 
+(Unaudited) 
+(All amounts in United States
+dollars, unless otherwise stated) 
+(In accordance with
+U.S. GAAP) 
+
+5. 
+ 
+ Intangible
+Assets 
+
+As at November 30, 2003 
+ 
+ As at February 28, 2003 
+
+Cost 
+ Accumulated Amortization 
+ Cost 
+ Accumulated Amortization 
+ Amortization Rate 
+
+000s) 
+ 
+ 000s) 
+
+Acquired Technology 
+ 
+ 33,381 
+ 
+ 16,627 
+ 
+ 33,381 
+ 
+ 11,821 
+ 
+ 20 
+
+Compensation 
+ 
+ Deferred Compensation 
+ 8,945 
+ 
+ 8,930 
+ 
+ 8,945 
+ 
+ 8,763 
+ 
+ Period 
+ 
+ Contractual Relationships 
+ 7,800 
+ 
+ 866 
+ 
+ 7,800 
+ 
+ 134 
+ 
+ 12.5 
+
+50,126 
+ 
+ 26,423 
+ 
+ 50,126 
+ 
+ 20,718 
+
+(26,423) 
+
+(20,718) 
+
+Net book value 
+ 23,703 
+
+29,408 
+
+Amortization
+of intangible assets was 1,890,000 and 759,000 in the quarters ended November 30, 2003
+and November 30, 2002, respectively, and was 5,705,000 and 2,358,000 in the nine months
+ended November 30, 2003 and November 30, 2002, respectively. The estimated amortization
+expense related to intangible assets is as follows 000s): 
+
+2004 (Q4) 
+ 
+ 1,785 
+
+2005 
+ 4,922 
+
+2006 
+ 4,915 
+
+2007 
+ 4,915 
+
+2008 
+ 4,375 
+
+2009 
+ 975 
+
+2010 and thereafter 
+ 1,816 
+
+6. 
+ 
+ Income
+Taxes 
+
+The
+Corporation provides for income taxes in its quarterly unaudited financial statements
+based on the estimated effective tax rate for the full fiscal year. During the quarter
+ended November 30, 2003, the Corporation reduced its estimated effective tax rate for
+fiscal 2004 from 27 to 25 to reflect its current expectations for the full fiscal year.
+This change in estimate had no effect on income before taxes but increased net income for
+the three and nine month periods ended November 30, 2003 by 1,462,000. Basic and diluted
+earnings per share for the three months ended November 30, 2003 would have been 0.25
+without this change, a decrease of 0.02 and 0.01, respectively. For the nine months
+ended November 30, 2003, basic and diluted earnings per share would have been 0.60 and
+ 0.58, respectively, a decrease of 0.01 and 0.02, respectively. 
+
+10 
+
+COGNOS INCORPORATED 
+
+CONDENSED NOTES TO THE
+CONSOLIDATED FINANCIAL STATEMENTS 
+(Unaudited) 
+(All amounts in United States
+dollars, unless otherwise stated) 
+(In accordance with
+U.S. GAAP) 
+
+7. 
+ 
+ Net
+Income per Share 
+
+The
+reconciliation of the numerator and denominator for the calculation of basic and diluted
+net income per share is as follows: (000s except per share amounts) 
+
+Three months ended November 30, 
+ 
+ Nine months ended November 30, 
+
+2003 
+ 
+ 2002 
+ 
+ 2003 
+ 
+ 2002 
+
+Basic Net Income per Share 
+
+Net income 
+ 24,248 
+ 
+ 19,929 
+ 
+ 54,797 
+ 
+ 43,579 
+
+Weighted average number of shares 
+ 
+ outstanding 
+ 89,692 
+ 
+ 87,845 
+ 
+ 89,133 
+ 
+ 87,916 
+
+Basic net income per share 
+ 0.27 
+ 
+ 0.23 
+ 
+ 0.61 
+ 
+ 0.50 
+
+Diluted Net Income per Share 
+ 
+ Net income 
+ 24,248 
+ 
+ 19,929 
+ 
+ 54,797 
+ 
+ 43,579 
+
+Weighted average number of shares 
+ 
+ outstanding 
+ 89,692 
+ 
+ 87,845 
+ 
+ 89,133 
+ 
+ 87,916 
+
+Dilutive effect of stock options 
+ 2,922 
+ 
+ 2,037 
+ 
+ 2,646 
+ 
+ 2,571 
+
+Adjusted weighted average number of 
+ 
+ shares outstanding 
+ 92,614 
+ 
+ 89,882 
+ 
+ 91,779 
+ 
+ 90,487 
+
+Diluted net income per share 
+ 0.26 
+ 
+ 0.22 
+ 
+ 0.60 
+ 
+ 0.48 
+
+8. 
+ 
+ Comprehensive
+Income 
+
+Comprehensive
+income includes net income and other comprehensive income (OCI). OCI refers to changes in
+net assets from transactions and other events, and circumstances other than transactions
+with stockholders. These changes are recorded directly as a separate component of
+Stockholders Equity and excluded from net income. The only other comprehensive
+income item for the Corporation relates to foreign currency translation adjustments
+pertaining to those subsidiaries not using the U.S. dollar as their functional currency
+net of derivative gains or losses. 
+
+11 
+
+COGNOS INCORPORATED 
+
+CONDENSED NOTES TO THE
+CONSOLIDATED FINANCIAL STATEMENTS 
+(Unaudited) 
+(All amounts in United States
+dollars, unless otherwise stated) 
+(In accordance with
+U.S. GAAP) 
+
+The
+components of comprehensive income were as follows 000 s): 
+
+Three months ended November 30, 
+ 
+ Nine months ended November 30, 
+
+2003 
+ 
+ 2002 
+ 
+ 2003 
+ 
+ 2002 
+
+Net income 
+ 
+ 24,248 
+ 
+ 19,929 
+ 
+ 54,797 
+ 
+ 43,579 
+
+Other comprehensive income: 
+
+Foreign currency translation adjustments 
+ 2,931 
+ 
+ (286) 
+ 9,267 
+ 
+ 473 
+
+Comprehensive income 
+ 27,179 
+ 
+ 19,643 
+ 
+ 64,064 
+ 
+ 44,052 
+
+9. 
+ 
+ Segmented
+Information 
+
+The
+Corporation has one reportable segment computer software products. 
+
+10. 
+ 
+ Stockholders Equity 
+
+The
+Corporation issued 543,000 common shares valued at 8.9 million, and 326,000 common shares
+valued at 4.1 million during the quarters ended November 30, 2003 and November 30, 2002,
+respectively. The Corporation issued 1,769,000 common shares valued at 27.0 million and
+755,000 common shares, valued at 9.8 million during the nine months ended November 30,
+2003 and November 30, 2002, respectively. The issuance of shares in the three and nine
+months ended November 30, 2003 was pursuant to the Corporation s stock purchase plan
+and the exercise of stock options by employees, officers and directors. 
+
+The
+Corporation did not repurchase common shares during the three and nine months ended
+November 30, 2003, but repurchased 342,000 common shares valued at 6.8 million and
+910,000 common shares valued at 20.0 million during the three and nine months ended
+November 30, 2002, respectively. Repurchased shares were part of an open market share
+repurchase program, except 180,000 shares purchased during the quarter ended August 31,
+2002 which were purchased under a secondary offering of the Corporation s common
+shares. 
+
+Stockholder s
+equity increased by 215,000 and 148,000 for the quarter ended November 30, 2003 and
+November 30, 2002, respectively due to the amortization of the deferred compensation
+related to the restricted share unit plan. For the nine month periods ended November 30,
+2003 and November 30, 2002, stockholder s equity increased by 605,000 and 518,000,
+respectively because of this amortization. 
+
+12 
+
+COGNOS INCORPORATED 
+
+CONDENSED NOTES TO THE
+CONSOLIDATED FINANCIAL STATEMENTS 
+(Unaudited) 
+(All amounts in United States
+dollars, unless otherwise stated) 
+(In accordance with
+U.S. GAAP) 
+
+11. 
+ 
+ Liabilities
+in Connection with Acquisition 
+
+The
+Corporation undertook a restructuring plan in conjunction with the acquisition of Adaytum
+during January 2003. In accordance with Emerging Issues Task Force (EITF) No. 95-3,
+ Recognition of Liabilities in Connection with a Business Combination (EITF 95-3),
+the liability associated with this restructuring is considered a liability assumed in the
+purchase price allocation. This restructuring primarily relates to involuntary employee
+separations of approximately 90 employees of Adaytum, accruals for abandoning leased
+premises of Adaytum, and related write-downs of leasehold improvements as well as asset
+write-downs of Adaytum. The employee separations impact all functional groups and
+geographic regions of Adaytum. The remaining accrual is included on the balance sheet as
+accrued charges and salaries, commissions, and related items. All amounts excluding lease
+payments are expected to be paid during fiscal 2004. Outstanding balances for the lease
+payments will be paid over the lease term unless settled earlier. The Corporation does not
+believe that any unresolved contingencies, purchase price allocation issues, or additional
+liabilities exist that would result in a material adjustment to the acquisition cost
+allocation. 
+
+000s) 
+ Employee separations 
+ Other restructuring accruals 
+ Total accrual 
+ Asset write- downs 
+ Total 
+
+Restructuring 
+ 
+ 3,888 
+ 
+ 3,976 
+ 
+ 7,864 
+ 
+ 768 
+ 
+ 8,632 
+
+Cash payments 
+ (248) 
+ (11) 
+ (259) 
+ -- 
+ 
+ (259) 
+ 
+ Asset write-downs 
+ -- 
+ 
+ -- 
+ 
+ -- 
+ 
+ (768) 
+ (768) 
+
+Balance as at 
+ 
+ February 28, 2003 
+ 3,640 
+ 
+ 3,965 
+ 
+ 7,605 
+ 
+ -- 
+ 
+ 7,605 
+
+Cash payments 
+ 3,384 
+ 
+ 311 
+ 
+ 3,695 
+ 
+ -- 
+ 
+ 3,695 
+
+Balance as at 
+ 
+ November 30, 2003 
+ 256 
+ 
+ 3,654 
+ 
+ 3,910 
+ 
+ -- 
+ 
+ 3,910 
+
+12. 
+ 
+ Comparative
+Results 
+
+Certain
+of the prior period s figures have been reclassified in order to conform to the
+presentation adopted during the current fiscal year. The Corporation has updated its
+income statement presentation to segregate from selling, general, and administrative
+expenses 17,599,000 and 50,219,000 for the three and nine months ended November 30,
+2002, respectively and created a new line item for the cost of providing services.
+Additionally, the Corporation has segregated from selling, general, and administrative
+expenses 759,000 and 2,358,000 for the three and nine months ended November 30, 2002,
+respectively, and created a new line item for amortization of intangible assets within
+operating expenses. This reclassification was made to provide more information to the
+users of the Corporation s financial statements. This change in presentation does not
+affect previously reported assets, liabilities, or results of operations. 
+
+13 
+
+COGNOS INCORPORATED 
+
+CONDENSED NOTES TO THE
+CONSOLIDATED FINANCIAL STATEMENTS 
+(Unaudited) 
+(All amounts in United States
+dollars, unless otherwise stated) 
+(In accordance with
+U.S. GAAP) 
+
+13. 
+ 
+ New
+Accounting Pronouncements 
+
+In
+January 2003, the FASB issued Interpretation No. 46, Consolidation of Variable
+Interest Entities (FIN 46). FIN 46 expands upon existing guidance that addresses when
+a company should include in its financial statements the assets, liabilities, and
+activities of another company. A variable interest entity is any legal structure used for
+business purposes that either (a) does not have equity investors or has equity investors
+that lack characteristics of control; or (b) the equity investment at risk does not
+provide sufficient financial resources for the entity to support its activities. Under FIN
+46, a variable interest entity must be consolidated by a company if that company is
+expected to absorb a majority of the entity s expected losses or to receive a
+majority of the entity s expected residual returns. The consolidation requirements
+are currently applicable to variable interests created after January 31, 2003. For
+variable interest entities created before January 31, 2003, the consolidation requirements
+are applicable for reporting periods ending after March 15, 2004. FIN 46 also requires
+certain disclosures about variable interest entities where those entities are not required
+to be consolidated. The Corporation has determined that it has two variable interest
+entities, one that required subordinated debt and another that sells the
+Corporation s products exclusively. Under FIN 46, the Corporation is required to
+apply the new accounting principles prospectively starting in the first quarter of fiscal
+2005. Upon adoption, none of the provisions of FIN 46 will have a material impact on the
+Corporation. 
+
+In
+April 2003, the FASB issued FASB Statement No. 149, Amendment of Statement 133 on
+Derivative Instruments and Hedging Activities (SFAS 149). SFAS 149 is intended to
+amend and clarify financial accounting for reporting for derivative instruments, including
+derivatives embedded in other contracts and hedging activities. The amendments improve
+financial reporting by: requiring that contracts with comparable characteristics be
+accounted for similarly; clarifying the circumstances under which a contract with an
+initial net investment meets the characteristics of a derivative; and clarifying when a
+derivative contains a financing component that requires special reporting in the statement
+of cash flows. SFAS 149 is effective for contracts entered into, or modified after, June
+30, 2003. The adoption of SFAS 149 did not have a material effect on the business, results
+of operations, or financial condition of the Corporation. 
+
+In
+May 2003, the FASB issued FASB Statement No. 150, Accounting for Certain Financial
+Instruments with Characteristics of Both Liabilities and Equity (SFAS 150)
+which establishes standards for classifying and measuring certain financial instruments
+issued by a company with characteristics of both liabilities and equity. The statement is
+effective for all financial instruments created on or modified after May 31, 2003 and
+otherwise effective at the beginning of the Corporation s third quarter of fiscal
+2004 beginning September 1, 2003. The Corporation has not issued any such instruments and
+therefore the adoption of SFAS 150 will 
+
+14 
+
+COGNOS INCORPORATED 
+
+CONDENSED NOTES TO THE
+CONSOLIDATED FINANCIAL STATEMENTS 
+(Unaudited) 
+(All amounts in United States
+dollars, unless otherwise stated) 
+(In accordance with
+U.S. GAAP) 
+
+have no effect on the business, results of
+operations, and financial condition of the Corporation. 
+
+15 
+
+Item 2. 
+
+COGNOS INCORPORATED 
+
+MANAGEMENT S
+DISCUSSION AND ANALYSIS 
+OF FINANCIAL CONDITION
+AND RESULTS OF OPERATIONS 
+
+(in United States
+dollars, unless otherwise indicated, and in accordance with U.S. GAAP) 
+
+Management s Discussion and
+Analysis of Financial Condition and Results of Operations should be read in conjunction
+with the unaudited Consolidated Financial Statements and Notes included in Item 1 of this
+Quarterly Report and can also be read in conjunction with the audited Consolidated
+Financial Statements and Notes, and Management s Discussion and Analysis of Financial
+Condition and Results of Operations contained in our Annual Report on Form 10-K for the
+fiscal year ended February 28, 2003 (fiscal 2003). Management s Discussion and
+Analysis of Financial Condition and Results of Operations contains forward-looking
+statements within the meaning of Section 27A of the Securities Act of 1933, as amended,
+and Section 21E of the Securities Exchange Act of 1934, as amended, made pursuant to the
+safe harbor provisions of the Private Securities Litigation Reform Act of 1995 including
+statements concerning future revenues and earnings, product demand and growth
+opportunities; business outlook and business momentum; new product introductions and
+customer reaction and acceptance of the Cognos ReportNet product; market positioning,
+business model and technology strategies and execution. These forward-looking statements
+are neither promises nor guarantees, but involve risks and uncertainties that may cause
+actual results to differ materially from those in the forward-looking statements. Factors
+that may cause such differences include, but are not limited to: our ability to maintain
+revenue growth or to anticipate a decline in revenue from any of our products or services;
+our ability to develop and introduce new products and enhancements that respond to
+customer requirements and rapid technological change; new product introductions and
+enhancements by competitors; our ability to compete in an intensely competitive market;
+our ability to select and implement appropriate business models and strategies;
+fluctuations in our quarterly and annual operating results based on historical patterns;
+the impact of global economic conditions on our business; unauthorized use of our
+intellectual property; claims by third parties that our software infringes their
+intellectual property; the risks inherent in international operations, such as currency
+exchange rate fluctuations; our ability to identify, hire, train, motivate, and retain
+highly qualified management and other key personnel; and our ability to identify, pursue,
+and complete acquisitions with desired business results; as well as the risk factors
+discussed below and in our most recent Annual Report on Form 10-K filed with the United
+States Securities and Exchange Commission, as well as other periodic reports filed with
+the SEC. Readers should not place undue reliance on any such forward-looking statements,
+which speak only as of the date they are made. We disclaim any obligation to publicly
+update or revise any such statement to reflect any change in our expectations or in
+events, conditions, or circumstances on which any such statements may be based, or that
+may affect the likelihood that actual results will differ from those contained in the
+forward-looking statements. 
+
+O VERVIEW 
+
+Cognos is a leading global provider
+of enterprise business intelligence and corporate performance management (CPM) solutions.
+Our solutions help improve business performance by enabling effective decision-making at
+all levels of the organization through the consistent reporting and analysis of data
+derived from various sources. Using our software, customers can gain valuable insights
+that can be used to improve operational effectiveness, enhance customer satisfaction,
+accelerate corporate response times and, ultimately, increase revenues and profits. Our
+integrated solutions consist of our suite of business intelligence components, analytical
+applications, and performance management applications. To complement these solutions, on
+January 10, 2003, we acquired privately-held Adaytum, Inc. (Adaytum), a leading global
+provider of enterprise performance planning software. 
+
+16 
+
+Our customers can apply our software
+solutions strategically across the extended enterprise to address their need for CPM. By
+allowing timely analysis of data from disparate systems, CPM enables organizations to
+measure execution against business strategy to ensure the two are aligned at all levels.
+Our solution for CPM allows users to manage effectively the full business cycle with
+planning, budgeting, reporting, analysis, and scorecarding products. 
+
+In September 2003, we launched Cognos
+ReportNet , a Web-based enterprise query and reporting solution. Cognos ReportNet
+delivers production reports such as invoices, statements, and statutory reports as well as
+ad hoc query, managed reports, and the broad range of business reports all from a single
+architecture. ReportNet offers a web-based report and query authoring environment which
+allows users to create, modify, and distribute reports across a global enterprise.
+ReportNet can be integrated into any environment due to its web services based
+architecture, delivers enterprise scalability, runs reports in multiple languages and
+allows for flexible report presentation. Although formally launched in September 2003,
+ReportNet was available for sale on a limited basis during the first half of fiscal 2004. 
+
+A PPLICATION OF 
+ C RITICAL 
+ A CCOUNTING 
+ P OLICIES AND 
+ E STIMATES 
+
+Our discussion and analysis of our
+financial condition and results of operations are based upon our consolidated financial
+statements, which have been prepared in accordance with accounting principles generally
+accepted in the United States. The preparation of these financial statements requires us
+to make estimates and judgments that affect the reported amounts of assets, liabilities,
+revenues, and expenses, and related disclosure of contingent assets and liabilities. On an
+on-going basis, we evaluate our estimates based on historical experience and on various
+other assumptions that are believed to be reasonable under the circumstances. The
+estimates form the basis for making judgments about the carrying values of assets and
+liabilities and reported revenues and expenses that may not be readily apparent from other
+sources. Actual results may differ from these estimates under different assumptions,
+conditions, and experience. 
+
+The following critical accounting
+policies and significant estimates are used in the preparation of our consolidated
+financial statements: 
+
+Revenue Recognition We
+recognize revenue in accordance with Statement of Position (SOP) 97-2, Software Revenue
+Recognition . Our product license revenue is earned from licenses of off-the-shelf
+software not requiring significant production, modification or customization. Revenue from
+these licenses is recognized when all of the following criteria are met: (1) persuasive
+evidence of an arrangement exists (our standard business practice is that persuasive
+evidence exists when we have a binding contract with a customer), (2) delivery has
+occurred, (3) the fee is fixed or determinable, and (4) collectibility is probable. If a
+license includes the right to return the product for refund or credit, revenue is deferred
+until the right of return lapses. 
+
+Product support includes the right to
+receive support services and unspecified upgrades or enhancements. Unspecified upgrades
+and enhancements are product support only if they are offered on a when-and-if-available
+basis. Revenue from product support contracts is recognized ratably over the life of the
+contract. Incremental costs directly attributable to the acquisition of product support
+contracts, and that would not have been incurred but for the acquisition of that contract,
+are deferred and expensed in the period the related revenue is recognized. These costs
+include commissions payable on sales of support contracts. 
+
+17 
+
+Services revenue from education,
+consulting, and other services is recognized at the time the services are rendered. Many
+of our sales include both software and services. Where the service is (1) not essential to
+the functionality of any other element of the transaction and (2) stated separately such
+that the total price of the arrangement is expected to vary as a result of the inclusion
+or exclusion of the service, the software element is accounted for separately from the
+service element. Where these two criteria are not met, the entire arrangement is accounted
+for using the percentage of completion method in accordance with SOP 81-1, Accounting
+for Performance of Construction Type and Certain Production Type Contracts. 
+
+For those contracts with multiple
+obligations, that is, deliverable and undeliverable products, support obligations,
+education, consulting, and other services, we allocate revenue to each element of the
+contract based on vendor specific objective evidence (VSOE) of the fair value of the
+element. VSOE of fair value is assigned using the residual method as outlined in SOP 98-9,
+ Modification of SOP 97-2, Software Revenue Recognition, With Respect to Certain
+Transactions . For product support elements of a contract, VSOE is the renewal rate.
+VSOE for service elements is the normal pricing and discounting practices for those
+products when they are sold separately; the residual is then assigned to the license
+element of the contract. 
+
+Allowance for Doubtful Accounts
+ We maintain an allowance for doubtful accounts for estimated losses resulting
+from the inability of our customers to make required payments. We regularly review our
+accounts receivable and use judgment to assess the collectibility of specific accounts and
+based on this assessment, an allowance is maintained for 100 of all accounts deemed to be
+uncollectible. For those receivables not specifically identified, an allowance is
+maintained for a specific percentage of those receivables based on the aging of the
+accounts, our historical collection experience, and current economic conditions. If the
+financial condition of our customers were to deteriorate, resulting in an impairment of
+their ability to make payments, additional allowances may be required. 
+
+Accounting for Income Taxes
+ As an entity which operates globally, we calculate our income tax liabilities
+in each of the jurisdictions in which we conduct business. As is common in companies with
+a global presence, we have used prudent tax planning strategies. Tax planning strategies
+by their nature involve complicated transactions. Those transactions are subject to review
+or audit by taxation authorities and the ultimate tax outcome bears a measure of
+uncertainty. We must therefore make estimates and judgments and it may take a considerable
+period for the ultimate tax outcome to be known. Although we believe our estimates are
+reasonable, the ultimate tax outcome could differ materially from the amounts recorded in
+our financial statements. These differences could have a material effect on our financial
+position and our net income. 
+
+We record a valuation allowance to
+reduce our deferred tax assets to the amount that is more likely than not to be realized.
+We have considered forecasted taxable income and ongoing prudent and feasible tax planning
+strategies in assessing the need for the valuation allowance. Our valuation allowance
+pertains primarily to the net operating loss carryforwards resulting from the acquisition
+of Adaytum during fiscal 2003. In the event we were to subsequently determine that we
+would be able to realize deferred tax assets related to acquisitions in excess of the net
+purchase price allocated to those deferred tax assets, we would record a credit to
+goodwill. In the event we were to subsequently determine that we would be able to realize
+our deferred tax assets unrelated to acquisitions in excess of our net recorded amount, an
+adjustment to the deferred tax asset would increase income in the period such
+determination was made. Should we determine that we would not be able to realize all or
+part of our net deferred tax asset in the future, an 
+
+18 
+
+adjustment to the deferred tax asset
+would reduce income in the period such determination was made. 
+
+We provide for withholding taxes on
+the undistributed earnings of our foreign subsidiaries. The ultimate tax liability related
+to the undistributed earnings could differ materially from the liabilities recorded in our
+financial statements. These differences could have a material effect on our income tax
+liabilities and our net income. 
+
+Goodwill and Acquired Intangible
+Assets We account for acquisitions of companies in accordance with Statement of
+Financial Accounting Standards (SFAS) No. 141, Business Combinations . We allocate
+purchase price to tangible assets, intangible assets, and liabilities based on fair values
+with the excess of purchase price amount being allocated to goodwill. 
+
+Historically, our acquisitions have
+resulted in the recognition of significant amounts of goodwill and acquired intangible
+assets. The allocation of purchase price to these intangible assets and goodwill requires
+that we make estimates and judgments based on assumptions about the future income
+producing capabilities of these assets and related future expected cash flows. We also
+make estimates about the useful lives of the acquired intangible assets. Should different
+conditions prevail, we could incur write-downs of goodwill, write-downs of intangible
+assets, or changes in the estimation of useful lives of those intangible assets. 
+
+In accordance with SFAS 142, goodwill
+is not amortized, but is subject to annual impairment testing which is discussed in
+greater detail below under Impairment of Long-lived Assets . Prior to our adoption
+of SFAS 142, we amortized goodwill over 5 years using the straight-line method. 
+
+Acquired intangible assets include
+acquired technology, contractual relationships, and deferred compensation. Acquired
+technology is initially recorded at fair value based on the present value of the estimated
+net future income-producing capabilities of the software products acquired. Acquired
+technology is amortized over its estimated useful life on a straight-line basis.
+Contractual relationships represent contractual and separable relationships that we have
+with certain customers and partners which we acquired through acquisitions. These
+contractual relationships were initially recorded at their fair value based on the present
+value of expected future cash flows and are amortized over their estimated useful life.
+Deferred compensation includes consideration associated with acquisitions. Deferred
+compensation is recorded when its future payment is determinable and is payable contingent
+upon the continued tenure of the principals of the acquired companies who have become our
+employees. Under generally accepted accounting principles, these amounts are accounted for
+as compensation rather than as a component of purchase price. We adopted SFAS No. 142,
+ Goodwill and Other Intangible Assets (SFAS 142) beginning March 1, 2002 and,
+accordingly, we evaluate the remaining useful life of our intangible assets being
+amortized each reporting period to determine whether events or circumstances warrant a
+revision to the estimated remaining amortization period. 
+
+Impairment of Goodwill and
+Long-lived Assets In accordance with SFAS 142, goodwill is subject to annual
+impairment tests, or on a more frequent basis if events or conditions indicate that
+goodwill may be impaired. Goodwill is tested for impairment at a level of reporting
+referred to as a reporting unit. The Corporation as a whole is considered one reporting
+unit. Quoted market prices in active markets are considered the best evidence of fair
+value. Therefore, the first step of our annual test is to compare the fair value of our
+shares on the Nasdaq Stock Market to the carrying value of our net assets. If we determine
+that our carrying value exceeds our fair 
+
+19 
+
+value, we would conduct a second step to the
+goodwill impairment test. The second step compares the implied fair value of the goodwill
+(determined as the excess fair value over the fair value assigned to our other assets and
+liabilities) to the carrying amount of goodwill. When the carrying amount of goodwill
+exceeds the implied fair value of goodwill, an impairment loss is recognized. 
+
+We evaluate all of our long-lived
+assets, including intangible assets other than goodwill and fixed assets, periodically for
+impairment in accordance with SFAS No. 144, Accounting for the Impairment or Disposal
+of Long-Lived Assets (SFAS 144). SFAS 144 requires that long-lived assets be evaluated
+for impairment when events or changes in facts and circumstances indicate that their
+carrying value may not be recoverable. If events or circumstances indicate that the
+carrying value of an asset may not be recoverable, the amount of impairment will be
+measured as the difference between the carrying value and the fair value of the impaired
+asset. An impairment will be recorded as an operating expense in the period of the
+impairment and as a reduction in the carrying value of that asset. 
+
+N EW 
+ A CCOUNTING 
+ P RONOUNCEMENTS 
+
+In January 2003, the Financial
+Accounting Standards Board (FASB) issued Interpretation No. 46, Consolidation of
+Variable Interest Entities (FIN 46). FIN 46 expands upon existing guidance that
+addresses when a company should include in its financial statements the assets,
+liabilities, and activities of another company. A variable interest entity is any legal
+structure used for business purposes that either (a) does not have equity investors or has
+equity investors that lack characteristics of control; or (b) the equity investment at
+risk does not provide sufficient financial resources for the entity to support its
+activities. Under FIN 46, a variable interest entity must be consolidated by a company if
+that company is expected to absorb a majority of the entity s expected losses or to
+receive a majority of the entity s expected residual returns. The consolidation
+requirements are currently applicable to variable interests created after January 31,
+2003. For variable interest entities created before January 31, 2003, the consolidation
+requirements are applicable for reporting periods ending after March 15, 2004. FIN 46 also
+requires certain disclosures about variable interest entities where those entities are not
+required to be consolidated. We have determined that we have two variable interest
+entities, one that required subordinated debt and another that sells our products
+exclusively. Under FIN 46, we are required to apply the new accounting principles
+prospectively starting in the first quarter of fiscal 2005. Upon adoption, none of the
+provisions of FIN 46 will have a material impact on us. 
+
+In April 2003, the FASB issued FASB
+Statement No. 149, Amendment of Statement 133 on Derivative Instruments and Hedging
+Activities (SFAS 149). SFAS 149 is intended to amend and clarify financial accounting
+for reporting for derivative instruments, including derivatives embedded in other
+contracts and hedging activities. The amendments improve financial reporting by: requiring
+that contracts with comparable characteristics be accounted for similarly; clarifying the
+circumstances under which a contract with an initial net investment meets the
+characteristics of a derivative; and clarifying when a derivative contains a financing
+component that requires special reporting in the statement of cash flows. SFAS 149 is
+effective for contracts entered into or modified after June 30, 2003. The adoption of SFAS
+149 did not have a material effect on our business, results of operations, and financial
+condition. 
+
+In May 2003, the FASB issued FASB
+Statement No. 150, Accounting for Certain Financial Instruments with Characteristics of
+Both Liabilities and Equity (SFAS 150) which establishes 
+
+20 
+
+standards for classifying and
+measuring certain financial instruments issued by a company with characteristics of both
+liabilities and equity. The statement is effective for all financial instruments created
+on or modified after May 31, 2003 and otherwise effective at the beginning of our third
+quarter of fiscal 2004 beginning September 1, 2003. We have not issued any such
+instruments and therefore the adoption of SFAS 150 will have no effect on our business,
+results of operations, and financial condition. 
+
+S HAREHOLDER 
+ P ROPOSAL 
+
+The following appears in the Corporation s quarterly letter to shareholders dated January 9, 2004: 
+
+In June 2003, the shareholders of
+Cognos approved a proposal made by the Carpenters Union asking the Board of Cognos to
+adopt a policy requiring Cognos to record the expense of all future stock options awarded
+to senior executives in its annual income statement. At the time, the Board publicly
+undertook to study this issue and respond to Cognos shareholders before the next
+Shareholder s Meeting in June 2004. 
+
+The Board of Cognos has considered
+this matter at length and has concluded that it agrees unequivocally with the principle
+that all stock options, including those issued to non-executives, should be recorded as an
+expense on the Corporation s income statement . As with any other major accounting
+policy, regulators first must develop uniform rules and guidance so that investors may
+make informed comparisons between Cognos and its industry peers. Comprehensive standards
+currently are in the advanced stages of formulation in the United States and uniform rules
+for Canadian issuers have just been issued. As we report under both U.S. and Canadian
+accounting standards, changes to standards in both countries will apply to Cognos. 
+
+In Canada, the Canadian Institute of
+Chartered Accountants has issued uniform rules relating to stock option expensing
+requiring Cognos to comply not later than the start of its next fiscal year, in March
+2004. However, Cognos will begin expensing stock options in its Canadian GAAP financial
+statements in the fourth quarter of its current fiscal year, retroactive to the beginning of the fiscal year. 
+
+In the United States, it appears that
+the Financial Accounting Standards Board (FASB) will implement its rules by early 2005.
+Our commitment to our shareholders is that Cognos will expense stock options on its
+U.S. GAAP financial statements as soon as practicable following FASB finalizing the
+appropriate standards. We fully expect that to occur on or before March 1, 2005. 
+
+We believe that expensing stock
+options is the right thing to do but we also believe we have a responsibility to implement
+stock option expensing only when uniform regulatory standards are in place so that we can
+be compared with our industry peers on the same basis. 
+
+21 
+
+R ESULTS OF 
+ O PERATIONS 
+
+Percentage Change 
+ 
+ (000s, except per share amounts) 
+ Three months ended November 30, 
+ 
+ Nine months ended November 30, 
+ 
+ Three months ended November 30, 
+ Nine months ended November 30, 
+
+2003 
+ 
+ 2002 
+ 
+ 2003 
+ 
+ 2002 
+ 
+ 2002 to 2003 
+ 2002 to 2003 
+
+Revenue 
+ 
+ 172,227 
+ 
+ 138,074 
+ 
+ 480,971 
+ 
+ 387,308 
+ 
+ 24.7 
+ 
+ 24.2 
+
+Cost of revenue 
+ 31,096 
+ 
+ 23,561 
+ 
+ 89,417 
+ 
+ 67,071 
+ 
+ 32.0 
+ 
+ 33.3 
+
+Gross margin 
+ 141,131 
+ 
+ 114,513 
+ 
+ 391,554 
+ 
+ 320,237 
+ 
+ 23.2 
+ 
+ 22.3 
+
+Operating expenses 
+ 110,340 
+ 
+ 86,515 
+ 
+ 321,177 
+ 
+ 260,449 
+ 
+ 27.5 
+ 
+ 23.3 
+
+Operating income 
+ 30,791 
+ 
+ 27,998 
+ 
+ 70,377 
+ 
+ 59,788 
+ 
+ 10.0 
+ 
+ 17.7 
+
+Gross margin percentage 
+ 81.9 
+ 
+ 82.9 
+ 
+ 81.4 
+ 
+ 82.7 
+
+Operating margin percentage 
+ 17.9 
+ 
+ 20.3 
+ 
+ 14.6 
+ 
+ 15.4 
+
+Net income 
+ 24,248 
+ 
+ 19,929 
+ 
+ 54,797 
+ 
+ 43,579 
+ 
+ 21.7 
+ 
+ 25.7 
+
+Basic net income per share 
+ 0.27 
+ 
+ 0.23 
+ 
+ 0.61 
+ 
+ 0.50 
+
+Diluted net income per share 
+ 0.26 
+ 
+ 0.22 
+ 
+ 0.60 
+ 
+ 0.48 
+
+Revenue for the quarter ended
+November 30, 2003 was 172.2 million, a 25 increase from revenue of 138.1 million for
+the same quarter last year. Pretax income for the quarter ended November 30, 2003 was
+ 31.2 million, compared to pretax income of 29.3 million in the same quarter last year.
+Net income for the current quarter was 24.2 million, compared to net income of 19.9
+million for the same quarter last year. 
+
+Diluted net income per share was 0.26 for the
+current quarter, compared to diluted net income per share of 0.22 for the same quarter
+last year. Basic net income per share was 0.27 and 0.23 for the quarters ended November
+30, 2003 and November 30, 2002, respectively. 
+
+Revenue for the nine months ended
+November 30, 2003 was 481.0 million, a 24 increase from revenue of 387.3 million for
+the same period last year. Pretax income for the nine months ended November 30, 2003 was
+ 73.1 million, compared to pretax income of 64.1 million in the same period last year.
+Net income for the current nine-month period was 54.8 million, compared to net income of
+ 43.6 million for the same period last year. Diluted net income per share was 0.60 for
+the current nine-month period, compared to diluted net income per share of 0.48 for the
+same period last year. Basic net income per share was 0.61 and 0.50 for the nine-month
+periods ended November 30, 2003 and November 30, 2002, respectively. 
+
+We believe the improvement in
+operating performance in the three and nine months ended November 30, 2003 compared with
+the same period in the previous year reflects the strength of our business model, the
+strength of our product offerings and strong sales force execution in a tough economic
+environment. For example, Cognos signed 10 contracts greater than 1 million during the
+quarter ended November 30, 2003 compared with 4 such contracts for the corresponding
+period last fiscal year. For the nine months ended November 30, 2003, we signed 24
+contracts greater than 1 million compared with 15 for the nine months ended November 30,
+2002. During the quarter, we also had 95 contracts over 200,000, a 28 increase over the
+same period last fiscal year. In addition, we recognized 15 million in license revenue in
+the quarter from our new product ReportNet. 
+
+To enhance our CPM solution, during
+the fourth quarter of fiscal 2003, we acquired Adaytum. Adaytum has been integrated into
+our operations for the quarter and nine months ended November 30, 2003. Therefore, our
+results include the revenue and expenses related to Adaytum for the full quarter and
+nine-month periods. Comparatively, the results for the three and nine months ended
+November 30, 2002 reflect operations prior to this acquisition. To that extent, our
+operations for the three and nine months ended November 30, 2003 are not identical to the
+operations for the comparative periods ended November 30, 2002. As the integration of
+Adaytum is complete, we are not separately tracking the operations of Adaytum. Therefore,
+it is not practical to report separately on the effect of the acquisition on our revenues,
+cost of revenues, or operating expenses. 
+
+Gross margin for the three months
+ended November 30, 2003 was 141.1 million, an increase of 23 over gross margin of 114.5
+million for the same quarter last year. Gross margin percentage for the quarter ended
+November 30, 2003 was 81.9 as compared to 82.9 for the same quarter last year. Gross
+margin for the nine months ended November 30, 2003 was 391.6 million, an increase of 22 
+over gross margin of 320.2 million for the same period last year. Gross margin percentage
+for the nine months ended November 30, 2003 was 81.4 as compared to 82.7 for the
+comparative period of the previous fiscal year. 
+
+Total operating expenses for the
+quarter ended November 30, 2003 were 110.3 million, a 28 increase from operating
+expenses of 86.5 million for the same quarter last year. The operating margin for the
+quarter ended November 30, 2003 was 17.9 compared with 20.3 for the corresponding
+quarter in the previous fiscal year. Total operating expenses for the nine months ended
+November 30, 2003 were 321.2 million, a 23 increase from operating expenses of 260.4
+million for the same period last year. The operating margin for the nine months ended 
+
+22 
+
+November 30, 2003 was 14.6 compared with 15.4 for the same period in the previous
+fiscal year. 
+
+We operate internationally, with a
+substantial portion of our business conducted in foreign currencies. Accordingly, our
+results are affected by year-over-year exchange rate fluctuations of the United States
+dollar relative to various European currencies, to the Canadian dollar, and to a lesser
+extent, other foreign currencies. The effect of foreign exchange rate fluctuations
+improved the overall revenue growth by approximately nine and eight percentage points for
+the three and nine months ended November 30, 2003 respectively. The effect of foreign
+exchange rate fluctuations increased the growth in the total of cost of revenue and
+operating expenses by twelve and nine percentage points for the three and nine months
+ended November 30, 2003, respectively. In response to a stronger Canadian dollar, we
+continued our initiative to curtail certain discretionary costs during the quarter ended
+November 30, 2003 in an effort to minimize the impact on cost of revenue and operating
+expenses. We intend to continue to manage our costs closely, but we will increase our
+spending in targeted specific areas as evidenced by our increased marketing spending in
+conjunction with the formal launch and roll-out of Cognos ReportNet during the third
+quarter of fiscal 2004. 
+
+The following table sets out, for the
+periods indicated, the percentage that each income and expense item bears to revenue, and
+the percentage change of each item as compared to the indicated prior period. 
+
+Percentage of Revenue 
+ 
+ Percentage Change 
+
+Three months ended November 30, 
+ 
+ Nine months ended November 30, 
+ 
+ Three months ended November 30, 2002 to 2003 
+ Nine months ended November 30, 2002 to 2003 
+
+2003 
+ 
+ 2002 
+ 
+ 2003 
+ 
+ 2002 
+
+Revenue 
+ 
+ 100 
+ .0 
+ 100 
+ .0 
+ 100 
+ .0 
+ 100 
+ .0 
+ 24 
+ .7 
+ 24 
+ .2 
+
+Cost of revenue 
+ 18 
+ .1 
+ 17 
+ .1 
+ 18 
+ .6 
+ 17 
+ .3 
+ 32 
+ .0 
+ 33 
+ .3 
+
+Gross margin 
+ 81 
+ .9 
+ 82 
+ .9 
+ 81 
+ .4 
+ 82 
+ .7 
+ 23 
+ .2 
+ 22 
+ .3 
+
+Operating expenses 
+ 
+ Selling, general, and 
+ 
+ administrative 
+ 50 
+ .0 
+ 48 
+ .9 
+ 51 
+ .6 
+ 51 
+ .9 
+ 27 
+ .7 
+ 23 
+ .4 
+ 
+ Research and development 
+ 12 
+ .9 
+ 13 
+ .2 
+ 14 
+ .0 
+ 14 
+ .7 
+ 21 
+ .9 
+ 18 
+ .0 
+ 
+ Amortization of intangible 
+ 
+ assets 
+ 1 
+ .1 
+ 0 
+ .5 
+ 1 
+ .2 
+ 0 
+ .7 
+ 149 
+ .0 
+ 141 
+ .9 
+
+Total operating expenses 
+ 64 
+ .0 
+ 62 
+ .6 
+ 66 
+ .8 
+ 67 
+ .3 
+ 27 
+ .5 
+ 23 
+ .3 
+
+Operating income 
+ 17 
+ .9 
+ 20 
+ .3 
+ 14 
+ .6 
+ 15 
+ .4 
+ 10 
+ .0 
+ 17 
+ .7 
+ 
+ Interest expense 
+ (0 
+ .3) 
+ (0 
+ .2) 
+ (0 
+ .2) 
+ (0 
+ .1) 
+ 161 
+ .6 
+ 98 
+ .4 
+ 
+ Interest income 
+ 0 
+ .5 
+ 1 
+ .1 
+ 0 
+ .8 
+ 1 
+ .2 
+ (35 
+ .9) 
+ (24 
+ .9) 
+
+Income before taxes 
+ 18 
+ .1 
+ 21 
+ .2 
+ 15 
+ .2 
+ 16 
+ .5 
+ 6 
+ .5 
+ 14 
+ .0 
+ 
+ Income tax provision 
+ 4 
+ .0 
+ 6 
+ .8 
+ 3 
+ .8 
+ 5 
+ .2 
+ (25 
+ .7) 
+ (10 
+ .9) 
+
+Net income 
+ 14 
+ .1 
+ 14 
+ .4 
+ 11 
+ .4 
+ 11 
+ .3 
+ 21 
+ .7 
+ 25 
+ .7 
+
+23 
+
+R EVENUE 
+
+Percentage Change 
+
+000s) 
+ Three months ended November 30, 
+ 
+ Nine months ended November 30, 
+ 
+ Three months ended November 30, 2002 to 2003 
+ Nine months ended November 30, 2002 to 2003 
+
+2003 
+ 
+ 2002 
+ 
+ 2003 
+ 
+ 2002 
+
+Business intelligence 
+ 
+ 164,682 
+ 
+ 130,299 
+ 
+ 458,508 
+ 
+ 362,473 
+ 
+ 26 
+ .4 
+ 26 
+ .5 
+ 
+ Application development tools 
+ 7,545 
+ 
+ 7,775 
+ 
+ 22,463 
+ 
+ 24,835 
+ 
+ (2 
+ .9) 
+ (9 
+ .6) 
+
+Revenue 
+ 172,227 
+ 
+ 138,074 
+ 
+ 480,971 
+ 
+ 387,308 
+ 
+ 24 
+ .7 
+ 24 
+ .2 
+
+Our total revenue was 172.2 million
+for the quarter ended November 30, 2003, an increase of 34.2 million or 25 , compared to
+the quarter ended November 30, 2002. Our total revenue was 481.0 million for the nine
+months ended November 30, 2003, an increase of 93.7 million or 24 , compared to the nine
+months ended November 30, 2002. 
+
+Our total revenue was derived
+primarily from our suite of business intelligence products, principally PowerPlay ,
+Impromptu , Cognos Entreprise Planning Series (formerly Adaytum Entreprise Planning)
+and Cognos Reportnet. Contributing to a lesser extent were DecisionStream , Cognos
+Visualizer, and Cognos Metrics Manager. Revenue growth rates for the three and nine months
+ended November 30, 2003 were positively impacted by the favorable impact of exchange rates
+(principally European exchange rates) relative to the US dollar. 
+
+During the nine months ended November
+30, 2003, we released Cognos Series 7 Version 2, which builds on the end-to-end business
+intelligence value of Cognos Series 7. Cognos Series 7 is a fully integrated enterprise
+business intelligence solution. In September 2003, we launched Cognos ReportNet, a
+Web-based enterprise query and reporting solution. ReportNet offers a web-based report and
+query authoring environment which allows users to create, modify, and distribute reports
+across a global enterprise. ReportNet can be integrated into any environment due to its
+web services based architecture, delivers enterprise scalability, runs reports in multiple
+languages, and allows for flexible report presentation. ReportNet was officially launched
+in September, however it was available for sale during the first half of fiscal 2004. 
+
+We believe that enterprise-wide
+deployment of business intelligence products is the trend in the industry and that it will
+continue to increase as a percentage of our total revenue. An emerging trend in the market
+for business intelligence is the growing demand for pre-packaged solutions that shorten
+time to implementation and results. Our applications (Cognos Planning, Cognos Finance and
+Cognos Analytical Applications) address this trend as they extend the value of investments
+in Enterprise Resource Planning (ERP) and other operational systems. 
+
+Total revenue (license, support, and
+services revenue) derived from our business intelligence products was 164.7 million in
+the quarter ended November 30, 2003, an increase of 34.4 million or 26 and was 458.5
+million for the nine months ended November 30, 2003, an increase of 96.0 million or 26 
+when compared to the corresponding periods in the prior fiscal year. Total revenue from
+these business intelligence products was 96 and 94 of total revenue for the quarters
+ended November 30, 2003 and November 30, 2002, respectively. On a year-to- 
+
+24 
+
+date basis,
+we derived 95 of revenue from these products, compared to 94 in the corresponding period
+last year. 
+
+Total revenue (license, support, and
+services revenue) from our application development tools, PowerHouse and Axiant ,
+was 7.5 million for the quarter ended November 30, 2003, a decrease of 0.2 million or 3 
+and was 22.5 million for the nine months ended November 30, 2003, a decrease of 2.4
+million or 10 compared to the corresponding periods in the prior fiscal year. The trend
+of decreasing application development tools revenue has been experienced since fiscal 2000
+and we expect that, in both the short and long-term, revenues from these products will
+continue to decline. 
+
+The overall change in total revenue
+from our three revenue categories in the quarter ended November 30, 2003 from
+November 30, 2002 was as follows: a 17 increase in product license revenue, a 30 
+increase in product support revenue, and a 35 increase in services revenue. The change
+for the same categories for the nine months was as follows: 15 , 31 , and 32 ,
+respectively. 
+
+The following table sets out, for
+each period indicated, the revenue attributable to each of our three main geographic
+regions and the percentage change in the dollar amount in each region as compared to the
+corresponding period last year. 
+
+Percentage Change 
+
+000s) 
+ Three months ended November 30, 
+ 
+ Nine months ended November 30, 
+ 
+ Three months ended November 30, 2002 to 2003 
+ Nine months ended November 30, 2002 to 2003 
+
+2003 
+ 
+ 2002 
+ 
+ 2003 
+ 
+ 2002 
+
+North America 
+ 
+ 96,079 
+ 
+ 83,952 
+ 
+ 282,365 
+ 
+ 243,632 
+ 
+ 14 
+ .4 
+ 15 
+ .9 
+ 
+ Europe 
+ 58,838 
+ 
+ 43,750 
+ 
+ 153,340 
+ 
+ 116,722 
+ 
+ 34 
+ .5 
+ 31 
+ .4 
+ 
+ Asia/Pacific 
+ 17,310 
+ 
+ 10,372 
+ 
+ 45,266 
+ 
+ 26,954 
+ 
+ 66 
+ .9 
+ 67 
+ .9 
+
+Revenue 
+ 172,227 
+ 
+ 138,074 
+ 
+ 480,971 
+ 
+ 387,308 
+ 
+ 24 
+ .7 
+ 24 
+ .2 
+
+This table sets out, for each period
+indicated, the percentage that each geographical region bears on total revenue. 
+
+Three months ended November 30, 
+ 
+ Nine months ended November 30, 
+
+2003 
+ 2002 
+ 2003 
+ 2002 
+
+North America 
+ 
+ 55 
+ .8 
+ 60 
+ .8 
+ 58 
+ .7 
+ 62 
+ .9 
+ 
+ Europe 
+ 34 
+ .2 
+ 31 
+ .7 
+ 31 
+ .9 
+ 30 
+ .1 
+ 
+ Asia/Pacific 
+ 10 
+ .0 
+ 7 
+ .5 
+ 9 
+ .4 
+ 7 
+ .0 
+
+Revenue 
+ 100 
+ .0 
+ 100 
+ .0 
+ 100 
+ .0 
+ 100 
+ .0 
+
+Our growth rate in Asia/Pacific for
+the three and nine months ended November 30, 2003 reflects the growth in Japan and the
+Australia/New Zealand region during the quarter. Our growth rate in Europe for the quarter
+reflects growth in the UK as well as Germany. Growth rates in both Asia/Pacific and Europe
+were partially impacted by favorable exchange rates relative to the US dollar. 
+
+25 
+
+Product License Revenue 
+
+Percentage Change 
+
+000s) 
+ Three months ended November 30, 
+ 
+ Nine months ended November 30, 
+ 
+ Three months ended November 30, 2002 to 2003 
+ 
+ Nine months ended November 30, 2002 to 2003 
+
+2003 
+ 
+ 2002 
+ 
+ 2003 
+ 
+ 2002 
+
+Product license revenue 
+ 
+ 72,551 
+ 
+ 62,223 
+ 
+ 192,586 
+ 
+ 167,097 
+ 
+ 16.6 
+ 
+ 15.3 
+
+Percentage of total revenue 
+ 42.1 
+ 
+ 45.1 
+ 
+ 40.0 
+ 
+ 43.1 
+
+Product license revenue was 72.6
+million in the quarter ended November 30, 2003, an increase of 10.3 million or 17 , and
+was 192.6 million for the nine months ended November 30, 2003, an increase of 25.5
+million or 15 compared to the corresponding periods in the prior fiscal year. The
+increase in product license revenue during the three and nine months ended
+November 30, 2003 as compared to the same periods in the prior year was the result of
+sales of the Cognos Enterprise Planning Series and increased query and reporting revenue
+as a result of Cognos ReportNet. This performance reflects the strength of our business
+model, our product offerings, and strong sales execution in what has been a challenging
+market. Customer purchasing patterns remain challenging in the current economic
+environment most recently characterized by longer sales cycles due to larger deal sizes
+requiring greater scrutiny, and increased spending on systems to support regulatory
+compliance within finance organizations. However, we believe that the long-term prospects
+for the business intelligence market continue to be promising. Revenue growth rates for
+the three and nine months ended November 30, 2003 were positively affected by the
+favorable impact of exchange rates (principally European exchange rates), relative to the
+US dollar. Product license revenue accounted for 42 of total revenue in the three months
+ended November 30, 2003 compared to 45 for the corresponding quarter in the prior fiscal
+year, and accounted for 40 of revenue in the nine months ended November 30, 2003 compared
+to 43 for the corresponding period in the prior fiscal year. 
+
+Product license revenue from the
+business intelligence products was 70.6 million for the quarter ended November 30, 2003,
+an increase of 10.2 million or 17 , and was 187.1 million for the nine months ended
+November 30, 2003, an increase of 25.8 million or 16 compared to the corresponding
+periods in the prior fiscal year. Product license revenue from business intelligence
+products accounted for 97 of total product license revenue for the quarters and the nine
+month periods ended November 30, 2003 and 2002. 
+
+Approximately 70 of our business
+intelligence license revenue during the third quarter of fiscal 2004 came through direct
+sales channels compared to approximately 30 through our partner channel. We believe that
+a direct sales force is effective because of the importance placed on relationships when
+making large purchasing decisions. We view our large customer base as a significant asset
+since our customers typically purchase in stages. During the quarter, approximately 66 of
+our business intelligence license revenue came from our existing customer base whereas new
+business accounted for approximately 34 . 
+
+Product license revenue from
+application development tools was 2.0 million for the quarter ended November 30, 2003, an
+increase of 0.1 million or 6 and was 5.5 million for the nine 
+
+26 
+
+months ended November 30,
+2003, a decrease of 0.3 million or 6 compared to the corresponding periods in the prior
+fiscal year. We believe the increase in application development tool license revenue for
+the quarter ended November 30, 2003 to be an isolated occurrence. We have experienced a
+general decline in our application development tool revenue since fiscal 2000 and we
+believe, in both the short and long-term, the trend of decreasing product license revenue
+from these products will continue. 
+
+Product Support Revenue 
+
+Percentage Change 
+
+000s) 
+ Three months ended November 30, 
+ 
+ Nine months ended November 30, 
+ 
+ Three months ended November 30, 2002 to 2003 
+ 
+ Nine months ended November 30, 2002 to 2003 
+
+2003 
+ 
+ 2002 
+ 
+ 2003 
+ 
+ 2002 
+
+Product support revenue 
+ 
+ 68,676 
+ 
+ 52,853 
+ 
+ 198,965 
+ 
+ 152,269 
+ 
+ 29.9 
+ 
+ 30.7 
+
+Percentage of total revenue 
+ 39.9 
+ 
+ 38.3 
+ 
+ 41.4 
+ 
+ 39.3 
+
+Product support revenue was 68.7
+million in the quarter ended November 30, 2003, an increase of 15.8 million or 30 and
+was 199.0 million in the nine months ended November 30, 2003, an increase of 46.7
+million or 31 compared to the corresponding periods in the prior fiscal year. The
+increase in the dollar amounts was the result of the positive rate of renewal of support
+contracts and the expansion of our customer base. 
+
+Product support revenue accounted for
+40 and 38 of our total revenue in the quarters ended November 30, 2003 and 2002,
+respectively and was 41 of total revenue in the nine months ended November 30, 2003
+compared to 39 in the corresponding period of the prior year. As a result of the
+continued expansion of our customer base and the positive rate of renewal from our
+customers, we are experiencing a trend of product support revenue increasing as a
+percentage of our total revenue. 
+
+Product support revenue from the
+business intelligence products comprised 92 and 89 of the product support revenue for
+the quarters ended November 30, 2003 and 2002, respectively and comprised 92 and 88 of
+total product support revenue for the nine months ended November 30, 2003 and
+November 30, 2002, respectively. Support revenue from the business intelligence products
+increased by 34 in the quarter ended November 30, 2003, and support revenue from the
+application development tools decreased by 6 , compared to the corresponding quarter in
+the prior fiscal year. For the nine months ended November 30, 2003, total support revenue
+from the business intelligence products increased by 36 , whereas total support revenue
+from the application development tools decreased by 10 compared to the corresponding
+period in the prior year. 
+
+27 
+
+Services Revenue 
+
+Percentage Change 
+
+000s) 
+ Three months ended November 30, 
+ 
+ Nine months ended November 30, 
+ 
+ Three months ended November 30, 2002 to 2003 
+ 
+ Nine months ended November 30, 2002 to 2003 
+
+2003 
+ 
+ 2002 
+ 
+ 2003 
+ 
+ 2002 
+
+Services revenue 
+ 
+ 31,000 
+ 
+ 22,998 
+ 
+ 89,420 
+ 
+ 67,942 
+ 
+ 34.8 
+ 
+ 31.6 
+
+Percentage of total revenue 
+ 18.0 
+ 
+ 16.7 
+ 
+ 18.6 
+ 
+ 17.5 
+
+Services revenue (training,
+consulting, and other revenue) was 31.0 million in the quarter ended November 30, 2003,
+an increase of 8.0 million or 35 , and was 89.4 million in the nine months ended
+November 30, 2003, an increase of 21.5 million or 32 compared to the corresponding
+periods in the prior fiscal year. Services revenue accounted for 18 and 19 of our total
+revenue for the three and nine months ended November 30, 2003, respectively, compared to
+17 and 18 for the three and nine months ended November 30, 2002, respectively. 
+
+In the quarter ended November 30,
+2003, services revenue associated with the business intelligence products contributed
+ 30.8 million, an increase of 8.0 million or 35 , and contributed 89.0 million, an
+increase of 21.7 million or 32 in the nine months ended November 30, 2003 compared to
+the corresponding periods in the prior fiscal year. The increase was primarily
+attributable to an increase in consulting revenue and, to a lesser extent, education
+revenue. Customer purchasing patterns remain challenging in the current economic
+environment, however we believe that the long-term prospects for the business intelligence
+market are promising. Services revenue associated with business intelligence products
+contributed nearly 100 of the total services revenue for both the quarter and nine months
+ended November 30, 2003 and contributed 99 for the quarter and nine months ended November
+30, 2002. Total services revenue associated with our application development tools was
+ 0.2 million for the quarters ended November 30, 2003 and November 30, 2002. Services
+revenue from application development tools for the nine months ended November 30, 2003 was
+ 0.4 million, a 0.3 million decrease from the same period last year. 
+
+28 
+
+C OST OF 
+ R EVENUE 
+
+Cost of Product License 
+
+Percentage Change 
+
+000s) 
+ Three months ended November 30, 
+ 
+ Nine months ended November 30, 
+ 
+ Three months ended November 30, 2002 to 2003 
+ 
+ Nine months ended November 30, 2002 to 2003 
+
+2003 
+ 
+ 2002 
+ 
+ 2003 
+ 
+ 2002 
+
+Cost of product license 
+ 
+ 1,121 
+ 
+ 722 
+ 
+ 3,338 
+ 
+ 2,170 
+ 
+ 55.3 
+ 
+ 53.8 
+
+Percentage of license revenue 
+ 1.5 
+ 
+ 1.2 
+ 
+ 1.7 
+ 
+ 1.3 
+
+The cost of product license consists
+primarily of royalties for technology licensed from third parties, as well as the costs of
+materials and distribution related to licensed software. 
+
+The cost of product license revenue
+was 1.1 million, an increase of 0.4 million or 55 in the quarter ended November 30,
+2003, and was 3.3 million, an increase of 1.2 million or 54 in the nine months ended
+November 30, 2003 compared to the corresponding periods in the prior fiscal year. These
+costs represented 2 of product license revenue for the three and nine months ended
+November 30, 2003, as compared to 1 of product license revenue for both comparative
+periods in the prior fiscal year. The increase in these costs for both the three and nine
+months ended November 30, 2003 was the result of increases in royalties and materials and
+distribution costs. 
+
+Cost of Product Support 
+
+Percentage Change 
+
+000s) 
+ Three months ended November 30, 
+ 
+ Nine months ended November 30, 
+ 
+ Three months ended November 30, 2002 to 2003 
+ 
+ Nine months ended November 30, 2002 to 2003 
+
+2003 
+ 
+ 2002 
+ 
+ 2003 
+ 
+ 2002 
+
+Cost of product support 
+ 
+ 7,051 
+ 
+ 5,240 
+ 
+ 20,793 
+ 
+ 14,682 
+ 
+ 34.6 
+ 
+ 41.6 
+
+Percentage of support revenue 
+ 10.3 
+ 
+ 9.9 
+ 
+ 10.5 
+ 
+ 9.6 
+
+The cost of product support includes
+the costs associated with resolving customer inquiries and other telesupport and
+websupport activities, royalties in respect of technological support received from third
+parties, and the cost of materials delivered in connection with enhancement releases. 
+
+The cost of product support revenue
+was 7.1 million, an increase of 1.8 million or 35 in the quarter ended November 30,
+2003, and was 20.8 million, an increase of 6.1 million or 42 in the nine months ended
+November 30, 2003 compared to the corresponding periods in the prior fiscal year. 
+
+29 
+
+The cost of product support
+represented 10 of total product support revenue for the three and nine months ended
+November 30, 2003 and November 30, 2002. The increase in the cost of product support is
+the result of increases in telesupport and websupport costs as we brought in additional
+staffing as part of a plan to enhance our customer service through the web and telephonic
+support systems through the second half of fiscal 2003 as well as the first quarter of
+fiscal 2004. The average number of employees within the support organization increased 14 
+and 19 in the three and nine months ended November 30, 2003. Contributing further to the
+increase was the integration of the Adaytum staff into our support organization. Cost of
+product support was also increased by the unfavorable impact of Canadian exchange rates
+relative to the US dollar. 
+
+Cost of Services 
+
+Percentage Change 
+
+000s) 
+ Three months ended November 30, 
+ 
+ Nine months ended November 30, 
+ 
+ Three months ended November 30, 2002 to 2003 
+ 
+ Nine months ended November 30, 2002 to 2003 
+
+2003 
+ 
+ 2002 
+ 
+ 2003 
+ 
+ 2002 
+
+Cost of services 
+ 
+ 22,924 
+ 
+ 17,599 
+ 
+ 65,286 
+ 
+ 50,219 
+ 
+ 30.3 
+ 
+ 30.0 
+
+Percentage of services revenue 
+ 73.9 
+ 
+ 76.5 
+ 
+ 73.0 
+ 
+ 73.9 
+
+The cost of services includes the
+costs associated with delivering education, consulting, and other services in relation to
+our products. 
+
+The cost of services was 22.9
+million, an increase of 5.3 million or 30 in the quarter ended November 30, 2003 and was
+ 65.3 million, an increase of 15.1 million or 30 in the nine months ended November 30,
+2003 compared to the corresponding periods in the prior fiscal year. The cost of services
+represented 74 and 73 of services revenue for the three and nine months ended November
+30, 2003, respectively as compared to 77 and 74 for the corresponding periods in prior
+fiscal year. The increase in cost of services is mainly the result of increases in
+compensation related costs. Exchange rate fluctuations also had an unfavorable impact on
+cost of services during the quarter and nine months ended November 30, 2003 as a portion
+of these services are provided in currencies other than the US dollar. 
+
+30 
+
+O PERATING 
+ E XPENSES 
+
+Selling, General, and
+Administrative 
+
+Percentage Change 
+
+000s) 
+ Three months ended November 30, 
+ 
+ Nine months ended November 30, 
+ 
+ Three months ended November 30, 2002 to 2003 
+ 
+ Nine months ended November 30, 2002 to 2003 
+
+2003 
+ 
+ 2002 
+ 
+ 2003 
+ 
+ 2002 
+
+Selling, general, and administrative 
+ 
+ 86,185 
+ 
+ 67,492 
+ 
+ 248,199 
+ 
+ 201,100 
+ 
+ 27.7 
+ 
+ 23.4 
+
+Percentage of total revenue 
+ 50.0 
+ 
+ 48.9 
+ 
+ 51.6 
+ 
+ 51.9 
+
+Selling, general, and administrative
+(SG A) expenses were 86.2 million, an increase of 18.7 million or 28 in the quarter
+ended November 30, 2003, and were 248.2 million, an increase of 47.1 million or 23 in
+the nine months ended November 30, 2003 compared to the corresponding periods in the prior
+fiscal year. These costs remained relatively consistent as a percentage of revenue,
+representing 50 and 52 for the three and nine months ended November 30, 2003,
+respectively compared to 49 and 52 for the corresponding periods in the prior fiscal
+year. 
+
+The increase in these expenses in the
+three and nine months ended November 30, 2003 was predominantly the result of increases in
+staff related costs resulting from increases in staffing levels due to both new hires and
+the integration of Adaytum selling, general, and administration staff. In addition, we
+incurred increased marketing expenses related to the launch of Cognos ReportNet, our
+Web-based enterprise query and reporting solution. Selling, general, and administrative
+expenses were also unfavorably impacted by the effect of Canadian dollar exchange rates
+relative to the US dollar. Contributing to the increase for both the quarter and nine
+months ended November 30, 2003, but to a lesser extent, were increases in facilities and
+travel and living costs. The average number of employees within selling, general, and
+administrative increased by 10 and 12 in the three and nine months ended November 30,
+2003, respectively when compared to the corresponding periods in the prior fiscal year. 
+
+31 
+
+Research and Development 
+
+Percentage Change 
+
+000s) 
+ Three months ended November 30, 
+ 
+ Nine months ended November 30, 
+ 
+ Three months ended November 30, 2002 to 2003 
+ 
+ Nine months ended November 30, 2002 to 2003 
+
+2003 
+ 
+ 2002 
+ 
+ 2003 
+ 
+ 2002 
+
+Research and development 
+ 
+ 22,265 
+ 
+ 18,264 
+ 
+ 67,273 
+ 
+ 56,991 
+ 
+ 21.9 
+ 
+ 18.0 
+
+Percentage of total revenue 
+ 12.9 
+ 
+ 13.2 
+ 
+ 14.0 
+ 
+ 14.7 
+
+Research and development (R D)
+costs were 22.3 million, an increase of 4.0 million or 22 in the quarter ended November
+30, 2003, and were 67.3 million and increase of 10.3 million or 18 for the nine months
+ended November 30, 2003 compared to the corresponding periods in the prior fiscal year.
+The increase for the quarter and nine months ended November 30, 2003 was predominantly the
+result of increases in staff related costs and the unfavorable impact of Canadian exchange
+rates relative to the US dollar. These increases were partially offset by a decrease in
+services purchased externally as certain projects were completed during the nine-month
+period ended November 30, 2003. R D costs were 13 and 14 of revenue for the three
+and nine months ended November 30, 2003, respectively as compared to 13 and 15 of
+revenue for the corresponding periods in the prior year. The average number of employees
+within R D increased by 7 for both the three and nine months ended November 30, 2003
+when compared to the corresponding periods of the prior year partially due to the addition
+of Adaytum employees. 
+
+During the quarter ended November 30,
+2003, we continued to invest in R D activities for our next generation of business
+intelligence solutions which are the foundation of our CPM vision. In September 2003, we
+formally launched Cognos ReportNet, a Web-based enterprise query and reporting solution.
+Cognos ReportNet delivers production reports such as invoices, statements, and statutory
+reports as well as ad hoc query, managed reports, and the broad range of business reports
+all from a single architecture. ReportNet offers a web-based report and query authoring
+environment which allows users to create, modify, and distribute reports across a global
+enterprise. ReportNet can be integrated into any environment due to its web services based
+architecture, delivers enterprise scalability, runs reports in multiple languages and
+allows for flexible report presentation. Although formally launched in September,
+ReportNet was available for sale on a limited basis during the first half of fiscal 2004. 
+
+During the nine months ended November
+30, 2003, we released Cognos Series 7 Version 2 which builds on the end-to-end business
+intelligence value of Cognos Series 7. Cognos Series 7 is a fully integrated enterprise
+business intelligence solution offering flexible scoreboards, dashboards, managed
+reporting, analysis, ad hoc query, and event detection and notification, visualization,
+and data integration. We also completed the initial integration of Cognos Enterprise
+Planning Series (formerly Adaytum Enterprise Planning) into our CPM solution. We
+strengthened our enterprise scorecarding solution with the release of Cognos Metrics
+Manager Version 2. Cognos Metrics Manager enables organizations to manage performance by
+mapping strategy to execution through metrics. Cognos Metrics Manager Version 2 includes
+flexible and scaleable customer-driven functions and further integrates Cognos Analytical
+Applications, 
+
+32 
+
+Cognos Enterprise Planning Series, and Cognos Series 7 Version 2. We also
+continued to invest in our Analytic Application packages with the release of Cognos
+Production Analysis. Cognos Production Analysis expands our Supply Chain Analytics
+solution by providing analytics tailored to meet information needs in discrete and
+repetitive manufacturing environments including: work order material usage and cost
+analysis, time-to-delivery analysis, quality and yield analysis, and organization
+effectiveness. 
+
+Currently, we do not have any
+software development costs capitalized on our balance sheet. Software development costs
+are expensed as incurred unless they meet generally accepted accounting criteria for
+deferral and amortization. Software development costs incurred prior to the establishment
+of technological feasibility do not meet these criteria, and are expensed as incurred.
+Capitalized costs are amortized over a period not exceeding 36 months. No costs were
+deferred in the three and nine months ended November 30, 2003 and November 30, 2002. Costs
+were not deferred in the periods because either no projects met the criteria for deferral
+or, if met, the period between achieving technological feasibility and the general
+availability of the product was short, rendering the associated costs immaterial. 
+
+Amortization of
+Intangible Assets 
+
+Percentage Change 
+
+000s) 
+ Three months ended November 30, 
+ 
+ Nine months ended November 30, 
+ 
+ Three months ended November 30, 2002 to 2003 
+ 
+ Nine months ended November 30, 2002 to 2003 
+
+2003 
+ 
+ 2002 
+ 
+ 2003 
+ 
+ 2002 
+
+Amortization of intangible assets 
+ 
+ 1,890 
+ 
+ 759 
+ 
+ 5,705 
+ 
+ 2,358 
+ 
+ 149.0 
+ 
+ 141.9 
+
+Amortization of intangible assets was
+ 1.9 million, an increase of 1.1 million or 149 for the quarter ended November 30, 2003
+and was 5.7 million, an increase of 3.3 million or 142 for the nine months ended
+November 30, 2003 compared to the corresponding periods in the prior fiscal year. The
+increase in this expense in the three and nine months ended November 30, 2003 was due to
+the amortization of acquired technology and contractual relationships as a result of the
+acquisition of Adaytum during the fourth quarter of fiscal 2003. 
+
+33 
+
+Interest Income and
+Expense 
+
+Percentage Change 
+
+000s) 
+ Three months ended November 30, 
+ 
+ Nine months ended November 30, 
+ 
+ Three months ended November 30, 2002 to 2003 
+ 
+ Nine months ended November 30, 2002 to 2003 
+
+2003 
+ 
+ 2002 
+ 
+ 2003 
+ 
+ 2002 
+
+Net interest income 
+ 
+ 423 
+ 
+ 1,310 
+ 
+ 2,685 
+ 
+ 4,299 
+ 
+ (67.7) 
+ 
+ (37.5) 
+
+Net interest income was 0.4 million,
+a decrease of 0.9 million or 68 in the quarter ended November 30, 2003 and was 2.7
+million, a decrease of 1.6 million or 38 in the nine months ended November 30, 2003
+compared to the corresponding periods in the prior fiscal year. The decrease during the
+three and nine month periods ended November 30, 2003 was primarily attributable to a
+decrease in the average portfolio size. The average portfolio size decreased as compared
+to the same periods in the prior fiscal year as a result of the acquisition of Adaytum for
+ 157.1 million of cash consideration during the fourth quarter of fiscal 2003.
+Contributing to this decrease in interest income, but to a lesser extent, was a decrease
+in average effective interest rates as compared to the same periods in the prior fiscal
+year. Also, during the quarter ended November 30, 2003, we expensed interest charges on
+tax assessments we received for prior years. 
+
+Income Tax Provision 
+
+Percentage Change 
+
+000s) 
+ Three months ended November 30, 
+ 
+ Nine months ended November 30, 
+ 
+ Three months ended November 30, 2002 to 2003 
+ 
+ Nine months ended November 30, 2002 to 2003 
+
+2003 
+ 
+ 2002 
+ 
+ 2003 
+ 
+ 2002 
+
+Tax expense 
+ 
+ 6,966 
+ 
+ 9,379 
+ 
+ 18,265 
+ 
+ 20,508 
+ 
+ (25.7) 
+ 
+ (10.9) 
+
+Effective tax rate 
+ 22.3 
+ 
+ 32.0 
+ 
+ 25.0 
+ 
+ 32.0 
+
+As we operate globally, we calculate
+our income tax provision in each of the jurisdictions in which we conduct business. Our
+tax rate is therefore affected by the relative profitability of our operations in various
+geographic regions. In the three and nine months ended November 30, 2003, we recorded an
+income tax provision of 7.0 million and 18.3 million, respectively, representing an
+effective income tax rate of 22 and 25 , respectively. Comparatively, in the three and
+nine months ended November 30, 2002, we recorded an income tax provision of 9.4 million
+and 20.5 million, respectively representing an effective income tax rate of 32 for both
+periods. During the quarter ended November 30, 2003, we reduced our effective tax rate for
+fiscal 2004 from 27 to 25 to reflect our current expectation for the full fiscal year.
+The decrease in effective tax rate from the previous fiscal year results from the
+geographical mix of our earnings and higher investment tax credits on research and
+development expenses for the current fiscal year. 
+
+34 
+
+L IQUIDITY AND 
+ C APITAL 
+ R ESOURCES 
+
+000s) 
+ As at November 30, 2003 
+ As at February 28, 2003 
+ Percentage Change 
+
+Cash, cash equivalents, and short-term 
+
+investments 
+ 320,895 
+ 
+ 242,258 
+ 
+ 32 
+ .5 
+ 
+ Working capital 
+ 220,483 
+ 
+ 128,864 
+ 
+ 71 
+ .1 
+ 
+ Long-term liabilities 
+ -- 
+ 
+ (1,647) 
+ (100 
+ .0) 
+
+000s) 
+ Nine months ended November 30, 
+ Percentage change Nine months ended November 30, 
+
+2003 
+ 
+ 2002 
+ 
+ 2002 to 2003 
+
+Net cash provided by (used in): 
+
+Operating activities 
+ 61,452 
+ 
+ 48,798 
+ 
+ 25 
+ .9 
+ 
+ Investing activities 
+ (90,805) 
+ (49,885) 
+ 82 
+ .0 
+ 
+ Financing activities 
+ 24,744 
+ 
+ (15,625) 
+ (258 
+ .4) 
+
+As at November 30, 2003 
+ 
+ As at November 30, 2002 
+
+Days sales outstanding (DSO) 
+ 
+ 62 
+ 
+ 67 
+
+Cash, Cash Equivalents,
+and Short-term Investments 
+
+As of November 30, 2003, we held
+ 320.9 million in cash, cash equivalents, and short-term investments, an increase of 78.6
+million from February 28, 2003. Cash and cash equivalents include investments which are
+highly liquid and held to maturity. Cash equivalents typically include commercial paper
+and term deposits, banker s acceptances and bearer deposit notes issued by major
+North American banks. All cash equivalents have terms to maturity of ninety days or less.
+Short-term investments are investments that are highly liquid and held to maturity with
+terms to maturity greater than ninety days, but less than twelve months. Short-term
+investments typically consist of commercial paper and corporate bonds. 
+
+35 
+
+Working Capital 
+
+Working capital represents our
+current assets less our current liabilities. As of November 30, 2003, working capital was
+ 220.5 million, an increase of 91.6 million from February 28, 2003. The increase can be
+attributed to higher levels of short-term investments and lower levels of accounts
+payable, accrued charges and deferred revenue. Partially offsetting this increase were
+decreases in accounts receivable and an increase in income taxes payable. 
+
+Days sales outstanding (DSO) was 62
+days at November 30, 2003 as compared to 67 days as at November 30, 2002. We calculate our
+days sales outstanding ratio based on ending accounts receivable balances and quarterly
+revenue. 
+
+Long-term Liabilities 
+
+As at November 30, 2003, we had no
+long-term liabilities, a decrease of 1.6 million from February 28, 2003. The decrease was
+the result of movement from long-term classification to short-term classification of a
+payment due during the first quarter of fiscal 2005 relating to a patent litigation
+settlement agreement finalized in May 2002. All remaining payments under the settlement
+are now current. 
+
+Cash Provided by
+Operating Activities 
+
+Cash provided by operating activities
+(after changes in non-cash working capital items) for the nine months ended November 30,
+2003 was 61.5 million, an increase of 12.7 million compared to the comparative period
+last year. The increase in cash flow from operating activities during the nine months
+ended November 30, 2003 was mainly the result of an increase in net income of 11.2
+million from 43.6 million in 2002 to 54.8 million in 2003. Also contributing to higher
+cash flow was lower accounts receivable partially offset by a decrease in deferred
+revenue. 
+
+Cash Used In Investing
+Activities 
+
+Cash used in investing activities was
+ 90.8 million for the nine months ended November 30, 2003, an increase in investment of
+ 40.9 million compared to the comparative period in the prior fiscal year. During the nine
+months ended November 30, 2003, we increased our net investment in short-term investments
+and increased our investment in fixed assets as compared to the same period in the prior
+fiscal year. In the nine months ended November 30, 2003, purchases of short-term
+investments, net of maturities, were 72.0 million compared to 38.6 million for the same
+period in the prior fiscal year. During the nine month period ended November 30, 2003,
+additions to fixed assets were 18.3 million as compared to 11.3 million for the
+corresponding period in fiscal 2003 
+
+Cash Provided by (Used
+in) Financing Activities 
+
+Cash provided by financing activities
+was 24.7 million for the nine months ended November 30, 2003, compared to a use of cash
+in financing activities of 15.6 million during the comparative period of the prior fiscal
+year. We issued 1,769,000 common shares, valued at 27.0 million, during the nine months
+ended November 30, 2003, compared to the issue of 755,000 shares valued at 9.8 million
+during the corresponding period in the prior fiscal year. The 
+
+36 
+
+issuance of shares in both
+periods was pursuant to our stock purchase plan and the exercise of stock options by
+employees, officers and directors. Financing activities for the nine-month period ended
+November 30, 2003 did not include the repurchase of shares in the open market.
+Comparatively, we repurchased 910,000 shares at a value of 20.0 million in the
+corresponding period in the prior fiscal year. 
+
+In October 2002, we adopted a program
+that enabled us to purchase up to 4,398,820 common shares (not more than 5 of those
+issued and outstanding) between October 9, 2002 and October 8, 2003. Purchases were
+made on the Nasdaq Stock Market or the Toronto Stock Exchange at prevailing open market
+prices and paid out of general corporate funds. This program did not commit us to make any
+share repurchases. All repurchased shares were cancelled. The share repurchases in the
+nine-month period ended November 30, 2002 included shares purchased as part of an open
+market share repurchase program, as well as shares purchased under our secondary offering
+of common shares. 
+
+In October 2003, we adopted a program
+that enables us to purchase up to 4,468,639 common shares (not more than 5 of those
+issued and outstanding) between October 9, 2003 and October 8, 2004. Purchases can be
+made on the Nasdaq Stock Market or the Toronto Stock Exchange at prevailing open market
+prices and paid out of general corporate funds. This program does not commit us to make
+any share repurchases. All repurchased shares will be cancelled. 
+
+Contracts and Commitments 
+
+We have an unsecured credit facility.
+The credit facility permits us to borrow funds or issue letters of credit or guarantee up
+to Cdn 12.5 million (U.S. 9.6 million), subject to certain covenants. As of November 30,
+2003 and 2002, there were no direct borrowings under this facility. 
+
+We do not enter into off-balance
+sheet financing as a matter of practice except for the use of operating leases for office
+space, computer equipment, and vehicles. In accordance with GAAP, neither the lease
+liability nor the underlying asset is carried on the balance sheet, as the terms of the
+leases do not meet the thresholds for capitalization. 
+
+Our policy with respect to foreign
+currency exposure is to manage our financial exposure to certain foreign exchange
+fluctuations with the objective of neutralizing some of the impact of foreign currency
+exchange movements. To achieve this objective, we enter into foreign exchange forward
+contracts to hedge portions of the net investment in our various subsidiaries. As a
+result, the exchange gains or losses recorded on translation of the subsidiaries financial
+statements are partially offset by gains and losses attributable to the applicable foreign
+exchange forward contract. Realized and unrealized gains and losses from effective hedges
+are not included in income but are shown in the cumulative translation adjustment account
+included in other comprehensive income. Typically, the forward contracts are between the
+United States dollar and the euro, the British pound, the Swiss franc, the Japanese yen,
+and the Australian dollar. We enter into these foreign exchange forward contracts with a
+major Canadian chartered bank, and therefore we do not anticipate non-performance by this
+counterparty. The amount of the exposure on account of any non-performance is restricted
+to the unrealized gains in such contracts. As of November 30, 2003, we had foreign
+exchange forward contracts, with maturity dates on or before February 26, 2004, to
+exchange various foreign currencies in the amount of 28.6 million, the fair value of
+which are immaterial. 
+
+37 
+
+As consideration for a patent
+litigation settlement agreement with Business Objects, we agreed to pay the sum of 24.0
+million. Of this amount, 15.3 million was paid during fiscal 2003 and 5.3 million was
+paid during the nine months ended November 30, 2003. The remaining principal amount will
+be paid equally over the next two quarters and is included in accrued charges. 
+
+In connection with the acquisition of
+Adaytum, we undertook a restructuring plan in conjunction with the business combination.
+The restructuring primarily relates to involuntary employee separations of approximately
+90 employees of Adaytum, accruals for abandoning leased premises of Adaytum and related
+write-downs of leasehold improvements as well as asset write-downs of Adaytum. During the
+nine months ended November 30, 2003, the total cash payments made in relation to the
+accrual were 3.7 million, and cash payments remaining at November 30, 2003 were 3.9
+million. The remaining accrual is included in the balance sheet as accrued charges and
+salaries, commissions, and related items. All amounts excluding lease payments are
+expected to be paid during fiscal 2004. Outstanding balances for the lease payments will
+be paid over the lease term unless settled earlier. 
+
+We have never declared or paid any
+cash dividends on our common shares. Our current policy is to retain our earnings to
+finance expansion and to develop, license, and acquire new software products, and to
+otherwise reinvest in Cognos. 
+
+Given our historical profitability
+and our ability to manage expenses, we believe that our current resources are adequate to
+meet our requirements for working capital and capital expenditures through the foreseeable
+future. 
+
+Inflation has not had a significant
+impact on our results of operations. 
+
+C ERTAIN 
+ F ACTORS 
+ T HAT 
+ M AY 
+ A FFECT 
+ F UTURE 
+ R ESULTS 
+
+This report contains forward-looking
+statements, including statements regarding the future success of our business and
+technology strategies, and future market opportunities. These statements are neither
+promises nor guarantees, but involve known and unknown risks and uncertainties that may
+cause our actual results, levels of activity, performance, or achievements to be
+materially different from any future results, levels of activity, performance, or
+achievements expressed in or implied by these forward-looking statements. These risks
+include risks related to our revenue growth, operating results, industry, products, and
+litigation, as well as the other factors discussed below and elsewhere in this report.
+Readers should not place undue reliance on any such forward-looking statements, which
+speak only as of the date they were made. We disclaim any obligation to publicly update or
+revise any such statements to reflect any change in our expectations or in events,
+conditions, or circumstances on which any such statements may be based, or that may affect
+the likelihood that actual results will differ from those set forth in the forward-looking
+statements. 
+
+38 
+
+Risks related to Our
+Business 
+
+Our revenue may not
+continue to grow at historical rates, could stop growing or decline. 
+
+We rely predominantly on revenue from
+our business intelligence products. Although we have experienced revenue growth with
+respect to our business intelligence products over the past few fiscal years, we cannot
+provide assurance that revenue from these products will continue to grow. Revenue
+associated with these products may, in the future, stop growing or decline. In addition,
+our growth rate may be adversely affected by global economic conditions generally, and
+economic conditions in Canada, the U.S. or Europe, in particular. Our growth rate in
+revenue may also be affected by external economic factors such as currency fluctuations. 
+
+Our ability to adjust our
+expenses in the near term is limited, which could cause our profits to decrease. 
+
+During periods of unfavorable
+economic conditions in recent fiscal years, we reduced overall discretionary spending
+levels but continued to incur expenditures selectively in areas that we viewed as
+necessary to strengthen our position in the marketplace. This resulted in an increase in
+our operating expenses. The economic environment remains challenging and external economic
+factors such as currency fluctuations may affect our expenses. We expect to continue to
+incur expenditures selectively in areas that we view as necessary for new revenue growth
+and expand global market coverage. We base our operating expense budgets on projections of
+future revenues that are more difficult to make in periods of economic uncertainty. As a
+result, our operating expense budgets may be based on inaccurate assumptions. If we do not
+meet our future revenue projections, operating expenses would increase as a percentage of
+our revenues and our profits would decrease. 
+
+Currency fluctuations may
+adversely affect us. 
+
+A substantial portion of our revenues
+are earned in currencies other than U.S. dollars, such as the euro, and similarly, a
+substantial portion of our operating expenses are incurred in currencies other than U.S.
+dollars, such as the Canadian dollar and the euro. Revenues and expenses generated in
+foreign currencies are translated at exchange rates during the month in which the
+transaction occurs. The resulting gains or losses from this translation are included in
+net income. We cannot predict the effect of foreign exchange fluctuations in the future.
+Therefore, fluctuations in the exchange rate between the U.S. dollar and other currencies,
+such as the Canadian dollar and the euro, may have a material adverse effect on our
+business, financial condition, and operating results. 
+
+39 
+
+As a result of our international
+operations a substantial portion of our assets and liabilities is held in currencies other
+than the United States dollar. Our policy with respect to foreign currency exposure is to
+manage financial exposure to certain foreign exchange fluctuations with the objective of
+neutralizing some of the impact of foreign currency exchange movements. We enter into
+foreign exchange forward contracts to hedge portions of the net investment in various
+subsidiaries, typically between the U.S. dollar and the euro, the British pound, the Swiss
+franc, the Japanese yen, and the Australian dollar. 
+
+Our quarterly and annual
+operating results are volatile and difficult to predict, and if we fail to meet the
+expectations of securities analysts or investors, our share price could decline
+significantly. 
+
+Historically, our quarterly operating
+results have varied from quarter to quarter, and we anticipate this pattern to continue.
+We typically realize a larger percentage of our annual revenue and earnings in the fourth
+quarter of each fiscal year, and lower revenue and earnings in the first quarter of the
+following fiscal year. In addition, in each quarter we typically close a larger percentage
+of sales transactions near the end of that quarter. Because our quarterly and annual
+operating results may be significantly affected by large, enterprise-wide sales, our
+inability to close one or more such sales before the end of the applicable period may
+adversely affect our operating results. It is possible that in one or more future
+quarters, our operating results may be below the expectations of public market analysts
+and investors. In that event, the price of our common shares may fall. Our quarterly and
+annual operating results may be adversely affected by a wide variety of factors,
+including: 
+
+o 
+ 
+ our
+ability to achieve and maintain revenue growth or to anticipate a decline in revenue from
+any of our products; 
+
+o 
+ 
+ the
+impact of global economic conditions on our sales cycle; 
+
+o 
+ 
+ our
+ability to obtain and close sales, particularly large enterprise transactions; 
+
+o 
+ 
+ changes
+in product mix and our ability to anticipate changes in shipment patterns; 
+
+o 
+ 
+ our
+ability to identify and develop new technologies and to incorporate those technologies
+into new products; 
+
+o 
+ 
+ our
+ability to select appropriate business models and strategies; 
+
+o 
+ 
+ our
+ability to position ourselves to achieve growth; 
+
+o 
+ 
+ our
+ability to identify, hire, train, motivate, and retain highly qualified personnel, and to
+achieve targeted productivity levels; 
+
+o 
+ 
+ our
+ability to identify, develop, introduce, and deliver in a timely manner new products and
+enhanced versions of our existing products which anticipate market demand and address
+customer needs; 
+
+o 
+ 
+ market
+acceptance of business intelligence software and of new products and enhanced versions of
+our existing products; 
+
+o 
+ 
+ our
+ability to establish and maintain a competitive advantage; 
+
+o 
+ 
+ changes
+in our pricing policies or those of our competitors and other competitive pressures on
+selling prices; 
+
+o 
+ 
+ size,
+timing, and execution of customer orders and shipments, including delays, deferrals, or
+cancellations of customer orders; 
+
+o 
+ 
+ number,
+ timing, and significance of product enhancements and new product and technology
+ announcements by us or by our competitors; 
+
+o 
+ 
+ our
+reliance on third-party distribution channels as part of our sales and marketing
+strategy; 
+
+40 
+
+o 
+ 
+ the
+timing and provisions of pricing protections and exchange from our distributors; 
+
+o 
+ 
+ changes
+in foreign currency exchange rates; and 
+
+o 
+ 
+ our
+ability to enforce our intellectual property rights. 
+
+These factors could materially
+adversely affect our share price and our business, results of operations, and financial
+condition. 
+
+We depend on our direct sales
+force to sell our products, and if we fail to retain or hire and train new sales
+personnel, our future growth will be impaired. 
+
+We sell our products primarily
+through our direct sales force, and we expect to continue to do so in the future. Our
+ability to achieve revenue growth in the future will depend on our ability to recruit,
+train, and retain qualified direct sales personnel. We have in the past and may in the
+future experience difficulty in recruiting and retaining qualified sales personnel. Our
+inability to maintain and improve the productivity of our direct sales force could impair
+our growth and cause our share price to fall. 
+
+We rely, in part, on
+others to market and distribute our products, and their failure to do so successfully
+could significantly harm our ability to maintain and expand our customer base, which
+would adversely affect our growth strategy. 
+
+Our sales and marketing strategy
+includes multi-tiered channels of third-party distributors, resellers, and original
+equipment manufacturers (OEMs). We have developed a number of these relationships and
+intend to continue to develop new ones. Our inability to attract effective third-party
+distributors or their inability to penetrate their respective market segments, or the loss
+of any of our third-party distributors as a result of competitive products offered by
+other companies, or products developed internally by them or otherwise, could harm our
+ability to maintain and expand our customer base. In addition, if a third-party
+distributor fails to install our product successfully, we could lose existing and
+potential customers. If these events were to occur, our business could grow more slowly
+than forecasted, or not at all, or we could incur additional, unanticipated expenses. 
+
+We may lose sales, or
+sales may be delayed, due to the long sales and implementation cycles for our products,
+which would reduce our revenues. 
+
+Our customers typically invest
+substantial time, money, and other resources researching their needs and available
+competitive alternatives before deciding to license our software products. Typically, the
+larger the potential sale, the more time, money, and other resources will be invested. As
+a result, we may wait many months after our first contact with a customer before a sale
+can actually be completed. The time required for implementation of our products varies
+among our customers and may last several months, depending on our customers needs
+and the products deployed. In particular, it may be difficult to install our products if
+the customer has complicated operational requirements, such as integrating databases,
+hardware, and software from different vendors. 
+
+41 
+
+During these long sales
+and implementation cycles, events may occur that affect the size or timing of the order
+or even cause it to be cancelled. For example: 
+
+o 
+ 
+ purchasing
+decisions may be postponed, or large purchases reduced, during periods of economic
+uncertainty; 
+
+o 
+ 
+ we
+or our competitors may announce or introduce new products; or 
+
+o 
+ 
+ the
+customer s own budget and purchasing priorities may change. 
+
+If these events were to occur, sales
+of our products may be cancelled or delayed, which would reduce our revenues. 
+
+Our sales forecasts may
+not consistently correlate to revenues in a particular quarter. 
+
+We forecast sales and trends in our
+business using a common industry practice known as the pipeline system. Under
+this system, information relating to sales prospects, the anticipated date when a sale
+will be completed and the potential dollar amount of the sale are tracked and analyzed to
+provide a pipeline of future business and serve as guidance for our business
+budgeting and planning. These pipeline estimates are not necessarily reliable predictors
+of revenues in a particular quarter as a result of, among other things, the events
+identified in the preceding risk factors, as well as the subjective nature of the
+information itself. The occurrence of any of these events could result in a reduction of
+the conversion rate of the pipeline into contracts resulting in lower than projected
+revenue in a particular quarter. 
+
+If we do not protect our
+intellectual property, our products may lose any competitive advantage, and even if we
+are successful, protecting our intellectual property could be time consuming and
+expensive. 
+
+Our success depends in part on our
+ability to protect our rights in our intellectual property. We rely on various
+intellectual property protections, including contractual provisions, patents, copyright,
+trademark and trade secret laws, to preserve our intellectual property rights. Despite our
+precautions, it may be possible for third parties to obtain and use our intellectual
+property without our authorization. Policing unauthorized use of intellectual property is
+difficult, and some foreign laws do not protect proprietary rights to the same extent as
+the laws of Canada or the United States. 
+
+To protect our intellectual property,
+we may become involved in litigation, which could result in substantial expenses, divert
+the attention of our management, and materially disrupt the conduct of our business. 
+
+Intellectual property
+claims brought against us could be time consuming and costly to defend, and if we are
+unsuccessful, our ability to sell products
+incorporating the disputed intellectual property could be limited or we may have to pay
+license fees, royalties, or damages. 
+
+We may become increasingly subject to
+claims by third parties that our technology infringes their property rights due to the
+growth of software products in our target markets and the overlap in functionality of
+these products. Regardless of their merit, any such claims could: 
+
+o 
+ 
+ be
+time consuming; 
+
+o 
+ 
+ be
+expensive to defend; 
+
+42 
+
+o 
+ 
+ divert
+management's attention and focus away from the business; 
+
+o 
+ 
+ cause
+product shipment delays; and 
+
+o 
+ 
+ require
+us to enter into costly royalty or licensing agreements or to stop using such technology. 
+
+The loss of our rights to
+use software currently licensed to us by third parties could significantly increase our
+operating expenses by forcing us to seek alternative technology and adversely affect
+our ability to compete. 
+
+We license certain technologies used
+in our products from third parties, generally on a non-exclusive basis. The termination of
+any of these licenses, or the failure of the licensors to adequately maintain or update
+their products, could delay our ability to ship our products while we seek to implement
+alternative technology offered by other sources. In addition, alternative technology may
+not be available on commercially reasonable terms. In the future, it may be necessary or
+desirable to obtain other third-party technology licenses relating to one or more of our
+products, or relating to current or future technologies, to enhance our product offerings.
+We cannot provide assurance that we will be able to obtain licensing rights to the needed
+technology on commercially reasonable terms, if at all. 
+
+If a successful product
+liability claim were made against us, our business could be seriously harmed. 
+
+Our license agreements with our
+customers typically contain provisions designed to limit our exposure to potential product
+liability claims. Despite this, it is possible that such limitation of liability
+provisions may not be effective as a result of existing or future laws or unfavorable
+judicial decisions. We have not experienced any product liability claims to date. However,
+the sale and support of our products may entail the risk of such claims, which are likely
+to be substantial in light of the use of our products in business-critical applications. A
+successful product liability claim could result in significant monetary liability and
+could seriously disrupt our business. 
+
+We face significant
+operational and financial risks associated with our international operations. 
+
+We derive a significant portion of
+our total revenues from international sales. International sales are subject to
+significant risks, including: 
+
+o 
+ 
+ unexpected
+changes in legal and regulatory requirements and policies in foreign markets affecting
+our international sales; 
+
+o 
+ 
+ changes
+in tariffs and other trade barriers; 
+
+o 
+ 
+ fluctuations
+in currency exchange rates; 
+
+o 
+ 
+ political
+and economic instability; 
+
+o 
+ 
+ longer
+payment cycles and other difficulties in accounts receivable collection; 
+
+o 
+ 
+ difficulties
+in managing foreign distributors and representatives; 
+
+o 
+ 
+ difficulties
+in staffing and managing foreign operations; 
+
+o 
+ 
+ difficulties
+in protecting our intellectual property internationally; and 
+
+o 
+ 
+ potentially
+adverse consequences arising from changes in tax laws. 
+
+43 
+
+Each of these factors could
+materially impact our international operations and adversely affect our business as a
+whole. 
+
+Pursuing, completing, and
+integrating recent and potential acquisitions could divert management s attention
+and financial resources and may negatively affect our operating results. 
+
+In the past we have made acquisitions
+of products and businesses and in fiscal 2003 we acquired privately held Adaytum, Inc. In
+the future, we may engage in additional acquisitions of other products or businesses that
+we believe are complementary to ours. We cannot provide assurance that we will be able to
+identify additional suitable acquisition candidates available for sale at reasonable
+prices, consummate any acquisition, or successfully integrate any acquired product or
+business into our operations. Further, acquisitions may involve a number of other risks,
+including: 
+
+o 
+ 
+ diversion
+of management's attention; 
+
+o 
+ 
+ disruption
+to our ongoing business; 
+
+o 
+ 
+ failure
+to retain key acquired personnel; 
+
+o 
+ 
+ difficulties
+in assimilating acquired operations, technologies, products, or personnel; 
+
+o 
+ 
+ unanticipated
+expenses, events, or circumstances; 
+
+o 
+ 
+ assumption
+of disclosed and undisclosed liabilities; and 
+
+o 
+ 
+ the
+risk that we will not be able to value the acquired in-process research and development,
+or an entire acquired business, appropriately. 
+
+If we do not successfully address
+these risks or any other problems encountered in connection with an acquisition, the
+acquisition could have a material adverse effect on our business, results of operations,
+and financial condition. Problems with an acquired business could have a material adverse
+effect on our performance or our business as a whole. In addition, if we proceed with an
+acquisition, our available cash may be used to complete the transaction, diminishing our
+liquidity and capital resources, or shares may be issued which could cause a dilution to
+existing shareholders. 
+
+Failure to manage our
+growth successfully may adversely impact our operating results. 
+
+The expansion of our business and
+customer base has placed, and will continue to place, increased demands on our management,
+operating systems, internal controls, and financial resources. If not managed effectively,
+these increased demands may adversely affect the products and services we provide to our
+existing clients. In addition, our personnel, systems, procedures, and controls may be
+inadequate to support our future operations. Consequently, in order to manage our growth
+effectively, we may be required to increase expenditures to expand, train, and manage our
+employee base, improve our management, financial and information systems, and controls, or
+make other capital expenditures. Our results of operations and financial condition could
+be harmed if we encounter difficulties in effectively managing our growth. 
+
+44 
+
+Our executive management
+and other key personnel are essential to our business, and if we are not able to recruit
+and retain qualified personnel, our ability to develop, market, and support our
+products and services could be harmed. 
+
+We depend on the services of our key
+technical and management personnel. The loss of the services of any of these persons could
+have a material adverse effect on our business, results of operations, and financial
+condition. Our success is highly dependent on our continuing ability to identify, hire,
+train, motivate, and retain highly qualified management, technical, sales, and marketing
+personnel. Competition for such personnel can be intense, and we cannot provide assurance
+that we will be able to attract, assimilate, or retain highly qualified technical and
+managerial personnel in the future. Our inability to attract and retain the necessary
+management, technical, sales, and marketing personnel may adversely affect our future
+growth and profitability. 
+
+We may have exposure to
+additional tax liabilities. 
+
+Our tax returns are subject to review
+by both domestic and foreign taxation authorities. As the results of these reviews bear a
+measure of uncertainty and take some time to complete, we must make estimates and
+judgments as to the impact of taxes on our results. Although we believe our estimates are
+appropriate, the ultimate tax outcome may differ from the amounts recorded in our
+financial statements and may affect our financial position. 
+
+Risks Related to Our
+Industry 
+
+Economic uncertainty and
+downturns in the software market may lead to decreases in our revenues and margins. 
+
+The market for our products depends
+on economic conditions affecting the broader software market. Downturns in the economy may
+cause businesses and governments to delay or cancel software projects, reduce their
+overall information technology budgets, or reduce or cancel orders for our products. In
+this environment, customers may experience financial difficulty, fail to purchase or defer
+the budget for the purchase of our products, or cease operations. This, in turn, may lead
+to longer sales cycles, delays, or failures in payment and collection, and price
+pressures, causing us to realize lower revenues and margins. In particular, acts of
+terrorism, military action, or war have created an uncertain economic environment and we
+cannot predict the impact of such events on our customers or business. We believe that, in
+light of such events, some businesses and governments may delay, curtail, or eliminate
+capital spending on information technology generally, or in certain sectors of information
+technology in particular. If capital spending in our markets declines, it may be necessary
+for us to gain significant market share from our competitors in order to achieve our
+financial goals and maintain profitability, and there is no assurance we would be able to
+do so. 
+
+If our products contain
+material defects, our ability to attract and retain customers may be harmed. 
+
+Software products are complex and may
+contain errors or defects, particularly when first introduced, when new versions or
+enhancements are released, or when configured to individual customer computing systems. We
+currently have known errors and defects in our products. Despite testing conducted by us,
+additional defects and errors found in current versions, new 
+
+45 
+
+versions, or enhancements of
+our products after commencement of commercial shipment could result in the loss of
+revenues or a delay in market acceptance. If, as a result of such a defect or error, our
+products cannot be effectively integrated with other hardware, software and database and
+networking systems, our ability to attract and retain customers could suffer. The
+occurrence of any of these events could cause us to lose customers or require us to pay
+damages to existing customers and, therefore, could seriously harm our business, operating
+results, and financial condition. 
+
+We face intense
+competition, and if we fail to compete successfully, our business could be seriously
+harmed and our revenues could grow more slowly than expected, stop growing, or decline. 
+
+We face substantial competition
+throughout the world, primarily from software companies located in the United States,
+Europe, and Canada. We expect our existing competitors and future competitors to continue
+to improve the performance of their current products and to introduce new products or new
+technologies. The business intelligence market may continue to consolidate by merger or
+acquisition. As well, competition may increase by the entry or expansion of other software
+vendors into this market. These competitors may have substantially greater financial and
+other resources with which to pursue research and development, manufacturing, marketing,
+and distribution of their products. New product introductions by our competitors could
+cause a decline in sales, a reduction in the sales price, or a loss of market acceptance
+of our existing products. To the extent that we are unable to effectively compete against
+our current and future competitors, our ability to sell products could be harmed and our
+market share reduced. Any erosion of our competitive position could have a material
+adverse effect on our business, results of operations, and financial condition. 
+
+If we do not respond
+effectively and on a timely basis to rapid technological change, our products and
+services may become obsolete and we could lose customers. 
+
+The markets for our products are
+characterized by: 
+
+o 
+ 
+ rapid
+and significant technological change; 
+
+o 
+ 
+ frequent
+new product introductions and enhancements; 
+
+o 
+ 
+ changing
+customer demands; and 
+
+o 
+ 
+ evolving
+industry standards. 
+
+We cannot provide assurance that our
+products and services will remain competitive in light of future technological change or
+respond to market demands and developments or new industry standards. If we are unable to
+identify a shift in market demand or industry standards quickly enough, we may not be able
+to develop products to meet those new demands or standards, or bring them to market in a
+timely way. In addition, failure to respond successfully to technological change may
+render our products and services obsolete and thus harm our ability to attract and retain
+customers. 
+
+46 
+
+Risks Related to
+External Conditions 
+
+Our share price will
+fluctuate. 
+
+The market price of our common shares
+may be volatile and could be subject to wide fluctuations due to a number of factors,
+including: 
+
+o 
+ 
+ actual
+or anticipated fluctuations in our results of operations; 
+
+o 
+ 
+ changes
+in estimates of our future results of operations by us or securities analysts; 
+
+o 
+ 
+ announcements
+of technological innovations or new products by us or our competitors; 
+
+o 
+ 
+ general
+industry changes in the business intelligence tools or related markets; or 
+
+o 
+ 
+ other
+events or factors. 
+
+In addition, the financial markets
+have experienced significant price and volume fluctuations that have particularly affected
+the market prices of equity securities of many technology companies and that sometimes
+have been unrelated to the operating performance of these companies. Broad market
+fluctuations, as well as economic conditions generally and in the software industry
+specifically, may adversely affect the market price of our common shares. In the past,
+following periods of volatility in the market price of a particular company s
+securities, securities class action litigation has often been brought against that
+company. Similar litigation may occur in the future with respect to us, which could result
+in substantial costs, divert management s attention and other company resources, and
+have a material adverse effect upon our business, results of operations, and financial
+condition. 
+
+New Accounting
+Pronouncements could require us to change the way in which we account for employee stock
+options, which would result in a reduction of our net income and earnings per share. 
+
+The FASB and other financial
+accounting standard-setting bodies internationally are currently addressing issues related
+to stock-based payments, and alternative methods of valuing those payments. The goal of
+these activities is to develop one set of international accounting pronouncements for
+share-based payments. We expect those accounting pronouncements to require a method which
+requires us to expense the fair value of stock-options. This would require us to report
+increased expenses in our income statement, and a reduction of our net income and earnings
+per share. The impact of applying a fair value method is disclosed in Note 3 of the
+Condensed Notes to the Consolidated Financial Statements. 
+
+47 
+
+Item 3. 
+
+Quantitative and Qualitative Disclosure about Market Risk 
+
+Market risk represents the risk of
+loss that may impact our financial position due to adverse changes in financial market
+prices and rates. Our market risk exposure is primarily a result of fluctuations in
+interest rates and foreign currency exchange rates. We do not hold or issue financial
+instruments for trading purposes. 
+
+Interest Rate Risk 
+
+Our exposure to market rate risk for
+changes in interest rates relates primarily to our investment portfolio. The investment of
+cash is regulated by our investment policy of which the primary objective is security of
+principal. Among other selection criteria, the investment policy states that the term to
+maturity of investments cannot exceed two years in length. We do not use derivative
+financial instruments in our investment portfolio. 
+
+Interest income on our cash, cash
+equivalents, and short-term investments is subject to interest rate fluctuations, but we
+believe that the impact of these fluctuations does not have a material effect on our
+financial position due to the short-term nature of these financial instruments. We have no
+long-term debt. Our interest income and interest expense are most sensitive to the general
+level of interest rates in Canada and the United States. Sensitivity analysis is used to
+measure our interest rate risk. For the three and nine months ended November 30, 2003, a
+100 basis-point adverse change in interest rates would not have had a material effect on
+our consolidated financial position, earnings, or cash flows. 
+
+Foreign Currency Risk 
+
+We operate internationally;
+accordingly, a substantial portion of our financial instruments are held in currencies
+other than the United States dollar. Our policy with respect to foreign currency exposure
+is to manage financial exposure to certain foreign exchange fluctuations with the
+objective of neutralizing some of the impact of foreign currency exchange movements. To
+achieve this objective, we enter into foreign exchange forward contracts to hedge portions
+of the net investment in various subsidiaries. The forward contracts are typically between
+the United States dollar and the British pound, the euro, and the Australian dollar.
+Sensitivity analysis is used to measure our foreign currency exchange rate risk. As of
+November 30, 2003, a 10 adverse change in foreign exchange rates versus the U.S. dollar
+would not have had a material effect on our reported cash, cash equivalents, and
+short-term investments. 
+
+As we operate internationally, a
+substantial portion of our business is also conducted in foreign currencies other than the
+U.S. dollar. Accordingly, our results are affected, and may be affected in the future, by
+exchange rate fluctuations of the United States dollar relative to the Canadian dollar,
+various European currencies, and, to a lesser extent, other foreign currencies. Revenues
+and expenses generated in foreign currencies are translated at exchange rates during the
+month in which the transaction occurs. The resulting gains and losses from this
+translation are included in net income. We cannot predict the effect of foreign exchange
+losses in the future; however, if significant foreign exchange losses are experienced,
+they could have a material adverse effect on our business, results of operations, and
+financial condition. 
+
+48 
+
+Item 4. 
+
+Controls and Procedures 
+
+a) 
+ 
+ Evaluation
+of disclosure controls and procedures. 
+
+Under the supervision and with the
+participation of our management, including the Chief Executive Officer and Chief Financial
+Officer, we have evaluated the disclosure controls and procedures as of the end of the
+period covered by this quarterly report. Based on this evaluation, the Chief Executive
+Officer and Chief Financial Officer conclude that the disclosure controls and procedures
+(as defined in Rule 13a-15(e) or 15d-15(e) of the Securities Exchange Act of 1934)
+effectively ensure that information required to be disclosed in our filings and
+submissions under the Exchange Act is recorded, processed, summarized, and reported within
+the time periods specified in the Securities and Exchange Commission s rules and
+forms. 
+
+b) 
+ 
+ Changes
+in internal control over financial reporting. 
+
+There has been no significant change
+in our internal control over financial reporting during the quarter ended November 30,
+2003, that has materially affected, or is reasonably likely to materially affect, our
+internal control over financial reporting. 
+
+49 
+
+PART II OTHER
+INFORMATION 
+
+Item 1. 
+
+Legal Proceedings 
+
+The Corporation is not a party to any
+litigation that, in the opinion of management, could reasonably be expected to have
+material adverse impact on the Corporation s financial position. 
+
+In addition, we and our subsidiaries
+may, from time to time be involved in other legal proceedings, claims, and litigation that
+arise in the ordinary course of business. 
+
+Item 6. 
+
+Exhibits and Reports on Form 8-K 
+
+a) 
+ 
+ Exhibits 
+
+31.1 
+ 
+ Certification Pursuant to Rule 13a - 14(a) or 15d - 14(a) of the Securities Exchange Act of 
+
+1934, As Adopted Pursuant to Section 302 of the Sarbanes-Oxley Act of 2002 
+ 
+ 31.2 
+ 
+ Certification Pursuant to Rule 13a - 14(a) or 15d - 14(a) of the Securities Exchange Act of 
+
+1934, As Adopted Pursuant to Section 302 of the Sarbanes-Oxley Act of 2002 
+ 
+ 32.1 
+ 
+ Certification Pursuant to 18 U.S.C Section 1350, As Adopted Pursuant to Section 906 of The 
+
+Sarbanes-Oxley Act of 2002 
+ 
+ 32.2 
+ 
+ Certification Pursuant to 18 U.S.C Section 1350, As Adopted Pursuant to Section 906 of The 
+
+Sarbanes-Oxley Act of 2002 
+ 
+ 99.1 
+ 
+ Selected Consolidated Financial Statements and Notes in U.S. Dollars and in accordance with 
+
+Canadian Generally Accepted Accounting Principles 
+ 
+ 99.2 
+ 
+ Management's Discussion and Analysis of Financial Condition and Results of Operations - Canadian Supplement 
+
+b) 
+ 
+ Reports
+on Form 8-K 
+
+The Corporation filed a Form 8-K on
+September 24, 2003 pursuant to Items 7 and 12, Financial Statements and Exhibits 
+and Disclosure of Results of Operations and Financial Condition, respectively .
+ This Form 8-K related to the release of the Corporation s results for the second
+quarter of fiscal 2004 ended August 31, 2003. 
+
+50 
+
+SIGNATURE 
+
+Pursuant to the requirements of the
+Securities Exchange Act of 1934, the registrant has duly caused this report to be signed
+on its behalf by the undersigned, thereunto duly authorized. 
+
+COGNOS INCORPORATED 
+
+(Registrant) 
+
+January 9, 2004 
+ 
+ /s/ Tom Manley 
+
+Date 
+ 
+ Tom Manley 
+
+Senior Vice President, Finance Administration and Chief Financial Officer 
+
+(Principal Financial Officer and Chief Accounting Officer) 
+
+51 
+
+EXHIBIT INDEX 
+
+EXHIBIT NO. 
+ DESCRIPTION 
+ PAGE 
+
+31.1 
+ 
+ Certification Pursuant to Rule 13a - 14(a) or 15d - 14(a) of the Securities Exchange Act of 
+
+1934, As Adopted Pursuant to Section 302 of the Sarbanes-Oxley Act of 2002 
+ 
+ 54 
+
+31.2 
+ 
+ Certification Pursuant to Rule 13a - 14(a) or 15d - 14(a) of the Securities Exchange Act of 1934, As Adopted Pursuant to Section 302 of the Sarbanes-Oxley Act of 2002 
+ 55 
+
+32.1 
+ 
+ Certification Pursuant to 18 U.S.C Section 1350, As Adopted Pursuant to Section 906 of The 
+
+Sarbanes-Oxley Act of 2002 
+ 56 
+
+32.2 
+ 
+ Certification Pursuant to 18 U.S.C Section 1350, As Adopted Pursuant to Section 906 of The 
+
+Sarbanes-Oxley Act of 2002 
+ 57 
+
+99.1 
+ 
+ Selected Consolidated Financial Statements and Notes in U.S. Dollars and in accordance with 
+
+Canadian Generally Accepted Accounting Principles 
+ 58-69 
+
+99.2 
+ 
+ Management's Discussion and Analysis of Financial Condition and Results of Operations - Canadian Supplement 
+ 70-71 
+
+52 
+
+<EX-31>
+ 3
+ cognos30248_ex311.htm
+ EXHIBIT 31.1
+
+Cognos Exhibit 31.1 
+
+Exhibit 31.1 
+
+CERTIFICATION 
+
+I, Renato Zambonini, Chief Executive
+Officer certify that: 
+
+1. 
+ 
+ I
+have reviewed this quarterly report on Form 10-Q of Cognos Incorporated; 
+
+2. 
+ 
+ Based
+on my knowledge, this report does not contain any untrue statement of a
+ material fact or omit to state a material fact necessary to make the statements
+ made, in light of the circumstances under which such statements were made, not
+ misleading with respect to the period covered by this report; 
+
+3. 
+ 
+ Based
+on my knowledge, the financial statements, and other financial information
+ included in this report, fairly present in all material respects the financial
+ condition, results of operations and cash flows of the registrant as of, and
+ for, the periods presented in this report; 
+
+4. 
+ 
+ The
+registrant s other certifying officer and I are responsible for
+ establishing and maintaining disclosure controls and procedures (as defined in
+ Exchange Act Rules 13a-15(e) and 15d-15(e)) for the registrant and have: 
+
+a) 
+ 
+ Designed
+such disclosure controls and procedures, or caused such disclosure controls and
+procedures to be designed under our supervision, to ensure that material
+information relating to the registrant, including its consolidated
+ subsidiaries, is made known to us by others within those entities, particularly
+ during the period in which this report is being prepared; 
+
+b) 
+ 
+ [Paragraph
+omitted pursuant to SEC Release Nos. 33-8238 and 34-47986]; 
+
+c) 
+ 
+ Evaluated
+the effectiveness of the registrant s disclosure controls and procedures
+and presented in this report our conclusions about the effectiveness of the
+disclosure controls and procedures, as of the end of the period covered by this
+report based on such evaluation; and 
+
+d) 
+ 
+ Disclosed
+in this report any change in the registrant s internal control over
+financial reporting that occurred during the registrant s most recent
+ fiscal quarter that has materially affected, or is reasonably likely to
+ materially affect, the registrant s internal control over financial
+ reporting; and 
+
+5. 
+ 
+ The
+registrant s other certifying officer and I have disclosed, based on
+ our most recent evaluation of internal control over financial reporting, to the
+ registrant s auditors and the audit committee of the registrant s
+ board of directors (or persons performing the equivalent functions): 
+
+a) 
+ 
+ All
+significant deficiencies and material weaknesses in the design or operation of
+internal control over financial reporting which are reasonably likely to
+ adversely affect the registrant s ability to record, process, summarize
+and report financial information; and 
+
+b) 
+ 
+ Any
+fraud, whether or not material, that involves management or other employees who
+have a significant role in the registrant s internal control over
+ financial reporting. 
+
+January 9, 2004 
+ 
+ /s/ Renato Zambonini 
+
+Date 
+ 
+ Renato Zambonini, 
+
+Chief Executive Officer 
+
+53 
+
+</EX-31>
+
+<EX-31>
+ 4
+ cognos30248_ex312.htm
+ EXHIBIT 31.2
+
+Cognos Exhibit 31.2 
+
+Exhibit 31.2 
+
+CERTIFICATION 
+
+I, Tom Manley, Vice President
+Finance Administration and Chief Financial Officer certify that: 
+
+1. 
+ 
+ I
+have reviewed this quarterly report on Form 10-Q of Cognos Incorporated; 
+
+2. 
+ 
+ Based
+on my knowledge, this report does not contain any untrue statement of a
+ material fact or omit to state a material fact necessary to make the statements
+ made, in light of the circumstances under which such statements were made, not
+ misleading with respect to the period covered by this report; 
+
+3. 
+ 
+ Based
+on my knowledge, the financial statements, and other financial information
+ included in this report, fairly present in all material respects the financial
+ condition, results of operations and cash flows of the registrant as of, and
+ for, the periods presented in this report; 
+
+4. 
+ 
+ The
+registrant s other certifying officer and I are responsible for
+ establishing and maintaining disclosure controls and procedures (as defined in
+ Exchange Act Rules 13a-15(e) and 15d-15(e)) for the registrant and have: 
+
+a) 
+ 
+ Designed
+such disclosure controls and procedures, or caused such disclosure controls and
+procedures to be designed under our supervision, to ensure that material
+information relating to the registrant, including its consolidated
+ subsidiaries, is made known to us by others within those entities, particularly
+ during the period in which this report is being prepared; 
+
+b) 
+ 
+ [Paragraph
+omitted pursuant to SEC Release Nos. 33-8238 and 34-47986]; 
+
+c) 
+ 
+ Evaluated
+the effectiveness of the registrant s disclosure controls and procedures
+and presented in this report our conclusions about the effectiveness of the
+disclosure controls and procedures, as of the end of the period covered by this
+report based on such evaluation; and 
+
+d) 
+ 
+ Disclosed
+in this report any change in the registrant s internal control over
+financial reporting that occurred during the registrant s most recent
+ fiscal quarter that has materially affected, or is reasonably likely to
+ materially affect, the registrant s internal control over financial
+ reporting; and 
+
+5. 
+ 
+ The
+registrant s other certifying officer and I have disclosed, based on our
+most recent evaluation of internal control over financial reporting, to the
+ registrant s auditors and the audit committee of the registrant s
+ board of directors (or persons performing the equivalent functions): 
+
+a) 
+ 
+ All
+significant deficiencies and material weaknesses in the design or operation of
+internal control over financial reporting which are reasonably likely to
+ adversely affect the registrant s ability to record, process, summarize
+and report financial information; and 
+
+b) 
+ 
+ Any
+fraud, whether or not material, that involves management or other employees who
+have a significant role in the registrant s internal control over
+ financial reporting. 
+
+January 9, 2004 
+ 
+ /s/ Tom Manley 
+
+Date 
+ 
+ Tom Manley 
+
+Senior Vice President, Finance Administration and Chief Financial Officer 
+
+(Principal Financial Officer and Chief Accounting Officer) 
+
+54 
+
+</EX-31>
+
+<EX-32>
+ 5
+ cognos30248_ex321.htm
+ EXHIBIT 32.1
+
+Cognos Exhibit 32.1 
+
+Exhibit 32.1 
+
+CERTIFICATION PURSUANT
+TO 18 U.S.C SECTION 1350, 
+AS ADOPTED PURSUANT TO 
+SECTION 906 OF THE
+SARBANES-OXLEY ACT OF 2002 
+
+In connection with the Quarterly
+Report of Cognos Incorporated (the Company on Form 10-Q for the period ended
+November 30, 2003 as filed with the Securities and Exchange Commission on the date hereof
+(the Report ), I, Renato Zambonini, Chief Executive Officer of the Company,
+certify, pursuant to 18 U.S.C. section 1350, as adopted pursuant to section 906 of the
+Sarbanes-Oxley Act of 2002, that to the best of my knowledge: 
+
+(1) 
+ The Report fully complies with the requirements of section 13(a) or 15(d) of the
+ Securities Exchange Act of 1934, as amended; and 
+
+(2) 
+ The information contained in the Report fairly presents, in all material
+ respects, the financial condition and results of operations of the Company. 
+
+January 9, 2004 
+ 
+ /s/ Renato Zambonini 
+
+Date 
+ 
+ Renato Zambonini, 
+
+Chief Executive Officer 
+
+This certification is being submitted
+solely for the purpose of complying with Section 1350 of Chapter 63 of Title 18 of the
+United States Code. This certification is not to be deemed filed for purposes
+of Section 18 of the Securities Exchange Act of 1934 or otherwise subject to the liability
+of that section, nor will the certification be deemed incorporated by reference in to any
+filing under the Securities Act of 1933 or the Securities Exchange Act of 1934, except to
+the extent that the registrant specifically incorporates it by reference. 
+
+55 
+
+</EX-32>
+
+<EX-32>
+ 6
+ cognos30248_ex322.htm
+ EXHIBIT 32.2
+
+Cognos Exhibit 32.2 
+
+Exhibit 32.2 
+
+CERTIFICATION PURSUANT
+TO 18 U.S.C SECTION 1350, 
+AS ADOPTED PURSUANT TO 
+SECTION 906 OF THE
+SARBANES-OXLEY ACT OF 2002 
+
+In connection with the Quarterly
+Report of Cognos Incorporated (the Company on Form 10-Q for the period ended
+November 30, 2003 as filed with the Securities and Exchange Commission on the date hereof
+(the Report ), I, Tom Manley, Senior Vice President Finance 
+Administration and Chief Financial Officer of the Company, certify, pursuant to 18 U.S.C.
+section 1350, as adopted pursuant to section 906 of the Sarbanes-Oxley Act of 2002, that
+to the best of my knowledge: 
+
+(1) 
+ The Report fully complies with the requirements of section 13(a) or 15(d) of the
+ Securities Exchange Act of 1934, as amended; and 
+
+(2) 
+ The information contained in the Report fairly presents, in all material
+ respects, the financial condition and results of operations of the Company. 
+
+January 9, 2004 
+ 
+ /s/ Tom Manley 
+
+Date 
+ 
+ Tom Manley 
+
+Senior Vice President, Finance Administration and Chief Financial Officer 
+
+(Principal Financial Officer and Chief Accounting Officer) 
+
+This certification is being submitted
+solely for the purpose of complying with Section 1350 of Chapter 63 of Title 18 of the
+United States Code. This certification is not to be deemed filed for purposes
+of Section 18 of the Securities Exchange Act of 1934 or otherwise subject to the liability
+of that section, nor will the certification be deemed incorporated by reference in to any
+filing under the Securities Act of 1933 or the Securities Exchange Act of 1934, except to
+the extent that the registrant specifically incorporates it by reference. 
+
+56 
+
+</EX-32>
+
+<EX-99.1>
+ 7
+ cognos30248_ex991.htm
+ INCOME AND RETAINED EARNINGS
+
+Cognos Exhibit 31.1 
+
+Exhibit 99.1 
+
+COGNOS INCORPORATED 
+CONSOLIDATED STATEMENTS
+OF INCOME AND RETAINED EARNINGS 
+(US 000s except share
+amounts, CDN GAAP) 
+(Unaudited) 
+
+Three months ended November 30, 
+ 
+ Nine months ended November 30, 
+
+2003 
+ 
+ 2002 
+ 
+ 2003 
+ 
+ 2002 
+
+Revenue 
+
+Product license 
+ 72,551 
+ 
+ 62,223 
+ 
+ 192,586 
+ 
+ 167,097 
+
+Product support 
+ 68,676 
+ 
+ 52,853 
+ 
+ 198,965 
+ 
+ 152,269 
+
+Services 
+ 31,000 
+ 
+ 22,998 
+ 
+ 89,420 
+ 
+ 67,942 
+
+Total revenue 
+ 172,227 
+ 
+ 138,074 
+ 
+ 480,971 
+ 
+ 387,308 
+
+Cost of revenue 
+ 
+ Cost of product license 
+ 1,121 
+ 
+ 722 
+ 
+ 3,338 
+ 
+ 2,170 
+
+Cost of product support 
+ 7,051 
+ 
+ 5,240 
+ 
+ 20,793 
+ 
+ 14,682 
+
+Cost of services 
+ 22,924 
+ 
+ 17,599 
+ 
+ 65,286 
+ 
+ 50,219 
+
+Total cost of revenue 
+ 31,096 
+ 
+ 23,561 
+ 
+ 89,417 
+ 
+ 67,071 
+
+Gross margin 
+ 141,131 
+ 
+ 114,513 
+ 
+ 391,554 
+ 
+ 320,237 
+
+Operating expenses 
+ 
+ Selling, general, and administrative 
+ 86,185 
+ 
+ 67,492 
+ 
+ 248,199 
+ 
+ 201,100 
+
+Research and development 
+ 22,265 
+ 
+ 18,264 
+ 
+ 67,273 
+ 
+ 56,991 
+
+Amortization of intangible assets 
+ 2,375 
+ 
+ 1,969 
+ 
+ 7,164 
+ 
+ 6,962 
+
+Investment tax credits 
+ (4,609) 
+ (2,179) 
+ (11,864) 
+ (4,837) 
+
+Total operating expenses 
+ 106,216 
+ 
+ 85,546 
+ 
+ 310,772 
+ 
+ 260,216 
+
+Operating income 
+ 34,915 
+ 
+ 28,967 
+ 
+ 80,782 
+ 
+ 60,021 
+
+Interest expense 
+ (552) 
+ (211) 
+ (877) 
+ (442) 
+ 
+ Interest income 
+ 975 
+ 
+ 1,521 
+ 
+ 3,562 
+ 
+ 4,741 
+
+Income before taxes 
+ 35,338 
+ 
+ 30,277 
+ 
+ 83,467 
+ 
+ 64,320 
+
+Income tax provision 
+ 11,412 
+ 
+ 11,100 
+ 
+ 29,626 
+ 
+ 23,618 
+
+Net income 
+ 23,926 
+ 
+ 19,177 
+ 
+ 53,841 
+ 
+ 40,702 
+
+Retained earnings at beginning of the period 
+ 245,629 
+ 
+ 173,524 
+ 
+ 215,714 
+ 
+ 164,144 
+
+Repurchase of shares 
+ -- 
+ 
+ (6,234) 
+ -- 
+ 
+ (18,379) 
+
+Retained earnings at end of the period 
+ 269,555 
+ 
+ 186,467 
+ 
+ 269,555 
+ 
+ 186,467 
+
+Net income per share 
+ 
+ Basic 
+ 0.27 
+ 
+ 0.22 
+ 
+ 0.60 
+ 
+ 0.46 
+
+Diluted 
+ 0.26 
+ 
+ 0.21 
+ 
+ 0.59 
+ 
+ 0.45 
+
+Weighted average number of shares (000s) 
+ 
+ Basic 
+ 89,692 
+ 
+ 87,845 
+ 
+ 89,133 
+ 
+ 87,916 
+
+Diluted 
+ 92,614 
+ 
+ 89,882 
+ 
+ 91,779 
+ 
+ 90,487 
+
+(See accompanying notes) 
+
+57 
+
+COGNOS INCORPORATED 
+CONSOLIDATED BALANCE
+SHEETS 
+(US 000s, CDN GAAP) 
+
+November 30, 2003 
+ 
+ February 28, 2003 
+
+Assets 
+ (Unaudited) 
+ 
+ (Note 1) 
+
+Current assets 
+
+Cash and cash equivalents 
+ 166,227 
+ 
+ 162,588 
+
+Short-term investments 
+ 154,668 
+ 
+ 79,670 
+
+Accounts receivable 
+ 118,767 
+ 
+ 139,116 
+
+Prepaid expenses and other current assets 
+ 11,801 
+ 
+ 8,884 
+
+Deferred tax assets 
+ 4,165 
+ 
+ 5,427 
+
+455,628 
+ 
+ 395,685 
+
+Fixed assets 
+ 72,599 
+ 
+ 63,467 
+
+Intangible assets 
+ 25,736 
+ 
+ 32,902 
+
+Goodwill 
+ 170,475 
+ 
+ 169,991 
+
+724,438 
+ 
+ 662,045 
+
+Liabilities 
+ 
+ Current liabilities 
+ 
+ Accounts payable 
+ 25,623 
+ 
+ 33,310 
+
+Accrued charges 
+ 24,486 
+ 
+ 34,192 
+
+Salaries, commissions, and related items 
+ 45,357 
+ 
+ 48,916 
+
+Income taxes payable 
+ 9,797 
+ 
+ 4,395 
+
+Deferred revenue 
+ 129,882 
+ 
+ 146,008 
+
+235,145 
+ 
+ 266,821 
+
+Long-term liabilities 
+ -- 
+ 
+ 1,647 
+
+Deferred income taxes 
+ 20,430 
+ 
+ 14,868 
+
+255,575 
+ 
+ 283,336 
+
+Stockholders' Equity 
+ 
+ Capital stock 
+ 
+ Common shares and additional paid-in capital 
+ 
+ (November 30, 2003 - 89,915,921; February 28, 2003 - 88,124,914) 
+ 200,600 
+ 
+ 173,363 
+
+Treasury shares 
+ 
+ (November 30, 2003 - 43,500; February 28, 2003 - 22,500) 
+ (1,065) 
+ (501) 
+ 
+ Deferred stock-based compensation 
+ (870) 
+ (1,243) 
+ 
+ Retained earnings 
+ 269,555 
+ 
+ 215,714 
+
+Accumulated other comprehensive income 
+ 643 
+ 
+ (8,624) 
+
+468,863 
+ 
+ 378,709 
+
+724,438 
+ 
+ 662,045 
+
+(See accompanying notes) 
+
+58 
+
+COGNOS INCORPORATED CONSOLIDATED STATEMENTS
+OF CASH FLOWS 
+(US 000s, CDN GAAP) 
+(Unaudited) 
+
+Three months ended November 30, 
+ 
+ Nine months ended November 30, 
+
+2003 
+ 
+ 2002 
+ 
+ 2003 
+ 
+ 2002 
+
+Cash flows from operating activities 
+
+Net income 
+ 23,926 
+ 
+ 19,177 
+ 
+ 53,841 
+ 
+ 40,702 
+
+Non-cash items 
+ 
+ Depreciation and amortization 
+ 7,744 
+ 
+ 6,451 
+ 
+ 23,182 
+ 
+ 19,850 
+
+Amortization of deferred stock-based compensation 
+ 215 
+ 
+ 148 
+ 
+ 605 
+ 
+ 518 
+
+Amortization of other deferred compensation 
+ 44 
+ 
+ 119 
+ 
+ 168 
+ 
+ 415 
+
+Deferred income taxes 
+ 1,057 
+ 
+ 3,961 
+ 
+ 4,772 
+ 
+ 1,962 
+
+Loss on disposal of fixed assets 
+ 76 
+ 
+ 8 
+ 
+ 539 
+ 
+ 109 
+
+33,062 
+ 
+ 29,864 
+ 
+ 83,107 
+ 
+ 63,556 
+
+Change in non-cash working capital 
+ 
+ Decrease (increase) in accounts receivable 
+ (5,716) 
+ (18,157) 
+ 26,181 
+ 
+ 15,642 
+
+Decrease (increase) in prepaid expenses and other current assets 
+ 2,327 
+ 
+ 1,687 
+ 
+ (1,533) 
+ 855 
+
+Increase (decrease) in accounts payable 
+ 837 
+ 
+ 4,259 
+ 
+ (9,941) 
+ (4,458) 
+ 
+ Decrease in accrued charges 
+ (4,610) 
+ (355) 
+ (11,682) 
+ (9,755) 
+ 
+ Increase (decrease) in salaries, commissions, and related items 
+ 6,647 
+ 
+ 3,390 
+ 
+ (7,141) 
+ 935 
+
+Increase (decrease) in income taxes payable 
+ 3,967 
+ 
+ 125 
+ 
+ 5,126 
+ 
+ (3,074) 
+ 
+ Decrease in deferred revenue 
+ (7,314) 
+ (5,484) 
+ (22,665) 
+ (14,903) 
+
+Net cash provided by operating activities 
+ 29,200 
+ 
+ 15,329 
+ 
+ 61,452 
+ 
+ 48,798 
+
+Cash flows from investing activities 
+ 
+ Maturity of short-term investments 
+ 88,663 
+ 
+ 19,851 
+ 
+ 205,473 
+ 
+ 190,232 
+
+Purchase of short-term investments 
+ (144,406) 
+ (139,146) 
+ (277,445) 
+ (228,789) 
+ 
+ Additions to fixed assets 
+ (6,165) 
+ (3,559) 
+ (18,349) 
+ (11,328) 
+ 
+ Acquisition costs 
+ (254) 
+ -- 
+ 
+ (484) 
+ -- 
+
+Net cash used in investing activities 
+ (62,162) 
+ (122,854) 
+ (90,805) 
+ (49,885) 
+
+Cash flows from financing activities 
+ 
+ Issue of common shares 
+ 8,896 
+ 
+ 4,106 
+ 
+ 27,005 
+ 
+ 9,831 
+
+Purchase of treasury shares 
+ -- 
+ 
+ -- 
+ 
+ (564) 
+ -- 
+
+Repurchase of shares 
+ -- 
+ 
+ (6,850) 
+ -- 
+ 
+ (19,992) 
+ 
+ Decrease in long-term debt and long-term liabilities 
+ -- 
+ 
+ (2,361) 
+ (1,697) 
+ (5,464) 
+
+Net cash provided by (used in) financing activities 
+ 8,896 
+ 
+ (5,105) 
+ 24,744 
+ 
+ (15,625) 
+
+Effect of exchange rate changes on cash 
+ 4,111 
+ 
+ 72 
+ 
+ 8,248 
+ 
+ 354 
+
+Net increase (decrease) in cash and cash equivalents 
+ (19,955) 
+ (112,558) 
+ 3,639 
+ 
+ (16,358) 
+ 
+ Cash and cash equivalents, beginning of period 
+ 186,182 
+ 
+ 289,100 
+ 
+ 162,588 
+ 
+ 192,900 
+
+Cash and cash equivalents, end of period 
+ 166,227 
+ 
+ 176,542 
+ 
+ 166,227 
+ 
+ 176,542 
+
+Short-term investments, end of period 
+ 154,668 
+ 
+ 161,561 
+ 
+ 154,668 
+ 
+ 161,561 
+
+Cash, cash equivalents, and short-term investments, end of period 
+ 320,895 
+ 
+ 338,103 
+ 
+ 320,895 
+ 
+ 338,103 
+
+(See accompanying notes) 
+
+59 
+
+COGNOS INCORPORATED CONDENSED NOTES TO THE
+CONSOLIDATED FINANCIAL STATEMENTS 
+(Unaudited) 
+(All amounts in U.S.
+dollars, unless otherwise stated) 
+(In accordance with CDN
+GAAP) 
+
+1. 
+ 
+ Basis
+of Presentation 
+
+The
+accompanying unaudited consolidated financial statements have been prepared by the
+Corporation in United States (U.S.) dollars and in accordance with Canadian generally
+accepted accounting principles GAAP with respect to the preparation of
+interim financial information. The consolidated balance sheet at February 28, 2003 has
+been extracted from the audited consolidated financial statements at that date.
+Accordingly, these consolidated financial statements do not include all information and
+footnotes as required in the preparation of annual consolidated financial statements.
+These unaudited condensed notes to the consolidated financial statements should be read in
+conjunction with the audited financial statements and notes included in the Annual
+Information Form for the fiscal year ended February 28, 2003. 
+
+The
+preparation of these unaudited consolidated financial statements requires management to
+make estimates and assumptions that affect the amounts reported in the consolidated
+financial statements and the accompanying notes. In the opinion of Management, these
+unaudited consolidated financial statements reflect all adjustments (which include only
+normal, recurring adjustments) necessary to state fairly the results for the periods
+presented. Actual results could differ from these estimates and the operating results for
+the interim periods presented are not necessarily indicative of the results expected for
+the full year. 
+
+All
+information is presented in thousands of U.S. dollars, unless otherwise stated.
+Consolidated financial statements prepared in accordance with U.S. GAAP, in U.S. dollars,
+are made available to all shareholders, and filed with various regulatory authorities. 
+
+2. 
+ 
+ Revenue
+Recognition 
+
+The
+Corporation recognizes revenue in accordance with Statement of Position (SOP) 97-2,
+ Software Revenue Recognition, issued by the American Institute of Certified Public
+Accountants. 
+
+Substantially
+all of the Corporation s product license revenue is earned from licenses of
+off-the-shelf software requiring no customization. Revenue from these licenses is
+recognized when all of the following criteria are met: persuasive evidence of an
+arrangement exists, delivery has occurred, the fee is fixed or determinable, and
+collectibility is probable. If a license includes the right to return the product for
+refund or credit, revenue is deferred, until the right of return lapses. 
+
+Revenue
+from product support contracts is recognized ratably over the life of the contract.
+Incremental costs directly attributable to the acquisition of product support contracts,
+and that would not have been incurred but for the acquisition of that contract, are
+deferred and expensed in the period the related revenue is recognized. These costs include
+commissions payable on sales of support contracts. 
+
+60 
+
+COGNOS INCORPORATED CONDENSED NOTES TO THE
+CONSOLIDATED FINANCIAL STATEMENTS 
+(Unaudited) 
+(All amounts in U.S.
+dollars, unless otherwise stated) 
+(In accordance with CDN
+GAAP) 
+
+Services
+revenue from education, consulting, and other services is recognized at the time the
+services are rendered. Many of the Corporation s sales include both software and
+services. Where the service is (1) not essential to the functionality of any other element
+of the transaction and (2) stated separately such that the total price of the arrangement
+is expected to vary as a result of the inclusion or exclusion of the service, the software
+element is accounted for separately from the service element. Where these two criteria are
+not met, the entire arrangement is accounted for using the percentage of completion method
+in accordance with SOP 81-1, Accounting for Performance of Construction Type and
+Certain Production Type Contracts. 
+
+For
+contracts with multiple obligations (e.g. deliverable and undeliverable products, support
+obligations, education, consulting and other services), the Corporation allocates revenue
+to each element of the contract based on objective evidence, specific to the Corporation,
+of the fair value of the element. 
+
+3. 
+ 
+ Stock-based
+Compensation 
+
+The
+Corporation applies CICA Handbook section 3870, Stock-based Compensation and Other
+Stock-Based Payments , (CICA 3870) in accounting for its stock option, stock purchase,
+and restricted share unit plans. Except for certain options assumed on the acquisition of
+Adaytum, Inc. (Adaytum) where compensation cost has been recognized in the financial
+statements, the exercise price of all stock options is equal to the market price of the
+stock on the trading day preceding the date of grant. Where the exercise price of stock
+options is equal to the market price of the stock on the trading day preceding the date of
+grant, no compensation cost has been recognized in the financial statements for its stock
+option and stock purchase plans. For restricted share units, the fair value of each unit
+is calculated at the date of grant. Compensation cost relating to the restricted share
+unit plan is recognized in the financial statements over the vesting period. 
+
+61 
+
+COGNOS INCORPORATED CONDENSED NOTES TO THE
+CONSOLIDATED FINANCIAL STATEMENTS 
+(Unaudited) 
+(All amounts in U.S.
+dollars, unless otherwise stated) 
+(In accordance with CDN
+GAAP) 
+
+If
+the fair values of the options granted had been recognized as compensation expense on a
+straight-line basis over the vesting period of the grant, stock-based compensation costs
+would have reduced net income, basic net income per share and diluted net income per share
+as indicated in the table below (000s, except per share amounts): 
+
+Three months ended November 30, 
+ 
+ Nine months ended November 30, 
+
+2003 
+ 
+ 2002 
+ 
+ 2003 
+ 
+ 2002 
+
+Net income: 
+
+As reported 
+ 23,926 
+ 
+ 19,177 
+ 
+ 53,841 
+ 
+ 40,702 
+
+Add: Stock-based employee 
+ 
+ compensation included above 
+ 215 
+ 
+ 148 
+ 
+ 605 
+ 
+ 518 
+
+Less: Stock-based employee 
+ 
+ compensation using fair value based 
+ 
+ method 
+ (5,435) 
+ (7,392) 
+ (17,498) 
+ (20,556) 
+
+Pro forma 
+ 18,706 
+ 
+ 11,933 
+ 
+ 36,948 
+ 
+ 20,664 
+
+Basic net income per share: 
+
+As reported 
+ 0.27 
+ 
+ 0.22 
+ 
+ 0.60 
+ 
+ 0.46 
+
+Add: Stock-based employee 
+ 
+ compensation included above 
+ -- 
+ 
+ -- 
+ 
+ 0.01 
+ 
+ 0.01 
+
+Less: Stock-based employee 
+ 
+ compensation using fair value based 
+ 
+ method 
+ (0.06) 
+ (0.08) 
+ (0.20) 
+ (0.23) 
+
+Pro forma 
+ 0.21 
+ 
+ 0.14 
+ 
+ 0.41 
+ 
+ 0.24 
+
+Diluted net income per share: 
+ 
+ As reported 
+ 0.26 
+ 
+ 0.21 
+ 
+ 0.59 
+ 
+ 0.45 
+
+Add: Stock-based employee 
+ 
+ compensation included above 
+ -- 
+ 
+ -- 
+ 
+ -- 
+ 
+ 0.01 
+
+Less: Stock-based employee 
+ 
+ compensation using fair value based 
+ 
+ method 
+ (0.06) 
+ (0.08) 
+ (0.19) 
+ (0.23) 
+
+Pro forma 
+ 0.20 
+ 
+ 0.13 
+ 
+ 0.40 
+ 
+ 0.23 
+
+Weighted average number of shares: 
+
+Basic 
+ 89,692 
+ 
+ 87,845 
+ 
+ 89,133 
+ 
+ 87,916 
+
+Diluted 
+ 92,614 
+ 
+ 89,882 
+ 
+ 91,779 
+ 
+ 90,487 
+
+62 
+
+COGNOS INCORPORATED CONDENSED NOTES TO THE
+CONSOLIDATED FINANCIAL STATEMENTS 
+(Unaudited) 
+(All amounts in U.S.
+dollars, unless otherwise stated) 
+(In accordance with CDN
+GAAP) 
+
+The
+fair value of the options was estimated at the date of grant using a Black-Scholes
+option-pricing model with the following weighted average assumptions: 
+
+Three months ended November 30, 
+ 
+ Nine months ended November 30, 
+
+2003 
+ 
+ 2002 
+ 
+ 2003 
+ 
+ 2002 
+
+Risk-free interest rates 
+ 
+ 3.0 
+ 
+ N/A 
+ 
+ 2.9 
+ 
+ 3.7 
+
+Expected life of options (years) 
+ 4.3 
+ 
+ N/A 
+ 4.3 
+ 
+ 2.9 
+
+Expected volatility 
+ 57.1 
+ 
+ N/A 
+ 57.2 
+ 
+ 67.9 
+
+Dividend yield 
+ 0.0 
+ 
+ N/A 
+ 0.0 
+ 
+ 0.0 
+
+There were no options granted during the three months ended November 30, 2002. 
+
+4. 
+ 
+ Goodwill 
+
+During
+the three and nine months ended November 30, 2003, there were additions to goodwill of
+ 254,000 and 484,000, respectively. During the three and nine months ended November 30,
+2002, there were additions to goodwill of 115,000 and 293,000, respectively. All
+additions during the three and nine months ended November 30, 2003 and November 30, 2002
+were related to additional consideration paid to the former shareholders of Teijin Cognos
+Incorporated (TCI). The consideration was based on the net revenue of TCI during each
+quarter as per the original agreement. The Corporation has designated the beginning of its
+fiscal year as the date for the annual impairment test, and performed the required test as
+of March 1, 2003. Based on this test, goodwill is not considered to be impaired. 
+
+Three months ended November 30, 
+ 
+ Nine months ended November 30, 
+
+2003 
+ 
+ 2002 
+ 
+ 2003 
+ 
+ 2002 
+
+000s) 
+ 
+ 000s) 
+
+Beginning balance 
+ 
+ 170,221 
+ 
+ 15,408 
+ 
+ 169,991 
+ 
+ 15,230 
+
+Additions 
+ 254 
+ 
+ 115 
+ 
+ 484 
+ 
+ 293 
+
+Closing balance 
+ 170,475 
+ 
+ 15,523 
+ 
+ 170,475 
+ 
+ 15,523 
+
+63 
+
+COGNOS INCORPORATED CONDENSED NOTES TO THE
+CONSOLIDATED FINANCIAL STATEMENTS 
+(Unaudited) 
+(All amounts in U.S.
+dollars, unless otherwise stated) 
+(In accordance with CDN
+GAAP) 
+
+5. 
+ 
+ Intangible
+Assets 
+
+As at November 30, 2003 
+ 
+ As at February 28, 2003 
+
+Cost 
+ Accumulated Amortization 
+ Cost 
+ Accumulated Amortization 
+ Amortization Rate 
+
+000s) 
+ 
+ 000s) 
+
+Acquired technology 
+ 33,381 
+ 
+ 16,627 
+ 
+ 33,381 
+ 
+ 11,821 
+ 
+ 20 
+
+In-process technology 
+ 38,400 
+ 
+ 36,367 
+ 
+ 38,400 
+ 
+ 34,906 
+ 
+ 20 
+
+Compensation 
+ 
+ Deferred compensation 
+ 8,945 
+ 
+ 8,930 
+ 
+ 8,945 
+ 
+ 8,763 
+ 
+ Period 
+ 
+ Contractual relationships 
+ 7,800 
+ 
+ 866 
+ 
+ 7,800 
+ 
+ 134 
+ 
+ 12.5 
+
+88,526 
+ 
+ 62,790 
+ 
+ 88,526 
+ 
+ 55,624 
+
+(62,790) 
+
+(55,624) 
+
+Net book value 
+ 25,736 
+
+32,902 
+
+Amortization
+of intangible assets was 2,375,000 and 1,968,000 in the quarters ended November 30, 2003
+and November 30, 2002, respectively, and was 7,166,000 and 6,962,000 in the nine months
+ended November 30, 2003 and November 30, 2002, respectively. The estimated amortization
+expense related to intangible assets is as follows 000s): 
+
+2004 (Q4) 
+ 
+ 2,193 
+
+2005 
+ 5,922 
+
+2006 
+ 5,498 
+
+2007 
+ 4,915 
+
+2008 
+ 4,375 
+
+2009 
+ 975 
+
+2010 and thereafter 
+ 1,858 
+
+6. 
+ 
+ Income
+Taxes 
+
+The
+Corporation provides for income taxes in its quarterly unaudited financial statements
+based on the estimated effective tax rate for the full fiscal year. During the quarter
+ended November 30, 2003, the Corporation reduced its estimated effective tax rate for
+fiscal 2004 by 2 percentage points to reflect its current expectations for the full fiscal
+year. This change in estimate had no effect on income before taxes but increased net
+income for the three and nine month periods ended November 30, 2003 by 1,462,000. Basic
+and diluted earnings per share for the three months ended November 30, 2003 would have
+been 0.25 and 0.24, respectively, without this change, a decrease of 0.02. For the nine
+months ended November 30, 2003, basic and diluted earnings per share would have been 0.59
+and 0.57, respectively, a decrease of 0.01 and 0.02, respectively. 
+
+64 
+
+COGNOS INCORPORATED CONDENSED NOTES TO THE
+CONSOLIDATED FINANCIAL STATEMENTS 
+(Unaudited) 
+(All amounts in U.S.
+dollars, unless otherwise stated) 
+(In accordance with CDN
+GAAP) 
+
+7. 
+ Net Income per Share 
+
+The
+reconciliation of the numerator and denominator for the calculation of basic and diluted
+net income per share is as follows: (000s except per share amounts) 
+
+Three months ended November 30, 
+ 
+ Nine months ended November 30, 
+
+2003 
+ 
+ 2002 
+ 
+ 2003 
+ 
+ 2002 
+
+Basic Net Income per Share 
+
+Net income 
+ 23,926 
+ 
+ 19,177 
+ 
+ 53,841 
+ 
+ 40,702 
+
+Weighted average number of shares oustanding 
+ 89,692 
+ 
+ 87,845 
+ 
+ 89,133 
+ 
+ 87,916 
+
+Basic net income per share 
+ 0.27 
+ 
+ 0.22 
+ 
+ 0.60 
+ 
+ 0.46 
+
+Diluted Net Income per Share 
+ 
+ Net income 
+ 23,926 
+ 
+ 19,177 
+ 
+ 53,841 
+ 
+ 40,702 
+
+Weighted average number of shares oustanding 
+ 89,692 
+ 
+ 87,845 
+ 
+ 89,133 
+ 
+ 87,916 
+
+Dilutive effect of stock options 
+ 2,922 
+ 
+ 2,037 
+ 
+ 2,646 
+ 
+ 2,571 
+
+Adjusted weighted average number of shares 
+ 
+ outstanding 
+ 92,614 
+ 
+ 89,882 
+ 
+ 91,779 
+ 
+ 90,487 
+
+Diluted net income per share 
+ 0.26 
+ 
+ 0.21 
+ 
+ 0.59 
+ 
+ 0.45 
+
+8. 
+ 
+ Comprehensive
+Income 
+
+Comprehensive
+income includes net income and other comprehensive income (OCI). OCI refers to changes in
+net assets from transactions and other events, and circumstances other than transactions
+with stockholders. These changes are recorded directly as a separate component of
+Stockholders Equity and excluded from net income. The only other comprehensive
+income item for the Corporation relates to foreign currency translation adjustments
+pertaining to those subsidiaries not using the U.S. dollar as their functional currency
+net of derivative gains or losses. 
+
+65 
+
+COGNOS INCORPORATED CONDENSED NOTES TO THE
+CONSOLIDATED FINANCIAL STATEMENTS 
+(Unaudited) 
+(All amounts in U.S.
+dollars, unless otherwise stated) 
+(In accordance with CDN
+GAAP) 
+
+The
+components of comprehensive income were as follows 000 s): 
+
+Three months ended November 30, 
+ 
+ Nine months ended November 30, 
+
+2003 
+ 
+ 2002 
+ 
+ 2003 
+ 
+ 2002 
+
+Net income 
+ 
+ 23,926 
+ 
+ 19,177 
+ 
+ 53,841 
+ 
+ 40,702 
+
+Other comprehensive income: 
+ 
+ Foreign currency translation adjustments 
+ 2,931 
+ 
+ (286) 
+ 9,267 
+ 
+ 473 
+
+Comprehensive income 
+ 26,857 
+ 
+ 18,891 
+ 
+ 63,108 
+ 
+ 41,175 
+
+9. 
+ 
+ Segmented
+Information 
+
+The
+Corporation has one reportable segment computer software products. 
+
+10. 
+ 
+ Stockholders Equity 
+
+The
+Corporation issued 543,000 common shares valued at 8.9 million, and 326,000 common shares
+valued at 4.1 million during the quarters ended November 30, 2003 and November 30, 2002,
+respectively. The Corporation issued 1,769,000 common shares valued at 27.0 million and
+755,000 common shares, valued at 9.8 million during the nine months ended November 30,
+2003 and November 30, 2002, respectively. The issuance of shares in both periods was
+pursuant to the Corporation s stock purchase plan and the exercise of stock options
+by employees, officers and directors. 
+
+The
+Corporation did not repurchase common shares during the quarter and nine months ended
+November 30, 2003, but repurchased 342,000 common shares valued at 6.8 million and
+910,000 common shares valued at 20.0 million during the three and nine months ended
+November 30, 2002. Repurchased shares were part of an open market share repurchase
+program, except 180,000 shares purchased during the quarter ended August 31, 2002 which
+were purchased under a secondary offering of the Corporation s common shares. 
+
+Stockholder s
+equity increased by 215,000 and 148,000 for the quarter ended November 30, 2003 and
+November 30, 2002, respectively due to the amortization of the deferred compensation
+related to the restricted share unit plan. For the nine month periods ended November 30,
+2003 and November 30, 2002, stockholder s equity increased by 605,000 and 518,000,
+respectively because of this amortization. 
+
+66 
+
+COGNOS INCORPORATED CONDENSED NOTES TO THE
+CONSOLIDATED FINANCIAL STATEMENTS 
+(Unaudited) 
+(All amounts in U.S.
+dollars, unless otherwise stated) 
+(In accordance with CDN
+GAAP) 
+
+11. 
+ 
+ Liabilities
+in Connection with Acquisition 
+
+The
+Corporation undertook a restructuring plan in conjunction with the acquisition of Adaytum
+during January 2003. In accordance with Emerging Issues Committee (EIC) No. 42, Costs
+Incurred On Business Combinations (EIC 42), the liability associated with this
+restructuring is considered a liability assumed in the purchase price allocation. This
+restructuring primarily relates to involuntary employee separations of approximately 90
+employees of Adaytum, accruals for abandoning leased premises of Adaytum and related
+write-downs of leasehold improvements as well as asset write-downs of Adaytum. The
+employee separations impact all functional groups and geographic regions of Adaytum. The
+remaining accrual is included on the balance sheet as accrued charges and salaries,
+commissions, and related items. All amounts excluding lease payments are expected to be
+paid during fiscal 2004. Outstanding balances for the lease payments will be paid over the
+lease term unless settled earlier. The Corporation does not believe that any unresolved
+contingencies, purchase price allocation issues, or additional liabilities exist that
+would result in a material adjustment to the acquisition cost allocation. 
+
+000s) 
+ Employee separations 
+ Other restructuring accruals 
+ Total accrual 
+ Asset write- downs 
+ Total 
+
+Restructuring 
+ 
+ 3,888 
+ 
+ 3,976 
+ 
+ 7,864 
+ 
+ 768 
+ 
+ 8,632 
+
+Cash payments 
+ (248) 
+ (11) 
+ (259) 
+ -- 
+ 
+ (259) 
+ 
+ Asset write-downs 
+ -- 
+ 
+ -- 
+ 
+ -- 
+ 
+ (768) 
+ (768) 
+
+Balance as at 
+ 
+ February 28, 2003 
+ 3,640 
+ 
+ 3,965 
+ 
+ 7,605 
+ 
+ -- 
+ 
+ 7,605 
+
+Cash payments 
+ 3,384 
+ 
+ 311 
+ 
+ 3,695 
+ 
+ -- 
+ 
+ 3,695 
+
+Balance as at 
+ 
+ November 30, 2003 
+ 256 
+ 
+ 3,654 
+ 
+ 3,910 
+ 
+ -- 
+ 
+ 3,910 
+
+12. 
+ 
+ Comparative
+Results 
+
+Certain
+of the prior period s figures have been reclassified in order to conform to the
+presentation adopted during the current fiscal year. The Corporation has updated its
+income statement presentation to segregate from selling, general, and administrative
+expenses 17,599,000 and 50,219,000 for the three and nine months ended November 30,
+2002, respectively and created a new line item for the cost of providing services.
+Additionally, the Corporation has segregated from selling, general, and administrative
+expenses 1,969,000 and 6,962,000 for the three and nine months ended November 30, 2002,
+respectively and created a new line item for amortization of intangible assets within
+operating expenses. This reclassification was made to provide more information to the
+users of the Corporation s financial statements. This change in presentation does not
+affect previously reported assets, liabilities, or results of operations. 
+
+67 
+
+COGNOS INCORPORATED CONDENSED NOTES TO THE
+CONSOLIDATED FINANCIAL STATEMENTS 
+(Unaudited) 
+(All amounts in U.S.
+dollars, unless otherwise stated) 
+(In accordance with CDN
+GAAP) 
+
+13. 
+ 
+ New
+Accounting Pronouncements 
+
+Stock-Based
+Compensation and Other Stock-Based Payments 
+
+During
+September 2003, CICA Handbook section 3870 (CICA 3870), Stock-Based Compensation and
+other Stock-Based Payments was amended. Under Canadian GAAP, this amendment requires a
+fair value based method for accounting for stock-based compensation, and provides
+alternative methods of transition for the change to this method. The provisions of this
+amendment are effective for the Corporation s fiscal year 2005 and apply to all
+employee grants. The Corporation will voluntarily adopt the provisions of this statement
+in the fourth quarter of fiscal 2004 retroactive to the beginning of the fiscal year. The
+Corporation currently discloses the effects of expensing stock-based compensation costs
+using the fair value based method of accounting in Note 3 to the consolidated financial
+statements. 
+
+68 
+
+</EX-99.1>
+
+<EX-99.2>
+ 8
+ cognos30248_ex992.htm
+ MANAGEMENT'S DISCUSSION & ANALYSIS
+
+Cognos Exhibit 99.2 
+
+Exhibit 99.2 
+
+COGNOS INCORPORATED 
+
+MANAGEMENT S
+DISCUSSION AND ANALYSIS OF 
+FINANCIAL CONDITION AND RESULTS OF OPERATIONS-CANADIAN
+SUPPLEMENT 
+ (in United States
+dollars, unless otherwise indicated, and in accordance with CDN GAAP) 
+
+The following Management s
+Discussion and Analysis of Financial Condition and Results of Operations-Canadian
+Supplement Canadian Supplement should be read in conjunction with our
+Management s Discussion and Analysis of Financial Condition and Results of Operations MD A included in Item 2 of this quarterly report. The Canadian
+Supplement should also be read in conjunction with the unaudited Consolidated Financial
+Statements and Notes prepared in accordance with U.S. GAAP (included in Item 1), the
+unaudited Consolidated Financial Statements and Notes prepared in accordance with Canadian
+generally accepted accounting principles Canadian GAAP (included as exhibit
+99.1) and the audited Consolidated Financial Statements and Notes included in our Annual
+Information Form for the fiscal year ended February 28, 2003. 
+
+The following contains
+forward-looking statements and should be read in conjunction with the factors set forth in
+the Certain Factors That May Affect Future Results section of the MD A in
+Item 2 of this quarterly report. All dollar amounts in this Canadian Supplement are in
+thousands of United States dollars unless otherwise stated. The Canadian Supplement has
+been prepared by management to provide an analysis of the material differences between
+Canadian GAAP and U.S. GAAP on our financial condition and results of operations. 
+
+RESULTS OF OPERATIONS 
+
+Three months ended November 30, 
+ 
+ Nine months ended November 30, 
+
+2003 
+ 
+ 2002 
+ 
+ 2003 
+ 
+ 2002 
+
+Income before taxes - U.S. GAAP 
+ 
+ 31,214 
+ 
+ 29,308 
+ 
+ 73,062 
+ 
+ 64,087 
+
+Income before taxes - Canadian GAAP 
+ 35,338 
+ 
+ 30,277 
+ 
+ 83,467 
+ 
+ 64,320 
+
+Income tax provision - U.S. GAAP 
+ 6,966 
+ 
+ 9,379 
+ 
+ 18,265 
+ 
+ 20,508 
+
+Income tax provision - Canadian GAAP 
+ 11,412 
+ 
+ 11,100 
+ 
+ 29,626 
+ 
+ 23,618 
+
+Net income per share diluted - U.S. GAAP 
+ 0.26 
+ 
+ 0.22 
+ 
+ 0.60 
+ 
+ 0.48 
+
+Net income per share diluted - Canadian GAAP 
+ 0.26 
+ 
+ 0.21 
+ 
+ 0.59 
+ 
+ 0.45 
+
+69 
+
+COGNOS INCORPORATED 
+
+MANAGEMENT S
+DISCUSSION AND ANALYSIS OF 
+FINANCIAL CONDITION AND RESULTS OF OPERATIONS-CANADIAN
+SUPPLEMENT 
+ (in United States
+dollars, unless otherwise indicated, and in accordance with CDN GAAP) 
+
+Acquired in-process
+technology 
+
+Canadian GAAP requires capitalization
+of the value assigned to acquired in-process technology and amortization of this value
+over its estimated useful life. Under U.S. GAAP, this value is written off immediately.
+The impact of this difference was to decrease income before taxes by 0.5 million and 1.2
+million for the three months ended November 30, 2003 and November 30, 2002,
+respectively, compared to U.S. GAAP. For the nine-month periods ended November 30, 2003
+and November 30, 2002, the impact of this difference was to decrease income before taxes
+by 1.5 million and 4.6 million, respectively, as compared to U.S. GAAP. 
+
+Investment tax credits 
+
+Canadian GAAP requires that
+investment tax credits be deducted from operating expense. Under U.S. GAAP, these amounts
+are deducted from the income tax provision. The impact of this difference was to increase
+income before taxes and the income tax provision by 4.6 million and 2.2 million for the
+three months ended November 30, 2003 and November 30, 2002, respectively compared to
+U.S. GAAP. For the nine-month periods ended November 30, 2003 and November 30, 2002, the
+impact of this difference was to increase income before taxes and the income tax provision
+by 11.9 million and 4.8 million, respectively as compared to U.S. GAAP. 
+
+Deferred income taxes
+related to acquired in-process technology 
+
+The above noted difference related to
+the capitalization of in-process technology created an additional deferred income tax
+liability on the Canadian GAAP balance sheet as the capitalization of the in-process
+technology created a temporary difference. The amortization of this balance decreased the
+Canadian GAAP income tax provision by 0.2 million and 0.5 million for the quarters ended
+November 30, 2003 and November 30, 2002, respectively as compared to U.S. GAAP.
+For the nine-month periods ended November 30, 2003 and November 30, 2002, the amortization
+of this balance decreased the Canadian GAAP income tax provision by 0.5 million and 1.7
+million, respectively as compared to U.S. GAAP. 
+
+70 
+
+</EX-99.2>
+

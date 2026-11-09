@@ -1,0 +1,1079 @@
+<Header>
+<FileStats>
+    <FileName>20040129_10-Q_edgar_data_49728_0000049728-04-000002.txt</FileName>
+    <GrossFileSize>54493</GrossFileSize>
+    <NetFileSize>41427</NetFileSize>
+    <NonText_DocumentType_Chars>0</NonText_DocumentType_Chars>
+    <HTML_Chars>522</HTML_Chars>
+    <XBRL_Chars>0</XBRL_Chars>
+    <XML_Chars>0</XML_Chars>
+    <N_Exhibits>4</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0000049728-04-000002.hdr.sgml : 20040129
+<ACCEPTANCE-DATETIME>20040129123842
+ACCESSION NUMBER:		0000049728-04-000002
+CONFORMED SUBMISSION TYPE:	10-Q
+PUBLIC DOCUMENT COUNT:		5
+CONFORMED PERIOD OF REPORT:	20031226
+FILED AS OF DATE:		20040129
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			IEC ELECTRONICS CORP
+		CENTRAL INDEX KEY:			0000049728
+		STANDARD INDUSTRIAL CLASSIFICATION:	PRINTED CIRCUIT BOARDS [3672]
+		IRS NUMBER:				133458955
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0930
+
+	FILING VALUES:
+		FORM TYPE:		10-Q
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-06508
+		FILM NUMBER:		04551392
+
+	BUSINESS ADDRESS:	
+		STREET 1:		105 NORTON ST
+		CITY:			NEWARK
+		STATE:			NY
+		ZIP:			14513
+		BUSINESS PHONE:		3153317742
+
+	MAIL ADDRESS:	
+		STREET 1:		PO BOX 271
+		CITY:			NEWARK
+		STATE:			NY
+		ZIP:			14513
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	INTERCONTINENTAL ELECTRONICS CORP
+		DATE OF NAME CHANGE:	19730601
+
+</SEC-Header>
+</Header>
+
+ 
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ SHOKaKH2QFw/oRTS50CpSlEZN4T/RH2Jswjknj6eUC4qks2LB5S1XQz0Cc7ZrFuZ
+ M3zr2HyeLDiLSrRniI7owQ==
+
+ 0000049728-04-000002.txt : 20040129
+
+10-Q
+ 1
+ iec10q1q2004.txt
+ 1ST QUARTER FISCAL YEAR 2004 REPORT
+ 
+ UNITED STATES
+
+ SECURITIES AND EXCHANGE COMMISSION
+
+ Washington, D.C. 20549
+
+ FORM 10-Q
+
+X Quarterly Report Pursuant to Section 13 or 15(d) of the Securities Exchange -
+- -
+Act of 1934
+
+For the quarterly period ended December 26, 2003
+
+Commission file Number 0-6508
+
+ IEC ELECTRONICS CORP.
+ -----------------------------------------------------
+ (Exact name of registrant as specified in its charter.)
+
+ Delaware 13-3458955
+ ----------------------------- -----------------------------------
+(State or other jurisdiction of (I.R.S. Employer Identification No.)
+ incorporation or organization)
+
+ 105 Norton Street, Newark, New York 14513
+- --------------------------------------------------------------------------------
+ (Address of Principal Executive Offices (Zip Code)
+
+ (315) 331-7742
+
+- --------------------------------------------------------------------------------
+ Registrant's telephone number, including area code:
+
+Indicate by check mark whether the registrant(1) has filed all reports required
+to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during
+the preceding 12 months (or for such shorter period that the registrant was
+required to file such reports), and (2) has been subject to such filing
+requirements for the past 90 days.
+
+ YES [X] NO [ ]
+
+ Indicate by check mark whether the registrant is an accelerated filer (as
+defined in Rule 12b-2 of the Exchange Act).
+
+ YES [ ] NO [X]
+
+Indicate the number of shares outstanding of each of the issuer's classes of
+common stock, as of the latest practical date:
+
+ Common Stock, 0.01 Par Value - 8,067,820 shares as of January 28, 2004.
+
+Page 1 of 12
+
+PART 1 FINANCIAL INFORMATION
+ Page
+ Number
+
+ Item 1. Financial Statements
+
+ Consolidated Balance Sheets as of:
+ December 26, 2003 (Unaudited) and September 30, 2003.......... 3
+
+ Consolidated Statements of Operations for the three months
+ ended: December 26, 2003 (Unaudited) and December 27, 2002
+ (Unaudited)................................................... 4
+
+ Consolidated Statements of Cash Flows for the three months
+ ended: December 26, 2003 (Unaudited) and December 27, 2002
+ (Unaudited)................................................... 5
+
+ Notes to Consolidated Financial Statements (Unaudited)........ 6
+
+ Item 2. Management's Discussion and Analysis of
+ Financial Condition and Results of Operations.................... 9
+
+ Item 3. Quantitative and Qualitative Disclosures about Market Risk....... 11
+
+ Item 4. Controls and Procedures.......................................... 11
+
+PART II OTHER INFORMATION
+
+Item 1. Legal Proceedings.............................................. 12
+
+ Item 2. Changes in Securities.......................................... 12
+
+ Item 3. Defaults Upon Senior Securities................................ 12
+
+ Item 4. Submission of Matters to a Vote of Security Holders............ 12
+
+ Item 5. Other Information.............................................. 12
+
+ Item 6. Exhibits and Reports on Form 8-K............................... 12
+
+Page 2 of 12
+
+PART 1 FINANCIAL INFORMATION
+
+Item 1 -- Financial Statements
+
+IEC ELECTRONICS CORP. AND SUBSIDIARIES
+ CONSOLIDATED BALANCE SHEETS
+
+ DECEMBER 26, 2003 AND SEPTEMBER 30, 2003
+ (in thousands)
+ 
+ DECEMBER 26,2003 SEPTEMBER 30,2003
+ ---------------- -----------------
+ ASSETS (Unaudited)
+
+CURRENT ASSETS:
+ Cash 496 793
+ Accounts receivable 3,140 4,004
+ Inventories 1,876 1,633
+ Deferred income taxes 250 250
+ Other current assets 118 329
+ Current assets-discontinued operations 54 121
+ ---------- ----------
+ Total current assets 5,934 7,130
+ ---------- ----------
+FIXED ASSETS:
+ Land and land improvements 768 768
+ Building and improvements 3,995 3,995
+ Machinery and equipment 43,461 46,702
+ Furniture and fixtures 5,870 5,870
+ ---------- ----------
+SUB-TOTAL GROSS PROPERTY 54,094 57,335
+LESS ACCUMULATED DEPRECIATION (51,182) (54,161)
+ ---------- ----------
+ 2,912 3,174
+OTHER NON-CURRENT ASSETS 180 202
+ ---------- ----------
+ 9,026 10,506
+ ========== ==========
+
+ LIABILITIES AND SHAREHOLDERS' EQUITY
+
+CURRENT LIABILITIES:
+ Bank borrowings and current portion of
+ long-term debt 1,222 1,277
+ Accounts payable 1,598 2,740
+ Accrued payroll and related expenses 624 794
+ Other accrued expenses 696 675
+ Other current liabilities -
+ discontinued operations 210 216
+ ---------- ----------
+ Total current liabilities 4350 5,702
+ ---------- ----------
+LONG TERM VENDOR NOTES 371 456
+LONG TERM BANK DEBT 758 934
+ ---------- ----------
+TOTAL LIABILITIES 5,479 7,092
+ ---------- ----------
+
+SHAREHOLDERS' EQUITY:
+ Preferred stock, par value .01 per share
+ Authorized - 500,000 shares;
+ Issued and outstanding - none - -
+ Common stock, par value .01 per share
+ Authorized - 50,000,000 shares
+ Issued - 8,052,710 and 8,021,960 shares,
+ respectively (net of 573 treasury shares) 69 69
+ Additional paid-in capital 38,480 38,479
+ Accumulated deficit (34,910) (35,042)
+ Accumulated other comprehensive loss -
+ Cumulative translation adjustments (92) (92)
+ ---------- ----------
+ Total shareholders' equity 3,547 3,414
+ ---------- ----------
+ 9,026 10,506
+ ========== ==========
+ 
+ The accompanying notes are an integral part of these financial statements
+
+Page 3 of 12
+
+IEC ELECTRONICS CORP. AND SUBSIDIARIES
+ CONSOLIDATED STATEMENTS OF OPERATIONS
+ FOR THE THREE MONTHS ENDED DECEMBER 26, 2003 AND DECEMBER 27, 2002
+ (in thousands, except share and per share data)
+
+3 MONTHS ENDED 3 MONTHS ENDED
+ DECEMBER 26, 2003 DECEMBER 27, 2002
+ -------------- ------------------
+ (Unaudited) (Unaudited)
+
+Net sales 6,519 9,601
+Cost of sales 5,948 8,612
+ ------- -------
+ Gross profit 570 989
+ ------- -------
+Selling and administrative expenses 579 753
+Restructuring benefit - (63)
+ ------- -------
+ Operating (loss) profit (9) 299
+
+Interest and financing expense (90) (197)
+Forgiveness of accounts payable - 245
+Other income, net 231 96
+ ------- -------
+Net income before income taxes 132 443
+
+Income taxes - -
+ ------- -------
+Net income from continuing
+ operations 132 443
+ --------- ----------
+Net income 132 443
+ ========= ==========
+
+Net income per common and common equivalent share:
+
+ Basic and Diluted
+ Income available to common
+ shareholders 0.02 0.06
+
+Weighted average number of common and common equivalent shares outstanding:
+
+ Basic 8,042,188 7,691,188
+ Diluted 8,764,870 7,838,870
+
+The accompanying notes are an integral part of these financial statements.
+
+Page 4 of 12
+
+IEC ELECTRONICS CORP. AND SUBSIDIARIES
+ CONSOLIDATED STATEMENTS OF CASH FLOWS
+ FOR THE THREE MONTHS ENDED DECEMBER 26, 2003 AND DECEMBER 27, 2002
+ (in thousands)
+
+3 MONTHS 3 MONTHS
+ ENDED ENDED
+ DECEMBER 26, DECEMBER 27,
+ 2003 2002
+ ----------- ------------
+ (Unaudited) (Unaudited)
+ 
+CASH FLOWS FROM OPERATING ACTIVITIES:
+ Net income 132 443
+ Depreciation 290 414
+ Gain on sale of fixed assets (215) (50)
+ Changes in operating assets and liabilities:
+ Accounts receivable 864 902
+ Inventories (243) 565
+ Other current assets 211 (19)
+ Accounts payable (1,143) 8
+ Accrued payroll and related expenses (170) (147)
+ Other accrued expenses 21 (333)
+ -------- --------
+ Net cash flows from operating activities (253) 1,783
+ -------- --------
+CASH FLOWS FROM INVESTING ACTIVITIES:
+ Proceeds from sale of property 215 547
+ Purchases of plant, property & equipment (7) -
+ -------- -------
+ Net cash flows from investing activities 208 547
+ -------- --------
+CASH FLOWS FROM FINANCING ACTIVITIES:
+ Repayments under line of credit agreements (315) (1,479)
+ Debt issuance costs - (139)
+ Proceeds from exercise of stock options 2 -
+ -------- ---------
+ Net cash flows from financing activities (313) (1,618)
+ -------- ---------
+
+ Cash from (used in) discontinued operations 61 (712)
+ -------- ---------
+
+ Change in cash and cash equivalents (297) -
+ Cash and cash equivalents at beginning of period 793 -
+ -------- ---------
+ Cash and cash equivalents at end of period 496 -
+ ======== =========
+
+Supplemental Disclosures of Cash Flow Information:
+ Cash paid during the period for:
+ Interest 90 127
+ ======== =========
+ Income taxes - -
+ ======== =========
+ Conversion of accounts payable to long-term payable - 736
+ ======== =========
+NON-CASH INVESTING AND FINANCING ACTIVITIES:
+ Conversion of accounts payable to debt - 1,211
+ ======== =========
+
+The accompanying notes are an integral part of these financial statements.
+
+Page 5 of 12
+
+IEC ELECTRONICS CORP. AND SUBSIDIARIES
+
+ NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+ DECEMBER 26, 2003
+
+(1) Business and Summary of Significant Accounting Policies
+
+Business
+- --------
+
+ IEC Electronics Corp. ("IEC", "the Company") is an independent electronics
+manufacturing services ("EMS") provider of complex printed circuit board
+assemblies and electronic products and systems. The Company provides high
+quality electronics manufacturing services with state-of-the-art manufacturing
+capabilities and production capacity. Utilizing computer controlled
+manufacturing and test machinery and equipment, the Company provides
+manufacturing services employing surface mount technology ("SMT") and
+pin-through-hole ("PTH") interconnection technologies. As an independent
+full-service EMS provider, the Company offers its customers a wide range of
+manufacturing and management services, on either a turnkey or consignment basis,
+including design, prototype, material procurement and control, manufacturing and
+test engineering support, statistical quality assurance, complete resource
+management and distribution. The Company's strategy is to cultivate strong
+manufacturing relationships with established and emerging original equipment
+manufacturers ("OEMs").
+
+Consolidation
+- -------------
+
+ The consolidated financial statements include the accounts of IEC and its
+wholly-owned subsidiary, IEC Electronicos de Mexico ("Mexico"), (collectively,
+"IEC"). Operations in Texas and Mexico were closed in July 2002. All significant
+intercompany transactions and accounts have been eliminated.
+
+Revenue Recognition
+- -------------------
+
+ The Company recognizes revenue upon shipment of product for both turnkey
+and consignment contracts.
+
+Cash and Cash Equivalents
+- -------------------------
+
+ Cash and cash equivalents include highly liquid investments with original
+maturities of three months or less. The Company's cash and cash equivalents are
+held and managed by institutions which follow the Company's investment policy.
+The fair value of the Company's financial instruments approximates carrying
+amounts due to the relatively short maturities and variable interest rates of
+the instruments, which approximate current market interest rates.
+
+Inventories
+- -----------
+
+ Inventories are stated at the lower of cost (first-in, first-out) or
+market. The major classifications of inventories are as follows at period end
+(in thousands):
+
+ December 26, 2003 September 30, 2003
+ ---------------- ------------------
+ (Unaudited)
+ Raw materials 857 1,128
+ Work-in-process 946 498
+ Finished goods 73 7
+ ---------------- ----------------
+ 1,876 1,633
+ ================ ================
+
+Page 6 of 12
+ 
+ IEC ELECTRONICS CORP. AND SUBSIDIARIES
+
+ NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+ DECEMBER 26, 2003
+
+Unaudited Financial Statements
+- -------------------------------
+
+ The accompanying unaudited financial statements as of December 26, 2003,
+and for the three months ended December 26, 2003 have been prepared in
+accordance with generally accepted accounting principles for interim financia1
+information. In the opinion of management, all adjustments considered necessary
+for a fair presentation, which consist solely of normal recurring adjustments
+have been included. The accompanying financial statements should be read in
+conjunction with the financial statements and notes thereto included in the
+Company's September 30, 2003 Annual Report on Form 10-K.
+
+Earnings Per Share
+- ------------------
+
+ Net income per share is computed in accordance with Statement of Financial
+Accounting Standards No. 128, "Earnings Per Share". Basic earnings per share is
+calculated by dividing income available to common shareholders by the
+weighted-average number of shares outstanding for each period. Diluted earnings
+per common share is calculated by adjusting the weighted-average shares
+outstanding assuming conversion of all potentially dilutive stock options.
+
+New Pronouncements
+- ------------------
+
+ In November 2002, the EITF reached a consensus on issue 00-21, "Revenue
+Arrangements with Multiple Deliverables" (EITF 00-21). EITF 00-21 addresses
+revenue recognition on arrangements encompassing multiple elements that are
+delivered at different points in time, defining criteria that must be met for
+elements to be considered to be a separate unit of accounting. If an element is
+determined to be a separate unit of accounting, the revenue for the element is
+recognized at the time of delivery. EITF 00-21 is effective for revenue
+arrangements entered into in fiscal periods beginning after June 15, 2003. The
+Company adopted this standard as of OCtober 1, 2003 with no material impact on
+its financial position, results of operations or cash flows.
+
+(2) Discontinued Operations
+- ---------------------------
+
+ On June 18, 2002, the Company signed an Asset Purchase Agreement to sell
+substantially all of the assets of IEC-Mexico to Electronic Product Integration
+Corporation (EPI) for 730,000 plus payments of an Earn-out Amount. No earn-out
+amounts were received. Under the terms of a related agreement, the Company and
+IEC-Mexico were also released of all of their lease obligations to the landlord
+of the Mexican facility. The Company recorded an after-tax loss on the sale of
+the business of approximately 3.1 million in fiscal 2002. The reserve balance
+at December 26, 2003 was 211,000.
+
+ On February 28, 2003, the Company sold its Edinburg, Texas facility for
+ 875,000 and completed its restructuring initiative. The Company recorded a
+ 184,000 restructuring benefit during Q2 2003 due to certain facility payments
+accrued in a prior fiscal year that will no longer be paid out.
+ 
+ Assets and liabilities of discontinued operations consisted of the
+following:
+ 
+ December 26, 2003 September 30, 2003
+ ----------------- ------------------
+ (Unaudited)
+ 
+Current assets 54 121
+Accrued expenses 210 216
+ ------- --------
+Net assets of discontinued operations (156) (95)
+ ========== ==========
+
+Page 7 of 12
+
+IEC ELECTRONICS CORP. AND SUBSIDIARIES
+
+ NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+ DECEMBER 27, 2002
+
+(3) Stock Option Plans
+- ----------------------
+
+ The Company applies Accounting Principles Board Opinion No. 25, "Accounting
+for Stock Issued to Employees", and related interpretations in accounting for
+its stock option plans. Accordingly, no compensation expense has been recognized
+for its stock option plans. SFAS No. 123, "Accounting for Stock-Based
+Compensation", as amended by SFAS No. 148, "Accounting for Stock-Based
+Compensation - Transition and Disclosure", requires disclosure of pro forma net
+income per share as if the fair valued-based method had been applied in
+measuring compensation cost for the stock-based awards. The following table
+illustrates the effect on net earnings and earnings per share had the Company
+adopted the fair value based method of accounting for stock-based employee
+compensation for all periods presented.
+
+3 MONTHS ENDED 3 MONTHS ENDED
+ DECEMBER 26, 2003 DECEMBER 27, 2002
+ (Unaudited) (Unaudited)
+ ----------------- -----------------
+ 
+Net earnings, as reported 132 443
+
+Pro forma net earnings 116 443
+
+Earnings per share:
+ Basic - as reported 0.02 0.06
+ Basic - pro forma 0.01 0.06
+ Diluted - as reported 0.02 0.06
+ Diluted - pro forma 0.01 0.06
+
+(4) Litigation
+- --------------
+
+ Except as set forth below, there are no material legal proceedings pending
+to which the Company or any of its subsidiaries is a party or to which any of
+the Company's or subsidiaries' property is subject. To our knowledge, there are
+no material legal proceedings to which any director, officer or affiliate of the
+Company, or any beneficial owner of more than 5 percent (5 of Common Stock, or
+any associate of any of the foregoing, is a party adverse to the Company or any
+of its subsidiaries.
+
+ An action was commenced in United States District Court for the Southern
+Division of Texas against the Company and several other corporate defendants, on
+August 12,2002. The plaintiffs allege a "toxic tort" action against the
+defendants, for exposure to lead, lead dust, chemicals and other substances used
+in the manufacture of products by various defendants. The essence of the
+complaint relates to alleged "in utero" exposure to the circulatory system of
+the then unborn children, resulting in alleged tissue toxicity through the
+mothers, causing damage to the central nervous system, brain and other organs of
+the fetus. The complaint alleges theories of negligence, gross negligence,
+strict liability, breach of warranty and fraud/negligent misrepresentation, and
+claims unspecified damages for pain and suffering, a variety of special damages,
+punitive damages and attorneys' fees. Royal & Sunalliance Insurance Company has
+agreed to provide a defense of the claims with a reservation of rights, but has
+expressly excluded any coverage for the claim for punitive damages. The Company
+has denied liability and the case is still in the discovery phase. A trial is
+tentatively scheduled for March 2004.
+
+ On August 13, 2003 an action was commenced by General Electric Company
+("GE"), in the state of Connecticut against the Company and Vishay
+Intertechnology, Inc. The action alleges causes of action for breach of a
+manufacturing services contract which had an initial value of 4.4 million,
+breach of express warranty, breach of implied warranty and a violation of the
+Connecticut Unfair Trade Practices Act. Vishay supplied a component that the
+Company used to assemble printed circuit boards for GE that GE contends failed
+to function properly requiring a product recall. GE claims damages "in excess of
+ 15,000" plus interest and attorneys' fees. The Company has made a motion to
+dismiss the action in Connecticut for lack of jurisdiction and the motion is
+pending. The position of the Company is that the contract with GE was
+substantially completed and that it has meritorious defenses and a cross claim
+against Vishay.
+
+Page 8 of 12
+
+Item 2 -- Management's Discussion and Analysis of Financial Condition
+ and Results of Operations
+ -----------------------------------------------------------
+ Results of Operations - Three Months Ended December 26, 2003,
+ Compared to the Three Months Ended December 27, 2002.
+ -----------------------------------------------------------
+
+ Net sales for the three month period ended December 26, 2003, were 6.5
+million, compared to 9.6 million for the comparable period of the prior fiscal
+year, a decrease of 32 percent. The decrease in sales is due to a decline in
+orders from one of our major customers, and a variety of design and material
+issues that resulted in shipment delays to another large customer. Turnkey sales
+were 82 percent of net sales in the quarter as compared to 92 percent for the
+comparable period of the prior year.
+
+ Five customers accounted for 86 of our sales for the quarter ended
+December 26, 2003.
+
+ Gross profit was 0.6 million or 8.7 percent of sales for the three month
+period ended December 26, 2003, versus 1.0 million or 10.3 percent of sales in
+the comparable period of the prior fiscal year. The decrease in gross profit
+percentage is primarily due to fixed overhead costs being spread over fewer
+sales dollars.
+
+ Selling and administrative expenses decreased to 0.6 million for the three
+month period ended December 26, 2003, from 0.8 million in the comparable period
+of the prior fiscal year, a decrease of 23 percent. This decrease is primarily
+due to lower sales commissions. As a percentage of net sales, selling and
+administrative expenses increased to 8.9 percent from 7.8 percent in comparison
+to the same quarter of the prior fiscal year. The increase is due to fixed costs
+being spread over fewer sales dollars.
+
+ We recorded a benefit from restructuring of 63,000 in the three months
+ended December 27, 2002. This was due to certain severance payments accrued in
+the 2002 fiscal year that were not paid out.
+
+ We had other income of 231,000 for the three months ended December 26,
+2003. Of the other income, 215,000 was related to a gain on the sale of excess
+equipment.
+
+ We recorded approximately 184,000 of special charges in the three months
+ended December 27, 2002, due to bank and consulting fees incurred to comply with
+new bank requirements under the then current amendment to the banking agreement,
+of which 102,000 was included in interest and financing expense.
+
+ We have recorded no benefit from income tax as a result of our cumulative
+net losses, and accordingly, has a large valuation allowance against our net
+deferred tax asset including the net operating loss carry-forward.
+
+ Net income for the three months ended December 26, 2003 was 0.1 million
+versus a net income of 0.4 million in the comparable quarter of the prior
+fiscal year.
+
+ Diluted income per share was 0.02 as compared to diluted income per share
+of 0.06 in the comparable quarter of the prior fiscal year.
+
+Liquidity and Capital Resources
+- -------------------------------
+
+ As reflected in the Consolidated Statements of Cash Flows for the three
+months ending December 26, 2003, net cash was provided by: operating activities 0.2 million) and investing activities 0.2 million). Net cash was used to pay
+down bank debt 0.3 million). Depreciation for the three month periods ending
+December 26, 2003 and December 27, 2002 was 0.3 million and 0.4 million,
+respectively. Lower sales vs. the prior quarter resulted in a 0.9 million
+reduction in accounts receivable. Inventory levels increased by 0.2 million due
+to customer design and material issues that caused shipment delays to a large
+customer.
+
+ We currently have a 4,450,000 Senior Secured Facility (the "Facility") and
+a 2,200,000 Secured Term Loan (the "Term Loan"). The Facility, which matures on
+January 14, 2006, bears interest at the rate of prime plus 2 . It involves a
+revolving line of credit for up to 3,850,000 based upon advances on eligible
+accounts receivable and inventory and a term loan of 600,000, secured by
+machinery and equipment, to be amortized over a 36 month period. The Term Loan
+is secured by a general security agreement, and indirectly by the assignment of
+a certain promissory note and a first mortgage on the IEC plant in Newark, New
+York. It is payable with interest at prime plus 1.5 in monthly installments
+over a period of 3 years, maturing on January 14, 2006. The availability under
+the revolver was 1.4 million on December 26, 2003.
+
+ Page 9 of 12
+
+0, 417,000, and 1,042,000 were outstanding at December 26, 2003 under
+the revolving line of credit with Keltic, the term loan with Keltic and the
+SunTrust loan, respectively.
+
+ The financing agreements contain various affirmative and negative covenants
+including, among others, limitations on the amount available under the revolving
+line of credit relative to the borrowing base, capital expenditures, fixed
+charge coverage ratios, and minimum earnings before interest, taxes,
+depreciation and amortization (EBITDA). We are in compliance with these
+covenants.
+
+Application of Critical Accounting Policies
+- -------------------------------------------
+
+ Our financial statements and accompanying notes are prepared in accordance
+with generally accepted accounting principles in the United States. Preparing
+financial statements requires management to make estimates and assumptions that
+affect the reported amounts of assets, liabilities, revenue, and expenses. These
+estimates and assumptions are affected by management's application of accounting
+policies. Critical accounting policies for us include revenue recognition,
+impairment of long-lived assets, accounting for legal contingencies and
+accounting for income taxes.
+
+ We recognize revenue in accordance with Staff Accounting Bulletin No.101,
+"Revenue Recognition in Financial Statements." Sales are recorded when products
+are shipped to customers. Provisions for discounts and rebates to customers,
+estimated returns and allowances and other adjustments are provided for in the
+same period the related sales are recorded.
+
+ We evaluate our long-lived assets for financial impairment on a regular
+basis in accordance with Statement of Financial Accounting Standards No. 144,
+"Accounting for the Impairment or Disposal of Long-Lived Assets." We evaluate
+the recoverability of long-lived assets not held for sale by measuring the
+carrying amount of the assets against the estimated discounted future cash flows
+associated with them. At the time such evaluations indicate that the future
+discounted cash flows of certain long-lived assets are not sufficient to recover
+the carrying value of such assets, the assets are adjusted to their fair values.
+
+ We are subject to various legal proceedings and claims, the outcomes of
+which are subject to significant uncertainty. Statement of Financial Accounting
+Standards No. 5, "Accounting for Contingencies", requires that an estimated loss
+from a loss contingency should be accrued by a charge to income if it is
+probable that an asset has been impaired or a liability has been incurred and
+the amount of the loss can be reasonably estimated. Disclosure of a contingency
+is required if there is at least a reasonable possibility that a loss has been
+incurred. We evaluate, among other factors, the degree of probability of an
+unfavorable outcome and the ability to make a reasonable estimate of the amount
+of loss. Changes in these factors could materially impact our financial position
+or our results of operations.
+
+ Statement of Financial Accounting Standards No. 109, "Accounting for Income
+Taxes," establishes financial accounting and reporting standards for the effect
+of income taxes. The objectives of accounting for income taxes are to recognize
+the amount of taxes payable or refundable for the current year and deferred tax
+liabilities and assets for the future tax consequences of events that have been
+recognized in an entity's financial statements or tax returns. Judgment is
+required in assessing the future tax consequences of events that have been
+recognized in our financial statements or tax returns. Fluctuations in the
+actual outcome of these future tax consequences could materially impact our
+financial position or our results of operations.
+
+Impact of Inflation
+- -------------------
+
+ The impact of inflation on our operations has been minimal due to the fact
+that we are able to adjust its bids to reflect any inflationary increases in
+cost.
+
+ Page 10 of 12
+
+New Pronouncements
+- ------------------
+
+ In November 2002, the EITF reached a consensus on issue 00-21, "Revenue
+Arrangements with Multiple Deliverables" ("EITF 00-21"). EITF 00-21 addresses
+revenue recognition on arrangements encompassing multiple elements that are
+delivered at different points in time, defining criteria that must be met for
+elements to be considered to be a separate unit of accounting. If an element is
+determined to be a separate unit of accounting, the revenue for the element is
+recognized at the time of delivery. EITF 00-21 is effective for revenue
+arrangements entered into in fiscal periods beginning after June 15, 2003. We
+adopted this standard on October 1, 2003 with no impact on our financial
+position, results of operations or cash flow.
+
+Item 3 -- Quantitative and Qualitative Disclosures About Market Risk
+ ----------------------------------------------------------
+
+ Quantitative and Qualitative Disclosures about Market Risk represents the
+risk of loss that may impact the consolidated financial position, results of
+operations or cash flows of IEC due to adverse changes in financial rates. We
+are exposed to market risk in the area of interest rates. One exposure is
+directly related to its Term Loan and Revolving Credit borrowings under the
+Credit Agreement, due to their variable interest rate pricing. Management
+believes that interest rate fluctuations will not have a material impact on
+IEC's results of operations.
+
+Item 4 -- Controls and Procedures
+ -----------------------
+
+ An evaluation was performed under the supervision and with the
+participation of our management, including our acting Chief Executive Officer
+and Chief Financial Officer, of the effectiveness of the design and operation of
+our disclosure controls and procedures as of the end of the period covered by
+this Quarterly Report on Form 10-Q as required by Rule 13a-15 under the
+Securities Exchange Act of 1934 (the "Exchange Act"). Based on that evaluation,
+our acting Chief Executive Officer and Chief Financial Officer concluded that
+the Company's disclosure controls and procedures were effective as of the end of
+the period covered by the Quarterly Report on 10-Q to provide reasonable
+assurance that information required to be disclosed by the Company in the
+reports that it files or submits under the Exchange Act is recorded, processed,
+summarized and reported within the time period specified in the SEC rules and
+forms.
+
+ In connection with the evaluation described above, our management,
+including our acting Chief Executive Officer and Chief Financial Officer,
+identified no change in our internal control over financial reporting that
+occurred during our fiscal quarter ended December 26, 2003, and that has
+materially affected, or is reasonably likely to materially affect, our internal
+controls over financial reporting.
+
+Forward-looking Statements
+- --------------------------
+
+ Forward-looking statements in this Form 10-Q include, without limitation,
+statements relating to the Company's plans, future prospects, strategies,
+objectives, expectations, intentions and adequacy of resources and are made
+pursuant to the safe harbor provisions of the Private Securities Litigation
+Reform Act of 1995. These statements may be identified by their use of words
+like "plans", "expects", "aims", "believes", "projects", "anticipates",
+"intends", "estimates", "will", "should", "could", and other expressions that
+indicate future events and trends. These forward-looking statements involve
+known and unknown risks, uncertainties and other factors which may cause the
+actual results, performance or achievement of the Company to be materially
+different from any future results, performance or achievements expressed or
+implied by such forward-looking statements. These factors include, among others,
+the following: general economic and business conditions, the timing of orders
+and shipments, availability of material, product mix, changes in customer
+requirements and in the volume of sales to principal customers, competition and
+technological change, the ability of the Company to control manufacturing and
+operating costs, and satisfactory relationships with vendors. The Company's
+actual results of operations may differ significantly from those contemplated by
+such forward-looking statements as a result of these and others factors,
+including factors set forth in the Company's Annual Report on Form 10-K for the
+year ended September 30, 2003 and in other filings with the Securities and
+Exchange Commission.
+
+ Page 11 of 12
+
+PART II. OTHER INFORMATION
+
+Item 1 -- Legal Proceedings
+
+ The description of our legal proceedings set forth in Item 3 of our Annual
+Report on Form 10-K for the fiscal year ended September 30, 2003 is incorporated
+herein by reference.
+
+Item 2 -- Changes in Securities
+
+ None.
+
+Item 3 -- Defaults Upon Senior Securities
+
+ None.
+
+Item 4 -- Submission of Matters to a Vote of Security Holders
+
+ None.
+
+Item 5 -- Other Information
+
+ None.
+
+Item 6 -- Exhibits and Reports on Form 8-K
+
+ a. Exhibits
+
+ The following documents are filed as exhibits to this Report:
+
+ 31.1 Certification of Chief Executive Officer pursuant to Section 302 of
+ the Sarbanes-Oxley Act of 2002
+
+ 31.2 Certification of Chief Executive Officer pursuant to Section 302 of
+ the Sarbanes-Oxley Act of 2002
+
+ 32.1 Certification of Chief Executive Officer pursuant to Section 906 of
+ the Sarbanes-Oxley Act of 2002, 18 U.S.C. Section 1350
+
+ 32.2 Certification of Principal Financial Officer pursuant to Section 906
+ of the Sarbanes-Oxley Act of 2002, 18 U.S.C. Section 1350
+
+b. Reports on Form 8-K
+
+ (ii) A current report on Form 8-K was filed with the Securities and
+Exchange Commission on October 29, 2003. It announced earnings for the three
+months and fiscal year ended September 30, 2003 and a press release relating to
+the earnings was attached thereto.
+
+Page 12 of 12
+
+<EX-31.1 CEO CERT.>
+ 3
+ ex311q104.txt
+ UNDER SECT. 302 SARBANES-OXLEY ACT OF 2002
+ 
+ Exhibit 31.1
+
+ Certification of Chief Executive Officer pursuant to Section 302 of the
+ Sarbanes-Oxley Act of 2002
+
+I, W. Barry Gilbert, certify that:
+
+ 1. I have reviewed this quarterly report on Form 10-Q for the quarterly
+period ended December 26, 2003 of IEC Electronics Corp.;
+
+ 2. Based on my knowledge, this quarterly report does not contain any untrue
+statement of a material fact or omit to state a material fact necessary to make
+the statements made, in light of the circumstances under which such statements
+were made, not misleading with respect to the period covered by this quarterly
+report;
+
+ 3. Based on my knowledge, the financial statements and other financial
+information included in this quarterly report fairly present in all material
+respects the financial condition, results of operations and cash flows of the
+registrant as of, and for, the periods presented in this quarterly report;
+
+ 4. The registrant's other certifying officer and I are responsible for
+establishing and maintaining disclosure controls and procedures (as defined in
+Exchange Act Rules 13a-15(e) and 15 d-15(e) for the registrant and have:
+
+ a) designed such disclosure controls and procedures, or caused such
+disclosure controls to be designed under our supervision, to ensure that
+material information relating to the registrant, including its consolidated
+subsidiaries, is made known to us by others within those entities, particularly
+during the period in which this quarterly report is being prepared;
+
+ b) evaluated the effectiveness of the registrant's disclosure controls
+and procedures and presented in this report our conclusions about the
+effectiveness of the disclosure controls and procedures, as of the end of the
+period covered by this report based on such evaluation; and,
+
+ c) disclosed in this report any change in the registrant's internal control
+over financial reporting that occurred during the registrant's most recent
+fiscal quarter that has materially affected, or is reasonably likely to
+materially affect, the registrant's internal control over financial reporting;
+and
+
+ 5. The registrant's other certifying officer and I have disclosed, based on
+our most recent evaluation of internal control over financial reporting, to the
+registrant's auditors and the audit committee of registrant's board of directors
+(or persons performing the equivalent functions):
+
+ a) All significant deficiencies and material weaknesses in the design or
+operation of internal control over financial reporting which are reasonably
+likely to adversely affect the registrant's ability to record, process,
+summarize and report financial information; and
+
+ b) Any fraud, whether or not material, that involves management or other
+employees who have a significant role in the registrant's internal control over
+financial reporting.
+
+Dated: January 29, 2004 /s/ W. Barry Gilbert
+ ------------------------
+ W. Barry Gilbert
+ Chairman and Acting
+ Chief Executive Officer
+
+Page 1 of 1
+
+</EX-31.1 CEO CERT.>
+
+<EX-31>
+ 4
+ ex312q104.txt
+ UNDER SECT. 302 OF THE SARBANES-OXLEY ACT OF 2002
+ 
+ Exhibit 31.2
+
+ Certification of Chief Financial Officer
+ pursuant to Section 302 of the Sarbanes-Oxley Act of 2002
+
+I, Brian H. Davis, certify that:
+
+ 1. I have reviewed this quarterly report on Form 10-Q for the quarterly
+period ended December 26, 2003 of IEC Electronics Corp.;
+
+ 2. Based on my knowledge, this quarterly report does not contain any untrue
+statement of a material fact or omit to state a material fact necessary to make
+the statements made, in light of the circumstances under which such statements
+were made, not misleading with respect to the period covered by this quarterly
+report;
+
+ 3. Based on my knowledge, the financial statements and other financial
+information included in this quarterly report fairly present in all material
+respects the financial condition, results of operations and cash flows of the
+registrant as of, and for, the periods presented in this quarterly report;
+
+ 4. The registrant's other certifying officer and I are responsible for
+establishing and maintaining disclosure controls and procedures (as defined in
+Exchange Act Rules 13a-15(e) and 15 d-15(e) for the registrant and have:
+
+ a) designed such disclosure controls and procedures, or caused such
+disclosure controls to be designed under our supervision, to ensure that
+material information relating to the registrant, including its consolidated
+subsidiaries, is made known to us by others within those entities, particularly
+during the period in which this quarterly report is being prepared;
+
+ b) evaluated the effectiveness of the registrant's disclosure controls and
+procedures and presented in this report our conclusions about the effectiveness
+of the disclosure controls and procedures, as of the end of the period covered
+by this report based on such evaluation; and,
+
+ c) disclosed in this report any change in the registrant's internal control
+over financial reporting that occurred during the registrant's most recent
+fiscal quarter that has materially affected, or is reasonably likely to
+materially affect, the registrant's internal control over financial reporting;
+and
+
+ 5. The registrant's other certifying officer and I have disclosed, based on
+our most recent evaluation of internal control over financial reporting, to the
+registrant's auditors and the audit committee of registrant's board of directors
+(or persons performing the equivalent functions):
+
+ a) All significant deficiencies and material weaknesses in the design or
+operation of internal control over financial reporting which are reasonably
+likely to adversely affect the registrant's ability to record, process,
+summarize and report financial information; and
+
+ b) Any fraud, whether or not material, that involves management or other
+employees who have a significant role in the registrant's internal control over
+financial reporting.
+
+Dated: January 29, 2004 s/ Brian H. Davis
+ ----------------------
+ Brian H. Davis
+ Vice President, Chief Financial
+ Officer and Controller
+
+Page 1 of 1
+
+</EX-31>
+
+<EX-32.1>
+ 5
+ ex321q104.txt
+ UNDER SECT. 906 OF THE SARBANES-OXLEY ACT OF 2002
+ 
+ Exhibit 32.1
+
+ Certification of Chief Executive Officer
+ pursuant to Section 906 of the Sarbanes-Oxley Act of 2002,
+ 18 U.S.C. Section 1350
+
+In connection with the quarterly report of IEC Electronics Corp., (the
+"Company") on Form 10-Q for the quarterly period ended December 26, 2003 as
+filed with Securities and Exchange Commission on the day hereof (the "Report"),
+I, W. Barry Gilbert, Acting Chief Executive Officer of the Company, certify,
+pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the
+Sarbanes-Oxley Act of 2002, that:
+
+ (1.) The Report fully complies with the requirement of Section 13(a) or
+15(d) of the Securities Exchange Act of 1934; and
+
+ (2.) The information contained in the Report fairly presents, in all
+material respects, the financial condition and results of operations of the
+Company.
+
+Dated: January 29, 2004 /s/ W. Barry Gilbert
+ ------------------------
+ W. Barry Gilbert
+ Chairman and
+ Acting Chief Executive Officer
+
+ Page 1 of 1
+
+</EX-32.1>
+
+<EX-32.2>
+ 6
+ ex322q104.txt
+ UNDER SECT. 906 OF THE SARBANES-OXLEY ACT OF 2002
+ 
+ Exhibit 32.2
+ Certification of Principal Financial Officer
+ pursuant to Section 906 of the Sarbanes-Oxley Act of 2002,
+ 18 U.S.C. Section 1350
+
+ In connection with the quarterly report of IEC Electronics Corp., (the
+"Company") on Form 10-Q for the quarterly period ended December 26, 2003 as
+filed with Securities and Exchange Commission on the day hereof (the "Report"),
+I, Brian H. Davis, Chief Financial Officer and Controller of the Company,
+certify, pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906
+of the Sarbanes-Oxley Act of 2002, that:
+
+ (1.) The Report fully complies with the requirement of Section 13(a) or
+15(d) of the Securities Exchange Act of 1934; and
+
+ (2.) The information contained in the Report fairly presents, in all
+material respects, the financial condition and results of operations of the
+Company.
+
+Dated: January 29, 2004 /s/ Brian H. Davis
+ ----------------------
+ Brian H. Davis
+ Vice President, Chief Financial
+ Officer and Controller
+
+Page 1 of 1
+
+</EX-32.2>
+

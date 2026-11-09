@@ -1,0 +1,3609 @@
+<Header>
+<FileStats>
+    <FileName>20040109_10-Q_edgar_data_724742_0000930413-04-000114.txt</FileName>
+    <GrossFileSize>216181</GrossFileSize>
+    <NetFileSize>185135</NetFileSize>
+    <NonText_DocumentType_Chars>0</NonText_DocumentType_Chars>
+    <HTML_Chars>727</HTML_Chars>
+    <XBRL_Chars>0</XBRL_Chars>
+    <XML_Chars>0</XML_Chars>
+    <N_Exhibits>5</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0000930413-04-000114.hdr.sgml : 20040109
+<ACCEPTANCE-DATETIME>20040109113047
+ACCESSION NUMBER:		0000930413-04-000114
+CONFORMED SUBMISSION TYPE:	10-Q
+PUBLIC DOCUMENT COUNT:		6
+CONFORMED PERIOD OF REPORT:	20031129
+FILED AS OF DATE:		20040109
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			SYMS CORP
+		CENTRAL INDEX KEY:			0000724742
+		STANDARD INDUSTRIAL CLASSIFICATION:	RETAIL-FAMILY CLOTHING STORES [5651]
+		IRS NUMBER:				222465228
+		STATE OF INCORPORATION:			NJ
+		FISCAL YEAR END:			0301
+
+	FILING VALUES:
+		FORM TYPE:		10-Q
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-08546
+		FILM NUMBER:		04516970
+
+	BUSINESS ADDRESS:	
+		STREET 1:		SYMS WAY
+		CITY:			SECAUCUS
+		STATE:			NJ
+		ZIP:			07094
+		BUSINESS PHONE:		2019029600
+
+	MAIL ADDRESS:	
+		STREET 1:		SYMS WAY
+		CITY:			SECAUCUS
+		STATE:			NJ
+		ZIP:			07094
+
+</SEC-Header>
+</Header>
+
+ 
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ MWjDAOBwywKea80hmV/JHxpf49ve4bi53+F1P2lOiM9OVL1JGGmBFMU3KNb59JXH
+ nVn+PWFxg6TbSPNwTFKgfg==
+
+ 0000930413-04-000114.txt : 20040109
+
+10-Q
+ 1
+ c30318_10-q.txt
+
+================================================================================
+ UNITED STATES
+ SECURITIES AND EXCHANGE COMMISSION
+ WASHINGTON, D.C. 20549
+
+ FORM 10-Q
+
+ (MARK ONE)
+
+ [X] QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(D) OF THE
+ SECURITIES EXCHANGE ACT OF 1934
+
+ For the quarterly period ended NOVEMBER 29, 2003
+
+ OR
+
+ [ ] TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(D) OF THE
+ SECURITIES EXCHANGE ACT OF 1934
+
+ For The Transition Period From_____________ to _____________
+
+ COMMISSION FILE NUMBER 1-8546
+
+ SYMS CORP
+ (Exact Name of Registrant as Specified in Its Charter)
+
+ NEW JERSEY 22-2465228
+(State or Other Jurisdiction of (I.R.S. Employer Identification No.)
+Incorporation or Organization)
+
+SYMS WAY, SECAUCUS, NEW JERSEY 07094
+ (Address of Principal Executive Offices) (Zip Code)
+
+(201) 902-9600
+ (Registrant's Telephone Number, Including Area Code)
+
+ NOT APPLICABLE
+ (Former Name, Former Address and Former Fiscal Year, if Changed Since
+ Last Report)
+
+Indicate by check mark whether the registrant: (1) has filed all
+reports required to be filed by Section 13 or 15 (d) of the Securities Exchange
+Act of 1934 during the preceding 12 months (or for such shorter period that the
+registrant was required to file such reports), and (2) has been subject to such
+filing requirements for the past 90 days. Yes X No
+ --- ---
+
+ Indicate by check mark whether the registrant is an accelerated filer
+(as defined in Rule 12b-2 of the Exchange Act). Yes No X
+ --- ---
+
+ At December 31, 2003, the latest practicable date, there were
+15,127,278 shares outstanding of Common Stock, par value 0.05 per share.
+
+================================================================================
+
+--------------------------
+ SYMS CORP AND SUBSIDIARIES
+ --------------------------
+
+INDEX
+
+ PAGE NO.
+ --------
+
+PART I. FINANCIAL INFORMATION
+
+Item 1. Financial Statements (Unaudited)
+
+ Condensed Consolidated Balance Sheets as of
+ November 29, 2003, March 1, 2003 and November 30, 2002 1
+
+ Condensed Consolidated Statements of Operations for
+ the 13 Weeks and 39 Weeks Ended November 29, 2003 and
+ November 30, 2002 2
+
+ Condensed Consolidated Statements of Cash Flows for the
+ 39 Weeks Ended November 29, 2003 and November 30, 2002 3
+
+ Notes to Condensed Consolidated Financial Statements 4-8
+
+Item 2. Management's Discussion and Analysis of Financial Condition
+ and Results of Operations 8-12
+
+Item 3. Quantitative and Qualitative Disclosures about Market Risk 12
+
+Item 4. Controls and Procedures 12-13
+
+PART II. OTHER INFORMATION
+
+ Item 1. Legal Proceedings 13
+ Item 2. Changes In Securities and Use of Proceeds 13
+ Item 3. Defaults Upon Senior Securities 13
+ Item 4. Submission of Matters to a Vote of Security Holders 13
+ Item 5. Other Information 13
+ Item 6. Exhibits and Reports on Form 8-K 13
+
+SIGNATURES 14
+
+--------------------------
+ SYMS CORP AND SUBSIDIARIES
+ --------------------------
+
+CONDENSED CONSOLIDATED BALANCE SHEETS
+- --------------------------------------------------------------------------------
+(IN THOUSANDS)
+
+November 29, March 1, November 30,
+ 2003 2003 (1) 2002
+ ----------- --------- ------------
+ (Unaudited) (See Note) (Unaudited)
+ 
+ASSETS
+CURRENT ASSETS:
+ Cash and cash equivalents 25,633 19,197 18,178
+ Merchandise inventories 97,002 78,151 111,430
+ Deferred income taxes 4,143 4,143 6,514
+ Prepaid expenses and other current assets 7,529 6,280 5,238
+ --------- --------- ---------
+ TOTAL CURRENT ASSETS 134,307 107,771 141,360
+PROPERTY AND EQUIPMENT - Net 128,848 135,460 137,551
+DEFERRED INCOME TAXES 9,397 9,397 4,392
+OTHER ASSETS 13,282 9,845 9,835
+ --------- --------- ---------
+ TOTAL ASSETS 285,834 262,473 293,138
+ ========= ========= =========
+
+LIABILITIES AND SHAREHOLDERS' EQUITY
+CURRENT LIABILITIES:
+ Accounts payable 43,809 12,639 41,799
+ Accrued expenses 14,038 14,438 10,317
+ Obligations to customers 3,417 3,352 3,234
+ --------- --------- ---------
+ TOTAL CURRENT LIABILITIES 61,264 30,429 55,350
+
+OTHER LONG TERM LIABILITIES 1,872 1,891 1,891
+
+SHAREHOLDERS' EQUITY
+ Preferred stock, par value; 100 per share. Authorized 1,000 shares;
+ none outstanding - - -
+ Common stock, par value 0.05 per share. Authorized 30,000 shares;
+ 15,127 shares (net of 2,829 treasury shares) outstanding on November 29,
+ 2003, 15,435 shares outstanding (net of 2,513 treasury shares) as of
+ March 1, 2003 and 15,632 shares outstanding (net of 2,313 treasury shares)
+ outstanding as of November 30, 2002 756 772 793
+ Additional paid-in capital 14,135 14,092 14,056
+ Treasury stock (23,646) (21,572) (20,140)
+ Retained earnings 231,453 236,861 241,188
+ --------- --------- ---------
+ TOTAL SHAREHOLDERS' EQUITY 222,698 230,153 235,897
+ --------- --------- ---------
+
+ TOTAL LIABILITIES AND SHAREHOLDERS' EQUITY 285,834 262,473 293,138
+ ========= ========= =========
+
+- ----------------
+(1) The balance sheet at March 1, 2003 has been derived from the audited
+ financial statements at that date but does not include all of the
+ information and footnotes required by accounting principles generally
+ accepted in the United States of America for complete financial
+ statements.
+
+See Notes to Condensed Consolidated Financial Statements
+
+1
+
+--------------------------
+ SYMS CORP AND SUBSIDIARIES
+ --------------------------
+
+CONDENSED CONSOLIDATED STATEMENTS OF OPERATIONS
+- --------------------------------------------------------------------------------
+(IN THOUSANDS, EXCEPT PER SHARE AMOUNTS)
+
+13 Weeks Ended 39 Weeks Ended
+ ----------------------------------- ----------------------------------
+ November 29, November 30, November 29, November 30,
+ 2003 2002 2003 2002
+ ------------ ------------- ------------ ------------
+ (Unaudited) (Unaudited)
+ 
+Net sales 74,345 73,271 199,981 206,279
+Cost of goods sold 42,960 43,122 120,576 124,054
+ --------- --------- --------- ---------
+Gross profit 31,385 30,149 79,405 82,225
+
+Expenses:
+Selling, general and administrative 18,592 18,741 57,467 56,559
+Advertising 3,810 3,439 7,611 7,728
+Occupancy 4,390 4,302 13,010 13,453
+Depreciation and amortization 2,782 2,698 8,189 8,270
+Special charge - - - 4,000
+ --------- --------- --------- ---------
+Income (loss) from operations 1,811 969 (6,872) (7,785)
+Income from insurance recovery (81) (379) (259) (1,188)
+Interest expense - net 64 (76) 21 (175)
+ --------- --------- --------- ---------
+Income (loss) before income taxes 1,828 1,424 (6,634) (6,422)
+Provision (benefit) for income taxes 804 671 (1,226) (1,713)
+ --------- --------- --------- ---------
+Net income (loss) 1,024 753 (5,408) (4,709)
+ ========= ========= ========= =========
+Net income (loss) per share - basic 0.07 0.05 (0.35) (0.30)
+ ========= ========= ========= =========
+Weighted average shares
+ outstanding - basic 15,201 15,688 15,285 15,688
+ ========= ========= ========= =========
+Net income (loss) per share - diluted 0.06 0.05 (0.35) (0.30)
+ ========= ========= ========= =========
+Weighted average shares
+ outstanding - diluted 15,795 16,189 15,285 15,688
+ ========= ========= ========= =========
+
+See Notes to Condensed Consolidated Financial Statements
+
+2
+
+--------------------------
+ SYMS CORP AND SUBSIDIARIES
+ --------------------------
+
+CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS
+- --------------------------------------------------------------------------------
+(IN THOUSANDS)
+
+39 WEEKS ENDED
+ --------------
+ NOVEMBER 29, NOVEMBER 30,
+ 2003 2002
+ ---- ----
+ (UNAUDITED)
+ 
+CASH FLOWS FROM OPERATING ACTIVITIES:
+ Net (loss) (5,408) (4,709)
+ ---------- ----------
+
+ Adjustments to reconcile net (loss) to net cash
+ provided by operating activities:
+ Depreciation and amortization 8,189 8,270
+ (Gain) on sale of property and equipment - (44)
+ Writeoff and impairment of property and equipment 457 4,000
+ (Increase) decrease in operating assets:
+ Merchandising inventories (18,851) (24,620)
+ Prepaid expenses and other current assets (1,249) 833
+ Other assets (3,437) (1,612)
+ Increase (decrease) in operating liabilities:
+ Accounts payable 31,170 23,900
+ Accrued expenses (400) (1,672)
+ Obligations to customers 65 171
+ Other long term liabilities (19) (226)
+ ---------- ----------
+ Net cash provided by operating activities 10,517 4,291
+ ---------- ----------
+
+CASH FLOWS FROM INVESTING ACTIVITIES:
+ Acquisition of Stanley Blacker, Inc. - (1,906)
+ Expenditures for property and equipment (2,034) (2,591)
+ ---------- ----------
+ Net cash used in investing activities (2,034) (4,497)
+ ---------- ----------
+
+CASH FLOWS FROM FINANCING ACTIVITIES:
+ Exercise of stock options 27 59
+ Stock repurchase (2,074) (1,160)
+ ---------- ----------
+ Net cash used in financing activities (2,047) (1,101)
+ ---------- ----------
+
+NET (DECREASE) INCREASE IN CASH AND CASH EQUIVALENTS 6,436 (1,307)
+CASH AND CASH EQUIVALENTS, BEGINNING OF PERIOD 19,197 19,485
+ ---------- ----------
+CASH AND CASH EQUIVALENTS, END OF PERIOD 25,633 18,178
+ ========== ==========
+
+SUPPLEMENTAL CASH FLOW INFORMATION:
+ Cash paid during the period for:
+ Stanley Blacker, Inc. acquisition financed through
+ stock issuance - 250
+ ========== ==========
+
+See Notes to Condensed Consolidated Financial Statements
+
+ 3
+
+--------------------------
+ SYMS CORP AND SUBSIDIARIES
+ --------------------------
+
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+13 AND 39 WEEKS ENDED NOVEMBER 29, 2003 AND NOVEMBER 30, 2002
+- --------------------------------------------------------------------------------
+(UNAUDITED)
+
+NOTE 1 - THE COMPANY
+
+Syms Corp (the "Company") operates a chain of 40 "off-price" retail clothing
+stores located throughout the Northeastern and Middle Atlantic regions and in
+the Midwest, Southeast and Southwest. Each store offers a broad range of first
+quality, in season merchandise bearing nationally recognized designer or
+brand-name labels for men, women and children.
+
+NOTE 2 - BASIS OF PRESENTATION
+
+The accompanying unaudited condensed consolidated financial statements have been
+prepared in accordance with generally accepted accounting principles for interim
+financial information and with the instructions to Form 10-Q and Article 10 of
+Regulation S-X. Accordingly, they do not include all of the information and
+footnotes required by generally accepted accounting principles for complete
+financial statements. In the opinion of management, all adjustments (consisting
+of normal recurring accruals) considered necessary for a fair presentation have
+been included. Operating results for the 13 and 39 week periods ended November
+29, 2003 are not necessarily indicative of the results that may be expected for
+the entire fiscal year ending February 28, 2004. For further information, refer
+to the consolidated financial statements and footnotes thereto included in the
+Company's annual report on Form 10-K for the fiscal year ended March 1, 2003.
+
+NOTE 3 - ACCOUNTING PERIOD
+
+The Company's fiscal year ends the Saturday nearest to the end of February. The
+fiscal year ending February 28, 2004 will be comprised of 52 weeks. The fiscal
+year ended March 1, 2003 was comprised of 52 weeks.
+
+NOTE 4 - MERCHANDISE INVENTORIES
+
+Merchandise inventories are stated at the lower of cost (first in, first out) or
+market, as determined by the retail inventory method.
+
+NOTE 5 - BANK CREDIT FACILITIES
+
+On November 5, 2003, the Company entered into a new unsecured revolving credit
+agreement with a bank for a line of credit not to exceed 20,000,000 through
+April 30, 2005. This new unsecured revolving credit agreement replaced the
+Company's prior unsecured revolving credit agreement which expired on October
+29, 2003. Interest on individual advances under the new revolving credit
+agreement is payable quarterly at the bank's base prime rate, except that at the
+time of advance, the Company has the option to select an interest rate based
+upon one other alternative calculation, with such rate to be fixed for a period
+not to exceed 90 days. The average daily unused portion under the new revolving
+credit agreement is subject to a commitment fee of .5 per annum. As of November
+29, 2003, the Company had no outstanding borrowings under the new revolving
+credit agreement, and as of March 1, 2003 and November 30, 2002, the Company had
+no outstanding borrowings under its prior revolving credit agreement.
+
+The new revolving credit agreement contains financial covenants with respect to
+consolidated tangible net worth, as defined therein, working capital and maximum
+capital expenditures, including dividends (defined to include cash repurchases
+of capital stock) as well as other financial ratios. The Company was in
+compliance with all such covenants as of November 29, 2003.
+
+In addition, the Company has a separate 10,000,000 credit facility with another
+bank available for the issuance of letters of credit for the purchase of foreign
+merchandise. This agreement may be cancelled at any time by either party. At
+November 29, 2003, March 1, 2003 and November 30, 2002, the Company had
+ 2,869,760, 2,754,872 and 3,866,000, respectively, in outstanding letters of
+credit.
+
+ 4
+
+--------------------------
+ SYMS CORP AND SUBSIDIARIES
+ --------------------------
+
+NOTE 6 - NET INCOME PER SHARE
+
+In accordance with SFAS 128, basic net income or loss per share has been
+computed based upon the weighted average of the common shares outstanding.
+Diluted net income per share gives effect to outstanding stock options.
+
+Net income/(loss) per share has been computed as follows:
+
+13 WEEKS ENDED 39 WEEKS ENDED
+ ------------------------------ -----------------------------
+ NOV. 29, 2003 NOV. 30, 2002 NOV. 29, 2003 NOV. 30, 2002
+ ------------- -------------- ------------- -------------
+ 
+BASIC NET INCOME PER SHARE:
+Net income (loss) ................. 1,024 753 (5,408) (4,709)
+Average shares outstanding ........ 15,201 15,688 15,285 15,688
+
+Basic net income (loss) per share . 0.07 0.05 (0.35) (0.30)
+
+DILUTED NET INCOME PER SHARE:
+Net income (loss) ................. 1,024 753 (5,408) (4,709)
+Average shares outstanding ........ 15,201 15,688 15,285 15,688
+Stock options ..................... 594 501 0 0
+Total average equivalent shares .. 15,795 16,189 15,285 15,688
+Diluted net income (loss) per share 0.06 0.05 (0.35) (0.30)
+
+In periods with losses, options were excluded from the computation of diluted
+net income per share because the effect would be anti-dilutive.
+
+Options to purchase 911,525 and 999,850 shares of common stock at prices ranging
+from 5.63 to 10.69 per share were outstanding as of November 29, 2003 and
+November 30, 2002, respectively. For the 13 and 39 weeks ended November 29,
+2003, 317,600 shares were not included in the computation of diluted net income
+per share because the exercise price of the option exceeded our market price and
+would have been anti-dilutive. For the 13 and 39 weeks ended November 30, 2002,
+317,600 shares were not included in the computation of diluted net income per
+share because the exercise price of the option exceeded our market price and
+would have been anti-dilutive.
+
+Comprehensive income is equivalent to the Company's net income or loss for the
+13 and 39 weeks ended November 29, 2003 and November 30, 2002, respectively.
+
+NOTE 7 - RECENT ACCOUNTING PRONOUNCEMENTS
+
+ In July 2001, the FASB issued Statement of Financial Accounting Standards
+No. 141, "BUSINESS COMBINATIONS" ("SFAS 141") AND STATEMENT OF FINANCIAL
+ACCOUNTING STANDARDS NO. 142, "GOODWILL AND OTHER INTANGIBLE ASSETS" ("SFAS
+142"). SFAS 141 eliminates the pooling-of-interests method of accounting for
+business combinations initiated after June 30, 2001 and modifies the application
+of the purchase accounting method effective for transactions that are completed
+after June 30, 2001. SFAS 142 eliminates the requirement to amortize goodwill
+and intangible assets having indefinite useful lives but requires that they be
+assessed at least annually for impairment. Intangible assets that have finite
+lives will continue to be amortized over their useful lives. The adoption of
+SFAS 141 and 142 did not have a material effect on the Company's financial
+position or operations.
+
+ In October 2001, the FASB issued Statement of Financial Accounting
+Standards 144, "ACCOUNTING FOR THE IMPAIRMENT OR DISPOSAL OF LONG-LIVED ASSETS"
+("SFAS 144"). SFAS No. 144 addresses the accounting and reporting for the
+impairment or disposal of long-lived assets. The statement provides a single
+accounting model for long-lived assets to be disposed of. New criteria must be
+met to classify the asset as an asset held-for-sale. This statement also focuses
+on reporting the effects of a disposal of a segment of business. This statement
+is effective for fiscal years beginning after December 15, 2001. The Company
+adopted SFAS 144 as of March 3, 2002, and the adoption did not have a material
+impact on the Company's financial position or results of operations.
+
+5
+
+--------------------------
+ SYMS CORP AND SUBSIDIARIES
+ --------------------------
+
+In April 2002, Statement of Financial Accounting Standards, No. 145,
+"RESCISSION OF FASB STATEMENTS NO. 4, 44 AND 64, AMENDMENT OF FASB STATEMENT NO.
+13, AND TECHNICAL CORRECTIONS" ("SFAS 145") was issued. SFAS 145 rescinds SFAS 4
+and 64, which required gains and losses from extinguishment of debt to be
+classified as extraordinary items. SFAS also rescinds SFAS 44 since the
+provisions of the Motor Carrier Act of 1980 are complete. SFAS 145 also amends
+SFAS 13 eliminating inconsistencies in certain sale-leaseback transactions. The
+provisions of SFAS 145 are effective for fiscal years beginning after May 15,
+2002. Any gain or loss on extinguishment of debt that was classified as an
+extraordinary item in prior periods presented shall be reclassified to interest
+expense. The adoption of SFAS 145 did not have a material effect on the
+Company's financial position or results of operations.
+
+ Statement of Financial Accounting Standards, No. 146, "ACCOUNTING FOR COSTS
+ASSOCIATED WITH EXIT OR DISPOSAL ACTIVITIES" ("SFAS 146"), was issued in July
+2002. SFAS 146 requires companies to recognize costs associated with exit or
+disposal activities when they are incurred rather than at the date of a
+commitment to an exit or disposal plan. SFAS 146 supercedes EITF Issue No. 94-3,
+"Liability Recognition for Certain Employee Termination Benefits and Other Costs
+to Exit an Activity (Including Certain Costs Incurred in a Restructuring)." SFAS
+146 is to be applied prospectively to exit or disposal activities initiated
+after December 31, 2002. This pronouncement did not have a material effect on
+the Company's financial position or results of operations.
+
+ On December 31, 2002, the FASB issued Statement of Financial Accounting
+Standards No. 148, "ACCOUNTING FOR STOCK-BASED COMPENSATION -TRANSITION AND
+DISCLOSURE" ("SFAS 148"). This standard amends SFAS No. 123, to provide
+alternative methods of transition for a voluntary change to the fair value based
+method of accounting for stock-based employee compensation. In addition, SFAS
+148 amends the disclosure requirements of SFAS 123 to require more frequent and
+prominent disclosures in financial statements of the effects of stock-based
+compensation. The transition guidance and annual disclosure provisions of SFAS
+148 are effective for fiscal years ending after December 15, 2002. The interim
+disclosure provisions are effective for financial reports containing financial
+statements for interim periods beginning after December 15, 2002. The Company
+has adopted the disclosure provisions of SFAS 148 as of March 1, 2003, as
+required.
+
+ In November 2002, the Financial Accounting Standards Board ("FASB") issued
+Interpretation No. 45, "GUARANTOR'S ACCOUNTING AND DISCLOSURE REQUIREMENTS FOR
+GUARANTEES, INCLUDING INDIRECT GUARANTEES OF INDEBTEDNESS OF OTHERS ("FIN 45").
+FIN 45 requires the recognition of a liability for certain guarantee obligations
+issued or modified after December 31, 2002. It also clarifies disclosure
+requirements to be made by a guarantor for certain guarantees. The disclosure
+provisions of FIN 45 are effective for fiscal years ending after December 15,
+2002. FIN 45 did not have a material impact on the Company's results of
+operations, financial position or cash flows, and the Company has adopted the
+disclosure provisions of FIN 45 as of March 1, 2003.
+
+ On January 17, 2003, the FASB issued Interpretation No. 46, "CONSOLIDATION
+OF VARIABLE INTEREST ENTITIES" ("FIN 46"). FIN 46 requires certain variable
+interest entities to be consolidated by the primary beneficiary of the entity if
+the equity investors in the entity do not have the characteristics of a
+controlling financial interest or do not have sufficient equity at risk for the
+entity to finance its activities without additional subordinated financial
+support from other parties. FIN 46 is effective for all new variable interest
+entities created or acquired after January 31, 2003. For variable interest
+entities created or acquired prior to February 1, 2003, the provisions of FIN 46
+must be applied for the first interim or annual period beginning after June 15,
+2003. The adoption of FIN 46 did not have an impact on the Company's results of
+operations, financial position or cash flows.
+
+ In February 2003, the Emerging Issues Task Force ("EITF") addressed EITF
+Statement No. 02-16 ("EITF 02-16"), "ACCOUNTING BY A RESELLER FOR CASH
+CONSIDERATION RECEIVED FROM A VENDOR." EITF 02-16 provides accounting guidance
+on how a reseller should characterize consideration given by a vendor and when
+to recognize and how to measure that consideration in its income statement. EITF
+02-16 is effective for all agreements entered into after December 31, 2002. The
+Company has evaluated the provisions of EITF 02-16 and determined that this
+statement did not have a material effect on the Company `s financial condition
+or results of operations.
+
+6
+
+--------------------------
+ SYMS CORP AND SUBSIDIARIES
+ --------------------------
+
+In April 2003, the FASB issued SFAS 149, "AMENDMENT OF STATEMENT 133 ON
+DERIVATIVE INSTRUMENTS AND HEDGING ACTIVITIES" ("SFAS 149"). SFAS 149 amends and
+clarifies accounting for derivative instruments, including certain derivative
+instruments embedded in other contracts, and for hedging activities under SFAS
+133. The new guidance amends SFAS 133 for decisions made: (a) as part of the
+Derivatives Implementation Group process that effectively required amendments to
+SFAS 133, (b) in connection with other Board projects dealing with financial
+instruments, and (c) regarding implementation issues raised in relation to the
+application of the definition of a derivative, particularly regarding the
+meaning of an "underlying" and the characteristics of a derivative that contains
+financing components. The amendments set forth in SFAS 149 improve financial
+reporting by requiring that contracts with comparable characteristics be
+accounted for similarly. SFAS 149 is generally effective for contracts entered
+into or modified after June 30, 2003 (with a few exceptions) and for hedging
+relationships designated after June 30, 2003. The guidance is to be applied
+prospectively. The adoption of SFAS 149 did not have a material impact on the
+Company's financial position or results of operations.
+
+ In May 2003, the FASB issued Statement No. 150, "ACCOUNTING FOR CERTAIN
+FINANCIAL INSTRUMENTS WITH CHARACTERISTICS OF BOTH LIABILITIES AND EQUITY"
+("SFAS 150"). SFAS 150 improves the accounting for certain financial instruments
+that, under previous guidance, issuers could account for as equity. The new
+Statement requires that those instruments be classified as liabilities in
+statements of financial position. The Company does not expect the provisions of
+SFAS 150 to have a material impact on the Company's financial position or
+results of operations.
+
+NOTE 8 - ACCOUNTING FOR STOCK-BASED COMPENSATION
+
+ The Company complies with Statement of Financial Accounting Standards No.
+123, "ACCOUNTING FOR STOCK-BASED COMPENSATION" ("SFAS No. 123"). This statement
+defines a fair value based method whereby compensation cost is measured at the
+grant date based on the fair value of the award and is recognized over the
+service period, which is usually the vesting period. Under SFAS No. 123,
+companies are encouraged, but are not required, to adopt the fair value method
+of accounting for employee stock-based transactions. The Company accounts for
+such transactions under Accounting Principles Board Opinion No. 25, Accounting
+for Stock Issued to Employees, but discloses pro forma net loss as if the
+Company had applied the SFAS No. 123 method of accounting.
+
+ Pro forma information, assuming the Company had accounted for its
+employee stock options granted under the fair value method prescribed by SFAS
+No. 123, as amended by Financial Accounting Standards Board Statement No. 148,
+"Accounting for Stock Based Compensation - Transition and Disclosure, an
+Amendment of FASB Statement No. 123," is presented below. The fair value of each
+option grant is estimated on the date of each grant using the Black-Scholes
+option-pricing model. There were no stock options granted in the thirty nine
+weeks ended November 29, 2003 and November 30, 2002, respectively. The fair
+value generated by the Black-Scholes model may not be indicative of the future
+benefit, if any, that may be received by the option holder.
+
+13 WEEKS ENDED 39 WEEKS ENDED
+ -------------- --------------
+ 11/29/03 11/30/02 11/29/03 11/30/02
+ -------- -------- -------- --------
+ 
+Net income/(loss): 1,024 753 5,408) 4,709)
+
+Total stock-based employee compensation expense
+determined under fair value based
+method for all awards, net of related tax effects 13) 21) 16) 36)
+ ----- ----- ----- -----
+
+Pro forma net income/(loss) 1,011 732 5,424) 4,745)
+ ====== ==== ======== ========
+
+Earnings (loss) per share:
+
+Basic, as reported .07 .05 0.35) 0.30)
+Basic, pro forma .07 .05 0.35) 0.30)
+Diluted, as reported .06 .05 0.35) 0.30)
+Diluted, pro forma .06 .05 0.35) 0.30)
+
+7
+
+--------------------------
+ SYMS CORP AND SUBSIDIARIES
+ --------------------------
+
+This pro forma information may not be representative of the amounts
+expected in future years as the fair value method of accounting prescribed by
+SFAS No. 123 has not been applied to options granted prior to fiscal 1996.
+
+ITEM 2. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION
+ AND RESULTS OF OPERATIONS
+
+SPECIAL NOTE REGARDING FORWARD-LOOKING STATEMENTS
+
+This Quarterly Report (including but not limited to factors discussed below, in
+the Management's Discussion and Analysis of Financial Condition and Results of
+Operations," as well as those discussed elsewhere in this Quarterly Report on
+Form 10-Q) includes forward-looking statements (as such term is defined in the
+Private Securities Litigation Reform Act of 1995) and information relating to
+the Company that are based on the beliefs of the management of the Company as
+well as assumptions made by and information currently available to the
+management of the Company. When used in this Quarterly Report, the words
+"anticipate," "believe," "estimate," "expect," "intend," "plan," and similar
+expressions, as they relate to the Company or the management of the Company,
+identify forward-looking statements. Such statements reflect the current views
+of the Company with respect to future events, the outcome of which is subject to
+certain risks, including among others general economic and market conditions,
+decreased consumer demand for the Company's products, possible disruptions in
+the Company's computer or telephone systems, possible work stoppages, or
+increases in labor costs, effects of competition, possible disruptions or delays
+in the opening of new stores or inability to obtain suitable sites for new
+stores, higher than anticipated store closings or relocation costs, higher
+interest rates, unanticipated increases in merchandise or occupancy costs and
+other factors which may be outside the Company's control. Should one or more of
+these risks or uncertainties materialize, or should underlying assumptions prove
+incorrect, actual results or outcomes may vary materially from those described
+therein as anticipated, believed, estimated, expected, intended or planned.
+Subsequent written and oral forward-looking statements attributable to the
+Company or persons acting on its behalf are expressly qualified in their
+entirety by the cautionary statements in this paragraph and elsewhere described
+in this Quarterly Report and other reports filed with the Securities and
+Exchange Commission.
+
+CRITICAL ACCOUNTING POLICIES AND ESTIMATES
+
+ The preparation of financial statements in conformity with accounting
+principles generally accepted in the United States of America requires the
+appropriate application of certain accounting policies, many of which require us
+to make estimates and assumptions about future events and their impact on
+amounts reported in the financial statements and related notes. Since future
+events and their impact cannot be determined with certainty, the actual results
+will inevitably differ from our estimates. Such differences could be material to
+the consolidated financial statements.
+
+ The Company believes application of accounting policies, and the estimates
+inherently required by the policies, are reasonable. These accounting policies
+and estimates are constantly reevaluated, and adjustments are made when facts
+and circumstances dictate a change. Historically, the Company has found the
+application of accounting policies to be appropriate, and actual results have
+not differed materially from those determined using necessary estimates.
+
+ The Company's accounting policies are more fully described in Note 1 to the
+Consolidated Financial Statements, located in the Annual Report on Form 10-K for
+the year ended March 1, 2003. The Company has identified certain critical
+accounting policies that are described below.
+
+ MERCHANDISE INVENTORY - Inventories are valued at lower of cost or market
+using the retail first-in, first-out ("FIFO") inventory method. Under the retail
+inventory method ("RIM"), the valuation of inventories at cost and the resulting
+gross margins are calculated by applying a calculated cost to retail ratio to
+the retail value of inventories. RIM is an averaging method that has been widely
+used in the retail industry due to its practicality. Additionally, it is
+recognized that the use of RIM will result in valuing inventories at the lower
+of cost or market if markdowns are currently taken as a reduction of the retail
+value of inventories. Inherent in the RIM calculation are certain significant
+management judgments and estimates including, among others, merchandise markon,
+markups, and markdowns, which significantly impact the ending inventory
+valuation at cost as well as resulting gross margins. Management believes that
+the Company's RIM and application of FIFO provides an inventory valuation which
+
+ 8
+
+--------------------------
+ SYMS CORP AND SUBSIDIARIES
+ --------------------------
+
+reasonably approximates cost using a first-in, first-out assumption and results
+in carrying value at the lower of cost or market. If actual market conditions
+are less favorable than those projected by management, additional markdowns may
+be required.
+
+ LONG-LIVED ASSETS - In evaluation of the fair value and future benefits of
+long-lived assets, the Company performs analyses of the anticipated undiscounted
+future net cash flows of the related long-lived assets. If the carrying value of
+the related asset exceeds the undiscounted cash flows, the Company reduces the
+carrying value to its fair value, which is generally calculated using discounted
+cash flows. Various factors including future sales growth and profit margins are
+included in this analysis. To the extent these future projections or our
+strategies change, the conclusion regarding impairment may differ from the
+Company's current estimates.
+
+ DEFERRED TAX VALUATION ALLOWANCE - The Company records a valuation
+allowance to reduce its deferred tax assets to the amount that is more likely
+than not to be realized. The Company has considered future taxable income and
+ongoing prudent and feasible tax planning strategies in assessing the need for
+the valuation allowance, if the Company were to determine that it would be able
+to realize its deferred tax assets in the future in excess of its net recorded
+amount, an adjustment to the deferred tax asset would increase income in the
+period such determination was made. Likewise, should the Company determine that
+it would not be able to realize all or part of our net deferred tax asset in the
+future, an adjustment to the deferred tax asset would be charged to income in
+the period such determination was made.
+
+RESULTS OF OPERATIONS
+
+13 AND 39 WEEKS ENDED NOVEMBER 29, 2003 COMPARED TO 13 AND 39 WEEKS ENDED
+NOVEMBER 30, 2002
+
+Net sales for the 13 weeks ended November 29, 2003 were 74,345,000, an increase
+of 1,074,000 (1.5 ), as compared to net sales of 73,271,000 for the 13 weeks
+ended November 30, 2002. For the 39 weeks ended November 29, 2003, net sales
+decreased 6,298,000 (3.1 to 199,981,000 as compared to net sales of
+ 206,279,000 for the 39 weeks ended November 30, 2002. Comparable store net
+sales increased 1.9 for the 13 weeks ended November 29, 2003 and decreased 1.1 
+for the 39 weeks ended November 29, 2003, as compared to the comparable periods
+in the prior fiscal year. The sales decrease in the 39 week period is largely
+attributable to the closing of the Pittsburgh, PA, and Chicago, IL stores (sales
+of closed stores amounted to 4,342,000 for the 39 weeks ended during the same
+period in the prior fiscal year).
+
+Gross profit for the 13 weeks ended November 29, 2003 was 31,385,000, an
+increase of 1,236,000 (42.2 as a percentage of total net sales) as compared to
+ 30,149,000 (41.1 as a percentage of net sales) for the 13 weeks ended November
+30, 2002. Gross profit for the 39 weeks ended November 29, 2003 was 79,405,000,
+a decrease of 2,820,000 (39.7 as a percentage of total net sales) as compared
+to 82,225,000 (39.9 as a percentage of total net sales) for the 39 weeks ended
+November 30, 2002. The increase in gross profit in the 13 week period ended
+November 29, 2003 is largely attributable to fewer markdowns on merchandise sold
+compared to the same period in the prior fiscal year.
+
+Selling, general and administrative expense was 18,592,000 (25.0 as a
+percentage of total net sales) for the 13 weeks ended November 29, 2003, as
+compared to 18,741,000 (25.6 as a percentage of total net sales) for the 13
+weeks ended November 30, 2002. Selling, general and administrative expense
+increased 908,000 to 57,467,000 (28.7 as a percentage of total net sales) for
+the 39 weeks ended November 29, 2003, as compared to 56,559,000 (27.4 as a
+percentage of total net sales) for the 39 weeks ended November 30, 2002. This
+increase for the 39 week period is largely due to higher medical insurance
+costs, pension costs and maintenance and repair costs as compared to the same
+period in the prior fiscal year.
+
+Advertising expense for the 13 weeks ended November 29, 2003 was 3,810,000
+(5.1 as a percentage of total net sales), as compared to 3,439,000 (4.7 as a
+percentage of total net sales) in the 13 week period ended November 30, 2002.
+Advertising expense for the 39 weeks ended November 29, 2003 was 7,611,000
+(3.8 as a percentage of total net sales), as compared to 7,728,000 (3.7 as a
+percentage of total net sales) in the 39 week period ended November 30, 2002.
+
+ 9
+
+--------------------------
+ SYMS CORP AND SUBSIDIARIES
+ --------------------------
+
+Occupancy costs were 4,390,000 (5.9 as a percentage of total net sales) for
+the 13 week period ended November 29, 2003, as compared to 4,302,000 (5.9 as a
+percentage of total net sales) for the 13 week period ended November 30, 2002.
+Occupancy costs were 13,010,000 (6.5 as a percentage of total net sales) for
+the 39 week period ended November 29, 2003 as compared to 13,453,000 (6.5 as a
+percentage of total net sales) for the 39 week period ended November 30, 2002.
+The reduced expenses for the 39 week period is largely attributable to the
+closing of the Pittsburgh, PA and Chicago, IL stores.
+
+Depreciation and amortization was 2,782,000 (3.7 as a percentage of total net
+sales) for the 13 week period ended November 29, 2003, as compared to 2,698,000
+(3.7 as a percentage of total net sales) for the 13 weeks ended November 30,
+2002. Depreciation and amortization for the 39 week period ended November 29,
+2003 was 8,189,000 (4.1 as a percentage of total net sales), as compared to
+ 8,270,000 (4.0 as a percentage of total net sales) for the 39 weeks ended
+November 30, 2002.
+
+The net profit before income taxes for the 13 weeks ended November 29, 2003 was
+ 1,828,000, an increase of 404,000 as compared to a net profit of 1,424,000
+for the 13 weeks ended November 30, 2002. The loss before income taxes for the
+39 weeks ended November 29, 2003 was 6,634,000, as compared to a loss before
+taxes of 6,422,000 for the 39 weeks ended November 30, 2002. This increased
+loss in the 39 week period ended November 29, 2003 versus the comparable period
+a year ago resulted principally from lower sales and gross profit dollars. The
+loss for the 39 week period ended November 30, 2002 reflects a charge for store
+closing costs.
+
+For the 39 week period ended November 29, 2003, the effective income tax rate
+was 18.5 , as compared to 26.7 for the comparable period a year ago. The
+reduced income tax rate is due to the non-deductibility of officer's life
+insurance premiums.
+
+LIQUIDITY AND CAPITAL RESOURCES
+
+Working capital as of November 29, 2003 was 73,043,000, a decrease of
+ 12,967,000 as compared to 86,010,000 as of November 30, 2002. A decline in
+merchandise inventory is largely attributable to the decrease in working capital
+for the period ended November 29, 2003. The ratio of current assets to current
+liabilities was 2.19 to 1 as of November 29, 2003 as compared to 2.55 to 1 as of
+November 30, 2002.
+
+Net cash provided by operating activities totaled 10,517,000 for the 39 weeks
+ended November 29, 2003, as compared to 4,291,000 for the 39 weeks ended
+November 30, 2002.
+
+Net cash used in investing activities was 2,034,000 for the 39 weeks ended
+November 29, 2003 as compared to 4,497,000 for the 39 weeks ended November 30,
+2002. Expenditures for property and equipment were 2,034,000 and 2,591,000 for
+the 39 weeks ended November 29, 2003 and November 30, 2002, respectively.
+
+Net cash used in financing activities was 2,047,000 for the 39 weeks ended
+November 29, 2003, as compared to 1,101,000 for the 39 weeks ended November 30,
+2002. This increase is attributable to stock repurchases equal to 2,074,000,
+compared to 1,160,000 a year ago.
+
+On November 5, 2003, the Company entered into a new unsecured revolving credit
+agreement with a bank for a line of credit not to exceed 20,000,000 through
+April 30, 2005. This new unsecured revolving credit agreement replaced the
+Company's prior unsecured revolving credit agreement which expired on October
+29, 2003. Except for funds provided from this credit agreement, the Company has
+satisfied its operating and capital expenditure requirements from internally
+generated funds. As of November 29, 2003, there were no outstanding borrowings
+under the new revolving credit agreement, and as of November 30, 2002, there
+were no outstanding borrowings under the prior revolving credit agreement.
+
+In addition, the Company has a separate 10,000,000 credit facility with another
+bank available for the issuance of letters of credit for the purchase of foreign
+merchandise. This agreement may be cancelled at any time by either party. At
+November 29, 2003, March 1, 2003 and November 30, 2002, the Company had
+ 2,869,760, 2,754,872 and 3,866,000, respectively, in outstanding letters of
+credit.
+
+ 10
+
+--------------------------
+ SYMS CORP AND SUBSIDIARIES
+ --------------------------
+
+The Company has planned capital expenditures of approximately 5,000,000 for the
+fiscal year ended February 28, 2004. Through the 39 week period ended November
+29, 2003, the Company has incurred 2,034,000 of capital expenditures.
+
+On June 7, 2002, the Company's Board of Directors' authorized the repurchase of
+up to 20 of its outstanding shares of common stock (not to exceed 3,200,000
+shares) at prevailing market prices through June 7, 2004. During the 39 week
+period ended November 29, 2003, the Company purchased 316,300 shares of common
+stock, which represented 2.0 of its outstanding shares, at a total cost of
+ 2,089,260.
+
+Management believes that existing cash, internally generated funds, trade credit
+and funds available from the revolving credit agreement will be sufficient for
+working capital and capital expenditure requirements for the fiscal year ending
+February 28, 2004.
+
+IMPACT OF INFLATION AND CHANGING PRICES
+
+Although the Company cannot accurately determine the precise effect of inflation
+on its operations, it does not believe inflation has had a material effect on
+sales or results of operations.
+
+RECENT ACCOUNTING PRONOUNCEMENTS
+
+ In July 2001, the FASB issued Statement of Financial Accounting Standards
+No. 141, "BUSINESS COMBINATIONS" ("SFAS 141") AND STATEMENT OF FINANCIAL
+ACCOUNTING STANDARDS NO. 142, "GOODWILL AND OTHER INTANGIBLE ASSETS" ("SFAS
+142"). SFAS 141 eliminates the pooling-of-interests method of accounting for
+business combinations initiated after June 30, 2001 and modifies the application
+of the purchase accounting method effective for transactions that are completed
+after June 30, 2001. SFAS 142 eliminates the requirement to amortize goodwill
+and intangible assets having indefinite useful lives but requires that they be
+assessed at least annually for impairment. Intangible assets that have finite
+lives will continue to be amortized over their useful lives. The adoption of
+SFAS 141 and 142 did not have a material effect on the Company's financial
+position or operations.
+
+ In October 2001, the FASB issued Statement of Financial Accounting
+Standards 144, "ACCOUNTING FOR THE IMPAIRMENT OR DISPOSAL OF LONG-LIVED ASSETS"
+("SFAS 144"). SFAS No. 144 addresses the accounting and reporting for the
+impairment or disposal of long-lived assets. The statement provides a single
+accounting model for long-lived assets to be disposed of. New criteria must be
+met to classify the asset as an asset held-for-sale. This statement also focuses
+on reporting the effects of a disposal of a segment of business. This statement
+is effective for fiscal years beginning after December 15, 2001. The Company
+adopted SFAS 144 as of March 3, 2002, and the adoption did not have a material
+impact on the Company's financial position or results of operations.
+
+ In April 2002, Statement of Financial Accounting Standards, No. 145,
+"RESCISSION OF FASB STATEMENTS NO. 4, 44 AND 64, AMENDMENT OF FASB STATEMENT NO.
+13, AND TECHNICAL CORRECTIONS" ("SFAS 145") was issued. SFAS 145 rescinds SFAS 4
+and 64, which required gains and losses from extinguishment of debt to be
+classified as extraordinary items. SFAS also rescinds SFAS 44 since the
+provisions of the Motor Carrier Act of 1980 are complete. SFAS 145 also amends
+SFAS 13 eliminating inconsistencies in certain sale-leaseback transactions. The
+provisions of SFAS 145 are effective for fiscal years beginning after May 15,
+2002. Any gain or loss on extinguishment of debt that was classified as an
+extraordinary item in prior periods presented shall be reclassified to interest
+expense. The adoption of SFAS 145 did not have a material effect on the
+Company's financial position or results of operations.
+
+ Statement of Financial Accounting Standards, No. 146, "ACCOUNTING FOR COSTS
+ASSOCIATED WITH EXIT OR DISPOSAL ACTIVITIES" ("SFAS 146"), was issued in July
+2002. SFAS 146 requires companies to recognize costs associated with exit or
+disposal activities when they are incurred rather than at the date of a
+commitment to an exit or disposal plan. SFAS 146 supercedes EITF Issue No. 94-3,
+"Liability Recognition for Certain Employee Termination Benefits and Other Costs
+to Exit an Activity (Including Certain Costs Incurred in a Restructuring)." SFAS
+146 is to be applied prospectively to exit or disposal activities initiated
+after December 31, 2002. This pronouncement did not have a material effect on
+the Company's financial position or results of operations.
+
+ 11
+
+--------------------------
+ SYMS CORP AND SUBSIDIARIES
+ --------------------------
+
+ On December 31, 2002, the FASB issued Statement of Financial Accounting
+Standards No. 148, "ACCOUNTING FOR STOCK-BASED COMPENSATION -TRANSITION AND
+DISCLOSURE" ("SFAS 148"). This standard amends SFAS No. 123, to provide
+alternative methods of transition for a voluntary change to the fair value based
+method of accounting for stock-based employee compensation. In addition, SFAS
+148 amends the disclosure requirements of SFAS 123 to require more frequent and
+prominent disclosures in financial statements of the effects of stock-based
+compensation. The transition guidance and annual disclosure provisions of SFAS
+148 are effective for fiscal years ending after December 15, 2002. The interim
+disclosure provisions are effective for financial reports containing financial
+statements for interim periods beginning after December 15, 2002. The Company
+has adopted the disclosure provisions of SFAS 148 as of March 1, 2003, as
+required.
+
+ In November 2002, the Financial Accounting Standards Board ("FASB") issued
+Interpretation No. 45, "GUARANTOR'S ACCOUNTING AND DISCLOSURE REQUIREMENTS FOR
+GUARANTEES, INCLUDING INDIRECT GUARANTEES OF INDEBTEDNESS OF OTHERS ("FIN 45").
+FIN 45 requires the recognition of a liability for certain guarantee obligations
+issued or modified after December 31, 2002. It also clarifies disclosure
+requirements to be made by a guarantor for certain guarantees. The disclosure
+provisions of FIN 45 are effective for fiscal years ending after December 15,
+2002. FIN 45 did not have a material impact on the Company's results of
+operations, financial position or cash flows, and the Company has adopted the
+disclosure provisions of FIN 45 as of March 1, 2003.
+
+ On January 17, 2003, the FASB issued Interpretation No. 46, "CONSOLIDATION
+OF VARIABLE INTEREST ENTITIES" ("FIN 46"). FIN 46 requires certain variable
+interest entities to be consolidated by the primary beneficiary of the entity if
+the equity investors in the entity do not have the characteristics of a
+controlling financial interest or do not have sufficient equity at risk for the
+entity to finance its activities without additional subordinated financial
+support from other parties. FIN 46 is effective for all new variable interest
+entities created or acquired after January 31, 2003. For variable interest
+entities created or acquired prior to February 1, 2003, the provisions of FIN 46
+must be applied for the first interim or annual period beginning after June 15,
+2003. The adoption of FIN 46 did not have an impact on the Company's results of
+operations, financial position or cash flows.
+
+ In February 2003, the Emerging Issues Task Force ("EITF") addressed EITF
+Statement No. 02-16 ("EITF 02-16"), "ACCOUNTING BY A RESELLER FOR CASH
+CONSIDERATION RECEIVED FROM A VENDOR." EITF 02-16 provides accounting guidance
+on how a reseller should characterize consideration given by a vendor and when
+to recognize and how to measure that consideration in its income statement. EITF
+02-16 is effective for all agreements entered into after December 31, 2002. The
+Company has evaluated the provisions of EITF 02-16 and determined that this
+statement did not have a material effect the Company's financial condition or
+results of operations.
+
+ In April 2003, the FASB issued SFAS 149, "AMENDMENT OF STATEMENT 133 ON
+DERIVATIVE INSTRUMENTS AND HEDGING ACTIVITIES" ("SFAS 149"). SFAS 149 amends and
+clarifies accounting for derivative instruments, including certain derivative
+instruments embedded in other contracts, and for hedging activities under SFAS
+133. The new guidance amends SFAS 133 for decisions made: (a) as part of the
+Derivatives Implementation Group process that effectively required amendments to
+SFAS 133, (b) in connection with other Board projects dealing with financial
+instruments, and (c) regarding implementation issues raised in relation to the
+application of the definition of a derivative, particularly regarding the
+meaning of an "underlying" and the characteristics of a derivative that contains
+financing components. The amendments set forth in SFAS 149 improve financial
+reporting by requiring that contracts with comparable characteristics be
+accounted for similarly. SFAS 149 is generally effective for contracts entered
+into or modified after June 30, 2003 (with a few exceptions) and for hedging
+relationships designated after June 30, 2003. The guidance is to be applied
+prospectively. The adoption of SFAS 149 did not have a material impact on the
+Company's financial position or results of operations.
+
+ In May 2003, the FASB issued Statement No. 150, "ACCOUNTING FOR CERTAIN
+FINANCIAL INSTRUMENTS WITH CHARACTERISTICS OF BOTH LIABILITIES AND EQUITY"
+("SFAS 150"). SFAS 150 improves the accounting for certain financial instruments
+that, under previous guidance, issuers could account for as equity. The new
+Statement requires that those instruments be classified as liabilities in
+statements of financial position. The Company does not expect the provisions of
+SFAS 150 to have a material impact on the Company's financial position or
+results of operations.
+
+ITEM 3. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
+
+The Company's operations are not currently subject to material market risks for
+interest rates, foreign currency rates or other market price risks.
+
+ 12
+
+--------------------------
+ SYMS CORP AND SUBSIDIARIES
+ --------------------------
+
+ITEM 4. CONTROLS AND PROCEDURES
+
+Based on the evaluation of the Company's disclosure controls and procedures as
+of the end of the period covered by this Quarterly Report, each of Marcy Syms,
+the Chief Executive Officer of the Company, and Antone F. Moreira, the Chief
+Financial Officer of the Company, have concluded that the Company's disclosure
+controls and procedures are effective in ensuring that information required to
+be disclosed by the Company in the reports that it files or submits under the
+Securities and Exchange Act of 1934, as amended, is recorded, processed,
+summarized and reported, within the time period specified by the Securities and
+Exchange Commission's rules and forms. Notwithstanding the foregoing, a control
+system, no matter how well designed and operated, can provide only reasonable,
+not absolute, assurance that it will detect or uncover failures within the
+Company to disclose material information otherwise required to be set forth in
+the Company's periodic reports.
+
+Internal Control Over Financial Reporting
+
+There have not been any changes in the Company's internal control over financial
+reporting (as such term is defined in Rules 13a-15(f) and 15d-15(f) under the
+Exchange Act) during the fiscal quarter to which this report relates that have
+materially affected, or are reasonably likely to materially affect the Company's
+internal control over financial reporting.
+
+PART II. OTHER INFORMATION
+- --------------------------------------------------------------------------------
+Item 1. LEGAL PROCEEDINGS - None
+
+Item 2. CHANGES IN SECURITIES AND USE OF PROCEEDS - None
+
+Item 3. DEFAULTS UPON SENIOR SECURITIES - None
+
+Item 4. SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS - None
+
+Item 5. OTHER INFORMATION - None
+
+Item 6. EXHIBITS AND REPORTS ON FORM 8-K
+
+ (a) Exhibits filed with this Form 10-Q
+
+ 10.50 Loan Agreement, dated as of November 5, 2003, between
+ Syms Corp and Israel Discount Bank of New York
+
+ 31.1 Certification of Chief Executive Officer pursuant to
+ Section 302 of the Sarbanes-Oxley Act of 2002
+
+ 31.2 Certification of Chief Financial Officer pursuant to
+ Section 302 of the Sarbanes-Oxley Act of 2002
+
+ 32.1 Certification of Chief Executive Officer pursuant to
+ 18 U.S.C. Section 1350, as adopted pursuant to
+ Section 906 of the Sarbanes-Oxley Act of 2002
+
+ 32.2 Certification of Chief Financial Officer pursuant to
+ 18 U.S.C. Section 1350, as adopted pursuant to
+ Section 906 of the Sarbanes-Oxley Act of 2002
+
+13
+
+--------------------------
+ SYMS CORP AND SUBSIDIARIES
+ --------------------------
+
+ (b) Reports on Form 8-K
+
+ On September 26, 2003, the Company furnished a Report on Form
+ 8-K pursuant to Items 7 and 12 of such form regarding its
+ results of operations for the fiscal quarter ended August 30,
+ 2003.
+
+14
+
+--------------------------
+ SYMS CORP AND SUBSIDIARIES
+ --------------------------
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the
+registrant has duly caused this report to be signed on its behalf by the
+undersigned thereunto duly authorized.
+
+SYMS CORP
+
+ DATE: January 9, 2004 BY: /s/ Marcy Syms
+ --------------------------
+ MARCY SYMS
+ CHIEF EXECUTIVE OFFICER
+
+DATE: January 9, 2004 BY: /s/ Antone F. Moreira
+ --------------------------
+ ANTONE F. MOREIRA
+ VICE PRESIDENT, CHIEF FINANCIAL OFFICER
+ (Principal Financial and Accounting Officer)
+
+15
+
+<EX-10.50>
+ 3
+ c30318_ex10-50.txt
+
+Exhibit 10.50
+
+ LOAN AGREEMENT
+
+ THIS LOAN AGREEMENT is made as of the 5th day of November, 2003, by and
+between ISRAEL DISCOUNT BANK OF NEW YORK ("Lender"), a New York banking
+corporation, with an office at 511 Fifth Avenue, New York, New York 10036, and
+SYMS CORP., a New Jersey corporation ("Borrower"), with its chief executive
+office located at One Syms Way, Secaucus, New Jersey 07094.
+
+ W I T N E S S E T H
+
+ WHEREAS, Borrower has requested that Lender provide a 20 million
+credit facility for the purposes hereinafter set forth; and
+
+ WHEREAS, Lender has agreed to make the requested credit facility
+available on the terms and conditions hereinafter set forth;
+
+ NOW, THEREFORE, IN CONSIDERATION of the premises and other good and
+valuable consideration, the receipt and sufficiency of which are hereby
+acknowledged, the parties hereto agree as follows:
+
+ Capitalized terms used in this Agreement have the meanings assigned to
+them in Appendix A, General Definitions. Accounting terms not otherwise
+specifically defined herein shall be construed in accordance with GAAP,
+consistently applied.
+
+SECTION 1: CREDIT FACILITY
+
+ 1.1 LOANS. Lender hereby agrees, on the terms and subject to the
+conditions of this Agreement, and for so long as no Event of Default exists, to
+make Revolving Credit Loans to Borrower during the period (the "Credit Period")
+from the date hereof to and including the Business Day immediately preceding the
+Commitment Termination Date, as requested by Borrower in the manner set forth in
+subsection 3.1.1 hereof, in an aggregate principal amount which, when added to
+the Lender Letter of Credit Obligations which are to be outstanding immediately
+after giving effect to the borrowing and application of such Loans, shall not
+exceed the Maximum Revolving Credit Amount (also hereinafter referred to as the
+"Commitment"). Subject to the terms of this Agreement, during the Credit Period,
+Borrower may borrow Revolving Credit Loans by means of Floating Rate Loans and
+LIBOR Rate Loans. The principal amount of any repayment during the Credit Period
+shall be deemed available, subject to the extent of an Available Commitment, for
+borrowing during the Credit Period and shall otherwise be governed in all
+respects by the other terms and conditions of this Agreement. Amounts repaid on
+or after the Commitment Termination Date may not be reborrowed. All Revolving
+Credit Loans shall be due and payable in full, together with all interest and
+fees accrued hereunder, on the Commitment Termination Date, subject to prior
+payment thereof as required pursuant to the terms hereof.
+
+ 1.2 USE OF PROCEEDS. The proceeds of the Loans shall be used solely for
+Borrower's general business purposes not inconsistent with the terms of this
+Agreement.
+
+1.3 LETTERS OF CREDIT.
+
+ (a) Subject to the terms and conditions hereof, and for so
+long as no Event of Default exists, Lender shall, upon the request of Borrower,
+issue Letters of Credit (which term shall be deemed to include the amendment,
+renewal or extension of an existing Letter of Credit) for the account of
+Borrower during the period from the date hereof through and including the
+Commitment Termination Date having an aggregate face amount at any one time
+outstanding up to the Available Letter of Credit Commitment as then in effect.
+Documentary Letters of Credit shall not have an expiry date later than 90 days
+after issuance and standby Letters of Credit shall not have an expiry date later
+than 1 year after issuance. In no event, however, shall any Letter of Credit
+have an expiry date later than the Commitment Termination Date. Borrower shall
+execute and deliver to Lender, all letter of credit agreements and other
+documents required by Lender, in form and substance satisfactory to Lender in
+its sole discretion. Borrower agrees to unconditionally and absolutely
+indemnify, defend, pay and hold harmless Lender for all draws, claims, losses,
+damages, obligations and liabilities suffered or incurred at any time by Lender,
+including without limitation attorneys' fees and reasonable costs with respect
+to any and all Letters of Credit, except to the extent suffered or incurred as a
+result of Lender's gross negligence or willful misconduct. Lender shall notify
+Borrower in accordance with its customary practice of any payment or
+disbursement made by Lender under any Letter of Credit. Borrower shall either
+(i) reimburse Lender in immediately available funds on the same day as Borrower
+is notified by Lender that any draw is paid by Lender under the Letters of
+Credit (all such amounts so paid or disbursed until paid, are hereinafter
+referred to as "Unpaid Drawings"), or (ii) notify the Lender that it has elected
+to convert such amount into a Revolving Credit Loan.
+
+ (b) If, notwithstanding the other provisions of this
+subsection 1.3, on the Commitment Termination Date there are outstanding any
+Letters of Credit which have not expired or been terminated with the consent of
+the Borrower and the respective beneficiaries thereof, then this Agreement
+(including, without limitation, this Section 1.3 and Section 2.7 hereof) and the
+respective rights, obligations and covenants of the Borrower and Lender under
+this Agreement shall remain in full force and effect until the date on which the
+last of the Letters of Credit expire or is terminated (with the consent of the
+Borrower and the respective beneficiaries thereof) and all payments made by
+Lender under the Letters of Credit are reimbursed in full by the Borrower except
+that the Commitment (including the obligation to issue Letters of Credit) shall
+terminate on the Commitment Termination Date and Lender shall have no obligation
+after the Commitment Termination Date to make Loans or issue or extend Letters
+of Credit hereunder.
+
+ (c) Upon the execution and delivery by Borrower to Lender of
+its standard form of application and continuing reimbursement agreement for
+Letters of Credit and Letter of Credit Security Agreement attached hereto as
+Exhibit 1.3 (individually, an "Application", and collectively, the
+"Applications") and upon payment by Borrower to Lender of the standard charges
+and fees then customarily imposed by Lender in connection with such
+Applications, and the Letter of Credit Fees described in Section 2.4 for the
+sole account of Lender, Lender shall, subject to the terms and conditions of
+this Agreement, in a timely manner in accordance with its standard operating
+procedures, issue a Letter of Credit for the account of the Borrower. In the
+
+ 2
+
+event of any conflict or inconsistency between the terms and conditions of this
+Agreement and the terms and conditions of any Application, the terms of this
+Agreement shall control.
+
+ (d) The obligations of the Borrower under this Section 1.3 to
+reimburse Lender with respect to Unpaid Drawings (including interest thereon)
+shall, absent gross negligence or willful misconduct of Lender, be absolute and
+unconditional under any and all circumstances and irrespective of any setoff,
+counterclaim or defense to payment which Borrower may have or have had against
+Lender.
+
+SECTION 2: INTEREST, FEES AND CHARGES
+
+ 2.1 INTEREST.
+
+ 2.1.1 REVOLVING CREDIT LOANS:
+
+ (a) RATE OPTIONS. Except as provided below, all Loans shall
+bear interest at the applicable Floating Rate. At the time of each Loan, and
+thereafter from time to time, Borrower shall have the right, subject to the
+terms and conditions of this Agreement, and provided no Event of Default has
+occurred and is continuing, to designate to Lender in a writing that all or a
+portion of the Loans shall bear interest at either the (i) LIBOR Based Rate or
+(ii) Floating Rate. Interest on each portion thereof shall accrue and be paid at
+the time and rate applicable to the respective option selected by Borrower or
+otherwise governing under the terms of this Agreement. If for any reason the
+LIBOR Based Rate option is unavailable, the Floating Rate shall apply. The rate
+of interest on Floating Rate Loans shall increase or decrease by an amount equal
+to any increase or decrease in the Prime Rate effective as of the opening of
+business on the day that any such change in the Prime Rate occurs.
+
+ (b) LIBOR RATE OPTION:
+
+ (i) REQUESTS. Provided no Event of Default has
+occurred and is continuing, and subject to the provisions of this Section
+2.1.1(a)(i), if Borrower desires to have the LIBOR Based Rate apply to all or a
+portion of the Loans, Borrower shall give Lender a written irrevocable request
+no later than 12:00 Noon Eastern time two (2) Business Days prior to the
+requested borrowing date specifying (i) the date the LIBOR Based Rate shall
+apply (which shall be a Business Day), (ii) the LIBOR Interest Period, and (iii)
+the amount to be subject to the LIBOR Based Rate provided that such amount shall
+be an integral multiple of 100,000. In no event may Borrower have outstanding
+at any time more than five different tranches of LIBOR Rate Loans.
+
+ (ii) LIBOR INTEREST PERIODS. LIBOR Rate Loans
+shall be selected by Borrower for a LIBOR Interest Period during which the LIBOR
+Based Rate is applicable; provided, however, that (x) if the LIBOR Interest
+Period would otherwise end on a day which shall not be a Business Day, such
+LIBOR Interest Period shall be extended to the next preceding or succeeding
+Business Day as is customary in the market to which such LIBOR Rate Loan
+relates. All accrued and unpaid interest on a LIBOR Rate Loan shall be paid at
+the end of the applicable LIBOR Interest Period in accordance with Section
+3.2.2. Notwithstanding
+
+3
+
+anything herein contained to the contrary, no LIBOR Interest Period with respect
+to any of the Revolving Credit Loans may end after the Commitment Termination
+Date. Subject to all of the terms and conditions applicable to a request to
+convert all or a portion of the Loans to a LIBOR Rate Loan, Borrower may extend
+a LIBOR Rate Loan as of the last day of the LIBOR Interest Period to a new LIBOR
+Rate Loan. If Borrower fails to notify Lender of the LIBOR Interest Period for a
+subsequent LIBOR Rate Loan at least two (2) Business Days prior to the last day
+of the then current LIBOR Interest Period of an outstanding LIBOR Rate Loan,
+then such outstanding LIBOR Rate Loan shall, at the end of the applicable LIBOR
+Interest Period, accrue interest at the Floating Rate.
+
+ (iii) ADJUSTMENTS. The Adjusted LIBOR Rate may
+be automatically adjusted by Lender on a prospective basis to take into account
+the increased costs of the Lender in making or maintaining LIBOR Rate Loans
+hereunder due to changes in applicable law or regulation or the interpretation
+thereof occurring subsequent to the commencement of the then applicable LIBOR
+Interest Period, including but not limited to, changes in tax laws (except
+changes of general applicability in corporate income tax laws) and changes in
+the reserve requirements imposed by the Board of Governors of the Federal
+Reserve System (or any successor or other applicable governing body), excluding
+the Reserve Percentage and any Reserve which has resulted in a payment pursuant
+to Section 2.7 below, that increase the cost to Lender of funding the LIBOR Rate
+Loan. Lender shall promptly give Borrower notice of such a determination and
+adjustment, which determination shall be prima facie evidence of the correctness
+of the fact and the amount of such adjustment.
+
+ (iv) UNAVAILABILITY. If Borrower shall have
+requested the rate based on the Adjusted LIBOR Rate in accordance with this
+Section 2.1.1(a)(i) and Lender shall have reasonably determined, in good faith,
+that Eurodollar deposits equal to the amount of the principal of the requested
+LIBOR Rate Loan and for the LIBOR Interest Period specified are unavailable, or
+that the rate based on the Adjusted LIBOR Rate will not adequately and fairly
+reflect the cost of the Adjusted LIBOR Rate applicable to the specified LIBOR
+Interest Period, of making or maintaining the principal amount of the requested
+LIBOR Rate Loan during the LIBOR Interest Period specified, or that by reason of
+circumstances affecting Eurodollar markets, adequate means do not exist for
+ascertaining the rate based on the Adjusted LIBOR Rate applicable to the
+specified LIBOR Interest Period, Lender shall promptly give notice of such
+determination to Borrower that the rate based on the Adjusted LIBOR Rate is not
+available. A determination, in good faith, by Lender hereunder shall, absent
+manifest error, be prima facie evidence of the correctness of the fact and
+amount of such additional costs or unavailability. Upon such a determination,
+(i) the obligation to convert to, or maintain a LIBOR Rate Loan at the rate
+based on the Adjusted LIBOR Rate shall be suspended until Lender, shall have
+notified Borrower that such conditions shall have ceased to exist, and (ii) the
+portion of the Loans subject to the request or requested conversion shall accrue
+interest at the Floating Rate.
+
+ (v) ILLEGALITY. Notwithstanding anything to the
+contrary herein contained, if any change in any law or regulation or in the
+interpretation thereof after the date hereof by any governmental authority
+charged with the administration or interpretation thereof shall make it unlawful
+for Lender to make or maintain any LIBOR Rate
+
+4
+
+Loan, then, by written notice to Borrower, Lender may: (i) declare that LIBOR
+Rate Loans will not thereafter be made by Lender hereunder, whereupon Borrower
+shall be prohibited from requesting LIBOR Rate Loans from Lender hereunder
+unless such declaration is subsequently withdrawn; and (ii) if unlawful to be so
+maintained, require that all outstanding LIBOR Rate Loans made by it be
+converted to Floating Rate Loans, in which event (x) all such LIBOR Rate Loans
+shall be automatically converted to Floating Rate Loans as of the effective date
+of such notice as provided in the sentence below and (y) all payments and
+prepayments of principal which would otherwise have been applied to repay the
+converted LIBOR Rate Loans shall instead be applied to repay the Floating Rate
+Loans resulting from the conversion of such LIBOR Rate Loans. For purposes of
+this Paragraph (E), a notice to Borrower by Lender pursuant to this paragraph
+shall be effective, if lawful, on the last day of the then current LIBOR
+Interest Period; in all other cases, such notice shall be effective on the day
+of receipt by Borrower.
+
+ (vi) CAPITAL ADEQUACY. If, due to either (i) the
+introduction of or any change in or in the interpretation of any law or
+regulation after the date hereof or (ii) the compliance with any guideline or
+request from any central bank or other governmental authority (where or not
+having the force of law) issued after the date hereof (each a "Change of Law"),
+there shall be any increase in the cost to Lender of making, funding, or
+maintaining Loans or issuing or maintaining Letters of Credit, then Borrower
+shall, from time to time, upon Lender's demand, pay to Lender additional amounts
+sufficient to compensate Lender for such increased cost. In addition, if Lender
+determines that compliance with any law or regulation or any guideline or
+request from any central bank or other governmental authority (whether or not
+having the force of law) issued after the date hereof affects or would affect
+the amount of capital required or expected to be maintained by Lender or any
+corporation controlling Lender and that the amount of such capital is increased
+by or based upon the existence of loans or letters of credit hereunder, then,
+upon Lender's demand, Borrower shall immediately pay to Lender, from time to
+time as specified by Lender, additional amounts sufficient to compensate Lender
+or such corporation in the light of such circumstances to the extent that Lender
+reasonably determines such increase in capital to be allocable to the existence
+of loans or letters of credit hereunder. Notwithstanding anything to the
+contrary herein contained, the Borrower shall not be required to compensate the
+Lender for any increased costs or increased capital incurred more than ninety
+(90) days prior to the date that the Lender notifies the Borrower of the Change
+in Law giving rise to such increased costs or increased capital and of Lender's
+intention to claim compensation therefor.
+
+ 2.1.2 DEFAULT RATE OF INTEREST. Upon the occurrence of any Event of
+Default under Sections 7.1.1 or 7.1.2, or upon the occurrence of any other Event
+of Default and notice from the Lender to the Borrower, during the continuance of
+such Event of Default, the outstanding principal balance of all Loans shall, at
+the option of Lender, bear interest at a rate per annum equal to the Default
+Rate.
+
+ 2.1.3 CONVERSION OF LOANS. Subject to the terms hereof, Borrower
+shall have the right to convert Floating Rate Loans into LIBOR Rate Loans and
+LIBOR Rate Loans into Floating Rate Loans from time to time, provided that
+Borrower shall give to Lender notice of
+
+5
+
+each such conversion as provided in Section 3.1.1 and provided further that no
+conversion of LIBOR Rate Loans shall occur except on the last day of the LIBOR
+Interest Period applicable thereto unless Borrower has compensated Lender
+pursuant to Section 2.7(e) hereof.
+
+ 2.2 COMPUTATION OF INTEREST AND FEES. Interest and all fees shall
+be computed on the actual number of days elapsed over a year of 360 days.
+
+ 2.3 UNUSED LINE FEE. Borrower shall pay to Lender a non-refundable
+unused line fee (the "Line Fee") on the daily average amount of the Available
+Commitment for the period from the date hereof to and including the earlier of
+the date the Commitment is terminated pursuant to Section 3.3 hereof or the
+Commitment Termination Date, at the rate of .5 per annum. The Line Fee shall be
+payable quarterly in arrears on the last Business Day of each March, June,
+September and December and on the earlier of the date the Commitment is
+terminated pursuant to Section 3.3 hereof or the Commitment Termination Date.
+
+ 2.4 LETTER OF CREDIT FEES. Borrower shall pay to Lender letter of
+credit fees equal to (i) for documentary letters of credit, the greater of (1)
+one-eighth of one percent (.125 of the face amount of such documentary letters
+of credit or (2) 100.00, payable at (A) the time of a draw on a Letter of
+Credit and (B) the time of the issuance of a Letter of Credit and on each 120th
+day thereafter (if such Letter of Credit shall remain outstanding) to the extent
+of the undrawn amount of such Letter of Credit, and (ii) for standby letters of
+credit two and one-half percent (2.5 per annum of the face amount of each such
+standby letter of credit, payable quarterly in advance. Borrower shall also pay
+to Lender all of Lender's standard charges and fees (including without
+limitation all cable and wire transfer charges) for the amendment, extension,
+cancellation or other administration of each such Letter of Credit
+("Administrative Fees"). All such fees are collectively the "L/C Fees". L/C Fees
+shall not be subject to refund or pro-ration for any reason.
+
+ 2.5 DEFICIENCY BALANCE FEES. Borrower shall pay a deficiency
+balance fee ("Deficiency Balance Fee") on (a) the excess, if any, of (i)
+ 250,000 over (ii) the aggregate average daily balance of collected free and
+unrestricted funds in Borrower's non-interest bearing deposits maintained with
+Lender, after deducting any and all service charges thereon (the "Collected
+Balances") during each three month period or portion thereof (the "Period");
+multiplied by (b) the average of the Floating Rate in effect during such Period
+for the actual number of days in the Period. The Deficiency Balance Fee shall be
+payable quarterly in arrears on the last Business Day of each March, June,
+September and December and on the earlier of the date the Commitment is
+terminated pursuant to Section 3.3.2 hereof or the Commitment Termination Date.
+
+ 2.6 REIMBURSEMENT OF EXPENSES. If, at any time or times regardless
+of whether or not an Event of Default then exists, Lender incurs reasonable
+out-of-pocket legal or accounting expenses or any other reasonable out-of-pocket
+costs or expenses in connection with (a) the analysis, negotiation and
+preparation of this Agreement or any of the other Loan Documents, and any
+amendment, modification, replacement or termination of this Agreement or any of
+the other Loan Documents that has been requested by Borrower and Lender or been
+executed by the Loan Parties; (b) the administration of this Agreement or any of
+the other Loan Documents and the transactions contemplated hereby and thereby;
+(c) any litigation, contest, dispute, suit,
+
+6
+
+proceeding or action (whether instituted by Lender, Borrower or any other
+Person) in any way relating to this Agreement or any of the other Loan Documents
+or Borrower's affairs (except to the extent any such cost or expense arises from
+Lender's gross negligence or willful misconduct); or (iv) any attempt to enforce
+any rights of Lender against Borrower or any other Person which may be obligated
+to Lender by virtue of this Agreement or any of the other Loan Documents, then
+all such costs and expenses shall be charged to Borrower. All amounts chargeable
+to Borrower under this Section shall be payable promptly after demand by the
+Lender therefore, which demand shall include a reasonably detailed invoice
+therefore, and shall bear interest from the date 10 business days after such
+demand is made until paid in full at the Floating Rate applicable to the Loans
+from time to time.
+
+ 2.7 MAXIMUM REVOLVING CREDIT OBLIGATIONS; PREPAYMENTS.
+
+ (a) At no time shall the aggregate principal amount of the
+Loans and Lender Letter of Credit Obligations outstanding exceed the Maximum
+Revolving Credit Amount. In the event that for any reason, the aggregate
+outstanding principal amount of the Loans and Lender Letter of Credit
+Obligations exceeds the Maximum Revolving Credit Amount, Borrower shall
+immediately, after notice, prepay the Loans or cash collateralize the Letters of
+Credit in an amount sufficient to reduce the sum of the aggregate principal
+amount of the Loans and Lender Letter of Credit Obligations to an amount not
+greater than the Maximum Revolving Credit Amount. Any such prepayment shall be
+made with interest accrued to the date of prepayment and be subject to the
+indemnity agreement set forth in Section 2.7(e) hereof.
+
+ (b) Subject to the delivery of a Borrowing Notice pursuant to
+Section 3.1.1 and to the indemnity agreement set forth in Section 2.7(e) hereof
+with respect to LIBOR Rate Loans, but otherwise without premium or penalty,
+Borrower shall have the right to prepay any Loan at any time and from time to
+time in whole or in part; PROVIDED, HOWEVER, that (x) any such prepayment (other
+than a prepayment pursuant to SECTION 2.7(A)) shall be in an amount not less
+than such amounts as provided in Section 2.7(d) hereof; and (y) any such
+prepayment of a Loan shall be made with interest accrued on the principal amount
+being prepaid to the date of prepayment.
+
+ (c) Except as set forth in Sections 2.1.1(b)(iv) and (v)
+hereof, and except as may be otherwise expressly directed by Borrower provided
+no Event of Default exists or is continuing, all payments and repayments made
+pursuant to the terms hereof shall be applied first to Floating Rate Loans, and
+shall be applied to LIBOR Rate Loans only to the extent any such payment exceeds
+the principal amount of Floating Rate Loans outstanding at the time of such
+payment.
+
+ (d) Except for borrowings which exhaust the full remaining
+amount of the Commitment or prepayments pursuant to SECTION 2.7(A) or which
+result in the prepayment of all Loans of a particular type, each borrowing and
+prepayment and each conversion of a LIBOR Rate Loan shall be in a minimum amount
+of 100,000, and each borrowing and prepayment of a Floating Rate Loan shall be
+in a minimum amount of 50,000.
+
+ 7
+
+(e) INDEMNITY; YIELD PROTECTION. [Borrower hereby indemnifies
+Lender against any loss (each a "Loss") or reasonable out-of-pocket expenses
+which Lender may sustain or incur as a consequence of (a) the receipt or
+recovery by Lender whether by voluntary prepayment, acceleration or otherwise,
+of all or any part of a LIBOR Rate Loan other than on the last day of any LIBOR
+Interest Period applicable to such Loan, (b) the conversion of a LIBOR Rate Loan
+prior to the last day of any LIBOR Interest Period applicable to such LIBOR Rate
+Loan, (c) the failure to borrow any LIBOR Rate Loan after agreement shall have
+been reached with respect to the LIBOR Interest Period therefor, or (d) any
+failure by Borrower to borrow a LIBOR Rate Loan on the date specified by
+Borrower's written notice. The Borrower shall pay to Lender a yield maintenance
+fee (the "yield maintenance fee") as payment in full in respect of each such
+Loss, if any, computed as follows: The current rate for United States Treasury
+securities (bills on a discounted basis shall be converted to a bond equivalent)
+with a maturity date closest to the maturity date of the term chosen pursuant to
+the LIBOR Interest Period as to which the prepayment is made, shall be
+subtracted from the "Cost of Funds" component of the fixed rate in effect at the
+time of prepayment. If the result is zero or a negative number, there shall be
+no yield maintenance fee. If the result is a positive number, then the resulting
+percentage shall be multiplied by the amount of the principal balance being
+prepaid. The resulting amount shall be divided by 360 and multiplied by the
+number of days remaining in the term chosen pursuant to the LIBOR Interest
+Period as to which the prepayment is made. Said amount shall be reduced to
+present value calculated by using the number of days remaining in the designated
+term and using the above-referenced United States Treasury security rate and the
+number of days remaining in the term chosen pursuant to the LIBOR Interest
+Period as to which the prepayment is made. The resulting amount shall be the
+yield maintenance fee due to Lender upon prepayment of the LIBOR Rate Loan.
+"Cost of Funds" as used herein means with respect to any such LIBOR Rate Loan
+the Adjusted LIBOR Rate applicable thereto. If by reason of an Event of Default
+hereunder, Lender elects to declare the Loans to be immediately due and payable,
+then any yield maintenance fee with respect to the Loans shall become due and
+payable in the same manner as though Borrower had been granted and had exercised
+a right of prepayment.]
+
+SECTION 3: LOAN ADMINISTRATION
+
+ 3.1 MANNER OF BORROWING LOANS. Borrowings under the Credit Facility
+established pursuant to Section 1 hereof shall be as follows:
+
+ 3.1.1 LOAN REQUESTS. A request for a Loan shall be made, or shall
+be deemed to be made, by an Authorized Officer in the following manner: Borrower
+shall give Lender telephonic notice, to be promptly confirmed in writing on the
+form attached hereto as Exhibit 3.1.1., of each borrowing (or continuation with
+respect to a LIBOR Rate Loan), each conversion and prepayment of a Loan and, in
+the case of the borrowing or prepayment of, or conversion of a Loan into, a
+LIBOR Rate Loan, of the duration of each LIBOR Interest Period applicable
+thereto (a "Borrowing Notice"). Each Borrowing Notice shall be irrevocable and
+shall be effective only if received by Lender no later than, in the case of the
+borrowing (or continuation), prepayment or conversion of a Floating Rate Loan,
+12:00 Noon New York City time, on the date of borrowing (or continuation),
+prepayment or conversion of such Floating Rate Loan or, in the case of the
+
+ 8
+
+borrowing (or continuation), prepayment or conversion of a LIBOR Rate Loan,
+12:00 Noon New York City time, on the date which is at least two (2) Business
+Days, prior to the date of such borrowing (or continuation), prepayment or
+conversion of the Loan designated in the Borrowing Notice. Each such Borrowing
+Notice shall specify (a) the amount and type of Loan to be borrowed (or
+continued), converted or prepaid and (b) the date of such borrowing (or
+continuation), conversion or prepayment (which shall be a Business Day). Each
+such Borrowing Notice of the duration of an LIBOR Interest Period shall specify
+the LIBOR Rate Loans to which such LIBOR Interest Period is to relate.
+
+ 3.1.2 DISBURSEMENT. Borrower hereby irrevocably authorizes Lender
+to disburse the proceeds of each Loan requested, or deemed to be requested,
+pursuant to this Section 3.1 as follows: the proceeds of each Loan shall be
+disbursed by Lender in lawful money of the United States of America in
+immediately available funds to Borrower's operating account maintained with
+Lender for such purpose.
+
+ 3.1.3 AUTHORIZATION. Borrower hereby authorizes Lender, in Lender's
+sole discretion, to debit Borrower's operating account(s) in such sums as are
+sufficient to pay all interest, when due, all principal when due, and all costs,
+fees and expenses at any time owed by Borrower to Lender hereunder. Promptly
+following any debit to Borrower's operating account for fees and expenses,
+Lender shall provide Borrower with an invoice as to such fees and expenses.
+
+ 3.2 PAYMENTS. The Obligations shall be payable as follows:
+
+ 3.2.1 FUNDS; MANNER OF PAYMENT. Each payment and prepayment of
+principal and interest on the Note shall be made in lawful money of the United
+States in Federal or other immediately available funds without set-off or
+counterclaim to Lender. Whenever any payment to be made hereunder or under any
+Note shall be stated to be due on a day other than a Business Day, such payment
+shall be made on the next succeeding Business Day, and such extension of time
+shall in such case be included in the computation of payment of interest or
+fees, as the case may be.
+
+ 3.2.2 INTEREST. Except as provided in the following sentence,
+accrued interest on each Loan shall be payable in arrears (i) in the case of
+Floating Rate Loans, quarterly in arrears on the last Business Day of each
+March, June, September and December, (ii) in the case of LIBOR Rate Loans, on
+the last day of the applicable LIBOR Interest Period relating thereto, and in
+each case until the maturity of such Loan or the payment or prepayment thereof
+in full. Interest at the Default Rate shall be payable from time to time on
+demand of Lender.
+
+ 3.2.3 COSTS, FEES AND CHARGES. Costs, fees and charges payable
+pursuant to this Agreement shall be payable by Borrower as and when provided in
+Section 2 hereof to Lender or to any other Person designated by Lender in
+writing.
+
+ 3.2.4 OTHER OBLIGATIONS. The balance of the Obligations (other than
+those set forth in this Section 3.2) requiring the payment of money shall be
+payable by Borrower to
+
+9
+
+Lender as and when provided in this Agreement, the Revolving Credit Note, the
+Other Agreements, or the other Loan Documents.
+
+ 3.3 MANDATORY AND OPTIONAL PREPAYMENTS; COMMITMENT REDUCTION OR
+TERMINATION.
+
+ 3.3.1 REDUCTION OR TERMINATION OF THE COMMITMENT. Borrower shall
+have the right, upon at least two (2) Business Days' prior written or telephonic
+notice (promptly confirmed in writing) to Lender, at any time to terminate or
+from time to time reduce the Commitment without premium or penalty; PROVIDED
+that the Commitment may not be reduced to the extent that following such
+reduction the sum of the aggregate unpaid principal balance of the Loans and the
+Lender Letter of Credit Obligations would exceed the Commitment. Any notice of
+termination given by Borrower shall be irrevocable unless Lender otherwise
+agrees in writing, and Lender shall have no obligation to make any Loans or
+issue or extend or amend any Letters of Credit on or after the termination date
+stated in such notice.
+
+ 3.3.2 EFFECT OF TERMINATION. All of the Obligations shall be
+immediately due and payable upon the termination date stated in any notice of
+termination of this Agreement given by Borrower pursuant to Section 3.3.1. All
+undertakings, agreements, covenants, warranties and representations of Borrower
+contained in the Loan Documents shall survive any such termination and Lender
+shall retain all of its rights and remedies under the Loan Documents
+notwithstanding such termination until Borrower has paid the Obligations to
+Lender, in full, in immediately available funds and with respect to any
+outstanding Letters of Credit issued for the account of Borrower and any other
+outstanding Obligations of Borrower to Lender, Lender has obtained sufficient
+cash collateral or an appropriate indemnification by any new lender.
+
+ 3.4 APPLICATION OF PAYMENTS AND COLLECTIONS. Subject to subsection 2.7
+of this Agreement, all items of payment received by Lender by 2:00 P.M. Eastern
+time, on any Business Day shall be deemed received on that Business Day. All
+items of payment received after 2:00 P.M. Eastern time, on any Business Day
+shall be deemed received on the following Business Day. Until payment in full of
+all Obligations and termination of this Agreement, Borrower irrevocably waives
+(except as otherwise expressly provided for by Lender) the right to direct the
+application of any and all payments and collections at any time or times
+hereafter received by Lender from or on behalf of Borrower, and Borrower does
+hereby irrevocably agree that Lender shall have the continuing exclusive right
+to apply and reapply any and all such payments and collections received at any
+time or times hereafter by Lender or its agent against the Obligations, in such
+manner as Lender may reasonably deem advisable, notwithstanding any entry by
+Lender upon any of its books and records.
+
+ 3.4.1 RELIANCE BY LENDER. Lender shall be entitled to rely upon any
+certification, notice or other communication (including any thereof by
+telephone) believed by it to be genuine and correct and to have been signed or
+sent by or on behalf of Borrower or such other proper person or persons as may
+be designated by Borrower in writing from time to time, and upon advice and
+statements of legal counsel, independent accountants and other experts
+reasonably selected by Lender.
+
+10
+
+SECTION 4: REPRESENTATIONS AND WARRANTIES
+
+ 4.1 GENERAL REPRESENTATIONS AND WARRANTIES. To induce Lender to enter
+into this Agreement and to extend credit hereunder, each of the Loan Parties
+makes the following representations and warranties to Lender:
+
+ 4.1.1 ORGANIZATION AND QUALIFICATION. Each Loan Party is duly
+organized, validly existing and in good standing under the laws of the
+jurisdiction of its incorporation and has the power to own its assets and to
+transact the business in which it is presently engaged and in which it proposes
+to be engaged. Each Loan Party is duly qualified and is authorized to do
+business and is in good standing as a foreign corporation in each state or
+jurisdiction listed on EXHIBIT 4.1.1 hereto and in all other states and
+jurisdictions where the character of its Properties or the nature of its
+activities make such qualification necessary, other than in such jurisdictions
+where the failure to be so qualified would not have a material adverse effect on
+the business, operations or financial condition of the Loan Parties taken as a
+whole (a "Material Adverse Effect").
+
+ 4.1.2 CORPORATE POWER AND AUTHORITY. Each Loan Party has full
+corporate power and authority to enter into, execute, deliver and perform this
+Agreement and each of the other Loan Documents to which it is a party. The
+execution, delivery and performance of this Agreement and each of the other Loan
+Documents have been duly authorized by all necessary corporate action and do not
+(i) require any consent or approval of the shareholders of the Loan Parties that
+has not been obtained; (ii) contravene any Loan Party's charter, articles or
+certificate of incorporation or by-laws; (iii) violate, or cause any Loan Party
+to be in default under, any provision of any law, rule, regulation, order, writ,
+judgment, injunction, decree, determination or award in effect having
+applicability to such Loan Party, except to the extent that any such violation
+or default would not have a Material Adverse Effect; (iv) result in a breach of
+or constitute a default under any indenture or loan or credit agreement or any
+other agreement, lease or instrument to which a Loan Party is a party or by
+which it or its Properties may be bound or affected, except to the extent that
+any such breach or default would not have a Material Adverse Effect; or either
+(v) result in, or require, the creation or imposition of any Lien upon or with
+respect to any of the Properties now owned or hereafter acquired by any Loan
+Party, other than the Liens created hereby in favor of Lender.
+
+ 4.1.3 LEGALLY ENFORCEABLE AGREEMENT. This Agreement is, and each of
+the other Loan Documents when delivered under this Agreement to which it is a
+party, will be, a legal, valid and binding obligation of such Loan Party and
+enforceable against such Loan Party in accordance with its respective terms,
+subject to applicable bankruptcy, insolvency, reorganization, moratorium or
+other similar laws affecting creditors' rights generally and general principles
+of equity.
+
+ 4.1.4 TITLE TO PROPERTIES; PRIORITY OF LIENS. Borrower and each of
+its Subsidiaries has good and valid title to, or valid and subsisting interests
+in, all of its real Property, and all of its other Property, in each case, free
+and clear of all Liens except Permitted Liens. Borrower has paid or discharged,
+or reserved for, all lawful claims which, if unpaid, might become a Lien against
+any Properties of Borrower that is not a Permitted Lien.
+
+ 11
+
+4.1.5 FINANCIAL STATEMENTS; FISCAL YEAR. The audited Consolidated
+and Consolidating balance sheets of Borrower as of March 1, 2003 and the related
+statements of income, changes in stockholder's equity, and changes in financial
+position for the periods ended on such dates, have been prepared in accordance
+with GAAP and present fairly the financial positions of Borrower at such dates
+and the results of Borrower's operations for such period. Except as set forth on
+Exhibit 4.1.5, since March 1, 2003, there has been no material adverse change in
+the financial condition of Borrower. The fiscal year of Borrower and, as of the
+date of this Agreement, each of its Subsidiaries ends on or about the last day
+of February of each year.
+
+ 4.1.6 FULL DISCLOSURE. The financial statements referred to in
+Section 4.1.5 hereof do not, nor does this Agreement or any other written
+statement of Borrower to Lender provided pursuant to this Agreement or the other
+Loan Documents, contain any untrue statement of a material fact or, (when taken
+as a whole with all other information submitted by Borrower or made available by
+Borrower to Lender), omit a material fact necessary to make the statements
+contained therein or herein not misleading.
+
+ 4.1.7 SOLVENT FINANCIAL CONDITION. Borrower is now and, after
+giving effect to the Loans and Letters of Credit to be extended hereunder, at
+all times will be, Solvent.
+
+ 4.1.8 SURETY OBLIGATIONS. Except pursuant to the Loan Documents or
+as set forth on EXHIBIT 4.1.5 hereto, as of the date of this Agreement no Loan
+Party is obligated as guarantor, surety or indemnitor under any guaranty, surety
+or similar bond to assure payment, performance or completion of performance of
+any Indebtedness for Money Borrowed of any other Person.
+
+ 4.1.9 TAXES. Borrower and each of its Subsidiaries has filed all
+federal, state and local tax returns and other tax reports it is required by law
+or extensions to file and has paid, or made provision for the payment of, all
+taxes, assessments, fees, levies and other governmental charges upon it, its
+income and Properties as and when such taxes, assessments, fees, levies and
+charges are due and payable, unless and to the extent any thereof are being
+actively contested in good faith and by appropriate proceedings and the
+applicable Borrower or Subsidiary maintains reasonable reserves on its books
+therefor. The provision for taxes on the books of Borrower and each Subsidiary
+of Borrower is reasonably adequate for all years not closed by applicable
+statutes, and for its current fiscal year.
+
+ 4.1.10 BROKERS. There are no claims against Borrower for brokerage
+commissions, finder's fees or investment banking fees in connection with the
+transactions contemplated by this Agreement.
+
+ 4.1.11 PATENTS, TRADEMARKS, COPYRIGHTS AND LICENSES. Borrower and
+each Subsidiary of Borrower own or possess all the patents, trademarks, service
+marks, trade names, copyrights and licenses used in and necessary for the
+present conduct of its business without any known conflict with the rights of
+others, except to the extent that any such failure so to do would not have a
+Material Adverse Effect.
+
+12
+
+4.1.12 GOVERNMENTAL CONSENTS. Each Loan Party has, and is in good
+standing with respect to, all governmental consents, approvals, licenses,
+authorizations, permits, certificates, inspections and franchises necessary to
+conduct its business and to own or lease and operate its Properties as now owned
+or leased by it, except, in each such case, where such failure would not have a
+Material Adverse Effect on the business or Properties of the Loan Parties taken
+as a whole.
+
+ 4.1.13 COMPLIANCE WITH LAWS. Each Loan Party has duly complied
+with, and its Properties, business operations and leaseholds are in compliance
+in all material respects with, the provisions of all federal, state and local
+laws, rules and regulations applicable to it, its Properties or the conduct of
+its business, domestic or foreign, and there have been no citations, notices or
+orders of noncompliance issued to it under any such law, rule or regulation,
+except, in each such case, where such noncompliance would not have a Material
+Adverse Effect on its business, Property or financial condition. Each Loan Party
+has established and maintains a system to monitor its compliance with all
+federal, state and local laws, regulations and rules applicable to it, domestic
+or foreign, the failure with which to comply would have a Material Adverse
+Effect.
+
+ 4.1.14 RESTRICTIONS. No Loan Party is a party or subject to any
+contract or agreement which prohibits its execution of or compliance with this
+Agreement or the other Loan Documents to which it is a party.
+
+ 4.1.15 LITIGATION. Except as set forth on EXHIBIT 4.1.15 hereto,
+there are no actions, suits, proceedings or investigations pending, or to the
+knowledge of such Loan Party, threatened, against or affecting it or the
+business, operations, Properties, profits or condition of such Loan Party which
+(a) directly relate to the Loan Documents or any of the transactions
+contemplated hereby or thereby, or (b) based on its good faith assessment of the
+outcome, would reasonably be expected to have a Material Adverse Effect. No Loan
+Party is in default with respect to any order, writ, injunction, judgment,
+decree or rule of any court, governmental authority or arbitration board or
+tribunal, except to the extent that any such default would not have a Material
+Adverse Effect.
+
+ 4.1.16 NO DEFAULTS. No event has occurred and no condition exists
+which would, upon or after the execution and delivery of this Agreement or
+Borrower's performance hereunder, constitute an Event of Default.
+
+ 4.1.17 LEASES. Borrower is in full compliance with all of the terms
+of each of its respective capitalized and operating leases except where such
+noncompliance would not have a Material Adverse Effect.
+
+ 4.1.18 EMPLOYEE PENSION BENEFIT PLANS. Except as disclosed on
+EXHIBIT 4.1.18, neither Borrower nor any Subsidiary of Borrower has established,
+maintained or contributed to (or had the obligation to contribute to) any
+Employee Pension Benefit Plans. With respect to its Employee Pension Benefit
+Plans, Borrower and/or its Subsidiaries as appropriate will have made, on or
+prior to the Closing Date, all payments required to be made by it on or prior to
+the Closing Date. Borrower has made available to Lender a true and correct copy
+of the most current Form 5500 and any other form or filing required to be
+submitted to any governmental agency
+
+13
+
+with regard to all Employee Benefit Plans maintained by Borrower and/or any
+Subsidiary of Borrower. All Employee Benefit Plans of Borrower and its
+Subsidiaries have been operated in material compliance with the provisions of
+the governing documents and with all applicable laws including, without
+limitation, ERISA and the Code and the regulations and rulings thereunder.
+Neither Borrower nor any Subsidiary of Borrower has incurred any withdrawal
+liability, nor does Borrower or any of its Subsidiaries, except as disclosed on
+EXHIBIT 4.1.18, have any contingent withdrawal liability, under ERISA to any
+Multiemployer Plan. The present value of all accrued benefits under each Single
+Employer Plan maintained by each Borrower and/or any of its Subsidiaries (based
+on those assumptions used to fund the Plans) did not, as of the last annual
+valuation date prior to the date on which this representation is made or deemed
+made, exceed the value of the assets of such Plan allocable to such accrued
+benefits. All liabilities relating to accrued benefits or individual accounts
+under those Employee Benefit Plans which are exempt from Part IV of ERISA have
+been funded (either through insurance or otherwise) as of the date of this
+representation. There are no pending actions, claims or lawsuits which have been
+asserted or instituted against Borrower or its Subsidiaries' Employee Pension
+Benefit Plans, the assets of any of the trusts under such plans, the plan
+sponsor, the plan administrator or against any fiduciary of any of such Employee
+Pension Benefit Plans (other than routine benefit claims) nor does Borrower or
+any of its Subsidiaries have knowledge of facts which could form the basis for
+any such action, claim or lawsuit. There are no investigations or audits of
+Borrower's or its Subsidiaries' Employee Pension Benefit Plans, any trusts under
+such plans, the plan sponsor, the plan administrator or any fiduciary of any
+such Employee Pension Benefit Plans which have been threatened or instituted nor
+does Borrower or any of its Subsidiaries have knowledge of facts which could
+form the basis for any such investigation or audit.
+
+ 4.1.19 LABOR RELATIONS. Except as described on EXHIBIT 4.1.19
+hereto, as of the date of this Agreement neither Borrower nor any Subsidiary of
+Borrower is a party to any collective bargaining agreement. There are no
+grievances, disputes or controversies with any union or any other organization
+of Borrower or any Subsidiary of Borrower's employees, or threats of strikes,
+work stoppages or any asserted pending demands for collective bargaining by any
+union or organization which would reasonably be expected to have a Material
+Adverse Effect.
+
+ 4.1.20 FEDERAL RESERVE REGULATIONS. Borrower is not engaged
+principally in, nor does it have as one of its important activities, the
+business of extending credit for the purpose of purchasing or carrying any
+"margin stock" (within the meaning of Regulation U of the Board of Governors of
+the Federal Reserve System of the United States, as amended to the date hereof).
+No part of the proceeds of any of the Loans will be used to purchase or carry
+any margin stock or to extend credit to others for the purpose of purchasing or
+carrying any such margin stock or for any purpose which violates or which is
+inconsistent with the provisions of Regulations T, U, or X of said Board of
+Governors.
+
+ 4.1.21 NOT AN INVESTMENT COMPANY. Borrower is not an "investment
+company" within the meaning of the Investment Company Act of 1940, as amended,
+nor is it subject to regulation under any federal or state statute or regulation
+which limits its ability to incur Indebtedness for Money Borrowed hereunder.
+
+14
+
+4.1.22 ENVIRONMENTAL MATTERS.
+
+ (a) To the best knowledge of Borrower, all of Borrower's
+operations and facilities are in material compliance with all material
+Environmental Laws, and there is no Hazardous Materials contamination or
+violation of any Environmental Law at its operations and facilities which is
+reasonably likely to have a Material Adverse Effect.
+
+ (b) Borrower has not received any written complaint, notice of
+violation, or of potential liability that is currently pending under
+Environmental Laws which is reasonably likely to have a Material Adverse Effect,
+nor is it aware that any governmental authority is contemplating delivering to
+it any such notice.
+
+ (c) Borrower does not generate, treat, store or dispose of
+Hazardous Materials except in a DE MINIMIS amount, in the ordinary course of its
+business and in material conformity with all applicable material Environmental
+Laws.
+
+ 4.1.23 INDEBTEDNESS. Except as described on Exhibit 4.1.23 attached
+hereto and except for Loans and Letters or Credit contemplated hereunder,
+neither Borrower nor any of its Subsidiaries has outstanding, as of the Closing
+Date, and after giving effect to the initial Loans and Letters of Credit
+hereunder on the Closing Date, any Indebtedness for Money Borrowed.
+
+ 4.2 SURVIVAL OF REPRESENTATIONS AND WARRANTIES. All representations and
+warranties of each Loan Party contained in this Agreement or any of the other
+Loan Documents shall survive the execution, delivery and acceptance thereof by
+Lender and the parties thereto and the closing of the transactions described
+therein or related thereto.
+
+SECTION 5: COVENANTS AND CONTINUING AGREEMENTS
+
+ 5.1 AFFIRMATIVE COVENANTS. During the term of this Agreement, so long
+as the Commitment remains in effect, and for so long as there are any
+Obligations outstanding to Lender, each Loan Party covenants and agrees that,
+unless otherwise consented to by Lender in writing, it shall do the following:
+
+ 5.1.1 VISITS AND INSPECTIONS. Permit representatives of Lender,
+from time to time, during normal business hours, as often as may be reasonably
+requested, to visit and inspect the Properties of Borrower and any Subsidiary of
+Borrower, inspect, audit and make extracts from their books and records, and
+discuss with their officers, their employees and their independent accountants,
+Borrower's and any Subsidiary of Borrower's business, assets, liabilities,
+financial condition, business, prospects and results of operations.
+Notwithstanding anything to the contrary contained herein, unless an Event of
+Default shall have occurred and be continuing, all costs and expenses incurred
+by Lender under this Section 5.1.1 shall be for the account of the Lender, and
+the Borrower shall have no liability therefore.
+
+ 5.1.2 NOTICES. Promptly notify Lender in writing of the occurrence
+of any event or the existence of any fact which renders any representation or
+warranty in this Agreement or any of the other Loan Documents inaccurate,
+incomplete or misleading in any material respect,
+
+15
+
+including but not limited to promptly giving written notice to Lender of: (i)
+the details of any Reportable Events (as defined in ERISA); (ii) the occurrence
+of any event which constitutes an Event of Default; (iii) the commencement of
+any proceeding or litigation which, if adversely determined, would materially
+and adversely affect its financial condition or ability to conduct its business;
+and (iv) the creation, establishment or acquisition, in any manner, of any
+Subsidiary not existing on the date hereof.
+
+ 5.1.3 FINANCIAL STATEMENTS. Cause to be prepared and furnished to
+Lender the following (all to be prepared on a consistent basis):
+
+ (a) not later than ninety (90) days after the close of each
+fiscal year of Borrower, either its 10K or audited consolidated financial
+statements of Borrower and its Consolidated Subsidiaries as of the end of such
+year, prepared and certified by either Deloitte & Touche LLP or another
+nationally recognized firm of independent certified public accountants selected
+by Borrower to have been prepared in accordance with GAAP without a "going
+concern" or like qualification or exception and without any qualification or
+exception as to the scope of such audit;
+
+ (b) not later than forty-five (45) days after the end of each
+fiscal quarter hereafter, other than the fiscal quarter ending on the last month
+of Borrower's fiscal year, either its 10Q or unaudited interim financial
+statements of Borrower and its Consolidated Subsidiaries as of the end of such
+quarter and of the portion of Borrower's fiscal year then elapsed, on a
+Consolidated and Consolidating basis, certified by the principal financial
+officers of Borrower to have been prepared in accordance with GAAP and fairly to
+present the Consolidated and Consolidating financial position and results of
+operations of Borrower and its Subsidiaries for such quarter and period, subject
+only to the absence of footnotes, changes from audit and normal year-end audit
+adjustments;
+
+ (c) promptly after the sending or filing thereof, as the case
+may be, copies of any proxy statements and 8K's, which any such Loan Party files
+with the Securities and Exchange Commission or any governmental authority which
+may be substituted therefor, or any national securities exchange;
+
+ (d) promptly after the filing thereof, copies of any annual
+report to be filed under ERISA in connection with each Plan;
+
+ (e) not later than forty-five (45) days after the close of
+each fiscal quarter hereafter, financial Projections for Borrower for the
+balance of the current fiscal year in form reasonably acceptable to Lender;
+
+ (f) together with each set of financial statements described
+in (i) and (ii) above, or more frequently if requested by Lender, a compliance
+certificate signed by the chief financial officer of Borrower substantially in
+the form of EXHIBIT 5.1.3 attached hereto, demonstrating compliance with the
+financial covenants contained in Section 5.3 by calculation thereof as of the
+end of such fiscal period, and certifying that no event has occurred which
+constitutes an Event of Default under the Loan Documents; and
+
+ 16
+
+(g) such other data and information (financial and otherwise)
+as Lender, from time to time, may reasonably request, bearing upon or related to
+Borrower's financial condition or results of operations.
+
+ (h) Within forty-five (45) days after the delivery of the
+financial statements described in clause (i) of Section 5.1.3, Borrower shall
+forward to Lender a copy of the accountants' letter to Borrower's management, if
+any, that is prepared in connection with such financial statements.
+
+ 5.1.4 SIGNIFICANT SUBSIDIARIES. If the Borrower establishes,
+creates, acquires or maintains any Significant Subsidiary, such entity shall
+execute and deliver to the Lender an unconditional guaranty of payment of all
+the Obligations, which guaranty shall be in form and substance reasonably
+satisfactory to the Lender.
+
+ 5.1.5 CONTINUANCE OF BUSINESS. Do, or cause to be done, all things
+reasonably necessary to preserve and keep in full force and effect its corporate
+existence and all permits, rights and privileges necessary for the proper
+conduct of its business and continue to engage in the same or a similar line of
+business, except to the extent the failure so to do would not have a Material
+Adverse Effect.
+
+ 5.1.6 PERFORM OBLIGATIONS. Pay and discharge all of its obligations
+and liabilities, including, without limitation, all taxes, assessments and
+governmental charges upon its income and properties, when due, unless and to the
+extent only that (a) the failure so to do would not have a Material Adverse
+Effect, or (b) such obligations, liabilities, taxes, assessments and
+governmental charges shall be contested in good faith and by appropriate
+proceedings and that, to the extent required by GAAP, proper and adequate book
+reserves relating thereto are established by it, and then only to the extent
+that a bond is filed in cases where the filing of a bond is necessary to avoid
+the creation of a Lien against any of its Properties.
+
+ 5.1.7 INSURANCE. Maintain or cause to be maintained, with
+responsible insurance companies such insurance on such of its properties, in
+such amounts and against such risks as is customarily maintained by similar
+businesses; file with Lender upon its request a detailed list of the insurance
+then in effect, stating the names of the insurance companies, the amounts and
+rates of the insurance, dates of the expiration thereof and the properties and
+risks covered thereby;
+
+ 5.1.8 COMPLY WITH ERISA. Comply with all applicable provisions of
+ERISA now or hereafter in effect, except to the extent the failure so to comply
+would not have a Material Adverse Effect.
+
+ 5.1.9 COMPLIANCE WITH LAWS. Comply in all material respects with,
+the provisions of all federal, state and local laws, rules and regulations
+applicable to it, its Properties or the conduct of its business, domestic or
+foreign, except where such noncompliance would not have a Material Adverse
+Effect.
+
+ 5.1.10 ENVIRONMENTAL LAWS.
+
+ 17
+
+(a) Comply in all material respects with all material
+Environmental Laws and obtain, comply with and maintain any and all material
+licenses, approvals, registrations or permits required by material Environmental
+Laws; and
+
+ (b) Defend, indemnify and hold harmless Lender and its
+respective employees, agents, officers and directors, from and against any
+claims, demands, penalties, fines, liabilities, settlements, damages, costs and
+expenses of whatever kind or nature known or unknown, contingent or otherwise,
+arising out of, or relating to the violation of or non-compliance with any
+material Environmental Laws applicable to any Loan Party, or any orders,
+requirements or demands of any governmental authorities related thereto,
+including, without limitation, attorney's and consultant's fees, investigation
+and laboratory fees, court costs and litigation expenses, except to the extent
+that any of the foregoing arise out of the gross negligence or willful
+misconduct of the party seeking indemnification therefor.
+
+ 5.2 NEGATIVE COVENANTS. During the term of this Agreement, so long as
+the Commitment remains in effect, and for so long as there are any Obligations
+outstanding to Lender, Borrower covenants and agrees that, unless Lender has
+first consented thereto in writing, it will not do the following:
+
+ 5.2.1 ACQUISITIONS; MERGERS.
+
+ (a) Acquire or permit any Subsidiary of a Borrower to acquire
+all or substantially all of the stock, securities or assets of any Person
+(whether by purchase, merger, consolidation or otherwise) other than another
+Loan Party and other than acquisitions of (i) capital assets to the extent
+governed by Section 5.3.4 and/or (ii) acquisitions of inventory in the ordinary
+course of its business in any transaction or in any series of related
+transactions (an "Acquisition"), unless such Acquisition constitutes a Permitted
+Acquisition.
+
+ (b) Merge or consolidate, or permit any Subsidiary to merge
+or consolidate, with any Person unless either Borrower or such Subsidiary is the
+surviving corporation, the Loan Parties remain in compliance with all covenants
+and agreements contained in this Agreement and the other Loan Documents, and
+there exists no Event of Default after giving effect thereto, except that any
+Subsidiary may merge into or consolidate with the Borrower or another
+Subsidiary.
+
+ 5.2.2 LOANS. Make, or permit any Subsidiary of a Borrower to make,
+any loans or other advances of money (other than (i) any loan, advance, store
+credit or similar credit extended to retail or wholesale customers of any Loan
+Party in the ordinary course of business, (ii) commission, travel and other
+loans, credits and advances to officers and employees in the ordinary course of
+business consistent with past practice and (ii) anticipatory prepayments to
+vendors in the ordinary course of business) to any Person (other than another
+Loan Party) exceeding 2,000,000 in the aggregate outstanding at any time.
+
+ 5.2.3 TOTAL INDEBTEDNESS FOR MONEY BORROWED. Create, incur, assume,
+or suffer to exist, or permit any Subsidiary of a Borrower to create, incur,
+assume, or suffer to exist, any Indebtedness for Money Borrowed, except:
+
+18
+
+(a) Indebtedness for Money Borrowed owing to Lender under or
+in connection with the Loan Documents;
+
+ (b) Indebtedness for Borrower Money to another Loan Party;
+
+ (c) Obligations to pay Capitalized Lease Obligations;
+
+ (d) Permitted Purchase Money Indebtedness;
+
+ (e) contingent liabilities arising out of endorsements of
+checks and other negotiable instruments for deposit or collection in the
+ordinary course of business;
+
+ (f) Indebtedness set forth on Exhibit 4.1.23 hereto; and
+
+ (g) guaranties of Capitalized Lease Obligations to the extent
+that such lease obligations or similar obligations are not otherwise prohibited
+by this Agreement;
+
+ 5.2.4 AFFILIATE TRANSACTIONS. Enter into, or be a party to, or
+permit any Subsidiary of Borrower to enter into, or be a party to, any
+transaction with any Affiliate of Borrower (other than another Loan Party),
+except in the ordinary course of and pursuant to the reasonable requirements of
+Borrower's or Subsidiary's business and upon fair and reasonable terms that are
+no less favorable to Borrower or Subsidiary than such Borrower or Subsidiary
+would obtain in a comparable arm's length transaction with a Person not an
+Affiliate of Borrower or its Subsidiaries.
+
+ 5.2.5 LIMITATION ON LIENS. Create or suffer to exist, or permit any
+Subsidiary of Borrower to create or suffer to exist, any Lien upon any of its
+Property, income or profits, whether now owned or hereafter acquired, except:
+
+ (a) Liens at any time granted in favor of Lender;
+
+ (b) Liens for taxes, assessments or charges imposed by any
+governmental authority (excluding any Lien imposed pursuant to any of the
+provisions of ERISA) not yet due, or being contested in the manner described in
+Section 4.1.9 hereto;
+
+ (c) deposits under workers' compensation, unemployment
+insurance and social security laws, or to secure the performance of bids,
+tenders, contracts (other than for the repayment of borrowed money) or leases or
+to secure statutory obligations or surety, appeal bonds or discharge of lien
+bonds, or to secure indemnity, performance or other similar bonds in the
+ordinary course of business;
+
+ (d) statutory liens of landlords and other liens imposed by
+law, such as carriers', warehousemen's or mechanic's liens, incurred in good
+faith in the ordinary course of business and deposits made or bonds filed in the
+ordinary course of business to obtain the release of such liens;
+
+ 19
+
+(e) Liens existing on the Property of any Person at the time
+such Person becomes a Subsidiary of the Borrower or is merged or consolidated
+into the Borrower pursuant to a Permitted Acquisition transaction, and, in each
+case, not created in contemplation of or in connection with the Permitted
+Acquisition transaction, provided however, that such Liens do not extend to any
+other Property of the Borrower;
+
+ (f) such other Liens as appear on EXHIBIT 5.2.5 hereto;
+
+ (g) Purchase Money Liens securing Permitted Purchase Money
+Indebtedness; and
+
+ (h) judgment liens in respect of judgments that do not
+constitute an Event of Default under Section 7.1.13;
+
+ (i) , zoning restrictions, rights of way and similar
+encumbrances on real property imposed by law or arising in the ordinary course
+of business that do not secure any monetary obligations and do not materially
+detract from the value of the affected property or interfere with the ordinary
+conduct of business of the Borrower and the Subsidiaries;
+
+ (j) Liens in favor of a financial institution encumbering
+deposits (including the right of set-off) held by such financial institution in
+the ordinary course of its commercial business and which are within the general
+parameters customary in the banking industry;
+
+ (k) Liens on the assets of any Subsidiary in favor of the
+Borrower or any other Subsidiary, and Liens on assets of the Borrower in favor
+of any Subsidiary;
+
+ (l) Liens on "margin stock" to the extent that a prohibition
+on such Liens would violate Regulation U;
+
+ (m) any extension, renewal or replacement of any Lien
+otherwise permitted by this Agreement, PROVIDED that (i) such Lien shall not
+apply to any other property or asset of the Borrower or any Subsidiary and (ii)
+such Lien shall secure only those obligations which it secures on the date of
+this Agreement and any extensions, renewals and replacements thereof that do not
+increase the outstanding principal amount thereof;
+
+ (n) one or more other Liens securing Indebtedness or other
+obligations, in the aggregate, not in excess of 500,000 at any one time
+outstanding;
+
+ (o) such other Liens as Lender may hereafter approve in
+writing.
+
+ 5.2.6 [RESERVED].
+
+ 5.2.7 DISPOSITION OF ASSETS. Sell, lease or otherwise dispose of,
+or permit any Subsidiary of Borrower to sell, lease or otherwise dispose of all
+or substantially all of its Assets other than any sale, lease or other
+disposition of any Subsidiary to the Borrower.
+ 20
+
+5.2.8 RESTRICTED INVESTMENT. Make or have, or permit an Subsidiary
+of Borrower to make or have, any Restricted Investment.
+
+ 5.2.9 CHANGE IN BUSINESS. With respect to each Loan Party, make or
+permit any Subsidiary to make any material change in its business, or in the
+nature of its operation, or liquidate or dissolve itself (or suffer any
+liquidation or dissolution), except that (a) a Subsidiary of a Borrower may
+dissolve so long as its assets are transferred to such Borrower or any other
+subsidiary, and there exists no Event of Default after giving effect thereto.
+
+ 5.2.10 ACCOUNTING POLICIES AND PROCEDURES. Permit any material
+change in its or its Subsidiaries' accounting policies and procedures, other
+than as required or permitted by GAAP, including a change in fiscal year,
+without the prior consent of Lender.
+
+ 5.2.11 AMENDMENT OF DOCUMENTS.
+
+ (a) Modify, amend, supplement its Certificate of
+Incorporation or by-laws in any way that is adverse to the Lender.
+
+ (b) Modify, amend or supplement, agree to modify, amend or
+supplement, or consent to the modification, amendment or supplement of any
+documents evidencing or relating to any Subordinated Debt, without the express
+prior written consent of Lender.
+
+ 5.3 SPECIFIC FINANCIAL COVENANTS. During the term of this Agreement, so
+long as the Commitment remains in effect, and for so long as there are any
+Obligations outstanding to Lender, the Borrower, covenants and agrees that it
+shall:
+
+ 5.3.1 WORKING CAPITAL. Maintain as of the end of each fiscal
+quarter for Borrower, Working Capital of no less than 50,000,000.
+
+ 5.3.2 CONSOLIDATED LEVERAGE RATIO. Not permit the ratio of its
+Consolidated Unsubordinated Indebtedness to its Consolidated Tangible Net Worth
+to be greater than 1.0 to 1.
+
+ 5.3.3 CONSOLIDATED TANGIBLE NET WORTH. Maintain as of the end of
+each fiscal quarter a Consolidated Tangible Net Worth of not less than
+ 175,000,000.
+
+ 5.3.4 CAPITAL EXPENDITURES. Not permit the sum of Borrower's
+Capital Expenditures plus Dividends minus Net Proceeds to exceed 10,000,000 for
+any fiscal year of the Borrower, commencing with the fiscal year ending February
+28, 2004.
+
+ 5.3.5 MAXIMUM NET OPERATING LOSS. Not permit the Net Operating Loss
+after Taxes to exceed (a) 10,000,000 for any fiscal quarter, or for the four
+consecutive fiscal quarters, ending March 1, 2004; or (b) 8,000,000 for any
+fiscal quarter, or any four consecutive fiscal quarters, thereafter.
+
+21
+
+SECTION 6: CONDITIONS PRECEDENT
+
+ 6.1 CONDITIONS PRECEDENT TO EFFECTIVENESS AND INITIAL LOAN AND/OR
+LETTER OF CREDIT. Notwithstanding any other provision of this Agreement or any
+of the other Loan Documents, and without affecting in any manner the rights of
+Lender under the other sections of this Agreement, the effectiveness of the
+Lender's commitment to extend credit under this Agreement is subject to
+satisfaction of each of the following conditions precedent, and Lender shall not
+be required to make the initial Loan or any subsequent Loan or issue the initial
+or any subsequent Letter of Credit under this Agreement unless and until each of
+the following conditions has been satisfied:
+
+ 6.1.1 DOCUMENTATION. Lender shall have received, in form and
+substance satisfactory to Lender and its counsel, a duly executed copy of this
+Agreement and the other Loan Documents, together with such additional documents,
+instruments and certificates as Lender and its counsel shall require in
+connection therewith, all in form and substance satisfactory to Lender and its
+counsel, including, without limitation, the following:
+
+ (a) Certified copies of (i) resolutions of Borrower
+authorizing the execution and delivery of this Agreement and the Loan Documents
+and the performance of all transactions contemplated hereby and thereby, (ii)
+Borrower's by-laws, and (iii) an incumbency certificate of Borrower listing the
+Authorized Officers;
+
+ (b) A copy of the articles or certificate of incorporation of
+Borrower, and all amendments thereto, certified by the Secretary of State or
+other appropriate official of its jurisdiction of incorporation;
+
+ (c) Good standing certificate for Borrower, issued by the
+Secretary of State or other appropriate official of Borrower's jurisdiction of
+incorporation;
+
+ (d) A closing certificate signed by a senior executive
+officer of Borrower dated as of the date hereof, stating that (i) the
+representations and warranties set forth in Section 4 hereof are true and
+correct on and as of such date; and (ii) on such date no Event of Default has
+occurred or is continuing;
+
+ (e) Borrower shall have executed and delivered to Lender the
+Note;
+
+ (f) The favorable, written opinion of counsel to Borrower as
+to the transactions contemplated by this Agreement and any of the other Loan
+Documents as required by Lender;
+
+ (g) Payment of any fees and expenses owing to Lender
+hereunder;
+
+ (h) Payment of reasonable legal fees and expenses of Lender;
+
+ (i) Such other documents, instruments and agreements as
+Lender shall reasonably request in connection with the foregoing matters; and
+
+22
+
+(j) All legal matters incident to the effectiveness of this
+Agreement shall be satisfactory to counsel to Lender.
+
+ 6.1.2 NO DEFAULT. No Event of Default shall exist.
+
+ 6.1.3 OTHER LOAN DOCUMENTS. Each of the conditions precedent set
+forth in the other Loan Documents shall have been satisfied.
+
+ 6.1.4 NO LITIGATION. No action, proceeding, investigation,
+regulation or legislation shall have been instituted, threatened or proposed
+before any court, governmental agency or legislative body (i) to enjoin,
+restrain or prohibit, or to obtain damages in respect of, or which is related to
+or arises out of, this Agreement or the consummation of the transactions
+contemplated hereby or (ii) which relates to the assets, business operations or
+obligations of any Loan Party which (in Lender's judgment) could have a material
+adverse effect upon the creditworthiness, condition, operations or prospects
+(financial or otherwise) of such Loan Party.
+
+ Upon the fulfillment of all of the foregoing conditions, the
+Borrower shall deliver to the Lender a representation letter in the form
+attached hereto as Exhibit 6.1, stating that all of the conditions of Section
+6.1 have been satisfied, such representation letter to be signed and
+acknowledged by Lender.
+
+ 6.2 CONDITIONS TO EACH LOAN AND LETTER OF CREDIT. The obligation of
+Lender to make each Loan or to issue each Letter of Credit hereunder (in each
+case, an "extension of credit") (including the initial extension of credit to be
+made hereunder) is subject to the satisfaction of the following conditions
+precedent:
+
+ 6.2.1 REPRESENTATIONS AND WARRANTIES. The representations and
+warranties made by the Loan Parties herein and in the other Loan Documents and
+which are contained in any certificate furnished at any time under or in
+connection herewith shall be true and correct in all material respects on and as
+of the date of such extension of credit as if made on and as of such date
+(except for those which expressly relate to an earlier date);
+
+ 6.2.2 NO EVENT OF DEFAULT. No Event of Default shall exist on the
+date of such extension of credit or after giving effect to the extension of
+credit to be made on such date;
+
+ 6.2.3 RECEIPT OF NOTICE OR REQUEST. Lender shall have received a
+Borrowing Notice for borrowing in accordance with Section 3.1.1 hereof or a
+request for the issuance of a Letter of Credit in accordance with Section 1.3
+hereof; and
+
+ 6.2.4 LEGAL MATTERS. All legal matters incident to such extension
+of credit shall be satisfactory to counsel to Lender.
+
+ Each request for an extension of credit (including continuations and
+conversions) and each acceptance by Borrower of an extension of credit
+(including continuations and conversions) shall be deemed to constitute a
+representation and warranty by Borrower as of the date of such extension of
+credit that the applicable conditions in Sections 6.2 have been satisfied.
+
+ 23
+
+SECTION 7: EVENTS OF DEFAULT; RIGHTS AND REMEDIES ON DEFAULT
+
+ 7.1 EVENTS OF DEFAULT. The occurrence of one or more of the following
+events shall constitute an "Event of Default":
+
+ 7.1.1 PAYMENT OF PRINCIPAL. Borrower shall fail to make any payment
+of principal owing hereunder or under the Note, on the due date thereof (whether
+due at stated due date, maturity, upon acceleration, or otherwise).
+
+ 7.1.2 PAYMENT OF INTEREST, FEES AND OTHER OBLIGATIONS. Borrower
+shall fail to make any payment of interest, fees or expenses owing hereunder or
+under the Note, within five (5) Business Days after the date such payment is due
+and payable (whether due at stated due date, maturity, upon acceleration, or
+otherwise).
+
+ 7.1.3 PAYMENT OF OTHER OBLIGATIONS. Borrower shall fail to pay any
+other of the Obligations (excluding those set forth in Sections 7.1.1 and
+7.1.2), on the due date thereof (whether due at stated due date, maturity, upon
+acceleration, or otherwise) and such failure shall continue beyond five (5)
+Business Days after demand therefor.
+
+ 7.1.4 MISREPRESENTATIONS. Any representation, warranty or other
+statement made or furnished to Lender by or on behalf of Borrower in this
+Agreement, any of the other Loan Documents or any instrument, certificate or
+financial statement furnished in compliance with or in reference thereto, proves
+to have been false or misleading in any material respect when made or furnished
+or when reaffirmed pursuant to Section 6.2 hereof.
+
+ 7.1.5 BREACH OF COVENANTS. Borrower shall fail or neglect to
+perform, keep or observe any covenant contained in this Agreement and the breach
+of such covenant is not cured within thirty (30) days after the sooner to occur
+of notice of such breach from Lender or the date on which such failure or
+neglect first becomes known to any officer of Borrower.
+
+ 7.1.6 DEFAULT UNDER OTHER AGREEMENTS. Any event of default shall
+occur under, or Borrower shall default in the performance or observance of any
+term, covenant, condition or agreement contained in the Other Agreements or
+other Loan Documents and such default is not cured within thirty (30) days after
+notice from the Bank of such default.
+
+ 7.1.7 OTHER DEFAULTS. There shall occur any default or event of
+default on the part of a Borrower under any agreement, document or instrument to
+which such Borrower is a party or by which a Borrower or any of its Property is
+bound, creating or relating to any Indebtedness for Money Borrowed (other than
+the Obligations) in excess of 1,000,000 ("Material Debt"), and such default or
+event of default results in material Debt becoming due prior to its scheduled
+maturity or payment date, or that enables or permits (with or without the giving
+of notice, the lapse of time or both) the holder or holders of any Material Debt
+to cause any Material Debt to become due prior to its scheduled maturity or
+payment date, PROVIDED that this Section 7.1.7 shall not apply to secured
+Indebtedness for Money Borrowed that becomes due solely as a result of the
+voluntary sale or transfer of the property or assets securing such Indebtedness
+for Money Borrowed.
+
+ 24
+
+7.1.8 INSOLVENCY AND RELATED PROCEEDINGS. Borrower shall cease to
+be Solvent or shall suffer the appointment of a receiver, trustee, custodian or
+similar fiduciary, or shall make an assignment for the benefit of creditors, or
+any petition for an order for relief shall be filed by or against Borrower under
+the Bankruptcy Code (if against a Borrower, the continuation of such proceeding,
+unstayed, for more than 60 days), or Borrower shall make any offer of
+settlement, extension or composition to its unsecured creditors generally.
+
+ 7.1.9 BUSINESS DISRUPTION; CONDEMNATION. There shall occur a
+cessation of a substantial part of the business of a Borrower for a period which
+significantly affects Borrower's capacity to continue its business, on a
+profitable basis; or Borrower shall be enjoined, restrained or in any way
+prevented by court, governmental or administrative order from conducting all or
+substantially all of its business affairs.
+
+ 7.1.10 ERISA. A Reportable Event shall occur which Lender, in its
+sole discretion, shall determine in good faith constitutes grounds for the
+Pension Benefit Guaranty Corporation to institute proceedings to terminate any
+Employee Pension Benefit Plan or for the appointment by the appropriate United
+States district court of a trustee for any Employee Pension Benefit Plan,
+pursuant to Section 4042, or if any shall be terminated in a "distress
+termination" pursuant to Section 4041(c) or any such trustee shall be requested
+or appointed, or if Borrower is in "default" (as defined in Section 4219(c)(5)
+of ERISA) with respect to payments to a Multiemployer Plan resulting from
+Borrower's complete or partial withdrawal from such Employee Pension Benefit
+Plan.
+
+ 7.1.11 CHALLENGE TO AGREEMENT. A Loan Party shall challenge or
+contest in any action, suit or proceeding the validity or enforceability of this
+Agreement or any of the other Loan Documents, or the legality or enforceability
+of any of the Obligations.
+
+ 7.1.12 JUDGMENTS OR EXECUTIONS. One or more judgments for the
+payment of money in an aggregate amount in excess of 500,000 above any
+applicable insurance coverage therefore shall be rendered against the Borrower
+and the same shall remain undischarged or unbonded for a period of 30
+consecutive days during which execution shall not be effectively stayed, or any
+action shall be legally taken by a judgment creditor to attach or levy upon any
+assets of the Borrower to enforce any such judgment.
+
+ 7.2 REMEDIES. Upon or at any time after the occurrence and during the
+continuance of an Event of Default, Lender may, by written notice to Borrower
+(i) terminate the Commitment, and/or (ii) declare the Note or any portion of the
+Obligations to be forthwith due and payable, both as to principal and interest,
+without presentment, demand, protest or other notice of any kind, all of which
+are hereby expressly waived, anything contained herein or in the Note to the
+contrary notwithstanding, PROVIDED that if an event specified in Section 7.1.8
+hereof shall have occurred, the Commitment shall automatically and immediately
+terminate, the Note and all Obligations shall automatically and immediately
+become due and payable, and Lender in each instance shall have the right to
+exercise its rights hereunder, under the other Loan Documents and as otherwise
+permitted by law.
+
+ 25
+
+7.3 REMEDIES CUMULATIVE; NO WAIVER. All covenants, conditions,
+provisions, warranties, guaranties, indemnities, and other undertakings of
+Borrower contained in this Agreement and the other Loan Documents, or in any
+document referred to herein or contained in any agreement supplementary hereto
+or in any schedule given to Lender or contained in any other agreement between
+Lender and Borrower, heretofore, concurrently, or hereafter entered into, shall
+be deemed cumulative to and not in derogation or substitution of any of the
+terms, covenants, conditions, or agreements of Borrower herein contained. The
+failure or delay of Lender to require strict performance by Borrower of any
+provision of this Agreement or to exercise or enforce any rights, powers, or
+remedies hereunder or under any of the aforesaid agreements or other documents
+or security shall not operate as a waiver of such performance, rights, powers
+and remedies, but all such requirements, rights, powers, and remedies shall
+continue in full force and effect until all Loans and all other Obligations
+owing or to become owing from Borrower to Lender shall have been fully satisfied
+and this Agreement has been terminated. None of the undertakings, agreements,
+warranties, covenants and representations of Borrower contained in this
+Agreement or any of the other Loan Documents and no Event of Default by Borrower
+under this Agreement or any other Loan Document shall be deemed to have been
+suspended or waived by Lender, unless such suspension or waiver is by an
+instrument in writing specifying such suspension or waiver and is signed by a
+duly authorized representative of Lender and directed to Borrower.
+
+SECTION 8: MISCELLANEOUS
+
+ 8.1 INDEMNITY. Borrower hereby agrees to indemnify Lender and hold
+Lender harmless from and against any liability, loss, damage, suit, action or
+proceeding ever suffered or incurred by Lender (including attorneys' fees and
+legal expenses) to the extent resulting from Borrower's failure to observe,
+perform or discharge Borrower's duties hereunder. Notwithstanding any contrary
+provision in this Agreement, (i) the obligation of Borrower under this Section
+8.1 shall survive the payment in full of the Obligations and the termination of
+this Agreement, and (ii) the indemnity provided herein shall not be available to
+the extent any such liability, loss, damage, suit, action or proceeding ever
+suffered or incurred by Lender arises from Lender's gross negligence or willful
+misconduct.
+
+ 8.2 MODIFICATION OF AGREEMENT; SALE OF INTEREST; PARTICIPATIONS. (a)
+This Agreement may not be modified, altered or amended, except by an agreement
+in writing signed by Borrower and Lender. Borrower may not sell, assign or
+transfer any interest in this Agreement, any of the other Loan Documents, or any
+of the Obligations, or any portion thereof, including, without limitation,
+Borrower's rights, title, interests, remedies, powers, and duties hereunder or
+thereunder. Borrower hereby consents to Lender's participation, sale,
+assignment, transfer or other disposition, at any time or times hereafter, of
+this Agreement and any of the other Loan Documents, or of any portion hereof or
+thereof, including, without limitation, Lender's rights, title, interests,
+remedies, powers, and duties hereunder or thereunder to any other bank or
+financial institution. Provided no Event of Default exists or is continuing,
+Lender may not sell, assign, transfer, or otherwise dispose of this Agreement
+and any of the other Loan Documents to an entity other than a bank or financial
+institution without Borrower's prior written consent, such consent not to be
+unreasonably withheld. In the case of an assignment, the assignee shall have,
+
+ 26
+
+to the extent of such assignment, the same rights, benefits and obligations as
+it would if it were "Lender" hereunder and Lender shall be relieved of all
+obligations so assigned; provided, however, that Lender shall not assign the
+Obligations to nor divide the Obligations among, more than three financial
+institutions at any one time; provided, however, that any such assignee must be
+a United States lending office of such financial institution. Borrower agrees
+that it will use its best efforts to assist and cooperate with Lender in any
+manner reasonably requested by Lender to effect the sale of participation in or
+assignments of any of the Loan Documents or any portion thereof or interest
+therein, including, without limitation, assisting in the preparation of
+appropriate disclosure documents.
+
+ 8.2.1 In furtherance and without limiting the foregoing, Lender
+shall have the unrestricted right at any time and from time to time, and without
+the consent of or notice to Borrower, to grant to one or more banks or other
+financial institutions (each, a "Participation") participating interests in the
+any or all of the liabilities held by the Lender hereunder and under the Note.
+In the event of any such grant by Lender of a participating interest to a
+Participant, whether or not upon notice to any Borrower, Lender shall remain
+responsible for the performance of its obligations hereunder and Borrower shall
+continue to deal solely and directly with Lender in connection with Lender's
+rights and obligations hereunder. Lender may furnish any information concerning
+any Borrower in its possession from time to time to prospective Participants,
+provided that Lender shall require any such prospective Participant to agree in
+writing to maintain the confidentiality of such information.
+
+ 8.3 SEVERABILITY. Wherever possible, each provision of this Agreement
+shall be interpreted in such manner as to be effective and valid under
+applicable law, but if any provision of this Agreement shall be prohibited by or
+invalid under applicable law, such provision shall be ineffective only to the
+extent of such prohibition or invalidity, without invalidating the remainder of
+such provision or the remaining provisions of this Agreement.
+
+ 8.4 SUCCESSORS AND ASSIGNS. This Agreement, the other Loan Documents,
+the Other Agreements shall be binding upon and inure to the benefit of the
+successors and assigns of the Loan Parties thereto and Lender.
+
+ 8.5 CUMULATIVE EFFECT; CONFLICT OF TERMS. Except as otherwise provided
+in Section 3.2 hereof and except as otherwise provided in any of the other Loan
+Documents by specific reference to the applicable provision of this Agreement,
+if any provision contained in this Agreement is in direct conflict with, or
+inconsistent with, any provision in any of the other Loan Documents, the
+provision contained in this Agreement shall govern and control.
+
+ 8.6 EXECUTION IN COUNTERPARTS. This Agreement may be executed in any
+number of counterparts and by different parties hereto in separate counterparts,
+each of which when so executed and delivered shall be deemed to be an original
+and all of which counterparts taken together shall constitute but one and the
+same instrument. Signature by facsimile shall bind the parties hereto.
+
+ 8.7 NOTICE. Except as otherwise provided herein, all notices, requests
+and demands to or upon a party hereto, to be effective, shall be in writing and
+shall be sent by personal delivery
+
+ 27
+
+against receipt, by overnight courier or by facsimile and shall be effective
+upon receipt, addressed as follows:
+
+ If to Lender: Israel Discount Bank of New York
+ 511 Fifth Avenue
+ New York, New York 10036
+ Attention: Douglas Bottner, Vice President
+ Facsimile No.: (212) 599-4276
+
+ With a copy to: (except for Notices and communications of
+ financial reports or Notices of borrowings,
+ conversions, continuations or prepayments)
+
+ Zeichner Ellman & Krause LLP
+ 575 Lexington Avenue
+ New York, New York 10022
+ Attention: Mark W. Schlussel, Esq.
+ Facsimile No.: (212) 753-0396
+
+ If to Borrower: Syms Corp.
+ One Syms Way
+ Secaucus, New Jersey 07094
+ Attention: Antone F. Moreira, Vice President
+ Facsimile No.: 201-902-9874
+
+ With a copy to: Bryan Cave LLP
+ 1290 Avenue of the Americas
+ New York, New York 10104
+ Attention: Michael Rosen, Esq.
+
+or to such other address as each party may designate for itself by notice given
+in accordance with this Section 8.7.
+
+ 8.8 ENTIRE AGREEMENT. This Agreement and the other Loan Documents,
+together with all other instruments, agreements and certificates executed by the
+parties in connection therewith or with reference thereto, embody the entire
+understanding and agreement between the parties hereto and thereto with respect
+to the subject matter hereof and thereof and supersede all prior agreements,
+understandings and inducements, whether express or implied, oral or written.
+
+ 8.9 INTERPRETATION. No provision of this Agreement or any of the other
+Loan Documents shall be construed against or interpreted to the disadvantage of
+any party hereto by any court or other governmental or judicial authority by
+reason of such party having or being deemed to have structured or dictated such
+provision.
+
+ 8.10 GOVERNING LAW; CONSENT TO FORUM. THIS AGREEMENT HAS BEEN
+NEGOTIATED, EXECUTED AND DELIVERED IN THE STATE OF NEW
+
+28
+
+YORK. THIS AGREEMENT SHALL BE GOVERNED BY AND CONSTRUED IN ACCORDANCE WITH THE
+LAWS OF THE STATE OF NEW YORK. EACH PARTY EXPRESSLY SUBMITS AND CONSENTS IN
+ADVANCE TO SUCH JURISDICTION IN ANY ACTION OR SUIT COMMENCED IN ANY COURT WITHIN
+THE STATE OF NEW YORK, AND EACH PARTY HEREBY WAIVES ANY OBJECTION WHICH PARTIES
+MAY HAVE BASED UPON LACK OF PERSONAL JURISDICTION, IMPROPER VENUE OR FORUM NON
+CONVENIENS AND HEREBY CONSENTS TO THE GRANTING OF SUCH LEGAL OR EQUITABLE RELIEF
+AS IS DEEMED APPROPRIATE BY SUCH COURT. EACH PARTY HEREBY WAIVES PERSONAL
+SERVICE OF THE SUMMONS, COMPLAINT AND OTHER PROCESS ISSUED IN ANY SUCH ACTION OR
+SUIT AND AGREES THAT SERVICE OF SUCH SUMMONS, COMPLAINT AND OTHER PROCESS MAY BE
+MADE BY REGISTERED OR CERTIFIED MAIL TO THE PARTIES AT THE ADDRESS SET FORTH IN
+THIS AGREEMENT AND SHALL BE EFFECTIVE UPON RECEIPT. NOTHING IN THIS AGREEMENT
+SHALL BE DEEMED OR OPERATE TO AFFECT THE RIGHT OF ANY PARTY TO SERVE LEGAL
+PROCESS IN ANY OTHER MANNER PERMITTED BY LAW, OR TO PRECLUDE THE ENFORCEMENT BY
+LENDER OF ANY JUDGMENT OR ORDER OBTAINED IN SUCH FORUM OR THE TAKING OF ANY
+ACTION UNDER THIS AGREEMENT TO ENFORCE SAME IN ANY OTHER APPROPRIATE FORUM OR
+JURISDICTION.
+
+ 8.11 WAIVER OF JURY TRIAL. THE PARTIES MUTUALLY HEREBY KNOWINGLY,
+VOLUNTARILY AND INTENTIONALLY WAIVE THE RIGHT TO A TRIAL BY JURY IN RESPECT OF
+ANY CLAIM BASED HEREON, ARISING OUT OF, UNDER OR IN CONNECTION WITH THIS
+AGREEMENT, THE NOTES OR ANY OTHER LOAN DOCUMENTS CONTEMPLATED TO BE EXECUTED IN
+CONNECTION HEREWITH OR THEREWITH OR ANY COURSE OF CONDUCT, COURSE OF DEALINGS,
+STATEMENTS (WHETHER VERBAL OR WRITTEN) OR ACTIONS OF ANY PARTY. THIS WAIVER
+CONSTITUTES A MATERIAL INDUCEMENT FOR EACH PARTY TO ENTER INTO THE TRANSACTION
+CONTEMPLATED HEREBY.
+
+ 8.12 RIGHT OF SET-OFF. Each Loan Party hereby grants to Lender, a lien,
+security interest and right of setoff as security for all liabilities and
+Obligations to Lender, whether now existing or hereafter arising, upon and
+against all deposits, credits, and property, now or hereafter in the possession,
+custody, safekeeping or control of Lender or any entity under the control of
+Lender, or in transit to any of them. At any time after the occurrence and
+during the continuance of any Event of Default without demand or notice, Lender
+may set off the same or any part thereof and apply the same to any liability or
+Obligation of any Loan Party even though unmatured.
+
+ 8.13 USURY. All agreements between any Loan Party and Lender are hereby
+expressly limited so that in no contingency or event whatsoever, whether by
+reason of acceleration of maturity of the indebtedness evidenced by the
+
+ 29
+
+Note or otherwise, shall the amount paid or agreed to be paid to Lender for the
+use, forbearance or detention of the indebtedness evidenced by the Notes exceed
+the maximum permissible under applicable law. In this regard, it is expressly
+agreed that it is the intent of the Loan Parties and Lender in the execution,
+delivery and acceptance of the Notes to contract in strict compliance with the
+laws of the State of New York from time to time in effect. If, from any
+circumstance whatsoever, fulfillment of any provision hereof or of said
+agreements at the time performance of such provision shall be due, shall involve
+transcending the limit of validity prescribed by law, then the obligation to be
+fulfilled shall automatically be reduced to the limit of such validity, and if
+from any circumstances Lender should ever receive as interest an amount which
+would exceed the highest lawful rate, such amount which would be excessive
+interest shall be applied to the reduction of the principal balance evidenced by
+the Notes and not to the payment of interest. This provision shall control every
+other provision of all agreements between the Loan Parties and Lender.
+
+ 8.14 TREATMENT OF CERTAIN INFORMATION. The Lender agrees to use
+reasonable precautions to keep confidential, in accordance with its customary
+procedures for handling confidential information of the same nature, all
+non-public information supplied by the Borrower or any Subsidiary pursuant to
+the Loan Documents which (i) is clearly identified by such Person as being
+confidential at the time the same is delivered to such Loan Party or (ii)
+constitutes any financial statement, financial projections or forecasts, budget,
+compliance certificate, audit report, management letter or accountants'
+certification delivered hereunder ("information"), PROVIDED that nothing herein
+shall limit the disclosure of any information (a) to the extent required by
+applicable laws or regulations or by any subpoena or similar legal process, or
+requested by any bank regulatory authority, (b) to auditors and accountants
+thereof, (c) to the extent such information (A) becomes publicly available other
+than as a result of a breach of this Agreement, (B) becomes available to Lender
+on a non-confidential basis from a source other than the Borrower or any of its
+Affiliates or (C) was available to the Lender on a non-confidential basis prior
+to its disclosure to any of them by the Borrower or any of its Affiliates; and
+(d) to the extent the Borrower shall have consented to such disclosure in
+writing. Notwithstanding anything herein to the contrary, the Lender may
+disclose to any and all persons, without limitation of any kind, any information
+with respect to the U.S. federal income tax treatment and U.S. federal income
+tax structure of the transactions contemplated hereby and all materials of any
+kind (including opinion or other tax analyses) that are provided to the Lender
+relating to such tax treatment and tax structure.
+
+ SIGNATURES ON FOLLOWING PAGE
+
+30
+
+IN WITNESS WHEREOF, this Agreement has been duly executed on the day and
+year specified at the beginning of this Agreement.
+
+BORROWER: SYMS CORP.
+
+ By: /s/ MARCY SYMS
+ --------------
+ Name: Marcy Syms
+ Title: Chief Executive Officer
+
+LENDER: ISRAEL DISCOUNT BANK OF NEW YORK
+
+ By: /s/ LISSA L. BAUM
+ -----------------
+ Lissa L. Baum
+ Executive Vice President
+
+ By: /s/ DOUGLAS BOTTNER
+ -------------------
+ Douglas Bottner
+ Vice President
+
+31
+
+APPENDIX A
+
+ GENERAL DEFINITIONS
+
+ When used in the Loan Agreement dated as of November [5], 2003 by and
+between Israel Discount Bank of New York, as Lender, and Syms Corp., as
+Borrower, the following terms shall have the following meanings (terms defined
+in the singular to have the same meaning when used in the plural and vice
+versa):
+
+ ACQUISITION - as defined in Section 5.2.1 of this Agreement.
+
+ ADJUSTED LIBOR RATE - for any LIBOR Interest Period applicable to any
+LIBOR Rate Loan, the rate per annum as determined on the basis of the British
+Bankers' Association ("BBA") "Interest Settlement Rate" for deposits, for a
+period of time comparable to such LIBOR Interest Period, in U.S. Dollars as it
+appears on the Dow Jones Telerate Service page 3750 (or such other pages as may
+replace page 3750 on that service or such other service as may by nominated by
+the BBA for the purpose of displaying BBA Interest Settlement Rates) as of 11:00
+a.m. London time on the day that is two (2) Business Days prior to the beginning
+of such LIBOR Interest Period; provided, however, if the rate described above
+does not so appear on any applicable interest determination date, the Adjusted
+LIBOR Rate shall be the rate for deposits in dollars for a period substantially
+equal to the interest period on the Reuters Page LIBO (or such other page as may
+replace the LIBO Page on that service for the purpose of displaying such rates)
+as of 11:00 a.m. (London time) on the day that is two (2) Business Days prior to
+the beginning of such LIBOR Interest Period.
+
+ If both the Telerate and Reuters system are unavailable, then the rate
+for that date will be determined on the basis of the offered rates for deposits
+in U.S. dollars for a period of time comparable to such LIBOR Interest Period
+which are offered by four major banks in the London interbank market at
+approximately 11:00 a.m. London time, on the day that is two (2) Business Days
+prior to the beginning of such LIBOR Interest Period preceding the first day of
+such LIBOR Rate Loan as selected by Lender. The principal London office of each
+of the four major London banks will be requested to provide a quotation of its
+U.S. dollar deposit offered rate. If at least two such quotations are provided,
+the rate for that date will be the arithmetic mean of all of the quotations. If
+fewer than two quotations are provided as requested, the rate for that date will
+be determined on the basis of the rates quoted for loans in U.S. dollars to
+leading European banks for a period of time comparable to such LIBOR Rate Loan
+offered by major banks in New York City at approximately 11:00 a.m. New York
+City time, on the day that is two London Business Days preceding the first day
+of such LIBOR Rate Loan. In the event that Lender is unable to obtain any such
+quotation as provided above, it will be deemed that the Adjusted LIBOR Rate
+pursuant to a LIBOR Rate Loan cannot be determined. In the event that the Board
+of Governors of the Federal Reserve system shall impose a Reserve Percentage
+with respect to Libor deposits of Lender, then for any period during which such
+Reserve Percentage shall apply, the Adjusted LIBOR Rate shall be equal to the
+amount determined above divided by an amount equal to 1 minus the Reserve
+Percentage.
+
+ AFFILIATE - a Person (other than a Subsidiary): (i) which directly or
+indirectly through one or more intermediaries controls, or is controlled by, or
+is under common control with, a Person;
+
+(ii) which beneficially owns or holds 5 or more of any class of the Voting
+Stock of a Person; or (iii) 5 or more of the Voting Stock (or in the case of a
+Person which is not a corporation, 5 or more of the equity interest) of which
+is beneficially owned or held by a Person or a Subsidiary of a Person.
+
+ AGREEMENT - the Loan Agreement referred to in the first sentence of
+this Appendix A, all Exhibits thereto and this Appendix A as each of the same
+may be amended, modified, renewed, extended, replaced, restated or substituted
+from time to time.
+
+ APPLICABLE MARGIN - means the following percentage points with respect
+to the Floating Rate or Adjusted LIBOR Rate, as applicable.
+
+ ----------------------------------------------------------------------------
+ LIBOR RATE LOAN APPLICABLE MARGIN FLOATING RATE LOAN APPLICABLE MARGIN
+ ----------------------------------------------------------------------------
+ 2.50 0 
+ ----------------------------------------------------------------------------
+
+ AUTHORIZED OFFICER - any officer of Borrower authorized by resolution
+of the Board of Directors of Borrower to execute documents, instruments,
+certificates and agreements on behalf of Borrower in favor of Lender and who is
+identified on either the incumbency certificate referenced in Section 6.1 herein
+or any updated incumbency certificate of the Borrower delivered to the Lender.
+
+ AVAILABLE COMMITMENT - at a particular time, an amount equal to the
+amount by which the Commitment exceeds the sum of (i) the aggregate unpaid
+principal amount at such time of all Loans made pursuant to Section 1.1, and
+(ii) the Lender Letter of Credit Obligations.
+
+ AVAILABLE LETTER OF CREDIT COMMITMENT - at any date shall mean the
+lesser of (a) the difference between the Letter of Credit Sublimit and the
+Lender Letter of Credit Obligations at such date and (b) the Available
+Commitment at such date.
+
+ BORROWING DATE - the Business Day specified in a Borrowing Notice
+delivered pursuant to Section 3.1.1 as the date on which Borrower requests a
+Loan.
+
+ BORROWING NOTICE - as defined in Section 3.1.1 of the Agreement.
+
+ BUSINESS DAY - any day other than a Saturday, Sunday, or other day on
+which commercial banks in New York, New York are authorized or required to close
+and, if the applicable day relates to a LIBOR Rate Loan or a LIBOR Interest
+Period, the day on which dealings in dollar deposits are also carried on in the
+London interbank market.
+
+ CAPITAL EXPENDITURES - cash expenditures made for the acquisition
+(other than in connection with an Acquisition) of any fixed assets or
+improvements, replacements, substitutions or additions thereto which have a
+useful life of more than one year, including the total principal
+
+A-2
+
+portion of Capitalized Lease Obligations excluding expenditures for the
+replacement of any assets leased under a Capitalized Lease Obligation in
+connection with a casualty or loss thereof.
+
+ CAPITALIZED LEASE OBLIGATION - any Indebtedness represented by
+obligations under a lease that is required to be capitalized for financial
+reporting purposes in accordance with GAAP.
+
+ COMMITMENT - as defined in Section 1.1 hereof.
+
+ COMMITMENT TERMINATION DATE - May 1, 2005
+
+ CONSOLIDATED - the consolidation in accordance with GAAP of the
+accounts or other items as to which such term applies.
+
+ CONSOLIDATED AND CONSOLIDATING - the consolidation and consolidating in
+accordance with GAAP of the accounts or other items as to which such term
+applies.
+
+ CONSOLIDATED CURRENT ASSETS shall mean, at any time, the consolidated
+current assets of the Borrower and its Subsidiaries, as determined in accordance
+with GAAP.
+
+ CONSOLIDATED CURRENT LIABILITIES shall mean, at any time, the
+consolidated current liabilities of the Borrower and its Subsidiaries, as
+determined in accordance with GAAP.
+
+ CONSOLIDATED NET INCOME shall mean, for any period, net income of the
+Borrower and its Subsidiaries for such period determined on a Consolidated basis
+in accordance with GAAP.
+
+ CONSOLIDATED TANGIBLE NET WORTH as of any date shall mean the excess of
+the Consolidated assets of the Borrower and its Consolidated Subsidiaries over
+their Consolidated liabilities, all as determined in accordance with GAAP, but
+excluding from such Consolidated assets all items that would be considered
+"intangible assets" under GAAP and excluding from Consolidated liabilities all
+Subordinated Debt.
+
+ CONSOLIDATED UNSUBORDINATED INDEBTEDNESS as of any date shall mean all
+Indebtedness of the Borrower and its Subsidiaries on a consolidated basis other
+than Subordinated Debt.
+
+ CREDIT FACILITY - the credit facility established by Lender for the
+making of Loans and the issuance of Letters of Credit pursuant to the Agreement.
+
+ CREDIT PERIOD - as defined in Section 1.1 hereof.
+
+ DEFAULT - an event or condition, the occurrence of which would, with
+the lapse of time or the giving of notice, or both, become an Event of Default.
+
+ DEFAULT RATE - in respect of any Loans not paid when due (whether at
+stated maturity, by acceleration or otherwise), a rate of interest per annum
+during the period commencing on the due date thereof until such Loans are paid
+in full equal to (a) in respect of the principal amount of Floating Rate Loans,
+3 in excess of the Prime Rate as in effect from time to time plus the
+Applicable Margin, and (b) in respect of the principal amount of LIBOR Rate
+Loans, 3 in
+
+ A-3
+
+excess of the Adjusted LIBOR Rate in effect thereon at the time of such default
+plus the Applicable Margin until the end of the then current LIBOR Interest
+Period therefor and, thereafter, 3 in excess of the Prime Rate as in effect
+from time to time plus the Applicable Margin; and in respect of other amounts
+payable by any Borrower hereunder (including interest) not paid when due
+(whether at stated maturity, by acceleration or otherwise), a rate per annum
+during the period commencing on the due date until such other amounts are paid
+in full equal to 3 in excess of the Prime Rate as in effect from time to time
+plus the Applicable Margin.
+
+ DEFICIENCY BALANCE FEE - as defined in Section 2.5 of the Agreement.
+
+ DIVIDENDS shall mean all dividends declared or paid by the Borrower,
+whether in cash or by the distribution of property (other than capital stock of
+the Borrower), and any money or other property paid or distributed by the
+Borrower in connection with the purchase, redemption, cancellation or retirement
+of any capital stock of the Borrower.
+
+ DOLLARS OR OR US - lawful currency of the United States of America.
+
+ EMPLOYEE PENSION BENEFIT PLAN - means any employee pension benefit
+plan, as defined in Section 3(2) of ERISA, now or hereafter maintained for
+employees of Borrower.
+
+ ENVIRONMENTAL LAWS - all federal, state and local laws, rules,
+regulations, ordinances, permits, guidance, orders and consent decrees relating
+to protection of the environment.
+
+ ERISA - the Employee Retirement Income Security Act of 1974, as
+amended, and all rules and regulations from time to time promulgated thereunder.
+
+ EVENT OF DEFAULT - as defined in Section 7.1 of the Agreement.
+
+ FLOATING RATE - a rate of interest equal to the Prime Rate plus the
+Applicable Margin.
+
+ FLOATING RATE LOANS - collectively, all Loans bearing interest at the
+Floating Rate.
+
+ GAAP - generally accepted accounting principles in the United States of
+America, as in effect from time to time.
+
+ HAZARDOUS MATERIALS - any flammable explosives, radioactive materials,
+hazardous materials, hazardous wastes, hazardous or toxic substances, defined in
+the Comprehensive Environmental Response, Compensation, and Liability Act of
+1980, as amended (42 U.S.C. Sections 9601, et seq.), the Hazardous Materials
+Transportation Act, as amended (49 U.S.C. Sections 1801, et seq.), the Resource
+Conservation and Recovery Act, as amended (42 U.S.C. Sections 9601, et seq.),
+and in the regulations adopted pursuant thereto, or in any other Environmental
+Law.
+
+ INDEBTEDNESS - as applied to a Person means, without duplication
+
+SECTION 1: all items, which in accordance with GAAP would be included in
+determining total liabilities as shown on the liability side of a balance sheet
+of such Person as at
+
+A-4
+
+the date as of which Indebtedness is to be determined, including, without
+limitation, Capitalized Lease Obligations,
+
+ (ii) all obligations of other Persons which such Person has
+guaranteed,
+
+ (iii) all reimbursement obligations in connection with letters of
+credit or letter of credit guaranties issued for the account of such Person, and
+
+ (iv) in the case of Borrower, the Obligations.
+
+ INDEBTEDNESS FOR MONEY BORROWED - means (i) Indebtedness arising from
+the lending of money by any Person to the Borrower, including Indebtedness (A)
+which is represented by notes payable or drafts accepted that evidence
+extensions of credit, (B) which constitutes obligations evidenced by bonds,
+debentures, notes or similar instruments, or (C) that was issued or assumed on a
+deferred basis as full or partial payment for Property (other than obligations,
+if any, to retail or wholesale customers in respect of deposits, lay-a-way
+payments or other similar obligations); (ii) Indebtedness that constitutes a
+Capitalized Lease Obligation; (iii) reimbursement obligations with respect to
+letters of credit or guaranties of letters of credit and (iv) Indebtedness of a
+Loan Party under any guaranty of obligations that would constitute Indebtedness
+for Money Borrowed under clauses (i) through (iii) hereof, if owed directly by a
+Loan Party.
+
+ LETTER OF CREDIT SUBLIMIT - 20,000,000.
+
+ LENDER LETTER OF CREDIT OBLIGATIONS - at any date shall mean the sum of
+(a) the aggregate undrawn amount at such date of all outstanding Letters of
+Credit issued by Lender pursuant to this Agreement, plus (b) the amount of all
+Unpaid Drawings relating to such Letters of Credit, less cash collateral
+securing the same.
+
+ LETTER(S) OF CREDIT - any standby or documentary letter of credit
+issued under the terms hereof.
+
+ LIBOR BASED RATE - a rate of interest on the Loans equal to the
+Adjusted LIBOR Rate plus the Applicable Margin.
+
+ LIBOR INTEREST PERIOD - a period of one, two or three months duration
+during which the LIBOR Based Rate is applicable.
+
+ LIBOR RATE LOANS - collectively, all Loans bearing interest at the
+LIBOR Based Rate.
+
+ LIEN - any interest in Property securing an obligation owed to, or a
+claim by, a Person other than the owner of the Property, whether such interest
+is based on common law, statute or contract and including, without limitation,
+the security interest, security title or lien arising from a security agreement,
+mortgage, deed of trust, deed to secure debt, encumbrance, pledge, conditional
+sale or trust receipt, or a lease, consignment or bailment for security
+purposes. For the purpose of the Agreement, Borrower shall be deemed to be the
+owner of any Property which it has acquired or holds subject to a conditional
+sale agreement or other arrangement pursuant to
+
+ A-5
+
+which title to the Property has been retained by or vested in some other Person
+for security purposes.
+
+ LINE FEE - as defined in Section 2.3 of the Agreement.
+
+ LOAN DOCUMENTS - the Agreement, the Notes and the Other Agreements, as
+each of the same may be amended, modified, renewed, extended, replaced, restated
+or substituted from time to time.
+
+ LOANS - all loans and advances of any kind made by Lender pursuant to
+the Agreement.
+
+ LOAN PARTY - each of Borrower and any Significant Subsidiary of
+Borrower.
+
+ MAXIMUM REVOLVING CREDIT AMOUNT - 20,000,000.
+
+ MULTIEMPLOYER PLAN - means a Plan which is described in Section
+4001(a)(3) of ERISA.
+
+ NET OPERATING LOSS AFTER TAXES means, for any period, the operating
+loss of the Borrower and its Consolidated Subsidiaries determined in accordance
+with GAAP adjusted for provision for income taxes and without giving effect to
+any extraordinary gains or losses or gains or losses from sales of assets other
+than inventory sold in the ordinary course of business.
+
+ NET PROCEEDS - for any period, the net cash proceeds received by the
+Borrower and its Subsidiaries on a Consolidated basis during such period in
+connection with the sale, transfer or other disposition of any fixed assets.
+
+ NOTE - the Revolving Credit Note.
+
+ OBLIGATIONS - all Loans, Unpaid Drawings, Lender Letter of Credit
+Obligations, and all other advances, debts, liabilities, obligations, covenants
+and duties, together with all interest, fees and other charges thereon, owing,
+arising, due or payable from Borrower, or either of them, to Lender of any kind
+or nature, present or future, arising under the Agreement or any of the other
+Loan Documents and whether direct or indirect (including those acquired by
+assignment), absolute or contingent, primary or secondary, due or to become due,
+now existing or hereafter arising and however acquired. The term includes
+without limitation, all interest, charges, fees, expenses, attorneys' fees, and
+any other sums chargeable to Borrower under any of the Loan Documents.
+
+ OTHER AGREEMENTS - any and all agreements and instruments (other than
+the Agreement), heretofore, now or hereafter executed by Borrower, any other
+Loan Party, or any guarantor, and delivered to Lender in respect of the
+transactions contemplated by the Agreement, as each of the same may be amended,
+modified, renewed, extended, replaced, restated or substituted from time to
+time.
+
+ PARTICIPATION - as defined in Section 11.3(b) of the Agreement.
+
+A-6
+
+PERMITTED ACQUISITION - an Acquisition by any Borrower or its
+Subsidiaries which satisfies all of the following requirements: (a) no Event of
+Default exists hereunder or would exist immediately after giving effect to such
+Acquisition; (b) the Purchased Business engages in the same, similar or related
+lines of business as Borrower's; (c) in the case of a merger or consolidation,
+and in other cases where appropriate, the board of directors or other governing
+body of the other Person which is the subject of the transaction of merger or
+consolidation shall have approved such Acquisition; (d) the Loan Parties shall
+have delivered to Lender a certificate from the chief financial officer of
+Borrower stating that the Acquisition constitutes a Permitted Acquisition (as
+defined under the Loan Agreement) and will not result, immediately after giving
+effect thereto, in Event of Default, together with: (i) a compliance certificate
+demonstrating financial covenant compliance under Section 5.3 before giving
+effect to such Acquisition; and (ii) a pro forma compliance certificate
+demonstrating that, upon giving effect to such Acquisition on a PRO FORMA basis
+(i.e., calculations being made after giving effect to the Acquisition during the
+tested period as if such transaction had occurred on the first day of such
+period), the Loan Parties shall be in compliance with all of the covenants set
+forth in Section 5.3; (e) the consideration (including cash consideration and
+any assumption of Indebtedness for Money Borrowed, but excluding consideration
+consisting of any capital stock of Borrower issued to the seller or the capital
+stock or other Property which is the subject of the Acquisition) paid, shall not
+exceed 2,500,000 for any one Acquisition (whether in one instance or series of
+related transactions) or 5,000,000 in the aggregate for all Acquisitions in any
+twelve month period without the consent of Lender; and (f) Borrower shall have
+given Lender ten (10) days written notice prior to the consummation of such
+Acquisition.
+
+ PERMITTED LIENS - any Lien of a kind specified in Section 5.2.5 of the
+Agreement.
+
+ PERMITTED PURCHASE MONEY INDEBTEDNESS - Purchase Money Indebtedness of
+Borrower incurred after the date hereof which is secured by a Purchase Money
+Lien and which, when aggregated with the principal amount of all other Purchase
+Money Indebtedness of Borrower and Capitalized Lease Obligations of Borrower at
+the time outstanding, does not exceed 1,000,000.
+
+ PERSON - an individual, partnership, corporation, limited liability
+company, joint stock company, land trust, business trust, unincorporated
+organization, or a government or agency or political subdivision thereof, or any
+other type of entity.
+
+ PRIME RATE - a fluctuating per annum rate of interest so designated or
+publicly announced from time to time by Lender as its prime rate for commercial
+loans. The Prime Rate is a reference rate and does not necessarily represent the
+lowest or best rate being charged to any customer.
+
+ PROJECTIONS - Borrower's forecasted Consolidated and Consolidating (a)
+balance sheets, (b) profit and loss statements, and (c) cash flow statements,
+all prepared on a consistent basis with Borrower's historical financial
+statements, together with appropriate supporting details and a statement of
+underlying assumptions.
+
+ PROPERTY - any interest in any kind of property or asset, whether real,
+personal or mixed, or tangible or intangible.
+
+A-7
+
+PURCHASE MONEY INDEBTEDNESS - means and includes (i) Indebtedness
+(other than the Obligations) for the payment of all or any part of the purchase
+price of any fixed assets, (ii) any Indebtedness for Money Borrowed (other than
+the Obligations) incurred at the time of or within 90 days prior to or after the
+acquisition or construction of any fixed assets for the purchase price thereof,
+and (iii) any renewals, extensions or refinancings thereof, but not any
+increases in the principal amounts thereof outstanding at the time. Purchase
+Money Indebtedness shall not include any Capitalized Lease Obligation.
+
+ PURCHASE MONEY LIEN - a Lien upon fixed assets which secures Purchase
+Money Indebtedness, but only if such Lien shall at all times be confined solely
+to the fixed assets (which shall be deemed to include all accessions thereto,
+proceeds thereof and appurtenances (whether tangible or intangible) thereto),
+the purchase price of which was financed through the incurrence of the Purchase
+Money Indebtedness secured by such Lien.
+
+ PURCHASED BUSINESS - the business purchased in an Acquisition.
+
+ REGULATION D - Regulation D of the Board of Governors of the Federal
+Reserve System, comprising Part 204 of Title 12, Code of Federal Regulations, as
+amended, and any successor thereto.
+
+ RENTALS - means, as of the date of determination, all payments which
+the lessee is required to make by the terms of any lease.
+
+ REPORTABLE EVENT - any of the events set forth in Section 4043(b) of
+ERISA with respect to which the PBGC has not waived the notice requirement
+provided for in that Section.
+
+ RESERVE - for any day, that reserve (expressed as a decimal) which is
+in effect (whether or not actually incurred) with respect to Lender on such day,
+as prescribed by the Board of Governors of the Federal Reserve System (or any
+successor or any other banking authority to which Lender is subject including
+any board or governmental or administrative agency of the United States or any
+other jurisdiction to which Lender is subject), for determining the maximum
+reserve requirement (including without limitation any basic, supplemental,
+marginal or emergency reserves) for Eurocurrency liabilities as defined in
+Regulation D.
+
+ RESERVE PERCENTAGE - for Lender on any day, that percentage (expressed
+as a decimal) which is in effect on such day, prescribed by the Board of
+Governors of the Federal Reserve System (or any successor or any other banking
+authority to which Lender is subject, including any board or governmental or
+administrative agency of the United States or any other jurisdiction to which
+Lender is subject) for determining the maximum reserve requirement (including
+without limitation any basic, supplemental, marginal or emergency reserves) for
+"Eurocurrency liabilities" as defined in Regulation D, in each case used to fund
+a LIBOR Rate Loan subject to an Adjusted LIBOR Rate. The Adjusted LIBOR Rate
+shall be adjusted automatically on and as of the effective day of any change in
+the Reserve Percentage.
+
+ RESTRICTED INVESTMENT - any investment made in cash or by delivery of
+Property to any Person, whether by acquisition of stock, Indebtedness or other
+obligation or Security, or by loan, advance or capital contribution, or
+otherwise, or in any Property except the following:
+
+ A-8
+
+(i) investments in one or more Subsidiaries of the Borrower and
+investments by one or more Subsidiaries of the Borrower in the Borrower or any
+other Subsidiary thereof;
+
+ (ii) property (excluding real property) to be used in the ordinary
+course of business;
+
+ (iii) current assets arising from the sale of goods and services in
+the ordinary course of business of a Borrower;
+
+ (iv) investments in direct obligations of the United States of
+America, or any agency thereof or obligations guaranteed by the United States of
+America, provided that such obligations mature within one year from the date of
+acquisition thereof;
+
+ (v) investments in certificates of deposit, bankers acceptances and
+other "money market instruments" maturing within one year from the date of
+acquisition issued by Israel Discount Bank of New York or any of its
+subsidiaries and Affiliates or by any other financial institution organized
+under the laws of the United States, any state thereof having capital surplus
+and undivided profits aggregating at least 100,000,000;
+
+ (vi) investments in commercial paper given the highest rating by a
+national credit rating agency and maturing not more than 270 days from the date
+of creation thereof;
+
+ (vii) repurchase agreements maturing not more than 90 days after
+the acquisition thereof, entered into with any bank or trust company organized
+under the laws of the United States of America, any State thereof having capital
+and surplus in an aggregate amount of not less than 500,000,000 relating to
+United States of America government obligations;
+
+ (viii) mutual funds that invest in any of the foregoing;
+
+ (ix) Permitted Acquisitions; and
+
+ (x) investments permitted by Section 5.2.2;
+
+ (xi) Capital Expenditures permitted by section 5.3.4; and
+
+ (xii) other investments having an aggregate outstanding unrecovered
+cost not in excess of 500,000.
+
+ REVOLVING CREDIT LOANS - revolving credit loans made by Lender to
+Borrower during the Credit Period pursuant to Section 1.1 of the Agreement.
+
+ REVOLVING CREDIT NOTE - the promissory note in substantially the form
+of Exhibit A hereto, to be executed by Borrower in favor of Lender to evidence
+Borrower's obligation to repay the Revolving Credit Loans.
+
+ SECURITY - shall have the same meaning as in Section 2(1) of the
+Securities Act of 1933, as amended.
+
+A-9
+
+SIGNIFICANT SUBSIDIARY - shall have the same meaning as set forth in
+Rule 1-02 of Regulation S-X as promulgated by the Securities and Exchange
+Commission.
+
+ SINGLE EMPLOYER PLAN - means an Employee Benefit Plan which is
+described in Section 4001(a)(15) of ERISA.
+
+ SOLVENT - as to any Person, such Person (i) owns Property whose fair
+saleable value is greater than the amount required to pay all of such Person's
+liabilities (including contingent debts), (ii) is able to pay all of its
+liabilities as such liabilities mature and (iii) has capital sufficient to carry
+on its business and transactions and all business and transactions in which it
+is about to engage.
+
+ SUBORDINATED DEBT - unsecured Indebtedness for Money Borrowed of
+Borrower or any Subsidiary of Borrower that is subordinated to the Obligations
+in a manner, under terms and subject to a written agreement satisfactory to
+Lender.
+
+ SUBSIDIARY - any corporation of which a Person owns, directly or
+indirectly through one or more intermediaries, more than 50 of the Voting Stock
+at the time of determination.
+
+ UNPAID DRAWINGS - as defined in Section 1.3.
+
+ VOTING STOCK - Securities of any class or classes of a corporation the
+holders of which are ordinarily, in the absence of contingencies, entitled to
+elect a majority of the corporate directors (or Persons performing similar
+functions).
+
+ WORKING CAPITAL as of any date shall mean Consolidated Current Assets
+minus Consolidated Current Liabilities.
+
+ CERTAIN MATTERS OF CONSTRUCTION. The terms "herein", "hereof" and
+"hereunder" and other words of similar import refer to the Agreement as a whole
+and not to any particular section, paragraph or subdivision. Any pronoun used
+shall be deemed to cover all genders. The section titles, table of contents and
+list of exhibits appear as a matter of convenience only and shall not affect the
+interpretation of the Agreement. All references to statutes and related
+regulations shall include any amendments of same and any successor statutes and
+regulations. All references to any of the Loan Documents shall include any and
+all modifications thereto and any and all extensions or renewals thereof.
+
+A-10
+
+</EX-10.50>
+
+<EX-31.1>
+ 4
+ c30318_ex31-1.txt
+
+Exhibit 31.1
+
+I, Marcy Syms, Chief Executive Officer of Syms Corp, certify that:
+
+ 1. I have reviewed this quarterly report on Form 10-Q of Syms Corp;
+
+ 2. Based on my knowledge, this report does not contain any untrue statement
+ of a material fact or omit to state a material fact necessary to make
+ the statements made, in light of the circumstances under which such
+ statements were made, not misleading with respect to the period covered
+ by this report;
+
+3. Based on my knowledge, the financial statements, and other financial
+ information included in this report, fairly present in all material
+ respects the financial condition, results of operations and cash flows
+ of the registrant as of, and for, the periods presented in this report;
+
+4. The registrant's other certifying officer and I are responsible for
+ establishing and maintaining disclosure controls and procedures (as
+ defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) for the
+ registrant and have:
+
+ a. designed such disclosure controls and procedures, or caused such
+ disclosure controls and procedures to be designed under our
+ supervision, to ensure that material information relating to the
+ registrant, including its consolidated subsidiaries, is made known
+ to us by others within those entities, particularly during the
+ period in which this report is being prepared;
+
+b. evaluated the effectiveness of the registrant's disclosure controls
+ and procedures and presented in this report our conclusions about
+ the effectiveness of the disclosure controls and procedures, as of
+ the end of the period covered by this report based on such
+ evaluation; and
+
+ c. disclosed in this report any change in the registrant's internal
+ control over financial reporting that occurred during the
+ registrant's most recent fiscal quarter (the registrant's fourth
+ fiscal quarter in the case of an annual report) that has materially
+ affected, or is reasonably likely to materially affect, the
+ registrant's internal control over financial reporting; and
+
+ 5. The registrant's other certifying officer and I have disclosed, based on
+ our most recent evaluation of internal control over financial reporting,
+ to the registrant's auditors and the audit committee of registrant's
+ board of directors (or persons performing the equivalent function):
+
+ a. all significant deficiencies and material weaknesses in the design
+ or operation of internal control over financial reporting which are
+ reasonably likely to adversely affect the registrant's ability to
+ record, process, summarize and report financial information; and
+
+b. any fraud, whether or not material, that involves management or
+ other employees who have a significant role in the registrant's
+ internal control over financial reporting.
+
+Date: January 9, 2004
+
+By: /s/ Marcy Syms
+ --------------
+ Marcy Syms
+ Chief Executive Officer
+ Syms Corp
+
+</EX-31.1>
+
+<EX-31.2>
+ 5
+ c30318_ex31-2.txt
+
+Exhibit 31.2
+
+I, Antone F. Moreira, Chief Financial Officer of Syms Corp, certify that:
+
+ 1. I have reviewed this quarterly report on Form 10-Q of Syms Corp;
+
+ 2. Based on my knowledge, this report does not contain any untrue statement
+ of a material fact or omit to state a material fact necessary to make
+ the statements made, in light of the circumstances under which such
+ statements were made, not misleading with respect to the period covered
+ by this report;
+
+3. Based on my knowledge, the financial statements, and other financial
+ information included in this report, fairly present in all material
+ respects the financial condition, results of operations and cash flows
+ of the registrant as of, and for, the periods presented in this report;
+
+4. The registrant's other certifying officer and I are responsible for
+ establishing and maintaining disclosure controls and procedures (as
+ defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) for the
+ registrant and have:
+
+ a. designed such disclosure controls and procedures, or caused such
+ disclosure controls and procedures to be designed under our
+ supervision, to ensure that material information relating to the
+ registrant, including its consolidated subsidiaries, is made known
+ to us by others within those entities, particularly during the
+ period in which this report is being prepared;
+
+ b. evaluated the effectiveness of the registrant's disclosure controls
+ and procedures and presented in this report our conclusions about
+ the effectiveness of the disclosure controls and procedures, as of
+ the end of the period covered by this report based on such
+ evaluation; and
+
+ c. disclosed in this report any change in the registrant's internal
+ control over financial reporting that occurred during the
+ registrant's most recent fiscal quarter (the registrant's fourth
+ fiscal quarter in the case of an annual report) that has materially
+ affected, or is reasonably likely to materially affect, the
+ registrant's internal control over financial reporting; and
+
+ 5. The registrant's other certifying officer and I have disclosed, based on
+ our most recent evaluation of internal control over financial reporting,
+ to the registrant's auditors and the audit committee of registrant's
+ board of directors (or persons performing the equivalent function):
+
+ a. all significant deficiencies and material weaknesses in the design
+ or operation of internal control over financial reporting which are
+ reasonably likely to adversely affect the registrant's ability to
+ record, process, summarize and report financial information; and
+
+b. any fraud, whether or not material, that involves management or
+ other employees who have a significant role in the registrant's
+ internal control over financial reporting.
+
+Date: January 9, 2004
+
+By: /s/ Antone F. Moreira
+ ---------------------
+ Antone F. Moreira
+ Chief Financial Officer
+ Syms Corp
+
+</EX-31.2>
+
+<EX-32.1>
+ 6
+ c30318_ex32-1.txt
+
+Exhibit 32.1
+
+ CERTIFICATION PURSUANT TO
+ 18 U.S.C. SECTION 1350,
+ AS ADOPTED PURSUANT TO
+ SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002
+
+In connection with the quarterly report of Syms Corp (the "Company") on
+Form 10-Q for the period ended November 29, 2003 as filed with the Securities
+and Exchange Commission on the date hereof (the "Report"), I, Marcy Syms, Chief
+Executive Officer of the Company, certify, to the best of my knowledge, pursuant
+to 18 U.S.C. ss. 1350, as adopted pursuant to ss. 906 of the Sarbanes-Oxley Act
+of 2002, that:
+
+ (1) The Report fully complies with the requirements of Section
+13(a) or 15(d) of the Securities Exchange Act of 1934; and
+
+ (2) The information contained in the Report fairly presents,
+in all material respects, the financial condition and results of operations of
+the Company.
+
+- --------------------------------------------------------------------------------
+
+ /s/ MARCY SYMS
+ --------------
+ Marcy Syms
+ Chief Executive Officer
+ Syms Corp
+ January 9, 2004
+
+- --------------------------------------------------------------------------------
+
+A signed original of this written statement required by Section 906, or other
+document authenticating, acknowledging, or otherwise adopting the signature that
+appears in typed form within the electronic version of this written statement
+required by Section 906, has been provided to the Company and will be retained
+by the Company and furnished to the Securities and Exchange Commission or its
+staff upon request.
+
+</EX-32.1>
+
+<EX-32.2>
+ 7
+ c30318_ex32-2.txt
+ 
+ Exhibit 32.2
+
+ CERTIFICATION PURSUANT TO
+ 18 U.S.C. SECTION 1350,
+ AS ADOPTED PURSUANT TO
+ SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002
+
+In connection with the quarterly report of Syms Corp (the "Company") on
+Form 10-Q for the period ended November 29, 2003 as filed with the Securities
+and Exchange Commission on the date hereof (the "Report"), I, Antone F. Moreira,
+Chief Financial Officer of the Company, certify, to the best of my knowledge,
+pursuant to 18 U.S.C. ss. 1350, as adopted pursuant to ss. 906 of the
+Sarbanes-Oxley Act of 2002, that:
+
+ (1) The Report fully complies with the requirements of Section
+13(a) or 15(d) of the Securities Exchange Act of 1934; and
+
+ (2) The information contained in the Report fairly presents,
+in all material respects, the financial condition and results of operations of
+the Company.
+
+- --------------------------------------------------------------------------------
+
+ /s/ ANTONE F. MOREIRA
+ ---------------------
+ Antone F. Moreira
+ Chief Financial Officer
+ Syms Corp
+ January 9, 2004
+
+- --------------------------------------------------------------------------------
+
+A signed original of this written statement required by Section 906, or other
+document authenticating, acknowledging, or otherwise adopting the signature that
+appears in typed form within the electronic version of this written statement
+required by Section 906, has been provided to the Company and will be retained
+by the Company and furnished to the Securities and Exchange Commission or its
+staff upon request.
+
+</EX-32.2>
+

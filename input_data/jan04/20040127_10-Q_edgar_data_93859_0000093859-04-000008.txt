@@ -1,0 +1,1008 @@
+<Header>
+<FileStats>
+    <FileName>20040127_10-Q_edgar_data_93859_0000093859-04-000008.txt</FileName>
+    <GrossFileSize>55992</GrossFileSize>
+    <NetFileSize>40739</NetFileSize>
+    <NonText_DocumentType_Chars>0</NonText_DocumentType_Chars>
+    <HTML_Chars>481</HTML_Chars>
+    <XBRL_Chars>0</XBRL_Chars>
+    <XML_Chars>0</XML_Chars>
+    <N_Exhibits>0</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0000093859-04-000008.hdr.sgml : 20040127
+<ACCEPTANCE-DATETIME>20040127143353
+ACCESSION NUMBER:		0000093859-04-000008
+CONFORMED SUBMISSION TYPE:	10-Q
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20031217
+FILED AS OF DATE:		20040127
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			STEAK & SHAKE CO
+		CENTRAL INDEX KEY:			0000093859
+		STANDARD INDUSTRIAL CLASSIFICATION:	RETAIL-EATING PLACES [5812]
+		IRS NUMBER:				370684070
+		STATE OF INCORPORATION:			IN
+		FISCAL YEAR END:			0927
+
+	FILING VALUES:
+		FORM TYPE:		10-Q
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-12373
+		FILM NUMBER:		04545937
+
+	BUSINESS ADDRESS:	
+		STREET 1:		36 S PENNSYLVANIA ST
+		STREET 2:		CENTURY BLDG - 500
+		CITY:			INDIANAPOLIS
+		STATE:			IN
+		ZIP:			46236
+		BUSINESS PHONE:		3176334100
+
+	MAIL ADDRESS:	
+		STREET 1:		36 S PENNSYLVANIA ST
+		STREET 2:		CENTURY BLDG - 500
+		CITY:			INDIANAPOLIS
+		STATE:			IN
+		ZIP:			46204
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	CONSOLIDATED PRODUCTS INC /IN/
+		DATE OF NAME CHANGE:	19920703
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	STEAK N SHAKE INC
+		DATE OF NAME CHANGE:	19840529
+
+</SEC-Header>
+</Header>
+
+ 
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ KtJQQJ9c4zbMlouObYcCnEEmLpmVoUB7Um1ePqw4xsceRC9Mcx6kLP9UA0xWehPB
+ 7fkRYnz3LxYFmosKwgpmPg==
+
+ 0000093859-04-000008.txt : 20040127
+
+10-Q
+ 1
+ q1form10q.txt
+ Q1 FORM 10-Q 2004
+
+- SECURITIES AND EXCHANGE COMMISSION
+ Washington, D. C. 20549
+
+ FORM 10-Q
+
+[ X ] QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES
+ EXCHANGE ACT OF 1934 FOR THE TWELVE WEEKS ENDED DECEMBER 17, 2003
+
+OR
+
+[ ] TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES
+ EXCHANGE ACT OF 1934
+
+Commission file number 0-8445
+
+THE STEAK N SHAKE COMPANY
+ (Exact name of registrant as specified in its charter)
+
+ INDIANA 37-0684070
+(State or other jurisdiction (I.R.S. Employer
+of incorporation or organization) Identification No.)
+
+ 36 S. Pennsylvania Street, Suite 500
+ Indianapolis, Indiana 46204
+ (317) 633-4100
+ (Address, including zip code, and telephone number,
+ including area code, of registrant's principal executive offices)
+
+Indicate by check mark whether the registrant (1) has filed all reports
+required to be filed by Section 13 or 15(d) of the Securities Exchange Act of
+1934 during the preceding 12 months (or for such shorter period that the
+registrant was required to file such reports), and (2) has been subject to such
+filing requirements for the past 90 days.
+Yes X No
+ -- --
+
+ Indicate by check mark whether the registrant is an accelerated filer (as
+defined in Exchange Act rule 12b-2). Yes X No
+ -- --
+
+Number of shares of Common Stock outstanding at January 16, 2004:
+27,378,686
+
+THE STEAK N SHAKE COMPANY
+
+ INDEX
+
+PART I. FINANCIAL INFORMATION Page No.
+
+ITEM 1. FINANCIAL STATEMENTS
+ Condensed Consolidated Statements of Financial Position
+ as of December 17, 2003 (Unaudited) and September 24, 2003 3
+
+ Condensed Consolidated Statements of Earnings (Unaudited)
+ for the Twelve Weeks Ended December 17, 2003 and December 18, 2002 5
+
+ Condensed Consolidated Statements of Cash Flows (Unaudited)
+ for the Twelve Weeks Ended December 17, 2003 and December 18, 2002 6
+
+ Notes to Condensed Consolidated Financial Statements (Unaudited) 7
+
+ITEM 2. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION
+ AND RESULTS OF OPERATIONS 10
+
+ITEM 3. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK 13
+
+ITEM 4. CONTROLS AND PROCEDURES 14
+
+PART II. OTHER INFORMATION
+
+ITEM 6. EXHIBITS AND REPORTS ON FORM 8-K 15
+
+PART I. FINANCIAL INFORMATION
+
+ITEM 1. FINANCIAL STATEMENTS
+
+THE STEAK N SHAKE COMPANY
+ CONDENSED CONSOLIDATED STATEMENTS OF FINANCIAL POSITION
+
+DECEMBER 17, SEPTEMBER 24,
+ 2003 2003
+ -------------- ---------------
+(UNAUDITED)
+ 
+ASSETS:
+CURRENT ASSETS
+ Cash, including cash equivalents of 22,210,000 in
+ 2004 and 22,975,000 in 2003 23,801,955 24,794,540
+ Short-term investments 1,109,000 949,000
+ Receivables, net 3,247,611 3,470,976
+ Inventories 5,498,658 5,757,275
+ Deferred income taxes 2,153,000 2,470,000
+ Assets held for sale 3,573,369 -
+ Other current assets 2,593,767 1,814,206
+Total current assets 41,977,360 39,255,997
+
+PROPERTY AND EQUIPMENT
+ Land 133,687,588 134,779,311
+ Buildings 130,924,536 129,370,353
+ Leasehold improvements 92,215,520 91,793,031
+ Equipment 144,094,211 142,194,528
+ Construction in progress 7,816,457 8,274,263
+ -------------- ---------------
+ 508,738,312 506,411,486
+ Less accumulated depreciation and amortization (149,188,851) (145,532,776)
+ -------------- ---------------
+ Net property and equipment 359,549,461 360,878,710
+
+NET LEASED PROPERTY 3,640,850 3,721,063
+
+OTHER ASSETS
+ Long-term investments 5,001,133 5,001,280
+ Other assets 4,201,932 4,463,999
+ Intangible assets 1,286,956 1,314,534
+ -------------- ---------------
+Total other assets 10,490,021 10,779,813
+ -------------- ---------------
+Total assets 415,657,692 414,635,583
+ ============== ===============
+
+See accompanying notes
+
+DECEMBER 17, SEPTEMBER 24,
+ 2003 2003
+ -------------- ---------------
+(UNAUDITED)
+ 
+LIABILITIES AND SHAREHOLDERS' EQUITY:
+CURRENT LIABILITIES
+ Accounts payable 20,297,423 17,460,997
+ Accrued expenses 28,421,968 32,718,439
+ Current portion of senior note 6,036,270 8,215,397
+ Current portion of obligations under capital leases 3,457,424 3,400,847
+ ------------- --------------
+Total current liabilities 58,213,085 61,795,680
+
+DEFERRED INCOME TAXES 3,047,000 2,876,000
+
+DEFERRED CREDITS 21,887 21,887
+
+OBLIGATIONS UNDER CAPITAL LEASES 144,278,640 145,124,559
+
+SENIOR NOTE 16,203,175 16,203,175
+
+SHAREHOLDERS' EQUITY
+ Common stock -- .50 stated value,
+ 50,000,000 shares authorized --
+ shares issued: 30,332,839 in 2004 and 2003 15,166,420 15,166,420
+ Additional paid-in capital 123,388,452 123,179,523
+ Retained earnings 92,703,932 88,113,794
+ Less: Unamortized value of restricted shares (1,840,131) (195,173)
+ Treasury stock -- at cost
+ 3,102,408 shares in 2004 and 3,264,165 in 2003 (35,524,768) (37,650,282)
+Total shareholders' equity 193,893,905 188,614,282
+ -------------- ---------------
+Total liabilities and shareholders' equity 415,657,692 414,635,583
+ ============== ===============
+
+See accompanying notes
+
+THE STEAK N SHAKE COMPANY
+ CONDENSED CONSOLIDATED STATEMENTS OF EARNINGS
+ (UNAUDITED)
+
+TWELVE WEEKS ENDED
+ --------------------
+ DECEMBER 17, DECEMBER 18,
+ 2003 2002
+ --------------- --------------
+ 
+REVENUES
+ Net sales 113,515,648 101,284,729
+ Franchise fees 957,165 770,030
+ -------------- -------------
+Total revenues 114,472,813 102,054,759
+
+COSTS AND EXPENSES
+ Cost of sales 26,571,398 22,752,278
+ Restaurant operating costs 57,133,360 51,742,281
+ General and administrative 9,134,845 8,212,768
+ Depreciation and amortization 5,552,748 5,439,226
+ Marketing 4,224,152 3,655,650
+ Interest 3,006,441 3,215,398
+ Rent 1,896,526 1,602,492
+ Pre-opening costs 379,888 628,023
+ Other income, net (513,686) (483,413)
+ -------------- --------------
+Total costs and expenses 107,385,672 96,764,703
+
+EARNINGS BEFORE INCOME TAXES 7,087,141 5,290,056
+ -------------- --------------
+INCOME TAXES 2,497,000 1,888,000
+ -------------- --------------
+
+NET EARNINGS 4,590,141 3,402,056
+ ============== ==============
+
+NET EARNINGS PER COMMON AND
+COMMON EQUIVALENT SHARE:
+ Basic .17 .13
+ Diluted .17 .13
+
+WEIGHTED AVERAGE SHARES AND EQUIVALENTS:
+ Basic 27,190,222 26,945,360
+ Diluted 27,498,629 26,992,796
+
+See accompanying notes
+
+THE STEAK N SHAKE COMPANY
+ CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS
+ (UNAUDITED)
+ TWELVE WEEKS ENDED
+ ------------------
+
+ DECEMBER 17, DECEMBER 18,
+ 2003 2002
+ -------------- --------------
+OPERATING ACTIVITIES
+ 
+ Net earnings 4,590,141 3,402,056
+ Adjustments to reconcile net earnings to
+ net cash provided by operating activities:
+ Depreciation and amortization 5,552,748 5,439,226
+ Provision for deferred income tax 488,000 (17,000)
+ Loss on disposals of property and equipment 45,244 198,543
+ Changes in receivables and inventories 481,982 (358,236)
+ Changes in other assets (840,987) (306,887)
+ Changes in accounts payable and accrued expenses (1,051,927) (3,631,993)
+ -------------- --------------
+ Net cash provided by operating activities 9,265,201 4,725,709
+
+INVESTING ACTIVITIES
+ Additions of property and equipment (7,411,031) (11,177,952)
+ Purchase of short-term investments (160,000) -
+ Net proceeds from disposals of property and equipment 350 720,749
+ -------------- --------------
+ Net cash used in investing activities (7,570,681) (10,457,203)
+
+FINANCING ACTIVITIES
+ Principal payments on lease obligations (789,342) (788,048)
+ Principal payments on long-term debt (2,179,127) (1,817,460)
+ Net proceeds from revolving line of credit - 5,525,000
+ Proceeds from exercise of stock options 281,364 8
+ Treasury stock repurchases - (514,901)
+ -------------- --------------
+ Net cash provided by (used in) financing activities (2,687,105) 2,404,599
+
+DECREASE IN CASH AND CASH EQUIVALENTS (992,585) (3,326,895)
+
+CASH AND CASH EQUIVALENTS AT BEGINNING OF PERIOD 24,794,540 5,286,311
+ -------------- --------------
+
+CASH AND CASH EQUIVALENTS AT END OF PERIOD 23,801,955 1,959,416
+ ============== ==============
+
+See accompanying notes
+
+9
+ THE STEAK N SHAKE COMPANY
+ NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+ (UNAUDITED)
+
+BASIS OF PRESENTATION
+ The accompanying unaudited condensed consolidated financial statements have
+been prepared in accordance with accounting principles generally accepted in the
+United States of America for interim financial information and with the
+instructions to Form 10-Q and Article 10 of Regulation S-X. Accordingly, they
+do not include all of the information and notes required by generally accepted
+accounting principles for complete financial statements.
+
+ In the opinion of the Company, all adjustments considered necessary to
+present fairly the consolidated financial position as of December 17, 2003, and
+the consolidated statements of earnings and cash flows for the twelve weeks
+ended December 17, 2003 and December 18, 2002, have been included.
+
+ The consolidated statements of earnings for the twelve weeks ended December
+17, 2003 and December 18, 2002 are not necessarily indicative of the
+consolidated statements of earnings for the entire year. For further
+information, refer to the consolidated financial statements and notes thereto
+included in the Company's Annual Report on Form 10-K for the year ended
+September 24, 2003.
+
+SEASONAL ASPECTS
+ The Company has substantial fixed costs which do not decline as a result of
+a decline in sales. The Company's first and second fiscal quarters, which
+include the winter months, usually reflect lower average weekly unit volumes.
+Sales in these quarters can be adversely affected by severe winter weather.
+
+STOCK-BASED COMPENSATION
+
+ The Company accounts for its Stock Option and Employee Stock Purchase Plans
+under the recognition and measurement principles of Accounting Principles Board
+Opinion No. 25, Accounting for Stock Issued to Employees. No stock-based
+employee compensation is reflected in net earnings, as all options granted under
+those plans had an exercise price equal to the market value of the underlying
+common stock on the date of grant. The following table illustrates the effect
+on net earnings and earnings per share if the Company had applied the fair value
+recognition provisions of Statement of Financial Accounting Standards ("SFAS")
+No. 123, Accounting for Stock-Based Compensation, to stock-based employee
+compensation.
+
+TWELVE WEEKS ENDED
+ ------------------
+
+ DECEMBER 17, DECEMBER 18,
+ 2003 2002
+ -------------- --------------
+ 
+Net earnings as reported 4,590,141 3,402,056
+Less pro forma compensation expense, net of tax (373,404) (277,886)
+ -------------- --------------
+Proforma net earnings 4,216,737 3,124,170
+ ============== ==============
+
+Basic earnings per share as reported .17 .13
+Pro forma basic earnings per share .16 .12
+
+Diluted earnings per share as reported .17 .13
+Pro forma diluted earnings per share .15 .12
+
+FINANCIAL INSTRUMENTS
+
+ The fair value of cash and cash equivalents and short-term investments
+approximate their carrying value due to their short-term maturities. Long-term
+investments consist principally of government debt securities that management
+has the intent and ability to hold until maturity. These securities, which
+mature in four years, are carried at amortized cost, which approximates fair
+market value.
+
+EARNINGS PER SHARE
+
+ Earnings per share of common stock is based on the weighted average number
+of shares outstanding during the year. The following table presents a
+reconciliation of the basic and diluted weighted average common shares as
+required by SFAS No. 128, Earnings Per Share:
+
+TWELVE WEEKS ENDED
+ ------------------
+
+ DECEMBER 17, DECEMBER 18,
+ 2003 2002
+ ------------ ------------
+ 
+Basic earnings per share:
+ Weighted average common shares 27,190,222 26,945,360
+ ------------ ------------
+
+Diluted earnings per share:
+ Weighted average common shares 27,190,222 26,945,360
+ Diluted effect of stock options 308,407 47,436
+ ------------ ------------
+ Weighted average common and incremental shares 27,498,629 26,992,796
+ ------------ ------------
+
+Options to purchase 50,234 and 948,444 shares of common stock were excluded
+from the calculations of diluted earnings per share for the twelve weeks ended
+December 17, 2003 and December 18, 2002, respectively, as the options' exercise
+prices were greater than the market price of the Company's common stock.
+
+SHAREHOLDERS' EQUITY
+
+During the twelve weeks ended December 17, 2003, the Company issued 122,500
+shares of restricted common stock under its Capital Appreciation Plan to certain
+employees. The shares are restricted for a period of three years. The total
+value of the stock grant (based upon market value at the date of grant) of
+ 1,844,000 is recorded to unamortized value of restricted shares and is
+amortized to compensation expense ratably over the three-year period.
+
+INTANGIBLE ASSETS
+
+ Intangible assets subject to amortization pursuant to SFAS No. 142,
+Goodwill and Other Intangible Assets, consist of "a right to operate" and is
+summarized below:
+
+DECEMBER 17, SEPTEMBER 24,
+ 2003 2003
+ -------------- ---------------
+
+Gross intangible assets 1,480,000 1,480,000
+Less: accumulated amortization (193,044) (165,466)
+ -------------- ---------------
+Net intangible assets 1,286,956 1,314,534
+ ============== ===============
+
+Amortization expense for the twelve week period ended December 17, 2003 was
+ 27,578. Annual amortization expense for each of the next five fiscal years is
+estimated to be approximately 119,500.
+
+PROVISION FOR RESTAURANT CLOSINGS
+
+ During the fourth quarter of fiscal year 2003, the Company identified nine
+under-performing restaurants for disposal. In connection with the decision to
+dispose of these restaurants, the Company recorded a charge of 5,200,000 to
+cover the costs of property and equipment write-downs, lease termination costs,
+and closing costs. The Company is currently seeking buyers for these properties
+and anticipates completing the disposal of the properties within the next twelve
+to eighteen months.
+
+ Activity related to the provision for restaurant closings is as follows:
+
+NON-CASH ADJUSTMENTS TO
+ CHARGES CASH CHARGES ESTIMATES DURING
+ DURING TWELVE DURING TWELVE TWELVE WEEKS
+ BALANCE AT WEEKS ENDED WEEKS ENDED ENDED BALANCE AT
+ SEPTEMBER DECEMBER DECEMBER DECEMBER DECEMBER
+ 24, 2003 17, 2003 17, 2003 17, 2003 17, 2003
+- ------------------------------------------------------------------------------------------------------------
+Asset write-downs 4,860,000 (112,306) - 4,747,694
+Lease termination costs 225,000 - 225,000
+Closing costs 115,000 (13,962) - 101,038
+ ----------------------------------------------------------------------------------
+ Total 5,200,000 (112,306) (13,962) - 5,073,732
+ ==================================================================================
+
+ASSETS HELD FOR SALE
+
+ Assets held for sale consist of property and equipment related to the
+under-performing restaurants identified for disposal in 2003, and are comprised
+of the following: Land and Buildings - 2,822,000; Leasehold Improvements -
+ 355,219; and Equipment - 396,150.
+
+ITEM 2. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS
+OF OPERATIONS
+
+ In the following discussion, the term "same store sales" refers to the
+sales of only those units open eighteen months as of the beginning of the
+current fiscal period being discussed and which remained open through the end of
+the fiscal period.
+
+CRITICAL ACCOUNTING POLICIES
+ The preparation of financial statements in conformity with accounting
+principles generally accepted in the United States of America requires
+management to use its judgment to make estimates and assumptions that can have a
+material impact on the results of operations and reported amounts of assets and
+liabilities. The Company evaluates its assumptions and estimates on an ongoing
+basis based on historical experience and various other factors that are believed
+to be relevant under the circumstances. Actual results may differ from these
+estimates under different assumptions or conditions.
+
+ The Company believes that, of its significant accounting policies, the
+following policies involve a higher degree of risk, judgement and/or complexity.
+
+Property and Equipment
+ Property and equipment are recorded at cost with depreciation and
+amortization being recognized on the straight-line method over the estimated
+useful lives of the assets (15 to 25 years for building and land improvements, 3
+to 10 years for equipment, and the shorter of the estimated useful lives or the
+lease term for leasehold improvements). The Company reviews each restaurant for
+impairment on a restaurant-by-restaurant basis when events or circumstances
+indicate it might be impaired. The Company tests for impairment by comparing
+the carrying value of the asset to the future cash flows expected to be
+generated by the asset. If the total future cash flows are less than the
+carrying amount of the asset, the carrying amount is written down to the
+estimated fair value, and a loss is recognized in earnings. Because
+depreciation and amortization expense is based upon useful lives of assets and
+the net salvage value at the end of their lives, significant judgment is
+required in estimating this expense. Additionally, the future cash flows
+expected to be generated by an asset requires significant judgment regarding
+future performance of the asset, fair market value if the asset were sold, and
+other financial and economic assumptions. Accordingly, management believes that
+accounting estimates related to property and equipment are critical.
+
+Insurance Reserves
+ The Company self-insures a significant portion of expected losses under its
+workers' compensation, general liability, and auto liability insurance programs.
+The Company purchases reinsurance for individual and aggregate claims that
+exceed predetermined limits. The Company records a liability for all unresolved
+claims and its estimate of incurred but not reported ("IBNR") claims at the
+anticipated cost to the Company. The liability estimate is based on information
+received from insurance companies, combined with management's judgments
+regarding frequency and severity of claims, claims development history and
+settlement practices. Significant judgment is required to estimate IBNR claims
+as parties have yet to assert a claim and therefore the degree to which injuries
+have been incurred, and the related costs, have not yet been determined.
+Additionally, estimates about future costs involve significant judgment
+regarding legislation, case jurisdictions and other matters. Accordingly,
+management believes that estimates related to self-insurance reserves are
+critical.
+
+Income Taxes
+ The Company records deferred tax assets or liabilities based on differences
+between financial reporting and tax bases of assets and liabilities using
+currently enacted rates and laws that will be in effect when the differences are
+expected to reverse. Management records deferred tax assets to the extent it
+believes there will be sufficient future taxable income to utilize those assets
+prior to their expiration. To the extent deferred tax assets would be unable to
+be utilized, management would record a valuation allowance against the
+unrealizable amount, and record that amount as a charge against earnings. Due
+to changing tax laws and state income tax rates, significant judgment is
+required to estimate the effective tax rate expected to apply to tax differences
+that are expected to reverse in the future. Management must also make estimates
+about the sufficiency of taxable income in future periods to offset any
+deductions related to deferred tax assets currently recorded. Accordingly,
+management believes estimates related to income taxes are critical.
+
+RESULTS OF OPERATIONS
+ The following table sets forth the percentage relationship to total
+revenues, unless otherwise indicated, of items included in the Company's
+consolidated statements of earnings for the periods indicated:
+
+TWELVE WEEKS ENDED
+ -------------------
+ DECEMBER 17, DECEMBER 18,
+ 2003 2002
+ ------------------- -------------
+ 
+REVENUES
+ Net sales 99.2 99.2 
+ Franchise fees .8 .8
+ ------ ------
+ 100.0 100.0
+COSTS AND EXPENSES
+ Cost of sales 23.4(1) 22.5(1)
+ Restaurant operating costs 50.3(1) 51.1(1)
+ General and administrative 8.0 8.0
+ Depreciation and amortization 4.9 5.3
+ Marketing 3.7 3.6
+ Interest 2.6 3.2
+ Rent 1.7 1.6
+ Pre-opening costs .3 .6
+ Other income, net (.4) (.5)
+ ------ ------
+ 93.8 94.8
+ ------ ------
+
+EARNINGS BEFORE INCOME TAXES 6.2 5.2
+
+INCOME TAXES 2.2 1.8
+ ------ -----
+
+NET EARNINGS 4.0 3.4 
+ ====== =====
+
+(1) Cost of sales and restaurant operating costs are expressed as a percentage of net sales.
+
+COMPARISON OF TWELVE WEEKS ENDED DECEMBER 17, 2003 TO TWELVE WEEKS ENDED
+DECEMBER 18, 2002
+Revenues
+
+ Net sales increased 12,231,000 (12.1 to 113,516,000 primarily due to a
+11.2 increase in same store sales. The 11.2 increase in same store sales
+reflects significant improvement over the same period in the prior year in which
+same store sales decreased 4.0 . This improvement is primarily attributed to an
+improving economic environment, implementation of television advertising in four
+new markets, and promotion of new holiday milk shake flavors and Takhomacard
+gift cards. Also impacting same store sales was a 5.0 increase in check
+average, and a 6.1 increase in customer counts. The increase in check average
+results primarily from a 2.1 weighted average menu price increase compared to
+the same period in the prior year and the effect of the Company's decision to
+begin accepting credit cards. The number of Company-operated Steak n Shake
+restaurants increased to 353 at December 17, 2003, compared to 352 at December
+18, 2002.
+
+Costs and Expenses
+
+ Cost of sales increased 3,819,000 (16.8 to 26,571,000 primarily due to
+increased net sales and higher food costs. Cost of sales as a percentage of net
+sales increased to 23.4 from 22.5 , primarily as a result of an increase in
+beef, chicken and cheese costs, partly offset by menu price increases.
+
+ Restaurant operating costs increased 5,391,000 (10.4 to 57,133,000 due
+to increased net sales. Restaurant operating costs as a percentage of net sales
+decreased to 50.3 from 51.1 , primarily due to improved labor utilization that
+decreased 110 basis points as a percentage of net sales, and greater leverage on
+fixed operating costs. These improvements were somewhat offset by credit card
+processing fees that were not incurred in the same period in the prior year,
+which aggregated a 40 basis point increase in costs as a percentage of sales,
+and increased field management bonuses, which aggregated a 50 basis point
+increase in costs as a percentage of sales.
+
+ General and administrative expenses increased 922,000 (11.2 to
+ 9,135,000, but remained flat as a percentage of revenue at 8.0 compared to the
+same period in the prior year. The increase in general and administrative
+expenses is attributable to incremental investments in consumer research,
+mystery shopping, and new product development of 593,000, and increased
+compensation expense of 435,000.
+
+ Depreciation and amortization expense increased 114,000 (2.1 to
+ 5,553,000 principally from property and equipment additions due to opening new
+restaurants.
+
+ Marketing expense increased 568,000 (15.5 to 4,224,000, and as a
+percentage of revenue increased to 3.7 from 3.6 in the same period in the
+prior year. Of the increase, 273,000 is attributable to the introduction of
+television advertising in the Lansing, Lexington, Pensacola, and Toledo markets,
+combined with increased television advertising in the Chicago, Cleveland, Kansas
+City, and Jacksonville markets. Promotional marketing for seasonal milk shake
+flavors and gift cards, and market research also contributed 200,000 to the
+increased marketing expenses
+
+ Interest expense decreased 209,000 (6.7 to 3,006,000 due to decreased
+net borrowings under the Company's Senior Notes Agreement, combined with lower
+capital lease balances than the same period in the prior year.
+
+ Rent expense increased 294,000 (18.4 to 1,897,000 as a result of
+increased percentage rents over the prior year as net sales significantly
+increased over the same period in the prior year.
+
+ Pre-opening costs decreased 248,000 (39.5 to 380,000 as the Company
+opened three new restaurants during the current period, compared with opening
+five restaurants over the same period in the prior year.
+
+ Other income, net increased 31,000 (6.4 to 514,000 due to increased
+rental income and other miscellaneous revenues.
+
+Income Taxes
+
+ The Company's effective income tax rate decreased to 35.2 from 35.7 in
+the same period in the prior year, primarily due to lower state income taxes and
+increased FICA tax credits.
+
+LIQUIDITY AND CAPITAL RESOURCES
+
+ Three Company-owned Steak n Shake restaurants, and two franchised
+restaurants were opened, and six of the previously announced underperforming
+restaurants were closed during the twelve weeks ended December 17, 2003. Five
+new restaurants are currently under construction. For the twelve weeks ended
+December 17, 2003, capital expenditures totaled 7,411,000 as compared to
+ 11,178,000 for the same period in the prior year.
+
+ The Company anticipates opening 15 to 20 new Steak n Shake restaurants
+during fiscal year 2004, including franchised units. The new store openings
+will allow the Company to continue its expansion in newer markets such as Texas,
+while also continuing to build on its strong brand recognition and operating
+organization throughout the Midwest and Florida. The average cost of a new
+Company-operated Steak n Shake restaurant, including land, site improvements,
+building and equipment is approximately 1,750,000. Total capital expenditures
+for fiscal year 2004 are estimated to be 35 to 40 million. The Company
+intends to fund future capital expenditures, and meet working capital needs
+using existing cash and investments and anticipated cash flows from operations.
+
+ During the twelve weeks ended December 17, 2003, cash provided by
+operations totaled 9,265,000, compared to 4,726,000 in the same period in the
+prior year. This increase in cash provided by operations is attributable to
+increased net earnings, coupled with the timing of invoice payments. Net
+cash used in financing activities for the twelve weeks ended December 17, 2003,
+totaled 7,571,000 compared to 10,457,000 in the comparable prior period due to
+a reduced number of store openings in the current year period. Additionally,
+the Company realized proceeds from the sale of property and equipment of
+ 721,000 in the prior year period.
+
+ As of December 17, 2003, the Company had outstanding borrowings of
+ 22,239,000 under its Senior Note Agreement and Private Shelf Facility ("Senior
+Note Agreement") and 75,000,000 of additional borrowing capacity available.
+Borrowings under the Senior Note Agreement bear interest at an average fixed
+rate of 7.6 . At December 18, 2002, the Company had outstanding borrowings of
+ 26,561,000.
+
+ The Company also maintains a 30,000,000 Revolving Credit Agreement
+("Revolving Credit Agreement") that bears interest based on LIBOR plus 75 basis
+points, or the prime rate, at the election of the Company, and matures in
+January 2005. There were no borrowings under the Revolving Credit Agreement at
+December 17, 2003. The Company's debt agreements contain restrictions which,
+among other things, require the Company to maintain certain financial ratios.
+The Company is in compliance with all restrictive covenants under these
+borrowing agreements at December 17, 2003.
+
+ The Company has a stock repurchase program that allows the purchase of up
+to 4,000,000 shares of its outstanding common stock. During the twelve weeks
+ended December 17, 2003, the Company did not repurchase any shares. During the
+same period in the prior year, the Company repurchased a total of 48,600 shares
+at a cost of 515,000. The Company has purchased a total of 3,376,689 shares at
+a cost of 36,242,000 under the program since inception. The repurchased shares
+will be used in part to fund the Company's Stock Option Plans, Capital
+Appreciation Plan and Employee Stock Purchase Plan.
+
+EFFECTS OF GOVERNMENTAL REGULATIONS AND INFLATION
+
+Most of the Company's employees are paid hourly rates related to federal and
+state minimum wage laws. Any increase in the legal minimum wage would directly
+increase the Company's operating costs. The Company is also subject to various
+federal, state and local laws related to zoning, land use, safety standards,
+working conditions and accessibility standards. Any changes in these laws that
+require improvements to our restaurants would increase their operating costs.
+In addition, the Company is subject to franchise registration requirements and
+certain related federal and state laws regarding franchise operations. Any
+changes in these laws could affect the Company's ability to attract and retain
+franchisees.
+
+Inflation in food, labor, fringe benefits, and other operating costs directly
+affects the Company's operations. The Company's results of operations have not
+been significantly affected by inflation.
+
+RISKS ASSOCIATED WITH FORWARD-LOOKING STATEMENTS
+
+ Certain statements contained in this report contain forward-looking
+information. In general, forward-looking statements include estimates of future
+revenues, cash flows, capital expenditures, or other financial items, and
+assumptions underlying any of the foregoing. Forward-looking statements reflect
+management's current expectations regarding future events and use words such as
+"anticipate", "believe", "expect", "may", "will", and other similar terminology.
+These statements speak only as of the date they were made and involve a number
+of risks and uncertainties that could cause actual results to differ materially
+from those expressed in forward-looking statements. Several factors, many
+beyond our control, could cause actual results to differ significantly from our
+expectations, such as the following: effectiveness of operating initiatives;
+changes in economic conditions; effectiveness of advertising and marketing
+initiatives; harsh weather conditions, primarily in the first and second
+quarters; availability and cost of qualified restaurant personnel; changes in
+consumer tastes; changes in consumer behavior based on publicity or concerns
+relating to food safety or food-borne illnesses; effectiveness of our expansion
+plans; changes in minimum wage rates; and changes in applicable accounting
+policies and practices. The foregoing list of important factors is not intended
+to be all-inclusive as other general market, industry, economic, and political
+factors may also impact our operations. Readers are cautioned not to place
+undue reliance on our forward-looking statements, as we assume no obligation to
+update forward-looking statements. For further information, refer to the
+Company's Annual Report on Form 10-K for the year ended September 24, 2003.
+
+ITEM 3. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
+
+ The Company's primary market risk exposure with regard to financial
+instruments is to changes in interest rates. Pursuant to the terms of the
+Senior Note Agreement, the Company may from time to time issue notes in
+increments of at least 5,000,000. The interest rate on the notes is based upon
+market rates at the time of the borrowing. Once the interest rate is
+established at the time of the initial borrowing, the interest rate remains
+fixed over the term of the underlying note. The Revolving Credit Agreement
+bears interest at a rate based upon LIBOR plus 75 basis points or the prime
+rate, at the election of the Company. Historically, the Company has not used
+derivative financial instruments to manage exposure to interest rate changes.
+At December 17, 2003, a hypothetical 100 basis point increase in short-term
+rates would have an immaterial impact on the Company's earnings.
+
+ITEM 4. CONTROLS AND PROCEDURES
+
+ Based on an evaluation of the Company's disclosure controls and procedures
+(as defined in Exchange Act Rules 13a-15(e) and 15d-15(c)), the Company's Chief
+Executive Officer and Chief Financial Officer have concluded that the Company's
+disclosure controls and procedures were effective as of December 17, 2003, in
+timely alerting the Company's management to material information required to be
+included in this Form 10-Q and other Exchange Act filings. There have been no
+changes in the Company's internal controls over financial reporting that
+occurred during the quarter ended December 17, 2003 that have materially
+affected, or are reasonably likely to materially affect, the Company's internal
+control over financial reporting.
+
+PART II. OTHER INFORMATION
+
+ITEM 6. EXHIBITS AND REPORTS ON FORM 8-K
+
+(a) Exhibits
+- --- --------
+
+31.1 Rule 13a - 14(a) / 15d - 14(a) Certification of Chief Executive Officer.
+31.2 Rule 13a - 14(a) / 15d - 14(a) Certification of Chief Financial Officer.
+32 Section 1350 Certifications.
+
+(b) Reports on Form 8-K.
+ -----------------------
+
+A report on Form 8-K was furnished on November 12, 2003 announcing fourth
+quarter and fiscal year 2003 results.
+
+SIGNATURE
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the
+registrant has duly caused this report to be signed on its behalf by the
+undersigned, thereunto duly authorized, on January 27, 2004.
+
+THE STEAK N SHAKE COMPANY
+ (Registrant)
+
+ /s/James W. Bear
+ ----------------
+ By James W. Bear
+ Senior Vice President
+ On Behalf of the Registrant and as
+ Chief Financial Officer
+
+EXHIBIT 31.1
+
+CERTIFICATION PURSUANT TO RULE 13A-14(A)/15D-14(A) OF THE SECURITIES EXCHANGE
+ ACT OF 1934, AS ADOPTED PURSUANT TO SECTION 302 OF THE SARBANES-OXLEY ACT OF
+ 2002
+
+I, Alan B. Gilman, certify that:
+1. I have reviewed this quarterly report on Form 10-Q of The Steak n Shake
+ Company;
+
+2. Based on my knowledge, this report does not contain any untrue statement of
+ a material fact or omit to state a material fact necessary to make the
+ statements made, in light of the circumstances under which such statements
+ were made, not misleading with respect to the period covered by this
+ report;
+
+3. Based on my knowledge, the financial statements, and other financial
+ information included in this report, fairly present in all material
+ respects the financial condition, results of operations and cash flows of
+ the registrant as of, and for, the periods presented in this report;
+
+4. The registrant's other certifying officer and I are responsible for
+ establishing and maintaining disclosure controls and procedures (as defined
+ in Exchange Act Rules 13a-15(e) and 15d-15(e)) for the registrant and have:
+
+ (a) Designed such disclosure controls and procedures, or caused such
+ disclosure controls and procedures to be designed under our
+ supervision, to ensure that material information relating to the
+ registrant, including its consolidated subsidiaries, is made known to
+ us by others within those entities, particularly during the period in
+ which this report is being prepared;
+
+ (b) Evaluated the effectiveness of the registrant's disclosure controls
+ and procedures and presented in this report our conclusions about the
+ effectiveness of the disclosure controls and procedures, as of the end
+ of the period covered by this report based on such evaluation; and
+
+ (c) Disclosed in this report any change in the registrant's internal
+ control over financial reporting that occurred during the registrant's
+ most recent fiscal quarter (the registrant's fourth fiscal quarter in
+ the case of an annual report) that has materially affected, or is
+ reasonably likely to materially affect, the registrant's internal
+ control over financial reporting; and
+
+5. The registrant's other certifying officer and I have disclosed, based on
+ our most recent evaluation of internal control over financial reporting, to
+ the registrant's auditors and the audit committee of registrant's board of
+ directors (or persons performing the equivalent functions):
+
+ (a) All significant deficiencies and material weaknesses in the design or
+ operation of internal control over financial reporting which are
+ reasonably likely to adversely affect the registrant's ability to
+ record, process, summarize and report financial information; and
+
+ (b) Any fraud, whether or not material, that involves management or other
+ employees who have a significant role in the registrant's internal
+ control over financial reporting.
+
+Date: January 27, 2004
+
+/s/ Alan B. Gilman
+- ---------------------
+Alan B. Gilman
+Chief Executive Officer
+
+EXHIBIT 31.2
+
+CERTIFICATION PURSUANT TO RULE 13A-14(A)/15D-14(A) OF THE SECURITIES EXCHANGE
+ ACT OF 1934, AS ADOPTED PURSUANT TO SECTION 302 OF THE SARBANES-OXLEY ACT OF
+ 2002
+
+I, James W. Bear, certify that:
+1. I have reviewed this quarterly report on Form 10-Q of The Steak n Shake
+ Company;
+
+2. Based on my knowledge, this report does not contain any untrue statement of
+ a material fact or omit to state a material fact necessary to make the
+ statements made, in light of the circumstances under which such statements
+ were made, not misleading with respect to the period covered by this
+ report;
+
+3. Based on my knowledge, the financial statements, and other financial
+ information included in this report, fairly present in all material
+ respects the financial condition, results of operations and cash flows of
+ the registrant as of, and for, the periods presented in this report;
+
+4. The registrant's other certifying officer and I are responsible for
+ establishing and maintaining disclosure controls and procedures (as defined
+ in Exchange Act Rules 13a-15(e) and 15d-15(e)) for the registrant and have:
+
+ (a) Designed such disclosure controls and procedures, or caused such
+ disclosure controls and procedures to be designed under our
+ supervision, to ensure that material information relating to the
+ registrant, including its consolidated subsidiaries, is made known to
+ us by others within those entities, particularly during the period in
+ which this report is being prepared;
+
+ (b) Evaluated the effectiveness of the registrant's disclosure controls
+ and procedures and presented in this report our conclusions about the
+ effectiveness of the disclosure controls and procedures, as of the end
+ of the period covered by this report based on such evaluation; and
+
+ (c) Disclosed in this report any change in the registrant's internal
+ control over financial reporting that occurred during the registrant's
+ most recent fiscal quarter (the registrant's fourth fiscal quarter in
+ the case of an annual report) that has materially affected, or is
+ reasonably likely to materially affect, the registrant's internal
+ control over financial reporting; and
+
+5. The registrant's other certifying officer and I have disclosed, based on
+ our most recent evaluation of internal control over financial reporting, to
+ the registrant's auditors and the audit committee of registrant's board of
+ directors (or persons performing the equivalent functions):
+
+ (a) All significant deficiencies and material weaknesses in the design or
+ operation of internal control over financial reporting which are
+ reasonably likely to adversely affect the registrant's ability to
+ record, process, summarize and report financial information; and
+
+ (b) Any fraud, whether or not material, that involves management or other
+ employees who have a significant role in the registrant's internal
+ control over financial reporting.
+
+Date: January 27, 2004
+
+/s/ James W. Bear
+- --------------------
+James W. Bear
+Senior Vice President and Chief Financial Officer
+
+EXHIBIT 32
+
+ CERTIFICATION PURSUANT TO
+ 18 U.S.C. SECTION 1350,
+ AS ADOPTED PURSUANT TO
+ SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002
+In connection with the Quarterly Report of The Steak n Shake Company (the
+"Company") on Form 10-Q for the period ending December 17, 2003 as filed with
+the Securities and Exchange Commission on the date hereof (the "Report"), each
+of the undersigned certify, pursuant to 18 U.S.C. 1350, as adopted pursuant to
+906 of the Sarbanes-Oxley Act of 2002, that:
+
+(1) The Report fully complies with the requirements of section 13(a) or 15(d)
+ of the Securities Exchange Act of 1934; and
+
+(2) The information contained in the Report fairly presents, in all material
+ respects, the financial condition and results of operations of the Company.
+
+/s/ Alan B. Gilman
+- ---------------------
+Alan B. Gilman, Chief Executive Officer
+January 27, 2004
+
+/s/ James W. Bear
+- --------------------
+James W. Bear, Senior Vice President and
+Chief Financial Officer
+January 27, 2004
+

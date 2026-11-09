@@ -1,0 +1,3409 @@
+<Header>
+<FileStats>
+    <FileName>20040129_10-K_edgar_data_875762_0001050502-04-000034.txt</FileName>
+    <GrossFileSize>177833</GrossFileSize>
+    <NetFileSize>150466</NetFileSize>
+    <NonText_DocumentType_Chars>0</NonText_DocumentType_Chars>
+    <HTML_Chars>800</HTML_Chars>
+    <XBRL_Chars>0</XBRL_Chars>
+    <XML_Chars>0</XML_Chars>
+    <N_Exhibits>6</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0001050502-04-000034.hdr.sgml : 20040129
+<ACCEPTANCE-DATETIME>20040129161435
+ACCESSION NUMBER:		0001050502-04-000034
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		7
+CONFORMED PERIOD OF REPORT:	20031031
+FILED AS OF DATE:		20040129
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			STARTECH ENVIRONMENTAL CORP
+		CENTRAL INDEX KEY:			0000875762
+		STANDARD INDUSTRIAL CLASSIFICATION:	MISC INDUSTRIAL & COMMERCIAL MACHINERY & EQUIPMENT [3590]
+		IRS NUMBER:				841286576
+		STATE OF INCORPORATION:			CO
+		FISCAL YEAR END:			1031
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-25312
+		FILM NUMBER:		04552702
+
+	BUSINESS ADDRESS:	
+		STREET 1:		15 OLD DANBURY ROAD
+		STREET 2:		SUITE 203
+		CITY:			WILTON
+		STATE:			CT
+		ZIP:			06897-2525
+		BUSINESS PHONE:		202-762-2499
+
+	MAIL ADDRESS:	
+		STREET 1:		79 OLD RIDGEFIELD RD
+		CITY:			WILTON
+		STATE:			CT
+		ZIP:			06897
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	KAPALUA ACQUISITIONS INC
+		DATE OF NAME CHANGE:	19941223
+
+</SEC-Header>
+</Header>
+
+ 
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ TQZ+SR8D900Nf6HT0vIDPGPT/2fP0sAyLzgpJpmLO7ENRwUZ33KOmTdXcfF6lv/A
+ L1GX5igiqo3wuAb1sSUUOg==
+
+ 0001050502-04-000034.txt : 20040129
+
+10-K
+ 1
+ startech1003.txt
+ 10-K
+
+FORM 10-K
+
+ SECURITIES AND EXCHANGE COMMISSION
+
+ Washington, D. C. 20549
+
+ [ x ] ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE
+ SECURITIES EXCHANGE ACT OF 1934
+
+ For the fiscal year ended - October 31, 2003
+
+ OR
+
+ [ ] TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE
+ SECURITIES EXCHANGE ACT OF 1934
+
+For the transition period from _________________ to __________________ .
+
+ Commission file number 0-25312
+
+ STARTECH ENVIRONMENTAL CORPORATION
+ ----------------------------------
+ (Exact name of registrant as specified in its charter)
+
+State or other jurisdiction of (I.R.S.Employer
+incorporation or organization Identification No.)
+- ----------------------------- -------------------
+ Colorado 84-1286576
+
+ 15 Old Danbury Road, Suite 203
+ Wilton, Connecticut 06897-2525
+ ------------------------------
+ (Address of principal executive offices) Zip Code
+
+ (203) 762-2499
+ --------------
+ (Registrant's telephone number, including area code)
+
+Indicate by check mark whether the Registrant (1) has filed all reports required
+to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during
+the preceding 12 months (or for such shorter period that the Registrant was
+required to file such reports), and (2) has been subject to such filing
+requirements for the past 90 days. YES [ x ] NO [ ]
+
+Indicate by check mark if disclosure of delinquent filers pursuant to Item 405
+of Regulation S-K is not contained herein, and will not be contained, to the
+best of the Registrant's knowledge, in definitive proxy or information
+statements incorporated by reference in Part III of this Form 10-K or any
+amendment to this Form 10-K. [ X ]
+
+Indicate by check mark whether the Registrant is an accelerated filer (as
+defined in Rule 12b-2 of the Act). YES [ ] NO [ x ]
+
+As of January 26, 2004 16,334,793 shares of no par value common stock were
+outstanding. The aggregate market value of shares held by non-affiliates as of
+January 26, 2004 was 38,285,354 based on the closing price of the common stock
+on that date.
+
+Documents incorporated by reference and the Part of the Form 10-K into which the
+document is incorporated are as follows: Items 10, 11, 12, 13 and 14 of Part III
+of this report are incorporated by reference to Registrant's definitive proxy
+statement for its 2003 Annual Meeting of Stockholders, which will be filed with
+the Securities and Exchange Commission on or before February 28, 2004.
+
+PART I
+
+Cautionary Note Regarding Forward-Looking Statements
+
+This Annual Report on Form 10-K contains forward-looking statements that are
+made pursuant to the Safe Harbor provisions of the Private Securities Litigation
+Reform Act of 1995. Forward-looking statements involve risks, uncertainties and
+assumptions as described from time to time in registration statements, annual
+reports, and other periodic reports and filings of the Company filed with the
+Securities and Exchange Commission. All statements, other than statements of
+historical facts, which address the Company's expectations of sources of capital
+or which express the Company's expectation for the future with respect to
+financial performance or operating strategies can be identified as
+forward-looking statements. As a result, there can be no assurance that the
+Company's future results will not be materially different from those described
+herein as "believed," "anticipated," "estimated" or "expected," which reflect
+the current views of the Company with respect to future events. We caution
+readers that these forward-looking statements speak only as of the date hereof.
+The Company hereby expressly disclaims any obligation or undertaking to release
+publicly any updates or revisions to any such statements to reflect any change
+in the Company's expectations or any change in events, conditions or
+circumstances on which such statement is based.
+
+ITEM 1 - BUSINESS:
+- ------------------
+
+Startech is an environmental technology company commercializing its proprietary
+plasma processing technology known as the Plasma Converter(TM) that achieves
+closed-loop elemental recycling that irreversibly destroys hazardous and
+non-hazardous waste and industrial by-products while converting them into useful
+commercial products. These products include a rich synthesis gas called PCG
+(Plasma Converted Gas)(TM) surplus energy for power, hydrogen, metals and
+silicates for use and for sale.
+
+The Company's activities during the four fiscal years, November 1, 1992 to
+October 31, 1995 consisted primarily of the research and development of the
+Plasma Converter. On November 17, 1995, a company known as Kapalua Acquisitions,
+Inc., completed the acquisition of all of the issued and outstanding shares of
+the common stock of Startech Corporation, a Connecticut corporation, and then
+changed its name to Startech Environmental Corp.
+
+On November 18, 1995, the Board of Directors of the Company unanimously approved
+a change of the business purpose of Kapalua Acquisitions Inc. from one seeking
+an acquisition candidate to one engaged in the business of manufacturing and
+selling the Plasma Converter system to recover, recycle, reduce and remediate
+hazardous and nonhazardous waste materials. From that time to the date of this
+filing, the Company has maintained this as its principal focus.
+
+Background
+
+Startech is an environmental technology corporation that manufactures, markets
+and sells a recycling system called the Plasma Converter for the global
+marketplace. Until January 2002, we were solely engaged in the manufacture and
+sale of equipment for use by others. Thereafter, we have attempted to broaden
+the scope of our available revenue opportunities. This change was brought about
+by management's decision to expand its market penetration strategies and
+opportunities. Rather than only market and sell our products for use by others,
+we are now seeking opportunities to become directly involved in the operation
+and use of our products. We reconsidered our stated philosophy of not engaging
+in the processing of feedstock materials and/or waste and decided that it was
+timely to seek out and include all possible market penetration strategies,
+including build own operate, build own transfer of ownership, and joint
+development projects.
+
+By concentrating on re-positioning our company for long-term growth, we have not
+achieved the sales goals we had anticipated would occur in the 2003 fiscal year.
+We believe this new way of approaching the market over time will help achieve
+maximum penetration in the shortest timeframe.
+We believe significant events are driving demand for our Plasma Converter. They
+include:
+
+ 2
+
+o Increases in waste, and in particular hazardous wastes, due to rising
+ consumer/industrial consumption and population growth in most nations.
+ o Current waste disposal and remediation techniques such as landfills
+ and incineration are becoming regulatory, socially and environmentally
+ unacceptable.
+ o A need for critical resources such as power and water to sustain local
+ economies.
+ o The emphasis being placed upon the production of distributed power and
+ the need to provide alternatives to fossil fuels.
+
+Our core plasma technology addresses these waste and resource issues by offering
+remediation solutions that are integrated with a range of equipment solutions
+and services. We believe these products will add value to our customers'
+business' so they can now realize revenue streams from disposal or processing
+fees, a reduction in material disposal costs, as well as from the sale of
+resulting commodity products and services. Alternatively, this will allow them
+to generate a valuable product while at the same time using a zero cost basis,
+or revenue generating source of raw material (waste). The costs of hazardous
+waste treatment and disposal methods continue to rise, and now range from
+approximately 900 to more than 2,000 per ton. This does not include the
+additional processing, handling, packaging, insurance and management costs
+sustained by the hazardous waste generator within its facility prior to final
+disposal.
+
+Since 1995, we have been actively educating and promoting to our customers the
+benefits of the plasma converter over other forms of waste remediation
+technologies. Ongoing education of the public and government is continuing. Like
+most new technologies we have been met with varying degrees of resistance. A
+rising comfort level with our plasma converter technology resulting in part from
+our educational and informational efforts has created additional awareness in
+the marketplace. We have taken steps to transform our business model from being
+solely a seller of equipment to a total solutions provider, including facility
+ownership or management.
+
+Our business model and its market development strategies arise from our mission,
+which is to change the way the world views and employs discarded materials; what
+many would now call waste we view as a feedstock. We expect to achieve this
+objective by strategically marketing a series of products and services emanating
+from the core Plasma Converter (TM) technology, resulting in saleable fossil
+fuel alternatives while providing a safer and healthier environment. This
+strategy will be implemented through Plasma Converter sales with after sales
+support and service, build own operate/build own transfer of ownership
+facilities, joint development projects and engineering services.
+
+Markets
+
+We view the future of our business as divided into three key market segments;
+power/energy, waste remediation, and engineering services. Projects are
+generally categorized according to the specific or stated objective of the
+customer, waste remediation or power generation. A customer may have a need to
+remediate a particularly onerous waste such as PCBs but has no need to produce
+commodity products. The goal is to simply get rid of waste. That would be
+considered a waste remediation project. Conversely, a customer in an area with
+limited or high cost power may want to select a waste stream to give the
+greatest amount of Plasma Converted Gas (TM) with which to produce power to run
+his system or for other power uses. The production of power is the desired
+benefit and the feedstock (waste material) selected is chosen for the highest
+quality commodity product produced, in this case electric power. The market for
+Converters is for on-site use by industrial, institutional and government
+facilities, and also for commercial facilities that process waste under
+contract.
+
+Our market for the sale of Plasma Converter Systems will be made up of sales to:
+ A) Generators of waste
+ B) Processors of waste
+
+ 3
+
+Startech's revenues and profits are produced by:
+ (1) the sale of its systems that may also include a continuing,
+ revenue-producing "tolling fee" for each pound of material processed,
+ and also by,
+ (2) building and owning commercial Plasma Converter facilities operated
+ separately by the Company or in partnership.
+
+Power/Energy
+
+This segment includes projects that incorporate equipment that create
+power/energy products to work in conjunction with our core Plasma Converter
+Technology. Distributed power requirements and peak power demands have
+identified expanded opportunities.
+
+Waste Remediation
+
+This part of our business includes projects where the emphasis of the customer
+is to dispose of its waste material in an environmentally responsible, and cost
+effective, manner. Waste material disposal costs vary greatly depending on the
+composition of the waste. We are specifically targeting customers that will
+receive the most economic gain from using our technology. Examples of such waste
+streams are:
+
+ o Medical waste
+ o Pharmaceutical waste
+ o PCBs
+ o Municipal solid wastes
+ o Incinerator ash
+ o Biological contaminants
+ o Sewer and power-plant-scrubber sludge
+ o Paints and solvents
+ o Electronic industry waste
+ o Contaminated soils
+ o Asbestos and other hazardous waste streams
+
+We further delineate these markets into the following categories:
+
+ o Onsite Treatment
+ - Hospitals and medical centers.
+ - Industrial hazardous waste generators such as petrochemical,
+ chemical, refining, and metals companies.
+ - Industrial hazardous waste processors.
+ - Government agencies such as Department of Defense, Department of
+ Energy.
+
+ o Offsite Treatment (at an integrated waste management facility)
+ - Waste management and/or transport companies.
+
+ o Mobile Treatment
+ - All of the above who value the ability to move quickly from site
+ to site.
+
+Sales Strategy
+
+Central to our growth strategy is maximizing market penetration and reducing the
+barriers of entry while optimizing our revenue sources. To achieve that
+objective, we have identified three key marketing strategies that make up the
+overall model. They are:
+
+ 1. Equipment Sales: We will continue to be a direct seller of our
+ products to customers who prefer to purchase and operate our
+ equipment. We will sell our Plasma Converter and associated equipment
+ to a customer with no equity position in the project. However, we will
+ offer Long Term Service Agreements to create residual or ongoing
+ revenue in this area.
+
+ 4
+
+2. Build Own Operate/Transfer Of Ownership Projects: We are actively
+ seeking to develop opportunities to own and operate Plasma Converter
+ facilities in various markets. These projects are attractive where
+ long-term agreements with guaranteed waste streams and high value
+ processing and or disposal fees are contracted for and will
+ significantly increase ongoing revenue streams. The revenue generated
+ by these types of projects has been shown to be up to ten times that
+ realized from a straight equipment sale over the life of the project.
+
+ 3. Joint-Development Projects: In a joint development project we will
+ assume an equity position in return for a reduced purchase price on
+ our equipment and associated engineering and management services. An
+ additional advantage is that we receive the certainty of revenue from
+ a direct sale along with the ability to realize future ongoing revenue
+ from the operations of the sole source joint development company.
+
+An important part of our development of world markets is our sales network. We
+sell systems through independent representatives and distributors, which helps
+to keep sales costs variable and low. Representatives are paid a commission on
+sales. Distributors purchase systems, mark them up, and re-sell them to
+customers. Distributors are also responsible for supplying after sales parts and
+service.
+
+Our senior management also sells directly to customers, in addition to seeking
+out projects for build, own, operate and build, own, transfer of ownership
+facilities. Such customers and projects might include large corporations with
+activities in many states or countries, or sovereign governments where the
+complexity of the bidding process on projects requires a large degree of company
+time and attention.
+
+We manufacture modular, skid-mounted systems that are easy to transport in
+standard tri-modal containers for shipment to any market in the world.
+
+The Company requires down payments and progress payments to be scheduled (for
+direct sales and co-venture projects) so that cash flow in the manufacturing
+process will be positive. Startech will obtain project financing against
+guaranteed waste streams/ tipping fees for Build Own & Operate (BOO) projects to
+fund manufacturing, shipping, and installation costs before facility startup. In
+addition, the Company will incorporate performance insurance for BOO projects to
+guarantee performance on the specific waste stream to be processed as well as
+obtaining necessary local permits to begin operation.
+
+Revenues will occasionally be derived from engineering services and testing. We
+perform paid-for engineering services, where we believe those services may lead
+to equipment sales.
+
+Primary Customer
+
+For the fiscal year ended October 31, 2003, all of our revenue was derived from
+Concurrent Technology Corporation, while 85 of our revenue for the fiscal year
+ended October 31, 2002 was derived from Eico Systems Corporation.
+
+Plasma Converter(TM) Demand
+
+We believe that the primary factors that create the demand for our Plasma
+Converters include the need for customers to:
+
+ o Reduce the costs for hazardous and toxic waste disposal;
+ o Eliminate personal and organizational liability associated with
+ hazardous and toxic waste disposal;
+ o Comply with present and anticipated environmental regulations in a
+ cost-effective manner;
+ o Recover products for use or sale; and
+ o Destroy wastes completely, safely and irreversibly.
+
+ 5
+
+We believe our Plasma Converter will meet customers' needs because our system:
+
+ o Reduces the cost and risk associated with hazardous waste generation
+ and disposal;
+ o Performs safer than prevailing environmental standards;
+ o Converts wastes into products for use or for sale;
+ o Destroys wastes safely and irreversibly; and
+ o Comes in small and large system capacities, in stationary and mobile
+ configurations.
+
+A device generally referred to as a plasma torch, although there is no fire
+involved in the device, produces the plasma lightening-like arc in the Plasma
+Converter vessel to produce a plume of radiant energy. The Plasma Converter
+therefore is an electrically driven system that produces an intense field of
+radiant energy within the plasma vessel that causes the dissociation of the
+molecular bonds of solid, liquid, and gaseous compounds for materials of both
+hazardous and non-hazardous wastes. We refer to this destruction process as
+"molecular dissociation."
+
+Dissociation causes the molecules of the waste material to be separated into
+their elemental components (atoms), and reformed by the Plasma Converter System
+into special recoverable, commodity products. The process is not a combustion or
+burning process, and the system should not be confused with an incinerator or a
+vitrification process. It is the intense energy field produced by the plasma
+plume within the Plasma Converter vessel that drives the dissociation process.
+
+The Plasma Converter vessel operates at normal atmospheric pressure quietly and
+safely. While the interior temperature of the plasma plume is about 30,000
+degrees Fahrenheit, the temperature of the refractory walls inside the vessel is
+maintained at about 3,000 degrees Fahrenheit and is the lowest temperature
+experienced within the vessel. On the average most waste material will be
+dissociated or melted at temperatures exceeding 6,000 degrees Fahrenheit.
+
+The Plasma Converter consists of many well-proven process components currently
+used in the metallurgical and chemical industries. Solid wastes being fed to our
+system are automatically fed through an air-locked infeed port, and the feeding
+is ordinarily on a continuous basis. Liquids, gases and sludges can also be fed
+or pumped directly into the vessel through a pipe port. Bulk solids, liquids,
+gases and sludge may be fed in and processed simultaneously.
+
+The Plasma Converted Gas (PCG)(TM) a synthesis gas recovered from our system is
+drawn out of the vessel and put through our gas-polishing unit. The molten
+silicates, inorganics and metals, if any, are removed at the lower side of the
+Plasma Converter vessel through a melt discharge port and recovery procedure.
+
+Recovered products can be used or sold as commodities for use in various
+manufacturing processes. It is expected that most of the Plasma Converted Gas
+will be used as a fuel gas and to a lesser degree, as a chemical feed stock;
+silicate materials recovered will be used in the ceramics, abrasives or the
+construction industries; the metallic components can be used or be readily
+available for sale with little or no additional processing. There is a newly
+developing interest in PCG(TM) to produce hydrogen by use of our patented
+StarCell(TM) system. The economic justification for the use of our systems in
+hazardous waste applications does not depend on any revenues from the use or
+sale of the recovered commodity products, but the emergence of StarCell(TM)
+Hydrogen may modify that attitude.
+
+Recovered Commodity Products
+
+The Plasma Converter processes the wastes (matter) in such a way that the
+elemental components of the feedstock can be recovered in from one to three
+distinct phases:
+
+ (1) synthesis gas (PCG(TM), Plasma Converted Gas) that exits the chamber;
+
+ (2) inorganic, glass-like (obsidian-like) silicates which form a separate
+ layer above the liquid metal (if there is a sufficient quantity of
+ metal in the feed stock, with small quantities of metal encapsulated
+ in the silicate stone); and
+
+ 6
+
+(3) liquid metallic elements, if in sufficient quantities, which collect
+ and are automatically discharged at the base of the vessel.
+
+Depending on the composition of the feedstock, any one phase may be produced,
+any two phases may be produced, or all three may be produced. However, the
+Company's experience indicates that the most likely commodity-product
+recover-phase will be in two parts:
+
+ (1) the PCG(TM) GAS-PHASE; and
+
+ (2) the SOLID-PHASE in which the inorganic silicate, containing metals,
+ will be produced.
+
+Energy Produced and Volume Reduced
+
+Carbon is abundantly present in the products and the wastes of the industrial
+world. Such materials are inherently rich in latent chemical energy such as one
+would find in fuel. When carbonaceous waste feedstocks of many industrial
+wastes, infectious hospital waste, municipal solid waste, shipboard waste, and
+such are processed, the Startech system will consume 1 unit of electrical energy
+while producing about 4 units of energy residing in the PCG(TM). With the
+improved efficiencies of electrical generating units, the 4 units of energy
+residing in the PCG(TM) can be used to create 2 units of electrical energy.
+
+Materials such as scrap tires, for example, will produce recovered commodity
+products in two phases: the PCG(TM) gas phase and the metal phase, if metal
+exists. Because materials such as plastics, solvents, and tires are so rich in
+energy, they will produce a relatively large amount of PCG(TM) with a
+high-energy content that will result in approximately 6-8 units of recovered
+PCG(TM) energy for each unit of electrical energy used in the process.
+
+In some applications, the Plasma Converter will produce enough energy for its
+own needs, and produce a surplus that can be sold to the local electrical grid,
+or used in the customer's facility to reduce the need for purchased power or
+purchased fuel. Not all wastes produce PCG(TM). For example, processing
+contaminated soil will produce no appreciable amount of PCG(TM).
+
+The volume reduction of these solid wastes, when processed in the Plasma
+Converter, is approximately 300 to 1. Waste streams composed primarily of
+hazardous or non-hazardous paper, cloth, plastic, food, pharmaceutical,
+explosives, paints, solvents, PCBs, confiscated drugs, filters, oils, and so on
+will result in so few solids as to produce volume reductions approaching
+infinity. Materials such as this are also very rich in elements such as carbon,
+oxygen, and hydrogen and the processing results almost entirely in the PCG(TM)
+commodity synthesis gas. In addition to the volume reduction, none of the
+remaining materials, if any, are hazardous in nature.
+
+Waste feedstocks that have a relatively high metal content will produce a
+separate liquid metal phase that can be recovered directly from the system for
+resale or reuse in the metallurgical industry. Our system may also achieve
+volume reductions on low-level radioactive surrogate waste of approximately 300
+to 1. Other present methods of volume reduction include compaction and
+incineration that produce overall volume reductions of about 8 to 1. Our system
+will not reduce the radioactivity of the low-level radioactive waste nor do we
+believe that can be done by any other system, but the volume of that waste may
+be significantly reduced. Industries that may benefit from this process are
+utilities, research laboratories and hospitals that store the reduced low-level
+radioactive waste material on-site until it can be shipped off site to a special
+repository. The cost for that method can be many thousands of dollars per ton.
+The continued availability of the few repository sites that exist, are
+problematic and uncertain. We believe our system can increase a site's storage
+capacity.
+
+What is Plasma?
+
+Plasma is simply a gas (air) that the Plasma Converter ionizes so it becomes an
+effective electrical conductor and produces a lightning-like arc of electricity
+that is the source of the intense energy transferred to the waste material as
+
+ 7
+
+radiant energy. The arc in the plasma plume within the vessel can be as high as
+30,000 degrees Fahrenheit ... three times hotter than the surface of the Sun.
+When waste materials are subjected to the intensity of the energy transfer
+within the vessel, the excitation of the wastes molecular bonds is so great that
+the waste-materials' molecules break apart into their elemental components
+(atoms). It is the absorption of this energy by the waste material that forces
+the waste destruction and elemental dissociation.
+
+How The Process Works
+
+The basic Plasma Converter system consists of the following:
+ In-feed System
+ Plasma Vessel
+ Cooling Process
+ Filtration Process
+ Neutralization Process
+
+Figure 1. Process Overview of PCS
+
+[GRAPHIC OMITTED]
+
+Feed System
+
+The feed mechanism can simultaneously accommodate any proportion or combination
+of solid, liquid and gaseous feedstocks. Solid wastes, depending upon their
+composition, can be pumped, screw fed, or ram fed into the plasma vessel. A
+shredder ahead of the feed system may be appropriate to achieve size reduction
+or object separation prior to direct system feed.
+
+Liquid wastes, including sludges, can be pumped directly into the PCS through
+the wall of the plasma vessel through a special infeed nozzle. The liquid feed
+system is designed to also accommodate any entrained solids that may be present.
+
+Similarly, gaseous feedstocks may also be introduced into the plasma vessel
+through a specially designed nozzle.
+
+Plasma Vessel
+
+The plasma vessel is a cylindrical two-part container made of stainless steel
+with an opening in the roof through which the plasma torch is inserted. The
+vessel is lined with insulation and refractory to allow both maximum retention
+of internal energy and to protect the stainless steel container from the intense
+heat inside the vessel. The plasma vessel is equipped with inspection ports
+(including a video camera so the operator can see real time images inside the
+vessel to assist in PCS operation), openings for introduction of feedstocks, and
+an exit port for removal of excess molten material. The smaller vessels are
+designed to remove molten material periodically through an automated tipping
+mechanism during which time the vessel may or may not remain in continuous
+operation. A design enhancement incorporated into the most recently constructed
+
+ 8
+
+system is a continuous melt extraction feature which maintains the level of
+molten material in the plasma vessel at or below a preset limit without
+interrupting the operation of the system. This melt extraction system can be
+deployed with all sizes of Plasma Converters.
+
+The plasma vessel is specially designed to ensure that no feedstock material is
+able to reach the exit port without first passing through the plasma energy
+field and undergoing complete molecular dissociation. The method by which this
+is accomplished forms a part of Startech's intellectual property. In addition,
+the plasma vessel is maintained at a slight negative pressure to ensure that no
+gases can escape to atmosphere.
+
+The plasma torch system is a commercially available product that Startech can
+purchase from any number of reputable vendors. Comparable plasma systems have
+been used extensively in the metallurgical industry for decades. The most
+maintenance-intensive aspect of the PCS is the need to periodically replace
+electrodes, which occurs approximately every 300 to 500 hours of operation.
+Electrode replacement can be accomplished in approximately 30 minutes thus
+ensuring minimum downtime of the PCS.
+
+The PCS is also equipped with a torch positioner system that allows the operator
+to aim the torch at different points within the plasma vessel. This aspect of
+the PCS allows the operator to quickly and efficiently treat feedstocks as they
+enter the vessel and move around inside the vessel to avoid any build-up of
+solidified melt that may occur on the vessel walls.
+
+Our Plasma Converter that is being used for our demonstration and training unit
+in our Bristol, Connecticut facility continues to be a very active marketing
+tool in showcasing our technology to potential customers, investors, and
+governmental agencies. We have been proactive in utilizing this facility for
+training such as Eico Systems Corp. and also running some surrogate testing for
+specific customers. We expect testing activity to increase in 2004 as more and
+more companies and governmental agencies look to validate our technology for
+their specific applications.
+
+StarCell(TM) development and technology
+
+StarCell(TM) is the Company's patented hydrogen selective membrane device that
+separates hydrogen from Plasma Converted Gas (PCG(TM)). PCG(TM) is a
+synthesis-fuel gas mixture produced from processing material through the Plasma
+Converter. The increasing importance of the need for alternative energy sources
+and the emergence of the "Hydrogen Economy" drove our development of
+StarCell(TM).
+
+There are essentially two principal uses of energy:
+ o first, stationary energy for electrical power generation and heating;
+ o second, mobile energy such as that used for transportation propulsion
+ systems ... the energy you can put in a fuel tank and take with you.
+
+Any discussion on energy-related issues, such as air pollution, dependable
+energy supplies, and global climate change, further illuminates the need for
+alternative fuels. Hydrogen offers very large benefits by eliminating polluting
+emissions and greenhouse gases, and, with the StarCell(TM) technology, hydrogen
+can become a more readily and cheaply available alternate primary energy fuel.
+Hydrogen, like electricity, is a premium-quality energy carrier. It can be used
+with high efficiency, and with zero tailpipe and zero stack emissions.
+
+Besides producing the Plasma Converter, we are also developing equipment that
+can recover hydrogen from a variety of feedstocks including coal and the wastes
+of the world. This capability will help make it possible to have a large-scale
+dependable energy system with essentially no pollutants and with no
+climate-changing gases.
+
+Hydrogen is clearly recognized as a very real alternative to our
+always-depleting reservoir of fossil fuel. But more than that, hydrogen is the
+pristine fuel. When used as a fuel, it produces only water vapor (fresh water)
+as the by-product. Although energy production is not our main objective, the
+ability to separate this highly sought after gas from an already valuable
+synthesis gas will be another step forward in our mission to achieve broad
+market acceptance of our primary product, the Plasma Converter.
+
+ 9
+
+StarCell(TM) is not a fuel cell; it is a ceramic membrane filtration system that
+extracts hydrogen from PCG(TM). Because hydrogen is such a small molecule,
+smaller than all the others in the PCG(TM) gas mixture, it can be pushed through
+the filtering membrane to allow the hydrogen to be separated from the PCG(TM).
+
+PCG(TM) is produced from wastes; it is a gas mixture containing a large quantity
+of hydrogen. Hydrogen is a valuable commodity with many commercial uses. It also
+is a pristine fuel that produces no carbon by-products. Pound-for-pound,
+hydrogen contains more energy punch than all the other fuels; and, when used in
+fuel cells or engines produces only clean water vapor.
+
+StarCell(TM) Hydrogen can feed fuel cells and hydrogen engines. StarCell(TM)
+Hydrogen is a fuel that can produce clean electricity and clean propulsion
+systems. The combination of the Plasma Converter with StarCell(TM) can produce
+hydrogen on a large scale from the wastes of the world, and at a very low cost.
+Our customers who use a Plasma Converter with a StarCell(TM) will get paid for
+processing the incoming waste at the front end, and will be paid for the
+hydrogen at the back end. People sometimes forget that waste, even hazardous
+waste, is an ever-present, and much overlooked, valuable and renewable resource.
+
+Hydrogen is a very valuable commercial gas that is produced by various
+thermo-chemical industrial methods. Hydrogen gas is used in many industrial
+processes to make products that we use every day. These products include cooking
+oils, peanut butter, soap, insulation, metals, drugs, vitamins, adhesives,
+cosmetics, ammonia, fuels, plastics and so on. Hydrogen is also used extensively
+to propel spacecraft because it is very light and has a very high energy
+content. Hydrogen is used as a fuel to produce pollution-free electricity in
+fuel cells.
+
+The paradox is, that while hydrogen is the most abundant material in the
+universe, it is not readily accessible. Expensive and sophisticated
+chemical-industry processes must extract it. Nearly all of the hydrogen produced
+today is made from fossil fuels. These fuels consist primarily of molecules made
+up of carbon and hydrogen. To produce hydrogen from these fossil fuel molecules,
+they must be "reformed" with steam and/or oxygen in a complex thermo-chemical
+process consisting of many steps. The products of reformation are hydrogen gas
+and carbon-gas species. The traditional industrial process further purifies and
+separates the hydrogen from the rest of the stream by various methods. This
+expensive reformation process is exactly what our Plasma Converter does in the
+process of destroying most feedstock. In other words, we get the reformation
+process from the Plasma Converter for no additional costs.
+
+Competition
+
+We believe we are the industry leader in the use of plasma technology to rid the
+world of its waste problem and/or create valuable alternative power sources and
+industrial products. There are other plasma-based technologies in various stages
+of development that claim to achieve some, but not all, of the benefits achieved
+by our system. However, the fact that the commercial use of plasma for waste
+destruction resulting in power and product creation is in its early stages makes
+competitive comparisons difficult. We welcome the presence of other plasma
+technologies. The market for plasma technology is huge and the existence of
+competing technologies provides credibility to the industry.
+
+We believe we are positioned to take advantage of the recognition of plasma
+technology as an alternative to conventional forms of waste disposal. We have
+spent substantial money, time and effort educating the public and private
+sectors on the benefits of our technology and believe we will reap the rewards
+of that effort.
+
+We believe the following are a few of our competitive advantages:
+
+ o Low total system cost that allows our customers to make money with our
+ system
+
+ o Operating performance far safer than prevailing environmental
+ standards
+
+ o The ability to process solids, liquids, and gases simultaneously
+
+ o Versatile feed systems and vessel openings that allow a wide variety
+ of feed streams
+
+ 10
+
+o Advanced stage of power producing peripheral equipment
+
+ o Unmatched advanced design and operating performance of our complete
+ system
+
+ o Management's experience with plasma and its commercial application
+
+ o Depth and breadth of manufacturing knowledge and experience
+
+ o Greater access to capital markets as a public company over private
+ companies
+
+ o Fully trained distributors and representatives
+
+ o Multiple modes of operations
+
+We believe the following are our competitive disadvantages;
+
+ o Our cash position relative to other multi-national companies who may
+ enter this field as it grows
+
+ o Resistance to new technologies when dealing with the public health and
+ safety
+
+We believe many potentially competitive technologies are limited to a narrow
+number of waste feed-streams. In some of those technologies, if the system does
+not receive exactly what it expects, even something as benign as water or
+metals, the process may be ineffective and possibly dangerous. In the waste
+industry, it is difficult to specify the exact composition of a waste stream in
+a real world application. By their very nature, waste streams are sometimes made
+up of unknown and unpredictable materials. For any processing system to be
+commercially successful it must be able to safely and effectively process
+unpredictable waste streams without system upsets. Our Plasma Converter can
+handle great deviations in the waste stream content. We believe many of the
+potentially competitive technologies have yet to demonstrate capabilities beyond
+small laboratory or bench scale devices that use precisely controlled waste
+streams under precisely controlled conditions. They may also produce undesirable
+and hazardous by-products.
+
+We believe the following companies are potential competitors in the plasma
+industry:
+
+ 1) Integrated Environmental Technologies (IET); and
+
+ 2) MSE Technology Applications, Inc.
+
+IET offers a very different system from our technology. IET uses a carbon rod
+plasma arc system whereas we use a plasma torch based system. MSE, like
+Startech, is a plasma torch based system.
+
+There are difficulties present in comparing technologies in our industry that
+are not present in established industries. The commercial nature of any
+plasma-based system is based upon the performance data received and the
+versatility of the material feedstock that can be processed. Further, in
+addition to the performance data and versatility of feedstock, the commercial
+uses for the system can be greatly enhanced by the number of peripheral devices
+that can be added to the system to make use of the saleable gas, silicate and
+metals that the system produces to create a total solution. Because this
+industry is just beginning to develop, there is very little empirical evidence
+in the public domain regarding the performance data of each competing
+technology. Therefore, performance comparisons are not available. However, some
+of our competitive advantages are not data related, but are the direct result of
+the versatility in the feedstock variations we can accommodate and in the
+advanced level of our system design. Additionally, we know of no competitor who
+is offering the variety of uses for the gas and silicates that Startech can
+offer.
+
+ 11
+
+Besides those companies mentioned specifically, there are a number of other
+companies that advertise a capability using plasma technology. We have no way of
+knowing the status of these companies or if they are even ongoing concerns.
+Since many of them are small, private companies it is very difficult to know
+what, if any, capabilities are ready for the commercial market. We are not aware
+of any competitive company that has a commercial site up and operating other
+than those we have named above.
+
+In addition, we believe that other waste disposal methods may be considered as
+competition. These methods are summarized as follows:
+
+- - landfill dumping: the least expensive in the short term and one of the most
+environmentally dangerous of all waste disposal methods.
+
+- - incineration: even though the permitting of new incinerator installations is
+being dramatically reduced, and the method has fallen into great disfavor both
+in the U.S. and internationally, this rather primitive method of disposal is
+still presently accepted by many although the emissions produced are regarded as
+pollutants, and large quantities of toxic bottom ash and fly ash are produced
+which are eventually deposited into landfills in the community.
+
+Intellectual property
+
+We have developed and acquired proprietary technology. Our technologies are
+comprised of a variety of overall coordinated system and subsystem concepts,
+detailed mechanical engineering calculations, detailed engineering design
+features, data compilations and analyses, complex chemical engineering
+calculations, business methods and market information. Since our formation, a
+substantial amount of intellectual property has been developed.
+
+On or about June 4, 2002, we submitted an application for a patent to the United
+States Patent and Trademark Office. The patent involves a torch positioning
+apparatus designed and developed by our engineers. This is the only patent we
+have applied for to date. We have designed and developed other proprietary
+intellectual property that will be protected as trade secrets. We may, in the
+future, US and file foreign applications for these patents. We plan to continue
+our development and protection of our intellectual property. We have not
+authorized or licensed the use of our proprietary information to any third
+parties and have no plans to do so. We retain the exclusive worldwide rights for
+development and commercialization of our technologies.
+
+We are the licensee on one patent. The inventions and related know how could
+enhance the commercial capability of our core plasma system for certain
+applications. The patent relates to a Hydrogen-Selective Ceramic Membrane that
+was developed by Media and Process Technology, Inc., and its predecessor, ALCOA
+Corporation. This technology provides for the high temperature dehydrogenation
+of our Plasma Converted Gas and forms the basis for our StarCell(TM) system.
+
+Our success depends, in part, on our ability to maintain trade secrecy for our
+proprietary information that is not patented, obtain patents for new inventions
+and operate without infringing on the proprietary rights of third parties. There
+can be no assurance that the patents of others will not have an adverse effect
+on our ability to conduct business or that we will develop additional
+proprietary technology which is patentable or that any patents issued to us will
+provide competitive advantages or will not be challenged by third parties. We
+also protect our trade secrets and proprietary know-how and technology by
+non-disclosure agreements and non-compete agreements with our collaborators,
+employees and consultants. However, there can be no assurance that these
+agreements will not be breached, that we would have adequate remedies for any
+breach, and that our trade secrets and proprietary know-how will not otherwise
+become known or be independently discovered by others.
+
+Government regulation
+
+Our customers are required to comply with a number of federal, state and local
+laws and regulations in the areas of safety, health and environmental controls,
+including without limitation, the Resource Conservation and Recovery Act, as
+
+ 12
+
+amended and the Occupational Safety and Health Act of 1970, which may require
+us, our prospective working partners or its customers to obtain permits or
+approvals to utilize the Plasma Converter system and related equipment on job
+sites. In addition, because we are marketing the Plasma Converter system
+internationally and expect those sales to represent a significant portion of our
+revenues, our customers will be required to comply with laws and regulations
+and, when applicable, obtain permits or approvals in those other countries.
+There is no assurance that these required permits and approvals would be
+obtained. Furthermore, particularly in the environmental remediation market, we
+may be required to conduct performance and operating studies to assure
+government agencies that the Plasma Converter system and its by-products do not
+prove to be environmental risks. There is no assurance that these studies, if
+successful, will not be more costly or time-consuming than anticipated. Further,
+if new environmental legislation or regulations are enacted or existing
+legislation or regulations are amended or are interpreted or enforced
+differently, our prospective working partners and/or its customers may be
+required to meet stricter standards of operation and/or obtain additional
+operating permits or approvals. There can be no assurance that our system's
+performance will satisfy all of the applicable regulatory requirements.
+
+Environmental matters
+
+Our customers operations are subject to numerous federal, state and local
+regulations relating to the storage, handling and transportation of regulated
+materials. Although our role is generally limited to the sale or leasing of its
+specialized technical equipment for use by our customers, there is always the
+risk that equipment failures could result in significant claims against us. Any
+claims against us could materially adversely affect our business, financial
+condition and results of operations as well as the price of our common stock.
+
+13
+
+Manufacturing operations
+
+Our products and systems are presently being manufactured by third party vendors
+who build specific component parts to our specifications. Some of the
+manufacturing components are constructed at our 30,000 square foot manufacturing
+facility located in Bristol, Connecticut. We also assemble, ship and test our
+systems there.
+
+Research and development
+
+While the principal research and development to produce commercial Plasma
+Converters has been completed, we will continue to perform research and
+development activities with respect to product improvement and new product
+development, utilizing internal technical staff as well as independent
+consultants. These activities have to date been entirely paid for and sponsored
+by the company. We will continue to develop and design operational improvements
+that will be primarily in the area of the use of the Plasma Converted Gas
+produced by the Plasma Converter also used by StarCell. Expenditures for
+research and development will be geared to achieving lower costs designs and
+higher efficiencies consistent with our business model of offering complete
+systems solutions. In the twelve months ended October 31, 2003 we expensed
+ 310,219 for research and development. As we expand our research and development
+focus in fiscal year 2004 our efforts are expected to be devoted to the
+development of patentable proprietary inventions in the field of high
+temperature thermo-chemistry and the production of low cost hydrogen. In
+addition we will continue conducting ongoing tests, demonstrations and
+enhancements of the Plasma Converter for potential customers and governmental
+agencies.
+
+Employees
+
+As of January 15, 2004, the Company had 15 full-time employees, of these
+full-time employees, 7 are in engineering, 1 is in research and development, 1
+is in manufacturing and production, 1 is in sales and marketing and 5 are in
+management or administrative positions. We believe that we have been successful
+in attracting experienced and capable personnel. All officers and directors have
+entered into agreements requiring them not to disclose any proprietary
+information, assigning all rights to inventions made during their employment,
+and prohibiting them from competing with us. Our employees are not represented
+by any labor union or collective bargaining agreement, and we believe that our
+relations with our employees are good.
+
+ITEM 2 - PROPERTIES:
+- --------------------
+
+Our corporate headquarters is located at 15 Old Danbury Road, Suite 203, Wilton,
+Connecticut 06897-2525 where we lease 5,800 square feet of office space from CD
+Station, LLC as landlord. The lease and taxes provides for monthly payments of
+ 15,634, increasing annually from December 2002 to December 2004, when the lease
+expires. There is an option for us to extend the lease for a five (5) year term
+with the Landlord having the right to cancel the lease after two (2) years of
+the extended term if the buildings main tenant, The Common Fund, requires the
+additional space for their corporate offices.
+
+Our Product Showroom is located at 190 Century Drive, Bristol, Connecticut,
+06010, where we lease 5,400 square feet of office space from Tunxis Management
+as landlord. The lease provides for monthly payments of 2,475 increasing
+annually to September 2005, when the lease expires.
+
+Our Manufacturing facility is located at 545 Broad Street, Bristol, Connecticut,
+06010, where we lease 30,000 square feet of manufacturing space from Gaski
+Leasing as landlord. The lease provides for monthly payments of 5,265. The
+Lease will expire on July 1, 2004.
+
+ 14
+
+The following table listed below is the annual rent expense for the corporate
+headquarters at Wilton, Connecticut, and the Product showroom in Bristol,
+Connecticut, and the Manufacturing facility in Bristol, Connecticut:
+
+ Year Annual Rent
+ ---- -----------
+ 2004 290,436
+ 2005 29,700
+ 2006 0
+
+ITEM 3 - LEGAL PROCEEDINGS:
+- ---------------------------
+
+On June 5, 2002, the Company received a Demand for Arbitration filed with the
+American Arbitration Association in East Hartford, CT by Peter Francisco and
+Fran Environmental, LLC. Fran Environmental has a Representatives Agreement with
+the Company. Peter Francisco is the principal member of Fran Environmental. The
+claim being made is that Startech has failed to provide proper support to assist
+this representative in its effort to market and sell our products in Brazil. The
+relief sought is for no less than 150,000. The Company does not believe the
+claim is subject to Arbitration under the terms of its agreement with the
+representative and has so advised the American Arbitration Association. On
+January 6, 2003 a temporary injunction was granted to Startech to stop the
+arbitration process and conduct a hearing as to whether a permanent injunction
+should be granted to enjoin the arbitration proceeding from continuing. A
+hearing was held for this purpose on February 24, 2003. However, no final
+determination was made as the moving party requested a continuance. As of the
+date of this filing the temporary injunction is still in place and no final
+determination has been made.
+
+There are no other material pending legal, regulatory or administrative matters
+to which we are a party.
+
+ITEM 4 - SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS:
+- -------------------------------------------------------------
+
+No matters were submitted to a vote of security holders during the fourth (4th)
+quarter of the year covered by this report.
+
+15
+
+PART II
+
+ITEM 5 - MARKET FOR REGISTRANT'S COMMON EQUITY AND RELATED STOCKHOLDERS'
+ MATTERS:
+- ------------------------------------------------------------------------
+
+(a) Market Information
+ ------------------
+
+From November 2000 through July 2, 2003 our common stock was traded on the
+NASDAQ - Small Cap under the symbol STHK. On July 3, 2003 our common stock began
+trading on the Over the Counter Bulletin Board under the symbol STHK. The table
+below shows the high and low closing price of our Common Stock during the
+quarters indicated.
+
+Fiscal Year Ended October 31: 2003 2002
+- ----------------------------- ---- ----
+ High Low High Low
+ ---- --- ---- ---
+
+First Quarter 1.28 0.84 3.67 1.95
+Second Quarter 1.55 1.03 3.63 2.47
+Third Quarter 1.30 0.77 3.38 1.40
+Fourth Quarter 1.45 1.00 2.05 1.20
+
+Closing Price
+ -------------
+ Quarter Ended High Low
+ ------------- ---- ---
+
+ January 31, 2004 (January 29, 2004) 4.55 1.15
+
+(b) Stockholders
+ ------------
+
+As of January 24, 2004, there were 699 holders of record of the Company's Common
+Stock. This number does not include those beneficial owners whose securities are
+held in street name.
+
+(c) Dividends
+ ---------
+
+The Company has never paid a cash dividend on its Common Stock and has no
+present intention to declare or pay cash dividends on the Common Stock in the
+foreseeable future. The Company intends to retain any earnings, which it may
+realize in the future to finance its operations.
+
+(d) Securities Authorized for Issuance under Equity Compensation Plans
+ ------------------------------------------------------------------
+
+Shares of Common Stock
+ remaining available for
+ Shares of Common Stock to be future issuance under
+ issued upon exercise of Weighted-average equity compensation plans
+ outstanding options, exercise price of (excluding securities
+ warrants and rights (in outstanding options, reflected in column (a))
+ thousands) warrants and rights (in thousands)
+Plan Category (a) (b) (c)
+- ------------------------------------------------------------------------------------------------------------
+ 
+Equity compensation plans 357,000 1.98 643,000
+approved by security holders
+
+Equity compensation plans not 3,786,286 4.90 8,089
+approved by security holders
+- ------------------------------------------------------------------------------------------------------------
+ Total 4,143,286 4.65 651,089
+
+16
+
+ITEM 6 - SELECTED FINANCIAL DATA:
+- ---------------------------------
+
+The selected financial data set forth below for the five years ended October 31,
+2003 is derived from the Company's audited financial statements. This
+information should be read in conjunction with "Management's Discussion and
+Analysis of Financial Condition and Results of Operations" included in Item 7
+and "Financial Statements And Supplementary Data" included in Item 8 which are
+incorporated herein by reference. The acquisition of Startech Corporation by the
+Registrant occurred on November 17, 1995. The financial information reflects the
+operations of both companies combined for all the periods presented.
+
+ Year Ended October 31,
+ ----------------------------------------------------------------------------
+ 2003 2002 2001 2000 1999
+ ------------ ------------ ------------ ------------ ------------
+Net sales 70,000 136,471 2,400,000 1,069,441 2,268,964
+
+Loss from operations 3,076,921 4,038,425 2,437,759 2,731,336 1,346,399
+
+Other income (expense) (344,936) 136,673 167,067 319,093 68,071
+
+Net loss 3,421,714 3,915,300 2,298,480 2,430,576 1,289,192
+ ============ ============ ============ ============ ============
+Earnings loss per share of weighted
+average shares of common
+stock outstanding (0.29) (0.40) (0.30) (0.63) (0.19)
+
+Weighted-average number of
+shares of common stock
+outstanding 11,641,052 9,746,165 8,359,111 7,430,838 6,875,999
+
+Total assets 4,885,586 3,138,230 4,663,005 7,077,881 6,374,818
+
+Total liabilities 1,497,349 743,802 740,957 1,196,596 359,458
+
+Long-term obligations 4,316 17,580 43,299 13,225 7,718
+Cash dividends per share
+for common stock 0 0 0 0 0
+
+17
+
+ITEM 7 - MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS
+OF OPERATIONS:
+- --------------------------------------------------------------------------------
+
+Critical Accounting Policies
+
+ Startech's discussion and analysis of its financial condition and results
+of operations are based on the Company's consolidated financial statements,
+which have been prepared in accordance with accounting principles generally
+accepted in the United States of America. The preparation of these financial
+statements requires management to make estimates and assumptions that affect the
+reported amounts of assets and liabilities and the disclosure of contingent
+assets and liabilities at the date of the financial statements as well as the
+reported revenues and expenses during the reporting periods. On an ongoing
+basis, management evaluates its estimates and judgments, including those related
+to revenue recognition, accounts receivable reserves, marketable securities,
+valuation of long-lived and intangible assets accounting for joint ventures and
+software development. Management bases its estimates on historical experience
+and on various other factors that are believed to be reasonable under the
+circumstances, the results of which form the basis for making judgments about
+the carrying value of assets and liabilities that are not readily apparent from
+other sources. Actual results may differ from these estimates under different
+assumptions or conditions.
+
+ The following accounting policies are deemed critical to the understanding
+of the consolidated financial statements included under Item 8--Financial
+Statements and Supplementary Data.
+
+ Inventories--Inventories, which are stated at the lower of cost or net
+realizable value, consist of inventory held for resale to customers. Cost is
+determined on the first-in, first-out basis and includes freight and other
+incidental costs incurred. Judgment is involved in evaluating backlog and in
+assessing the recoverability of inventory held at the balance sheet date.
+Startech provides inventory allowances based on the determination of excess and
+obsolete inventories as determined through the evaluation of future sales and
+changes in technology.
+
+ Research and Development Costs--Research and development costs are expensed
+as incurred.
+
+ Impairment of Long-Lived Assets and Long-Lived Assets to Be Disposed
+Of--Startech reviews the valuation of long-lived assets, including property and
+equipment and capitalized equipment, under the provisions of SFAS No. 144,
+"Accounting for the Impairment or Disposal of Long-Lived Assets" and SFAS No.86.
+Startech is required to assess the recoverability of long-lived assets and
+capitalized equipment costs whenever events and circumstances indicate that the
+carrying value may not be recoverable. Factors we consider important that could
+trigger an impairment review include the following:
+
+ o significant underperformance relative to expected historical or
+ projected future operating results;
+ o significant changes in the manner of our use of the acquired assets or
+ the strategy of our overall business;
+ o significant negative industry or economic trends; and
+ o significant decline in our stock price for a sustained period.
+
+ In accordance with SFAS No. 144, when we determine that the carrying value
+of applicable long-lived assets may not be recoverable based upon the existence
+of one or more of the above indicators of impairment, we evaluate whether the
+carrying amount of the asset exceeds the sum of the undiscounted cash flows
+expected to result from the use and eventual disposition of that asset. If such
+a circumstance exists, we would measure an impairment loss to the extent the
+carrying amount of the particular long-lived asset or group exceeds its fair
+value. We would determine the fair value based on a projected discounted cash
+flow method using a discount rate determined by our management to be
+
+ 18
+
+commensurate with the risk inherent in our current business model. In accordance
+with SFAS No. 86, when we determine that the carrying value of certain other
+types of long-lived assets may not be recoverable we evaluate whether the
+unamortized cost exceeds the expected future net realizable value of the
+products. If the unamortized costs exceed the expected future net realizable
+value of the products, the excess amount is written off.
+
+Results of Operations
+
+Comparison of Years Ended 2003 and 2002
+
+Revenues. Our total revenues were 70,000 for the year ended October 31, 2003,
+as compared to 136,471 for the same period in 2002, a decrease of 66,471 or
+48.7 . There were no Plasma Converter Systems shipped in fiscal year 2003,
+revenues were limited to testing for Concurrent Technologies Corporation.
+
+Gross profit. Our gross profit was 21,324 for the fiscal year ended October 31,
+2003 as compared to a gross loss of 330,348 for the same period in 2002, a
+increase of 351,672 or 106.5 . The gross margin increase for fiscal year 2003
+was a result of the completion of the CTC demonstration program. The gross
+margin decrease for fiscal year 2002 was due to unexpected costs related to
+modifications of the Plasma Converter and higher customer installation costs
+related to the Eico system located in Japan.
+
+General and administrative expenses. Our general and administrative expenses for
+the year ended October 31, 2003 were 1,998,893 compared to 2,636,550 for the
+same period in 2002, a decrease of 637,657, or 24.2 . This decrease resulted
+from the reduction in staff and related salaries, taxes, and employee benefits.
+Reductions also occurred in the areas office of expenses, legal expenses and
+supplies.
+
+Research and development expenses. Our research and development expenses for the
+year ended October 31, 2003 were 310,219 an increase of 149,434 or 92.9 , from
+the same period in 2002. These expenditures are a result of costs incurred for
+the continued research, development and design of StarCell (TM). In addition,
+costs were incurred from further development of utilization efficiencies plasma
+medium gases in our operations, as well as continued improvements to our gas
+polisher components.
+
+Selling expenses. Our selling expenses for the year ended October 31, 2003 were
+ 789,133 a decrease of 121,609 or 13.4 , for the similar period in 2002. The
+decreased costs related to selling expenses were as result of lower consulting
+expenses and printing expenses.
+
+Interest income. Our interest income for the year ended October 31, 2003 was
+ 9,220, as compared to 26,569 in the similar period 2002 a decrease of 17,349
+or 65.3 . The decrease is due to lower cash balances and lower interest rates
+earned on our investments resulting from the Federal Reserve lowering short-term
+interest rates.
+
+Income taxes. Income taxes for the year ended October 31, 2003 resulted in a
+credit balance of 143 as compared with 13,548 in the similar period 2002. The
+tax credit balance was a result of refunds received during fiscal year 2003. We
+have minimal tax obligations due to the fact that we have not had profitability
+to this point. We have loss carry forwards of approximately 15.5 million to
+offset against future profits.
+
+One time management restructuring charges amounted to 346,052 for the year
+ended October 31, 2003 versus 0 for the year ended October 31, 2002. This one
+time charge is for expenses related to severance, legal, and various other
+expenses as a result of restructuring charges.
+
+ 19
+
+Comparison of Years Ended 2002 and 2001
+
+Revenues. Our total revenues were 136,471 for the year ended October 31, 2002,
+as compared to 2,400,000 for the same period in 2001, a decrease of 2,263,529
+or 94.3 . As no Plasma Converter Systems were shipped in fiscal year 2002,
+revenues were limited to additional components for the Eico System.
+
+Gross profit. Our gross loss was 330,348 for the fiscal year ended October 31,
+2002 as compared to a gross profit of 937,404 for the same period in 2001, a
+decrease of 1,267,752 or 135.2 . The margin decreased as a result of
+unanticipated costs related to modifications of the Plasma Converter and higher
+customer installation costs related to the Eico system located in Japan.
+
+General and administrative expenses. Our general and administrative expenses for
+the year ended October 31, 2002 were 2,636,550 an increase of 265,668, or
+11.2 , from the same period in 2001. This increase resulted from higher salary
+and related expenditures due to the hiring additional personnel, depreciation
+expenses, facility rental expenses, and increased insurance premiums.
+
+Research and development expenses. Our research and development expenses for the
+year ended October 31, 2002 were 160,785 an increase of 9,618 or 6.4 , from
+the same period in 2001. The increase is related to costs associated with the
+installation for the Eico project. In addition costs were incurred for the
+continued research, development and design of StarCell (TM). StarCell(TM) is our
+latest product development that will improve the marketability and versatility
+of our Plasma Converter System, as well as StarCell(TM) ability to operate as a
+stand-alone system for the production of hydrogen.
+
+Selling expenses. Our selling expenses for the year ended October 31, 2002 were
+ 910,742 an increase of 57,628 or 6.8 , for the similar period in 2001. The
+increased costs related to selling expenses comprised of a new customer
+orientation video, Plasma Converter System scale models, attendance and
+showcasing at several tradeshows, as well as the creation of new marketing
+materials.
+
+Interest income. Our interest income for the year ended October 31, 2002 was
+ 26,569, as compared to 182,193 in the similar period 2001 a decrease of 85.4 .
+The decrease is due to lower cash balances and lower interest rates earned on
+our investments resulting from the Federal Reserve lowering short-term interest
+rates.
+
+Income taxes. Income taxes for the year ended October 31, 2002 were 13,548 as
+compared with 27,788 in the similar period 2001. We have minimal tax
+obligations due to the fact that we have not had profitability to this point. We
+have loss carry forwards of 11.7 million to offset against future profits.
+
+20
+
+Comparison of Years Ended 2001 and 2000
+
+Revenues. Our total revenues were 2,400,000 for the year ended October 31,
+2001, as compared to 1,069,441 for the same period in 2000, an increase of 
+1,330,559 or 124.4 . The increase is due to the shipment of a 10,000
+pound-per-day Plasma Converter to Eico Systems Corporation located in Japan.
+This Eico contract represented all of the revenues for the year ended October
+31, 2001.
+
+Gross profit. Our gross profit was 937,404 for the fiscal year ended October
+31, 2001 an increase of 670,590 or 251.3 from the same period in 2000. Our
+gross margins on revenue were 39.1 for the year ended October 31, 2001 versus
+25.0 for the year ended October 31, 2000. The margins improved as a result of
+increased efficiencies in identifying subcontractors and procuring materials.
+
+General and administrative expenses. Our general and administrative expenses for
+the year ended October 31, 2001 were 2,370,882 an increase of 302,646, or
+14.6 , from the same period in 2000. This increase resulted from higher
+depreciation expenses, office rental expenses, bad debt expense, insurance
+expenses, and higher salary costs related to hiring additional personnel.
+
+Research and development expenses. Our research and development expenses for the
+year ended October 31, 2001 were 151,167 up 102.8 , from the same period in
+2000. The increase is related to costs associated with our engineering and
+design advances of the Plasma Converter sub-systems. Further, additional costs
+were for the research, development and design of StarCell (TM). StarCell(TM) is
+our latest product development that will improve the marketability and
+versatility of our Plasma Converter system, as well as Starcell(TM) ability to
+operate as a stand-alone system for the production of hydrogen.
+
+Selling expenses. Our selling expenses for the year ended October 31, 2001 were
+ 853,114 a decrease of 2,266 or less than 1 , for the similar period in 2000.
+The costs related to selling expenses comprised mainly of demonstrations at our
+Bristol showroom facility, as well as travel and consulting arrangements
+associated with marketing activities.
+
+Interest income. Our interest income for the year ended October 31, 2001 was
+ 182,193, as compared to 324,221 in the similar period 2000 a decrease of
+43.8 . The decrease is due to lower cash balances and lower interest rates
+earned on our investments resulting from the Federal Reserve lowering short-term
+interest rates.
+
+Income taxes. Income taxes for the year ended October 31, 2001 were 27,788 as
+compared with 18,333 in the similar period 2000. We have minimal tax
+obligations due to the fact that we have not had meaningful profitability to
+this point. We have loss carry forwards of 7.8 million to offset against future
+profits.
+
+21
+
+Project Update
+
+Hydrogen from Tires
+
+On December 2, 2003, we announced that we had signed a contract valued at
+approximately 500,000 with Media and Process Technology Inc. for the U.S.
+Department of Energy to produce and demonstrate our commercial-size StarCell(TM)
+system, and also produce hydrogen derived from processing tires through the
+Startech Plasma Converter System (TM). The work will be performed in Startech's
+Technology Park facility in Bristol, Connecticut with the Company's StarCell(TM)
+partner, Media and Process Technology Inc.
+
+The tires will be put into the Startech Plasma Converter where they will be
+irreversibly destroyed and converted into Plasma Converter Gas (PCG)(TM). PCG is
+a clean synthesis gas mixture rich in hydrogen. The PCG will then be fed into
+the Company's StarCell(TM) system to separate the hydrogen from the PCG to
+produce StarCell(TM) Hydrogen for energy and power. The balance of the PCG
+comprised principally of carbon-based molecules can also be used for energy and
+power.
+
+StarCell(TM) is the Company's proprietary ceramic filtration system: it is not a
+fuel cell. StarCell(TM) is a patented hydrogen selective membrane that separates
+hydrogen from the PCG produced in processing wastes in the Converter.
+
+Startech included in Water and Energy Bill
+
+President Bush, on December 1, 2003 signed the "Water and Energy Bill" into Law
+108-137 that specifies 500,000 for the "Startech Hydrogen Project." This
+Project will process many different kinds of feedstock, both hazardous and
+non-hazardous, through our Plasma Converter System for the specific purpose of
+demonstrating the hydrogen content of the Plasma Converter Gas (PCG)(TM)
+produced from each kind of material. PCG is a clean synthesis gas mixture
+containing hydrogen.
+
+Hydrogen used for power is the most pristine of all fuels. In producing power
+the only resulting by-product is H2O or better known as fresh water. This
+contract will also be administered through the Department of Energy.
+
+Mihama Contract
+
+On November 10, 2003 we announced we signed a 1,250,000 contract with Mihama
+Inc. of Japan to modify the existing Plasma Converter System in Japan, formerly
+owned by Eico Systems Corp to safely and irreversibly destroy incinerator ash,
+PCBs, and PCB contaminated materials. Mihama is a Startech distributor for Japan
+and has acquired the Plasma Converter System formerly owned by Eico System Corp,
+now liquidated. PCBs is an abbreviation for a family of manufactured industrial
+products called polychlorinated biphenyls. The major use of PCBs has been in
+industrial electric equipment especially in transformers, capacitors, voltage
+regulators and electromagnets. PCBs are dangerous and harmful, and PCBs have
+been found in water, soil, animals and in the food chain. PCBs are pernicious
+materials that enter the body through the digestive system, lungs and even
+through the skin. They interfere with many biological functions, including the
+immune system, nervous system, endocrine systems and fetuses appear to be
+particularly vulnerable to these actions. There is the tendency for PCBs to
+accumulate in the fatty tissue of humans, animals and fish. PCB
+biomagnifications concentrations have even been found accumulated in "mother's
+milk." In 2001, the Japanese Ministry of Environment reported that there are
+about 270,000 high-voltage transformers and capacitors stored in Japan
+containing 70 of the PCB that ever was deployed in the country. In October 2002
+the Ministry of Environment notified six prefectures that they have to develop
+plans and facilities to take care of the PCB containing products and maintain
+control of them until they are safely are irreversible destroyed.
+
+ 22
+
+EICO-Plasma (Poland) Contract
+
+The project although significantly delayed is still expected to be initiated at
+the completion of financing. The customer has completed the identification of
+their waste stream and with the Municipality of Bytom as part owner has secured
+the site and permits. This customer had relied on Governmental Eco-Funds to
+provide a significant portion of the financing but has not been able to arrange
+the allocation although the project was previously approved. At this time, new
+financing approaches are delaying the initiation of the project, however the
+customer anticipates financial closure this year.
+
+Ekologia (Poland) Contract
+
+This project to remediate hazardous waste in the Bydgoszcz, Poland area is also
+seeking financing. The customer has multiple activities underway to secure the
+funding and is anticipating a 2004 authorization to proceed. This project also
+has completed the securing of the waste streams, site approval and permitting.
+
+Chempol (Poland) Contract
+
+Chempol (Tuczepy, Poland) has a site that is fully permitted and has been
+authorized to initiate waste acceptance and storage. Recently, the Chempol
+organization has restructured to accept new investors and is now redeveloping
+their business plan and operating strategy. They anticipate securing their
+financing this year and expect to proceed with the PCS acquisition.
+
+Desert Charm (South Africa)
+
+Desert Charm has acquired the project assets of the Amandla Company in South
+Africa and is proceeding to complete the development of the initial 50 TPD Waste
+Processing Facility. The South African project has successfully completed all
+the technical evaluations and recently also completed their site specific EIA.
+Their efforts have now received governmental acceptance. Final stage financing
+is underway and expected to close in a few months. Startech has agreed to
+participate in this initial project and has offered a system discount in
+exchange for project equity.
+
+China
+
+Working through our representative in China, Startech has achieved a series of
+high level meetings with the Central Government Ministry of Environmental
+Protection (SEPA). These in-depth discussions have led to visitations to our
+Bristol demonstration facility whereby they where able to witness system
+operations. Additional communications are presently underway.
+
+Ireland
+
+It is the determination of the Company that the two projects that were announced
+previously do not have the requisite financial structure and accordingly have
+ceased to be viable projects.
+
+Vitech Enterprises, Inc.
+
+Startech has been working in cooperation with Vitech Enterprises Inc., a
+privately held North Carolina corporation for the joint development of an
+initial 10 TPD Plasma Converter facility to process out-of-date, recalled and
+unwanted pharmaceuticals. These are sometimes called "reverse logistical
+materials". The Company will own a 25 interest in Vitech in exchange for a
+discount on the sale of the initial 10 TPD Plasma Converter System (PCS) along
+with engineering support and assistance to Vitech in its effort to secure the
+initial facility.
+
+With the cooperation of Vitech, Startech has recently brought a potential
+investor to Vitech to finance the complete 10 TPD facility, including Vitech's
+purchase of a system. Discussions between Vitech and the potential investor have
+been and continue to be in progress. Depending on how quickly the financial
+arrangement between Vitech and the potential investor are completed, the initial
+facility could be on-line in early 2005.
+
+ 23
+
+Vitech's plans call for multiple, strategically located facilities for each to
+process 10 to 25 tons per day in a market it estimates to exceed 3.5 million
+tons per year for finished, recalled and unwanted pharmaceuticals.
+
+End of Life Electronics
+
+On October 21, 2003, the Company announced that it had received the acceptance
+and approval of its Final Report on its successful completion of a 70,000
+contract from the Concurrent Technologies Corporation (CTC) to demonstrate the
+Plasma Converter's ability to safely process and irreversibly destroy "end of
+life electronics" often referred to as "e-waste."
+
+Under contract with the Department of Defense, CTC operates the National Defense
+Center for Environmental Excellence.
+
+Waste Age said, "The United States generates more e-waste than any other nation,
+according to the EPA. More than 500 million computers will become obsolete by
+2007, which will result in at least 1.58 billion pounds of lead and 6.32 billion
+pounds of plastic needing disposal, and that amount is expected to rise. The EU
+estimates that the e-waste accounts for 6 million tons of garbage across Europe"
+E-waste is a new additional market for the Company.
+
+Other Developments
+
+New Directors and Committees
+
+On September 4, 2003, Joseph F. Longo appointed four new Directors to the Board.
+They are Messrs. Ballew, Equale, Perna and Slepicka. Their biographies are shown
+in our Proxy Statement as well as the press release issued on September 4, 2003.
+On November 5, 2003 we appointed a new Audit Committee comprising of Joseph A.
+Equale, as Chairman, with Douglas R. Ballew, and Nicholas S. Perna as members.
+Also on November 5, 2003 a Compensation Committee was appointed, comprising of
+Kenneth J. Slepicka as its Chairman with Joseph A. Equale and Nicholas S. Perna
+as members. Joseph F. Longo was appointed as Chairman of the Board. The Board is
+now comprised of these five individuals.
+
+New Law Firm
+
+Kramer Levin Naftalis & Frankel LLP was engaged as the Company's attorneys of
+record in July of 2003. Kramer Levin is a world-class, full service law firm
+with offices in New York and Paris. With more than 280 attorneys in more than 20
+practice areas the Firm has the knowledge and expertise to provide a full range
+of solutions, support and advice to the Company.
+
+New Public Relations Firm
+
+In November of 2003, the Company engaged the Schwartz Communications Company of
+Boston, Massachusetts. Schwartz Communications is the Nation's second largest
+independent public relations firm focused on high-tech, medical and
+biotechnology companies. Founded in 1990, Schwartz Communications has offices in
+Waltham Massachusetts and San Francisco. It currently represents such companies
+as Biogen, Blue Martini, Check Free, Gateway, and MapInfo.
+
+24
+
+New Chief Financial Officer
+
+On November 3, 2003, we announced that the Board of Directors appointed Peter J.
+Scanlon to the position of Chief Financial Officer effective November 1, 2003.
+Mr. Scanlon is 54 years old and has served as the Vice President of Finance and
+Administration for the past five years. His extensive financial experience
+includes 18 years with IBM where he was manager of the International Financial
+Systems Group developing financial systems and procedures for IBM's European
+manufacturing operations. Mr. Scanlon has a Bachelor of Science Degree in
+Accounting from Manhattan College, and lives with his wife of 32 years and his
+daughter in Watertown, Connecticut. Former Chief Financial Officer Robert L.
+DeRochie departed the Company upon the completion of his Employment Contract on
+October 31, 2003. Mr. DeRochie is available to assist the Company as a
+consultant on an as-needed basis.
+
+Effects of Inflation
+
+Due to the low rate of inflation there has been very little effect on the
+Company's net revenues for fiscal 2003.
+
+Liquidity and Capital Resources
+
+This liquidity section contains forward looking statements that are made
+pursuant to the Safe Harbor provisions of the Private Securities Litigation
+Reform Act of 1995. Forward-looking statements involve risks, uncertainties and
+assumptions as described from time to time in registration statements, annual
+reports, and other periodic reports and filings of the Company filed with the
+Securities and Exchange Commission. All statements, other than statements of
+historical facts, which address the Company's expectations of sources of capital
+or which express the Company's expectation for the future with respect to
+financial performance or operating strategies can be identified as
+forward-looking statements. As a result, there can be no assurance that the
+Company's future results will not be materially different from those described
+herein as "believed," "anticipated," "estimated" or "expected," which reflect
+the current views of the Company with respect to future events. We caution
+readers that these forward-looking statements speak only as of the date hereof.
+The Company hereby expressly disclaims any obligation or undertaking to release
+publicly any updates or revisions to any such statements to reflect any change
+in the Company's expectations or any change in events, conditions or
+circumstances on which such statement is based.
+
+The Company had net working capital of 1,446,346 as of October 31, 2003 and had
+cash and cash equivalents of 2,601,558 as of October 31, 2003.
+
+Working capital was provided primarily from the Private Placements that were
+completed in 2003, from which we raised net proceeds of 4,341,256 after
+commissions and expenses. We have and will continue to be dependent upon the
+deposits and progress payments from the sale of equipment and the private sale
+of securities. It is anticipated that our capital requirements for future
+periods will increase and our future working capital needs will be obtained from
+the above sources as well as additional private placements, demonstration and
+testing programs, joint development programs, build own and operate facilities,
+and from cash generated from the operations of our business.
+
+We believe the completed private placements which raised over 4,500,000 after
+expenses will provide enough operating capital to sustain company operations at
+the current level for more than 1 year. It must be noted, however, that if the
+progress payments are not received in a timely manner or additional sales of
+Plasma Converters or funding is not available we may have to significantly cut
+expenses to maintain our operations.
+
+The Company has historically satisfied its capital needs primarily by the sale
+of equity securities. We are currently in discussions with several funding
+sources to raise additional capital through the issuance of additional equity
+securities. However, there is no assurance that this financing will be available
+when needed or that management will be able to obtain this or any additional
+financing on terms acceptable to the Company. As stated, we believe these
+financing needs will be satisfied but there can be no assurance this will be the
+case.
+
+The Company believes that continuing operations for the longer term will be
+supported primarily through anticipated growth in revenues and, if necessary,
+through additional sales of the Company's securities.
+
+ 25
+
+Our investing activities have consisted primarily of short-term high quality
+liquid investments, with maturities of three months or less when purchased,
+which are considered cash equivalents. The primary investments are high quality
+commercial paper, U.S. Treasury notes and U.S. Treasury bills.
+
+ITEM 7A. - QUALITATIVE AND QUANTITATIVE DISCLOSURE ABOUT MARKET RISK:
+- ---------------------------------------------------------------------
+
+Management does not believe that there is any material market risk exposure with
+respect to derivative or other financial instruments that would require
+disclosure under this item.
+
+ITEM 8 - FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA:
+- -----------------------------------------------------
+
+Report of Management
+
+Management of Startech Environmental Corporation, is responsible for the
+integrity of the financial information presented in this 10-K. The consolidated
+financial statements have been prepared in accordance with accounting principles
+generally accepted in the United States. Where necessary, they reflect estimates
+based on management's judgment.
+
+Management relies upon established accounting procedures and related systems of
+internal control for meeting its responsibilities to maintain reliable financial
+records. These systems are designed to provide reasonable assurance that assets
+are safeguarded and that transactions are properly recorded and executed in
+accordance with management's intentions.
+
+The Audit Committee of the Board of Directors meets regularly with management
+and its independent auditors to discuss audit scope and results, internal
+control evaluations, and other accounting, reporting, and financial matters. The
+independent auditors have access to the Audit Committee without managements'
+presence.
+
+ /s/ Joseph S. Klimek
+ Joseph S. Klimek
+ President and Chief Executive Officer
+
+/s/ Peter J. Scanlon
+ Peter J. Scanlon
+ Chief Financial Officer and Vice President
+
+Financial Statements and Supplementary data and the Independent Auditors Report
+thereon are listed and included Part IV, Item 15 of this Form 10-K.
+
+ITEM 9 - CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND
+FINANCIAL DISCLOSURE:
+- ------------------------------------------------------------------------
+
+None
+
+26
+
+ITEM 9A. CONTROLS AND PROCEDURES:
+- ---------------------------------
+
+Our management, including our chief executive officer and chief financial
+officer, have carried out an evaluation of the effectiveness of our disclosure
+controls and procedures as of October 31, 2003, pursuant to Exchange Act Rules
+13a-15(e) and 15(d)-15(e). Based upon that evaluation, our chief executive
+officer and chief financial officer have concluded that as of such date, our
+disclosure controls and procedures in place are adequate to ensure material
+information and other information requiring disclosure is identified and
+communicated on a timely basis. There were no significant changes in the
+registrant's internal controls or in other factors that could significantly
+affect these controls subsequent to the date of their evaluation.
+
+27
+
+PART III
+
+The information required to be filed by Part III (Items 10, 11, 12, 13 and 14)
+are hereby incorporated by reference from the Company's definitive proxy
+statement (to be filed with the Securities and Exchange Commission pursuant to
+Regulation 14A), which proxy statement will be filed no later than 120 days
+after October 31, 2003.
+
+28
+
+STARTECH ENVIRONMENTAL CORPORATION
+
+ Consolidated Financial Statements
+
+ October 31, 2003, 2002 and 2001
+
+29
+
+STARTECH ENVIRONMENTAL CORPORATION
+
+ Table of Contents
+
+ For The Years Ended October 31, 2003, 2002 and 2001
+
+Page
+ ----
+
+Independent auditors' report F-2
+
+Consolidated balance sheets F-3
+
+Consolidated statements of operations F-4
+
+Consolidated statements of changes in stockholders' equity
+ and other comprehensive income F-5
+
+Consolidated statements of cash flows F-6
+
+Notes to consolidated financial statements F-7
+
+F-1
+
+KOSTIN RUFFKESS & COMPANY, LLC Pond View Corporate Center
+ 76 Batterson Park Road
+Business Advisors and Certified Public Accountants Farmington, CT 06032
+
+ Farmington - New London Main Line: (860) 678-6000
+ Toll Free: (800) 286-KRCO
+ Fax: (860) 678-6110
+ Web: www.kostin.com
+
+To the Board of Directors
+Startech Environmental Corporation
+
+ INDEPENDENT AUDITORS' REPORT
+
+We have audited the accompanying consolidated balance sheets of Startech
+Environmental Corporation as of October 31, 2003 and 2002, and the related
+consolidated statements of operations, changes in stockholders' equity and cash
+flows for each of the three years in the period ended October 31, 2003. These
+financial statements are the responsibility of the Company's management. Our
+responsibility is to express an opinion on these financial statements based on
+our audits.
+
+We conducted our audits in accordance with auditing standards generally accepted
+in the United States of America. Those standards require that we plan and
+perform the audit to obtain reasonable assurance about whether the financial
+statements are free of material misstatement. An audit includes examining, on a
+test basis, evidence supporting the amounts and disclosures in the financial
+statements. An audit also includes assessing the accounting principles used and
+significant estimates made by management, as well as evaluating the overall
+financial statement presentation. We believe that our audits provide a
+reasonable basis for our opinion.
+
+In our opinion, the consolidated financial statements referred to above present
+fairly, in all material respects, the financial position of Startech
+Environmental Corporation as of October 31, 2003 and 2002, and the results of
+its operations, changes in stockholders' equity and its cash flows for each of
+the three years in the period ended October 31, 2003, in conformity with
+accounting principles generally accepted in the United States of America.
+
+/s/ Kostin Ruffkess & Company, LLC
+- ----------------------------------
+Farmington, Connecticut
+December 15, 2003, except note 13
+ As to which the date is
+ December 19, 2003.
+
+F-2
+
+STARTECH ENVIRONMENTAL CORPORATION
+ Consolidated Balance Sheets
+ October 31, 2003 and 2002
+
+ 2003 2002
+ ------------ ------------
+ 
+ Assets
+Current assets:
+ Cash and cash equivalents 2,601,558 509,321
+ Accounts receivable 0 290,000
+ Inventory 320,048 273,706
+ Prepaid expenses 15,000 5,000
+ Other current assets 2,773 17,380
+ ------------ ------------
+
+Total current assets 2,939,379 1,095,407
+
+Equipment, at cost, net of accumulated depreciation 1,669,787 1,794,067
+
+Other Assets 276,420 248,756
+ ------------ ------------
+
+ Total Assets 4,885,586 3,138,230
+ ============ ============
+
+ Liabilities and Stockholders' Equity
+
+Current liabilities:
+
+ Accounts payable 40,167 260,116
+ Customer Deposits 1,040,000 120,000
+ Capital lease - short-term 15,994 44,885
+ Other accrued expenses 396,872 301,221
+ ------------ ------------
+
+ Total current liabilities 1,493,033 726,222
+
+Long-term liability:
+ Capital lease payable net of current portion 4,316 17,580
+ ------------ ------------
+
+ Total liabilities 1,497,349 743,802
+ ------------ ------------
+
+Stockholders' equity:
+Preferred stock, no par value, 10,000,000 shares authorized;
+ 2,645, and 35,655 at October 31, 2003 and 2002 respectively
+ (aggregate liquidation preference of 26,453 and 360,553
+ at October 31,2003 and 2002, respectively) 26,453 356,553
+Common stock; no par value; 800,000,000 shares authorized
+ shares issued and outstanding: 16,134,122 at October 31,
+ 2003 and 10,293,392 at October 31, 2002 19,536,077 14,790,453
+Additional paid-in-capital 1,742,745 1,742,745
+Deficit (17,917,038) (14,495,324)
+ ------------ ------------
+
+ Total stockholders' equity 3,388,237 2,394,427
+ ------------ ------------
+ Total Liabilities and Stockholders' Equity 4,885,586 3,138,230
+ ============ ============
+
+The accompanying notes are an integral part of the consolidated financial statements.
+
+ F-3
+
+STARTECH ENVIRONMENTAL CORPORATION
+
+ Consolidated Statements of Operations
+
+ For The Years Ended October 31, 2003, 2002 and 2001
+
+ Year Ended October 31,
+ --------------------------------------------
+ 2003 2002 2001
+ ------------ ------------ ------------
+
+Revenue 70,000 136,471 2,400,000
+
+Cost of goods sold 48,676 466,819 1,462,596
+ ------------ ------------ ------------
+
+Gross profit (loss) 21,324 (330,348) 937,404
+
+Operating Expenses :
+ Selling Expense 789,133 910,742 853,114
+ Research and Development 310,219 160,785 151,167
+ General and Administrative 1,998,893 2,636,550 2,370,882
+ ------------ ------------ ------------
+Total Operating Expenses 3,098,245 3,708,077 3,375,163
+ ------------ ------------ ------------
+
+Loss from operations (3,076,921) (4,038,425) (2,437,759)
+ ------------ ------------ ------------
+
+Other income (expense):
+ Interest income 9,220 26,569 182,193
+ Interest expense (6,926) (12,762) (15,126)
+ Other Income (1,178) 122,866 --
+ Management restructuring 346,052 0 0
+ ------------ ------------ ------------
+ Total other income(expense) (344,936) 136,673 167,067
+ ------------ ------------ ------------
+
+Income tax (benefit) expense (143) 13,548 27,788
+ ------------ ------------ ------------
+
+Net loss 3,421,714) 3,915,300) 2,298,480)
+
+Less: preferred dividends 0 22,310 257,504
+ ------------ ------------ ------------
+
+Loss attributable to common stockholders 3,421,714) 3,937,610) 2,565,984)
+ ============ ============ ============
+
+Net Loss per share--basic 0.29) 0.40) 0.30)
+Weighted average common shares outstanding 11,641,052 9,746,165 8,359,111
+ ============ ============ ============
+
+The accompanying notes are an integral part of the consolidated financial statements
+
+ F-4
+
+STARTECH ENVIRONMENTAL CORPORATION
+ Consolidated Statements of Changes in Stockholders' Equity
+ For The Years Ended October 31, 2003, 2002 and 2001
+
+ Additional
+ Common Preferred Paid-In
+ Shares Amount Shares Amount Capital Deficit
+ ------------ ------------ ------------ ------------ ------------ ------------
+
+Balance, October 31, 2000 8,085,660 7,532,267 502,220 4,641,483 1,742,745 (8,035,210)
+ ============ ============ ============ ============ ============ ============
+Preferred shares converted to common
+ shares 1,178,720 4,423,877 (477,150) (4,423,877) -- --
+Shares issued during the year
+ for services rendered 8,050 29,987 -- -- -- --
+Shares issued for cash 30,000 210,000 -- -- -- --
+Shares issued for 401(k) plan 15,450 68,941 -- -- -- --
+Shares retired (35,000) -- -- -- -- --
+Net loss during the year
+ ended October 31, 2001 -- -- -- -- -- (2,298,480)
+Accretion of dividend on preferred
+ shares -- -- -- -- -- --
+Dividends -- -- 22,441 257,504 -- (227,189)
+ ------------ ------------ ------------ ------------ ------------ ------------
+Balance, October 31, 2001 9,282,880 12,265,072 47,511 475,110 1,742,745 (10,560,879)
+ ============ ============ ============ ============ ============ ============
+Preferred shares converted to common
+ shares 38,163 140,867 (14,087) (140,867) -- --
+Shares issued during the year
+ for services rendered 4,200 15,624 -- -- -- --
+Shares issued for cash 927,969 2,283,712 -- -- -- --
+Shares issued for 401(k) plan 40,180 85,178 -- -- -- --
+Net loss during the year
+ ended October 31, 2002 -- -- -- -- -- (3,915,300)
+Dividends -- -- 2,231 22,310 -- (19,145)
+ ------------ ------------ ------------ ------------ ------------ ------------
+Balance, October 31, 2002 10,293,392 14,790,453 35,655 356,553 1,742,745 (14,495,324)
+ ============ ============ ============ ============ ============ ============
+Preferred shares converted to common
+ shares 177,702 330,100 (33,010) (330,100) -- --
+Shares issued for 401(k) plan 69,848 74,268 -- -- -- --
+Shares issued for cash 5,593,180 4,341,256 -- -- -- --
+Net loss during the year
+ ended October 31, 2003 -- -- -- -- -- (3,421,714)
+Dividends -- -- -- -- -- --
+ ------------ ------------ ------------ ------------ ------------ ------------
+Balance, October 31, 2003 16,134,122 19,536,077 2,645 26,453 1,742,745 (17,917,038)
+ ============ ============ ============ ============ ============ ============
+
+The accompanying notes are an integral part of the consolidated financial statements.
+
+ F-5
+
+STARTECH ENVIRONMENTAL CORPORATION
+
+ Consolidated Statements of Cash Flows
+
+ For The Years Ended October 31, 2003, 2002 and 2001
+
+ Year Ended October 31,
+ -----------------------------------------
+ 2003 2002 2001
+ ----------- ----------- -----------
+Cash flows from operating activities:
+ Net loss (3,421,714) (3,915,300) (2,298,480)
+ Adjustments to reconcile net loss to net
+ cash used in operating activities:
+ Expenses paid for through the
+ issuance of common stock 0 15,624 29,987
+ (Gain) Loss on sale of assets (193) 4,633 --
+ 401(k) match through issuance
+ of common shares 74,268 85,178 68,941
+ Depreciation 196,733 190,588 141,640
+ Preferred stock accrual 0 3,165 30,315
+ (Increase) decrease in:
+ Accounts receivable 290,000 10,000 38,000
+ Prepaid expense (10,000) -- (5,000)
+ Inventory (46,342) 5,796 (5,796)
+ Other current assets 14,607 (15,519) 12,015
+ Other assets (27,664) (171,305) (4,256)
+ Increase (decrease) in:
+ Accounts payable (219,949) 144,627 (333,727)
+ Customer Deposits 920,000 120,000 0
+ Accrued expenses 95,651 (242,028) (166,999)
+ ----------- ----------- -----------
+
+Net cash used in operating activities (2,134,603) (3,764,541) (2,493,360)
+ ----------- ----------- -----------
+
+Cash flows used in investing activities:
+ Proceeds from sale of asset 5,593 500 --
+ Purchase of equipment (74,242) (172,385) (685,345)
+ ----------- ----------- -----------
+Net Cash used in investing activities (68,649) (171,885) (685,345)
+ ----------- ----------- -----------
+
+Cash flows from financing activities:
+ Proceeds from common stock issuance 4,341,256 2,283,712 210,000
+ Repayment of capital lease payable (45,767) (45,293) (45,121)
+ ----------- ----------- -----------
+
+Net cash provided by financing activities 4,295,489 2,238,419 164,879
+ ----------- ----------- -----------
+
+Net decrease in cash and cash
+ equivalents 2,092,237 (1,698,007) (3,013,826)
+
+Cash and cash equivalents, beginning 509,321 2,207,328 5,221,154
+ ----------- ----------- -----------
+
+Cash and cash equivalents, ending 2,601,558 509,321 2,207,328
+ =========== =========== ===========
+
+ The accompanying notes are an integral part of the consolidated financial statements
+
+ F-6
+
+STARTECH ENVIRONMENTAL CORPORATION
+
+ Notes To The Consolidated Financial Statements
+
+ For The Years Ended October 31, 2003, 2002 and 2001
+
+Note 1 - Summary of Significant Accounting Policies:
+- ----------------------------------------------------
+
+Principles of Consolidation
+- ---------------------------
+
+The consolidated financial statements of Startech Environmental Corporation
+include the accounts of Startech Corporation, its wholly-owned subsidiary. All
+intercompany transactions have been eliminated in consolidation.
+
+Company's Activities
+- --------------------
+
+The Company is an environmental technology corporation dedicated to the
+development, production and marketing of low cost waste minimization, resource
+recovery, and pollution prevention systems that convert waste into valuable
+commodities.
+
+Basis of Presentation
+- ---------------------
+
+On November 17, 1995, Startech Environmental Corporation, formerly Kapalua
+Acquisitions, Inc., was acquired in a reverse acquisition, in which all the then
+issued and outstanding shares of common stock of Startech Corporation were
+exchanged for 4,000,000 shares of Kapalua Acquisitions, Inc.'s common stock.
+After the acquisition and exchange of stock, the former shareholders of Startech
+Corporation owned 80.5 of the common stock of Kapalua Acquisitions, Inc.
+Subsequent to November 17, 1995, Kapalua Acquisitions, Inc. filed registration
+statements with the Securities and Exchange Commission to register certain
+securities.
+
+On January 2, 1996, Kapalua Acquisitions, Inc. changed its name to Startech
+Environmental Corporation. The financial statements of Startech Environmental
+Corporation include all of the accounts of Startech Corporation. This
+acquisition has been accounted for under the purchases method in the
+accompanying financial statements.
+
+Revenue Recognition
+- -------------------
+
+The Company recognizes revenue on the sale of its manufactured products at the
+date of delivery. Revenues earned from consulting and design services are
+recognized when the services are complete.
+
+Management Estimates
+- --------------------
+
+The preparation of financial statements in conformity with accounting principles
+generally accepted in the United States of America requires management to make
+estimates and assumptions that affect the reported amounts of assets and
+liabilities at October 31, 2003, 2002 and 2001, and revenues and expenses during
+the years then ended. The actual outcome of the estimates could differ from the
+estimates made in the preparation of the financial statements.
+
+Reclassifications
+- -----------------
+
+Certain reclassifications have been made to the fiscal 2002, and fiscal 2001
+financial statements to conform to the presentation used in the fiscal 2003
+financial statements. The reclassifications had no effect on shareholders'
+equity or net losses as previously reported.
+
+ F-7
+
+STARTECH ENVIRONMENTAL CORPORATION
+
+ Notes To The Consolidated Financial Statements
+
+ For The Years Ended October 31, 2003, 2002 and 2001
+
+Note 1 - Summary of Significant Accounting Policies: (Continued)
+- ----------------------------------------------------
+
+Cash and Cash Equivalents
+- -------------------------
+
+The Company considers all highly liquid investments, with a maturity of three
+months or less when purchased, to be cash equivalents. The primary investments
+will be high quality commercial paper, money markets, U.S. Treasury Notes, and
+T-Bills. Regarding supplementary cash flows information, income taxes paid were
+ 8,840 for the year ended October 31, 2003, 13,548 for the year ended October
+31, 2002, and 27,788 for the year ended October 31, 2001. Interest paid for the
+three years ended October 2003 was 6,926, 12,762 and 15,126 respectively. The
+Company also had the following non-cash transactions:
+
+2003
+- ----
+ Shares Amount
+ ------ ------
+ 
+Common shares issued for 401(k) match 69,848 74,268
+Series A convertible preferred shares converted to common shares 177,302 330,100
+Equipment acquired through capital lease -- 3,612
+
+2002
+- ----
+ Shares Amount
+ ------ ------
+
+Common shares issued for services rendered in 2002 4,200 15,624
+Common shares issued for 401(k) match 40,180 85,178
+Series A convertible preferred shares converted to common shares 14,087 140,867
+Equipment acquired through capital lease -- 25,539
+
+2001
+- ----
+ Shares Amount
+ ------ ------
+
+Common shares issued for services rendered in 2001 8,050 29,987
+Common shares issued for 401(k) match 15,450 68,941
+Series A convertible preferred shares converted to common shares 477,150 4,423,877
+Equipment acquired through capital lease -- 90,208
+Accrued dividends on the preferred stock -- 3,170
+Shares returned and cancelled in 2001 (35,000) --
+
+F-8
+
+STARTECH ENVIRONMENTAL CORPORATION
+ Notes To The Consolidated Financial Statements
+ For The Years Ended October 31, 2003, 2002 and 2001
+
+Note 1 - Summary of Significant Accounting Policies: (Continued)
+- ----------------------------------------------------
+
+Inventory
+- ---------
+
+Inventory consists of raw materials and work in process, and is stated at lower
+of cost or market. Cost is determined by the first-in, first-out method.
+
+Equipment
+- ---------
+
+Depreciation of equipment is provided using the straight-line method over the
+estimated useful lives of the assets, ranging from 3 to 15 years. Expenditures
+for major renewals and betterments which extend the useful lives of the
+equipment are capitalized. Expenditures for maintenance and repairs are charged
+to expense as incurred.
+
+Other Assets
+- ------------
+
+Other assets consist of security deposits on office leases and utility deposits
+in 2003, 2002 and 2001. In addition we have incurred 206,850 of project costs
+related to two specific projects we are currently undertaking. Upon completion
+of these projects our investments in them will be accounted for under the equity
+method.
+
+Income Taxes
+- ------------
+
+Income taxes consist of State taxes on capital. The Company has net operating
+loss carry-forwards of approximately 15.5 million expiring in various years
+through 2023. The deferred tax asset arising from the carry-forwards has been
+fully reserved against, since the likelihood of realization cannot be
+determined.
+
+Stock Options
+- -------------
+
+At October 31, 2003, we had two stock-based employee compensation plans, which
+are described more fully in Note 6. We have adopted the disclosure provisions
+allowed by Statement of Financial Accounting Standards ('SFAS') No. 148,
+'Accounting for Stock-Based Compensation -- Transition and Disclosure -- An
+Amendment of FASB Statement No. 123.' In addition, we have elected to continue
+using the intrinsic value method to measure the compensation costs of
+stock-based awards granted to employees in accordance with Accounting Principles
+Board ('APB') Opinion No. 25, 'Accounting for Stock Issued to Employees'; as a
+result, we recognize compensation expense for employee stock options granted at
+a price less than the market value of our common stock on the date of grant. The
+following table illustrates the effect on net loss and net loss per share had
+stock-based employee compensation been recorded based on the fair value method
+under SFAS No. 123.
+
+FOR THE YEAR ENDED OCTOBER 31,
+ -----------------------------------------
+ 2003 2002 2001
+ ----------- ----------- -----------
+ 
+Net loss applicable to common stockholders -- as reported (3,421,714) (3,937,610) (2,565,984)
+Stock-based compensation - pro forma (76,000) (542,340) (1,514,275)
+Net loss applicable to common stockholders -- pro forma (3,497,714) (4,479,950) (4,080,259)
+Net loss per share applicable to common stockholders
+(basic) -- as reported (.29) (.40) (.30)
+Net loss per share applicable to common stockholders
+(basic and) -- pro forma (.30) (.46) (.49)
+
+F-9
+
+STARTECH ENVIRONMENTAL CORPORATION
+
+ Notes To The Consolidated Financial Statements
+
+ For The Years Ended October 31, 2003, 2002 and 2001
+
+Note 1 - Summary of Significant Accounting Policies: (Continued)
+- ----------------------------------------------------
+
+Option valuation models require highly subjective assumptions, including the
+expected stock price volatility, which may be significantly different from those
+of traded options. Because changes in subjective assumptions can materially
+affect the fair value estimate, it is our opinion that the existing models do
+not necessarily provide a reliable single measure of the fair value of our
+stock-based awards. The Black-Scholes option valuation model was developed for
+use in estimating the fair value of traded options, which have no vesting
+restrictions and are fully transferable. The pro forma stock-based employee
+compensation was estimated using the Black-Scholes option pricing model with the
+following weighted average assumptions for each year:
+
+ 2003 2002 2001
+ ---- ---- ----
+ Risk-free interest rate 4.24 3.82 5.03 
+ Expected life of options -- years 10.00 9.90 9.75
+ Expected stock price volatility 76 107 99 
+ Expected dividend yield N/A N/A N/A
+
+In accordance with APB Opinion No. 25, we use the intrinsic value method to
+measure the compensation costs of stock-based awards granted to employees as the
+excess of the market value of our common stock on the date of grant over the
+amount that must be paid to acquire our common stock. We record these
+compensation costs over the vesting period of the stock-based award.
+
+We account for stock-based awards granted to non-employees at fair value in
+accordance with SFAS No. 123, 'Accounting for Stock-Based Compensation.'
+
+In accordance with Financial Accounting Standards Board ('FASB') Interpretation
+No. 44, 'Accounting for Certain Transactions Involving Stock Compensation,' we
+record compensation charges or benefits related to re-priced stock options based
+on the market value of our common stock until the re-priced stock options are
+exercised, forfeited or expire.
+
+Earnings (Loss) Per Share
+- -------------------------
+
+Earnings (loss) per share are based on the weighted average number of shares of
+common stock outstanding during the year. The Company has 3,754,286 potential
+common shares, 2,783,907 potential common shares, and 2,091,009 potential common
+shares in 2003, 2002, and 2001, respectively that were not used in the
+computation of diluted earnings per share because they would have been
+anti-dilutive for each of the three years ended October 31, 2003, 2002 and 2001.
+The Company will issue an additional 14,069 common shares when all the preferred
+shares are converted.
+
+Off Balance Sheet Risk
+- ----------------------
+
+The Company had more than 100,000 in a single bank during the year. Amounts
+over 100,000 are not insured by the Federal Deposit Insurance Corporation.
+However, management does monitor the financial condition of the institution
+where these funds are invested.
+
+ F-10
+
+STARTECH ENVIRONMENTAL CORPORATION
+
+ Notes To The Consolidated Financial Statements
+
+ For The Years Ended October 31, 2003, 2002 and 2001
+
+Note 2 - Inventory:
+- -------------------
+
+Inventory consists of the following at October 31, 2003 and 2002:
+
+ 2003 2002
+ -------- --------
+
+Raw materials 191,342 145,000
+Work in process 128,706 128,706
+ -------- --------
+Total inventory 320,048 273,706
+ ======== ========
+
+Note 3 - Property, Plant and Equipment:
+- ---------------------------------------
+
+Equipment is summarized by major classifications as follows:
+
+ Useful Life 2003 2002
+ (In years) ---------- ----------
+
+Computer equipment 3-5 129,127 123,007
+Equipment 7-15 1,807,523 1,742,347
+Furniture and fixtures 3-7 143,995 143,955
+Leasehold improvements 4-7 108,096 108,096
+Other fixed assets 4-7 23,625 23,625
+ ---------- ----------
+ 2,212,326 2,141,030
+Less: accumulated depreciation 589,028 393,452
+ ---------- ----------
+ 1,623,298 1,747,578
+Construction in progress 46,489 46,489
+ ---------- ----------
+Total property, plant and equipment 1,669,787 1,794,067
+ ========== ==========
+
+Note 4 - Operating Lease:
+- -------------------------
+
+LEASES
+
+The Company leases office space, equipment, computers and vehicles under
+non-cancelable operating leases expiring between 2003 and 2006. The future
+minimum commitments under these leases, exclusive of lease commitments related
+to Startech are as follows:
+
+ October 31,
+ -----------
+
+ 2004 308,046
+ 2005 34,011
+ 2006 247
+ --------
+ 342,304
+ ========
+
+The Company leases its offices in Wilton, Connecticut and its showroom and
+manufacturing facilities in Bristol, Connecticut, under lease agreements that
+expire in December 2004 and October 2005. Rental expense for the years ended
+October 31, 2003, 2002 and 2001, were 285,843, 269,418, and 216,756,
+respectively. There is an option for the Company to extend the Wilton,
+Connecticut lease for a five year term with the Landlord having the option to
+cancel after two years.
+
+ F-11
+
+STARTECH ENVIRONMENTAL CORPORATION
+
+ Notes To The Consolidated Financial Statements
+
+ For The Years Ended October 31, 2003, 2002 and 2001
+
+Note 5 - Stockholders' Equity:
+- ------------------------------
+
+Common Stock
+- ------------
+
+During 2003, the Company completed several private placements of its securities
+pursuant to which we issued an aggregate of 5,593,180 shares of its unregistered
+common stock at average price of 0.79 per share, resulting in aggregate net
+proceeds of 4,341,256 after commissions of 44,600 and expenses of 16,625. In
+January 2003 the Company completed a private placement for 750,000 and issued
+882,353 shares at a price of 0.85 cents per share. On March 28, 2003 the
+Company completed a private placement for 152,480 and issued 152,480 shares at
+a price of 1.00 per share. On July 15 and July 17th, we issued to one investor
+4,000,000 common shares for proceeds of 3,000,000 at a price of 0.75 per
+share. On October 17, 2003 we raised 500,000 from the same private investor as
+July 15th and July 17th, issuing 558,347 common shares at a price of 0.90 per
+share.
+
+Preferred Stock
+- ---------------
+
+During 1999, the Company issued 696,978 shares of its 8 Series A cumulative,
+convertible, redeemable, preferred stock. Common shares outstanding as of
+October 31, 2003 do not reflect the preferred shares converted. During the year
+ended October 31, 2003, 33,010 preferred shares were converted to common shares
+compared to 14,087 preferred shares converted during the year ended October 31,
+2002. There are currently 2,645 preferred shares outstanding.
+
+Warrants
+- --------
+
+As it relates to the private placement dated January 2003, 882,353 warrants were
+issued at a price of 1.80 per share. These warrants will expire in January 2006
+provided the common stock is trading at 1.80 per share at this time. If the
+stock is below the 1.80 per share the Company has agreed to extend the period
+for up to two consecutive years. There were no warrants issued related to the
+other private placements transacted in 2003.
+
+In conjunction with the private placement in 2002 the Company issued one common
+stock warrant for each share of common stock purchased, exercisable at a price
+equal to 120 of the market price of the common stock on the NASDAQ Small Cap
+Market based on the average closing price per share for the ten (10) trading
+days immediately preceding March 25, 2002. Accordingly, the exercise price per
+share is 3.95 and will expire on February 8, 2005. The Warrant may be callable
+anytime at the discretion of the Company 12 months after an effective
+registration statement, and after the average closing bid prices exceeds in
+excess of a 150 gain over the Exercise price for 10 consecutive trading days.
+
+In conjunction with the issuance of the preferred stock in 2000 the Company
+issued Warrants to purchase 396,464 shares of common stock at a price of 15.00
+per share. These Warrants were set to expire on August 1, 2002 however the price
+of the stock did not exceed 15.00 per share and the expiration was extended to
+August 31, 2004.
+
+ F-12
+
+STARTECH ENVIRONMENTAL CORPORATION
+
+ Notes To The Consolidated Financial Statements
+
+ For The Years Ended October 31, 2003, 2002 and 2001
+
+Note 6 - Non-qualifying Stock Option Plan:
+- ------------------------------------------
+
+1995 Stock Option Plan
+- ----------------------
+
+In November 1995, the Company registered 2,000,000 common shares, issuable upon
+exercise of stock options issued by the Company under its 1995 Non-qualifying
+Stock Option Plan (the Plan) for employees, directors and other persons
+associated with the Company whose services have benefited the Company. The
+options must be issued within 10 years from November 20,1995. Determination of
+the option price per share and exercise date is at the sole discretion of the
+Compensation Committee. During the years ended October 31, 2003, 2002, and 2001,
+the Company issued 0, 10,000 and 297,500 stock options, respectively. The
+options have an exercise price of 3.38 and 5.63 per share, respectively. On
+the issuance dates, the market value was the same as the exercise price,
+therefore, no compensation expense was recorded. As of October 31, 2003, 8,089
+options have not been granted.
+
+Options outstanding - 1995 Plan
+
+ Options outstanding, October 31, 2000 900,000
+ Options granted in 2001 297,500
+ ---------
+ Options outstanding, October 31, 2001 1,197,500
+ =========
+ Options granted in 2002 10,000
+ ---------
+ Options outstanding October 31, 2002 and 2003 1,207,500
+ =========
+
+2000 Stock Option Plan
+- ----------------------
+
+Our 2000 Stock Option Plan was adopted by our board of directors in January 2000
+and was approved by our stockholders in February 2000. The plan authorizes the
+issuance of up to 1,000,000 shares of our common stock. During the year ended
+October 31, 2003, 100,000 options have been granted at an average exercise price
+of 1.10 per share and 20,000 options have been cancelled. During the year ended
+October 31, 2002, 277,000 options have been granted at an average exercise price
+of 2.09 per share. On the issuance dates, the market value was the same as the
+exercise price, therefore, no compensation expense was recorded. As of October
+31, 2003, 643,000 options are available to be granted.
+
+Options outstanding - 2000 Plan
+
+ Options outstanding, October 31, 2000 0
+ Options granted in 2002 277,000
+ Options cancelled in 2002 0
+ --------
+ Options outstanding, October 31, 2002 277,000
+ ========
+ Options granted in 2003 100,000
+ Options exercised in 2003 0
+ --------
+ Options cancelled in 2003 (20,000)
+ ========
+ Options outstanding October 31, 2003 357,000
+ ========
+
+The plan provides for the grant of incentive stock options intended to qualify
+under Section 422 of the Internal Revenue Code and non-statutory stock options.
+Our officers, directors, employees and consultants, and employees and
+consultants of our majority-owned affiliated companies, are eligible to receive
+awards under the plan.
+
+ F-13
+
+STARTECH ENVIRONMENTAL CORPORATION
+
+ Notes To The Consolidated Financial Statements
+
+ For The Years Ended October 31, 2003, 2002 and 2001
+
+Note 6 - Non-qualifying Stock Option Plan: (Continued)
+- ------------------------------------------
+
+The options may be granted at an exercise price greater than or equal to the
+fair market value of our common stock on the date of grant or not less than 110 
+of the fair market value in the case of incentive stock options granted to
+persons holding more than 10 of the voting power of the Company. Fair market
+value for purposes of the plan is the closing market price of our common stock
+on the relevant date.
+
+The Company established the 2000 Stock Compensation Plan which replaced the 1995
+Stock Compensation Plan. The 2000 Plan authorizes awards of the following type
+of equity-based compensation: incentive stock options, nonqualified stock
+options, stock appreciation rights, restricted stock, deferred stock, annual
+grants of stock options to directors, stock options to directors in lieu of
+compensation for services rendered as directors, and other stock-based awards
+valued in whole or in part by reference to stock of the Company. No incentive
+stock options may be granted on or after February 1, 2010, nor shall such
+options remain valid beyond ten years following the date of grant.
+
+The total number of shares of stock reserved and available for distribution
+under the 2000 Plan originally was 1,000,000 shares, a maximum of 1,000,000 of
+which may be issued as incentive stock options.
+
+At October 31, 2003, there were 651,089 shares reserved for outstanding options
+under all plans and 643,000 shares available for granting of options under the
+2000 Plan.
+
+In fiscal 2003, 2002, and 2001, the Company granted 100,000, 287,000, and
+297,500 options, respectively, to its employees, directors, and outside
+consultants. Fiscal 2001 options were granted under the 1995 Plan. Fiscal 2002
+options were granted under the 2000 Plan and 1995 Plan and Fiscal 2003 options
+were granted under the 2000 Plan. Fifty percent of these options vest at the
+time of the grant and the other 50 will vest six months after date of grant and
+expire not more than ten years from date of grant.
+
+The plan is administered by our compensation committee. The committee has the
+authority to adopt, amend and repeal the administrative rules, guidelines and
+practices relating to the plan and to interpret its provisions. The committee
+selects the recipients of awards and determines the number of shares of common
+stock covered by the options and the dates upon which the options become
+exercisable and terminate, subject to provisions of the plan. Incentive stock
+options must terminate within ten years of the grant. Non-statutory options must
+terminate within fifteen years of the date of grant. The committee has the right
+to alter the terms of any option when granted or while outstanding, pursuant to
+the terms of the plan, except the option price.
+
+All options automatically become excisable in full in the event of a change in
+control, as defined in the 2000 plan, death or disability of the option holder
+or as decided by the compensation committee. Upon retirement, options held at
+least one year become exercisable in full. If an option holder's employment with
+us is terminated for any reason, except death, disability or retirement, the
+option holder has three months in which to exercise an option, but only to the
+extent exercisable immediately after termination, unless the option by its terms
+expires earlier. Termination or other changes in employment status may affect
+the exercise period.
+
+ F-14
+
+STARTECH ENVIRONMENTAL CORPORATION
+
+ Notes To The Consolidated Financial Statements
+
+ For The Years Ended October 31, 2003, 2002 and 2001
+
+Note 7 - Major Customers:
+- -------------------------
+
+All of our revenues were derived from one major customer in 2003; all of the
+revenues were derived from two major customers in 2002, while all of our
+revenues were derived from one major customer in 2001.
+
+Note 8 - Capital Lease Payable:
+- -------------------------------
+
+The Company has entered into capital lease obligations for computer, capital
+equipment, and telephone equipment. The terms of the leases range from 36 to 48
+months, with principal and interest due in monthly installments aggregating
+ 3,964 at rates ranging from 9.25 to 19.46 . The equipment was capitalized at
+ 100,324 and is being depreciated over five to fifteen years. Depreciation
+expense for 2003 was 14,383 and accumulated depreciation at October 31, 2003,
+is 23,644.
+
+ Total remaining lease payments:
+ 2004 17,610
+ 2005 4,311
+ 2006 247
+ -----------
+ 22,168
+ Less: unamortized interest 1,858
+ -----------
+ 20,310
+ Less: current portion 15,994
+ -----------
+ 4,316
+ ===========
+
+F-15
+
+STARTECH ENVIRONMENTAL CORPORATION
+
+ Notes To The Consolidated Financial Statements
+
+ For The Years Ended October 31, 2003, 2002 and 2001
+
+Note 9 - Fair Value of Financial Instruments:
+- ---------------------------------------------
+
+The following methods and assumptions were used to estimate the fair value of
+each class of financial instruments for which it is practical to estimate that
+value:
+
+Cash and other current assets are carried in the accompanying balance sheets at
+cost, which is a reasonable estimate of their fair value. Accounts payable,
+capital lease payable and accrued expenses are also carried at cost, which is a
+reasonable estimate of their fair value.
+
+ Carrying Estimated
+ Amount Fair Value
+ ---------- ----------
+
+ASSETS:
+ Cash and cash equivalents 2,601,558
+
+LIABILITIES:
+ Accounts payable 40,167 40,167
+ Capital lease payable 20,310 20,310
+ Accrued expenses 396,872 396,872
+
+Note 10 - Commitments:
+- ----------------------
+
+The Company has entered into an employment agreement with one of its executives.
+The agreement is for a term of four years which will expire November 1, 2004.
+The agreement provides for a salary of 185,000 and will allow for annual
+increases based upon performance reviews. The agreement requires the Company to
+grant the executive no less than 10,000 common stock options each year. In the
+event of a change in control of the Company the agreement provide the executives
+with severance benefits that include: a lump sum payment of 150 of the amount
+the executive would have earned if he had received his salary payments through
+the expiration date of this agreement; an additional lump sum payment of
+ 250,000; an immediate vesting of all options awarded to the executive as part
+of this agreement; an immediate right to sell the shares obtained through the
+exercise of those options without restriction as to dates, times or amounts,
+immediate vesting and transfer of ownership of all life insurance policies, and
+life and health benefits, including supplemental, vision and dental benefits if
+applicable, in an equal or better plan than the one currently provided to the
+executive and his family by the Company for a period of three years from the
+date of termination or constructive termination. In the event any payment or
+benefit received, or to be received, by the executive in connection with the
+termination of his employment, whether pursuant to his agreement or otherwise,
+is determined to be an excess parachute payment as defined in the Internal
+Revenue Code, and thus subject to the 20 percent Federal Excise tax, the amount
+of the benefits payable under his Agreement will be reduced until they are no
+longer subject to such tax.
+
+F-16
+
+STARTECH ENVIRONMENTAL CORPORATION
+
+ Notes To The Consolidated Financial Statements
+
+ For The Years Ended October 31, 2003, 2002 and 2001
+
+Note 11 - Employee Benefit Plan:
+- --------------------------------
+
+On June 1, 2000 The Company implemented an employee savings plan designed to
+qualify under Section 401(k) of the Internal Revenue Code. This plan is for all
+full-time employees who have completed 30 days of service. Company contributions
+are made in the form of common stock at the prevailing current market price and
+will vest equally over a three-year period. The Company will match the first 6
+percent of the employee contribution on a dollar for dollar basis up to the
+maximum contribution allowed under Internal Revenue Code. Contributions for the
+year ended October 31, 2003 were 74,268, 85,178, and 68,941 for the years
+ended October 31, 2003, 2002, 2001 respectively. These contributions were paid
+through the issuance of 69,848, 40,180 and 15,450 shares of our common stock
+respectively. During the years ended October 31, 2003, 2002, 2001 respectively
+11,688, 938, and 0 shares of our common stock have been returned to the 401K
+plan due to employee shares that were not vested due to attrition.
+
+Note 12 - Research and Development Costs:
+- -----------------------------------------
+
+Research and development costs are charged to operations when incurred. The
+amounts charged were 310,219 in 2003, 160,785 in 2002 and 151,167 in 2001. As
+we expand our research and development focus in fiscal year 2004 our efforts are
+expected to be devoted to the development of patentable proprietary inventions
+in the field of high temperature thermo-chemistry and the production of low cost
+hydrogen. In addition we will continue conducting ongoing tests, demonstrations
+and enhancements of the Plasma Converter for potential customers and
+governmental agencies.
+
+Note 13 - Subsequent Events:
+- ----------------------------
+
+On December 19, 2003 we completed a sole source private placement of our
+securities from which we raised 200,000 and issued 173,913 shares of our
+unregistered common stock at 1.15 per share. Additionally the 500,000
+additional investment from Northshore Asset Management has been extended.
+
+F-17
+
+PART IV
+
+Item 15. Financial Statements, Financial Schedules, Exhibits and Reports on Form
+ 8-K
+
+(a) List of documents filed as part of the report:
+
+ 1. Consolidated Financial Statements
+
+ See index to Consolidated Financial Statements on page F-1
+
+ 2. Financial Statement Schedule
+
+ See index to Consolidated Financial Statements on page F-1
+
+ 3. Exhibits
+
+ The following documents are filed as exhibits to this Form 10-K, including
+those exhibits incorporated in this Form 10-K by reference to a prior filing of
+the Company under the Securities Act or the Exchange Act as indicated in
+parenthesis:
+
+Exhibit No. Description
+- ----------- --------------------------------------------------------------
+
+ 2(a) Agreement and Plan of Reorganization between Company and
+ Kapalua Acquisitions, Inc. dated November 17, 1995
+ (incorporated by reference to Exhibit 10.1 to the Company's
+ Current Report on Form 8-K, filed on November 29, 1995,
+ Commission File No. 0-25312)
+
+ 2(b) Agreement and Plan of Reorganization between Company and
+ Kapalua Acquisitions, Inc. dated November 17, 1995
+ (incorporated by reference to Exhibit 10.1 to the Company's
+ Current Report on Form 8-K, filed on November 29, 1995,
+ Commission File No. 0-25312)
+
+ 3(i) Articles of Incorporation of Startech (incorporated by
+ reference to Exhibit 3.1 to the Company's Registration
+ Statement on Form 10, filed on February 19, 1995, Commission
+ File No. 0-25312)
+
+ 3(i)(a) Articles of Amendment to the Articles of Incorporation (1)
+
+ 3(ii) By-Laws (incorporated by reference to Exhibit 3.2 to the
+ Company's Registration Statement on Form 10, filed on February
+ 19, 1995, Commission File No. 025312)
+
+ 3(ii)(a) Amendment to By-Laws of Startech dated January 24, 2000 (1)
+
+ 4(a) Form of Common Stock Certificate (2)
+
+ 4(b) Form of Convertible Preferred Stock Certificate (1)
+
+ 4(c) Form of Warrant Agreement (1)
+
+ 4(d) Stock Subscription Warrant dated December 29, 1998 between the
+ Company and the Connecticut Development Authority ("CDA") (2)
+
+ 4(e) Amendment to Stock Subscription Warrant dated March 31, 1999
+ between the Company and CDA (2)
+
+ 4(f) Second Amendment to Stock Subscription Warrant dated June 15,
+ 2000 between the Company and CDA (2)
+
+ 4(g) Form of Warrant Agreement dated March 25, 2002 (3)
+
+ 4(h) Form of 2000 Stock Option Plan (4)
+
+ F-18
+
+Exhibit No. Description
+- ----------- --------------------------------------------------------------
+
+ 10(a) 2000 Stock Option Plan (1)
+
+ 10(b) 1995 Stock Option Plan (incorporated by reference to Exhibit
+ 10.1 to the Company's Registration Statement on Form S-8,
+ filed in November, 1995, Commission File No. 33-99790)
+
+ 10 (c) Loan Agreement Dated December 29, 1998 between the Company and
+ CDA (2)
+
+ 10(d) Term Sheet for Preferred Stock dated August 17, 1999, between
+ the Company and Paradigm Group, LLC (2)
+
+ 10(e) Strategic Alliance Agreement dated July 22, 1996 between the
+ Company and Bauer Howden, Inc. (2)
+
+ 10(f) Strategic Alliance Agreement dated October 25, 1996 between
+ the Company and Calumet Coach Company (2)
+
+ 10(g) Strategic Alliance Agreement dated November 10, 1997 between
+ the Company and Chase Environmental Group, Inc. (2)
+
+ 10(h) Strategic Alliance Agreement dated April 17, 1998 between the
+ Company and the Ensign - Bickford Company (2)
+
+ 10(i) Strategic Alliance Agreement dated September 30, 1999 between
+ the Company and UXB International Inc. (2)
+
+ 10(j) Strategic Alliance Partner Agreement dated March 14, 2000
+ between the Company and Skidmore, Owings & Merrill LLP (2)
+
+ 10(k) Lease Agreement dated September 16, 1999 between the Company
+ and the CD Station, LLC (2)
+
+ 10(l) Form of Distributor Agreement (2)
+
+ 10(m) Patent License Agreement dated November 9, 1998 between the
+ Company and Rollan C. Swanson M.D. and Eleonora Swanson (2)
+
+ 10(n) License of Technology Agreement dated November 29, 1999
+ between the Company and Media and Process Technology Inc (2)
+
+ 10(o) Employment Agreement dated November 1, 2000 between the
+ Company and Joseph F. Klimek (5)
+
+ 10(p) Employment Agreement dated November 1, 2000 between the
+ Company and Kevin M. Black (5)
+
+ 10(q) Employment Agreement dated November 1, 2000 between the
+ Company and Robert L. DeRochie (5)
+
+ 10(r) Lease Agreement dated September 30, 2000 between the Company
+ and the Century Drive, LLC (6)
+
+ 10(s) Lease Agreement dated July 16, 2001 between the Company and
+ the Gaski Leasing Company (6)
+
+ 10(t) Strategic Alliance Agreement dated June 30, 2001 between the
+ Company and Hydro-Chem Company (3)
+
+ 10(u) Lease Agreement dated July 20, 2001 between the Company and
+ the Gaski Leasing Company, LLC (3)
+
+ 10(v) Joint Development Agreement dated December 19, 2001 between
+ the Company and ViTech Enterprises Inc. (3)
+
+ 10(w) Separation Agreement dated as of August 27, 2003 by and
+ between Kevin M. Black and Startech Environmental Corporation
+ (7)
+
+ 10(x) Stock Purchase and Registration Rights Agreement dated as of
+ July 18, 2003, by and between Northshore Asset Management, LLC
+ and Startech Environmental Corporation (7)
+
+ F-19
+
+Exhibit No. Description
+- ----------- --------------------------------------------------------------
+
+ 10(y) Stock Purchase Agreement dated as of July 22, 2003, by and
+ between Northshore Asset Management, LLC and Startech
+ Environmental Corporation (7)
+
+ 10(z) First Amendment to Stock Purchase Agreement dated as of July
+ 30, 2003, by and between Northshore Asset Management, LLC and
+ Startech Environmental Corporation (7)
+
+ 11 Statement re computation of per share earnings 
+
+ 14 Code of Ethics 
+
+ 21 Subsidiaries as of October 31, 2003 (5)
+
+ 23 Consent of Kostin, Ruffkess & Company, LLC dated December 15,
+ 2003 
+
+ 24 Power of Attorney (see signature page) of this Annual Report
+ on Form 10-K and incorporated herein by reference
+
+ 31.1 Certificate of the Chief Executive Officer pursuant to Section
+ 302 of the Sarbanes-Oxley Act of 2002 
+
+ 31.2 Certificate of the Chief Financial Officer pursuant to Section
+ 302 of the Sarbanes-Oxley Act of 2002 
+
+ 32.1 Certification of the Chief Executive Officer pursuant to
+ Section 906 of the Sarbanes-Oxley Act of 2002 
+
+ 32.2 Certification of the Chief Financial Officer pursuant to
+ Section 906 of the Sarbanes-Oxley Act of 2002 
+- ----------
+
+ Filed herewith
+
+ (1) Incorporated by reference to the Company's Registration
+ Statement on Form S-1 on April 27, 2000, Commission File No.
+ 333-35786.
+
+ (2) Incorporated by reference to Amendment No 1. to the
+ Registration Statement on Form S-1 filed on July 7, 2000,
+ Commission File No. 333-35786.
+
+ (3) Incorporated by reference to the Company's Registration
+ Statement on Form S-1 on July 17, 2002, Commission File No.
+ 333-96885.
+
+ (4) Incorporated by reference to the Company's Registration
+ Statement of Form S-8 on October 31, 2002 Commission File No.
+ 333- 100909.
+
+ (5) Incorporated by reference to the Company's Annual Report on
+ Form 10-K for 2000, filed on January 25, 2001.
+
+ (6) Incorporated by reference to the Company's Annual Report on
+ Form 10-K for 2001, filed on January 25, 2002.
+
+ (7) Incorporated by reference to the Company's Quarterly Report on
+ Form 10-Q for the quarter needed July 31, 2003
+
+(b) Reports on Form 8-K
+
+ 1. On November 26, 2003, a Form 8-K was filed pursuant to Item 5 therein
+ with respect to the extension of the 500,000 that was to be invested
+ by Northshore Asset Management.
+
+ 2. On September 5, 2003, a Form 8-K was filed pursuant to Item 5 therein
+ with respect to the appointment of Douglas Ballew, Joseph Equale,
+ Nicholas Perna and Kenneth Slepicka to the Board of Directors.
+
+ 3. On August 1, 2003, a Form 8-K was filed pursuant to Item 5 therein
+ with respect to a modification to the Stock Purchase Agreement with
+ Northshore Asset Management.
+
+ F-20
+
+4. On July 25, 2003, a Form 8-K was filed pursuant to Item 5 therein with
+ respect to an investment of 1.4 from Northshore Asset Management.
+
+ 5. On July 22, 2003, a Form 8-K was filed pursuant to Items 1 and 5
+ therein with respect to the resignation of the Board of Directors with
+ the exception of Joseph F. Longo and an investment of 1.6 from
+ Northshore Asset Management.
+
+(c) Exhibits
+
+ See index to exhibits on page
+
+(d) Financial Statement Schedule
+
+ See index to Consolidated Financial Statements and Schedule on page F-1.
+
+F-21
+
+SIGNATURES
+
+Pursuant to the requirements of Section 13 or 15(d) of the Securities and
+Exchange Act of 1934, the Registrant has duly caused this report to be signed on
+its behalf by the undersigned, thereunto duly authorized, on this 29th day of
+January, 2004.
+ STARTECH ENVIRONMENTAL CORPORATION
+ (Registrant)
+
+BY: /S/ Joseph S. Klimek
+ --------------------------------------------
+ Joseph S. Klimek
+ Chief Executive Officer, President
+
+ BY: /S/ Peter J. Scanlon
+ --------------------------------------------
+ Peter J. Scanlon
+ Chief Financial Officer, Vice President, and
+ Principal Financial Officer
+
+KNOW ALL PERSONS BY THESE PRESENTS, that each person whose signature appears
+below constitutes and appoints Joseph F. Longo and Peter J. Scanlon, or either
+of them, his or her attorneys-in-fact, for such person in any and all
+capacities, to sign any amendments to this report and to file the same, with
+exhibits thereto, and other documents in connection therewith, with the
+Securities and Exchange Commission, hereby ratifying and confirming all that
+either of said attorneys-in-fact, or substitute or substitutes, may do or cause
+to be done by virtue hereof.
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, this report
+has been signed below by the following person on behalf of the Company and in
+the capacities and on this 29th day of January 2004.
+
+SIGNATURES TITLE DATE
+- ---------- ----- ----
+
+/S/ Joseph F. Longo Chairman, Chief Operating Officer, January 29, 2004
+- ------------------- Secretary & Director
+Joseph F. Longo
+
+/S/ Douglas R. Ballew Director January 29, 2004
+- ---------------------
+Douglas R. Ballew Director January 29, 2004
+
+/S/ Joseph A. Equale
+- --------------------
+Joseph A. Equale Director January 29, 2004
+
+/S/ Nicholas S. Perna
+- ---------------------
+Nicholas S. Perna Director January 29, 2004
+
+/S/ Kenneth J. Slepicka
+- -----------------------
+Kenneth J. Slepicka
+
+<EX-14>
+ 3
+ startech14.txt
+ CODE OF ETHICS
+ 
+ EXHIBIT 14
+
+ CODE OF ETHICS APPLICABLE TO THE
+ CHIEF EXECUTIVE OFFICER, CHIEF FINANCIAL OFFICER,
+ CONTROLLER AND FINANCIAL MANAGERS
+
+I. Introduction
+
+ STARTECH ENVIRONMENTAL CORPORATION, together with its reporting
+subsidiaries ("STARTECH" or the "Company"), hereby adopts this Code of Ethics
+(this "Code") applicable to the Company's Chief Executive Officer, Chief
+Financial Officer, Controller, financial managers and any persons performing
+similar finance and accounting functions (collectively, the "Covered
+Executives"). The Covered Executives hold an important and elevated role in
+corporate governance. They are uniquely positioned and empowered to ensure that
+the Company's, and its stockholders', interests are appropriately balanced,
+protected and preserved. This Code provides principles that the Covered
+Executives must adhere to and advocate to promote honest and ethical conduct,
+proper disclosure of financial information in STARTECH's periodic reports, and
+compliance with applicable rules, laws, and regulations by the Covered
+Executors.
+
+ The Compliance Officer for purposes of this Code is the Audit Committee of
+the Board of Directors (the "Compliance Officer").
+
+ Waivers of this Code may be made only by the Compliance Officer and will be
+promptly disclosed in accordance with applicable law or regulations adopted by
+the Securities and Exchange Commission (the "SEC").
+
+II. General Obligations
+
+ In performing his or her duties, each of the Covered Executives agrees to:
+
+ o Act honestly and ethically with regard to all conflicts of interest,
+ whether actual or apparent, between personal and professional
+ relationships and refrain from using his or her position for personal
+ gain or competing directly or indirectly with the Company.
+
+ o Disclose to the Compliance Officer or the Chief Executive Officer, in
+ advance, if possible, any material relationship or transaction that
+ could reasonably be expected to give rise to a conflict of interest.
+
+ o Produce full, fair, accurate, complete, objective, timely and
+ understandable disclosure in reports and documents that the Company
+ files with, or submits to, the SEC, Nasdaq or any other government
+ agency or self-regulatory organization, and in other public
+ communications made by the Company or its subsidiaries.
+
+ o Require that all Company financial practices concerning accounting,
+ internal accounting controls and auditing matters meet the highest
+ standards of professionalism, transparency and honesty.
+
+o Take all reasonable measures to safeguard the confidentiality of
+ non-public information about the Company and its customers acquired in
+ the course of employment except when authorized or otherwise legally
+ obligated to disclose. Confidential information obtained in the course
+ of work will not be used for personal advantage.
+
+ o Act in good faith, responsibly, with due care, competence, diligence
+ and without knowingly misrepresenting material facts or allowing his
+ or her better judgment to be subordinated.
+
+ o Comply with all applicable rules and regulations of federal, state and
+ local governments, the SEC, Nasdaq and other appropriate private and
+ public regulatory agencies.
+
+ o Comply with the Company's policies and procedures.
+
+ o Responsibly use and control assets and other resources employed or
+ entrusted to his or her supervision.
+
+ o Promptly report any known violation of this Code to the Compliance
+ Officer.
+
+ o Promptly disclose any waiver of this Code in a Current Report on Form
+ 8-K or any other means approved by the SEC.
+
+III. Compliance with Laws and this Code
+
+ 1. Procedures for Raising Concerns. The Covered Executives are expected to
+comply with this Code and to report any possible violation of this Code by
+either (i) sending a letter or other writing to the Compliance Officer for the
+purpose of this Code or (ii) sending a letter or other writing to the Company's
+principal executive offices to the attention of the Audit Committee. This Code
+should not be construed to prohibit Covered Executives from testifying,
+participating or otherwise assisting in any state or federal administrative,
+judicial or legislative proceeding or investigation.
+
+ 2. Procedures for Investigating and Resolving Concerns.
+
+ Reports of possible violations will be forwarded to the Compliance Officer.
+The Compliance Officer may, in its discretion, assume responsibility for
+evaluating any possible violation and directing or conducting any investigation
+or may delegate any portion of such responsibility to the Board, another
+committee or another person or entity. If the Compliance Officer chooses to
+assume responsibility for evaluating any possible violation or directing or
+conducting any investigation where the investigation concerns a possible
+violation by a member of the Board, the Audit Committee, not including that
+member, shall assume such responsibility. The Compliance Officer shall have the
+authority to engage independent counsel and other advisers, as it deems
+necessary, to assist in its investigation and decision process.
+
+ 2
+
+After conducting the investigation, the results will be evaluated and the
+Company shall authorize such response, follow-up and preventive actions, if any,
+as are deemed necessary and appropriate to address the substance of the reported
+possible violation. The Company reserves the right to take whatever action it
+believes appropriate, up to and including discharge of any employee determined
+to have engaged in improper conduct.
+
+ The Company will not penalize or retaliate against any person or entity for
+reporting a possible violation in good faith. The Company will not tolerate
+retaliation against any person or entity for submitting, or for cooperating in
+the investigation of, a possible violation. Any retaliation will warrant
+disciplinary action against the person who wrongfully retaliates, up to and
+including termination of employment.
+
+ 3. Questions
+
+ Questions regarding the best course of action in a particular situation
+should promptly be sent to the Compliance Officer.
+
+3
+
+YOUR PERSONAL COMMITMENT TO THE CODE OF ETHICS APPLICABLE TO
+ THE CHIEF EXECUTIVEOFFICER, CHIEF FINANCIAL OFFICER, CONTROLLER
+ AND FINANCIAL MANAGERS
+
+I acknowledge that I have received and read the Code applicable to the Chief
+Executive Officer, Chief Financial Officer, Controller and Financial Managers,
+and understand my obligations as an employee to comply with the Code.
+
+I understand that the Company can, at its sole discretion, change, update,
+eliminate or deviate from the guidelines in this Code.
+
+I understand that my agreement to comply with the Code does not constitute or
+give rise to a contract of employment or a guarantee or promise of any kind.
+
+Please sign here: Date:
+ ------------------------ ------------------------------
+
+Please print your name:
+ ------------------
+
+Employee Number:
+ -------------------------
+
+This signed and completed form must be returned to the Audit Committee.
+
+4
+
+</EX-14>
+
+<EX-23>
+ 4
+ startech23.txt
+ CONSENT
+
+Exhibit 23 - Consent of Independent Accountants
+
+We consent to the incorporation by reference on Form S-8 of our report dated
+December 15, 2003, except for note 13 as to which the date is December 19, 2003,
+included in the 2003 Annual Report to the Shareholders of Startech Environmental
+Corporation.
+
+/s/ Kostin Ruffkess & Company, LLC
+- ----------------------------------
+Kostin Ruffkess & Company, LLC
+
+Farmington, Connecticut
+January 29, 2004
+
+</EX-23>
+
+<EX-31.1>
+ 5
+ startech31-1.txt
+ CERTIFICATION
+
+EXHIBIT 31.1
+
+I, Joseph S. Klimek, certify that :
+
+1. I have reviewed this annual report on Form 10-K of Startech Environmental
+ Corporation.;
+
+2. Based on my knowledge, this report does not contain any untrue statement of
+ a material fact or omit to state a material fact necessary to make the
+ statements made, in light of the circumstances under which such statements
+ were made, not misleading with respect to the period covered by this
+ report;
+
+3. Based on my knowledge, the financial statements, and other financial
+ information included in this report, fairly present in all material
+ respects the financial condition, results of operations and cash flows of
+ the registrant as of, and for, the periods presented in this report;
+
+4. The registrant's other certifying officers and I are responsible for
+ establishing and maintaining disclosure controls and procedures (as defined
+ in Exchange Act Rules 13a-15(e) and 15d-15(e)) for the registrant and have:
+
+ a. Designed such disclosure controls and procedures, or caused such
+ disclosure controls and procedures to be designed under our
+ supervision, to ensure that material information relating to the
+ registrant, including its consolidated subsidiaries, is made known to
+ us by others within those entities, particularly during the period in
+ which this report is being prepared;
+
+ b. Evaluated the effectiveness of the registrant's disclosure controls and
+ procedures and presented in this report our report about the
+ effectiveness of the disclosure controls and procedures, as of the end
+ of the period covered by this report based on such evaluation; and
+
+ c. Disclosed in this report any change in the registrant's internal
+ control over financial reporting that occurred during the registrant's
+ most recent fiscal quarter that has materially affected, or is
+ reasonably likely to materially affect, the registrant's internal
+ control over financial reporting; and
+
+5. The registrant's other certifying officer(s) and I have disclosed, based on
+ our most recent evaluation, to the registrant's auditors and the audit
+ committee of registrant's board of directors (or persons performing the
+ equivalent functions):
+
+ a. All significant deficiencies in the design or operation of internal
+ control over financial report which are reasonably likely to adversely
+ affect the registrant's ability to record, process, summarize and
+ report financial information; and
+
+ b. Any fraud, whether or not material, that involves management or other
+ employees who have a significant role in the registrant's internal
+ control over financial reporting.
+
+Date: January 29, 2004
+
+By: /s/ Joseph S. Klimek
+- ------------------------
+Joseph S. Klimek
+Chief Executive Officer, President
+
+</EX-31.1>
+
+<EX-31.2>
+ 6
+ startech31-2.txt
+ CERTIFICATION
+
+Exhibit 31.2
+
+I, Peter J. Scanlon, certify that :
+
+1. I have reviewed this annual report on Form 10-K of Startech Environmental
+ Corporation.;
+
+2. Based on my knowledge, this report does not contain any untrue statement of
+ a material fact or omit to state a material fact necessary to make the
+ statements made, in light of the circumstances under which such statements
+ were made, not misleading with respect to the period covered by this
+ report;
+
+3. Based on my knowledge, the financial statements, and other financial
+ information included in this report, fairly present in all material
+ respects the financial condition, results of operations and cash flows of
+ the registrant as of, and for, the periods presented in this report;
+
+4. The registrant's other certifying officers and I are responsible for
+ establishing and maintaining disclosure controls and procedures (as defined
+ in Exchange Act Rules 13a-15(e) and 15d-15(e)) for the registrant and have:
+
+ a. Designed such disclosure controls and procedures, or caused such
+ disclosure controls and procedures to be designed under our
+ supervision, to ensure that material information relating to the
+ registrant, including its consolidated subsidiaries, is made known to
+ us by others within those entities, particularly during the period in
+ which this report is being prepared;
+
+ b. Evaluated the effectiveness of the registrant's disclosure controls and
+ procedures and presented in this report our report about the
+ effectiveness of the disclosure controls and procedures, as of the end
+ of the period covered by this report based on such evaluation; and
+
+ c. Disclosed in this report any change in the registrant's internal
+ control over financial reporting that occurred during the registrant's
+ most recent fiscal quarter that has materially affected, or is
+ reasonably likely to materially affect, the registrant's internal
+ control over financial reporting; and
+
+5. The registrant's other certifying officer(s) and I have disclosed, based on
+ our most recent evaluation, to the registrant's auditors and the audit
+ committee of registrant's board of directors (or persons performing the
+ equivalent functions):
+
+ a. All significant deficiencies in the design or operation of internal
+ control over financial report which are reasonably likely to adversely
+ affect the registrant's ability to record, process, summarize and
+ report financial information; and
+
+ b. Any fraud, whether or not material, that involves management or other
+ employees who have a significant role in the registrant's internal
+ control over financial reporting.
+
+Date: January 29, 2004
+
+By: /s/ Peter J. Scanlon
+- ------------------------
+Peter J. Scanlon
+Chief Financial Officer Vice President, and Principal Financial Officer
+
+</EX-31.2>
+
+<EX-32.1>
+ 7
+ startech1003-321.txt
+ CERTIFICATION
+
+Exhibit 32.1
+
+ CERTIFICATION PURSUANT TO
+ 18 U.S.C. SECTION 1350,
+ AS ADOPTED PURSUANT TO
+ SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002
+
+In connection with the Annual Report of Startech Environmental Corporation (the
+"Company") on Form 10-K for the year ended October 31, 2003 as filed with the
+Securities and Exchange Commission on the date hereof (the "Report"), I, Joseph
+S. Klimek, Chief Executive Officer and President of the Company, certify,
+pursuant to 18 U.S.C. ss.1350, as adopted pursuant to ss.906 of the
+Sarbanes-Oxley Act of 2002, that:
+
+ (1) The Report fully complies with the requirements of section 13(a) or
+ 15(d) of the Securities Exchange Act of 1934; and
+
+ (2) The information contained in the Report fairly presents, in all
+ material respects, the financial condition and results of operations
+ of the Company.
+
+/s/ Joseph S. Klimek
+- --------------------
+Joseph S. Klimek
+Chief Executive Officer, President
+January 29, 2004
+
+</EX-32.1>
+
+<EX-32.2>
+ 8
+ startech1003-322.txt
+ CERTIFICATION
+
+Exhibit 32.2
+
+ CERTIFICATION PURSUANT TO
+ 18 U.S.C. SECTION 1350,
+ AS ADOPTED PURSUANT TO
+ SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002
+
+In connection with the Annual Report of Internet Commerce Corporation (the
+"Company") on Form 10-K for the year ended October 31, 2003 as filed with the
+Securities and Exchange Commission on the date hereof (the "Report"), I, Peter
+J. Scanlon, Chief Financial Officer of the Company, certify, pursuant to 18
+U.S.C. ss.1350, as adopted pursuant to ss.906 of the Sarbanes-Oxley Act of 2002,
+that:
+
+ (1) The Report fully complies with the requirements of section 13(a) or
+ 15(d) of the Securities Exchange Act of 1934; and
+
+ (2) The information contained in the Report fairly presents, in all
+ material respects, the financial condition and results of operations
+ of the Company.
+
+/s/ Peter J. Scanlon
+- --------------------
+Peter J. Scanlon
+Chief Financial Officer
+January 29, 2004
+
+</EX-32.2>
+

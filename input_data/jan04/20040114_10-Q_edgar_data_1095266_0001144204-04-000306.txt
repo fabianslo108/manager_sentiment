@@ -1,0 +1,2918 @@
+<Header>
+<FileStats>
+    <FileName>20040114_10-Q_edgar_data_1095266_0001144204-04-000306.txt</FileName>
+    <GrossFileSize>164902</GrossFileSize>
+    <NetFileSize>126574</NetFileSize>
+    <NonText_DocumentType_Chars>0</NonText_DocumentType_Chars>
+    <HTML_Chars>1383</HTML_Chars>
+    <XBRL_Chars>0</XBRL_Chars>
+    <XML_Chars>0</XML_Chars>
+    <N_Exhibits>3</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0001144204-04-000306.hdr.sgml : 20040114
+<ACCEPTANCE-DATETIME>20040114124217
+ACCESSION NUMBER:		0001144204-04-000306
+CONFORMED SUBMISSION TYPE:	10-Q
+PUBLIC DOCUMENT COUNT:		4
+CONFORMED PERIOD OF REPORT:	20031130
+FILED AS OF DATE:		20040114
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			WORKSTREAM INC
+		CENTRAL INDEX KEY:			0001095266
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-BUSINESS SERVICES, NEC [7389]
+		IRS NUMBER:				000000000
+		FISCAL YEAR END:			0531
+
+	FILING VALUES:
+		FORM TYPE:		10-Q
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-15503
+		FILM NUMBER:		04524406
+
+	BUSINESS ADDRESS:	
+		STREET 1:		495 MARCH RD STE 300
+		STREET 2:		OTTAWA ONTARIO
+		CITY:			CANADA K2K 3G2
+		STATE:			A6
+		ZIP:			00000
+		BUSINESS PHONE:		6132362263
+
+	MAIL ADDRESS:	
+		STREET 1:		495 MARCH RD SE 300
+		STREET 2:		OTTAWA ONTARIO
+		CITY:			CANADA K2K 3G2
+		STATE:			A6
+		ZIP:			00000
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	E CRUITER COM INC
+		DATE OF NAME CHANGE:	19990917
+
+</SEC-Header>
+</Header>
+
+ 
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ Sdik8JTSdG+cmdOpyDCJlK3C98ePdh/IFmIOBlFRzW28XSSxXZadfV06M270rLXk
+ bCwSqD94cfyf73ixoNjZZg==
+
+ 0001144204-04-000306.txt : 20040114
+
+10-Q
+ 1
+ v01242_10q.txt
+
+UNITED STATES SECURITIES AND EXCHANGE COMMISSION
+ WASHINGTON, DC 20549
+
+ FORM 10-Q
+
+(Mark One)
+
+/X/ QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES
+ EXCHANGE ACT OF 1934
+
+For the quarterly period ended November 30, 2003
+
+ OR
+
+/ / TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES
+ EXCHANGE ACT OF 1934
+
+For the transition period from __________ to _________
+
+ Commission file number 001-15503
+
+ WORKSTREAM INC.
+- --------------------------------------------------------------------------------
+ (Exact name of Registrant as specified in its charter)
+
+Canada N/A
+- ------------------------------- -------------------------------
+(State or Other Jurisdiction of (IRS Employer Identification No.)
+Incorporation or Organization)
+
+495 March Road, Suite 300, Ottawa, Ontario K2K 3G1
+- ------------------------------------------ -------
+(Address of Principal Executive Offices) (Zip Code)
+
+(613) 270-0619
+- --------------------------------------------------------------------------------
+ (Registrant's Telephone Number, Including Area Code)
+
+- --------------------------------------------------------------------------------
+ (Former Name, Former Address and Former Fiscal Year,
+ if Changed Since Last Report)
+
+ Indicate by check mark whether the registrant: (1) has filed all
+reports required to be filed by Section 13 or 15(d) of the Securities Exchange
+Act of 1934 during the preceding 12 months (or for such shorter period that the
+registrant was required to file such reports), and (2) has been subject to such
+filing requirements for the past 90 days. Yes /X/ No / /
+
+ Indicate by check mark whether the registrant is an accelerated filer
+(as defined in Exchange Act Rule 12b-2). Yes / / No /X/
+
+ As of January 6, 2003, there were 27,183,955 common shares, without
+par value, outstanding.
+
+ Excluding 654,204 common shares held in escrow under acquisition agreements.
+
+WORKSTREAM INC.
+
+ TABLE OF CONTENTS
+
+Page No.
+ --------
+ 
+Part I. Financial Information
+ Item 1. Unaudited Financial Statements
+
+ Unaudited Consolidated Balance Sheets as of
+ November 30, 2003 and May 31, 2003...............................2
+
+ Unaudited Consolidated Statements of Operations for
+ each of the Three and Six Months Ended
+ November 30, 2003 and 2002.......................................3
+
+ Unaudited Consolidated Statements of Comprehensive Loss
+ for each of the Three and Six Months Ended
+ November 30, 2003 and 2002.......................................4
+
+ Unaudited Consolidated Statements of Cash Flows
+ for the Six Months Ended November 30, 2003 and 2002..............5
+
+ Notes to Unaudited Consolidated Financial Statements.................6
+
+ Item 2. Management's Discussion and Analysis of Financial
+ Condition and Results of Operations.............................20
+
+ Item 3. Quantitative and Qualitative Disclosures About Market Risk..........26
+
+ Item 4. Controls and Procedures.............................................26
+
+Part II. Other Information
+
+ Item 2. Changes in Securities and Use of Proceeds.......................27
+
+ Item 4. Submission of Matters to a Vote of Security Holders.............27
+
+ Item 6. Exhibits and Reports on Form 8-K ...............................28
+
+Signatures .............................................................................28
+
+1
+
+PART I - FINANCIAL INFORMATION
+ITEM 1. UNAUDITED FINANCIAL STATEMENTS
+
+WORKSTREAM, INC.
+UNAUDITED CONSOLIDATED BALANCE SHEETS
+(UNITED STATES DOLLARS)
+
+NOVEMBER 30, 2003 MAY 31, 2003
+ ----------------- ------------
+ 
+ASSETS
+CURRENT ASSETS
+ Cash and cash equivalents 544,164 255,173
+ Restricted cash 1,340,110 1,307,439
+ Short-term investments 49,505 38,419
+ Accounts receivable, net of allowance for doubtful 1,164,589 933,889
+ accounts of 125,022 (May 31, 2003 - 55,828)
+ Prepaid expenses 243,732 133,551
+ Other assets 143,317 201,877
+ ------------ ------------
+ 3,485,417 2,870,348
+CAPITAL ASSETS 1,003,503 1,138,276
+OTHER ASSETS 118,019 143,500
+ACQUIRED INTANGIBLE ASSETS 7,316,176 9,082,926
+GOODWILL 17,472,946 17,383,437
+ ------------ ------------
+ 29,396,061 30,618,487
+ ============ ============
+
+LIABILITIES AND SHAREHOLDERS' EQUITY
+CURRENT LIABILITIES
+ Accounts payable 2,160,617 1,909,896
+ Accrued liabilities 964,279 1,093,133
+ Accrued exit costs -- 117,702
+ Line of credit 622,166 593,452
+ Accrued compensation 430,802 443,144
+ Current portion of convertible notes 904,272 449,071
+ Current portion of long-term obligations 30,787 31,662
+ Current portion of related party obligation 157,057 178,623
+ Current portion of capital lease obligations 59,072 97,882
+ Deferred revenue 1,352,906 1,367,362
+ ------------ ------------
+ 6,681,958 6,281,927
+DEFERRED INCOME TAX LIABILITY 1,728,956 2,607,981
+CAPITAL LEASE OBLIGATIONS 47,065 73,316
+LEASEHOLD INDUCEMENTS 140,206 142,274
+LONG-TERM OBLIGATIONS 76,969 85,243
+RELATED PARTY OBLIGATIONS 2,407,140 2,403,407
+ ------------ ------------
+ 11,082,294 11,594,148
+COMMITMENTS AND CONTINGENCIES
+
+SHAREHOLDERS' EQUITY
+CAPITAL STOCK
+ Issued and outstanding, no par value - 22,446,455
+ common shares (May 31, 2003 - 19,951,570) 48,798,714 47,158,583
+ Additional paid-in capital 5,216,931 4,721,516
+ Accumulated other comprehensive loss (906,998) (893,316)
+ Accumulated deficit (34,794,880) (31,962,444)
+ ------------ ------------
+ 18,313,767 19,024,339
+ ------------ ------------
+ 29,396,061 30,618,487
+ ============ ============
+
+The accompanying notes are an integral part of these unaudited financial
+statements.
+
+2
+
+WORKSTREAM INC.
+UNAUDITED CONSOLIDATED STATEMENTS OF OPERATIONS
+(UNITED STATES DOLLARS)
+
+Three Months Three Months Six Months Six Months
+ Ended Ended Ended Ended
+ November 30, November 30, November 30, November 30,
+ 2003 2002 2003 2002
+ ------------ ------------ ------------ ------------
+ 
+REVENUE 4,261,771 4,975,429 8,440,285 9,621,143
+COST OF REVENUES (exclusive of
+ depreciation, shown below) 389,407 1,018,725 832,757 1,897,722
+ ------------ ------------ ------------ ------------
+GROSS PROFIT 3,872,364 3,956,704 7,607,528 7,723,421
+ ------------ ------------ ------------ ------------
+
+EXPENSES
+Selling and marketing 1,104,556 1,651,329 2,171,887 3,702,478
+General and administrative 2,292,240 2,510,700 4,716,672 5,064,644
+Research and development 159,951 412,339 270,979 720,579
+Amortization and depreciation 1,403,860 1,742,119 2,808,296 2,998,485
+ ------------ ------------ ------------ ------------
+ 4,960,607 6,316,487 9,967,834 12,486,186
+ ------------ ------------ ------------ ------------
+OPERATING LOSS (1,088,243) (2,359,783) (2,360,306) (4,762,765)
+ ------------ ------------ ------------ ------------
+
+OTHER INCOME AND (EXPENSES)
+Interest and other income 299 23,595 1,996 36,527
+Interest and other expense (432,324) (183,634) (1,351,989) (342,242)
+ ------------ ------------ ------------ ------------
+ (432,025) (160,039) (1,349,993) (305,715)
+ ------------ ------------ ------------ ------------
+
+LOSS BEFORE INCOME TAX (1,520,268) (2,519,822) (3,710,299) (5,068,480)
+Recovery of deferred income taxes 439,512 463,763 879,025 795,632
+
+Other income taxes (2,121) -- (1,162) --
+ ------------ ------------ ------------ ------------
+NET LOSS FOR THE PERIOD (1,082,877) (2,056,059) (2,832,436) (4,272,848)
+ ============ ============ ============ ============
+
+WEIGHTED AVERAGE NUMBER OF
+ COMMON SHARES OUTSTANDING
+ DURING THE PERIOD 22,407,020 18,582,012 22,090,479 17,783,387
+ ============ ============ ============ ============
+
+BASIC AND DILUTED NET LOSS
+ PER COMMON SHARE (0.05) (0.11) (0.13) (0.24)
+ ============ ============ ============ ============
+
+The accompanying notes are an integral part of these unaudited financial
+statements.
+
+3
+
+WORKSTREAM INC.
+UNAUDITED CONSOLIDATED STATEMENTS OF COMPREHENSIVE LOSS
+(UNITED STATES DOLLARS)
+
+Three Months Three Months Six Months Six Months
+ Ended Ended Ended Ended
+ November 30, November 30, November 30, November 30,
+ 2003 2002 2003 2002
+ ----------- ----------- ----------- -----------
+ 
+Net loss for the period (1,082,877) (2,056,059) (2,832,436) (4,272,848)
+Other comprehensive loss:
+ Cumulative translation
+ adjustment (net of tax of nil) (12,601) (4,143) (13,682) (5,791)
+ ----------- ----------- ----------- -----------
+Comprehensive loss for the period (1,095,478) (2,060,202) (2,846,118) (4,278,639)
+ =========== =========== =========== ===========
+
+The accompanying notes are an integral part of these unaudited financial
+statements.
+
+4
+
+WORKSTREAM INC.
+UNAUDITED CONSOLIDATED STATEMENTS OF CASH FLOWS
+(UNITED STATES DOLLARS)
+
+Six Months Ended November 30,
+ 2003 2002
+ ----------- -----------
+ 
+CASH FROM/(USED IN) OPERATING ACTIVITIES
+Net loss for the year (2,832,436) (4,272,848)
+Adjustments to reconcile net loss to net cash used in
+ operating activities:
+Amortization and depreciation 2,797,833 2,987,448
+Non-cash interest on convertible notes and notes payable 1,181,769 139,664
+Recovery of deferred income taxes (879,025) (795,632)
+Net change in operating components of working capital (65,811) (643,836)
+ ----------- -----------
+ 202,330 (2,585,204)
+ ----------- -----------
+CASH (USED IN)/ FROM INVESTING ACTIVITIES
+Acquisition of capital assets (5,213) (18,839)
+Cash (paid)/acquired in for business acquisitions (522,020) 1,921,028
+Decrease/(increase) in restricted cash 9,701 (322,160)
+(Purchase)/sale of short term investments (3,523) 296,181
+ ----------- -----------
+ (521,055) 1,876,210
+ ----------- -----------
+CASH FROM/(USED IN) FINANCING ACTIVITIES
+Proceeds from exercise of options 33,333 53,838
+Costs related to issuance of convertible debt -- (82,197)
+Costs related to the registration of common stock (22,919) --
+Proceeds from share and warrants issuance 950,000 --
+Capital lease payments (55,343) (230,036)
+Shareholder loan repayment (138,838) (256,000)
+Repayment of bank debt (138,813) (168,962)
+Proceeds from bank financing 141,497 306,485
+Repayment related to lease settlement (120,000) --
+Long-term debt repayments (14,753) --
+ ----------- -----------
+ 634,164 (376,872)
+ ----------- -----------
+
+EFFECT OF EXCHANGE RATE CHANGES (26,448) (49,227)
+ ----------- -----------
+
+INCREASE (DECREASE) IN CASH AND
+ CASH EQUIVALENTS FOR THE PERIOD 288,991 (1,135,093)
+CASH AND CASH EQUIVALENTS, BEGINNING OF
+ THE PERIOD 255,173 1,297,656
+ ----------- -----------
+CASH AND CASH EQUIVALENTS, END OF
+ THE PERIOD 544,164 162,563
+ =========== ===========
+
+SUPPLEMENTAL CASH FLOW INFORMATION
+ Interest Paid 217,898 223,485
+ Non-cash payments to consultants 330,180 --
+
+The accompanying notes are an integral part of these unaudited financial
+statements.
+
+5
+
+WORKSTREAM INC.
+NOTES TO UNAUDITED CONSOLIDATED FINANCIAL STATEMENTS
+
+Note 1: NATURE OF OPERATIONS
+
+ Workstream Inc. ("Workstream" or the "Company"), formerly known as
+E-Cruiter.com Inc., is a provider of Web-enabled tools and professional services
+for human capital management ("HCM"). The Company offers a diversified suite of
+high-tech and high-touch services aimed at addressing the full life cycle of the
+employer-employee relationship. Workstream's HCM technology backbone enables
+companies to streamline the management of enterprise human processes, including
+recruitment, assessment, retention, deployment and career transitions.
+
+Note 2: BASIS OF PRESENTATION
+
+ The consolidated interim unaudited financial statements included
+herein have been prepared by management, without audit, in accordance with
+United States generally accepted accounting principles. All amounts presented in
+these financial statements are presented in United States dollars unless
+otherwise noted. The consolidated financial statements include the accounts of
+the Company and its wholly owned subsidiaries. The earnings of the subsidiaries
+are included from the date of acquisition. As of November 30, 2003, the
+Company's subsidiaries are Workstream USA, Inc., 3451615 Canada Inc., Paula
+Allen Holdings, Inc. ("Paula Allen Holdings"), OMNIpartners, Inc.
+("OMNIpartners"), RezLogic, Inc. ("Rezlogic"), 6FigureJobs.com, Inc.
+("6FigureJobs.com"), Icarian, Inc. ("Icarian") and Xylo, Inc ("Xylo").
+
+ These unaudited financial statements should be read in conjunction
+with the Company's most recent annual financial statements for the year ended
+May 31, 2003. These interim unaudited financial statements are prepared
+following accounting policies consistent with the Company's financial statements
+for the year ended May 31, 2003. In management's opinion, all adjustments
+necessary for a fair presentation are reflected in the interim periods
+presented. All adjustments are of a normal, recurring nature.
+
+Note 3: ACQUISITION TRANSACTIONS
+
+Acquisition of Perform, Inc.
+
+ On September 11, 2003, the Company acquired certain assets of
+Perform, Inc. ("Perform"), a Delaware corporation, in connection with Perform,
+Inc.'s voluntary petition for relief under Chapter 11 of the United States
+Bankruptcy Code. As consideration for the sale, the Company issued Perform
+189,873 of its common shares valued at 300,000 and cash in an amount equal to
+ 450,000. In addition, the Company advanced 72,000 to Perform to fund its
+operations prior to the finalization of the asset purchase agreement with
+Perform. Perform designs, develops and markets Human Resource Information
+Systems and Performance Management Information Systems for mid-size and Global
+2000 companies.
+
+ The consolidated financial statements presented herein include the
+results of operations of Perform from September 12, 2003.
+
+ Management prepared a valuation of the net tangible and intangible
+assets acquired.
+
+ The purchase price has been allocated as follows:
+
+Share consideration 300,000
+Cash consideration 522,000
+Acquisition costs 72,373
+ --------
+ 894,373
+ --------
+
+Current assets 2,500
+Tangible long-term assets 232,362
+Intangible assets:
+ Acquired technology 659,511
+ --------
+Total net identifiable assets 894,373
+ --------
+Goodwill 0
+ ========
+
+6
+
+WORKSTREAM INC.
+NOTES TO UNAUDITED CONSOLIDATED FINANCIAL STATEMENTS - CONTINUED
+
+Contingent consideration relating to prior acquisitions
+
+ As of November 30, 2003, a total of 654,204 common shares were held
+in escrow relating to prior acquisitions as further described below. This total
+consists of 323,625 common shares relating to the Company's acquisition of
+6FigureJobs.com as well as 330,579 common shares relating to the Company's
+acquisition of Xylo. Management believes that those issues related to the
+6FigureJobs.com and Xylo acquisitions will not be released from escrow. In
+addition to the escrowed shares, an estimated number of 316,456 common shares
+are contingently issuable related to the PureCarbon acquisition, which
+management believes will not be issued.
+
+ Pursuant to the purchase agreement with 6FiguresJobs.com, 323,625
+common shares were to be released from escrow and issued to the former
+shareholders of 6FigureJobs.com provided that certain revenue and profit targets
+for the twelve month period ending September 30, 2002 were achieved. The Company
+determined that the revenue and profit targets were not achieved. However, the
+representative of the former shareholders of 6FigureJobs.com requested an audit
+to review the Company's calculations used in determining that the revenue and
+profit targets were not achieved. Management continues to believe that the
+targets were not met and that the shares currently held in escrow will be
+cancelled. The Company has been named as defendants in a lawsuit with regard to
+the escrow shares filed by Christopher Miller, the representative of the former
+shareholders of 6FigureJobs.com.
+
+ Pursuant to the purchase agreement with PureCarbon, the Company
+would issue additional shares equal to 500,000 divided by the closing price of
+the Company's common shares on or prior to August 15, 2003 should certain
+revenue targets for the twelve month period ending June 30, 2003 be realized. As
+required under the purchase agreement, an audit confirming whether the revenue
+targets were met was required. The audit was completed in August 2003 and
+confirmed that the targets were not met. Management therefore believes that
+those common shares will not be issued. In October 2003, PureCarbon filed an
+action with the Supreme Court of the State of New York seeking to compel
+arbitration under the purchase agreement to determine whether the targets were
+achieved. The Company filed a motion to dismiss the action. As of November 30,
+2003, based on the market price on August 15, 2003 of 1.58, 316,456 common
+shares would be contingently issuable. Subsequent to the quarter ended November
+30, 2003, the Supreme Court of the State of New York dismissed PureCarbon's
+action to compel arbitration.
+
+ Pursuant to the purchase agreement with Xylo, 330,579 common shares
+were to be released from escrow subject to achievement of certain revenue
+targets for the twelve months ended August 31, 2003. Management has determined
+that the revenue targets were not met and believes that those common shares will
+be cancelled. Management has notified the escrow agent and shareholder
+representative that the revenue targets were not met, and pursuant to the
+agreement, is allowing a response time to expire in order to cancel the shares.
+
+7
+
+WORKSTREAM INC.
+NOTES TO UNAUDITED CONSOLIDATED FINANCIAL STATEMENTS - CONTINUED
+
+Note 4: ALLOWANCE FOR DOUBTFUL ACCOUNTS
+
+November 30, 2003 May 31, 2003
+ ----------------- ------------
+ 
+Balance at beginning of year 55,828 98,188
+Charged to costs and expenses 72,633 186,581
+Write-offs (3,439) (228,941)
+ --------- ---------
+Balance at end of year 125,022 55,828
+ ========= =========
+
+Note 5: CAPITAL ASSETS
+
+November 30, 2003 May 31, 2003
+ ----------------- ------------
+ 
+Furniture, equipment and leaseholds 1,432,050 1,388,873
+Office equipment 250,128 241,659
+Computers and software 3,821,435 3,461,678
+ ----------- -----------
+ 5,503,613 5,092,210
+Less accumulated amortization (4,500,110) (3,953,934)
+ ----------- -----------
+Net capital assets 1,003,503 1,138,276
+ =========== ===========
+
+Note 6: ACQUIRED INTANGIBLE ASSETS
+
+November 30, 2003 May 31, 2003
+ ----------------- ------------
+ 
+Customer contracts 3,533,182 3,559,543
+Acquired technologies 10,941,143 10,281,632
+Trademarks, domain names and intellectual property 457,760 457,760
+ ------------ ------------
+Total cost 14,932,085 14,298,935
+ ------------ ------------
+
+Accumulated amortization:
+Customer contracts (2,341,648) (1,760,860)
+Acquired technologies (5,065,551) (3,292,215)
+Trademarks, domain names and intellectual property (208,710) (162,934)
+ ------------ ------------
+Total accumulated amortization (7,615,909) (5,216,009)
+ ------------ ------------
+
+Net acquired intangible assets 7,316,176 9,082,926
+ ============ ============
+
+8
+
+WORKSTREAM INC.
+NOTES TO UNAUDITED CONSOLIDATED FINANCIAL STATEMENTS - CONTINUED
+
+Note 7: GOODWILL
+
+ENTERPRISE CAREER
+ RECRUITING TRANSITION
+ SERVICES SERVICES TOTAL
+ ------------ ------------ ------------
+ 
+Goodwill at May 31, 2001 -- -- --
+Acquisitions during the year 6,984,835 8,563,337 15,548,172
+Impairment during the year (1,310,000) (1,500,000) (2,810,000)
+ ------------ ------------ ------------
+Goodwill at May 31, 2002 5,674,835 7,063,337 12,738,172
+ ------------ ------------ ------------
+
+Acquisitions during the year 6,028,507 -- 6,028,507
+Issuance of contingent consideration -- 750,000 750,000
+Impairment during the year (2,133,242) -- (2,133,242)
+ ------------ ------------ ------------
+Goodwill at May 31, 2003 9,570,100 7,813,337 17,383,437
+ ------------ ------------ ------------
+
+Purchase price allocation adjustments
+ made within one year of
+ acquisition date -- 89,509 89,509
+ ------------ ------------ ------------
+Goodwill at November 30, 2003 9,570,100 7,902,846 17,472,946
+ ============ ============ ============
+
+Note 8: LINES OF CREDIT AND RESTRICTED CASH
+
+ At November 30, 2003, the Company had an aggregate of 622,166
+outstanding on a line of credit from the Bank of Montreal.
+
+November 30, 2003 May 31, 2003
+ ----------------- ------------
+ 
+Line of credit - Bank of Montreal 622,166 593,452
+ ======== ========
+
+The line of credit with the Bank of Montreal bears interest at the
+bank's prime rate plus 1 . The Company is permitted to draw up to CDN (Canadian
+dollars) 1,000,000 against this facility based on compensating balances on
+deposit with the bank. The Company has drawn CDN 812,707 as of November 30,
+2003. The Company has provided collateral of CDN 830,000, leaving CDN 17,293
+available to be drawn on this line.
+
+ At November 30, 2003, and May 31, 2003, a total of 1,340,110 and
+ 1,307,439, respectively, of cash and short-term deposits were pledged to the
+institutions below as collateral for the line of credit, a term loan and a
+letter of credit for a facility lease and therefore were restricted from the
+Company's use:
+
+November 30, 2003 May 31, 2003
+ ----------------- ------------
+ 
+Bank of America - credit card reserve 399,786 399,786
+Bank of Montreal - Term loan, line of credit and
+letter of credit for facility lease 940,324 907,653
+ ---------- ----------
+ 1,340,110 1,307,439
+ ========== ==========
+
+9
+
+WORKSTREAM INC.
+NOTES TO UNAUDITED CONSOLIDATED FINANCIAL STATEMENTS - CONTINUED
+
+Note 9: CONVERTIBLE NOTES
+
+November 30, 2003 May 31, 2003
+ ----------------- ------------
+ 
+Convertible notes, face value at issue date 2,900,000 2,900,000
+
+Less: Amount allocated to detachable warrants (1,038,380) (1,038,380)
+ Amount allocated to beneficial
+ conversion feature (1,763,387) (1,763,387)
+ ----------- -----------
+Discounted value of convertible notes 98,233 98,233
+
+Note conversion (800,000) (200,000)
+Amortization of discount 1,606,039 550,838
+ ----------- -----------
+Convertible notes 904,272 449,071
+ =========== ===========
+
+During fiscal 2002, the Company issued 8 Senior Subordinated
+Convertible Notes (the "Convertible Notes") with detachable warrants as further
+described below. The total gross proceeds received upon issuance of the
+convertible notes totaling 2,900,000 was allocated between the convertible debt
+and warrants based on their relative fair values. The fair value of the
+detachable warrants was calculated using the Black Scholes pricing model.
+Additionally, the Convertible Notes have a non-detachable conversion feature
+where the fair value of the underlying equity securities exceeds the conversion
+price of the debt ("beneficial conversion feature"). The value of the beneficial
+conversion feature is measured as the excess of the fair value of the underlying
+shares over the conversion price up to, but not exceeding, the net proceeds
+received upon issuance of the Convertible Notes. The value ascribed to the
+beneficial conversion feature is recorded as paid-in capital. The total discount
+on the Convertible Notes is recognized as interest expense using the effective
+yield method over the two year term to maturity of the Convertible Notes.
+
+ At the original date of issuance, the detachable warrants entitled
+the Warrant holders to purchase 658,000 common shares at an exercise price of
+ 3.70 per share, subject to adjustment upon the occurrence of certain dilution
+events. As a result of our sales of securities, as of November 30, 2003 the
+Warrant holders are entitled to warrants to purchase 733,619 common shares at an
+exercise price of 3.32 per share. The warrants have a five year term.
+
+ The Convertible Notes are convertible into a class of preferred
+shares designated Class A Series A Preferred Shares, no par value per share (the
+"Series A Shares"). The conversion price of the Convertible Notes into Series A
+Shares is 100 per share, subject to adjustment upon the occurrence of certain
+events. The Series A Shares are convertible into a number of common shares
+determined by dividing 100 by a floating conversion price based on the market
+price of our common shares, provided that the conversion price cannot exceed the
+lesser of 0.75 or 80 of the market price of our common shares for the five day
+period immediately preceding conversion. The conversion price for the Series A
+Shares into common shares is subject to further adjustment upon the occurrence
+of certain events. At the election of the holder, the Convertible Notes may be
+converted directly into our common shares at a conversion price equal to 80 of
+the average closing price of our common shares for the five day period before
+such conversion.
+
+ During May 2003, the Company raised additional capital by issuing an
+individual 266,666 common shares at 0.75 per share and warrants to purchase
+133,333 common shares at an exercise price of 1.50 per share, subject to
+adjustment upon the occurrence of certain events. In May 2003 and June 2003, the
+Company also entered into agreements with an individual and two institutional
+investors whereby the Company agreed to sell and they agreed to purchase an
+aggregate of 1,266,668 common shares at 0.75 per share and warrants to purchase
+an aggregate of 500,001 common shares at an exercise price of 1.50 per share,
+subject to adjustment upon the occurrence of certain events. The closing on the
+sale of these additional common shares and warrants occurred in June and July
+2003. As a result of these sales, any future conversion of Series A Shares will
+be made at a price per share not to exceed the lesser of 0.75 or 80 of the
+market price of our common shares for the five day period immediately preceding
+conversion.
+
+10
+
+WORKSTREAM INC.
+NOTES TO UNAUDITED CONSOLIDATED FINANCIAL STATEMENTS - CONTINUED
+
+During fiscal year 2003, certain holders of the Company's
+Convertible Notes exercised their option to convert a portion of the Convertible
+Notes. This resulted in a conversion of 200,000 of the Convertible Notes into
+Series A Shares, which were immediately converted into common shares. As a
+result of the foregoing conversions, 210,525 common shares were issued at a
+conversion price equal to 80 of the average market price of the Company's
+common shares for the five days prior to conversion, resulting in a conversion
+price of 0.95 per share.
+
+ In June 2003, certain holders of the Company's Convertible Notes
+exercised their option to convert a portion of the Convertible Notes. This
+resulted in a conversion of 600,000 of the Convertible Notes into Series A
+Shares, which were immediately converted into common shares. As a result of the
+foregoing conversions, 800,000 common shares were issued at a conversion price
+of 0.75 per share.
+
+ In December 2003, certain holders of the Company's Convertible Notes
+exercised their option to convert a portion of the Convertible Notes. This
+resulted in a conversion of 337,500 of the Convertible Notes into Series A
+Shares, which were immediately converted into common shares. As a result of the
+foregoing conversions, 450,000 common shares were issued at a conversion price
+equal to 0.75 per share.
+
+ In January 2004, the Company entered into an agreement with
+Crestview Capital Fund L.P., Sands Brothers Venture Capital III LLC and their
+respective affiliates to amend the Convertible Notes and the warrants to
+purchase common shares that were issued in connection with the sale of the
+Convertible Notes in April and May 2002 to Crestview Capital Fund L.P., Sands
+Brothers Venture Capital III LLC and their respective affiliates. Under the
+agreement, the holders of the Convertible Notes agreed that on January 12, 2004
+the remaining outstanding balance of 1,762,500 of the Convertible Notes would
+be automatically converted into a total of 1,174,999 common shares at a
+conversion price of 1.50 per common share. In consideration for the noteholders
+agreement to convert the Convertible Notes into common shares, the Company
+agreed to reduce the exercise price on the warrants to purchase common shares
+from 3.3186 per common share to an exercise price of 2.00 per common share.
+
+ Due to the conversion of the Convertible Notes subsequent to the end
+of the quarter, the remaining unamortized discount as of November 30, 2003
+related to the Convertible Notes will be charged as non-cash interest expense in
+the third quarter.
+
+NOTE 10: LONG-TERM OBLIGATIONS
+
+ Long-term obligations consists of the following:
+
+November 30, 2003 May 31, 2003
+ ----------------- ------------
+ 
+Term loan 107,756 116,905
+Less: current portion 30,787 31,662
+ -------- --------
+ 76,969 85,243
+ ======== ========
+
+Long-term obligations represents a five year term loan maturing in
+May 2007 with monthly principal payments of CND 3,333 with the Bank of Montreal
+that bears interest at the Bank's prime rate plus 2.0 . Collateral has been
+provided as described in note 8.
+
+11
+
+WORKSTREAM INC.
+NOTES TO UNAUDITED CONSOLIDATED FINANCIAL STATEMENTS - CONTINUED
+
+As at November 30, 2003 the maturities for long-term obligations are
+as follows:
+
+Last six months of fiscal year 2004 15,395
+Fiscal year 2005 30,787
+Fiscal year 2006 30,787
+Fiscal year 2007 30,787
+ --------
+ 107,756
+ ========
+
+Note 11: RELATED PARTY OBLIGATIONS
+
+November 30, 2003 May 31, 2003
+ ----------------- ------------
+ 
+Note payable -- 33,838
+Deferred compensation 883,334 797,880
+Shareholder loans 1,680,863 1,750,312
+ ---------- ----------
+ 2,564,197 2,582,030
+Less: current portion 157,057 178,623
+ ---------- ----------
+ 2,407,140 2,403,407
+ ========== ==========
+
+As of November 30, 2003, the note payable to a related party has
+been paid in full. The note payable was non-interest bearing and repayable in
+monthly installments of 10,200 beginning in October 2001 and ending in April
+2003. As of May 31, 2003, the last three payments had not been made due to a
+disagreement with the related party. This was subsequently resolved and the
+final payments were made during the second quarter of fiscal 2004.
+
+ During fiscal 2003, Michael Mullarkey, the Company's Chief Executive
+Officer, agreed to defer until after June 1, 2004, a total of 797,880 in
+compensation earned as of May 31, 2003, as well as any additional compensation
+earned thereafter, with interest accruing on the balance at a rate of 8.0 per
+annum. The repayment date under the agreement is automatically extended each
+month after June 1, 2004 for an additional month, which results in the amounts
+continuing to remain due and outstanding for greater than 365 days. After June
+1, 2004, Mr. Mullarkey and the Company will mutually agree on the repayment
+terms of his deferred compensation. As of November 30, 2003, Mr. Mullarkey's
+total deferred compensation was 883,334.
+
+ During fiscal years 2003 and 2002, the Company received 500,000 and
+ 750,000 respectively, in working capital loans from Mr. Mullarkey. These loans
+accrued interest at 4.75 . In January 2003, the Company consolidated the loans
+made by Mr. Mullarkey to the Company along with the interest accrued thereon
+into a five year term loan. The consolidated term loan is collateralized by
+certain inventory, equipment, accounts receivable and other assets. The
+consolidated term loan balance at November 30, 2003 was 1,287,901 and bears
+interest at 8 per annum. The Company is required to make monthly interest only
+payments during the first 24 months and monthly interest and principal payments
+beginning in January 2005. In December 2003 and January 2004, the loan and
+accrued interest was paid in full (see Note 17: Subsequent Events). In addition,
+Mr. Mullarkey has agreed to provide the Company with a 1,200,000 credit
+facility bearing interest at 8 per annum. With respect to each draw against the
+credit facility, the Company is required to make monthly interest only payments
+during the first 24 months from the draw date and thereafter monthly interest
+and principal payments over a three year period. The Company is allowed to draw
+against this credit facility as needed.
+
+12
+
+WORKSTREAM INC.
+NOTES TO UNAUDITED CONSOLIDATED FINANCIAL STATEMENTS - CONTINUED
+
+The balance of the shareholder loans consists of a term loan assumed
+as part of the acquisition of Paula Allen Holdings which is non-interest bearing
+and is repayable in quarterly installments of 52,500 beginning in April 2001
+and ending in January 2006. The Company recorded the present value of these
+shareholder notes at the time of the acquisition utilizing a 15 discount rate.
+Imputed interest is charged to expense over the term to maturity.
+
+Note 12: CAPITAL LEASE OBLIGATIONS
+
+November 30, 2003 May 31, 2003
+ ----------------- ------------
+ 
+Capital leases 106,137 171,198
+Less: current portion 59,072 97,882
+ -------- --------
+ 47,065 73,316
+ ======== ========
+
+Capital lease obligations relate to office equipment, computers and
+software, and bear interest at rates that range from 7.5 to 32.2 per annum.
+These leases mature at various times through October 2005.
+
+Note 13: COMMON SHARES AND WARRANTS
+
+ The authorized share capital consists of an unlimited number of no
+par value common shares, an unlimited number of Class A Preferred Shares, no par
+value per share (the "Class A Preferred Shares"), and an unlimited number of
+Class A Series A Preferred Shares, no par value per share (the "Series A
+Shares"). The Company has 22,446,455 shares that are outstanding as of November
+30, 2003 (May 31, 2003 - 19,951,570). As of November 30, 2003, an additional
+654,204 common shares were being held in escrow as a result of the terms of
+acquisitions and an estimated 316,456 are contingently issuable related to the
+PureCarbon acquisition (see note 3). As at November 30, 2003 there were no Class
+A Preferred Shares or Series A Shares outstanding.
+
+ In June 2003, certain holders of the Company's 8 senior
+Subordinated Convertible Notes exercised their option to convert a portion of
+the Convertible Notes. This resulted in a conversion of 600,000 of the
+Convertible Notes into Series A Convertible Preferred Shares, which were
+immediately converted into common shares. As a result of the foregoing
+conversions, 800,000 common shares were issued at a conversion price equal to
+ 0.75 per share.
+
+ In June 2003 and July 2003, the Company received 950,000 from an
+individual and two institutional investors in exchange for the issuance of an
+aggregate of 1,266,668 common shares at a purchase price equal to 0.75 per
+share and warrants to purchase an aggregate of 500,001 common shares at an
+exercise price of 1.50 per share, subject to adjustment upon the occurrence of
+certain events. The proceeds from these funds will be used for potential
+acquisitions and for working capital needs.
+
+ In June 2003, the Company entered into a consulting agreement with
+Stern & Co. whereby the Company agreed to issue 125,000 common shares to Stern &
+Co. in consideration of Stern & Co. providing consulting services to the
+Company. Stern & Co. directed that the 125,000 common shares be issued in the
+name of Shai Stern.
+
+ In June 2003, we entered into an agreement with The Research Works,
+Inc. whereby the Company agreed to issue an aggregate of 107,000 common shares
+to The Research Works, Inc. and certain individuals designated by The Research
+Works, Inc. in consideration of The Research Works, Inc. providing certain
+research services to the Company.
+
+13
+
+WORKSTREAM INC.
+NOTES TO UNAUDITED CONSOLIDATED FINANCIAL STATEMENTS - CONTINUED
+
+In August 2003, a shareholder surrendered and the Company
+subsequently cancelled 26,989 common shares as a reimbursement for legal fees
+owed to the Company.
+
+ In September 2003, the Company acquired certain assets of Perform,
+Inc., a Delaware corporation, in connection with Perform, Inc.'s voluntary
+petition for relief under Chapter 11 of the United States Bankruptcy Code. As
+consideration for the sale, the Company issued Perform, Inc. 189,873 of its
+common shares valued at 300,000 and cash in an amount equal to 450,000. In
+addition, the Company advanced 72,000 to Perform, Inc. to fund its operations
+prior to the finalization of the asset purchase agreement with Perform, Inc.
+
+ In October 2003, the Company issued 33,333 common shares to an
+individual as a result of the individual's exercise of an option to purchase
+33,333 common shares.
+
+Note 14: SEGMENTED AND GEOGRAPHIC INFORMATION
+
+ The following is a summary of the Company's operations by business
+segment and by geographic region for the three and six month periods ended
+November 30, 2003 and November 30, 2002.
+
+ENTERPRISE CAREER
+ RECRUITING TRANSITION
+ SERVICES SERVICES TOTAL
+ ----------- ----------- -----------
+BUSINESS SEGMENT
+
+THREE MONTHS ENDED
+NOVEMBER 30, 2003
+ 
+Revenue 2,638,160 1,623,611 4,261,771
+Expenses 3,131,180 1,802,194 4,933,374
+ ----------- ----------- -----------
+Business segment loss (493,020) (178,583) (671,603)
+ =========== ===========
+Corporate overhead, other revenues
+ And expenses (411,274)
+ -----------
+Net loss (1,082,877)
+ ===========
+
+ENTERPRISE CAREER
+ RECRUITING TRANSITION
+ SERVICES SERVICES TOTAL
+ ----------- ----------- -----------
+SIX MONTHS ENDED
+NOVEMBER 30, 2003
+ 
+Revenue 5,310,973 3,129,312 8,440,285
+Expenses 6,377,468 3,590,693 9,968,161
+ ----------- ----------- -----------
+Business segment loss (1,066,495) (461,381) (1,527,876)
+ =========== ===========
+Corporate overhead, other revenues
+ And expenses (1,304,560)
+ -----------
+Net loss (2,832,436)
+ ===========
+
+ENTERPRISE CAREER
+ RECRUITING TRANSITION
+ SERVICES SERVICES TOTAL
+ ----------- ----------- -----------
+AS AT NOVEMBER 30, 2003
+ 
+Business segment assets 3,401,617 83,861 3,485,478
+Intangible assets 6,981,425 334,751 7,316,176
+Goodwill 9,659,608 7,813,338 17,472,946
+ ----------- ----------- -----------
+ 20,042,650 8,231,950 28,274,600
+ =========== ===========
+Assets not allocated to business
+ Segments 1,121,461
+ -----------
+Total assets 29,396,061
+ ===========
+
+14
+
+WORKSTREAM INC.
+NOTES TO UNAUDITED CONSOLIDATED FINANCIAL STATEMENTS - CONTINUED
+
+ENTERPRISE CAREER
+ RECRUITING TRANSITION
+ SERVICES SERVICES TOTAL
+ ----------- ----------- -----------
+THREE MONTHS ENDED
+NOVEMBER 30, 2002
+ 
+Revenue 3,195,813 1,779,616 4,975,429
+Expenses 4,095,516 2,094,185 6,189,701
+ ----------- ----------- -----------
+Business segment loss (899,703) (314,569) (1,214,272)
+ =========== ===========
+Corporate overhead, other revenues
+ And expenses (841,787)
+ -----------
+Net loss (2,056,059)
+ ===========
+
+ENTERPRISE CAREER
+ RECRUITING TRANSITION
+ SERVICES SERVICES TOTAL
+ ------------ ------------ ------------
+SIX MONTHS ENDED
+NOVEMBER 30, 2002
+ 
+Revenue 5,499,574 4,121,569 9,621,143
+Expenses 7,694,406 4,596,981 12,291,387
+ ------------ ------------ ------------
+Business segment loss (2,194,832) (475,412) (2,670,244)
+ ============ ============
+Corporate overhead, other revenues
+ And expenses (1,602,604)
+ ------------
+Net loss (4,272,848)
+ ============
+
+ENTERPRISE CAREER
+ RECRUITING TRANSITION
+ SERVICES SERVICES TOTAL
+ ----------- ----------- -----------
+AS AT NOVEMBER 30, 2002
+ 
+Business segment assets 6,550,352 439,356 6,989,708
+Intangible assets 10,946,660 650,490 11,597,150
+Goodwill 11,783,375 7,073,084 18,856,459
+ ----------- ----------- -----------
+ 29,280,387 8,162,930 37,443,317
+ =========== ===========
+Assets not allocated to business
+ Segments 1,297,387
+ -----------
+Total assets 38,740,704
+ ===========
+
+15
+
+WORKSTREAM INC.
+NOTES TO UNAUDITED CONSOLIDATED FINANCIAL STATEMENTS - CONTINUED
+
+CANADA USA TOTAL
+ ----------- ----------- -----------
+GEOGRAPHY
+THREE MONTHS ENDED
+NOVEMBER 30, 2003
+ 
+Revenue 496,490 3,765,281 4,261,771
+Expenses 580,008 4,770,006 5,350,014
+ ----------- ----------- -----------
+Geographical loss (83,518) (1,004,725) (1,088,243)
+ =========== ===========
+Other revenues and expenses 5,366
+ -----------
+Net loss (1,082,877)
+ ===========
+
+CANADA USA TOTAL
+ ----------- ----------- -----------
+SIX MONTHS ENDED
+NOVEMBER 30, 2003
+ 
+Revenue 940,860 7,499,425 8,440,285
+Expenses 1,159,450 9,641,140 10,800,590
+ ------------ ------------ ------------
+Geographical loss (218,590) (2,141,715) (2,360,305)
+ ============ ============
+Other revenues and expenses (472,131)
+ ------------
+Net loss (2,832,436)
+ ============
+
+CANADA USA TOTAL
+ ----------- ----------- -----------
+AS AT NOVEMBER 30, 2003
+ 
+Geographic segment assets 1,781,309 27,614,752 29,396,061
+ =========== =========== ===========
+
+16
+
+WORKSTREAM INC.
+NOTES TO UNAUDITED CONSOLIDATED FINANCIAL STATEMENTS - CONTINUED
+
+CANADA USA TOTAL
+ ----------- ----------- -----------
+THREE MONTHS ENDED
+NOVEMBER 30, 2002
+ 
+Revenue 636,431 4,338,998 4,975,429
+Expenses 1,069,901 6,265,310 7,335,211
+ ----------- ----------- -----------
+Geographical loss (433,470) (1,926,312) (2,359,782)
+ =========== ===========
+Other revenues and expenses 303,723
+ -----------
+Net loss (2,056,059)
+ ===========
+
+CANADA USA TOTAL
+ ----------- ----------- -----------
+SIX MONTHS ENDED
+NOVEMBER 30, 2002
+ 
+Revenue 1,394,848 8,226,295 9,621,143
+Expenses 2,153,826 12,230,083 14,383,909
+ ------------ ------------ ------------
+Geographical loss (758,978) (4,003,788) (4,762,766)
+ ============ ============
+Other revenues and expenses 489,918
+ ------------
+Net loss (4,272,848)
+ ============
+
+CANADA USA TOTAL
+ ----------- ----------- -----------
+AS AT NOVEMBER 30, 2002
+ 
+Geographic segment assets 3,892,493 34,848,211 38,740,704
+ =========== =========== ===========
+
+Note 15: EARNINGS PER SHARE
+
+ For all the periods presented, diluted net loss per share equals
+basic net loss per share due to the antidilutive effect of employee stock
+options, warrants and escrowed shares. The following outstanding instruments
+could potentially dilute basic earnings per share in the future:
+
+NOVEMBER 30, 2003
+ -----------------
+ 
+Stock options 1,538,265
+Escrowed shares 654,204
+Convertible notes 2,800,000
+PureCarbon contingent shares 316,456
+
+Warrants issued to investors 633,334
+Warrants issued with convertible notes 733,619
+Underwriter warrants 440,000
+ ---------
+Potential increase in number of shares from
+ dilutive instruments 7,115,878
+ =========
+
+The weighted average price of the options exercisable at November 30, 2003 was
+ 2.21 per common share.
+
+17
+
+WORKSTREAM INC.
+NOTES TO UNAUDITED CONSOLIDATED FINANCIAL STATEMENTS - CONTINUED
+
+Note 16: STOCK BASED COMPENSATION PLANS
+
+ Pro forma information regarding compensation expense related to
+employee stock options is required by SFAS No. 123 and SFAS No. 148, and has
+been determined as if the Company had accounted for its employee stock options
+under the fair value method of those statements. The fair value of options
+granted was estimated at the date of grant using the Black Scholes option
+pricing model with the following assumptions:
+
+Three Months Three Months Six Months Six Months
+ Ended Ended Ended Ended
+ November 30, November 30, November 30, November 30,
+ 2003 2002 2003 2002
+ ------------- ------------ ------------ -------------
+ 
+Weighted average
+ Risk free interest rates 3.32 3.07 2.50 3.08 
+Expected dividend yield 0 0 0 0 
+Weighted average
+ expected volatility 105 110 115 115 
+Expected lives (in years) 3.5 3.5 3.5 3.5
+
+For purposes of pro forma disclosures, the estimated fair value of
+the options is amortized to expense ratably over the option's vesting period.
+Because the determination of the fair value of all options is based on the
+assumptions described in the preceding paragraph, and because additional option
+grants are expected to be made in future periods, this pro forma information is
+not likely to be representative of the pro forma effects on reported net income
+or loss for future years.
+
+ The following reflects the impact on results of operations if the
+Company had recorded additional compensation expense relating to the employee
+stock options:
+
+Three Months Three Months Six Months Six Months
+ Ended Ended Ended Ended
+ November 30, November 30, November 30, November 30,
+ 2003 2002 2003 2002
+ ------------ ------------ ------------ ------------
+ 
+Net loss, as reported (1,082,877) (2,056,059) (2,832,436) (4,272,848)
+Estimated incremental share based
+ compensation expense (net
+ of tax of nil) (108,741) (149,441) (282,643) (399,133)
+ ------------ ------------ ------------ ------------
+Pro forma net loss (1,191,618) (2,205,500) (3,115,079) (4,671,981)
+ ============ ============ ============ ============
+Weighted average common shares
+ outstanding during the period 22,407,020 18,582,012 22,090,479 17,783,387
+ ============ ============ ============ ============
+
+Basic and diluted loss per share, as
+ Reported (0.05) (0.11) (0.13) (0.24)
+ ============ ============ ============ ============
+Pro forma basic and diluted loss
+ Per share (0.05) (0.12) (0.14) (0.26)
+ ============ ============ ============ ============
+
+18
+
+WORKSTREAM INC.
+NOTES TO UNAUDITED CONSOLIDATED FINANCIAL STATEMENTS - CONTINUED
+
+Note 17: SUBSEQUENT EVENTS
+
+ In December 2003, the Company issued an aggregate of 4,125,000
+common shares at 1.60 per common share to institutional and other accredited
+investors in a private placement offering resulting in aggregate proceeds of
+approximately 6.6 million. The proceeds from the sale will be used to repay or
+otherwise cause the satisfaction in full of the amounts outstanding under the
+Company's Convertible Notes, to pay the expenses incurred in connection with the
+issuance and for general working capital requirements. In connection with the
+issuance of the 4,125,000 common shares, the Company paid commissions to
+placement agents in an aggregate amount equal to 540,000, of which 100,000 was
+paid in 62,500 common shares in lieu of cash. The Company also issued the
+placement agents or their designee's warrants to purchase an aggregate of
+412,500 common shares at an exercise price of 1.60 per share.
+
+ In December 2003, the Company issued to Legend Merchant Group a
+warrant to purchase 50,000 common shares at an exercise price of 1.50 per
+share, and a warrant to purchase an additional 50,000 common shares at an
+exercise price of 1.75 per share. The warrants have a two year term. This
+issuance of the warrants was made in exchange for business advisory services to
+be provided over a period of 12 months by Legend Merchant Group to the Company.
+
+ In December 2003, certain holders of the Company's 8 Senior
+Subordinated Convertible Notes exercised their option to convert a portion of
+the Convertible Notes. This resulted in a conversion of 337,500 of the
+Convertible Notes into Series A Convertible Preferred Shares which were
+immediately converted into common shares. As a result of the foregoing
+conversions, 450,000 common shares were issued at a conversion price equal to
+ 0.75 per share.
+
+ In December 2003, the Company issued 100,000 shares to Nathan Lowe
+for consulting services provided to the Company.
+
+ In December 2003 and January 2004, the Company paid in full the
+ 1,287,901 note payable and accrued interest that was due to Michael Mullarkey,
+the Company's Chief Executive Officer. Mr. Mullarkey has no obligation under
+this term loan to advance the Company any additional funds.
+
+ In January 2004, the Company entered into an agreement with
+Crestview Capital Fund L.P., Sands Brothers Venture Capital III LLC and their
+respective affiliates to amend the Convertible Notes and the warrants to
+purchase common shares that were issued in connection with the sale of the
+Convertible Notes in April and May 2002 to Crestview Capital Fund L.P., Sands
+Brothers Venture Capital III LLC and their respective affiliates. Under the
+agreement, the holders of the Convertible Notes agreed that on January 12, 2004
+the remaining outstanding balance of 1,762,500 of the Convertible Notes would
+be automatically converted into a total of 1,174,999 common shares at a
+conversion price of 1.50 per common share. In consideration for the noteholders
+agreement to convert the Convertible Notes into common shares, the Company
+agreed to reduce the exercise price on the warrants to purchase common shares
+from 3.3186 per common share to an exercise price of 2.00 per common share.
+
+ Due to the conversion of the Convertible Notes subsequent to the end
+of the quarter, the remaining unamortized discount as of November 30, 2003
+related to the Convertible Notes will be charged as non-cash interest expense in
+the third quarter.
+
+19
+
+ITEM 2. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS
+OF OPERATIONS
+
+FORWARD LOOKING STATEMENTS
+
+This report contains "forward-looking statements" within the meaning of Section
+27A of the Securities Act of 1933 and Section 21E of the Securities Exchange Act
+of 1934. The forward-looking statements contained in this report involve risks
+and uncertainties. The statements contained in this report that are not purely
+historical are forward-looking statements. Forward-looking statements include,
+without limitation, statements containing the words "anticipates," "believes,"
+"expects," "intends," "future," and words and terms of similar substance and
+express management's belief, expectations or intentions regarding future
+performance. Our actual results could differ materially from our historical
+operating results and from those anticipated in these forward-looking statements
+as a result of certain factors, including without limitation, those set forth in
+our Annual Report on Form 10-K and other factors and uncertainties contained in
+our other filings with the Securities and Exchange Commission. You are cautioned
+not to place undue reliance on such forward-looking statements, which speak only
+as of the date they were made. We disclaim any obligation or undertaking to
+provide any updates or revisions to any forward-looking statement to reflect any
+change in our expectations or any change in events, conditions or circumstances
+on which the forward-looking statement is based.
+
+ The following discussion and analysis should be read in conjunction
+with our unaudited consolidated financial statements and accompanying notes for
+the three and six month periods ended November 30, 2003. All figures are in
+United States dollars, except as otherwise noted.
+
+OVERVIEW
+
+ We are a leading provider of human capital management (HCM)
+services. We offer a combination of high-tech and high-touch services, giving
+customers the ability to manage their complete recruiting and outplacement needs
+on a single Workstream platform.
+
+ We have two distinct operating segments, which are the Enterprise
+Recruiting Services and Career Transition Services segments. The Enterprise
+Recruiting Services segment consists of automated talent acquisition systems,
+recruiting research, online exchange, and employee management and retention
+system services. The Career Transition Services segment consists of outplacement
+services.
+
+ Fiscal year 2003 and fiscal year 2002 resulted in significant
+changes in our business. We completed three and six acquisitions during fiscal
+year 2003 and fiscal year 2002, respectively In addition, another acquisition
+was completed during fiscal year 2004 (see Note 3). Subsequent to the
+acquisitions, we concentrated on integrating the acquired entities and expanding
+the reach of the existing business. These acquisitions have enabled us to
+increase our service offerings. We have also made efforts to reduce costs by
+consolidating operations, resulting in staff reductions of redundant positions
+and related overhead and reducing research and development expenditures. Certain
+actions taken to reduce costs have also caused reductions in revenue.
+
+CRITICAL ACCOUNTING POLICIES
+
+ Our most critical accounting policies relate to the assessment of
+goodwill impairment and impairments in intangible assets. Management applies
+judgment to value these assets. Changes in assumptions used would impact our
+financial results.
+
+ Goodwill is assessed for impairment on an annual basis or more
+frequently if circumstances warrant. We assess goodwill related to reporting
+units for impairment, and write down the carrying amount of goodwill as
+required. We estimate the fair value of each reporting unit by preparing a
+discounted cash flow model, using a 15 discount rate. The model is prepared by
+projecting results for five years making different assumptions for each business
+unit. Assumptions are made with regard to the economy direction, revenue growth,
+gross profit margins and operating expense estimates. An impairment charge is
+recorded if the implied fair value of goodwill of a reporting unit is less than
+the book value of goodwill for that unit. Changes in the discount rate used, or
+in other assumptions in the model, would result in wide fluctuations in the
+value of goodwill that is supported. Any such changes may result in additional
+impairment write-downs.
+
+20
+
+We value intangible assets, such as a customer base acquired in an
+acquisition, based on estimated future income applying historical customer
+retention rates. If the customer base acquired discontinues using our service
+earlier than historical experience, we may be required to record an impairment
+of intangible assets. The valuation of acquired technology is based on the cost
+incurred to develop the software that is then licensed to our clients.
+Consideration is also given to the useful life and the technology's continued
+demand in the marketplace. Changes in circumstances impacting other assumptions
+used to value intangible assets could also lead to future impairments.
+
+REVENUES
+
+ Consolidated revenues were 4,261,771 for the three months ended
+November 30, 2003 ("second quarter 2004") compared to 4,975,429 for the three
+months ended November 30, 2002 ("second quarter 2003"), a decrease of 713,658
+or 14 . The Perform acquisition completed in the second quarter 2004 contributed
+ 237,356 of the total revenue for the second quarter 2004. The overall decrease
+in revenues is mainly due to lower Enterprise Recruitment Service sales (17 
+lower than second quarter 2003) which management believes is caused by a
+transitioning of sales into the Ecruiter software solution, which is more
+economical for the client but more profitable for Workstream, as well as by the
+continued weak job market resulting in fewer companies hiring additional staff,
+and lower Career Transition Service revenues (9 lower than second quarter 2003)
+caused by the closure of seven office locations during the first six months of
+fiscal 2003 as well as lower sales as a result of a change in marketing
+strategy.
+
+ Career Transition Service revenues for second quarter 2004 were
+ 1,623,611 compared to 1,779,616 in second quarter 2003. The main reason for
+the decline in Career Transition Service revenue was due to the closure of seven
+office locations during the first six months of fiscal 2003 as well as lower
+sales as a result of a change in marketing strategy in order to generate more
+profitable business. The office closures are a result of our plan to consolidate
+sales locations and develop larger centers in fewer locations in order to
+leverage management costs and improve internal controls.
+
+ Enterprise Recruiting Service revenues for second quarter 2004 were
+ 2,638,160 compared to 3,195,813 for second quarter 2003. The decrease in
+revenues was primarily due to a decrease in recruitment research and software
+sales which we believe is due to the continued weak job market causing fewer
+companies hiring additional staff. This was partially offset by revenue of
+ 237,356 generated by the Perform acquisition completed during second quarter
+2004.
+
+ Consolidated revenues were 8,440,285 for the six months ended
+November 30, 2003 compared to 9,621,143 for the six months ended November 30,
+2002, a decrease of 1,180,858 or 12 . The overall decrease in revenues is
+mainly due to lower Career Transition Service revenues (24 lower than the six
+months ended November 30, 2003) caused by our closure of seven office locations
+in the first six months of fiscal 2003 as well as lower sales as a result of a
+change in marketing strategy.
+
+COST OF REVENUES
+
+ Cost of revenues for second quarter 2004 were 389,407 compared to
+ 1,018,725 for second quarter 2003, a decrease of 629,318 or 62 . The Perform
+acquisition completed in second quarter 2004 did not incur any cost of revenues.
+Career Transition Service cost of revenues accounted for 190,757 and Enterprise
+Recruiting Service cost of revenues accounted for 198,650 of the total cost of
+revenues for second quarter 2004. Cost of revenues for the Career Transition
+Services segment decreased 142,193 as a result of lower revenues and cost of
+revenues for the Enterprise Recruiting Service decreased 487,125 as a result of
+a decrease in costs in the recruitment software area. Management has made a
+concentrated effort to reduce costs by eliminating redundant operations.
+
+21
+
+Cost of revenues for the six months ended November 30, 2003 were
+ 832,757 compared to 1,897,722 for the six months ended November 30, 2002, a
+decrease of 1,064,965 or 56 . Career Transition Service cost of revenues
+accounted for 363,348 and Enterprise Recruiting Service cost of revenues
+accounted for 469,409 of the total cost of revenues for the six months ended
+November 30, 2003. Cost of revenues for the Career Transition Services segment
+decreased 345,978 as a result of lower revenues and cost of revenues for the
+Enterprise Recruiting Service decreased 718,987 as a result of lower costs in
+recruitment software due to management's effort to eliminate redundant
+operations.
+
+GROSS PROFITS
+
+ Consolidated gross profits were 3,872,364 for second quarter 2004
+or 91 of revenues compared to 3,956,704 or 80 of revenues for the second
+quarter 2003. The Perform acquisition completed during the second quarter 2004
+contributed 237,356 of the total gross profit for that quarter. Career
+Transition Services gross profit was 1,432,855 or 88 of Career Transition
+Services revenues and Enterprise Recruiting Services gross profit represented
+ 2,439,509 or 92 of Enterprise Recruiting Services revenues for second quarter
+2004. The improvement in gross profit as a percent of revenues is due to the
+efforts to eliminate redundant operations and costs and to pursue more
+profitable business by shifting towards more profitable products and changing
+marketing strategies resulting in sales with higher gross margin.
+
+ Consolidated gross profits were 7,607,528 or 90 of revenues for
+the six months ended November 30, 2003 compared to 7,723,421 or 80 of revenues
+for the six months ended November 30, 2002. Career Transition Services gross
+profit was 2,765,963 or 88 of Career Transition Services revenues and
+Enterprise Recruiting Services gross profit represented 4,841,565 or 91 of
+Enterprise Recruiting Services revenues for the six months ended November 30,
+2003.
+
+OPERATING EXPENSES
+
+ Total operating expenses were 4,960,607 for second quarter 2004,
+compared to 6,316,487 for second quarter 2003, a decrease of 1,355,880 or 21 .
+Total operating expenses for the Perform acquisition completed in second quarter
+2004 was 196,650. The primary reason for the overall decline in operating
+expenses is the consolidation of operating functions, which includes lower
+selling and marketing expenses, lower research and development costs and reduced
+general and administrative expenses such as rent, bad debt expense and credit
+card fees.
+
+ Total operating expenses were 9,967,834 for the six months ended
+November 30, 2003, compared to 12,486,186 for the six months ended November 30,
+2002, a decrease of 2,518,352 or 20 . The primary reason for the overall
+decline in operating expenses is the consolidation of operating functions,
+partially offset by additional operating expense of 891,861 due to the
+acquisitions completed at different times during the six months ended November
+30, 2002 and additional operating expenses of 196,650 related to the Perform
+acquisition completed in second quarter 2004.
+
+SELLING AND MARKETING
+
+ Selling and marketing expenses were 1,104,556 for second quarter
+2004 compared to 1,651,329 for second quarter 2003, a decrease of 546,773 or
+33 . Selling and marketing expense related to the Perform acquisition completed
+in second quarter 2004 was 40,047. The overall decrease in selling and
+marketing expense is mainly attributed to a reduction of 211,485 in advertising
+expense, a reduction of 266,918 in employee costs, and a decrease of 65,962 in
+travel and entertainment expense. Advertising was reduced mainly in the Career
+Transition Services segment (a decrease of 206,335 from second quarter 2003) by
+shifting advertising from newspapers and print media to the Internet.
+
+22
+
+Selling and marketing expenses were 2,171,887 for the six months
+ended November 30, 2003 compared to 3,702,478 for the six months ended November
+30, 2002, a decrease of 1,530,591 or 41 . The overall decrease in selling and
+marketing expense is mainly attributed to a reduction of 821,906 in advertising
+expense, a reduction of 662,995 in employee costs, and a decrease of 87,997 in
+travel and entertainment expense. Advertising was reduced by 662,880 in the
+Career Transition Services segment by shifting advertising from newspapers and
+print media to the Internet. In addition, advertising expense was reduced in the
+Enterprise Recruitment Services segment by 159,026 by implementing a more
+direct sales approach compared to an indirect approach used by prior management
+of the acquired companies and initially continued after the acquisitions.
+
+GENERAL AND ADMINISTRATIVE
+
+ General and administrative expenses were 2,292,240 for second
+quarter 2004, compared to 2,510,700 for second quarter 2003, a decrease of
+ 218,460 or 9 . General and administrative expenses related to the Perform
+acquisition completed in second quarter 2004 were 48,915. The overall decrease
+in general and administrative expenses was due mainly to a decrease of 260,550
+in rent expense, a reduction of 52,888 in bad debt expense, a decrease of
+ 29,617 in travel and entertainment expenses , and a reduction of 33,694 of
+public company expense, as well as the recovery and settlement of claims of
+ 150,238 related to Icarian prior to the acquisition, partially offset by an
+increase of 239,611 in employee costs, and an increase of 95,977 in
+professional fees.
+
+ General and administrative expenses were 4,716,672 for the six
+months ended November 30, 2003, compared to 5,064,644 for the six months ended
+November 30, 2002, a decrease of 347,972 or 7 . The overall decrease in
+expenses was due mainly to reductions of 452,991 in rent expense, 79,555 in
+communications expense, 55,327 in postage expense, 54,535 in computing
+expense, and 56,460 in bad debt expense, as well as the recovery and settlement
+of claims of 150,238 related to Icarian prior to the acquisition, partially
+offset by an increase of 541,070 in employee costs. Acquisitions partially
+offset the decrease in general and administrative by 348,695 for additional
+general and administrative expenses due to the acquisitions completed at
+different times during the six months ended November 30, 2002 and additional
+general and administrative expenses of 48,915 related to the Perform
+acquisition completed in second quarter 2004.
+
+RESEARCH AND DEVELOPMENT
+
+ Research and development costs were 159,951 for second quarter 2004
+compared to 412,339 for second quarter 2003, a decrease of 252,388 or 61 .
+Research and development costs were 270,979 for the six months ended November
+30, 2003 compared to 720,579 for the six months ended November 30, 2002, a
+decrease of 449,600 or 62 . Research and development costs related to the
+Perform acquisition completed in second quarter 2004 were 107,688. The overall
+decline in research and development costs is primarily due to our strategy to
+acquire technology through acquisitions. We believe that we can acquire new
+technology at a lower cost and more efficiently than developing new software
+platforms with internal resources. Since fiscal 2002, most of our research and
+development efforts have been incurred in the Enterprise Recruiting Services
+segment.
+
+DEPRECIATION/AMORTIZATION EXPENSE
+
+ Depreciation and amortization expenses were 1,403,860 for second
+quarter 2004, compared to 1,742,119 for second quarter 2003, a decrease of
+ 338,259 or 19 . Depreciation and amortization expenses were 2,808,295 for the
+six months ended November 30, 2003, compared to 2,998,485 for the six months
+ended November 30, 2002, a decrease of 190,190 or 6 . . The depreciation and
+amortization expenses related to the Perform acquisition completed in second
+quarter 2004 were 74,323. This overall decrease was mainly due to lower
+depreciation expense due to the disposal of certain assets in connection with
+the termination of a lease of certain real property formerly leased to Icarian
+and certain other assets becoming fully amortized, partially offset by increased
+amortization of intangibles and depreciation expense of 450,116 due to the
+acquisitions completed at different times during the six months ended November
+30, 2002.
+
+23
+
+INTEREST INCOME/EXPENSE
+
+ Interest income was 299 for second quarter 2004 compared to 23,595
+for second quarter 2003, a decrease of 23,296 or 99 . Interest expense was
+ 432,324 for second quarter 2004, compared to 183,634 for second quarter 2003,
+and increase of 248,690 or 135 . The increased interest expense was mainly due
+to interest expense incurred as a result of a non-cash charge of 284,814 for
+the accretion of the 8 Senior Subordinated Convertible Notes to their current
+face value.
+
+ Interest income was 1,996 for the six months ended November 30,
+2003 compared to 36,527 for the six months ended November 30, 2002, a decrease
+of 34,531 or 95 . Interest expense was 1,351,989 for the six months ended
+November 30, 2003, compared to 342,242 for the six months ended November 30,
+2002, an increase of 1,009,747 or 295 . The increased interest expense was
+mainly due to interest expense incurred as a result of a non-cash charge of
+ 1,055,202 for amortization of the discount related to the conversion of
+ 600,000 of 8 Senior Subordinated Convertible Notes and the accretion of the
+Notes to their face value as of November 30, 2003 compared to November 30, 2002.
+
+LIQUIDITY AND CAPITAL RESOURCES
+
+ As of November 30, 2003, we had 1,933,779 in cash, cash
+equivalents, restricted cash and short-term investments. As of November 30,
+2003, 1,340,110 of these cash and short- term investment balances were
+restricted from use because they were collateral for debt, leases and a letter
+of guarantee. These restricted cash balances could be reduced in the future by
+lease payments, any repayments on lines of credit and improvement in the return
+rate on credit card charges accepted by us for our services.
+
+ For the six months ended November 30, 2003, cash provided by
+operations totaled 202,330, consisting primarily of the net loss for the period
+of 2,832,436, offset by non-cash expenses such as depreciation, amortization,
+and non-cash interest. Our working capital deficiency decreased to 3,196,541 as
+of November 30, 2003, a decrease of 215,038 from May 31, 2003 as a result of
+cash received from investors, higher prepaid balances as a result of payments to
+consultants, higher receivables, and lower accrued liabilities.
+
+ Net cash used in investing activities during six months ended
+November 30, 2003 was 521,055 due mainly to payments related to the acquisition
+of Perform.
+
+ Net cash generated by financing activities was 634,164 for the six
+months ended November 30, 2003. We received 950,000 in cash from an individual
+and two institutional investors upon the issuance of common shares. We received
+proceeds of 141,497 from our line of credit, and 33,333 from the exercise of
+common stock options. Financing outflows consisted primarily of the payments of
+ 120,000 related to a lease settlement, repayment of bank debt of 138,813,
+repayment of shareholder loans of 138,838, and payments for capital leases of
+ 55,343.
+
+ We have had operating losses since our inception, however we had
+positive cash flow from operations for the six months ended November 30, 2003.
+Management believes that the improvement in cash flow is the result of
+elimination of redundancies in the companies acquired in fiscal 2002 and 2003,
+the consolidation of ongoing operations and reduction efforts in selling and
+marketing as well as in research and development previously discussed. Michael
+Mullarkey, our Chief Executive Officer, provided us with 500,000 and 750,000
+in short term loans during fiscal 2003 and fiscal 2002, respectively. In January
+2003, those loans were consolidated into a term loan maturing in five years. The
+consolidated term loan is collaterized by certain inventory, equipment, accounts
+receivable and other assets and bears interest at 8 per annum. Under the
+consolidated term loan, we are required to make monthly interest only payments
+during the first 24 months and monthly interest and principal payments beginning
+in January 2005. As of November 30, 2003, the total amount of the consolidated
+term loan was 1,287,901. In December 2003 and January 2003, we paid this loan
+in full. Mr. Mullarkey has no obligation under the term loan to advance us any
+additional funds.
+
+24
+
+In January 2003, Mr. Mullarkey agreed to provide us with an
+additional 1,200,000 credit facility bearing interest at 8 per annum. With
+respect to each draw against the credit facility, we are required to make
+monthly interest only payments during the first 24 months from the draw date and
+thereafter monthly interest and principal payments over a three year period. We
+have the ability to draw against this credit facility as needed. Mr. Mullarkey
+also agreed to defer until after June 1, 2004, a total of 797,880 in
+compensation earned as of May 31, 2003, as well as any additional compensation
+earned thereafter, with interest accruing on the balance at a rate of 8 per
+annum. The repayment date under the agreement is automatically extended each
+month after June 1, 2004 for an additional month, which results in the amounts
+continuing to remain due and outstanding for greater than 365 days. After June
+1, 2004, Mr. Mullarkey and Workstream will mutually agree on the repayment terms
+of his deferred compensation. As of November 30, 2003, total deferred
+compensation was 883,334.
+
+ In December 2003, we sold an aggregate of 4,125,000 common shares at
+ 1.60 per common share to institutional and other accredited investors in a
+private placement offering, resulting our receiving gross proceeds of
+approximately 6.6 million. The proceeds from the sale will be used to repay or
+otherwise cause the satisfaction in full of the amounts outstanding under our 8 
+Senior Subordinated Convertible Notes, to pay the expenses incurred in
+connection with the offering and for general working capital requirements. In
+connection with the issuance of the 4,125,000 common shares, we paid commissions
+to placement agents in an aggregate amount equal to 540,000, of which 100,000
+was paid in 62,500 common shares in lieu of cash. We also issued the placement
+agents or their designee's warrants to purchase an aggregate of 412,500 common
+shares at an exercise price of 1.60 per share.
+
+ Management believes the proceeds from the offering in December 2003,
+the credit facility from Michael Mullarkey and the compensation deferral
+provided by Mr. Mullarkey, and the closure of offices and reduction of costs
+made in fiscal 2002 and fiscal 2003, along with further consolidation of cost
+centers and elimination of redundancies will result in continued improvement of
+cash flows from operations which, together with current cash reserves, will be
+sufficient to meet our working capital and capital expenditure requirements
+through at least November 30, 2004.
+
+ As of November 30, 2003, we had 8 Senior Subordinated Convertible
+Notes with an outstanding balance of 2.1 million. In December 2003, certain
+holders of our Convertible Notes exercised their option to convert 337,500 of
+the Convertible Notes into Class A Series A Preferred Shares, which were
+immediately converted into common shares. As a result of the foregoing
+conversions, 450,000 common shares were issued at a conversion price equal at
+ 0.75 per share.
+
+ In January 2004, we entered into an agreement with Crestview Capital
+Fund L.P., Sands Brothers Venture Capital III LLC and their respective
+affiliates to amend the Convertible Notes and the warrants to purchase common
+shares that were issued in connection with the sale of the Convertible Notes in
+April and May 2002 to Crestview Capital Fund L.P., Sands Brothers Venture
+Capital III LLC and their respective affiliates. Under the agreement, the
+holders of the Convertible Notes agreed that on January 12, 2004 the remaining
+outstanding balance of 1,762,500 of the Convertible Notes would be
+automatically converted into a total of 1,174,999 common shares at a conversion
+price of 1.50 per common share. In consideration for the noteholders agreement
+to convert the Convertible Notes into common shares, we agreed to reduce the
+exercise price on the warrants to purchase common shares from 3.3186 per common
+share to an exercise price of 2.00 per common share.
+
+25
+
+ITEM 3. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
+
+ We are primarily exposed to market risks associated with
+fluctuations in interest rates and foreign currency exchange rates.
+
+INTEREST RATE RISKS
+
+ Our exposure to interest rate fluctuations relates primarily to our
+short-term investment portfolio and our bank loans. We invest our surplus cash
+in an investment trust established by a Canadian chartered bank and in a
+Certificate of Deposit in a bank in the United States. The investment trust
+holds various short-term, low-risk instruments, and can be withdrawn without
+penalty at any time. The interest income from these investments is subject to
+interest rate fluctuations which our management believes will not have a
+material impact on our financial position.
+
+ We have established a CDN 1,000,000 line of credit with the Bank of
+Montreal which bears interest at the bank's prime rate plus 1 . We have drawn
+CDN 812,707 on this facility as of November 30, 2003. We can draw an additional
+CDN 17,293 before additional collateral would be required. We also have a term
+loan with the bank in the amount of CDN 143,319 as of November 30, 2003. The
+term loan bears interest at the bank's prime rate plus 2 . Additionally, we have
+a letter of credit issued in May 2002 as collateral on leased facilities in the
+amount of CDN 270,000 that renews annually. We pay an annual fee of 1.2 on
+this letter of credit.
+
+ We also have a credit facility from Michael Mullarkey, our Chief
+Executive Officer, and Convertible Notes, both of which bear interest at 8.0 
+per annum. The terms of these financing instruments are fixed and therefore do
+not expose us to interest rate fluctuations.
+
+ The majority of our interest rates are fixed, and therefore we have
+limited exposure to risks associated with interest rate fluctuations.
+
+ The impact on net interest income of a 100 basis point adverse
+change in interest rates for the quarter ended November 30, 2003 would have been
+less than 14,000.
+
+FOREIGN CURRENCY RISK
+
+ We have monetary assets and liability balances denominated in
+Canadian Dollars. As a result, fluctuations in the exchange rate of the Canadian
+dollar against the U.S. dollar will impact our reported net asset position. A
+10 change in foreign exchange rates would result in a change in our reported
+net asset position of approximately 145,928.
+
+ITEM 4. CONTROLS AND PROCEDURES
+
+ As of November 30, 2003, our management, with the participation of
+our Chief Executive Officer and Chief Financial Officer carried out an
+evaluation of the effectiveness of our disclosure controls and procedures. Based
+on this evaluation, the Chief Executive Officer and Chief Financial Officer have
+concluded that our disclosure controls and procedures are effective to ensure
+that information required to be disclosed by us in reports that we file or
+submit under the Securities Exchange Act of 1934 is recorded, processed,
+summarized and reported within the time periods specified in the Securities and
+Exchange Commission rules and forms. There were no changes during the quarter
+ended November 30, 2003 that materially affected, or are reasonably likely to
+materially affect, our internal control over financial reporting.
+
+ There has been no change in our internal controls over financial
+reporting during our most recent fiscal quarter that has materially affected, or
+is reasonably likely to materially affect, our internal controls over financial
+reporting.
+
+26
+
+PART II - OTHER INFORMATION
+
+ITEM 2. CHANGES IN SECURITIES AND USE OF PROCEEDS
+
+ In September, 2003, we acquired certain assets of Perform, Inc., a
+Delaware corporation, in connection with Perform, Inc.'s voluntary petition for
+relief under Chapter 11 of the United States Bankruptcy Code. As consideration
+for the sale, we issued Perform, Inc. 189,873 of our common shares valued at
+ 300,000 and cash in an amount equal to 450,000. The common shares were issued
+to one investor in a transaction not involving a public offering. Such issuance
+was made in reliance on the exemption from registration provided by Section 4(2)
+of the Securities Act of 1933.
+
+ITEM 4. SUBMISSION OF MATTER TO A VOTE OF SECURITY HOLDERS
+
+ At the Company's annual and special meeting of shareholders on
+November 20, 2003, the shareholders of the Company voted on the following
+matters:
+
+ 1. Election of the nominees for directors of the Company as a group;
+
+ 2. Approval to issue common shares in an aggregate amount exceeding
+19.99 of the outstanding common shares pursuant to convertible notes, Class A
+Series A Preferred Shares and Warrants;
+
+ 3. The appointment of PricewaterhouseCoopers LLP as auditors of the
+Company; and
+
+ 4. In a resolution authorizing the directors to fix the remuneration
+of the auditors of the Company.
+
+ The shareholders approved the election of directors as a group. The
+shareholders elected Michael Mullarkey, Thomas Danis, Matthew Ebbs, Michael
+Gerrior, Arthur Halloran and Cholo Manso. The results of the voting were:
+15,255,546 For; 14,498 Against; no Abstentions; and no broker non-votes.
+
+ The shareholders approved the issuance of common shares in an
+aggregate amount exceeding 19.99 of the outstanding common shares pursuant to
+the Company's Convertible Notes, Class A Series A Preferred Shares and Warrants.
+The results of the voting were: 9,517,042 For; 110,988 Against; 66 Abstentions;
+and 5,584,448 broker non-votes.
+
+ The shareholders approved the appointment of PricewaterhouseCoopers
+LLP as auditors of the Company. The results of the voting were: 15,268,372 For;
+1,450 Against; 222 Abstentions; and no broker non-votes.
+
+ The shareholders approved a resolution authorizing the directors to
+fix the remuneration of the auditors of the Company. The results of the voting
+were: 15,258,024 For; 11,298 Against; 722 Abstentions; and no broker non-votes.
+
+27
+
+ITEM 6. EXHIBITS AND REPORTS ON FORM 8-K
+
+ (a) Exhibits
+
+ Exhibit No. Description
+
+ 10.1 Asset Purchase Agreeement dated as of July 14,
+ 2003 by and between Perform, Inc. and Workstream
+ Inc.
+
+ 31.1 Certifications pursuant to Rule
+ 13a-14(a)/15d-14(a).
+
+ 32.1 Certification pursuant to 18 U.S.C. Section 1350.
+
+ (b) Reports on Form 8-K
+
+ None.
+
+SIGNATURES
+
+ Pursuant to the requirements of the Securities Exchange
+Act of 1934, the registrant has duly caused this report to be signed on its
+
+behalf by the undersigned thereunto duly authorized.
+
+Workstream Inc.
+ (Registrant)
+
+DATE: January 14, 2004 By: /s/ Michael Mullarkey
+ -------------------------------------------------
+ Michael Mullarkey,
+ Chairman of the Board and Chief Executive Officer
+ (Principal Executive Officer)
+
+DATE: January 14, 2004 By: /s/ David Polansky
+ -------------------------------------------------
+ David Polansky,
+ Chief Financial Officer and Secretary
+ (Principal Financial Officer)
+
+28
+
+<EX-10.1>
+ 3
+ v01242_ex10-1.txt
+
+EXHIBIT 10.1
+
+[NOTE: THIS AGREEMENT WAS MODIFIED TO CHANGE THE VALUE OF THE SHARES OF COMMON
+STOCK IN SECTION 2.2(i) FROM 450,000 TO 300,000 AND THE AMOUNT OF CASH IN
+SECTION 2.2(ii) FROM 300,000 TO 450,000.]
+
+ ASSET PURCHASE AGREEMENT
+
+ THIS ASSET PURCHASE AGREEMENT, dated as of July 14, 2003 by
+and between Perform, Inc., a Delaware corporation ("Seller"), and Workstream
+Inc., a Canadian corporation ("Purchaser").
+
+ RECITALS
+
+ WHEREAS, Seller filed a voluntary petition for relief under Chapter 11
+of the Bankruptcy Code (as defined below) on June 24, 2003. Since that time
+Seller has remained in possession of its property and has continued to operate
+its business pursuant to Sections 1107 and 1108 of the Bankruptcy Code. Seller's
+Chapter 11 case is currently pending before the United States Bankruptcy Court
+for the Southern District of New York (the "Bankruptcy Court") in re Perform,
+Inc., Case No. 03-B-14137 (CB) (the "Bankruptcy Case").
+
+ WHEREAS, Purchaser desires to purchase, and Seller desires to sell, the
+Property (as hereinafter defined) upon the terms and subject to the conditions
+set forth in this Agreement.
+
+ NOW, THEREFORE, in consideration of the mutual covenants and agreements
+set forth herein (the receipt and sufficiency of which are hereby acknowledged)
+and in reliance upon the representations and warranties contained herein, the
+parties hereto covenant and agree as follows:
+
+ ARTICLE 1
+
+ CERTAIN DEFINITIONS
+
+ As used in this Agreement, the following terms shall have the
+following designated meanings:
+
+1
+
+"Affiliate" as applied to any Person, means any Person
+controlling, controlled by or under common control with such Person. For the
+purposes of this Agreement "control" shall include, without limitation, the
+ownership of 50 or more of the outstanding equity or ownership interests,
+including, without limitation, limited partnership interests, in another entity.
+
+ "Agreement" means this Asset Purchase Agreement, including the
+exhibits and the schedules attached hereto.
+
+ "Authorized Officer" of any Person means the chief executive
+officer, the president or any vice president or secretary of such Person who has
+been authorized by requisite action to act on behalf of such Person.
+
+ "Bankruptcy Case" has the meaning set forth in the recitals
+hereof.
+
+ "Bankruptcy Code" means Title 11 and applicable portions of
+Titles 18 and 28 of the United States Code, as amended from time to time.
+
+ "Bankruptcy Court" has the meaning set forth in the recitals
+hereof.
+
+ "Business Day" means any day other than a Saturday or Sunday
+or any day on which banks in New York, NY are not open for business.
+
+ "Closing" has the meaning set forth in Article 3.1 hereof.
+
+ "Closing Date" means the date of consummation of the
+transactions contemplated by this Agreement which shall be no more than five (5)
+days after the date of entry of the Sale Order.
+
+ "Competition Act Approval" has the meaning set forth in
+Article 5.10 hereof.
+
+ "Execution Date" means the date first written above.
+
+ "Governmental Authority" means any federal, provincial, state,
+regional or municipal government or other political subdivision thereof and any
+entity or Person of competent jurisdiction exercising executive, legislative,
+judicial, regulatory or administrative functions of, or pertaining to
+government.
+
+ "Liens" has the meaning set forth in Article 6.5 hereof.
+
+2
+
+"Material Adverse Effect" means any change, event, violation,
+inaccuracy, circumstance or effect, individually or when aggregated with other
+changes, events, violations, inaccuracies, circumstances or effects that is or
+would reasonably be expected to be materially adverse to or have a material
+adverse effect on the business, assets (including, without limitation,
+intangible assets), capitalization, condition, liabilities, financial
+performance, results of operations or prospects of the business of the Seller
+taken as a whole.
+
+ "Person" means any natural person, corporation, general
+partnership, limited partnership, limited liability partnership, limited
+liability company, trust, union, association, court, agency, government,
+tribunal, instrumentality, or other entity or authority.
+
+ "Property" shall be those assets described on Schedule "A"
+hereto.
+
+ "Purchase Price" has the meaning set forth in Article 2.2
+hereof.
+
+ "Sale Hearing" means the hearing of the Bankruptcy Court
+related to the approval of the proposed sale of the Property by Seller.
+
+ "Sale Motion" means the motion to be filed with the Bankruptcy
+Court seeking approval of the sale of the Property to Purchaser.
+
+ "Sale Order" means the order to be entered by the Bankruptcy
+Court pursuant to Sections 363 of the Bankruptcy Code authorizing the sale of
+the Property to Purchaser.
+
+ ARTICLE 2
+
+ THE TRANSACTION
+
+ ARTICLE 2.1 Purchase and Sale of Property. On the terms and
+subject to the conditions contained in this Agreement and the Sale Order, on the
+Closing Date, Purchaser shall purchase from Seller, and Seller shall sell,
+convey, assign, transfer and deliver to Purchaser, free and clear of all Liens,
+all of Seller's right, title and interest in and to the Property.
+
+ ARTICLE 2.2 Purchase Price. As consideration for the Property,
+the Purchaser agrees on the Closing Date to:
+
+3
+
+(i) deliver to Seller that number of shares (rounded up to a whole share) of
+common stock, no par value, of the Purchaser, equal to 450,000 based on the
+average last sale price per share of the Purchaser quoted by the NASDAQ on its
+automated quotation system for the last five (5) trading days on which trading
+of shares of the Purchaser actually took place immediately preceding the Closing
+Date; and
+
+(ii) to deliver to the Seller the balance of 300,000 in cash minus the Wages
+(as defined below)
+
+((i) and (ii), collectively, the "Purchase Price").
+
+ ARTICLE 2.3 Payment of Employees and Contractors. The
+Purchaser agrees to offer to hire and pay the Seller's employees and contractors
+as of June 1, 2003 as contractors until the Closing Date (the "Interim Period").
+All monies paid by the Purchaser to such employees and contractors during the
+Interim Period (the "Wages") shall be deducted from the Purchase Price. Further,
+the Seller shall obtain an order, in form and substance satisfactory to the
+Purchaser, of the Bankruptcy Court that secures payment of the Wages against the
+Seller in priority to all other secured creditors of the Seller.
+
+ ARTICLE 2.4 Payment of taxes. The Seller shall be liable for
+and shall pay all applicable federal, provincial, state and city sales taxes,
+excise taxes and all other taxes, duties and other like charges properly payable
+on and in connection with the conveyance and transfer of the Property to the
+Purchaser.
+
+ ARTICLE 2.5 Breakup-Fee Bid Protection. If this Agreement is
+terminated by the Seller, other than (i) as a result of a breach of this
+Agreement by the Purchaser, or (ii) where the Purchaser has failed to fulfill a
+condition in favour of the Seller, and either the Seller or its representative
+or permitted assigns either (i) enters into an agreement within 120 days of such
+termination to sell the Property to a Person other than the Purchaser and that
+Person is not an Affiliate or designate of the Purchaser, or (ii) The Bankruptcy
+Court shall order the sale of the Property to a Person other than the Purchaser
+and that Person is not an Affiliate or designate of the Purchaser and such sale
+subsequently closes, then the Seller agrees to pay to the Purchaser forthwith on
+closing of such sale an amount equal to the actual out of pocket expenses of the
+Purchaser actually incurred in connection with this Agreement, including without
+limitation; (a) its legal and other professional fees up to ten percent (10 of
+the purchase price paid pursuant to such agreement, to a maximum amount of
+ 100,000; and (b) Wages paid by the Purchaser as provided in Article 2.3 hereof.
+The foregoing breakup fee is without derogation to any other rights and claims
+the Purchaser may have, all of which are hereby specifically preserved by the
+Purchaser.
+
+4
+
+ARTICLE 3
+
+ THE CLOSING
+
+ ARTICLE 3.1 Time and Place of Closing. The consummation of the
+transactions provided for in this Agreement (the "Closing") shall take place at
+a location mutually agreeable to the parties on the Closing Date, but subject to
+satisfaction of all of the conditions to Closing set forth in Article 5 and
+elsewhere in this Agreement.
+
+ ARTICLE 3.2 Deliveries by Seller. At the Closing, Seller shall
+deliver to Purchaser the following:
+
+ (A) the Sale Order;
+
+ (B) a bill of sale in form and substance reasonably
+ satisfactory to Purchaser, conveying to Purchaser all of
+ Seller's right, title and interest in and to the
+ Property;
+
+ (C) assignments executed by the Seller of all
+ Intellectual Property (as defined in Schedule "A")
+ hereto);
+
+ (D) all keys to all locks relating to the Property;
+
+ (E) a certificate executed by the Seller certifying that
+ the representations and warranties of the Seller are
+ true and correct in all material respects at the time of
+ Closing;
+
+ (F) any other instruments (either executed counterparts
+ or otherwise) reasonably required to permit the due
+ transfer of the Property, free and clear of all Liens,
+ each in form and substance reasonably satisfactory to
+ Purchaser; and
+
+ (G) all other documents, instruments and writings
+ reasonably required to be delivered by Seller at or
+ prior to the Closing Date pursuant to this Agreement or
+ otherwise required, or reasonably requested by
+ Purchaser, in connection herewith.
+
+5
+
+ARTICLE 3.3 Deliveries by Purchaser. At the Closing, Purchaser
+shall deliver the following:
+
+ (A) the Purchase Price;
+
+ (B) any other instruments (either executed
+ counterparts or otherwise) for the due transfer of the
+ Property to Purchaser, free and clear of all Liens, each
+ in form and substance reasonably satisfactory to Seller;
+
+ARTICLE 3.4 Possession. Seller shall deliver possession of,
+and Purchaser shall have the right to take possession of the Property, upon
+Closing. Except as otherwise expressly stated in this Agreement, Purchaser
+agrees to accept the Property in a "WHERE-IS, AS-IS" condition as of the Closing
+Date. Without limitation of the foregoing, (a) Seller and its agents, employees
+and other representatives have not and do not make any representations or
+warranties, express or implied, to Purchaser regarding the fair market value,
+physical condition or environmental condition of the Property, and (b) Purchaser
+acknowledges, represents and warrants to Seller that Purchaser has not been
+induced to execute this Agreement by any act, statement or representation of
+Seller or its agents, employees or other representatives not expressly set forth
+in this Agreement.
+
+ ARTICLE 3.5 Closing Costs. Seller shall pay for the
+preparation of the bill of sale and all other documents required for the
+conveyance herein contemplated.
+
+ ARTICLE 4
+
+ CONDITIONS TO SELLER'S OBLIGATIONS
+
+ Seller's obligation to consummate the transactions
+contemplated by this Agreement is subject to the satisfaction at or prior to the
+Closing Date of each of the following conditions.
+
+6
+
+ARTICLE 4.1 Representations, Warranties and Covenants. All
+representations and warranties of Purchaser contained in this Agreement shall be
+true and correct at and as of the Closing Date, as if such representations and
+warranties were made at and as of the Closing Date and Purchaser shall have
+performed all agreements and covenants required by this Agreement to be
+performed by it prior to or at the Closing Date.
+
+ ARTICLE 4.2 No Litigation. There shall be no litigation or
+proceedings pending or threatened in writing by any Person against the Seller or
+the Purchaser for the purpose of enjoining, preventing or restraining the
+completion of the transactions contemplated by this Agreement.
+
+ ARTICLE 4.3 Sale Order. The Bankruptcy Court shall have
+entered the Sale Order.
+
+ Each of the preceding conditions shall be satisfied and may be
+waived by Seller, but only if such waiver is set forth in a writing executed by
+Seller, which may be done without further order of the Bankruptcy Court, if
+permitted by law, and without notice to any other Person. If any of the
+preceding conditions shall not be satisfied, and is not waived by Seller, Seller
+may terminate this Agreement,
+
+ ARTICLE 5
+
+ CONDITIONS TO PURCHASER'S OBLIGATIONS
+
+ Purchaser's obligation to consummate the transactions
+contemplated by this Agreement is subject to the satisfaction at or prior to the
+Closing Date of each of the following conditions.
+
+ ARTICLE 5.1 Representations, Warranties and Covenants. All
+representations and warranties of Seller contained in this Agreement shall be
+true and correct in all material respects at and as of the Closing Date as if
+such representations and warranties were made at and as of the Closing Date and
+Seller shall have performed all agreements and covenants required by this
+Agreement to be performed by it prior to or at the Closing Date in all material
+respects.
+
+ ARTICLE 5.2 No Litigation. There shall be no litigation or
+proceedings pending or threatened in writing by any Person against the Seller or
+the Purchaser for the purpose of enjoining, preventing or restraining the
+completion of the transactions contemplated by this Agreement.
+
+7
+
+ARTICLE 5.3 Sale Order. The Bankruptcy Court shall have
+entered the Sale Order in form and substance satisfactory to the Purchaser.
+
+ ARTICLE 5.4 Title to Property. Seller shall deliver good and
+marketable title to the Property, free and clear of all Liens with all liens, if
+any to attach to the proceeds of sale.
+
+ ARTICLE 5.5 Closing Deliveries. The deliveries required by
+Article 3.2 hereof shall have been delivered.
+
+ ARTICLE 5.6 Material Damage. No material damage by fire or
+other hazard to the assets or business of the Seller shall have occurred prior
+to the Closing.
+
+ ARTICLE 5.7 No Laws. No laws shall have been enacted,
+introduced or announced which would be reasonably likely to have a Material
+Adverse Effect.
+
+ ARTICLE 5.8 No Material Adverse Effect. There shall have been
+no Material Adverse Effect with respect to the assets or the business of the
+Seller after the date hereof.
+
+ ARTICLE 5.9 No Prohibitions. No Governmental Authority or
+court or tribunal shall have enacted, issued, promulgated, enforced or entered
+any statute, rule, regulation, injunction or other governmental order (whether
+temporary, preliminary or permanent) which is in effect and has the effect of
+making the transactions contemplated by this Agreement illegal or otherwise
+restraining or prohibiting consummation of such transactions or which would
+otherwise materially adversely affect or interfere with the operation of the
+business of the Seller following Closing.
+
+ ARTICLE 5.10 Competition Act Approval and Regulatory Approval.
+The Purchaser shall have received competition act approval ("Competition Act
+Approval"), pursuant to the Competition Act (Canada) and/or similar legislation
+of the United States and any other required regulatory approval ("Regulatory
+Approval"), or have determined to its sole satisfaction that the Competition Act
+Approval and/or Regulatory Approval is not required.
+
+8
+
+Each of the preceding conditions shall be satisfied and may be
+waived by Purchaser, but only if such waiver is set forth in a writing executed
+by Purchaser or Purchaser closes the transaction with respect to such Property.
+If one of the preceding conditions shall not be satisfied and is not waived by
+Purchaser (or deemed waived by Purchaser's closing the transaction), Purchaser
+may terminate this Agreement and shall have no further liability to the Seller.
+
+ ARTICLE 6
+
+ REPRESENTATIONS AND WARRANTIES OF SELLER
+
+ Seller hereby represents and warrants to Purchaser as follows:
+
+ ARTICLE 6.1 Due Incorporation, Etc. Seller is a corporation
+validly existing and in good standing under the laws of the jurisdiction of its
+incorporation and, subject to any required approval of the Bankruptcy Court, has
+the corporate power and authority and all necessary governmental approvals to
+own, lease and operate its properties and to carry on its business as it is now
+being conducted or presently proposed to be conducted.
+
+ ARTICLE 6.2 Authorization, No Conflicts, Etc. Subject to the
+entry and effectiveness of the Sale Order, (a) Seller has the corporate power
+and authority to enter into this Agreement and to carry out its obligations
+hereunder, (b) the execution, delivery and performance of this Agreement by
+Seller and the consummation by the Seller of the transactions contemplated
+thereby have been duly authorized by all requisite corporate action and (c) this
+Agreement has been duly and validly executed and delivered by Seller and
+(assuming this Agreement constitutes a valid and binding obligation of the
+Purchaser) constitutes a valid and binding agreement of Seller, enforceable
+against Seller in accordance with its terms, subject to applicable bankruptcy,
+reorganization, insolvency, moratorium and other laws affecting creditor's
+rights generally from time to time in effect and to general equitable
+principles.
+
+ ARTICLE 6.3 Consents and Approvals. No consent, approval or
+authorization of, or declaration, filing, or registration with, any United
+States federal or state governmental or regulatory authority is required to be
+made or obtained by Seller in connection with the execution, delivery and
+performance of this Agreement and the consummation of the transactions
+contemplated hereby, except (a) for consents, approvals, or authorizations of,
+or declarations or filings with, the Bankruptcy Court, and (b) for consents,
+approvals, authorizations, declarations, filings or registrations, which, if not
+obtained, would not, individually or in the aggregate, have a Material Adverse
+Effect on the transactions contemplated by this Agreement.
+
+9
+
+ARTICLE 6.4 Litigation. To Seller's knowledge, there are no
+circumstances or facts that would prevent Seller from engaging in the
+transactions contemplated in this Agreement.
+
+ ARTICLE 6.5 Property. At closing, (a) subject to entry of the
+Sale Order by the Bankruptcy Court, Seller shall have good and marketable title
+to the Property, free and clear of all liens, security interests and
+encumbrances (but excluding encumbrances that will be released at Closing by
+payment or order, whether contained in the Sale Order or otherwise, of the
+Bankruptcy Court) (collectively "Liens") and, (b) Seller shall be the owner of
+the Property with the ability to convey such assets to the Purchaser.
+
+ ARTICLE 7
+
+ REPRESENTATIONS AND WARRANTIES OF PURCHASER
+
+ Purchaser hereby represents and warrants to Seller as follows:
+
+ ARTICLE 7.1 Financial Ability. Purchaser has the financial
+resources to consummate the transactions contemplated herein and pay the
+Purchase Price.
+
+ ARTICLE 7.2 Due Incorporation, Etc. Purchaser is a corporation
+duly organized, validly existing and in good standing under the laws of Canada.
+
+ ARTICLE 7.3 Authorization, No Conflicts, Etc. Purchaser has
+the corporate power and authority to enter into this Agreement and to carry out
+its obligations hereunder. The execution, delivery and performance of this
+Agreement by Purchaser and the consummation by Purchaser of the transactions
+contemplated thereby have been duly authorized by all requisite corporate
+action. This Agreement has been duly and validly executed and delivered by
+Purchaser and (assuming this Agreement constitutes a valid and binding
+obligation of the Seller) constitutes a valid and binding agreement of
+Purchaser, enforceable against Purchaser in accordance with its terms.
+
+10
+
+ARTICLE 7.4 Governmental Consents. Apart from any Competition
+Act Approval and Regulatory Approval, as contemplated by Article 5.10 hereof,
+which may be required, no material consent, approval or authorization of, or
+registration, qualification or filing with, any governmental agency or
+Governmental Authority is required for the execution and delivery by the
+Purchaser of this Agreement or for the consummation by the Purchaser of the
+transactions contemplated hereby or thereby.
+
+ ARTICLE 7.5 Litigation. To Purchaser's knowledge, there are no
+circumstances or facts that would prevent Purchaser from engaging in the
+transactions contemplated in this Agreement.
+
+ No representations or warranties in this Agreement or in any
+instrument delivered pursuant to this Agreement shall survive beyond the Closing
+Date.
+
+ ARTICLE 8
+
+ COVENANTS PRIOR TO CLOSING
+
+ ARTICLE 8.1 Affirmative Covenants Pending Closing. Except as
+expressly set forth below, during the period from the date hereof to the Closing
+Date, Seller covenants and agrees that it shall, unless otherwise agreed with
+Purchaser:
+
+ (A) Maintain the Property in the same condition as
+ it is as of the Effective Date, subject only to ordinary
+ wear and tear; and
+
+ (B) Use reasonable efforts to cause any injunction
+ or stay order that prohibits the consummation of the
+ transaction contemplated hereby to be lifted.
+
+ ARTICLE 8.2 Negative Covenants Pending Closing. Except as
+expressly permitted herein, Seller shall not, without the consent of Purchaser
+(which consent shall not be unreasonably withheld or delayed):
+
+ (A) Encumber, sublease or otherwise grant any
+ rights with respect to the Property, except in the
+ ordinary course of business.
+
+11
+
+(B) Enter into any contracts or agreements
+ affecting the Property which cannot be terminated on
+ less than sixty (60) days notice.
+
+ ARTICLE 8.3 Consents and Further Actions. Subject to the terms
+and conditions herein provided, Seller and Purchaser covenant and agree to use
+commercially reasonable efforts (which shall not include the expenditure of any
+amounts which are not customarily required) to take, or cause to be taken, all
+action, or do, or cause to be done, all things, necessary, proper or advisable
+under applicable laws and regulations to consummate and make effective the
+transactions contemplated by this Agreement, including all closing conditions to
+be satisfied.
+
+ ARTICLE 9
+
+ COVENANTS AFTER CLOSING
+
+ ARTICLE 9.1 Taxes, Recording Charges, Escrow Fee, Prorations.
+All taxes and other expenses relating to the Property and its continued use of
+whatsoever kind or nature customarily prorated in transactions similar to the
+transactions contemplated by this Agreement (based upon the most recent
+ascertainable bills if current bills and/or information are not available)
+relating to the Property due and payable after the Closing (i) which relate to
+periods prior to and including the Closing shall be the responsibility of Seller
+and (ii) which relate to periods after the Closing shall be the responsibility
+of Purchaser and shall be prorated at the Closing with respect to the Property.
+All transfer, documentary or deed stamps or other fees arising out of the sale
+of the Property or otherwise incurred in connection with this Agreement or the
+consummation of the transactions contemplated hereby and all charges for or in
+connection with the recording of any document or instrument contemplated hereby
+shall be the responsibility of Seller when due. Seller will, at its expense,
+file all necessary tax returns and other documentation in connection with the
+taxes and fees encompassed in this Article 9.1.
+
+ ARTICLE 9.2 Exemption from Taxes. Transfer taxes due in
+connection with the transactions contemplated by this Agreement shall be
+calculated assuming that no exemption is available, unless otherwise provided in
+the Sale Order. Notwithstanding the foregoing, the Sale Motion shall seek, among
+other things, that the Sale Order contain a provision that the sale, transfer,
+assignment and conveyance of the Property to Purchaser shall be entitled to the
+protections afforded under Section 1146(c) of the Bankruptcy Code.
+
+12
+
+ARTICLE 10
+
+ BANKRUPTCY COURT APPROVAL
+
+ ARTICLE 10.1 In accordance with the applicable provisions of
+the Bankruptcy Code the Seller will make application to the Bankruptcy Court for
+authority to implement this agreement and to obtain a Sale Order.
+
+ ARTICLE 10.2 It is understood and agreed that the Bankruptcy
+Court may impose requirements upon the Seller before a Sale Order may be
+entered. Included among such requirements, without limitation, may be
+requirements to:
+
+ (A) Advertise the hearing on the application for
+ the Sale Order;
+
+ (B) Permit other higher and better offers for the
+ Property to be submitted by other Persons;
+
+ (C) Enter a Sale Order approving the sale of the
+ Property to another Person;
+
+ (D) Disallow the sale hereby contemplated; and
+
+ (E) Take such other steps or make such other
+ orders at it shall deem appropriate.
+
+ ARTICLE 11
+
+ MISCELLANEOUS
+
+ ARTICLE 11.1 Termination. This Agreement may be terminated and
+the transactions contemplated hereby may be abandoned at any time, but not later
+than the Closing Date:
+
+13
+
+(a) by mutual consent of Purchaser and Seller;
+
+ (b) by Purchaser or Seller if Purchaser or Seller, as the case may
+ be, is in breach of this Agreement or has failed to satisfy any
+ condition to Closing in Article 5 hereof that Purchaser or Seller or
+ their respective affiliates were required to satisfy and that the
+ said default has not been remedied or the condition has not been
+ waived or the allotted time for satisfaction of such conditions has
+ not been extended, as provided in this Agreement;
+
+ (c) by Purchaser or Seller if the Bankruptcy Court shall not have
+ approved the Sale Order on or before September 1, 2003; or
+
+ (d) the earlier of (A) three (3) business days after the
+ consummation of the sale of the Property to a purchaser other than
+ Purchaser and (B) thirty-one (31) days after the Sale Hearing.
+
+ In the event of the termination of this Agreement as above
+provided, except as a result of a default by Purchaser or Seller and except for
+any willful breach by any party hereto of such party's representations,
+warranties or covenants, (i) this Agreement shall immediately become void,
+except for Article 2.5 which shall survive the termination under any and all
+circumstances wherein this Agreement is terminated for any reason whatsoever,
+(ii) each party shall bear its own expenses which shall also survive the
+termination of this Agreement. In the event that a condition precedent to its
+obligation is not met, nothing contained herein shall be deemed to require any
+party to terminate this Agreement rather than to waive (without further
+Bankruptcy Court order or notice to any Person) such condition precedent and
+proceed with the Closing.
+
+ ARTICLE 11.2 Risk, Casualty and Condemnation. Until Closing,
+the Property shall remain at the risk of the Seller and the Seller shall hold
+all existing, required and/or necessary insurance policy or policies in effect
+on the Property and the proceeds in trust for itself, the Purchaser and all
+other Persons with an interest in the Property as their respective interests may
+appear.
+
+14
+
+11.2.1 In the event of damage to a material portion of the
+Property prior to the time of Closing, Seller shall immediately notify Purchaser
+of such event and the Purchaser may, at its option:
+
+ (a) complete the transactions contemplated herein without
+ reduction of the Purchase Price in which event all proceeds of
+ insurance or compensation shall be payable to the Purchaser;
+ or
+
+ (b) rescind this Agreement without penalty in which case, the
+ Purchaser and the Seller shall have no further rights or
+ remedies against each other.
+
+ 11.2.2 In the event of nonmaterial damage to the Property that
+is otherwise uninsured, which damage Seller is unwilling to repair prior to
+Closing, Purchaser shall be entitled to a reduction in the Purchase Price to the
+extent of the cost of repairing such damage, as reasonably agreed to by the
+parties.
+
+ ARTICLE 11.3 Successors and Assigns. This Agreement will inure
+to the benefit of and be binding upon the successors and assigns of each of the
+parties hereto and their respective successors and assigns.
+
+ ARTICLE 11.4 Assignment. The parties hereto may not assign any
+of its duties or obligations hereunder without the prior written consent of the
+other, which consent shall not be unreasonably withheld.
+
+ ARTICLE 11.5 Default and Remedies. Subject to the remedy
+limitations contained elsewhere in this Agreement, in the event of a default
+hereunder by Seller, Purchaser may (i) cancel this Agreement by written notice
+to Seller or (ii) proceed with whatever steps Purchaser deems necessary in order
+to enforce its rights and remedies under this Agreement, at law or in equity
+including, without limitation, the right to seek specific performance or recover
+monetary damages for the breach of this Agreement.
+
+ In the event of a default hereunder by Purchaser, Seller may
+(i) cancel this Agreement by written notice to Purchaser and/or (ii) proceed
+with whatever steps Seller deems necessary in order to enforce its rights and
+remedies under this Agreement, at law or in equity including, without
+limitation, the right to seek specific performance or recover monetary damages
+for the breach of this Agreement. Subject to the remedy limitations contained in
+this Agreement, no remedy herein or otherwise conferred upon Seller or Purchaser
+shall be considered exclusive of any other remedy, but the same shall be
+cumulative and shall be in addition to every other remedy given hereunder or now
+or hereafter existing at law, in equity or by statute.
+
+15
+
+ARTICLE 11.6 Notices. All notices and other communications
+hereunder shall be in writing and shall be deemed to have been duly given if
+delivered personally or mailed, by certified or registered mail, return receipt
+requested, first class postage prepaid, or by Federal Express or some other
+reputable overnight carrier, to the parties at the following addresses:
+
+ If to the Purchaser: Workstream Inc.
+ 495 March Road, Suite 300
+ Ottawa, ON K2K 3G1
+ Attn: Michael F. Mullarkey
+
+ With a copy (which shall not
+ constitute notice hereunder) to:
+
+ Michael A. Gerrior
+ Perley-Robertson,
+ Hill & McDougall LLP
+ 90 Sparks Street, Suite 400
+ Ottawa, ON K1P 1E2
+
+ If to the Seller: Perform, Inc.
+ 28 West 27th Street
+ New York, N.Y. 10001
+
+ Attention: Michael Alfano
+
+ With a copy (which shall not
+ constitute notice hereunder) to:
+
+ Feder, Kaszovitz,
+ Isaacson, Weber, Skala,
+ Bass & Rhines LLP
+ 750 Lexington Avenue
+ New York, N.Y. 10022
+
+ Attention: Ronald S. Itzler
+
+16
+
+or to such other place and with such other copies as any party may designate by
+written notice to this other party.
+
+ ARTICLE 11.7 Expenses. Except as otherwise provided in this
+Agreement, each party hereto shall pay its own expenses, including attorneys'
+and accountants' fees, in connection with this Agreement, the performance of its
+obligations hereunder and the consummation of the transactions contemplated
+hereby. Notwithstanding the foregoing, if any action is brought by either party
+against the other party, the prevailing party shall be entitled to recover court
+costs incurred and reasonable attorneys' fees and costs.
+
+ ARTICLE 11.8 Brokerage Commissions and Fees. Purchaser
+warrants and represents that it has not engaged any broker(s), in connection
+with the transactions contemplated by this Agreement, and agrees that should any
+claim be made for commissions or fees by any broker(s) claiming through
+Purchaser against Seller, Purchaser will indemnify and hold the Seller free and
+harmless from and against any and all loss, liability and expenses in connection
+therewith. Seller warrants and represents that it has not engaged any broker(s),
+in connection with the transactions contemplated by this Agreement, and agrees
+that should any claim be made for commissions or fees by any broker(s) claiming
+through Seller against Purchaser, Seller will indemnify and hold the Purchaser
+free and harmless from and against any and all loss, liability and expenses in
+connection therewith. Notwithstanding anything contained herein to the contrary,
+the provisions of this Article 11.8 shall survive Closing.
+
+ ARTICLE 11.9 Entire Agreement. This Agreement supersedes all
+prior discussions and agreements between the parties with respect to the subject
+matter hereof and this Agreement, including the schedules and exhibits hereto,
+and other documents to be delivered in connection herewith (together with such
+confidentiality letter), contains the sole and entire agreement between the
+parties hereto with respect to the subject matter hereof.
+
+ ARTICLE 11.10 Waiver. Any term or condition of this Agreement
+may be waived at any time by the party which is entitled to the benefit thereof.
+To be effective, each such waiver shall be in writing, shall specifically refer
+to this Agreement and the term or condition being waived, and shall be executed
+by an Authorized Officer of such party. A waiver on one occasion shall not be
+deemed to be a waiver of the same or any other breach on a future occasion. A
+waiver hereunder shall be effective without an order of the Bankruptcy Court, or
+notice to the Bankruptcy Court or any Person, in relation to such waiver.
+
+17
+
+ARTICLE 11.11 Amendment. This Agreement may be modified or
+amended only in a writing duly executed by or on behalf of each of the parties
+hereto.
+
+ ARTICLE 11.12 Counterparts. This Agreement may be executed in
+one or more counterparts, each of which shall be deemed an original, but all of
+which together shall constitute one and the same instrument.
+
+ ARTICLE 11.13 Invalid Provisions. If any provision of this
+Agreement is held to be illegal, invalid, or unenforceable under any present or
+future law, rule, or regulation, such provision shall be fully severable and
+this Agreement shall be construed and enforced as if such illegal, invalid, or
+unenforceable provision had never comprised a part hereof. The remaining
+provisions of this Agreement shall remain in full force and effect, and shall
+not be affected by the illegal, invalid, or unenforceable provision or by its
+severance herefrom. Furthermore, in lieu of such illegal, invalid, or
+unenforceable provision, there shall be added automatically as a part of this
+Agreement a legal, valid, and enforceable provision as similar in terms to such
+illegal, invalid, or unenforceable provision as may be possible.
+
+ ARTICLE 11.14 Headings, Gender, Etc. The headings used in this
+Agreement have been inserted for convenience and do not constitute matter to be
+construed or interpreted in connection with this Agreement. Unless the context
+of this Agreement otherwise requires, (a) words of any gender shall be deemed to
+include each other gender, (b) words using the singular or plural number shall
+also include the plural or singular number, respectively, (c) references to
+"hereof," herein," "hereby" and similar terms shall refer to this entire
+Agreement, and (d) each reference to Seller shall be a reference to any of its
+subsidiaries and predecessors and each representation, warranty, covenant and
+other agreement made herein with respect to Seller shall be deemed made with
+respect to all such subsidiaries and predecessors. The language used in this
+Agreement shall be deemed to be the language chosen by the parties hereto to
+express their mutual intent and no rule of strict construction shall be applied
+against any Person.
+
+18
+
+ARTICLE 11.15 Continuing Jurisdiction. The parties agree that
+the Bankruptcy Court shall retain jurisdiction over the enforcement of this
+Agreement including, but not limited to, the performance of the obligations and
+transactions contemplated hereunder.
+
+ ARTICLE 11.16 Choice of Law. This Agreement shall be
+construed, interpreted and the rights of the parties determined in accordance
+with the laws of the State where the Property is located, without regard to
+conflicts of laws principles thereof, except with respect to matters of law
+concerning the internal corporate affairs of any corporation or limited
+liability company which is a party to or the subject of this Agreement, and as
+to those matters the law of the jurisdiction of incorporation or organization of
+such entity shall govern.
+
+ ARTICLE 11.17 No Third Party Beneficiary. Nothing herein
+expressed or implied is intended or shall be construed to confer upon or give to
+any Person, firm or corporation, other than the parties hereto and their
+respective permitted successors and assigns, any rights or remedies under or by
+reason of this Agreement.
+
+ ARTICLE 11.18 Currency. Unless otherwise expressly stipulated
+herein, all dollar amounts referred to in this Agreement are in American
+dollars, that is, lawful currency of the United States of America.
+
+ IN WITNESS WHEREOF, each of the parties hereto has caused this
+Agreement to be duly executed as of the day year first above written.
+
+PERFORM, INC.
+
+ By: /s/ Michael J. Alfano
+ -------------------------------
+ Name: Michael J. Alfano
+ Title: Chief Executive Officer
+
+ I have authority to bind the
+ corporation.
+
+ WORKSTREAM, INC.
+
+ By: /s/ Michael F. Mullarkey
+ -------------------------------
+ Name: Michael F. Mullarkey
+ Title: President
+
+ I have authority to bind the
+ corporation.
+
+19
+
+SCHEDULE "A"
+
+ PROPERTY TO BE PURCHASED
+
+ Subject to the terms and conditions of this Agreement and the Sale
+Order, on the Closing Date the Seller shall sell, transfer, assign and convey to
+the Purchaser all of the right, title and interest of the Seller, in and to the
+following assets relating to the operation of the Seller's business:
+
+(a) all cash in the Seller's bank accounts;
+
+(b) all accounts receivable, bills receivable, trade accounts, book debts and
+insurance claims of the Seller together with any unpaid interest accrued on such
+items and any security or collateral for such items, including, without
+limitation, recoverable deposits;
+
+(c) all deposits and prepaid expenses;
+
+(d) all inventories of the Seller including, without limiting the generality of
+the foregoing, all finished goods, work in process, raw materials and all other
+materials and supplies on hand to be used or consumed in the production of
+products;
+
+(e) all intellectual property of the Seller including, without limiting the
+generality of the foregoing, all the right, title and interest of the Sellor in
+and to all registered and unregistered trade marks, trade or brand names,
+service marks, copyrights, designs, inventions, patents, patent applications,
+patent rights (including any patents pending on such applications or rights),
+licences, sub-licences, franchises, formulae, processes, technology, trade
+secrets, and other industrial property (the "Intellectual Property");
+
+(f) the full benefit of all unfilled orders received by the Seller and all other
+contracts, engagements or commitments, as the Purchaser, at its sole discretion,
+may chose to retain, to which the Seller is entitled; and
+
+(g) all the customer lists (current and past) and the goodwill relating to the
+Seller business, together with the exclusive right to the Purchaser to represent
+itself as carrying on the Business in continuation of and in succession to the
+Seller and the right to use any words indicating that the Seller's business is
+so carried on.
+
+20
+
+</EX-10.1>
+
+<EX-31.1>
+ 4
+ v01242_ex31-1.txt
+
+EXHIBIT 31.1
+
+ CERTIFICATION
+
+I, Michael Mullarkey, certify that:
+
+1. I have reviewed this quarterly report on Form 10-Q of Workstream Inc.;
+
+2. Based on my knowledge, this report does not contain any untrue statement of a
+material fact or omit to state a material fact necessary to make the statements
+made, in light of the circumstances under which such statements were made, not
+misleading with respect to the period covered by this report;
+
+3. Based on my knowledge, the financial statements, and other financial
+information included in this report, fairly present in all material respects the
+financial condition, results of operations and cash flows of the registrant as
+of, and for, the periods presented in this report;
+
+4. The registrant's other certifying officer and I are responsible for
+establishing and maintaining disclosure controls and procedures (as defined in
+Exchange Act Rules 13a-15(e) and 15d-15(e)) for the registrant and we have:
+
+ (a) Designed such disclosure controls and procedures, or caused such
+disclosure controls and procedures to be designed under our supervision, to
+ensure that material information relating to the registrant, including its
+consolidated subsidiaries, is made known to us by others within those entities,
+particularly during the period in which this report is being prepared;
+
+ (b) Evaluated the effectiveness of the registrant's disclosure controls and
+procedures and presented in this report our conclusions about the effectiveness
+of the disclosure controls and procedures, as of the end of the period covered
+by this report based on such evaluation; and
+
+ (c) Disclosed in this report any change in the registrant's internal
+control over financial reporting that occurred during the registrant's most
+recent fiscal quarter (the registrant's fourth fiscal quarter in the case of an
+annual report) that has materially affected, or is reasonably likely to
+materially affect, the registrant's internal control over financial reporting;
+and
+
+5. The registrant's other certifying officer and I have disclosed, based on our
+most recent evaluation of internal control over financial reporting, to the
+registrant's auditors and the audit committee of registrant's board of directors
+(or persons performing the equivalent functions):
+
+ (a) All significant deficiencies and material weaknesses in the design or
+operation of internal control over financial reporting which are reasonably
+likely to adversely affect the registrant's ability to record, process,
+summarize and report financial information; and
+
+ (b) Any fraud, whether or not material, that involves management or other
+employees who have a significant role in the registrant's internal control over
+financial reporting.
+
+Date: January 14, 2004
+
+ /s/ Michael Mullarkey
+ -----------------------------------
+ Michael Mullarkey
+ Chief Executive Officer
+
+CERTIFICATION
+
+I, David Polansky, certify that:
+
+1. I have reviewed this quarterly report on Form 10-Q of Workstream Inc.;
+
+2. Based on my knowledge, this report does not contain any untrue statement of a
+material fact or omit to state a material fact necessary to make the statements
+made, in light of the circumstances under which such statements were made, not
+misleading with respect to the period covered by this report;
+
+3. Based on my knowledge, the financial statements, and other financial
+information included in this report, fairly present in all material respects the
+financial condition, results of operations and cash flows of the registrant as
+of, and for, the periods presented in this report;
+
+4. The registrant's other certifying officer and I are responsible for
+establishing and maintaining disclosure controls and procedures (as defined in
+Exchange Act Rules 13a-15(e) and 15d-15(e)) for the registrant and we have:
+
+ (a) Designed such disclosure controls and procedures, or caused such
+disclosure controls and procedures to be designed under our supervision, to
+ensure that material information relating to the registrant, including its
+consolidated subsidiaries, is made known to us by others within those entities,
+particularly during the period in which this report is being prepared;
+
+ (b) Evaluated the effectiveness of the registrant's disclosure controls and
+procedures and presented in this report our conclusions about the effectiveness
+of the disclosure controls and procedures, as of the end of the period covered
+by this report based on such evaluation; and
+
+ (c) Disclosed in this report any change in the registrant's internal
+control over financial reporting that occurred during the registrant's most
+recent fiscal quarter (the registrant's fourth fiscal quarter in the case of an
+annual report) that has materially affected, or is reasonably likely to
+materially affect, the registrant's internal control over financial reporting;
+and
+
+5. The registrant's other certifying officer and I have disclosed, based on our
+most recent evaluation of internal control over financial reporting, to the
+registrant's auditors and the audit committee of registrant's board of directors
+(or persons performing the equivalent functions):
+
+ (a) All significant deficiencies and material weaknesses in the design or
+operation of internal control over financial reporting which are reasonably
+likely to adversely affect the registrant's ability to record, process,
+summarize and report financial information; and
+
+ (b) Any fraud, whether or not material, that involves management or other
+employees who have a significant role in the registrant's internal control over
+financial reporting.
+
+Date: January 14, 2004
+
+ /s/ David Polansky
+ -----------------------------------
+ David Polansky
+ Chief Financial Officer
+
+</EX-31.1>
+
+<EX-32.1>
+ 5
+ v01242_ex32-1.txt
+
+EXHIBIT 32.1
+
+CERTIFICATION PURSUANT TO
+ 18 U.S.C. SECTION 1350,
+ AS ADOPTED PURSUANT TO
+ SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002
+
+In connection with the Quarterly Report of Workstream Inc. (the
+"Company") on Form 10-Q for the quarter ending November 30, 2003, as filed with
+the Securities Exchange Commission on the date hereof (the "Report"), I, Michael
+Mullarkey, the Chief Executive Officer of the Company, certify, pursuant to
+Section 906 of the Sarbanes-Oxley Act of 2002, that, to the best of my
+knowledge:
+
+ 1. the Report fully complies with the requirements of Section
+ 13(a) or 15(d) of the Securities Exchange Act of 1934; and
+
+ 2. the information contained in the Report fairly presents, in
+ all material respects, the financial condition and results of
+ operations of the Company.
+
+/s/ Michael Mullarkey
+ -----------------------------------
+ Michael Mullarkey
+ Chief Executive Officer
+
+ Date: January 14, 2004
+
+CERTIFICATION PURSUANT TO
+ 18 U.S.C. SECTION 1350,
+ AS ADOPTED PURSUANT TO
+ SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002
+
+In connection with the Quarterly Report of Workstream Inc. (the
+"Company") on Form 10-Q for the quarter ending November 30, 2003, as filed with
+the Securities Exchange Commission on the date hereof (the "Report"), I, David
+Polansky, the Chief Financial Officer of the Company, certify, pursuant to
+Section 906 of the Sarbanes-Oxley Act of 2002, that, to the best of my
+knowledge:
+
+ 1. the Report fully complies with the requirements of Section
+ 13(a) or 15(d) of the Securities Exchange Act of 1934; and
+
+ 2. the information contained in the Report fairly presents, in
+ all material respects, the financial condition and results of
+ operations of the Company.
+
+/s/ David Polansky
+ -----------------------------------
+ David Polansky
+ Chief Financial Officer
+
+ Date: January 14, 2004
+
+</EX-32.1>
+

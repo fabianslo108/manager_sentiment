@@ -1,0 +1,2486 @@
+<Header>
+<FileStats>
+    <FileName>20040130_10-Q_edgar_data_1108924_0001193125-04-012091.txt</FileName>
+    <GrossFileSize>464259</GrossFileSize>
+    <NetFileSize>112849</NetFileSize>
+    <NonText_DocumentType_Chars>0</NonText_DocumentType_Chars>
+    <HTML_Chars>310409</HTML_Chars>
+    <XBRL_Chars>0</XBRL_Chars>
+    <XML_Chars>0</XML_Chars>
+    <N_Exhibits>4</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0001193125-04-012091.hdr.sgml : 20040130
+<ACCEPTANCE-DATETIME>20040130163853
+ACCESSION NUMBER:		0001193125-04-012091
+CONFORMED SUBMISSION TYPE:	10-Q
+PUBLIC DOCUMENT COUNT:		5
+CONFORMED PERIOD OF REPORT:	20031231
+FILED AS OF DATE:		20040130
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			OPNET TECHNOLOGIES INC
+		CENTRAL INDEX KEY:			0001108924
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-PREPACKAGED SOFTWARE [7372]
+		IRS NUMBER:				521483235
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0331
+
+	FILING VALUES:
+		FORM TYPE:		10-Q
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-30931
+		FILM NUMBER:		04556382
+
+	BUSINESS ADDRESS:	
+		STREET 1:		7255 WOODMONT AVENUE
+		CITY:			BETHESDSA
+		STATE:			MD
+		ZIP:			20814
+		BUSINESS PHONE:		2404973000
+
+	MAIL ADDRESS:	
+		STREET 1:		7255 WOODMONT AVENUE
+		CITY:			BETHESDA
+		STATE:			MD
+		ZIP:			20814
+
+</SEC-Header>
+</Header>
+
+ 
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ IIjYyaMlkW1L8R5C3x6FH5NO1JGmttdfsNOeBwTLls7J004TiMCunBjIuRBZ6eDo
+ PtNcaT0xFt4FxzVl7Tk3PQ==
+
+ 0001193125-04-012091.txt : 20040130
+
+10-Q
+ 1
+ d10q.htm
+ FORM 10-Q
+
+FORM 10-Q 
+
+Table of Contents 
+
+ UNITED STATES SECURITIES AND EXCHANGE COMMISSION Washington, D.C. 20549 Form 10-Q 
+
+QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 For the quarterly period ended December 31, 2003 OR 
+
+TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 (Commission file number: 000-30931) OPNET TECHNOLOGIES, INC. (Exact name of registrant as specified in its charter) 
+
+Delaware 
+ 
+ 7372 
+ 
+ 52-1483235 
+ 
+ (State or other jurisdiction of incorporation or organization) 
+ 
+ (Primary Standard Industrial Classification Code Number) 
+ 
+ (I.R.S. Employer Identification No.) 
+ 7255 Woodmont Avenue
+ Bethesda, MD 20814 (Address of principal executive office) (240) 497-3000 (Registrant s telephone number, including area code) Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934
+during the preceding 12 months (or for such shorter period that the registrants were required to file such reports), and (2) has been subject to such filing requirements for the past 90 days. Yes No Indicate by check mark whether the registrant is an accelerated filer (as defined in Rule 12b-2 of the Exchange
+Act.). Yes No At January 27, 2004, there were outstanding 19,931,208 shares of common stock
+of the registrant. 
+
+Table of Contents 
+
+TABLE OF CONTENTS 
+
+ITEM 
+
+Page 
+
+PART I 
+
+FINANCIAL INFORMATION 
+
+1. 
+
+Condensed Consolidated Financial Statements (unaudited) 
+
+Condensed Consolidated Balance Sheets as of December 31, and March 31, 2003 
+ 
+ 3 
+
+Condensed Consolidated Statements of Operations for the Three and Nine Months Ended December 31, 2003 and 2002 
+ 
+ 4 
+
+Condensed Consolidated Statements of Cash Flows for the Nine Months Ended December 31, 2003 and 2002 
+ 
+ 5 
+
+Notes to Condensed Consolidated Financial Statements 
+ 
+ 6 
+
+2. 
+
+Management s Discussion and Analysis of Financial Condition and Results of Operations 
+ 
+ 13 
+
+3. 
+
+Quantitative and Qualitative Disclosures About Market Risk 
+ 
+ 27 
+
+4. 
+
+Controls and Procedures 
+ 
+ 27 
+
+PART II 
+
+OTHER INFORMATION 
+
+1. 
+
+Legal Proceedings 
+ 
+ 28 
+
+2. 
+
+Changes in Securities and Use of Proceeds 
+ 
+ 28 
+
+4. 
+
+Submission of Matters to a Vote of Security Holders 
+ 
+ 28 
+
+6. 
+
+Exhibits and Reports on Form 8-K 
+ 
+ 29 
+
+Signatures 
+ 
+ 30 
+
+Exhibit Index 
+ 
+ 31 
+
+The Condensed Consolidated Statements of Operations for the Three and Nine Months Ended December 31, 2002 and the Condensed Consolidated Statement of Cash Flows for the Nine Months
+Ended December 31, 2002 have been restated as discussed in our Annual Report on Form 10-K/A for the year ended March 31, 2003 as filed on August 19, 2003 and in Note 2 of the Notes to Condensed Consolidated Financial Statements contained herein.
+ 
+ 2 
+
+Table of Contents 
+
+PART 1. FINANCIAL INFORMATION 
+
+ITEM 1. 
+ Condensed Consolidated Financial Statements 
+ OPNET TECHNOLOGIES, INC. CONDENSED CONSOLIDATED BALANCE SHEETS (in thousands, except per share data) (unaudited) 
+
+December 31, 2003 
+
+March 31, 2003 
+
+(As restated, see Note 2) 
+
+ASSETS 
+
+Current assets: 
+
+Cash and cash equivalents 
+
+33,937 
+
+70,251 
+
+Marketable securities 
+
+44,622 
+
+Accounts receivable, net of 349 and 333 in allowance for doubtful accounts at December 31 and March 31, 2003, respectively 
+
+6,871 
+
+6,420 
+
+Unbilled accounts receivable 
+
+2,090 
+
+933 
+
+Prepaid expenses and other current assets 
+
+2,106 
+
+1,412 
+
+Total current assets 
+
+89,626 
+
+79,016 
+
+Property and equipment, net 
+
+6,425 
+
+7,008 
+
+Intangible assets, net 
+
+1,370 
+
+1,566 
+
+Goodwill 
+
+12,212 
+
+12,212 
+
+Deferred income taxes and other assets 
+
+1,561 
+
+839 
+
+Total assets 
+
+111,194 
+
+100,641 
+
+LIABILITIES AND STOCKHOLDERS EQUITY 
+
+Current liabilities: 
+
+Accounts payable 
+
+111 
+
+215 
+
+Accrued liabilities 
+
+3,716 
+
+2,756 
+
+Deferred and accrued income taxes 
+
+223 
+
+172 
+
+Deferred revenue 
+
+11,718 
+
+9,694 
+
+Total current liabilities 
+
+15,768 
+
+12,837 
+
+Notes payable 
+
+300 
+
+300 
+
+Deferred rent 
+
+913 
+
+632 
+
+Deferred revenue 
+
+605 
+
+484 
+
+Total liabilities 
+
+17,586 
+
+14,253 
+
+Commitments and contingencies (Note 11) 
+
+Stockholders equity: 
+
+Preferred stock - par value 0.001; 5,000 shares authorized, no shares issued and outstanding at December 31 and March 31,
+2003 
+
+Common stock-par value 0.001; 100,000 authorized; 26,033 and 25,522 shares issued at December 31 and March 31, 2003, respectively; 19,899 and
+19,388 shares outstanding at December 31 and March 31, 2003, respectively 
+
+26 
+
+26 
+
+Additional paid-in capital 
+
+77,082 
+
+73,600 
+
+Deferred compensation 
+
+(52) 
+
+(59) 
+ 
+ Retained earnings 
+
+20,630 
+
+16,903 
+
+Accumulated other comprehensive income 
+
+22 
+
+18 
+
+Treasury stock, at cost - 6,134 shares at December 31 and March 31, 2003 
+
+(4,100) 
+
+(4,100) 
+
+Total stockholders equity 
+
+93,608 
+
+86,388 
+
+Total liabilities and stockholders equity 
+
+111,194 
+
+100,641 
+
+See accompanying notes
+to condensed consolidated financial statements. 
+ 3 
+
+Table of Contents 
+
+OPNET TECHNOLOGIES, INC. CONDENSED CONSOLIDATED STATEMENTS OF OPERATIONS (in thousands, except per share data) (unaudited) 
+
+Three Months Ended December 31, 
+ 
+ Nine Months Ended December 31, 
+
+2003 
+ 
+ 2002 
+ 
+ 2003 
+ 
+ 2002 
+
+(As restated, see Note 2) 
+
+(As restated, see Note 2) 
+ 
+ Revenues: 
+
+New software licenses 
+
+7,113 
+
+5,594 
+
+19,987 
+
+15,833 
+ 
+ Software license updates and technical support 
+
+3,940 
+
+3,244 
+
+10,907 
+
+9,370 
+ 
+ Professional services 
+
+3,379 
+
+2,966 
+
+9,244 
+
+8,866 
+
+Total revenues 
+
+14,432 
+
+11,804 
+
+40,138 
+
+34,069 
+
+Cost of revenues: 
+
+New software licenses 
+
+126 
+
+205 
+
+614 
+
+585 
+ 
+ Software license updates and technical support 
+
+445 
+
+379 
+
+1,188 
+
+1,283 
+ 
+ Professional services 
+
+2,048 
+
+1,192 
+
+5,302 
+
+3,472 
+ 
+ Amortization of acquired technology 
+
+125 
+
+126 
+
+375 
+
+377 
+
+Total cost of revenues 
+
+2,744 
+
+1,902 
+
+7,479 
+
+5,717 
+
+Gross profit 
+
+11,688 
+
+9,902 
+
+32,659 
+
+28,352 
+
+Operating expenses: 
+
+Research and development 
+
+3,144 
+
+3,200 
+
+9,450 
+
+9,575 
+ 
+ Sales and marketing 
+
+4,964 
+
+4,530 
+
+14,044 
+
+13,500 
+ 
+ General and administrative 
+
+1,438 
+
+1,251 
+
+4,208 
+
+3,619 
+
+Total operating expenses 
+
+9,546 
+
+8,981 
+
+27,702 
+
+26,694 
+
+Income from operations 
+
+2,142 
+
+921 
+
+4,957 
+
+1,658 
+ 
+ Interest and other income, net 
+
+135 
+
+192 
+
+436 
+
+716 
+
+Income before provision for income taxes 
+
+2,277 
+
+1,113 
+
+5,393 
+
+2,374 
+ 
+ Provision for income taxes 
+
+658 
+
+279 
+
+1,666 
+
+595 
+
+Net income 
+
+1,619 
+
+834 
+
+3,727 
+
+1,779 
+
+Basic net income per common share 
+
+0.08 
+
+0.04 
+
+0.19 
+
+0.09 
+
+Diluted net income per common share 
+
+0.08 
+
+0.04 
+
+0.18 
+
+0.09 
+
+Basic weighted average common shares outstanding 
+
+19,759 
+
+19,299 
+
+19,605 
+
+19,242 
+
+Diluted weighted average common shares outstanding 
+
+20,906 
+
+20,046 
+
+20,489 
+
+19,940 
+
+See accompanying notes
+to condensed consolidated financial statements. 
+ 4 
+
+Table of Contents 
+
+OPNET TECHNOLOGIES, INC. CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS (in thousands) (unaudited)
+
+Nine Months Ended December 31, 
+
+2003 
+
+2002 
+
+(As restated, see Note 2) 
+
+Cash flows from operating activities: 
+
+Net income 
+
+3,727 
+
+1,779 
+
+Adjustments to reconcile net income to net cash provided by operating activities: 
+
+Depreciation and amortization 
+
+1,568 
+
+1,583 
+
+Provision for losses on accounts receivable 
+
+72 
+
+270 
+
+Deferred income taxes 
+
+(358) 
+
+(626) 
+ 
+ Expense related to employee and other stock options 
+
+158 
+
+41 
+
+Changes in assets and liabilities: 
+
+Accounts receivable 
+
+(1,680) 
+
+302 
+
+Prepaid expenses and other current assets 
+
+(827) 
+
+(341) 
+ 
+ Refundable income taxes 
+
+1,230 
+
+Other assets 
+
+(98) 
+
+(57) 
+ 
+ Accounts payable 
+
+(104) 
+
+66 
+
+Accrued liabilities 
+
+960 
+
+(322) 
+ 
+ Accrued income taxes 
+
+(82) 
+
+84 
+
+Tax benefit from exercise of stock options 
+
+957 
+
+265 
+
+Deferred revenue 
+
+2,145 
+
+1,137 
+
+Deferred rent 
+
+281 
+
+198 
+
+Net cash provided by operating activities 
+
+6,719 
+
+5,609 
+
+Cash flows from investing activities: 
+
+Purchase of property and equipment 
+
+(610) 
+
+(621) 
+ 
+ Purchase of investments 
+
+(60,622) 
+
+Proceeds from sale/maturity of investments 
+
+16,000 
+
+Acquired technology 
+
+(179) 
+
+Net cash used in investing activities 
+
+(45,411) 
+
+(621) 
+
+Cash flows from financing activities: 
+
+Proceeds from exercise of common stock options 
+
+2,062 
+
+282 
+
+Proceeds from issuance of common stock under employee stock purchase plan 
+
+312 
+
+310 
+
+Proceeds from issuance of note payable 
+
+150 
+
+Net cash provided by financing activities 
+
+2,374 
+
+742 
+
+Effect of exchange rate changes on cash and cash equivalents 
+
+4 
+
+(16) 
+
+Net (decrease) increase in cash and cash equivalents 
+
+(36,314) 
+
+5,714 
+
+Cash and cash equivalents, beginning of period 
+
+70,251 
+
+62,240 
+
+Cash and cash equivalents, end of period 
+
+33,937 
+
+67,954 
+
+See accompanying notes
+to condensed consolidated financial statements. 
+ 5 
+
+Table of Contents 
+
+OPNET TECHNOLOGIES, INC. NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (unaudited) 
+
+1. 
+ Basis of Presentation, Nature of Operations, and Significant Accounting Policies OPNET Technologies, Inc. OPNET , we or us is a leading provider of management software
+for networks and applications. Our solutions address: application performance troubleshooting; network configuration auditing; network capacity and resiliency planning; application deployment planning; and network technology R D. We sell our
+products to corporate enterprises, government and defense agencies, network service providers, and network equipment manufacturers. We market our product suite in North America primarily through a direct sales force and, to a lesser extent, several
+resellers and original equipment manufacturers. Internationally, we conduct research and development through our wholly-controlled subsidiary in Ghent, Belgium and market our products through our wholly-owned subsidiaries in Paris, France; Reading,
+United Kingdom; and Sydney, Australia; third-party distributors; and value-added resellers. OPNET is headquartered in Bethesda, MD and has offices in Cary, NC; Dallas, TX; and Santa Clara, CA. The accompanying condensed consolidated financial statements include our
+results and the results of our wholly owned subsidiaries. All intercompany accounts and transactions have been eliminated in consolidation. The interim condensed consolidated financial statements included herein are unaudited and have been prepared
+in accordance with accounting principles generally accepted in the United States of America GAAP and applicable rules and regulations of the Securities and Exchange Commission (the SEC regarding interim financial
+reporting. Certain information and footnote disclosures normally included in financial statements prepared in accordance with GAAP have been condensed or omitted pursuant to such rules and regulations. Accordingly, these interim condensed
+consolidated financial statements should be read in conjunction with the audited consolidated financial statements and accompanying notes thereto contained in the Company s Annual Report on Form 10-K/A, Amendment No. 1, for the year ended March
+31, 2003, filed with the SEC. The March 31, 2003 condensed consolidated balance sheet included herein was derived from the audited financial statements as of that date, but does not include all disclosures including notes required by GAAP. In the
+opinion of management, these interim condensed consolidated financial statements reflect all adjustments of a normal and recurring nature necessary to present fairly our results for the interim periods. The preparation of financial statements in
+conformity with GAAP requires management to make certain estimates and assumptions. These estimates and assumptions affect the reported amounts of assets and liabilities as of the date of the financial statements, as well as the reported amount of
+revenues and expenses during the reporting periods. Actual results could differ from those estimates. In addition, our operating results for the three and nine months ended December 31, 2003 may not be indicative of the operating results for the
+full fiscal year or any other future period. Reclassifications. Fees and costs associated with the sale of periodic unspecified product updates license updates and technical support have been combined and presented as Software license updates and
+technical support in the accompanying condensed consolidated statements of operations. License update revenues of 2.2 million and 5.9 million for the three and nine months ended December 31, 2002, respectively, were reclassified from license
+revenues to software license updates and technical support revenues. Cost of license update revenues of 21,000 and 45,000 for the three and nine months ended December 31, 2002, respectively, were reclassified from cost of license revenues to cost
+of software license updates and technical support revenues. Technical support revenues of 1.1 million and 3.5 million for the three and nine months ended December 31, 2002, respectively, were reclassified from service revenues to software license
+updates and technical support revenues. Cost of technical support revenues of 358,000 and 1.2 million for the three and nine months ended December 31, 2002, respectively, were reclassified from cost of service revenues to cost of software license
+updates and technical support revenues. Investments. We consider all highly liquid investments with maturities of three months or less when purchased to be cash equivalents. We have determined that all of our marketable securities are to be classified as
+available-for-sale. Available-for-sale securities are carried at fair value, with the unrealized gains and losses reported in stockholders equity in the accompanying condensed consolidated balance sheets under the caption Accumulated
+other comprehensive income. The amortized cost of debt securities is adjusted for amortization of premiums and accretion of discounts to maturity using the effective interest method. Such amortization is included in the Interest and
+other income, net line item on the accompanying condensed consolidated statements of operations. Realized gains and losses on available-for-sale securities are included in the Interest and other income, net line item on the
+condensed consolidated statements of operations. The cost of securities sold is based on the specific identification method. Interest and dividends on securities classified as available-for-sale are included in the Interest and other income,
+net line item on the condensed consolidated statements of operations. 
+ 6 
+
+Table of Contents 
+
+ Indemnifications. Under the terms of substantially all of our license agreements, we have
+agreed to indemnify customers for costs and damages arising from claims against such customers based on allegations that our software products infringe the intellectual property rights of a third party. The indemnification is limited to the amount
+paid by the customer. To date, we have not had to reimburse any of our customers for any losses related to these indemnification provisions and no claims are outstanding as of December 31, 2003. For several reasons, including the lack of prior
+indemnification claims, we cannot determine the maximum amount of potential future payments, if any, related to such indemnification provisions. However, we do not believe that these indemnification provisions will have a material adverse effect on
+the Company s operating performance or financial condition. Our standard license agreement includes a warranty provision for software products. We generally warrant for the first ninety days after delivery that the software will operate substantially as stated in the then current documentation
+provided that the software is used in a supported computer system. We provide for the estimated cost of product warranties based on specific warranty claims, provided that it is probable that a liability exists and provided the amount can be
+reasonably estimated. To date, we have not had any material costs associated with these warranties. Stock-Based Compensation. We account for stock-based compensation given to employees using the intrinsic value method in accordance with
+Accounting Principles Board APB Opinion No. 25, Accounting for Stock Issued to Employees, and accordingly, recognize compensation expense for fixed stock option grants only when the exercise price is less than the quoted
+market price of the shares on the date of the grant. Statement of Financial Accounting Standards SFAS No. 123, Accounting for Stock-Based Compensation, permits the use of either a fair-value based method or the intrinsic
+value method provided in APB Opinion No. 25 to account for employee stock-based compensation arrangements. Companies that elect to use the intrinsic value method provided in APB Opinion No. 25 are required to disclose the pro forma net income (loss)
+and earnings (loss) per share that would have resulted from the use of the fair value method. We have provided below the pro forma disclosures of the effect on net income and earnings per share for the three and nine months ended December 31, 2003
+and 2002, as if SFAS No. 123 had been applied in measuring compensation expense for all periods. 
+
+Three Months Ended December 31, 
+
+Nine Months Ended December 31, 
+
+2003 
+
+2002 
+
+2003 
+
+2002 
+
+(In thousands, except per share data) 
+
+Net income 
+
+1,619 
+
+834 
+
+3,727 
+
+1,779 
+
+Add: Stock-based employee compensation expense included in reported net income, net of related tax effects 
+
+8 
+
+12 
+
+26 
+
+42 
+
+Deduct: Total stock-based employee compensation expense determined under fair value based method for all
+awards, net of related tax effects 
+
+(1,018) 
+
+(803) 
+
+(2,983) 
+
+(2,607) 
+
+Pro forma net income (loss) 
+
+609 
+
+43 
+
+770 
+
+(786) 
+
+Basic net income (loss) per common share: 
+
+As reported 
+
+0.08 
+
+0.04 
+
+0.19 
+
+0.09 
+
+Pro forma 
+
+0.03 
+
+0.00 
+
+0.04 
+
+(0.04) 
+ 
+ Diluted net income (loss) per common share: 
+
+As reported 
+
+0.08 
+
+0.04 
+
+0.18 
+
+0.09 
+
+Pro forma 
+
+0.03 
+
+0.00 
+
+0.04 
+
+(0.04) 
+ 
+ 7 
+
+Table of Contents 
+
+2. 
+ Restatement Subsequent to the issuance of our consolidated financial statements as of March 31, 2003, we concluded that a portion of the revenue from certain software
+arrangements should have been deferred to account for the value of certain free training offered to our customers. We also determined that amortization of acquired technology should be included as a cost of revenue rather than as an operating
+expense. As a consequence, our condensed consolidated financial statements for the three and nine months ended December 31, 2002, have been restated. For the three months ended December 31, 2002, this restatement increased our previously reported
+revenue from 11,696,000 to 11,804,000 and increased our previously reported net income from 753,000 to 834,000, but had no effect on our previously reported diluted earnings per common share of 0.04. For the nine months ended December 31, 2002,
+this restatement increased our previously reported revenue from 34,047,000 to 34,069,000 and increased our previously reported net income from 1,762,000 to 1,779,000, but had no effect on our previously reported diluted earnings per common share
+of 0.09. The restatement resulted in a decrease in new software license revenues of 142,000 and an increase in professional service revenues of 250,000 for the three months ended December 31, 2002. The restatement resulted in a decrease in new
+software license revenues of 573,000 and an increase in professional services revenues of 595,000 for the nine months ended December 31, 2002. The effect of the reclassification of amortization of acquired technology was to increase previously reported cost of revenues and reduce previously
+reported gross profit by 126,000 and 377,000 for the three and nine months ended December 31, 2002, respectively. This change has no impact on net income. A summary of the significant effects of the restatement is as follows: Condensed Consolidated Statement of Operations Data: 
+
+Three Months Ended December 31, 2002 
+ 
+ Nine Months Ended December 31, 2002 
+
+As previously reported 
+ 
+ As restated 
+ 
+ As previously reported 
+ 
+ As restated 
+
+(in thousands, except per share data) 
+ 
+ Revenues 
+
+11,696 
+
+11,804 
+
+34,047 
+
+34,069 
+ 
+ Gross profit 
+
+9,920 
+
+9,902 
+
+28,705 
+
+28,352 
+ 
+ Income before provision for income taxes 
+
+1,005 
+
+1,113 
+
+2,351 
+
+2,374 
+ 
+ Net income 
+
+753 
+
+834 
+
+1,762 
+
+1,779 
+ 
+ Basic net income per common share 
+
+0.04 
+
+0.04 
+
+0.09 
+
+0.09 
+ 
+ Diluted net income per common share 
+
+0.04 
+
+0.04 
+
+0.09 
+
+0.09 
+
+3. 
+ Marketable Securities Marketable securities as of December 31, 2003, consist of the following: 
+
+Amortized Cost 
+ 
+ Gross Unrealized Gain 
+ 
+ Gross Unrealized Loss 
+ 
+ Market Value 
+
+(in thousands) 
+ 
+ Corporate bonds and notes 
+
+12,794 
+
+4 
+
+12,790 
+ 
+ U.S. Government agencies 
+
+31,821 
+
+15 
+
+4 
+
+31,832 
+
+Marketable securities 
+
+44,615 
+
+15 
+
+8 
+
+44,622 
+
+Our marketable
+securities have maturity dates of less than one year. 
+ 8 
+
+Table of Contents 
+
+4. 
+ Intangible Assets Intangible assets consisted of the following: 
+
+At December 31, 2003 
+
+At March 31, 2003 
+
+(in thousands) 
+
+Acquired technology 
+
+2,678 
+
+2,501 
+
+Accumulated amortization 
+
+(1,308) 
+
+(935) 
+
+Intangible assets, net 
+
+1,370 
+
+1,566 
+
+In December 2003, we
+purchased a software product used primarily for modeling voice communications for approximately 179,000. Acquired technology relating to the NetMaker and WDM NetDesign acquisitions resulted in amortization expense for the three months ended December 31, 2003
+and 2002 of 125,000 and 126,000, respectively. Amortization expense for the nine months ended December 31, 2003 and 2002 was 375,000 and 377,000, respectively. Amortization expense from acquired technology is included in cost of revenues in the
+condensed consolidated statements of operations. We expect amortization expense of 509,000 in the fiscal year ending March 31, 2004, 536,000 in each of the fiscal years ending March 31, 2005 and 2006, 102,000 in the year ending March 31, 2007,
+ 36,000 in the fiscal year ending March 31, 2008, and 26,000 in the fiscal year ending March 31, 2009. 
+
+5. 
+ Credit Agreement Effective June 10, 2002, we entered into a credit facility with a commercial bank. The credit facility permits the use of funds for general corporate
+purposes and the issuance of letters of credit up to a maximum of 10.0 million in the aggregate. Borrowings under the credit facility are limited to 80 of eligible accounts receivable. We used the facility to issue an irrevocable letter of credit
+for approximately 2.8 million to satisfy the security deposit requirements for our corporate office lease. Upon a default, as defined in the corporate office lease agreement, and written notice from the landlord to us, the landlord has the right to
+draw upon the letter of credit in whole or in part. Interest is payable monthly, based on LIBOR plus the applicable margin ranging from 2 to 2.5 as stated in the loan agreement. The credit facility includes a fee in the amount of 0.25 per annum
+on the unused portion of the credit facility. The credit facility is collateralized by our accounts receivable. The loan agreement contains customary affirmative and negative covenants including a restriction on the payment of dividends and a
+financial covenant requiring that we not exceed a ratio of Funded Debt to EBITDA of 2.5:1.0 as such terms are defined in the loan agreement. The credit facility expires June 10, 2004. As of December 31, 2003, we had no borrowings under the available
+credit facility, and available borrowings at that date were 2.9 million. 
+
+6. 
+ Stockholders Equity During the nine months ended December 31, 2003, we received proceeds of approximately 2.1 million and issued 473,003 shares of common stock, pursuant to
+employee exercises of stock options. During the nine months ended December 31, 2003 employees purchased 37,515 shares of common stock under the OPNET 2000 Employee Stock Purchase Plan, resulting in proceeds to us of approximately 0.3 million.
+ 
+ 9 
+
+Table of Contents 
+
+7. 
+ Net Income per Common Share The following is a reconciliation of the amounts used in calculating basic and diluted net income per common share for the three and nine months ended
+December 31, 2003 and 2002: 
+
+Three Months Ended December 31, 
+ 
+ Nine Months Ended December 31, 
+
+2003 
+ 
+ 2002 
+ 
+ 2003 
+ 
+ 2002 
+
+(in thousands, except per share data) 
+ 
+ Net Income (Numerator): 
+
+Basic and diluted net income 
+
+1,619 
+
+834 
+
+3,727 
+
+1,779 
+
+Shares (Denominator): 
+
+Weighted average shares outstanding (basic) 
+
+19,759 
+
+19,299 
+
+19,605 
+
+19,242 
+ 
+ Plus: 
+
+Effect of other dilutive securities options 
+
+1,147 
+
+747 
+
+884 
+
+698 
+
+Weighted average shares outstanding (diluted) 
+
+20,906 
+
+20,046 
+
+20,489 
+
+19,940 
+
+Net income per common share: 
+
+Basic 
+
+0.08 
+
+0.04 
+
+0.19 
+
+0.09 
+ 
+ Diluted 
+
+0.08 
+
+0.04 
+
+0.18 
+
+0.09 
+ We had options for the
+purchase of 474,500 and 2,141,464 common shares that were excluded from the diluted average shares outstanding for the three months ended December 31, 2003 and 2002, respectively, because they were antidilutive. We had options for the purchase of
+1,449,692 and 2,169,464 common shares for the nine months ended December 31, 2003 and 2002, respectively, because they were antidilutive. 
+
+8. 
+ Business Segment and Geographic Information We operate in one industry segment, the development and sale of computer software programs and related services. Revenues from transactions with U.S.
+Government agencies were approximately 46 and 34 of total revenues for the three months ended December 31, 2003 and 2002, respectively. Revenues from transactions with U.S. Government agencies were approximately 46 and 38 for the nine months
+ended December 31, 2003 and 2002, respectively. Substantially all assets were held in the United States at December 31 and March 31, 2003. Revenues by geographic area and as a percentage of total revenues is as follows: 
+
+Three Months Ended December 31, 
+
+Nine Months Ended December 31, 
+
+2003 
+
+2002 
+
+2003 
+
+2002 
+
+(dollars in thousands) 
+
+Geographic Area: 
+
+United States 
+
+12,274 
+
+9,126 
+
+32,906 
+
+27,503 
+
+International 
+
+2,158 
+
+2,678 
+
+7,232 
+
+6,566 
+
+Total revenue 
+
+14,432 
+
+11,804 
+
+40,138 
+
+34,069 
+
+Geographic Area: 
+
+United States 
+
+85.0 
+
+77.3 
+
+82.0 
+
+80.7 
+
+International 
+
+15.0 
+
+22.7 
+
+18.0 
+
+19.3 
+
+Total revenue 
+
+100.0 
+
+100.0 
+
+100.0 
+
+100.0 
+
+10 
+
+Table of Contents 
+
+9. 
+ Supplemental Cash Flow Information 
+
+Nine Months Ended December 31, 
+
+2003 
+ 
+ 2002 
+
+(in thousands) 
+ 
+ Cash paid for: 
+
+Income taxes 
+
+1,377 
+
+79 
+ 
+ Interest 
+
+48 
+
+53 
+
+10. 
+ Comprehensive Income Comprehensive income includes net income, foreign currency translation adjustments, and unrealized gain on marketable securities. Total comprehensive
+income is summarized as follows: 
+
+Three Months Ended December 31, 
+
+Nine Months Ended December 31, 
+
+2003 
+ 
+ 2002 
+
+2003 
+
+2002 
+
+(in thousands) 
+
+Net income 
+
+1,619 
+
+834 
+
+3,727 
+
+1,779 
+
+Foreign currency translation adjustments 
+
+48 
+
+(5) 
+
+(3) 
+
+(16) 
+ 
+ Unrealized gain on marketable securities 
+
+7 
+
+7 
+
+Total comprehensive income 
+
+1,674 
+
+829 
+
+3,731 
+
+1,763 
+
+11. 
+ Commitments and Contingencies We are involved in various claims and legal proceedings arising from our normal operations. We do not expect those matters, individually or in the
+aggregate, to have a material effect on our financial condition or results of operations. 
+
+12. 
+ New Accounting Pronouncements In November 2002, the Financial Accounting Standards Board FASB issued Interpretation No. 45, Guarantor s Accounting and
+Disclosure Requirements for Guarantees, Including Indirect Guarantees of Indebtedness of Others. Interpretation No. 45 requires a guarantor to include disclosure of certain obligations, and if applicable, at the inception of the guarantee,
+recognize a liability for the fair value of other certain obligations undertaken in issuing a guarantee. The recognition requirement was effective for guarantees issued or modified after December 31, 2002. We adopted Interpretation No. 45 effective
+December 2002 and the applicable disclosures have been made. In November 2002, the Emerging Issues Task Force (EITF) reached a consensus on Issue No. 00-21, Revenue Arrangements with Multiple Deliverables. Issue 00-21 provides guidance on how to account for arrangements that involve the
+delivery or performance of multiple products, services and/or rights to use assets. The provisions of Issue 00-21 apply to revenue arrangements entered into in fiscal periods beginning after June 15, 2003 but do not supersede existing authoritative
+guidance, including SOP 97-2. The adoption of Issue 00-21 did not have an impact on our consolidated results of operations or financial position. In January 2003, the FASB issued FASB Interpretation No. 46, Consolidation of Variable Interest Entities. In general, a variable interest
+entity is a corporation, partnership, trust, or any other legal structure used for business purposes that either (a) does not have equity investors with voting rights or (b) has equity investors that do not provide sufficient financial resources for
+the entity to support its activities. Interpretation No. 46 requires certain variable interest entities to be consolidated by the primary beneficiary of the entity if the investors do not have the characteristics of a controlling financial interest
+or do not have sufficient equity at risk for the entity to finance its activities without additional subordinated financial support from other parties. We adopted the provisions of Interpretation No. 46 effective January 1, 2003. We do not have any
+variable interest entities; thus adoption of Interpretation No. 46 did not have an impact on our consolidated results of operations or financial position. 
+ 11 
+
+Table of Contents 
+
+ In April 2003, the FASB issued SFAS No. 149, Amendment of Statement 133 on Derivative Instruments
+and Hedging Activities. SFAS No. 149 amends and clarifies accounting for derivative instruments, including certain derivative instruments embedded in other contracts, and for hedging activities under SFAS No. 133, Accounting for
+Derivative Instruments and Hedging. The statement requires that contracts with comparable characteristics be accounted for similarly and clarifies when a derivative contains a financing component that warrants special reporting in the
+statement of cash flows. SFAS No. 149 is effective for contracts entered into or modified after June 30, 2003, except in certain circumstances, and for hedging relationships designated after June 30, 2003. We currently do not hedge foreign exchange
+rate risk nor have we entered into any derivative instruments or transactions that are subject to SFAS No. 133 or SFAS No. 149. We adopted SFAS No. 149, effective July 1, 2003. The adoption of this standard did not have an effect on our consolidated
+results of operations or financial position. In May 2003, the
+FASB issued SFAS No. 150, Accounting for Certain Financial Instruments with Characteristics of both Liabilities and Equity . SFAS No. 150 establishes standards for how an issuer classifies and measures in its statement of financial
+position certain financial instruments with characteristics of both liabilities and equity. It requires that an issuer classify a financial instrument that is within its scope as a liability (or an asset in some circumstances) because that financial
+instrument embodies an obligation of the issuer. SFAS No. 150 is effective for financial instruments entered into or modified after May 31, 2003, and otherwise is effective at the beginning of the first interim period beginning after June 15, 2003.
+We are not currently a party to any of the types of financial instruments that are subject to SFAS No. 150. 
+ 12 
+
+Table of Contents 
+
+ITEM 2. 
+ Management s Discussion and Analysis of Financial Condition and Results of Operations The following discussion and analysis relate to our financial condition
+and results of operations for the three and nine months ended December 31, 2003 and 2002, and should be read in conjunction with our condensed consolidated financial statements and the related notes included elsewhere in this report. You should also
+read the following discussion and analysis in conjunction with our consolidated financial statements and the related notes and Management s Discussion and Analysis of Financial Condition and Results of Operations contained in our
+Annual Report on Form 10-K/A, Amendment No. 1, for the year ended March 31, 2003, filed with the SEC. This report contains forward-looking statements that involve substantial risks and uncertainties. You can identify these statements by forward-looking
+words such as anticipate, believe, could, estimate, expect, intend, may, plan, potential, should, will, and
+ would or similar words. You should read statements that contain these words carefully because they discuss our future expectations, contain projections of our future results of operations or of our financial position, or state other
+forward-looking information. We believe that it is important to communicate our future expectations to our investors. However, there may be events in the future that we are not able to predict or control accurately. The factors listed in this
+section, as well as any cautionary language contained herein, provide examples of risks, uncertainties, and events that may cause our actual results to differ materially from the expectations we describe in our forward-looking statements. You should
+also carefully review the risks outlined in other documents that we file from time to time with the Securities and Exchange Commission, including our Quarterly Reports on Form 10-Q that we will file in fiscal 2004. Overview We derive revenues from three primary sources: (1) new software licenses, (2) software license updates and technical
+support, and (3) professional services, which include consulting and training services. New software license revenues represent all fees earned from granting customers licenses to use our software, and exclude revenues derived from software license
+updates, which are included in software license updates and technical support revenues. The majority of our new software license revenues consist of perpetual license sales of our software products. Software license updates and technical support
+revenues represent fees associated with the sale of license updates and technical support under our maintenance agreements. We offer professional services, generally under fixed-price agreements, primarily to provide product customization and
+enhancements and to facilitate the adoption of our technology. Revenues from sales outside of the United States represented 15.0 , and 22.7 of our total revenues for the three months ended December 31, 2003 and 2002, respectively. Revenues from sales outside of the United States represented 18.0 and
+19.3 of our total revenues for the nine months ended December 31, 2003 and 2002, respectively. Sales outside the United States were made through our international sales team as well as third-party distributors and value-added resellers, who
+generally are responsible for providing technical support and service to customers within their territory. We expect revenues from sales outside the United States to continue to account for a significant portion of our total revenues in the future.
+We believe that continued growth and profitability will require further expansion of our sales, marketing and customer service functions in international markets. Reclassifications Revenues and costs associated with the sale of license updates and technical support have been combined and presented as Software license updates
+and technical support in the accompanying condensed consolidated statements of operations. These reclassifications had no impact on total revenues, net income, or net income per common share for the three and nine months ended December 31,
+2002. See Note 1 Significant Accounting Policies - Reclassifications in the accompanying notes to our condensed consolidated financial statements for additional information regarding the reclassifications. Restatement As discussed in Note 2 to the condensed consolidated financial statements included under Item 1, we have restated our
+condensed consolidated financial statements for the three and nine months ended December 31, 2002. This Management s Discussion and Analysis reflects the restatement. 
+ 13 
+
+Table of Contents 
+
+ Results of Operations The following table sets forth items from our statements of operations expressed as a percentage of total revenues for the periods indicated: 
+
+Three Months Ended December 31, 
+
+Nine Months Ended December 31, 
+
+2003 
+
+2002 
+
+2003 
+
+2002 
+
+Revenues: 
+
+New software licenses 
+ 
+ 49.3 
+
+47.4 
+
+49.8 
+
+46.5 
+
+Software license updates and technical support 
+ 
+ 27.3 
+
+27.5 
+
+27.2 
+
+27.5 
+
+Professional services 
+ 
+ 23.4 
+
+25.1 
+
+23.0 
+
+26.0 
+
+Total revenues 
+ 
+ 100.0 
+
+100.0 
+
+100.0 
+
+100.0 
+
+Cost of revenues: 
+
+New software licenses 
+ 
+ 0.9 
+
+1.7 
+
+1.5 
+
+1.7 
+
+Software license updates and technical support 
+ 
+ 3.1 
+
+3.2 
+
+3.0 
+
+3.8 
+
+Professional services 
+ 
+ 14.2 
+
+10.1 
+
+13.2 
+
+10.2 
+
+Amortization of acquired technology 
+ 
+ 0.8 
+
+1.1 
+
+0.9 
+
+1.1 
+
+Total cost of revenues 
+ 
+ 19.0 
+
+16.1 
+
+18.6 
+
+16.8 
+
+Gross profit 
+ 
+ 81.0 
+
+83.9 
+
+81.4 
+
+83.2 
+
+Operating expenses: 
+
+Research and development 
+ 
+ 21.8 
+
+27.1 
+
+23.6 
+
+28.1 
+
+Sales and marketing 
+ 
+ 34.4 
+
+38.4 
+
+35.0 
+
+39.6 
+
+General and administrative 
+ 
+ 10.0 
+
+10.6 
+
+10.4 
+
+10.6 
+
+Total operating expenses 
+ 
+ 66.2 
+
+76.1 
+
+69.0 
+
+78.3 
+
+Income from operations 
+ 
+ 14.8 
+
+7.8 
+
+12.3 
+
+4.9 
+
+Interest and other income, net 
+ 
+ 1.0 
+
+1.6 
+
+1.1 
+
+2.1 
+
+Income before provision for income taxes 
+ 
+ 15.8 
+
+9.4 
+
+13.4 
+
+7.0 
+
+Provision for income taxes 
+ 
+ 4.6 
+
+2.3 
+
+4.1 
+
+1.8 
+
+Net income 
+ 
+ 11.2 
+
+7.1 
+
+9.3 
+
+5.2 
+
+The following table
+sets forth, for each component of revenues, the cost of these revenues as a percentage of the related revenues for the periods indicated: 
+
+Three Months Ended December 31, 
+
+Nine Months Ended December 31, 
+
+2003 
+
+2002 
+
+2003 
+
+2002 
+
+Cost of Revenues: 
+
+New software licenses 
+ 
+ 1.8 
+
+3.7 
+
+3.1 
+
+3.7 
+
+Software license updates and technical support 
+ 
+ 11.3 
+
+11.7 
+
+10.9 
+
+13.7 
+
+Professional services 
+ 
+ 60.6 
+
+40.2 
+
+57.4 
+
+39.2 
+
+14 
+
+Table of Contents 
+
+ Revenues New Software License Revenues. New software license revenues were 7.1 million and 5.6 million for the three months ended December 31, 2003 and
+2002, respectively, representing an increase of 27.2 . New software license revenues were 20.0 million and 15.8 million for the nine months ended December 31, 2003 and 2002, respectively, representing an increase of 26.2 . The growth in sales was
+primarily due to higher sales volumes to enterprise and U.S. Government customers of OPNET SP Guru and OPNET Modeler, which were available throughout all of the periods presented, as well as OPNET VNE Server , which was launched
+in June 2002. We may experience a slower rate of
+growth, or even a decline, in overall new software license revenues in the near-term due to potentially lower spending levels by enterprise IT organizations, service providers and network equipment manufacturers as a result of a challenging economy.
+ Software License Updates and Technical Support Revenues.
+ Software license updates and technical support revenues were 3.9 million and 3.2 million in the three months ended December 31, 2003 and 2002, respectively, representing an increase of 21.5 . Software license updates and technical support
+revenues were 10.9 million and 9.4 million in the nine months ended December 31, 2003 and 2002, respectively, representing an increase of 16.4 . Software license updates and technical support revenue growth rates are affected by the overall new
+software license revenue growth rates, as well as the renewal rate of annual maintenance contracts by existing customers. The increases reflect the growth in the overall customer installed base as compared to the prior periods. We may experience a slower rate of growth, or even a decline, in overall
+software license updates and technical support revenues in the near-term due to potentially lower spending levels by enterprise IT organizations, service providers and network equipment manufacturers as a result of a challenging economy. 
+ Professional Service Revenues. Professional service revenues were
+ 3.4 million and 3.0 million in the three months ended December 31, 2003 and 2002 respectively. Consulting services revenue accounted for 87.4 and 88.1 of professional service revenues for the three months ended December 31, 2003 and 2002,
+respectively. Professional service revenues were 9.2 million and 8.9 million in the nine months ended December 31, 2003 and 2002, respectively. For the nine months ended December 31, 2003 and 2002, consulting services revenue accounted for 87.0 
+and 89.4 of professional service revenues, respectively. For the three and nine months ended December 31, 2003, the increases in professional services revenue were primarily due to higher demand for our consulting services. In January 2003, we were
+awarded a re-competed consulting contract with the U.S. Department of Defense that contributed 15.1 and 24.5 of professional service revenues for the three and nine months ended December 31, 2003, respectively. The funding under this contract for
+calendar year 2003 was 3.1 million. Under the first of four possible contract extensions, the funding under this contract for calendar 2004 is 3.5 million. The option years for calendar years 2005, 2006, and 2007 under this contract, may be
+exercised by the U.S. Department of Defense at its discretion. Engagements with U.S. government agencies contributed significantly to the demand for our consulting services for the three and nine months ended December 31, 2003 and 2002. 
+ Our ability to increase professional service revenues will be dependent on
+our ability (i) to expand our installed base of customers, (ii) to maintain several large consulting contracts with the U.S. Government and (iii) to attract and retain additional qualified consultants, including those with security clearances.
+ International Revenues . Our international revenues
+decreased 19.4 to 2.2 million, or 15 of total revenues, for the three months ended December 31, 2003 from 2.7 million, or 22.7 of total revenues, for the three months ended December 31, 2002. Our international revenues increased 10.1 to 7.2
+million, or 18.0 of total revenues, for the nine months ended December 31, 2003 from 6.6 million, or 19.3 of total revenues, for the nine months ended December 31, 2002. Our international revenues are primarily generated in Europe and Japan. The
+challenging global economy can lengthen our sales cycle for international customers and therefore impact the timing of sales orders. We believe that we will need to further expand our international sales, marketing and customer service functions to
+increase international revenues. We expect to continue experiencing fluctuations of international revenues in the future. 
+ 15 
+
+Table of Contents 
+
+ Cost of Revenues Cost of new software license revenues consists primarily of royalties, media, manuals, and distribution costs. Cost of software license updates and
+technical support revenues consists of royalties, media, distribution costs, and personnel-related costs in providing technical support to our customers. Cost of professional service revenues consists primarily of personnel-related costs in
+providing consulting and training to customers. Gross margin on new software license revenues is substantially higher than gross margin on professional service revenues, due to the low materials, packaging and other costs of software products
+compared with the relatively high personnel costs associated with providing professional services. In connection with our acquisitions of NetMaker in March 2001 and WDM NetDesign in January 2002, we recorded acquired technology of 2.5 million. These
+acquired technologies are being amortized on a straight-line basis over five years. Amortization expense from acquired technology for the three months ended December 31, 2003 and 2002 was 125,000 and 126,000, respectively. Amortization expense
+from acquired technology for the nine months ended December 31, 2003 and 2002 was 375,000 and 377,000, respectively. Cost of New Software License Revenues. Cost of new software license revenues was 126,000 and 205,000 for the three months ended December 31, 2003
+and 2002, respectively. Gross margin on new software license revenues increased to 98.2 for the three months ended December 31, 2003 from 96.3 for the three months ended December 31, 2002. The increase in gross margins for the three months ended
+December 31, 2003 was due to an increase in revenue and proportionately fewer license sales requiring royalty payments. Cost of new software license revenues was 614,000 and 585,000 for the nine months ended December 31, 2003 and 2002,
+respectively. Gross margin on new software license revenues increased to 96.9 for the nine months ended December 31, 2003 from 96.3 for the nine months ended December 31, 2002. Cost of Software License Updates and Technical Support Revenues. Cost of software license updates and technical
+support revenues was 445,000 and 379,000 for the three months ended December 31, 2003 and 2002, respectively. Gross margin on software license updates and technical support revenues increased to 88.7 for the three months ended December 31, 2003
+from 88.3 for the three months ended December 31, 2002. Cost of software license updates and technical support revenues was 1.2 million and 1.3 million for the nine months ended December 31, 2003 and 2002, respectively. Gross margin on software
+license updates and technical support revenues increased to 89.1 for the nine months ended December 31, 2003 from 86.3 for the nine months ended December 31, 2002. The improvements in gross margin on software license updates and technical support
+revenues were due to higher revenues. Cost of
+Professional Service Revenues. Cost of professional service revenues was 2.0 million and 1.2 million for the three months ended December 31, 2003 and 2002, respectively. Gross margin on professional service revenues decreased to 39.4 for the
+three months ended December 31, 2003 from 59.8 for the three months ended December 31, 2002. Cost of professional service revenues was 5.3 million and 3.5 million for the nine months ended December 31, 2003 and 2002, respectively. Gross margin on
+professional service revenues decreased to 42.6 for the nine months ended December 31, 2003 from 60.8 for the nine months ended December 31, 2002. The increase in cost of professional service revenues and the resulting lower gross margins were
+primarily due to an increase in headcount, overhead costs, recruiting expenses and certain other costs associated with specific consulting engagements. For the three months ended December 31, 2003, our gross margin decline was partially due to lower
+productivity associated with new hires in consulting to meet demand for our services and subcontractor costs incurred to meet demand for engagements requiring security clearances. We expect cost of professional services revenues as a percentage of
+professional services revenue to vary based primarily on the profitability of individual consulting engagements. Operating Expenses Research and Development. Research and development expenses were 3.1 million and 3.2 million for the three months ended December 31, 2003 and
+2002, respectively, representing a decrease of 1.8 . Research and development expenses were 9.5 million and 9.6 million for the nine months ended December 31, 2003 and in 2002, respectively, representing a decrease of 1.3 . The decreases were the
+result of lower overhead costs, offset in part by higher personnel costs. We believe that a significant level of research and development investment will be required to maintain our competitive position and broaden our product lines, as well as
+enhance the features and functionality of our current products. We expect that the absolute dollar amount of these expenditures to grow but generally decrease as a percentage of total revenues in future periods. Our ability to decrease these
+expenses as a percentage of revenues, however, will depend upon our revenue growth, among other factors. Sales and Marketing. Sales and marketing expenses were 5.0 million and 4.5 million for the three months ended December 31, 2003 and 2002,
+respectively, representing an increase of 9.6 . Sales and marketing expenses were 14.0 million and 13.5 million for the nine months ended December 31, 2003 and 2002, respectively, representing an increase of 4 . The increases were primarily due an
+increase in the average size of our direct sales force, higher sales commission cost associated with growth in revenues, and increases in recruiting and travel costs. We anticipate that we will continue to commit substantial resources to sales and
+marketing and that sales and marketing expenses may increase both in absolute dollars and as a percentage of total revenues in the future periods. 
+ 16 
+
+Table of Contents 
+
+ General and Administrative. General and administrative expenses were 1.4 million and 1.3 million
+for the three months ended December 31, 2003 and 2002, respectively. General and administrative expenses were 4.2 million and 3.6 million for the nine months ended December 31, 2003 and 2002, respectively. The increases were primarily due to
+higher audit fees, annual shareholder meeting expenses, insurance costs and software maintenance costs associated with new financial systems that were deployed in April 2003. The increases were partially offset by lower bad debt expenses. We expect
+the dollar amount of general and administrative expenses to increase as we continue to expand our operations but generally decrease as a percentage of total revenues in future periods. Our ability to decrease these expenses as a percentage of
+revenues, however, will depend upon our revenue growth, among other factors. Interest and Other Income, Net Interest and
+other income, net were 135,000 and 192,000 for the three months ended December 31, 2003 and 2002, respectively. Interest and other income, net were 436,000 and 716,000 for the nine months ended December 31, 2003 and 2002, respectively. The
+decrease in each period was primarily due to lower yields on our cash, cash equivalents and marketable securities as a result of lower interest rates. Provision for Income Taxes Our effective tax rates were approximately 29 and 25 for the three months ended December 31, 2003 and 2002, respectively. The effective tax rates were
+31 and 25 for the nine months ended December 31, 2003 and 2002, respectively. The effective tax rate differs from the statutory tax rate and varies from period to period due principally to the amount of income before taxes from various tax
+jurisdictions and the amount of tax credits available to us in each period from incremental research expenditures. In November 2003, Maryland approved our application for a research and development tax credit for fiscal year 2002 in the amount of
+approximately 84,000. The effective tax rates for the three and nine months ended December 31, 2003 were favorably impacted by the Maryland research and development tax credit. We expect our effective tax rate in the near-term to range from 32 to 34 ; however, future provisions for taxes will
+depend, among other things, on the mix and amount of worldwide income, the tax rates in effect for various tax jurisdictions and the amount of increased research tax credits. Liquidity and Capital Resources Since inception, we have funded our operations primarily through cash provided by operating activities and through the sale of equity securities. In
+August 2000, we completed our initial public offering in which we raised approximately 54.1 million, net of underwriting discounts and offering expenses payable by us. As of December 31, 2003, we had cash, cash equivalents and marketable securities
+totaling 78.6 million. Cash provided by operating activities
+was 6.7 million and 5.6 million for the nine months ended December 31, 2003 and 2002, respectively. Cash provided by operating activities is primarily derived from net income, as adjusted for non-cash items such as depreciation and amortization
+expense and changes in operating assets and liabilities. The increase in cash provided by operating activities in the nine months ended December 2003 from the nine months ended December 31, 2002 was primarily attributable to higher net income and
+deferred revenue, due to our revenue growth. The increases were partially offset by an increase in accounts receivable resulting from our revenue growth and an increase in prepaid expenses. Net cash used in investing activities was 45.4 million and 621,000 for the
+nine months ended December 31, 2003 and 2002, respectively. For the nine months ended December 31, 2003, funds were used to purchase marketable securities of 44.6 million. For the nine months ended December 31, 2003 and 2002, funds were used to
+purchase property and equipment of 610,000 and 621,000, respectively. In December 2003, we purchased a software product used primarily for modeling voice communications for approximately 179,000. Cash provided by financing activities was 2.4 million and 742,000 for the
+nine months ended December 31, 2003 and 2002, respectively. Cash provided by financing activities reflects the proceeds received from the exercise of stock options and the sale of common stock under our 2000 Employee Stock Purchase Plan. 
+ 
+ 17 
+
+Table of Contents 
+
+ As discussed in Note 5 to our condensed consolidated financial statements, we have a credit facility with
+a commercial bank for borrowings up to 10.0 million, which expires in June 2004. Borrowings under this line of credit bear interest at an annual rate equal to LIBOR plus 2 to 2.5 . We have currently used 2.8 million of this facility for a letter
+of credit that secures the lease for our headquarters in Bethesda, Maryland. We had no outstanding borrowings under this line of credit facility as of December 31, 2003, and available borrowings at that date were 2.9 million. As of December 31, 2003, our contractual commitments include operating leases
+for office facilities, notes payable in the amount of 300,000, and a letter of credit in the amount of 2.8 million. We expect working capital needs to increase in the foreseeable future in order for us to execute our business plan. We anticipate that operating
+activities, as well as planned capital expenditures, will constitute a material use of our cash resources. In addition, we may utilize cash resources to fund acquisitions or investments in complementary businesses, technologies or products.
+ We believe that our current cash and cash equivalents and cash
+generated from operations, along with available borrowings under our line of credit facility, will be sufficient to meet our anticipated cash requirements for working capital and capital expenditures for at least the next 12 months. New Accounting Pronouncements In November 2002, the FASB issued Interpretation No. 45,
+ Guarantor s Accounting and Disclosure Requirements for Guarantees, Including Indirect Guarantees of Indebtedness of Others. Interpretation No. 45 requires a guarantor to include disclosure of certain obligations, and if applicable,
+at the inception of the guarantee, recognize a liability for the fair value of certain other obligations undertaken in issuing a guarantee. The recognition requirement was effective for guarantees issued or modified after December 31, 2002. We
+adopted Interpretation No. 45 effective December 2002 and the applicable disclosures have been made. In November 2002, the Emerging Issues Task Force (EITF) reached a consensus on Issue No. 00-21, Revenue Arrangements with Multiple
+Deliverables. Issue 00-21 provides guidance on how to account for arrangements that involve the delivery or performance of multiple products, services and/or rights to use assets. The provisions of Issue 00-21 apply to revenue arrangements
+entered into in fiscal periods beginning after June 15, 2003 but do not supersede existing authoritative guidance, including SOP 97-2. The adoption of Issue 00-21 did not have an impact on our consolidated results of operations or financial
+position. In January 2003, the FASB issued FASB Interpretation
+No. 46 FIN 46 ), Consolidation of Variable Interest Entities. In general, a variable interest entity is a corporation, partnership, trust, or any other legal structure used for business purposes that either (a) does not have
+equity investors with voting rights or (b) has equity investors that do not provide sufficient financial resources for the entity to support its activities. FIN 46 requires certain variable interest entities to be consolidated by the primary
+beneficiary of the entity if the investors do not have the characteristics of a controlling financial interest or do not have sufficient equity at risk for the entity to finance its activities without additional subordinated financial support from
+other parties. We adopted the provisions of FIN 46 effective January 1, 2003. We do not have any variable interest entities; thus adoption of FIN 46 did not have an impact on our consolidated results of operations or financial position. 
+ In April 2003, the FASB issued SFAS No. 149, Amendment of Statement
+133 on Derivative Instruments and Hedging Activities. SFAS No. 149 amends and clarifies accounting for derivative instruments, including certain derivative instruments embedded in other contracts, and for hedging activities under SFAS No. 133,
+ Accounting for Derivative Instruments and Hedging. The statement requires that contracts with comparable characteristics be accounted for similarly and clarifies when a derivative contains a financing component that warrants special
+reporting in the statement of cash flows. SFAS No. 149 is effective for contracts entered into or modified after June 30, 2003, except in certain circumstances, and for hedging relationships designated after June 30, 2003. We currently do not hedge
+foreign exchange rate risk, nor have we entered into any derivative instruments or transactions that are subject to SFAS No. 133 or SFAS No. 149. We adopted SFAS No. 149 effective July 1, 2003. The adoption of this standard did not have an effect on
+our consolidated results of operations or financial position. In May 2003, the FASB issued SFAS No. 150, Accounting for Certain Financial Instruments with Characteristics of both Liabilities and Equity. SFAS No. 150 establishes standards for how an issuer classifies and measures in its
+statement of 
+ 
+ 18 
+
+Table of Contents 
+
+financial position certain financial instruments with characteristics of both liabilities and equity. It requires that an issuer classify a financial
+instrument that is within its scope as a liability (or an asset in some circumstances) because that financial instrument embodies an obligation of the issuer. SFAS No. 150 is effective for financial instruments entered into or modified after May 31,
+2003, and otherwise is effective at the beginning of the first interim period beginning after June 15, 2003. We are not currently a party to any of the types of financial instruments that are subject to SFAS No.150. Critical Accounting Policies The preparation of our financial statements in conformity with generally
+accepted accounting principles requires us to utilize accounting policies and make estimates and assumptions that affect our reported amounts. Future results may differ from these estimates under different assumptions or conditions. We consider the
+following accounting policies to be both important to the portrayal of our financial position and results of operations and require the exercise of significant, subjective, or complex judgment and/or estimates. Revenue Recognition. We recognize revenue in accordance with Statement
+of Position SOP No. 97 2, Software Revenue Recognition, as amended by SOP No. 98-9, Modification of SOP No. 97-2, Software Revenue Recognition, With Respect to Certain Transactions, SOP No. 81-1,
+ Accounting for Performance of Construction-Type and Certain Production-Type Contracts and the Securities and Exchange Commission Staff Accounting Bulletin No. 101, Revenue Recognition in Financial Statements. For our software arrangements, a determination needs to be made for each
+arrangement regarding whether the percentage-of-completion contract accounting method should be used to recognize revenue or whether revenue can be recognized when the software is delivered and all of the conditions of SOP 97-2, as amended, are met.
+Contract accounting is required if our services are essential to the arrangement. In many cases where consulting services are sold with software licenses, our services are essential to the arrangement because they involve customization and
+enhancements, and our fees are paid in stages based upon the completion of defined service deliverables. As a result, we typically recognize revenue from these arrangements using contract accounting, which generally results in recording revenue over
+a longer period of time. In other cases, our services are not essential to the arrangement and the realization of our license fee is not dependent on the completion of such services. In these situations, we recognize software license revenue when
+(1) persuasive evidence of an arrangement exists, (2) the product has been delivered, (3) the fee is fixed or determinable, and (4) collectibility is probable, which generally results in recording revenue earlier than when contract accounting is
+used. The determination of whether our services are essential involves significant judgment and could have a material impact on our results of operations from period to period to the extent that significant new arrangements are not accounted for
+using contract accounting. Under the percentage-of-completion
+contract accounting method, we recognize revenue from the entire arrangement based on the percentage of hours actually incurred related to our services at any given time, compared to the total hours we estimate will be required to perform such
+services. Using the percentage-of-completion method requires us to make estimates about the future cost of services and estimated hours to complete, which are subject to change for a variety of internal and external factors. A change in these
+estimates could result in a material adjustment to the amount of revenue recorded in any period under the arrangement. Allowance for Doubtful Accounts. We maintain an allowance for doubtful accounts receivable for estimated losses resulting from the inability of our
+customers to make required payments and for the limited circumstances when the customer disputes the amounts due us. Our methodology for determining this allowance requires significant estimates. In estimating the allowance, we consider the age of
+the receivable, the creditworthiness of the customer, the economic conditions of the customer s industry and general economic conditions. While we believe that the estimates we use are reasonable, should any of these factors change; our
+estimates will also change, which could affect the amount of our future allowance for doubtful accounts as well as future operating income. Specifically, if the financial condition of our customers were to deteriorate, resulting in an impairment of
+their ability to make payments to us, additional allowances could be required. As of December 31, 2003, accounts receivable totaled 9.0 million, net of an allowance for doubtful accounts of 349,000. Valuation of Intangible Assets and Goodwill. We account for our
+goodwill and intangible assets in accordance with SFAS No. 141, Business Combinations and SFAS No. 142, Goodwill and Other Intangible Assets. Our intangible assets consist of acquired technology related to our acquisitions of
+NetMaker in March 2001, WDM NetDesign in January 2002, and a software product for modeling voice communications in December 2003. They are recorded at cost and amortized on a straight-line basis over their expected useful lives of five years. We use
+the projected discounted cash flow method in valuing our acquired technology, using certain assumptions including revenue growth, cost levels, present value discount rate and working capital 
+ 
+ 19 
+
+Table of Contents 
+
+requirements. While we believe the assumptions used are reasonable, actual results will likely differ from those assumptions. Future cash flows are subject
+to change for a variety of internal and external factors. We will periodically review the value of acquired technology for recoverability. Changes in our assumptions at the time of future periodic reviews could result in impairment losses. As of
+December 31, 2003, intangible assets totaled 1.4 million, net of accumulated amortization of 1.3 million. No impairment losses have been recorded to date. Goodwill is recorded when the consideration paid for acquisitions exceeds the fair value of net tangible and intangible assets acquired. Goodwill is not
+amortized. We perform an annual review during our fourth quarter to identify any facts or circumstances that indicate the carrying value of goodwill is impaired. The review is based on various analyses including cash flow and profitability
+projections and the market capitalization of our common stock. Impairment, if any, is based on the excess of the carrying amount of goodwill over its fair value. As of December 31, 2003, we had goodwill of 12.2 million. No impairment has been
+indicated to date. Accounting for Software Development
+Costs. Costs incurred in the research and development of new software products are expensed as incurred until technological feasibility is established. Development costs are capitalized beginning when a product s technological feasibility
+has been established and ending when the product is available for general release to our customers. Technological feasibility is reached when the product reaches the working model stage. To date, products and enhancements have generally reached
+technological feasibility and have been released for sale at substantially the same time and all research and development costs have been expensed. Consequently, no software development costs were capitalized for the three and nine months ended
+December 31, 2003 and 2002. Certain Factors That May Affect Future Results
+ The following important factors, among others, could
+cause actual results to differ materially from those indicated by forward-looking statements made in this report and presented elsewhere by management from time to time. Our operating results may fluctuate significantly as a result of factors outside of our control, which could
+cause the market price of our stock to decline. Our operating results have fluctuated in the past, and are likely to fluctuate significantly in the future. Our financial results may as a consequence fall short of the expectations of public market analysts or investors, which could cause
+the price of our common stock to decline. Our revenues and operating results may vary significantly from quarter to quarter due to a number of factors, many of which are beyond our control. Factors that could affect our operating results include:
+
+the timing of large orders; 
+
+changes in the proportion of software arrangements requiring contract accounting; 
+
+changes in the mix of our sales, including the mix between higher margin software products and lower margin services and maintenance, and the proportion of our license sales
+requiring us to make royalty payments; 
+
+the timing and amount of our marketing, sales, and product development expenses; 
+
+the cost and time required to develop new software products; 
+
+the introduction, timing, and market acceptance of new products introduced by us or our competitors; 
+
+changes in network technology or in applications, which could require us to modify our products or develop new products; 
+
+general economic conditions, which can affect our customers purchasing decisions, the length of our sales cycle, and our customers ability to pay us on time, if at all;
+
+changes in our pricing policies or those of our competitors; and 
+
+the timing and size of potential acquisitions by us. 
+ 20 
+
+Table of Contents 
+
+ We expect to make significant expenditures in all areas of our business, particularly sales and marketing
+operations, in order to promote future growth. Because the expenses associated with these activities are relatively fixed in the short term, we may be unable to adjust spending quickly enough to offset any unexpected shortfall in revenue growth or
+any decrease in revenue levels. In addition, our revenues in any quarter depend substantially on orders we receive and ship in that quarter. We typically receive a significant portion of orders in any quarter during the last month of the quarter,
+and we cannot predict whether those orders will be placed and shipped in that period. If we have lower revenues than we expect, we probably will not be able to reduce our operating expenses quickly in response. Therefore, any significant shortfall
+in revenues or delay of customer orders could have an immediate adverse effect on our operating results in that quarter. For all of these reasons, quarterly comparisons of our financial results are not necessarily meaningful and you should not rely on them as an indication
+of our future performance. The market for
+intelligent network management software is new and evolving, and if this market does not develop as anticipated, our revenues could decline. We derive all of our revenues from the sale of products and services that are designed to allow our customers to manage the performance of networks and
+applications. Accordingly, if the market for intelligent network management software does not continue to grow, we could face declining revenues, which could ultimately lead to our becoming unprofitable. The market for intelligent network management
+software solutions is in an early stage of development. Therefore, we cannot accurately assess the size of the market and may be unable to identify an effective distribution strategy, the competitive environment that will develop, and the
+appropriate features and prices for products to address the market. If we are to be successful, our current and potential customers must recognize the value of intelligent network management software solutions, decide to invest in the management of
+their networks, and, in particular, adopt and continue to use our software solutions. Our customers are primarily in four target groups and our operating results may be adversely affected by changes in one or more of these groups. Our software solutions and services are designed to meet the needs of
+enterprises, U.S. government agencies, service providers, and network equipment manufacturers, and we market our solutions and services to those four customer groups. Consequently, our financial results depend, in significant part, upon the economic
+conditions of enterprises, U.S. government agencies, service providers, and network equipment manufacturers. An economic downturn or adverse change in the regulatory environment or business prospects for one or more of these customer groups may
+decrease our revenues or lower our growth rate. The U.S. Department of Defense may not extend one consulting contract with us, which could harm our business. In January 2003, we were awarded a consulting contract with the U.S. Department of Defense. The funding under this contract for calendar year 2003 was
+ 3.1 million, and there are four successive option years under the contract that may be exercised by the U.S. Department of Defense in its discretion. In January 2004, U.S. Department of Defense exercised the first of four possible contract
+extensions. The funding under this contract for calendar year 2004 is 3.5 million Our results of operations could be adversely affected if any of the remaining option are not exercised, or the contract otherwise does not receive additional
+funding. A decline in information
+technology spending may result in a decrease in our revenues or lower our growth rate. A decline in the demand for information technology among our current and prospective customers may result in decreased revenues or a lower growth rate for
+us because our sales depend, in part, on our customers budgets for new or additional information technology systems and services. A continued economic downturn may cause our customers to reduce or eliminate information technology spending and
+force us to lower prices of our solutions, which would substantially reduce the number of new software licenses we sell and the average sales price for these licenses. Accordingly, we cannot assure you that we will be able to increase or maintain
+our revenues. Our sales to U.S. government
+agencies subject us to special risks that could adversely affect our business. We derive a substantial portion of our revenues from sales directly or indirectly to U.S. government agencies. Transactions with U.S. government agencies accounted for approximately 46 and 34 of our total revenues
+for the three months ended December 31, 2003 and 2002, respectively, and accounted for approximately 46 and 38 of our total revenues for the nine months ended December 31, 2003 and 2002, respectively. Government sales entail a variety of risks
+including: 
+
+Government contracts are subject to the approval of appropriations by the U.S. Congress to fund the expenditures by the agencies under these contracts. Congress often appropriates
+funds for government agencies on a yearly basis, even though their contracts may call for performance over a number of years. 
+ 21 
+
+Table of Contents 
+
+A significant decline in government expenditures generally, or a shift in budget priorities away from agencies or programs that we support, could cause a material decline in our
+government business. In particular, a decline in government spending on information technology or related services could hurt our government business. 
+
+Our products and services are included on a General Services Administration GSA schedule. We believe that the GSA schedule facilitates our sales to U.S. government
+agencies. The loss of the GSA schedule covering our products and services could adversely affect our results of operations. 
+
+We must comply with complex federal procurement laws and regulations in connection with government contracts, which may impose added costs on our business. 
+
+Some of our government business requires that we maintain facility security clearances, and requires some of our employees to maintain individual security clearances. If we were to
+lose these clearances, our government business might decline. 
+
+The federal government audits and reviews the performance of federal contractors on contracts, pricing practices, cost structure, and compliance with applicable laws, regulations,
+and standards. An audit of our work could result in a finding that we overcharged the government, which could result in an adjustment to our previously reported operating results. If a government audit uncovers improper or illegal activities, we may
+be subject to civil and criminal penalties and administrative sanctions, including termination of contracts, forfeiture of profits, suspension of payments, fines, and suspension or debarment from doing business with U.S. federal government agencies.
+
+Many of our government contracts are firm fixed-price contracts. To the extent that the assumptions we have used in pricing these contracts prove inaccurate, we could incur losses
+on contracts, which would adversely affect our operating results. 
+
+A portion of our sales to the U.S. government are made indirectly as a subcontractor to another government contractor, referred to as the prime contractor, who has the direct
+relationship with the government. We also team with prime contractors to bid on competitive government opportunities for which we hope to serve as a subcontractor. If prime contractors lose existing business on which we serve as a subcontractor, or
+fail to win the competitive bids on which we team with them, our government business would be hurt. 
+
+We could face expense and delay if any or our competitors, or competitors of the prime contractors to which we serve as a subcontractor, protest or challenge contract awards made to
+us or our prime contractors pursuant to competitive bidding. 
+
+Federal government contracts contain provisions and are subject to laws and regulations that provide government clients with rights and remedies not typically found in commercial
+contracts. These rights and remedies allow government clients, among other things, to terminate existing contracts, with short notice, for convenience without cause; reduce or modify contracts or subcontracts; and claim rights in products, systems,
+and technology produced by us. If
+our newest products, particularly those targeted primarily for enterprises and U.S. government agencies, do not gain widespread market acceptance, our revenues might not increase and could even decline. We expect to derive a substantial portion of our revenues in the future from
+sales to enterprises and U.S. government agencies of version 10.0 of OPNET IT Guru, which was released in August 2003, and its associated modules including Application Characterization Environment , ACE Decode Module ,
+ NetDoctor and Flow Analysi s, and OPNET VNE Server , which was released in June 2002. Our business depends on customer acceptance of these products and our revenues may not increase, or may even decline, if our target customers do
+not adopt and expand their use of our products. In addition, if our 
+ 
+ 22 
+
+Table of Contents 
+
+OPNET Modeler product, which we have been selling since 1987, continues to encounter declining sales, which could occur for a variety of reasons,
+including market saturation and the financial condition of network equipment manufacturers, and sales of our newer products do not grow at a rate sufficient to offset the shortfall, our revenues would decline. We may not be able to grow our business if service providers do
+not buy our products. An element of our
+strategy is to increase sales to service providers of OPNET SP Guru and OPNET WDM Guru , both launched in fiscal 2002, and OPNET VNE Server , which was launched in fiscal 2003. Accordingly, if our products fail to perform
+favorably in the service provider environment, or fail to gain wider adoption by service providers, our business and future operating results could suffer. Our lengthy and variable sales cycle makes it difficult to predict operating results. 
+ It is difficult for us to forecast the timing and
+recognition of revenues from sales of our products because prospective customers often take significant time evaluating our products before licensing them. The period between initial customer contact and a purchase by a customer may vary from three
+months to more than a year. During the sales process, the customer may decide not to purchase or may reduce proposed orders of our products for various reasons, including changes in budgets and purchasing priorities. Our prospective customers
+routinely require education regarding the use and benefit of our products. This may also lead to delays in receiving customers orders. If we do not successfully expand our sales force, we may be unable to increase our sales. We sell our products primarily through our direct sales force, and we must
+expand the size of our sales force to increase revenues. If we are unable to hire or retain qualified sales personnel, if newly hired personnel fail to develop the necessary skills to be productive, or if they reach productivity more slowly than
+anticipated, our ability to increase our revenues and grow our business could be compromised. Our sales people require a long period of time to become productive, typically three to nine months. The time required to reach productivity, as well as
+the challenge of attracting, training, and retaining qualified candidates, may make it difficult to meet our sales force growth targets. Further, we may not generate sufficient sales to offset the increased expense resulting from growing our sales
+force, or we may be unable to manage a larger sales force. Our ability to increase our sales will be impaired if we do not expand and manage our indirect distribution channels. To increase our sales, we must, among other things, further expand and manage our indirect distribution channels, which consist primarily of international
+distributors and original equipment manufacturers and resellers. If we are unable to expand and manage our relationships with our distributors, our distributors are unable or unwilling to market and sell our products effectively, or we lose existing
+distributor relationships, we might not be able to increase our revenues. Our international distributors and original equipment manufacturers and resellers have no obligation to market or purchase our products. In addition, they could partner with
+our competitors, bundle or resell competitors products, or internally develop products that compete with our products. We may not be able to successfully manage our expanding operations, which could impair our ability to operate profitably. 
+ We may be unable to operate our business profitably if we
+fail to manage our growth. Our rapid growth has sometimes strained, and may in the future continue to strain, our managerial, administrative, operational, and financial resources and controls. We plan to continue to expand our operations and
+increase the number of our full-time employees. Our ability to manage growth will depend in part on our ability to continue to enhance our operating, financial, and management information systems. Our personnel, systems, and controls may not be
+adequate to support our growth. In addition, our revenues may not continue to grow at a sufficient rate to absorb the costs associated with a larger overall employee base. If we are unable to introduce new and enhanced products on a timely basis that respond effectively to changing
+technology, our revenues may decline. Our
+market is characterized by rapid technological change, changes in customer requirements, frequent new product and service introductions and enhancements, and evolving industry standards. If we fail to develop and introduce new and enhanced products
+on a timely basis that respond to these changes, our products could become obsolete, demand for our products could 
+ 
+ 23 
+
+Table of Contents 
+
+decline and our revenues could fall. Advances in network management technology, software engineering, and simulation technology, or the emergence of new
+industry standards, could lead to new competitive products that have better performance, more features, or lower prices than our products and could render our products unmarketable. Our future revenues are substantially dependent upon our existing customers continuing to license additional
+products, renew maintenance agreements and purchase additional services. Our existing customers have traditionally generated additional revenues from consulting services, renewed maintenance agreements and purchase of additional software licenses, which represents a majority of our annual
+revenues. The maintenance agreements are generally renewable at the option of the customers and there are no mandatory payment obligations or obligations to license additional software. In addition, customers may decide not to purchase additional
+products or services. If our existing customers fail to renew their maintenance agreements or purchase additional products or services, our revenues could decrease. Increases in professional service revenues as a percentage of total revenues could decrease overall
+margins. We realize lower margins on
+professional service revenues than we do on other types of revenues. As a result, if professional service revenues increase as a proportion of total revenues, our gross margins will be lower. If we fail to retain our key personnel and attract and retain
+additional qualified personnel, we might not be able to maintain our current level of revenues. Our future success and our ability to maintain our current level of revenues depend upon the continued service of our executive officers and other key
+sales and research and development personnel. The loss of any of our key employees, in particular Marc A. Cohen, our chairman of the board and chief executive officer, and Alain J. Cohen, our president and chief technology officer, could also
+adversely affect our ability to pursue our growth strategy. We do not have employment agreements or any other agreements that obligate any of our officers or key employees to remain with us. We must also continue to hire highly qualified individuals, particularly
+software engineers and sales and marketing personnel. Our failure to attract and retain technical personnel for our product development, consulting services, and technical support teams may limit our ability to develop new products or product
+enhancements. Competition for these individuals is intense, and we may not be able to attract and retain additional highly qualified personnel in the future. In addition, limitations imposed by federal immigration laws and the availability of visas
+could impair our ability to recruit and employ skilled technical professionals from other countries to work in the United States. Our international operations subject our business to additional risks, which could cause our sales or profitability to decline. 
+ We plan to increase our international sales activities,
+but these plans are subject to a number of risks that could cause our sales to decline or could otherwise cause a decline in profitability. These risks include: 
+
+difficulty in attracting distributors that will market and support our products effectively; 
+
+greater difficulty in accounts receivable collection and longer collection periods; 
+
+the need to comply with varying employment policies and regulations that could make it more difficult and expensive to manage our employees if we need to establish more direct sales
+or support staff outside the United States; 
+
+potentially adverse tax consequences; 
+
+the effects of currency fluctuations; and 
+
+political and economic instability. 
+ 24 
+
+Table of Contents 
+
+ We expect to face increased competition, which could cause us to lose sales, resulting in
+lower profitability. Increasing competition in
+our market could cause us to lose sales and become unprofitable. We believe that the market for intelligent network management software is likely to become more competitive as it evolves and the demand for intelligent network management solutions
+continues to increase. At least one of our current competitors and many of our potential competitors are larger and have substantially greater financial and technical resources than we do. In addition, it is possible that other vendors as well as
+some of our customers or distributors will develop and market solutions that compete with our products in the future. If our products contain errors and we are unable to correct those errors, our reputation could be harmed and our customers could demand
+refunds from us or assert claims for damages against us. Our software products could contain significant errors or bugs that may result in: 
+
+the loss of or delay in market acceptance and sales of our products; 
+
+the delay in introduction of new products or updates to existing products; 
+
+diversion of our resources; 
+
+injury to our reputation; and 
+
+increased support costs. Bugs may be discovered at any point in a product s life cycle. We expect that errors in our products will be found in the future, particularly in new
+product offerings and new releases of our current products. Because our customers use our products to manage networks that are critical to their business operations, any failure of our products could expose us to product liability claims. In addition, errors in our products could cause our
+customers networks and systems to fail or compromise their data, which could also result in liability to us. Product liability claims brought against us could divert the attention of management and key personnel, could be expensive to defend,
+and may result in adverse settlements and judgments. Our software products rely on our intellectual property, and any failure to protect our intellectual property could enable our competitors to market products with similar features that may reduce our revenues and could allow
+the use of our products by users who have not paid the required license fee. If we are unable to protect our intellectual property, our competitors could use our intellectual property to market products similar to our products, which could reduce our revenues. In addition, we may be unable to
+prevent the use of our products by persons who have not paid the required license fee, which could reduce our revenues. Our success and ability to compete depend substantially upon the internally developed technology that is incorporated in our
+products. Policing unauthorized use of our products is difficult, and we may not be able to prevent misappropriation of our technology, particularly in foreign countries where the laws may not protect our proprietary rights as fully as those in the
+United States. Others may circumvent the patents, copyrights, and trade secrets we own. In the ordinary course of business, we enter into a combination of confidentiality, non-competition and non-disclosure agreements with our employees. 
+ These measures afford only limited protection and may be inadequate,
+especially because our employees are highly sought after and may leave our employ with significant knowledge of our proprietary information. In addition, any confidentiality, non-competition and non-disclosure agreements we enter into may be found
+to be unenforceable, or our copy protection mechanisms embedded in our software products could fail or could be circumvented. Our products employ technology that may infringe on the proprietary rights of others, and, as a result, we could become liable for
+significant damages. We expect that our
+software products may be increasingly subject to third-party infringement claims as the number of competitors in our industry segment grows and the functionalities of products in different industry segments overlap. 
+ 25 
+
+Table of Contents 
+
+ Regardless of whether these claims have any merit, they could: 
+
+be time-consuming to defend; 
+
+result in costly litigation; 
+
+divert our management s attention and resources; 
+
+cause us to cease or delay product shipments; or 
+
+require us to enter into royalty or licensing agreements. These royalty or licensing agreements may not be available on terms acceptable to us, if at all. A successful claim of product infringement against us or
+our failure or inability to license the infringed or similar technology could adversely affect our business because we would not be able to sell the affected product without redeveloping it or incurring significant additional expense. Future interpretations of existing accounting standards could
+adversely affect our operating results. The
+American Institute of Certified Public Accountants and its Software Revenue Recognition Task Force continue to issue interpretations and guidance for applying the relevant standards to a wide range of sales contract terms and business arrangements
+that are prevalent in the software industry. Future interpretations of existing accounting standards or changes in our business practices could result in future changes in our revenue recognition accounting policies that could have a material
+adverse effect on our results of operations. As
+with other software vendors, we may be required to delay revenue recognition into future periods, which could adversely affect our operating results. We have in the past had to, and in the future may have to, defer recognition for license fees due to several factors,
+including whether: 
+
+software arrangements include undelivered elements for which we do not have vendor specific evidence of fair value; 
+
+we must deliver services for significant customization, enhancements and modifications of our software; 
+
+the transaction involves material acceptance criteria or there are other identified product-related issues; 
+
+the transaction involves contingent payment terms or fees; 
+
+we are required to accept a fixed-fee services contract; or 
+
+we are required to accept extended payment terms. Because of the factors listed above and other specific requirements under accounting principles generally accepted in the United States of America for
+software revenue recognition, we must have very precise terms in our software arrangements in order to recognize revenue when we initially deliver software or perform services. Negotiation of mutually acceptable terms and conditions can extend the
+sales cycle, and sometimes we do not obtain terms and conditions that permit revenue recognition at the time of delivery. If we undertake acquisitions, they may be expensive and disruptive to our business and could cause the market price of our common stock to
+decline. We completed the NetMaker and WDM
+NetDesign acquisition in March 2001 and January 2002, respectively. We may continue to acquire or make investments in companies, products or technologies if opportunities arise. Any acquisition could be expensive, disrupt our ongoing business,
+distract our management and employees, and adversely affect our financial results and the market price of our common stock. We may not be able to identify suitable acquisition or investment candidates, and if we do identify suitable candidates, we
+may not be able to make these acquisitions or investments on commercially acceptable terms or at all. If we make an acquisition, we could have difficulty integrating the acquired technology, employees, or operations. In addition, the key personnel
+of the acquired company may decide not to work for us. 
+ 26 
+
+Table of Contents 
+
+ We also expect that we would incur substantial expenses if we acquired other businesses or technologies.
+We might use cash on hand, incur debt, or issue equity securities to pay for any future acquisitions. If we issue additional equity securities, our stockholders could experience dilution and the market price of our stock may decline. Our products are subject to changing computing environments,
+including operating system software and hardware platforms, which could render our products obsolete. The evolution of existing computing environments and the introduction of new popular computing environments may require us to redesign our products or
+develop new products. Computing environments, including operating system software and hardware platforms, are complex and change rapidly. Our products are designed to operate in currently popular computing environments. Due to the long development
+and testing periods required to adapt our products to new or modified computing environments, our research and development efforts could be distracted and we could experience significant delays in product releases or shipments, which could result in
+lost revenues and significant additional expense. 
+
+ITEM 3. 
+ QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK We consider all highly liquid investments purchased with a maturity of three months or less to be cash equivalents, and those with maturities greater than
+three months are considered to be marketable securities. Cash equivalents and marketable securities consist primarily of investment grade securities with high credit ratings of relatively short duration that trade in highly liquid markets.
+Accordingly, we have no quantitative information concerning the market risks and believe that the risk is minimal. Our outstanding notes payable have fixed interest rates and their carrying values approximate fair value. We currently do not hedge
+interest rate exposure, but do not believe that an increase in interest rates would have a material effect on the value of our cash equivalents, marketable securities or notes payable. At December 31, 2003, we had 33.9 million in cash and cash equivalents and 44.6 million in marketable securities. Based on
+our cash, cash equivalents, and marketable securities as of December 31, 2003, a hypothetical 10 increase/decrease in the interest rates would increase/decrease our annual interest income and cash flows by approximately 70,000. A majority of our revenue transactions outside the United States are
+denominated in U.S. dollars. The operating expenses of our foreign subsidiaries are denominated in local currencies. We currently do not hedge foreign exchange rate risk. Due to the limited nature of our foreign operations, we do not believe that a
+5 change in exchange rates would have a material effect on our business, financial condition, or results of operations. 
+
+ITEM 4. 
+ CONTROLS AND PROCEDURES We maintain a system of internal controls and procedures that are designed to provide reasonable assurance that information required to be disclosed by us
+in the reports that we file under the Exchange Act is recorded, processed, summarized and reported within required time periods. Our Chief Executive Officer and our Chief Financial Officer have evaluated the effectiveness of our disclosure controls
+and procedures as of December 31, 2003, and have each concluded that, as of the evaluation date, such controls and procedures were effective, in all material respects, to ensure that required information will be disclosed on a timely basis in our
+reports filed under the Exchange Act. During the three months
+ended December 31, 2003, there have been no changes to our internal control over financial reporting that have materially affected, or are reasonably likely to materially affect, our internal control over financial reporting. Subsequent to the date of the evaluation, there have been no significant
+changes to our internal controls or in other factors that could significantly affect our internal controls. 
+ 27 
+
+Table of Contents 
+
+PART II. OTHER INFORMATION 
+
+ITEM 1. 
+ Legal Proceedings OPNET is involved in various claims and legal proceedings arising from its normal operations. Management does not consider any of those matters to be
+material. 
+
+ITEM 2. 
+ Changes in Securities and Use of Proceeds In August 2000, we closed an initial public offering of our common stock. The Registration Statement on Form S-1 (No. 333-32588) was declared effective by
+the Securities and Exchange Commission on August 1, 2000 and we commenced the offering on that date. After deducting the underwriting discounts and commissions and the offering expenses, the net proceeds from the offering were approximately 54.1
+million. As of December 31, 2003, the proceeds from the
+offering have been used to fund approximately (i) 7.6 million of general corporate expenses, working capital and capital expenditures, including 4.8 million for capital expenditures and leasehold improvements related to our headquarters facility
+in Bethesda, MD, (ii) 6.2 million of acquisition and acquisition-related expenses for the NetMaker acquisition, and (iii) 1.4 million of the purchase price for WDM NetDesign. None of these amounts were paid directly or indirectly to any director,
+officer, or general partner of us or their associates, persons owning 10 or more of any class of our equity securities, or any affiliate of us. We have not allocated any of the remaining net proceeds to any identifiable uses. We may also use a
+portion of the net proceeds to acquire businesses, products, or technologies that are complementary to our business. Pending their use, we have invested the net proceeds in investment grade, interest-bearing securities. 
+
+ITEM 4. 
+ Submission of Matters to a Vote of Security Holders At the Annual Meeting of Stockholders of the Company held on November 18, 2003, (i) the Company s nominees for Class
+III Directors for the ensuing three years were elected and the selection of Deloitte Touche LLP as the Company s independent auditor s for the current fiscal year was ratified. With respect to the election of the Class III Directors, the voting was as
+follows: 
+
+Nominees 
+ 
+ For 
+ 
+ Withheld 
+ 
+ Marc A. Cohen 
+ 
+ 14,575,080 
+ 
+ 4,312,708 
+ 
+ William F. Stasior 
+ 
+ 18,450,043 
+ 
+ 437,745 
+ With respect to the
+ratification of the selection of Deloitte Touche LLP as the Company s independent auditors for the current fiscal year, the voting was as follows: 
+
+For 
+ 
+ 18,545,518 
+ 
+ Against 
+ 
+ 309,562 
+ 
+ Abstain 
+ 
+ 32,708 
+ 
+ 28 
+
+Table of Contents 
+
+ITEM 6. 
+ Exhibits and Reports on Form 8-K 
+
+A. 
+ Exhibits: See Exhibit Index 
+
+B. 
+ Reports on Form 8-K Current report on Form 8-K furnished to the SEC on January 28, 2004, furnished information under Item 7. Financial Statements, Pro Forma Financial
+Information and Exhibits and Item 12. Disclosure of Operations and Financial Condition of Form 8-K 
+ 29 
+
+Table of Contents 
+
+SIGNATURE Pursuant to the
+requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized. 
+
+OPNET TECHNOLOGIES, INC. 
+
+(Registrant) 
+
+By: 
+ 
+ /s/ Joseph W. Kuhn 
+ 
+ Date: January 29, 2004 
+ 
+ Name: 
+ 
+ Joseph W. Kuhn 
+
+Title: 
+ 
+ Vice President of Finance and 
+
+Chief Financial Officer (Principal Financial and Accounting Officer) 
+ 
+ 30 
+
+Table of Contents 
+
+OPNET TECHNOLOGIES, INC. EXHIBIT INDEX 
+
+Exhibit Number 
+ 
+ Description 
+ 
+ Source 
+
+3.1 
+ 
+ Third Amended and Restated Certificate of Incorporation of the Registrant 
+ 
+ Incorporated by reference from exhibit 3.2 to the Registrant s Registration Statement on Form S-1 (File No. 333-2588). 
+
+3.2 
+ 
+ Amended and Restated By-Laws of the Registrant 
+ 
+ Incorporated by reference from exhibit 3.4 to the Registrant s Registration Statement on Form S-1 (File No. 333-2588). 
+
+4.1 
+ 
+ Specimen common stock certificate 
+ 
+ Incorporated by reference from exhibit 4.1 to the Registrant s Registration Statement on Form S-1 (File No. 333-2588). 
+
+4.2 
+ 
+ See Exhibits 3.1 and 3.2 for provisions of the Certificate of Incorporation and By-Laws of the Registrant defining the rights of holders of common stock of the Registrant 
+ 
+ Incorporated by reference from exhibit 4.2 to the Registrant s Registration Statement on Form S-1 (File No. 333-2588). 
+
+31.1 
+ 
+ Certification of the Chief Executive Officer Pursuant to Rule 13a-14(a) of the Securities Exchange Act of 1934, as amended 
+ 
+ Exhibit 31.1 to this Quarterly Report on Form 10-Q. 
+
+31.2 
+ 
+ Certification of the Chief Financial Officer Pursuant to Rule 13a-14(a) of the Securities Exchange Act of 1934, as amended 
+ 
+ Exhibit 31.2 to this Quarterly Report on Form 10-Q. 
+
+32.1 
+ 
+ Certification of Chief Executive Officer pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002 
+ 
+ Exhibit 32.1 to this Quarterly Report on Form 10-Q. 
+
+32.2 
+ 
+ Certification of Chief Financial Officer pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002 
+ 
+ Exhibit 32.2 to this Quarterly Report on Form 10-Q. 
+
+filed herewith 
+ 31 
+
+<EX-31.1>
+ 3
+ dex311.htm
+ EXHIBIT 31.1
+
+EXHIBIT 31.1 
+
+Exhibit 31.1 Certification of the Chief Executive Officer Pursuant to Rule 13a-14(a) of the Securities Exchange Act of 1934, as amended I, Marc A. Cohen, certify that: 
+
+1. 
+ I have reviewed this quarterly report on Form 10-Q of OPNET Technologies, Inc.; 
+
+2. 
+ Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the
+circumstances under which such statements were made, not misleading with respect to the period covered by this report; 
+
+3. 
+ Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of
+operations and cash flows of the registrant as of, and for, the periods presented in this report; 
+
+4. 
+ The registrant s other certifying officer and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e)
+and 15d-15(e)) for the registrant and have: 
+
+a) 
+ Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information
+relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared; 
+
+b) 
+ [Paragraph omitted in accordance with SEC transition instructions contained in SEC Release 34-47986]; 
+
+c) 
+ Evaluated the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure
+controls and procedures, as of the end of the period covered by this report based on such evaluation; and 
+
+d) 
+ Disclosed in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s most recent fiscal quarter (the
+registrant s fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant s internal control over financial reporting; and 
+
+5. 
+ The registrant s other certifying officer and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant s
+auditors and the audit committee of registrant s board of directors (or persons performing the equivalent function): 
+
+a) 
+ All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the
+registrant s ability to record, process, summarize and report financial information; and 
+
+b) 
+ Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s internal control over financial reporting.
+
+Dated: January 29, 2004 
+ 
+ By: 
+ 
+ /s/ Marc A. Cohen 
+
+Marc A. Cohen 
+
+Chairman and Chief Executive Officer (Principal Executive Officer) 
+
+</EX-31.1>
+
+<EX-31.2>
+ 4
+ dex312.htm
+ EXHIBIT31.2
+
+EXHIBIT31.2 
+
+Exhibit 31.2 Certification of the Chief Financial Officer Pursuant to Rule 13a-14(a) of the Securities Exchange Act of 1934, as amended I, Joseph W. Kuhn, certify that: 
+
+1. 
+ I have reviewed this quarterly report on Form 10-Q of OPNET Technologies, Inc.; 
+
+2. 
+ Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the
+circumstances under which such statements were made, not misleading with respect to the period covered by this report; 
+
+3. 
+ Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of
+operations and cash flows of the registrant as of, and for, the periods presented in this report; 
+
+4. 
+ The registrant s other certifying officer and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e)
+and 15d-15(e)) for the registrant and we have: 
+
+a) 
+ Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information
+relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared; 
+
+b) 
+ [Paragraph omitted in accordance with SEC transition instructions contained in SEC Release 34-47986]; 
+
+c) 
+ Evaluated the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure
+controls and procedures, as of the end of the period covered by this report based on such evaluation; and 
+
+d) 
+ Disclosed in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s most recent fiscal quarter (the
+registrant s fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant s internal control over financial reporting; and 
+
+5. 
+ The registrant s other certifying officer and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant s
+auditors and the audit committee of registrant s board of directors (or persons performing the equivalent function): 
+
+a) 
+ All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the
+registrant s ability to record, process, summarize and report financial information; and 
+
+b) 
+ Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s internal control over financial reporting.
+
+Dated: January 29, 2004 
+ 
+ By: 
+ 
+ /s/ Joseph W. Kuhn 
+
+Joseph W. Kuhn 
+
+Vice President and Chief Financial Officer (Principal Financial and Accounting Officer) 
+
+</EX-31.2>
+
+<EX-32.1>
+ 5
+ dex321.htm
+ EXHIBIT 32.1
+
+EXHIBIT 32.1 
+
+Exhibit 32.1 Certification of Chief Executive Officer pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002 In connection with this quarterly report on Form 10-Q of OPNET Technologies, Inc. (the Company ), I, Marc A. Cohen, Chief Executive Officer of the Company,
+certify, pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002, that: 
+
+(1) 
+ The Report fully complies with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act of 1934; and 
+
+(2) 
+ The information contained in the Report fairly presents, in all material respects, the financial condition and results of operations of the Company. 
+
+Dated: January 29, 2004 
+ 
+ By: 
+ 
+ /s/ Marc A. Cohen 
+
+Marc A. Cohen 
+
+Chairman and Chief Executive Officer 
+ A signed original of this written
+statement required by 18 U.S.C. Section 1350 has been provided to OPNET Technologies, Inc. and will be retained by OPNET Technologies, Inc. and furnished to the Securities and Exchange Commission or its staff upon request. 
+
+</EX-32.1>
+
+<EX-32.2>
+ 6
+ dex322.htm
+ EXHIBIT 32.2
+
+EXHIBIT 32.2 
+
+Exhibit 32.2 Certification of Chief Financial Officer pursuant to U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002 In connection with this quarterly report on Form 10-Q of OPNET Technologies, Inc. (the Company ), I, Joseph W. Kuhn, Chief Financial Officer of the Company,
+certify, pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002, that: 
+
+(1) 
+ The Report fully complies with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act of 1934; and 
+
+(2) 
+ The information contained in the Report fairly presents, in all material respects, the financial condition and results of operations of the Company. 
+
+Dated: January 29, 2004 
+ 
+ By: 
+ 
+ /s/ Joseph W. Kuhn 
+
+Joseph W. Kuhn 
+
+Vice President and Chief Financial Officer 
+ A signed original of this written
+statement required by 18 U.S.C. Section 1350 has been provided to OPNET Technologies, Inc. and will be retained by OPNET Technologies, Inc. and furnished to the Securities and Exchange Commission or its staff upon request. 
+
+</EX-32.2>
+

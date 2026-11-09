@@ -1,0 +1,2924 @@
+<Header>
+<FileStats>
+    <FileName>20040114_10-Q_edgar_data_1023139_0001157523-04-000220.txt</FileName>
+    <GrossFileSize>171720</GrossFileSize>
+    <NetFileSize>126957</NetFileSize>
+    <NonText_DocumentType_Chars>0</NonText_DocumentType_Chars>
+    <HTML_Chars>1218</HTML_Chars>
+    <XBRL_Chars>0</XBRL_Chars>
+    <XML_Chars>0</XML_Chars>
+    <N_Exhibits>4</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0001157523-04-000220.hdr.sgml : 20040114
+<ACCEPTANCE-DATETIME>20040114171125
+ACCESSION NUMBER:		0001157523-04-000220
+CONFORMED SUBMISSION TYPE:	10-Q
+PUBLIC DOCUMENT COUNT:		5
+CONFORMED PERIOD OF REPORT:	20031130
+FILED AS OF DATE:		20040114
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			EAGLE BROADBAND INC
+		CENTRAL INDEX KEY:			0001023139
+		STANDARD INDUSTRIAL CLASSIFICATION:	WATER, SEWER, PIPELINE, COMM AND POWER LINE CONSTRUCTION [1623]
+		IRS NUMBER:				760494995
+		STATE OF INCORPORATION:			TX
+		FISCAL YEAR END:			0831
+
+	FILING VALUES:
+		FORM TYPE:		10-Q
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-15649
+		FILM NUMBER:		04525577
+
+	BUSINESS ADDRESS:	
+		STREET 1:		101 COURAGEOUS DR
+		CITY:			LEAGUE CITY
+		STATE:			TX
+		ZIP:			77573
+		BUSINESS PHONE:		2815386000
+
+	MAIL ADDRESS:	
+		STREET 1:		101 COURAGEOUR DR
+		CITY:			LEAGUE CITY
+		STATE:			TX
+		ZIP:			77573
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	EAGLE WIRELESS INTERNATIONAL INC
+		DATE OF NAME CHANGE:	19971201
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	EAGLE TELECOM INTERNATIONAL INC
+		DATE OF NAME CHANGE:	19961217
+
+</SEC-Header>
+</Header>
+
+ 
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ IGsn32I0TRfet1a1SqcskmWUK8Sv94NkVlVqmRhQ2Ml33gapi6ji6vN/JYfYy3PJ
+ TB1AA5nijfGTf86HuA8Pbg==
+
+ 0001157523-04-000220.txt : 20040114
+
+10-Q
+ 1
+ a4549501.txt
+ EAGLE BROADBAND, INC. 10-Q
+
+U.S. SECURITIES AND EXCHANGE COMMISSION
+ Washington, DC 20549
+ -----------
+
+ FORM 10-Q
+ -----------
+
+[X] QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES
+ EXCHANGE ACT OF 1934 FOR THE QUARTERLY PERIOD ENDED NOVEMBER 30, 2003
+
+[ ] TRANSITION REPORT PURSUANT TO SECTION 13 or 15(d) OF THE SECURITIES
+ EXCHANGE ACT OF 1934 FOR THE TRANSITION PERIOD FROM _____ TO _____
+
+ Commission File Number: 000-23163
+
+EAGLE BROADBAND, INC.
+ (Exact name of registrant as specified in its charter)
+
+ Texas 76-0494995
+ (State or other jurisdiction) (IRS Employer
+ of incorporation or organization Identification No.)
+
+ 101 Courageous Drive
+ League City Texas 77573-3925
+ (Address of principal executive offices, including zip code)
+
+ (281) 538-6000
+ (Registrant's telephone number, including area code)
+ -------------
+
+Indicate by check mark whether the registrant (i) has filed all reports required
+to be filed by Section 13 or 15(d) of the Exchange Act during the past 12 months
+(or for such shorter period that the registrant was required to file such
+reports), and (ii) has been subject to such filing requirements for the past 90
+days. Yes [X] No [ ]
+
+Indicate by check mark whether the registrant is an accelerated filer
+(as defined in Rule 12b-2 of the Act). Yes [ ] No [ X ]
+
+As of January 9, 2004, there were 189,044,593 shares of common stock
+outstanding.
+
+EAGLE BROADBAND, INC. AND SUBSIDIARIES
+ Form 10-Q
+ For the Quarter Ended November 30, 2003
+
+ Table of Contents
+
+Part 1 - Financial Information Page
+
+Item 1. Consolidated Financial Statements (Unaudited)
+
+ Consolidated Balance Sheets at November 30, 2003, and August 31, 2003 3
+
+ Consolidated Statements of Operations for the Three
+ Months Ended November 30, 2003 and 2002 4
+
+ Consolidated Statements of Changes In Shareholders' Equity for the
+ Three Months Ended November 30, 2003, and Twelve Months Ended
+ August 31, 2003 5
+
+ Consolidated Statements of Cash Flows for the Three Months Ended
+ November 30, 2003 and 2002 6
+
+ Notes to the Consolidated Financial Statements 7
+
+ Item 2. Management's Discussion and Analysis of Financial
+ Condition and Results of Operations 24
+
+ Item 3. Quantitative and Qualitative Disclosures about Market Risk 30
+
+ Item 4. Controls and Procedures 31
+
+Part 2 - Other Information
+
+ Item 1. Legal Proceedings 31
+
+ Item 2. Recent Sales of Unregistered Securities or Changes
+ in Securities and Use of Proceeds. 31
+
+ Item 3. Defaults Upon Senior Securities 31
+
+ Item 4. Submission of Matters to a Vote of Security Holders 31
+
+ Item 5. Other Information 31
+
+ Item 6. Exhibits and Reports on Form 8-K 31
+
+Signatures 33
+
+EAGLE BROADBAND, INC. AND SUBSIDIARIES
+ CONSOLIDATED BALANCE SHEETS
+ (In thousands)
+
+ASSETS
+ November 30, August 31,
+ 2003 2003
+ ---- ----
+ (Unaudited) (Audited)
+Current Assets:
+ 
+ Cash and Cash Equivalents 7,550 2,538
+ Accounts Receivable, net 2,402 1,704
+ Inventories 3,855 3,199
+ Prepaid Expenses 651 668
+ ------------- ---------------
+ Total Current Assets 14,458 8,109
+
+Property and Equipment:
+ Operating Equipment 36,575 36,422
+ Less: Accumulated Depreciation (6,302) (5,689)
+ ------------- --------------
+ Total Property and Equipment 30,273 30,733
+
+Other Assets:
+ Deferred Costs 334 334
+ Goodwill 76,273 76,273
+ Other Intangible Assets 5,330 5,330
+ Other Assets 239 227
+ ------------- --------------
+
+ Total Other Assets 82,176 82,164
+ ------------- --------------
+
+Total Assets 126,907 121,006
+ ============= ==============
+
+ LIABILITIES AND SHAREHOLDERS' EQUITY
+Current Liabilities:
+ Accounts Payable 5,740 5,461
+ Accrued Expenses 4,432 7,790
+ Notes Payable 7,187 5,779
+ Deferred Revenue 441 ---
+ ------------- --------------
+
+ Total Current Liabilities 17,800 19,030
+
+ Commitments and Contingent Liabilities
+
+Shareholders' Equity:
+ Preferred Stock - .001 par value
+ Authorized 5,000,000 shares
+ Issued -0- shares --- ---
+ Common Stock - .001 par value
+ Authorized 200,000,000 shares
+ Issued and Outstanding at November 30, 2003, and
+ August 31, 2003, 185,058,000 and 147,447,000, respectively 185 147
+ Paid in Capital 192,262 177,017
+ Retained Earnings (83,340) (75,188)
+ ------------- --------------
+
+ Total Shareholders' Equity 109,107 101,976
+ ------------- --------------
+
+Total Liabilities and Shareholders' Equity 126,907 121,006
+ ============= ==============
+
+See accompanying notes to consolidated financial statements.
+
+3
+ 
+ EAGLE BROADBAND, INC. AND SUBSIDIARIES
+ CONSOLIDATED STATEMENTS OF OPERATIONS
+ (In thousands)
+
+For the Three Months ended November 30,
+ (Unaudited)
+ ---------------- ----------------
+ 2003 2002
+ ---------------- ----------------
+ 
+Net Sales:
+ Structured wiring 392 1,560
+ Broadband services 1,564 674
+ Products 361 2,044
+ Other 80 340
+ ---------------- ----------------
+Total Sales 2,397 4,618
+ ---------------- ----------------
+
+Costs of Goods Sold:
+ Direct Labor and Related Costs 462 346
+ Products and Integration Service 137 1,537
+ Structured Wiring Labor and Materials 205 229
+ Broadband Services Costs 190 276
+ Depreciation and Amortization 285 114
+ Other Manufacturing Costs 16 124
+ ---------------- ----------------
+ Total Costs of Goods Sold 1,295 2,626
+ ---------------- ----------------
+ Gross Profit 1,102 1,992
+ ---------------- ----------------
+
+Operating Expenses:
+ Selling, General and Administrative:
+ Salaries and Related Costs 959 1,508
+ Advertising and Promotion 18 37
+ Depreciation and Amortization 319 153
+ Other Support Costs 1,424 934
+ Research and Development 119 32
+ ---------------- ----------------
+Total Operating Expenses 2,839 2,664
+ ---------------- ----------------
+
+Loss from Operations (1,737) (672)
+
+Other Income/(Expenses)
+ Interest income, 4 4
+ Interest (expense) (7,080) (163)
+ Gain on Sale of Marketable Securities 352 ---
+ ---------------- ----------------
+ Total Other Income (Expense) (6,724) (159)
+ ---------------- ----------------
+
+Net Loss (8,461) (831)
+ ---------------- ----------------
+
+Other Comprehensive Loss:
+
+Unrealized Holding Gain 309 13
+ ---------------- ----------------
+
+Other Comprehensive Loss (8,152) (818)
+ ---------------- ----------------
+ ---------------- ----------------
+
+Net Loss per Common Share:
+ Basic (0.05) (0.01)
+ Diluted (0.05) (0.01)
+ Comprehensive Loss (0.05) (0.01)
+
+See accompanying notes to consolidated financial statements.
+
+4
+
+EAGLE BROADBAND, INC. AND SUBSIDIARIES
+ CONSOLIDATED STATEMENTS OF CHANGES IN SHAREHOLDERS' EQUITY
+ (In thousands)
+ (Unaudited)
+
+Additional Total
+ Common Stock Preferred Paid In Retained Shareholders'
+ Shares Value Stock Capital Earnings Equity
+ ----------------------------------------------------------------------------------------
+ 
+Total Shareholders' Equity
+ As of August 31, 2002 73,051 73 --- 158,731 (41,424) 117,380
+ ====== ====== ========= ======== ========
+
+Net Loss --- --- --- --- (33,693) (33,693)
+
+New Stock Issued to Shareholders
+ Services and Compensation 7,437 7 --- 1,813 --- 1,820
+ Property and Other Assets 14,938 15 --- 3,032 --- 3,047
+ Retirement of Debt and Liabilities 50,816 51 --- 13,827 --- 13,878
+ Employee Stock Option Plan 1,647 2 --- 180 --- 182
+
+Syndication Costs --- --- --- (368) --- (368)
+
+Treasury Stock (442) (1) --- (198) --- (199)
+
+Unrealized Holding Loss --- --- --- --- (71) (71)
+
+Total Shareholders' Equity 147,447 147 --- 177,017 (75,188) 101,976
+ As of August 31, 2003 ======= ====== ======== ======= ========
+
+Net Loss for the Three Months Ended --- --- --- --- (8,461) (8,461)
+November 30, 2003
+
+New Stock Issued to Shareholders
+ Services and Compensation 3,354 4 --- 2,300 --- 2,304
+ Property and Other Assets --- ---
+ Retirement of Debt and Liabilities 34,257 34 --- 6,033 --- 6,067
+ Interest for Beneficial Conversion --- 6,912 --- 6,912
+ Value
+
+Syndication Costs --- ---
+
+Treasury Stock --- ---
+
+Unrealized Holding Loss --- 309 309
+
+ ----------------------------------------------------------------------------------------
+Total Shareholders' Equity 185,058 185 --- 192,262 (83,340) 109,107
+ As of November 30, 2003 ======== ====== ========= ======== ========
+
+See accompanying notes to consolidated financial statements.
+
+5
+
+EAGLE BROADBAND, INC. AND SUBSIDIARIES
+ CONSOLIDATED STATEMENTS OF CASH FLOWS
+ (in thousands)
+
+For the Three Months ended November 30,
+
+ 2003 2002
+ ---- ----
+ (Unaudited)
+ 
+Cash Flows From Operating Activities
+Net Loss (8,461) (831)
+
+Adjustments To Reconcile Net Loss to Net Cash
+Used By Operating Activities:
+ Interest for Beneficial Conversion Value 6,912 91
+ Depreciation and Amortization 614 266
+ Stock Issued for Services Rendered 2,304 54
+ (Increase)/Decrease in Accounts Receivable (390) 632
+ (Increase)/Decrease in Inventories (656) (428)
+ (Increase)/Decrease in Prepaid Expenses 17 (13)
+ Increase/(Decrease) in Accounts Payable 279 (345)
+ Increase/(Decrease) in Accrued Expenses (1,109) (146)
+ ------- -----
+ Total Adjustment 7,971 111
+ ------- ----
+
+Net Cash Used by Operating Activities (490) (720)
+
+Cash Flows From Investing Activities:
+ (Purchase)/Disposal of Property and Equipment (94) (1,471)
+ (Increase)/Decrease in Deferred Costs --- (12)
+ (Increase)/Decrease in Other Assets (12) ---
+ ------- -------
+Net Cash Used by Investing Activities (106) (1,483)
+ ------- -------
+
+Cash Flows From Financing Activities:
+ Increase/(Decrease) in Notes Payable & Long-Term Debt 5,608 1,577
+
+Net Cash Provided By Financing Activities 5,608 1,577
+ ------ -----
+
+Net Increase/(Decrease) in Cash 5,012 (626)
+ ------ ------
+
+Cash At The Beginning of Period 2,538 3,421
+ ------ ------
+Cash At the End Of Period 7,550 2,795
+ ====== ======
+
+Supplemental Disclosure of Cash Flow Information:
+Net Cash Paid During the Year for
+ Interest 168 72
+ Income Taxes --- ---
+
+Supplemental non-cash investing activities (See Note 21) and changes in
+shareholder's equity:
+
+See accompanying notes to consolidated financial statements.
+
+6
+ 
+ Eagle Broadband, Inc. and Subsidiaries
+ Notes to the Consolidated Financial Statements
+ November 30, 2003
+
+NOTE 1 - Basis of Presentation and Significant Accounting Policies:
+ ---------------------------------------------------------
+
+ Eagle Broadband, Inc., (the Company or Eagle) incorporated as a Texas
+ corporation on May 24, 1993, and commenced business in April of 1996.
+ The Company is a worldwide supplier of broadband products and services,
+ providing telecommunications equipment with related software, broadband
+ products, and fiber and cable as used by service providers in the
+ paging and other personal communications markets. The Company designs,
+ manufactures, markets and services its products under the Eagle
+ Broadband, Inc., and BroadbandMagic names. These products include
+ transmitters, receivers, controllers, software, convergent set-top
+ boxes, fiber, cable, and other equipment used in commercial and
+ personal communications systems and radio and telephone systems.
+ Additionally, the Company provides cable television, telephone,
+ security, Internet connectivity, and related services under a bundled
+ digital services package, commonly known as "BDS," through single
+ source billing. Also provided is last mile cable and fiber installation
+ services as well as comprehensive IT products and services.
+
+A) Consolidation
+
+ At November 30, 2003, the Company's subsidiaries were: Atlantic Pacific
+ Communications, Inc. (APC) - operated as Eagle Communication Services;
+ Etoolz, Inc. (ETI); Eagle Wireless International, Inc. (EWI);
+ ClearWorks.net, Inc. (.NET); ClearWorks Communications, Inc. (COMM) -
+ operated as Eagle BDS Services; ClearWorks Home Systems, Inc. (HSI) -
+ operated as Eagle Residential Structured Wiring; Contact Wireless, Inc.
+ (CWI) - operating as Eagle Paging Services; DSS Security, Inc., (DSS) -
+ operated as Eagle Security Services; United Computing Group, Inc. (UCG)
+ - operated as Eagle Technology Services; and Link Two Communications,
+ Inc. (LINK II) - operated as Eagle Messaging Services. The consolidated
+ financial statements include the accounts of the Company and its
+ subsidiaries. All significant inter-company transactions and balances
+ have been eliminated in consolidation.
+
+B) Cash and Cash Equivalents
+
+ The Company has 7,550,000 and 2,538,000 invested in interest bearing
+ accounts and marketable securities (Note 9) at November 30, 2003, and
+ August 31, 2003, respectively.
+
+C) Property and Equipment
+
+ Property and equipment are carried at cost less accumulated
+ depreciation. Depreciation is calculated by using the straight-line
+ method for financial reporting and accelerated methods for income tax
+ purposes. The recovery classifications for these assets are listed as
+ follows:
+
+ Years
+ -----
+ Head-End Facility and Fiber Infrastructure 20
+ Manufacturing Equipment 3-7
+ Furniture and Fixtures 2-7
+ Office Equipment 5
+ Leasehold Improvements Life of Lease
+ Property and Equipment 5
+ Vehicles 5
+
+ Expenditures for maintenance and repairs are charged against income as
+ incurred whereas major improvements are capitalized.
+
+D) Inventories
+
+ Inventories are valued at the lower of cost or market. The cost is
+ determined by using the FIFO method. Inventories consist of the
+ following items, in thousands:
+
+ November 30, August 31,
+ 2003 2003
+ ---------- -------------
+
+ Raw Materials 2,910 1,826
+ Work in Process 810 1,237
+ Finished Goods 135 136
+ -------- ------
+ 3,855 3,199
+ ======== ======
+
+ 7
+ 
+ Eagle Broadband, Inc. and Subsidiaries
+ Notes to the Consolidated Financial Statements
+ November 30, 2003
+
+E) Revenue Recognition
+
+ The Company designs, manufactures, markets and services its products
+ and services under the Eagle Broadband, Inc.; BroadbandMagic;
+ ClearWorks Communications, Inc.; ClearWorks Home Systems, Inc.; Eagle
+ Wireless International, Inc., Atlantic Pacific Communications, Inc.;
+ Link Two Communications, Inc.; United Computing Group, Inc.; Contact
+ Wireless, Inc.; and DSS Security, Inc., names.
+
+ Eagle Wireless International, Inc.
+ Eagle designs, manufactures and markets transmitters, receivers,
+ controllers and software, along with other equipment used in commercial
+ and personal communication systems, radio and telephone systems.
+ Revenues from these products are recognized when the product is
+ shipped.
+
+ BroadbandMagic
+ BroadbandMagic designs, manufactures and markets the convergent set-top
+ boxes. Products are sent principally to commercial customers for a
+ pre-sale test period of ninety days. Upon the end of the pre-sale test
+ period, the customer either returns the product or accepts the product,
+ at which time the Company recognizes the revenue.
+
+ Eagle Broadband, Inc.
+ Eagle Broadband, Inc., engages independent agents for sales principally
+ in foreign countries and certain geographic regions in the United
+ States. Under the terms of these one-year agreements the distributor or
+ sales agents provide the companies with manufacturing business sales
+ leads. The transactions from these distributors and agents are subject
+ to the Company's approval prior to sale. The distributorship or sales
+ agent receives commissions based on the amount of the sales invoice
+ from the companies to the customer. The sale is recognized at the time
+ of shipment to the customer. These sales agents and distributors are
+ not a significant portion of total sales in any of the periods
+ presented.
+
+ Eagle BDS Services - dba ClearWorks Communications, Inc.
+ ClearWorks Communications, Inc., provides Bundled Digital Services to
+ business and residential customers, primarily in the Texas market.
+ Revenue is derived from fees charged for the delivery of Bundled
+ Digital Services, which includes telephone, long distance, internet,
+ security monitoring and cable services. This subsidiary recognizes
+ revenue and the related costs at the time the services are rendered.
+
+ Eagle Residential Structured Wiring - dba ClearWorks Home Systems, Inc.
+ ClearWorks Home Systems, Inc., sells and installs structured wiring,
+ audio and visual components to homes. This subsidiary recognizes
+ revenue and the related costs at the time the services are performed.
+ Revenue is derived from the billing of structured wiring to homes and
+ the sale of audio and visual components to the homebuyers.
+
+ Eagle Communication Services - dba Atlantic Pacific Communications,
+ Inc.
+ Atlantic Pacific Communications, Inc., provides project planning,
+ installation, project management, testing and documentation of fiber
+ and cable to commercial and industrial clients throughout the United
+ States. The revenue from the fiber and cable installation and services
+ is recognized upon percentage of completion of the project. Most
+ projects are completed in less than one month, therefore, matching
+ revenue and expense in the period incurred. Service, training and
+ extended warranty contract revenues are recognized as earned.
+
+ Etoolz, Inc.
+ Etoolz, Inc., provides research and development support for all Eagle
+ companies and does not currently provide billable services to
+ independent third parties.
+
+ Eagle Messaging Services - dba Link Two Communications, Inc.
+ Link Two Communications, Inc., provides customers with one- and
+ two-way messaging systems. The revenue from these services is
+ recognized as it is earned from the customer.
+
+ Eagle Paging Services - dba Contact Wireless, Inc.
+ Contact Wireless, Inc., provides customers with paging and mobile
+ telephone products and related monthly services. Revenue from product
+ sales is recorded at the time of shipment. Revenue for the mobile
+ phone and paging service is billed monthly as the service is provided.
+
+ Eagle Security Services - dba DSS Security, Inc.
+ DSS Security, Inc., provides monthly security monitoring services to
+ residential customers. The customers are billed three months in advance
+ of service usage. The revenues are deferred at the time of billing and
+ ratably recognized over the prepayment period as service is provided.
+
+ 8
+ 
+ Eagle Broadband, Inc. and Subsidiaries
+ Notes to the Consolidated Financial Statements
+ November 30, 2003
+
+ Eagle Technology Services - dba United Computing Group, Inc.
+ United Computing Group, Inc., provides business-to-business hardware
+ and software network solutions and network monitoring services. The
+ revenue from the hardware and software sales is recognized at the time
+ of shipment. The monitoring services recognition policy is to record
+ revenue as earned.
+
+F) Research and Development Costs
+
+ For the three months ended November 30, 2003 and 2002, the Company
+ performed research and development activities for internal projects
+ related to its Orb'Phone Exchange, convergent set-top boxes as well as
+ its multi-media entertainment centers. Research and development costs
+ of 119,000 and 32,000 were expensed for the three months ended
+ November 30, 2003 and 2002, respectively.
+
+ No research and development services were performed for outside parties
+ for the three months ended November 30, 2003 and 2002.
+
+G) Income Taxes
+
+ The Company adopted the provisions of Statement of Financial Accounting
+ Standards (SFAS) No. 109, "Accounting for Income Taxes," which requires
+ a change from the deferral method to assets and liability method of
+ accounting for income taxes. Timing differences exist between book
+ income and tax income, which relate primarily to depreciation methods.
+
+H) Net Earnings Per Common Share
+
+ Net earnings per common share are shown as both basic and diluted.
+ Basic earnings per common share are computed by dividing net income
+ less any preferred stock dividends (if applicable) by the weighted
+ average number of shares of common stock outstanding. Diluted earnings
+ per common share are computed by dividing net income less any preferred
+ stock dividends (if applicable) by the weighted average number of
+ shares of common stock outstanding plus any dilutive common stock
+ equivalents. The components used for the computations are shown as
+ follows, in thousands:
+
+November 30, August 31,
+ 2003 2003
+ ----------- -----------
+ 
+ Weighted Average Number of Common
+ Shares Outstanding Including
+
+ Primary Common Stock Equivalents 159,696 95,465
+ Fully Dilutive Common Stock Equivalents 159,696 95,465
+
+I) Impairment of Long-Lived Assets and Goodwill
+
+ Our long-lived assets include predominantly goodwill. Statement of
+ Financial Accounting Standards No. 142 "Goodwill and Other Intangible
+ Assets" ("SFAS 142") requires that goodwill and intangible assets be
+ tested for impairment at the reporting unit level (operating segment or
+ one level below an operating segment) on an annual basis and between
+ annual tests in certain circumstances. Application of the goodwill
+ impairment test requires judgment, including the identification of
+ reporting units, assigning assets and liabilities to reporting units,
+ assigning goodwill and intangible assets to reporting units, and
+ determining the fair value of each reporting unit. Significant
+ judgments required to estimate the fair value of reporting units
+ include estimating future cash flows, determining appropriate discount
+ rates and other assumptions. Changes in these estimates and assumptions
+ could materially affect the determination of fair value for each
+ reporting unit.
+
+ The intangible assets primarily are the Company rights to deliver
+ bundled digital services such as, Internet, telephone, cable television
+ and security monitoring services to residential and business users. The
+ Company obtained an independent appraisal to assess the fair value of
+ the intangible assets. There were a number of significant and complex
+ assumptions used in the calculation of the fair value of the intangible
+ assets. If any of these assumptions prove to be incorrect, the Company
+ could be required to record a material impairment to its intangible
+ assets. The assumptions include significant market penetration in its
+ current markets under contract and significant market penetration in
+ markets where they are currently negotiating contracts.
+
+ The Company evaluates the carrying value of long-lived assets and
+ identifiable intangible assets for potential impairment on an ongoing
+ basis. An impairment loss would be deemed necessary when the estimated
+ non-discounted future cash flows are less than the carrying net amount
+ of the asset. If an asset were deemed to be impaired, the asset's
+
+ 9
+ 
+ Eagle Broadband, Inc. and Subsidiaries
+ Notes to the Consolidated Financial Statements
+ November 30, 2003
+
+ recorded value would be reduced to fair market value. In determining
+ the amount of the charge to be recorded, the following methods would be
+ utilized to determine fair market value:
+
+ 1) Quoted market prices in active markets.
+ 2) Estimate based on prices of similar assets
+ 3) Estimate based on valuation techniques
+
+ As of November 30, 2003, no impairment existed.
+
+J) Intangible Assets
+
+ Goodwill represents the excess of the cost of companies acquired over
+ the fair value of their net assets at the dates of acquisition and were
+ being amortized using the straight-line method over twenty (20) years
+ for Atlantic Pacific Communications, Inc., and twenty-five (25) years
+ for Bundled Digital Services through June 30, 2001. Other intangible
+ assets consist of patents and licenses, which are being amortized using
+ the straight-line method over their estimated useful life of ten (10)
+ years and twenty (20) years, respectively.
+
+ Goodwill and other intangible assets are carried at cost less
+ accumulated amortization. Intangible assets were amortized on a
+ straight-line basis over the economic lives of the respective assets,
+ generally ten to twenty-five years. Prior to July 1, 2001, goodwill and
+ certain purchased intangible assets (i.e., licenses) were amortized
+ over 10 to 25 years. The Company's adoption of SFAS 142 eliminated the
+ requirement to amortize goodwill and licenses subsequent to the fiscal
+ year ending August 31, 2001. Under the provisions of SFAS 142, the
+ Company is required to periodically assess the carrying value of
+ goodwill and licenses associated with each of its distinct business
+ units that comprise its business segments of the Company to determine
+ if impairment in value has occurred. Impairment tests completed as of
+ August 31, 2002 and August 31, 2001 concluded that the carrying amount
+ of goodwill and licenses for each acquired business unit did not exceed
+ its net realizable value based on the Company's estimate of expected
+ future cash flows to be generated by its business units, except as
+ described above in Note 1, I. The Company updated its assessment as of
+ August 31, 2003 and concluded that based on a valuation model
+ incorporating expected future cash flows in consideration of historical
+ cash flows and results to date, no impairment charge was necessary.
+
+ Goodwill and other intangibles of 82,176,000 net of prior impairments
+ and amortization were recorded under the purchase method for the
+ purchases of ClearWorks.net, Inc., Atlantic Pacific, Inc., DSS
+ Security, Inc., Contact Wireless, Inc., and Comtel, Inc. The majority
+ of the intangibles were from the ClearWorks acquisition. ClearWorks was
+ in the business of selling telecommunications services to residential
+ neighborhoods. In fiscal 2003, Eagle realized it had failed to
+ successfully achieve profits using the ClearWorks model of installing
+ fiber optic cable to neighborhoods under the speculative attempt to
+ capture enough individual homeowners in each neighborhood via
+ individual selling methods to pay for the cable infrastructure. In
+ early 2003, Eagle modified its strategy to deliver the ClearWorks
+ developed bundled digital services approach including Internet,
+ telephone, cable television and security monitoring services to
+ residential and business users by targeting municipalities,
+ homebuilders and residential real estate developers that finance and
+ install the fiber optic cable backbone in every lot and offer Eagle
+ exclusive rights to deliver digital bundled services to homeowners,
+ using pre-selling promotions and other low cost mass marketing
+ techniques. In October 2003, Eagle hired a new CEO with an extensive
+ sales and marketing background and proven senior management and
+ operational skills leading high-growth technology companies to
+ implement its modified strategy. As of December 5, 2003, the date of
+ the auditor's report for the fiscal year ended August 31, 2003, Eagle
+ had realized several initial successes in projects where the
+ municipalities, public utility districts and developers assume the
+ predominate capital cost responsibility and contract with Eagle to
+ provide the services and content; thereby significantly limiting the
+ Company's capital outlays on such projects.
+
+ Eagle utilized an independent third party appraiser to assess the fair
+ value of the intangible assets as of August 31, 2003. This is the same
+ appraiser who Eagle hired to issue a fairness opinion in the ClearWorks
+ purchase in 2001 and who has consulted for Eagle in presentations made
+ in various subsequent litigation proceedings to defend the ClearWorks
+ purchase transaction. This appraiser still maintains that the goodwill
+ valuation remains at an amount greater than the current carrying value.
+
+ There were a number of significant and complex assumptions used in the
+ calculation of the fair value of the goodwill. If any of these
+ assumptions prove to be incorrect, Eagle could be required to record a
+ material impairment to its goodwill. The assumptions include
+ significant market penetration in its current markets under contract
+ and significant market penetration in markets where they are currently
+ negotiating contracts.
+
+K) Advertising Costs
+
+ Advertising costs have been capitalized and amortized on the basis of
+ contractual agreements entered into by the Company. These contracts are
+ amortized over the life of the individual contracts or expensed in the
+ period incurred. For the three months ended November 30, 2003, the
+ Company has expensed 18,000 where 0 in costs has been deferred.
+
+ 10
+ 
+ Eagle Broadband, Inc. and Subsidiaries
+ Notes to the Consolidated Financial Statements
+ November 30, 2003
+
+ For the three months ended, November 30, 2002, the Company has expensed
+ 37,000 whereas 0 in costs has been deferred.
+
+L) Deferred Syndication Costs
+
+ Deferred syndication costs consist of those expenditures incurred that
+ are directly attributable to fundraising and the collection thereto.
+ Upon successful collection of the funds, all expenses incurred will be
+ reclassified to additional paid in capital and treated as syndication
+ costs; netted against the funds raised.
+
+M) Use of Estimates
+
+ The preparation of financial statements in conformity with generally
+ accepted accounting principles requires management to make estimates
+ and assumptions that affect the reported amounts of assets and
+ liabilities and disclosure of contingent asset and liabilities at the
+ date of the financial statements and the reported amounts of revenues
+ and expenses during the reporting period. Actual results could differ
+ from those estimates.
+
+N) Marketable Securities
+
+ In May 1993, the Financial Accounting Standards Board issued Statements
+ of Financial Accounting Standards No. 115, "Accounting for Certain
+ Investments in Debt and Equity Securities," effective for fiscal years
+ beginning after December 15, 1993. This statement considers debt
+ securities that the Company has both the positive intent and ability to
+ hold to maturity are carried at amortized cost. Debt securities that
+ the company does not have the positive intent and ability to hold to
+ maturity and all marketable equity securities are classified as
+ available-for-sale or trading securities and are carried at fair market
+ value. Unrealized holding gains and losses on securities classified as
+ trading are reported in earnings. Unrealized holding gains and losses
+ on securities classified as available-for-sale were previously carried
+ as a separate component of stockholders' equity. SFAS No. 115 as
+ amended by Financial Accounting Standards Board issued Statement of
+ Financial Accounting Standards No. 130, "Other Comprehensive Income."
+ Management determines the appropriate classification of marketable
+ equity and debt securities at the time of purchase and re-evaluates
+ such designation as of each balance sheet date.
+
+O) Other Comprehensive Income
+
+ In 1997, the Financial Accounting Standards Board issued Statement of
+ Financial Accounting Standards No. 130, "Other Comprehensive Income,"
+ effective for fiscal years beginning after December 15, 1997. This
+ statement considers the presentation of unrealized holding gains and
+ losses attributable to debt and equity securities classified as
+ available-for-sale. As stated, any unrealized holding gains or losses
+ affiliated to these securities are carried below net income under the
+ caption "Other Comprehensive Income." For the three months ended
+ November 30, 2003 and 2002, the Company recorded a comprehensive gain
+ of 309,000 and 13,000, respectively.
+
+P) Beneficial Conversion Values
+
+ Beneficial conversion values are calculated at the difference between
+ the conversion price and the fair value of the common stock into which
+ the debt is convertible, multiplied by the number of shares into which
+ the debt is convertible. The beneficial conversion value is charged to
+ interest expense because the debt is convertible at the date of
+ issuance. The value is limited to the total proceeds received.
+
+Q) Reclassification
+
+ The Company has reclassified certain assets costs and expenses for the
+ three months ended November 30, 2002 to facilitate comparison to the
+ three months ended November 30, 2003.
+
+R) Recent Pronouncements
+
+ In July 2002, the FASB issued Statement of Financial Accounting
+ Standards No. 146 ("SFAS 146"), "Accounting for Costs Associated with
+ Exit or Disposal Activities," which nullifies EITF Issue No. 94-3,
+ "Liability Recognition for Certain Employee Termination Benefits and
+ Other Costs to Exit an Activity (including Certain Costs Incurred in a
+ Restructuring)." SFAS 146 requires that costs associated with an exit
+ or disposal activity be recognized only when the liability is incurred
+ (that is, when it meets the definition of a liability in the FASB's
+ conceptual framework). SFAS 146 also establishes fair value as the
+ objective for initial measurement of liabilities related to exit or
+ disposal activities. SFAS 146 is effective for exit or disposal
+ activities that are initiated after December 31, 2002. The Company
+ adopted SFAS in the first quarter of fiscal 2003.
+
+ 11
+ 
+ Eagle Broadband, Inc. and Subsidiaries
+ Notes to the Consolidated Financial Statements
+ November 30, 2003
+
+ In November 2002, the FASB issued Interpretation No. 45 (FIN 45),
+ "Guarantor's Accounting and Disclosure Requirements for Guarantees,
+ Including Indirect Guarantees of Indebtedness of Others." For certain
+ guarantees issued after December 31, 2002, FIN 45 requires a guarantor
+ to recognize, upon issuance of a guarantee, a liability for the fair
+ value of the obligations it assumes under the guarantee. Guarantees
+ issued prior to January 1, 2003, are not subject to liability
+ recognition, but are subject to expanded disclosure requirements. The
+ Company does not believe that the adoption of this Interpretation has
+ had a material effect on its consolidated financial position or
+ statement of operations.
+
+ In January 2003, FASB issued Interpretation No. 46 (FIN 46), an
+ interpretation of Accounting Research Bulletin No. 51, which requires
+ the Company to consolidate variable interest entities for which it is
+ deemed to be the primary beneficiary and disclose information about
+ variable interest entities in which it has a significant variable
+ interest. FIN 46 became effective immediately for variable interest
+ entities formed after January 31, 2003 and effective for periods ending
+ after December 15, 2003, for any variable interest entities formed
+ prior to February 1, 2003. The Company does not believe that this
+ Interpretation will have a material impact on its consolidated
+ financial statements.
+
+ In April 2002, the FASB issued Statement of Financial Accounting
+ Standards No. 145 ("SFAS 145"), "Rescission of FASB Statements No. 4,
+ 44 and 64, Amendment of FASB Statement No. 13, and Technical
+ Corrections," which requires that the extinguishment of debt not be
+ considered an extraordinary item under APB Opinion No. 30 ("APB 30"),
+ "Reporting the Results of Operations-Reporting the Effects of Disposal
+ of a Segment of Business, and Extraordinary, Unusual and Infrequently
+ Occurring Events and Transactions," unless the debt extinguishment
+ meets the "unusual in nature and infrequent of occurrence" criteria in
+ APB 30. SFAS 145 is effective for fiscal years beginning after May 15,
+ 2002, and, upon adoption, companies must reclassify prior period items
+ that do not meet the extraordinary item classification criteria in APB
+ 30. The Company adopted SFAS 145 and related rules as of August 31,
+ 2002. The adoption of SFAS 145 had no effect on the Company's financial
+ position or results of operations.
+
+ In May 2003, the FASB issued Statement of Financial Accounting
+ Standards No. 150 ("SFAS 150"), "Accounting for Certain Financial
+ Instruments with Characteristics of both Liabilities and Equity." This
+ Statement establishes standards for how an issuer classifies and
+ measures certain financial instruments with characteristics of both
+ liabilities and equity. It requires that an issuer classify a financial
+ instrument that is within its scope as a liability (or an asset in some
+ circumstances). The provisions of this Statement are effective for
+ financial instruments entered into or modified after May 31, 2003, and
+ otherwise are effective at the beginning of the first interim period
+ beginning after June 15, 2003. The adoption of this Statement did not
+ have an impact on the Company's financial results of operations and
+ financial position.
+
+ In April 2003, the FASB issued SFAS No. 149, "Amendment of Statement
+ 133 on Derivative Instruments and Hedging Activities," which amends and
+ clarifies financial accounting and reporting derivative instruments,
+ including certain derivative instruments embedded in other contracts
+ and for hedging activities under SFAS No. 133, "Accounting for
+ Derivative Instruments and Hedging Activities." This statement is
+ effective for contracts entered into or modified and for hedging
+ relationships designated after June 30, 2003. The adoption of this
+ statement did not have an impact on the Company's operating results or
+ financial position.
+
+NOTE 2 - Accounts Receivable:
+ --------------------
+
+Accounts receivable consist of the following, in thousands:
+
+November 30, August 31,
+ 2003 2003
+ ----------- ------------
+ 
+ Accounts Receivable 2,724 2,116
+ Allowance for Doubtful Accounts (322) (412)
+ ----------- ------------
+ Net Accounts Receivable 2,402 1,704
+ =========== ============
+
+12
+ 
+ Eagle Broadband, Inc. and Subsidiaries
+ Notes to the Consolidated Financial Statements
+ November 30, 2003
+
+NOTE 3 - Property, Plant & Equipment and Intangible Assets:
+ --------------------------------------------------
+
+ Components of property, plant & equipment are as follows, in thousands:
+
+November 30, August 31,
+ 2003 2003
+ ----------- ------------
+ 
+ Automobile 143 143
+ Head-End Facility and Fiber Infrastructure 26,548 26,688
+ Furniture & Fixtures 560 565
+ Leasehold Improvements 122 122
+ Office Equipment 766 979
+ Property, Manufacturing & Equipment 8,436 7,925
+ ----------- ------------
+ Total Property, Plant & Equipment 36,575 36,422
+ Less: Accumulated Depreciation (6,302) (5,689)
+ ----------- ------------
+ Net Property, Plant & Equipment 30,273 30,733
+ =========== ============
+
+ Components of intangible assets are as follows, in thousands:
+
+November 30, August 31,
+ 2003 2003
+ ----------- ------------
+ Goodwill 80,551 80,551
+ Licenses & Permits 5,330 5,330
+ ----------- ------------
+ Total Intangible Assets 85,881 85,881
+ Less: Accumulated Amortization (4,278) (4,278)
+ ----------- ------------
+ Net Intangible Assets 81,603 81,603
+ =========== ============
+
+NOTE 4 - Business Combinations:
+ ----------------------
+
+ Effective January 1, 2002, the Company acquired the assets of DSS
+ Security, Inc., and Contact Wireless in a business combination
+ accounted for as a purchase. DSS Security, Inc., provides security
+ monitoring to business and residential customers. Contact Wireless
+ sells and services mobile phones and one- and two-way messaging
+ devices. The Company paid cash of 450,000 and issued a short-term note
+ payable of 130,000 for the assets of Contact Wireless for a total
+ purchase price of 580,000. Additionally, the Company acquired DSS
+ Security, Inc., for 2,002,147. In this transaction, the Company issued
+ 2,002,147 shares of its common stock with a guaranteed value of 1 per
+ share. The Company allocated 51,595 to the fair value of the property
+ and equipment and 1,950,552 in goodwill. The allocation of the
+ purchase price is based on the fair value of the assets acquired based
+ on management's estimates and existing contracts. At November 30, 2002,
+ the Company had an accrual for 921,000 for the portion of the purchase
+ that represents the difference between purchase price and market value
+ of the Company's common stock on the date of purchase.
+
+NOTE 5 - Notes Payable:
+ --------------
+
+The following table lists the Company's note obligations as of November
+ 30, 2003, and August 31, 2003, in thousands:
+
+ Annual
+ Interest November 30, August 31,
+ Rate Due Date 2003 2003
+ ---------------- --------------- ----------- ------------
+ 
+ Vehicles Various Various 4 4
+ 6 Convertible Debenture (Note 9) 6.0 Demand --- 1,200
+ Tail Wind Convertible Debenture 2.0 Demand 1,595 1,595
+ Notes Payable - Investor Group 10.0 October 2003 --- 900
+ Notes Payable - Q Series Bonds 12.0 Various 5,275 1,363
+ Other Various Various 313 717
+
+ --------- ---------
+ Total notes payable 7,187 5,779
+ --------- ---------
+ Less current portion 7,187 5,779
+ --------- ---------
+ Total long-term debt --- ---
+ ========= =========
+
+13
+ 
+ Eagle Broadband, Inc. and Subsidiaries
+ Notes to the Consolidated Financial Statements
+ November 30, 2003
+
+NOTE 6 - Line of Credit:
+ --------------
+
+ During the first quarter of fiscal 2002, APC entered into a new credit
+ facility with SWBT to provide working capital and fund ongoing
+ operations. The new credit facility is a purchase and sale agreement
+ against accounts receivable, provides for borrowings up to 1,000,000
+ based on eligible accounts receivable and is secured by APC accounts
+ receivable and guaranteed by Eagle Broadband, Inc. As of August 31,
+ 2003, APC reduced its accounts receivable by 198,851 to reflect the
+ gross sale of 360,003 to SWBT less 161,851 of reserves held by SWBT
+ against such purchases. During the first quarter of fiscal 2004, APC
+ repaid and canceled the line of credit in full to SWBT in September
+ 2003.
+
+ During July 2002, UCG entered into a credit facility with Southwest
+ Bank of Texas (SWBT) to provide working capital, repay the IBM credit
+ line and fund ongoing operations. The new credit facility is a purchase
+ and sale agreement against accounts receivable, provides for borrowings
+ up to 3,000,000 based on eligible accounts receivable and is secured
+ by UCG accounts receivable and guaranteed by Eagle Broadband, Inc. As
+ of August 31, 2003, UCG reduced its accounts receivable by 44,799 to
+ reflect the gross sale of 52,210 to SWBT less 7,832 of reserves held
+ by SWBT against such purchases. During the first quarter of fiscal
+ 2004, APC repaid and canceled the line of credit in full to SWBT in
+ September 2003.
+
+NOTE 7 - Convertible Debentures:
+ -----------------------
+
+ During October 2002, the Company entered into a 3,000,000 convertible
+ debenture agreement with Cornell Capital Partners, LP (CCP). During the
+ quarter ended November 30, 2003 the Company repaid this debt
+
+ During 2001, the Company acquired ClearWorks.net, Inc., and as a
+ result, ClearWorks is a wholly owned subsidiary of Eagle. Link Two
+ Communications, Inc., is a subsidiary of ClearWorks. Link Two entered
+ an agreement with The Tail Wind Fund Ltd., under which Tail Wind
+ purchased from Link Two a 2 convertible note in the initial amount of
+ 5,000,000. As a result of the acquisition, Eagle the parent of Link
+ Two, has guaranteed the Link Two notes issued to Tail Wind and allowed
+ Tail Wind to convert the above mentioned debt into Eagle common stock
+ and warrants at various rates. At August 31, 2002, Eagle and Tail Wind
+ were renegotiating the terms of this note. At November 30, 2003, the
+ Company owes Tail Wind 1,595,000 plus accrued interest. The Company is
+ currently negotiating the settlement of this debt and has recorded the
+ entire debt as a current note payable.
+
+NOTE 8 - Marketable Securities:
+ ----------------------
+
+ As discussed in Note 1, the Company adopted the provisions of SFAS No.
+ 115, "Accounting for Certain Investments in Debt and Equity Securities"
+ and SFAS No. 130, "Accounting for Other Comprehensive Income." At
+ November 30, 2003, all of the Company's marketable equity securities
+ are classified as available-for-sale; they were acquired with the
+ intent to dispose of them within the next year.
+
+ Other marketable securities include 1,095,000 shares of common stock of
+ Burst.com, 65,598,000 shares of Celerity Systems common stock and
+ 350,000 Celerity Systems Bonds. These common stock and bond
+ investments have an aggregate cost basis of 1,075,000 and an aggregate
+ fair market value of 1,876,850 and are included in the cash and cash
+ equivalents category and are held for resale as of November 30, 2003.
+
+NOTE 9 - Income Taxes:
+ -------------
+
+ As discussed in note 1, the Company adopted the provisions of Statement
+ of Financial Accounting Standards (SFAS) No. 109, "Accounting for
+ Income Taxes." Implementation of SFAS 109 did not have a material
+ cumulative effect on prior periods, nor did it result in a change to
+ the current year's provision.
+
+ A) The effective tax rate for the Company is reconcilable to statutory
+ tax rates as follows:
+
+November 30, August 31,
+ 2003 2003
+ ---- ----
+
+U.S. Federal Statutory Tax Rate 34 34
+ U.S. Valuation Difference (34) (34)
+ ---- ----
+ Effective U.S. Tax Rate 0 0
+ Foreign Tax Valuation 0 0
+ - -
+ Effective Tax Rate 0 0
+ == ==
+
+14
+ 
+ Eagle Broadband, Inc. and Subsidiaries
+ Notes to the Consolidated Financial Statements
+ November 30, 2003
+
+ Income tax expense (benefit) attributable to income from continuing
+ operations differed from the amounts computed by apply the U.S. Federal
+ income tax rate of 34 to pretax income from continuing operations as a
+ result of the following: (in thousands)
+
+November 30, August 31,
+ 2003 2002
+ --------- ---------
+ 
+ Computed expected tax benefit (2,877) (11,456)
+ Increase in valuation allowance 2,877 11,456
+ --------- ---------
+ --- ---
+ ========= =========
+
+The tax effects of temporary differences that give rise to significant
+ portions of the deferred tax assets and deferred tax liabilities at
+ November 30, 2003, and August 31, 2003, are presented below, in
+ thousands, and include the balances of the acquired company
+ ClearWorks.Net.
+
+November 30, August 31,
+ 2003 2003
+ --------- ---------
+ 
+ Deferred tax assets:
+ Accounts receivable, principally due
+ to allowance for doubtful accounts --- ---
+
+ Net operating loss carry-forwards 38,380 35,503
+ Less valuation allowance (38,380) (35,503)
+ --------- ---------
+ Net deferred tax assets --- ---
+
+ Deferred tax liabilities:
+ Differences in depreciation --- ---
+ --------- ---------
+ Net deferred tax liabilities --- ---
+ ========= =========
+
+The valuation allowance for deferred tax assets of November 31, 2003,
+ and August 31, 2003, was 38,380,000 and 35,503,000, respectively. At
+ November 30, 2003, the Company has net operating loss carry-forwards of
+ 112,881,588, which are available to offset future federal taxable
+ income, if any, with expirations from 2020 to 2021.
+
+NOTE 10 - Issuance of Common Stock:
+ ------------------------
+
+ For the three months ended November 30, 2003, the Company issued shares
+ of common stock. The following table summarizes the shares of common
+ stock issued, in thousands.
+
+Shares Outstanding August 31, 2003 147,447
+ ----------------
+ Shares issued for Retirement of Debt and Liabilities 34,257
+ Shares issued for Services, Compensation, Property and 3,354
+ Other Assets
+ ----------------
+ Shares Outstanding November 30, 2003 185,058
+ ================
+
+NOTE 11 - Preferred Stock, Stock Options and Warrants:
+ -------------------------------------------
+
+ In July 1996, the Board of Directors and majority shareholders adopted
+ an employee stock option plan under which 400,000 shares of Common
+ Stock have been reserved for issuance. Since that time, the Board of
+ Directors have amended the July 1996, employee stock option plan under
+ which 1,000,000 shares of Common Stock have been reserved for issuance.
+ As of November 30, 2003, options to purchase 402,678 are outstanding
+ and 551,370 are available to be issued.
+
+ The Company has issued (or has acquired through its acquisitions) and
+ has outstanding the following warrants which have not yet been
+ exercised at November 30, 2003:
+
+ 50,000 stock purchase options issued to L.A. Delmonico Consulting,
+ Inc., expiring April 4, 2005. The warrants are to purchase fully paid
+ and non-assessable shares of the common stock, par value .001 per
+ share at a purchase price of 1.04 per share. The shares of common
+ stock underlying these warrants were registered for resale on August 9,
+ 2002, under the Securities Act of 1933. As of November 30, 2003, none
+ of these options have been exercised
+
+ 25,000 stock purchase warrants issued to Synchton, Inc., expiring
+ January 1, 2004. The warrants are to purchase fully paid and
+ non-assessable shares of the common stock, par value .001 per share at
+ a purchase price of 2.00 per share. As of November 30, 2003, none of
+ these warrants have been exercised.
+
+15
+ 
+ Eagle Broadband, Inc. and Subsidiaries
+ Notes to the Consolidated Financial Statements
+ November 30, 2003
+
+ 41,667 stock purchase warrants issued to Peter Miles expiring July 20,
+ 2004. The warrants are to purchase fully paid and non-assessable shares
+ of the common stock, par value .001 per share at a purchase price of
+ 2.00 per share. The shares of common stock underlying these have not
+ been registered as of November 30, 2002, under the Securities Act of
+ 1933. As of November 30, 2003, none of these warrants have been
+ exercised.
+
+ 41,667 stock purchase warrants issued to Peter Miles expiring July 20,
+ 2004. The warrants are to purchase fully paid and non-assessable shares
+ of the common stock, par value .001 per share at a purchase price of
+ 2.25 per share. The shares of common stock underlying these warrants
+ have not been registered or issued, under the Securities Act of 1933.
+ As of November 30, 2003, none of these warrants have been exercised.
+
+ 25,000 stock purchase warrants issued to Synchton, Inc., expiring April
+ 1, 2004. The warrants are to purchase fully paid and non-assessable
+ shares of the common stock, par value .001 per share at a purchase
+ price of 1.10 per share. The shares of common stock underlying these
+ warrants were registered for resale on August 9, 2002, under the
+ Securities Act of 1933. As of November 30, 2003, none of these warrants
+ have been exercised.
+
+ 58,333 stock purchase warrants issued to Peter Miles expiring July 20,
+ 2004. The warrants are to purchase fully paid and non-assessable shares
+ of the common stock, par value .001 per share at a purchase price of
+ 3.00 per share. The shares of common stock underlying these warrants
+ have not been registered or issued, under the Securities Act of 1933.
+ As of November 30, 2003, none of these warrants have been exercised.
+
+ 25,000 stock purchase warrants issued to Synchton, Inc., expiring July
+ 1, 2004. The warrants are to purchase fully paid and non-assessable
+ shares of the common stock, par value .001 per share at a purchase
+ price of 1.35 per share. The shares of common stock underlying these
+ warrants were registered for resale on August 9, 2002, under the
+ Securities Act of 1933. As of November 30, 2003, none of these warrants
+ have been exercised.
+
+ 25,000 stock purchase warrants issued to Synchton, Inc., expiring
+ October 1, 2004. The warrants are to purchase fully paid and
+ non-assessable shares of the common stock, par value .001 per share at
+ a purchase price of 0.69 per share. The shares of common stock
+ underlying these warrants were not registered for resale under the
+ Securities Act of 1933. As of November 30, 2003 none of these warrants
+ have been exercised.
+
+ 25,000 stock purchase warrants issued to Synchton, Inc., expiring
+ January 1, 2005. The warrants are to purchase fully paid and
+ non-assessable shares of the common stock, par value .001 per share at
+ a purchase price of 0.61 per share. The shares of common stock
+ underlying these warrants were not registered for resale under the
+ Securities Act of 1933. As of November 30, 2003, none of these warrants
+ have been exercised.
+
+ 25,000 stock purchase warrants issued to Synchton, Inc., expiring April
+ 1, 2005. The warrants are to purchase fully paid and non-assessable
+ shares of the common stock, par value .001 per share at a purchase
+ price of 0.38 per share. The shares of common stock underlying these
+ warrants were not registered for resale under the Securities Act of
+ 1933. As of November 30, 2003, none of these warrants have been
+ exercised.
+
+ 192,000 stock purchase warrants issued to Tech Technologies Services,
+ LLC, expiring April 24, 2008. The warrants are to purchase fully paid
+ and non-assessable shares of the common stock, par value .001 per
+ share at a purchase price of 7.50 per share. The shares of common
+ stock underlying these warrants have not been registered or issued,
+ under the Securities Act of 1933. As of November 30, 2003, none of
+ these warrants have been registered, issued or exercised.
+
+ 25,000 stock purchase warrants issued to Synchton, Inc., expiring July
+ 1, 2005. The warrants are to purchase fully paid and non-assessable
+ shares of the common stock, par value .001 per share at a purchase
+ price of 0.39 per share. The shares of common stock underlying these
+ warrants were not registered for resale under the Securities Act of
+ 1933. As of November 30, 2003, none of these warrants have been
+ exercised.
+
+ 240,000 stock purchase warrants issued to Shannon D. McLeroy expiring
+ April 24, 2008. The warrants are to purchase fully paid and
+ non-assessable shares of the common stock, par value .001 per share at
+ a purchase price of 7.50 per share. The shares of common stock
+ underlying these warrants have not been registered or issued, under the
+ Securities Act of 1933. As November 30, 2003, none of these warrants
+ have been registered, issued or exercised.
+
+ 168,000 stock purchase warrants issued to Michael T. McClere expiring
+ April 24, 2008. The warrants are to purchase fully paid and
+ non-assessable shares of the common stock, par value .001 per share at
+ a purchase price of 7.50 per share. The shares of common stock
+ underlying these warrants have not been registered or issued, under the
+ Securities Act of 1933. As November 30, 2003, none of these warrants
+ have been registered, issued or exercised.
+
+ 25,000 stock purchase warrants issued to Synchton, Inc., expiring
+ October 1, 2005. The warrants are to purchase fully paid and
+ non-assessable shares of the common stock, par value .001 per share at
+ a purchase price of 0.35 per share. The shares of common stock
+ underlying these warrants were not registered for resale under the
+ Securities Act of 1933. As of November 30, 2003, none of these warrants
+ have been exercised.
+
+ 40,000 stock purchase warrants issued to Rachel McClere 1998 Trust
+ expiring April 24, 2008. The warrants are to purchase fully paid and
+ non-assessable shares of the common stock, par value .001 per share at
+ a purchase price of 7.50 per share. The shares of common stock
+ underlying these warrants have not been registered or issued, under the
+ Securities Act of 1933. As of November 30, 2003, none of these warrants
+ have been registered, issued or exercised.
+
+ 160,000 stock purchase warrants issued to McClere Family Trust expiring
+ April 24, 2008. The warrants are to purchase fully paid and
+ non-assessable shares of the common stock, par value .001 per share at
+ a purchase price of 7.50 per share. The shares of common stock
+
+ 16
+ 
+ Eagle Broadband, Inc. and Subsidiaries
+ Notes to the Consolidated Financial Statements
+ November 30, 2003
+
+ underlying these warrants have not been registered or issued, under the
+ Securities Act of 1933. As November 30, 2003, none of these warrants
+ have been registered, issued or exercised.
+
+ 25,000 stock purchase warrants issued to Synchton, Inc., expiring
+ January 1, 2006. The warrants are to purchase fully paid and
+ non-assessable shares of the common stock, par value .001 per share at
+ a purchase price of 0.28 per share. The shares of common stock
+ underlying these warrants were not registered for resale under the
+ Securities Act of 1933. As of November 30, 2003, none of these warrants
+ have been exercised.
+
+ 25,000 stock purchase warrants issued to Synchton, Inc., expiring
+ April 1, 2006. The warrants are to purchase fully paid and
+ non-assessable shares of the common stock, par value .001 per share at
+ a purchase price of 0.26 per share. The shares of common stock
+ underlying these warrants were not registered for resale under the
+ Securities Act of 1933. As of November 30, 2003, none of these warrants
+ have been exercised.
+
+ 25,000 stock purchase warrants issued to Synchton, Inc., expiring July
+ 1, 2006. The warrants are to purchase fully paid and non-assessable
+ shares of the common stock, par value .001 per share at a purchase
+ price of 0.38 per share. The shares of common stock underlying these
+ warrants were not registered for resale under the Securities Act of
+ 1933. As of November 30August 31, 2003, none of these warrants have
+ been exercised.
+
+ 25,000 stock purchase warrants issued to Synchton, Inc., expiring
+ October 1, 2006. The warrants are to purchase fully paid and
+ non-assessable shares of the common stock, par value .001 per share at
+ a purchase price of 0.45 per share. The shares of common stock
+ underlying these warrants were not registered for resale under the
+ Securities Act of 1933. As of November 30, 2003, none of these warrants
+ have been exercised.
+
+ 3,800,000 stock purchase warrants issued to Eagle Broadband employees
+ under incentive clauses of employment contracts expiring September 1,
+ 2008. The warrants vest based on market performance of Eagle's common
+ stock at market capitalization between 50 million and 200 million.
+ The warrants are to purchase fully paid and non-assessable shares of
+ the common stock, par value .001 per share at a purchase price of
+ 0.41 per share. The shares of common stock underlying these warrants
+ were not registered for resale under the Securities Act of 1933. As of
+ November 30, 2003, none of these warrants have been exercised.
+
+ 400,000 stock purchase warrants issued to Eagle Broadband employee
+ under incentive clauses of employment contracts expiring September 1,
+ 2008. The warrants vest based on market performance of Eagle's common
+ stock at market capitalization between 50 million and 200 million.
+ The warrants are to purchase fully paid and non-assessable shares of
+ the common stock, par value .001 per share at a purchase price of
+ 0.60 per share. The shares of common stock underlying these warrants
+ were not registered for resale under the Securities Act of 1933. As of
+ November 30, 2003, none of these warrants have been exercised.
+
+ 500,000 stock purchase warrants issued to Eagle Broadband employee
+ under incentive clauses of employment contracts expiring September 1,
+ 2008. The warrants vest based on market performance of Eagle's common
+ stock at market capitalization between 50 million and 200 million.
+ The warrants are to purchase fully paid and non-assessable shares of
+ the common stock, par value .001 per share at a purchase price of
+ 0.75 per share. The shares of common stock underlying these warrants
+ were not registered for resale under the Securities Act of 1933. As of
+ November 30, 2003, none of these warrants have been exercised.
+
+17
+ 
+ Eagle Broadband, Inc. and Subsidiaries
+ Notes to the Consolidated Financial Statements
+ November 30, 2003
+
+The warrants outstanding are segregated into two categories (issued
+ and outstanding and exercisable):
+
+Warrants Issued & Outstanding Warrants Exercisable
+ Class of
+ Warrants November 30,2003 August 31,2003 November 30,2003 August 31,2003
+- -------------- ----------------------------------- -----------------------------
+ 
+0.26 25,000 25,000 25,000 25,000
+0.28 25,000 25,000 25,000 25,000
+0.35 25,000 25,000 25,000 25,000
+0.38 50,000 50,000 50,000 50,000
+0.39 25,000 25,000 25,000 25,000
+0.41 3,800,000 3,800,000 3,800,000 1,550,000
+0.45 25,000 25,000 25,000 25,000
+0.60 400,000 400,000 400,000 -
+0.61 25,000 25,000 25,000 25,000
+0.69 25,000 25,000 25,000 25,000
+0.75 500,000 500,000 500,000 -
+1.04 50,000 50,000 50,000 50,000
+1.10 25,000 25,000 25,000 25,000
+1.35 25,000 25,000 25,000 25,000
+2.00 25,000 25,000 25,000 25,000
+2.00 41,667 41,667 41,667 41,667
+2.25 41,667 41,667 41,667 41,667
+3.00 58,333 58,333 58,333 58,333
+7.50 192,000 192,000 192,000 192,000
+7.50 240,000 240,000 240,000 240,000
+7.50 168,000 168,000 168,000 168,000
+7.50 200,000 200,000 200,000 200,000
+ESOP 402,678 406,131 402,678 406,131
+ ----------------- ------------ -----------------------------
+ 6,394,345 6,397,798 6,394,345 3,247,798
+ ================= ============ =============================
+
+Denotes warrants which would have an anti-dilutive effect if currently
+ used to calculate earnings per share for the period ended November 30, 2003
+ and 2002.
+ Denotes 12,700,000 warrants for shares that have been excluded from this
+ table that are subject to issuance to certain employees under incentive
+ clauses of employment contracts expiring 5 years from the date of issuance.
+ The warrants vest based on accumulated revenue targets ranging from 50
+ million to 500 million and on market performance of Eagle's common stock
+ at market capitalization between 450 million and 1 billion. The warrants
+ are to purchase fully paid and non-assessable shares of the common stock,
+ par value 0.001 per share at purchase prices ranging from 0.41 to 1.50
+ per share. The Company has determined that the probability of the
+ achievement of such targets is remote as of the date of the issuance of the
+ Company's financial statements and thus has not included them in the
+ outstanding warrant table above. The shares of common stock underlying
+ these warrants were not registered for resale under the Securities Act of
+ 1933. As of November 30, 2003, none of these warrants have been exercised.
+
+NOTE 12 - Capitalization Activities:
+ --------------------------
+
+ The Company is currently offering up to 10,000,000 in "Units," each
+ Unit consisting of a 25,000, 12 five-year Q-series bond ("Bonds") to
+ a limited number of Accredited Investors. The Bonds are due and payable
+ upon maturity at the end of the five-year period. Interest on the Bonds
+ is payable at the rate of 12 per annum, and is payable semiannually.
+ The Bondholder may require Eagle to convert the Bond (including any
+ unpaid interest) into shares of the Company's common stock at any time
+ during the first year but not thereafter. Eagle may redeem the Bonds at
+ any time after the first year but not before. The issuance of the
+ Bonds, or any share of the common stock to be issued in payment of the
+ Bonds, has not been registered or approved by the Securities and
+ Exchange Commission ("SEC") or any state securities commission nor has
+ the SEC or any state securities commission passed on the accuracy of
+ the Confidential Private Placement Memorandum under which these Bonds
+ are being offered. Furthermore, the Bonds may not be assigned,
+ transferred, sold, or otherwise hypothecated. Any representation to the
+ contrary is a criminal offense. The Confidential Private Placement
+ Memorandum does not constitute any offer in any jurisdiction in which
+ an offer is not authorized. The Bonds, and any share of common stock to
+ be issued in payment of the Bonds, are "restricted securities" as that
+ term is defined in Rule 144 of the Securities Act of 1933, and may not
+ be sold or otherwise disposed of except in transactions that are
+ subsequently registered under applicable federal and state securities
+ laws, or in transactions exempt from such registration During the three
+ month period ended November 30, 2003, the Company received proceeds of
+ 3,912,000 from the issuance of these bonds.
+
+NOTE 13 - Risk Factors:
+ -------------
+
+ For the three months ended November 30, 2003 and 2002, substantially
+ all of the Company's business activities have remained within the
+ United States and have been extended to the wireless infrastructure,
+
+ 18
+ 
+ Eagle Broadband, Inc. and Subsidiaries
+ Notes to the Consolidated Financial Statements
+ November 30, 2003
+
+ fiber, cabling computer services and broadband industry. Approximately,
+ ninety-four percent of the Company's revenues and receivables have been
+ created solely in the state of Texas, zero percent have been created in
+ the international market, and the approximate six percent remainder
+ have been created relatively evenly over the rest of the nation during
+ the three months ended November 30, 2002. Whereas approximately eighty
+ percent of the Company's revenues and receivables have been created
+ solely in the state of Texas, zero percent have been created in the
+ international market, and the approximate twenty percent remainder has
+ been created relatively evenly over the rest of the nation for the
+ three months ended November 30, 2002. Through the normal course of
+ business, the Company generally does not require its customers to post
+ any collateral.
+
+NOTE 14 - Foreign Operations:
+ -------------------
+
+ Although the Company is based in the United States, its product is sold
+ on the international market. Presently, international sales total
+ approximately 0 and 0 at November 30, 2003 and 2002, respectively.
+
+NOTE 15 - Commitments and Contingent Liabilities:
+ ---------------------------------------
+
+ Leases
+
+ The Company leases its primary office space in League City, Texas, for
+ 36,352 per month with Gateway Park Joint Venture. This non-cancelable
+ lease commenced on January 1, 2002, and expires on May 31, 2004.
+
+ For the three months ending November 30, 2003 and 2002, rental expenses
+ of approximately 137,000 and 228,000 respectively, were incurred.
+
+ The Company also leased office space in Oxnard, California with Tiger
+ Ventura County, L.P. This three-year non-cancelable lease commenced
+ August 1, 2000, and expires July 31, 2004. Under the terms of the
+ lease, monthly payments will be 2,130 for the first twelve months
+ whereas the monthly payments will increase by 3.5 at the beginning of
+ both the second and third years.
+
+ The Company's wholly owned subsidiary, Atlantic Pacific, leases office
+ space in Houston, Texas with Houston Industrial Partners, Ltd. This
+ non-cancelable lease expires December 2005. The monthly payments are
+ 9,030 per month.
+
+ Atlantic Pacific also leased office space in Chicago, Illinois with
+ LaSalle Bank National Association. This twenty-nine month lease
+ commenced on October 1, 2000,and expired February 28, 2003. Under the
+ terms of the lease, monthly payments will be 2,220 for the first
+ twelve months whereas they will increase by 3.2 at the thirteenth and
+ twenty-fifth months.
+
+ Atlantic Pacific also leased office space in Houston, Texas with WL and
+ Deborah Miller in the amount of 4,500 per month. This non-cancelable
+ lease expired September 2002 and maintains a five-year renewal option.
+ The renewal option was waived in September 2002.
+
+ The Company's subsidiary, ClearWorks.net, Inc., leased office space in
+ Houston, Texas with 2000 North Loop. This non-cancelable lease expired
+ on April 30, 2003. The monthly payments increased from 7,306 to
+ 11,091 on April 30, 2000, and again on May 1, 2002, to 11,217 for the
+ remaining twelve months.
+
+ Also, ClearWorks.net, Inc., leased office space in Phoenix, Arizona
+ with Airpark Holdings. This non-cancelable lease expired on July 31,
+ 2003. The monthly payments are variable.
+
+ Also, ClearWorks.net, Inc., leased office space in San Antonio, Texas
+ with Wade Holdings. This is a month-to-month lease. The monthly
+ payments were 3,300.
+
+ The Company's subsidiary, United Computing Group, leased office space
+ in Houston, Texas with Eastgroup Properties, L.P. This non-cancelable
+ lease expired on August 31, 2003. The monthly payments were 8,570. UCG
+ previously leased office space with Techdyne, Inc., that expired August
+ 31, 2002.
+
+ The Company's subsidiary, ClearWorks Home Systems, leases office space
+ in Austin, Texas with Ditto Communications Technologies, Inc. This
+ non-cancelable lease commenced on September 1, 2002, and expires
+ January 31, 2005. The monthly payments are 5,876.
+
+ The Company's subsidiary, United Computing Group, leased office space
+ in Dallas, Texas with AMB Property II, LP. This non-cancelable lease
+ commenced on June 19, 2000, expired on June 30, 2002, and was extended
+ to expire on June 30, 2003. The monthly payments are 2,794. Future
+ obligations under the non-cancelable lease terms areas follows:
+
+ Period Ending August 31, Amount
+ --------- ------
+ 2004 521,000
+ 2005 116,000
+ 2006 58,000
+ -------------------
+ Total 695,000
+ ===================
+
+ 19
+ 
+ Eagle Broadband, Inc. and Subsidiaries
+ Notes to the Consolidated Financial Statements
+ November 30, 2003
+
+ Legal Proceedings
+
+ On February 23, 2001, ClearWorks and Eagle became defendants in Kaufman
+ Bros., LLP v. Clearworks.Net, Inc. and Eagle Wireless, Inc., Index No.
+ 600939/01, pending in the Supreme Court of the State of New York,
+ County of New York. In this action, plaintiff alleges that defendants
+ have breached an agreement with ClearWorks to pay plaintiff a fee for
+ financial advice and services allegedly rendered by plaintiff. The
+ complaint seeks compensatory damages of 4,000,000, plus attorneys'
+ fees and costs. The Company settled this lawsuit on November 4, 2003 by
+ issuing cash and stock totaling a fair market value of 1,320,000 as of
+ the settlement date.
+
+ On December 17, 2001, Kevan Casey and Tommy Allen sued ClearWorks.net,
+ Inc., ClearWorks Integration, Inc., and Eagle Wireless International,
+ Inc. for breach of contract and other related matters in Cause No.
+ 2001-64056; in the 281st Judicial District Court of Harris County,
+ Texas. This lawsuit is scheduled for the two-week docket beginning
+ December 1, 2003. The Company denies the claims and intends to
+ vigorously defend this lawsuit and claims against it. The Company
+ settled this lawsuit on November 26, 2003 for cash and stock to be paid
+ and issued totaling a fair market value of 3,000,000 as of the
+ settlement date.
+
+ On July 10, 2003, Eagle became a defendant in Cornell Capital Partners,
+ L.P. vs. Eagle Broadband, Inc., et al., Civil Action No. 03-1860 (KSH),
+ and In the United States District Court for the District of New Jersey.
+ The suit presents claims for breach of contract, fraud and negligent
+ misrepresentation. Plaintiff has also alleged that Eagle has defaulted
+ on a convertible debenture for failing to timely register the shares of
+ common stock underlying the convertible debenture and is seeking to
+ accelerate the maturity date of the debenture. During the three month
+ period ended November 30, 2003, the principal balance of the debenture
+ was approximately 1.2 million was repaid, although the suit remains
+ outstanding. The Company denies the claims and intends to vigorously
+ defend this lawsuit and the claims against it.
+
+ On December 14, 2000, ClearWorks became a defendant in State Of Florida
+ Department Of Environmental Protection vs. Reco Tricote, Inc. And
+ Southeast Tire Recycling, Inc. A/K/A Clearwork.net, Inc.; In The
+ Circuit Court Of The Tenth Judicial Circuit In And For Polk County,
+ Florida. The Florida EPA sued ClearWorks.net presenting claims for
+ recovery costs and penalties for a waste tire processing facility. The
+ suit seeks recovery of costs and penalties in a sum in excess of
+ 1,000,000, attorneys' fees and cost of court. ClearWorks denies the
+ claims and intends to vigorously contest all claims in this case and to
+ enforce its indemnification rights against the principals of Southeast
+ Tire Recycling.
+
+ On September 26, 2003 Intratech served a lawsuit on ClearWorks.net in
+ Intratech Capital Partners, Ltd. vs. ClearWorks.net, Inc.; Case No. CF3
+ 20136 in the High Court of Justice, Queen's Bench Division, Cardiff
+ District Registry. This lawsuit presents claims for breach of contract
+ for failing to pay the plaintiff for financial advice and services
+ allegedly rendered. The complaint seeks damages of 6,796,245.50, plus
+ attorneys' fees and costs. ClearWorks denies the claims and intends to
+ vigorously defend this lawsuit and claims against it.
+
+ On or about September 2003, Enron sued United Computing Group, Inc. in
+ Enron Corp. (Debtors/Plaintiff) vs. United Computing Group, Inc.; Case
+ No. 01-16034 in the United States Bankruptcy Court for the Southern
+ District of New York. The suit presents claims pursuant to sections 547
+ and 550 of the Bankruptcy Code to avoid and recover a transfer in the
+ amount of approximately 1,500,000.00. Defendant has filed an answer,
+ denies the claims, and intends to vigorously defend this lawsuit and
+ claims against it.
+
+ We intend to vigorously defend these and other lawsuits and claims
+ against us. However, we cannot predict the outcome of these lawsuits,
+ as well as other legal proceedings and claims with certainty. An
+ adverse resolution of pending litigation could have a material adverse
+ effect on our business, financial condition and results of operations.
+ The Company is subject to legal proceedings and claims that arise in
+ the ordinary course of business. The Company's management does not
+ expect that the results in any of these legal proceedings will have
+ adverse affect on the Company's financial condition or results of
+ operations.
+
+NOTE 16 - Earnings Per Share:
+ ------------------
+
+ The following table sets forth the computation of basic and diluted
+ earnings per share, in thousands except Per-Share Amount:
+
+ 20
+ 
+ Eagle Broadband, Inc. and Subsidiaries
+ Notes to the Consolidated Financial Statements
+ November 30, 2003
+
+For the three months ended November 30, 2003
+ --------------------------------------------
+ Income Shares Per-Share
+ (Numerator) (Denominator) Amount
+ ----------- ------------- -------
+ 
+ Net Loss (8,461)
+
+ Basic EPS:
+ Income available to
+ common stockholders (8,461) 159,696 (0.05)
+
+ Effect of Dilutive Securities
+ Warrants --- --- ---
+ -------- ---------- -----------
+ Diluted EPS:
+ Income available to
+ common stockholders
+ and assumed conversions. (8,461) 159,696 (0.05)
+ ======== ========== ======
+
+For the three months ended November 30, 2002
+ --------------------------------------------
+ Income Shares Per-Share
+ (Numerator) (Denominator) Amount
+ ----------- ------------- --------
+ 
+ Net Loss (831)
+
+ Basic EPS:
+ Income available to
+ common stockholders (831) 74,493 (0.01)
+
+ Effect of Dilutive Securities
+ Warrants 154 ---
+ -------- ---------- -----------
+
+ Diluted EPS:
+ Income available to
+ common stockholders
+ and assumed conversions. (831) 74,647 (0.01)
+ ====== ========= ======
+
+ For the three months ended November 30, 2003 and 2002, anti-dilutive
+ securities existed (see Note 11).
+
+NOTE 17 - Employee Stock Option Plan:
+ ---------------------------
+
+ In July 1996, the Board of Directors and majority stockholders adopted
+ a stock option plan under which 400,000 shares of the Company's common
+ stock have been reserved for issuance. Since that time, the Board of
+ Directors have amended the July 1996, employee stock option plan under
+ which 1,000,000 shares of Common Stock have been reserved for issuance.
+ Under this plan, as of November 30, 2003, 402,678 options have been
+ issued and are outstanding to various employees
+
+ The Company has elected to follow APB 25, "Accounting for Stock Issued
+ to Employees." Accordingly, since employee stock options are granted at
+ market price on the date of grant, no compensation expense is
+ recognized. However, SFAS 123 requires presentation of pro forma net
+ income and earnings per share as if the Company had accounted for its
+ employee stock options granted under the fair value method of that
+ statement. The weighted average fair value of the individual options
+ granted during 2000 is estimated as 0.58 on the date of grant. A
+ meaningful weighted average fair value of the individual options
+ granted during 2000 using the method prescribed by SFAS 123 could not
+ be determined due to the volatility of the share price during the
+ measurement period. Management estimates the average fair value for
+ options granted during 2001 to be comparable to those granted in 2000.
+ The impact on net income is minimal; therefore, the pro forma
+ disclosure requirements prescribed by SFAS 123 are not significant to
+ the Company. The fair values were determined using a Black-Scholes
+ option-pricing model with the following assumptions:
+
+ 2003 2002
+ ---------- --------
+ Dividend Yield 0.00 0.00 
+ Volatility 0.91 0.91
+ Risk-free Interest Rate 7.00 7.00 
+ Expected Life 5 5
+
+ 21
+ 
+ Eagle Broadband, Inc. and Subsidiaries
+ Notes to the Consolidated Financial Statements
+ November 30, 2003
+
+NOTE 18 - Retirement Plans:
+ -----------------
+
+During October 1997, the Company initiated a 401(k) plan for its employees,
+which is funded through the contributions of its participants. This plan
+maintains that the Company will match up to 3 of each participant's
+contribution. For the three months ended November 30, 2003 and 2002, employee
+contributions were approximately 27,298 and 71,351, respectively. The Company
+matched approximately 0 and 25,858, respectively for those same periods.
+
+NOTE 19 - Major Customer:
+ --------------
+
+The Company had gross sales of 2,397,000 and 4,618,000 for the three months
+ended November 30, 2003 and 2002, respectively. The three month period ended
+November 30, 2003 included 866,213 or 36 of the quarters total sales from
+Sweetwater Security Capital, LLC in conjunction with a contract valued at
+ 1,082,767 that was executed with the Company's security-monitoring service
+subsidiary, DSS Security, Inc. The remaining 216,553 associated with this
+contract has been deferred in conjunction with a six-month holdback provision of
+the contract. There were no parties individually that represented greater than
+ten percent of the revenues in the three months ended November 30, 2002.
+
+NOTE 20 - Industry Segments:
+ ------------------
+
+The Company has adopted the provisions of SFAS No. 131, "Disclosures about
+Segments of an Enterprise and Related Information". At August 31, 2001, the
+Company's seven business units have separate management teams and
+infrastructures that offer different products and services. The business units
+have been aggregated into reportable segments (as described below) since the
+long-term financial performance of these reportable segments is affected by
+similar economic conditions.
+
+Eagle Broadband, Inc., (Eagle) is a worldwide supplier of broadband and
+telecommunications equipment with related software and broadband products.
+(Including Eagle Wireless International, Inc., BroadbandMagic and Etoolz, Inc.,
+for this summary).
+
+Atlantic Pacific Communications, Inc., (APC) specializes in providing
+professional data and voice cable and fiber optic installations through project
+management services on a nationwide basis for multiple site-cabling
+installations for end users and re-sellers.
+
+ClearWorks Communications, Inc., (COMM) provides solutions to consumers by
+implementing technology both within the residential community and home. This is
+accomplished through the installation of fiber optic backbones to deliver voice,
+video and data solutions directly to consumers.
+
+ClearWorks Home Systems, Inc., (HSI) specializes in providing fiber optic and
+copper based structured wiring solutions and audio and visual equipment to
+single family and multi-family dwelling units.
+
+United Computing Group, Inc., (UCG) is an accelerator company and computer
+hardware and software reseller. UCG / INT maintains a national market presence.
+
+Link Two Communications, Inc., (Link II) is in the development and delivery of
+one and two way messaging systems.
+
+DSS Security, Inc., is a security monitoring company.
+
+ClearWorks.net, Inc., (.NET) is inactive with exception of debt related
+expenses.
+
+Contact Wireless, Inc., is a paging, cellular, and mobile services provider and
+reseller.
+
+For the three months ending November 30, 2003
+
+ (in thousands) APC/HSI EBS/DSS UCG Eagle Other Elim. Consol.
+ ----------- ---------- --------- ---------- ---------- ---------- ----------
+ 
+ Revenue 392 1,564 274 87 81 --- 2,397
+ Segment Loss (220) 331 (68) (8,173) (23) --- (8,152)
+ Total Assets 1,126 30,156 123 175,253 57,704 (137,455) 126,907
+ Capital Expenditures --- 128 --- 25 --- 153
+ Depreciation 39 383 15 126 51 --- 614
+
+22
+ 
+ Eagle Broadband, Inc. and Subsidiaries
+ Notes to the Consolidated Financial Statements
+ November 30, 2003
+
+For the three months ending November 30, 2002
+
+ (in thousands) APC/HSI EBS/DSS UCG Eagle Other Elim. Consol.
+ ----------- ---------- --------- ---------- ---------- ---------- ----------
+ 
+ Revenue 1,652 674 1,395 768 129 --- 4,618
+ Segment Loss 320 (102) (344) (589) (103) --- (818)
+ Total Assets 5,137 30,381 431 157,155 58,006 (120,468) 130,642
+ Capital Expenditures 8 1,419 2 42 --- --- 1,471
+ Dep. and Amort. 56 156 31 3 20 --- 266
+
+The accounting policies of the reportable segments are the same as
+ those described in Note 1. The Company evaluates the performance of its
+ operating segments based on income before net interest expense, income
+ taxes, depreciation and amortization expense, accounting changes and
+ non-recurring items.
+
+Note 21 - Supplemental Non-Cash Disclosures:
+ ----------------------------------
+
+During the quarter ended November 30, 2003, the Company issued 3,000,000 of
+convertible debt which was retired through the issuance of 2,000,000 shares of
+Series A Preferred Stock which was concurrently converted into 29,500,000 shares
+of the Company's Common Stock. Additionally, the Company received proceeds of
+ 3,912,000 from the sale of convertible Q-Series Bonds - see "Note 12 -
+Capitalization Activities".
+
+The beneficial conversion values associated with these financings aggregating
+ 6,912,000 are calculated at the difference between the conversion price and the
+fair value of the common stock into which the debt is convertible, multiplied by
+the number of shares into which the debt is convertible. Since the beneficial
+conversion value exceeded the 6,912,000 raised on these convertible
+instruments, the value charged to interest expense during the quarter was
+limited to 6,912,000. This non-cash charge comprises 6,912,000 of the
+ 7,080,000 interest expense on the Company's Statement of Operations and is
+shown as an adjustment to reconcile net loss to net cash on the Company's
+Statement of Cash Flows.
+
+ 23
+
+Item 2. Management's Discussion and Analysis.
+
+ The following discussion and analysis should be read in conjunction
+with the Financial Statements and Notes thereto appearing elsewhere in this Form
+10-Q. Information included herein relating to projected growth and future
+results and events constitutes forward-looking statements. Actual results in
+future periods may differ materially from the forward-looking statements due to
+a number of risks and uncertainties, including but not limited to fluctuations
+in the construction, technology, communication and industrial sectors; the
+success of the Company's restructuring and cost reduction plans; the success of
+the Company's competitive pricing; the Company's relationship with its
+suppliers; relations with the Company's employees; the Company's ability to
+manage its operating costs; the continued availability of financing;
+governmental regulations; risks associated with regional, national, and world
+economies. Any forward-looking statements should be considered in light of these
+factors.
+
+Results of Operations
+
+Three Months Ended November 30, 2003 Compared to the Three Months Ended
+November 30, 2002
+
+The following table sets forth summarized consolidated financial information for
+the three months ended November 30, 2003 and 2002.
+
+Condensed Financial Information
+- --------------------------------
+ Three Months Ended
+ November 30,
+ --------------------------------------------
+ in thousands) 2003 2002 Change Change
+ ---- ---- -------- --------
+
+Total Sales 2,397 4,618 (2,221) -48 
+Cost of Goods Sold 1,295 2,626 (1,331) -51 
+ --------------------------------------------
+Gross Profit 1,102 1,992 (890) -45 
+ --------------------------------------------
+ of Total Sales 46 43 3 7 
+Operating Expenses 2,839 2,664 175 7 
+ --------------------------------------------
+Loss from Operations (1,737) (672) (1,065) 158 
+ --------------------------------------------
+Other Income (Expense) (6,724) (159) (6,565) 4129 
+ --------------------------------------------
+Net Loss (8,461) (831) (7,630) 918 
+ ============================================
+ 
+Overview
+
+ For the three month period ended November 30, 2003, Eagle's business
+operations reflected further investment and expansion into higher margin
+business segments including Eagle's broadband Bundled Digital Services
+(Internet, video, voice and security) for residential and business customers
+while shifting focus away from low-margin commodity computer products and
+services. The Company's consolidated operations generated revenues of 2,397,000
+with a corresponding gross profit of 1,102,000 for the three-month period ended
+November 30, 2003. The significant decline in revenues in the first fiscal
+quarter of 2004 as compared to the corresponding period of 2003 was primarily
+attributable to the discontinuance of direct sales of low-margin commodity
+computer products and a decline in structured wiring sales as the Company
+continues its previously announced strategy to shift its focus to higher-margin
+product sales (i.e., set-top boxes, Orb'Phone Exchange, etc) and recurring
+services sales (i.e., broadband services, network monitoring / security, IT
+managed services, etc.).
+
+ The Company incurred a net loss of 8,461,000 for the three-month
+period ended November 30, 2003. The loss was primarily attributable to
+ 6,912,000 of non-cash interest expenses associated with the beneficial
+conversion feature of certain convertible bonds and notes issued against certain
+financing activities completed during the quarter and a 1,737,000 loss from
+operations. The Company's loss from operations included some 614,000 in
+depreciation and amortization expenses along with some 313,000 of legal
+expenses; primarily associated with the settlement of numerous previously
+disclosed lawsuits.
+
+ The Company is continuing the development and expansion of the
+Company's BDS model for distribution on a nationwide basis of voice, video and
+data content; increased sales efforts in the telephone, cable, internet,
+security services and wireless segments; securing of long-term relationships for
+content for the bundled digital services activities; and marketing/sales
+agreements with other companies for the sale of broadband products and services.
+On a nationwide basis, we are entering into business relationships with
+financial and technology companies to provide bundled digital services (digital
+content) to cities and municipalities that currently have or are in the process
+of completing construction of their own fiber infrastructure to the home. We
+believe that our companies have the technology, products and capabilities to
+provide these fiber-ready cities with digital content set-top boxes and
+structured wiring services.
+
+ 24
+
+The follow table sets forth summarized sales information for the three months
+ended November 30, 2003 and 2002.
+
+Sales Information
+- -----------------
+ Three Months Ended
+ November 30,
+ -------------------------------------------
+ in thousands) 2003 of Total 2,002 of Total Change Change
+ ---- ---------- ----- ---------- -------- --------
+ 
+Structured Wiring 392 16 1,560 34 (1,168) -75 
+Broadband Services 1,564 65 674 15 890 132 
+Products 361 15 2,044 44 (1,683) -82 
+Other 80 3 340 7 (260) -76 
+ ------------------------------------------------------------------
+Total Sales 2,397 100 4,618 100 (2,221) -48 
+ ------------------------------------------------------------------
+
+Net Sales. For the three-month period ended November 30, 2003, net sales
+declined to 2,397,000 from 4,618,000 during the three-month period ended
+November 30, 2002. The overall decrease of 48 was primarily attributable to the
+discontinuance of direct sales of low-margin commodity computer products and a
+decline in structured wiring sales as the Company continues its previously
+announced strategy to shift its focus to higher-margin product sales (i.e.,
+set-top boxes, Orb'Phone Exchange, etc) and recurring services sales (i.e.,
+broadband services, network monitoring / security, IT managed services, etc.).
+The 890,000 increase in sales of the Company's broadband services was primarily
+attributable to a contract valued at 1,082,767 executed by the Company's
+security-monitoring subsidiary, DSS Security, Inc.; against which the Company
+realized sales of 866,213 during the quarter.
+
+The following table sets forth summarized cost of goods sold information for the
+three months ended November 30, 2003 and 2002.
+
+Three Months Ended
+ November 30,
+ --------------------------------------------
+ in thousands) 2003 2002 Change Change
+ ---- ---- -------- --------
+
+Direct Labor and Related Costs 462 346 116 34 
+Products and Integration Service 137 1,537 (1,400) -91 
+Structured wiring labor and materials 205 229 (24) -10 
+Broadband Services costs 190 276 (86) -31 
+Depreciation and amortization 285 114 171 150 
+Other manufacturing costs 16 124 (108) -87 
+ --------------------------------------------
+Total Operating Expenses 1,295 2,626 (1,331) -51 
+ --------------------------------------------
+
+Cost Of Goods Sold. For the three-month period ended November 30, 2003,
+cost of goods sold decreased by 51 to 1,295,000 from 2,626,000 during the
+three-month period ended November 30, 2002. The decrease was primarily
+attributable to the discontinuance of direct sales of low-margin commodity
+computer products referenced above. The Company's overall gross profit
+percentage was 46 and 43 for the three-month periods ended November 30, 2003
+and November 30, 2002. This increase is primarily attributable to a shift away
+from lower margin commodity products and services to higher margin BDS and
+security-monitoring sales; partially offset by an increase in depreciation
+expenses associated with the build-out of the company's BDS infrastructure.
+
+ 25
+
+The following table sets forth summarized operating expense information for the
+three months ended November 30, 2003 and 2002.
+
+Operating Expenses:
+- -------------------
+ Three Months Ended
+ November 30,
+ --------------------------------------------
+ in thousands) 2003 2002 Change Change
+ ---- ---- -------- --------
+ 
+Salaries and Related Costs 959 1,508 (549) -36 
+Advertising and Promotion 18 37 (19) -51 
+Depreciation and Amortization 319 153 166 108 
+Other Support Costs 1,424 934 490 52 
+Research and Development 119 32 87 272 
+ --------------------------------------------
+Total Operating Expenses 2,839 2,664 175 7 
+ --------------------------------------------
+
+The following table breaks out other support costs information for the three
+months ended November 30, 2003 and 2002.
+
+Other Support Costs:
+- --------------------
+ Three Months Ended
+ November 30,
+- ------------------------------------------------------------------------------------- in thousands) 2003 2002 Change Change
+ ---- ---- -------- --------
+
+Advertising and conventions 0 0 0 NA
+Auto related 9 11 (2) -18 
+Bad debt 104 0 104 NA
+Contract labor 0 24 (24) -100 
+Delivery and postage 16 61 (45) -74 
+Fees 62 108 (46) -43 
+Insurance 111 5 106 2120 
+Office and telephone 79 63 16 25 
+Other 12 29 (17) -59 
+Professional and legal 733 84 649 773 
+Rent 137 228 (91) -40 
+Travel 56 75 (19) -25 
+Taxes 3 17 (14) -82 
+Utilities 102 229 (127) -55 
+ --------------------------------------------
+Total Other Support Costs 1,424 934 490 52 
+ --------------------------------------------
+
+Operating Expenses. For the three-month period ended November 30, 2003,
+operating expenses increased by 7 to 2,839,000 as compared to 2,664,000 for
+the three-month period ended November 30, 2002. Additionally, the mix of
+expenses changed significantly during the reporting period. The primary
+fluctuations that occurred as evidenced by the two preceding tables immediately
+above are discussed below:
+
+o A 549,000 decrease in salaries and related costs, as a result of
+ overall staffing reductions across all business units; the
+ majority of which occurred in discontinued and restructured
+ operations.
+
+o A 19,000 decrease in advertising and promotion as the Company
+ placed more emphasis on directly marketing its products and
+ services to its customers as well as entering into business
+ relationships with financial and technology companies to provide
+ BDS services to cities and municipalities and decreased attendance
+ at conventions and tradeshows.
+
+o A 166,000 increase in depreciation and amortization, due
+ principally to the additional build-out of the Company's BDS
+ infrastructure in fiscal 2003.
+
+o A 490,000 increase in other support costs; the components of
+ which are set forth on the table included immediately above.
+ Included in this increase was a 313,000 in legal expenses
+ associated with the settlement of various lawsuits.
+
+ 26
+
+o An 87,000 increase in research and development expenses,
+ primarily consisting of the Company's continued investment in
+ HDTV-ready multimedia set-top boxes for hospitality and broadband
+ customers and the Orb'Phone Exchange satellite voice and data
+ communications products for military, government and commercial
+ customers.
+
+ Net Loss. For the three months ended November 30, 2003, Eagle's net
+loss was 8,461,000, compared to a net loss of 831,000 during the three month
+period ended November 30, 2002.
+
+ Changes in Cash Flow. Eagle's operating activities used net cash of
+ 490,000 in the three-month period ended November 30, 2003, compared to use of
+net cash of 720,000 in the three-month period ended November 30, 2002. The
+decrease in net cash used by operating activities was primarily attributable to
+an increase in the Company's net operating loss, net of non-cash charges, offset
+by stock issued for services rendered combined with cash used in retiring
+numerous accrued liabilities for legal and restructuring costs and cash used in
+working capital increases for inventory and accounts receivable. Eagle's
+investing activities used net cash of 105,000 in the three-month period ended
+November 30, 2003, compared to 1,483,000 in the three-month period ended
+November 30, 2002. The decrease was due primarily to a significant decline in
+investment activities and purchase of equipment associated with the prior years
+build out of Eagle's network and infrastructure for the delivery of broadband
+services. Eagle's financing activities provided cash of 5,608,000, in the three
+month period ended November 30, 2003, compared to 1,577,000 of cash provided in
+the three month ended November 30, 2002. The increase is attributable to an
+increase in convertible notes aggregating a net of 5,608,000 in conjunction
+with the Company's financing activities in the first fiscal quarter of 2004.
+
+ Liquidity and Capital Resources. Current assets for the three-month
+period ended November 30, 2003 totaled 14,458,000 (includes cash and cash
+equivalents of 7,550,000) as compared to 8,109,000 reported for the year ended
+August 31, 2003. During the first fiscal quarter of 2004, Eagle received net
+proceeds of 5,993,000 from the sale of convertible bonds and notes and through
+the sale of marketable securities held as short term investments and has retired
+or reduced certain of its notes payable and accrued expenses including numerous
+lawsuits; thereby reducing the Company's current and contingent liabilities.
+
+ The Company anticipates that it will incur significantly less capital
+expenditures for broadband fiber infrastructure on a going forward basis as a
+result of an emphasis of the sale of its BDS services to municipalities, real
+estate developers, hotels, multi-tenant units and service providers that own or
+will build out their own fiber networks versus the Company's history of building
+out and owning these networks. The Company's current cash and cash equivalents,
+including net proceeds received during the first fiscal quarter, will be
+sufficient to fund operations for the next twelve months.
+
+ Historically, we have financed operations through the sale of debt and
+equity securities. We do not have any significant credit facilities available
+with financial institutions or other third parties and historically, we have
+relied upon best efforts third-party funding from individual accredited
+investors. Though we have been successful at raising additional capital on a
+best efforts basis in the past, we can provide no assurance that we will be
+successful in any future best efforts financing efforts. If we are unable to
+either obtain financing from external sources or generate internal liquidity
+from operations in the future, we may need to curtail operations or sell assets.
+Our ability to raise capital through further equity offerings is limited because
+nearly all shares of common stock have either been issued or reserved for
+issuance.
+
+Contractual Obligations
+
+ Contractual Payments due by period
+ obligations
+ Less
+ than 1 1-3 3-5 More than
+ Total year years years 5 years
+ -------------------------------------------------------------------
+ 
+ Long-Term Debt 7,187 7,187 --- --- ---
+ Obligations
+
+ Operating Lease 695 521 174 --- ---
+ Obligations
+
+ Total 7,882 7,708 174 --- ---
+
+The Company's contractual obligations consist of long-term debt as set
+forth in Note 5, (Notes Payable), to the Company's financial statements and
+certain off-balance sheet obligations for office space operating leases
+requiring future minimal commitments under non-cancelable leases. - See Item 2 -
+Management's Discussion and Analysis under non-cancelable leases as described in
+Note 15 to the Company's financial statements under the heading (Commitments and
+Contingent Liabilities).
+
+CRITICAL ACCOUNTING POLICIES
+
+ The Company has identified the following policies as critical to its
+business and the understanding of its results of operations. The Company
+believes it is improbable that materially different amounts would be reported
+
+ 27
+
+relating to the accounting policies described below if other acceptable
+approaches were adopted. However, the application of these accounting policies,
+as described below, involve the exercise of judgment and use of assumptions as
+to future uncertainties; therefore, actual results could differ from estimates
+generated from their use.
+
+Impairment of Long-Lived Assets and Goodwill
+
+ Our long-lived assets predominantly include goodwill. Statement of
+Financial Accounting Standards No. 142 "Goodwill and Other Intangible Assets"
+("SFAS 142") requires that goodwill and intangible assets be tested for
+impairment at the reporting unit level (operating segment or one level below an
+operating segment) on an annual basis and between annual tests in certain
+circumstances. Application of the goodwill impairment test requires judgment,
+including the identification of reporting units, assigning assets and
+liabilities to reporting units, assigning goodwill and intangible assets to
+reporting units, and determining the fair value of each reporting unit.
+Significant judgments required to estimate the fair value of reporting units
+include estimating future cash flows, determining appropriate discount rates and
+other assumptions. Changes in these estimates and assumptions could materially
+affect the determination of fair value for each reporting unit.
+
+ Goodwill is primarily the Company rights to deliver bundled digital
+services such as Internet, telephone, cable television and security monitoring
+services to residential and business users. The Company obtained an independent
+appraisal to assess the fair value of the intangible assets. There were a number
+of significant and complex assumptions used in the calculation of the fair value
+of the intangible assets. If any of these assumptions prove to be incorrect, the
+Company could be required to record a material impairment to its intangible
+assets. The assumptions included significant market penetration in its current
+markets under contract and significant market penetration in markets where they
+are currently negotiating contracts.
+
+ The Company evaluates the carrying value of long-lived assets and
+identifiable intangible assets for potential impairment on an ongoing basis. An
+impairment loss would be deemed necessary when the estimated non-discounted
+future cash flows are less than the carrying net amount of the asset. If an
+asset were deemed to be impaired, the asset's recorded value would be reduced to
+fair market value. In determining the amount of the charge to be recorded, the
+following methods would be utilized to determine fair market value (i) quoted
+market prices in active markets, (ii) estimate based on prices of similar assets
+and (iii) estimate based on valuation techniques. The Company obtained an
+independent valuation to assist it in testing the fair value of its goodwill and
+intangibles as of August 31, 2003 and determined that these assets totaling
+ 81.6 million were not impaired.
+
+Revenue Recognition
+
+ The Company designs, manufactures, markets and services its products and
+services under its principal subsidiaries and operating business units
+including; Eagle Wireless International, Inc.; BroadbandMagic; ClearWorks
+Communications, Inc.; ClearWorks Home Systems, Inc.; Atlantic Pacific
+Communications, Inc.; Contact Wireless, Inc.; DSS Security, Inc.; Link Two
+Communications, Inc.; and United Computing Group, Inc., names.
+
+Eagle Wireless International
+
+ Eagle designs, manufactures and markets transmitters, receivers,
+controllers and software, along with other equipment used in commercial and
+personal communication systems, radio and telephone systems. Revenues from these
+products are recognized when the product is shipped.
+
+BroadbandMagic
+
+ BroadbandMagic designs, manufactures and markets the convergent set-top
+boxes. Products are sent principally to commercial customers for a pre-sale test
+period of 90-days. Upon the end of the pre-sale test period, the customer either
+returns the product or accepts the product, at which time the Company recognizes
+the revenue.
+
+ Eagle Wireless International and BroadbandMagic engage independent
+agents for sales principally in foreign countries and certain geographic regions
+in the United States. Under the terms of these one-year agreements the
+distributor or sales agents provide the companies with manufacturing business
+sales leads. The transactions from these distributors and agents are subject to
+the companies' approval prior to sale. The distributorship or sales agent
+receives commissions based on the amount of the sales invoice from the companies
+to the customer. The sale is recognized at the time of shipment to the customer.
+These sales agents and distributors are not a significant portion of total sales
+in any of the periods presented.
+
+Eagle Broadband Services
+
+ Eagle Broadband Services provides Bundled Digital Services to business
+and residential customers, primarily in the Texas market to date. Revenue is
+derived from fees charged for the delivery of Bundled Digital Services, which
+includes telephone, long distance, internet, security monitoring and cable
+services. This subsidiary recognizes revenue and the related costs at the time
+the services are rendered.
+
+ 28
+
+Eagle Broadband Residential Structured Wiring
+
+ Eagle Broadband Residential Structured Wiring sells and installs
+structured wiring, audio and visual components to homes. This subsidiary
+recognizes revenue and the related costs at the time the services are performed.
+Revenue is derived from the billing of structured wiring to homes and the sale
+of audio and visual components to the homebuyers.
+
+Eagle Broadband Communications Services
+
+ Eagle Broadband Communication Services provides project planning,
+installation, project management, testing and documentation of fiber and cable
+to commercial and industrial clients throughout the United States. The revenue
+from the fiber and cable installation and services is recognized upon percentage
+of completion of the project. Most projects are completed in less than one
+month, therefore, matching revenue and expense in the period incurred. Service,
+training and extended warranty contract revenues are recognized as earned.
+
+Etoolz
+
+ Etoolz, Inc., provides research and development support for all Eagle
+companies and does not currently provide billable services to independent third
+parties.
+
+Eagle Messaging Services
+
+ Eagle Messaging Services provides customers with one and two way
+messaging systems. The revenue from these services is recognized as it is earned
+from the customer.
+
+Eagle Paging Services
+
+ Eagle Paging Services provides customers with paging and mobile
+telephone products and related monthly services. Revenue from product sales is
+recorded at the time of shipment. Revenue for the mobile phone and paging
+service is billed monthly as the service is provided.
+
+Eagle Security Services
+
+ Eagle Security Services provides monthly security monitoring services
+to residential customers. The customers are billed three months in advance of
+service usage. The revenues are deferred at the time of billing and ratably
+recognized over the prepayment period as service is provided.
+
+Eagle Technology Services
+
+ Eagle Technology Services provides business-to-business hardware and
+software network solutions and a network monitoring services. The revenue from
+the hardware and software sales is recognized at the time of shipment. The
+monitoring services recognition policy is to record revenue as earned.
+
+Receivables
+
+ For the three month period ended November 30, 2003, Eagle accounts
+receivables increased to 2,402,000 from 1,704,000 at August 31, 2003. The
+majority of this increase was due to the increased sales in the Company's
+security-monitoring subsidiary, DSS Security, Inc. discussed earlier herein.
+
+ Earnings are charged with a provision for doubtful accounts based on
+collection experience and current review of the collectability of accounts
+receivable. Accounts receivables deemed uncollectible are charged against the
+allowance for doubtful accounts.
+
+Inventory
+
+ Inventories are valued at the lower of cost or market. The cost is
+determined by using the first-in first-out method. At November 30, 2003, Eagle's
+inventory totaled 3,855,000 as compared to 3,199,000 at August 31, 2003. The
+majority of this increase was due to an increase in raw materials inventory
+associated with in process set-top box manufacturing.
+
+Recent Accounting Pronouncements
+
+ In July 2002, the FASB issued Statement of Financial Accounting
+Standards No. 146 ("SFAS 146"), "Accounting for Costs Associated with Exit or
+Disposal Activities," which nullifies EITF Issue No. 94-3, "Liability
+Recognition for Certain Employee Termination Benefits and Other Costs to Exit an
+Activity (including Certain Costs Incurred in a Restructuring)." SFAS 146
+
+ 29
+
+requires that costs associated with an exit or disposal activity be recognized
+only when the liability is incurred (that is, when it meets the definition of a
+liability in the FASB's conceptual framework). SFAS 146 also establishes fair
+value as the objective for initial measurement of liabilities related to exit or
+disposal activities. SFAS 146 is effective for exit or disposal activities that
+are initiated after December 31, 2002. The Company adopted SFAS in the first
+quarter of fiscal 2003.
+
+ In November 2002, the FASB issued Interpretation No. 45 (FIN 45),
+"Guarantor's Accounting and Disclosure Requirements for Guarantees, Including
+Indirect Guarantees of Indebtedness of Others." For certain guarantees issued
+after December 31, 2002, FIN 45 requires a guarantor to recognize, upon issuance
+of a guarantee, a liability for the fair value of the obligations it assumes
+under the guarantee. Guarantees issued prior to January 1, 2003, are not subject
+to liability recognition, but are subject to expanded disclosure requirements.
+The Company does not believe that the adoption of this Interpretation has had a
+material effect on its consolidated financial position or statement of
+operations.
+
+ In January 2003, FASB issued Interpretation No. 46 (FIN 46), an
+interpretation of Accounting Research Bulletin No. 51, which requires the
+Company to consolidate variable interest entities for which it is deemed to be
+the primary beneficiary and disclose information about variable interest
+entities in which it has a significant variable interest. FIN 46 became
+effective immediately for variable interest entities formed after January 31,
+2003 and effective for periods ending after December 15, 2003, for any variable
+interest entities formed prior to February 1, 2003. The Company does not believe
+that this Interpretation will have a material impact on its consolidated
+financial statements.
+
+ In April 2002, the FASB issued Statement of Financial Accounting
+Standards No. 145 ("SFAS 145"), "Rescission of FASB Statements No. 4, 44 and 64,
+Amendment of FASB Statement No. 13, and Technical Corrections," which requires
+that the extinguishment of debt not be considered an extraordinary item under
+APB Opinion No. 30 ("APB 30"), "Reporting the Results of Operations-Reporting
+the Effects of Disposal of a Segment of Business, and Extraordinary, Unusual and
+Infrequently Occurring Events and Transactions," unless the debt extinguishment
+meets the "unusual in nature and infrequent of occurrence" criteria in APB 30.
+SFAS 145 is effective for fiscal years beginning after May 15, 2002, and, upon
+adoption, companies must reclassify prior period items that do not meet the
+extraordinary item classification criteria in APB 30. The Company adopted SFAS
+145 and related rules as of August 31, 2002. The adoption of SFAS 145 had no
+effect on the Company's financial position or results of operations.
+
+ In May 2003, the FASB issued Statement of Financial Accounting
+Standards No. 150 ("SFAS 150"), "Accounting for Certain Financial Instruments
+with Characteristics of both Liabilities and Equity." This Statement establishes
+standards for how an issuer classifies and measures certain financial
+instruments with characteristics of both liabilities and equity. It requires
+that an issuer classify a financial instrument that is within its scope as a
+liability (or an asset in some circumstances). The provisions of this Statement
+are effective for financial instruments entered into or modified after May 31,
+2003, and otherwise are effective at the beginning of the first interim period
+beginning after June 15, 2003. The adoption of this Statement did not have an
+impact on the Company's financial results of operations and financial position.
+
+ In April 2003, the FASB issued SFAS No. 149, "Amendment of Statement
+133 on Derivative Instruments and Hedging Activities," which amends and
+clarifies financial accounting and reporting derivative instruments, including
+certain derivative instruments embedded in other contracts and for hedging
+activities under SFAS No. 133, "Accounting for Derivative Instruments and
+Hedging Activities." This statement is effective for contracts entered into or
+modified and for hedging relationships designated after June 30, 2003. The
+adoption of this statement did not have an impact on the Company's operating
+results or financial position.
+
+Item 3. Quantitative and Qualitative Disclosures about Market Risk.
+
+Interest Rate and Equity Market Risks
+
+ The Company is exposed both to market risk from changes in interest
+rates on funded debt and changes in equity values on common stock investments it
+holds in publicly traded companies. The Company also previously had exposure
+that related to the Company's revolving credit facility. The Company fully
+retired its revolving credit facility in September 2003 and thus no longer has
+such exposure related to interest rate risk. Borrowings under the credit
+facility bear interest at variable rates based on the bank prime rate. The
+extent of this risk with respect to interest rates on funded debt is not
+quantifiable or predictable due to the variability of future interest rates;
+however, the Company does not believe a change in these rates would have a
+material adverse effect on the Company's operating results, financial condition,
+and cash flows.
+
+ The Company's cash and cash equivalents are invested in mortgage and
+asset backed securities, mutual funds, money market accounts and common stock.
+Accordingly, the Company is subject to both changes in market interest rates and
+the equity market fluctuations and risk. There is an inherent roll over risk on
+these funds as they accrue interest at current market rates. The extent of this
+risk is not quantifiable or predictable due to the variability of future
+interest rates. The Company does not believe a change in these rates would have
+a material adverse effect on the Company's operating results, financial
+condition, and cash flows with respect to invested funds in mortgage and asset
+backed securities, mutual funds and money market accounts, however; the company
+does have both cash and liquidity risks associated with its common stock
+investments aggregating 1,876,850 in market value as of November 30, 2003.
+
+ 30
+
+Credit Risks
+
+ The Company monitors its exposure for credit losses and maintains
+allowances for anticipated losses, but does not require collateral from these
+parties. The company did not have any customers that represented greater than
+10 of its revenues during the first fiscal quarter of 2004 and, as such, does
+not believe that the credit risk posed by any specific customer would have a
+material adverse affect on its financial condition.
+
+Item 4. Controls and Procedures
+
+ The Company's Chief Executive Officer and Chief Financial Officer have
+evaluated the effectiveness of the Company's disclosure controls and procedures
+(as such term is defined in Rules 13a-15(b) under the Securities Exchange Act of
+1934, as amended (the Exchange Act)) as of the end of the period covered by this
+quarterly report. Based on such evaluation, such officers have concluded that
+the Company's disclosure controls and procedures are effective in alerting them
+on a timely basis to material information relating to the Company (including its
+consolidated subsidiaries) required to be included in the Company's periodic
+filings under the Exchange Act.
+
+ There were no changes in Eagle's internal control over financial
+reporting that occurred during the quarter ended November 30, 2003 that have
+materially affected, or reasonably likely to materially affect, Eagle's internal
+control over financial reporting.
+
+ Eagle's disclosure controls and procedures are designed to provide a
+reasonable level of assurance of reaching Eagle's desired disclosure control
+objectives and are effective in reaching that level of reasonable assurance.
+
+Part 2. - Other Information
+
+Item 1 - Legal Proceedings
+
+ For a description of certain legal matters, refer to Note 15.
+"Commitments and Contingent Liabilities" under the heading Legal Proceedings in
+Part 1, Item 1. "Consolidated Financial Statements."
+
+ The Company is also subject to legal proceedings and claims that arise
+in the ordinary course of business. The Company's management does not expect
+that the results in any of these legal proceedings will have a material adverse
+effect on the Company's financial condition or results of operations (Note 15).
+
+Item 2 - Recent Sales of Unregistered Securities or Changes in Securities and
+ Use of Proceeds
+
+ None
+
+Item 3 - Defaults Upon Senior Securities
+ None
+
+Item 4 - Submission of Matters to a Vote of Security Holders
+ None
+
+Item 5 - Other Information
+ None
+
+Item 6--Exhibits, Financial Statement Schedules and Reports on Form 8-K
+
+(a) Financial Statements and Schedules:
+
+ The financial statements are set forth under Item 1 of this Quarterly
+Report on Form 10-Q. Financial statement schedules have been omitted since they
+are either not required, not applicable, or the information is otherwise
+included.
+
+(b) Reports on Form 8-K
+
+ The following reports were furnished on Form 8-K during the three
+months ended November 30, 2003:
+
+ A report on Form 8-K, announcing information under Item 4 of the
+report, was filed on September 11, 2003 with the Securities and Exchange
+Commission.
+
+ 31
+
+A report on Form 8-K, announcing information under Item 5 of the
+report, was filed on September 30, 2003 with the Securities and Exchange
+Commission.
+
+ A report on Form 8-K, announcing information under Item 5 of the
+report, was filed on October 3, 2003 with the Securities and Exchange
+Commission.
+
+ A report on Form 8-K, announcing information under Item 5 of the
+report, was filed on October 28, 2003 with the Securities and Exchange
+Commission.
+
+(c) Exhibit Listing
+
+ EXHIBIT NO. IDENTIFICATION OF EXHIBIT
+
+Exhibit 3.1 Eagle Wireless International, Inc. Articles of Incorporation, as Amended
+ (incorporated by reference to Exhibit 3.1 of Form SB-2 file no. 333-20011)
+
+ Exhibit 3.2 Amended and Restated Eagle Wireless International, Inc. Bylaws (Incorporated
+ by reference to Exhibit 3.2 of Form 10-KSB for the fiscal year ended August
+ 31, 2001, filed November 16, 2001)
+
+ Exhibit 4.1 Form of Common Stock Certificate (incorporated by reference to Exhibit 4.1 of
+ Form SB-2 file no. 333-20011)
+
+ Exhibit 10.1 Asset Purchase Agreement between Eagle Telecom International, Inc., a Delaware
+ corporation and Eagle Telecom International, Inc., a Texas corporation
+ (incorporated by reference to Exhibit 10.1 of Form SB-2 file no. 333-20011)
+
+ Exhibit 10.2 Stock Option Plan (incorporated by reference to Exhibit 10.2 of Form SB-2 file
+ no. 333-20011)
+
+ Exhibit 10.3 Agreement and Plan of Reorganization dated September 15, 2000 (incorporated by
+ reference to Exhibit 10.1 of Form S-4 file no. 333-49688)
+
+ Exhibit 10.4 Stock Purchase Agreement between Eagle Wireless International, Inc. and the
+ shareholders of Comtel Communications, Inc. (incorporated by reference to
+ Exhibit 10.4 of Form 10-KSB for the fiscal year ended August 31, 2000, filed
+ December 13, 2000)
+
+ Exhibit 10.5 Stock Purchase Agreement between Eagle Wireless International, Inc. and the
+ shareholders of Atlantic Pacific Communications, Inc. (incorporated by
+ reference to Exhibit 10.5 of Form 10-KSB for the fiscal year ended August 31,
+ 2000, filed December 13, 2000)
+
+ Exhibit 10.6 Stock Purchase Agreement between Eagle Wireless International, Inc. and
+ the shareholders of Etoolz, Inc. (incorporated by reference to Exhibit
+ 10.6 of Form 10-KSB for the fiscal year ended August 31, 2000, filed December 13, 2000)
+
+ Exhibit 21.1 List of Subsidiaries (incorporated by reference to Exhibit 21.1 of Form S-4
+ file no. 333-49688)
+
+ Exhibit 31.1 Certification of Chief Executive Officer pursuant to Section 302 of the
+ Sarbanes-Oxley Act of 2002
+
+ Exhibit 31.2 Certification of Chief Financial Officer pursuant to Section 302 of the
+ Sarbanes-Oxley Act of 2002
+
+ Exhibit 32.1 Certification of Chief Executive Officer pursuant to Section 906 of
+ the Sarbanes-Oxley Act of 2002
+
+ Exhibit 32.2 Certification of Chief Financial Officer pursuant to Section 906 of
+ the Sarbanes-Oxley Act of 2002
+
+32
+
+SIGNATURES
+
+ Pursuant to the requirements of the Securities Exchange Act of 1934,
+ the Registrant has duly caused this report to be signed on its behalf
+ by the undersigned thereunto duly authorized.
+
+EAGLE BROADBAND, INC.
+
+Date: January 14, 2004 By: /s/David Weisman
+ -----------------
+ David Weisman
+ Chief Executive Officer
+
+ /s/ Richard R. Royall
+ -----------------
+ Richard R. Royall
+ Chief Financial Officer
+
+33
+
+<EX-31>
+ 3
+ a4549501ex311.txt
+ EXHIBIT 31.1 CERTIFICATION
+ 
+Exhibit 31.1
+
+Certification Pursuant to Section 302 of the Sarbanes-Oxley Act of 2002
+
+Certifications
+- --------------
+
+I, David Weisman, Chief Executive Officer, certify that:
+
+1. I have reviewed this Quarterly Report on Form 10-Q of Eagle Broadband, Inc.;
+
+2. Based on my knowledge, this report does not contain any untrue statement of a
+material fact or omit to state a material fact necessary to make the statements
+made, in light of the circumstances under which such statements were made, not
+misleading with respect to the period covered by this report;
+
+3. Based on my knowledge, the financial statements, and other financial
+information included in this report, fairly present in all material respects,
+the financial condition, results of operations and cash flows of the registrant
+as of, and for, the periods presented in this report;
+
+4. The registrant's other certifying officers and I are responsible for
+establishing and maintaining disclosure controls and procedures (as defined in
+Exchange Act Rules 13a-15(e) and 15d-15(e) for the registrant and have:
+
+a. Designed such disclosure controls and procedures, or caused such disclosure
+controls and procedures to be designed under our supervision, to ensure that
+material information relating to the registrant, including its consolidated
+subsidiaries, is made known to us by others within those entities, particularly
+during the period in which this report is being prepared;
+
+b. Evaluated the effectiveness of the registrant's disclosure controls and
+procedures and presented in this report our conclusions about the effectiveness
+of the disclosure controls and procedures, as of the end of the period covered
+by this report based on such evaluation; and
+
+c. Disclosed in this report any change in the registrant's internal control over
+financial reporting that occurred during the registrant's fourth fiscal quarter
+that has materially affected, or is reasonably likely to materially affect, the
+registrant's internal control over financial reporting.
+
+5. The registrant's other certifying officers and I have disclosed, based on our
+most recent evaluation of internal control over financial reporting, to the
+registrant's auditors and the audit committee of registrant's board of directors
+(or persons performing the equivalent functions):
+
+a. All significant deficiencies and material weaknesses in the design or
+operation of internal control over financial reporting which are reasonably
+likely to adversely affect the registrant's ability to record, process,
+summarize and report financial information; and
+
+b. Any fraud, whether or not material, that involves management or other
+employees who have a significant role in the registrant's internal control over
+financial reporting.
+
+Date: January 14, 2004
+
+/S/ David Weisman
+- -------------------
+David Weisman,
+Chief Executive Officer
+
+</EX-31>
+
+<EX-31>
+ 4
+ a4549501ex312.txt
+ EXHIBIT 31.2 CERTIFICATION
+ 
+Exhibit 31.2
+
+Certification Pursuant to Section 302 of the Sarbanes-Oxley Act of 2002
+
+Certifications
+- --------------
+
+I, Richard R. Royall, Chief Financial Officer, certify that:
+
+1. I have reviewed this Quarterly Report on Form 10-Q of Eagle Broadband, Inc.;
+
+2. Based on my knowledge, this report does not contain any untrue statement of a
+material fact or omit to state a material fact necessary to make the statements
+made, in light of the circumstances under which such statements were made, not
+misleading with respect to the period covered by this report;
+
+3. Based on my knowledge, the financial statements, and other financial
+information included in this report, fairly present in all material respects,
+the financial condition, results of operations and cash flows of the registrant
+as of, and for, the periods presented in this report;
+
+4. The registrant's other certifying officers and I are responsible for
+establishing and maintaining disclosure controls and procedures (as defined in
+Exchange Act Rules 13a-15(e) and 15d-15(e) for the registrant and have:
+
+a. Designed such disclosure controls and procedures, or caused such disclosure
+controls and procedures to be designed under our supervision, to ensure that
+material information relating to the registrant, including its consolidated
+subsidiaries, is made known to us by others within those entities, particularly
+during the period in which this report is being prepared;
+
+b. Evaluated the effectiveness of the registrant's disclosure controls and
+procedures and presented in this report our conclusions about the effectiveness
+of the disclosure controls and procedures, as of the end of the period covered
+by this report based on such evaluation; and
+
+c. Disclosed in this report any change in the registrant's internal control over
+financial reporting that occurred during the registrant's fourth fiscal quarter
+that has materially affected, or is reasonably likely to materially affect, the
+registrant's internal control over financial reporting.
+
+5. The registrant's other certifying officers and I have disclosed, based on our
+most recent evaluation of internal control over financial reporting, to the
+registrant's auditors and the audit committee of registrant's board of directors
+(or persons performing the equivalent functions):
+
+a. All significant deficiencies and material weaknesses in the design or
+operation of internal control over financial reporting which are reasonably
+likely to adversely affect the registrant's ability to record, process,
+summarize and report financial information; and
+
+b. Any fraud, whether or not material, that involves management or other
+employees who have a significant role in the registrant's internal control over
+financial reporting.
+
+Date: January 14, 2004
+
+/S/ Richard R. Royall
+- --------------------
+Richard R. Royall,
+Chief Financial Officer
+
+</EX-31>
+
+<EX-32>
+ 5
+ a4549501ex321.txt
+ EXHIBIT 32.1 CERTIFICATION
+ 
+Exhibit 32.1
+ CERTIFICATION PURSUANT TO
+ 18 U.S.C. SECTION 1350,
+ AS ADOPTED PURSUANT TO
+ SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002
+
+In connection with the Quarterly Report of Eagle Broadband, Inc. (the "Company")
+on Form 10-Q for the period ending November 30, 2003 as filed with the
+Securities and Exchange Commission on the date hereof (the "Report"), I, David
+Weisman, Chief Executive Officer of the Company, certify, pursuant to 18 U.S.C.
+ss. 1350, as adopted pursuant to ss. 906 of the Sarbanes-Oxley Act of 2002,
+that:
+
+(1) The Report fully complies with the requirements of section 13(a) or 15(d) of
+the Securities Exchange Act of 1934; and
+
+(2) The information contained in the Report fairly presents, in all material
+respects, the financial condition and results of operations of the Company.
+
+Date: January 14, 2004
+
+/S/David Weisman
+- -----------------
+David Weisman,
+Chief Executive Officer
+
+</EX-32>
+
+<EX-32>
+ 6
+ a4549501ex322.txt
+ EXHIBIT 32.2 CERTIFICATION
+ 
+Exhibit 32.2
+ CERTIFICATION PURSUANT TO
+ 18 U.S.C. SECTION 1350,
+ AS ADOPTED PURSUANT TO
+ SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002
+
+In connection with the Quarterly Report of Eagle Broadband, Inc. (the "Company")
+on Form 10-Q for the period ending November 30, 2003 as filed with the
+Securities and Exchange Commission on the date hereof (the "Report"), I, Richard
+R. Royall, Chief Financial Officer of the Company, certify, pursuant to 18
+U.S.C. ss. 1350, as adopted pursuant to ss. 906 of the Sarbanes-Oxley Act of
+2002, that:
+
+(1) The Report fully complies with the requirements of section 13(a) or 15(d) of
+the Securities Exchange Act of 1934; and
+
+(2) The information contained in the Report fairly presents, in all material
+respects, the financial condition and results of operations of the Company.
+
+Date: January 14, 2004
+
+/S/Richard R. Royall
+- --------------------
+Richard R. Royall,
+Chief Financial Officer
+
+</EX-32>
+

@@ -1,0 +1,1151 @@
+<Header>
+<FileStats>
+    <FileName>20040130_10-Q_edgar_data_737561_0000737561-04-000002.txt</FileName>
+    <GrossFileSize>65615</GrossFileSize>
+    <NetFileSize>52478</NetFileSize>
+    <NonText_DocumentType_Chars>0</NonText_DocumentType_Chars>
+    <HTML_Chars>424</HTML_Chars>
+    <XBRL_Chars>0</XBRL_Chars>
+    <XML_Chars>0</XML_Chars>
+    <N_Exhibits>3</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0000737561-04-000002.hdr.sgml : 20040130
+<ACCEPTANCE-DATETIME>20040130134319
+ACCESSION NUMBER:		0000737561-04-000002
+CONFORMED SUBMISSION TYPE:	10-Q
+PUBLIC DOCUMENT COUNT:		4
+CONFORMED PERIOD OF REPORT:	20031231
+FILED AS OF DATE:		20040130
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			UCI MEDICAL AFFILIATES INC
+		CENTRAL INDEX KEY:			0000737561
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-SPECIALTY OUTPATIENT FACILITIES, NEC [8093]
+		IRS NUMBER:				592225346
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0930
+
+	FILING VALUES:
+		FORM TYPE:		10-Q
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-13265
+		FILM NUMBER:		04555237
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1901 MAIN ST MAIL CODE 1105
+		STREET 2:		STE 1200
+		CITY:			COLUMBIA
+		STATE:			SC
+		ZIP:			29201
+		BUSINESS PHONE:		8032523661
+
+	MAIL ADDRESS:	
+		STREET 1:		1901 MAIN ST MAIL CODE 1105
+		STREET 2:		SUITE 1200
+		CITY:			COLUMBIA
+		STATE:			SC
+		ZIP:			29201
+
+</SEC-Header>
+</Header>
+
+ 
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ HYBUACGmmBMH4vnDfHG2UCYoZtAbARI0I0wIz9vkIcBxXpvewhcI5rF6UlUoH6Eb
+ +AdnDUoZpRMiwTyg/X/rFw==
+
+ 0000737561-04-000002.txt : 20040130
+
+10-Q
+ 1
+ form10q123103.txt
+ FORM 10-Q FOR DECEMBER 31, 2003
+
+UNITED STATES
+ SECURITIES AND EXCHANGE COMMISSION
+ WASHINGTON, D.C. 20549
+ FORM 10-Q
+(Mark One)
+ -------- X QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15 (d) OF THE SECURITIES
+ EXCHANGE ACT OF 1934: For the quarter ended December 31, 2003
+ TRANSITION REPORT PURSUANT TO SECTION 13 OR 15 (d) OF THE SECURITIES
+ EXCHANGE ACT OF 1934: For the transition period from
+ _________________ to ______________
+
+Commission File Number: 0-13265
+
+ UCI MEDICAL AFFILIATES, INC.
+ (Name of Registrant as Specified in its Charter)
+ Delaware 59-2225346
+- -------------------------------------------- ------------
+(State or Other Jurisdiction of
+Incorporation or Organization) (IRS Employer Identification Number)
+
+ 4416 Forest Drive, Columbia, SC 29206
+- -------------------------------------------------------------------
+(Address of Principal Executive Offices) (Zip Code)
+
+ (803) 782-4278
+ (Registrant's Telephone Number, Including Area Code)
+
+ Indicate by check mark whether the registrant (1) has filed all reports
+required to be filed by Section 13 or 15(d) of the Securities Exchange Act of
+1934 during the preceding twelve months (or for such shorter period that the
+registrant was required to file such reports), and (2) has been subject to the
+filing requirements for the past 90 days. Yes X No _____ -------- -----
+
+ Indicate by check mark whether the registrant is an accelerated filer (as
+defined in Exchange Act Rule 12b-2) Yes ____ No X ------
+
+APPLICABLE ONLY TO REGISTRANTS INVOLVED IN BANKRUPTCY PROCEEDINGS DURING
+THE PRECEDING FIVE YEARS
+
+ Indicate by check mark whether the registrant has filed all documents and
+reports required to be filed by Section 12, 13, or 15(d) of the Securities
+Exchange Act of 1934 subsequent to the distribution of securities under a plan
+confirmed by a court. Yes X No ------ -----
+
+ APPLICABLE ONLY TO CORPORATE REGISTRANTS
+
+The number of shares outstanding of the registrant's common stock, .05 par
+value, was 9,650,472 at January 14, 2004.
+
+UCI MEDICAL AFFILIATES, INC.
+
+ INDEX
+
+Page
+ Number
+
+PART I FINANCIAL INFORMATION
+
+ Item 1 Financial Statements
+
+ Condensed Consolidated Balance Sheets - December 31, 2003
+ and September 30, 2003 3
+
+ Condensed Consolidated Statements of Operations for the quarters
+ ended December 31, 2003 and December 31, 2002 4
+
+ Condensed Consolidated Statements of Cash Flows for the quarters
+ ended December 31, 2003 and December 31, 2002 5
+
+ Notes to Condensed Consolidated Financial Statements 6 - 7
+
+ Item 2 Management's Discussion and Analysis of Financial
+ Condition, Critical Accounting Policies and Results of Operations 8 - 12
+
+ Item 3 Quantitative and Qualitative Disclosures About Market Risk 13
+
+ Item 4 Controls and Procedures 14 - 15
+
+PART II OTHER INFORMATION
+
+ Items 1-6 16
+
+SIGNATURES 17
+
+UCI Medical Affiliates, Inc.
+ Condensed Consolidated Balance Sheets
+
+December 31, 2003 September 30, 2003
+ ------------------- -------------------
+ (unaudited) (audited)
+Assets
+Current assets
+ Cash and cash equivalents 295,511 683,135
+ Accounts receivable, less allowance for doubtful accounts
+ of 2,292,555 and 1,924,820 8,407,914 6,874,423
+ Inventory 646,320 646,320
+ Prepaid expenses and other current assets 318,260 227,666
+ ------------------- -------------------
+Total current assets 9,668,005 8,431,544
+
+Property and equipment less accumulated depreciation of
+ 9,547,356 and 9,294,442 4,377,416 4,027,767
+Excess of cost over fair value of assets acquired, less
+ accumulated amortization of 2,451,814 and 2,451,814 3,391,942 3,391,942
+Other assets 7,822 7,822
+ ------------------- -------------------
+Total Assets 17,445,185 15,859,075
+ =================== ===================
+
+Liabilities and Stockholders' Equity
+Current liabilities
+ Current portion of long-term debt 920,940 946,358
+ Accounts payable 1,539,343 998,052
+ Accrued salaries and payroll taxes 1,888,978 1,610,651
+ Current portion of pre-petition payroll taxes 735,502 720,477
+ Other accrued liabilities 1,288,157 1,230,853
+ ------------------- -------------------
+Total current liabilities 6,372,920 5,506,391
+
+Long-term liabilities
+ Accounts payable 1,703,779 1,917,779
+ Long-term portion of pre-petition payroll taxes 3,297,906 3,488,815
+ Long-term debt, net of current portion 2,206,508 2,380,328
+ ------------------- -------------------
+ ------------------- -------------------
+Total long-term liabilities 7,208,193 7,786,922
+ ------------------- -------------------
+Total Liabilities 13,581,113 13,293,313
+ ------------------- -------------------
+
+Commitments and contingencies
+
+Stockholders' Equity
+ Preferred stock, par value .01 per share:
+ Authorized shares - 10,000,000; none issued
+ Common stock, par value .05 per share:
+ Authorized shares - 50,000,000
+ Issued and outstanding - 9,650,472 and 9,650,472 shares 482,524 482,524
+ Paid-in capital 21,723,630 21,723,630
+ Accumulated deficit (18,342,082) (19,640,392)
+ ------------------- -------------------
+Total Stockholders' Equity 3,864,072 2,565,762
+ ------------------- -------------------
+
+Total Liabilities and Stockholders' Equity 17,445,185 15,859,075
+ =================== ===================
+
+The accompanying notes are an integral part of these
+condensed consolidated financial statements.
+
+UCI Medical Affiliates, Inc.
+ Condensed Consolidated Statements of Operations
+ (unaudited)
+
+Three Months Ended December 31,
+ 2003 2002
+ -------------------- ------------------
+ ------------------
+
+Revenues 12,770,309 10,296,744
+Operating costs 9,381,717 7,991,923
+ -------------------- ------------------
+ ------------------
+Operating margin 3,388,592 2,304,821
+
+General and administrative expenses 1,633,400 1,502,465
+Depreciation and amortization 252,914 234,772
+ -------------------- ------------------
+ ------------------
+Income from operations 1,502,278 567,584
+
+Other expense
+ Interest expense, net of interest income (177,968) (195,280)
+ -------------------- ------------------
+ -------------------- ------------------
+
+Income before benefit (provision) for income taxes 1,324,310 372,304
+Provision for income taxes (26,000) 0
+ -------------------- ------------------
+
+Net income 1,298,310 372,304
+ ==================
+ ==================== ==================
+
+Basic earnings per share .13 
+ .04
+ ==================== ==================
+ ==================
+
+Basic weighted average common shares outstanding 9,650,472 9,650,515
+ ==================== ==================
+ ==================
+
+Diluted earnings per share .13 
+ .04
+ ==================== ==================
+ ==================
+
+Diluted weighted average common shares outstanding 9,650,472 9,650,515
+ ==================== ==================
+
+The accompanying notes are an integral part of these
+condensed consolidated financial statements.
+
+UCI Medical Affiliates, Inc.
+ Condensed Consolidated Statements of Cash Flows
+ (unaudited)
+
+Three Months Ended December 31,
+ 2003 2002
+ ------------------ -----------------
+Operating activities:
+Net income 1,298,310 372,304
+Adjustments to reconcile net income to net
+ cash provided by operating activities:
+ Provision for losses on accounts receivable 820,705 410,463
+ Depreciation and amortization 252,914 234,772
+Changes in operating assets and liabilities:
+ (Increase) decrease in accounts receivable (2,354,196) (751,906)
+ (Increase) decrease in prepaid expenses and other
+ current assets (90,594) (217,599)
+ Increase (decrease) in accounts payable and accrued
+ expenses 487,038 260,355
+ -----------------
+ ------------------
+
+Cash provided by operating activities 414,177 308,389
+ ------------------ -----------------
+
+Investing activities:
+Purchases of property and equipment (602,563) (217,396)
+ -----------------
+ ------------------ -----------------
+
+Cash used in investing activities (602,563) (217,396)
+ ------------------ -----------------
+
+Financing activities:
+Payments on long-term debt (199,238) (302,804)
+ ------------------ -----------------
+
+Cash used in financing activities (199,238) (302,804)
+ ------------------ -----------------
+
+Decrease in cash and cash equivalents (387,624) (211,811)
+Cash and cash equivalents at beginning of period 683,135 269,298
+ ------------------ -----------------
+ ------------------
+
+Cash and cash equivalents at end of period 295,511 57,487
+ ================== =================
+
+The accompanying notes are an integral part of these
+condensed consolidated financial statements.
+
+UCI MEDICAL AFFILIATES, INC.
+
+ NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+ (unaudited)
+
+NOTE 1. BUSINESS AND BASIS OF PRESENTATION:
+
+The accompanying unaudited condensed consolidated financial statements have been
+prepared in accordance with generally accepted accounting principles for interim
+financial information and with the instructions to Form 10-Q and Article 10 of
+Regulation S-X of the Securities and Exchange Commission. Accordingly, they do
+not include all of the information and footnotes required by generally accepted
+accounting principles for complete financial statements. In the opinion of
+management, all adjustments (consisting only of those of a normal recurring
+nature) considered necessary for a fair presentation have been included.
+Operating results for the three-month period ended December 31, 2003 are not
+necessarily indicative of the results that may be expected for the fiscal year
+ending September 30, 2004. For further information, refer to the audited
+consolidated financial statements and footnotes thereto included in our annual
+report on Form 10-K for the year ended September 30, 2003.
+
+The consolidated financial statements include the accounts of UCI Medical
+Affiliates, Inc. ("UCI"), UCI Medical Affiliates of South Carolina, Inc.
+("UCI-SC"), UCI Medical Affiliates of Georgia, Inc. ("UCI-GA"), Doctor's Care,
+P.A., Doctor's Care of Georgia, P.C., and Doctor's Care of Tennessee, P.C. (the
+three together as the "P.A." and together with UCI, UCI-SC and UCI-GA, the
+"Company"). Because of the corporate practice of medicine laws in the states in
+which the Company operates, the Company does not own medical practices but
+instead enters into exclusive long-term management services agreements with the
+P.A. which operate the medical practices. Consolidation of the financial
+statements is required under Emerging Issues Task Force (EITF) 97-2 as a
+consequence of the nominee shareholder arrangement that exists with respect to
+the P.A. In each case, the nominee (and sole) shareholder of the P.A. has
+entered into an agreement with UCI-SC or UCI-GA, as applicable, which satisfies
+the requirements set forth in footnote 1 of EITF 97-2. Under the agreement,
+UCI-SC or UCI-GA, as applicable, in its sole discretion, can effect a change in
+the nominee shareholder at any time for a payment of 100 from the new nominee
+shareholder to the old nominee shareholder, with no limits placed on the
+identity of any new nominee shareholder and no adverse impact resulting to any
+of UCI-SC, UCI-GA or the P.A. resulting from such change.
+
+In addition to the nominee shareholder arrangements described above, each of
+UCI-SC and UCI-GA have entered into Administrative Service Agreements with the
+P.A. As a consequence of the nominee shareholder arrangements and the
+Administrative Service Agreements, the Company has a long-term financial
+interest in the affiliated practices of the P.A., and the Company has exclusive
+authority over decision making relating to all major on-going operations. The
+Company establishes annual operating and capital budgets for the P.A. and
+compensation guidelines for the licensed medical professionals. The
+Administrative Service Agreements have an initial term of forty years. According
+to EITF 97-2, the application of Financial Accounting Standards Board ("FASB")
+Statement No. 94 (Consolidation of All Majority-Owned Subsidiaries), and
+Statement No. 141 (Business Combinations), the Company must consolidate the
+results of the affiliated practices with those of the Company. All significant
+intercompany accounts and transactions are eliminated in consolidation,
+including management fees.
+
+The method of computing the management fees is based on billings of the
+affiliated practices less the amounts necessary to pay professional compensation
+and other professional expenses. In all cases, these fees are meant to
+compensate the Company for expenses incurred in providing covered services plus
+a profit. These interests are unilaterally salable and transferable by the
+Company and fluctuate based upon the actual performance of the operations of the
+professional corporation.
+
+The preparation of financial statements in conformity with generally accepted
+accounting principles requires management to make certain estimates and
+assumptions that affect the reported amounts of assets and liabilities and
+disclosures of contingent assets and liabilities at the date of the financial
+statements and the reported amounts of revenue and expenses during the reporting
+period. The most significant estimates are related to the allowance for doubtful
+accounts, goodwill and intangible assets, income taxes, contingencies, and
+health insurance accruals.
+
+The Company bases its estimates on historical experience and on various other
+assumptions that are believed to be reasonable under the circumstances, the
+results of which form the basis for making judgments about the carrying value of
+assets and liabilities that are not readily apparent from other sources. Actual
+results may differ from these estimates in the near term.
+
+Revenue is recognized at estimated net amounts to be received from employers,
+third party payors, and others at the time the related services are rendered.
+The Company records contractual adjustments at the time bills are generated for
+services rendered. Third parties are billed at the discounted amounts. As such,
+estimates of outstanding contractual adjustments or any type of third party
+settlements of contractual adjustments are not necessary.
+
+Certain reclassifications have been made to the fiscal year 2003 financial
+statements to conform to the fiscal year 2004 presentation.
+
+The Company operates as one segment.
+
+NOTE 2. MEDICAL SUPPLIES AND DRUG INVENTORY
+
+The inventory consists of medical supplies and drugs and both are carried at the
+lower of average cost (first in, first out) or market. The volume of supplies
+carried at a center varies very little from month to month and management,
+therefore, does only an annual physical inventory count and does not maintain a
+perpetual inventory system.
+
+NOTE 3. INTANGIBLES
+
+ In June 2001, the Financial Accounting Standards Board issued SFAS No. 142,
+"Goodwill and Other Intangible Assets". SFAS No. 142 requires that goodwill and
+intangible assets with indefinite lives will no longer be amortized, but are
+reviewed at least annually for impairment. Pursuant to SFAS No. 142, the Company
+tested goodwill for impairment in the fourth quarter of 2003, and determined
+there had not been any impairment.
+
+NOTE 4. EARNINGS PER SHARE
+
+Net income per share is computed in accordance with Statement of Financial
+Accounting Standards No. 128, "Earnings Per Share". Basic earnings per share is
+calculated by dividing income available to common shareholders by the
+weighted-average number of shares outstanding for each period. Diluted earnings
+per common share is calculated by adjusting the weighted-average shares
+outstanding assuming conversion of all potentially dilutive stock options.
+
+NOTE 5. NEW ACCOUNTING PRONOUNCEMENTS
+
+In November 2002, the EITF reached a consensus on issue 00-21, "Revenue
+Arrangements with Multiple Deliverables" (EITF 00-21). EITF 00-21 addresses
+revenue recognition on arrangements encompassing multiple elements that are
+delivered at different points in time, defining criteria that must be met for
+elements to be considered to be a separate unit of accounting. If an element is
+determined to be a separate unit of accounting, the revenue for the element is
+recognized at the time of delivery. EITF 00-21 is effective for revenue
+arrangements entered into in fiscal periods beginning after June 15, 2003. The
+Company adopted this standard as of October 1, 2003 with no material impact on
+its financial position, results of operations or cash flows.
+
+NOTE 6. CHAPTER 11 BANKRUPTCY FILING
+
+On November 2, 2001, the Company filed a voluntary petition for reorganization
+under Chapter 11 of the United States Bankruptcy Code in the United States
+Bankruptcy Court for the District of South Carolina (the "Bankruptcy Court"). By
+August 8, 2002, the Bankruptcy Court confirmed each of the Company's Plans of
+Reorganization, as amended, and the Company has, therefore, emerged from Chapter
+11 protection of the Court. The Company continues to make payments to its
+creditors as outlined in the Plans.
+
+Advisory Note Regarding Forward-Looking Statements
+
+Certain of the statements contained in this Report on Form 10-Q that are not
+historical facts are forward-looking statements subject to the safe harbor
+created by the Private Securities Litigation Reform Act of 1995. We caution
+readers of this Form 10-Q that such forward-looking statements involve known and
+unknown risks, uncertainties and other factors that may cause our actual
+results, performance or achievements to be materially different from those
+expressed or implied by such forward-looking statements. Although our management
+believes that their expectations of future performance are based on reasonable
+assumptions within the bounds of their knowledge of their business and
+operations, we have no assurance that actual results will not differ materially
+from their expectations. Factors that could cause actual results to differ from
+expectations include, among other things, (1) the difficulty in controlling our
+costs of providing healthcare and administering our network of centers; (2) the
+possible negative effects from changes in reimbursement and capitation payment
+levels and payment practices by insurance companies, healthcare plans,
+government payors and other payment sources; (3) the difficulty of attracting
+primary care physicians; (4) the increasing competition for patients among
+healthcare providers; (5) possible government regulations negatively impacting
+our existing organizational structure; (6) the possible negative effects of
+prospective healthcare reform; (7) the challenges and uncertainties in the
+implementation of our expansion and development strategy; (8) the dependence on
+key personnel; (9) adverse conditions in the stock market, the public debt
+market, and other capital markets (including changes in interest rate
+conditions); (10) the strength of the United States economy in general and the
+strength of the local economies in which we conduct operations may be different
+than expected resulting in, among other things, a reduced demand for practice
+management services; (11) the demand for our products and services; (12)
+technological changes; (13) the ability to increase market share; (14) the
+adequacy of expense projections and estimates of impairment loss; (15) the
+impact of change in accounting policies by the Securities and Exchange
+Commission; (16) unanticipated regulatory or judicial proceedings; (17) the
+impact on our business, as well as on the risks set forth above, of various
+domestic or international military or terrorist activities or conflicts; (18)
+other factors described in this report and in our other reports filed with the
+Securities and Exchange Commission; and (19) our success at managing the risks
+involved in the foregoing.
+
+PART I
+ FINANCIAL INFORMATION
+ ITEM 2
+
+MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION, CRITICAL
+ACCOUNTING POLICIES AND RESULTS OF OPERATIONS
+
+The following discussion and analysis provides information that we believe is
+relevant to an assessment and understanding of our consolidated results of
+operations and financial condition. This discussion should be read in
+conjunction with the consolidated financial statements and notes thereto.
+
+Critical Accounting Policies
+
+We have adopted accounting policies, that we believe will result in an accurate
+presentation of the financial statements. We consider critical accounting
+policies to be those that require more significant judgments and estimates in
+the preparation of our financial statements and include the following: (1)
+revenue recognition; (2) allowance for doubtful accounts; (3) consideration of
+impairment of intangible assets; and (4) valuation reserve on net deferred tax
+assets.
+
+Revenue recognition -
+
+We record revenues at the estimated net amount that we expect to receive from
+patients, employers, third party payors, and others at the time we perform the
+services. We record contractual allowances when we prepare the related bills to
+our customers. We bill some third parties at discounted and negotiated amounts.
+Because we bill at the discounted amounts, we do not need to estimate third
+party settlements.
+
+Allowance for doubtful accounts -
+
+We maintain our allowance for doubtful accounts for estimated losses, which may
+result from the inability of our customers to make required payments. We base
+our allowance on the likelihood of recoverability of accounts receivable
+considering such factors as past experience and current collection trends.
+Factors taken into consideration in estimating the reserves are amounts past
+due, in dispute, or a client that we believe might be having financial
+difficulties. If economic, industry, or specific customer business trends worsen
+beyond earlier estimates, we increase the allowance for doubtful accounts by
+recording additional expense.
+
+Consideration of impairment of intangible assets -
+
+We evaluate the recovery of the carrying amount of excess of cost over fair
+value of assets acquired by determining if a permanent impairment has occurred.
+This evaluation is done annually or more frequently if indicators of permanent
+impairment arise. Indicators of a permanent impairment include, among other
+things, significant adverse change in legal factors or the business climate, an
+adverse action by a regulator, unanticipated competition, loss of key personnel
+or allocation of goodwill to a portion of business that is to be sold or
+otherwise disposed. As we allocate any excess of cost over fair value of assets
+acquired on a center-by-center basis, we compare our centers fair value to our
+carrying value for impairment issues. We perform our impairment test on
+September 30th of each year. In addition to the annual impairment test, we are
+required to perform an impairment test any time an indicator occurs, such as
+those noted above. At such time as an impairment is determined, the intangible
+assets are written off during that period. Although we take considerable care to
+ensure that impairment losses are recorded as soon as indicators of impairment
+are noted, material differences could occur if different, but nonetheless
+reasonably plausible, indicators existed.
+
+Valuation reserve on net deferred tax assets -
+
+We record a valuation allowance to reduce our deferred tax assets to the amount
+that is more likely than not to be realized. Our recorded valuation allowance
+reduces our deferred tax assets to equal our deferred tax liability.
+
+Our consolidated financial statements include the accounts of UCI, UCI-SC,
+UCI-GA and the P.A. Such consolidation is required under Emerging Issues Task
+Force (EITF) 97-2 as a consequence of the nominee shareholder arrangement that
+exists with respect to the P.A. In each case, the nominee (and sole) shareholder
+of the P.A. has entered into an agreement with UCI-SC or UCI-GA, as applicable,
+which satisfies the requirements set forth in footnote 1 of EITF 97-2. Under the
+agreement, UCI-SC or UCI-GA, as applicable, in its sole discretion, can effect a
+change in the nominee shareholder at any time for a payment of 100 from the new
+nominee shareholder to the old nominee shareholder, with no limits placed on the
+identity of any new nominee shareholder and no adverse impact resulting to any
+of UCI-SC, UCI-GA or the P.A. resulting from such change.
+
+In addition to the nominee shareholder arrangements described above, each of
+UCI-SC and UCI-GA have entered into Administrative Service Agreements with the
+P.A. As a consequence of the nominee shareholder arrangements and the
+Administrative Service Agreements, we have a long-term financial interest in the
+affiliated practices of the P.A. According to EITF 97-2, the application of FASB
+Statement No. 94 (Consolidation of All Majority-Owned Subsidiaries), and
+Statement No. 141 (Business Combinations), UCI must consolidate the results of
+the affiliated practices with those of UCI.
+
+Over 79 of the physicians employed by the P.A. are paid on an hourly basis for
+time scheduled and worked at the medical centers, while the remaining physicians
+are salaried. Approximately 30 of the physicians have incentive compensation
+arrangements; however, no amounts were accrued or paid that were significant
+during our three prior fiscal years. We base any incentive compensation upon a
+percentage of non-ancillary collectible charges for services performed by a
+provider. As of December 31, 2003 and 2002, the P.A. employed 120 and 114
+medical providers, respectively.
+
+The net assets of the P.A. are not material for any period presented, and
+intercompany accounts and transactions have been eliminated.
+
+We allocate all indirect costs incurred at the corporate offices to the centers
+on a center-by-center basis. Therefore, all discussions below are intended to be
+in the aggregate for us as a whole.
+
+Chapter 11 Bankruptcy Filing
+
+On November 2, 2001, we filed a voluntary petition for reorganization under
+Chapter 11 of the United States Bankruptcy Code in the United States Bankruptcy
+Court for the District of South Carolina (the "Bankruptcy Court"). By August 8,
+2002, the Bankruptcy Court confirmed each of our Plans of Reorganization, as
+amended, and we have, therefore, emerged from Chapter 11 protection of the
+Court. We continue to make payments to our creditors as outlined in the Plans.
+
+Results of Operations
+
+UCI provides nonmedical management and administrative services for a network of
+41 freestanding medical centers (the "Centers"), 40 of which are located
+throughout South Carolina and one is located in Knoxville, Tennessee (28
+operating as Doctorss.s Care in South Carolina, one as Doctor's Care in
+Knoxville, Tennessee, and 12 as Progressive Physical Therapy Services in South
+Carolina).
+
+Revenues of 12,770,000 for the quarter ended December 31, 2003 reflect an
+increase of 2,474,000 or 24 from those of the quarter ended December 31, 2002.
+Management believes that this unusual increase in revenues is the direct result
+of the influenza epidemic. According to the Center for Disease Control and
+Prevention (CDC), the flu season began four to six weeks earlier than usual, and
+the southeastern region of the U.S. had an epidemic level of influenza. The
+current epidemic is said to have reached a severity level three times greater in
+comparison to the last significant influenza epidemic. Although it is
+exceedingly difficult to accurately quantify the amount of revenues specifically
+related to the unusual epidemic, management feels that approximately 1,000,000
+or more of the revenue increase may be directly attributable to this one-time
+event.
+
+Pursuant to SFAS No. 142, we tested goodwill for impairment in the fourth
+quarter of 2003, and we determined there had not been any impairment.
+
+Patient encounters increased to approximately 131,000 in the first quarter of
+fiscal year 2004 from 113,000 in the first quarter of fiscal year 2003, an
+increase of 16 a portion of which is the result of an early and severe flu
+season.
+
+During the past three fiscal years, we have continued our services provided to
+members of HMOs. In these arrangements, we, through the P.A., act as the
+designated primary caregiver for members of HMOs who have selected one of our
+centers or providers as their primary care provider. In fiscal year 1994, we
+began participating in an HMO operated by Companion HealthCare Corporation
+("CHC"), a wholly owned subsidiary of Blue Cross Blue Shield of South Carolina
+("BCBS"). BCBS, through CHC, is a primary stockholder of UCI. Including its
+arrangement with CHC, we now participate in four HMOs and are the primary care
+"gatekeeper" for more than 9,000 lives at December 31, 2003. As of December 31,
+2003, all of these HMOs use a discounted fee-for-service basis for payment. HMOs
+do not, at this time, have a significant penetration into the South Carolina
+market. We are not certain if the market share of HMOs will grow in the areas in
+which we operate clinics.
+
+Sustained revenues in fiscal years 2004 and 2003 also reflect our continued
+focus on occupational medicine and industrial health services (these revenues
+are referred to as "employer paid" and "workers compensation" on the table
+below). We developed focused marketing materials, including quarterly
+newsletters for employers, to spotlight our services for industry. We derived
+approximately 17 of our total revenues from these occupational medicine
+services in the first quarter of both 2004 and 2003.
+
+The following table breaks out our revenue and patient visits by revenue source
+for the first quarter of fiscal years 2004 and 2003.
+
+Percent of Percent of
+ Payor Patient Visits Revenue
+ ------------------------------------------------ ------------------------ -----------------------
+ 2004 2003 2004 2003
+ ------------ ----------- ------------ ----------
+ 18 16 12 11
+ Patient Pay
+ 9 10 5 5
+ Employer Paid
+ 6 7 7 8
+ HMO
+ 9 10 12 12
+ Workers Compensation
+ 14 11 9 7
+ Medicare/Medicaid
+ 41 42 51 51
+ Managed Care Insurance
+ 3 4 4 6
+ Other (Commercial Indemnity, Champus, etc.)
+
+We earned an operating margin of 3,389,000 during the first quarter of fiscal
+2004 as compared to an operating margin of 2,305,000 for the first quarter of
+fiscal 2003.
+
+Our management believes that the increase in margin was due to the increase in
+patient encounters, resulting chiefly from the influenza epidemic. Somewhat
+offsetting the increased revenue are increased personnel costs, in part
+attributable to increased cost-cutting pressures being applied by managed care
+insurance payors that cover many of our patients. As managed care plans attempt
+to cut costs, they typically increase our administrative burden by requiring
+referral approvals and by requesting hard copies of medical records before they
+will pay claims.
+
+Depreciation expense increased slightly to 253,000 in the first quarter of
+fiscal 2004, up from 235,000 in the first quarter of fiscal 2003 and is the
+result of renovations and equipment purchases. Interest expense decreased from
+ 195,000 in the first quarter of fiscal 2003 to 178,000 in the first quarter of
+fiscal 2004, due to the pay-down of debt.
+
+General and administrative expenses include all salaries, benefits, supplies,
+and other operating expenses not specifically related to the day-to-day
+operation of the Centers. General and administrative expenses increased to
+ 1,633,000 in the first quarter of fiscal year 2004, up from 1,502,000 in the
+first quarter of fiscal year 2003, as a result of wage increases and increased
+advertising costs.
+
+Financial Condition at December 31, 2003
+
+Cash and cash equivalents decreased by 388,000 during the quarter ended
+December 31, 2003, mainly as a result of timing of payments, payroll, and
+equipment purchases.
+
+Accounts receivable increased by 1,533,000 during the quarter and is related to
+the timing of the keying of remittances from insurance carriers and an overall
+increase in revenues from the flu epidemic.
+
+Long-term debt decreased from 3,327,000 at September 30, 2003 to 3,127,000 at
+December 31, 2003. Regular principal pay-downs of approximately 199,000 were
+made during the quarter. Our management believes that it will be able to fund
+debt service requirements out of cash generated through operations and does not
+anticipate a need for additional debt financing.
+
+Liquidity and Capital Resources
+
+We require capital principally to fund growth (acquire new Centers), for working
+capital needs, and for the retirement of indebtedness. We fund our capital
+requirements and working capital needs through a combination of external
+financing (including bank debt and proceeds from the sale of common stock to
+Companion HealthCare Corporation and Companion Property & Casualty) and credit
+extended by suppliers.
+
+As of December 31, 2003, we have no material commitments for capital
+expenditures or for acquisitions or start-ups.
+
+Operating activities produced 414,000 of cash during the first quarter of
+fiscal year 2004, compared to 308,000 during the first quarter of fiscal year
+2003. This increase is mainly due to the increase in accounts payable and
+accrued liabilities and the decrease in prepaid expenses, offset by an increase
+in accounts receivable.
+
+Investing activities used 603,000 in the first quarter of fiscal year 2004 as
+compared to 217,000 in the first quarter of fiscal year 2003. This increase is
+due to purchases of needed equipment and renovation for our operating sites.
+
+Financing activities utilized 199,000 in cash during the first quarter of
+fiscal year 2004 for debt reduction.
+
+ITEM 3
+
+QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
+
+We are exposed to changes in interest rates primarily as a result of our
+borrowing activities, which includes credit facilities with financial
+institutions used to maintain liquidity and fund our business operations, as
+well as notes payable to various third parties in connection with certain
+acquisitions of property and equipment. The nature and amount of our debt may
+vary as a result of future business requirements, market conditions, and other
+factors. The definitive extent of our interest rate risk is not quantifiable or
+predictable because of the variability of future interest rates and business
+financing requirements. We do not currently use derivative instruments to adjust
+our interest rate risk profile.
+
+Approximately 1,089,000 of our debt at December 31, 2003 was subject to fixed
+interest rates and principal payments. Approximately 2,038,000 of our debt at
+December 31, 2003 was subject to variable interest rates. Based on the
+outstanding amounts of variable rate debt at December 31, 2003, our interest
+expense on an annualized basis would increase approximately 20,000 for each
+increase of one percent in the prime rate.
+
+We do not utilize financial instruments for trading or other speculative
+purposes, nor do we utilize leveraged financial instruments.
+
+ITEM 4
+
+ CONTROLS AND PROCEDURES
+
+Quarterly Controls Evaluation and Related CEO and CFO Certifications.
+
+We conducted an evaluation of the effectiveness of the design and operation of
+our "disclosure controls and procedures" (Disclosure Controls) as of the end of
+the period covered by this Quarterly Report. The controls evaluation was done
+under the supervision and with the participation of management, including our
+Chief Executive Officer (CEO) and Chief Financial Officer (CFO).
+
+Attached as exhibits to this Quarterly Report are certifications of the CEO and
+the CFO, which are required in accord with Rule 13a-14 of the Exchange Act. This
+Controls and Procedures section includes the information concerning the controls
+evaluation referred to in the certifications and it should be read in
+conjunction with the certifications for a more complete understanding of the
+topics presented.
+
+Definition of Disclosure Controls.
+
+Disclosure Controls are controls and procedures designed to reasonably assure
+that information required to be disclosed in our reports filed under the
+Exchange Act, such as this Quarterly Report, is recorded, processed, summarized
+and reported within the time periods specified in the SEC's rules and forms.
+Disclosure Controls are also designed to reasonably assure that such information
+is accumulated and communicated to our management, including the CEO and CFO, as
+appropriate to allow timely decisions regarding required disclosure. Our
+Disclosure Controls include components of our internal control over financial
+reporting, which consists of control processes designed to provide reasonable
+assurance regarding the reliability of our financial reporting and the
+preparation of financial statements in accordance with US generally accepted
+accounting principles. To the extent that components of our internal control
+over financial reporting are included within our Disclosure Controls, they are
+included in the scope of our quarterly controls evaluation.
+
+Limitations on the Effectiveness of Controls
+
+The company's management, including the CEO and CFO, does not expect that our
+Disclosure Controls or our internal control over financial reporting will
+prevent all error and all fraud. A control system, no matter how well designed
+and operated, can provide only reasonable, not absolute, assurance that the
+control system's objectives will be met. Further, the design of a control system
+must reflect the fact that there are resource constraints, and the benefits of
+controls must be considered relative to their costs. Because of the inherent
+limitations in all control systems, no evaluation of controls can provide
+absolute assurance that all control issues and instances of fraud, if any,
+within the company have been detected. These inherent limitations include the
+realities that judgments in decision-making can be faulty, and that breakdowns
+can occur because of simple error or mistake. Controls can also be circumvented
+by the individual acts of some persons, by collusion of two or more people, or
+by management override of the controls. The design of any system of controls is
+based in part upon certain assumptions about the likelihood of future events,
+and there can be no assurance that any design will succeed in achieving its
+stated goals under all potential future conditions. Over time, controls may
+become inadequate because of changes in conditions or deterioration in the
+degree of compliance with policies or procedures. Because of the inherent
+limitations in a cost-effective control system, misstatements due to error or
+fraud may occur and not be detected.
+
+Scope of the Controls Evaluation
+
+The evaluation of our Disclosure Controls included a review of the controls'
+objectives and design, the company's implementation of the controls and the
+effect of the controls on the information generated for use in this Quarterly
+Report. In the course of the controls evaluation, we sought to identify data
+errors, controls problems or acts of fraud and confirm that appropriate
+corrective action, including process improvements, were being undertaken. This
+type of evaluation is performed on a quarterly basis so that the conclusions of
+management, including the CEO and CFO, concerning controls effectiveness can be
+reported in our Quarterly Reports on Form 10-Q and to supplement our disclosures
+made in our Annual Report on Form 10-K. Many of the components of our Disclosure
+Controls are also evaluated on an ongoing basis by our Internal Audit Department
+and by other personnel in our Finance organization, as well as our independent
+auditors who evaluate them in connection with determining their auditing
+procedures related to their report on our annual financial statements and not to
+provide assurance on our controls. The overall goals of these various evaluation
+activities are to monitor our Disclosure Controls, and to modify them as
+necessary; our intent is to maintain the Disclosure Controls as dynamic systems
+that change as conditions warrant.
+
+Among other matters, we also considered whether our evaluation identified any
+"significant deficiencies" or "material weaknesses" in our internal control over
+financial reporting, and whether the company had identified any acts of fraud
+involving personnel with a significant role in our internal control over
+financial reporting. This information was important both for the controls
+evaluation generally, and because item 5 in the certifications of the CEO and
+CFO require that the CEO and CFO disclose that information to our Board's Audit
+Committee and to our independent auditors. In the professional auditing
+literature, "significant deficiencies" are referred to as "reportable
+conditions," which are deficiencies in the design or operation of controls that
+could adversely affect our ability to record, process, summarize and report
+financial data in the financial statements. Auditing literature defines
+"material weakness" as a particularly serious reportable condition where the
+internal control does not reduce to a relatively low level the risk that
+misstatements caused by error or fraud may occur in amounts that would be
+material in relation to the financial statements and the risk that such
+misstatements would not be detected within a timely period by employees in the
+normal course of performing their assigned functions. We also sought to address
+other controls matters in the controls evaluation, and in each case if a problem
+was identified, we considered what revision, improvement and/or correction to
+make in accordance with our ongoing procedures.
+
+Conclusions
+
+Based upon the controls evaluation, our CEO and CFO have concluded that, subject
+to the limitations noted above, as of the end of the period covered by this
+Quarterly Report, our Disclosure Controls were effective to provide reasonable
+assurance that material information relating to UCI and its consolidated
+subsidiaries is made known to management, including the CEO and CFO,
+particularly during the period when our periodic reports are being prepared.
+
+PART II
+ OTHER INFORMATION
+
+Item 1 Legal Proceedings
+
+ We are not a party to any pending litigation other than
+ routine litigation incidental to the business or that is
+ immaterial in amount of damages sought.
+
+Item 2 Changes in Securities
+
+ This item is not applicable.
+
+Item 3 Defaults upon Senior Securities
+
+ This item is not applicable.
+
+Item 4 Submission of Matters to a Vote of Security Holders
+
+ This item is not applicable.
+
+Item 5 Other Information
+
+ This item is not applicable.
+
+Item 6 Exhibits and Reports on Form 8-K
+
+(a) Exhibits.
+
+ 31.1 Certification of Chief Executive Officer Pursuant to Rule 13a-14(a) of
+the Exchange Act.
+
+ 31.2 Certification of Chief Financial Officer and Principal Accounting
+Officer Pursuant to Rule 13a-14(a) of the Exchange Act.
+
+ 32.1 Certification of Chief Executive Officer and Chief
+ Financial and Principal Accounting Officer Pursuant to Rule
+ 13a-14(b) of the Exchange Act and 18 U.S.C. Section 1350, as
+ Adopted Pursuant to Section 906 of the Sarbanes-Oxley Act of
+ 2002.
+
+(b) Reports on Form 8-K - none.
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the
+registrant has duly caused this report to be signed on its behalf by the
+undersigned hereunto duly authorized.
+
+UCI Medical Affiliates, Inc.
+ (Registrant)
+
+/s/ D. Michael Stout, M.D. /s/ Jerry F. Wells, Jr., CPA
+- ---------------------------------- ---------------------------------
+D. Michael Stout, M.D. Jerry F. Wells, Jr., CPA
+President and Chief Executive Officer Executive Vice President,
+ Chief Financial Officer and
+ Principal Accounting Officer
+
+Date: January 30, 2004
+
+<EX-31>
+ 3
+ exhibit31pt1.txt
+ EXHIBIT 31.1 TO FORM 10-Q DECEMBER 31, 2003
+ 
+ EXHIBIT 31.1
+
+ The following certification includes references to an evaluation of the
+effectiveness of the design and operation of our "disclosure controls and
+procedures" and to certain matters related to our "internal control over
+financial reporting." Item 4 of Part II of this Quarterly Report presents the
+conclusions of the CEO and the CFO about the effectiveness of our disclosure
+controls and procedures based on and as of the date of such evaluation (relating
+to Item 4 of the certification), and contains additional information concerning
+disclosures to our Audit Committee and independent auditors with regard to
+deficiencies in internal control over financial reporting and fraud and related
+matters (Item 5 of the certification).
+
+ CERTIFICATION
+
+I, D. Michael Stout, M.D., certify that:
+
+1. I have reviewed this quarterly report on Form 10-Q of UCI Medical Affiliates,
+Inc.;
+
+2. Based on my knowledge, this report does not contain any untrue statement of a
+material fact or omit to state a material fact necessary to make the statements
+made, in light of the circumstances under which such statements were made, not
+misleading with respect to the period covered by this report;
+
+3. Based on my knowledge, the financial statements, and other financial
+information included in this report, fairly present in all material respects,
+the financial condition, results of operations and cash flows of the registrant
+as of, and for, the periods presented in this report;
+
+4. The registrant's other certifying officer(s) and I are responsible for
+establishing and maintaining disclosure controls and procedures (as defined in
+Exchange Act Rules 13a-15(e) and 15d-15(e)) for the registrant and have:
+
+a) Designed such disclosure controls and procedures, or caused such disclosure
+controls and procedures to be designed under our supervision, to ensure that
+material information relating to the registrant, including its consolidated
+subsidiaries, is made known to us by others within those entities, particularly
+during the period in which this report is being prepared;
+
+b) Evaluated the effectiveness of the registrant's disclosure controls and
+procedures and presented in this report our conclusions about the effectiveness
+of the disclosure controls and procedures, as of the end of the period covered
+by this report based on such evaluation; and
+
+c) Disclosed in this report any change in the registrant's internal control over
+financial reporting that occurred during the registrant's most recent fiscal
+quarter (the registrant's fourth fiscal quarter in the case of an annual report)
+that has materially affected, or is reasonably likely to materially affect, the
+registrant's internal control over financial reporting; and
+
+5. The registrant's other certifying officer(s) and I have disclosed, based on
+our most recent evaluation of internal control over financial reporting, to the
+registrant's auditors and the audit committee of the registrant's board of
+directors (or persons performing the equivalent functions):
+
+a) All significant deficiencies and material weaknesses in the design or
+operation of internal control over financial reporting which are reasonably
+likely to adversely affect the registrant's ability to record, process,
+summarize and report financial information; and
+
+b) Any fraud, whether or not material, that involves management or other
+employees who have a significant role in the registrant's internal control over
+financial reporting.
+
+January 22, 2004 /s/ D. Michael Stout, M.D.
+ ------------------------------
+ D. Michael Stout, M.D.
+ President and Chief Executive Officer
+
+</EX-31>
+
+<EX-31>
+ 4
+ exhibit31pt2.txt
+ EXHIBIT 31.2 FOR FORM 10-Q DECEMBER 31, 2003
+ 
+ EXHIBIT 31.2
+
+ The following certification includes references to an evaluation of the
+effectiveness of the design and operation of our "disclosure controls and
+procedures" and to certain matters related to our "internal control over
+financial reporting." Item 4 of Part II of this Quarterly Report presents the
+conclusions of the CEO and the CFO about the effectiveness of our disclosure
+controls and procedures based on and as of the date of such evaluation (relating
+to Item 4 of the certification), and contains additional information concerning
+disclosures to our Audit Committee and independent auditors with regard to
+deficiencies in internal control over financial reporting and fraud and related
+matters (Item 5 of the certification).
+
+ CERTIFICATION
+
+I, Jerry F. Wells, Jr., CPA, certify that:
+
+1. I have reviewed this quarterly report on Form 10-Q of UCI Medical Affiliates,
+Inc.;
+
+2. Based on my knowledge, this report does not contain any untrue statement of a
+material fact or omit to state a material fact necessary to make the statements
+made, in light of the circumstances under which such statements were made, not
+misleading with respect to the period covered by this report;
+
+3. Based on my knowledge, the financial statements, and other financial
+information included in this report, fairly present in all material respects,
+the financial condition, results of operations and cash flows of the registrant
+as of, and for, the periods presented in this report;
+
+4. The registrant's other certifying officer(s) and I are responsible for
+establishing and maintaining disclosure controls and procedures (as defined in
+Exchange Act Rules 13a-15(e) and 15d-15(e)) for the registrant and have:
+
+a) Designed such disclosure controls and procedures, or caused such disclosure
+controls and procedures to be designed under our supervision, to ensure that
+material information relating to the registrant, including its consolidated
+subsidiaries, is made known to us by others within those entities, particularly
+during the period in which this report is being prepared;
+
+b) Evaluated the effectiveness of the registrant's disclosure controls and
+procedures and presented in this report our conclusions about the effectiveness
+of the disclosure controls and procedures, as of the end of the period covered
+by this report based on such evaluation; and
+
+c) Disclosed in this report any change in the registrant's internal control over
+financial reporting that occurred during the registrant's most recent fiscal
+quarter (the registrant's fourth fiscal quarter in the case of an annual report)
+that has materially affected, or is reasonably likely to materially affect, the
+registrant's internal control over financial reporting; and
+
+5. The registrant's other certifying officer(s) and I have disclosed, based on
+our most recent evaluation of internal control over financial reporting, to the
+registrant's auditors and the audit committee of the registrant's board of
+directors (or persons performing the equivalent functions):
+
+a) All significant deficiencies and material weaknesses in the design or
+operation of internal control over financial reporting which are reasonably
+likely to adversely affect the registrant's ability to record, process,
+summarize and report financial information; and
+
+b) Any fraud, whether or not material, that involves management or other
+employees who have a significant role in the registrant's internal control over
+financial reporting.
+
+January 22, 2004 /s/ Jerry F. Wells, Jr., CPA
+ -----------------------------
+ Jerry F. Wells, Jr., CPA
+ Executive Vice President, Chief Financial
+ Officer, and Principal Accounting Officer
+
+</EX-31>
+
+<EX-32>
+ 5
+ exhibit32pt1.txt
+ EXHIBIT 32.1 OF FORM 10-Q DECEMBER 31, 2003
+ 
+ EXHIBIT 32.1
+
+ CERTIFICATION
+
+ Each of the undersigned hereby certifies, for the purposes of section 1350
+of chapter 63 of title 18 of the United States Code, as adopted pursuant to
+Section 906 of the Sarbanes-Oxley Act of 2002, in his capacity as an officer of
+UCI Medical Affiliates, Inc. ("UCI"), that, to his knowledge, the Quarterly
+Report of UCI on Form 10-Q for the period ended December 31, 2003, fully
+complies with the requirements of Section 13(a) of the Securities Exchange Act
+of 1934 and that the information contained in such report fairly presents, in
+all material respects, the financial condition and results of operation of UCI.
+This written statement is being furnished to the Securities and Exchange
+Commission as an exhibit to such Form 10-Q. A signed original of this statement
+has been provided to UCI and will be retained by UCI and furnished to the
+Securities and Exchange Commission or its staff upon request.
+
+January 22, 2004 /s/ D. Michael Stout, M.D.
+ ------------------------------------
+ D. Michael Stout, M.D.
+ President and Chief Executive Officer
+
+/s/ Jerry F. Wells, Jr., CPA
+ -----------------------------
+ Jerry F. Wells, Jr., CPA
+ Executive Vice President, Chief Financial
+ Officer, and Principal Accounting Officer
+
+</EX-32>
+

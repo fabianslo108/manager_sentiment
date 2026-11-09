@@ -1,0 +1,1362 @@
+<Header>
+<FileStats>
+    <FileName>20040130_10-Q_edgar_data_933034_0001042167-04-000028.txt</FileName>
+    <GrossFileSize>261349</GrossFileSize>
+    <NetFileSize>49134</NetFileSize>
+    <NonText_DocumentType_Chars>0</NonText_DocumentType_Chars>
+    <HTML_Chars>183228</HTML_Chars>
+    <XBRL_Chars>0</XBRL_Chars>
+    <XML_Chars>0</XML_Chars>
+    <N_Exhibits>3</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0001042167-04-000028.hdr.sgml : 20040130
+<ACCEPTANCE-DATETIME>20040130150450
+ACCESSION NUMBER:		0001042167-04-000028
+CONFORMED SUBMISSION TYPE:	10-Q
+PUBLIC DOCUMENT COUNT:		4
+CONFORMED PERIOD OF REPORT:	20031228
+FILED AS OF DATE:		20040130
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			STRATTEC SECURITY CORP
+		CENTRAL INDEX KEY:			0000933034
+		STANDARD INDUSTRIAL CLASSIFICATION:	MOTOR VEHICLE PARTS & ACCESSORIES [3714]
+		IRS NUMBER:				391804239
+		STATE OF INCORPORATION:			WI
+		FISCAL YEAR END:			0627
+
+	FILING VALUES:
+		FORM TYPE:		10-Q
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-25150
+		FILM NUMBER:		04555635
+
+	BUSINESS ADDRESS:	
+		STREET 1:		3333 WEST GOOD HOPE ROAD
+		CITY:			MILWAUKEE
+		STATE:			WI
+		ZIP:			53209
+		BUSINESS PHONE:		4142473333
+
+	MAIL ADDRESS:	
+		STREET 1:		3333 W GOOD HOPE ROAD
+		CITY:			MILWAUKEE
+		STATE:			WI
+		ZIP:			53209
+
+</SEC-Header>
+</Header>
+
+ 
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ Fyrm/OGrQwJZ57dy8Qh58jKIxMy9gv+NayN1XIGWuby0lo/sVO2hI3WDqZOZuYEe
+ H72IynUR4IfIhBYmBlkZYw==
+
+ 0001042167-04-000028.txt : 20040130
+
+10-Q
+ 1
+ strattecform10-qjan.htm
+ STRATTEC FORM 10-Q (1/04)
+ 
+ STRATTEC Form 10-Q (1/04) 
+
+SECURITIES AND EXCHANGE COMMISSION 
+
+ Washington, DC 20549 
+
+FORM 10-Q 
+
+[X] QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES 
+
+ EXCHANGE ACT OF 1934 
+
+For the quarterly period ended December 28, 2003 
+
+or 
+
+[ ] TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES 
+
+ EXCHANGE ACT OF 1934 
+
+For the transition period from ____________ to ____________ 
+
+Commission File Number 0-25150 
+
+STRATTEC SECURITY CORPORATION 
+
+ (Exact Name of Registrant as Specified in Its Charter) 
+
+Wisconsin 39-1804239 
+
+ (State of Incorporation) (I.R.S. Employer Identification No.) 
+
+3333 West Good Hope Road, Milwaukee, WI 53209 
+
+ (Address of Principal Executive Offices) 
+
+(414) 247-3333 
+
+ (Registrant s Telephone Number, Including Area Code) 
+
+Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days. YES [X] NO [ ] 
+
+Indicate by check mark whether the registrant is an accelerated filer (as defined in Rule 12b-2 of the Exchange Act). YES [X] NO [ ] 
+
+Indicate the number of shares outstanding of each of the issuer s classes of common stock as of the latest practicable date. 
+
+Common stock, par value 0.01 per share: 3,769,816 shares outstanding as of December 28, 2003. 
+
+STRATTEC SECURITY CORPORATION 
+
+FORM 10-Q 
+
+December 28, 2003 
+
+INDEX 
+
+Part I - FINANCIAL INFORMATION 
+
+Page 
+
+Item 1 Financial Statements 
+
+Condensed Consolidated Statements of Income 
+
+3 
+
+Condensed Consolidated Balance Sheets 
+
+4 
+
+Condensed Consolidated Statements of Cash Flows 
+
+5 
+
+Notes to Condensed Consolidated Financial Statements 
+
+6-7 
+
+Item 2 Management s Discussion and Analysis of Results 
+ of Operations and Financial Condition 
+
+8-13 
+
+Item 3 Quantitative and Qualitative Disclosures About Market Risk 
+
+13 
+
+Item 4 Controls and Procedures 
+
+14 
+
+Part II - OTHER INFORMATION 
+
+Item 1 Legal Proceedings 
+
+15 
+
+Item 2 Changes in Securities and Use of Proceeds 
+
+15 
+
+Item 3 Defaults Upon Senior Securities 
+
+15 
+
+Item 4 Submission of Matters to a Vote of Security Holders 
+
+15 
+
+Item 5 Other Information 
+
+15 
+
+Item 6 Exhibits and Reports on Form 8-K 
+
+15 
+
+2 
+
+Item 1 Financial Statements 
+
+STRATTEC SECURITY CORPORATION AND SUBSIDIARIES 
+
+ CONDENSED CONSOLIDATED STATEMENTS OF INCOME 
+
+ (In Thousands, Except Per Share Amounts) 
+
+ (Unaudited) 
+
+Three Months Ended 
+
+Six Months Ended 
+
+December 28, 2003 
+
+December 29, 2002 
+
+December 28, 2003 
+
+December 29, 2002 
+
+Net sales 
+
+50,014 
+
+48,680 
+
+94,434 
+
+96,586 
+
+Cost of goods sold 
+
+37,912 
+
+37,742 
+
+71,874 
+
+74,295 
+
+Gross profit 
+
+12,102 
+
+10,938 
+
+22,560 
+
+22,291 
+
+Engineering, selling and administrative expenses 
+
+4,983 
+
+4,571 
+
+9,901 
+
+9,182 
+
+Income from operations 
+
+7,119 
+
+6,367 
+
+12,659 
+
+13,109 
+
+Interest income 
+
+88 
+
+85 
+
+177 
+
+183 
+
+Other income (expense), net 
+
+184 
+
+(45 
+
+286 
+
+(248 
+
+Income before provision for income taxes 
+
+7,391 
+
+6,407 
+
+13,122 
+
+13,044 
+
+Provision for income taxes 
+
+2,772 
+
+2,371 
+
+4,921 
+
+4,827 
+
+Net income 
+
+4,619 
+
+4,036 
+
+8,201 
+
+8,217 
+
+Earnings per share: 
+
+Basic 
+
+1.23 
+
+1.07 
+
+2.18 
+
+2.15 
+
+Diluted 
+
+1.21 
+
+1.05 
+
+2.15 
+
+2.11 
+
+Average Shares Outstanding: 
+
+Basic 
+
+3,765 
+
+3,756 
+
+3,762 
+
+3,816 
+
+Diluted 
+
+3,824 
+
+3,832 
+
+3,821 
+
+3,889 
+
+The accompanying notes are an integral part of these condensed consolidated statements. 
+
+3 
+
+STRATTEC SECURITY CORPORATION AND SUBSIDIARIES 
+
+ CONDENSED CONSOLIDATED BALANCE SHEETS 
+
+ (In Thousands, Except Share Amounts) 
+
+ (Unaudited) 
+
+December 28, 2003 
+
+June 29, 2003 
+
+ASSETS 
+
+Current Assets: 
+
+Cash and cash equivalents 
+
+36,332 
+
+29,902 
+
+Receivables, net 
+
+28,688 
+
+31,173 
+
+Inventories- 
+
+Finished products 
+
+2,952 
+
+2,269 
+
+Work in process 
+
+9,203 
+
+7,763 
+
+Raw materials 
+
+573 
+
+507 
+
+LIFO adjustment 
+
+(2,638 
+ 
+ (2,655 
+
+Total inventories 
+
+10,090 
+
+7,884 
+
+Customer tooling in progress 
+
+2,164 
+
+3,573 
+
+Other current assets 
+
+8,482 
+
+8,554 
+
+Total current assets 
+
+85,756 
+
+81,086 
+
+Deferred income taxes 
+
+1,973 
+
+1,973 
+
+Investment in Joint Venture 
+
+1,379 
+
+1,141 
+
+Property, plant and equipment 
+
+101,632 
+
+99,070 
+
+Less: accumulated depreciation 
+
+(68,835 
+ 
+ (65,176 
+
+Net property, plant and equipment 
+
+32,797 
+
+33,894 
+
+121,905 
+
+118,094 
+
+LIABILITIES AND SHAREHOLDERS' EQUITY 
+
+Current Liabilities: 
+
+Accounts payable 
+
+17,551 
+
+13,990 
+
+Accrued payroll and benefits 
+
+7,597 
+
+11,205 
+
+Environmental reserve 
+
+2,710 
+
+2,720 
+
+Other accrued liabilities 
+
+1,688 
+
+1,894 
+
+Total current liabilities 
+
+29,546 
+
+29,809 
+
+Accrued pension and post-retirement obligations 
+
+15,251 
+
+19,190 
+
+Shareholders' equity: 
+
+Common stock, authorized 12,000,000 shares .01 par value, Issued 6,647,715 shares at December 28, 2003 and 6,608,642 shares at June 29, 2003 
+
+67 
+
+66 
+
+Capital in excess of par value 
+
+65,364 
+
+63,830 
+
+Retained earnings 
+
+121,149 
+
+112,948 
+
+Accumulated other comprehensive loss 
+
+(7,127 
+ 
+ (6,891 
+
+Less: treasury stock, at cost (2,877,899 shares at December 28, 
+
+2003 and 2,850,390 shares at June 29, 2003) 
+
+(102,345 
+ 
+ (100,858 
+
+Total shareholders' equity 
+
+77,108 
+
+69,095 
+
+121,905 
+
+118,094 
+
+The accompanying notes are an integral part of these condensed consolidated balance sheets. 
+
+4 
+
+STRATTEC SECURITY CORPORATION AND SUBSIDIARIES 
+
+ CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS 
+
+ (In Thousands) 
+
+ (Unaudited) 
+
+Six Months Ended 
+
+December 28, 2003 
+
+December 29, 2002 
+
+CASH FLOWS FROM OPERATING ACTIVITIES: 
+
+8,201 
+
+8,217 
+
+Net income 
+
+Adjustments to reconcile net income to net cash provided 
+ by operating activities: 
+
+Depreciation 
+
+3,959 
+
+3,916 
+
+Tax benefit from options exercised 
+
+356 
+
+- 
+
+Other, net 
+
+(142 
+
+144 
+
+Change in operating assets and liabilities: 
+
+Receivables 
+
+2,383 
+
+2,095 
+
+Inventories 
+
+(2,206 
+
+(2,599 
+
+Other assets 
+
+1,290 
+
+378 
+
+Accounts payable and accrued liabilities 
+
+(3,955 
+
+(5,917 
+
+Net cash provided by operating activities 
+
+9,886 
+
+6,234 
+
+CASH FLOWS FROM INVESTING ACTIVITIES: 
+
+Investment in joint venture 
+
+(125 
+
+- 
+
+Additions to property, plant and equipment 
+
+(3,022 
+
+(1,373 
+
+Net cash used in investing activities 
+
+(3,147 
+
+(1,373 
+
+CASH FLOWS FROM FINANCING ACTIVITIES: 
+
+Purchase of treasury stock 
+
+(1,492 
+
+(16,136 
+
+Exercise of stock options 
+
+1,183 
+
+22 
+
+Net cash used in financing activities 
+
+(309 
+
+(16,114 
+
+NET INCREASE (DECREASE) IN CASH AND 
+
+ CASH EQUIVALENTS 
+
+6,430 
+
+(11,253 
+
+CASH AND CASH EQUIVALENTS 
+
+Beginning of period 
+
+29,902 
+
+34,956 
+
+End of period 
+
+36,332 
+
+23,703 
+
+SUPPLEMENTAL DISCLOSURE OF CASH FLOW INFORMATION: 
+
+Income taxes paid 
+
+4,135 
+
+6,007 
+
+Interest paid 
+
+- 
+
+- 
+
+The accompanying notes are an integral part of these condensed consolidated statements. 
+
+5 
+
+STRATTEC SECURITY CORPORATION AND SUBSIDIARIES 
+
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS 
+
+ (Unaudited) 
+
+Basis of Financial Statements 
+
+STRATTEC SECURITY CORPORATION (the Company designs, develops, manufactures and markets mechanical locks, electro-mechanical locks and related access-control products for North American and global automotive manufacturers. The accompanying condensed unaudited financial statements reflect the consolidated results of the Company and its wholly owned Mexican subsidiaries. 
+
+In the opinion of management, the accompanying unaudited financial statements contain all adjustments, which are of a normal recurring nature, necessary to present fairly the financial position of the Company as of December 28, 2003, and the results of operations and cash flows for the three and six month periods then ended. All significant intercompany transactions have been eliminated. Interim financial results are not necessarily indicative of operating results for an entire year. 
+
+These financial statements and notes thereto should be read in conjunction with the financial statements and notes thereto included in the Company s 2003 Annual Report. 
+
+Earnings Per Share (EPS) 
+
+A reconciliation of the components of the basic and diluted per-share computations follows (in thousands, except per share amounts): 
+
+Three Months Ended 
+
+December 28, 2003 
+
+December 29, 2002 
+
+Net Income 
+
+Shares 
+
+Per Share Amount 
+
+Net Income 
+
+Shares 
+
+Per Share Amount 
+
+Basic Earnings Per Share 
+
+4,619 
+
+3,765 
+
+1.23 
+
+4,036 
+
+3,756 
+
+1.07 
+
+Stock Options 
+
+59 
+
+76 
+
+Diluted Earnings Per Share 
+
+4,619 
+
+3,824 
+
+1.21 
+
+4,036 
+
+3,832 
+
+1.05 
+
+Six Months Ended 
+
+December 28, 2003 
+
+December 29, 2002 
+
+Net 
+
+ Income 
+
+Shares 
+
+Per Share 
+
+ Amount 
+
+Net 
+
+ Income 
+
+Shares 
+
+Per Share 
+
+ Amount 
+
+Basic Earnings Per Share 
+
+8,201 
+
+3,762 
+
+2.18 
+
+8,217 
+
+3,816 
+
+2.15 
+
+Stock Options 
+
+59 
+
+73 
+
+Diluted Earnings Per Share 
+
+8,201 
+
+3,821 
+
+2.15 
+
+8,217 
+
+3,889 
+
+2.11 
+
+Options to purchase the following shares of common stock were outstanding as of each date indicated but were not included in the computation of diluted EPS because the options exercise prices were greater than the average market price of the common shares: 
+
+Period Ended 
+
+Shares 
+
+Exercise 
+
+ Price 
+
+December 28, 2003 
+
+74,160 
+
+58.59 
+
+80,000 
+
+61.68 
+
+December 29, 2002 
+
+80,000 
+
+58.59 
+
+6 
+
+Comprehensive Income 
+
+The following table presents the Company s comprehensive income (in thousands): 
+
+Three Months Ended 
+
+Six Months Ended 
+
+December 28, 
+
+December 29, 
+
+December 28, 
+
+December 29, 
+
+2003 
+
+2002 
+
+2003 
+
+2002 
+
+Net Income 
+
+4,619 
+
+4,036 
+
+8,201 
+
+8,217 
+
+Change in Cumulative Translation 
+
+Adjustments, net 
+
+(63 
+
+(45 
+
+(236 
+
+(120 
+
+Total Comprehensive Income 
+
+4,556 
+
+3,991 
+
+7,965 
+
+8,097 
+
+Stock Based Compensation 
+
+The Company accounts for its stock-based compensation plans using the intrinsic value method. Accordingly, no compensation cost related to these plans was charged against earnings during fiscal 2004 and 2003. Had compensation cost for these plans been determined using the fair value method rather than the intrinsic value method, the pro forma impact on earnings per share would have been as follows (in thousands): 
+
+Three Months Ended 
+
+Six Months Ended 
+
+December 28, 
+
+December 29, 
+
+December 28, 
+
+December 29, 
+
+2003 
+
+2002 
+
+2003 
+
+2002 
+
+Net Income as Reported 
+
+4,619 
+
+4,036 
+
+8,201 
+
+8,217 
+
+Less Compensation Expense Determined 
+ Under Fair Value Method, net of tax 
+
+(240 
+
+(193 
+
+(471 
+
+(351 
+
+Pro Forma Net Income 
+
+4,379 
+
+3,843 
+
+7,730 
+
+7,866 
+
+Basic EPS as Reported 
+
+1.23 
+
+1.07 
+
+2.18 
+
+2.15 
+
+Pro Forma Basic EPS 
+
+1.16 
+
+1.02 
+
+2.05 
+
+2.06 
+
+Diluted EPS as Reported 
+
+1.21 
+
+1.05 
+
+2.15 
+
+2.11 
+
+Pro Forma Diluted EPS 
+
+1.15 
+
+1.01 
+
+2.03 
+
+2.03 
+
+7 
+
+Item 2 
+
+ STRATTEC SECURITY CORPORATION AND SUBSIDIARIES 
+
+ MANAGEMENT S DISCUSSION AND ANALYSIS 
+
+ OF RESULTS OF OPERATIONS AND FINANCIAL CONDITION 
+
+The following Management s Discussion and Analysis should be read in conjunction with the Company s accompanying Financial Statements and Notes thereto and the Company s 2003 Annual Report. Unless otherwise indicated, all references to years refer to fiscal years. 
+
+Analysis of Results of Operations 
+
+Three months ended December 28, 2003 compared to the three months ended December 29, 2002 
+
+Net sales for the three months ended December 28, 2003, increased 1.3 million to 50.0 million compared to net sales of 48.7 million for the three months ended December 29, 2002. Overall sales to the Company s largest customers decreased slightly in the current quarter compared to the prior year quarter levels. The overall decrease is the result of lower vehicle production, which reduced sales by approximately 1.5 million, and pre-programmed price decreases. This reduction was mostly offset by the net impact of sales related to new and discontinued programs as well as content changes to existing programs. The Sales to General Motors Corporation and Ford Motor Company decreased primarily due to reduced volumes for vehicles the Company supplies, with General Motors Corporation at 14.0 million compared to 15.7 million and Ford Motor Company at 9.7 milli
+on compared to 10.1 million. Mitsubishi Motor Manufacturing of America, Inc. remained flat at 2.1 million, while DaimlerChrysler Corporation increased to 9.5 million compared to 8.1 million primarily due to additional content changes to existing products, and Delphi Corporation increased to 8.0 million compared to 7.5 million in the prior year quarter. Sales to heavy truck and other industrial customers modestly increased compared to the prior year quarter, as did aftermarket sales. 
+
+Gross profit as a percentage of net sales was 24.2 percent in the current quarter compared to 22.5 percent in the prior year quarter. The gross margin improvement was attributed primarily to the Company s on-going manufacturing process improvement initiatives, along with a favorable Mexican peso to U.S. dollar exchange rate. The inflation rate in Mexico for the 12 months ended December 2003 was approximately 4 percent while the U.S. dollar/Mexican peso exchange rate increased to approximately 11.20 pesos to the dollar in the current quarter from approximately 10.20 pesos to the dollar in the prior year quarter. 
+
+Engineering, selling and administrative expenses were 5.0 million in the current quarter, compared to 4.6 million in the prior year quarter, and 4.9 million in the first quarter. 
+
+Income from operations was 7.1 million in the current quarter compared to 6.4 million in the prior year quarter. The increase is primarily the result of the increased sales and gross profit margin as discussed above. 
+
+The effective income tax rate for the current quarter was 37.5 percent compared to 37.0 percent in the prior year quarter. The increase is the result of an increase in the state effective tax rate. The overall effective tax rate differs from the federal statutory tax rate primarily due to the effects of state income taxes . 
+
+Six months ended December 28, 2003 compared to the six months ended December 29, 2002 
+
+Net sales for the six months ended December 28, 2003, decreased 2.2 million to 94.4 million compared to net sales of 96.6 million for the six months ended December 29, 2002. Overall lower customer vehicle production reduced sales in the current period by approximately 6.2 million. To a lesser degree, sales were also negatively impacted by discontinued models and pre-programmed price decreases. The negative factors were partially offset by new program sales and additional content changes on existing products. The change in sales to the Company s largest customers in the current period compared to the prior year period include General Motors Corporation at 26.7 million compared to 30.5 million, Delphi Corporation at 15.0 million 
+
+8 
+
+compared to 14.3 million, DaimlerChrysler Corporation at 18.2 million compared to 16.5 million, Ford Motor Company at 18.1 million compared to 20.0 million and Mitsubishi Motor Manufacturing of America, Inc. at 3.9 million compared to 4.5 million. 
+ Gross profit as a percentage of net sales was 23.9 percent in the current period compared to 23.1 percent in the prior year period. The gross margin improvement was attributed primarily to the Company s on-going manufacturing process improvement initiatives, along with a favorable Mexican peso to U.S. dollar exchange rate. The inflation rate in Mexico for the 12 months ended December 2003 was approximately 4 percent while the U.S. dollar/Mexican peso exchange rate increased to approximately 11.05 pesos to the dollar in the current period from approximately 10.10 pesos to the dollar in the prior year period. 
+
+Engineering, selling and administrative expenses were 9.9 million in the six months ended December 28, 2003, compared to 9.2 million in the prior year period. The increase is primarily the result of an increase in fringe benefit costs primarily related to pension, post-retirement and the Company's EVA Bonus Plan as well as an increase in engineering development costs. 
+
+Income from operations was 12.7 million in the current period compared to 13.1 million in the prior year period. The decrease is primarily the result of the decreased sales as discussed above. 
+
+The effective income tax rate for the current period was 37.5 percent compared to 37.0 percent in the prior year period. The increase is the result of an increase in the state effective tax rate. The overall effective tax rate differs from the federal statutory tax rate primarily due to the effects of state income taxes . 
+
+Liquidity and Capital Resources 
+
+The Company generated cash from operating activities of 9.9 million in the six months ended December 28, 2003 compared to 6.2 million in the six months ended December 29, 2002. The increased generation of cash between periods is primarily due to an increase in accounts payable and accruals in the current year period of 3.6 million compared to a reduction of 3.7 million in the prior year period. The current year increase is the result of lengthening payment terms with a significant supplier as well as the timing of payments in accordance with normal payment terms. The reduction in the prior year is also the result of the impact of the timing of payments based on normal payment terms. This 7.3 million change was partially offset by a 5 million contribution to the Company s pension fund in the first quarter of the current year period. No contributions w
+ere made during the prior year period. The current year period also included a decrease of 1.3 million in other current assets as a result of a change in customer tooling based on billings made to customers which was partially offset by additional spending on tooling being developed. 
+
+The Company s investment in accounts receivable of 28.7 million at December 28, 2003 decreased 2.5 million compared to the June 29, 2003 balance of 31.2 million. The reduction is primarily the result of decreased sales in December 2003 as compared to June 2003 resulting from the December holiday shut-down, which occurs between December 24 and January 1 of each year. Inventories increased by approximately 2.2 million at December 28, 2003, as compared to June 29, 2003. The inventory balance was reduced at June 2003 in preparation for model year changeovers, which generally occur during the fiscal first quarter. In addition, there was a planned inventory build-up in December due to the December holiday shut-down. 
+
+Capital expenditures during the six months ended December 28, 2003, were 3.0 million compared to 1.4 million during the six months ended December 29, 2002. The Company anticipates that capital expenditures will be approximately 6 million in fiscal 2004, primarily in support of requirements for new product programs and the upgrade and replacement of existing equipment and facilities. 
+
+The Board of Directors of the Company has authorized a stock repurchase program to buy back up to 3,239,395 outstanding shares. A total of 2,891,192 shares have been repurchased as of December 28, 2003, at a cost of approximately 102.6 million. During the quarter ended December 28, 2003, 20,000 shares were 
+
+9 
+
+repurchased at a cost of approximately 1.1 million. During the six months ended December 28, 2003, 28,000 shares were repurchased at a cost of approximately 1.5 million. Additional repurchases may occur from time to time. Funding for the repurchases was provided by cash flow from operations. 
+
+The Company has a 50.0 million unsecured, revolving credit facility (the Credit Facility ), which expires October 31, 2004. There were no outstanding borrowings under the Credit Facility at December 28, 2003. Interest on borrowings under the Credit Facility are at varying rates based, at the Company s option, on the London Interbank offering rate or the bank s prime rate. The Credit Facility contains various restrictive covenants including covenants that require the Company to maintain minimum levels for certain financial ratios such as tangible net worth and fixed charge coverage. The Company believes that the Credit Facility is adequate, along with cash flow from operations, to meet its anticipated capital expenditure, working capital and operating expenditure requirements. 
+
+The Company has not been significantly impacted by inflationary pressures over the last several years, except for rising health care costs which have increased the Company s cost of employee medical coverage. In previous years, the Company was impacted by fluctuations in the market price of zinc, which is used at a rate of approximately 1 million pounds per month, and inflation in Mexico, which impacts the U.S. dollar costs of the Mexican operations. The Company has entered into purchase commitments for a percentage of its zinc requirements through June 2005. This will reduce the financial impact of future price fluctuations. The Company does not hedge the peso exposure. 
+
+Joint Ventures 
+
+On November 28, 2000, the Company signed certain alliance agreements with E. WITTE Verwaltungsgesellschaft GMBH, and its operating unit, WITTE-Velbert GmbH Co. KG WITTE ). WITTE, of Velbert, Germany, is a privately held, QS 9000 and VDA 6.1 certified automotive supplier. WITTE designs, manufactures and markets components including locks and keys, hood latches, rear compartment latches, seat back latches, door handles and specialty fasteners. WITTE s primary market for these products has been Europe. The WITTE-STRATTEC Alliance provides a set of cross-licensing agreements for the manufacture, distribution and sale of WITTE products by the Company in North America, and the manufacture, distribution and sale of the Company s products by WITTE in Europe. Additionally, a joint venture company WITTE-STRATTEC LLC in which each
+ company holds a 50 percent interest has been established to seek opportunities to manufacture and sell both companies products in other areas of the world outside of North America and Europe. 
+
+In November 2001, WITTE-STRATTEC do Brasil, a joint venture formed between WITTE-STRATTEC LLC and Ifer Estamparia e Ferramentaria Ltda. was formed to service customers in South America. On March 1, 2002, WITTE-STRATTEC LLC completed the formation of WITTE-STRATTEC China, a joint venture between WITTE-STRATTEC LLC and a unit of Elitech Technology Co. Ltd. of Taiwan. WITTE-STRATTEC China, located in Fuzhou, People s Republic of China, will be the base of operations to service the Company s automotive customers in the Asian market. 
+
+The investments are accounted for using the equity method of accounting. 
+
+Critical Accounting Policies and Estimates 
+
+The Company believes the following represents its critical accounting policies: 
+
+Pension and Post-Retirement Health Benefits The determination of the obligation and expense for pension and post-retirement health benefits is dependent on the selection of certain assumptions used by actuaries in calculating such amounts. Those assumptions are described in the Notes to Financial Statements contained in the Company s 2003 Annual Report and include, among others, the discount rate, expected long-term rate of return on plan assets and rates of increase in compensation and health care costs. In accordance 
+
+10 
+
+with accounting principles generally accepted in the United States of America, actual results that differ from these assumptions are accumulated and amortized over future periods. While the Company believes that the assumptions used are appropriate, significant differences in the actual experience or significant changes in the assumptions may materially affect the pension and post-retirement health obligations and the Company s future expense. 
+
+Other Reserves The Company has reserves such as an environmental reserve, an incurred but not reported claim reserve for self-insured health plans, and a repair and maintenance supply parts reserve. These reserves require the use of estimates and judgement with regard to risk exposure, ultimate liability, and net realizable value. The Company believes such reserves are estimated using consistent and appropriate methods. However, changes to the assumptions could materially affect the recorded reserves. 
+
+Risk Factors 
+
+The Company understands it is subject to the following risk factors based on its operations and the nature of the automotive industry in which it operates: 
+
+Loss of Significant Customers or Vehicle Content Sales to General Motors Corporation, Ford Motor Company, DaimlerChrysler Corporation and Delphi Corporation represent approximately 83 percent of the Company s annual sales. The contracts with these customers provide for supplying the customer s requirements for a particular model. The contracts do not specify a specific quantity of parts. The contracts typically cover the life of a model, which averages approximately 4 to 5 years. Certain customer models may also be market tested annually. Therefore, the loss of any one of these customers, the loss of a contract for a specific vehicle model, reduction in vehicle content, technological changes or a significant reduction in demand for certain key models could have a material adverse effect on the Company s existing and future revenues and net
+ income. 
+
+Cost Reduction There is continuing pressure from the Company s major customers to reduce the prices the Company charges for its products. This requires the Company to generate cost reductions, including reductions in the cost of components purchased from outside suppliers. If the Company is unable to generate sufficient production cost savings in the future to offset programmed price reductions, the Company s gross margin and profitability will be adversely affected. 
+
+Cyclicality and Seasonality in the Automotive Market The automotive market is highly cyclical and is dependent on consumer spending and to a certain extent on customer sales incentives. Economic factors adversely affecting consumer demand for automobiles and automotive production could adversely impact the Company s revenues and net income. The Company typically experiences decreased revenue and operating income during the first fiscal quarter of each year due to the impact of scheduled customer plant shut-downs in July and new model changeovers. 
+
+Foreign Operations As discussed under Joint Ventures, the Company has joint venture investments in both Brazil and China. These operations are currently not material. However, as these operations expand, their success will depend, in part, on the Company s and its partners ability to anticipate and effectively manage certain risks inherent in international operations including: enforcing agreements and collecting receivables through certain foreign legal systems, payment cycles of foreign customers, compliance with foreign tax laws, general economic and political conditions in these countries, and compliance with foreign laws and regulations. 
+
+Currency Exchange Rate Fluctuations The Company incurs a portion of its expenses in Mexican pesos. Exchange rate fluctuations between the U.S. dollar and the Mexican peso could have an adverse effect on financial results. 
+
+Sources of and Fluctuations in Market Prices of Raw Materials The primary raw materials used by the Company are high-grade zinc, brass, steel and plastic resins. These materials are generally available from a number of suppliers, but the Company has chosen to concentrate its sourcing with one primary vendor for each 
+
+11 
+
+commodity. The Company believes its sources of raw materials are reliable and adequate for its needs. However, the development of future sourcing issues related to the availability of these materials as well as significant fluctuations in the market prices of these materials may have an adverse affect on the Company s financial results. 
+ Disruptions Due to Work Stoppages and Other Labor Matters The Company s major customers and many of their suppliers have unionized work forces. Work stoppages or slow-downs experienced by the Company s customers or their suppliers could result in slow-downs or closures of assembly plants where the Company s products are included in assembled vehicles. For example, strikes by the United Auto Workers led to a shut-down of most of General Motors Corporation s North American assembly plants in June and July of 1998. A material work stoppage experienced by one or more of the Company s customers could have an adverse effect on the Company s business and its financial results. In addition, all production associates at the Company s Milwaukee facility are unionized. A 16-day strike by these associates in Jun
+e 2001 resulted in increased costs by the Company as all salaried associates worked with additional outside resources to produce the components necessary to meet customer requirements. The current contract with the unionized associates is effective through June 26, 2005. The Company may encounter further labor disruption after the expiration date of this contract and may also encounter unionization efforts in its other plants or other types of labor conflicts, any of which could have an adverse effect on the Company s business and its financial results. 
+
+Environmental and Safety Regulations The Company is subject to federal, state, local and foreign laws and other legal requirements related to the generation, storage, transport, treatment and disposal of materials as a result of its manufacturing and assembly operations. These laws include the Resource Conservation and Recovery Act (as amended), the Clean Air Act (as amended), and the Comprehensive Environmental Response, Compensation and Liability Act (as amended). The Company has an environmental management system that is ISO-14001 certified. The Company believes that its existing environmental management system is adequate and it has no current plans for substantial capital expenditures in the environmental area. An environmental reserve was established in 1995 for estimated costs to remediate a site at the Company s Milwaukee facility that was c
+ontaminated by a former above-ground solvent storage tank, located on the east side of the facility. The contamination occurred in 1985. This is being monitored in accordance with federal, state and local requirements. The Company does not currently anticipate any material adverse impact on its results of operations, financial condition or competitive position as a result of compliance with federal, state, local and foreign environmental laws or other legal requirements. However, risk of environmental liability and charges associated with maintaining compliance with environmental laws is inherent in the nature of the Company s business and there is no assurance that material liabilities or charges could not arise. 
+
+Highly Competitive Automotive Supply Industry The automotive component supply industry is highly competitive. Some of the Company s competitors are companies, or divisions or subsidiaries of companies, that are larger than the Company and have greater financial and other resources. The Company s products may not be able to compete successfully with the products of these other companies, which could result in loss of customers and, as a result, decreased revenues and profitability. In addition, the Company s competitive position in the North American automotive component supply industry could be adversely affected in the event that it is unsuccessful in making strategic acquisitions, alliances or establishing joint ventures that would enable it to expand globally. The Company principally competes for new business at the beginning of the dev
+elopment of new models and upon the redesign of existing models by its major customers. New model development generally begins two to five years prior to the marketing of such new models to the public. The failure to obtain new business on new models or to retain or increase business on redesigned existing models could adversely affect the Company s business and financial results. In addition, as a result of relatively long lead times for many of its components, it may be difficult in the short-term for the Company to obtain new sales to replace any unexpected decline in the sale of existing products. The Company may incur significant product development expense in preparing to meet anticipated customer requirements which may not be recovered. 
+
+Program Volume and Pricing Fluctuations The Company incurs costs and makes capital expenditures for new program awards based upon certain estimates of production volumes over the anticipated program life for certain vehicles. While the Company attempts to establish the price of its products for variances in production 
+
+12 
+
+volumes, if the actual production of certain vehicle models is significantly less than planned, the Company s revenues and net income may be adversely affected. The Company cannot predict its customers demands for the products it supplies either in the aggregate or for particular reporting periods. 
+ Investments in Customer Program Specific Assets The Company makes investments in machinery and equipment used exclusively to manufacture products for specific customer programs. This machinery and equipment is capitalized and depreciated over the expected useful life of each respective asset. Therefore, the loss of any one of the Company s major customers or specific vehicle models could result in impairment in the value of these assets and have a material adverse effect on the Company s financial results. 
+
+Prospective Information 
+
+A number of the matters and subject areas discussed in this Form 10-Q contain forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995. These statements may be identified by the use of forward-looking words or phrases such as anticipate, believe, would, expect, intend, may, planned, potential, should, will, and could. These include expected future financial results, product offerings, global expansion, liquidity needs, financing ability, planned capital expenditures, management's or the Company's expectations and beliefs, and similar matters discussed in the Company s Management's Discussion and Analysis. The discussions of such matters and subject areas are qualified by
+ the inherent risks and uncertainties surrounding future expectations generally, and also may materially differ from the Company's actual future experience. 
+
+The Company's business, operations and financial performance are subject to certain risks and uncertainties, which could result in material differences in actual results from the Company's current expectations. These risks and uncertainties include, but are not limited to, general economic conditions, in particular relating to the automotive industry, customer demand for the Company s and its customer s products, competitive and technological developments, customer purchasing actions, foreign currency fluctuations, costs of operations and other matters described under Risk Factors above. 
+
+Shareholders, potential investors and other readers are urged to consider these factors carefully in evaluating the forward-looking statements and are cautioned not to place undue reliance on such forward-looking statements. The forward-looking statements made herein are only made as of the date of this Form 10-Q and the Company undertakes no obligation to publicly update such forward-looking statements to reflect subsequent events or circumstances occurring after the date of this Form 10-Q. 
+
+Item 3 Quantitative and Qualitative Disclosures About Market Risk 
+
+The Company does not utilize financial instruments for trading purposes and holds no derivative financial instruments which would expose the Company to significant market risk. The Company has not had outstanding borrowings since December 1997. The Company has been in an investment position since this time and expects to remain in an investment position for the foreseeable future. There is therefore no significant exposure to market risk for changes in interest rates. 
+
+The Company is subject to foreign currency exchange rate exposure related to the Mexican operations. The Company is also subject to fluctuations in the market price of zinc and brass, which are primary raw materials. The Company has entered into purchase commitments for a percentage of its zinc requirements through June 2005. 
+
+13 
+
+Item 4 Controls and Procedures 
+
+As of the end of the period covered by this report, the Company carried out an evaluation, under the supervision and with the participation of the Company's management, including the Company's Chief Executive Officer and Chief Financial Officer, of the Company's disclosure controls and procedures (as defined in Rules 13a-15(e) and 15d-15(e) under the Securities Exchange Act of 1934, as amended). Based on this evaluation, the Company's Chief Executive Officer and Chief Financial Officer concluded that the Company's disclosure controls and procedures were effective in timely alerting them to material information relating to the Company required to be included in the Company's periodic filings with the Securities and Exchange Commission. It should be noted that in designing and evaluating the
+ disclosure controls and procedures, management recognized that any controls and procedures, no matter how well designed and operated, can provide only reasonable assurance of achieving the desired control objectives, and management necessarily was required to apply its judgment in evaluating the cost-benefit relationship of possible controls and procedures. The Company has designed its disclosure controls and procedures to reach a level of reasonable assurance of achieving the desired control objectives and, based on the evaluation described above, the Company's Chief Executive Officer and Chief Financial Officer concluded that the Company's disclosure controls and procedures were effective at reaching that level of reasonable assurance. 
+
+There was no change in the Company's internal control over financial reporting (as defined in Rules 13a-15(f) and 15d-15(f) under the Securities Exchange Act of 1934, as amended) during the Company's most recently completed fiscal quarter that has materially affected, or is reasonably likely to materially affect, the Company's internal control over financial reporting. 
+
+14 
+
+Part II 
+
+ Other Information 
+
+Item 1 Legal Proceedings 
+
+In the normal course of business, the Company may be involved in various legal proceedings from time to time. The Company does not believe it is currently involved in any claim or action the ultimate disposition of which would have a material adverse effect on the Company s financial statements. 
+
+Item 2 Changes in Securities and Use of Proceeds - None 
+
+Item 3 Defaults Upon Senior Securities - None 
+
+Item 4 Submission of Matters to a Vote of Security Holders - 
+
+At the Company s Annual Meeting held on October 7, 2003, the shareholders voted to elect Harold M. Stratton and Robert Feitler as directors for a term to expire in 2006. The number of votes cast for and withheld in the election of Harold M. Stratton were 2,913,213 and 522,127, respectively. The number of votes cast for and withheld in the election of Robert Feitler were 3,140,327 and 295,013, respectively. Directors whose term continued after the meeting include Frank J. Krejci with a term expiring in 2004, and Michael J. Koss and John G. Cahill each with a term expiring in 2005. 
+
+Item 5 Other Information - None 
+
+Item 6 Exhibits and Reports on Form 8-K 
+
+(a) Exhibits 
+
+3.1 (1) Amended and Restated Articles of Incorporation of the Company 
+
+ 3.2 (1) By-Laws of the Company 
+
+ 4.1 (1 Rights Agreement dated as of February 6, 1995 between the Company and Firstar Trust Company, as Rights Agent 
+
+ 31.1 R ule 13a-14(a) Certification for Harold M. Stratton II, Chairman and Chief Executive Officer 
+
+ 31.2 Rule 13a-14(a) Certification for Patrick J. Hansen, Chief Financial Officer 
+
+ 32 (2) 18 U.S.C. Section 1350 Certifications 
+
+(b) Reports on Form 8-K During the second quarter of fiscal 2004, the Company filed the following Form 8-K Current Reports with the United States Securities and Exchange Commission: 
+
+On October 10, 2003, the Company furnished a Current Report on Form 8-K pursuant to Items 9 and 12 relating to financial information for the Company for the first quarter ended September 28, 2003, as presented in a press release issued on October 9, 2003. 
+
+_________________________ 
+
+ (1) Incorporated by reference to Amendment No. 2 to the Company s Form 10 filed on February 6, 1995. 
+
+ (2) This certification is not "filed" for purposes of Section 18 of the Securities Exchange Act of 1934, as amended, or incorporated by reference into any filing under the Securities Act of 1933, as amended, or the Securities Exchange Act of 1934, as amended. 
+
+ SIGNATURE 
+ Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized. 
+
+STRATTEC SECURITY CORPORATION (Registrant) 
+
+Date: January 30, 2004 By /s/ Patrick J. Hansen 
+
+ Patrick J. Hansen 
+
+ Vice President, 
+
+ Chief Financial Officer, 
+
+ Treasurer and Secretary 
+
+ (Principal Accounting and Financial Officer) 
+
+15 
+
+<EX-31.1>
+ 3
+ janexhibit31-1toform10q.htm
+ STRATTEC JAN EXHIBIT 31.1 TO FORM 10-Q
+ 
+ STRATTEC Jan Exhibit 31.1 to Form 10-Q 
+
+Exhibit 31.1 
+
+CERTIFICATION OF CHIEF EXECUTIVE OFFICER 
+
+ PURSUANT TO SECTION 302 OF THE SARBANES-OXLEY ACT OF 2002 
+
+I, Harold M. Stratton II, Chief Executive Officer of STRATTEC SECURITY CORPORATION, certify that: 
+
+1. I have reviewed this quarterly report on Form 10-Q of STRATTEC SECURITY CORPORATION; 
+
+2. Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report; 
+
+3. Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report; 
+
+4. The registrant's other certifying officer and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) for the registrant and have: 
+
+(a) designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared; 
+
+(b) evaluated the effectiveness of the registrant's disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; and 
+
+(c) disclosed in this report any change in the registrant's internal control over financial reporting that occurred during the registrant's most recent fiscal quarter that has materially affected, or is reasonably likely to materially affect, the registrant's internal control over financial reporting; and 
+
+5. The registrant's other certifying officer and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant's auditors and the audit committee of registrant's board of directors (or persons performing the equivalent function): 
+
+(a) all significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant's ability to record, process, summarize and report financial information; and 
+
+(b) any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant's internal control over financial reporting. 
+
+Date: January 30, 2004 
+
+/s/ Harold M. Stratton, II
+
+ ________________________________ 
+
+ Harold M. Stratton II, 
+
+ Chief Executive Officer 
+
+</EX-31.1>
+
+<EX-31.2>
+ 4
+ strattecjanexhibit31-2.htm
+ STRATTEC JAN EXHIBIT 31.2 TO FORM 10-Q
+ 
+ STRATTEC Jan Exhibit 31.2 to Form 10-Q 
+
+Exhibit 31.2 
+
+CERTIFICATION OF CHIEF FINANCIAL OFFICER 
+
+ PURSUANT TO SECTION 302 OF THE SARBANES-OXLEY ACT OF 2002 
+
+I, Patrick J. Hansen, Chief Financial Officer of STRATTEC SECURITY CORPORATION, certify that: 
+
+1. I have reviewed this quarterly report on Form 10-Q of STRATTEC SECURITY CORPORATION; 
+
+2. Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report; 
+
+3. Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report; 
+
+4. The registrant's other certifying officer and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) for the registrant and have: 
+
+(a) designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared; 
+
+(b) evaluated the effectiveness of the registrant's disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; and 
+
+(c) disclosed in this report any change in the registrant's internal control over financial reporting that occurred during the registrant's most recent fiscal quarter that has materially affected, or is reasonably likely to materially affect, the registrant's internal control over financial reporting; and 
+
+5. The registrant's other certifying officer and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant's auditors and the audit committee of registrant's board of directors (or persons performing the equivalent function): 
+
+(a) all significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant's ability to record, process, summarize and report financial information; and 
+
+(b) any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant's internal control over financial reporting. 
+
+Date: January 30, 2004 
+
+/s/ Patrick J. Hansen 
+
+ ___________________________ 
+
+ Patrick J. Hansen, 
+
+ Chief Financial Officer 
+
+</EX-31.2>
+
+<EX-32>
+ 5
+ strattecjanexhibit32.htm
+ STRATTEC JAN EXHIBIT 32 TO FORM 10-Q
+ 
+ STRATTEC Jan Exhibit 32 to Form 10-Q 
+
+Exhibit 32 
+
+Certification of Periodic Financial Report 
+
+ Pursuant to 18 U.S.C. Section 1350 
+
+Pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002, each of the undersigned officers of STRATTEC SECURITY CORPORATION (the "Company") certifies that the Quarterly Report on Form 10-Q of the Company for the quarter ended December 28, 2003 fully complies with the requirements of Section 13(a) of the Securities Exchange Act of 1934 and information contained in that Form 10-Q fairly presents, in all material respects, the financial condition and results of operations of the Company. 
+
+Dated: January 30, 2004 
+
+ /s/ Harold M. Stratton II
+
+ _______________________________ 
+
+ Harold M. Stratton II, 
+
+ Chief Executive Officer 
+
+Dated: January 30, 2004 
+
+ /s/ Patrick J. Hansen
+
+ _______________________________ 
+
+ Patrick J. Hansen, 
+
+ Chief Financial Officer 
+
+This certification is made solely for purpose of 18 U.S.C. Section 1350, subject to the knowledge standard contained therein, and not for any other purpose. 
+
+</EX-32>
+

@@ -1,0 +1,3530 @@
+<Header>
+<FileStats>
+    <FileName>20040129_10-K_edgar_data_1058027_0000909012-04-000040.txt</FileName>
+    <GrossFileSize>199136</GrossFileSize>
+    <NetFileSize>165780</NetFileSize>
+    <NonText_DocumentType_Chars>0</NonText_DocumentType_Chars>
+    <HTML_Chars>1271</HTML_Chars>
+    <XBRL_Chars>0</XBRL_Chars>
+    <XML_Chars>0</XML_Chars>
+    <N_Exhibits>8</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0000909012-04-000040.hdr.sgml : 20040623
+<ACCEPTANCE-DATETIME>20040129151610
+ACCESSION NUMBER:		0000909012-04-000040
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		9
+CONFORMED PERIOD OF REPORT:	20031031
+FILED AS OF DATE:		20040129
+DATE AS OF CHANGE:		20040623
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			STEELCLOUD  INC
+		CENTRAL INDEX KEY:			0001058027
+		STANDARD INDUSTRIAL CLASSIFICATION:	ELECTRONIC COMPUTERS [3571]
+		IRS NUMBER:				541890464
+		STATE OF INCORPORATION:			VA
+		FISCAL YEAR END:			1031
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-24015
+		FILM NUMBER:		04552232
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1306 SQUIRE COURT
+		CITY:			DULLES
+		STATE:			VA
+		ZIP:			20166
+		BUSINESS PHONE:		7034500400
+
+	MAIL ADDRESS:	
+		STREET 1:		1306 SQUIRE COURT
+		CITY:			DULLES
+		STATE:			VA
+		ZIP:			20166
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	DUNN COMPUTER CORP /VA/
+		DATE OF NAME CHANGE:	19980318
+
+</SEC-Header>
+</Header>
+
+ 
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ CmdAAYWWM4iEhB2L40u+Zm4ozvNsCsQYPtquVStmnp1SNB9qmKjWfLlf2XsaZiqQ
+ OUiypy7BT5J//emWqPRb0g==
+
+ 0000909012-04-000040.txt : 20040623
+
+10-K
+ 1
+ t300759.txt
+ ANNUAL REPORT 10/31/03
+
+UNITED STATES
+ SECURITIES AND EXCHANGE COMMISSION
+ WASHINGTON, D.C. 20549
+
+ FORM 10-K
+
+ ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d)
+ OF THE SECURITIES EXCHANGE ACT OF 1934
+
+ For the fiscal year ended October 31, 2003
+
+ or
+
+ TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d)
+ OF THE SECURITIES EXCHANGE ACT OF 1934
+
+ For the transition period from ____________ to ________________
+
+ Commission file number 0-24015
+
+ STEELCLOUD, INC.
+ (Exact name of registrant as specified in its charter)
+
+COMMONWEALTH OF VIRGINIA 54-1890464
+- ------------------------ ----------
+(State or other jurisdiction of (I.R.S. Employer
+incorporation or organization) Identification No.)
+
+1306 Squire Court
+DULLES, VIRGINIA 20166
+- ----------------- -----
+(Address of principal executive offices) (Zip Code)
+
+ (703) 450-0400
+ --------------
+ (Registrant's telephone number, including area code)
+
+ Securities registered pursuant to Section 12 (b) of the Exchange Act
+
+TITLE OF EACH CLASS NAME OF EXCHANGE ON WHICH REGISTERED None.
+
+ Securities registered pursuant to Section 12 (g) of the Act:
+
+TITLE OF EACH CLASS NAME OF EXCHANGE ON WHICH REGISTERED
+- ------------------- ------------------------------------
+Common Stock, .001 par value per share Nasdaq SmallCap Market
+
+ Indicate by check mark whether the registrant: (1) has filed all
+reports required to be filed by Section 13 or 15(d) of the Securities Exchange
+Act of 1934 during the preceding 12 months (or for such shorter period that the
+registrant was required to file such reports), and (2) has been subject to such
+filing requirements for the past 90 days. Yes |X| No |_|
+
+ Indicate by check mark if there is disclosure of delinquent filers in
+response to Item 405 of Regulation S-K contained herein and will not be
+contained, to the best of registrant's knowledge, in definitive proxy or
+information statements incorporated by reference in Part III of this Form 10-K
+or any amendment to this Form 10-K. | |
+
+ The aggregate market value of the voting stock held by non-affiliates
+of the issuer as of January 23, 2004 was 45,147,886.
+
+ Indicate by check mark whether the registrant is an accelerated filer
+(as defined in Rule 12b-2 of the Act). Yes | | No |X|
+
+ The number of shares outstanding of the registrant's Common Stock,
+ .001 par value per share, on January 23, 2004 was 13,343,690.
+
+ Documents incorporated by reference
+
+Portions of the Definitive Proxy Statement to be filed pursuant to Regulation
+14A for SteelCloud, Inc.'s annual meeting for 2003 are incorporated by reference
+into Part III of this Form 10-K.
+
+STEELCLOUD, INC
+ 2003 ANNUAL REPORT ON FORM 10-K
+
+ TABLE OF CONTENTS
+
+PART I PAGE NUMBER
+Item 1. Business.......................................................... 4
+Item 2. Properties........................................................ 9
+Item 3. Legal Proceedings................................................. 9
+Item 4. Submission of Matters to a Vote of Security Holders............... 9
+
+ PART II
+
+Item 5. Market for Registrant's Common Equity and Related
+ Stockholder Matters .............................................. 10
+Item 6. Selected Financial Data........................................... 12
+Item 7. Management's Discussion and Analysis of Financial Condition
+ and Results of Operations......................................... 13
+Item 7A. Quantitative and Qualitative Disclosures About Market Risk........ 22
+Item 8. Financial Statements and Supplementary Data....................... 22
+Item 9. Changes in and Disagreements with Accountants on
+ Accounting and Financial Disclosures.............................. 22
+Item 9A. Controls and Procedures........................................... 23
+
+ PART III
+
+Item 10. Directors and Executive Officers of the Registrant................ 24
+Item 11. Executive Compensation............................................ 24
+Item 12. Security Ownership of Certain Beneficial Owners and Management.... 24
+Item 13. Certain Relationships and Related Transactions.................... 24
+
+ (Item 10 - Item 13 information is incorporated by reference
+ from portions of the Company's definitive Proxy Statement
+ to be filed pursuant to Regulation 14A)
+
+Item 15. Exhibits, Financial Statement Schedules and Reports on Form 8-K... 24
+
+ Signatures........................................................ 26
+
+-3-
+
+ITEM 1. BUSINESS
+
+GENERAL
+
+ SteelCloud, Inc. (formerly Dunn Computer Corporation) or (the
+"Company") was founded in 1987 as a company that manufactured and marketed
+custom computers, primarily to the Federal government.
+
+ The Company is principally engaged in the design, development and
+manufacturing of custom computer servers and network security appliances. The
+Company's custom computer servers are designed to meet the precise needs of
+volume customers to reduce the customer's investments in logistics, integration
+capacity and support. SteelCloud's network security appliances are developed in
+collaboration with some of the world's premiere software companies. In addition,
+SteelCloud develops proprietary software to optimize the performance of its
+security appliances. SteelCloud's branded and co-branded appliances are
+specially designed and optimized to deliver a dedicated network service such as
+antivirus gateway protection, intrusion detection and secure content management.
+
+ The Company is focusing its efforts on the network security marketplace
+and on the creation of additional SteelCloud intellectual property. The Company
+is working toward the creation of its own family of hardened (highly secured)
+appliances to be delivered as co-branded appliances with its software partners.
+SteelCloud's primary business is to develop and manufacture products for
+strategic software, technology, and managed services partners that develop,
+implement and support Internet security and infrastructure solutions. With its
+strategic partners, the Company can create and uniquely brand ready-to-use
+turnkey network server appliance solutions combining both hardware and software.
+The Company integrates either its own, its partner's, or other third-party
+software into a custom designed server platform and manufactures the product
+under a co-branded name or its partner's brand name allowing the partner to
+deliver a complete turnkey solution. In addition to delivering computer
+products, the Company develops and manufactures specialized servers and
+infrastructure products for large commercial and government integrators as well
+as certain governmental agencies. The Company enhances its product development
+and manufacturing capability by providing custom supply chain and logistics
+support services to its partners.
+
+ The Company's consulting services organization provides clients with a
+seamless extension of their Information Technology ("IT") organizations. Expert
+technical services include network analysis, security, design, troubleshooting
+and implementation. SteelCloud provides IT support services to the public sector
+as well as commercial customers. In addition, the Company is also a value-added
+reseller for the software products of our strategic partners and certain other
+software providers.
+
+ The Company was incorporated as Dunn Computer Corporation in Virginia
+on February 26, 1998 in connection with the reorganization of Dunn Computer
+Corporation, a Delaware Corporation, which was incorporated on April 22, 1997.
+The Company's operating subsidiary, Dunn Computer Operating Company, was
+incorporated in Virginia in July 1987. The Company's other subsidiaries are
+International Data Products (IDP), acquired May 1998, STMS, Inc (STMS), acquired
+September 1997, and Puerto Rico Industrial Manufacturing Operations Acquisition
+Corporation (PRIMOA), incorporated in Puerto Rico in May 1998. In October 2002,
+the Company determined to discontinue the PRIMOA subsidiary and thereby executed
+a plan to dispose that operation. In September 2003, the Company sold the assets
+of PRIMOA and contracted with a local Puerto Rican firm to provide its warranty
+and support obligations for the duration of its contracts. Accordingly, the
+operation has been classified as "discontinued" in the financials statements for
+all years presented.
+
+ On September 25, 2000, the Company began doing business as ("d/b/a")
+SteelCloud Company. On October 19, 2000, the Company changed its NASDAQ ticker
+symbol from DNCC and began trading as SCLD. On May 15, 2001, the shareholders of
+the Company approved the name change of the Company to SteelCloud, Inc.
+effective on that date. In June 2003, the listing of the Company's shares of
+common stock was transferred from the Nasdaq National Market to the Nasdaq Small
+Cap Market. Unless the context otherwise requires, the "Company" or "Dunn
+Computer Corporation" refers to SteelCloud Inc., its predecessor and its
+subsidiaries. The principal executive offices are located at 1306 Squire Court,
+Dulles, Virginia 20166. The Company's main telephone number is (703) 450-0400.
+Inquiries may also be sent to SteelCloud at INFO@STEELCLOUD.COM for sales and
+general information or IR@STEELCLOUD.COM for investor relations information.
+
+-4-
+
+PRODUCTS AND SERVICES
+
+ The Company offers network appliances, infrastructure server products,
+and consulting services. The Company believes it operates in one segment,
+information technology.
+
+ NETWORK SERVER APPLIANCES: SteelCloud partners with leading software
+and technology companies to create uniquely branded, ready-to-use turnkey
+network server appliance solutions combining both hardware and software.
+SteelCloud integrates the partner's software onto a custom designed server
+platform, running Linux, FreeBSD, or Microsoft NT/2000. This process results in
+an optimized, tested, and certified appliance, unique to the partner, which is
+ready to deploy and use when it arrives at the customer site. The company has
+leveraged its years of experience developing and managing custom server
+platforms for mission-critical Department of Defense ("DOD") and security
+programs to create a unique model for its partners. The Company assembles a
+package of design, support, and logistical services that are custom tailored for
+each particular software company, thereby augmenting the partner's internal
+capabilities. In essence, SteelCloud takes responsibility for those tasks
+necessary to successfully bring an appliance to market, which are impractical
+for its software partners to perform.
+
+ The Company believes that its unique approach to the server appliance
+market (collaborating with leading software manufacturers and leveraging their
+significant product marketing and sales efforts) enables it to realize economies
+of scale in development, sales, and marketing far greater than its revenue would
+indicate under a more traditional strategy. The Company also believes that risks
+relating to R&D (research and development) and inventory are also greatly
+reduced through this approach.
+
+ INFRASTRUCTURE PRODUCTS: The Company designs, develops and manufactures
+specialized custom servers, which are configured with single, dual, or quad
+Intel Pentium or Xeon processors. These servers are designed to give its
+customers with unique requirements, the highest level of performance,
+reliability, and manageability available in the market today. The company
+combines its hardware offerings with specialized software integration and
+logistics programs to give its custom server customers unique solutions
+unavailable from the traditional hardware-only vendors.
+
+ The Company believes that its infrastructure/custom server products are
+best suited to address the high volume needs of the federal government. The
+Company teams with large federal integrators as its primary channel for
+delivering its specialized servers.
+
+ CONSULTING SERVICES: SteelCloud provides an array of consulting
+services surrounding the technologies addressed by its server appliances. The
+Company's consulting services include network and security analysis, design and
+implementation, as well as help desk consulting. These services are primarily
+delivered in the form of short-term (less than three months) projects. The
+Company's consulting services are performed for a fixed-fee or on an hourly
+labor basis at pre-negotiated rates and estimated levels of effort. SteelCloud
+is a value-added reseller for certain software products that are delivered in
+conjunction with its consulting services. In some cases, SteelCloud provides its
+appliance customers with additional technical services that complement their
+appliance implementation.
+
+ Specific project-based services SteelCloud performs include network
+analysis, network design, systems implementation, virus protection, network
+security, software migrations, messaging system migrations and complete help
+desk implementation and support. SteelCloud maintains expertise in specific
+areas and technologies rather than general knowledge in many IT areas.
+SteelCloud provides highly skilled professionals and services that leverage our
+experience for maximum benefit to the client. Project management is the key
+component of SteelCloud's operational strategy and success in project-based
+engagements to ensure each project is delivered in accordance with the
+customer's expectation and the Company's profitability objectives.
+
+ SteelCloud also provides network support services in the form of
+fixed-rate hourly engineering services. Client contracts range in duration from
+one month to three years. Staffing services consist of placing one or more
+network engineers, user support technicians, or programmers on-site with a
+client. These professionals perform work as a "virtual" employee for the client
+and typically work under the direction of the client's management. Hourly rates
+for staffing engagements are normally lower than for project-based engagements;
+however, the contracts usually have substantially longer periods of performance.
+SteelCloud's success in this area is achieved largely due to contract renewals
+and increasing staffing requirements from existing customers.
+
+-5-
+ 
+E>
+
+GOVERNMENT CONTRACTS
+
+ In fiscal 2003, the Company derived approximately 22 of its revenues
+from sales of hardware and services to the U.S. Federal Government pursuant to
+contracts with the General Services Administration (GSA) or other
+agency-specific contracts. Certain Government customers reserve the right to
+examine the Company's records as they relate to their contracts.
+
+ GSA CONTRACT. The Company has a multiple award schedule contract with
+GSA (the "GSA" Contract). The Company's GSA contract was originally awarded in
+April 1996. It was renewed in fiscal 2002 and is valid through March 31, 2007.
+The GSA contract enables Government IT purchasers to acquire all of their
+requirements from a particular vendor and largely limits the competition to
+selected vendors holding GSA contracts. For fiscal year 2003, the Company's GSA
+contract had sales of 7.4 million, which accounted for approximately 22 of the
+Company's revenues.
+
+COMMERCIAL CONTRACTS
+
+ In fiscal year 2003, SteelCloud derived approximately 78 of its
+revenues from sales of hardware and services to the commercial marketplace and
+state and local government. The Company's commercial customer base consists of
+several Fortune 500 companies as well as medium-size commercial customers. The
+Company generated approximately 8.1 million or 25 of its total net revenues
+from contracts and awards with Lockheed Martin during fiscal year 2003. The
+Company intends to continue to increase its commercial customer base in the
+upcoming fiscal year. The Company's Appliance Partner program and its own sales
+and marketing activities are concentrated on expanding the Company's commercial
+customer base. Strategic partnerships with industry leading companies such as
+Microsoft, Intel and Seagate enable the Company to further diversify its product
+mix and attract high quality customers.
+
+ In June 2003, the Company entered into an OEM agreement with Computer
+Associates International, Inc. to deliver a family of hardened, ready-to-deploy
+enterprise-class security appliance based on Computer Associates' eTrust
+technology which provides comprehensive threat management, identity management
+and access management across the full range of platforms and applications. The
+first set of appliances delivered under this agreement featured eTrust
+Antivirus, a powerful and cost-effective solutions for protecting enterprise
+environments from viruses and malicious code. The anti-virus gateway (AVG)
+appliance models 3000 and 5000 were available as of October 31, 2003. The
+anti-virus gateway (AVG) appliance model 1000, which is aimed at small to medium
+sized businesses, is scheduled for availability in early fiscal 2004. In
+addition, the Company is currently developing a family of intrusion detection
+system (IDS) appliances using Computer Associates' eTrust Intrusion Detection,
+which can identify attacks directed at customers' businesses and automatically
+mount effective defenses. The IDS appliances are scheduled for general
+availability in early 2004. The resulting products are different from previous
+SteelCloud appliances in that they are branded solutions integrated with the
+proprietary SteelCloud Secure Console (SC2) software.
+
+ In July 2003, the Company was selected by Lockheed Martin to supply
+specialized servers to the Automated Package Processing System (APPS) program
+that will upgrade the existing parcel processing capability of the U.S. Postal
+Service. The servers will be installed in more than 74 postal service locations.
+The contract has an initial estimated value of more than 2.8 million with
+contract options for an additional 3.2 million. The Company has shipped initial
+delivery orders for more than 100 systems and full production is expected to
+begin in fiscal year 2004. In addition, two of Lockheed Martin's subcontractors
+on the APPS program have placed initial orders with the Company in excess of
+ 250,000 with plans to order additional systems.
+
+ In July 2003, the Company signed an OEM agreement with Microsoft
+Corporation under which the Company's new line of branded security appliances
+developed around the Company's proprietary SC2 software which will utilize a
+special embedded version of Microsoft's Windows server. SteelCloud's contract
+with Microsoft protects its intellectual property interest in the SC2 software.
+
+ In September 2003, the Company entered into a distribution agreement to
+sell its hardened security appliances to value added resellers as well as end
+users in North America through Arrow Electronics, Inc. Arrow Electronics is one
+of the world's largest electronic distributors with approximately 7.4 billion
+in worldwide sales.
+
+-6-
+
+The Company anticipates that Arrow will provide its US Channel Partners with an
+efficient and effective means to purchase SteelCloud security appliances.
+Additionally, the Company anticipates that Arrow's supply-chain services will
+provide its reseller organizations in North America with the tools needed to
+market SteelCloud security appliances such as online ordering and reporting,
+financial services and product launch support.
+
+MANUFACTURING AND PRODUCTION
+
+ SteelCloud's production operations are capable of assembling 100,000
+systems per year in its existing Dulles, Virginia facility on a three-shift
+basis. The Company is currently operating on a single shift basis.
+
+COMPETITION AND MARKETING
+
+ The markets for the Company's products and services are highly
+competitive. Many of the Company's competitors offer broader product lines and
+may have greater financial, technical, marketing and other resources. These
+competitors may benefit from component volume purchasing and product and process
+technology license arrangements that are more favorable in terms of pricing and
+availability than the Company's arrangements.
+
+ The Company competes with a large number of computer systems
+integrators, custom computer manufacturers, resellers, and IT services
+companies. The Company believes it is likely that these competitive conditions
+will continue in the future. There can be no assurance the Company will continue
+to compete successfully against existing or new competitors that may enter
+markets in which the Company operates.
+
+ The Company's principal competitors are general-purpose server
+manufacturers including Nokia, Sun Microsystems and Dell. The Company also
+competes with system integrators such as Avnet and Pioneer Standard Electronics
+as well as smaller companies such as Network Engines that specialize in building
+server products and providing some level of integration services.
+
+ FEDERAL GOVERNMENT MARKET - The emergence of the GSA Schedule, which is
+a list of pre-approved vendors from which the Government and/or federal agencies
+may purchase goods and services, as a significant procurement vehicle has
+enabled traditional mass-market commercial computer companies to be more
+responsive to government requirements and become more competitive with the
+Company in the Federal Government Market. The Company believes that the
+Government's selection criteria for vendor selection consist of price, quality,
+familiarity with the vendor, and size and financial capability of the vendor.
+The government has increased the amount of information technology products
+acquired through the GSA Schedule. Because the Company primarily targets custom
+computer procurements, it rarely competes with national commercial computer
+manufacturers such as Dell Computer Corporation and Hewlett-Packard in the
+federal market.
+
+ COMMERCIAL MARKET - The information technology industry is highly
+competitive. Pricing is very aggressive in the industry and the Company expects
+pricing pressures to continue. The industry is also characterized by rapid
+changes in technology and customer preferences, short product life cycles and
+evolving industry standards.
+
+ The commercial market for the Company's IT products and services is a
+highly fragmented market served by thousands of small value-added resellers and
+specialized manufacturers. These companies typically service a small geographic
+area and resell national brand computer and/or network hardware. The Company
+believes its consulting services group can compete effectively in the
+Washington, DC metropolitan market because it provides engineering services in
+conjunction with its turnkey server appliances and products from its strategic
+partners; e.g., Cisco, Microsoft, and Intel. The Company believes that its
+ability to integrate its server systems with networking products also gives its
+consulting services group a competitive advantage.
+
+ In the OEM server appliance market, the principal elements of
+competition are product reliability, quality, customization, price, customer
+service, technical support, value-added services, and product availability.
+There can be no assurance that the Company will, in the future, be able to
+compete effectively against existing and future competitors.
+
+ MARKETING - The Company markets its products and services to software
+manufacturers, their channel partners, select commercial accounts, and the
+federal government. The Company uses an in-house sales force and program
+managers to market its products and services. SteelCloud markets its products
+and services worldwide, either directly through its own sales personnel, or
+through the marketing organizations of its appliance partners. The Company
+believes that marketing is important for all of its target markets, although
+less so in its appliance business because its success relies on the partner's
+sales and marketing capabilities.
+
+-7-
+
+The Company strives to build a strong relationship with its customers.
+The Company believes that a key to building customer loyalty is a team of
+knowledgeable and responsive account executives and a knowledgeable technical
+and support staff. The Company assigns each customer a trained account
+executive, to which subsequent calls to the Company will be directed. The
+account executive is augmented with a program manager for SteelCloud's larger
+customers. The Company believes that these strong one-on-one relationships
+improve the likelihood that the customer may consider the Company for future
+purchases. The Company intends to continue to provide its customers with
+products and technical services that offer the customer the best value.
+
+ The Company uses electronic commerce technologies in its marketing
+efforts and believes that its customers will continue to expand and utilize
+these technologies. The Internet is being used by customers to advertise
+opportunities and to reference vendor information. The Company maintains a web
+site on the Internet referencing its GSA catalogue and product offerings. The
+Company is capable of accepting sales and processing payments over the Internet.
+
+SUPPLIERS
+
+ The Company devotes significant resources to establishing and
+maintaining relationships with its key suppliers. The Company, where possible,
+purchases directly from component manufacturers such as Intel, Microsoft and
+Cisco among others. The Company also purchases multiple products directly from
+large national and regional distributors such as Arrow Electronics, TechData
+Corporation and Ingram Micro.
+
+ Certain suppliers provide the Company with incentives in the form of
+discounts, rebates, credits, and cooperative advertising, and market development
+funds. The Company must continue to obtain products at competitive prices from
+leading suppliers in order to provide competitively priced products for its
+customers. In the event the Company is unable to purchase components from
+existing suppliers, the Company has alternative suppliers it can rely upon. The
+Company believes its relationships with its key suppliers to be good and
+believes that generally, there are multiple sources of supply available should
+the need arise.
+
+PATENTS, TRADEMARKS AND LICENSES
+
+ The Company works closely with computer product suppliers and other
+technology developers to stay abreast of the latest developments in computer
+technology. While the Company does not believe its continued success depends
+upon the rights to a patent portfolio, there can be no assurance that the
+Company will continue to have access to existing or new technology for use in
+its products.
+
+ The Company conducts its business under the trademarks and service
+marks of "SteelCloud", "SteelCloud Company" and "Dunn Computer Corporation,".
+The Company believes its trademarks and service marks have significant value and
+are an important factor in the marketing of its products.
+
+ Because most software used on the Company's computers is not owned by
+the Company, the Company has entered into software licensing arrangements with
+several software manufacturers.
+
+EMPLOYEES
+
+ As of October 31, 2003, the Company had 88 employees. Of this total, 4
+were employed in an executive capacity, 10 in sales and marketing, 11 in
+administrative capacities, 47 in technical and/or services and 16 in operations.
+As of January 20, 2004, the Company had 91 employees. None of the Company's
+employees are covered by a collective bargaining agreement. The Company
+considers its relationships with its employees to be good.
+
+ The Company believes that its future success depends in large part upon
+its continued ability to attract and retain highly qualified management,
+technical, and sales personnel. The computer industry's shortage of trained and
+experienced technicians has eased over the past twelve months. The company has
+an in-house training and mentoring program to develop its own supply of highly
+qualified technical support specialists. There can be no assurance, however,
+that the Company will be able to attract and retain the qualified personnel
+necessary for its business.
+
+-8-
+
+ITEM 2. PROPERTIES
+
+ The Company leases approximately 35,000 square feet at its facility in
+Dulles, Virginia, which is used as its principal executive offices, for
+manufacturing and administrative services. Pursuant to the lease, which expires
+in February 2005, the Company pays approximately 29,000 per month in rent.
+SteelCloud believes that its facilities are adequate for its current and future
+operations.
+
+ In addition, we maintain sales offices in California and Massachusetts.
+We do not lease any space for these offices as our salespersons are based out of
+their respective residences.
+
+ITEM 3. LEGAL PROCEEDINGS
+
+ On July 31, 1998, the Company received notice from the SBA that it was
+denying the request of the U.S. Air Force to waive the requirement to terminate
+IDP's Desktop V contract for the convenience of the Government upon the change
+in control of IDP to the Company. The Company appealed the denial of the SBA to
+the SBA's Office of Hearings and Appeals. On August 31, 1999, the SBA denied the
+appeal and ruled that the U.S. Air Force must terminate-for-convenience the
+Desktop V contract. Prior to this ruling by the SBA, the U.S. Air Force
+determined not to exercise any of the remaining option years under the Desktop V
+contract on May 1, 1999. In October 1999, the U.S. Air Force issued a
+termination-for-convenience letter to the Company. Under a
+termination-for-convenience, the government is required generally to reimburse a
+contractor for all costs incurred in the performance of the contract. The
+Company is in the process of attempting to recover from the government a portion
+or all of unreimbursed costs associated with the Desktop V Contract. No
+assurances can be given that the Company will be successful in recovering any
+costs associated with this matter.
+
+ Other than the above, there are no material claims pending against the
+Company.
+
+ There are routine legal claims pending against the Company, but in the
+opinion of management, liabilities, if any, arising from such claims will not
+have a material adverse effect on the financial condition and results of
+operation of the Company.
+
+ITEM 4. SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS
+
+ There were no matters submitted to a vote of security holders during
+the fourth quarter of the fiscal year covered by this report.
+
+-9-
+
+PART II
+
+ITEM 5. MARKET FOR COMMON EQUITY AND RELATED STOCKHOLDER MATTERS
+
+MARKET INFORMATION
+
+ Prior to the quotation of the Company's Common Stock beginning on April
+22, 1997, there was no established trading market for the Company's common
+stock. The Company's Common Stock is listed on The Nasdaq Stock Market, Inc.'s
+SmallCap Market. The Company changed its symbol from "DNCC" to "SCLD" on October
+19, 2000. The following table sets forth the high and low selling prices as
+reported by The Nasdaq National Market System through June 30, 2003 and on the
+Nasdaq SmallCap Market from July 1, 2003 to January 23, 2004, for each fiscal
+quarter during the fiscal years ended October 31, 2003 and 2002, as well as for
+the first quarter of fiscal 2004 through January 23, 2004. These quotations
+reflect inter-dealer prices without retail mark-up, mark-down or commission and
+may not represent actual transactions.
+ FISCAL 2002
+ HIGH LOW
+ ----------------------
+
+First Quarter.......................................... 3.89 0.78
+Second Quarter......................................... 3.34 2.32
+Third Quarter.......................................... 3.50 1.62
+Fourth Quarter......................................... 2.15 0.87
+
+ FISCAL 2003
+ HIGH LOW
+ ----------------------
+
+First Quarter.......................................... 1.40 1.01
+Second Quarter......................................... 1.68 0.97
+Third Quarter.......................................... 3.47 1.26
+Fourth Quarter......................................... 5.36 3.14
+
+ FISCAL 2004
+ HIGH LOW
+ ----------------------
+
+First Quarter (through January 23, 2004)............... 5.12 3.87
+
+ On January 23, 2004 the closing price of the Company's Common Stock as
+reported on The Nasdaq SmallCap Market was 3.98 per share. There were
+approximately 5,100 shareholders of the Common Stock of the Company as of such
+date.
+
+ The Company has not paid cash dividends on its Common Stock and does
+not intend to do so in the foreseeable future.
+
+-10-
+
+RECENT SALES OF UNREGISTERED STOCK
+
+In March 2000, the Company sold 3,000 shares of its Series A
+Convertible Preferred Stock to one investor. In connection with the sale, the
+Company received an aggregate of 3,000,000. The shares of preferred stock were
+sold in reliance upon the exemption from registration provided by Regulation D
+Rule 506 of the Securities Act of 1933, as amended. In August 2001, the Company
+redeemed 2,620 shares of the Series A Convertible Preferred Stock which
+represented all of the then outstanding Preferred Stock.
+
+ In March 2000, the Company issued 225,000 shares of its common stock in
+connection with the settlement of a lawsuit with a former employee. The shares
+of common stock were issued in reliance upon the exemption from registration
+afforded by Section 4(2) of the Securities Act of 1933, as amended.
+
+ On October 24, 2003, SteelCloud, Inc. sold 1,887,500 shares of its
+common stock to private and institutional investors in a private placement
+transaction at a price of 4.00 per share. SteelCloud, Inc. received gross
+proceeds of 7,550,000 in connection with this transaction. Brean Murray & Co.,
+Inc. and Ferris, Baker Watts, Incorporated acted as co-placement agents in
+connection with this private offering. The co-placement agents received an
+aggregate of 437,500 and 107,422 warrants to purchase shares of our common
+stock as commissions in connection with this offering. Additionally, in
+connection with this transaction SteelCloud, Inc. issued an aggregate of 493,359
+and 85,938 warrants at an exercise price of 5.81 and 4.00 per share,
+respectively, which are exercisable until October 24, 2008. The securities were
+sold pursuant to an exemption from registration provided by section 4(2) of the
+Securities Act.
+
+-11-
+
+ITEM 6. SELECTED FINANCIAL DATA
+
+ SELECTED CONSOLIDATED FINANCIAL DATA
+ (IN THOUSANDS, EXCEPT PER SHARE DATA)
+
+ The following selected consolidated financial data of SteelCloud should
+be read in conjunction with the consolidated financial statements and the notes
+thereto and "Management's Discussion and Analysis of Financial Condition and
+Results of Operations". The consolidated statement of operations data set forth
+below with respect to the fiscal years ended October 31, 2001, 2002 and 2003 and
+the consolidated balance sheet data as of October 31, 2002 and 2003 is derived
+from and is referenced to the audited consolidated financial statements of
+SteelCloud included elsewhere in this Annual Report on Form 10-K. The
+consolidated statement of income data set forth below with respect to the fiscal
+years ended October 31, 1999, 2000 and 2001 and the consolidated balance sheet
+data as of October 31, 1999, 2000 and 2001 is derived from audited consolidated
+financial statements of SteelCloud not included in this annual report.
+
+YEAR ENDED OCTOBER 31,
+ 1999 2000 2001 2002 2003
+ ---------------------------------------------------------
+CONSOLIDATED STATEMENT OF OPERATIONS DATA: (2)
+ 
+Net revenues ............................................... 28,749 22,509 25,791 29,157 33,043
+Costs of revenues .......................................... 23,021 17,481 19,407 22,163 26,353
+Gross profit ............................................... 5,729 5,028 6,384 6,994 6,690
+Selling, general and administrative,
+ and amortization ......................................... 36,062 5,510 5,075 6,481 6,321
+(Loss) income from operations .............................. (30,333) (482) 1,309 513 369
+Other (expense) income, net ................................ (2,908) (123) (184) (222) (5)
+(Loss) income from continuing operations
+ before income taxes and extraordinary gain ............... (33,241) (606) 1,125 291 364
+(Benefit from) provision for income taxes .................. (559) 65 102 (280) --
+(Loss) income before extraordinary gain and
+ discontinued operations .................................. (32,683) (671) 1,023 571 364
+Extraordinary gain ......................................... -- 750 -- -- --
+Cumulative effect of change in accounting principle ........ -- -- (576) -- --
+Preferred stock dividends .................................. -- (625) (112) -- --
+Increase to income available to common stockholders from
+ repurchase of preferred stock ............................ -- -- 721 -- --
+Net (loss) income from discontinued operations ............. (924) 721 (9) (1,686) (144)
+Net (loss) income available to common stockholders ......... (33,607) 176 1,047 (1,115) 220
+Basic (loss) income per share (1) .......................... (3.57) 0.02 0.10 (0.11) 0.04
+(Loss) income per share assuming dilution (1) .............. (3.57) 0.02 0.08 (0.10) 0.03
+Weighted average shares outstanding (1) .................... 9,404 9,581 10,111 9,948 10,241
+Weighted average shares outstanding assuming dilution (1) .. 9,404 9,581 12,463 10,812 10,962
+Pro forma basic (loss) earnings per share
+ assuming the accounting change is applied retroactively .. (3.57) (0.04) 0.16 (0.11) 0.04
+Pro forma (loss) earnings per share assuming the accounting
+ change is applied retroactively, assuming dilution ....... (3.57) (0.04) 0.08 (0.10) 0.03
+
+AT OCTOBER 31,
+ 1999 2000 2001 2002 2003
+ ---------------------------------------------------------
+CONSOLIDATED BALANCE SHEET DATA: (2)
+Working (deficit) capital .................................. (1,239) 5,839 7,349 3,856 11,883
+Total assets ............................................... 22,287 23,005 17,134 17,633 19,761
+Long-term debt ............................................. 2,845 2,598 3,837 60 60
+Total liabilities .......................................... 17,470 14,149 9,736 10,876 5,027
+Stockholders' equity ....................................... 4,817 8,856 7,398 6,757 14,734
+
+- ------------
+ (1) Includes the activity of IDP from May 1, 1998 (date of acquisition).
+
+ (2) The selected financial data for each year presented has been restated
+ to reflect the Company's PRIMO operations as a discontinued operation.
+
+-12-
+
+ITEM 7. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND
+ RESULTS OF OPERATION
+
+ Certain statements contained herein may constitute forward-looking
+statements within the meaning of the Private Securities Litigation Reform Act of
+1995. Because such statements include risks and uncertainties, actual results
+may differ materially from those expressed or implied by such forward-looking
+statements. Factors that could cause actual results to differ materially
+include, but are not limited to, risks associated with the integration of
+businesses following an acquisition, competitors with broader product lines and
+greater resources, emergence into new markets, the termination of any of the
+Company's significant contracts, the Company's inability to maintain working
+capital requirements to fund future operations or the Company's inability to
+attract and retain highly qualified management, technical and sales personnel.
+
+OVERVIEW
+
+ Founded in 1987, SteelCloud, Inc, based in Dulles, Virginia, designs,
+develops and manufactures customized computer servers and network appliances.
+The Company's custom computer servers are designed to meet the precise needs of
+volume customers to reduce the customer's investments in logistics, integration
+capacity and support. The Company's network security appliances are developed in
+collaboration with some of the world's premiere software companies. In addition,
+the Company develops proprietary software to optimize the performance of its
+security appliances. The Company's appliances are specially designed and
+optimized to deliver a dedicated network service such as antivirus gateway
+protection, intrusion detection and secure content management.
+
+ In fiscal 2003, SteelCloud began focusing its efforts on the network
+security marketplace and on the creation of additional SteelCloud intellectual
+property. The Company is in the process of creating its own family of hardened
+(highly secured) appliances to be delivered as co-branded appliances with its
+software partners. With its strategic partners, SteelCloud creates and uniquely
+brands ready-to-use turnkey network server appliance solutions combining both
+hardware and software. The Company integrates its own, its partner's, or other
+third-party software, into a custom designed server platform. The Company
+manufactures the resulting product either under a co-branded name or its
+partner's brand name allowing the partner to deliver a complete turnkey
+solution. The Company enhances its product development and manufacturing
+capability by providing custom supply chain and logistics support services to
+its partners.
+
+ SteelCloud's consulting services organization provides clients with a
+seamless extension of their own IT organizations. Expert technical services
+include network analysis, security, design, troubleshooting and implementation.
+The Company provides Information Technology (IT) support services to the public
+sector as well as commercial customers. The Company is also a value-added
+reseller for the software products of its strategic partners and certain other
+software providers.
+
+FISCAL 2003
+
+PRODUCT DEVELOPMENT
+
+ In fiscal 2003, the Company undertook initiatives to enhance its
+product offerings and improve its margins. SteelCloud is developing a family of
+hardened (highly secured operating system) security appliances that will be
+offered as SteelCloud product or as co-branded appliances with its software
+partners. Accordingly, the Company commenced its research and development
+("R&D") activities associated with these new product offerings in the second
+quarter of fiscal 2003. The result of this work has been new appliance platforms
+that can be easily tailored to the needs of a particular software package or
+technology and SC2, SteelCloud's new proprietary secure management software.
+With the Company's goal of increasing margins, the Company expanded its
+appliance business model to encompass more direct control in the development and
+marketing of its appliances. Product packaging, including the appliance chassis,
+has become a major differentiating factor in the marketing of an appliance
+server. SteelCloud has increased its capability to develop both custom and
+standard chassis offerings for its clients. The Company believes that the
+intellectual property that it has developed will enable SteelCloud to be more
+competitive from a packaging perspective while decreasing the costs necessary to
+bring a product to market. During fiscal 2003, the Company incurred research and
+development costs of approximately 494,087 in support of its new business
+strategy. SteelCloud will continue to incur these costs as these products are
+brought to market. These products are different from previous SteelCloud
+appliances in that they are branded solutions integrated with its proprietary
+SteelCloud Secure Console (SC2) software.
+
+-13-
+
+In June 2003, the Company entered into an agreement with Computer
+Associates International, Inc. to deliver a family of hardened, ready-to-deploy
+enterprise-class security appliance for intrusion detection and antivirus
+gateway protection based on Computer Associates' eTrust technology. Computer
+Associates is one of the largest software companies in the world and delivers
+software and services that enable organizations to manage their IT environments.
+In July 2003, SteelCloud announced its first co-branded, anti-virus gateway
+(AVG, network security product in collaboration with Computer Associates
+International, Inc (CA) which was made available in September 2003. In August
+2003, SteelCloud expanded its agreement with Computer Associates to include the
+marketing of its security appliances in Europe, Asia Pacific, Africa and the
+Middle East.
+
+DISCONTINUED OPERATIONS
+
+ The Company continually evaluates operating facilities with regard to
+the Company's long-term strategic goals established by management and the Board
+of Directors. Operating facilities, which are not expected to contribute to the
+Company's future operations are either closed or sold. On October 25, 2002, the
+Company's management, with the approval of the Board of Directors, determined
+that the Puerto Rico Industrial Manufacturing Operation Acquisition, Corp
+("PRIMOA") would no longer contribute to future operations and therefore adopted
+a plan to dispose of that operation effective on that date. In September 2003,
+the Company sold the assets of the operation and contracted with a local firm to
+fulfill its warranty obligations through the end of the fiscal year.
+Accordingly, the Company has reflected PRIMO as discontinued operations in the
+current financial statements. As a result, prior year amounts have been
+reclassified to segregate the continuing operations from the discontinued
+operations. The loss associated with the discontinued operation was
+approximately 48,000 and 134,000 for the three and twelve-month periods ended
+October 31, 2003. The loss associated with the sale of PRIMO was approximately
+ 10,000. The Company does not anticipate additional losses associated with this
+operation in future periods. We believe that given the current environment of
+that market, discontinuing the operation was the best alternative.
+
+SIGNIFICANT CONTRACTS
+
+ In January 2002, the Company was awarded several contracts by Lockheed
+Martin valued at more than 10.5 million for customized servers. The Company
+commenced work under the contracts in March 2002 and completed the contracts in
+October 2003. For the three and twelve month periods ended October 31, 2003, the
+Company recognized revenue of approximately 1.2 million and 8.1 million under
+these contracts, respectively (or approximately 13 and 24 , respectively, of
+total net revenues). In addition, for the year ended October 31, 2003, the
+Company had other contracts with this same customer totaling approximately
+ 663,000 or 2 of its net revenues.
+
+ In July 2003, SteelCloud was selected by Lockheed Martin to supply
+specialized servers to the Automated Package Processing System (APPS) program
+that will upgrade the existing parcel processing capability of the U.S. Postal
+Service. The servers will be installed in more than 74 postal service locations.
+SteelCloud's contract has an initial estimated value of more than 2.8 million
+with contract options for an additional 3.2 million. The Company has shipped
+initial delivery orders for more than 100 systems and full production is
+expected to begin in fiscal 2004. Two of Lockheed Martin's subcontractors on the
+APPS program have also ordered approximately 250,000 in systems and have
+indicated plans to order additional systems.
+
+ In July 2003, SteelCloud signed an OEM agreement with Microsoft
+Corporation under which its new line of branded security appliances developed
+around its proprietary SC2 software will utilize a special embedded version of
+Microsoft's Windows server. SteelCloud's contract with Microsoft protects our
+intellectual property interest in the SC2 software.
+
+ In September 2003, the Company entered into an agreement to sell its
+hardened security appliances to reseller customers in North America through a
+distributor, Arrow Electronics, Inc. The Company anticipates that Arrow will
+provide its US Channel Partners with an efficient and effective means to
+purchase our security appliances. Additionally, the Company anticipates that
+Arrow's supply-chain services will provide its reseller organizations in North
+America with all the tools they need to market our security appliances, from
+online ordering and reporting to financial services to product launch support.
+
+-14-
+
+SALES OFFICE EXPANSION
+
+ The Company continues to maintain sales offices in California and
+Boston in order to meet the Company's growing demands. These office locations
+allow SteelCloud to expand its customer base and to develop and deploy new
+products for its customers to promote future revenue growth.
+
+IMPAIRMENT OF GOODWILL AND OTHER ASSETS
+
+ In fiscal 2003, the Company evaluated its acquired goodwill in
+accordance with Financial Accounting Standards Board (FASB) Statement No. 142
+for possible permanent impairment. As a result of the evaluation, the Company
+determined that no impairment charge was warranted.
+
+Fiscal 1999 Termination of a Significant Contract
+
+ On July 31, 1998, the Company received notice from the SBA that it was
+denying the request of the U.S. Air Force to waive the requirement to terminate
+IDP's Desktop V contract for the convenience of the Government upon the change
+in control of IDP to the Company. The Company appealed the denial of the SBA to
+the SBA's Office of Hearings and Appeals. On August 31, 1999, the SBA denied the
+appeal and ruled that the U.S. Air Force must terminate-for-convenience the
+Desktop V contract. On May 1, 1999, prior to the SBA ruling, the U.S. Air Force
+determined not to exercise any of the remaining option years under the Desktop V
+contract and terminated the contract for all participating vendors. Initially
+awarded to IDP, the Desktop V contract was the Company's largest contract.
+Management believed at the date of the IDP acquisition, the contract would be
+renewed by the government through fiscal year 2003 and would generate over 100
+million in revenues during that period. As a result of the termination of this
+contract, the recoverability of the Company's goodwill associated with the IDP
+acquisition was significantly impaired. Accordingly, management recorded an
+impairment charge of approximately 21 million during fiscal 1999.
+
+ In October 1999, the U.S. Air Force issued a termination-for-
+convenience letter to the Company. Under a termination-for-convenience, the
+government is required generally to reimburse a contractor for all costs
+incurred in the performance of the contract. The Company is in the process of
+attempting to recover from the government a portion or all of unreimbursed costs
+associated with the Desktop V Contract.
+
+CRITICAL ACCOUNTING POLICIES
+
+ The Company believes the following represent its critical accounting
+policies:
+
+REVENUE RECOGNITION
+
+ The Company recognizes revenue in accordance with SEC Staff Accounting
+Bulletin No. 101, REVENUE RECOGNITION IN FINANCIAL STATEMENTS (SAB 101), as
+amended by SAB 101A and 101B. SAB 101 requires that four basic criteria must be
+met before revenue can be recognized: (1) persuasive evidence of an arrangement
+exists; (2) delivery has occurred or services rendered; (3) the fee is fixed and
+determinable: and (4) collectibility is reasonably assured. Determination of
+criteria (3) and (4) are based on management's judgments regarding the fixed
+nature of the fee charged for services rendered and products delivered and the
+collectibility of those fees. Should changes in conditions cause management to
+determine these criteria are not met for certain future transactions, revenue
+recognized for any reporting period could be adversely affected.
+
+ Hardware products sold are generally covered by a warranty for periods
+ranging from one to three years. The Company accrues a warranty reserve for
+estimated costs to provide warranty services. The Company's estimate of costs to
+service its warranty obligations is based on historical experience and
+expectation of future conditions. To the extent the Company experiences
+increased warranty claim activity or increased costs associated with servicing
+those claims, its warranty accrual will increase resulting in decreased gross
+profit.
+
+ For technology support services under time and material contracts, the
+Company recognizes revenue as services are provided based on contracted rates
+and materials are delivered.
+
+-15-
+
+SEGMENT REPORTING
+
+ The company operates as one segment. The chief operating decision maker
+reviews the operations of the company as a whole in deciding how to allocate
+resources, and assess performance. In accordance with Financial Accounting
+Standards (SFAS No. 131) "Disclosures about Segments of an Enterprise and
+Related Information", the Company does not disclose segment information.
+
+RECENTLY ISSUED ACCOUNTING PRONOUNCEMENTS
+
+ In January 2003, the FASB issued Interpretation Number 46,
+Consolidation of Variable Interest Entities ("FIN 46"). This interpretation of
+Accounting Research Bulletin No. 51, Consolidated Financial Statements,
+addresses consolidation by business enterprises of variable interest entities.
+Under current practice, two enterprises generally have been included in
+consolidated financial statements because one enterprise controls the other
+through voting interests. FIN 46 defines the concept of "variable interests" and
+requires existing unconsolidated variable interest entities to be consolidated
+by their primary beneficiaries if the entities do not effectively disperse risks
+among the parties involved. This interpretation applies immediately to variable
+interest entities created after January 31, 2003. It applies in the first fiscal
+year or interim period beginning after June 15, 2003, to variable interest
+entities in which an enterprise holds a variable interest that it acquired
+before February 1, 2003. The interpretation may be applied prospectively with a
+cumulative-effect adjustment as of the date on which it is first applied or by
+restating previously issued financial statements for one or more years with a
+cumulative-effect adjustment as of the beginning of the first year restated.
+Adoption of this standard is not expected to have a material effect on the
+Company's financial statements.
+
+ In April 2003, the FASB issued SFAS No. 149, "Amendment of Statement
+133 on Derivative Instruments and Hedging Activities." SFAS No. 149 amends and
+clarifies accounting and reporting for derivative instruments and hedging
+activities under SFAS No. 133, "Accounting for Derivative Instruments and
+Hedging Activities." SFAS No. 149 is effective for derivative instruments and
+hedging activities entered into or modified after June 30, 2003, except for
+certain forward purchase and sale securities. For these forward purchase and
+sale securities, SFAS No. 149 is effective for both new and existing securities
+after June 30, 2003. Adoption is not expected to have a material impact on the
+Company's financial statements.
+
+ In May 2003, the Financial Accounting Standards Board (FASB) issued
+SFAS No. 150, "Accounting for Certain Financial Instruments with Characteristics
+of both Liabilities and Equity." SFAS No. 150 establishes standards for issuer
+classification and measurement of certain financial instruments with
+characteristics of both liabilities and equity. Instruments that fall within the
+scope of SFAS No. 150 must be classified as a liability. Most of the guidance in
+SFAS 150 is effective for financial instruments entered into or modified after
+May 31, 2003, and otherwise is effective at the beginning of the first interim
+period beginning after June 15, 2003. On November 7, 2003, the provisions of
+SFAS 150, relating to mandatorily redeemable non-controlling interest, were
+deferred indefinitely. Adoption of this standard is not expected to have a
+material effect on the Company's financial statements.
+
+ In December 2002, the EITF issued EITF 00-21, Revenue Arrangements with
+Multiple Deliverables. This Issue addresses certain aspects of the accounting by
+a vendor for arrangements under which it will perform multiple
+revenue-generating activities. In some arrangements, the different
+revenue-generating activities (deliverables) are sufficiently separable, and
+there exists sufficient evidence of their fair values to separately account for
+some or all of the deliverables (that is, there are separate units of
+accounting). In other arrangements, some or all of the deliverables are not
+independently functional, or there is not sufficient evidence of their fair
+values to account for them separately. This Issue addresses when and, if so, how
+an arrangement involving multiple deliverables should be divided into separate
+units of accounting. This Issue does not change otherwise applicable revenue
+recognition criteria. The provisions of EITF 00-21 are effective for revenue
+arrangements entered into in fiscal periods beginning after June 15, 2003.
+Management is currently assessing the impact of the adoption of EITF 00-21 on
+the Company's financial statements.
+
+-16-
+
+ACCOUNTING FOR INCOME TAXES
+
+ The Company accounts for income taxes using the liability method. In
+doing so, the future tax consequences of temporary differences and net operating
+losses result in deferred tax assets and liabilities, subject to a valuation
+allowance against deferred tax assets when realization is uncertain. As of
+October 31, 2003, the Company has recorded a valuation allowance of
+approximately 13 million against the total deferred tax asset of 13.4 million,
+based upon its evaluation of future estimates of taxable income. The Company's
+evaluation included consideration of historical earnings (excluding
+non-recurring charges) as well as projected near-term earnings based on its
+backlog, customer relationships and operating environment.
+
+-17-
+
+RESULTS OF OPERATIONS
+
+ The following table sets forth for the fiscal years ended October 31,
+1999, 2000, 2001, 2002 and 2003, certain income and expense items of SteelCloud
+as a percentage of net revenues.
+
+1999 2000 2001 2002 2003
+ ---------------------------------------------------------
+
+Net revenues........................................ 100.00 100.00 100.00 100.00 100.00 
+Costs of revenues................................... 80.08 77.66 75.25 76.01 79.76 
+Gross profit........................................ 19.93 22.34 24.75 23.99 20.24 
+Selling, general and administrative and amortization 125.43 24.48 19.68 22.23 19.13 
+(Loss) income from operations....................... (105.51) (2.14) 5.08 1.76 1.11 
+Other (expense) income.............................. (10.12) (0.55) (0.71) (0.76) 0.01 
+(Loss) income before income taxes................... (115.62) (2.69) 4.36 1.00 1.00 
+(Benefit from) provision for income taxes........... (1.94) 0.29 0.40 (0.96) 0.00 
+(Loss) income from discontinued operations.......... (3.21 3.20 (0.03) (5.78) (0.44) 
+Net (Loss) income to common stockholders............ (116.90) 0.78 4.06 (3.82) 0.67 
+
+FISCAL YEAR ENDED OCTOBER 31, 2003 COMPARED TO FISCAL YEAR ENDED
+OCTOBER 31, 2002
+
+ Net revenues of SteelCloud for fiscal year ended October 31, 2003
+("fiscal 2003") increased approximately 13 to 33.0 million from 29.2 million
+for fiscal year ended October 31, 2002 ("fiscal 2002"). The increase was
+primarily the result of increased deliveries on the Company's 10 million server
+appliance contract with Lockheed Martin. Revenues under this contract were
+approximately 8.1 million in fiscal 2003 compared to 2.4 million in fiscal
+2002. This contract was completed in October 2003. The Company is anticipating
+additional orders under this contract in fiscal 2004; however, no assurances can
+be given that the Company will receive such orders. During fiscal 2003, the
+Company derived approximately 24 of its revenues from Lockheed Martin. In
+addition, revenues under the Company's GSA schedule increased by approximately
+ 3.8 million in fiscal 2003. The Company also experienced revenue growth in its
+OEM products, reselling activities and consulting services during fiscal 2003.
+These increases offset the decrease in revenue from one of the Company's
+significant customers in the previous fiscal year, Network Associates, for which
+its supply agreement expired on December 31, 2002. Revenues from this agreement
+were approximately 10 million in fiscal 2002 compared to 527,000 in fiscal
+2003. The increase in revenues was the result of the Company's efforts to expand
+its sales force and diversify its revenue sources.
+
+ Gross profit for fiscal 2003 decreased by approximately 4 to
+approximately 6.7 million from 7.0 million in fiscal 2002. The decrease was
+primarily the result of the Company's increase in its reselling activities
+during fiscal 2003, which yield lower margins. Gross profit as a percentage of
+net revenues during the same periods decreased to 20.2 from 24.0 , which was
+also primarily attributable to the increase in the Company's reselling
+activities.
+
+ Selling and marketing expense increased moderately in fiscal 2003 by 7 
+to approximately 1.28 million from approximately 1.2 million for fiscal 2002.
+The increase reflects additional marketing and advertising expenditures
+associated with the Company's new branded products. Selling and marketing
+expense as a percentage of net revenues was unchanged, at 4 in fiscal 2003 and
+fiscal 2002 respectively.
+
+ General and administrative expense for fiscal 2003 decreased 5 to
+ 4.55 million from 4.77 million for fiscal 2002. As a percentage of net
+revenues, general and administrative expense slightly decreased to 14 for
+fiscal 2003 from 16 for fiscal 2002. This decrease was a result of the
+Company's revenue growth in fiscal 2003. The general and administrative expense
+decrease during fiscal 2003 was attributable to the reversal of a previously
+accrued contingency of approximately 250,000. The Company continues to manage
+general and administrative costs relative to its net revenue and gross margin.
+
+ In fiscal 2002 the Company recorded an impairment charge of
+approximately 132,000 related to its remaining goodwill of International Data
+Products ("IDP") as the Company had determined that it was permanently impaired.
+The remaining intangible assets related to certain contract rights, which have
+been fully amortized. The useful life of those contracts has expired. In
+addition, the Company recorded an impairment charge of
+
+-18-
+
+approximately 165,000 related to its goodwill acquired in the purchase of
+Puerto Rico Industrial Manufacturing Operations ("PRIMO") as that operation was
+discontinued in October 2002. The impairment charge for PRIMO goodwill was
+included in discontinued operations. In fiscal 2003, the Company did not record
+any impairment charges related to its remaining goodwill.
+
+ Other expense, including interest, for fiscal 2003 decreased to
+approximately 4,700 from approximately 222,000 for fiscal 2002. The decrease
+was a result of the Company's ability to fund operations through cash generated
+from operations, and not from utilizing the Company's line of credit. In fiscal
+2002, the Company recorded a one-time charge of 150,000, to reflect the
+permanent decline in market value of its investment in WIZnet, a private entity,
+based on its performance.
+
+ Net income available to common shareholders increased in fiscal 2003 to
+ 219,988 from (1,115,186) in fiscal 2002. Fiscal 2002 net income included a
+loss from discontinued operations of approximately 1.7 million, and
+approximately 279,800 of income tax benefit. The Company currently has
+approximately 32.6 million in Net Operating Loss ("NOL") carryforwards, which
+may be used to offset future income. The 13.4 million deferred tax asset was
+fully reserved prior to October 31, 2003. As of October 31, 2003, a deferred tax
+asset of 400,000 was recognized based on fiscal 2004 estimated taxable income
+for which it may offset. Approximately 32.6 million of NOLs remain fully
+reserved as of October 31, 2003. This reserve will be released in future periods
+if and when the Company determines it is more likely than not that additional
+deferred tax assets will be recovered.
+
+FISCAL YEAR ENDED OCTOBER 31, 2002 COMPARED TO FISCAL YEAR ENDED
+OCTOBER 31, 2001
+
+ Net revenues of SteelCloud for fiscal year ended October 31, 2002
+("fiscal 2002") increased approximately 13 to 29.2 million from 25.8 million
+for fiscal year ended October 31, 2001 ("fiscal 2001"). The increase was due to
+the commencement of a significant contract with Lockheed Martin in January 2002.
+The Company recognized approximately 2.5 million under the 10.5 million
+contract. The Company anticipates completion of this contract in July 2003;
+however, the Company is discussing other contracts with this customer, which
+could result in additional orders. No assurances can be given that such
+discussions will result in follow-on orders from this customer. As of October
+31, 2002, the Company had unearned revenue of approximately 4.5 million, which
+primarily consisted of goods associated with the Lockheed Martin contract for
+which the Company received milestone payments. In addition, the Company
+experienced growth in its OEM sales, consulting services sales and Federal
+Government sales in fiscal 2002 as a result of its focus on those markets.
+During Fiscal 2002, the Company derived approximately 64 of its revenues from
+two customers.
+
+ During fiscal 2002, the Company's revenues from its reselling
+activities increased to approximately 2.4 million from approximately 2.1
+million in fiscal 2001. The increase is a result of the Company's partnerships
+with certain software companies.
+
+ Gross profit for fiscal 2002 increased by approximately 10 to 7.0
+million from 6.4 million in fiscal 2001. The increase is the result of the
+Company's revenue growth as both sales and gross profit had double digit
+increases in fiscal 2002. Gross profit as a percentage of net revenues during
+the same periods decreased slightly to 24.0 from 24.8 , which was the result of
+a downward economy and the Company's effort to be more aggressive in its
+margins. In addition, gross margin in fiscal 2002 was negatively impacted by
+ 526,000 for inventory obsolescence and shrinkage.
+
+ Selling and marketing expense significantly increased in fiscal 2002 by
+64 to approximately 1.2 million from approximately 725,000 for fiscal 2001.
+During fiscal 2002, the Company opened regional sales offices in California and
+Massachusetts in its efforts to expand markets and produce revenue growth.
+Selling and marketing expense as a percentage of net revenues, increased 1 in
+fiscal 2002 to 4 from 3 in fiscal 2001.
+
+ General and administrative expense for fiscal 2002 increased 21 to
+ 4.8 million from 4.0 million for fiscal 2001. As a percentage of net revenues,
+general and administrative expense slightly increased to 16 for fiscal 2002
+from 15 for fiscal 2001. This increase was a result of the Company's revenue
+growth in fiscal 2002. In addition, fiscal 2001 general and administrative
+expenses were significantly reduced as the Company settled certain liabilities
+for amounts less than previously recorded. Accordingly, all previously recorded
+accruals were reversed as a result of the settlement, which reduced general and
+administrative expenses. The Company will continue to manage general and
+administrative costs relative to its net revenue and gross margin.
+
+-19-
+
+In fiscal 2002 the Company recorded an impairment charge of
+approximately 132,000 related to its remaining goodwill of International Data
+Products ("IDP") as the Company had determined that it was permanently impaired.
+The remaining goodwill related to certain contracts, which had matured/expired
+in fiscal 2002. In addition, the Company recorded an impairment charge of
+approximately 165,000 related to its goodwill acquired in the purchase of
+Puerto Rico Industrial Manufacturing Operations ("PRIMO") as that operation was
+discontinued in October 2002. The impairment charge for PRIMO goodwill was
+included in discontinued operations.
+
+ Other expense, including interest, for fiscal 2002 increased to
+approximately 222,000 from approximately 184,000 for fiscal 2001. Interest
+expense, net decreased by approximately 54 to 73,000 in fiscal 2002 from
+ 158,000 in fiscal 2001. This was a result of the Company's significant
+reduction in its outstanding debt as well as a continual decline in short-term
+borrowing rates throughout fiscal 2002. In fiscal 2002, the Company recorded a
+one-time charge of 150,000, to reflect the permanent decline in market value
+for its investment in WIZnet, a private entity, based on its current
+performance.
+
+ Net income available to common shareholders decreased approximately
+207 in fiscal 2002 to (1,115,185) from 1,047,041 in fiscal 2001. Included in
+net income is approximately 279,800 of income tax benefit. The Company has
+approximately 11 million in Net Operating Loss ("NOL") carryforwards, which may
+be used to offset future income. The 11 million deferred tax asset was fully
+reserved prior to October 31, 2002. As of October 31, 2002, a deferred tax asset
+of 400,000 was recognized based on fiscal 2003 estimated taxable income for
+which it may offset. A portion of the resulting tax benefit associated with the
+tax deductions relating to stock options exercised were credited to stockholders
+equity. Approximately 10.6 million of NOLs remain fully reserved as of October
+31, 2002. This reserve will be released in future periods as the company
+continues to generate taxable income for which the asset will be used to offset.
+
+ Fiscal 2001 net income available to common shareholders includes
+certain one-time and non-recurring increases to income available to common
+stockholders of 721,816 relating to the Series A Convertible Preferred Stock
+private placement with Briarcliff Investors LLC, which closed in March 2000 and
+the redemption of those preferred shares in August 2001 for 2.5 million. Net
+income available to common shareholders is also comprised of the accumulating 5 
+dividends on the Series A Convertible Preferred Stock for the period those
+shares were outstanding.
+
+LIQUIDITY AND CAPITAL RESOURCES
+
+ As of October 31, 2003, the Company had cash and cash equivalents of
+approximately 8.1 million and working capital of approximately 11.9 million.
+The Company believes cash on hand together with cash generated from operations
+will provide sufficient financial resources to finance current operations of the
+Company through fiscal 2004.
+
+ In fiscal 2003, the Company generated approximately 140,000 in cash
+flow from operating activities of continuing operations. The Company generated
+net income from continuing operations of approximately 364,000 collected
+accounts receivable of approximately 750,000, sold inventory of approximately
+ 1.4 million and recognized deferred contract costs of approximately 2.0
+million. The cash generated was used primarily to pay accounts payable and
+accrued expenses of approximately 488,000. In addition, the Company recognized
+deferred revenue of approximately 4.2 million.
+
+ The Company's investing activities consisted of the purchases of
+approximately 228,000 for property and equipment.
+
+ The Company's financing activities during fiscal 2003 were provided
+primarily by the Company's issuance of common stock, and proceeds from the
+exercise of common stock options. Issuance of the Company's common stock
+generated approximately 7.4 million, net of expenses. Proceeds from the
+exercise of common stock options generated approximately 366,000. The Company
+did not materially rely on its bank line of credit during fiscal 2003. The line
+of credit expires on March 31, 2004 and currently bears interest at the lower of
+(a) prime or (b) the LIBOR Market Index Rate plus two and one-half percent. As
+of December 31, 2003, the Company had an outstanding balance on the line of
+credit of approximately 0 and available borrowing capacity of approximately
+ 3.5 million.
+
+-20-
+
+In February 2002, the Company executed a promissory note in conjunction
+with its line of credit in the amount of 725,000. The note's interest was at
+the lower of (a) the Lender's Prime Rate per annum or (b) the LIBOR Market Index
+Rate plus 2.5 and matured on July 5, 2003. The Company made monthly principal
+payments of approximately 43,000. In July 2003, the Company extinguished its
+debt and repaid the loan in its entirety.
+
+On October 24, 2003, the Company sold 1,887,500 shares of its common
+stock to private and institutional investors in a private placement transaction
+at a price of 4.00 per share. SteelCloud, Inc. received gross proceeds of
+ 7,550,000 in connection with this transaction. Brean Murray & Co., Inc. and
+Ferris, Baker Watts, Incorporated acted as co-placement agents in connection
+with this private offering. The co-placement agents received an aggregate of
+ 437,500 and 107,422 warrants to purchase shares of our common stock as
+commissions in connection with this offering. Additionally, in connection with
+this transaction the Company issued an aggregate of 493,359 and 85,938 warrants
+at an exercise price of 5.81 and 4.00 per share, respectively, which are
+exercisable until October 24, 2008. The securities were sold pursuant to an
+exemption from registration provided by section 4(2) of the Securities Act.
+
+ In fiscal 2003, the Company received proceeds from the exercise of
+stock options of approximately 366,000. Approximately 570,000 shares of common
+stock were issued upon the exercise of these stock options.
+
+ The Company has obligations under its operating lease commitments of
+approximately 363,549 for fiscal 2004.
+
+ From time to time, the Company may pursue strategic acquisitions or
+mergers, which may require significant additional capital. In such event, the
+Company may seek additional financing of debt and/or equity.
+
+OFF-BALANCE SHEET ARRANGEMENTS
+
+CONTRACTUAL OBLIGATIONS AND COMMERCIAL COMMITMENTS
+
+ The Company's significant contractual obligations as of October 31,
+2003 are for debt and operating leases. Debt by year of maturity and future
+rental payments under operating lease agreements are presented below. As of
+October 31, 2003, the Company does not have an outstanding balance on its line
+of credit and does not have any purchase obligations. The Company has not
+engaged in off-balance sheet financing, commodity contract trading or
+significant related party transactions.
+
+- -------------------------- ------------------------------------------------------------------------------
+CONTRACTUAL OBLIGATIONS PAYMENTS DUE BY PERIOD
+
+- -------------------------- ------------------------------------------------------------------------------
+ Total Less than 1 1-3 years 4-5 years After 5
+ year years
+- -------------------------- ----------------- ---------------- --------------- ------------- -------------
+ 
+Notes payable - current 96,133 96,133 - - -
+- -------------------------- ----------------- ---------------- --------------- ------------- -------------
+Notes payable - long term 59,922 - 45,224 14,698 -
+- -------------------------- ----------------- ---------------- --------------- ------------- -------------
+Operating lease 455,103 363,549 91,554 - -
+- -------------------------- ----------------- ---------------- --------------- ------------- -------------
+
+-21-
+
+ITEM 7A. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
+
+ The Company is exposed to market risk related to fluctuations in
+interest rates on its debt. Increase in prevailing interest rates could increase
+the Company's interest payment obligations relating to variable rate debt. For
+example, a 100 basis point increase in interest rates would increase annual
+interest expense by 38,000.
+
+ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA
+
+FINANCIAL STATEMENTS OF STEELCLOUD, INC.
+
+ PAGE
+Report of Grant Thornton LLP, Independent Auditors...................... F-1
+Report of Ernst & Young LLP, Independent Auditors....................... F-2
+Consolidated Balance Sheets............................................. F-3
+Consolidated Statements of Operations................................... F-4
+Consolidated Statements of Stockholders' Equity......................... F-5
+Consolidated Statements of Cash Flows................................... F-6
+Notes to the Consolidated Financial Statements.......................... F-7
+
+ITEM 9. CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND
+ FINANCIAL ISSUES
+
+ On October 10, 2002, SteelCloud, Inc. (the "Company") dismissed Ernst &
+Young LLP ("E&Y") as its independent certified public accountants. During the
+fiscal years ended October 31, 2001 and 2000 the reports by Ernst & Young LLP on
+the financial statements of the Company did not contain an adverse opinion or a
+disclaimer of opinion, or was qualified or modified as to uncertainty, audit
+scope, or accounting principles. During the Company's two most recent fiscal
+years and subsequent period up to October 10, 2002, there were no disagreements
+with the former accountant on any matter of accounting principles or practices,
+financial statement disclosure, or auditing scope or procedure, which
+disagreements if not resolved to their satisfaction would have caused them to
+make reference in connection with their opinion to the subject matter of the
+disagreement, other than the matter discussed below.
+
+ As discussed on the Company's quarterly financial conference call held
+on June 6, 2002, during the quarter ended April 30, 2002, the Company and Ernst
+& Young LLP had a difference of opinion with respect to revenue recognition
+relating to a contractual arrangement between the Company and one of its
+customers for the delivery of assembled computer units. The arrangement provides
+the customer with the ability to order and pay for certain components to be
+included in the units prior to delivery of the completed units. Ernst & Young
+LLP concluded that the payments received from the customer relating to such
+components should be deferred and recognized as revenue concurrent with the
+delivery of the completed units as delivery of the components had not yet
+occurred, and there remained services to be rendered and obligations to be
+satisfied. Ernst & Young LLP discussed this matter with members of the Audit
+Committee and members of the Board of Directors. After management discussed
+Ernst & Young LLP's opinion with members of the Company's Audit Committee, the
+Company accepted Ernst & Young LLP's opinion and adopted the accounting
+treatment suggested by Ernst & Young LLP with respect to revenue recognition in
+connection with this matter and does not continue to have a difference of
+opinion with Ernst & Young with respect to this matter.
+
+ On October 11, 2002, upon receipt of approval of the Audit Committee of
+the Company's Board of Directors, the Company engaged Grant Thornton LLP to
+serve as the Company's independent certified public accountants. Prior to
+October 11, 2002, the Company did not consult with Grant Thornton LLP on any
+accounting or auditing issues.
+
+-22-
+
+ITEM 9A. CONTROLS AND PROCEDURES
+
+EVALUATION OF DISCLOSURE CONTROLS AND PROCEDURES. Our management, with
+the participation of our principal executive officer and principal financial
+officer, has evaluated the effectiveness of our disclosure controls and
+procedures (as such term is defined in Rules 13a-15(e) and 15d-15(e) under the
+Securities Exchange Act of 1934, as amended (the "Exchange Act")) pursuant to
+Rule 13a-15(c) under the Exchange Act as of the end of the period covered by
+this Annual Report on Form 10-K. Based on this evaluation, our Chief Executive
+Officer and Chief Financial Officer have concluded that, as of such date, our
+disclosure controls and procedures are effective to provide reasonable assurance
+that information required to be disclosed by us in reports that we file or
+submit under the Exchange Act is recorded, processed, summarized and reported
+within the time periods specified in applicable SEC rules and forms.
+
+ CHANGES IN INTERNAL CONTROL OVER FINANCIAL REPORTING. There was no
+change in our internal control over financial reporting (as defined in Rules
+13a-15(f) and 15d-15(f) under the Exchange Act) that occurred during the period
+covered by this Annual Report on Form 10-K that has materially affected, or is
+reasonably likely to materially affect, our internal control over financial
+reporting.
+
+-23-
+
+PART III
+
+ The Notice and Proxy Statement for the 2003 Annual Meeting of
+Stockholders to be filed pursuant to Regulation 14A under the Securities and
+Exchange Act of 1934, as amended, which is incorporated by reference in this
+Annual Report on Form 10-K pursuant to General Instruction G (3) of Form 10-K,
+will provide the information required under Part III, including Item 10
+(directors and executive officers of the Company), Item 11 (Executive
+Compensation), Item 12 (security ownership of certain beneficial owners and
+management), and Item 13 (certain relationships and related transactions), which
+will be filed within 120 days after the end of the fiscal year covered by this
+Form 10-K.
+
+ITEM 15. EXHIBITS, FINANCIAL STATEMENTS SCHEDULES, AND REPORTS ON FORM 8-K
+
+(a) The following documents are filed as part of this report
+
+1. Financial Statements SteelCloud, Inc.
+ Report of Grant Thornton LLP, Independent Auditors
+ Report of Ernst & Young LLP, Independent Auditors
+ Consolidated Balance Sheets as of October 31, 2002 and 2003
+ Consolidated Statements of Operations for the three years ended
+ October 31, 2003
+ Consolidated Statements of Stockholders' Equity for the three
+ years ended October 31, 2003
+ Consolidated Statements of Cash Flows for the three years ended
+ October 31, 2003
+ Notes to Consolidated Financial Statements
+
+2. Financial Statement Schedules
+ Schedule II Valuation and Qualifying Accounts
+
+ Statements not listed above have been omitted because they are not
+ applicable or the information required to be set forth therein is
+ included in the Consolidated Financial Statements or the notes thereto
+ under Item 8.
+
+(b) Reports on Form 8-K
+
+ On September 11, 2003, the Company filed a report on Form 8-K pursuant
+ to Items 7 and 12. On October 28, 2003, the Company filed a report on
+ Form 8-K pursuant to Items 5 and 7. On October 29, 2003, the Company
+ filed a report on Form 8-K pursuant to Item 7.
+
+(c) Exhibits.
+
+ EXHIBIT DESCRIPTION
+ NUMBER
+
+ 3.1 Articles of Incorporation of the Company, dated February 25, 1998, and
+ effective as of February 26, 1998. (Filed as Exhibit 3.1 to the
+ Company's Registration Statement on Form S-1, Amendment No. 1, dated
+ April 23, 1998 (File No. 333-47631) and hereby incorporated by
+ reference.)
+ 3.2 By-laws of the Company, effective as of March 5, 1998. (Filed as
+ Exhibit 3.2 to the Company's Registration Statement on Form S-1,
+ Amendment No. 2, dated April 23, 1998 (File No. 333-47631) and hereby
+ incorporated by reference.)
+ 4.1 Specimen common stock certificate for the Company. (Filed as Exhibit
+ 4.1 to the Company's Registration Statement on Form S-1, Amendment No.
+ 2, dated April 23, 1998 (File No. 333-47631) and hereby incorporated
+ by reference.)
+ 10.8 Employment Agreement by and between Dunn and Thomas P. Dunne (Filed as
+ Exhibit 99.2 to Dunn's Registration Statement on Form SB-2, Amendment
+ 2, dated April 4, 1997 (File No. 333-19635) and hereby incorporated by
+ reference).
+
+-24-
+
+10.10 Deed of Lease, dated February 7, 1997, between APA Properties No. 6
+ L.P. and STMS, Inc. and First Amendment thereto, dated July 23, 1997
+ (Filed as Exhibit 10.10 to Dunn's Form 10-KSB, dated January 30, 1998
+ (File No. 0-22263) and hereby incorporated by reference).
+ 10.11 1997 Stock Option Plan, as amended. (Filed as Exhibit 10.11 to the
+ Company's Registration Statement on Form S-1, Amendment No. 2, dated
+ April 23, 1998 (File No. 333-47631) and hereby incorporated by
+ reference.)
+ 10.13 Agreement, dated May 5, 1997, by and between International Data
+ Products, Corp. and the U.S. Air Force, the Desktop V Contract. (Filed
+ as Exhibit 10.13 to the Company's Registration Statement on Form S-1,
+ Amendment No. 2, dated April 23, 1998 (File No. 333-47631) and hereby
+ incorporated by reference.)
+ 10.16 Deed of Lease, dated July 15, 1994, between Puerto Rico Industrial
+ Development Company and Puerto Rico Industrial Manufacturing
+ Operations, Corp. (Filed as Exhibit 10.16 to the Company's
+ Registration Statement on Form S-1, Amendment No. 2, dated April 23,
+ 1998 (File No. 333-47631) and hereby incorporated by reference.)
+ 10.22 Employee Stock Purchase Plan.
+ 10.25 Termination agreement, Promissory Note, dated December 29, 1999 by and
+ between Dunn and Deutsche Financial Services.
+ 10.26 Loan and Security Agreement, dated May 27, 1999 by and between Dunn
+ and First Union Commercial Corporation.
+ 10.27 Modification Agreement dated February 11, 2000 by and between Dunn and
+ First Union National Bank.
+ 10.29 Modification Agreement dated January 18, 2002 by and between
+ SteelCloud, Inc. and First Union National Bank.
+ 10.30 Second Modification Agreement dated March 31, 2003, by and between
+ Steel Cloud, Inc., a Virginia Corporation, Dunn Computer Corporation,
+ a Delaware corporation, International Data Products, Corp., STMS,
+ Inc., Puerto Rico Industrial Manufacturing Operations Acquisition,
+ Corp. and Dunn Computer Operating Company (collectively, the
+ "Borrower") and Wachovia Bank, National Association, formerly known as
+ First Union National Bank.
+ 11.1 Statement of Computation of Earnings Per Share.
+ 21.1 List of Subsidiaries.
+ 23.1 Consent of Grant Thornton LLP, Independent Auditors.
+ 23.2 Consent of Ernst & Young LLP, Independent Auditors.
+ 31.1 Certification of Chief Executive Officer Pursuant to Section 302 of
+ the Sarbanes-Oxley Act of 2002
+ 31.2 Certification of Vice President, Finance Pursuant to Section 302 of
+ the Sarbanes-Oxley Act of 2002
+ 32.1 Certification Pursuant to 18 U.S.C. Section 1350, as adopted pursuant
+ to Section 906 of the Sarbanes - Oxley Act of 2002
+ 32.2 Certification Pursuant to 18 U.S.C. Section 1350, as adopted pursuant
+ to Section 906 of the Sarbanes - Oxley Act of 2002
+
+- -----------
+
+ Filed herewith
+ Previously filed.
+
+-25-
+
+SIGNATURES
+
+ Pursuant to the requirements of Section 13 or 15(d) of the Securities
+Exchange Act of 1934, the registrant has duly caused this report to be signed on
+its behalf by the undersigned, thereunto duly authorized.
+
+ STEELCLOUD, INC.
+Date: January 29, 2004 By: /S/ THOMAS P. DUNNE
+ -------------------
+ Thomas P. Dunne
+ CHIEF EXECUTIVE OFFICER
+
+ Pursuant to and in accordance with the requirements of the Securities
+Exchange Act of 1934, this report has been signed by the following persons on
+behalf of the registrant and in the capacities and on the dates indicated.
+
+NAME TITLE DATE
+
+/S/ THOMAS DUNNE Chief Executive Officer
+ Thomas P. Dunne and Director January 29, 2004
+
+ /S/KEVIN MURPHY
+ Kevin Murphy Chief Financial Officer January 29, 2004
+
+ /S/ VADM E.A. BURKHALTER
+ VADM E. A. Burkhalter USN (Ret.) Director January 29, 2004
+
+ /S/JAMES BRUNO
+ James Bruno Director January 29, 2004
+
+ /S/ JAY KAPLOWITZ
+ Jay Kaplowitz Director January 29, 2004
+
+ /S/BENJAMIN KRIEGER
+ Benjamin Krieger Director January 29, 2004
+
+ /S/ RICHARD PRINS
+ Richard Prins Director January 29, 2004
+
+-26-
+
+INDEX TO FINANCIAL STATEMENTS
+
+STEELCLOUD, INC (A VIRGINIA CORPORATION)
+Report of Grant Thornton LLP, Independent Auditors ....................... F-1
+Report of Ernst & Young LLP, Independent Auditors ........................ F-2
+Consolidated Balance Sheets as of October 31, 2002 and 2003 .............. F-3
+Consolidated Statements of Operations for the
+ three years ended October 31, 2003 .................................... F-4
+Consolidated Statements of Stockholders' Equity
+ for the three years ended October 31, 2003 ............................ F-5
+Consolidated Statements of Cash Flows for the
+ three years ended October 31, 2003 .................................... F-6
+Notes to Consolidated Financial Statements ............................... F-7
+
+-27-
+
+REPORT OF INDEPENDENT CERTIFIED PUBLIC ACCOUNTANTS
+
+To the Board of Directors and Stockholders
+SteelCloud, Inc.
+
+ We have audited the accompanying consolidated balance sheets of
+SteelCloud, Inc. as of October 31, 2003 and 2002, and the related consolidated
+statements of operations, stockholders' equity, and cash flows for the years
+then ended. These financial statements are the responsibility of the Company's
+management. Our responsibility is to express an opinion on these financial
+statements based on our audits.
+
+ We conducted our audits in accordance with auditing standards generally
+accepted in the United States of America. Those standards require that we plan
+and perform the audit to obtain reasonable assurance about whether the financial
+statements are free of material misstatement. An audit includes examining, on a
+test basis, evidence supporting the amounts and disclosures in the financial
+statements. An audit also includes assessing the accounting principles used and
+significant estimates made by management, as well as evaluating the overall
+financial statement presentation. We believe that our audits provide a
+reasonable basis for our opinion.
+
+ In our opinion, the consolidated financial statements referred to above
+present fairly, in all material respects, the financial position of SteelCloud,
+Inc. as of October 31, 2003 and 2002, and the results of its operations and its
+cash flows for the years then ended in conformity with accounting principles
+generally accepted in the United States of America.
+
+ As discussed in note 5 to the consolidated financial statements the
+Company adopted Statement of Financial Accounting Standards No. 142, GOODWILL
+AND OTHER INTANGIBLE ASSET on November 1, 2002
+
+/s/ Grant Thornton LLP
+- -----------------------
+Vienna, VA
+December 19, 2003
+
+F-1
+
+REPORT OF ERNST & YOUNG LLP, INDEPENDENT AUDITORS
+
+Board of Directors
+SteelCloud, Inc.
+
+ We have audited the accompanying consolidated statements of operations,
+stockholders' equity and cash flows of SteelCloud, Inc. (a Virginia Corporation)
+for the year ended October 31, 2001. These consolidated financial statements are
+the responsibility of the Company's management. Our responsibility is to express
+an opinion on these consolidated financial statements based on our audit.
+
+ We conducted our audit in accordance with auditing standards generally
+accepted in the United States. Those standards require that we plan and perform
+the audit to obtain reasonable assurance about whether the consolidated
+financial statements are free of material misstatement. An audit includes
+examining, on a test basis, evidence supporting the amounts and disclosures in
+the consolidated financial statements. An audit also includes assessing the
+accounting principles used and significant estimates made by management, as well
+as evaluating the overall financial statement presentation. We believe that our
+audit provides a reasonable basis for our opinion.
+
+ In our opinion, the consolidated financial statements referred to above
+present fairly, in all material respects, the consolidated results of operations
+of SteelCloud, Inc. and its cash flows for the year ended October 31, 2001, in
+conformity with accounting principles generally accepted in the United States.
+
+ As discussed in Note 2 of the Notes to the Consolidated Financial
+Statements, in 2001 the Company changed its method of accounting for convertible
+securities with beneficial conversion features.
+
+/s/ ERNST & YOUNG LLP
+ ---------------------
+December 21, 2001
+McLean, Virginia
+
+F-2
+
+STEELCLOUD, INC.
+ CONSOLIDATED BALANCE SHEETS
+ OCTOBER 31,
+ ----------------------------
+ 2002 2003
+ ------------ ------------
+ASSETS
+Current assets:
+ 
+ Cash and cash equivalents .................................................. 751,323 8,098,221
+ Accounts receivable, net of allowance for
+ doubtful accounts of 293,000 as of
+ October 31, 2002 and 2003 ............................................. 6,082,340 5,332,549
+ Inventory, net ............................................................. 4,180,812 2,880,944
+ Deferred tax asset ......................................................... 400,000 400,000
+ Income tax receivable ...................................................... 55,392 55,392
+ Prepaid expenses and other current assets .................................. 208,892 184,420
+ Deferred contract costs .................................................... 2,039,339 7,053
+ Assets held for sale ....................................................... 953,320 --
+ ------------ ------------
+Total current assets .......................................................... 14,671,418 16,958,579
+
+Property and equipment, net ................................................... 304,081 477,111
+Equipment on lease, net ....................................................... 574,272 335,935
+Goodwill and other intangible assets, net ..................................... 1,778,059 1,778,059
+Other assets .................................................................. 304,922 211,155
+ ------------ ------------
+Total assets .................................................................. 17,632,752 19,760,839
+ ============ ============
+
+LIABILITIES AND STOCKHOLDERS' EQUITY
+Current liabilities:
+ Accounts payable ........................................................... 3,620,580 3,202,195
+ Accrued expenses ........................................................... 1,542,277 1,369,145
+ Notes payable, current portion ............................................. 503,823 96,133
+ Liabilities held for sale .................................................. 641,145 --
+ Unearned revenue ........................................................... 4,507,859 293,363
+ ------------ ------------
+Total current liabilities ..................................................... 10,815,684 4,960,836
+ Notes payable, long-term portion .......................................... 60,000 59,952
+ Other ..................................................................... -- 6,415
+ ------------ ------------
+Total long-term liabilities ................................................... 60,000 66,367
+Stockholders' equity:
+Common stock, .001 par value;
+ 50,000,000 shares authorized,
+ 10,447,611 and 13,008,553 shares issued
+ and outstanding at October 31, 2002 and 2003,
+ respectively ............................................................... 10,448 13,009
+Additional paid-in capital .................................................... 39,553,017 47,307,036
+Treasury stock, 400,000 shares at October 31, 2002
+ and 2003, respectively ..................................................... (3,432,500) (3,432,500)
+Accumulated deficit ........................................................... (29,373,897) (29,153,909)
+ ------------ ------------
+Total stockholders' equity .................................................... 6,757,068 14,733,636
+ ------------ ------------
+Total liabilities and stockholders' equity .................................... 17,632,752 19,760,839
+ ============ ============
+ SEE ACCOMPANYING NOTES
+
+F-3
+
+STEELCLOUD, INC.
+ CONSOLIDATED STATEMENTS OF OPERATIONS
+
+ YEARS ENDED OCTOBER 31,
+ --------------------------------------------
+ 2001 2002 2003
+ ------------ ------------ ------------
+
+Net revenues ...................................... 25,791,082 29,157,368 33,042,999
+Costs of revenues ................................. 19,406,836 22,163,435 26,353,462
+ ------------ ------------ ------------
+Gross profit ...................................... 6,384,246 6,993,933 6,689,537
+
+Selling and marketing ............................. 724,337 1,184,406 1,276,386
+General and administrative ........................ 3,956,293 4,769,552 4,550,414
+Research and product development .................. -- -- 494,087
+Impairment of goodwill ............................ -- 132,644 --
+Amortization of goodwill .......................... 394,216 394,216 --
+ ------------ ------------ ------------
+
+Income from operations ............................ 1,309,400 513,115 368,650
+
+Other income (expense):
+ Interest income ................................ 87,961 5,525 5,661
+ Interest expense ............................... (245,532) (78,734) (22,800)
+ Other, net ..................................... (26,396) (149,183) 12,421
+ ------------ ------------ ------------
+Income from continuing operations before income tax 1,125,433 290,723 363,932
+
+Provision for (benefit from) income taxes ......... 102,276 (279,800) --
+ ------------ ------------ ------------
+Income from continuing operations ................. 1,023,157 570,523 363,932
+(Loss) from discontinued operations, net of tax ... (9,431) (1,685,708) (134,367)
+(Loss) on disposal of discontinued operations,
+ net of tax ..................................... -- -- (9,577)
+ ------------ ------------ ------------
+Income (loss) before cumulative effect of ......... 1,013,726 (1,115,185) 219,988
+ accounting change
+Cumulative effect of change in accounting principle (576,001) -- --
+ ------------ ------------ ------------
+Net income (loss) ................................. 437,725 (1,115,185) 219,988
+
+Dividends to preferred stockholders ............... (112,500) -- --
+Increase to income available to common stockholders
+ from repurchase of preferred stock ........... 721,816 -- --
+ ------------ ------------ ------------
+Net income (loss) available to common stockholders 1,047,041 (1,115,185) 219,988
+ ============ ============ ============
+
+Earnings (loss) per share, basic
+Earnings from continuing operations ............... 0.10 0.06 0.04
+(Loss) from discontinued operations ............... -- (0.17) (0.01)
+ ------------ ------------ ------------
+Net earnings (loss) per share ..................... 0.10 (0.11) 0.03
+ ============ ============ ============
+
+Earnings (loss) per share, fully diluted
+Earnings (loss) from continuing operations ........ 0.08 0.05 0.03
+(Loss) from discontinued operations ............... -- (0.15) (0.01)
+ ------------ ------------ ------------
+Net earnings (loss) per share ..................... 0.08 (0.10) 0.02
+ ============ ============ ============
+Pro forma amounts assuming the
+ accounting change is applied retroactively:
+Net income (loss) to common stockholders .......... 1,623,042 (1,115,185) 219,988
+ ============ ============ ============
+Net earnings (loss) per share, basic .............. 0.16 (0.11) 0.03
+ ============ ============ ============
+Net earnings (loss) per share, fully diluted ...... 0.08 (0.10) 0.02
+ ============ ============ ============
+
+SEE ACCOMPANYING NOTES.
+
+F-4
+
+STEELCLOUD, INC.
+ CONSOLIDATED STATEMENTS OF STOCKHOLDERS' EQUITY
+
+ ADDITIONAL
+ PREFERRED STOCK COMMON STOCK PAID-IN
+ SHARES AMOUNT SHARES AMOUNT CAPITAL
+
+ -------------------------------------------------------------------------
+
+BALANCE AT
+OCTOBER 31, 2000 ..... 2,850 3 9,806,962 9,807 41,584,844
+
+Conversion of
+Series A Convertible
+Preferred Stock ...... (230) -- 390,267 391 (391)
+
+Conversion of
+Preferred Stock
+dividends to shares
+of Common Stock ...... -- -- 17,316 17 10,019
+
+Dividend Declared on
+Series A Convertible
+Preferred Stock ...... -- -- -- -- --
+
+Cumulative effect of
+change in accounting
+principle ............ -- -- -- -- 576,001
+
+Redemption of
+preferred Stock ...... (2,620) (3) -- (3,091,076) --
+
+Net Income ........... -- -- -- -- --
+ -------------------------------------------------------------------------
+
+BALANCE AT ........... 10,214,545 10,215 39,079,397
+OCTOBER 31, 2001
+Issuance of
+common stock
+in connection
+with exercise
+of employee
+incentive
+stock option
+plan ................. -- -- 227,826 228 272,465
+
+Issuance of
+common stock
+for services ......... -- -- 5,240 5 17,495
+
+Tax benefit associated
+with exercise of
+employee
+stock options ........ -- -- -- -- 119,000
+
+Compensation expense
+associated with the
+issuance of stock
+options .............. -- -- -- -- 64,660
+
+Net Income ........... -- -- -- -- --
+ -------------------------------------------------------------------------
+
+BALANCE AT ........... 10,447,611 10,448 39,553,017
+OCTOBER 31, 2002
+Issuance of
+common stock
+in connection
+with exercise
+of employee
+incentive
+stock option
+plan ................. -- -- 673,442 673 789,882
+
+Issuance of
+common stock ......... 6,966,025
+under private
+placement ............ -- -- 1,887,500 1,888 6,964,137
+
+Net Income ........... -- -- -- -- --
+ -------------------------------------------------------------------------
+
+BALANCE AT ........... 13,008,553 13,009 47,307,036
+OCTOBER 31, 2003
+ =========================================================================
+
+RETAINED
+ TREASURY EARNINGS
+ STOCK (ACCUMULATED TOTAL
+ DEFICIT)
+ -------------------------------------------
+
+BALANCE AT
+OCTOBER 31, 2000 ..... (3,432,500) (29,305,753) 8,856,401
+
+Conversion of
+Series A Convertible
+Preferred Stock ...... -- -- --
+
+Conversion of
+Preferred Stock
+dividends to shares
+of Common Stock ...... -- -- 10,036
+
+Dividend Declared on
+Series A Convertible
+Preferred Stock ...... -- (112,500) (112,500)
+
+Cumulative effect of
+change in accounting
+principle ............ -- (576,001) --
+
+Redemption of
+preferred Stock ...... 721,816 (2,369,263)
+
+Net Income ........... -- 1,013,726 1,013,726
+
+ -------------------------------------------
+
+BALANCE AT ........... (3,432,500) (28,258,712) 7,398,400
+OCTOBER 31, 2001
+Issuance of
+common stock
+in connection
+with exercise
+of employee
+incentive
+stock option
+plan ................. -- -- 272,693
+
+Issuance of
+common stock
+for services ......... -- -- 17,500
+
+Tax benefit associated
+with exercise of
+employee
+stock options ........ -- -- 119,000
+
+Compensation expense
+associated with the
+issuance of stock
+options .............. -- -- 64,660
+
+Net Income ........... -- (1,115,185) (1,115,185)
+
+ -------------------------------------------
+BALANCE AT ........... (3,432,500) (29,373,897) 6,757,068
+OCTOBER 31, 2002
+Issuance of
+common stock
+in connection
+with exercise
+of employee
+incentive
+stock option
+plan ................. -- -- 790,555
+
+Issuance of
+common stock .........
+under private
+placement ............ -- --
+
+Net Income ........... -- 219,988 219,988
+
+ -------------------------------------------
+BALANCE AT ........... (3,432,500) (29,153,909) 14,733,636
+OCTOBER 31, 2003
+
+ ===========================================
+
+ SEE ACCOMPANYING NOTES.
+
+F-5
+
+STEELCLOUD, INC
+ CONSOLIDATED STATEMENTS OF CASH FLOWS
+
+ YEARS ENDED OCTOBER 31,
+ -----------------------------------------
+ 2001 2002 2003
+ ----------- ----------- -----------
+OPERATING ACTIVITIES
+ 
+Net income (loss) .............................. 437,725 (1,115,185) 219,988
+Cumulative change in accounting principle ...... 576,001 -- --
+Loss from discontinued operations, net ......... 9,431 1,685,708 143,944
+ ----------- ----------- -----------
+Income applicable from continuing operations ... 1,023,157 570,523 363,932
+Adjustments to reconcile net income to net cash
+provided by (used in) operating activities:
+ Depreciation and amortization of property and 1,301,588 683,860 331,553
+ equipment
+ Amortization of goodwill and other .......... 394,216 394,216 --
+ intangibles
+ Impairment of goodwill ...................... -- 132,644 --
+ Impairment charge - investment .............. -- 150,000 --
+ Provision for bad debt ...................... -- 161,030 --
+ (Gain) loss on sale of assets ............... -- 4,196 --
+ (Gain) on settlement of litigation .......... (343,087) -- --
+ Stock compensation expense .................. -- 82,160 --
+ Changes in operating assets and liabilities:
+ Accounts receivable, net .................. (2,258,763) (586,275) 749,791
+ Income tax receivable ..................... (1,169,743) 1,345,032 --
+ Inventory ................................. (267,972) 117,458 1,336,334
+ Prepaid expenses and other assets ......... 38,236 41,688 29,394
+ Deferred contract costs ................... -- (2,039,339) 2,032,286
+ Deferred tax asset (credit) ............... 1,282,695 (279,800) --
+ Accounts payable .......................... 600,954 454,159 (321,574)
+ Accrued expenses .......................... 213,513 53,462 (166,718)
+ Unearned revenue and other liabilities .... 77,695 4,294,474 (4,214,496)
+ ----------- ----------- -----------
+Net cash provided by operating
+activities of continuing operations ............ 892,489 5,579,488 140,502
+
+INVESTING ACTIVITIES
+Purchases of property and equipment ............ (518,956) (704,030) (228,177)
+ ----------- ----------- -----------
+Net cash (used in) investing activities ........ (518,956) (704,030) (228,177)
+
+FINANCING ACTIVITIES
+Proceeds from issuance of common stock, net of . -- -- 7,390,559
+expenses
+Payments made to redeem preferred stock ........ (2,562,739) -- --
+Proceeds from exercise of common stock options . -- 272,693 366,021
+Proceeds on notes payable ...................... -- 725,000 --
+Payments on notes payable ...................... (430,022) (515,742) (538,436)
+Net proceeds from (repayments on)
+lines of credit, net ........................... 1,353,551 (3,836,754) --
+
+ ----------- ----------- -----------
+Net cash (used in) provided by financing ....... (1,639,210) (3,354,803) 7,218,144
+activities
+
+Net (decrease) increase in cash
+and cash equivalents
+of continuing operations ....................... (1,265,677) 1,520,655 7,130,469
+Net cash provided by (used in)
+operating activities of discontinued
+operations ..................................... 1,231,288 (1,051,650) 216,429
+Cash and cash equivalents at beginning of ...... 316,707 282,318 751,323
+year
+ ----------- ----------- -----------
+Cash and cash equivalents at end of year ....... 282,318 751,323 8,098,221
+ =========== =========== ===========
+
+SUPPLEMENTAL CASH FLOW INFORMATION
+Interest paid .................................. 336,128 129,287 23,345
+ ----------- ----------- -----------
+Income taxes paid .............................. 185,210 1,200 --
+ =========== =========== ===========
+
+SEE ACCOMPANYING NOTES
+
+F-6
+
+STEELCLOUD, INC.
+
+ NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+ OCTOBER 31, 2001, 2002 AND 2003
+
+1. ORGANIZATION
+
+ Founded in 1987, SteelCloud, Inc, based in Dulles, Virginia, designs,
+develops and manufactures customized computer servers and network appliances.
+The Company's custom computer servers are designed to meet the precise needs of
+volume customers to reduce the customer's investments in logistics, integration
+capacity and support. The Company's network security appliances are developed in
+collaboration with some of the world's premiere software companies. In addition,
+the Company develops proprietary software to optimize the performance of its
+security appliances. The Company's appliances are specially designed and
+optimized to deliver a dedicated network service such as antivirus gateway
+protection, intrusion detection and secure content management.
+
+ On May 15, 2001, the shareholders approved an amendment to the
+Company's articles of incorporation to change the corporate name from Dunn
+Computer Corporation to SteelCloud, Inc.
+
+On October 25, 2002, management, with the approval of the Board of Directors,
+determined that its Puerto Rico Industrial Manufacturing Operation ("PRIMO")
+would no longer contribute to the Company's future operations and therefore
+adopted a plan to cease that operation effective on that date. In September
+2003, the Company sold the assets of the operation. Accordingly, the Company has
+reflected this operation as discontinued in the accompanying financial
+statements.
+
+F-7
+
+2. SIGNIFICANT ACCOUNTING POLICIES
+
+USE OF ESTIMATES
+
+ The preparation of the consolidated financial statements in conformity
+with accounting principles generally accepted in the United States of America
+requires management to make estimates and assumptions that affect the reported
+amounts of assets and liabilities and disclosure of contingent assets and
+liabilities at the date of the consolidated financial statements and the
+reported amounts of revenues and expenses during the reporting period. Actual
+results could differ from those estimates.
+
+CASH AND CASH EQUIVALENTS
+
+ The Company maintains demand deposits with several financial
+institutions. At times, deposits exceed federally insured limits, but management
+does not consider this a significant concentration of credit risk. The Company
+considers all highly liquid investments with a maturity of three months or less
+at the time of purchase to be cash equivalents.
+
+FINANCIAL INSTRUMENTS
+
+ The carrying value of the Company's financial instruments including
+cash and cash equivalents, accounts receivable, accounts payable, accrued
+liabilities, notes payable and its line of credit approximates fair value.
+
+INVENTORY AND DEFERRED CONTRACT COSTS
+
+ Inventory consists of materials and components used in the assembly of
+the Company's products and is stated at the lower of cost or market as
+determined by the first-in first-out (FIFO) method. The Company periodically
+evaluates its inventory obsolescence reserve to ensure inventory is recorded at
+its net realizable value.
+
+ Deferred contract costs represents costs associated with products where
+title has transferred but revenue has been deferred in accordance with the
+Company's revenue recognition policy.
+
+F-8
+
+2. SIGNIFICANT ACCOUNTING POLICIES (CONTINUED)
+
+IMPAIRMENT OF LONG-LIVED ASSETS
+
+ In accordance with SFAS No. 144, "Accounting for the Impairment or
+Disposal of Long-lived Assets", long-lived assets are reviewed by the Company to
+determine whether any events or changes in circumstances indicate that the
+carrying amount of the asset may not be recoverable. The Company bases its
+evaluation on such impairment indicators as the nature of the assets, the future
+economic benefit of the assets, any historical or future profitability
+measurements, as well as other external market conditions or factors that may be
+present. If such impairment indicators are present or other factors exist that
+indicate that the carrying amount of the asset may not be recoverable, the
+Company determines whether an impairment has occurred through the use of an
+undiscounted cash flows analysis of assets at the lowest level for which
+identifiable cash flow exists. If an impairment has occurred, the Company
+recognizes a loss for the difference between the carrying amount and the
+estimated value of the asset. During fiscal year 2002, management determined
+that the remaining amount of goodwill associated with the purchase of IDP and
+PRIMO was impaired and recorded impairment charges of 132,645 and 165,652
+(which is recorded in discontinued operations) for IDP and PRIMO respectively.
+(See note 5).
+
+GOODWILL AND OTHER INTANGIBLE ASSETS
+
+ Goodwill and other intangibles represent the unamortized excess of the
+cost of acquiring subsidiary companies over the fair values of such companies'
+net tangible assets at the dates of acquisition. Goodwill related to the
+Company's STMS acquisition as described in Note 5 has been amortized on a
+straight-line basis using a twenty-year life. Effective November 1, 2002 the
+Company adopted SFAS No. 142 "Accounting for Goodwill and Other Intangible
+Assets", and as a result, the Company no longer amortizes goodwill. Instead,
+management regularly assesses the continuing value of goodwill to measure for
+possible impairment. As of October 31, 2003, the Company has not recorded any
+additional impairment of its goodwill.
+
+F-9
+
+2. SIGNIFICANT ACCOUNTING POLICIES (CONTINUED)
+
+STOCK COMPENSATION
+
+Statement of Accounting Standards No. 123, "Accounting for Stock Based
+Compensation" (SFAS 123) encourages, but does not require, companies to record
+compensation cost for stock-based employee compensation plans at fair value. The
+Company has chosen to account for stock-based compensation using the intrinsic
+value method prescribed in Accounting Principles Board Opinion No. 25,
+"Accounting for Stock Issued to Employees", and related Interpretations.
+Accordingly, compensation cost for stock options is measured as the excess, if
+any, of the estimated fair value of the Company's stock at the date of the grant
+over the amount an employee must pay to acquire the stock. The Company has
+adopted the disclosure only alternative described in SFAS 123 and SFAS 148,
+which require pro forma disclosures of net income and earning per share as if
+the fair value method of accounting had been applied.
+
+Had compensation expense related to the stock options been determined
+based on the fair value at the grant date for options granted during the years
+ended October 31, 2001, 2002, and 2003 consistent with the provisions of SFAS
+123, the Company's net income and earnings per share would have been as follows:
+
+YEAR ENDED OCTOBER 31,
+ ---------------------------------------------
+ 2001 2002 2003
+ ---------------------------------------------
+Net (loss) income applicable to common
+ 
+ shareholders .............................. 1,047,041 (1,115,185) 219,988
+Deduct: Total stock-based compensation
+ expense determined under fair
+ value based method ........................ 543,597 453,594 630,932
+ ---------------------------------------------
+Net income (loss) - pro forma .............. 503,444 (1,568,779) (410,944)
+ ---------------------------------------------
+Earnings per share:
+ Earnings per share basic - as reported . 0.10 (0.11) 0.03
+ Earnings per share diluted - as reported 0.08 (0.10) 0.02
+ Earnings per share basic - pro forma ... 0.05 (0.16) (0.04)
+ Earnings per share diluted - pro forma .. 0.04 (0.15) (0.04)
+Weighted average common shares
+ outstanding:
+Basic weighted average shares
+ outstanding
+ 10,111,364 9,947,675 10,240,630
+ Fully diluted weighted average shares
+ outstanding ............................. 12,463,232 10,811,510 10,962,050
+
+The effect of applying SFAS 123 on pro forma net income as stated above
+is not necessarily representative of the effects on reported net income for
+future years due to, among other things, the vesting period of the stock options
+and the fair value of additional options in the future years.
+
+ The fair value of each option grant is estimated on the date of grant
+using the Black-Scholes option-pricing fair value model with the following
+weighted- average assumptions used for grants in 2001, 2002 and 2003: dividend
+yield of 0 , expected volatility of 152 , 87 and 114 , respectively; risk-free
+interest rates of 4.50 , 4.27 and 4.73 respectively; and expected life of the
+option term of five years. The weighted average fair values of the options
+granted in 2001 2002, and 2003 with a stock price equal to the exercise price is
+ 0.74, 0.98 and 0.98 respectively.
+
+F-10
+
+2. SIGNIFICANT ACCOUNTING POLICIES (CONTINUED)
+
+REVENUE RECOGNITION
+
+ The Company recognizes revenue in accordance with Staff Accounting
+Bulletin No, 101, "Revenue Recognition in Financial Statements" (SAB101) as
+amended by SAB 101A and 101B. SAB 101 requires that four basic criteria must be
+met before revenue can be recognized: (1) persuasive evidence of an arrangement
+exists; (2) delivery has occurred or services rendered; (3) the fee is fixed and
+determinable: and (4) collectibility is reasonably assured.
+
+ The Company derives its revenue from the following sources: Product
+revenue, information technology support services, software license as a reseller
+and support revenue and software training and customization revenue.
+
+ For product sales the Company generally recognizes revenue at the time
+of shipment when both title and risk of loss transfers to the customer. For
+technology support services under time and material contracts, the Company
+recognizes revenue as services are provided. Revenue from hardware leased to
+customers under operating lease arrangements is recognized over the contract
+term. When product and installation services that are not essential to the
+functionality of the product are sold as part of a bundled agreement, the fair
+value of the installation services, based on the price charged for the services
+when sold separately, is deferred and recognized when the services are
+performed. The products sold are generally covered by a warranty for periods
+ranging from one to three years. The Company accrues an estimated warranty
+reserve in the period of sale to provide for estimated costs to provide warranty
+services.
+
+ The Company is a value-added reseller for certain software products.
+When resold software licenses, and related maintenance, customization and
+training services are all provided together to an individual customer the
+Company recognizes revenue for the arrangement after the Company has delivered
+the software license and the customer has approved all customization and
+training services provided. In instances were the Company only resells the
+software license and maintenance to the customer, the Company recognizes revenue
+after the customer has acknowledged and accepted delivery of the software. The
+software manufacturer is responsible for providing software maintenance.
+Accordingly, revenue from maintenance contracts is recognized upon delivery or
+acceptance, as the Company has no future obligation to provide the maintenance
+services and no right of return exists.
+
+ The Company incurs shipping and handling costs, which are recorded in
+cost of revenues.
+
+ During the years ended October 31, 2001, 2002 and 2003, the Company had
+revenues from the Federal government, which represented 21 , 21 and 46 ,
+respectively, of total revenue. As of October 31, 2002 and 2003, accounts
+receivable from agencies of the Federal government represented 47 , and 44 ,
+respectively, of total accounts receivable. During fiscal 2001 and 2002 the
+Company's significant customers were Lockheed Martin, Network Associates and
+Modus Media all of which are third parties. During those years, Lockheed
+revenues were 3 and 10 , respectively, Network Associates revenues were 38 and
+54 , respectively, and Modus Media revenues were 21 and 0 , respectively.
+During fiscal year 2003, the Company's significant customers were Lockheed
+Martin and General Services Administration, representing 26 and 11 of the
+Company's net revenues, respectively. As for accounts receivable balances at
+October 31, 2002, Lockheed Martin comprised of 28 , Network Associates comprised
+of 9 and Modus Media comprised of 0 . Accounts receivable balances as of
+October 31, 2003 included amounts due from Lockheed Martin (13 and General
+Services Administration (1 ).
+
+F-11
+
+2. SIGNIFICANT ACCOUNTING POLICIES (CONTINUED)
+
+ADVERTISING EXPENSES
+
+ The Company expenses advertising costs as incurred. Advertising costs
+amounted to approximately 65,000, 50,000 and 57,000 during fiscal 2001, 2002,
+and 2003, respectively.
+
+RESEARCH AND PRODUCT DEVELOPMENT EXPENSES
+
+ The Company expenses research and product development expenses as
+incurred.
+
+INCOME TAXES
+
+ The Company recognizes deferred tax liabilities and assets for the
+expected future tax consequences of temporary differences between the carrying
+amounts and the tax bases of certain assets and liabilities. A valuation
+allowance is established, as necessary, to reduce deferred income tax assets an
+amount expected to be realized in future periods.
+
+CHANGE IN ACCOUNTING PRINCIPLE
+
+ During 2001, the Company implemented Emerging Issues Task Force Issue
+No. 00-27, Application of EITF Issue No. 98-5, "Accounting for Convertible
+Securities with Beneficial Conversion Features or Contingently Adjustable
+Conversion Ratios," to Certain Convertible Instruments ("EITF 00-27"). Issue 1
+of EITF 00-27 modified the calculation of beneficial conversion features for
+convertible securities issued with detachable instruments for all transactions
+subject to EITF Issue No. 98-5. In accordance with the transition provision of
+EITF 00-27 companies are required to report any changes in a beneficial
+conversion feature as a result of applying Issue 1 of EITF 00-27 as a cumulative
+effect of a change in accounting principle at the time of implementation in
+accordance with APB Opinion No. 20, "Accounting Changes". As a result of the
+implementation of EITF 00-27, the Company has recorded a charge representing an
+additional allocation of value to the beneficial conversion feature of 576,001,
+or 0.06 per share, as a cumulative effect of a change in accounting principle.
+
+SUPPLEMENTAL INFORMATION OF NON-CASH INVESTING AND FINANCING ACTIVITIES:
+
+ YEAR ENDED OCTOBER 31,
+ ----------------------------------
+ 2001 2002 2003
+ ========= ======== =========
+Common stock issued in connection
+ with legal settlement .................. -- -- --
+ ========= ======== =========
+Deemed dividend on preferred stock ....... 112,500 -- --
+ ========= ======== =========
+Increase to income to common
+ shareholders for repurchase
+ of preferred stock ..................... 721,816 -- --
+ ========= ======== =========
+Conversion of preferred stock and
+ accrued dividends to common stock ...... 10,036 -- --
+ ========= ======== =========
+Cumulative effect of change in
+ accounting principle ................... 576,001 -- --
+ ========= ======== =========
+Non cash stock compensation .............. -- 82,160 --
+ ========= ======== =========
+Tax benefit associated with exercise
+ of stock options ....................... -- 119,000 --
+ ========= ======== =========
+
+F-12
+
+2. SIGNIFICANT ACCOUNTING POLICIES (CONTINUED)
+
+EARNINGS PER SHARE
+
+ The Company follows the provisions of Statement of Financial Accounting
+Standards No. 128, EARNINGS PER SHARE ("SFAS 128") which requires the Company to
+present basic and fully diluted earnings per share. Basic earnings per share is
+based on the weighted average shares outstanding during the period. Diluted
+earnings per share increases the shares used in the basic share calculation by
+the dilutive effect on net income from continuing operations of stock options,
+warrants and convertible preferred stock.
+
+FINANCIAL INSTRUMENTS AND CONCENTRATION OF CREDIT RISK
+
+ Financial instruments that potentially subject the Company to
+concentrations of credit risk consist primarily of cash, investments and
+accounts receivable. The cash is held by high credit quality financial
+institutions. For accounts receivable, the Company performs ongoing credit
+evaluations of its customers' financial condition and generally does not require
+collateral. The Company maintains reserves for credit losses. The concentration
+of credit risk is mitigated by the amount of receivables due by the Federal
+government. The carrying amount of the receivables approximates their fair
+value.
+
+RECENT PRONOUNCEMENTS
+
+ In January 2003, the FASB issued Interpretation Number 46,
+Consolidation of Variable Interest Entities ("FIN 46"). This interpretation of
+Accounting Research Bulletin No. 51, Consolidated Financial Statements,
+addresses consolidation by business enterprises of variable interest entities.
+Under current practice, two enterprises generally have been included in
+consolidated financial statements because one enterprise controls the other
+through voting interests. FIN 46 defines the concept of "variable interests" and
+requires existing unconsolidated variable interest entities to be consolidated
+by their primary beneficiaries if the entities do not effectively disperse risks
+among the parties involved. This interpretation applies immediately to variable
+interest entities created after January 31, 2003. FASB Staff Position 46-6,
+which was issued in October 2003, delayed the effective date of FIN 46 to the
+first reporting period ending after December 15, 2003 for variable interest
+entities in which an enterprise holds a variable interest that it acquired
+before February 1, 2003.. The interpretation may be applied prospectively with a
+cumulative-effect adjustment as of the date on which it is first applied or by
+restating previously issued financial statements for one or more years with a
+cumulative-effect adjustment as of the beginning of the first year restated.
+Adoption of this standard is not expected to have a material effect on the
+Company's financial statements.
+
+ In April 2003, the FASB issued SFAS No. 149, "Amendment of Statement
+133 on Derivative Instruments and Hedging Activities." SFAS No. 149 amends and
+clarifies accounting and reporting for derivative instruments and hedging
+activities under SFAS No. 133, "Accounting for Derivative Instruments and
+Hedging Activities." SFAS No. 149 is effective for derivative instruments and
+hedging activities entered into or modified after June 30, 2003, except for
+certain forward purchase and sale securities. For these forward purchase and
+sale securities, SFAS No. 149 is effective for both new and existing securities
+after June 30, 2003. The adoption of this standard did not have a material
+impact on the Company's financial statements.
+
+ In May 2003, the Financial Accounting Standards Board (FASB) issued
+SFAS No. 150, "Accounting for Certain Financial Instruments with Characteristics
+of both Liabilities and Equity." SFAS No. 150 establishes standards for issuer
+classification and measurement of certain financial instruments with
+characteristics of both liabilities and equity. Instruments that fall within the
+scope of SFAS No. 150 must be classified as a liability. SFAS No. 150 is
+effective for financial instruments entered into or modified after May 31, 2003.
+For financial instruments issued on or before May 31, 2003, SFAS No. 150 is
+effective for the Company in the first quarter of fiscal year 2004. Adoption of
+this standard is not expected to have a material effect on the Company's
+financial statements.
+
+F-13
+
+3. DISCONTINUED OPERATIONS
+
+ The Company continually evaluates its operating facilities with regard
+to its long-term strategic goals established by management and the Board of
+Directors. Operating facilities, which are not expected to contribute to the
+Company's future operations are either closed or sold. On October 25, 2002,
+management, with the approval of the Board of Directors, determined that its
+Puerto Rico Industrial Manufacturing Operation Acquisition Corp ("PRIMOA") would
+no longer contribute to future operations and therefore adopted a plan to
+dispose of that operation effective on that date. On September 12, 2003, the
+Company sold the assets of its Puerto Rican operation for approximately 30,000.
+In addition, the Company contracted with a local service firm to complete its
+service and warranty obligations. The Company believes that there will be no
+additional costs incurred related to this operation.
+
+ Accordingly, the Company has reclassified the Consolidated Financial
+Statements of SteelCloud, Inc for the periods ended October 31, 2001, 2002 and
+2003, to reflect the discontinued operations of PRIMOA. As a result, revenues,
+costs and expenses have been reported as discontinued operations and PRIMOA's
+assets and liabilities have been reported as assets and liabilities held for
+sale on the Company's consolidated balance sheet. A loss on the sale of the
+discontinued operation in the amount of 9,577 was recorded in fiscal year 2003.
+A summary of the financial information for the discontinued operation is as
+follows:
+
+YEARS ENDED OCTOBER 31,
+ 2001 2002 2003
+ -----------------------------------------
+ 
+Net revenues .............................. 4,347,296 1,613,864 228,143
+Gross profit .............................. 1,244,155 (506,620) 78,470
+(Loss) from discontinued operations ....... (9,431) (1,685,708) (134,367)
+
+OCTOBER 31,
+ 2002 2003
+ -------------------------
+
+Accounts receivable, net .................. 682,978 --
+Inventory, net ............................ 188,698 --
+Other assets .............................. 81,644 --
+ -------------------------
+Total assets .............................. 953,320 --
+
+Accrued expenses .......................... 590,526 --
+Accounts payable and other liabilities .... 50,619 --
+ -------------------------
+Total liabilities ......................... 641,145 --
+
+F-14
+
+4. PROPERTY AND EQUIPMENT AND EQUIPMENT ON LEASE
+
+ Property and equipment, including leasehold improvements, are stated at
+cost. Property and equipment are depreciated and amortized using the
+straight-line method over the estimated useful lives ranging from three to five
+years. Leasehold improvements are amortized over the lesser of the related lease
+term or the useful life.
+
+ Property and equipment consisted of the following:
+
+ OCTOBER 31,
+ ------------------------------
+ 2002 2003
+ ----------- -----------
+Computer and office equipment ............ 1,683,702 1,831,986
+Furniture and fixtures ................... 271,070 271,070
+Leasehold improvements ................... 446,714 455,724
+Other .................................... 336,681 423,089
+ ----------- -----------
+ 2,738,167 2,981,869
+Less accumulated depreciation
+ and amortization ....................... (2,434,086) (2,504,758)
+ ----------- -----------
+ 304,081 477,111
+ =========== ===========
+
+ The Company owns equipment that is currently at customer sites under
+operating lease agreements (See Note 2 - Revenue Recognition). The cost of the
+equipment was 1,162,744 and 1,602,713 at October 31, 2003 and 2002,
+respectively. The related accumulated depreciation on the equipment was 826,809
+and 1,028,441 at October 31, 2003 and 2002, respectively.
+
+5. GOODWILL AND OTHER INTANGIBLE ASSETS
+
+Goodwill and other intangible assets were comprised of:
+
+ OCTOBER 31,
+ ----------------------------
+ 2002 2003
+ ----------- -----------
+Goodwill and other intangibles:
+ Goodwill .................................. 2,397,288 2,397,288
+ Other intangibles ......................... 600,000 600,000
+ ----------- -----------
+Total goodwill and other intangibles ......... 2,997,288 2,997,288
+Less accumulated amortization:
+ Goodwill .................................. 639,229 639,229
+ Other intangibles ......................... 580,000 580,000
+ ----------- -----------
+Total accumulated amortization ............... (1,219,229) (1,219,229)
+ ----------- -----------
+ 1,778,059 1,778,059
+ =========== ===========
+
+ The Company has amortized goodwill using 20-year lives through October
+31, 2002. Beginning November 1, 2002, the Company no longer amortizes goodwill
+as a result of adopting SFAS 142 "Goodwill and Other Intangible Assets" and
+instead periodically tests goodwill for impairment. In fiscal 2001 and 2002, the
+Company recorded amortization expense associated with Goodwill of 394,216 and
+ 394,216, respectively. Had amortization expense not been recorded in fiscal
+2001 and 2002, net income (loss) would have been 1,441,257 and 720,969),
+respectively. Basic and fully diluted earnings per share in fiscal 2001 and 2002
+would have been basic 0.14 and fully diluted 0.12, and basic (0.07) and diluted
+(0.07), respectively.
+
+F-15
+
+5. GOODWILL AND OTHER INTANGIBLE ASSETS (CONTINUED)
+
+IMPAIRMENT OF GOODWILL (CONTINUED)
+
+ Statement of Financial Accounting Standards No. 121 (SFAS 121)
+"ACCOUNTING FOR THE IMPAIRMENT OF LONG-LIVED ASSETS AND FOR LONG-LIVED ASSETS TO
+BE DISPOSED OF," requires that long-lived assets and certain identifiable
+intangibles to be held and used by an entity be reviewed for impairment whenever
+events or changes in circumstances indicate that the carrying amount of an asset
+may not be recoverable.
+
+ During fiscal year 2002, the Company completed all contracts relating
+to the purchase of IDP. In addition, the Company determined to dispose of
+operations at its Puerto Rico facility. As a result, the Company determined that
+the carrying amount of goodwill associated with the IDP and PRIMO acquisitions
+was not recoverable. The Company performed an analysis of the goodwill in
+accordance with SFAS 121 and determined that the fair value of the remaining
+goodwill (estimated using the present value of expected future cash flows) was
+ 0. Accordingly, the Company recorded impairment charges of 132,000 and
+ 166,000 (which is recorded in discontinued operations) for IDP and PRIMO
+respectively during fiscal year 2002. The Company did not record any impairment
+charges in fiscal 2003.
+
+F-16
+
+6. BANK LINES OF CREDIT AND NOTES PAYABLE
+
+OPERATING LINE OF CREDIT
+
+ The Company has a line of credit agreement, as amended, with a bank
+that allows the Company to borrow an amount limited to the minimum of its
+borrowing base or 3.5 million. The line of credit bears interest at the lower
+of (a) the Lender's Prime Rate per annum or (b) LIBOR Market Index Rate plus
+2.5 . The line of credit expires and is subject to renewal on March 31, 2004. As
+of October 31, 2002 and 2003, the Company had no borrowing on this line of
+credit facility. The line of credit is secured by all assets of the Company.
+
+ As of October 31, 2003, the Company's borrowing base, which is based on
+certain percentages of total accounts receivables less over due accounts, was
+ 3.5 million.
+
+For the quarter ended October 31, 2002, the Company was not in
+compliance with one of its financial covenants. On January 21, 2003, the
+Company's bank issued a waiver to allow the Company to continue borrowing as
+needed on its line of credit.
+
+ On January 22, 2004, the Company modified its bank line of credit that
+allows the Company to borrow an amount to the lesser of its collateralized cash
+on hand or 3.5 million. The line of credit bears interest at the LIBOR Market
+Index rate plus 1.25 . The line of credit is secured by all assets of the
+Company. As of January 22, 2004, there were no outstanding borrowings on the
+line of credit.
+
+NOTES PAYABLE
+
+ On February 1, 2002, the Company executed a promissory note in
+conjunction with its line of credit in the amount of 725,000. The note bears
+interest at the lower of (a) the Lender's Prime Rate per annum or (b) the LIBOR
+Market Index Rate plus 2.5 and matures on July 5, 2003. The Company makes
+monthly principal payments of approximately 43,000. In July 2003, the Company
+repaid the debt thereby extinguishing its obligations under this note. As of
+October 31, 2002 and 2003 the outstanding balance on the promissory note at
+October 31, 2003 was approximately 384,000 and 0, respectively.
+
+ On April 1, 2002, the Company executed a two-year promissory note in
+conjunction with a litigation settlement for approximately 240,000. The
+promissory note bears interest at the prime rate and matures in May 2004. The
+Company makes monthly payments of 10,000 plus accrued interest. The outstanding
+balance on the note at October 31, 2002 and 2003 was approximately 180,000 and
+ 60,000, respectively. In December 2003, the Company paid the debt thereby
+extinguishing its obligations under this note.
+
+ Notes payable consisted of the following:
+ OCTOBER 31,
+ --------------------
+ 2002 2003
+ -------- -------
+
+Bank term notes, bearing interest at the prime rate;
+ payable in monthly installments of 34,652, 42,647,
+ 10,000 and 5,389 plus accrued interest,
+ maturing in January 2002, July 2003, May 2004,
+ and February 2004, respectively........................ 563,823 81,555
+Asset loans, bearing interest at annual interest
+ rates from 0 to 7.9 due in aggregate monthly
+ payments of 479, 348, and 359 due in December
+ 2008, July 2008, and July 2008, respectively,
+ secured by certain assets of the Company............... -- 74,530
+ -------- -------
+
+ 563,823 156,085
+Less current portion..................................... 503,823 96,133
+ -------- -------
+Notes payable, long-term................................. 60,000 59,952
+ ======== ========
+
+F-17
+
+7. COMMITMENTS
+
+OPERATING LEASES
+
+ The Company leases office space for its corporate headquarters under a
+noncancelable operating lease agreement. The lease agreement was renewed in
+October 1999 and expires in February 2005. Additionally, the Company leases
+various office equipment and other office space under non-cancelable operating
+leases which expire through July of 2004. Rent expense under all leases, which
+is recorded on a straight-line basis over the life of each lease, was
+approximately 284,000, 411,000 and 352,000 for the years ended October 31,
+2001, 2002, and 2003, respectively.
+
+ Future minimum lease payments under noncancelable operating leases,
+including the leases assumed in the STMS and IDP acquisitions, at October 31,
+2003 are as follows:
+
+ 2004............................. 363,549
+ 2005............................. 91,554
+ --------
+ Total............................ 455,103
+ ========
+
+8. EMPLOYMENT AGREEMENTS
+
+ The Company has an employment agreement with Thomas P. Dunne, the
+Company's Chairman and Chief Executive Officer. The agreement for Mr. Dunne has
+a term of three years commencing April 1997 and automatically renews for
+additional one-year terms unless terminated by either the Company or the
+employee.
+
+9. STOCKHOLDERS' EQUITY
+
+EQUITY TRANSACTIONS
+
+On March 13, 2000, the Company sold 3,000 shares of its Series A
+Convertible Preferred Stock in a private placement, which is exempt from
+registration provided by Regulation D Rule 506 promulgated by the Securities and
+Exchange Commission under the Securities Act of 1933, as amended. The Company
+received net proceeds of approximately 2.7 million, which was used to fund
+current and future operations. In addition, the Company issued warrants to the
+preferred investor and the broker of the transaction in the amount of 247,525
+and 75,000 to purchase shares of the Company's common stock at 3.64 and 4.57
+per share, respectively. The warrants expire on March 13, 2005.
+
+F-18
+
+9. STOCKHOLDERS' EQUITY (CONTINUED)
+
+EQUITY TRANSACTIONS (CONTINUED)
+
+ The holders of the preferred shares were entitled to cumulative
+dividends of 5 of the liquidation preference of 1,000 per share plus accrued
+but unpaid dividends whether or not declared. For fiscal year 2001, the Company
+accrued dividends of 112,500 and no dividends were unpaid as of October 31,
+2001. Each holder of preferred shares was entitled to voting rights equal to the
+number of shares of common stock into which such preferred shares were
+convertible.
+
+ In August 2001, the Company completed a transaction with its Preferred
+Shareholders to redeem all of its outstanding Series A Convertible Preferred
+stock for 2,500,000 in cash. Under the redemption agreement, the Preferred
+Shareholders retained approximately 247,000 warrants previously issued. As a
+result of the transaction, the Company recorded an increase to income available
+to common stockholders of 721,816, representing the excess of the carrying
+value of the preferred stock plus the beneficial conversion feature discount
+over the repurchase price.
+
+ On October 24, 2003, SteelCloud, Inc. issued 1,887,500 shares of its
+common stock to investors in a private placement transaction. Net proceeds after
+costs and expenses associated with this private placement were approximately
+ 7.2 million. SteelCloud, Inc. received gross proceeds of 7,550,000 in
+connection with this transaction. Additionally, SteelCloud, Inc. issued an
+aggregate of 493,359 and 85,938 warrants at an exercise price of 5.81 and 4.00
+per share, respectively, which are exercisable until October 24, 2008. The
+securities were sold pursuant to an exemption from registration provided by
+section 4(2) of the Securities Act.
+
+STOCK OPTIONS
+
+ On January 6, 1997, the Company adopted the 1998 Stock Option Plan (the
+1998 Option Plan), under the 1998 Option Plan the Company can grant up to
+2,750,000 options to officers, directors and employees, who contribute
+materially to the success of the Company. In addition, the Company established
+the 2002 Stock Option Plan (the 2002 Option Plan) in May 2002, which permits the
+Company to grant up to 750,000 options to officers, directors and employees
+under that Plan. Stock options are generally granted at the fair market value of
+its common stock at the date of grant. However, in fiscal 2002, the Company
+granted 106,000 options with exercise prices of 1.20 when the underlying value
+of the Company's common stock was 1.81. The Company recorded a charge for
+compensation expense associated with these options of 64,660. The options vest
+ratably over a stated period of time not to exceed four years. The contractual
+term of the options is five years.
+
+F-19
+
+9. STOCKHOLDERS' EQUITY (CONTINUED)
+
+STOCK OPTIONS (CONTINUED)
+
+Common stock option activity was as follows:
+ SHARES WEIGHTED-
+ AVERAGE
+ EXERCISE
+ PRICE
+ ------------------------
+ Outstanding at October 31, 2000 ............... 2,441,933 3.95
+ Options granted ............................. 984,000 0.74
+ Options canceled or expired ................. (387,599) 3.20
+ ---------- --------
+Outstanding at October 31, 2001 ................ 3,038,334 3.01
+ Options granted ............................. 323,500 1.21
+ Options exercised ........................... (227,826) 1.20
+ Options canceled or expired ................. (258,836) 1.96
+ ---------- --------
+Outstanding at October 31, 2002 ................ 2,875,172 3.04
+ ---------- --------
+ Exercisable at October 31, 2002 ............... 1,537,115 1.83
+ Options granted ............................. 281,250 1.49
+ Options exercised ........................... (570,453) 1.19
+ Options canceled or expired ................. (99,134) 1.38
+ ---------- --------
+Outstanding at October 31, 2003 ................ 2,486,835 3.34
+ ---------- --------
+ Exercisable at October 31, 2003 ............... 1,350,670 1.81
+
+The total options outstanding include 600,000 options granted to the
+former IDP stockholders that are not included in the Option Plan.
+
+ As of October 31, 2002 and 2003, there were 474,828 and 193,578 options
+available for future grants under the 1998 Option Plan, respectively and 750,000
+options available for future grants under the 2002 Option Plan.
+
+The following table summarizes information about fixed-price stock
+options outstanding at October 31, 2003:
+
+ AVERAGE WEIGHTED-
+ REMAINING AVERAGE
+RANGE OF EXERCISE PRICES NUMBER CONTRACTUAL EXERCISE
+ OUTSTANDING LIFE PRICE
+ -------------------------------------------
+
+ 0.55- 1.75 .................... 1,309,176 2.73 0.98
+ 1.76- 4.50 .................... 577,659 3.61 3.08
+ 4.51- 8.75 .................... 600,000 4.50 8.75
+ --------- ---- --------
+ 0.55- 8.75 .................... 2,486,835 3.36 3.34
+ ========= ==== ========
+
+F-20
+
+9. STOCKHOLDERS' EQUITY (CONTINUED)
+
+STOCK OPTIONS (CONTINUED)
+
+ Had compensation expense related to the stock options been determined
+based on the fair value at the grant date for options granted during the years
+ended October 31, 2001, 2002, and 2003 consistent with the provisions of SFAS
+123, the Company's net income and earnings per share would have been as follows:
+
+ YEAR ENDED OCTOBER 31,
+ --------------------------------------
+ 2001 2002 2003
+ --------------------------------------
+
+Net income (loss) - pro forma ........ 503,444 (1,568,779) (410,944)
+Net income (loss) per share - pro forma 0.05 (0.16) (0.04)
+Net income (loss) per share -
+ assuming dilution pro forma ......... 0.04 (0.15) (0.04)
+
+The effect of applying SFAS 123 on pro forma net income as stated above
+is not necessarily representative of the effects on reported net income for
+future years due to, among other things, the vesting period of the stock options
+and the fair value of additional options in the future years.
+
+ The fair value of each option grant is estimated on the date of grant
+using the Black-Scholes option-pricing fair value model with the following
+weighted- average assumptions used for grants in 2001, 2002 and 2003: dividend
+yield of 0 , expected volatility of 152 , 87 and 114 , respectively; risk-free
+interest rates of 4.50 , 4.27 and 4.73 respectively; and expected life of the
+option term of five years. The weighted average fair values of the options
+granted in 2001 2002, and 2003 with a stock price equal to the exercise price is
+ 0.74, 0.98 and 0.98 respectively.
+
+F-21
+
+10. INCOME TAXES
+
+ Deferred income taxes reflect the net tax effects of temporary
+differences between the carrying amounts of assets and liabilities for financial
+reporting purposes and the amounts used for income tax purposes.
+
+ Components of the Company's net deferred tax asset balance are as
+follows:
+
+OCTOBER 31,
+ -----------------------------
+ 2002 2003
+ ------------ ------------
+Deferred tax asset:
+ Current portion:
+ Accrued expenses ..................... 314,051 167,138
+ Asset reserves ....................... 514,207 252,358
+ Other ................................ -- 57,930
+ ------------ ------------
+ Total current portion ..................... 828,258 477,426
+ ------------ ------------
+ Long term portion:
+ Net operating loss carryforwards ..... 2,931,442 12,585,543
+ Depreciation ......................... 601,029 323,461
+ ------------ ------------
+ Total long term portion ................... 3,532,471 12,909,004
+ ------------ ------------
+Total deferred tax asset ..................... 4,360,729 13,386,430
+ ------------ ------------
+Deferred tax credit:
+ Valuation allowance ....................... (3,960,729) (12,986,430)
+ ------------ ------------
+Net deferred tax asset ....................... 400,000 400,000
+ ============ ============
+
+ As of October 31, 2003, the Company had approximately 32.6 million in
+net operating loss carryforwards, which expire between 2012 and 2023. The
+Company submitted amended tax filings resulting in an increase to net operating
+loss carryforwards of approximately 30 million relating to a worthless stock
+deduction for its investment in IDP. As of October 31, 2003, the Company has
+recorded a valuation allowance of approximately 13 million against the total
+deferred tax asset of 13.4 million, based upon its evaluation of future
+estimates of taxable income. The Company's evaluation included consideration of
+historical earnings (excluding non-recurring charges) as well as projected
+near-term earnings based on its backlog, customer relationships and operating
+environment.
+
+ Components of the provision for income taxes are as follows:
+
+ YEARS ENDED OCTOBER 31,
+ ----------------------------------------------
+ 2001 2002 2003
+ --------- --------- -------------------
+Current tax expense (benefit):
+ Federal ..................... 27,400 1,200 --
+ --------- --------- -------------------
+ State ........................ -- -- --
+ --------- --------- -------------------
+ 27,400 1,200 --
+Deferred tax expense:
+ Federal ...................... 55,532 (247,000) --
+ State ........................ 19,344 (34,000) --
+ --------- --------- -------------------
+ 74,876 (281,000) --
+ --------- --------- -------------------
+Total provision for
+ (benefit from) income taxes .. 102,276 (279,800) --
+ ========= ========= ===================
+
+F-22
+
+10. INCOME TAXES (CONTINUED)
+
+ The reconciliation of income tax from the Federal statutory rate of 34 
+is:
+
+YEARS ENDED OCTOBER 31,
+ -----------------------------------------
+ 2001 2002 2003
+ ----------- ----------- -----------
+
+Tax at statutory rates: ................ 380,291 98,845 74,796
+
+Non-deductible expenses (income), net .. 143,141 (4,199) (9,110,660)
+Valuation allowance and other .......... (492,621) (387,877) 9,025,701
+State income tax, net of federal benefit 71,465 13,431 10,163
+ ----------- ----------- -----------
+ 102,276 (279,800) --
+ =========== =========== ===========
+
+11. RETIREMENT PLANS
+
+401(K) PLANS
+
+ The Company maintains a 401(k) (the "Plan") for all current employees.
+Under the Plan, employees are eligible to participate the first calendar day of
+the month following their first day of service and attaining the age of 18.
+Employees can defer up to the lower of 15 or 12,000 of compensation. Employee
+contributions are subject to Internal Revenue Service limitations. All employees
+who contributed to the Plan are eligible to share in discretionary Company
+matching contributions. Company contributions vest over 5 years. In fiscal 2001,
+2002 and 2003, the Company contributed approximately 60,000, 71,000 and
+ 72,000 to the participants of the 401(k), respectively.
+
+F-23
+
+12. EARNINGS PER SHARE
+
+ The following table sets forth the computation of basic and diluted
+earnings per share:
+
+YEARS ENDED OCTOBER 31,
+ --------------------------------------------
+ 2001 2002 2003
+ ------------ ------------ ------------
+Numerator:
+ 
+ Net income from continuing operations 1,023,157 570,523 363,930
+ Preferred Stock dividends ............ (112,500) -- --
+ Redemption of preferred stock ........ 721,816 -- --
+ Cumulative effect of change in
+ accounting principle ............. (576,001) -- --
+ ------------ ------------ ------------
+ Net income from continuing
+ operations available to
+ common stockholders before
+ extraordinary gain .................. 1,056,472 570,523 363,930
+ ============ ============ ============
+Denominator:
+Denominator for basic earnings per share-
+ weighted-average shares ............... 10,111,364 9,947,675 10,240,630
+Effect of dilutive securities:
+ Employee stock options ............... 36,899 863,835 721,420
+ Convertible preferred stock .......... 2,314,969 -- --
+ ------------ ------------ ------------
+ Dilutive potential common shares ..... 2,351,868 863,853 721,420
+ ------------ ------------ ------------
+ Denominator for diluted earnings
+ per share - adjusted weighted-average
+ shares and assumed conversions ....... 12,463,232 10,811,510 10,962,050
+ ------------ ------------ ------------
+
+Earnings per share from continuing
+ operations, basic: .................... 0.10 0.06 0.04
+ ============ ============ ============
+
+Earnings per share from continuing
+ operations, diluted: .................. 0.08 0.05 0.03
+ ============ ============ ============
+
+13. CONTINGENCIES
+
+IDP ACQUISITION
+
+ On July 31, 1998 the Company received notice from the SBA that it was
+denying the request of the U.S. Air Force to waive the requirement to terminate
+IDP's Desktop V contract for the convenience of the Government upon the change
+in control of IDP to the Company. The Company appealed the denial by the SBA to
+the SBA's Office of Hearings and Appeals. On August 31, 1999, the SBA denied the
+appeal and ruled that the U.S. Air Force must terminate-for-convenience the
+Desktop V contract. Under a termination-for-convenience, the Government shall
+reimburse the Company for all costs incurred in the performance of the contract.
+The Company expects to recover from the Government a portion or all of its
+unreimbursed costs. The Company is currently in negotiations with the Government
+regarding this matter. No assurances can be given that the Company will
+successfully recover any costs related to this matter.
+
+F-24
+
+14. QUARTERLY FINANCIAL INFORMATION (UNAUDITED)
+
+ Quarterly financial information for fiscal 2003 and 2002 is presented
+in the following tables:
+
+1ST 2ND 3RD 4TH
+ QUARTER QUARTER QUARTER QUARTER (1)
+ ----------- ----------- ----------- -----------
+2003
+ 
+Revenue ................... 7,634,168 8,219,870 8,156,414 9,031,141
+Gross Profit .............. 1,542,337 1,838,008 1,657,931 1,651,261
+Net income from
+ continuing operations ... 109,045 136,197 40,379 78,311
+Total (loss) from
+ discontinued operations . (29,501) (26,954) (30,071) (57,418)
+Net income (loss) available
+ to common shareholders .. 79,544 109,243 10,308 20,893
+
+PER SHARE DATA
+
+Net income (loss)
+Basic ..................... 0.01 0.01 0.01 0.01
+Diluted ................... 0.01 0.01 0.01 0.01
+
+ 2002
+Revenue ................... 9,354,066 7,626,045 6,390,414 5,786,843
+Gross Profit .............. 2,514,202 2,124,639 1,797,579 557,513
+Net income (loss) from
+ continuing operations ... 753,974 493,043 147,317 (823,811)
+(Loss) from discontinued
+ operations .............. (267,468) (143,736) (46,144) (1,228,360)
+ ----------- ----------- ----------- -----------
+Net income (loss) available
+ to common shareholders .. 486,506 349,307 101,173 (2,052,171)
+
+PER SHARE DATA
+
+Net income (loss)
+Basic ..................... 0.07 0.05 0.02 (0.25)
+Diluted ................... 0.07 0.04 0.02 (0.23)
+
+During fourth quarter FY03, the Company recorded certain adjustments of
+approximately 484,000 relating to the write-off of obsolete contract-specific
+inventory, approximately 259,000 relating to the reduction of contract specific
+warranty reserve and approximately 250,000 relating to the reversal of a
+previously accrued contingency. The aggregate effect of such adjustments was to
+increase net income by approximately 25,000.
+
+Earnings per share data are rounded to the nearest penny each quarter;
+therefore, aggregate quarterly earnings per share may not agree to the fiscal
+year earnings per share reported on the Consolidated Statement of Operations.
+
+F-25
+
+REPORT OF INDEPENDENT CERTIFIED PUBLIC ACCOUNTANTS ON SUPPLEMENTAL INFORMATION
+
+Board of Directors and Stockholders
+SteelCloud, Inc.
+
+ In connection with our audit of the consolidated financial statements
+of SteelCloud, Inc. referred to in our report dated December 19, 2003, which is
+included in the Annual Report on Form 10-K, we have also audited Schedule II for
+each of the two years in the period ended October 31, 2003. In our opinion, this
+schedule, when considered in relation to the basic financial statements taken as
+a whole, presents fairly, in all material respects, the information set forth
+therein.
+
+/s/ Grant Thornton LLP
+- ----------------------
+Vienna, Virginia
+December 19, 2003
+
+S-1
+
+REPORT OF ERNST & YOUNG, LLP, INDEPENDENT AUDITORS
+
+The Board of Directors
+SteelCloud, Inc.
+
+ We have audited the consolidated financial statements of SteelCloud, Inc.
+(a Virginia corporation) for the year ended October 31, 2001 and have issued our
+report thereon dated December 21, 2001 (included elsewhere in this Form 10-K).
+Our audit also included the consolidated financial statement schedule for the
+year ended October 31, 2001 listed in Item 14 of this Form 10-K. The schedule is
+the responsibility of the Company's management. Our responsibility is to express
+an opinion based on our audit.
+
+ In our opinion, the consolidated financial statement schedule for the year
+ended October 31, 2001 referred to above, when considered in relation to the
+basic consolidated financial statements taken as a whole, presents fairly in all
+material respects, the information set forth herein.
+
+/s/ Ernst & Young LLP
+- -----------------------
+McLean, Virginia
+December 21, 2001
+
+S-2
+
+SCHEDULE II VALUATION AND QUALIFYING ACCOUNTS
+ STEELCLOUD, INC.
+
+BALANCE AT BALANCE
+ BEGINNING OF AT END OF
+CLASSIFICATION YEAR ADDITIONS DEDUCTIONS YEAR
+- ---------------------------------------------------------------------------------------------
+
+Allowance for doubtful accounts:
+ 
+Year ended October 31, 2001 ..... 100,000 -- -- 100,000
+Year ended October 31, 2002 ..... 100,000 203,000 10,000(1) 293,000
+Year ended October 31, 2003 ..... 293,000 -- -- 293,000
+
+Inventory reserve:
+Year ended October 31, 2001 ..... 1,554,000 120,000(3) 466,438(2) 1,207,562
+Year ended October 31, 2002 ..... 1,207,562 864,435(3) 1,486,360(2) 585,637
+ 99,222(3)
+Year ended October 31, 2003 ..... 585,637 360,007(4) 684,859(2) 360,007
+
+Deferred tax valuation allowance:
+Year ended October 31, 2001 ..... 5,011,565 -- 662,958 4,348,607
+Year ended October 31, 2002 ..... 4,348,607 -- 387,878 3,960,729
+Year ended October 31, 2003 ..... 3,960,729 9,025,701 -- 12,986,430
+
+- -----------
+
+(1) Write-offs of accounts receivable
+
+(2) Write-offs of inventory
+
+(3) Provision for inventory obsolescence
+
+(4) Reclassification of reserve for defective and/or returned inventory
+
+S-3
+
+<EX-11.1>
+ 3
+ exh11-1.txt
+ COMPUTATION OF EARNINGS PER SHARE
+
+EXHIBIT 11.1
+
+STATEMENT OF COMPUTATION OF EARNINGS PER SHARE
+
+The following table sets forth the computation of basic and diluted earnings per
+share:
+
+YEARS ENDED OCTOBER 31,
+ -------------------------------------------
+ 2001 2002 2003
+ ------------ ------------ ------------
+Numerator:
+ 
+ Net income from continuing operations 1,023,157 570,523 363,932
+ Preferred Stock dividends ............ (112,500) -- --
+ Redemption of preferred stock ........ 721,816 -- --
+ Cumulative effect of change in
+ accounting principle ............... (576,001) -- --
+ ------------ ------------ ------------
+ Net income from continuing
+ operations available to
+ common stockholders before
+ extraordinary gain .................. 1,056,472 570,523 363,932
+ ============ ============ ============
+Denominator:
+Denominator for basic earnings per share-
+ weighted-average shares ............... 10,111,364 9,947,675 10,240,630
+Effect of dilutive securities:
+ Employee stock options ............... 36,899 863,835 721,420
+ Convertible preferred stock .......... 2,314,969 -- --
+ ------------ ------------ ------------
+ Dilutive potential common shares ..... 2,351,868 863,853 721,420
+ ------------ ------------ ------------
+ Denominator for diluted earnings
+ per share - adjusted
+ weighted-average shares
+ and assumed conversions ............... 12,463,232 10,811,510 10,962,050
+ ------------ ------------ ------------
+
+Earnings per share from continuing
+ operations, basic: .................... 0.10 0.06 0.04
+ ============ ============ ============
+
+Earnings per share from continuing
+ operations, diluted: .................. 0.08 0.05 0.03
+ ============ ============ ============
+
+</EX-11.1>
+
+<EX-21>
+ 4
+ exh21.txt
+ LIST OF SUBSIDIARIES
+
+EXHIBIT 21
+
+LIST OF SUBSIDIARIES
+
+</EX-21>
+
+<EX-23>
+ 5
+ exh23-1.txt
+ CONSENT OF ACCOUNTANTS
+
+EXHIBIT 23.1
+
+ CONSENT OF INDEPENDENT CERTIFIED PUBLIC ACCOUNTANTS
+
+We consent to the incorporation by reference in the Registration
+Statements on Form S-8 (Nos. 333-92406, 333-61557 and 333-52419) pertaining to
+the 2002 Stock Option Plan, Employee Stock Purchase Plan and 1997 Amended Stock
+Option Plan of SteelCloud, Inc. (a Virginia corporation) of our reports dated
+December 19, 2003 with respect to the consolidated financial statements and
+schedule of SteelCloud, Inc. included in the Annual Report (Form 10-K) for the
+year ended October 31, 2003.
+
+/s/ Grant Thornton LLP
+- ----------------------
+Vienna, Virginia
+January 26, 2004
+
+</EX-23>
+
+<EX-23.2>
+ 6
+ exh23-2.txt
+ CONSENT OF AUDITORS
+
+EXHIBIT 23.2
+
+ CONSENT OF ERNST & YOUNG LLP, INDEPENDENT AUDITORS
+
+We consent to the incorporation by reference in the Registration
+Statements on Form S-8 (Nos. 333-92406, 333-61557 and 333-52419) pertaining to
+the 2002 Stock Option Plan, Employee Stock Purchase Plan and 1997 Amended Stock
+Option Plan of SteelCloud, Inc. (a Virginia corporation) of our report dated
+December 21, 2001, with respect to the 2001 consolidated financial statements
+and schedule of SteelCloud, Inc. included in the Annual Report (Form 10-K) for
+the year ended October 31, 2003.
+
+ /s/ ERNST & YOUNG LLP
+ ---------------------
+
+McLean, Virginia
+January 26, 2004
+
+</EX-23.2>
+
+<EX-31>
+ 7
+ exh31-1.txt
+ CERTIFICATION OF CEO (302)
+
+Exhibit 31.1
+
+ CERTIFICATION
+
+I, Thomas P. Dunne, certify that:
+
+ 1. I have reviewed this annual report on Form 10-K of SteelCloud, Inc.;
+
+ 2. Based on my knowledge, this report does not contain any untrue
+statement of a material fact or omit to state a material fact necessary to make
+the statements made, in light of the circumstances under which such statements
+were made, not misleading with respect to the period covered by this report;
+
+ 3. Based on my knowledge, the financial statements, and other financial
+information included in this report, fairly present in all material respects the
+financial condition, results of operations and cash flows of the registrant as
+of, and for, the periods presented in this report;
+
+ 4. The registrant's other certifying officer and I are responsible for
+establishing and maintaining disclosure controls and procedures (as defined in
+Exchange Act Rules 13a-15(e) and 15d-15(e)) for the registrant and have:
+
+ a) Designed such disclosure controls and procedures, or caused such
+ disclosure controls and procedures to be designed under our
+ supervision, to ensure that material information relating to the
+ registrant, including its consolidated subsidiaries, is made
+ known to us by others within those entities, particularly during
+ the period in which this report is being prepared;
+
+ b) Evaluated the effectiveness of the registrant's disclosure
+ controls and procedures and presented in this report our
+ conclusions about the effectiveness of the disclosure controls
+ and procedures, as of the end of the period covered by this
+ report based on such evaluation; and
+
+ c) Disclosed in this report any change in the registrant's internal
+ control over financial reporting that occurred during the
+ registrant's most recent fiscal quarter (the registrant's fourth
+ fiscal quarter in the case of an annual report) that has
+ materially affected, or is reasonably likely to materially
+ affect, the registrant's internal control over financial
+ reporting; and
+
+ 5. The registrant's other certifying officer and I have disclosed, based
+on our most recent evaluation of internal control over financial reporting, to
+the registrant's auditors and the audit committee of the registrant's board of
+directors (or persons performing the equivalent functions):
+
+ a) All significant deficiencies and material weaknesses in the
+ design or operation of internal control over financial reporting
+ which are reasonably likely to adversely affect the registrant's
+ ability to record, process, summarize and report financial
+ information; and
+
+ b) Any fraud, whether or not material, that involves management or
+ other employees who have a significant role in the registrant's
+ internal control over financial reporting.
+
+Date: January 29, 2004 By: /S/ THOMAS P. DUNNE
+ -------------------
+ Name: Thomas P. Dunne
+ Title: Chairman and Chief
+ Executive Officer
+
+</EX-31>
+
+<EX-31>
+ 8
+ exh31-2.txt
+ CERTIFICATION OF CFO (302)
+
+Exhibit 31.2
+
+ CERTIFICATION
+
+I, Kevin Murphy, certify that:
+
+ 1. I have reviewed this annual report on Form 10-K of SteelCloud, Inc.;
+
+ 2. Based on my knowledge, this report does not contain any untrue
+statement of a material fact or omit to state a material fact necessary to make
+the statements made, in light of the circumstances under which such statements
+were made, not misleading with respect to the period covered by this report;
+
+ 3. Based on my knowledge, the financial statements, and other financial
+information included in this report, fairly present in all material respects the
+financial condition, results of operations and cash flows of the registrant as
+of, and for, the periods presented in this report;
+
+ 4. The registrant's other certifying officer and I are responsible for
+establishing and maintaining disclosure controls and procedures (as defined in
+Exchange Act Rules 13a-15(e) and 15d-15(e)) for the registrant and have:
+
+ a) Designed such disclosure controls and procedures, or caused such
+ disclosure controls and procedures to be designed under our
+ supervision, to ensure that material information relating to the
+ registrant, including its consolidated subsidiaries, is made
+ known to us by others within those entities, particularly during
+ the period in which this report is being prepared;
+
+ b) Evaluated the effectiveness of the registrant's disclosure
+ controls and procedures and presented in this report our
+ conclusions about the effectiveness of the disclosure controls
+ and procedures, as of the end of the period covered by this
+ report based on such evaluation; and
+
+ c) Disclosed in this report any change in the registrant's internal
+ control over financial reporting that occurred during the
+ registrant's most recent fiscal quarter (the registrant's fourth
+ fiscal quarter in the case of an annual report) that has
+ materially affected, or is reasonably likely to materially
+ affect, the registrant's internal control over financial
+ reporting; and
+
+ 5. The registrant's other certifying officer and I have disclosed, based
+on our most recent evaluation of internal control over financial reporting, to
+the registrant's auditors and the audit committee of the registrant's board of
+directors (or persons performing the equivalent functions):
+
+ a) All significant deficiencies and material weaknesses in the
+ design or operation of internal control over financial reporting
+ which are reasonably likely to adversely affect the registrant's
+ ability to record, process, summarize and report financial
+ information; and
+
+ b) Any fraud, whether or not material, that involves management or
+ other employees who have a significant role in the registrant's
+ internal control over financial reporting.
+
+Date: January 29, 2004 By: /S/ KEVIN MURPHY
+ ----------------
+ Name: Kevin Murphy
+ Title: Chief Financial Officer
+
+</EX-31>
+
+<EX-32>
+ 9
+ exh32-1.txt
+ CERTIFICATION OF CEO (906)
+
+Exhibit 32.1
+ CERTIFICATION PURSUANT TO
+ 8 U.S.C. SECTION 1350,
+ AS ADOPTED PURSUANT TO
+ SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002
+
+ In connection with the Annual Report of SteelCloud, Inc. (the
+"Company") on Form 10-K for the year ended October 31, 2003 as filed with the
+Securities and Exchange Commission on the date hereof (the "Report"), I, Thomas
+P. Dunne Chief Executive Officer of the Company, certify, pursuant to 18 U.S.C.
+ss. 1350, as adopted pursuant to ss.906 of the Sarbanes-Oxley Act of 2002, that:
+
+ 1) The Report fully complies with the requirements of section 13(a) or
+ 15(d) of the Securities Exchange Act of 1934; and
+
+ 2) The information contained in the Report fairly presents, in all
+ material respects, the financial condition and result of operations of
+ the Company for the periods presented therein.
+
+January 29, 2004 By: /S/ THOMAS P. DUNNE
+ -------------------
+ Name: Thomas P. Dunne
+ Title: Chief Executive Officer
+
+</EX-32>
+
+<EX-32>
+ 10
+ exh32-2.txt
+ CERTIFICATION OF CFO (906)
+
+Exhibit 32.2
+
+ CERTIFICATION PURSUANT TO
+ 18 U.S.C. SECTION 1350,
+ AS ADOPTED PURSUANT TO
+ SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002
+
+In connection with the Annual Report of SteelCloud, Inc. (the "Company") on Form
+10-K for the year ended October 31, 2003 as filed with the Securities and
+Exchange Commission on the date hereof (the "Report"), I, Kevin Murphy Vice
+President of Finance of the Company, certify, pursuant to 18 U.S.C. ss. 1350, as
+adopted pursuant to ss.906 of the Sarbanes-Oxley Act of 2002, that:
+
+ 1) The Report fully complies with the requirements of section 13(a) or
+ 15(d) of the Securities Exchange Act of 1934; and
+
+ 2) The information contained in the Report fairly presents, in all
+ material respects, the financial condition and result of operations of
+ the Company for the periods presented herein.
+
+January 29, 2004 By: /S/ KEVIN MURPHY
+ ----------------
+ Name: Kevin Murphy
+ Title: Chief Financial Officer
+
+</EX-32>
+

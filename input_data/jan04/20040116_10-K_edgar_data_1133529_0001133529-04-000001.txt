@@ -1,0 +1,1205 @@
+<Header>
+<FileStats>
+    <FileName>20040116_10-K_edgar_data_1133529_0001133529-04-000001.txt</FileName>
+    <GrossFileSize>48207</GrossFileSize>
+    <NetFileSize>43870</NetFileSize>
+    <NonText_DocumentType_Chars>0</NonText_DocumentType_Chars>
+    <HTML_Chars>103</HTML_Chars>
+    <XBRL_Chars>0</XBRL_Chars>
+    <XML_Chars>0</XML_Chars>
+    <N_Exhibits>0</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0001133529-04-000001.hdr.sgml : 20040116
+<ACCEPTANCE-DATETIME>20040115173735
+ACCESSION NUMBER:		0001133529-04-000001
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20030930
+FILED AS OF DATE:		20040116
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			ANZ CAPEL COURT LTD
+		CENTRAL INDEX KEY:			0001133529
+		STANDARD INDUSTRIAL CLASSIFICATION:	ASSET-BACKED SECURITIES [6189]
+		STATE OF INCORPORATION:			C3
+		FISCAL YEAR END:			0930
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	333-54988
+		FILM NUMBER:		04528147
+
+	BUSINESS ADDRESS:	
+		STREET 1:		530 COLLINS ST LEVEL 12
+		STREET 2:		MELBOURNE VICTORIA
+		CITY:			3000 AUSTRALIA
+		STATE:			C3
+		ZIP:			00000
+
+	MAIL ADDRESS:	
+		STREET 1:		530 COLLINS ST LEVEL 12
+		STREET 2:		MELBOURNE VICTORIA
+		CITY:			3000 AUSTRALIA
+
+</SEC-Header>
+</Header>
+
+ 
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ NL4/+09JgH3Fd/Evq5THpN3M8aUX0PUfVd3YIg/L64pvfBdelUmcKQgPb/glXqCp
+ OYZdPP0/vPFlsEaJX8GmnQ==
+
+ 0001133529-04-000001.txt : 20040116
+
+10-K
+ 1
+ kng20011g30sep03_10-k.txt
+ 
+ UNITED STATES
+ SECURITIES AND EXCHANGE COMMISSION
+ Washington, D.C. 20549
+
+ FORM 10-K
+
+(Mark One)
+
+[x] ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d)
+OF THE SECURITIES EXCHANGE ACT OF 1934
+
+For the fiscal year ended September 30, 2003
+
+ or
+
+[ ] TRANSITION REPORT PURSUANT TO SECTION 13 OR
+15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+
+For the transition period from
+ to
+- ----------------- -----------------
+
+Commission file number 333-54988
+
+ ANZ Capel Court Limited
+- ------------------------------------------------------------------
+ (Exact name of registrant as specified in its
+ charter)
+
+ Victoria, Australia N/A
+- ------------------------------- -------------------
+(State or other jurisdiction of	 (I.R.S. Employer
+ incorporation or organization) Identification No.)
+
+Level 12
+530 Collins Street
+Melbourne Victoria 3000
+AUSTRALIA N/A
+- ---------------------------------------- -----------
+(Address of principal executive offices) (Zip Code)
+
+Registrant's telephone number, including area code: (61 3) 9273 3173
+ -----------------
+
+Securities registered pursuant to Section 12(b) of
+the Act:
+None
+
+Securities registered pursuant to Section 12(g) of
+the Act:
+None
+
+Indicate by check mark whether the registrant (1)
+has filed all reports required to be filed by
+Section 13 or 15(d) of the Securities Exchange Act
+of 1934 during the preceding 12 months (or for such
+shorter period that the registrant was required to
+file such reports), and (2) has been subject to such
+filing requirements for the past 90 days.
+
+ Yes [X] No [ ]
+
+The information required for some items in Form 10-K
+is "not applicable" to the Trust or the Trust
+Manager. As used in this Annual Report files on
+Form 10-K, "not applicable" or "Not Applicable"
+means that the response to the referenced item is
+omitted in reliance on the procedures outlined in
+the numerous no-action letters issued by the
+Commission's Staff with respect to substantially
+similar certificates and trusts that file annual
+reports on Form 10-K.
+
+Table of Contents
+
+Part I
+
+ - Item 1. Business
+ - Item 2. Properties
+ - Item 3. Legal Proceedings
+ - Item 4. Submission of Matters to a Vote of
+Security Holders
+
+Part II
+
+ - Item 5. Market for Registrant's Common Equity
+ and Related Stockholder Matters
+ - Item 6. Selected Financial Data
+ - Item 7. Management's Discussion and Analysis
+ of Financial Condition and Results of Operation
+ - Item 7A. Quantitative and Qualitative Disclosures
+ About Market Risk
+ - Item 8. Financial Statements and Supplementary
+ Data
+ - Item 9. Changes in and Disagreements With
+ Accountants on Accounting and Financial Disclosure
+
+Part III
+
+ - Item 10. Directors and Executive Officers of the Registrant
+ - Item 11. Executive Compensation
+ - Item 12. Security Ownership of Certain Beneficial
+ Owners and Management
+ - Item 13. Certain Relationships and Related Transactions
+
+Part IV
+
+ - Item 14. Exhibits, Financial Statement Schedules,
+ and Reports on Form 8-K
+
+PART I
+
+Item 1. Business.
+This Annual Report on Form 10-K relates to the
+Kingfisher Trust 2001-1G (the "Trust") and the Class
+A Residential Mortgage Backed Floating Rate
+Notes (the "Notes") issued pursuant to the Note Trust
+Deed dated May 18, 2001, between Perpetual Trustee
+Company Limited, as Trustee (the "Issuer Trustee"); ANZ
+Capel Court Limited (the "Trust Manager") as Trust
+Manager; and The Bank of New York, New York Branch as
+Principal Paying Agent (the "Note Trustee").
+Capitalised terms used in this Form 10-K and
+not defined have the same meanings ascribed to such
+terms in the Prospectus for the above-referenced Notes.
+The only business of the Trust is the collection
+and distribution of payments on the residential
+mortgage loans in the manner described in the
+Prospectus on Form 424B1(File No.333-54988).
+Accordingly, there is no relevant information to
+report in response to Item 101 of Regulation S-K.
+
+Item 2. Properties
+The Trust does not own any physical properties.
+The property of the Trust consists solely of residential
+mortgage loans.
+Information concerning such property can be found in the
+Trust's Investor Reports and Prospectus filed with the
+Securities and Exchange Commission by the Registrant under
+Forms 8-K and 424B1 respectively.
+
+Item 3. Legal Proceedings.
+The Registrant knows of no material legal proceedings
+involving the Issuer Trustee, the Servicer or the Registrant
+with respect to the Trust which were pending as of
+September 30, 2003, or as of the date of this report
+other than routine litigation incidental to the duties
+of the respective parties.
+
+Item 4. Submission of Matters to a Vote of Security Holders
+No votes or consents of Noteholders were solicited during
+the fiscal year for any purpose.
+
+PART II
+
+Item 5. Market for Registrant's Common Equity and Related
+Stockholder Matters
+The Notes are not traded on any nationally
+recognised exchange in the United States. The Notes
+are listed and exchanged on the London Stock
+Exchange. Since the Trust pays no dividends with respect
+to the Notes, the information required by Item 201 of
+Regulation S-K regarding dividends is inapplicable to
+the Trust. See Exhibit 99.1 for information with respect
+to distributions to Noteholders.
+
+Item 6. Selected Financial Data.
+The quarterly Investor Reports, which are required to
+be included with each quarterly distribution of the
+Trusts assets to Noteholders, set forth for the prior
+quarter, as well as cumulatively, all of the relevant
+financial information required by the Note Trust Deed
+to be reported to Noteholders.
+The Investor Reports for the Payment Dates in December 2002,
+March 2003, June 2003 and September 2003 are incorporated
+herein by reference and aggregated totals for the fiscal
+year are incorporated herein as Exhibit No. 99.1.
+The foregoing presents all relevant financial information
+relating to the Trust. Because of the limited business
+activity of the Trust, the Selected Financial Data
+specified in Item 301 of Regulation S-K would not provide
+any meaningful additional information.
+
+Item 7. Management's Discussion and Analysis of Financial
+Condition and Results of Operation
+Because of the limited business activity of the Trust,
+the presentation of Managements Discussion and Analysis
+of Financial Condition and Results of Operations, as
+otherwise required by Item 303 of Regulation S-K, would
+not be meaningful. All relevant information is contained
+in the Investor Reports (filed under Current Reports
+on Form 8-K) as described above.
+
+Item 7A. Quantitative and Qualitative Disclosures About
+Market Risk
+Currency Exchange Control Risk
+Interest and principal payments to holders of Notes
+are paid in United States dollars ("U.S. dollars").
+However payments on the Housing Loans are received
+by the Issuer Trustee, in Australian dollars, in
+Australia (the "Collections"). Pursuant to certain
+swap agreements (the "Swap Agreements") the Issuer
+Trustee is required to pay a portion of the
+Collections to certain swap counterparties (the
+"Currency Swap Providers") who in turn pays ("Swap
+Currency Exchange"), at the direction of the Issuer
+Trustee, U.S. dollars to or for the account of the
+Noteholders, (the "Currency Swap"). It is possible
+that in the future Australia may impose exchange
+controls that affect the availability of Australian
+dollar payments for making payments under the Currency
+Swap. The holders of the Notes will bear the risk of
+the imposition of foreign exchange controls by the
+Australian government that impact upon the Issuer
+Trustee's ability to exchange the Collections for U.S.
+dollars. The Issuer Trustee has no control over
+such risk, which will generally be affected by
+economic and political events in Australia. If the
+Issuer Trustee does not pay some or all of the
+amount in Australian dollars which it is required to
+pay the Currency Swap Provider under the Currency
+Swap, the Currency Swap Provider is only required to
+pay the U.S. dollar equivalent of the amounts it
+actually receives. In such event, it is unlikely
+that the Trust would have sufficient U.S. dollars to
+make the payments due on the Notes.
+
+Under temporary Australian foreign exchange controls,
+which may change in the future, buying, borrowing,
+selling, lending or exchanging foreign currency (where
+the transaction relates to property, securities or
+funds) by an Australian resident to, or on behalf of
+the following payees is subject to restrictions:
+
+- - the previous Iraqi regime;
+- - ministers and senior officials of the Government
+ of Zimbabwe;
+- - certain persons including supporters of the former
+ Milosevic regime;
+
+Approval of the Reserve Bank of Australia is
+required for certain large transactions (i.e.
+greater than A 100,000) by or on behalf of:
+
+- - the Embassy of the Federal Republic of Yugoslavia ;
+- - the Consulate-General of the Federal Republic of
+ Yugoslavia;
+- - the National Bank of Yugoslavia
+
+Under the Charter of the United Nations (Anti-terrorism
+Measures) Regulations 2001 (the "UN Regulations") (as
+administered by the Department of Foreign Affairs and
+Trade in Australia), restrictions exist in relation
+to dealings with the assets of persons or entities
+mentioned in paragraph 1(c) of United Nations Security
+Council Resolution 1373 (2001), as proscribed by the
+Minister for Foreign Affairs in Australia pursuant
+to Regulation 7 of the UN Regulations.
+
+Currency Exchange Risk.
+Interest and principal on the Notes is payable in
+U.S. dollars and the Trust's primary source for
+funding its payments on the Notes is its Collections
+on the Housing Loans, which will be sourced in
+Australian dollars. If the Currency Swap Providers
+were to fail to perform under the Currency Swap or
+were to be discharged from such performance because
+of a default thereunder by the Trust, the Trust
+might have to exchange its Australian dollars for
+U.S. dollars at an exchange rate that is less
+favourable to the Trust than when the currency swap
+was entered into and might therefore not have
+sufficient U.S. dollars to make timely payments on
+the Notes, even though the delinquency and loss
+experience on the Housing Loans may be acceptable.
+
+Item 8. Financial Statements and Supplementary Data
+As discussed above, furnishing the financial information
+required by Item 8 of Form 10-K would not add any
+relevant information to that provided by the foregoing
+statements. Because the Notes are essentially
+"pass-through" securities, the Trust will have "income"
+only in the limited sense of collecting payments on the
+residential mortgage loans. The only material items of
+"expense" for the Trust will be the amounts paid as
+servicing compensation and potentially certain payments
+relating to any credit enhancement facilities. The
+Investor Reports (filed under Current Reports on Form
+8-K) and the aggregated totals for the fiscal year
+incorporated herein as Exhibit No. 99.1. provide complete
+information on the amounts of the "income" and "expenses"
+of the Trust.
+
+Item 9. Changes in and Disagreements With Accountants on
+Accounting and Financial Disclosure
+None.
+
+PART III
+
+Item 10. Directors and Executive Officers of the Registrant
+Since the Trust will not have any directors or executive
+officers, this item is not applicable.
+
+Item 11. Executive Compensation
+Since the Trust will not have any directors or executive
+officers, this item is not applicable.
+
+Item 12. Security Ownership of Certain Beneficial Owners and
+Management.
+All of the Class A Noteholders maintained their security
+positions with the Depository Trust Company. While some of
+the Noteholders security positions in the Trust may exceed
+5 of the outstanding amount of the Notes, such Notes do not
+constitute voting securities within the meaning of Item 403
+of Regulation S-K.
+
+Item 13. Certain Relationships and Related Transactions
+The Registrant received Trust Manager Fee payments from the
+Trust in accordance with the terms of the Master Trust Deed
+and the Supplemental Deed.
+
+Item 14. Principal Accounting Fees and Services
+The Trust is an Asset-Backed Issuer and is not required
+to disclose the information required by this item.
+
+PART IV
+
+Item 15. Exhibits, Financial Statement Schedules, and Reports
+on Form 8-K
+
+(a) (1) and (2):
+Incorporated herein as Exhibit 99.1 are the aggregate totals
+of the Investor Reports to the Trust for the fiscal
+year ended September 30, 2003. A Copy of the Officers Certificate
+of Compliance is attached hereto and is incorporated herein by
+reference as Exhibit No. 99.2.
+
+(a) (3) EXHIBITS
+Designation	Description	 Method of Filing
+
+Exhibit 31 Section 302 Certification 31
+Exhibit 99.1	Aggregate Totals for Fiscal Year 99.1
+Exhibit 99.2	Custodial Services Audit Report	 99.2
+Exhibit 99.3	Independent Auditor's Annual
+ Servicer Compliance Certificate 99.3
+Exhibit 99.4 Annual Servicer Compliance Officer's
+ Certificate 99.4
+
+(b) On December 20, 2002, March 20, 2003, June 24,
+2003 and September 24, 2003 reports on form 8-K were filed by the
+company during the preceding fiscal year in order to provide
+the statements for quarterly distributions to the
+noteholders. No other reports on form 8-K have been filed
+during the last fiscal year covered by this report.
+
+Documents incorporated by reference
+Form 8-K for the December 20, 2002 Payment Date
+Form 8-K for the March 20, 2003 Payment Date
+Form 8-K for the June 20, 2003 Payment Date
+Form 8-K for the September 22, 2003 Payment Date
+
+Exhibit 31
+
+ Section 302 Certification
+
+ Kingfisher Trust 2001-1G
+
+I, Michael Dontschuk, Managing Director and Principal Financial
+Officer of ANZ Capel Court Limited, certify that:
+
+1. I have reviewed this annual report on Form 10-K, and all
+reports on Form 8-K containing distribution or servicing reports
+filed in respect of periods included in the year covered by this
+annual report, of the Kingfisher Trust 2001-1G filed by ANZ
+Capel Court Limited (the Trust Manager and Registrant);
+
+2. Based on my knowledge, the information in these reports,
+taken as a whole, does not contain any untrue statement of
+material fact or omit to state a material fact necessary to make
+the statements made in light of the circumstances under which
+such statement were made, not misleading as of the last day of
+the period covered by this annual report;
+
+3. Based on my knowledge, the distribution or servicing information
+required to be provided to the trustee by the servicer under the
+pooling and servicing, or similar agreement, for inclusion in these
+reports is included in these reports;
+
+4. Based on my knowledge and upon the annual compliance statement
+included in the report and required to be delivered to the trustee
+in accordance with the terms of the pooling and servicing, or
+similar, agreement, and except as disclosed in the reports, the
+servicer has fulfilled its obligations under the servicing agreement;
+and
+
+5. The reports disclose all significant deficiencies relating to
+the servicer's compliance with the minimum servicing standards
+based upon the report provided by an independent public accountant,
+after conducting a review in compliance with the Uniform Single
+Attestation Program for Mortgage Bankers or similar procedure, as
+set forth in the pooling and servicing, or similar agreement,
+that is included in these reports.
+
+Signature: /s/ Michael Dontschuk
+	_____________________________
+	January 15, 2004
+
+Title: Managing Director
+
+Exhibit 99.1
+
+ AGGREGATE TOTALS FOR THE FISCAL YEAR
+ INVESTOR REPORT - KINGFISHER TRUST 2001-1G
+
+ Interest Periods Collection Periods
+From 20 September 2002 2 September 2002
+To 22 September 2003 1 September 2003
+No: of days 367 days 364 days
+
+Principal & Coupon details
+
+ Class A Notes Class B Notes
+
+Face Value USD 1,000,000,000.00 AUD 41,500,000.00
+Opening Principal Balance USD 638,869,865.76 AUD 41,500,000.00
+Opening Note Factor 0.6389 1.0000
+Base Rate (Average) (USD LIBOR 3M) 1.3913 (BBSW 3M) 4.7663 
+Margin 0.1800 0.5000 
+Base Rate + Margin (Average) 1.5713 5.2663 
+Interest Payment USD 9,092,953.81 2,196,808.99
+Principal Payment USD 208,148,883.73 0.00
+Closing Principal Balance USD 430,720,982.03 AUD 41,500,000.00
+Closing Note Factor 0.4307 1.0000
+Moody's Current Rating Aaa
+S&P Current Rating AAA AA-
+Fitch Current Rating AAA AA-
+
+Foreign Exchange Rate 0.5180
+
+Available Income AUD 68,399,132.19
+Total Available Funds AUD 68,399,132.19
+Trust Expenses AUD 63,200,060.77
+Excess Income Distributed AUD 5,199,071.42
+
+Gross Principal Collections AUD 415,678,940.15
+Redraws Made AUD 13,847,118.28
+Principal Distributed AUD 401,831,821.87
+
+Exhibit 99.2
+
+ BDO Chartered Accountants Letterhead
+
+ DOCUMENT CUSTODY AUDIT REPORT
+
+To the Manager
+Primary Markets Group
+ANZ Capel Court
+Level 6, 530 Collins Street,
+MELBOURNE VIC 3000
+
+Scope
+
+We have audited the control procedures of the Custodian in relation to its
+role as custodian as at 28 February 2003 in order to express an opinion
+about their effectiveness based upon the requirements of Section 7.5 of
+the Kingfisher Trust 2001-1G Supplemental Trust Deed.
+
+Unless otherwise defined, terms and phrases have the same definition as
+those appearing in the Kingfisher Trust 2001-1G Transaction Documentation.
+
+The criteria required by Section 7.6 of the Deed are that:
+
+(i)	the purchased receivables and related securities forming part of
+ the assets of the Trust are capable of identification and are
+ distinguishable from the other assets of the Custodian;
+(ii)	controls exist such that the title documents relating to such
+ purchased receivables and related securities may not be removed
+ or tampered with except with appropriate authorisation;
+(iii)	an appropriate tracking system is in place and such that the
+ location of the security packets containing the title documents
+ in respect of the purchased receivables and related securities of
+ the Trust can be detected at any time and the location of the title
+ documents can be detected at any time; and
+(iv)	to confirm the accuracy of the Servicer's Statement in respect of
+ the purchased receivables and related securities.
+
+Our audit of the control procedures has been conducted in accordance with
+Australian Auditing Standard AUS 810 "Special Purpose Reports on the
+Effectiveness of Control Procedures" and accordingly included such tests
+and procedures as we considered necessary in the circumstances. These
+procedures have been undertaken to form an opinion whether, in all material
+respects, the control procedures in relation to the Custodians role as
+custodian were adequately designed so as to achieve the criteria referred
+to above, and were operating effectively at the time of our audit.
+
+This report has been prepared for distribution to the Trustee and Servicer
+for the purpose of monitoring the Servicer's custodial role. We disclaim
+any assumption of responsibility for any reliance on this report to any
+person other then those mentioned, or for any purpose other than that for
+which it is prepared.
+
+Inherent Limitations
+
+Because of the inherent limitations of any internal control structure it
+is possible that errors or irregularities may occur and not be detected.
+Further, the internal control structure, within which the control procedures
+that we have audited operate, has not been audited and no opinion is
+expressed as to its effectiveness.
+
+An audit is not designed to detect all weaknesses in control procedures as
+it is not performed continuously throughout the period and the tests
+performed are on a sample basis.
+
+Any projection of the evaluation of the control procedures to future periods
+is subject to the risk that the procedures may become inadequate because of
+changes in conditions, or that the degree of compliance with them may
+deteriorate.
+
+The audit opinion express in this report has been formed on the above basis.
+
+Audit Opinion
+
+In our opinion, based upon the criteria specified above, the rating for the
+Custodian is "good" as at 28 February 2003, as described in section 7.7 of
+the Supplementary Trust Deed of Kingfisher Trust 2001-1G.
+
+BDO
+Chartered Accountants
+
+Robert D D Collie
+Partner
+
+Melbourne, 15 May 2003.
+
+CC:	Clare Heaton
+	Perpetual Trustee Company Limited
+
+Exhibit 99.3
+
+KPMG Letterhead
+
+ Independent Auditor's Annual Servicer
+ Compliance Certificate to the Directors
+ of ANZ Capel Court Ltd (the Trust Manager)
+
+Scope
+
+We have reviewed Australia and New Zealand Banking Group Limited's
+(the "Servicer") activities for the purpose of determining its compliance
+with the servicing standards contained in the Master Servicer Deed dated
+11 August 2000 (the "Document"), attached as Appendix 1, in relation to
+the Kingfisher Trust 2001-1G (the "Trust") for the year ended
+30 September 2003, in accordance with the statement by the Division of
+Corporation Finance of the Securities and Exchange Commission dated
+21 February 2003, and our engagement letter dated 22 December 2003.
+
+We have reviewed the servicing standards contained in the Document to
+enable us to report on whether those servicing standards are similar to
+those contained in the Uniform Single Attestation Program for Mortgage
+Bankers ("USAP"), attached as Appendix 2, which establishes a minimum
+servicing standard for the asset backed securities market in the United
+States of America. No equivalent of the USAP exists in Australia.
+The management of the Servicer is responsible for maintaining an effective
+internal control structure including internal control policies and
+procedures relating to the servicing of mortgage loans. We have
+conducted an independent review of the servicing standards included in
+Appendix 1, in order to express a statement on the Servicer's compliance
+with them to the Trust Manager.
+
+Our review of the servicing standards has been conducted in accordance
+with Australian Auditing Standards applicable to performance audits and
+accordingly included such tests and procedures as we considered necessary
+in the circumstances. In conducting our review we have also had regard
+to the guidance contained in the USAP. These procedures have been
+undertaken to enable us to report on whether anything has come to our
+attention to indicate that there have been significant deficiencies in
+the Servicer's compliance with the servicing standards contained in the
+Document for the year ended 30 September 2003.
+
+Our review did not include an assessment of the adequacy of the
+servicing standards themselves.
+
+This statement has been prepared for the use of the Trust Manager as at
+30 September 2003 in accordance with the requirements of the statement
+by the Division of Corporation Finance of the Securities and Exchange
+Commission dated 21 February 2003, and the engagement letter dated
+22 December 2003. We disclaim any assumption of responsibility for
+any reliance on this review statement, to any person other than
+the Trust Manager.
+
+Statement
+Based on our review:
+
+- - nothing has come to our attention to indicate that there have been
+ any significant deficiencies in Australia and New Zealand Banking
+ Group Limited's compliance with the servicing standards contained
+ in the Document, attached as Appendix 1, in respect of the Trust for
+ the year ended 30 September 2003; and
+
+- - the servicing standards contained in the Document for the Trust are
+ similar to the minimum servicing standards contained in the USAP
+ except for:
+
+ # The Document contains no servicing standards relating to Escrow
+ Funds because it is not relevant. In Australia, the mortgagee
+ or Servicer does not become responsible for taxes, insurance,
+ and other payments associated with home ownership when it becomes
+ mortgagee of the Related Security.
+
+ # The Document contains no servicing standards relating to investor
+ reports. The Trust Manager under cl.17.2 of the Trust's Note
+ Trust Deed carries out the preparation and distribution of
+ investor reports. The Servicer is not responsible for the
+ preparation of investor reports.
+
+ # USAP requires mortgage payments to be deposited into the custodial
+ bank accounts and related bank clearing accounts within two business
+ days of receipt. The Document does not contain an equivalent
+ standard to this USAP requirement as the risks anticipated by
+ the USAP are fully mitigated.
+
+ # USAP requires funds of the servicing entity to be advanced in cases
+ where there is an overdraft in an investor's or a mortgagor's account.
+ The Document does not contain an equivalent standard to this USAP
+ standard. The loans serviced under the Servicing Deed do not include
+ overdraft accounts.
+
+ # USAP requires tax and insurance payments to be made on or before
+ the penalty or insurance policy expiration dates, as indicated on
+ tax bills and insurance premium notices, respectively, provided
+ that such support has been received by the servicing entity at least
+ thirty (30) calendar days prior to these dates. The Document does
+ not contain an equivalent standard to this USAP standard. In Australia,
+ the mortgagee or Servicer does not become responsible for taxes,
+ insurance, and other payments associated with home ownership when it
+ becomes mortgagee of the Related Security.
+
+ # USAP requires any late payment penalties paid in conjunction with
+ the payment of any tax bill or insurance premium notice shall be paid
+ from the servicing entity's funds and not charged to the mortgagor,
+ unless the late payment was due to the mortgagor's error or omission.
+ The Document does not contain an equivalent standard to this USAP
+ standard because it is not relevant. In Australia, the mortgagee or
+ Servicer does not become responsible for taxes, insurance, and other
+ payments associated with home ownership when it becomes mortgagee
+ of the Related Security.
+
+ # The Document does not impose any servicing standard on the Servicer
+ to maintain a fidelity-bond and errors and omissions policy.
+ However as a matter of commercial necessity and prudent risk
+ management, the Servicer does maintain a Comprehensive Criminal
+ and Civil Liability insurance policy with an insured amount of a
+ multiple of AUD 50,000,000. The precise insured amount is commercial
+ in confidence.
+
+KPMG
+
+Michelle Somerville
+Partner
+Place: Melbourne, Australia
+Date: 15 January 2004
+
+Appendix 1
+
+Australia and New Zealand Banking Group Ltd (the "Servicer")
+Servicing Standards
+
+The following servicing standards are contained in the
+Master Servicing Deed - Kingfisher Master Trusts dated 11 August 2000
+
+ 2 Servicing of Receivables and General Servicer Covenants
+
+ Appointment of Servicer
+
+ 2.1 The Trustee appoints the Servicer to act as servicer to
+ service and administer the Receivables and the Related
+ Securities of each Relevant Trust upon and subject to the
+ terms of the Transaction Documents in relation to which the
+ Servicer is specified as, and agreed to act as, the Servicer
+ in the relevant Supplemental Deed. By executing a
+ Supplemental Deed, the Servicer shall be taken to have
+ accepted that appointment, and agreed to perform the role of
+ Servicer in relation to that Relevant Trust in accordance with
+ this deed and the relevant Supplemental Deed.
+
+ 2.2 The appointment of the Servicer under clause 2.1 in respect of
+ a Relevant Trust may apply in relation to:
+
+ (a) Receivables and Related Securities which are originated and
+ entered into by the Trustee, under the terms of a Mortgage
+ Origination and Management Deed; and
+
+ (b) Receivables and Related Securities which are acquired by
+ the Trustee from a Seller in accordance with the Master
+ Trust Deed.
+
+ Delegation by the Servicer
+
+ 2.3 The Servicer has the power to delegate or subcontract in
+ relation to some or all of its obligations under this deed to
+ an Originator by entering into a Mortgage Origination and
+ Management Deed or such other agreement.
+
+ Despite any delegation, the Servicer remains liable for the
+ origination and servicing of the Receivables and the Related
+ Securities in respect of a Relevant Trust in accordance with
+ the Transaction Documents. The Servicer must select and
+ supervise each Originator with due care.
+
+ Servicer's Obligations
+
+ 2.4 The Servicer must service the Receivables and Related Securities
+ of each Relevant Trust and otherwise carry out and perform its
+ duties and obligations under the Transaction Documents:
+
+ (a) in accordance with all applicable laws; and
+
+ (b) in a proper and businesslike manner; and
+
+ (c) subject to paragraph (a) above, in accordance with the
+ Servicing Procedures; and
+
+ (d) to the extent not covered in the Transaction Documents
+ or the Servicing Procedures, in accordance with the
+ standards and practices of a prudent lender having regard
+ to the assets of the Relevant Trust.
+
+ No other provision of this clause 2 limits the obligations
+ of the Servicer in this clause 2.4.
+
+ 2.5 Except in accordance with the terms of the relevant Supplemental
+ Deed (whether or not at the direction of the Trust Manager),
+ neither the Trustee nor the Trust Manager is entitled to
+ exercise any servicing functions in connection with any
+ Receivable or Related Security unless it is acting as Servicer.
+
+ Servicer agrees to perform duties
+
+ 2.6 The Servicer agrees to carry out and perform its duties and
+ obligations contained in this deed in respect of the Receivables
+ and Related Securities of a Relevant Trust until the earlier of:
+
+ (a) the date of its retirement or removal as Servicer in
+ accordance with this deed or the relevant Supplemental Deed;
+ and
+
+ (b) the date upon which the Relevant Trust is terminated.
+
+ General Servicer covenants
+
+ 2.7 The Servicer covenants with the Trustee and the Trust Manager
+ that it will at all times during the term of its appointment in
+ respect of each Relevant Trust:
+
+ (a) recommend to the Trustee or such other Custodian or Sub-servicer
+ (as the case may be)whether or not to take action (including the
+ type of action to be taken) or to incur such expense to protect
+ or enforce the terms of any Receivable and Related Security
+ forming part of the Assets of the Relevant Trust or otherwise
+ exercise any rights conferred under documentation or at law in
+ relation to the Receivable and Related Security and take such
+ action and incur such expenses as are necessary for such
+ protection, enforcement or exercise of rights as approved
+ by the Trustee;
+
+ (b) set the interest rate charged (if that rate is a variable rate)
+ on or any fees payable in respect of each Receivable of the
+ Relevant Trust on the instructions of the Trust Manager;
+
+ (c) prepare and collate all reasonably necessary performance
+ statistics of the Receivables and Related Securities for the
+ Relevant Trust;
+
+ (d) provide to the Trustee and the Trust Manager promptly from
+ time to time such information, documents, records, reports
+ or other information relating to the Receivables and Related
+ Securities of the Relevant Trust or the operations of the
+ Servicer as may be reasonably requested by either of them;
+
+ (e) subject to the terms of the relevant Supplemental Deed, on
+ behalf of the Trustee, collect all Collections received by
+ it in respect of each Receivable and Related Security of the
+ Relevant Trust and remit any such Collections received by the
+ Servicer to the relevant Collection Account (or sub accounts
+ of that account) on or before the Payment Date relating to
+ that Collection Period in the manner required by the relevant
+ Supplemental Deed;
+
+ (f) maintain any loan account in respect of any Receivable of the
+ Relevant Trust and give all notices, documents or statement
+ required to be given under the Servicing Procedures to the
+ relevant Debtor or Security Provider;
+
+ (g) with respect to any Mortgage Insurance Policies:
+
+ (i) promptly prepare and assist the Trustee to the extent
+ it is able to make claims under Mortgage Insurance
+ Policies when the Trustee is entitled to do so or at
+ the request of the Trustee;
+
+ (ii) not, without the consent of the Trustee, do anything
+ which could reasonably be expected to materially
+ adversely affect or limit the rights of the Trustee,
+ under or in respect of Mortgage Insurance Policies to
+ the extent those rights relate to a those Receivables;
+ and
+
+ (iii) comply with, and to the extent it is able ensure that,
+ all requirements and conditions of the Mortgage
+ Insurance Policies are complied with;
+
+ (h) not, without the consent of the Security Trustee, consent to
+ the creation or existence of a Security Interest in the
+ Receivables and Related Securities of the Relevant Trust to a
+ third party, except as contemplated by the Transaction Documents;
+
+ (i) electronically identify all Receivables and Related Securities
+ of the Relevant Trust in its electronic database in order to
+ identify the Collections and other relevant cashflows in
+ respect of the Receivables and Related Securities;
+
+ (j) except as required by law, the Servicing Procedures and the
+ terms of the relevant Receivable or Related Security, not
+ without the consent of the Trustee:
+
+ (i) release the Debtor from any amount owing in respect
+ of a Receivable of the Relevant Trust or otherwise
+ vary or discharge any such Receivable or Related
+ Security; or
+
+ (ii) enter into any agreement or arrangement which has the
+ effect of altering the amount payable in respect of
+ a Receivable of the Relevant Trust where to do so
+ would have a Material Adverse Effect;
+
+ (k) except as approved by the relevant Mortgage Insurer (if
+ applicable or under a Binding Provision or an order,
+ decision, finding, judgment or determination of a Competent
+ Authority) and the Trustee of the Relevant Trust, not grant
+ any extension of the maturity of a Receivable of the
+ Relevant Trust or, except as otherwise required by law,
+ allow any reduced payment that would result in such extension;
+
+ (l) notify the Trustee and the Trust Manager of:
+
+ (i) the occurrence of any event which it reasonably believes is
+ likely to have a Material Adverse Effect; and
+
+ (ii) the occurrence of a Servicer Default,
+
+ promptly after becoming aware of such event;
+
+ (m) perform any obligations imposed upon the Servicer under a
+ relevant Supplemental Deed or as otherwise agreed between
+ the Trustee, the Trust Manager and the Servicer;
+
+ (n) recommend to the Trustee the course of action to be taken
+ if requested by a Debtor to grant any extension of time at
+ maturity in relation to, vary or release any Receivable or
+ Related Security of a Relevant Trust; and
+
+ (o) maintain all authorisations, licences, permits, approvals
+ and other registrations as may be required under any
+ applicable legislation to act as servicer of the Receivables
+ and the Related Securities.
+
+ Servicer's Statement
+
+ 2.8 On each Determination Date, in respect of each Relevant Trust,
+ the Servicer will prepare and submit to the Trust Manager a
+ statement ("Servicer's Statement") setting out certain agreed
+ information with respect to the Receivables and Related
+ Securities of the Relevant Trust for the most recent Collection
+ Period.
+
+ The required contents of the Servicer's Statement may be
+ specified in the Supplemental Deed for each Relevant Trust or
+ otherwise agreed between the Trust Manager and the Servicer.
+
+ Approval of Enforcement
+
+ 2.9 The Trustee agrees to approve all recommendations made by the
+ Servicer under clause 2.7 that are in accordance with the
+ Servicing Procedures.
+
+ 2.10 The Servicer may, on behalf of the Trustee, provide information
+ in relation to Debtors and Security Providers (including,
+ without limitation, information which may be subject to
+ statutory or general law duties of confidentiality or privacy)
+ to other persons for the purpose of the Servicer fulfilling
+ its obligations as Servicer or the obligations of the Trustee
+ in relation to the Receivables and the Related Securities.
+
+Appendix 2
+
+Uniform Single Attestation Program
+for Mortgage Bankers ("USAP")
+
+Minimum Servicing Standards
+
+Custodial Bank Accounts
+
+1. Reconciliations shall be prepared on a
+ monthly basis for all custodial bank accounts
+ and related bank clearing accounts. These
+ reconciliations shall:
+ - be mathematically accurate;
+ - be prepared within forty five (45) calendar
+ days after the cutoff date;
+ - be reviewed and approved by someone other
+ than the person who prepared the reconciliation;
+ and
+ - document explanations for reconciling items.
+ These reconciling items shall be resolved within
+ ninety (90) calendar days of their original
+ identification.
+
+2. Funds of the servicing entity shall be advanced
+ in cases where there is an overdraft in an
+ investors or a mortgagors account.
+ (Suggested procedures for this MSS are located
+ in the "Disbursements" Section below.)
+
+3. Each custodial account shall be maintained at a
+ federally insured depository institution in trust
+ for the applicable investor.To replace "a
+ federally insured depository institution
+ with an approved deposit taking
+ institution with a stipulated rating from a
+ rating agency
+
+4. Escrow funds held in trust for a mortgagor
+ shall be returned to the mortgagor within
+ thirty (30) calendar days of payoff of the
+ mortgage loan.(Suggested procedures to test
+ this MSS are located in the Mortgage Payments
+ Section below.)
+
+Mortgage Payments
+
+1. Mortgage payments shall be deposited into the
+ custodial bank accounts and related bank clearing
+ accounts within two business days of receipt.
+
+2. Mortgage payments made in accordance with
+ the mortgagors loan documents shall be posted
+ to the applicable mortgagor records within two
+ business days of receipt.
+
+3. Mortgage payments shall be allocated to principal,
+ interest, insurance, taxes or other escrow items
+ in accordance with the mortgagors loan
+ documents.
+
+4. Mortgage payments identified as loan payoffs
+ shall be allocated in accordance with the
+ mortgagors loan documents.
+
+Disbursements
+
+1. Disbursements made via wire transfer on behalf
+ of a mortgagor or investor shall be made only
+ by authorized personnel.
+
+2. Disbursements made on behalf of a mortgagor
+ or investor shall be posted within two business
+ days to the mortgagors or investors records
+ maintained by the servicing entity.
+
+3. Tax and insurance payments shall be made on
+ or before the penalty or insurance policy
+ expiration dates, as indicated on tax bills and
+ insurance premium notices, respectively,
+ provided that such support has been received
+ by the servicing entity at least thirty (30)
+ calendar days prior to these dates.
+
+4. Any late payment penalties paid in conjunction
+ with the payment of any tax bill or insurance
+ premium notice shall be paid from the servicing
+ entitys funds and not charged to the mortgagor,
+ unless the late payment was due to the
+ mortgagors error or omission.
+
+5. Amounts remitted to investors per the servicers
+ investor reports shall agree with canceled checks
+ or other form of payment, or custodial bank
+ statements.
+
+6. Unissued checks shall be safeguarded so as to
+ prevent unauthorized access.
+
+Investor Accounting and Reporting
+
+The servicing entitys investor reports shall agree
+with, or reconcile to, investors records on a
+monthly basis as to the total unpaid principal
+balance and number of loans serviced by the
+servicing entity.
+
+Mortgage Loan Accounting
+
+1. The servicing entitys mortgage loan records
+ shall agree with, or reconcile to, the records
+ of mortgagors with respect to the unpaid
+ principal balance on a monthly basis.
+
+2. Adjustments on ARM loans shall be computed
+ based on the related mortgage note and any
+ ARM rider Mortgage loans can be taken out at
+ a variable rate or fixed rate, nominated by the
+ mortgagor. Any adjustments will be as stated
+ in the mortgage loan document.
+
+3. Escrow accounts shall be analyzed, in accordance
+ with the mortgagors loan documents, on at least
+ an annual basis.
+
+4. Interest on escrow accounts shall be paid, or
+ credited, to mortgagors in accordance with the
+ applicable state laws. (A compilation of state
+ laws relating to the payment of interest on escrow
+ accounts may be obtained through the MBA's
+ FAX ON DEMAND service. For more information,
+ contact MBA.)
+
+Delinquencies
+
+Records documenting collection efforts shall
+be maintained during the period a loan is in
+default and shall be updated at least monthly.
+Such records shall describe the entitys activities
+in monitoring delinquent loans including,
+for example, phone calls, letters and mortgage
+payment rescheduling plans in cases where
+the delinquency is deemed temporary (e.g.,
+illness or unemployment).
+
+Insurance Policies
+
+A fidelity bond and errors and omissions policy
+shall be in effect on the servicing entity
+throughout the reporting period in the amount
+of coverage represented to investors in
+managements assertion.This type of
+representations are not given in Australia.
+Certain non-rated servicing entities may have
+indemnity insurance.
+
+Exhibit 99.4
+
+15 January, 2004
+
+The Directors
+ANZ Capel Court Ltd
+C/- Level 12, 530 Collins Street
+Melbourne Vic 3000
+
+Dear Sirs and Mesdames,
+
+Re: Back-Up Certification
+ Annual Servicer Compliance Officer's Certificate
+ Section 302 Certification - Paragraph 4.
+
+The undersigned, a duly authorized representative of Australia
+and New Zealand Banking Group Limited, as Servicer (the
+"Servicer"), pursuant to the Master Servicing Deed - Kingfisher
+Master Trusts between the Issuer Trustee, Servicer and the Trust
+Manager], dated 11 August 2000 (the "Master Servicing Deed"),
+does hereby certify that:
+
+1. Capitalized terms used but not defined in this Officer's
+ Certificate have their respective meanings set forth in
+ the Agreement, unless the context requires otherwise or
+ unless otherwise defined in this Officer's Certificate.
+
+2. As of the date hereof, Australia and New Zealand Banking
+ Group Limited is the Servicer of the Kingfisher Trust
+ 2001-1G (the "Trust").
+
+3. This Officer's Certificate is delivered pursuant to the
+ Master Servicing Deed.
+
+4. A review of the activities of the Servicer during the
+ calendar year ended 30 September 2003 and of its performance
+ under the pooling and servicing, or similar, agreement
+ was made under my supervision.
+
+5. Based on such review, to my knowledge, the Servicer has
+ fulfilled its obligations under the pooling and servicing,
+ or similar, agreement relating to the Trust (including
+ the Kingfisher Master Trusts - Master Trust Deed, the
+ Master Servicing Deed and the Kingfisher Trust 2001-1G
+ Supplemental Deed relating to the Kingfisher Trust 2001-1G)
+ throughout such calendar year, except as set forth in
+ paragraph 6 below.
+
+6. The following is a description of any exceptions to
+ paragraph 5 above: Nil.
+
+IN WITNESS WHEREOF, the undersigned, a duly authorized officer
+of the Servicer, has duly executed this Officer's Certificate
+this 15th day of January 2004.
+
+Australia and New Zealand Banking Group Limited as Servicer
+
+Michael Campbell
+Chief Financial Officer
+ANZ Mortgage Group
+
+SIGNATURES
+
+Pursuant to the requirements of Section 13 or 15(d)
+of the Securities Exchange Act of 1934, the
+registrant has duly caused this report to be signed
+on its behalf by the undersigned, thereunto duly
+authorized.
+
+(Registrant) ANZ Capel Court Limited
+____________________________________________________
+
+By /s/ Michael Dontschuk - Managing Director
+____________________________________________________
+January 15, 2004
+
+Pursuant to the requirements of the Securities
+Exchange Act of 1934, this report has been signed
+below by the following persons on behalf of the
+registrant and in the capacities and on the dates
+indicated.
+
+By /s/ Michael Dontschuk- Managing Director
+____________________________________________________
+January 15, 2004
+
+By /s/ Judith Downes- Director
+____________________________________________________
+January 15, 2004
+

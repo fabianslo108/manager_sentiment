@@ -1,0 +1,1311 @@
+<Header>
+<FileStats>
+    <FileName>20040126_10-Q_edgar_data_924370_0000946275-04-000078.txt</FileName>
+    <GrossFileSize>87796</GrossFileSize>
+    <NetFileSize>51800</NetFileSize>
+    <NonText_DocumentType_Chars>0</NonText_DocumentType_Chars>
+    <HTML_Chars>663</HTML_Chars>
+    <XBRL_Chars>0</XBRL_Chars>
+    <XML_Chars>0</XML_Chars>
+    <N_Exhibits>1</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0000946275-04-000078.hdr.sgml : 20040126
+<ACCEPTANCE-DATETIME>20040126153051
+ACCESSION NUMBER:		0000946275-04-000078
+CONFORMED SUBMISSION TYPE:	10-Q
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20031231
+FILED AS OF DATE:		20040126
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			FSF FINANCIAL CORP
+		CENTRAL INDEX KEY:			0000924370
+		STANDARD INDUSTRIAL CLASSIFICATION:	SAVINGS INSTITUTION, FEDERALLY CHARTERED [6035]
+		IRS NUMBER:				411783064
+		STATE OF INCORPORATION:			MN
+		FISCAL YEAR END:			0930
+
+	FILING VALUES:
+		FORM TYPE:		10-Q
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-24648
+		FILM NUMBER:		04543350
+
+	BUSINESS ADDRESS:	
+		STREET 1:		201 MAIN ST SOUTH
+		CITY:			HUTCHINSON
+		STATE:			MN
+		ZIP:			55350
+		BUSINESS PHONE:		3202344500
+
+	MAIL ADDRESS:	
+		STREET 1:		201 MAIN STREET SOUTH
+		CITY:			HUTCHINSON
+		STATE:			MN
+		ZIP:			55350
+
+</SEC-Header>
+</Header>
+
+ 
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ ULcn+eYEeMnukEhRyHFDbq0xpEVZ3PlF5RnYr4FC1oTMPkodyYUOUwqv2n9HZn+q
+ IByeuF2bLqzMLn8SoRlZ/w==
+
+ 0000946275-04-000078.txt : 20040126
+
+10-Q
+ 1
+ f10q_123103-0096.txt
+ FORM
+ 
+ UNITED STATES
+ SECURITIES AND EXCHANGE COMMISSION
+ WASHINGTON, DC 20549
+
+ ______________
+ FORM 10-Q
+
+(Mark One)
+[X] QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES
+ EXCHANGE ACTS OF 1934
+
+For the quarterly period ended December 31, 2003
+
+ OR
+
+[ ] TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES
+ EXCHANGE ACT OF 1934
+
+For the transition period from to
+
+ Commission file number 0-24648
+
+ FSF FINANCIAL CORP.
+ (Exact name of registrant as specified in its charter)
+
+ Minnesota 41-1783064
+(State or other jurisdiction of incorporation (IRS employer identification no.)
+or organization)
+201 Main Street South, Hutchinson, Minnesota 55350-2573
+(Address of principal executive offices) (Zip Code)
+
+Registrant's telephone number, including area code (320) 234-4500
+
+Former name, former address and former fiscal year, if changed since
+last report.
+
+ Indicate by check whether the registrant (1) has filed all reports
+required to be filed by Section 13 or 15(d) of the Securities Exchange Act of
+1934 during the preceding 12 months (or for such shorter period that the
+registrant was required to file such reports), and (2) has been subject to such
+filing requirements for the past 90 days. Yes X No
+
+ Indicate by check whether the registrant is an accelerated filer (as
+defined in Rule 12b-2 of the Exchange Act). Yes No X
+
+ APPLICABLE ONLY TO CORPORATE ISSUERS:
+
+ Indicated the number of shares outstanding of each of the issuer's
+classes of common stock, as of the latest practicable date January 23, 2004.
+ ----------------
+
+Class Outstanding
+ ----- -----------
+ .10 par value common stock 2,381,398 shares
+
+FSF FINANCIAL CORP. AND SUBSIDIARIES
+ FORM 10-Q
+ FOR THE QUARTER ENDED DECEMBER 31, 2003
+
+ INDEX
+
+ Page
+ Number
+ ------
+
+PART I - CONSOLIDATED FINANCIAL INFORMATION
+
+Item 1. Financial Statements 1
+Item 2. Management's Discussion and Analysis of Financial Condition
+ and Results of Operations 9
+Item 3. Quantitative and Qualitative Disclosures About Market Risk 15
+Item 4. Controls and Procedures 16
+
+PART II - OTHER INFORMATION
+
+Item 1. Legal Proceedings 17
+Item 2. Changes in Securities and Use of Proceeds 17
+Item 3. Defaults Upon Senior Securities 17
+Item 4. Submission of Matters to a Vote of Security Holders 17
+Item 5. Other Information 17
+Item 6. Exhibits and Reports on Form 8-K 17
+
+SIGNATURES 18
+
+FSF FINANCIAL CORP. AND SUBSIDIARIES
+ UNAUDITED CONSOLIDATED STATEMENTS OF FINANCIAL CONDITION
+
+At At
+ December 31, September 30,
+ 2003 2003
+ ------------------------------------
+ (in thousands, except share data)
+ 
+ ASSETS
+ ------
+Cash and cash equivalents:
+ Cash 3,206 3,556
+ Interest-bearing deposits 56,383 77,045
+ ------------------------------------
+ Total cash and cash equivalents 59,589 80,601
+Securities available for sale, at fair value:
+ Equity securities 11,996 12,009
+ Mortgage-backed and related securities 35,107 29,923
+ Debt securities 12,650 12,178
+Restricted stock 4,402 4,797
+Loans held-for-sale 14,209 17,122
+Loans receivable, net 356,109 358,708
+Foreclosed real estate 1,005 1,152
+Accrued interest receivable 3,977 3,960
+Premises and equipment 6,357 6,331
+Goodwill 3,883 3,883
+Identifiable intangibles 979 1,014
+Investment in life insurance 8,475 8,388
+Other assets 1,368 1,086
+ ------------------------------------
+ Total assets 520,106 541,152
+ ====================================
+
+ LIABILITIES AND STOCKHOLDERS' EQUITY
+ ------------------------------------
+Liabilities:
+ Demand deposits 76,033 69,684
+ Savings accounts 83,356 86,666
+ Certificates of deposit 225,450 234,665
+ ------------------------------------
+ Total deposits 384,839 391,015
+
+ Federal Home Loan Bank borrowings 78,000 93,000
+ Advances from borrowers for taxes and insurance 123 233
+ Other liabilities 4,792 5,717
+ ------------------------------------
+ Total liabilities 467,754 489,965
+
+Stockholders' equity:
+ Serial preferred stock, no par value 5,000,000 shares
+ authorized, no shares issued - -
+ Common stock, .10 par value 10,000,000 shares authorized,
+ 4,501,277 and 4,501,277 shares issued 450 450
+ Additional paid in capital 44,188 43,925
+ Retained earnings, substantially restricted 39,105 38,643
+ Treasury stock at cost (2,119,879 and 2,156,540 shares) (30,978) (31,444)
+ Unearned ESOP shares at cost (-0- and 7,643 shares) - (76)
+ Unearned MSP stock grants at cost (481) (484)
+ Accumulated other comprehensive income 68 173
+ ------------------------------------
+ Total stockholders' equity 52,352 51,187
+ ------------------------------------
+ Total liabilities and stockholders' equity 520,106 541,152
+ ====================================
+ 
+ See Notes to Unaudited Consolidated Financial Statements
+
+ 1
+
+FSF FINANCIAL CORP. AND SUBSIDIARIES
+ UNAUDITED CONSOLIDATED STATEMENTS OF INCOME
+ AND COMPREHENSIVE INCOME
+
+Three Months
+ Ended December 31,
+ --------------------------------------
+ 2003 2002
+ --------------------------------------
+ (in thousands, except per share data)
+
+Interest income:
+ Loans receivable 6,851 8,225
+ Mortgage-backed and related securities 363 495
+ Investment securities 366 215
+ --------------------------------------
+ Total interest income 7,580 8,935
+Interest expense:
+ Deposits 1,879 2,696
+ Borrowed funds 1,229 1,323
+ --------------------------------------
+ Total interest expense 3,108 4,019
+ --------------------------------------
+ Net interest income 4,472 4,916
+ Provision for loan losses 259 288
+ --------------------------------------
+ Net interest income after provision for loan losses 4,213 4,628
+ --------------------------------------
+Noninterest income:
+ Gain on sale of loans- net 752 1,126
+ Other service charges and fees 364 421
+ Service charges on deposit accounts 661 614
+ Commission income 294 278
+ Other 104 57
+ --------------------------------------
+ Total noninterest income 2,175 2,496
+ --------------------------------------
+Noninterest expense:
+ Compensation and benefits 2,757 2,778
+ Occupancy and equipment 472 392
+ Data processing 248 234
+ Professional fees 142 140
+ Other 820 794
+ --------------------------------------
+ Total noninterest expense 4,439 4,338
+ --------------------------------------
+ Income before provision for income taxes 1,949 2,786
+Income tax expense 769 1,090
+ --------------------------------------
+ Net income 1,180 1,696
+ ======================================
+
+Basic earnings per share 0.51 0.77
+Diluted earnings per share 0.48 0.73
+Cash dividend declared per common share 0.35 0.30
+
+Comprehensive income 1,075 2,406
+ ======================================
+
+See Notes to Unaudited Consolidated Financial Statements
+
+ 2
+
+FSF FINANCIAL CORP. AND SUBSIDIARIES
+ UNAUDITED CONSOLIDATED STATEMENTS OF CASH FLOWS
+
+Three Months
+ Ended December 31,
+ --------------------------------------
+ 2003 2002
+ --------------------------------------
+ (in thousands)
+ 
+Cash flows from operating activities:
+ Net income 1,180 1,696
+ Adjustments to reconcile net income to net cash
+ provided by (used in) operating activities
+ Depreciation 244 202
+ Net amortization of discounts and premiums (51) (66)
+ Provision for loan losses 259 288
+ Market value adjustment on ESOP shares 153 75
+ Amortization of ESOP and MSP stock compensation 54 118
+ Amortization of intangibles 34 43
+ Net loan fees deferred and amortized (42) (86)
+ Loans originated for sale (56,081) (80,935)
+ Loans sold 59,746 60,508
+ Gain on sale of loans (752) (1,126)
+ (Increase) decrease in: Accrued interest receivable (16) (321)
+ Life insurance (88) (106)
+ Other assets 89 393
+ Deferred taxes 65 (57)
+ Other liabilities (1,000) (279)
+ --------------------------------------
+Net cash provided by (used in) operating activities 3,794 (19,653)
+ --------------------------------------
+Cash flows from investing activities:
+ Loan originations and principal repayments on loans, net 4,565 2,394
+ Purchase of loans (2,500) -
+ Principal repayments on mortgage-related securities held-to-maturity - 2,178
+ Purchase of available-for-sale securities (10,849) (4,062)
+ Proceeds from FHLB stock redeemed 395 -
+ Principal repayments and proceeds from maturities of
+ securities available-for-sale 5,074 3,388
+ Investment in foreclosed real estate (122) -
+ Proceeds from sale of REO 585 122
+ Purchase of equipment and property improvements (270) (539)
+ --------------------------------------
+Net cash (used in) provided by investing activities (3,122) 3,481
+ --------------------------------------
+ 
+ See Notes to Unaudited Consolidated Financial Statements
+
+ 3
+
+FSF FINANCIAL CORP. AND SUBSIDIARIES
+ UNAUDITED CONSOLIDATED STATEMENTS OF CASH FLOWS (Continued)
+
+Three Months
+ Ended December 31,
+ --------------------------------------
+ 2003 2002
+ --------------------------------------
+ (in thousands)
+
+Cash flows from financing activities:
+ 
+ Net (decrease) increase in deposits (6,162) 20,609
+ Payments on FHLB advances (15,000) (5,000)
+ Allocated dividends used to retire debt on ESOP 25 24
+ Net decrease in mortgage escrow funds (110) (150)
+ Treasury stock purchased (137) (601)
+ Dividends on common stock (717) (649)
+ Proceeds from exercise of stock options 417 422
+ --------------------------------------
+Net cash (used in) provided by financing activities (21,684) 14,655
+ --------------------------------------
+
+Net decrease in cash and cash equivalents (21,012) (1,517)
+
+Cash and cash equivalents
+ Beginning of period 80,601 14,615
+ --------------------------------------
+ End of period 59,589 13,098
+ ======================================
+
+Supplemental disclosures of cash flow information:
+ Cash payments for:
+ Interest on advances and other borrowed money 1,224 1,316
+ Interest on deposits 2,185 3,057
+ Income taxes 539 904
+
+Supplemental schedule of non-cash investing and financing activities:
+ Foreclosed real estate 532 393
+ Transfer of securities from held-to-maturity to available-for-sale - 30,462
+ Unrealized gain on available-for-sale securities transferred, net of tax - 561
+
+See Notes to Unaudited Consolidated Financial Statements
+
+ 4
+
+FSF FINANCIAL CORP. AND SUBSIDIARIES
+ NOTES TO UNAUDITED CONSOLIDATED FINANCIAL STATEMENTS
+ DECEMBER 31, 2003
+
+NOTE 1- PRINCIPLES OF CONSOLIDATION
+ The unaudited consolidated financial statements as of and for the three
+ months ended December 31, 2003 include the accounts of FSF Financial
+ Corp. ("the Corporation") and its wholly owned subsidiaries, Insurance
+ Planners of Hutchinson, Inc. ("the Agency") and First Federal fsb ("the
+ Bank"). Firstate Services and Homeowners Mortgage Corporation ("HMC")
+ are wholly owned subsidiaries of the Bank. All significant
+ inter-company accounts and transactions have been eliminated in the
+ consolidated financial statements, which have been prepared in
+ conformity with accounting principles generally accepted in the United
+ States of America.
+
+NOTE 2- BASIS OF PRESENTATION
+ The accompanying unaudited consolidated financial statements were
+ prepared in accordance with instructions for Form 10-Q and therefore,
+ do not include information or footnotes necessary for a complete
+ presentation of consolidated financial condition, results of operations
+ and cash flows in conformity with United States Generally Accepted
+ Accounting Principles ("GAAP"). However, all adjustments consisting of
+ normal recurring accruals, which in the opinion of management are
+ necessary for fair presentation of the consolidated financial
+ statements, have been included. The results of operations for the three
+ month period ended December 31, 2003 are not necessarily indicative of
+ the results which may be expected for the entire fiscal year or any
+ other future period. For further information, refer to the consolidated
+ financial statements and footnotes thereto included in the
+ Corporation's Annual Report of Form 10-K for the year ended September
+ 30, 2003.
+
+NOTE 3- EARNINGS PER SHARE
+
+ The following table sets forth the computation of basic and diluted
+earnings per share:
+
+For the Three Months ended
+ December 31,
+ ------------------------------------
+ 2003 2002
+ ------------------------------------
+ 
+ Numerator:
+ Net income - Numerator for basic earnings
+ per share and diluted earnings per share--
+ income available to common stockholders 1,180,000 1,696,000
+ ====================================
+ Denominator:
+ Denominator for basic earnings per share--
+ weighted-average shares 2,310,317 2,213,687
+ Effect of dilutive securities:
+ Stock - based compensation plans 144,923 134,239
+ ------------------------------------
+ Denominator for diluted earnings per share--
+ adjusted weighted-average shares and
+ assumed conversions 2,455,240 2,347,926
+ ====================================
+ Basic earnings per share 0.51 0.77
+ Diluted earnings per share 0.48 0.73
+
+5
+
+NOTE 4- STOCK OPTION ACCOUNTING
+ The Corporation accounts for stock options under the intrinsic value
+ method of recognition and measurement principles of APB Opinion No. 25,
+ Accounting for Stock Issued to Employees, and related interpretations.
+ No stock-based employee compensation cost is reflected in net income,
+ as all options granted under those plans had an exercise price equal to
+ the market value of the underlying common stock on the date of grant.
+ Statement of Financial Accounting Standards No. 148, Accounting for
+ Stock-Based Compensation- Transition and Disclosure, is effective for
+ the interim period beginning after December 15, 2002 and requires
+ pro-forma net income and earnings per share disclosures on a quarterly
+ basis. The following table illustrates the effect on net income and
+ earnings per share as if the company had applied the fair value
+ recognition provisions of FASB Statement No. 123, Accounting for
+ Stock-Based Compensation, to stock-based employee compensation.
+
+Three Months
+ Ended December 31,
+ --------------------------------------
+ 2003 2002
+ --------------------------------------
+ (in thousands)
+ 
+Net income, as reported 1,180 1,696
+Deduct:
+ Total stock-based employee compensation expense determined under the fair
+ value based method for all awards, net of related tax effects
+ 4 77
+ --------------------------------------
+Pro-forma net income 1,176 1,619
+ ======================================
+Earnings per share:
+ Basic, as reported 0.51 0.77
+ Basic, pro-forma 0.51 0.73
+ Diluted, as reported 0.48 0.73
+ Diluted, pro-forma 0.48 0.69
+
+On November 19, 2002, the Corporation awarded 1,250 stock options from the 1994
+stock option plan and 20,687 stock options from the 1998 stock option plan. The
+awards may be exercised over a ten-year period at an exercise price of 23.00,
+the fair value of the Corporation's stock on the date of the option grant. In
+addition, 41,212 options were exercised at various prices in the current fiscal
+year.
+
+NOTE 5- EFFECT OF NEW FINANCIAL ACCOUNTING STANDARDS
+ See the Company's Annual Report dated September 30, 2003.
+
+NOTE 6- COMPREHENSIVE INCOME
+ Comprehensive income consists of net income and other gains and losses
+ affecting shareholder's equity that, under generally accepted
+ accounting principles in the United States of America, is excluded from
+ net income. For the Corporation, the difference between net income and
+ comprehensive income consists of the change, for the periods reported,
+ in unrealized gains and losses on securities available for sale, net of
+ tax.
+
+ At September 30, 2002, the Bank had a total of 33.1 million of
+ securities that were classified as held-to-maturity. During the quarter
+ ended December 31, 2002, the Bank transferred all of the securities to
+ available-for-sale in accordance with SFAS 115 and SFAS 130. In order
+ to remain within the held-to-maturity classification, the Bank must
+ have the ability and intent to hold the securities to maturity.
+ Although the Bank still has the ability to hold the securities to
+ maturity, the intent to hold the securities to maturity no longer
+ exists. Based upon a review of interest rates, potential liquidity
+ needs, interest rate risk characteristics of the securities and other
+ factors, management has determined that it would be in the best
+ interest of the Bank to transfer the securities. This will provide
+ greater flexibility in dealing with changing economic circumstances.
+
+ 6
+
+The following table provides information regarding the impact of the transfer on
+comprehensive income.
+
+Three Months
+ Ended December 31,
+ --------------------------------------
+ 2003 2002
+ --------------------------------------
+ (in thousands)
+ 
+Net income 1,180 1,696
+Other comprehensive income
+ Unrealized holding gains on securities transferred
+ from held to maturity, net of tax expense - 561
+ Unrealized holding gains (losses) during the period (168) 251
+ Tax (expense) benefit 63 (102)
+ --------------------------------------
+
+Comprehensive income 1,075 2,406
+ ======================================
+
+7
+
+FSF FINANCIAL CORP. AND SUBSIDIARIES
+ MANAGEMENT'S DISCUSSION AND ANALYSIS OF
+ FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+
+The Private Securities Litigation Reform Act of 1995 contains safe harbor
+provisions regarding forward-looking statements. When used in this discussion,
+the words "believes", "anticipates", "contemplates", "expects" and similar
+expressions are intended to identify forward-looking statements. Such statements
+are subject to certain risks and uncertainties that could cause actual results
+to differ materially from those projected. Those risks and uncertainties include
+changes in interest rates, risks associated with the effect of integrating newly
+acquired businesses, the ability to control costs and expenses and general
+economic conditions.
+
+General
+
+The Corporation's total assets at December 31, 2003 and September 30, 2003
+totaled 520.1 million and 541.2 million, respectively. The decrease of 21.1
+million was primarily the result of the payment of Federal Home Loan Bank
+("FHLB") advances and the reduction of deposits, offset in part by a reduction
+in the outstanding loan balances.
+
+Cash and cash equivalents decreased 21.0 million from 80.6 million at
+September 30, 2003 to 59.6 million at December 31, 2003, mainly due to payments
+on FHLB advances. The Corporation utilizes this excess liquidity to fund loan
+originations.
+
+During the quarter ended December 31, 2002, the Corporation transferred all its
+held-to-maturity debt securities and mortgage-backed and related securities to
+the available-for-sale category. The net carrying amount of these securities at
+the time of transfer was 31.0 million and the unrealized gain, net of income
+taxes, was 561,000. During this quarter ended December 31, 2003, 10.8 million
+of available-for-sale securities were purchased.
+
+Loans held for sale decreased 2.9 million to 14.2 million at December 31, 2003
+from 17.1 million at September 30, 2003. As of December 31, 2003, the Bank and
+HMC had forward commitments to sell all of their loans held for sale in the
+secondary market. Payment for these loans usually occurs within fourteen days of
+funding.
+
+Loans receivable decreased 2.6 million to 356.1 million at December 31, 2003
+from 358.7 million at September 30, 2003. The balance of consumer loans
+decreased by 4.4 million, the one-to-four family loan portfolio decreased by
+ 5.5 million and commercial business loans increased 1.3 million. The decrease
+in loans was generally the result of prepayments and refinancing activity due to
+the lower interest rate environment. Construction loans decreased from 263.2
+million at September 30, 2003 to 261.7 million at December 31, 2003. During
+that period, the Bank also sold 836,000 of agricultural loans to Farmer Mac, an
+agency of the federal government. These loans were sold, with servicing
+retained, in order to allow the Bank to expand the agricultural lending base
+without increasing the overall percentage of agricultural loans.
+
+ 8
+
+The following table sets forth information on loans originated and purchased for
+the periods indicated:
+
+Three Months
+ Ended December 31,
+ -------------------------------------
+ 2003 2002
+ -------------------------------------
+ (in thousands)
+ 
+Loans originated:
+ One-to-four family residential mortgages 18,831 70,134
+ Residential construction 57,725 50,345
+ Land 4,660 -
+ Agricultural 9,340 8,536
+ Commercial business & real estate 5,609 3,403
+ Consumer 2,567 5,992
+ -------------------------------------
+ Total loans originated 98,732 138,410
+ -------------------------------------
+Loans purchased:
+ Commercial business 2,500 -
+ -------------------------------------
+Total new loans 101,232 138,410
+ =====================================
+
+The following table sets forth the composition of the Bank's loans in dollars
+and in percentages of total loans at the dates indicated:
+
+December 31, September 30,
+ 2003 2003
+ --------------------------------------------------------------------
+ Amount Amount 
+ --------------------------------------------------------------------
+ (dollars in thousands)
+ 
+Residential real estate:
+ One-to-four family (1) 35,882 7.5 41,415 8.5 
+ Residential construction 261,748 54.7 263,227 53.9 
+ Multi-family 7,611 1.6 7,703 1.6 
+ --------------------------------------------------------------------
+ 305,241 63.8 312,345 63.9 
+
+Agricultural loans 56,526 11.8 57,259 11.7 
+Land and commercial real estate 41,357 8.6 40,831 8.4 
+Commercial business 24,275 5.1 22,961 4.7 
+ --------------------------------------------------------------------
+ 122,158 25.5 121,051 24.8 
+
+Consumer loans:
+ Home equity and second mortgages 21,864 4.6 22,482 4.6 
+ Automobile loans 10,709 2.2 11,550 2.4 
+ Other 18,372 3.8 21,272 4.4 
+ --------------------------------------------------------------------
+Total consumer loans 50,945 10.7 55,304 11.3 
+ --------------------------------------------------------------------
+ Total loans 478,344 100.0 488,700 100.0 
+ ============== ==============
+Less:
+ Loans in process (105,867) (110,657)
+ Deferred fees (470) (512)
+ Allowance for loan losses (1,689) (1,701)
+ -------------------- --------------------
+ Total loans, net 370,318 375,830
+ ==================== ====================
+
+- --------------------
+1. Includes loans held for sale in the amount of 14.2 million and 17.1
+ million as of December 31, 2003 and September 30, 2003.
+
+ 9
+
+In originating loans, the Bank recognizes that credit losses will be experienced
+and that the risk of loss will vary with, among other things, the type of loan
+being made, the creditworthiness of the borrower over the term of the loan and,
+in the case of a secured loan, the quality of the collateral for the loan. The
+Bank's management evaluates the need to establish reserves against losses on
+loans and other assets each quarter based on estimated losses on specific loans
+and on any real estate held for sale or investment when a finding is made that a
+loss is estimable and probable. Such an evaluation includes a review of all
+loans for which full collectibility may not be reasonably assured and considers,
+among other matters, the estimated market value of the underlying collateral of
+problem loans, prior loss experience, economic conditions and overall portfolio
+quality. While management recognizes and charges against the allowance for loan
+losses accounts that are determined to be uncollectible, experience indicates
+that at any point in time, inherent losses may exist in the loan portfolio which
+are not specifically identifiable. Therefore, based upon management's best
+estimate, an amount may be charged to earnings to maintain the allowance for
+loan losses at a level sufficient to recognize inherent credit risk.
+
+Loans are evaluated for impairment in accordance with SFAS 114, including all
+loans that are in a troubled debt restructuring involving a modification of
+terms, are measured at the present value of expected future cash flows
+discounted at the loan's initial effective interest rate. The fair value of the
+collateral of an impaired collateral dependent loan or an observable market
+price, if one exists, may be used as an alternative to discounting. If the
+measure of the impaired loan is less than the recorded investment in the loan,
+impairment is recognized through a charge to earnings and a reduction to the
+loan balance or an increase in the allowance for loan losses. A loan is
+considered impaired when, based on current information and events, it is
+probable that the Bank will be unable to collect all amounts due according to
+the contractual terms of the loan agreement.
+
+The Bank believes it has established its existing allowance for loan losses in
+accordance with GAAP. The allowance for loan losses is evaluated based on a
+detailed review of the loan portfolio, historic loan losses, current economic
+conditions and other factors. From period to period, the outstanding balance in
+various loan categories will increase and decrease thereby increasing or
+decreasing the amount of the allowance attributable to particular categories.
+Management believes that the resulting level of the allowance for loan losses
+reflects probable incurred losses in the loan portfolio. However, there can be
+no assurance that banking regulators, in reviewing the Bank's loan portfolio,
+will not request the Bank to increase its allowance for loan losses or that a
+deteriorating real estate market or other unforeseen economic changes may cause
+an increase in allowance for loan losses. This is likely to negatively affect
+the Bank's financial condition and earnings.
+
+The following table sets forth information with respect to the Bank's
+non-performing assets at the dates indicated:
+
+December 31, September 30,
+ 2003 2003
+ -----------------------------------
+ (dollars in thousands)
+ 
+ Loans accounted for on a non-accrual basis:
+ Mortgage loans:
+ Residential construction loans 4,630 3,819
+ Permanent loans secured by one-to-four family units 800 483
+ Non-residential loans 884 884
+ Non- mortgage loans:
+ Commercial and agricultural 547 411
+ Consumer 350 442
+ -----------------------------------
+ Total non-accrual loans 7,211 6,039
+ Foreclosed real estate and real estate held for investment 1,005 1,152
+ -----------------------------------
+ Total non-performing assets 8,216 7,191
+ ===================================
+ Total non-performing loans to net loans 1.95 1.61 
+ ===================================
+ Total non-performing loans to total assets 1.39 1.12 
+ ===================================
+ Total non-performing assets to total assets 1.58 1.33 
+ ===================================
+
+10
+
+The nonaccrual residential construction loans are comprised of 31 loans. The
+outstanding balance of the loans ranges from 46,000 to 474,000. The
+loan-to-value ratios of the loans range between 53 and 97 . Each of the loans
+has been evaluated for impairment and is carried at the lower of fair value or
+cost. There are 6 permanent loans secured by one-to-four family residential
+units that range from 29,000 to 296,000. The non-residential loan is a
+participation in a commercial real estate loan with another financial
+institution. A purchase agreement on the property is being negotiated.
+Commercial and agricultural loans are comprised of 13 loans. The outstanding
+values of these loans range from 6,000 to 199,000. Each of the loans has been
+evaluated for impairment and is carried at the lower of fair value or cost. The
+consumer loan total is made up of 16 loans that range from 1,000 to 95,000.
+The foreclosed real estate consists of 6 construction loans with balances
+between 52,000 and 196,000 and a commercial real estate loan with a balance of
+ 248,000, all of which are carried at the lower of fair value or cost.
+
+Deposits, after interest credited, decreased 6.2 million from 391.0 million at
+September 30, 2003 to 384.8 million at December 31, 2003. Overall cost of funds
+on deposits during the period decreased 82 basis points (100 basis points equals
+1 compared with the same three month period in 2002, as a result of the Bank's
+attempt to maintain deposit rates consistent with competitors in the market
+place. Demand deposits increased 6.3 million or 9.1 from September 30, 2003 to
+December 31, 2003. Savings account balances decreased 3.8 during the same
+period, while certificates of deposit decreased 9.2 million. The Bank utilized
+the deposits for liquidity and to reduce Federal Home Loan Bank ("FHLB")
+borrowings.
+
+The Corporation completed the repurchase of 4,551 shares of common stock which,
+when netted against 41,212 shares issued in connection with the exercise of
+stock options, decreased the number of treasury shares to 2,119,879 at December
+31, 2003. Treasury shares are used for general corporate purposes, including the
+issuance of shares in connection with the exercise of stock options. Total
+stockholders' equity increased 1.1 million since September 30, 2003 due to net
+income and amortization of ESOP shares. Total stockholder's equity was reduced
+by the amount of dividends paid during the three months of the fiscal year and
+the change in accumulated comprehensive income. Accumulated other comprehensive
+income decreased as a result of changes in the net unrealized gains and losses
+on the available-for-sale securities due to fluctuations in interest rates .
+Because of interest rate volatility, the Corporation's accumulated other
+comprehensive income could materially fluctuate. Book value per share increased
+from 22.30 at September 30, 2003 to 22.38 at December 31, 2003.
+
+ 11
+
+COMPARISON OF THE THREE MONTHS ENDED DECEMBER 31, 2003 AND 2002
+
+The following table sets forth information with respect to the Corporation's
+average balance sheet, interest and dividends earned and paid and related yields
+and rates (dollars in thousands):
+
+Three Months Ended December 31,
+ ---------------------------------------------------------------------------
+ 2003 2002
+ ---------------------------------------------------------------------------
+ Interest Interest
+ Average Yields & Average Yields &
+ Balance Interest Rates (1) Balance Interest Rates (1)
+ ---------------------------------------------------------------------------
+ (dollars in thousands)
+ 
+Assets:
+ Loans receivable (2) 371,160 6,851 7.38 421,560 8,225 7.80 
+ Mortgage-backed securities 32,530 363 4.46 47,669 495 4.15
+ Investment securities (3) 102,470 366 1.43 42,221 215 2.04
+ ----------------------- -----------------------
+ Total interest-earning assets 506,160 7,580 5.99 511,450 8,935 6.99
+ --------------------- ----------------------
+ Other assets 30,207 29,768
+ ------------- -------------
+Total assets 536,367 541,218
+ ============= =============
+
+Liabilities:
+ Interest-bearing deposits 388,623 1,879 1.93 391,741 2,696 2.75 
+ Borrowings 90,228 1,229 5.45 95,772 1,323 5.53
+ ----------------------- -----------------------
+ Total interest-bearing
+ liabilities 478,851 3,108 2.60 487,513 4,019 3.30
+ --------------------- ----------------------
+ Other liabilities 5,771 6,726
+ ------------- -------------
+ Total liabilities 484,622 494,239
+Stockholders' equity 51,745 46,979
+ ------------- -------------
+
+Total liabilities and stockholders'
+ equity 536,367 541,218
+ ============= =============
+
+Net interest income 4,472 4,916
+ ========== ==========
+Net spread (4) 3.39 3.69 
+Net margin (5) 3.53 3.84 
+Ratio of average interest-earning assets
+ to average interest-bearing 1.06X 1.05X
+ liabilities
+
+1. Annualized.
+2. Average balances include non-accrual loans and loans held for sale.
+3. Includes interest-bearing deposits in other financial institutions.
+4. Net spread represents the difference between the average yield on
+ interest-earning assets and the average cost of interest-bearing
+ liabilities.
+5. Net margin represents net interest income as a percentage of
+ interest-earning assets.
+
+Net Income
+The Corporation recorded net income of 1.2 million for the three months ended
+December 31, 2003, as compared to net income of 1.7 million for the three
+months ended December 31, 2002. This decrease in net income was 516,000 or
+30.4 . The decrease in net income for first quarter 2004 was primarily the
+result of a decrease in net interest income and non-interest income, coupled
+with an increase in non-interest expense. Net interest income decreased 444,000
+in the first quarter of fiscal 2004, a decrease of 9.0 over first quarter 2003.
+The decrease in net interest income was primarily due to a 100 basis point
+decline in yields on interest earning assets offset by a 70 basis point
+reduction on cost of funds. The mix of the Bank's deposits helped to stabilize
+its cost of funds in this lower interest rate environment. Non-interest income
+was 49.0 of non-interest expense for the quarter.
+
+ 12
+
+Total Interest Income
+Total interest income decreased by 1.4 million to 7.6 million for the quarter
+ended December 31, 2003 from the comparable 2002 period. The average yield on
+loans decreased to 7.38 for the quarter ended December 31, 2003 from 7.80 for
+the quarter ended December 31, 2002. During the same period, the average yield
+on mortgage-backed securities increased 31 basis points to 4.46 . The average
+yield on investment securities decreased from 2.04 for the three months ended
+December 31, 2003 to 1.43 for the same period in 2002.
+
+Total Interest Expense
+Total interest expense decreased to 3.1 million for the three months ended
+December 31, 2003 from 4.0 million for the same period in 2002. The average
+cost of deposits decreased 82 basis points from 2.75 for the quarter ended
+December 31, 2003 to 1.93 for the same period in 2002, as the rates offered by
+the Bank on deposits decreased. No assurance can be made that deposits can be
+maintained in the future without further increasing the cost of funds if
+interest rates increase. The average balance of borrowings decreased 5.6
+million to 90.2 million for the three months ended December 31, 2003 from 95.8
+million for the three months ended December 31, 2002. The cost of borrowings
+decreased by 8 basis points to 5.45 for the quarter ended December 31, 2003
+from 5.53 for the same period in 2002. Borrowings decreased as the Bank
+utilized repayments of loans and investments to meet liquidity needs.
+
+Net Interest Income
+Net interest income decreased by 444,000 to 4.5 million for the quarter ended
+December 31, 2003, from 4.9 million for the same period in 2002. Average
+interest-earning assets decreased 5.3 million from 511.5 million for the
+quarter ended December 31, 2002 to 506.2 million for the quarter ended December
+31, 2003, while the average yield on interest-earning assets decreased from
+6.99 for 2002 to 5.99 for 2003. Average interest-bearing liabilities decreased
+by 8.6 million to 478.9 million for the quarter ended December 31, 2003 from
+ 487.5 million for the quarter ended December 31, 2002, while the cost of
+interest-bearing liabilities decreased from 3.30 in 2002 to 2.60 in 2003.
+
+Provision for Loan Losses
+The Corporation's provision for loan losses was 259,000 for the quarter ended
+December 31, 2003, compared to 288,000 for the same period in 2002. The
+allowance for loan losses is established through a provision for loan losses
+charged to expense. While the Corporation maintains its allowance for losses at
+a level which it considers to reflect probable incurred losses, there can be no
+assurance that further additions will not be made to the loss allowances or that
+such losses will not exceed the estimated amounts.
+
+ 13
+
+The following table sets forth information with respect to the Bank's allowance
+for loan losses at the dates indicated:
+
+For the Three Months
+ Ended December 31,
+ ----------------------------------------
+ 2003 2002
+ ----------------------------------------
+ (dollars in thousands)
+ 
+ Average loans outstanding 371,160 421,560
+ ----------------------------------------
+ Allowance balance (beginning of period) 1,701 1,681
+ ----------------------------------------
+ Provision (credit):
+ Residential and construction 201 80
+ Land and commercial real estate - -
+ Commercial and agricultural business 58 208
+ Consumer - -
+ ----------------------------------------
+ Total provision 259 288
+ Charge-offs:
+ Residential and construction 161 100
+ Land and commercial real estate - -
+ Commercial and agricultural business 58 129
+ Consumer 97 76
+ ----------------------------------------
+ Total charge-offs 316 305
+ Recoveries:
+ Residential and construction 17 -
+ Land and commercial real estate - -
+ Consumer 28 44
+ ----------------------------------------
+ Total recoveries 45 44
+ ----------------------------------------
+ Net charge-offs 271 261
+ ----------------------------------------
+
+ Allowance balance (end of period) 1,689 1,708
+ ========================================
+ Allowance as percent of net loans 0.46 0.40 
+ Net loans charged off as a percent of average 0.07 0.06 
+ loans
+
+Non-interest Income
+Total non-interest income decreased from 2.5 million for the quarter ended
+December 31, 2002 to 2.2 million for the quarter ended December 31, 2003. Gain
+on sale of loans decreased 374,000 over the same period in 2002 primarily due
+to a decrease in the refinancing market and loans that are sold in the secondary
+market. Other service charges and fees decreased from 421,000 for the three
+months ended December 31, 2002 to 364,000 for the same period ended December
+31, 2003, which was mainly attributable to a decrease in the outstanding loan
+portfolio balance. Service charges on deposit accounts increased 47,000 due to
+an increase in fees charged.
+
+Non-interest Expense
+Total non-interest expense increased 101,000 or 23.0 from December 31, 2002 as
+compared to the same period in 2003. Compensation and benefits remained at 2.8
+million for the periods compared. Occupancy and equipment expense increased
+ 80,000 while data processing increased 14,000 to 248,000 for the period ended
+December 31, 2003, due to the delivery of additional data processing related
+services to our customer base.
+
+Income Tax Expense
+Income taxes decreased to 796,000 for the quarter ended December 31, 2003 from
+ 1.1 million for the same period in 2002 due to a decrease of 837,000 in pretax
+income.
+
+ 14
+
+LIQUIDITY AND CAPITAL RESOURCES
+
+The Corporation's primary sources of funds are deposits, borrowings, principal
+and interest payments on loans, investments and mortgage-backed securities,
+sales of mortgage loans and funds provided by operations. While scheduled
+payments on loans, mortgage-backed securities and short-term investments are
+relatively predictable sources of funds, deposit flows and early loan repayments
+are greatly influenced by general interest rates, economic conditions and
+competition.
+
+The amount of certificate accounts that are scheduled to mature during the
+twelve months ending December 31, 2004 is approximately 169.1 million. To the
+extent that these deposits do not remain upon maturity, the Bank believes that
+it can replace these funds with new deposits, excess liquidity and FHLB advances
+or outside borrowings. It has been the Bank's experience that substantial
+portions of such maturing deposits remain at the Bank.
+
+The following table presents, as of December 31, 2003, the Company's significant
+fixed and determinable contractual obligations by payment date. The payment
+amount represents those amounts contractually due to the recipient and does not
+include any unamortized premiums or discounts or other similar carrying amount
+adjustments.
+
+in thousands
+ ----------------------------------------------------------
+ One One to Over
+ Year or Three Three
+ Less Years Years Total
+ ----------------------------------------------------------
+ Long-Term Debt
+ FHLB borrowings 6,000 10,000 62,000 78,000
+ ==========================================================
+ 
+ Other Contractual Obligations
+ Non-cancelable operating leases 364 696 104 1,164
+ Unused lines of credit 39,342 - - 39,342
+ Standby letters of credit 221 - - 221
+ Development letters of credit 6,709 - - 6,709
+ Commitments to sell loans 15,197 - - 15,197
+ Commitments to extend credit 1,195 - - 1,195
+
+OTS regulations require the Bank to maintain core capital of 4.0 of assets, of
+which 2.0 must be tangible equity capital, excluding goodwill. The Bank is also
+required to maintain risk-based capital equal to 8.0 of total risk-based
+assets. The Bank's regulatory capital exceeded its tangible equity, tier 1
+(risk-based), tier 1 (core) and risk-based capital requirements by 7.1 , 8.9 ,
+4.6 and 5.4 , respectively.
+
+Management believes that under current regulations, the Bank will continue to
+meet its minimum capital requirements in the foreseeable future. Events beyond
+the control of the Bank, such as increased interest rates or a downturn in the
+economy in areas in which the Bank operates, could adversely affect future
+earnings and, as a result, the ability of the Bank to meet its future minimum
+capital requirements.
+
+QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
+
+There have been no material changes from the information regarding market risk
+disclosed under the heading "Asset and Liability Management" in the
+Corporation's Annual Report for the year ended September 30, 2003.
+
+ 15
+
+CONTROLS AND PROCEDURES
+
+The Company's management evaluated, with the participation of the Company's
+Chief Executive Officer and Chief Financial Officer, the effectiveness of the
+Company's disclosure controls and procedures, as of the end of the period
+covered by this report. Based on that evaluation, the Chief Executive Officer
+and Chief Financial Officer concluded that the Company's disclosure controls and
+procedures are effective to ensure that information required to be disclosed by
+the Company in the reports that it files or submits under the Securities
+Exchange Act of 1934 is recorded, processed, summarized and reported within the
+time periods specified in the Securities and Exchange Commission's rules and
+forms.
+
+There were no changes in the Company's internal control over financial reporting
+that occurred during the Company's last fiscal quarter that have materially
+affected, or are reasonably likely to materially affect, the Company's internal
+control over financial reporting.
+
+ 16
+
+ITEM 1. LEGAL PROCEEDINGS
+
+ Neither the Corporation nor any of its subsidiaries were
+ engaged in any legal proceedings of a material nature at
+ December 31, 2003. From time to time, the Corporation is a
+ party to legal proceedings in the ordinary course of business
+ wherein it enforces its security interest in loans.
+
+ITEM 2. CHANGES IN SECURITIES AND USE OF PROCEEDS
+
+ Not applicable.
+
+ITEM 3. DEFAULTS UPON SENIOR SECURITIES
+
+ Not applicable.
+
+ITEM 4. SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS
+
+ Not applicable.
+
+ITEM 5. OTHER INFORMATION
+
+ (a) Not applicable.
+ (b) Not applicable.
+
+ITEM 6. EXHIBITS AND REPORTS ON FORM 8-K
+
+ (a) The following exhibits are filed as part of this report.
+
+3.1 Articles of Incorporation of FSF Financial Corp. 
+ 3.2 Bylaws of FSF Financial Corp. 
+ 4.0 Stock Certificate of FSF Financial Corp. 
+ 10.1 Form of Employment Agreement with Donald A. Glas, George B. Loban
+ and Richard H. Burgart 
+ 10.2 First Federal fsb Management Stock Plan 
+ 10.3 FSF Financial Corp. 1996 Stock Option Plan 
+ 10.4 FSF Financial Corp. 1998 Stock Compensation Plan 
+ 31.0 Rule 13a-14(a) Certifications
+ 32.0 Certification pursuant to Section 906 of the Sarbanes-Oxley Act of 2002.
+ (b) Reports on Form 8-K
+
+ (i) The Company furnished a current report on Form 8-K on
+ October 29, 2003 pursuant to items 7 and 12 to report
+ operating results for the quarter ended September 30, 2003.
+
+- --------------------------------------------------------------------------------
+ Incorporated herein by reference into this document from the Exhibits to
+ Form S-1, Registration Statement initially filed with the Commission on
+ June 1, 1994. Registration No. 33-79570.
+ Incorporated herein by reference into this document from the Registrant's
+ Proxy Statement for the Annual Meeting of Stockholders held on January 17,
+ 1996 and filed with the Commission on December 13, 1995.
+ Incorporated herein by reference into this document from the Registrant's
+ Proxy Statement for the Annual Meeting of Stockholders held on January 20,
+ 1998 and filed with the Commission on December 10, 1997.
+
+ 17
+
+FSF FINANCIAL CORP. AND SUBSIDIARIES
+
+ SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the
+registrant has duly caused this report to be signed on its behalf by the
+undersigned thereunto duly authorized.
+
+FSF FINANCIAL CORP.
+
+Date: January 26, 2004 By: /s/ Donald A. Glas
+ -----------------------
+ Donald A. Glas
+ Chief Executive Officer
+
+Date: January 26, 2004 By: /s/ Richard H. Burgart
+ -----------------------
+ Richard H. Burgart
+ Chief Financial Officer
+
+18
+
+SECTION 302 CERTIFICATION
+
+ I, Donald A. Glas, certify that:
+
+1. I have reviewed this quarterly report on Form 10-Q of FSF Financial
+ Corp.;
+
+2. Based on my knowledge, this report does not contain any untrue
+ statement of a material fact or omit to state a material fact necessary
+ to make the statements made, in light of the circumstances under which
+ such statements were made, not misleading with respect to the period
+ covered by this report;
+
+3. Based on my knowledge, the financial statements, and other financial
+ information included in this report, fairly present in all material
+ respects the financial condition, results of operations and cash flows
+ of the registrant as of, and for, the periods presented in this report;
+
+4. The registrant's other certifying officer and I are responsible for
+ establishing and maintaining disclosure controls and procedures (as
+ defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) for the
+ registrant and we have:
+
+ (a) designed such disclosure controls and procedures, or caused
+ such disclosure controls and procedures to be designed under
+ our supervision to ensure that material information relating
+ to the registrant, including its consolidated subsidiaries, is
+ made known to us by others within those entities, particularly
+ during the period in which this report is being prepared;
+
+ (b) evaluated the effectiveness of the registrant's disclosure
+ controls and procedures and presented in this report our
+ conclusions about the effectiveness of the disclosure controls
+ and procedures, as of the end of the period covered by this
+ report based on such evaluation; and
+
+ (c) disclosed in this report any change in the registrant's
+ internal control over financial reporting that occurred during
+ the registrant's most recent fiscal quarter that has
+ materially affected, or is reasonably likely to materially
+ affect, the registrant's internal control over financial
+ reporting; and
+
+5. The registrant's other certifying officer and I have disclosed, based
+ on our most recent evaluation of internal control over financial
+ reporting, to the registrant's auditors and the audit committee of
+ registrant's board of directors (or persons performing the equivalent
+ functions):
+
+ (a) all significant deficiencies and material weaknesses in the
+ design or operation of internal control over financial
+ reporting which are reasonably likely to adversely affect the
+ registrant's ability to record, process, summarize and report
+ financial information; and
+
+ (b) any fraud, whether or not material, that involves management
+ or other employees who have a significant role in the
+ registrant's internal control over financial reporting.
+
+Date: January 26, 2004 /s/Donald A. Glas
+ ---------------------------------
+ Donald A. Glas
+ Chief Executive Officer
+
+SECTION 302 CERTIFICATION
+
+ I, Richard H. Burgart, certify that:
+
+1. I have reviewed this quarterly report on Form 10-Q of FSF Financial
+ Corp.;
+
+2. Based on my knowledge, this report does not contain any untrue
+ statement of a material fact or omit to state a material fact necessary
+ to make the statements made, in light of the circumstances under which
+ such statements were made, not misleading with respect to the period
+ covered by this report;
+
+3. Based on my knowledge, the financial statements, and other financial
+ information included in this report, fairly present in all material
+ respects the financial condition, results of operations and cash flows
+ of the registrant as of, and for, the periods presented in this report;
+
+4. The registrant's other certifying officer and I are responsible for
+ establishing and maintaining disclosure controls and procedures (as
+ defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) for the
+ registrant and we have:
+
+ (a) designed such disclosure controls and procedures, or caused
+ such disclosure controls and procedures to be designed under
+ our supervision to ensure that material information relating
+ to the registrant, including its consolidated subsidiaries, is
+ made known to us by others within those entities, particularly
+ during the period in which this report is being prepared;
+
+ (b) evaluated the effectiveness of the registrant's disclosure
+ controls and procedures and presented in this report our
+ conclusions about the effectiveness of the disclosure controls
+ and procedures, as of the end of the period covered by this
+ report based on such evaluation; and
+
+ (c) disclosed in this report any change in the registrant's
+ internal control over financial reporting that occurred during
+ the registrant's most recent fiscal quarter that has
+ materially affected, or is reasonably likely to materially
+ affect, the registrant's internal control over financial
+ reporting; and
+
+5. The registrant's other certifying officer and I have disclosed, based
+ on our most recent evaluation of internal control over financial
+ reporting, to the registrant's auditors and the audit committee of
+ registrant's board of directors (or persons performing the equivalent
+ functions):
+
+ (a) all significant deficiencies and material weaknesses in the
+ design or operation of internal control over financial
+ reporting which are reasonably likely to adversely affect the
+ registrant's ability to record, process, summarize and report
+ financial information; and
+
+ (b) any fraud, whether or not material, that involves management
+ or other employees who have a significant role in the
+ registrant's internal control over financial reporting.
+
+Date: January 26, 2004 /s/Richard H. Burgart
+ ---------------------------------
+ Richard H. Burgart
+ Chief Financial Officer
+
+ 19
+
+<EX-32>
+ 3
+ ex-32.txt
+ CERTIFICATION - SECTION 906
+
+CERTIFICATION PURSUANT TO
+ 18 U.S.C. SECTION 1350,
+ AS ADOPTED PURSUANT TO
+ SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002
+
+In connection with the Quarterly Report of FSF Financial Corp. (the "Company")
+on Form 10-Q for the quarter ended December 31, 2003 as filed with the
+Securities and Exchange Commission on the date hereof (the "Report"), we, Donald
+A. Glas, Chief Executive Officer, and Richard H. Burgart, Chief Financial
+Officer, certify, pursuant to 18 U.S.C. ss.1350, as adopted pursuant to ss. 906
+of the Sarbanes-Oxley Act of 2002, that:
+
+ (1) The Report fully complies with the requirements of section 13(a)
+ or 15(d) of the Securities Exchange Act of 1934; and
+
+ (2) The information contained in the Report fairly presents, in all
+ material respects, the financial condition and results of
+ operations of the Company.
+
+A signed original of this written statement required by Section 906 has been
+provided to the Company and will be retained by the Company and furnished to the
+Securities and Exchange Commission or its staff upon request.
+
+/s/ Donald A. Glas /s/ Richard H. Burgart
+- ------------------ ----------------------
+Donald A. Glas Richard H. Burgart
+Chief Executive Officer Chief Financial Officer
+
+January 26, 2004
+
+</EX-32>
+

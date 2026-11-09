@@ -1,0 +1,1517 @@
+<Header>
+<FileStats>
+    <FileName>20040114_10-Q_edgar_data_720480_0001157523-04-000186.txt</FileName>
+    <GrossFileSize>89193</GrossFileSize>
+    <NetFileSize>72655</NetFileSize>
+    <NonText_DocumentType_Chars>0</NonText_DocumentType_Chars>
+    <HTML_Chars>600</HTML_Chars>
+    <XBRL_Chars>0</XBRL_Chars>
+    <XML_Chars>0</XML_Chars>
+    <N_Exhibits>4</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0001157523-04-000186.hdr.sgml : 20040114
+<ACCEPTANCE-DATETIME>20040114083050
+ACCESSION NUMBER:		0001157523-04-000186
+CONFORMED SUBMISSION TYPE:	10-Q
+PUBLIC DOCUMENT COUNT:		5
+CONFORMED PERIOD OF REPORT:	20040113
+FILED AS OF DATE:		20040114
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			ATC HEALTHCARE INC /DE/
+		CENTRAL INDEX KEY:			0000720480
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-HOME HEALTH CARE SERVICES [8082]
+		IRS NUMBER:				112650500
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0228
+
+	FILING VALUES:
+		FORM TYPE:		10-Q
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-31271
+		FILM NUMBER:		04523880
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1983 MARCUS AVE
+		STREET 2:		STE E122
+		CITY:			LAKE SUCCESS
+		STATE:			NY
+		ZIP:			11042
+		BUSINESS PHONE:		5167501600
+
+	MAIL ADDRESS:	
+		STREET 1:		425 NORTH AVE EAST
+		STREET 2:		STE C115
+		CITY:			WESTFIELD
+		STATE:			NJ
+		ZIP:			07090
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	STAFF BUILDERS INC /DE/
+		DATE OF NAME CHANGE:	19920703
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	TENDER LOVING CARE HEALTH CARE SERVICES INC
+		DATE OF NAME CHANGE:	19880404
+
+</SEC-Header>
+</Header>
+
+ 
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ Hz25jS5xpMSiAEpWtYcmccj8o3sdQ+dECkXuriPDWWvwb9Qsh4RcxPxVXXb0/T1H
+ 6w8/Kh5yJXgSofEtsZVQhQ==
+
+ 0001157523-04-000186.txt : 20040114
+
+10-Q
+ 1
+ a4549063.txt
+ ATC HEALTHCARE, INC. 10-Q
+
+SECURITIES AND EXCHANGE COMMISSION
+ WASHINGTON, D.C. 20549
+
+ FORM 10-Q
+
+X QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE
+ SECURITIES EXCHANGE ACT OF 1934 FOR THE QUARTERLY PERIOD
+ ENDED November 30, 2003, OR
+
+ TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE
+ SECURITIES EXCHANGE ACT OF 1934 FOR THE TRANSITION PERIOD
+ FROM TO .
+
+Commission file number 0-11380
+
+ATC HEALTHCARE, INC.
+ (Exact name of registrant as specified in its charter)
+
+Delaware 11-2650500
+(State or other jurisdiction of (I.R.S. Employer
+ incorporation or organization) Identification No.)
+
+1983 Marcus Avenue, Lake Success, New York 11042
+ (Address of principal executive offices) (Zip Code)
+
+(516) 750-1600
+ (Registrant's telephone number, including area code)
+
+(Former name, former address and former fiscal year,
+ if changed since last report)
+
+Indicate by check mark whether the registrant (1) has filed all reports required
+to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during
+the preceding 12 months (or for such shorter period that the registrant was
+required to file such reports), and (2) has been subject to such filing
+requirements for the past 90 days.
+ Yes X No
+
+Indicate by check mark whether the registrant is an accelerated filer (as
+defined in Rule 12b-2 of the Exchange Act) Yes No X
+
+The number of shares of Class A Common Stock and Class B Common Stock
+outstanding on January 8, 2004 were 24,649,749 and 245,917 shares, respectively.
+
+ATC HEALTHCARE, INC. AND SUBSIDIARIES
+
+INDEX
+
+PAGE NO.
+ --------
+ 
+PART I. FINANCIAL INFORMATION
+
+ITEM 1. FINANCIAL STATEMENTS
+
+ Condensed Consolidated Balance Sheets
+ November 30, 2003 (unaudited) and February 28, 2003 3
+
+ Condensed Consolidated Statements of Operations (unaudited)
+ Three and Nine months ended November 30, 2003 and 2002 4
+
+ Condensed Consolidated Statements of Cash Flows (unaudited)
+ Nine months ended November 30, 2003 and 2002 5
+
+ Notes to Condensed Consolidated Financial Statements (unaudited) 6-9
+
+ITEM 2. MANAGEMENT'S DISCUSSION AND ANALYSIS OF
+ FINANCIAL CONDITION AND RESULTS OF OPERATIONS 10-16
+
+ITEM 3. QUANTITATIVE AND QUALITATIVE DESCRIPTION
+ OF MARKET RISK 17
+
+ITEM 4. CONTROLS AND PROCEDURES 17
+
+PART II. OTHER INFORMATION 18
+
+ITEM 1. LEGAL PROCEDINGS 18
+
+ITEM 6. EXHIBITS AND REPORTS ON FORM 8-K 18
+
+2
+
+PART I. FINANCIAL INFORMATION
+ATC HEALTHCARE, INC. AND SUBSIDIARIES
+CONDENSED CONSOLIDATED BALANCE SHEETS
+(In thousands, except per share data)
+ November 30, February 28,
+ 2003 2003
+ (Unaudited)
+ ----------------------------------------
+ASSETS
+CURRENT ASSETS:
+ 
+ Cash and cash equivalents 437 585
+ Accounts receivable, less allowance
+ for doubtful accounts of 902
+ and 1,784, respectively 27,256 26,876
+ Deferred income taxes less
+ valuation allowance of 893 in 2003 894 1,787
+ Prepaid expenses and other current assets 4,264 3,087
+ ----------------------------------------
+ Total current assets 32,851 32,335
+
+Fixed assets, net 854 2,670
+Intangibles 6,656 7,186
+Goodwill 32,257 33,449
+Deferred income taxes less
+ valuation allowance of 1,091 in 2003 1,097 2,076
+Other assets 803 899
+ ----------------------------------------
+ Total assets 74,518 78,615
+ ========================================
+LIABILITIES AND STOCKHOLDERS' EQUITY
+CURRENT LIABILITIES:
+ Accounts payable 1,656 1,332
+ Accrued expenses 7,050 6,192
+ Book overdraft 2,305 2,580
+ Current portion due under bank financing 1,326 679
+ Current portion of notes and guarantee payable 1,067 896
+ ----------------------------------------
+ Total current liabilities 13,404 11,679
+
+Notes and guarantee payable 31,276 31,463
+Due under bank financing 23,428 24,249
+Other liabilities 41 78
+ ----------------------------------------
+ Total liabilities 68,149 67,469
+ ----------------------------------------
+Commitments and contingencies
+
+Convertible Series A Preferred Stock .01 par value 4,000 shares authorized,
+ 2,000 and 1,200 shares issued and
+ outstanding at November 30, 2003 and February 28, 1,050 600
+2003,
+ respectively)
+ ----------------------------------------
+STOCKHOLDERS' EQUITY:
+Class A Common Stock - .01 par value;
+ 75,000,000 shares authorized; 24,639,085 and
+ 23,582,552 shares issued and outstanding at November 30, 2003
+ and February 28, 2003, respectively 246 235
+Class B Common Stock - .01 par value;
+ 1,554,936 shares authorized; 245,917 and
+ 256,191 shares issued and outstanding at November 30, 2003
+ and February 28, 2003, respectively 3 3
+Additional paid-in capital 14,411 13,679
+Accumulated deficit (9,341) (3,371)
+ ----------------------------------------
+ Total stockholders' equity 5,319 10,546
+ ----------------------------------------
+ Total liabilities and stockholders' equity 74,518 78,615
+ ========================================
+See notes to condensed consolidated financial statements.
+
+3
+
+ATC HEALTHCARE, INC. AND SUBSIDIARIES
+CONDENSED CONSOLIDATED STATEMENTS OF OPERATIONS (UNAUDITED)
+(In thousands, except per share data)
+ For the Three Months For the Nine Months
+ Ended(unaudited) Ended
+ November 30, November 30, November 30, November 30,
+ 2003 2002 2003 2002
+ ---- ---- ---- ----
+
+REVENUES:
+ Service revenues 32,383 38,282 100,066 114,961
+- -----------------------------------------------------------------------------------------------------------------------------
+
+COSTS AND EXPENSES:
+ 
+ Service costs 25,649 29,291 78,847 87,826
+ General and administrative expenses 5,476 7,517 17,890 22,035
+ Depreciation and amortization 580 557 1,761 1,434
+ Office closing and restructuring charge (see note 8) 2,589 2,589
+- -----------------------------------------------------------------------------------------------------------------------------
+ Total operating expenses 34,294 37,365 101,087 111,295
+- -----------------------------------------------------------------------------------------------------------------------------
+
+(LOSS) INCOME FROM OPERATIONS (1,911) 917 (1,021) 3,666
+- -----------------------------------------------------------------------------------------------------------------------------
+
+INTEREST AND OTHER EXPENSES (INCOME):
+ Interest expense, net 1,095 735 3,058 2,244
+ Other (income), net 6 (89) (229)
+ Expense related to TLCS liability 2,293 2,293
+- -----------------------------------------------------------------------------------------------------------------------------
+ Total interest and other expenses 1,095 3,034 2,969 4,308
+- -----------------------------------------------------------------------------------------------------------------------------
+
+LOSS BEFORE INCOME TAXES (3,006) (2,117) (3,990) (642)
+
+INCOME TAX (BENEFIT) PROVISION 2,041 (868) 1,929 (263)
+- -----------------------------------------------------------------------------------------------------------------------------
+
+ NET LOSS (5,047) (1,249) (5,920) (379)
+=============================================================================================================================
+
+DIVIDENDS ACCRETED TO PREFERRED SHAREHOLDERS 17 50
+- -----------------------------------------------------------------------------------------------------------------------------
+
+LOSS ATTRIBUTABLE TO COMMON SHAREHOLDERS (5,064) (1,249) (5,970) (379)
+=============================================================================================================================
+
+- -----------------------------------------------------------------------------------------------------------------------------
+LOSS PER COMMON SHARE - BASIC: (.20) (.05) (.25) (.02)
+=============================================================================================================================
+
+- -----------------------------------------------------------------------------------------------------------------------------
+LOSS PER COMMON SHARE - DILUTED (.20) (.05) (.25) (.02)
+=============================================================================================================================
+WEIGHTED AVERAGE COMMON
+ SHARES OUTSTANDING
+ Basic 24,882 23,792 24,325 23,748
+=============================================================================================================================
+ Diluted 24,882 23,792 24,325 23,748
+=============================================================================================================================
+
+See notes to condensed consolidated financial statements.
+
+4
+
+ATC HEALTHCARE, INC. AND SUBSIDIARIES
+CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS (UNAUDITED)
+(In thousands)
+ Nine Months Ended
+ November 30, November 30,
+ 2003 2002
+ ------------------------------------
+CASH FLOWS FROM OPERATING ACTIVITIES:
+ 
+ Net loss (5,920) (379)
+ Adjustments to reconcile net loss to net cash (used in) provided by
+ Operating activities:
+ Depreciation and amortization 1,760 1,463
+ Office closing and Restructuring Charge 2,589
+ Amortization of debt financing costs 194 127
+ Provision for doubtful accounts (882) 228
+ Deferred income taxes 1,872 (940)
+ Liability for TLCS obligation 2,293
+ Accrued Interest 691 660
+ Changes in operating assets and liabilities net of
+ Effects of acquisitions
+ Accounts receivable 502 (815)
+ Prepaid expenses and other current assets (1,177) (1,204)
+ Other assets (21) (489)
+ Accounts payable and accrued expenses 370 268
+ Other long-term liabilities (37) (10)
+ ---------------------------------
+ Net cash (used in) provided by operating activities (59) 1,202
+ ---------------------------------
+
+CASH FLOWS FROM INVESTING ACTIVITIES:
+ Capital expenditures (133) (339)
+ Finalization of acquisition purchase price 150
+ Acquisition of business (20) (627)
+ Cash received for repayment of notes receivable -- 33
+ ---------------------------------
+ Net cash used in investing activities (3) (933)
+ ---------------------------------
+
+CASH FLOWS FROM FINANCING ACTIVITIES:
+ Payment of notes and capital lease obligations (1,442) (2,572)
+ Repayment of term loan facility (1,018)
+ Book overdraft (275)
+ Debt Financing costs (77)
+ Issuance of preferred and common stock 1,147 139
+ Borrowings under credit facility 1,579 1,729
+ ---------------------------------
+ Net cash used in financing activities (86) (704)
+ ---------------------------------
+
+NET DECREASE IN CASH AND CASH EQUIVALENTS (148) (435)
+
+CASH AND CASH EQUIVALENTS, BEGINNING OF YEAR 585 1,320
+
+ ---------------------------------
+CASH AND CASH EQUIVALENTS, END OF PERIOD 437 885
+ =================================
+Supplemental Data:
+ Interest paid 1,717 1,603
+ =================================
+ Income taxes paid 86 54
+ =================================
+ Issuance of notes payable for acquisition of businesses -- 1,376
+ =================================
+ Cash Utilized in acquisition 628
+ =================================
+ Net Assets acquired 2,004
+ =================================
+
+See notes to condensed consolidated financial statements.
+
+5
+
+ATC HEALTHCARE, INC. AND SUBSIDIARIES
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (UNAUDITED)
+(Amounts in Thousands, Except Where Indicated Otherwise, and for Per Share
+Amounts)
+
+1. BASIS OF PRESENTATION - The accompanying condensed consolidated financial
+statements as of November 30, 2003 and for the three and nine months ended
+November 30, 2003 and 2002 are unaudited. In the opinion of management, all
+adjustments, consisting of only normal and recurring accruals necessary for a
+fair presentation of the consolidated financial position and results of
+operations for the periods presented have been included. The condensed
+consolidated balance sheet as of February 28, 2003 was derived from audited
+financial statements but does not include all disclosures required by generally
+accepted accounting principles. The accompanying condensed consolidated
+financial statements should be read in conjunction with the condensed
+consolidated financial statements and notes thereto included in the Annual
+Report on Form 10-K of ATC Healthcare, Inc. (the "Company") for the year ended
+February 28, 2003. Certain prior period amounts have been reclassified to
+conform with the November 30, 2003 presentation. Results for the three and nine
+month periods ended November 30, 2003 are not necessarily indicative of the
+results for the full year ending February 29, 2004.
+
+2. EARNINGS PER SHARE -Basic earnings (loss) per share is computed using the
+weighted average number of common shares outstanding for the applicable period.
+Diluted earnings (loss) per share is computed using the weighted average number
+of common shares plus potential common shares outstanding, unless the inclusion
+of such potential common shares would be anti-dilutive. For the three and nine
+months ended November 30, 2003 and 2002, potential common shares would have been
+anti-dilutive.
+
+3. PROVISION (BENEFIT) FOR INCOME TAXES - The Company recorded a deferred income
+tax asset for the tax effect of net operating loss carry forwards and other
+items aggregating approximately 4.0 million. The net operating loss expires in
+2020 through 2023. In recognition of the uncertainty regarding the ultimate
+amount of income tax benefits to be derived, the company has recorded a
+valuation allowance of 1.9 million as of November 30, 2003.
+
+4. RECENT ACQUISITIONS - In January 2002, the Company purchased substantially
+all of the assets of Direct Staffing, Inc. ("DSI"), a licensee of the Company
+serving the territory consisting of Westchester County, New York and Northern
+New Jersey, and DSS Staffing Corp. ("DSS"), a licensee of the Company serving
+New York City and Long Island, New York for a purchase price of 30.2 million.
+These two licensees were owned by an unrelated third party and by a son and two
+sons-in-law of the Company's Chairman of the Board of Directors who have
+received an aggregate 60 of the proceeds of the sale. Under the original
+purchase agreement, the Company had agreed to pay contingent consideration equal
+to the amount by which (a) the product of (i) Annualized Revenues (as defined in
+the purchase agreement) and (ii) 5.25 exceeds (b) 17.2 million but if and only
+if the resulting calculation exceeds 20 million. However, under the June 13,
+2003 amendment discussed below, the contingent obligation was terminated.
+
+The purchase price was initially evidenced by two series of promissory notes
+issued to each of the four owners of DSS and DSI. The first series of notes (the
+"First Series"), in the aggregate principal amount of 12.9, million bore
+interest at the rate of 5 per annum and was payable in 36 consecutive equal
+monthly installments of principal, together with interest thereon, with the
+first installment becoming due on March 1, 2002. The second series of notes (the
+"Second Series"), in the aggregate principal amount of 17.2 million, bore
+interest at the rate of 5 per annum and was payable as follows: 11 million,
+together with interest thereon, on April 30, 2005 (or earlier if certain capital
+events occur prior to such date) and the balance in 60 consecutive equal monthly
+installments of principal, together with interest thereon, with the first
+installment becoming due on April 30, 2005. Payment of both the First Series and
+the Second Series was collateralized by a second lien on the assets of the
+acquired licensees.
+
+On June 13, 2003, the debt between the Company and the noteholders was amended
+to reduce the aggregate monthly payments and extend the terms thereof. In
+connection therewith, the subordination agreement between the Company, the
+noteholders and the Company's primary lender was also amended. The two series of
+promissory notes to the former owners of DSS and DSI have been condensed into
+one series of notes. One of the promissory notes is for a term of seven years,
+in the principal amount of 8.6 million, bears interest at the rate of 5 per
+annum, with a minimum monthly payment (including interest) of 40,000, with the
+first installment becoming due on June 13, 2003, and minimum monthly payments
+(including interest) of 80,000 beginning on June 1, 2004, thereafter, with a
+balloon payment of 3.7 million due on May 7, 2007. The balance on the first
+note after the balloon payment is payable in minimum monthly installments of
+ 80,000 over the remaining three years of the note, subject to certain
+limitations under the amended subordination agreement. The other three
+promissory notes are for ten years, in the aggregate principal amount of 17.5
+million, bear interest at the rate of 5 per annum, with minimum monthly
+payments (including interest) of 25,000, in the aggregate, with the first
+installment becoming due on June 13, 2003, and minimum monthly payments
+(including interest) of 51,000, in the aggregate beginning on June 1, 2004,
+thereafter. Any unpaid balances at the end of the note terms will be due at that
+time. If the Company achieves
+
+6
+
+certain financial ratios, its minimum monthly payments under all four of the
+notes will be increased, as provided in the amended subordination agreement.
+Payment of the notes is collateralized by a second lien on the assets of the
+original Licensees. In conjunction with the amendment of the notes, one of the
+note holders reduced his note by approximately 2.8 million, subject to the
+Company's continued compliance with the modified subordination agreement.
+Accordingly the Company will not reduce its debt balance until all of the
+contingencies are resolved.
+
+The Company has obtained a valuation on the tangible and intangible assets
+associated with the transaction and has allocated 6.4 million to customer lists
+(which is being amortized over 10 years), 200,000 to a covenant not to compete
+(which is being amortized over 8 years) and the remaining balance to goodwill.
+
+In June 2002 the Company bought out a management contract with a company
+("Travel Company") which was managing its travel nurse division. The purchase
+price of 620,000 is payable over two years beginning in December 2002. The
+Company is amortizing the cost of the buyout over the five years that were
+remaining on the management contract.
+
+During fiscal 2003, the Company purchased substantially all of the assets and
+operations of 8 temporary medical staffing companies totaling 3.1 million, of
+which 2.1 million was paid in cash and the remaining balance is payable under
+notes payable with maturities through January 2007. The notes bear interest at
+rates between 6 to 8 per annum. The purchase prices were allocated primarily
+to goodwill (approximately 2.3 million).
+
+The acquisitions were accounted for under the purchase method of accounting; and
+accordingly, the accompanying consolidated financial statements include the
+results of the acquired operations from their respective acquisition dates.
+
+5. DEBT - During April 2001, the Company entered into a Financing Agreement with
+a lending institution, whereby the lender agreed to provide a revolving credit
+facility of up to 25 million. The Financing Agreement was amended in October
+2001 to increase the facility to 27.5 million. Amounts borrowed under the New
+Financing Agreement were used to repay 20.6 million of borrowing on its
+existing facility.
+
+The Agreement contains various restrictive covenants that, among other
+requirements, restrict additional indebtedness. The covenants also require the
+Company to meet certain financial ratios.
+
+In November 2002, the lending institution with which the Company has the secured
+Facility, increased the revolving credit line to 35 million and provided for an
+additional term loan facility totaling 5 million.
+
+On June 13, 2003, the Company received a waiver from the lender for
+non-compliance of certain Facility covenants as of February 28, 2003. Interest
+rates on both the revolving line and term loan Facility were increased 2 and
+can decrease if the Company meets certain financial criteria.
+
+In addition, certain financial ratio covenants were modified. The additional
+interest is not payable until the current expiration date of the Facility in
+November 2005.
+
+On January 8, 2004, an amendment to the Facility was entered into modifying
+certain financial ratio covenants as of November 30, 2003.
+
+As of November 30, 2003 and 2002, the outstanding balance on the revolving
+credit Facility was 21.8 million and 25.3 million, respectively. The Company
+had outstanding borrowings under the term loan of 2.9 million as of November
+30, 2003. At November 30, 2003 interest accrued at a rate per annum of 6.85 
+over LIBOR on the revolving credit Facility and 9.27 over LIBOR on the term
+loan.
+
+Guarantee of TLCS Liability - The Company is contingently liable on 2.3 million
+of obligations owed by TLCS which is payable over eight years. The Company is
+indemnified by TLCS for any obligations arising out of these matters. On
+November 8, 2002, TLCS filed a petition for relief under Chapter 11 of the
+United States Bankruptcy Code. As a result, the Company has recorded a provision
+of 2.3 million representing the balance outstanding on the related TLCS
+obligations. The obligation is payable over 8 years with the next payment due
+September 2004. The Company has not received any demands for payment with
+respect to these obligations. The Company believes that it has certain defenses
+which could reduce or eliminate its recorded liability in this matter.
+
+7
+
+6. REVENUE RECOGNITION - A substantial portion of the Company's service revenues
+are derived from a unique form of franchising under which independent companies
+or contractors ("licensees") represent the Company within a designated
+territory. These licensees assign Company personnel, including registered nurses
+and therapists, to service clients using the Company's trade names and service
+marks. The Company pays and distributes the payroll for the direct service
+personnel who are all employees of the Company, administers all payroll
+withholdings and payments, bills the customers and receives and processes the
+accounts receivable. The revenues and related direct costs are included in the
+Company's consolidated service revenues and operating costs. The licensees are
+responsible for providing an office and paying related expenses for
+administration including rent, utilities and costs for administrative personnel.
+
+The Company pays a monthly distribution or commission to its domestic licensees
+based on a defined formula of gross profit generated. Generally, the Company
+pays a licensee approximately 55 (60 for certain licensees who have longer
+relationships with the Company). There is no payment to the licensees based
+solely on revenues. For the three months ended November 30, 2003 and 2002, total
+licensee distributions were approximately 1.6 million and 2.3 million
+respectively, and for the nine months ended November 30, 2003 and 2002 total
+licensee distributions were approximately 5.1 million and 7.1 million
+respectively, and are included in the general and administrative expenses.
+
+The Company recognizes revenue as the related services are provided to customers
+and when the customer is obligated to pay for such completed services. Revenues
+are recorded net of contractual or other allowances to which customers are
+entitled. Employees assigned to particular customers may be changed at the
+customer's request or at the Company's initiation. A provision for uncollectible
+and doubtful accounts is provided for amounts billed to customers which may
+ultimately be uncollectible due to billing errors, documentation disputes or the
+customer's inability to pay.
+
+Revenues generated from the sales of licensees and initial licensee fees are
+recognized upon signing of the licensee agreement, if collectibility of such
+amounts is reasonably assured, since the Company has performed substantially all
+of its obligations under its licensee agreements by such date. Included in
+revenues for the six months ended November 30, 2003 and 2002 is 457,000 and
+ 1.2 million of licensee fees.
+
+7. GOODWILL - On March 1, 2002, the Company adopted Statement of Financial
+Accounting Standards No. 142 "Goodwill and Intangible Assets" (SFAS 142). SFAS
+142 includes requirements to annually test goodwill and indefinite lived
+intangible assets for impairment rather than amortize them; accordingly, the
+Company no longer amortizes goodwill and indefinite lived intangibles. As
+described in note 8 the Company has written-down 889,000 of goodwill associated
+with closed offices.
+
+8. OFFICE CLOSINGS and RESTRUCTURE CHARGES - The Company has recorded a charge
+associated with the closing of certain offices in the amount of 2.6 million.
+The Company expects the restructure to result in a lower overall cost structure
+to allow it to focus resources on offices with greater potential for better
+overall growth and profitability. The components of the charge are as follows:
+
+- -------------------------------------------- ----------------------------------------------
+Components Quarter ended November 30, 2003 (in thousands)
+- -------------------------------------------- ----------------------------------------------
+ 
+Write-off of fixed assets 892
+- -------------------------------------------- ----------------------------------------------
+Write-off of related goodwill 889
+- -------------------------------------------- ----------------------------------------------
+Severance costs and other benefits 608
+- -------------------------------------------- ----------------------------------------------
+Other 200
+- -------------------------------------------- ----------------------------------------------
+ Total Restructuring Charge 2,589
+- -------------------------------------------- ----------------------------------------------
+
+As of November 30, 2003 the Company had paid essentially none of the severance
+and other costs associated with the office closings. As of November 30, 2003 the
+Company's accounts payable and accrued expenses included 807,000 of remaining
+costs accrued consisting mainly of severance and lease costs.
+
+9. CONTINGENCIES
+
+The Company is subject to various claims and legal proceedings covering a wide
+range of matters that arise in the ordinary course of business. Management
+believes the disposition of the lawsuits will not have a material effect on its
+financial position, results of operations or cash flows.
+
+8
+
+10. RECENT ACCOUNTING PRONOUNCEMENTS
+
+Management does not believe that any recently issued, but not yet effective,
+accounting standards if currently adopted would have a material effect on the
+accompanying financial statements.
+
+11. SHAREHOLDERS EQUITY - On March 10, 2003, the Company sold 300 shares of its
+7 Convertible Series A Preferred Stock ("the Preferred Stock") and received
+cash proceeds of 150,000. The purchasers of the stock were two executive
+officers of the Company. This stock is convertible to Common Stock at the price
+of .80 per share which is 120 of the weighted average market close price of
+the Company's Common Stock for the ten day trading period ending on the date of
+the purchase of the Convertible Preferred Stock. On April 30, 2003, the Company
+sold 500 shares of its Preferred Stock and received cash proceeds of 250,000.
+The purchasers of the stock were two executive officers of the Company and two
+accredited investors. This stock is convertible to Common Stock at the price of
+ .93 per share which is 120 of the weighted average market close price of the
+Company's Common Stock for the ten day trading period ending on the date of the
+purchase of the Preferred Stock.
+
+On July 16, 2003 the Company sold 367,647 shares of Series A Common Stock at
+ .68 per share. On July 23, 2003 the Company sold 202,703 shares of Series A
+Common Stock at .74 per share. On July 24, 2003 the Company sold 133,333 shares
+of Series A Common Stock at .75 per share and on August 19, 2003 the Company
+sold 256,410 shares of Series A Common stock at .78 per share. The sales price
+per share was equal to or exceeded the market price of the Company's common
+stock at the date of each transaction. The purchasers of the Series A Common
+Stock were related to two executive officers of the Company.
+
+On August 12, 2003 the shareholders of the Company approved an amendment to the
+Company's Restated Certificate of Incorporation to increase the total number of
+authorized shares of Class A Common Stock from 50,000,000 shares to 75,000,000
+shares.
+
+During September 2003 the Company issued 51,500 shares of Series A Common Stock
+at a range of .25 to .50per share for the exercise of employee stock options.
+
+During September 2003 10,274 shares of Series A Common Stock were issued upon
+the conversion of the same number of Series B Common Stock.
+
+The Company accounts for its employee incentive stock option plans using the
+intrinsic value method in accordance with the recognition and measurement
+principles of Accounting Principles Board Opinion No 25 " Accounting for Stock
+Issued to Employees," as permitted by SFAS No. 123. Had the Company determined
+compensation expense based on the fair value at the grant dates for those awards
+consistent with the method of SFAS 123, the Company's net income (loss) per
+share would have been increased to the following pro forma amounts:
+
+- -------------------------------- --------------------- -------------------- ---------------------- ----------------------
+(In thousands, except per For the three For the three For the six For the six
+share data) months ended months ended months ended months ended
+ November 30, 2003 November 30, 2002 November 30, 2003 November 30, 2002
+- -------------------------------- --------------------- -------------------- ---------------------- ----------------------
+ 
+Net loss as reported (5,047) (1,249) (5,970) (379)
+- -------------------------------- --------------------- -------------------- ---------------------- ----------------------
+Deduct total stock based
+employee compensation expense
+determined under fair
+value methods for all awards 61 15 110 46
+- -------------------------------- --------------------- -------------------- ---------------------- ----------------------
+Pro forma net loss (5,108) (1,264) (6,080) (425)
+- -------------------------------- --------------------- -------------------- ---------------------- ----------------------
+Basic net loss per share as
+reported (.20) (.05) (.25) (.02)
+- -------------------------------- --------------------- -------------------- ---------------------- ----------------------
+Pro forma basic loss per share
+as reported (.21) (.05) (.25) (.02)
+- -------------------------------- --------------------- -------------------- ---------------------- ----------------------
+Diluted loss per share as
+reported (.20) (.05) (.25) (.02)
+- -------------------------------- --------------------- -------------------- ---------------------- ----------------------
+Pro forma diluted loss per
+share as reported (.21) (.05) (.25) (.02)
+- -------------------------------- --------------------- -------------------- ---------------------- ----------------------
+
+9
+
+ITEM 2. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS
+OF OPERATIONS
+(Amounts in Thousands, Except Where Indicated Otherwise, and for Per Share
+Amounts)
+
+The following discussion and analysis provides information which management
+believes is relevant to an assessment and understanding of the Company's results
+of operations and financial condition. This discussion should be read in
+conjunction with the Condensed Consolidated Financial Statements appearing in
+Item 1.
+
+Results of Operations
+
+Total revenues for the three month period ended November 30, 2003 were 32.4
+million, a decrease of 5.9 million or 15.4 from total revenues of 38.3
+million for the three months ended November 30, 2002. Total revenues for the
+nine month period ended November 30, 2003 were 100.1 million, a decrease of
+ 14.9 million or 13.0 from total revenues of 115.0 million for the nine months
+ended November 30, 2002. The revenue decrease is primarily due to reduced demand
+for temporary nurses as hospitals are continuing to experience flat to declining
+admission rates.
+
+Service costs were 79.2 and 76.5 of total revenues for the three months ended
+November 30, 2003 and 2002, respectively, and 78.7 and 76.3 for the nine
+months ended November 30, 2003 and 2002, respectively. Margins have declined due
+to the decreased demand for temporary nurses which has increased the competitive
+environment pressuring fees and increased insurance costs. Service costs
+represent the direct costs of providing services to patients or clients,
+including wages, payroll taxes, travel costs, insurance costs, medical supplies
+and the cost of contracted services.
+
+General and administrative expenses were 5.5 and 7.5 million for the three
+months ended November 30, 2003 and 2002, and were 17.9 million and 22.0
+million for the nine months ended November 30, 2003 and 2002, respectively.
+General and administrative costs, expressed as a percentage of total revenues,
+were 16.9 and 19.6 for the three months ended November 30, 2003 and 2002,
+respectively, and was 17.9 and 19.1 for the six months ended November 30, 2003
+and 2002, respectively. The reduction in general and administrative expenses as
+a percentage of sales in 2003 is the result of the reduction in royalty payments
+to licensees due to decreased revenues as well initiatives undertaken by the
+Company to reduce the size of or close marginally performing offices and a
+reduction of back office support staff.
+
+Office closing and restructuring charge.The Company has recorded a charge
+associated with the closing of certain offices in the amount of 2.6 million.
+The Company expects the restructure to result in a lower overall cost structure
+to allow it to focus resources on offices with greater potential for better
+overall growth and profitability. The components of the charge are as follows:
+
+- --------------------------------------- ----------------------------------------------
+Components Quarter ended November 30, 2003 (in thousands)
+- --------------------------------------- ----------------------------------------------
+ 
+Write-off of fixed assets 892
+- --------------------------------------- ----------------------------------------------
+Write-off of related goodwill 889
+- --------------------------------------- ----------------------------------------------
+Severance costs and other Benefits 608
+- --------------------------------------- ----------------------------------------------
+Other 200
+- --------------------------------------- ----------------------------------------------
+ Total Restructuring Charge 2,589
+- --------------------------------------- ----------------------------------------------
+
+As of November 30, 2003 the Company had paid essentially none of the severance
+and other costs associated with the office closings. As of November 30, 2003 the
+Company's accounts payable and accrued expenses included 807,000 of remaining
+costs accrued consisting mainly of severance and lease costs.
+
+Interest expense (net), increased to 1.1 million from 735,000 for the three
+months ended November 30, 2003 versus 2002 and increased to 3.1 million from
+ 2.2 million for the nine months ended November 30, 2003 versus 2002, primarily
+due to interest costs associated with the Company's term loan facility and to
+increased interest rates associated with its revolving line of credit.
+
+10
+
+Liquidity and Capital Resources
+
+Cash and cash equivalents decreased by 148,000 as of November 30, 2003 as
+compared to February 28, 2003 as a result of cash used in operating activities
+of 59,000, investing activities of 3,000 and financing activities of 86,000.
+Cash used in operating activities was primarily to fund growth in accounts
+receivable, cash used in investing activities was primarily used for capital
+expenditures and the cash used in financing activities was primarily used to pay
+notes and capital lease obligations.
+
+In April 2001, the Company obtained a new financing facility (the "Facility")
+with a new lending institution for a 25 million, three year term, revolving
+loan, 20.6 million of which was used to pay down borrowings under the Company's
+previous financing facility.
+
+In November 2002, the lending institution with which the Company has the
+Facility, increased the revolving credit line to 35 million and provided for an
+additional term loan facility totaling 5 million.
+
+On June 13, 2003, the Company received a waiver from the lender for
+non-compliance with certain Facility covenants as of February 28, 2003. Interest
+rates on both the revolving line and term loan facility were increased 2 and
+can decrease if the Company meets certain financial criteria. In addition,
+certain financial ratio covenants were modified. The additional interest is not
+payable until the current expiration date of the Facility which is November
+2005.
+
+At the same time, the lender and DSS and DSI note holders amended the
+subordination agreements. As a result of that amendment, the two series of
+promissory notes to the former owners of DSS and DSI have been condensed into
+one series of notes. One of the promissory notes is for a term of seven years,
+in the principal amount of 8.6 million, bears interest at the rate of 5 per
+annum, with a minimum monthly payment (including interest) of 40,000 with the
+first installment becoming due on June 13, 2003, and minimum monthly payments
+(including interest) of 80,000 beginning on June 1, 2004, thereafter, with a
+balloon payment of 3.7 million due on May 7, 2007. The balance on the first
+note after the balloon payment is payable in minimum monthly installments of
+ 80,000 over the remaining 3 years of the note, subject to certain limitations
+under the amended subordination agreement. The other three promissory notes are
+for ten years, in the aggregate principal amount of 17.5 million, bear interest
+at the rate of 5 per annum, with minimum monthly payments (including interest)
+of 25,000 in the aggregate, with the first installment becoming due on June 13,
+2003, and minimum monthly payments (including interest) of 51,000 in the
+aggregate beginning on June 1, 2004, thereafter. Any unpaid balances at the end
+of the note terms will be due at that time. If the Company achieves certain
+financial ratios, its minimum monthly payments under all four of the notes will
+be increased, as provided in the amended subordination agreement. Payment of the
+notes is collateralized by a second lien on the assets of the original
+franchises. In conjunction with the amendment of the notes, one of the note
+holders reduced his note by approximately 2.8 million, subject to the Company's
+compliance with the modified subordination agreement.
+
+On January 8, 2004, an amendment to the Facility was entered into modifying
+certain financial ratio covenants as of November 30, 2003.
+
+The Company anticipates that capital expenditures for furniture and equipment,
+including improvements to its management information and operating systems
+during the next twelve months will be approximately 350,000.
+
+Operating cash flows have been our primary source of liquidity and historically
+have been sufficient to fund our working capital, capital expenditures, and
+internal business expansion and debt service. The Company's cash flow has been
+aided by the recent sales of unregistered securities and by the debt
+restructuring completed on June 13, 2003. We believe that our capital resources
+are sufficient to meet our working capital requirements for the next twelve
+months. We expect to meet our future working capital, capital expenditure,
+internal business expansion, and debt service from a combination of operating
+cash flows and funds available under the Facility.
+
+11
+
+Business Trends
+
+Sales and margins have been under pressure as demand for temporary nurses is
+currently going through a period of contraction. Hospitals are experiencing flat
+to declining admission rates and are placing greater reliance on full-time staff
+overtime and increased nurse patient loads. Because of difficult economic times,
+nurses in many households are becoming the primary breadwinner, causing them to
+seek more traditional full time employment. The U.S. Department of Health and
+Human Services said in a July 2002 report that the national supply of full-time
+equivalent registered nurses was estimated at 1.89 million and demand was
+estimated at 2 million. The 6 percent gap between the supply of nurses and
+vacancies in 2000 is expected to grow to 12 percent by 2010 and then to 20
+percent five years later. As the economy rebounds, the prospects for the medical
+staffing industry and the Company should improve as hospitals experience higher
+admission rates and increasing shortages of healthcare workers.
+
+Forward-Looking Statements
+
+Certain statements in this Quarterly Report on Form 10-Q constitute
+"forward-looking statements" within the meaning of the Private Securities
+Litigation Reform Act of 1995. From time to time, the Company also provides
+forward-looking statements in other materials it releases to the public as well
+as oral forward-looking statements. These statements are typically identified by
+the inclusion of phrases such as "the Company anticipates," "the Company
+believes" and other phrases of similar meaning. These forward-looking statements
+are based on the Company's current expectations. Such forward-looking statements
+involve known and unknown risks, uncertainties, and other factors that may cause
+the actual results, performance or achievements of the Company to be materially
+different from any future results, performance or achievements expressed or
+implied by such forward-looking statements. The potential risks and
+uncertainties which would cause actual results to differ materially from the
+Company's expectations include, but are not limited to, those discussed below in
+the section entitled "Risk Factors." Readers are cautioned not to place undue
+reliance on these forward-looking statements, which reflect management's
+opinions only as of the date hereof. The Company undertakes no obligation to
+revise or publicly release the results of any revision to these forward-looking
+statements. Readers should carefully review the risk factors described in other
+documents the Company files from time to time with the Securities and Exchange
+Commission.
+
+Risk Factors
+
+Currently We Are Unable to Recruit Enough Nurses to Meet Our Clients' Demands
+for our Nurse Staffing Services, Limiting the Potential Growth of Our Staffing
+Business
+
+We rely significantly on our ability to attract, develop and retain nurses and
+other healthcare personnel who possess the skills, experience and, as required,
+licenses necessary to meet the specified requirements of our healthcare staffing
+clients. We compete for healthcare staffing personnel with other temporary
+healthcare staffing companies, as well as actual and potential clients, some of
+which seek to fill positions with either regular or temporary employees.
+Currently, there is a shortage of qualified nurses in most areas of the United
+States and competition for nursing personnel is increasing. This shortage of
+nurses limits our ability to grow our staffing business. Furthermore, we believe
+that the aging of the existing nurse population and declining enrollments in
+nursing schools will further exacerbate the existing nurse shortage. In
+addition, in the aftermath of the terrorist attacks on New York and Washington,
+we experienced a temporary interruption of normal business activity. Similar
+events in the future could result in additional temporary or longer-term
+interruptions of our normal business activity, which would adversely affect our
+financial results.
+
+The Costs of Attracting and Retaining Qualified Nurses and Other Healthcare
+Personnel May Rise More than We Anticipate
+
+We compete with other healthcare staffing companies for qualified nurses and
+other healthcare personnel. Because there is currently a shortage of qualified
+healthcare personnel, competition for these employees is intense. To induce
+healthcare personnel to sign on with them, our competitors may increase hourly
+wages or other benefits. If we do not raise wages in response to such increases
+by our competitors, we could face difficulties attracting and retaining
+qualified healthcare personnel. In addition, if we raise wages in response to
+our competitors' wage increases and are unable to pass such cost increases on to
+our clients, our margins could decline.
+
+12
+
+We Operate in a Highly Competitive Market and Our Success Depends on our Ability
+to Remain Competitive in Obtaining and Retaining Hospital and Healthcare
+Facility Clients and Temporary Healthcare Professionals.
+
+The temporary medical staffing business is highly competitive. We compete in
+national, regional and local markets with full-service staffing companies and
+with specialized temporary staffing agencies. Some of these companies may have
+greater marketing and financial resources than we do. Competition for hospital
+and healthcare facility clients and temporary healthcare professionals may
+increase in the future and, as a result, we may not be able to remain
+competitive. To the extent competitors seek to gain or retain market share by
+reducing prices or increasing marketing expenditures, we could lose revenues or
+hospital and healthcare facility clients and our margins could decline, which
+could seriously harm our operating results and cause the price of our stock to
+decline. In addition, the development of alternative recruitment channels could
+lead our hospital and healthcare facility clients to bypass our services, which
+would also cause our revenues and margins to decline.
+
+Our Business Depends upon our Continued Ability to Secure and Fill New Orders
+from our Hospital and Healthcare Facility Clients, Because We Do Not Have
+Long-Term Agreements or Exclusive Contracts With Them.
+
+We do not have long-term agreements or exclusive guaranteed order contracts with
+our hospital and healthcare facility clients. The success of our business
+depends upon our ability to continually secure new orders from hospitals and
+other healthcare facilities and to fill those orders with our temporary
+healthcare professionals. Our hospital and healthcare facility clients are free
+to place orders with our competitors and may choose to use temporary healthcare
+professionals that our competitors offer them. Therefore, we must maintain
+positive relationships with our hospital and healthcare facility clients. If we
+fail to maintain positive relationships with our hospital and healthcare
+facility clients, we may be unable to generate new temporary healthcare
+professional orders and our business may be adversely affected.
+
+Decreases in Patient Occupancy at Our Clients' Facilities May Adversely Affect
+the Profitability of Our Business
+
+Demand for our temporary healthcare staffing services is significantly affected
+by the general level of patient occupancy at our clients' facilities. When a
+hospital's occupancy increases, temporary employees are often added before
+full-time employees are hired. As occupancy decreases, clients may reduce their
+use of temporary employees before undertaking layoffs of their regular
+employees. We also may experience more competitive pricing pressure during
+periods of occupancy downturn. In addition, if a trend emerges toward providing
+healthcare in alternative settings, as opposed to acute care hospitals,
+occupancy at our clients' facilities could decline. This reduction in occupancy
+could adversely affect the demand for our services and our profitability.
+
+Healthcare Reform Could Negatively Impact Our Business Opportunities, Revenues
+and Margins.
+
+The U.S. government has undertaken efforts to control increasing healthcare
+costs through legislation, regulation and voluntary agreements with medical care
+providers and drug companies. In the recent past, the U.S. Congress has
+considered several comprehensive healthcare reform proposals. The proposals were
+generally intended to expand healthcare coverage for the uninsured and reduce
+the growth of total healthcare expenditures. While the U.S. Congress did not
+adopt any comprehensive reform proposals, members of Congress may raise similar
+proposals in the future. If any of these proposals are approved, hospitals and
+other healthcare facilities may react by spending less on healthcare staffing,
+including nurses. If this were to occur, we would have fewer business
+opportunities, which could seriously harm our business.
+
+State governments have also attempted to control increasing healthcare costs.
+For example, the state of Massachusetts has recently implemented a regulation
+that limits the hourly rate payable to temporary nursing agencies for registered
+nurses, licensed practical nurses and certified nurses' aides. The state of
+Minnesota has also implemented a statute that limits the amount that nursing
+agencies may charge nursing homes. Other states have also proposed legislation
+that would limit the amounts that temporary staffing companies may charge. Any
+such current or proposed laws could significantly harm our business, revenues
+and margins.
+
+Furthermore, third party payors, such as health maintenance organizations,
+increasingly challenge the prices charged for medical care. Failure by hospitals
+and other healthcare facilities to obtain full reimbursement from those third
+party payors could reduce the demand or the price paid for our staffing
+services.
+
+13
+
+We are Dependent on the Proper Functioning of Our Information Systems
+
+Our company is dependent on the proper functioning of our information systems in
+operating our business. Critical information systems used in daily operations
+identify and match staffing resources and client assignments and perform billing
+and accounts receivable functions. Our information systems are protected through
+physical and software safeguards and we have backup remote processing
+capabilities. However, they are still vulnerable to fire, storm, flood, power
+loss, telecommunications failures, physical or software break-ins and similar
+events. In the event that critical information systems fail or are otherwise
+unavailable, these functions would have to be accomplished manually, which could
+temporarily impact our ability to identify business opportunities quickly, to
+maintain billing and clinical records reliably and to bill for services
+efficiently.
+
+We May be Legally Liable for Damages Resulting from our Hospital and Healthcare
+Facility Clients' Mistreatment of our Healthcare Personnel.
+
+Because we are in the business of placing our temporary healthcare professionals
+in the workplaces of other companies, we are subject to possible claims by our
+temporary healthcare professionals alleging discrimination, sexual harassment,
+negligence and other similar activities by our hospital and healthcare facility
+clients. The cost of defending such claims, even if groundless, could be
+substantial and the associated negative publicity could adversely affect our
+ability to attract and retain qualified healthcare professionals in the future.
+
+If Regulations that Apply to us Change, We May Face Increased Costs That Reduce
+Our Revenue and Profitability
+
+The temporary healthcare staffing industry is regulated in many states. In some
+states, firms such as our company must be registered to establish and advertise
+as a nurse staffing agency or must qualify for an exemption from registration in
+those states. If we were to lose any required state licenses, we could be
+required to cease operating in those states. The introduction of new regulatory
+provisions could substantially raise the costs associated with hiring temporary
+employees. For example, some states could impose sales taxes or increase sales
+tax rates on temporary healthcare staffing services. These increased costs may
+not be able to be passed on to clients without a decrease in demand for
+temporary employees. In addition, if government regulations were implemented
+that limited the amounts we could charge for our services, our profitability
+could be adversely affected.
+
+Future Changes in Reimbursement Trends Could Hamper Our Clients' Ability to Pay
+Us
+
+Many of our clients are reimbursed under the federal Medicare program and state
+Medicaid programs for the services they provide. In recent years, federal and
+state governments have made significant changes in these programs that have
+reduced reimbursement rates. In addition, insurance companies and managed care
+organizations seek to control costs by requiring that healthcare providers, such
+as hospitals, discount their services in exchange for exclusive or preferred
+participation in their benefit plans. Future federal and state legislation or
+evolving commercial reimbursement trends may further reduce, or change
+conditions for, our clients' reimbursement. Limitations on reimbursement could
+reduce our clients' cash flows, hampering their ability to pay us.
+
+Competition for Acquisition Opportunities May Restrict Our Future Growth by
+Limiting Our Ability to Make Acquisitions at Reasonable Valuations
+
+Our business strategy includes increasing our market share and presence in the
+temporary healthcare staffing industry through strategic acquisitions of
+companies that complement or enhance our business. We have historically faced
+competition for acquisitions. In the future, such competition could limit our
+ability to grow by acquisitions or could raise the prices of acquisitions and
+make them less attractive to us.
+
+14
+
+We May Face Difficulties Integrating Our Acquisitions Into Our Operations and
+Our Acquisitions May be Unsuccessful, Involve Significant Cash Expenditures or
+Expose Us to Unforeseen Liabilities
+
+We continually evaluate opportunities to acquire healthcare staffing companies
+and other human capital management services companies that complement or enhance
+our business. From time to time, we engage in strategic acquisitions of such
+companies or their assets.
+
+These acquisitions involve numerous risks, including:
+
+ - potential loss of key employees or clients of acquired companies;
+
+ - difficulties integrating acquired personnel and distinct cultures into
+ our business;
+
+ - difficulties integrating acquired companies into our operating,
+ financial planning and financial reporting systems;
+
+ - diversion of management attention from existing operations; and
+
+ - assumption of liabilities and exposure to unforeseen liabilities of
+ acquired companies, including liabilities for their failure to comply
+ with healthcare regulations.
+
+These acquisitions may also involve significant cash expenditures, debt
+incurrence and integration expenses that could have a material adverse effect on
+our financial condition and results of operations. Any acquisition may
+ultimately have a negative impact on our business and financial condition.
+
+Significant Legal Actions Could Subject Us to Substantial Uninsured Liabilities
+
+In recent years, healthcare providers have become subject to an increasing
+number of legal actions alleging malpractice, product liability or related legal
+theories. Many of these actions involve large claims and significant defense
+costs. In addition, we may be subject to claims related to torts or crimes
+committed by our employees or temporary staffing personnel. In some instances,
+we are required to indemnify clients against some or all of these risks. A
+failure of any of our employees or personnel to observe our policies and
+guidelines intended to reduce these risks, relevant client policies and
+guidelines or applicable federal, state or local laws, rules and regulations
+could result in negative publicity, payment of fines or other damages. To
+protect ourselves from the cost of these claims, we maintain professional
+malpractice liability insurance and general liability insurance coverage in
+amounts and with deductibles that we believe are appropriate for our operations.
+However, our insurance coverage may not cover all claims against us or continue
+to be available to us at a reasonable cost. If we are unable to maintain
+adequate insurance coverage, we may be exposed to substantial liabilities, which
+could adversely affect our financial results.
+
+If Our Insurance Costs Increase Significantly, These Incremental Costs Could
+Negatively Affect Our Financial Results
+
+The costs related to obtaining and maintaining workers compensation,
+professional and general liability insurance and health insurance for healthcare
+providers has been increasing. If the cost of carrying this insurance continues
+to increase significantly, we will recognize an associated increase in costs
+which may negatively affect our margins. This could have an adverse impact on
+our financial condition and the price of our common stock.
+
+If We Become Subject to Material Liabilities Under Our Self-Insured Programs,
+Our Financial Results May Be Adversely Affected
+
+We provide workers compensation coverage through a program that is partially
+self-insured. If we become subject to substantial uninsured workers compensation
+liabilities, our financial results may be adversely affected.
+
+15
+
+We Have a Substantial Amount of Goodwill on our Balance Sheet. A Substantial
+Impairment of our Goodwill May Have the Effect of Decreasing Our Earnings or
+Increasing Our Losses.
+
+As of November 30, 2003, we had 32.3 million of unamortized goodwill on our
+balance sheet, which represents the excess of the total purchase price of our
+acquisitions over the fair value of the net assets acquired. At November 30,
+2003, goodwill represented 42.3 of our total assets.
+
+Historically, we amortized goodwill on a straight-line basis over the estimated
+period of future benefit of up to 25 years. In July 2001, the Financial
+Accounting Standards Board issued SFAS No. 141, Business Combinations, and SFAS
+No. 142, Goodwill and Other Intangible Assets. SFAS No. 141 requires that the
+purchase method of accounting be used for all business combinations initiated
+after June 30, 2001, as well as all purchase method business combinations
+completed after June 30, 2001. SFAS No. 142 requires that, subsequent to January
+1, 2002, goodwill not be amortized but rather that it be reviewed annually for
+impairment. In the event impairment is identified, a charge to earnings would be
+recorded. We have adopted the provisions of SFAS No. 141 and SFAS No. 142 as of
+March 1, 2002. Although it does not affect our cash flow, an impairment charge
+to earnings has the effect of decreasing our earnings. If we are required to
+take a charge to earnings for goodwill impairment, our stock price could be
+adversely affected.
+
+Demand for Medical Staffing Services is Significantly Affected by the General
+Level of Economic Activity and Unemployment in the United States.
+
+When economic activity increases, temporary employees are often added before
+full-time employees are hired. However, as economic activity slows, many
+companies, including our hospital and healthcare facility clients, reduce their
+use of temporary employees before laying off full-time employees. In addition,
+we may experience more competitive pricing pressure during periods of economic
+downturn. Therefore, any significant economic downturn could have a material
+adverse impact on our condition and results of operations.
+
+Business Conditions
+
+Our business is dependent on the Company continuing to establish and maintain
+close working relationships with physicians and physician groups, managed care
+organizations, hospitals, clinics, nursing homes, social service agencies and
+other health care providers. There can be no assurance that the Company will
+continue to establish or maintain such relationships. The Company expects
+additional competition will develop in future periods given the increasing
+market demand for the type of services offered.
+
+Attraction and Retention of Licensees and Employees
+
+Maintaining quality licensees, managers and branch administrators will play a
+significant part in the future success of the Company. The Company's
+professional nurses and other health care personnel are also key to the
+continued provision of quality care to patients of the Company's customers. The
+possible inability to attract and retain qualified licensees, skilled management
+and sufficient numbers of credentialed health care professional and
+para-professionals and information technology personnel could adversely affect
+the Company's operations and quality of service. Also, because the travel nurse
+program is dependent upon the attraction of skilled nurses from overseas, such
+program could be adversely affected by immigration restrictions limiting the
+number of such skilled personnel who may enter and remain in the United States.
+
+16
+
+ITEM 3. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
+
+Interest Rate Sensitivity: The Company's primary market risk exposure is
+interest rate risk. The Company's exposure to market risk for changes in
+interest rates relates to its debt obligations under its Facility described
+above. Under the Facility, the interest rate is 4.55 over LIBOR. At November
+30, 2003, drawings on the Facility were 21.8 million. Assuming variable rate
+debt at November 30, 2003, a one point change in interest rates would impact
+annual net interest payments by 218,000. The Company does not use derivative
+financial instruments to manage interest rate risk.
+
+ITEM 4. CONTROLS AND PROCEDURES
+
+Within the 90-day period prior to the filing of this report, the Company carried
+out, under the supervision and with the participation of the Company's
+management, including the Chief Executive Officer and Chief Financial Officer,
+an evaluation of the effectiveness of the design and operation of the Company's
+disclosure controls and procedures as defined in the Exchange Act Rules
+13a-14(c) and 15d-14(c). Based on that evaluation, the Chief Executive Officer
+and Chief Financial Officer concluded that the Company's disclosure controls and
+procedures were effective as of the date of that evaluation. There have been no
+significant changes in internal controls, or in other factors that could
+significantly affect internal controls, subsequent to the date the Chief
+Executive Officer and Chief Financial Officer completed their evaluation.
+
+17
+
+PART II. OTHER INFORMATION
+
+ITEM 1. LEGAL PROCEEDINGS - See Note 9 in PART I. - ITEM 1.
+- -----------------------------------------------------------
+
+ITEM 6. EXHIBITS AND REPORTS ON FORM 8-K
+- ----------------------------------------
+
+(A) Exhibits
+
+ Exhibit 31.1- Certification of CEO
+
+ Exhibit 31.2- Certification of CFO
+
+ Exhibit 32.1 - Certification of CEO
+
+ Exhibit 32.1 - Certification of CFO
+
+(B) Reports on Form 8-K
+
+The Company filed a current report on Form 8-K on September 23, 2003 to
+ furnish its press release reporting a change in its certifying accountant.
+
+ The Company filed a current report on Form 8-K on October 15, 2003 to
+ furnish its press release reporting results for the second quarter for the
+ fiscal year ended February 29, 2004.
+
+18
+
+SIGNATURES
+ ----------
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the
+registrant has duly caused this report to be signed on its behalf by the
+undersigned thereunto duly authorized.
+
+Dated: January 13, 2003 ATC HEALTHCARE, INC.
+
+By: /s/ Andrew Reiben
+ ------------------
+ Andrew Reiben
+ Senior Vice President, Finance
+ Chief Financial Officer and
+ Treasurer (Authorized Officer
+ Principal Financial and Accounting Officer)
+
+19
+
+<EX-31>
+ 3
+ a4549063ex311.txt
+ ATC HEALTHCARE, INC. EXHIBIT 31.1
+ 
+ Exhibit 31.1
+
+ Certifications
+
+I, David Savitsky, certify that:
+
+1. I have reviewed this quarterly report on Form 10-Q of ATC Healthcare,
+ Inc.;
+
+ 2. Based on my knowledge, this quarterly report does not contain any
+ untrue statement of a material fact or omit to state a material fact
+ necessary to make the statements made, in light of the circumstances
+ under which such statements were made, not misleading with respect to
+ the period covered by this quarterly report;
+
+ 3. Based on my knowledge, the financial statements, and other financial
+ information included in this quarterly report, fairly present in all
+ material respects the financial condition, results of operations and
+ cash flows of the registrant as of, and for, the periods presented in
+ this quarterly report;
+
+ 4. The registrant's other certifying officers and I are responsible for
+ establishing and maintaining disclosure controls and procedures (as
+ defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) for the
+ registrant and have:
+
+ (a) Designed such disclosure controls and procedures, or caused such
+ disclosures controls and procedures to be designed under our
+ supervision, to ensure that material information relating to the
+ registrant, including its consolidated subsidiaries, is made
+ known to us by others within those entities, particularly during
+ the period in which this quarterly report is being prepared;
+
+ (b) Evaluated the effectiveness of the registrant's disclosure
+ controls and procedures and presented in this report our
+ conclusions about the effectiveness of the disclosure controls
+ and procedures, as of the end of the period covered by this
+ report based on such evaluation; and
+
+ (c) Disclosed in this report any change in the registrant's internal
+ control over financial reporting that occurred during the
+ registrant's most recent fiscal quarter that has materially
+ affected, or is reasonably likely to materially affect, the
+ registrant's internal control over financial reporting; and
+
+ 5. The registrant's other certifying officers and I have disclosed, based
+ on our most recent evaluation, of internal control over financial
+ reporting, to the registrant's auditors and the audit committee of the
+ registrant's board of directors :
+
+ (a) All significant deficiencies and material weaknesses in the
+ design or operation of internal control over financial reporting
+ which are reasonably likely to adversely affect the registrant's
+ ability to record, process, summarize and report financial
+ information: and
+
+ (b) Any fraud, whether or not material, that involves management or
+ other employees who have a significant role in the registrant's
+ internal control over financial reporting.
+
+Dated: January 13, 2003
+ /s/ DAVID SAVITSKY
+ ---------------------------
+
+ David Savitsky
+ Chief Executive Officer
+
+20
+
+</EX-31>
+
+<EX-31>
+ 4
+ a4549063ex312.txt
+ ATC HEALTHCARE, INC. EXHIBIT 31.2
+ 
+ Exhibit 31.2
+
+ Certification
+
+I, Andrew Reiben, certify that:
+
+1. I have reviewed this quarterly report on Form 10-Q of ATC Healthcare,
+ Inc.;
+
+ 2. Based on my knowledge, this quarterly report does not contain any
+ untrue statement of a material fact or omit to state a material fact
+ necessary to make the statements made, in light of the circumstances
+ under which such statements were made, not misleading with respect to
+ the period covered by this quarterly report;
+
+ 3. Based on my knowledge, the financial statements, and other financial
+ information included in this quarterly report, fairly present in all
+ material respects the financial condition, results of operations and
+ cash flows of the registrant as of, and for, the periods presented in
+ this quarterly report;
+
+ 4. The registrant's other certifying officers and I are responsible for
+ establishing and maintaining disclosure controls and procedures (as
+ defined in Exchange Act Rules 13a-15(e) and 15d-15(f)) for the
+ registrant and have:
+
+ (a) Designed such disclosure controls and procedures or caused such
+ disclosures controls and procedures to be designed under our
+ supervision to ensure that material information relating to the
+ registrant, including its consolidated subsidiaries, is made
+ known to us by others within those entities, particularly during
+ the period in which this quarterly report is being prepared;
+
+ (b) Evaluated the effectiveness of the registrant's disclosure
+ controls and procedures and presented in this report our
+ conclusions about the effectiveness of the disclosure controls
+ and procedures, as of the end of the period covered by this
+ report based on such evaluation; and
+
+ (c) Disclosed in this report any change in the registrant's internal
+ control over financial reporting that occurred during the
+ registrant's most recent fiscal quarter that has materially
+ affected, or is reasonably likely to materially affect, the
+ registrant's internal control over financial reporting; and
+
+ 5. The registrant's other certifying officers and I have disclosed, based
+ on our most recent evaluation, of internal control over financial
+ reporting, to the registrant's auditors and the audit committee of the
+ registrant's board of directors :
+
+ (c) All significant deficiencies and material weaknesses in the
+ design or operation of internal control over financial reporting
+ which are reasonably likely to adversely affect the registrant's
+ ability to record, process, summarize and report financial
+ information: and
+
+ (d) Any fraud, whether or not material, that involves management or
+ other employees who have a significant role in the registrant's
+ internal control over financial reporting.
+
+Dated: January 13, 2003
+ /s/ Andrew Reiben
+ ------------------------------
+ Andrew Reiben
+ Senior Vice President, Finance
+ Chief Financial Officer
+ and Treasurer
+
+21
+
+</EX-31>
+
+<EX-32>
+ 5
+ a4549063ex321.txt
+ ATC HEALTHCARE, INC. EXHIBIT 32.1
+ 
+ Exhibit 32.1
+
+CERTIFICATION PURSUANT TO 18 U.S.C. SECTION 1350, AS ADOPTED PURSUANT TO SECTION
+906 OF THE SARBANES-OXLEY ACT OF 2002
+
+In connection with the Quarterly Report of ATC Healthcare, Inc. (the "Company")
+on Form 10-Q for the period ending November 30, 2003 as filed with the
+Securities and Exchange Commission on the date hereof (the "Report"), I, David
+Savitsky, Chief Executive Officer of the Company, hereby certify, to the best of
+my knowledge, pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section
+906 of the Sarbanes-Oxley Act of 2002, that:
+
+ (1) The Report fully complies with the requirements of Section 13(a) or
+ 15(d) of the Securities Exchange Act of 1934, as amended; and (2) The
+ information contained in the Report fairly presents, in all material
+ respects, the financial condition and result of operations of the Company.
+
+/s/ David Savitsky
+David Savitsky
+Chief Executive Officer
+January 13, 2003
+
+This certification accompanies this Quarterly Report on Form 10-Q pursuant to
+Section 906 of the Sarbanes-Oxley Act of 2002 and shall not, except to the
+extent required by such Act, be deemed filed by the Company for purposes of
+Section 18 of the Securities Exchange of 1934.
+
+A signed original of the written statement required by Section 906 has been
+provided to the Company and will be retained by the Company and furnished to the
+Securities and Exchange Commission or its staff upon request.
+
+22
+
+</EX-32>
+
+<EX-32>
+ 6
+ a4549063ex322.txt
+ ATC HEALTHCARE, INC. EXHIBIT 32.2
+ 
+ Exhibit 32.2
+
+CERTIFICATION PURSUANT TO 18 U.S.C. SECTION 1350, AS ADOPTED PURSUANT TO SECTION
+906 OF THE SARBANES-OXLEY ACT OF 2002
+
+In connection with the Quarterly Report of ATC Healthcare, Inc. (the "Company")
+on Form 10-Q for the period ending November 30, 2003 as filed with the
+Securities and Exchange Commission on the date hereof (the "Report"), I, Andrew
+Reiben, Senior Vice President - Finance, Chief Financial Officer and Treasurer
+of the Company, hereby certify, to the best of my knowledge, pursuant to 18
+U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley
+Act of 2002, that:
+
+ (1) The Report fully complies with the requirements of Section 13(a) or
+ 15(d) of the Securities Exchange Act of 1934, as amended; and (2) The
+ information contained in the Report fairly presents, in all material
+ respects, the financial condition and result of operations of the Company.
+
+/s/ Andrew Reiben
+Andrew Reiben
+Senior Vice President - Finance
+Chief Financial Officer and Treasurer
+January 13, 2003
+
+This certification accompanies this Quarterly Report on Form 10-Q pursuant to
+Section 906 of the Sarbanes-Oxley Act of 2002 and shall not, except to the
+extent required by such Act, be deemed filed by the Company for purposes of
+Section 18 of the Securities Exchange of 1934.
+
+A signed original of the written statement required by Section 906 has been
+provided to the Company and will be retained by the Company and furnished to the
+Securities and Exchange Commission or its staff upon request.
+
+23
+
+</EX-32>
+

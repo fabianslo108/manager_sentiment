@@ -1,0 +1,2579 @@
+<Header>
+<FileStats>
+    <FileName>20040114_10-Q_edgar_data_888507_0001068800-04-000017.txt</FileName>
+    <GrossFileSize>145031</GrossFileSize>
+    <NetFileSize>126727</NetFileSize>
+    <NonText_DocumentType_Chars>0</NonText_DocumentType_Chars>
+    <HTML_Chars>805</HTML_Chars>
+    <XBRL_Chars>0</XBRL_Chars>
+    <XML_Chars>0</XML_Chars>
+    <N_Exhibits>5</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0001068800-04-000017.hdr.sgml : 20040114
+<ACCEPTANCE-DATETIME>20040114142956
+ACCESSION NUMBER:		0001068800-04-000017
+CONFORMED SUBMISSION TYPE:	10-Q
+PUBLIC DOCUMENT COUNT:		6
+CONFORMED PERIOD OF REPORT:	20031130
+FILED AS OF DATE:		20040114
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			PRESIDENT CASINOS INC
+		CENTRAL INDEX KEY:			0000888507
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-MISCELLANEOUS AMUSEMENT & RECREATION [7990]
+		IRS NUMBER:				510341200
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0228
+
+	FILING VALUES:
+		FORM TYPE:		10-Q
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-20840
+		FILM NUMBER:		04524691
+
+	BUSINESS ADDRESS:	
+		STREET 1:		802 N FIRST ST
+		CITY:			ST LOUIS
+		STATE:			MO
+		ZIP:			63102
+		BUSINESS PHONE:		3146223000
+
+	MAIL ADDRESS:	
+		STREET 1:		802 N FIRST ST
+		CITY:			ST LOUIS
+		STATE:			MO
+		ZIP:			63102
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	PRESIDENT RIVERBOAT CASINOS INC
+		DATE OF NAME CHANGE:	19950110
+
+</SEC-Header>
+</Header>
+
+ 
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ KhsZpIhFH5iqKQWae/r4tpll4nsSwURE6SsdzioS0h5LY5UBh1Ui7UoRMzdsy3sJ
+ bVCOVOrL4/opzlEmjlkR9g==
+
+ 0001068800-04-000017.txt : 20040114
+
+10-Q
+ 1
+ pres10q.txt
+ 
+ 1
+==============================================================================
+
+UNITED STATES
+ SECURITIES AND EXCHANGE COMMISSION
+ Washington, D.C. 20549
+
+ FORM 10-Q
+
+ [X] QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES
+ EXCHANGE ACT OF 1934
+
+ For the quarterly period ended November 30, 2003
+
+ OR
+
+ [ ] TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES
+ EXCHANGE ACT OF 1934
+
+ COMMISSION FILE NUMBER: 0-20840
+
+ PRESIDENT CASINOS, INC.
+ ------------------------------------------------------
+ (Exact name of registrant as specified in its charter)
+
+ Delaware 51-0341200
+ ------------------------------- ----------------
+ (State or other jurisdiction of (I.R.S. Employer
+ incorporation or Identification No.)
+ organization)
+
+ 802 North First Street, St. Louis, Missouri 63102
+ ----------------------------------------------------
+ Address of principal executive offices-Zip Code
+
+ 314-622-3000
+ ----------------------------------------------------
+ Registrant's telephone number, including area code
+
+ Indicate by check mark whether the registrant (1) has filed all reports
+required to be filed by Sections 13 or 15(d) of the Securities Exchange Act of
+1934 during the preceding 12 months (or for such shorter period that the
+registrant was required to file such reports), and (2) has been subject to
+such filing requirements for the past 90 days. Yes [X] No [ ]
+
+ Indicate by check mark whether the registrant is an accelerated filer (as
+defined in Rule 12b-2 of the Exchange Act). Yes [ ] No [X]
+
+ Indicate the number of shares outstanding of each of the issuer's classes of
+common stock, as of the latest practicable date: Common Stock, .06 par value,
+5,033,161 shares outstanding as of January 14, 2004.
+
+==============================================================================
+ 2
+ PRESIDENT CASINOS, INC.
+ INDEX TO FORM 10-Q
+
+Page No.
+Part I. Financial Information
+
+ Item 1. Financial Statements
+
+ Condensed Consolidated Balance Sheets (Unaudited)
+ as of November 30 and February 28, 2003.............................1
+
+ Condensed Consolidated Statements of Operations
+ and Net Income (Loss) Per Share Information (Unaudited)
+ for the Three and Nine Months Ended November 30, 2003 and 2002......2
+
+ Condensed Consolidated Statements of Cash Flows (Unaudited)
+ for the Nine Months Ended November 30, 2003 and 2002................3
+
+ Notes to Condensed Consolidated Financial Statements (Unaudited)......4
+
+ Item 2. Management's Discussion and Analysis of
+ Financial Condition and Results of Operations.................16
+
+ Item 3. Quantitative and Qualitative Disclosures About Market Risk....31
+
+ Item 4. Controls and Procedures.......................................32
+
+Part II. Other Information
+
+ Item 1. Legal Proceedings.............................................32
+
+ Item 2. Changes in Securities and Use of Proceeds.....................32
+
+ Item 3. Defaults Upon Senior Securities...............................33
+
+ Item 4. Submission of Matters to a Vote of Security Holders...........33
+
+ Item 5. Other Information.............................................33
+
+ Item 6. Exhibits and Reports on Form 8-K..............................33
+
+Signatures...............................................................34
+ 3
+Part I. Financial Information
+Item 1. Financial Statements
+
+PRESIDENT CASINOS, INC.
+ (DEBTORS-IN-POSSESSION)
+ CONDENSED CONSOLIDATED BALANCE SHEETS
+ (UNAUDITED)
+ (in thousands, except share data)
+ Nov. 30, Feb. 28,
+ 2003 2003
+ -------- --------
+ 
+ ASSETS
+ Current assets:
+ Cash and cash equivalents...................... 20,675 16,120
+ Restricted cash................................ 2,728 5,304
+ Restricted short-term investments.............. 350 712
+ Accounts receivable, net of allowance for
+ doubtful accounts of 174 and 189........... 492 659
+ Other current assets........................... 5,008 3,960
+ --------- ---------
+ Total current assets....................... 29,253 26,755
+ --------- ---------
+ Property and equipment, net of accumulated
+ depreciation of 63,869 and 58,764............ 87,245 91,730
+ Assets of discontinued operations............... 400 2,349
+ --------- ---------
+ 116,898 120,834
+ ========= =========
+ LIABILITIES AND STOCKHOLDERS' DEFICIT
+ Current liabilities:
+ Accounts payable............................... 1,482 1,340
+ Accrued payroll and benefits................... 3,747 3,866
+ Accrued interest............................... 278 9,818
+ Accrued loan fee............................... -- 7,000
+ Other accrued liabilities...................... 4,881 6,100
+ Liabilities from discontinued operations....... 3,515 305
+ Current maturities of long-term debt........... -- 30,000
+ --------- ---------
+ Total current liabilities.................. 13,903 58,429
+
+ Long-term liabilities............................ 45,429 --
+ --------- ---------
+ Total liabilities not
+ subject to compromise.................... 59,332 58,429
+
+ Liabilities subject to compromise................ 107,717 111,340
+ --------- --------
+ Total liabilities.......................... 167,049 169,769
+ --------- --------
+ Minority interest................................ 1,655 679
+ Commitments and contingencies.................... -- --
+ Stockholders' deficit:
+ Preferred Stock, 0.01 par value per share;
+ 150 shares authorized; none issued
+ and outstanding.............................. -- --
+ Common Stock, 0.06 par value per share;
+ 14,000 shares authorized; 5,033 shares
+ issued and outstanding....................... 302 302
+ Additional paid-in capital..................... 101,729 101,729
+ Accumulated deficit............................ (153,837) (151,645)
+ --------- ---------
+ Total stockholders' deficit................ (51,806) (49,614)
+ --------- ---------
+ 116,898 120,834
+ ========= =========
+
+ See Notes to Condensed Consolidated Financial Statements.
+
+1
+
+ 4
+
+PRESIDENT CASINOS, INC.
+ (DEBTORS-IN-POSSESSION)
+ CONDENSED CONSOLIDATED STATEMENTS OF OPERATIONS
+ (UNAUDITED)
+ (in thousands, except per share data)
+
+ Three Months Nine Months
+ Ended Nov. 30, Ended Nov. 30,
+ 2003 2002 2003 2002
+ ------ ------ ------ ------
+
+OPERATING REVENUES:
+ Gaming................................... 27,599 29,323 90,343 93,267
+ Food and beverage........................ 3,145 3,142 10,103 10,151
+ Hotel.................................... 1,518 1,272 5,806 4,743
+ Retail and other......................... 1,014 992 3,160 3,344
+ Less promotional allowances.............. (5,767) (5,681) (18,661) (17,121)
+ --------- --------- --------- ---------
+ Net operating revenues................. 27,509 29,048 90,751 94,384
+ --------- --------- --------- ---------
+OPERATING COSTS AND EXPENSES:
+ Gaming................................... 15,894 17,161 50,295 53,288
+ Food and beverage........................ 2,009 2,068 6,178 6,691
+ Hotel.................................... 271 307 830 1,056
+ Retail and other......................... 410 575 1,444 1,851
+ Selling, general and administrative...... 6,907 6,539 21,320 21,671
+ Depreciation and amortization............ 1,974 2,037 6,069 6,146
+ Development costs........................ -- 2 -- 112
+ --------- --------- --------- ---------
+ Total operating costs and expenses..... 27,465 28,689 86,136 90,815
+ --------- --------- --------- ---------
+OPERATING INCOME........................... 44 359 4,615 3,569
+ --------- --------- --------- ---------
+OTHER INCOME (EXPENSE):
+ Interest expense (contractual interest
+ of 3,964 and 3,950 for the three-
+ month periods and 11,895 and 11,609
+ for the nine-month periods)............ (843) (1,128) (2,796) (6,690)
+ Interest income.......................... 25 44 96 158
+ Reorganization items, net................ (131) (69) (1,031) (755)
+ Loss on sale of assets................... (56) (77) (61) (100)
+ Other income............................. 225 -- 225 --
+ --------- --------- --------- ---------
+ Total other income (expense)........... (780) (1,230) (3,567) (7,387)
+ --------- --------- --------- ---------
+INCOME (LOSS) BEFORE MINORITY INTEREST
+ AND DISCONTINUED OPERATIONS.............. (736) (871) 1,048 (3,818)
+Minority interest.......................... 324 344 978 983
+ --------- --------- --------- ---------
+INCOME (LOSS) FROM CONTINUING OPERATIONS... (1,060) (1,215) 70 (4,801)
+ --------- --------- --------- ---------
+Loss from discontinued operations.......... (1,534) (341) (2,262) (1,394)
+ --------- --------- --------- ---------
+NET LOSS................................... (2,594) (1,556) (2,192) (6,195)
+ ========= ========= ========= =========
+Basic and diluted net income (loss) per
+ share from continuing operations........ (0.21) (0.24) 0.01 (0.95)
+
+Basic and diluted net loss per share
+ from discontinued operations............ (0.31) (0.07) (0.45) (0.28)
+ --------- --------- --------- ---------
+Basic and diluted net loss per share....... (0.52) (0.31) (0.44) (1.23)
+ ========= ========= ========= =========
+Weighted average common and dilutive
+ potential shares outstanding.............. 5,033 5,033 5,033 5,033
+ ========= ========= ========= =========
+
+See Notes to Condensed Consolidated Financial Statements.
+
+2
+ 5
+ PRESIDENT CASINOS, INC.
+ (DEBTORS-IN-POSSESSION)
+ CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS
+ (UNAUDITED)
+ (in thousands)
+
+Nine Months Ended Nov. 30,
+ 2003 2002
+ ------ ------
+
+Net cash provided by continuing
+ operating activities........................... 3,858 8,064
+ --------- ---------
+Cash flows from investing activities from
+ continuing operations:
+ Expenditures for property and equipment......... (1,661) (4,791)
+ Change in restricted cash....................... 2,575 299
+ Proceeds from sales of property and equipment... 16 12
+ Purchase of short-term investments.............. (2) (12)
+ Maturity of short-term investments.............. 325 75
+ --------- ---------
+ Net cash provided by (used in) investing
+ activities from continuing operations........ 1,253 (4,417)
+ --------- ---------
+Cash flows from financing activities from
+ continuing operations:
+ Repayment of notes payable...................... (3,551) (5)
+ Minority interest payments...................... (2) (68)
+ --------- ---------
+ Net cash used in financing activities
+ from continuing operations.................. (3,553) (73)
+ --------- ---------
+Net cash provided by (used in)
+ discontinued operations......................... 2,997 (975)
+ --------- ---------
+Net increase in cash and cash equivalents......... 4,555 2,599
+
+Cash and cash equivalents at beginning of period.. 16,120 10,109
+ --------- ---------
+Cash and cash equivalents at end of period........ 20,675 12,708
+ ========= =========
+
+SUPPLEMENTAL DISCLOSURE OF CASH FLOW INFORMATION:
+ Cash paid for interest by continuing operations. 2,124 32
+ ========= =========
+
+See Notes to Condensed Consolidated Financial Statements.
+
+3
+ 6
+ PRESIDENT CASINOS, INC.
+ (DEBTORS-IN-POSSESSION)
+ NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+ (Dollars in thousands, except share data and unless otherwise stated)
+
+1. BANKRUPTCY PROCEEDINGS
+
+ As used herein, the term "Company" refers to President Casinos, Inc., its
+wholly-owned subsidiaries, a 95 -owned limited partnership and a limited
+liability company in which a wholly-owned subsidiary of President Casinos,
+Inc. owns a Class A ownership interest and in which an entity wholly-owned by
+the Chairman of President Casinos, Inc. owns a Class B unit and has a
+preferred right to certain cash flows. As described below, President Casinos,
+Inc. and certain of its subsidiaries are currently in bankruptcy proceedings
+and certain of their assets are being realized upon by its creditors. At this
+time it is not possible to predict accurately what, if any, value will remain
+after the Company's creditors have realized upon the Company assets. On June
+20, 2002, President Casinos, Inc. together with its subsidiary, President
+Riverboat Casino-Missouri, Inc. ("President Missouri"), which owns and
+operates the St. Louis operations, filed voluntary petitions for
+reorganization under Chapter 11 of Title 11, United States Code (the
+"Bankruptcy Code") in the United States Bankruptcy Court for the Southern
+District of Mississippi (the "Mississippi Bankruptcy Court"). Subsequently,
+on July 9, 2002, President Casinos, Inc.'s subsidiary The President Riverboat
+Casino-Mississippi, Inc. ("President Mississippi") filed a voluntary
+reorganization petition in the same Court. On July 11, 2002, substantially
+all of President Casinos, Inc.'s other operating subsidiaries filed voluntary
+reorganization petitions under Chapter 11 in the same Mississippi Bankruptcy
+Court. Subsequently, orders were entered by the Mississippi Bankruptcy Court
+transferring venue of all of the bankruptcy cases, except President Riverboat
+Casino-New York, Inc. and President Broadwater Hotel, LLC, to the United
+States Bankruptcy Court for the Eastern District of Missouri (the "Missouri
+Bankruptcy Court," and together with the Mississippi Bankruptcy Court, the
+"Bankruptcy Courts,") where they are now pending and being administered. The
+Company and its operating subsidiaries in the Missouri Bankruptcy Court cases
+each continue in possession and use of their assets as debtors-in-possession
+and have had their cases administratively consolidated under the President
+Casinos, Inc. case.
+
+ Prior to any of the cases being transferred to the Missouri Bankruptcy
+Court, the Mississippi Bankruptcy Court established "bar dates," all of which
+have expired, by which all claimants were required to submit and characterize
+claims against the Company. As part of the Company's Chapter 11
+reorganization process, the Company has attempted to notify all known or
+potential creditors of the filings for the purpose of identifying all pre-
+petition claims. In the Company's Chapter 11 cases, substantially all of the
+Company's liabilities as of the filing date are subject to adjustment under a
+plan of reorganization. Generally, actions to enforce or otherwise effect
+repayment of all pre-petition liabilities as well as all pending litigation
+against the Company are stayed while the Company continues its business
+operations as debtors-in-possession. Schedules have been filed by the Company
+with the Bankruptcy Courts setting forth the assets and liabilities of the
+debtors as of the filing dates as reflected in the Company's accounting
+records. Differences between amounts reflected in such schedules and claims
+filed by creditors will be investigated and amicably resolved or adjudicated
+before the Bankruptcy Courts. The ultimate amount and settlement terms for
+
+ 4
+
+ 7
+such liabilities are subject to a plan of reorganization, and accordingly, are
+not presently determinable. Under the Bankruptcy Code, the Company may elect
+to assume or reject real estate leases, employment contracts, personal
+property leases, service contracts and other executory pre-petition contracts
+and unexpired leases, subject to Bankruptcy Court review. The Company cannot
+presently determine or reasonably estimate the ultimate liability that may
+result from rejecting leases or from filing of claims for any rejected
+contracts, and no provisions have been made for these items.
+
+ The consummation of a plan or plans of reorganization (a "Plan") is the
+principal objective of the Company's Chapter 11 filings. A Plan would, among
+other things, set forth the means for satisfying claims against and interests
+in the Company, including setting forth the potential distributions on account
+of such claims and interests, if any. Pursuant to the Bankruptcy Code, the
+Company had the exclusive right for 120 days from the filing date to file a
+Plan, and for 180 days from the filing date to solicit and receive the votes
+necessary to confirm a Plan. The Company was unable to have a plan confirmed
+prior to the expiration of these exclusivity periods, and the Missouri
+Bankruptcy Court denied the Company's motion to extend further the exclusivity
+period. Accordingly, in addition to the Company, any party-in-interest,
+including a creditor, an equity holder, a committee of creditors or equity
+holders, or an indenture trustee, may file its own Plan for the Company.
+Confirmation of a Plan is subject to certain statutory findings by the
+Bankruptcy Court. Subject to certain exceptions as set forth in the
+Bankruptcy Code, confirmation of a Plan requires, among other things, a vote
+on the Plan by certain classes of creditors and equity holders whose rights or
+interests are impaired under the Plan. If any impaired class of creditors or
+equity holders does not vote to accept the Plan, but all of the other
+requirements of the Bankruptcy Code are met, the proponent of the Plan may
+seek confirmation of the Plan pursuant to the "cram down" provisions of the
+Bankruptcy Code. Under these provisions, the Bankruptcy Court may still
+confirm a Plan notwithstanding the non-acceptance of the Plan by an impaired
+class, if, among other things, no claim or interest receives or retains any
+property under the Plan until each holder of a claim senior to such claim or
+interest has been paid in full. There can be no assurance that a Plan will be
+confirmed by the Bankruptcy Court, or that any such Plan will be consummated.
+
+ It is not possible to predict the length of time the Company will operate
+under the protection of Chapter 11 and the supervision of the Bankruptcy
+Court, the outcome of the bankruptcy proceedings in general, or the effect of
+the proceedings on the business of the Company or on the interest of the
+various creditors and stakeholders. Since the filing date, the Company has
+operated in the ordinary course of business. During the pendency of the
+Chapter 11 filings, the Company may, with Bankruptcy Court approval, sell
+assets and settle liabilities, including for amounts other than those
+reflected in the financial statements. The administrative and reorganization
+expenses resulting from the Chapter 11 filings will unfavorably affect the
+Company's results of operations. In addition, under the priority scheme
+established by the Bankruptcy Code, most, if not all, post-petition
+liabilities must be satisfied before most other creditors or interest holders,
+including stockholders, can receive any distribution on account of such claim
+or interest.
+
+ On May 15, 2003, the Missouri Bankruptcy Court issued an order approving a
+joint motion filed by the Company, the unsecured creditors' committee (the
+"Committee") and certain bondholders of the Company (the "Bondholders") with
+
+ 5
+
+ 8
+respect to a timetable and process for the Company's reorganization
+proceedings. The joint motion sought entry of an order approving a timetable
+and process set forth in a Term Sheet, dated March 25, 2003 (the "Term
+Sheet"), with respect to either (i) the refinancing of the Company by July 18,
+2003, or (ii) a sale of the assets related to the Company's St. Louis gaming
+operations. In addition, the Court approved motions by the Company to approve
+the appointment of Libra Securities LLC to serve as the Company's investment
+banker in connection with any sale of the St. Louis operations.
+
+ The Term Sheet outlined a process and timetable under which the Company's
+St. Louis operations would be sold in the event that a recapitalization of the
+Company was not completed as set forth in the Term Sheet. As part of such
+process, the Company was required to meet certain benchmarks which, if not
+met, would permit the Committee to file a motion with the Court for the sale
+of the Company's St. Louis operations and to appoint a chief restructuring
+officer to manage the sale process.
+
+ Pursuant to the Term Sheet provisions and the agreement of the Company, the
+Committee and the Bondholders, on September 25, 2003, the Company entered into
+an agreement with Isle of Capri Casinos, Inc. to sell the assets of its St.
+Louis operations for approximately 50,000.
+
+ On December 23, 2003, the Company filed with the Missouri Bankruptcy Court
+an amended motion for orders (a) authorizing sale of assets free and clear of
+all liens, claims and encumbrances, subject to higher and better offers, (b)
+approving the assumption and assignment of certain executory contracts and
+unexpired leases, (c) establishing sale and bidding procedures, and (d)
+approving breakup compensation and expense reimbursement. The motion requests
+that the Missouri Bankruptcy Court issue an order approving the foregoing and
+establishing sale and bidding procedures as well scheduling a hearing to
+approve the sale of the Company's St. Louis assets.
+
+ The closing is contingent upon the selection of a subsidiary of Isle of
+Capri Casinos, Inc. as the winner of certain requests for a proposal issued by
+the City of St. Louis and the County of St. Louis (or the waiver thereof),
+which would afford the winning party the rights to develop and operate a
+casino and gaming facilities in the City and Counties of St. Louis as well as
+the approval of the Missouri Gaming Commission.
+
+ The requests for proposals are currently scheduled for selection on January
+15, 2004. Assuming that Isle's proposal is accepted, a period of several
+months will be required to obtain Missouri Gaming Commission approval. In the
+event a higher and better offer is received, the court would need to determine
+which offer was the higher and better offer as part of the approval process.
+
+ President Broadwater Hotel, LLC ("PBLLC"), a limited liability company in
+which Broadwater Hotel, Inc., a wholly-owned subsidiary of the Company
+("BHI"), has a Class A ownership interest, was in default under a 30,000
+promissory note and associated 7,000 loan fee incurred in connection with the
+July 1997 purchase by PBLLC of the real estate and improvements utilized in
+the Company's operations in Biloxi, Mississippi. On April 19, 2001, PBLLC
+filed a voluntary petition for reorganization under Chapter 11 of the
+Bankruptcy Code in the United States Bankruptcy Court for the Southern
+District of Mississippi. PBLLC continued in possession and use of its assets
+as a debtor-in-possession and had an agreement with Lehman Brothers Holdings
+Inc., its lender and largest creditor ("Lehman"), approved by the Mississippi
+
+ 6
+
+ 9
+Bankruptcy Court, which allowed PBLLC's use of its cash collateral.
+
+ On October 16, 2001, PBLLC filed its plan of reorganization. Subsequently,
+on February 28, 2003, PBLLC filed Modifications to Debtor's Plan of
+Reorganization (together with the reorganization plan, the "Modified Plan").
+On May 14, 2003, the Mississippi Bankruptcy Court entered the confirmation
+order confirming the Modified Plan. The Modified Plan became effective on May
+28, 2003 and the Company initiated consummation of the Modified Plan at that
+time. The Modified Plan provides that the unsecured creditors of PBLLC will
+receive 100 of their claims. Under the Modified Plan, the obligations to
+Lehman were modified with respect to the debt amount, the interest rate and
+the due date. See "Note 5. Long-Term Debt and Current Portion of Long-Term
+Debt."
+
+ Due to certain debt covenants and cross default provisions associated with
+other debt agreements, the Company is also currently in default under the
+terms of its 2,100 M/V "President Casino-Mississippi" note. See "Note 9.
+Discontinued Operations."
+
+ Management is pursuing various strategic financing alternatives in order to
+fund its debt obligations and the Company's continuing operations in
+Mississippi. The Company is pursuing alternatives, including the
+restructuring and refinancing of outstanding debt obligations and/or the sale
+of all or a portion of its remaining assets. The Company has entered into a
+contract to sell to an unrelated party the Broadwater Property golf course.
+The golf course purchase price is 13,000 before closing adjustments. The
+prospective purchaser has applied for re-zoning of the property and been
+rejected. It is pursuing an appeal in court. The contract has been amended
+to make the obtaining of re-zoning a precondition to closing. It is not
+possible to predict whether re-zoning will be obtained. It is anticipated
+that the net proceeds from the sale of the golf course will be used to
+partially pay down the principal on the Indebtedness of PBLLC.
+
+ The Company's ability to continue as a going concern is dependent on its
+ability to restructure successfully, including refinancing its debts, selling
+assets on a timely basis under acceptable terms and conditions, and the
+ability of the Company to generate sufficient cash to fund future operations.
+There can be no assurance in this regard.
+
+ The descriptions of the Company's business, financial condition and
+prospects contained in this Quarterly Report on Form 10-Q are qualified in
+their entirety by the foregoing description of the significant risks
+associated with the Company's bankruptcy proceedings.
+
+ As of November 30, 2003, the Company had 20,675 of unrestricted cash and
+cash equivalents. Of this amount, the Company requires approximately 6,500
+of cash to fund daily operations. The Company is heavily dependant on cash
+generated from operations to continue to operate as planned in its existing
+jurisdictions and to make capital expenditures. Management anticipates that
+its existing available cash and cash equivalents and its anticipated cash
+generated from operations will be sufficient to fund its ongoing operations
+during the bankruptcy proceedings. Payments under the Company's defaulted
+debt obligations generally will be stayed during the bankruptcy proceedings.
+Costs previously incurred and which will be incurred in the future in
+connection with the reorganizations have been and will continue to be
+substantial and, in any event, there can be no assurance that the Company will
+
+ 7
+
+ 10
+be able to restructure its indebtedness or that its liquidity and capital
+resources will be sufficient to maintain its normal operations during the
+reorganization period. To the extent cash generated from operations is less
+than anticipated, the Company may be required to curtail certain planned
+expenditures and/or seek additional financing.
+
+2. BASIS OF PRESENTATION
+
+ The condensed consolidated financial statements include the accounts and
+operations of President Casinos, Inc., its wholly-owned subsidiaries, a 95 -
+owned limited partnership and a limited liability company in which a wholly-
+owned subsidiary of the Company has a Class A ownership interest and in which
+an entity wholly-owned by the Chairman of the Board of the Company owns a
+Class B Unit and has preferred rights to certain cash flows. All material
+intercompany balances and transactions have been eliminated.
+
+ The accompanying condensed consolidated financial statements have been
+prepared assuming that the Company will continue as a going concern, which
+assumes continuity of operations, realization of assets and satisfaction of
+liabilities in the ordinary course of business. The Company has experienced
+operating losses since 1995 and has recently experienced significant
+difficulty in generating sufficient cash flows to meet its obligations and
+sustain its operations. As such, the Company has been in default under
+various of its financial obligations as described elsewhere herein. Such
+conditions raise substantial doubt about its ability to continue as a going
+concern. The condensed consolidated financial statements do not include any
+adjustments that might result from the outcome of this uncertainty.
+
+ In the opinion of management, the accompanying unaudited condensed
+consolidated financial statements contain all adjustments, consisting only of
+normal recurring entries unless otherwise disclosed, necessary to present
+fairly the Company's financial information for the interim periods presented
+and have been prepared in accordance with accounting principles generally
+accepted in the United States of America. The interim results reflected in
+the condensed consolidated financial statements are not necessarily indicative
+of results for the full year or other periods.
+
+ The financial statements contained herein should be read in conjunction with
+the audited consolidated financial statements and accompanying notes to the
+consolidated financial statements included in the Company's Annual Report on
+Form 10-K for the period ending February 28, 2003. Accordingly, footnote
+disclosure which would substantially duplicate the disclosure in the audited
+consolidated financial statements has been omitted in the accompanying
+unaudited condensed consolidated financial statements.
+
+3. NATURE OF OPERATIONS
+
+ The Company owns and operates dockside gaming casinos through its
+subsidiaries. The Company conducts dockside gaming operations in Biloxi,
+Mississippi through its wholly-owned subsidiary President Mississippi and in
+St. Louis, Missouri north of the Gateway Arch through its wholly-owned
+subsidiary, President Missouri. In addition, the Company owns and manages
+certain hotel and ancillary facilities associated with its gaming operations
+in Biloxi. The President Broadwater Hotel, LLC, a limited liability company
+("PBLLC") in which Broadwater Hotel, Inc. ("BHI") has a Class A ownership
+interest, owns approximately 260 acres in Biloxi, Mississippi, which includes
+
+ 8
+
+ 11
+a 111-slip marina which contains the mooring site of "President Casino-
+Broadwater", two hotels with approximately 500 rooms and an adjacent 18-hole
+golf course (collectively, the "Broadwater Property"). BHI is a wholly-owned
+subsidiary of the Company.
+
+4. PROPERTY AND EQUIPMENT
+
+ During the fourth quarter of fiscal 2003, the Company held a sealed bid
+auction of the "Surfside Princess" in accordance with Section 363 of the
+United States Bankruptcy Code. In February, 2003, the auction closed and the
+winning bid was 1,500. The purchase agreement was consummated on May 2,
+2003. The Company recorded a 36 loss on the sale of the vessel during the
+first quarter of fiscal . See "Note 8. Commitments and Contingent
+Liabilities."
+
+ Due to certain debt covenants and cross default provisions associated with
+other debt agreements, the Company is in default under the terms of its 2,100
+M/V "President Casino-Mississippi" note. The vessel and various equipment
+aboard the M/V "President Casino-Mississippi" collateralize the term note
+payable which is also personally guaranteed by John E. Connelly, the Company's
+Chairman and Chief Executive Officer. On June 11, 2003, a United States
+Marshall served a warrant on the vessel. See "Note 9. Discontinued
+Operations."
+
+ The Company has entered into a contract to sell to an unrelated party the
+Broadwater Property golf course. The golf course purchase price is 13,000
+before closing adjustments. The prospective purchaser has applied for re-
+zoning of the property and been rejected. It is pursuing an appeal in court.
+The contract has been amended to make the obtaining of re-zoning a
+precondition to closing. It is not possible to predict whether re-zoning will
+be obtained. It is anticipated that the net proceeds from the sale of the
+golf course will be used to partially pay down the principal on the
+Indebtedness of PBLLC.
+
+5. LONG-TERM DEBT AND CURRENT PORTION OF LONG-TERM DEBT
+
+ As of November 30, 2003, all of the Company's long-term debt, except the
+Broadwater Hotel note, was classified as liabilities subject to compromise.
+See "Note 6. Liabilities Subject to Compromise and Reorganization Items,
+Net." As of February 28, 2003, current maturities of long-term debt consisted
+of the Broadwater Hotel note. The Broadwater Hotel note and related accrued
+loan fee and accrued interest were modified, as discussed below, and the
+modified obligation is classified as long-term debt as of November 30, 2003.
+
+ Broadwater Hotel Note
+
+ In conjunction with the purchase of the Broadwater Property, PBLLC borrowed
+the sum of 30,000 from a third party lender (the "Original Indebtedness").
+Except as set forth in the promissory note and related security documents,
+PBLLC's obligations under the Original Indebtedness were nonrecourse and were
+secured by the Broadwater Property, its improvements and leases thereon. The
+Original Indebtedness bore interest at a stipulated variable rate per annum
+equal to the greater of (i) 8.75 or (ii) 4 plus the LIBOR 30-day rate.
+
+ PBLLC was obligated under the Original Indebtedness to make monthly payments
+of interest accruing under the Indebtedness, and was obligated to repay the
+
+ 9
+
+ 12
+Indebtedness in full on July 22, 2000. In addition, PBLLC was obligated to
+pay to the lender a loan fee in the amount of 7,000 which was fully earned
+and non-refundable when the Original Indebtedness was due. Neither the
+Original Indebtedness nor the loan fee payments were made on the due date and
+the Original Indebtedness was in default through the effective date of the
+Modified Plan discussed below. PBLLC continued to make monthly interest
+payment on the 30,000 principal through April 19, 2001, when the Company
+announced that PBLLC had filed for reorganization under Chapter 11 in the
+Mississippi Bankruptcy Court.
+
+ On October 16, 2001, PBLLC filed its plan of reorganization. Subsequently,
+on February 28, 2003, PBLLC filed Modifications to Debtor's Plan of
+Reorganization (together with the reorganization plan, the "Modified Plan").
+On May 14, 2003, the Mississippi Bankruptcy Court entered the confirmation
+order confirming the Modified Plan. The Modified Plan became effective on May
+28, 2003 and the Company consummated the Modified Plan at that time. The
+Modified Plan provides that the unsecured creditors of PBLLC will receive 100 
+of their claims. Under the Modified Plan, the obligations to Lehman were
+modified with respect to the debt amount, the interest rate and the due date,
+and was re-documented substantially along the lines of the Original
+Indebtedness, including the non-recourse provision, (the "Modified
+Indebtedness"). On May 28, 2003, the Company paid Lehman 3,551 pursuant to
+the Modified Plan. As of November 30, 2003, the principal amount of the
+Modified Indebtedness was 45,429. The principal amount of the Modified
+Indebtedness earns interest at a rate of 12.75 per annum until the obligation
+is satisfied. The maturity date of the Modified Indebtedness is June 1, 2005.
+Interest is payable during the term of the Modified Indebtedness on the
+adjusted loan obligation amount. As of November 30, 2003, the adjusted loan
+obligation amount was 43,013. PBLLC is required to pay interest earned on
+the adjusted loan obligation monthly from May 28, 2003 at a rate of the
+greater of 7.75 per annum or LIBOR plus 4 per annum floating through the
+term of the Modified Indebtedness.
+
+ In the event that payment in full of the Modified Indebtedness is made after
+November 1, 2003 but prior to June 2, 2005, interest on the Modified
+Indebtedness will be calculated at a lower rate as set forth in the Modified
+Plan.
+
+ The Modified Plan contains an express waiver of rights by PBLLC to seek
+future bankruptcy protection. J. Edward Connelly Associates, Inc. ("JECA"),
+the holder of a Class B interest in PBLLC, retains its membership interest,
+but any payments by PBLLC to JECA shall be restricted until such time as all
+outstanding obligations to Lehman and other creditors receiving funds under
+the Modified Plan are discharged.
+
+ 10
+ 13
+6. LIABILITIES SUBJECT TO COMPROMISE AND REORGANIZATION ITEMS, NET
+
+ The components of liabilities subject to compromise are as follows:
+
+Nov. 30, Feb. 28,
+ 2003 2003
+ ------ ------
+
+Senior Exchange Notes, 13 ...................... 56,250 56,250
+ Secured Notes, 12 .............................. 18,750 18,750
+ M/V "President Casino-Mississippi" note payable,
+ variable interest rate........................ -- 2,100
+ Minority interest............................... 15,669 15,669
+ Accrued interest................................ 13,027 13,728
+ Accounts payable and other accrued expenses..... 4,021 4,843
+ --------- ---------
+ Total liabilities subject to compromise...... 107,717 111,340
+ ========= =========
+
+Senior Exchange Notes and Secured Notes
+
+ The Senior Exchange Notes rank equal in right of payment to all present and
+future senior debt, as defined in the indenture governing the Senior Exchange
+Notes (the "Note Indenture"), of the Company and its subsidiaries are
+currently due and payable. In addition, the Senior Exchange Notes are
+unconditionally guaranteed, jointly and severally on a senior basis, by all of
+the Company's restricted subsidiaries (the "Guarantors"), and, under certain
+circumstances, the Company's future subsidiaries, although the subsidiary
+guarantee from The Connelly Group, LP ("TCG") is limited in amount and was
+zero as of November 30, 2003. As security for the obligations of the Company
+and the Guarantors under the Senior Exchange Notes, the Company and the
+Guarantors have pledged their equity interests in each Guarantor and certain
+indebtedness from, and certain investments in, certain gaming ventures. The
+Note Indenture contains certain restrictive covenants which, among other
+things, limit the Company's Guarantors' ability to pay dividends, incur
+additional indebtedness (exclusive of 15,000 of senior debt), issue preferred
+stock, create liens on certain assets, merge or consolidate with another
+company and sell or otherwise dispose of all or substantially all of its
+properties or assets.
+
+ On December 3, 1998, the Company repurchased 25,000 of its Senior Exchange
+Notes. The repurchased notes were used to satisfy the 25,000 principal
+payment due September 15, 1999 on the Company's 100,000 Senior Exchange
+Notes. The repurchase was funded by the issuance of 25,000 of new 12 notes
+due September 15, 2001 (the "Secured Notes"). The Secured Notes have no
+mandatory redemption obligation and are secured by a mortgage on the
+"Admiral", as well as subsidiary guarantees.
+
+ See "Note 1. Bankruptcy Proceedings" regarding default of the Senior
+Exchange Notes and Secured Notes.
+
+ On October 17, 2003, the Mississippi Bankruptcy Court issued an order
+dismissing the President Riverboat Casino-New York, Inc. bankruptcy case. The
+M/V "President Casino-Mississippi" note is included in liabilities of
+discontinued operations as of November 30, 2003. See "Note 9. Discontinued
+Operations."
+
+ 11
+
+14
+ The various agreements governing the notes described above generally limit
+borrowings by the Company's affiliates without the respective lenders' prior
+consent.
+
+ As of November 30, 2003, all reorganization items consist of professional
+fees and U.S. Trustee fees.
+
+7. STOCK-BASED COMPENSATION
+
+ As of November 30, 2003, the Company has three stock Option Plans. The
+Company applies Accounting Principles Board Opinion No. 25 and related
+interpretations in accounting for its stock-based compensation plans using the
+intrinsic value method. Accordingly, no compensation expense is reflected in
+net income for stock options, as all options granted had an exercise price
+equal to the market value of the underlying common stock on the date of grant.
+Substantially all of the Company's stock options were vested as of November
+30, 2003. Had compensation cost for the Company's Stock Option Plans been
+determined based on the fair value at the grant dates for awards under those
+plans consistent with the method of Statement of Financial Accounting
+Standards ("SFAS") No. 123 "Accounting for Stock-Based Compensation," the
+Company's pro forma net income (loss) and net income (loss) per share would be
+the same. There were no options granted during the nine-month period ended
+November 30, 2003 or fiscal year 2003.
+
+8. COMMITMENTS AND CONTINGENT LIABILITIES
+
+Bankruptcy Actions
+
+ On June 20, 2002, the Company together with its subsidiary, President
+Missouri, which owns and operates the St. Louis operations, filed voluntary
+petitions for reorganization under Chapter 11 of the Bankruptcy Code in the
+United States Bankruptcy Court for the Southern District of Mississippi. On
+July 9, 2002, the Company's subsidiary President Mississippi filed a voluntary
+reorganization petition in the same Court. On July 11, 2002, substantially
+all of the Company's other operating subsidiaries filed voluntary
+reorganization petitions under Chapter 11 in the same Court. Subsequently,
+orders were entered by the Mississippi Bankruptcy Court transferring venue of
+all of the Chapter 11 cases, except President Riverboat Casino-New York, Inc.
+and PBLLC, to the United States Bankruptcy Court for the Eastern District of
+Missouri, where they are now pending and being administered. The Company and
+its subsidiaries each continue in possession and use of their assets as
+debtors-in-possession. See "Note 1. Bankruptcy Proceedings."
+
+Litigation
+
+ --Poulos, McElmore and Shreier, et al. v. Caesar's World, Inc. et al.
+
+ In 1994, William H. Poulos filed a class-action lawsuit in the United States
+District Court for the Middle District of Florida against over thirty-eight
+(38) casino operators, including the Company, and certain suppliers and
+distributors of video poker and electronic slot machines. This lawsuit was
+followed by several additional lawsuits of the same nature against the same
+and as well as additional defendants, all of which have now been consolidated
+into a single class-action in the United States District Court for the
+District of Nevada. The complaint alleges that the defendants fraudulently
+marketed and operated casino video poker machines and electronic slot
+
+ 12
+
+ 15
+machines, and asserts common law fraud and deceit, unjust enrichment and
+negligent misrepresentation. The plaintiffs sought class certification and
+the defendants opposed it. On June 21, 2002, the Court entered an order
+holding the action could not proceed as a class action. The decision has been
+appealed to the 9th Circuit Court of Appeals. A motion to stay pending the
+Company's bankruptcy proceedings has been filed. Although the outcome of
+litigation is inherently uncertain, management, after consultation with
+counsel, believes the action will not have a material adverse effect on the
+Company's financial position or results of operations.
+
+ --Other
+
+ The Company is from time to time a party to litigation, which may or may not
+be covered by insurance, arising in the ordinary course of its business.
+Management of the Company does not believe that the outcome of any such
+litigation will have a material adverse effect on the Company's financial
+condition or results of operations, or which would have any material adverse
+impact upon the gaming licenses of the Company's subsidiaries.
+
+9. DISCONTINUED OPERATIONS
+
+ The Company sold one of two vessels accounted for in its leasing segment
+during May 2003 and the second vessel is being foreclosed on by the lender
+which holds a Preferred First Fleet Mortgage collateralizing debt owed to the
+lender. With the disposal of both vessels, representing all of the operating
+assets of the segment, the segment is accounted for as discontinued operations
+in accordance with Financial Accounting Standards Board SFAS No. 144
+"Accounting for the Impairment and Disposal of Long-Lived Assets."
+
+ The components of assets of and liabilities from discontinued operations are
+as follows:
+
+Nov. 30, Feb. 28,
+ 2003 2003
+ ------ ------
+
+Cash and cash equivalents.................. -- 39
+ Prepaid assets............................. -- 60
+ Property and equipment..................... 400 2,250
+ -------- --------
+ 400 2,349
+ ======== ========
+
+ M/V "President Casino-Mississippi"
+ note payable............................. 2,100 --
+ Accounts payable........................... 58 173
+ Accrued interest payable................... 610 22
+ Other accrued liabilities.................. 747 110
+ -------- --------
+ 3,515 305
+ ======== ========
+
+M/V "President Casino-Mississippi" Note
+
+ The term note payable is collateralized by the vessel M/V "President Casino-
+Mississippi" and various equipment and is personally guaranteed by Mr.
+Connelly. This note also contains certain covenants which, among other
+
+ 13
+
+ 16
+things, require the Company to maintain a minimum tangible net worth of
+ 40,000. The aforementioned default on the Company's Senior Exchange Notes
+and Secured Notes also constituted a default under this note. The Company
+continued to make the quarterly principal and interest payments on this note
+prior to the bankruptcy filing. Under the terms of the note agreement, 2,100
+principal became due and payable in August 2002. In November 2002, the lender
+brought an action against Mr. Connelly for breach of contract under his
+personal guarantee. In January 2003, the Mississippi Bankruptcy Court granted
+a motion to relieve the lender from the automatic stay in order to enforce its
+rights under the Preferred Fleet Ship Mortgage, including but not limited to
+the right of the lender to seize and sell the vessel. In May 2003, the lender
+filed a motion with the United States District Court of Southern Illinois for
+an order directing the Clerk of Court to issue a warrant for the arrest of the
+M/V "President Casino-Mississippi" pursuant to rules of admiralty and maritime
+claims. On May 20, 2003, the Court executed the warrant, which allows the
+vessel to be seized and sold. On June 11, 2003, a United States Marshall
+served the warrant on the vessel. On September 22, 2003, the Court entered an
+order in favor of the lender and ordering the vessel to be sold. It is
+anticipated that the lender will seek to sell the vessel and seek distribution
+of any sale proceeds.
+
+10. SEGMENT INFORMATION
+
+ The Company's reportable segments from continuing operations are similar in
+operations, but have distinct and separate regional markets. The Company's
+reportable segments are based on its two geographic gaming operations. The
+Biloxi operations consist of the Biloxi casino and the Broadwater Property and
+the St. Louis operations consist of the St. Louis casino.
+
+ The Company has no inter-segment sales and accounts for transfers of
+property and inventory at its net book value at the time of such transfer.
+
+Three Months Nine Months
+ Ended November 30, Ended November 30,
+ 2003 2002 2003 2002
+ ------ ------ ------ ------
+
+OPERATING REVENUES:
+ St. Louis operations................... 16,402 17,376 53,614 55,883
+ Biloxi operations...................... 11,107 11,672 37,137 38,501
+ --------- --------- --------- ---------
+ Net operating revenues............... 27,509 29,048 90,751 94,384
+ ========= ========= ========= =========
+
+14
+ 17
+
+Three Months Nine Months
+ Ended November 30, Ended November 30,
+ 2003 2002 2003 2002
+ ------ ------ ------ ------
+
+OPERATING INCOME (LOSS):
+ St. Louis operations................... 775 826 4,238 3,661
+ Biloxi operations...................... (120) 92 2,472 2,735
+ --------- --------- --------- ---------
+ Gaming and ancillary operations...... 655 918 6,710 6,396
+ Corporate administration............... (611) (557) (2,095) (2,715)
+ Corporate development.................. -- (2) -- (112)
+ --------- --------- --------- ---------
+ OPERATING INCOME....................... 44 359 4,615 3,569
+ ========= ========= ========= =========
+
+A summary of assets by segment, is as follows:
+
+Nov. 30, Feb. 28,
+ 2003 2003
+ ------ ------
+
+St. Louis operations.................... 50,256 47,917
+ Biloxi operations....................... 60,191 63,562
+ --------- ---------
+ Gaming and ancillary operations....... 110,447 111,479
+ Corporate assets........................ 2,792 3,747
+ Development assets...................... 3,259 3,259
+ Discontinued operations................. 400 2,349
+ --------- ---------
+ Net assets.......................... 116,898 120,834
+ ========= =========
+
+A summary of net property and equipment and additions to property and
+equipment, by segment, is as follows:
+
+Nov. 30, Feb. 28,
+ 2003 2003
+ ------ ------
+ 
+ Property and Equipment:
+ St. Louis operations.................. 33,155 36,540
+ Biloxi operations..................... 50,822 51,919
+ --------- ---------
+ Gaming and ancillary operations.... 83,977 88,459
+ Corporate assets...................... 9 12
+ Development assets.................... 3,259 3,259
+ --------- ---------
+ Net Property and Equipment........ 87,245 91,730
+ ========= =========
+
+15
+ 18
+
+Nine Months Ended Nov. 31,
+ 2003 2002
+ ------ ------
+
+Additions to Property and Equipment:
+ St. Louis operations.................. 1,221 3,852
+ Biloxi operations..................... 440 918
+ --------- ---------
+ Gaming and ancillary operations..... 1,661 4,770
+ Corporate assets...................... -- --
+ Development assets.................... -- 21
+ --------- ---------
+ 1,661 4,791
+ ========= =========
+
+11. GUARANTEE OF CITY OBLIGATION
+
+ During 1998, the Company and the City of St. Louis reached an agreement for
+the relocation of the "Admiral" approximately 1,000 feet north from its former
+location on the Mississippi River. Under the terms of an agreement, the City
+funded 3,000 of the relocation costs, 2,400 of which was financed through
+bank debt. It is anticipated that the City will repay the debt from annual
+allocations of 600 from the City's annual home dock city public safety fund
+that is funded by admission taxes from the "Admiral." The Company has
+guaranteed repayment of the bank debt if the City fails to pay the obligation.
+As of November 30, 2003, the Company's guarantee was 538.
+
+12. INSURANCE RISK
+
+ The Company was partially self-insured for employee health and workers
+compensation claims and third party liability costs through April 1999.
+Effective May 1999, the Company became fully insured for workers compensation
+claims. The Company continues to be partially self-insured for employee
+health and third party liability claims. The self-insurance claim liability
+is based on claims reported and claims incurred but not reported using the
+Company's historic experience with such matters.
+
+ The Company does carry business interruption insurance, but due to the
+current insurance market, the current policy does not cover interruption from
+either windstorm or flood.
+
+Item 2. Management's Discussion and Analysis of Financial Condition and
+Results of Operations.
+
+ The following discussion should be read in conjunction with the consolidated
+financial statements of the Company included elsewhere in this report.
+
+ President Casinos, Inc., President Riverboat Casino-Missouri, Inc., The
+President Riverboat Casino-Mississippi, Inc., Broadwater Hotel, Inc., PRC
+Management, Inc., PRC Holdings Corporation, TCG/Blackhawk, Inc. and Vegas
+Vegas, Inc. have each filed voluntary petitions for reorganization under
+Chapter 11 of the Bankruptcy Code. See "Note 1. Bankruptcy Proceedings" of
+the Notes to Condensed Consolidated Financial Statements included in Part I of
+this report.
+
+ 16
+ 19
+ As a result of the Company's relatively high degree of leverage and the need
+for significant capital expenditures at its St. Louis property, the Company
+was unable to pay the regularly scheduled interest payments of 6.4 million
+that were each due and payable March 15, and September 15, 2000. Under the
+indentures pursuant to which the 75.0 million 13.0 Senior Exchange Notes
+(the "Senior Exchange Notes") and the 25.0 million 12 Secured Notes (the
+"Secured Notes" and collectively with the Senior Exchange Notes, the "Notes")
+were issued, an Event of Default occurred on April 15, 2000, and is continuing
+as of the date hereof. Additionally, the Company was unable to pay the 25.0
+million principal payment due September 15, 2000 on the Senior Exchange Notes.
+The holders of at least 25 of the Senior Exchange Notes and the Secured Notes
+were notified of the defaults and instructed the Indenture Trustee to
+accelerate the Notes and on August 11, 2000, the holders declared the unpaid
+principal and interest to be due and payable.
+
+ On October 10, 2000, the Company sold the assets of its Davenport, Iowa
+operations for aggregate consideration of 58.2 million in cash. On November
+22, 2000, the Company entered into an agreement with a majority of the holders
+of the Senior Exchange Notes and a majority of the holders of the Secured
+Notes. The agreement provided for a proposed restructuring of the Company's
+debt obligations under the Notes and the application of certain of the
+proceeds received by the Company from the sale of the Company's Davenport
+assets. Approximately 43.0 million of the proceeds from the sale were
+deposited with a trustee. Of this amount, 12.8 million was used to pay
+missed interest payments due March 15, 2000 and September 15, 2000 on the
+Notes; 25.0 million was used to partially redeem the Notes; and 5.2 million
+was used to pay interest due March 15, 2001 on the Notes.
+
+ Subsequently, the Company was unable to make the principal and interest
+payments due September 15, 2001 and has not made any subsequent principal or
+interest payments on the Notes. As of November 30, 2003, principal due on the
+Senior and Secured Notes was 56.2 million and 18.8 million, respectively.
+
+ Due to certain debt covenants and cross default provisions associated with
+other debt agreements, the Company is also currently in default under its 2.1
+million M/V "President Casino-Mississippi" note. See Liquidity and Capital
+Resources.
+
+ On May 2, 2003, the Company consummated the sale of the M/V "Surfside
+Princess" under the terms of a Section 363 sale of the Bankruptcy Code for
+ 1.5 million. Liens on the vessel were transferred to the proceeds from the
+sale, which were distributed after the settlement of certain litigation.
+
+ Pursuant to the Term Sheet provisions and the agreement of the Company, the
+Committee and the Bondholders, on September 25, 2003, the Company entered into
+an agreement with Isle of Capri Casinos, Inc. to sell the assets of its St.
+Louis operations for approximately 50.0 million. The agreement will be
+submitted to the Missouri Bankruptcy Court for approval and will be subject to
+higher and better bids being submitted by qualified third parties. The
+closing of the transaction is subject to satisfaction of various conditions
+including approval and licensing by the Missouri Gaming Commission.
+
+ Management believes the Company's liquidity and capital resources will be
+sufficient to maintain its normal operations at current levels and does not
+anticipate any adverse impact on its operations, customers or employees during
+the ongoing bankruptcy proceedings. However, costs previously incurred and
+
+ 17
+
+ 20
+which will be incurred in the future in connection with restructuring the
+Company's debt obligations and the bankruptcy proceedings have been and will
+continue to be substantial and, in any event, there can be no assurance that
+the Company will be able to restructure successfully its indebtedness or that
+its liquidity and capital resources will be sufficient to maintain its normal
+operations during the restructuring period.
+
+ The Company's ability to continue as a going concern is dependent on its
+ability to restructure successfully, including refinancing its debts, and the
+ability of the Company to generate sufficient cash to fund future operations.
+There can be no assurance in this regard.
+
+Overview
+
+ The Company's operating results are affected by a number of factors,
+including competitive pressures, changes in regulations governing the
+Company's activities, the results of pursuing various development
+opportunities and general weather conditions. Consequently, the Company's
+operating results may fluctuate from period to period and the results for any
+period may not be indicative of results for future periods. The Company's
+operations are not significantly affected by seasonality.
+
+ --Competition
+
+ Intensified competition for patrons continues to occur at both of the
+Company's properties.
+
+ Since gaming began in Biloxi in August 1992, there has been steadily
+increasing competition along the Mississippi Gulf Coast, in nearby New Orleans
+and elsewhere in Louisiana and Mississippi. Several large hotel/casino
+complexes have been built with the largest single resort in the area opening
+in March 1999. There are currently twelve casinos operating on the
+Mississippi Gulf Coast. See "Potential Growth Opportunities" regarding a
+master plan for a destination resort the Company is developing in Biloxi,
+Mississippi.
+
+ Competition is intense in the St. Louis market area. There are presently
+four other casino companies operating five casinos in the market area. Many
+of these competitors have significantly greater name recognition and financial
+and marketing resources than the Company. Two of these are Illinois casino
+companies operating single casino vessels on the Mississippi River, one across
+the Mississippi River from the "Admiral" and the second 20 miles upriver.
+There are two Missouri casino companies, each of which operates casino vessels
+approximately 20 miles west of St. Louis on the Missouri River. One company
+operates two casinos in Maryland Heights, Missouri and the other company
+operates one casino in the City of St. Charles, Missouri. The operator of the
+St. Charles casino replaced its facility and reopened with nearly double its
+prior gaming positions in August 2002.
+
+ Applications were submitted to the Missouri Gaming Commission for approval
+of potential new licenses at four different locations within the St. Louis
+Metropolitan area along the Mississippi River, three of which were within 20
+miles of the "Admiral." In July 2000, the Gaming Commission announced its
+decision to award an additional license to the applicant proposing a site at
+the greatest distance from the "Admiral" of the proposed locations. The
+Commission's decision was challenged by one of the applicants whose proposal
+
+ 18
+
+ 21
+was not selected and by other entities. In September 2001, the applicant
+selected by the Gaming Commission announced it would not proceed with the
+development of the project. The Gaming Commission announced that it will
+consider licensing an additional casino in the St. Louis market. One such
+application has been filed to operate a gaming facility approximately 20 miles
+south of the "Admiral." The Gaming Commission has extended the period in
+which applications can be filed but has not indicated a specific deadline for
+such filings. In September 2003, the City and the County of St. Louis, which
+are separate political and geographic subdivisions, announced that they were
+both issuing Requests for Proposals for a new casino in both jurisdictions.
+At this time, it is not possible to predict what impact this may have on the
+St. Louis operation.
+
+ The City and the County of St. Louis have issued requests for proposals for
+a new casino operation in both the City and the County. They are currently
+set for acceptance by January 15, 2004. Were either of these requests to
+result in a new casino or casinos in metropolitan St. Louis, there would be a
+material adverse effect on the Company's St. Louis operations.
+
+ --Regulatory Matters
+
+ Missouri regulations limit the loss per "simulated" cruise per passenger by
+limiting the amount of chips or tokens a guest may purchase during each two-
+hour gaming session to 500 (the "loss limit"). The company that operates
+adjacent casinos is able to offer guests who reach the two-hour loss limit the
+ability to move to the adjacent casino and continue to play. The lack of a
+statutory loss limit on Illinois casinos allows them to attract higher stake
+players. Additionally, their guests are not burdened with the administrative
+requirements related to the loss limits, which includes the presentation of
+government issued identification. Any easing of the loss limits in Missouri
+would be expected to have a positive impact on the Company's St. Louis
+operations.
+
+ --Weather Conditions
+
+ The Company's operating results are susceptible to the effects of floods,
+hurricanes and adverse weather conditions. Historically, the Company has
+temporarily suspended operations on various occasions as a result of such
+adversities. Under less severe conditions, high river levels in St. Louis
+cause reduced parking and a general public perception of diminished access to
+the casino resulting in decreased revenues. Management believes the move of
+the "Admiral" diminished the negative effects of high water on operations.
+However, on May 13, 2002, at 4:00 a.m. the St. Louis operations were
+temporarily suspended due to high water levels. The "Admiral" was reopened on
+May 20, 2002 at 6:00 p.m. During the same period for the prior year, the
+Company recorded 1.4 million in St. Louis gaming revenue.
+
+ On September 25, 2002, all Mississippi Gulf Coast casinos, including the
+Company's Biloxi casino, were temporarily closed at 10:00 a.m. by the
+Mississippi Gaming Commission in anticipation of Tropical Storm Isidore. The
+Company's Biloxi casino reopened on September 27, 2002 at 5:00 a.m. On
+October 2, 2002, all Mississippi Gulf Coast casinos, including the Company's
+Biloxi casino, were temporarily closed at 10:00 p.m. by the Mississippi Gaming
+Commission in anticipation of Hurricane Lili. The Company's Biloxi casino
+reopened on October 3, 2002 at 3:00 p.m. The Company's Biloxi hotel
+operations remained open during both periods.
+
+ 19
+
+ 22
+ --Potential Opportunities
+
+ Biloxi, Mississippi
+
+ President Broadwater Hotel, LLC ("PBLLC") owns approximately 260 acres which
+includes two hotels, a 111-slip marina and an adjacent 18-hole golf course
+(collectively, the "Broadwater Property"). The marina is the site of the
+Company's casino operations in Biloxi and was formerly leased by the Company
+under a long-term lease agreement.
+
+ The Company has developed a master plan for the Broadwater Property.
+Management believes that this site is ideal for the development of
+"Destination Broadwater," a full-scale luxury destination resort offering an
+array of entertainment attractions in addition to gaming. The plans for the
+resort feature a village which will include a cluster of casinos, hotels,
+restaurants, theaters and other entertainment attractions.
+
+ In January 1999, the Company received a permit from the Mississippi
+Department of Marine Resources (the "DMR") for development of the full-scale
+destination resort. This is the first of three permit approvals required of
+the Joint Permit Application submitted in August 1998 to the DMR, the U.S.
+Army Corps of Engineers (the "Corps") and the Mississippi Department of
+Environment Quality. The two remaining permit approvals are still pending and
+awaiting the completion of the Final Environmental Impact Statement ("EIS").
+The Draft EIS has been completed, notice of which was posted in the Federal
+Register in June 2000 for public comment. The current permit application to
+the Corps was cancelled on June 10, 2002 pending re-submission of a revised
+project design that reflects the changes resulting from the Company's work
+with the Corps. The cancellation is an administrative measure which will
+allow the Corps to remove the application from the Corps' pending action list,
+and should not affect future evaluation of the permit request. The Company
+anticipates submitting a revised plan. At that time, a new application number
+will be assigned, and the evaluation of the permit request will resume.
+
+ In connection with the Company's proposed Destination Broadwater development
+plan, to date, the Company has not identified any specific financing
+alternatives or sources as the necessary regulatory approvals have not been
+obtained. There can be no assurance that the Company will be able to obtain
+the regulatory approvals or the requisite financing. Should the Company fail
+to raise the required capital, such failure would materially and adversely
+impact the Company's business plan.
+
+ The Company has entered into a contract to sell to an unrelated party the
+Broadwater Property golf course. The golf course purchase price is 13.0
+million before closing adjustments. The prospective purchaser has applied for
+re-zoning of the property and been rejected. It is pursuing an appeal in
+court. The contract has been amended to make the obtaining of re-zoning a
+precondition to closing and to extend the closing period for a six-month
+period from November 1, 2003 through April 30, 2004 for an option fee of
+ 25,000 for each month the contract is extended. It is not possible to predict
+whether re-zoning will be obtained. It is anticipated that the net proceeds
+from the sale of the golf course will be used to partially pay down the
+principal on the Indebtedness of PBLLC.
+
+ 20
+ 23
+Results of Operations
+
+ The results of operations for the three-month and nine-month periods ended
+November 30, 2003 and 2002 include the gaming results for the Company's
+operations in Biloxi, Mississippi and St. Louis, Missouri and to a lesser
+significance, the hotel operations in Biloxi (the Broadwater Property).
+
+ The following table highlights the results of the Company's operations.
+
+ Three Months Nine Months
+ Ended November 30, Ended November 30,
+ 2003 2002 2003 2002
+ ------ ------ ------ ------
+ (in millions)
+
+St. Louis, Missouri Operations
+ Operating revenues 16.4 17.4 53.6 55.9
+ Operating income 0.8 0.8 4.2 3.7
+
+Biloxi, Mississippi Operations
+ Operating revenues 11.1 11.7 37.1 38.5
+ Operating income (loss) (0.1) 0.1 2.5 2.7
+
+Corporate Administrative and
+ Development operating loss (0.6) (0.6) (2.1) (2.8)
+
+ The following table highlights cash flows of the Company's operations.
+
+ Nine Months
+ Ended November 30,
+ 2003 2002
+ ------ ------
+ (in millions)
+
+Cash flows provided by
+ operating activities 3.9 8.1
+Cash flows provided by (used in)
+ investing activities 1.3 (4.4)
+Cash flows used in
+ financing activities (3.6) (0.1)
+Cash paid for interest 2.1 0.1
+
+Three-month period ended November 30, 2003 Compared to the
+Three-month period ended November 30, 2002
+
+ Operating revenues. The Company generated consolidated operating revenues
+of 27.5 million during the three-month period ended November 30, 2003
+compared to 29.0 million during the three-month period ended November 30,
+2002. The St. Louis operations experienced a decrease in revenue of 1.0
+million and the Biloxi operations experienced a decrease in revenue of 0.5
+million.
+
+ Gaming revenues from the Company's St. Louis operations decreased 0.7
+million, or 4.0 , during the three-month period ended November 30, 2003,
+compared to the same period of the prior year. The St. Louis operations have
+experienced a decrease in market share to approximately 8.2 from
+
+ 21
+
+ 24
+approximately 8.7 during the same three-month period of the prior year.
+Management believes the decrease in gaming revenue was primarily attributable
+to increased competition resulting from aggressive marketing campaigns of
+certain competitors in the St. Louis market. Gaming revenues at the Company's
+Biloxi operations decreased 1.1 million, or 9.3 , during the three-month
+period ended November 30, 2003 compared to the three-month period ended
+November 30, 2002, primarily as a result of individual guests spending less
+per visit.
+
+ The Company's revenues from food and beverage were 3.1 million during both
+three-month periods ended November 30, 2003 and 2002.
+
+ The Company's revenues from hotel, retail and other were 2.6 million during
+the three-month period ended November 30, 2003 compared to 2.3 million for
+the three-month period ended November 30, 2002, an increase of 0.3 million or
+13.0 . The increase was primarily attributable to an increase in hotel
+revenue in Biloxi of 0.3 million as a result of an increase in complimentary
+hotel rooms offered by the casino.
+
+ Promotional allowances were 5.8 million during the three-month period ended
+November 30, 2003, compared to 5.7 million during the three-month period
+ended November 30, 2002. St. Louis contributed to the 0.1 million increase
+in promotional allowances primarily as the result of changes made in the types
+of promotional items offered to guests.
+
+ Operating costs and expenses. The Company's consolidated gaming expenses
+were 15.9 million during the three-month period ended November 30, 2003
+compared to 17.2 million during the three-month period ended November 30,
+2002, a decrease of 1.3 million or 7.6 . Gaming costs decreased 1.0 million
+in St. Louis and 0.3 million in Biloxi. The decrease in St. Louis was
+primarily the result of a 0.4 million reduction in payroll and payroll
+benefits expense, a 0.2 million decrease in gaming and admissions taxes
+resulting from decreased gaming revenues and a 0.1 million decrease in buffet
+promotions. The decrease in Biloxi was primarily the result of a 0.2 million
+decrease in gaming taxes resulting from decreased gaming revenues and a 0.1
+million decrease in payroll costs. As a percentage of gaming revenues, gaming
+costs decreased to 57.6 during the three-month period ended November 30, 2003
+from 58.5 during the three-month period ended November 30, 2002.
+
+ The Company's consolidated food and beverage expenses were 2.0 million
+during the three-month period ended November 30, 2003, compared to 2.1
+million during the three-month period ended November 30, 2002, a decrease of
+ 0.1 million or 4.8 . The decrease was primarily attributable to a decrease
+in food and beverage costs in St. Louis as a result of a 0.1 million
+reduction in payroll and payroll benefits expense.
+
+ The Company's consolidated hotel, retail and other expenses were 0.7
+million for the three-month period ended November 30, 2003 compared to 0.9
+million for the three-month period ended November 30, 2002, a decrease of 0.2
+million or 22.2 . St. Louis operations decreased 0.1 million as a result of
+the scaling back of the gift shop in December 2002 and Biloxi operations
+decrease 0.1 million as a result of more room promotions. Complimentary
+rooms costs are charged to gaming expense.
+
+ The Company's consolidated selling, general and administrative expenses were
+ 6.9 million during the three-month period ended November 30, 2003, compared
+
+ 22
+
+ 25
+to 6.5 million during the three-month period ended November 30, 2002, an
+increase of 0.4 million, or 6.2 . The Company's St. Louis casino operations
+experienced an increase of 0.3 million in selling, general and administrative
+expense primarily due to an increase in payroll and related costs due to an
+elimination of an accrual during the three-month period ended November 30,
+2002 related to an employee incentive program.
+
+ Depreciation and amortization expenses were 2.0 million during both three-
+month periods ended November 30, 2003 and 2002.
+
+ Operating income. As a result of the foregoing items, the Company had
+operating income of 44,000 during the three-month period ended November 30,
+2003, compared to operating income of 0.4 million for the three-month period
+ended November 30, 2002.
+
+ Interest expense, net. The Company incurred net interest expense of 0.8
+million during the three-month period ended November 30, 2003, compared to
+ 1.1 million during the three-month period ended November 30, 2002. The
+decrease is the result of 0.3 million decrease in interest expense related to
+the restructuring of the PBLLC debt and the corresponding reduction in the
+interest rate.
+
+ Reorganization items. The Company incurred reorganization costs of 0.1
+million during both three-month periods ended November 30, 2003 and 2002.
+
+ Gain/loss on disposal of property and equipment. The Company recorded a
+loss on disposal of assets of 0.1 million during both three-month periods
+ended November 30, 2003 and 2002, primarily as a result of the ongoing
+upgrades of the gaming floor in St. Louis.
+
+ Minority interest expense. The Company accrued 0.3 million minority
+interest expense for both three-month periods ended November 30, 2003 and
+2002. During both periods, the minority interest results from the Class B
+Unit in PBLLC in which an entity wholly-owned by the Chairman of the Board of
+the Company owns and has preferred rights to certain cash flows. Such amounts
+were accrued but not paid.
+
+ Net loss from continuing operations. The Company incurred a net loss from
+continuing operations of 1.1 million during the three-month period ended
+November 30, 2003, compared to a net loss from continuing operations of 1.2
+million during the three-month period ended November 30, 2002.
+
+ Discontinued operations. Discontinued operations consists of the Company's
+former vessel leasing segment, operated by President Riverboat Casino-New
+York, Inc., a wholly-owned subsidiary of the Company. Of the two vessels
+owned by this segment, the "Surfside Princess" was sold in May 2003. The
+second vessel, M/V "President Riverboat Casino-Mississippi," was the original
+vessel utilized at its Biloxi casino operations and subsequently utilized as
+an auxiliary vessel in other Company operations after it was replaced in
+Biloxi by the current larger barge facility. On June 11, 2003, as a result of
+the Company's default on the debt that the vessel collateralized, the United
+States Marshall's office served a warrant on the "President Riverboat Casino-
+Mississippi". On September 22, 2003, the Court entered an order in favor of
+the lender and ordered the vessel to be sold. It is anticipated that the
+lender will attempt to sell the vessel and seek distribution of any sale
+proceeds.
+
+ 23
+
+ 26
+ The Company incurred a net loss from discontinued operations of 1.5 million
+during the three-month period ended November 30, 2003, compared to a net loss
+from discontinued operations of 0.3 million during the three-month period
+ended November 30, 2002. On October 17, 2003, the Mississippi Bankruptcy
+Court issued an order dismissing President Riverboat Casino-New York, Inc.'s
+Chapter 11 bankruptcy case. As a result of the segment no longer operating
+under the protection of Chapter 11, during the three-month period ending
+November 30, 2003, the Company accrued certain contractual obligations under
+the terms of the debt agreement collateralized by the M/V "President Riverboat
+Casino-Mississippi." Such amounts consist of 0.6 million of default interest
+arising since the inception of the bankruptcy filing, 0.5 million in
+contractual legal fees and 0.1 million in penalties. Additionally, the
+Company recognized a 0.3 million valuation allowance on the vessel. The
+Company anticipates the discontinued operations to incur 0.1 million in
+default interest on the debt in future quarters. Management does not believe
+that the potential sales proceeds will cover the debt obligation or that the
+discontinued operations will have access to any additional funds to cover
+either the principal or interest. Although the parent company and a
+subsidiary of the Company have guaranteed the original note, these two
+entities are currently under Chapter 11 bankruptcy protection and, as such,
+the obligations are stayed while the entities operate as debtors-in-
+possession. Management does not believe that these additional costs will be
+paid. During the three-month period ended November 30, 2002, expenses
+incurred for the discontinued operations consisted primarily of the costs
+associated with maintaining the two vessels and legal fees associated with
+litigation involving the "Surfside Princess."
+
+ Net loss. The Company incurred a net loss of 2.6 million during the three-
+month period ended November 30, 2003, compared to a net loss from continuing
+operations of 1.6 million during the three-month period ended November 30,
+2002.
+
+Nine-month period ended November 30, 2003 Compared to the
+Nine-month period ended November 30, 2002
+
+ Operating revenues. The Company generated net consolidated operating
+revenues of 90.8 million during the nine-month period ended November 30, 2003
+compared to 94.4 million during the nine-month period ended November 30,
+2002, a decrease of 3.6 million, or 3.8 . St. Louis casino operations
+contributed a decrease in operating revenues of 2.3 million and Biloxi casino
+operations contributed a decrease in operating revenues of 1.3 million.
+
+ Gaming revenues from the Company's St. Louis casino operations decreased
+ 1.2 million during the nine-month period ended November 30, 2003, compared to
+the nine-month period ended November 30, 2002. The St. Louis operations have
+experienced a decrease in market share to approximately 8.6 from
+approximately 9.1 during the same nine-month period of the prior year.
+Management believes the decrease in gaming revenue was primarily attributable
+to increased competition resulting from aggressive marketing campaigns of
+certain competitors in the St. Louis market. Gaming revenues at the Company's
+Biloxi operations decreased 1.7 million during the nine-month period ended
+November 30, 2003 compared to the prior year period primarily as a result of
+individual guests spending less per visit.
+
+ The Company's revenues from food and beverage were 10.1 million during the
+nine-month period ended November 30, 2003, compared to 10.2 million during
+
+ 24
+
+ 27
+the nine-month period ended November 30, 2002. The St. Louis casino
+operations experienced a decrease of 0.3 million primarily as a result of a
+decrease in promotional programs and a decrease in volume. Biloxi operations
+contributed an increase of 0.2 million in food and beverage revenue primarily
+as a result of price adjustments and increased volume.
+
+ The Company's revenues from hotel, retail and other were 9.0 million during
+the nine-month period ended November 30, 2003, compared to 8.1 million during
+the nine-month period ended November 30, 2002, an increase of 0.9 million, or
+11.1 . St. Louis casino operations retail and other decreased 0.2 million
+primarily as a result of the gift shop being scaled back in December 2002.
+Biloxi experienced an increase of 1.1 million in hotel, retail and other
+revenue. The increase in Biloxi is the result of an increase in room revenue
+of 1.1 million due to an increase in complimentary hotel rooms offered by the
+casino.
+
+ Promotional allowances were 18.7 million during the nine-month period ended
+November 30, 2003, compared to 17.1 million during the nine-month period
+ended November 30, 2002, an increase of 1.6 million or 9.4 . Promotional
+allowances in St. Louis increased 0.6 million and Biloxi increased 1.0
+million. In St. Louis, the increase is primarily the result of a more
+aggressive marketing promotions during the current nine-month period in
+response to the competition and the casino being temporarily closed for seven
+days due to flooding on the Mississippi River during the previous nine-month
+period. In Biloxi, promotional allowances increased primarily as a result of
+increased complimentary hotel rooms offered by the casino in response to the
+competitive pressures in the market.
+
+ Operating costs and expenses. The Company's consolidated gaming costs and
+expenses were 50.3 million during the nine-month period ended November 30,
+2003, compared to 53.3 million during the nine-month period ended November
+30, 2002, a decrease of 3.0 million, or 5.6 . St. Louis gaming costs
+decreased 2.5 million due to a decrease in payroll and payroll benefits
+expense of 1.3 million, a reduction of 0.5 million in gaming and admission
+taxes resulting from decreased gaming revenue, a decrease in lease expense of
+ 0.2 million due to the removal of a significant number of leased slot
+machines, a decrease in the cost of complimentaries of 0.2 million due to
+less buffet promotions being offered and a decrease in repairs and maintenance
+of 0.3 million due to high water expenses and special hull work incurred in
+the previous year. The decrease in gaming costs and expenses in Biloxi is the
+result of a decrease of 0.3 million in payroll and payroll benefits, a
+decrease of 0.3 million in gaming taxes and a decrease of 0.1 million in
+slot machine lease expense, offset by an increase in the cost of complimentary
+hotel rooms offered by the casino.
+
+ The Company's consolidated food and beverage expenses were 6.2 million
+during the nine-month period ended November 30, 2003, compared to 6.7 million
+during the nine-month period ended November 30, 2002, a decrease of 0.5
+million, or 7.5 . The decrease is primarily attributable to a decrease in
+food & beverage revenue in St. Louis which attributed to a reduction in
+payroll and changes in product purchasing in Biloxi.
+
+ The Company's consolidated hotel, retail and other expenses were 2.3
+million during the nine-month period ended November 30, 2003 compared to 2.9
+million during the nine-month period ended November 30, 2002, a decrease of
+ 0.6 million or 20.7 . St. Louis operations decreased 0.4 million as a
+
+ 25
+
+ 28
+result of the scaling back of the gift shop in December 2002 and Biloxi
+operations decrease 0.2 million as a result of more room promotions.
+Complimentary rooms costs are charged to gaming expense.
+
+ The Company's consolidated selling, general and administrative expenses were
+ 21.3 million during the nine-month period ended November 30, 2003, compared
+to 21.7 million during the nine-month period ended November 30, 2002, a
+decrease of 0.4 million, or 1.8 . The Company's St. Louis casino operations
+experienced an increase of 0.3 million in selling, general and administrative
+expense primarily due to an increase in payroll and related costs due to the
+elimination of an accrual during the nine-month period ended November 30, 2002
+related to an employee incentive program. Corporate overhead decreased 0.6
+million primarily as the result of a severance agreement with a former
+executive accrued in the prior year of 0.3 million. Additionally, in the
+current year legal fees associated with the Company's debt are classified as
+reorganization items for the entire year which resulted in a 0.2 million
+decrease in selling, general and administrative expense. In the prior year
+such costs incurred prior to the Chapter 11 bankruptcy filings were recorded
+as a component of selling, general and administrative expenses.
+
+ Depreciation and amortization expense was 6.1 million during both nine-
+month periods ended November 30, 2003 and 2002.
+
+ Operating (loss) income. As a result of the foregoing items, the Company
+had operating income of 4.6 million during the nine-month period ended
+November 30, 2003 compared to 3.6 million during the nine-month period ended
+November 30, 2002.
+
+ Interest expense, net. The Company incurred net interest expense of 2.7
+million during the nine-month period ended November 30, 2003, compared to 6.5
+million during the nine-month period ended November 30, 2002, a decrease of
+ 3.8 million. The decrease is the result of 3.3 million decrease in interest
+expense resulting from June 20, 2002 voluntary petition under Chapter 11 of
+the Bankruptcy Code, whereby the noteholders of the Senior Exchange Notes and
+the Secured Notes were deemed by management to be undersecured and as a
+result, interest ceased to accrue as of the date thereof. Additionally, there
+was a 0.6 million decrease in interest expense related to the restructuring
+of the PBLLC debt and the corresponding reduction in the interest rate.
+
+ Reorganization items, net. The Company incurred reorganization items of
+ 1.1 million during the nine-month period ended November 30, 2003, compared to
+ 0.8 million during the nine-month period ended November 30, 2002, an increase
+of 0.3 million. On April 19, 2001, PBLLC filed a voluntary bankruptcy
+petition for bankruptcy and began incurring costs associated with its
+reorganization. On June 20, 2002, the Company's parent company and PRC-
+Missouri filed voluntary petitions and in July 2002, substantially all of the
+Company's other operating subsidiaries filed voluntary petitions. On May 28,
+2003, PBLLC emerged from bankruptcy. The increase in reorganization costs is
+primarily the result of the emergence of PBLLC from bankruptcy and the costs
+associated with the process of selling the St. Louis operations. Costs
+associated with the reorganizations consist of professional fees and U.S.
+Bankruptcy Trustee fees.
+
+ Gain (loss) on disposal of property and equipment. The Company recorded a
+loss of 0.1 million during both nine-month periods ended November 30, 2003
+and 2002.
+
+ 26
+
+ 29
+ Minority interest expense. The Company accrued 1.0 million minority
+interest expense during both nine-month periods ended November 30, 2003 and
+2002. During both periods the minority interest results from the Class B Unit
+in PBLLC in which an entity wholly-owned by the Chairman of the Board of the
+Company owns and has preferred rights to certain cash flows. Such amounts
+were accrued but not paid.
+
+ Net loss from continuing operations. The Company incurred net income from
+continuing operations of 0.1 million during the nine-month period ended
+November 30, 2003, compared to a net loss of 4.8 million during the nine-
+month period ended November 30, 2002.
+
+ Discontinued operations. Discontinued operations consists of the Company's
+former vessel leasing segment, operated by President Riverboat Casino-New
+York, Inc., a wholly-owned subsidiary of the Company. Of the two vessels
+owned by this segment, the "Surfside Princess" was sold in May 2003. The
+second vessel, M/V "President Riverboat Casino-Mississippi," was the original
+vessel utilized at its Biloxi casino operations and subsequently utilized as
+an auxiliary vessel in other Company operations after it was replaced in
+Biloxi by the current larger barge facility. On June 11, 2003, as a result of
+the Company's default on the debt that the vessel collateralized, the United
+States Marshall's office served a warrant on the "President Riverboat Casino-
+Mississippi". On September 22, 2003, the Court entered an order in favor of
+the lender and ordered the vessel to be sold. It is anticipated that the
+lender will attempt to sell the vessel and seek distribution of any sale
+proceeds.
+
+ The Company incurred a net loss from discontinued operations of 2.3 million
+during the nine-month period ended November 30, 2003, compared to a net loss
+from discontinued operations of 1.4 million during the nine-month period
+ended November 30, 2002. On October 17, 2003, the Mississippi Bankruptcy
+Court issued an order dismissing President Riverboat Casino-New York, Inc.'s
+Chapter 11 bankruptcy case. As a result of the segment no longer operating
+under the protection of Chapter 11, during the nine-month period ending
+November 30, 2003, the Company accrued certain contractual obligations under
+the terms of the debt agreement collateralized by the "President Riverboat
+Casino-Mississippi." Such amounts consist of 0.6 million of default interest
+arising since the inception of the bankruptcy filing, 0.5 million in
+contractual legal fees and 0.1 million in penalties. Additionally, the
+Company recognized a 0.3 million valuation allowance on the vessel and 0.5
+million for the settlement of certain litigation related to the "Surfside
+Princess". The Company anticipates the discontinued operations to incur 0.1
+million in default interest on the debt in future quarters. Management does
+not believe that the potential sales proceeds will cover the debt obligation
+or that the discontinued operations will have access to any additional funds
+to cover either the principal or interest. Although the parent company and a
+subsidiary of the Company have guaranteed the original note, these two
+entities are currently under Chapter 11 bankruptcy protection and, as such,
+the obligations are stayed while the entities operate as debtors-in-
+possession. Management does not believe that these additional costs will be
+paid. During the nine-month period ended November 30, 2002, expenses incurred
+for the discontinued operations consisted primarily of the costs associated
+with maintaining the two vessels and legal fees associated with litigation
+involving the "Surfside Princess."
+
+ 27
+ 30
+ Net loss. The Company incurred a net loss of 2.2 million during the nine-
+month period ended November 30, 2003, compared to a net loss of 6.2 million
+during the nine-month period ended November 30, 2002.
+
+Liquidity and Capital Resources
+
+ The Company meets its working capital requirements from a combination of
+internally generated sources including cash from operations and the of assets
+no longer used in the Company's casino operations.
+
+ As discussed above, the Company and its subsidiaries, with the exception of
+PBLLC and President Riverboat Casino-New York, Inc., are operating their
+businesses as debtors-in-possession under Chapter 11 of the Bankruptcy Code.
+In addition to the cash requirements necessary to fund ongoing operations, the
+Company anticipates that it will incur significant professional fees and other
+restructuring costs in connection with the reorganization. As a result of the
+uncertainty surrounding the Company's current circumstances, it is difficult
+to predict the Company's actual liquidity needs and sources at this time.
+However, based upon current and anticipated levels of operations, during the
+pendency of the bankruptcy management believes that its liquidity and capital
+resources will be sufficient to maintain its normal operations at current
+levels. Costs previously incurred and to be incurred in the future in
+connection with the reorganization have been and will continue to be
+substantial and, in any event, there can be no assurance that the Company will
+be able to reorganize its indebtedness or that its liquidity and capital
+resources will be sufficient to maintain its normal operations during the
+reorganization period. The Company's access to additional financing is, and
+for the foreseeable future will likely continue to be, very limited.
+Additionally, any significant interruption or decrease in the revenues derived
+by the Company from its operations would have a material adverse effect on the
+Company's liquidity and the ability to maintain the Company's operations as
+presently conducted.
+
+ As a result of the Company's high degree of leverage and the need for
+significant capital expenditures at its St. Louis property, the Company was
+unable to make the regularly scheduled interest payments of 6.4 million that
+were each due and payable March 15 and September 15, 2000. Under the
+Indentures pursuant to which the Senior Exchange Notes and Secured Notes were
+issued, an Event of Default occurred on April 15, 2000, and is continuing as
+of the date hereof. Additionally the Company did not pay the 25.0 million
+principal payment due September 15, 2000 on the Senior Exchange Notes. The
+holders of at least 25 of the Senior Exchange Notes and Secured Notes were
+notified and instructed the Indenture Trustee to accelerate the Senior
+Exchange Notes and Secured Notes and on August 11, 2000, the holders declared
+the unpaid principal and interest to be due and payable. As of November 30,
+2002, principal due on the Senior and Secured Notes was 56.2 million and
+ 18.8 million, respectively.
+
+ The Company requires approximately 6.5 million of cash on hand to fund
+daily operations. As of November 30, 2003, the Company had 14.2 million of
+non-restricted cash in excess of the 6.5 million. The Company is heavily
+dependant on cash generated from operations to continue to operate as planned
+in its existing jurisdictions and to make capital expenditures. Management
+anticipates that its existing available cash and cash equivalents and its
+anticipated cash generated from operations will be sufficient to fund all of
+its ongoing operations. The debt obligations will be stayed during the
+
+ 28
+
+ 31
+bankruptcy proceedings. To the extent cash generated from operations is less
+than anticipated, the Company may be required to curtail certain planned
+expenditures or seek other sources of financing.
+
+ The Company had 2.7 million in restricted cash as of November 30, 2003
+related to the Broadwater Property. Under the terms of the PBLLC's
+indebtedness, revenues are deposited into lockboxes that are controlled by its
+lender. Expenditures from the lockboxes are limited to the operating
+expenses, capital improvements, debt service and pre-petition bankruptcy
+claims of the Broadwater Property as defined by its loan agreement. Revenues
+of PBLLC include the operations of the hotels and golf course and 3.2 million
+annually of proceeds from rental of the Biloxi casino's mooring site.
+
+ The Company had 0.4 million in restricted short-term investments as of
+November 30, 2003, consisting of certificates of deposit guaranteeing a
+certain performance obligation required by the Mississippi Gaming Commission.
+
+ The Company generated 3.9 million of cash from operating activities during
+the nine-month period ending November 30, 2003.
+
+ Investing activities of the Company generated 1.3 million of cash during
+the nine-month period ending November 30, 2003. The Company expended 1.7
+million on gaming equipment and capital improvements, of which approximately
+ 1.2 million and 0.5 million was expended in St. Louis and Biloxi,
+respectively. The Company's discontinued operations received proceeds from
+the sale of the "Surfside Princess" of 1.5 million, of which 0.7 million was
+used to pay interest to the noteholders. Additionally there was a decrease in
+restricted cash of 2.6 million which was the result of the terms of the
+restructuring of the PBLLC debt.
+
+ In conjunction with the purchase of the Broadwater Property, PBLLC borrowed
+the sum of 30.0 million from a third party lender, evidenced by a non-
+recourse promissory note (the "Indebtedness"). PBLLC was obligated under the
+Indebtedness to make monthly payments of interest accruing under the
+Indebtedness, and was obligated to repay the Indebtedness in full on July 22,
+2000. In addition, PBLLC was obligated to pay to the lender a loan fee in the
+amount of 7.0 million which was fully earned and non-refundable when the
+Indebtedness became due. PBLLC continued to make the monthly interest
+payments accruing on the 30.0 million principal through April 19, 2001, when
+the Company announced that PBLLC had filed for reorganization under Chapter 11
+of the U.S. Bankruptcy Code in the United States Bankruptcy Court for the
+Southern District of Mississippi.
+
+ On October 16, 2001, PBLLC filed its plan of reorganization which would
+permit PBLLC to restructure its debt obligations in a manner which was
+designed to permit it to continue as a going concern. Subsequently, on
+February 28, 2003, PBLLC filed Modifications to Debtor's Plan of
+Reorganization (together with the reorganization plan, the "Modified Plan").
+On May 14, 2003, the Mississippi Bankruptcy Court entered the confirmation
+order confirming the Modified Plan. The Modified Plan became effective on May
+28, 2003 and the Company consummated the Modified Plan at that time. The
+Modified Plan provided for the unsecured creditors of PBLLC to receive 100 of
+their claims. Under the Modified Plan, the obligations to Lehman were
+modified with respect to the debt amount, the interest rate and the due date.
+
+ The Company also has a term note payable which is collateralized by the
+
+ 29
+
+ 32
+vessel M/V "President Casino-Mississippi" and various equipment and is
+personally guaranteed by Mr. Connelly. The M/V "President Casino-Mississippi"
+is the vessel previously operated as a casino in Biloxi, Mississippi and
+Davenport, Iowa. This note also contains certain covenants which, among other
+things, require the Company to maintain a minimum tangible net worth of 40.0
+million. The aforementioned default on the Company's Senior Exchange Notes
+and Secured Notes also constituted a default under this note. Under the terms
+of the note agreement, 2.1 million principal became due and payable in August
+2002. In November 2002, the lender brought an action against Mr. Connelly for
+breach of contract under his personal guarantee. In January 2003, the
+Mississippi Bankruptcy Court granted a motion to relieve the lender from the
+automatic stay in order to enforce its rights under the Preferred Fleet Ship
+Mortgage, including but not limited to the right of the lender to seize and
+sell the vessel. In May 2003, the lender filed a motion with the United
+States District Court of Southern Illinois for an order directing the Clerk of
+Court to issue a warrant for the arrest of the M/V "President Casino-
+Mississippi" pursuant to rules of admiralty and maritime claims. On May 20,
+2003, the Court executed the warrant, which allowed the vessel to be seized
+and sold. On June 11, 2003, a United States Marshall served the warrant on
+the vessel. On September 22, 2003, the Court entered an order in favor of the
+lender and ordering the vessel be sold.
+
+ In connection with the Company's proposed "Destination Broadwater"
+development plan, to date, the Company has not identified any particular
+financing alternatives or sources as the necessary regulatory approvals have
+not been obtained. There can be no assurance that the Company will be able to
+obtain the regulatory approvals or the requisite financing. Should the
+Company fail to raise the required capital, such failure would materially and
+adversely impact the Company's business plan.
+
+Critical Accounting Policies
+
+ --Significant Accounting Policies and Estimates
+
+ The Company prepares the consolidated financial statements in conformity
+with accounting principles generally accepted in the United States. Certain
+of the Company's accounting policies, including the determination of bad debt
+reserves, the estimated useful lives assigned to property, plant and
+equipment, asset impairment, insurance reserves and player point liability
+require that management apply significant judgment in defining the appropriate
+assumptions for calculating financial estimates. By their nature, these
+judgments are subject to an inherent degree of uncertainty. Management's
+judgments are based on historical experience, terms of existing contracts,
+observance of trends in the gaming industry and information available from
+other outside sources. There can be no assurance that actual results will not
+differ from the Company's estimates. To provide an understanding of the
+methodology applied, significant accounting policies and basis of presentation
+are discussed where appropriate in this discussion and analysis and in the
+notes of the consolidated financial statements.
+
+ The carrying values of the Company's assets are reviewed when events or
+changes in circumstances indicate that the carrying amount of an asset may not
+be recoverable. Asset impairment is determined to exist if estimated future
+cash flows, undiscounted and without interest charges, are less than the
+carrying amount. If it is determined that an impairment loss has occurred,
+then an impairment loss is recognized in the statement of operations. The
+
+ 30
+
+ 33
+resulting impairment loss is measured as the amount by which the carrying
+amount of the asset exceeds its fair value, estimated using quoted market
+prices, if available, or other acceptable valuation methodologies, including
+discounted cash flows or comparable sales.
+
+Forward Looking Statements
+
+ This Quarterly Report on Form 10-Q and certain information provided
+periodically in writing and orally by the Company's designated officers and
+agents contain certain statements which constitute "forward-looking
+statements" within the meaning of Section 27A of the Securities Act of 1933,
+as amended and Section 21E of the Securities Exchange Act of 1934, as amended.
+The terms "Company," "we," "our" and "us" refer to President Casinos, Inc.
+The words "expect," "believe," "goal," "plan," "intend," "estimate," and
+similar expressions and variations thereof are intended to specifically
+identify forward-looking statements. Those statements appear in this
+Quarterly Report on Form 10-Q and the documents incorporated herein by
+reference, particularly "Management's Discussion and Analysis of Financial
+Condition and Results of Operations," and include statements regarding the
+intent, belief or current expectations of the Company, its directors or its
+officers with respect to, among other things: (i) our financial prospects;
+(ii) our financing plans and our ability to meet our obligations under our
+debt obligations and obtain satisfactory operating and working capital; (iii)
+our operating and restructuring strategy; and (iv) the effect of competition
+and regulatory developments on our current and expected future revenues. You
+are cautioned that any such forward looking statements are not guarantees of
+future performance and involve risks and uncertainties, and that actual
+results may differ materially from those projected in the forward looking
+statements as a result of various factors. The factors that might cause such
+differences include, among others, the following: (i) continuation of future
+operating and net losses by the Company; (ii) the inability of the Company to
+restructure its debt obligations; (iii) the inability of the Company to obtain
+sufficient cash from its operations and other resources to fund ongoing
+obligations and continue as a going concern; (iv) the ability of the Company
+to develop, prosecute, confirm and consummate one or more plans of
+reorganization with respect to the Chapter 11 case; (v) risks associated with
+third parties proposing and obtaining confirmation of one or more plans of
+reorganization, or seeking and obtaining approval for the appointment of a
+Chapter 11 trustee or converting the cases to Chapter 7 cases; (vi) the
+ability of the Company to obtain trade credit, and shipments and terms with
+vendors and service providers; (vii) the Company's ability to maintain
+contracts that are critical to its operations; (viii) potential adverse
+developments with respect to the Company's liquidity and results of
+operations; (ix) developments or new initiatives by our competitors in the
+markets in which we compete; (x) our stock price; (xi) adverse governmental or
+regulatory changes or actions which could negatively impact our operations;
+and (xii) other factors including those identified in the Company's filings
+made from time-to-time with the Securities and Exchange Commission. The
+Company undertakes no obligation to publicly update or revise forward looking
+statements to reflect events or circumstances after the date of this Quarterly
+Report on Form 10-Q or to reflect the occurrence of unanticipated events.
+
+Item 3. Quantitative and Qualitative Disclosures about Market Risk.
+
+ As of November 30, 2003, the Company had 122.5 million of debt. Of this
+amount 75.0 million bears contractual interest at fixed rates and is
+
+ 31
+
+ 34
+classified as liabilities subject to compromise and 2.1 million bears
+contractual interest at a fixed rate and is classified as liabilities of
+discontinued operations. The remaining 45.4 million bears contractual
+interest at a variable rate. The 45.4 million Broadwater Property note bears
+interest at a stipulated variable rate at the greater of (i) 7.75 or (ii)
+4.0 plus the LIBOR 30-day rate. As of November 30, 2003, the interest rate
+applicable to the debt a carrying variable rate was 7.75 . An increase of one
+percentage point in the average interest rate applicable to the variable rate
+debt outstanding as of November 30, 2003, would increase the Company's annual
+interest costs by approximately 0.4 million. The Company continues to
+monitor interest rate markets, but has not engaged in any hedging transactions
+with respect to such risks.
+
+ Although the Company manages its short-term cash assets to maximize return
+with minimal risk, the Company does not invest in market rate sensitive
+instruments for trading or other purposes and the Company is not exposed to
+foreign currency exchange risks or commodity price risks in its transactions.
+
+Item 4. Controls and Procedures
+
+ (a) Evaluation of Disclosure Controls and Procedures
+
+ The Company carried out an evaluation, under the supervision and with the
+participation of management, including the Chief Executive Officer and the
+Chief Financial Officer, of the effectiveness of the design and operation of
+the Company's disclosure controls and procedures as of the end of the period
+covered by this Quarterly Report pursuant to Rule 13a-15e of the Securities
+Exchange Act of 1934, as amended. Based upon that evaluation, the Chief
+Executive Officer and the Chief Financial Officer concluded that the
+disclosure controls and procedures are effective in timely alerting them to
+material information relating to the Company (including its consolidated
+subsidiaries) required to be included in the Company's periodic filings with
+the Securities and Exchange Commission.
+
+ (b) Changes in Internal Control Over Financial Reporting
+
+ No changes in the Company's internal control over financial reporting have
+come to management's attention during the last fiscal quarter that have
+materially affected, or are reasonably likely to materially affect, the
+Company's internal control over financial reporting.
+
+Part II. Other Information
+
+Item 1. Legal Proceedings
+
+ Information with respect to legal proceedings to which the Company is a
+party is disclosed in Note 8 of Notes to Condensed Consolidated Financial
+Statements included in Part I of this report and is incorporated herein by
+reference.
+
+Item 2. Changes in Securities and Use of Proceeds
+
+ Not applicable.
+
+ 32
+ 35
+Item 3. Defaults Upon Senior Securities
+
+ The Company has 13.0 Senior Exchange Notes and 12.0 Secured Notes. The
+Company did not pay the regularly scheduled interest payments of 6.4 million
+that were each due and payable March 15 and September 15, 2000. Under the
+Indentures pursuant to which the Senior Exchange Notes and Secured Notes were
+issued, an Event of Default occurred on April 15, 2000, and is continuing as
+of the date hereof. Additionally, the Company did not pay the 25.0 million
+principal payment due September 15, 2000 on the Senior Exchange Notes. In
+November 2000, the Company paid (i) 12.8 million interest and (ii) 18.75
+million and 6.25 million principal on the Senior Exchange Notes and Secured
+Notes, respectively. The Company did not make the interest payments due
+September 15, 2001 and March 15, 2002. On June 20, 2002, the Company filed a
+voluntary petition for reorganization under Chapter 11 of the Bankruptcy Code.
+The noteholders of the Senior Exchange Notes and the Secured Notes were deemed
+by management to be undersecured and as a result, interest ceased to accrue as
+of the date of thereof. Total arrearage as of June 20, 2002, was 56.25
+million of principal and 9.3 million of interest on the Senior Exchange Notes
+and 18.75 million of principal and 2.8 million of interest on the Secured
+Notes.
+
+Item 4. Submission of Matters to a Vote of Security Holders
+
+ Not applicable.
+
+Item 5. Other Information
+
+ Not applicable.
+
+Item 6. Exhibits and Reports on Form 8-K
+
+ (a) Exhibits
+
+ See Exhibit Index.
+
+ (b) Reports on Form 8-K
+
+ On September 29, 2003, the Company filed a Current Report on Form
+ 8-K dated September 25, 2003, reporting under Item 5 that the
+ Company entered into a definitive agreement to sell the assets
+ of its St. Louis operations to Isle of Capri Casinos, Inc.
+
+ On October 10, 2003, the Company filed a Current Report on Form
+ 8-K dated October 10, 2003, reporting under Item 9 that the
+ Company issued a press release on October 10, 2003 reporting the
+ Company's financial results for the second quarter ended August
+ 31, 2003.
+
+33
+ 36
+ SIGNATURE
+
+ Pursuant to the requirements of the Securities Exchange Act of 1934, the
+Registrant has duly caused this report to be signed on its behalf by the
+undersigned thereunto duly authorized.
+
+President Casinos, Inc.
+ -----------------------------
+ (Registrant)
+
+Date: January 14, 2004 /s/ Ralph J. Vaclavik
+ -----------------------------
+ Ralph J. Vaclavik
+ Senior Vice President and
+ Chief Financial Officer
+
+ 34
+ 37
+ INDEX TO EXHIBITS
+ -----------------
+EXHIBIT NO.
+
+ 3.1 Restated Articles of Incorporation of the Company. (8)
+ 3.2 By-Laws of the Company, as amended. (4)
+ 4.1 Indenture dated as of August 26, 1994, by and among the Company,
+ the Guarantors and United States Trust Company of New York ("U.S.
+ Trust"). (3)
+ 4.1.1 Form of Senior Exchange Note issued pursuant to Indenture. (2)
+ 4.1.2 Warrant Agreement dated as of September 23, 1993, by and between
+ the Company and U.S. Trust, as Warrant agent. (1)
+ 4.1.3 Warrant Agreement dated as of August 26, 1994, by and between the
+ Company and U.S. Trust. (3)
+ 4.1.4 Subsidiary Stock Pledge and Collateral Assignment Agreement dated
+ as of August 26, 1994, by the Company and Subsidiary Pledgors in
+ favor of U.S. Trust, as collateral agent. (3)
+ 4.2 Rights Agreement, dated as of November 20, 1997, between the
+ Company and ChaseMellon Shareholder Services, LLC. (5)
+ 4.3 Agreement to Exchange Securities, dated December 3, 1998 by and
+ among the Company, President Riverboat Casino-Iowa, Inc.
+ ("President Iowa"), President Riverboat Casino-Missouri, Inc.
+ ("President Missouri"), The President Riverboat Casino-
+ Mississippi, Inc. ("President Mississippi"), Blackhawk, P.R.C.-
+ Louisiana, Inc., President Riverboat Casino-New York, Inc.
+ ("President New York"), President Casino New Yorker, Inc., PRC
+ Holdings Corporation, PRC Management, Inc. ("PRC Management"),
+ PRCX Corporation, President Riverboat Casino-Philadelphia, Inc.
+ ("President Philadelphia"), Vegas Vegas, Inc., and TCG and each
+ holder of the Company's 13 Senior Exchange Notes due 2001. (6)
+ 4.3.1 Indenture dated as of December 3, 1998, among The Company,
+ President Iowa, President Missouri, President Mississippi,
+ Blackhawk, P.R.C.-Louisiana, Inc., President New York, President
+ Casino New Yorker, Inc., PRC Holdings Corporation, PRC
+ Management, PRCX Corporation, President Philadelphia, Vegas
+ Vegas, Inc. and TCG and U.S. Trust Company of Texas, N.A. (6)
+ 4.4.2 President Casinos, Inc. Supplemental Indenture with respect to
+ 25,000,000 12 Notes due September 15, 2001. (7)
+ 4.4.3 President Casinos, Inc. Supplemental Indenture with respect to
+ 75,000,000 13 Senior Notes due September 15, 2001. (7)
+ 10.1 Third Amendment to Agreement for Sale and Purchase of Real and
+ Personal Property, effective October 23, 2003, by and between
+ President Broadwater Hotel, LLC and A. D. Juldan Enterprises,
+ LLC.
+ 31.1 Certification of Chief Executive Officer Pursuant to Rule
+ 13a-14(a)under the Securities Exchange Act of 1934, as amended.
+ 31.2 Certification of Chief Executive Officer Pursuant to Rule
+ 13a-14(a)under the Securities Exchange Act of 1934, as amended.
+ 32.1 Certification of Chief Financial Officer Pursuant to 18 U.S.C.
+ Section 1350, as Adopted Pursuant to Section 906 of the Sarbanes-
+ Oxley Act of 2002.
+ 32.2 Certification of Chief Financial Officer Pursuant to 18 U.S.C.
+ Section 1350, as Adopted Pursuant to Section 906 of the Sarbanes-
+ Oxley Act of 2002.
+
+(1) Incorporated by reference from the Company's Registration Statement on
+
+ 35
+
+ 38
+ Form S-4 (File No. 33-71332) filed November 5, 1993.
+(2) Incorporated by reference from the Company's Registration Statement on
+ Form S-8 dated June 8, 1994.
+(3) Incorporated by reference from the Company's Registration Statement on
+ Form S-4 (File No. 33-86386) filed November 15, 1994.
+(4) Incorporated by reference from the Company's Quarterly Report on Form
+ 10-Q for the quarterly period ended August 31, 1997 filed October 10,
+ 1997.
+(5) Incorporated by reference from the Company's Registration Statement on
+ Form 8-A dated December 5, 1997.
+(6) Incorporated by reference from the Company's Report on Form 8-K
+ dated December 15, 1998.
+(7) Incorporated by reference from the Company's Report on Form 8-K dated
+ November 22, 2000.
+(8) Incorporated by reference from the Company's Registration Statement on
+ Form S-8 dated October 10, 2001.
+
+ 36
+
+<EX-10.1>
+ 3
+ ex10p1.txt
+
+EXHIBIT 10.1
+
+THIRD AMENDMENT TO AGREEMENT FOR SALE AND PURCHASE
+ OF REAL AND PERSONAL PROPERTY
+
+ THIS THIRD AMENDMENT TO AGREEMENT FOR SALE AND PURCHASE OF REAL AND
+PERSONAL PROPERTY (hereinafter referred to as the "Amendment"),
+effective October 23, 2003 (hereinafter referred to as the "Effective
+Date"), is by and between PRESIDENT BROADWATER HOTEL, L.L.C., a
+Mississippi limited liability company, successor to BH Acquisition
+Corporation (hereinafter referred to as "Seller"), and A. D. JULDAN
+ENTERPRISES, LLC, a Mississippi limited liability company (hereinafter
+referred to as "Purchaser").
+
+ WHEREAS, Seller and Purchaser entered into that certain Agreement for
+Sale and Purchase of Real and Personal Property, dated June 2, 2003, and
+amended by that certain Amendment to Agreement for Sale and Purchase of
+Real Estate and Personal Property, dated August 29, 2003, and last
+revised September 5, 2003, and amended by that certain Second Amendment
+to Agreement for Sale and Purchase of Real Estate and Personal Property,
+effective as of September 5, 2003 (such agreement and amendments
+hereinafter collectively referred to as the "Agreement").
+
+ WHEREAS, Seller and Purchase desire to amend the Agreement.
+
+ NOW, THEREFORE, in consideration of the foregoing premises, and other
+valuable consideration, the receipt and sufficiency of which is
+acknowledged, Seller and Purchaser agree as follows:
+
+ 1. Notwithstanding anything in the Agreement to the contrary,
+Purchaser's Deposits, and accrued interest thereon, if any, held by
+Escrow Agent, as provided in Section 2.2(a) and (b) of the Agreement,
+shall be irrevocable and immediately released by Escrow Agent to Seller
+and shall not be applied to the Purchase Price. The Purchase Price
+shall not be reduced by any payment made to Seller as provided herein.
+
+ 2. Notwithstanding anything in the Agreement to the contrary, upon
+execution of the Amendment, Purchaser shall deliver the sum of
+Twenty-Five Thousand Dollars 25,000) to Seller at the following
+address: President Broadwater Hotel, L.L.C., 2110 Beach Boulevard,
+Biloxi, Mississippi 39531, Attn: Craig Adams. On or before each of the
+following dates, December 1, 2003, January 1, 2004, and February 1,
+2004, Purchaser shall deliver the sum (individually and collectively,
+the "Initial Extension Fees") of Twenty-Five Thousand Dollars 25,000)
+to Seller at the address provided herein, to amount to a total of
+ 100,000 in payments provided herein, no matter when Closing occurs.
+The payments provided herein shall be irrevocable and shall not be
+applied to the Purchaser Price. The Purchase Price shall not be reduced
+by any payment made to Seller as provided herein.
+
+ 3. The Purchaser Price, as provided in Section 2.1 of the Agreement,
+shall be increased to Thirteen Million One Hundred Thousand Dollars 13,100,000).
+
+ 4. Section 6.1 of the Agreement is hereby deleted in its entirety and
+replaced with the following:
+
+ 6.1 Except as otherwise provided in this Section 6.1, the
+consummation of 40
+the transactions described in this Agreement (the "Closing") shall occur
+on or before February 27, 2004 (the "Closing Date"), and the closing
+shall be held at the offices of Allen, Vaughn, Cobb & Hood, P.A. (the
+"Closing Attorney") in Gulfport, Mississippi. TIME IS OF THE ESSENCE IN
+REGARD TO THE PERFORMANCE BY PURCHASER AND SELLER OF ALL OF THE
+PROVISIONS OF THIS AGREEMENT. Purchaser may extend the Closing Date
+(the "Extension Period") up to two additional months upon delivery to
+Seller of the additional sum (individually or collectively, the
+"Additional Extension Fees") of Twenty-Five Thousand Dollars 25,000)
+per month. Any and all Additional Extension Fees shall be irrevocable
+and shall not be applied to the Purchase Price upon Closing. The
+Purchase Price shall not be reduced by any payment made to Seller as
+provided herein.
+
+ 5. Notwithstanding anything in the Agreement to the contrary, Seller
+shall have the right to exclusive possession of the Project (the
+"Possession Period") until April 19, 2004. If such Possession Period
+extends beyond Closing, Seller shall pay to Purchaser One Dollar 1.00)
+at Closing, and Seller shall not be liable to Purchaser for any other
+payments or fees associated with Seller's possession of the Project
+during the Possession Period.
+
+ 6. Notwithstanding anything in the Agreement to the contrary, the
+Project conveyed in this Agreement shall include twelve (12) existing
+golf carts in their current condition and shall not include the
+following tangible personal property used in connection with the golf
+course: pro shop inventory, golf course grounds equipment, any and all
+remaining golf carts and other golf equipment.
+
+ 7. This Amendment shall be subject to the approval of the holder of
+the first deed of trust encumbering the Property and subject to the
+Purchaser filing its appeal of the decision of the Biloxi City Council's
+vote upon the application for rezoning of the Property. Purchaser shall
+promptly deliver reasonable written evidence to Seller of such filing.
+
+ 8. Section 9.1 of the Agreement is hereby deleted in its entirety and
+replaced with the following:
+
+ 9.1 If Purchaser (a) fails to purchase the Project by the Closing
+Date, as such Closing Date may be adjusted as provided in Section 6.1 of
+this Agreement, for reasons other than Purchaser's inability to obtain a
+zoning change or variance necessary to convert the Property from a golf
+course to commercial retail and dense residential site, including the
+filling in of a manmade pond, or (b) fails to perform any other
+obligation provided in this Agreement, as the same may be amended from
+time to time, then Seller shall have the right to (i) terminate this
+Agreement by giving Purchaser written notice thereof and no party to
+this Agreement shall have any further claim, agreement, or obligation to
+any other party to this Agreement, and any lien of Purchaser against the
+Project shall automatically cease, terminate and be released or (ii)
+pursue any other remedies available to it at law or in equity,
+including, without limitation, specific performance.
+
+ 9. Except as otherwise modified herein, the terms and conditions of
+the Agreement, as amended, shall remain in full force and effect and are
+hereby reaffirmed by the parties.
+
+ 10. This Amendment may be executed in any number of counterparts,
+which,
+
+ 2
+
+taken together, shall constitute one and the same instrument, and may be
+executed by facsimile transmission, provided that an original promptly
+follows any such facsimile.
+
+ IN WITNESS WHEREOF, the Seller and Purchaser have caused this Third
+Amendment to the Agreement for Sale and Purchase of Real and Personal
+Property to be executed by its proper officers this 24 day of October,
+2003, but effective as of October 23, 2003.
+
+SELLER:
+
+PRESIDENT BROADWATER HOTEL, L.L.C.
+
+By: /s/ Ralph J. Vaclavik
+ ---------------------------
+Printed Name: Ralph J. Vaclavik
+
+Title: Senior Vice President
+ Chief financial Officer
+
+PURCHASER:
+
+A. D. JULDAN ENTERPRISES, LLC
+
+By: /s/ Daniel Chang
+ ------------------------
+Printed Name: Daniel Chang
+
+Title: Member for A.D. Juldan
+
+</EX-10.1>
+
+<EX-31.1>
+ 4
+ ex31p1.txt
+
+EXHIBIT 31.1
+ CERTIFICATION
+
+ I, John E. Connelly, certify that:
+
+ 1. I have reviewed this quarterly report on Form 10-Q of
+President Casinos, Inc.;
+
+ 2. Based on my knowledge, this report does not contain any untrue
+statement of a material fact or omit to state a material fact necessary
+to make the statements made, in light of the circumstances under which
+such statements were made, not misleading with respect to the period
+covered by this report;
+
+ 3. Based on my knowledge, the financial statements, and other
+financial information included in this report, fairly present in all
+material respects the financial condition, results of operations and
+cash flows of the registrant as of, and for, the periods presented in
+this report;
+
+ 4. The registrant's other certifying officers and I are
+responsible for establishing and maintaining disclosure controls and
+procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e))
+for the registrant and have:
+
+ (a) Designed such disclosure controls and procedures, or caused
+such disclosure controls and procedures to be designed under our
+supervision, to ensure that material information relating to the
+registrant, including its consolidated subsidiaries, is made known to us
+by others within those entities, particularly during the period in which
+this quarterly report is being prepared;
+
+ (b) Evaluated the effectiveness of the registrant's disclosure
+controls and procedures and presented in this report our conclusions
+about the effectiveness of the disclosure controls and procedures, as of
+the end of the period covered by this quarterly report based on such
+evaluation; and
+
+ (c) Disclosed in this report any change in the registrant's
+internal control over financial reporting that occurred during the
+registrant's most recent fiscal quarter (that registrant's forth fiscal
+quarter in the case of an annual report) that has materially affected,
+or is reasonably likely to materially affect, the registrant's internal
+control over financial reporting; and
+
+ 5. The registrant's other certifying officers and I have
+disclosed, based on our most recent evaluation of internal control over
+financial reporting, to the registrant's auditors and the audit
+committee of the registrant's board of directors (or persons performing
+the equivalent
+functions):
+
+ (a) All significant deficiencies and material weaknesses in the
+design or operation of internal control over financial reporting which
+are reasonably likely to adversely affect the registrant's ability to
+record, process, summarize and report financial information; and
+
+ (b) Any fraud, whether or not material, that involves management
+or other employees who have a significant role in the registrant's
+internal control over financial reporting.
+
+Date: January 14, 2004
+
+By: /s/ John E. Connelly
+ -----------------------
+ John E. Connelly
+ Chief Executive Officer
+
+</EX-31.1>
+
+<EX-31.2>
+ 5
+ ex31p2.txt
+
+EXHIBIT 31.2
+ CERTIFICATION
+
+ I, Ralph J. Vaclavik, certify that:
+
+ 1. I have reviewed this quarterly report on Form 10-Q of
+President Casinos, Inc.;
+
+ 2. Based on my knowledge, this report does not contain any untrue
+statement of a material fact or omit to state a material fact necessary
+to make the statements made, in light of the circumstances under which
+such statements were made, not misleading with respect to the period
+covered by this report;
+
+ 3. Based on my knowledge, the financial statements, and other
+financial information included in this report, fairly present in all
+material respects the financial condition, results of operations and
+cash flows of the registrant as of, and for, the periods presented in
+this report;
+
+ 4. The registrant's other certifying officers and I are
+responsible for establishing and maintaining disclosure controls and
+procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e))
+for the registrant and have:
+
+ (a) Designed such disclosure controls and procedures, or caused
+such disclosure controls and procedures to be designed under our
+supervision, to ensure that material information relating to the
+registrant, including its consolidated subsidiaries, is made known to us
+by others within those entities, particularly during the period in which
+this quarterly report is being prepared;
+
+ (b) Evaluated the effectiveness of the registrant's disclosure
+controls and procedures and presented in this report our conclusions
+about the effectiveness of the disclosure controls and procedures, as of
+the end of the period covered by this quarterly report based on such
+evaluation; and
+
+ (c) Disclosed in this report any change in the registrant's
+internal control over financial reporting that occurred during the
+registrant's most recent fiscal quarter (that registrant's forth fiscal
+quarter in the case of an annual report) that has materially affected,
+or is reasonably likely to materially affect, the registrant's internal
+control over financial reporting; and
+
+ 5. The registrant's other certifying officer and I have
+disclosed, based on our most recent evaluation of internal control over
+financial reporting, to the registrant's auditors and the audit
+committee of the registrant's board of directors (or persons performing
+the equivalent
+functions):
+
+ (a) All significant deficiencies and material weaknesses in the
+design or operation of internal control over financial reporting which
+are reasonably likely to adversely affect the registrant's ability to
+record, process, summarize and report financial information; and
+
+ (b) Any fraud, whether or not material, that involves management
+or other employees who have a significant role in the registrant's
+internal control over financial reporting.
+
+Date: January 14, 2004
+
+By: /s/ Ralph J. Vaclavik
+ ----------------------------
+
+ Ralph J. Vaclavik
+ Senior Vice President and
+ Chief Financial Officer
+
+</EX-31.2>
+
+<EX-32.1>
+ 6
+ ex32p1.txt
+
+Exhibit 32.1
+
+ CERTIFICATION PURSUANT TO
+ 18 U.S.C. SECTION 1350,
+ AS ADOPTED PURSUANT TO
+ SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002
+
+In connection with the Quarterly Report of President Casinos, Inc. (the
+"Company") on Form 10-Q for the period ending November 30, 2003 as filed
+with the Securities and Exchange Commission on the date hereof (the
+"Report"), I, John E. Connelly, Chief Executive Officer of the Company,
+certify, pursuant to 18 U.S.C. Section 1350, as adopted pursuant to
+Section 906 of the Sarbanes-Oxley Act of 2002, that:
+
+ (1) The Report fully complies with the requirements of Section
+ 13(a) or 15(d) of the Securities Exchange Act of 1934; and
+
+ (2) The information contained in the Report fairly presents, in all
+ material respects, the financial condition and results of
+ operations of the Company.
+
+Date: January 14, 2004 /s/ John E. Connelly
+ ---------------------------
+ John E. Connelly
+ Chief Executive Officer of
+ President Casinos, Inc.
+
+</EX-32.1>
+
+<EX-32.2>
+ 7
+ ex32p2.txt
+
+Exhibit 32.2
+
+ CERTIFICATION PURSUANT TO
+ 18 U.S.C. SECTION 1350,
+ AS ADOPTED PURSUANT TO
+ SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002
+
+In connection with the Quarterly Report of President Casinos, Inc. (the
+"Company") on Form 10-Q for the period ending November 30, 2003 as filed
+with the Securities and Exchange Commission on the date hereof (the
+"Report"), I, Ralph J. Vaclavik, Senior Vice President and Chief
+Financial Officer of the Company, certify, pursuant to 18 U.S.C. Section
+1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of
+2002, that:
+
+ (1) The Report fully complies with the requirements of Section
+ 13(a) or 15(d) of the Securities Exchange Act of 1934; and
+
+ (2) The information contained in the Report fairly presents, in all
+ material respects, the financial condition and results of
+ operations of the Company.
+
+Date: January 14, 2004 /s/ Ralph J. Vaclavik
+ ----------------------------
+ Ralph J. Vaclavik
+ Senior Vice President and
+ Chief Financial Officer of
+ President Casinos, Inc.
+
+</EX-32.2>
+

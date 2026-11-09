@@ -1,0 +1,3576 @@
+<Header>
+<FileStats>
+    <FileName>20040127_10-K_edgar_data_1029800_0001029800-04-000005.txt</FileName>
+    <GrossFileSize>221458</GrossFileSize>
+    <NetFileSize>162459</NetFileSize>
+    <NonText_DocumentType_Chars>0</NonText_DocumentType_Chars>
+    <HTML_Chars>1439</HTML_Chars>
+    <XBRL_Chars>0</XBRL_Chars>
+    <XML_Chars>0</XML_Chars>
+    <N_Exhibits>6</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0001029800-04-000005.hdr.sgml : 20040127
+<ACCEPTANCE-DATETIME>20040127172008
+ACCESSION NUMBER:		0001029800-04-000005
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		7
+CONFORMED PERIOD OF REPORT:	20031031
+FILED AS OF DATE:		20040127
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			URSTADT BIDDLE PROPERTIES INC
+		CENTRAL INDEX KEY:			0001029800
+		STANDARD INDUSTRIAL CLASSIFICATION:	REAL ESTATE INVESTMENT TRUSTS [6798]
+		IRS NUMBER:				042458042
+		STATE OF INCORPORATION:			MD
+		FISCAL YEAR END:			1031
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-12803
+		FILM NUMBER:		04547166
+
+	BUSINESS ADDRESS:	
+		STREET 1:		C/O HRE PROPERTIES INC
+		STREET 2:		321 RAILROAD AVENUE
+		CITY:			GREENWICH
+		STATE:			CT
+		ZIP:			06830
+		BUSINESS PHONE:		2038638200
+
+	MAIL ADDRESS:	
+		STREET 1:		321 RAILROAD AVENUE
+		CITY:			GREENWICH
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	HRE PROPERTIES INC
+		DATE OF NAME CHANGE:	19961230
+
+</SEC-Header>
+</Header>
+
+ 
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ PU6VZxzm7zqu8d0M/A6+8yNjCXb0sn2yzvQyEhulREYphdUPZQ3coURZMfacb93f
+ GbHC8usAZ4B5KiyM0oz+SA==
+
+ 0001029800-04-000005.txt : 20040127
+
+10-K
+ 1
+ oct200310k.txt
+
+UNITED STATES
+ SECURITIES AND EXCHANGE COMMISSION
+ Washington, D.C. 20549
+ FORM 10-K
+
+ X ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE
+ SECURITIES EXCHANGE ACT OF 1934 For the fiscal year
+ ended October 31, 2003
+ TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d)
+ OF THE SECURITIES EXCHANGE ACT OF 1934
+
+ For the transition period from _____ to _____
+
+ Commission File No. 1-12803
+ URSTADT BIDDLE PROPERTIES INC.
+ (Exact name of registrant as specified in its charter)
+ MARYLAND 04-2458042
+ -------- -------------
+ (State of Incorporation) (I.R.S. Employer
+ Identification No.)
+ 321 RAILROAD AVENUE
+ GREENWICH, CONNECTICUT 06830
+ ---------------------- ---------------
+ (Address of Principal Executive Offices) (Zip code)
+ Registrant's telephone number, including area code: (203) 863-8200
+
+Securities registered pursuant to Section 12(b) of the Act:
+ Name of each exchange
+Title of each class on which registered
+
+Common Stock, par value .01 per share New York Stock Exchange
+
+Class A Common Stock, par value .01 per share New York Stock Exchange
+
+8.50 Series C Senior Cumulative Preferred Stock New York Stock Exchange
+
+Preferred Share Purchase Rights New York Stock Exchange
+
+Securities registered pursuant to Section 12 (g) of the Act: None
+
+ Indicate by check mark whether the Registrant (1) has filed all reports
+required to be filed by Section 13 or 15(d) of the Securities Exchange Act of
+1934 during the preceding 12 months (or for such shorter period that the
+registrant was required to file such reports), and (2) has been subject to such
+filing requirements for the past 90 days.
+ Yes x No
+ Indicate by check mark if disclosure of delinquent filers pursuant to Item
+405 of Regulation S-K is not contained herein, and will not be contained, to the
+best of the Registrant's knowledge, in definitive proxy or information
+statements incorporated by reference in Part III of this Form 10-K or any
+amendment to this Form 10-K. x
+
+ Indicate by check mark whether the registrant is an accelerated filer (as
+defined in Rule 12b-2 of the Act).
+ Yes x No
+
+ The aggregate market value of the voting stock held by non-affiliates of
+the Registrant as of April 30, 2003: Common Shares, par value .01 per share
+ 42,656,295; Class A Common Shares, par value .01 per share 215,921,188.
+
+ Indicate the number of shares outstanding of each of the Registrant's
+classes of Common Stock and Class A Common Stock, as of January 9, 2004 (latest
+date practicable): 6,993,271 Common Shares, par value .01 per share, and
+18,607,078 Class A Common Shares, par value .01 per share.
+
+ DOCUMENTS INCORPORATED BY REFERENCE
+
+ Proxy Statement for Annual Meeting of Stockholders to be held on March 10,
+2004 (certain parts as indicated herein) (Part III).
+
+1
+
+TABLE OF CONTENTS
+
+ Form 10-K
+Item No. Report Page
+
+ PART I
+
+1. Business 3
+
+2. Properties 7
+
+3. Legal Proceedings 10
+
+4. Submission of Matters to a Vote of Security Holders 10
+
+PART II
+
+5. Market for the Registrant's Common Equity and Related
+ Shareholder Matters 11
+
+6. Selected Financial Data 13
+
+7. Management's Discussion and Analysis of
+ Financial Condition and Results of Operations 14
+
+7A. Quantitative and Qualitative Disclosures about Market Risk 20
+
+8. Financial Statements and Supplementary Data 21
+
+9. Changes in and Disagreements with Accountants
+ on Accounting and Financial Disclosure 21
+
+9A. Controls and Procedures 21
+
+ PART III
+
+10. Directors and Executive Officers of the Registrant 22
+
+11. Executive Compensation 22
+
+12. Security Ownership of Certain Beneficial Owners and Management 22
+
+13. Certain Relationships and Related Transactions 22
+
+14. Principal Accountant Fees and Services 22
+
+ PART IV
+
+15. Exhibits, Financial Statements, Schedules and
+ Reports on Form 8-K 23
+
+Signatures
+
+2
+ 
+ PART I
+Forward-Looking Statements
+
+This Annual Report on Form 10-K, together with other statements and information
+publicly disseminated by Urstadt Biddle Properties Inc. (the "Company"),
+contains certain forward-looking statements within the meaning of Section 27A of
+the Securities Act of 1933 and Section 21E of the Securities Exchange Act of
+1934. Such statements are based on assumptions and expectations which may not be
+realized and are inherently subject to risks, uncertainties and other factors,
+many of which cannot be predicted with accuracy and some of which might not even
+be anticipated. Future events and actual results, performance or achievements,
+financial and otherwise, may differ materially from the results, performance or
+achievements expressed or implied by the forward-looking statements. Risk,
+uncertainties and other factors that might cause such differences, some of which
+could be material, include, but are not limited to economic and other market
+conditions; financing risks, such as the inability to obtain debt or equity
+financing on favorable terms; the level and volatility of interest rates;
+financial stability of tenants; the inability of the Company's properties to
+generate revenue increases to offset expense increases; governmental approvals,
+actions and initiatives; environmental/safety requirements; risks of real estate
+acquisitions (including the failure of acquisitions to close); risks of
+disposition strategies; as well as other risks identified in this Annual Report
+on Form 10-K and in the other reports filed by the Company with the Securities
+and Exchange Commission (the "SEC") or otherwise publicly disseminated by the
+Company.
+
+Item 1. Business.
+
+Organization
+
+Urstadt Biddle Properties Inc., a Maryland Corporation (the "Company"), is a
+real estate investment trust engaged in the acquisition, ownership and
+management of commercial real estate. The Company was organized as an
+unincorporated business trust (the "Trust") under the laws of the Commonwealth
+of Massachusetts on July 7, 1969. In 1997, the shareholders of the Trust
+approved a plan of reorganization of the Trust from a Massachusetts business
+trust to a corporation organized in Maryland. The plan of reorganization was
+affected by means of a merger of the Trust into the Company. As a result of the
+plan of reorganization, the Trust was merged with and into the Company, the
+separate existence of the Trust ceased, the Company was the surviving entity in
+the merger and each issued and outstanding common share of beneficial interest
+of the Trust was converted into one share of Common Stock, par value .01 per
+share, of the Company.
+
+Tax Status - Qualification as a Real Estate Investment Trust
+
+The Company elected to be taxed as a real estate investment trust ("REIT") under
+Sections 856-860 of the Internal Revenue Code of 1986, as amended (the "Code")
+beginning with its taxable year ended October 31, 1970. Pursuant to such
+provisions of the Code, a REIT which distributes at least 90 of its real estate
+investment trust taxable income to its shareholders each year and which meets
+certain other conditions regarding the nature of its income and assets will not
+be taxed on that portion of its taxable income which is distributed to its
+shareholders. Although the Company believes that it qualifies as a real estate
+investment trust for federal income tax purposes no assurance can be given that
+the Company will continue to qualify as a REIT.
+
+Description of Business
+
+The Company's sole business is the ownership of real estate investments, which
+consist principally of investments in income-producing properties, with primary
+emphasis on properties in the northeastern part of the United States with a
+concentration in Fairfield County, Connecticut and Westchester and Putnam
+Counties, New York. The Company's core properties consist principally of
+neighborhood and community shopping centers. The remaining properties include
+office and retail buildings and industrial properties. The Company seeks to
+identify desirable properties for acquisition, which it acquires in the normal
+course of business. In addition, the Company regularly reviews its portfolio and
+from time to time may sell certain of its properties.
+
+The Company intends to continue to invest substantially all of its assets in
+income-producing real estate, with an emphasis on neighborhood and community
+shopping centers, although the Company will retain the flexibility to invest in
+other types of real property. While the Company is not limited to any
+geographical location, the Company's current strategy is to invest primarily in
+properties located in the northeastern region of the United States with a
+concentration in Fairfield County, Connecticut and Westchester and Putnam
+Counties, New York.
+
+ 3
+
+At October 31, 2003, the Company owned or had an equity interest in thirty
+properties comprised of neighborhood and community shopping centers, office and
+retail buildings and service and distribution facilities located in nine states
+throughout the United States, containing a total of 3.4 million square feet of
+gross leasable area ("GLA"). For a description of the Company's individual
+investments, see Item 2.
+
+Investment and Operating Strategy
+
+The Company's investment objective is to increase the cash flow and consequently
+the value of its properties. The Company seeks growth through (i) the strategic
+re-tenanting, renovation and expansion of its existing properties, and (ii) the
+selective acquisition of income-producing properties, primarily neighborhood and
+community shopping centers, in its targeted geographic region. The Company may
+also invest in other types of real estate in the targeted geographic region.
+
+The Company invests in properties where cost effective renovation and expansion
+programs, combined with effective leasing and operating strategies, can improve
+the properties' values and economic returns. Retail properties are typically
+adaptable for varied tenant layouts and can be reconfigured to accommodate new
+tenants or the changing space needs of existing tenants. In determining whether
+to proceed with a renovation or expansion, the Company considers both the cost
+of such expansion or renovation and the increase in rent attributable to such
+expansion or renovation. The Company believes that certain of its properties
+provide opportunities for future renovation and expansion.
+
+When evaluating potential acquisitions, the Company will consider such factors
+as (i) economic, demographic, and regulatory conditions in the property's local
+and regional market; (ii) the location, construction quality, and design of the
+property; (iii) the current and projected cash flow of the property and the
+potential to increase cash flow; (iv) the potential for capital appreciation of
+the property; (v) the terms of tenant leases, including the relationship between
+the property's current rents and market rents and the ability to increase rents
+upon lease rollover; (vi) the occupancy and demand by tenants for properties of
+a similar type in the market area; (vii) the potential to complete a strategic
+renovation, expansion or re-tenanting of the property; (viii) the property's
+current expense structure and the potential to increase operating margins; and
+(ix) competition from comparable properties in the market area.
+
+The Company may from time to time enter into arrangements for the acquisition of
+properties with unaffiliated property owners through the issuance of units of
+limited partnership interests in entities that the Company controls. These units
+may be redeemable for cash or for shares of the Company's Common stock or Class
+A Common stock. The Company believes that this acquisition method may permit the
+Company to acquire properties at attractive prices from property owners wishing
+to enter into tax-deferred transactions.
+
+Core Properties
+
+The Company considers those properties, which are directly managed by the
+Company, concentrated in the retail sector and located close to the Company's
+headquarters in Fairfield County, Connecticut, to be core properties. Of the
+thirty properties in the Company's portfolio, twenty-six properties are
+considered core properties consisting of twenty-one retail properties and five
+office buildings (including the Company's executive headquarters). At October
+31, 2003, these properties contained in the aggregate 2.7 million square feet of
+gross leaseable area ("GLA"). The Company's core properties collectively had 449
+tenants providing a wide range of products and services. Tenants include
+regional supermarkets, national and regional discount department stores, other
+local retailers and office tenants. At October 31, 2003, the core properties
+were 97 leased.
+
+Three of the core properties in the Company's portfolio are owned by
+partnerships in which the Company is the sole general partner.
+
+A substantial portion of the Company's operating lease income is derived from
+tenants under leases with terms greater than one year. Certain of the leases
+provide for the payment of fixed base rentals monthly in advance and for the
+payment of a pro-rata share of the real estate taxes, insurance, utilities and
+common area maintenance expenses incurred in operating the properties.
+
+ 4
+
+Non-Core Properties
+
+In a prior year, the Board of Directors of the Company expanded and refined the
+strategic objectives of the Company to concentrate the real estate portfolio
+into one of primarily retail properties located in the Northeast and authorized
+a plan to sell the Company's non-core properties in the normal course of
+business over a period of several years given prevailing market conditions and
+the characteristics of each property.
+
+Through this strategy, the Company seeks to update its core property portfolio
+by disposing of properties which have limited growth potential and redeploying
+capital into properties in its target geographic region and product type where
+the Company's management skills may enhance property values. The Company may
+engage from time to time in like-kind property exchanges, which allow the
+Company to dispose of properties and redeploy proceeds in a tax efficient
+manner.
+
+At October 31, 2003, the Company's non-core properties consisted of one office
+building containing 202,000 square feet of GLA, one retail property totaling
+126,000 square feet and two industrial facilities with a total of 447,000 square
+feet of GLA. The non-core properties collectively had 6 tenants and were 92 
+leased at October 31, 2003.
+
+The office property consists of two tenants which offer engineering services.
+
+The retail property, located in Tempe, Arizona, is leased to two tenants under
+long-term leases. The leases obligate these tenants to pay all taxes, insurance,
+maintenance and other operating costs on their portion of the property leased
+during the term of the lease.
+
+The two industrial facilities are 100 occupied and consist of automobile and
+truck parts distribution warehouses. The facilities are net leased to
+DaimlerChrysler Corporation under long-term lease arrangements whereby the
+tenant pays all taxes, insurance, maintenance and other operating costs of the
+property during the term of the lease.
+
+At October 31, 2003, the Company also holds two fixed rate mortgage notes with a
+total book value of 2,184,000. The mortgages are secured by retail properties
+that were previously owned and sold by the Company.
+
+Financing Strategy
+
+The Company intends to finance future acquisitions with the most advantageous
+sources of capital which it believes are available to the Company at the time,
+and which may include the sale of common equity through public offerings or
+private placements, the incurrence of additional indebtedness through secured or
+unsecured borrowings, and the reinvestment of proceeds from the disposition of
+assets. The Company's financing strategy is to maintain a strong and flexible
+financial position by (i) maintaining a prudent level of leverage, and (ii)
+minimizing its exposure to interest rate risk represented by floating rate debt.
+
+Matters Relating to the Real Estate Business
+
+The Company is subject to certain business risks arising in connection with
+owning real estate which include, among others, (1) the bankruptcy or insolvency
+of, or a downturn in the business of, any of its major tenants, (2) the
+possibility that such tenants will not renew their leases as they expire, (3)
+vacated anchor space affecting the entire shopping center because of the loss of
+the departed anchor tenant's customer drawing power, (4) risks relating to
+leverage, including uncertainty that the Company will be able to refinance its
+indebtedness, and the risk of higher interest rates, (5) potential liability for
+unknown or future environmental matters, and (6) the risk of uninsured losses.
+Unfavorable economic conditions could also result in the inability of tenants in
+certain retail sectors to meet their lease obligations and otherwise could
+adversely affect the Company's ability to attract and retain desirable tenants.
+The Company believes that its shopping centers are relatively well positioned to
+withstand adverse economic conditions since they typically are anchored by
+grocery stores, drug stores and discount department stores that offer day-to-day
+necessities rather than luxury goods.
+
+Compliance with Governmental Regulations
+
+The Company, like others in the commercial real estate industry, is subject to
+numerous environmental laws and regulations. Although potential liability could
+exist for unknown or future environmental matters, the Company believes that its
+tenants are operating in accordance with current laws and regulations and has
+established procedures to monitor these operations.
+
+ 5
+
+Competition
+
+The real estate investment business is highly competitive. The Company competes
+for real estate investments with investors of all types, including domestic and
+foreign corporations, financial institutions, other real estate investment
+trusts and individuals. In addition, the Company's properties are subject to
+local competitors from the surrounding areas. The Company does not consider its
+real estate business to be seasonal in nature. The Company's shopping centers
+compete for tenants with other regional, community or neighborhood shopping
+centers in the respective areas where Company retail properties are located. The
+Company's office buildings compete for tenants principally with office buildings
+throughout the respective areas in which they are located. In most areas where
+the Company's office buildings are located, competition for tenants is intense.
+Leasing space to prospective tenants is generally determined on the basis of,
+among other things, rental rates, location, and physical quality of the property
+and availability of space.
+
+Since the Company's industrial properties are net leased under long-term lease
+arrangements that are not due to expire in the near future, the Company does not
+currently face any immediate competitive re-leasing pressures with respect to
+such properties.
+
+Property Management
+
+The Company actively manages and supervises the operations and leasing at all of
+its core properties. Three of the Company's non-core properties are net leased
+to tenants under long-term lease arrangements, in which case, property
+management is provided by the tenants. An independent property management
+company manages the Company's remaining property. The Company supervises the
+property management company that manages the property.
+
+Employees
+
+The Company's executive offices are located at 321 Railroad Avenue, Greenwich,
+Connecticut. It occupies approximately 5,000 square feet in a two-story office
+building owned by the Company. The Company has 26 employees. The Company
+believes that its relationship with its employees is good.
+
+Financial Information About Industry Segments
+
+The Company operates in one industry segment, ownership of commercial real
+estate properties, which are located principally in the northeastern United
+States. Management reviews operating and financial data for each property
+separately and independently from all other properties when making resource
+allocation decisions and measuring performance.
+
+6
+ 
+Item 2. Properties.
+
+Core Properties
+
+The Company considers those properties that are directly managed by the Company,
+concentrated in the retail sector and located close to the Company's
+headquarters in Fairfield County, Connecticut, to be core properties. Of the
+thirty properties in the Company's portfolio, twenty-six properties are
+considered core properties consisting of twenty-one retail properties and five
+office buildings (including the Company's executive headquarters). At October
+31, 2003, these properties contained in the aggregate 2.7 million square feet of
+gross leaseable area ("GLA"). The Company's core properties collectively had 449
+tenants providing a wide range of products and services. Tenants include
+regional supermarkets, national and regional discount department stores, other
+local retailers and office tenants. At October 31, 2003, the core properties
+were 97 leased. The Company believes the core properties are adequately covered
+by insurance.
+
+The Company's single largest real estate investment is its 90 interest in the
+Ridgeway Shopping Center ("Ridgeway"). Ridgeway is located in Stamford,
+Connecticut and was developed in the 1950's and redeveloped in the mid 1990's.
+The property contains 360,000 square feet of leasable space. It is the dominant
+grocery anchored center and the largest non-mall shopping center located in the
+City of Stamford, Fairfield County, Connecticut. For the year ended October 31,
+2003, Ridgeway revenues represented approximately 16.4 of the Company's total
+revenues and approximately 23.1 of the Company's total assets at October 31,
+2003. The loss of this center or a material decrease in revenues from the center
+for any reason might have a material adverse effect on the Company.
+
+As of October 31, 2003, Ridgeway was 89 leased. The property's largest tenants
+are: The Stop & Shop Company (a division of Ahold), occupying 60,000 square feet
+of space of the property, and Bed, Bath and Beyond, a retailer occupying 47,000
+square feet of space. Other than The Stop & Shop Company (22 ), Bed Bath &
+Beyond (16 and Marshall's Inc, a division of the TJX Companies (11 ), no
+tenant accounts for more than 10 of Ridgeway's annual base rents.
+
+The following table sets out a schedule of the annual lease expirations for
+retail leases at Ridgeway as of October 31, 2003 for each of the next ten years
+and thereafter (assuming that no tenants exercise renewal or cancellation
+options and that there are no tenant bankruptcies or other tenant defaults):
+
+Year of Lease Number of Square Footage of Minimum Annual Percentage of
+Expiration Expiring Leases Expiring Leases Base Rentals Base Rent )
+- ---------- --------------- --------------- ------------- -------------
+ 
+2004 -- -- -- --
+2005 1 2,375 120,000 1.5 
+2006 2 4,642 146,000 1.8 
+2007 4 9,400 333,000 4.1 
+2008 12 70,216 1,872,000 23.1 
+2009 2 2,209 103,000 1.3 
+2010 4 42,240 647,000 8.0 
+2011 1 3,040 99,000 1.2 
+2012 4 21,567 654,000 8.1 
+2013 3 60,676 1,491,000 18.4 
+Thereafter 2 105,810 2,629,000 32.5 
+ -- -------- ---------- --------
+ 35 322,175 8,094,000 100.0 
+ == ======= ========== ========
+
+7
+ 
+The following table sets forth information concerning each core property at
+October 31, 2003. Except as otherwise noted, all core properties are 100 owned
+by the Company.
+
+Gross
+ Year Year Year Leasable Number of
+Location Renovated Completed Acquired Square Feet Acres Tenants Leased Principal Tenant
+- -------- --------- --------- -------- ----------- ----- --------- ------ ----------------
+ 
+Retail Properties:
+Stamford, CT (1) 1997 1950 2002 360,000 13.6 35 89 Stop & Shop Supermarket
+Springfield, MA 1996 1970 1970 323,000 26.0 30 97 Big Y
+Meriden, CT 2001 1989 1993 313,000 29.2 26 100 Shop Rite Supermarket
+Danbury, CT - 1989 1995 194,000 19.3 20 98 Christmas Tree Shops
+White Plains, NY 1994 1958 2003 185,000 3.5 9 100 Toys "R" Us
+
+Briarcliff Manor, NY (1) 2000 1978 1998 161,000 11.4 31 99 Stop & Shop Supermarket
+Somers, NY - 2002 2003 135,000 26.0 25 95 Home Goods
+
+Carmel, NY 1999 1983 1995 126,000 19.0 17 99 Shop Rite Supermarket
+Wayne, NJ 1992 1959 1992 102,000 9.0 45 99 A&P Supermarket
+Newington, NH 1994 1975 1979 102,000 14.3 8 97 Linens `N Things
+Darien, CT 1992 1955 1998 95,000 9.5 20 100 Shaw's Supermarket
+Somers, NY - 1991 1999 78,000 10.8 34 99 Gristede's Supermarket
+Orange, CT - 1990 2003 78,000 10.0 8 96 Seaman's Furniture
+
+Farmingdale, NY 1993 1981 1993 70,000 5.6 15 100 King Kullen Supermarket
+Eastchester, NY (1) 2002 1978 1997 70,000 4.0 11 100 Food Emporium (Division
+ of A&P)
+Ridgefield, CT 1999 1930 1998 51,000 2.1 51 90 Chico's
+Westport, CT - 1986 2003 38,000 3.0 9 100 Pier One Imports
+
+Briarcliff Manor, NY - 1975 2001 38,000 1.0 19 100 Dress Barn
+Danbury, CT - 1988 2002 33,000 2.7 6 100 Boston Billiards
+Briarcliff Manor, NY 2001 1981 1999 29,000 4.0 3 100 Party Plus Warehouse
+Somers, NY - 1987 1992 19,000 4.9 12 100 Putnam County Savings Bank
+Office Properties:
+Greenwich, CT - 1983 1998 19,000 1.0 2 100 Greenwich Hospital
+Greenwich, CT - 1977 2001 11,000 0.4 3 76 Glenville Medical Center
+
+Greenwich, CT - 1983 1993 10,000 0.2 3 100 Urstadt Biddle Properties
+Greenwich, CT 1983 1953 1994 10,000 0.2 3 86 Prescott Investors
+Greenwich, CT - 1978 2000 9,000 1.0 4 100 Insurance Center of
+ ----- ---
+ Greenwich
+ 2,659,000 449
+ ========= =====
+ 
+(1) The Company has a general partnership interest in this property.
+
+8
+ 
+ Non-Core Properties
+
+In a prior year, the Board of Directors of the Company expanded and refined the
+strategic objectives of the Company to concentrate the real estate portfolio
+into one of primarily retail properties located in the Northeast and authorized
+a plan to sell the Company's non-core properties in the normal course of
+business over a period of several years given prevailing market conditions and
+the characteristics of each property.
+
+At October 31, 2003, the Company's non-core properties consisted of one office
+building, containing 202,000 square feet of GLA, one retail property containing
+126,000 square feet and two industrial facilities with a total of 447,000 square
+feet of GLA. The non-core properties collectively had 6 tenants and were 92 
+leased at October 31, 2003.
+
+The following table sets forth information concerning each non-core property in
+which the Company owned an equity interest at October 31, 2003. The non-core
+properties are 100 owned by the Company.
+
+Year Year Year Rentable Number of
+ Location Renovated Completed Acquired Square Feet Acres Tenants Leased Principal Tenant
+ -------- --------- --------- -------- ----------- ----- ------- ------ ----------------
+
+Southfield, MI - 1973 1983 202,000 7.8 2 70 Arcadis
+
+Tempe, AZ 2000 1970 1970 126,000 8.6 2 100 Mervyn's, Inc.
+
+Dallas, TX 1989 1970 1970 255,000 14.5 1 100 DaimlerChrysler Corporation
+
+St. Louis, MO 2000 1970 1970 192,000 16.0 1 100 DaimlerChrysler Corporation
+ ------- -
+
+ 775,000 6
+ ======= =
+
+Total Portfolio 3,434,000 455
+ ========= ===
+
+9
+
+Lease Expirations - Total Portfolio
+
+The following table sets forth a summary schedule of the annual lease
+expirations for the core and non-core properties for the leases in place as of
+October 31, 2003, assuming that none of the tenants exercise renewal or
+cancellation options, if any, at or prior to the scheduled expirations.
+
+Year of Lease Number of Leases Square Footage of Percentage of Total
+Expiration Expiring Expiring Leases Occupied Square Feet
+- ---------- -------- --------------- --------------------
+ 
+2004 (1) 80 126,046 3.84 
+2005 44 240,094 7.31 
+2006 46 151,394 4.61 
+2007 44 361,087 11.00 
+2008 53 452,435 13.78 
+2009 38 417,448 12.71 
+2010 22 187,253 5.70 
+2011 31 382,476 11.65 
+2012 42 267,722 8.15 
+2013 24 128,291 3.91 
+2014 11 61,267 1.87 
+Thereafter 20 508,303 15.47 
+ -- ------- ------
+ 455 3,283,816 100.00 
+ === ========= =======
+
+(1) Represents lease expirations from November 1, 2003 to October 31, 2004
+ and month-to-month leases.
+
+Item 3. Legal Proceedings.
+
+In the ordinary course of business, the Company is involved in legal
+proceedings. However, there are no material legal proceedings presently pending
+against the Company.
+
+Item 4. Submission of Matters to a Vote of Security Holders.
+
+No matter was submitted to a vote of security holders during the fourth quarter
+of the fiscal year ended October 31, 2003.
+
+10
+
+PART II
+
+Item 5. Market for the Registrant's Common Equity and Related Shareholder
+ Matters.
+
+(a) Price Range of Common Shares
+
+Shares of Common stock and Class A Common stock of the Company are traded on the
+New York Stock Exchange under the symbols "UBP" and "UBA", respectively. The
+following table sets forth the high and low closing sales prices for the
+Company's Common Stock and Class A Common Stock during the fiscal years ended
+October 31, 2003 and 2002 as reported on the New York Stock Exchange:
+
+Fiscal Year Ended Fiscal Year Ended
+Common shares: October 31, 2003 October 31, 2002
+- -------------- ---------------- ------------------------
+ Low High Low High
+ --- ---- --- ----
+ 
+First Quarter 11.00 12.70 8.60 10.65
+Second Quarter 11.95 13.03 10.25 12.28
+Third Quarter 12.70 13.80 9.95 12.80
+Fourth Quarter 12.60 13.40 10.77 11.60
+
+Fiscal Year Ended Fiscal Year Ended
+Class A Common shares: October 31, 2003 October 31, 2002
+- ---------------------- ---------------- ------------------------------
+ Low High
+ --- ----
+ 
+First Quarter 10.85 11.72 9.35 10.28
+Second Quarter 11.00 12.54 9.88 12.00
+Third Quarter 12.15 13.80 10.60 12.00
+Fourth Quarter 13.10 14.30 10.80 11.97
+
+(b) Approximate Number of Equity Security Holders
+
+At January 9, 2004 (latest date available), there were 1,381 shareholders of
+record of the Company's Common stock and 1,393 shareholders of record of the
+Class A Common stock.
+
+ (c) Dividends Declared on Common stock and Class A Common stock and Tax Status
+
+The following table sets forth the dividends declared per Common share and Class
+A Common share and tax status for Federal income tax purposes of the dividends
+paid during the fiscal years ended October 31, 2003 and 2002:
+
+Dividends Paid Per: Common Share Class A Common Share
+ ------------ --------------------
+ Gross Ordinary Gross Ordinary
+Dividend Payment Dividend Paid Income Dividend Paid Income
+Date Per Share Distribution Per Share Distribution
+- ---------------- ------------- ------------ ------------- ------------
+ 
+January 17, 2003 0.19 0.19 0.21 0.21
+April 18, 2003 0.19 0.19 0.21 0.21
+July 18, 2003 0.19 0.19 0.21 0.21
+October 17, 2003 0.19 0.19 0.21 0.21
+ ------ ------ ------ -----
+ 0.76 0.76 0.84 0.84
+ ====== ====== ====== =====
+
+11
+
+Dividends Paid Per: Common Share Class A Common Share
+ ------------ --------------------
+ Gross Ordinary Gross Ordinary
+Dividend Payment Dividend Paid Income Capital Gain Dividend Paid Income Capital Gain
+Date Per Share Distribution Distribution Per Share Distribution Distribution
+- ---------------- ------------- ------------ ------------ ------------- ------------ -------------
+ 
+January 18, 2002 0.185 0.135 0.05 0.205 0.15 0.055
+April 19, 2002 0.185 0.135 0.05 0.205 0.15 0.055
+July 21, 2002 0.185 0.135 0.05 0.205 0.15 0.055
+October 18, 2002 0.185 0.135 0.05 0.205 0.15 0.055
+ ------- ------- ------ ------- ------ ------
+ 0.740 0.540 0.20 0.820 0.60 0.220
+ ======== ======= ====== ======= ====== ======
+ 
+The Company has paid uninterrupted quarterly dividends since it commenced
+operations as a real estate investment trust in 1969. During the fiscal year
+ended October 31, 2003, the Company made distributions to stockholders
+aggregating .76 per Common share and .84 per Class A Common share. On December
+10, 2003, the Company's Board of Directors approved the payment of a quarterly
+dividend payable January 16, 2004 to stockholders of record on January 5, 2004.
+The dividends were declared in the amounts of .195 per Common share and .215
+per Class A Common share.
+
+In fiscal 1998, the Board of Directors declared and paid a special stock
+dividend on the Company's Common stock consisting of one share of a new issue of
+Class A Common Stock, par value .01 per share, for each share of the Company's
+Common Stock. The Class A Common Stock entitles the holder to 1/20 of one vote
+per share. Each share of Common Stock and Class A Common Stock has identical
+rights with respect to dividends except that each share of Class A Common Stock
+receives not less than 110 of the regular quarterly dividends paid on each
+share of Common Stock.
+
+Although the Company intends to continue to declare quarterly dividends on its
+Common shares and Class A Common shares, no assurances can be made as to the
+amounts of any future dividends. The declaration of any future dividends by the
+Company is within the discretion of the Board of Directors and will be dependent
+upon, among other things, the earnings, financial condition and capital
+requirements of the Company, as well as any other factors deemed relevant by the
+Board of Directors. Two principal factors in determining the amounts of
+dividends are (i) the requirement of the Internal Revenue Code that a real
+estate investment trust distribute to shareholders at least 90 of its real
+estate investment trust taxable income, and (ii) the amount of the Company's
+funds from operations, as defined.
+
+The Company has a Dividend Reinvestment and Share Purchase Plan that allows
+shareholders to acquire additional shares of Common Stock and Class A Common
+Stock by automatically reinvesting dividends. Shares are acquired pursuant to
+the Plan at a price equal to the higher of 95 of the market price of such
+shares on the dividend payment date or 100 of the average of the daily high and
+low sales prices for the five trading days ending on the day of purchase without
+payment of any brokerage commission or service charge.
+
+(d) Recent Sales of Unregistered Securities
+
+On May 28, 203, the Company entered into a Stock Purchase Agreement with Ferris,
+Baker Watts Incorporated and Stifel, Nicolaus & Company Incorporated (the
+"Initial Purchasers") pursuant to which the Initial Purchasers purchased 400,000
+shares of the Company's 8.5 Series C Senior Cumulative Preferred Stock (the
+"Shares") in a private placement pursuant to Section 4(2) of the Securities Act
+of 1933, as amended (the "Securities Act"). The Initial Purchasers sold the
+Shares to qualified institutional buyers pursuant to Rule 144A of the Securities
+Act at an aggregate offering price of 40,000,000. The Initial Purchasers'
+discount was 3.00 per share or 1,200,000 in the aggregate. In connection with
+the transaction, the Company entered into a Registration Rights Agreement with
+the Initial Purchasers, on behalf of the buyers, pursuant to which the Company
+(i) agreed to use reasonable efforts to file and cause to become effective with
+the SEC a registration statement covering re-sales of the Shares; and (ii) upon
+the SEC declaring effective such registration statement, agreed to use
+reasonable efforts to cause the listing of the Shares on the NYSE.
+
+On September 9, 2003, the Company filed a registration statement with the SEC to
+register the Shares pursuant to Section 12 of the Securities Exchange Act of
+1934 which registration statement was declared effective on September 23, 2003.
+The Shares were listed on the NYSE, effective September 23, 2003.
+
+ 12
+
+Item 6. Selected Financial Data.
+(In thousands, except per share data)
+
+Year Ended October 31, 2003 2002 2001 2000 1999
+ ---- ---- ---- ---- ----
+
+Balance Sheet Data:
+ 
+Total Assets 392,718 353,633 218,352 180,792 183,774
+ ======== ======== ======== ======== ========
+
+ Mortgage Notes Payable 104,588 106,429 47,115 51,903 51,263
+ ======== ======== ======= ======= =======
+
+Preferred Stock 52,747 14,341 33,462 33,462 33,462
+ ======= ======= ======= ======= =======
+
+Operating Data:
+Total Revenues 60,361 44,340 36,093 31,009 29,430
+ ======== ======= ======= ======= =======
+
+Total Operating Expenses 39,626 29,438 26,154 23,281 21,596
+ ======== ======= ======= ======= =======
+
+Net Income Applicable to Common and Class A
+Common Stockholders 17,576 16,080 10,540 5,442 6,043
+ ======== ======= ======= ======= =======
+
+Other Data :
+Net Cash Provided by Operating Activities 31,176 18,532 21,308 14,262 14,423
+ ======== ======= ======= ======= =======
+
+Net Cash (Used in) Investing Activities (69,818) (64,960) (11,394) (3,713) (10,556)
+ ========= ========= ========= ========= =========
+
+Net Cash Provided by (Used in)
+Financing Activities 14,749 59,023 22,040 (11,436) (5,009)
+ ======== ======= ======= ========== =========
+
+Per Share Data:
+Net Income-Basic
+ Class A Common Stock .74 .89 1.01 .55 .62
+ Common Stock .67 .80 .91 .50 .55
+
+Net Income - Diluted:
+ Class A Common Stock .73 .87 .97 .55 .61
+ Common Stock .66 .78 .88 .49 .54
+
+Cash Dividends on:
+ Class A Common Stock .84 .82 .80 .78 .76
+ Common Stock .76 .74 .72 .70 .68
+ ---- ---- ---- ---- ----
+Total 1.60 1.56 1.52 1.48 1.44
+ ===== ===== ===== ===== =====
+
+Funds from Operations (Note 1) 27,964 24,144 14,611 11,914 11,878
+ ======== ======= ======= ======= =======
+ 
+Note 1: The Company has adopted the definition of Funds from Operations (FFO)
+suggested by the National Association of Real Estate Investment Trusts (NAREIT)
+and defines FFO as net income (computed in accordance with generally accepted
+accounting principles), excluding gains (or losses) from sales of properties and
+debt restructuring, plus depreciation, amortization and after adjustments for
+unconsolidated joint ventures. For a reconciliation of net income and FFO, see
+Management's Discussion and Analysis on page 14. FFO does not represent net cash
+from operating activities in accordance with generally accepted accounting
+principles and should not be considered an alternative to net income as an
+indicator of the Company's operating performance or for cash flows as a measure
+of liquidity or dividend paying capacity. The Company considers FFO an
+appropriate supplemental measure of operating performance because it primarily
+excludes the assumption that the value of real estate assets diminishes
+predictably over time, and because industry analysts recognize it as a
+performance measure. Comparison of the Company's presentation of FFO, using the
+NAREIT definition, to similarly titled measures for other REITs may not
+necessarily be meaningful due to possible differences in the application of the
+NAREIT definition used by such REITs. FFO for 2002 has been adjusted to conform
+with the revised guidance provided by NAREIT. For a further discussion of FFO,
+see Management's Discussion and Analysis on page 14.
+
+13
+
+Item 7. Management's Discussion and Analysis of Financial Condition and
+ Results of Operations
+
+The following discussion should be read in conjunction with the consolidated
+financial statements of the Company and the notes thereto included elsewhere in
+this report.
+
+Overview
+
+Urstadt Biddle Properties Inc. (Company), a real estate investment trust (REIT),
+is engaged in the acquisition, ownership and management of commercial real
+estate, primarily neighborhood and community shopping centers in the
+northeastern part of the United States. Other real estate assets include office
+and retail buildings and industrial properties. The Company's major tenants
+include supermarket chains and other retailers who sell basic necessities. At
+October 31, 2003, the Company owned or had controlling interests in 30
+properties containing a total of 3.4 million square feet of leasable area.
+
+The Company focuses on increasing cash flow and, consequently, the value of its
+properties and seeks continued growth through strategic re-leasing, renovations
+and expansion of its existing properties and selective acquisition of income
+producing properties, primarily neighborhood and community shopping centers in
+the northeastern part of the United States.
+
+Forward Looking Statements
+
+This report includes certain statements that may be deemed to be
+"forward-looking statements" within the meaning of Section 27A of the Securities
+Act of 1933, as amended, and Section 21E of the Securities Exchange Act of 1934,
+as amended. All statements, other than statements of historical facts, included
+in this report that address activities, events or developments that the Company
+expects, believes or anticipates will or may occur in the future, including such
+matters as future capital expenditures, dividends and acquisitions (including
+the amount and nature thereof), expansion and other development trends of the
+real estate industry, business strategies, expansion and growth of the Company's
+operations and other such matters are forward-looking statements. These
+statements are based on certain assumptions and analyses made by the Company in
+light of its experience and its perception of historical trends, current
+conditions, expected future developments and other factors it believes are
+appropriate. Such statements are subject to a number of assumptions, risks and
+uncertainties, general economic and business conditions, the business
+opportunities that may be presented to and pursued by the Company, changes in
+laws or regulations and other factors, many of which are beyond the control of
+the Company. Any such statements are not guarantees of future performance and
+actual results or developments may differ materially from those anticipated in
+the forward-looking statements.
+
+Critical Accounting Policies
+
+Critical accounting policies are those that are both important to the
+presentation of the Company's financial condition and results of operations and
+require management's most difficult, complex or subjective judgments. Set forth
+below is a summary of the accounting policies that management believes are
+critical to the preparation of the consolidated financial statements. This
+summary should be read in conjunction with the more complete discussion of the
+Company's accounting policies included in Note 1 to the consolidated financial
+statements of the Company.
+
+Revenue Recognition
+
+The Company records base rents on a straight-line basis over the term of each
+lease. The excess of rents recognized over amounts contractually due pursuant to
+the underlying leases is included in tenant receivables on the accompanying
+balance sheets. Most leases contain provisions that require tenants to reimburse
+a pro-rata share of real estate taxes and certain common area expenses. These
+amounts are recognized in the period the related expenses are incurred. Expense
+reimbursement payments generally are made monthly based on an estimated amount
+determined at the beginning of the year. The difference between the actual
+amount due and the estimated amounts paid by the tenant throughout the year is
+billed or credited to the tenant.
+
+14
+ 
+Allowance for Doubtful Accounts
+
+The allowance for doubtful accounts and mortgage notes receivable is established
+based on a quarterly analysis of the risk of loss on specific accounts. The
+analysis places particular emphasis on past-due accounts and considers
+information such as the nature and age of the receivables, the payment history
+of the tenants or other debtors, the financial condition of the tenants and
+management's assessment of their ability to meet their lease obligations, the
+basis for any disputes and the status of related negotiations, among other
+things. Management's estimates of the required allowance is subject to revision
+as these factors change and is sensitive to the effects of economic and market
+conditions on tenants, particularly those at retail centers. It is the Company's
+policy to maintain an allowance for future tenant credit losses of approximately
+10 of the deferred straight-line rents receivable balance.
+
+Real Estate
+
+Land, buildings, property improvements, furniture/fixtures and tenant
+improvements are recorded at cost. Expenditures for maintenance and repairs are
+charged to operations as incurred. Renovations and/or replacements, which
+improve or extend the life of the asset, are capitalized and depreciated over
+their estimated useful lives.
+
+Properties are depreciated using the straight-line method over the estimated
+useful lives of the assets. The estimated useful lives are as follows:
+
+Buildings 30-40 years
+Property Improvements 10-20 years
+Furniture/Fixtures 3-10 years
+Tenant Improvements Lease term
+
+The Company is required to make subjective assessments as to the useful life of
+its properties for purposes of determining the amount of depreciation. These
+assessments have a direct impact on the Company's net income.
+
+Assessments by the Company of certain other lease related costs are made when
+the Company has a reason to believe that the tenant may not be able to perform
+under the terms of the lease as originally expected. This requires management to
+make estimates as to the recoverability of such assets.
+
+Asset Impairment
+
+On a periodic basis, management assesses whether there are any indicators that
+the value of the real estate properties and mortgage notes receivable may be
+impaired. A property value is considered impaired only if management's estimate
+of current and projected operating cash flows (undiscounted and without interest
+charges) of the property over its remaining useful life is less than the net
+carrying value of the property. Such cash flow projections consider factors such
+as expected future operating income, trend and prospects, as well as the effects
+of demand, competition and other factors. To the extent impairment has occurred,
+the loss is measured as the excess of the net carrying amount of the property
+over the fair value of the asset. Management does not believe that the value of
+any of its rental properties or mortgage notes receivable is impaired at October
+31, 2003.
+
+Liquidity and Capital Resources
+
+At October 31, 2003, the Company had unrestricted cash and cash equivalents of
+ 22.4 million compared to 46.3 million in 2002. The Company also had 9.5
+million and 25.1 million in short-term investments as of October 31, 2003 and
+2002, respectively. The Company's cash positions and short-term investments
+include the remaining proceeds from the sales of equity securities of the
+Company during fiscal 2003 and 2002.
+
+The Company's sources of liquidity and capital resources include its cash and
+cash equivalents, proceeds from bank borrowings and long-term mortgage debt,
+capital financings and sales of real estate investments. Payments of expenses
+related to real estate operations, debt service, management and professional
+fees, and dividend requirements place demands on the Company's short-term
+liquidity. The Company expects to meet its short-term liquidity requirements
+primarily by generating net cash from the operations of its properties. The
+Company believes that its net cash provided by operations will be sufficient to
+fund its short-term liquidity requirements for fiscal 2004 and to meet its
+dividend requirements necessary to maintain its REIT status. In fiscal 2003,
+
+ 15
+
+2002 and 2001, net cash provided by operations amounted to 31.2 million, 18.5
+million and 21.3 million, respectively. The increase in net cash from operating
+activities in fiscal 2003 reflects the additional operating income from a
+greater number of properties in the year. Cash dividends paid increased to 23.5
+million in 2003 compared to 16.4 million in 2002 and 11.9 million in 2001. The
+Company expects to continue paying regular dividends to its stockholders. These
+dividends will be paid from operating cash flows which are expected to increase
+due to property acquisitions and growth in operating income in the existing
+portfolio and from other sources. The Company derives substantially all of its
+revenues from tenants under existing leases at its properties. The Company's
+operating cash flow therefore depends on the rents that it is able to charge to
+its tenants, and the ability of its tenants to make rental payments. The Company
+believes that the nature of the properties in which it typically invests -
+primarily grocery-anchored neighborhood and community shopping centers -
+provides a more stable revenue flow in uncertain economic times, in that
+consumers still need to purchase basic staples and convenience items. However,
+even in the geographic areas in which the Company owns properties, general
+economic downturns may adversely impact the ability of the Company's tenants to
+make lease payments and the Company's ability to re-lease space as leases
+expire. In either of these cases, the Company's cash flow could be adversely
+affected.
+
+Capital Resources
+
+The Company expects to fund its long-term liquidity requirements such as
+property acquisitions, repayment of indebtedness and capital expenditures
+through other long-term indebtedness (including indebtedness assumed in
+acquisitions), proceeds from sales of properties and/or the issuance of equity
+securities. The Company believes that these sources of capital will continue to
+be available to it in the future to fund its long-term capital needs; however,
+there are certain factors that may have a material adverse effect on its access
+to capital sources. The Company's ability to incur additional debt is dependent
+upon its existing leverage, the value of its unencumbered assets and borrowing
+limitations imposed by existing lenders. The Company's ability to raise funds
+through sales of equity securities is dependent on, among other things, general
+market conditions for REITs, market perceptions about the Company and its stock
+price in the market. The Company's ability to sell properties in the future to
+raise cash will be dependent upon market conditions at the time of sale.
+
+In May 2003, the Company sold 400,000 shares of a new issue of Series C
+Cumulative Preferred Stock (Series C Preferred Stock) for proceeds of 38.4
+million. The preferred shares are redeemable at the option of the Company after
+ten years. The Series C Preferred Stock issue entitles the holders to a 8.5 
+cumulative dividend. The Company used a portion of the proceeds to purchase a
+shopping center in June 2003. The Company intends to use the balance of the
+proceeds for property acquisitions.
+
+In fiscal 2002, the Company sold 8,050,000 shares of its Class A Common stock
+for net proceeds to the Company of 81.9 million. The net proceeds were used to
+repay 16 million of outstanding revolving credit line indebtedness and the
+acquisitions of three properties.
+
+In fiscal 2001, the Company sold 5,499,222 shares of its Class A Common stock
+for net proceeds of 47.2 million of which 6.1 million was received in fiscal
+2002. The Company also sold 200,000 shares of Common stock and 5,000 shares of
+Class A Common stock in a private placement for proceeds of 1.4 million. The
+proceeds of these equity sales were used to complete the acquisitions of two
+properties, repay outstanding credit line borrowings and repurchase 200,000
+shares of Series B Preferred Stock at a cost of 16.1 million.
+
+The Company is exposed to interest rate risk primarily through its borrowing
+activities. There is inherent rollover risk for borrowings as they mature and
+are renewed at current market rates. The extent of this risk is not quantifiable
+or predictable because of the variability of future interest rates and the
+Company's future financing requirements.
+
+16
+
+At October 31, 2003, the Company's contractual obligations for borrowings are as
+follows:
+
+ Payments Due by Period Amount
+
+ Less than 1 year 1,985,000
+ 1 to 3 years 11,066,000
+ 4 to 5 years 64,486,000
+ After 5 years 27,051,000
+
+Borrowings consist of 104,588,000 of fixed rate mortgage loan indebtedness with
+a weighted average interest rate of 7.53 at October 31, 2003. The mortgage
+loans are secured by fourteen properties and have fixed rates of interest
+ranging from 6.29 to 8.375 . The Company may refinance certain of these
+borrowings, at or prior to maturity, through new mortgage loans on real estate.
+The ability to do so, however, is dependent upon various factors, including the
+income level of the properties, interest rates and credit conditions within the
+commercial real estate market. Accordingly, there can be no assurance that such
+refinancing can be achieved.
+
+At October 31, 2003, the Company had a secured revolving credit facility with a
+bank which expires in fiscal 2005 and allows for borrowings up to 18.125
+million. The secured line is collateralized by two properties having a net book
+value of 29.4 million at October 31, 2003. The terms of the credit facility
+require a permanent reduction in the credit loan amount of 625,000 annually.
+The Company also has a 20 million unsecured revolving line of credit with the
+same bank which expires in fiscal 2004. The revolving credit lines are available
+to finance the acquisition, management and/or development of commercial real
+estate, refinance indebtedness and for working capital purposes. Extensions of
+credit under the unsecured credit line are at the bank's discretion and subject
+to the bank's satisfaction of certain conditions. There were no borrowings
+during the year on either credit line and there were no outstanding borrowings
+at October 31, 2003.
+
+Capital Expenditures
+
+The Company invests in its existing properties and regularly incurs capital
+expenditures in the ordinary course of business to maintain its properties. The
+Company believes that such expenditures enhance the competitiveness of its
+properties. In fiscal 2003, the Company incurred 2.8 million for capital
+expenditures including 1.9 million related to tenant allowances and commissions
+in connection with the Company's leasing activities. The amounts of these
+expenditures can vary significantly depending on tenant negotiations, market
+conditions and rental rates. The Company expects to incur an additional 4.3
+million for known capital improvements and leasing costs in fiscal 2004. These
+expenditures are generally funded from operating cash flows or borrowings on its
+credit facilities.
+
+Acquisitions and Sales
+
+The company seeks to acquire properties which are primarily shopping centers
+located in the northeastern part of the United States.
+
+In fiscal 2003, the Company acquired four properties totaling 436,000 square
+feet in separate transactions for approximately 83 million. The properties were
+purchased with cash raised from sales of equity securities and consisted of: the
+Westchester Pavilion in White Plains, New York, a 185,000 square foot property
+for 39.9 million, the Orange Meadows Shopping Center in Orange, Connecticut, a
+78,000 square foot property for 11.3 million, the Greens Farms Plaza in
+Westport, Connecticut, a 38,000 square foot property for 10.1 million and seven
+retail building units totaling 135,000 square feet in Somers Commons for 21.65
+million.
+
+In fiscal 2002, the Company acquired a 90 general partner interest in a
+shopping center in Stamford, Connecticut for 86.8 million. The property was
+acquired subject to a 57.4 million first mortgage loan. The Company also
+purchased a shopping center in Danbury, Connecticut for 7.0 million subject to
+a first mortgage loan of 2.0 million and acquired the remaining 15 interest in
+an office building that it did not own for a purchase price of 1.25 million.
+
+In fiscal 2001, the Company acquired two properties for 9.5 million. One
+property was acquired subject to a first mortgage loan of 4.2 million.
+
+ 17
+
+In a prior year, the Company's Board of Directors expanded and refined the
+strategic objectives of the Company to refocus its real estate portfolio into
+one of self-managed retail properties located in the northeast and authorized a
+plan to sell the Company's non-core properties in the normal course of business
+over a period of several years. The non-core properties consist of two
+distribution service facilities, one office building and one retail property
+(all of which are located outside of the northeast region of the United States).
+The Company intends to sell its non-core properties as opportunities become
+available. The Company's ability to generate cash from asset sales is dependent
+upon market conditions and will necessarily be limited if market conditions make
+such sales unattractive. There were no sales of properties during fiscal 2003.
+At October 31, 2003, the non-core properties total four properties with a net
+book value of approximately 11 million.
+
+Funds from Operations
+
+The Company considers Funds from Operations ("FFO") as defined by The National
+Association of Real Estate Investment Trusts ("NAREIT") to be one supplemental
+financial measure of an equity REIT's operating performance. FFO is calculated
+as net income (computed in accordance with generally accepted accounting
+principles (GAAP)), plus real estate related depreciation and amortization,
+excluding gains (or losses) from sales of property and debt restructuring and
+after adjustments for unconsolidated joint ventures. FFO does not represent cash
+flows from operations as defined by GAAP and should not be considered an
+alternative to net income as an indication of the Company's operating
+performance or for cash flows as a measure of liquidity or its dividend paying
+capacity. Furthermore, FFO as disclosed by other REITs might not be comparable
+to the Company's calculation of FFO. The table below provides a reconciliation
+of net income in accordance with GAAP to FFO for each of the three years in the
+period ended October 31, 2003 (amounts in thousands).
+
+2003 2002 2001
+ ---- ---- ----
+
+Net Income Applicable to Common and Class A Common Stockholders 17,576 16,080 10,540
+Plus: Real property depreciation 7,831 5,459 4,463
+ Amortization of tenant improvements and allowances 2,088 2,088 2,325
+ Amortization of deferred leasing cost 469 517 851
+Less: Adjustments for unconsolidated joint venture - - (3,252)
+ Gains on sales of real estate investments - - (316)
+ ------- ------- -------
+Funds from Operations Applicable to Common and Class A Common Stockholders (1) 27,964 24,144 14,611
+ ======= ======= =======
+
+Net Cash Provided by (Used in):
+Operating Activities 31,176 18,532 21,308
+ ======= ======= =======
+Investing Activities (69,818) (64,960) (11,394)
+ ========= ========= =========
+Financing Activities 14,749 59,023 22,040
+ ========= ======= =======
+
+(1) Funds from Operations for 2002 has been adjusted to conform with
+ revised guidance provided by NAREIT regarding the calculation for FFO.
+ This revised guidance provides that amounts associated with preferred
+ stock that has been redeemed or repurchased should be factored into the
+ calculation of FFO. As a result, the Company has adjusted its fiscal
+ 2002 FFO to include a 3,071,000 adjustment to record the excess of the
+ carrying value over the cost to repurchase 20 million of its Series B
+ Preferred shares in that year in accordance with NAREIT's revised
+ guidance. The adjustment to fiscal 2002 FFO did not affect net income
+ applicable to Common and Class A Common stockholders in that year.
+
+18
+
+Results of Operations
+
+Fiscal 2003 vs. Fiscal 2002
+
+Revenues
+
+Revenues from operating rents increased 40.4 to 59.2 million in fiscal 2003
+compared to 42.2 million in fiscal 2002. The net increase in rents resulted
+primarily from (i) the acquisition of four properties in fiscal 2003 containing
+436,000 square feet of leasable space, providing revenues of 8.3 million in the
+year (ii) the full year impact related to two operating properties acquired in
+2002, providing incremental revenues of 6.5 million in fiscal 2003 (iii) an
+increase in recoveries of property operating expenses and property taxes from
+tenants of 700,000 in fiscal 2003 and (iv) an overall increase in the leasing
+levels at the Company's properties.
+
+At October 31, 2003, the Company's total portfolio was 96 leased compared to
+95 leased in fiscal 2002. During fiscal 2003, the Company renewed or signed new
+leases totaling 375,000 square feet of space. The Company has leases totaling
+126,000 square feet of leasable space or 3.8 of total GLA expiring in fiscal
+2004.
+
+Lease termination income of 80,000 represents a lease cancellation payment from
+a tenant who terminated its lease early. This space was re-leased during the
+year.
+
+Interest income in fiscal 2003 decreased due to the utilization of cash from the
+Company's sale of 8,050,000 shares of Class A common stock in fiscal 2002. The
+cash was used to acquire properties in fiscal 2003.
+
+Expenses
+
+Operating expenses, including depreciation and amortization increased to 39.6
+million in fiscal 2003 from 29.4 million in fiscal 2002. Property expenses
+increased 5.0 million from the incremental expense of recently acquired
+properties, which increased property expenses by 4.6 million. Property expenses
+for properties owed during both periods increased 4.0 from higher snow removal
+and property tax costs, which increased 475,000 and 171,000, respectively in
+fiscal 2003.
+
+Interest expense increased to 8.1 million from 5.6 million principally from
+the full year impact of approximately 60 million in first mortgage loans
+assumed in connection with property acquisitions in fiscal 2002.
+
+Depreciation expense increased by 2.4 million in fiscal 2003 from the
+additional depreciation on recent property acquisitions.
+
+General and administrative expenses increased to 3.2 million in fiscal 2003 as
+compared to 2.8 million in fiscal 2002 due to increased compensation costs.
+
+Fiscal 2002 vs. Fiscal 2001
+
+Revenues
+
+Revenues from operating leases increased 23.4 to 42.2 million in fiscal 2002
+compared to 34.2 million in fiscal 2001. The increase in revenues resulted from
+the addition of new rents from properties acquired and leasing of previously
+vacant space at properties owned in both years. During fiscal 2002 and 2001, the
+Company acquired four properties which increased operating lease income by
+approximately 5.5 million in fiscal 2002. In 2002 the Company renewed or signed
+new leases totaling 236,000 square feet of space, however the overall leasing
+levels at the Company's properties decreased to 95 by the end of fiscal 2002
+compared to 98 leased at the end of fiscal 2001. The decrease in leasing levels
+reflected the loss of a tenant occupying 115,390 square feet at the Company's
+Five Town Plaza shopping center and a tenant occupying 94,000 square feet at the
+Company's office property in Southfield, Michigan who re-leased 32,400 square
+feet of its previously occupied space.
+
+Lease termination income of 765,000 in fiscal 2002 represents lease
+cancellation payments from tenants who terminated leases in the year.
+
+Interest income increased in fiscal 2002 from the investment of cash proceeds
+during the year into short-term investments at generally lower yields and the
+addition of a 1.2 million note receivable.
+
+ 19
+
+Expenses
+
+Total expenses increased to 29.4 million in fiscal 2002 from 26.2 million in
+fiscal 2001. Property expenses increased 11.1 to 12.8 million from 11.5
+million principally from the incremental expense of new properties, which
+increased property expenses by 1.4 million in fiscal 2002. Property expenses
+for properties owned during 2002 and 2001 were generally unchanged. Snow removal
+costs decreased by approximately 250,000, which was largely offset by increases
+in property taxes and insurance costs.
+
+Interest expense increased from new mortgage loans totaling 59.4 million
+assumed in connection with property acquisitions. The increase in interest
+expense was partially offset by lower outstanding bank credit line borrowings
+during the year.
+
+Depreciation expense increased 850,000 from the additional expense related to
+property acquisitions in that year. Amortization expense decreased by 354,000
+principally from the write-off in fiscal 2001 of unamortized leasing commissions
+for tenants who vacated during the year.
+
+General and administrative expenses increased to 2.8 million in fiscal 2002 as
+compared to 2.5 million in fiscal 2001. The increase was due primarily to
+increased compensation costs.
+
+The Company repurchased 200,000 shares of its Series B Preferred Stock for
+ 16,050,000 in a negotiated transaction with a holder of the preferred shares.
+The Company recorded the excess of the carrying value over the cost to
+repurchase the preferred shares of 3,071,000 as an increase in net income
+applicable to Common and Class A Common stockholders.
+
+Inflation
+
+The Company's long-term leases contain provisions to mitigate the adverse impact
+of inflation on its operating results. Such provisions include clauses entitling
+the Company to receive (i) scheduled base rent increases and (ii) percentage
+rents based upon tenants' gross sales, which generally increase as prices rise.
+In addition, the majority of the Company's non-anchor leases are for terms of
+less than ten years, which permits the Company to seek increases in rents upon
+renewal at then current market rates if rents provided in the expiring leases
+are below then existing market rates. Most of the Company's leases require
+tenants to pay a share of operating expenses, including common area maintenance,
+real estate taxes, insurance and utilities, thereby reducing the Company's
+exposure to increases in costs and operating expenses resulting from inflation.
+
+Environmental Matters
+
+Based upon management's ongoing review of its properties, management is not
+aware of any environmental condition with respect to any of the Company's
+properties, which would be reasonably likely to have a material adverse effect
+on the Company. There can be no assurance, however, that (i) the discovery of
+environmental conditions, which were previously unknown, (ii) changes in law,
+(iii) the conduct of tenants or (iv) activities relating to properties in the
+vicinity of the Company's properties, will not expose the Company to material
+liability in the future. Changes in laws increasing the potential liability for
+environmental conditions existing on properties or increasing the restrictions
+on discharges or other conditions may result in significant unanticipated
+expenditures or may otherwise adversely affect the operations of the Company's
+tenants, which would adversely affect the Company's financial condition and
+results of operations.
+
+Item 7A. Quantitative and Qualitative Disclosures about Market Risk
+
+The Company is exposed to interest rate risk primarily through its borrowing
+activities. There is inherent rollover risk for borrowings as they mature and
+are renewed at current market rates. The extent of this risk is not quantifiable
+or predictable because of the variability of future interest rates and the
+Company's future financing requirements.
+
+As of October 31, 2003 and for the year then ended, the Company had no
+outstanding borrowings under its bank line of credit arrangements. During the
+year ended October 31, 2002, the average variable rate indebtedness during such
+period had a combined weighted average interest rate of 3.38 . Had the weighted
+average interest rate been 100 basis points higher, the Company's net income
+would have been lower by approximately 12,000 in fiscal 2002.
+
+ 20
+
+Item 8. Financial Statements and Supplementary Data.
+
+The consolidated financial statements required by this Item, together with the
+report of the Company's independent public accountants thereon and the
+supplementary financial information required by this Item are included under
+Item 14 of this Annual Report.
+
+Item 9. Changes in and Disagreements With Accountants on Accounting
+ and Financial Disclosure.
+
+There were no changes in, nor any disagreements with the Company's independent
+accountants on accounting principles and practices or financial disclosure,
+during the year ended October 31, 2003.
+
+Item 9A. Controls and Procedures.
+
+At the end of the period covered by this report, the Company carried out an
+evaluation, under the supervision and with the participation of the Company's
+management, including the Company's Chief Executive Officer and Chief Financial
+Officer, of the effectiveness of the design and operation of the Company's
+disclosure controls and procedures pursuant to Exchange Act Rule 13a-15(e).
+Based upon that evaluation, the Chief Executive Officer and Chief Financial
+Officer concluded that the Company's disclosure controls and procedures are
+effective. During the fourth quarter of 2003, there were no changes in the
+Company's internal control over financial reporting that have materially
+affected, or are reasonably likely to materially affect, the Company's internal
+control over financial reporting.
+
+21
+ 
+ PART III
+
+Item 10. Directors and Executive Officers of the Registrant.
+
+The Company will file its definitive Proxy Statement for its Annual
+Meeting of Stockholders to be held on March 10, 2004 within the period required
+under the applicable rules of the Securities and Exchange Commission. The
+additional information required by this Item is included under the captions
+"ELECTION OF DIRECTORS" and "COMPENSATION AND TRANSACTIONS WITH MANAGEMENT AND
+OTHERS" of such Proxy Statement and is incorporated herein by reference.
+
+ Executive Officers of the Registrant.
+
+The following sets forth certain information regarding the executive officers of
+the Company:
+
+Name Age Offices Held
+
+Charles J. Urstadt 75 Chairman and Chief Executive Officer (since September 1989);
+ Mr. Urstadt has been the Chairman of the
+ Board of Directors since 1986, and a
+ Director since 1975. Mr. Urstadt also
+ serves as the Chairman of Urstadt Property
+ Company, Inc. and has served in such
+ capacity for more than five years.
+
+Willing L. Biddle 42 President and Chief Operating Officer (since December 1996); Executive Vice
+ President (March 1996 to December 1996); Senior Vice President - Management
+ (June 1995 to March 1996); Vice President - Retail (April 1993 to June 1995);
+ Vice President - Asset Management (April 1993 to June 1994).
+
+James R. Moore 55 Executive Vice President and Chief Financial Officer (since March 1996); Senior
+ Vice President and Chief Financial Officer (1989 to 1996); Treasurer since December
+ 1987). Secretary (1987-1999) Vice President-Finance and Administration (1987 to
+ 1989).
+
+Raymond P. Argila 55 Senior Vice President and Chief Legal Officer (since June 1990); formerly Senior
+ Counsel, Cushman & Wakefield, Inc. (1987 to 1990).
+
+The Directors elect officers of the Company annually.
+
+The Company has adopted a code of ethics that applies to the chief executive
+officer and senior financial officers. A copy of this code of ethics can be
+found as Exhibit 14 to this Form 10-K. In the event of any amendment to, or
+waiver from, the code of ethics, the Company will promptly disclose the
+amendment or waiver as required by law or regulation of the SEC.
+
+Item 11. Executive Compensation.
+
+The Company will file its definitive Proxy Statement for its Annual
+Meeting of Stockholders to be held on March 10, 2004 within the period required
+under the applicable rules of the Securities and Exchange Commission. The
+information required by this Item is included under the caption "ELECTION OF
+DIRECTORS" and "COMPENSATION AND TRANSACTIONS WITH MANAGEMENT AND OTHERS" of
+such Proxy Statement and is incorporated herein by reference.
+
+Item 12. Security Ownership of Certain Beneficial Owners and Management.
+
+The Company will file its definitive Proxy Statement for its Annual
+Meeting of Stockholders to be held on March 10, 2004 within the period required
+under the applicable rules of the Securities and Exchange Commission . The
+information required by this Item is included under the caption "ELECTION OF
+DIRECTORS - Security Ownership of Certain Beneficial Owners and Management" and
+"COMPENSATION AND TRANSACTIONS WITH MANAGEMENT AND OTHERS - Equity
+Compensation Plan Information" of such Proxy Statement and is incorporated
+herein by reference.
+
+Item 13. Certain Relationships and Related Transactions.
+
+The Company will file its definitive Proxy Statement for its Annual
+Meeting of Stockholders to be held on March 10, 2004 within the period required
+under the applicable rules of the Securities and Exchange Commission. The
+information required by this Item is included under the caption "ELECTION OF
+DIRECTORS" and "COMPENSATION AND TRANSACTIONS WITH MANAGEMENT AND OTHERS" of
+such Proxy Statement and is incorporated herein by reference.
+
+Item 14. Principal Accountant Fees and Services.
+
+The Company will file its definitive Proxy Statement for its Annual
+meeting of Stockholders to be held on March 10, 2004 within the period required
+under the applicable rules of the Securities and Exchange Commission. The
+information required by this Item is included under the caption "Fees Billed
+by Independent Auditors" of such Proxy Statement and is incorporated herein
+by reference.
+
+22
+ 
+ PART IV
+
+Item 15. Exhibits, Financial Statements, Schedules and Reports on Form 8-K.
+
+A. Financial Statements and Financial Statement Schedules
+
+ 1. Financial Statements --
+
+ The consolidated financial statements listed in the accompanying index
+ to financial statements on Page 23 are filed as part of this Annual
+ Report.
+
+ 2. Financial Statement Schedules --
+
+ The financial statement schedules required by this Item are filed with
+ this report and are listed in the accompanying index to financial
+ statements on Page 27. All other financial statement schedules are
+ inapplicable.
+
+B. Reports on Form 8-K
+
+ During the Company's fourth quarter, the Registrant filed the following
+ Reports on Form 8-K with the Commission:
+
+ A Current Report on Form 8-K dated September 10, 2003. Such report
+ furnished under Item 12 a press release published by the Company on
+ September 10, 2003 announcing its earnings for the third quarter of
+ fiscal 2003.
+
+C. Exhibits.
+
+ Listed below are all Exhibits filed as part of this report. Certain
+ Exhibits are incorporated by reference to documents previously filed by
+ the Company with the SEC pursuant to Rule 12b-32 under the Securities
+ Exchange Act of 1934, as amended.
+
+Exhibit
+(3) Articles of Incorporation and By-laws.
+
+ 3.1 (a) Amended Articles of Incorporation of the Company,
+ (incorporated by reference to Exhibit C of Amendment No. 1 to
+ Registrant's Statement on Form S-4 (SEC File No. 333-19113)).
+
+ (b) Articles Supplementary of the Company (incorporated by
+ reference to Annex A of Exhibit 4.1 of the Registrant's
+ Current Report on Form 8-K dated August 3, 1998 (SEC File No.
+ 001-12803)).
+
+ (c) Articles Supplementary of the Company (incorporated by
+ reference to Exhibit 4.1 of the Registrant's Current Report on
+ Form 8-K dated January 8, 1998 (SEC File No. 001-12803)).
+
+(d) Articles Supplementary of the Company (incorporated by
+ reference to Exhibit A of Exhibit 4.1 of the Registrant's
+ Current Report on Form 8-K dated March 12, 1998 (SEC File No.
+ 001-12803)).
+
+(e) Articles Supplementary of the Company (incorporated by
+ reference to Exhibit 4.2 of the Registrant's Registration
+ Statement on Form S-3 (SEC File No. 333-107803)).
+
+ 3.2 By-laws of the Company (incorporated by reference to
+ Exhibit D of Amendment No. 1 to Registrant's Registration
+ Statement on Form S-4 (SEC File No. 333-19113).
+
+(4) Instruments Defining the Rights of Security Holders, Including
+ Indentures.
+
+ 4.1 Common Stock: See Exhibits 3.1 (a)-(e) hereto.
+
+ 4.2 Series B Preferred Shares: See Exhibits 3.1 (a)-(e), 10.13
+ - 10.15, 10.17 and 10.22 hereto.
+
+4.3 Series C Preferred Shares: See Exhibits 3.1 (a)-(e) and 10.23
+ hereto.
+
+ 23
+
+4.4 Series A Preferred Share Purchase Rights: See Exhibits 3.1
+ (a)-(d), 10.3 and 10.16 hereto.
+
+(10) Material Contracts.
+
+ 10.1 Form of Indemnification Agreement entered into between the
+ Registrant and each of its Directors and for future use with
+ Directors and officers of the Company (incorporated herein by
+ reference to Exhibit 10.1 of the Registrant's Annual Report on
+ Form 10-K for the year ended October 31, 1989 (SEC File No.
+ 001-12803)). (1)
+
+ 10.2 Amended and Restated Change of Control Agreement between the
+ Registrant and James R. Moore dated November 15, 1990
+ (incorporated herein by reference to Exhibit 10.3 of the
+ Registrant's Annual Report on Form 10-K for the year ended
+ October 31, 1990 (SEC File No. 001-12803)). (1)
+
+ 10.3 Amended and Restated Rights Agreement between the Company and
+ The Bank of New York, as Rights Agent, dated as of July 31,
+ 1998 (incorporated herein by reference to Exhibit 10-1 of the
+ Registrant's Current Report on Form 8-K dated November 5, 1998
+ (SEC File No. 001-12803)).
+
+ 10.4 Agreement dated December 19, 1991 between the Registrant and
+ Raymond P. Argila amending the Change of Control Agreement
+ dated as of June 12, 1990 between the Registrant and Raymond
+ P. Argila (incorporated herein by reference to Exhibit 10.6.1
+ of the Registrant's Annual Report on Form 10-K for the year
+ ended October 31, 1991 (SEC File No. 001-12803)). (1)
+
+ 10.5 Change of Control Agreement dated as of December 20, 1990
+ between the Registrant and Charles J. Urstadt (incorporated
+ herein by reference to Exhibit 10.8 of the Registrant's
+ Annual Report on Form 10-K for the year ended October 31,
+ 1990 (SEC File No. 001-12803)). (1)
+
+ 10.6 Amended and Restated HRE Properties Stock Option Plan
+ (incorporated herein by reference to Exhibit 10.8 of the
+ Registrant's Annual Report on Form 10-K for the year ended
+ October 31, 1991 (SEC File No. 001-12803)). (1)
+
+ 10.6.1 Amendments to HRE Properties Stock Option Plan dated June
+ 9, 1993 (incorporated by reference to Exhibit 10.6.1 of
+ the Registrant's Annual Report on Form 10-K for the year
+ ended October 31, 1995 (SEC File No. 001-12803)). (1)
+
+ 10.6.2 Form of Supplemental Agreement with Stock Option Plan
+ Participants (non-statutory options) (incorporated by
+ reference to Exhibit 10.6.2 of the Registrant's Annual
+ Report on Form 10-K for the year ended October 31, 1998 (SEC
+ File No. 001-12803)). (1)
+
+ 10.6.3 Form of Supplemental Agreement with Stock Option Plan
+ Participants (statutory options) (incorporated by reference to
+ Exhibit 10.6.2 of the Registrant's Annual Report on Form 10-K
+ for the year ended October 31, 1998 (SEC File No.
+ 001-12803)). (1)
+
+ 10.7 Amended and Restated Dividend Reinvestment and Share
+ Purchase Plan (incorporated herein by reference to the
+ Registrant's Registration Statement on Form S-3 (See File No.
+ 333-64381).
+
+ 24
+ 
+ 10.8 Amended and Restated Change of Control Agreement dated as
+ of November 6, 1996 between the Registrant and Willing L.
+ Biddle (incorporated by reference to Exhibit 10.7 of the
+ Registrant's Annual Report on Form 10-K for the year ended
+ October 31, 1996 (SEC File No. 001-12803)). (1)
+
+ 10.10 Restricted Stock Plan (incorporated by reference to
+ Exhibit B of Amendment No. 1 to Registrant's Registration
+ Statement on Form S-4 (SEC File No. 333-19113)). (1)
+
+ 10.10.1 Form of Supplemental Agreement with Restricted
+ Stockholders (incorporated by reference to Exhibit 10.6.2
+ of the Registrant's Annual Report on Form 10-K for the year
+ ended October 31, 1998 (SEC File No. 001-12803)). (1)
+
+ 10.11 Excess Benefit and Deferred Compensation Plan (incorporated
+ by reference to Exhibit 10.10 of the Registrant's Annual
+ Report on Form 10-K for the year ended October 31, 1998
+ (SEC File No. 001-12803)). (1)
+
+ 10.12 Purchase and Sale Agreement, dated September 9, 1998, by and
+ between Goodwives Center Limited Partnership, as seller, and
+ UB Darien, Inc., a wholly owned subsidiary of the Registrant,
+ as purchaser (incorporated by reference to Exhibit 10 of the
+ Registrant's Current Report on Form 8-K dated September 23,
+ 1998 (SEC File No. 001-12803)).
+
+ 10.13 Subscription Agreement, dated January 8, 1998, by and among
+ the Company and the Initial Purchasers (incorporated by
+ reference to Exhibit 4.2 of the Registrant's Current Report on
+ Form 8-K dated January 8, 1998 (SEC File No. 001-12803)).
+
+ 10.14 Registration Rights Agreement, dated January 8, 1998, by and
+ among the Company and the Initial Purchasers (incorporated by
+ reference to Exhibit 4.3 of the Registrant's Current Report on
+ Form 8-K dated January 8, 1998 (SEC File No. 001-12803)).
+
+ 10.15 Waiver and Amendment of Registration Rights Agreement, dated
+ as of April 16, 1999, by and among the Company and the Initial
+ Purchasers (incorporated by reference to Exhibit 10.15 of the
+ Registrant's Annual Report on Form 10-K for the year ended
+ October 31, 1999 (SEC File No. 001-12803)).
+
+ 10.16 Amendment to Shareholder Rights Agreement dated as of
+ September 22, 1999 between the Company and the Rights Agent
+ (incorporated by reference to Exhibit 10.18 of the
+ Registrant's Annual Report on Form 10-K for the year ended
+ October 31, 1999 (SEC File No. 001-12803)).
+
+ 10.17 Waiver and Amendment of Registration Rights Agreement dated as
+ of September 14, 2001 by and among the Company and the Initial
+ Purchasers (incorporated by reference to Exhibit 10.17 of the
+ Registrant's Annual Report on Form 10-K for the year ended
+ October 31, 2001 (SEC File No. 001-12803)).
+
+ 10.18 Amended and Restated Restricted Stock Award Plan effective
+ December 9, 1999 (incorporated by reference to Exhibit 10.18
+ of the Registrant's Annual Report on Form 10-K for the year
+ ended October 31, 2000 (SEC File No. 001-12803)). (1)
+
+ 10.19 Amended and Restated Stock Option Plan adopted June 28, 2000
+ (incorporated by reference to Exhibit 10.19 of the Registrant's
+ Annual Report on Form 10-K for the year ended October 31,
+ 2000 (SEC File No. 001-12803)). (1)
+
+25
+
+10.20 Promissory Note and Stock Pledge Agreement dated July 3, 2002
+ by Willing L. Biddle in favor of the Registrant (incorporated
+ by reference to Exhibit 10.20 of the Registrant's Annual
+ Report on Form 10-K for the year ended October 31, 2002
+ (SEC File No. 001-12803)). (1)
+
+ 10.21 Amended and Restated Restricted Stock Award Plan effective
+ December 12, 2001 as approved by the Registrant's
+ stockholders on March 13, 2002 (incorporated by reference
+ to Exhibit 10.21 of the Registrant's Annual Report on Form
+ 10-K for the year ended October 31, 2002). (1)
+
+ 10.22 Amendment to Registration Rights Agreement dated as of
+ December 31, 2001 by and among the Company and the Remaining
+ Initial Purchasers (incorporated by reference to Exhibit 10.22
+ of the Registrant's Annual Report on Form 10-K for the year
+ ended October 31, 2002).
+
+ 10.23 Registration Rights Agreement dated as of May 29, 2003 by and
+ between the Company and Ferris, Baker Watts, Incorporated
+ (incorporated by reference to Exhibit 4.1 of the Registrant's
+ Registration Statement on Form S-3 (SEC File No. 333-107803)).
+
+(14) Code of Ethics for Chief Executive Officer and Senior
+ Financial Officers
+
+(21) Subsidiaries.
+
+ 21.1 List of Company's subsidiaries
+
+(23) Consents of Experts and Counsel.
+
+ 23.1 The consent of Ernst & Young LLP to the incorporation by
+ reference of its report included herein in the Company's
+ Registration Statement is filed herewith as part of this
+ report
+
+ 31.1 Certification pursuant to Rule 13a-14(a) of the Securities
+ Exchange Act of 1934, as amended, signed and dated by
+ Charles J.Urstadt.
+
+ 31.2 Certification pursuant to Rule 13a-14(a) of the Securities
+ Exchange Act of 1934, as amended, signed and dated by James
+ R.Moore.
+
+(32) Certification pursuant to 18 U.S.C. Section 1350, as adopted,
+ pursuant to section 906 of the Sarbanes-Oxley Act of 2002,
+ signed and dated by Charles J. Urstadt and James R. Moore.
+
+(1) Management contract, compensatory plan or arrangement to be filed as an
+exhibit to this Annual Report on Form 10-K pursuant to Item 15(c).
+
+26
+ 
+ URSTADT BIDDLE PROPERTIES INC.
+
+Item 15a. INDEX TO FINANCIAL STATEMENTS AND
+- --------- ----------------------------------
+ FINANCIAL STATEMENT SCHEDULES
+
+Page
+
+Consolidated Balance Sheets at October 31, 2003 and 2002 28
+
+Consolidated Statements of Income for each of the
+ three years in the period ended October 31, 2003 29
+
+Consolidated Statements of Cash Flows for each of the
+ three years in the period ended October 31, 2003 30
+
+Consolidated Statements of Stockholders' Equity
+ for each of the three years in the period ended October 31, 2003 31
+
+Notes to Consolidated Financial Statements 32-42
+
+Report of Independent Auditors 43
+
+Schedule.
+
+The following consolidated financial statement schedules of Urstadt Biddle
+ Properties Inc. are included in Item 15(d):
+
+III Real Estate and Accumulated Depreciation - October 31, 2003 44
+
+IV Mortgage Loans on Real Estate - October 31, 2003 46
+
+All other schedules for which provision is made in the applicable accounting
+regulation of the Securities and Exchange Commission are not required under the
+related instructions or are inapplicable and therefore have been omitted.
+
+27
+
+URSTADT BIDDLE PROPERTIES INC.
+ CONSOLIDATED BALANCE SHEETS
+ (In thousands, except share data)
+ October 31,
+ --------------------------------
+ ASSETS 2003 2002
+ ---- ----
+
+ Real Estate Investments:
+ 
+ Core properties-- at cost, net of accumulated depreciation 330,920 252,711
+ Non-core properties - at cost, net of accumulated depreciation 11,215 11,944
+ Mortgage notes and other receivable 2,184 3,447
+ ----- -----
+ 344,319 268,102
+
+ Cash and cash equivalents 22,449 46,342
+ Restricted cash 516 514
+ Short-term investments 9,532 25,145
+ Tenant receivables, net allowances of 1,369 and 1,169 8,815 5,695
+ Prepaid expenses and other assets 3,858 4,541
+ Deferred charges, net of accumulated amortization 3,229 3,294
+ ----- -----
+ Total Assets 392,718 353,633
+ ======= ========
+
+ LIABILITIES AND STOCKHOLDERS' EQUITY
+
+ Liabilities:
+ Mortgage notes payable 104,588 106,429
+ Accounts payable and accrued expenses 2,743 1,021
+ Deferred officers' compensation 401 287
+ Other liabilities 5,243 4,218
+ ----- -----
+ Total Liabilities 112,975 111,955
+ ------- -------
+
+ Minority Interests 7,320 7,320
+ ----- -----
+
+ Preferred Stock, par value .01 per share; 20,000,000 shares authorized; 8.99 
+ Series B Senior Cumulative Preferred stock, (liquidation preference of
+ 100 per share); 150,000 shares issued and outstanding 14,341 14,341
+ 8.50 Series C Senior Cumulative Preferred Stock, (liquidation preference of 100
+ per share); 400,000 and -0- shares issued and outstanding 38,406 -
+ ------ ------
+
+ Total Preferred Stock 52,747 14,341
+ ------ ------
+
+ Commitments and Contingencies
+
+ Stockholders' Equity:
+ Excess stock, par value .01 per share; 10,000,000 shares authorized;
+ none issued and outstanding - -
+ Common stock, par value .01 per share; 30,000,000 shares authorized;
+ 6,817,771 and 6,578,572 issued and outstanding shares, respectively 68 66
+ Class A Common stock, par value .01 per share; 40,000,000 shares authorized;
+ 18,548,453 and 18,449,472 issued and outstanding shares, respectively 185 185
+ Additional paid in capital 258,296 254,266
+ Cumulative distributions in excess of net income (33,611) (30,487)
+ Unamortized restricted stock compensation and officers notes receivable (5,262) (4,013)
+ --------- -------
+
+ Total Stockholders' Equity 219,676 220,017
+ ------- -------
+ Total Liabilities and Stockholders' Equity 392,718 353,633
+ ======= ========
+
+The accompanying notes to consolidated financial statements are an
+integral part of these statements.
+
+28
+
+URSTADT BIDDLE PROPERTIES INC.
+ CONSOLIDATED STATEMENTS OF INCOME
+ (In thousands, except per share data)
+ Year Ended October 31,
+ --------------------------------------------
+ 2003 2002 2001
+ ---- ---- ----
+Revenues
+ 
+ Operating leases 59,247 42,206 34,209
+ Lease termination income 80 765 1,137
+ Interest and other 1,034 1,369 747
+ ----- ------ ------
+ 60,361 44,340 36,093
+ ------ ------ ------
+
+Operating Expenses
+ Property expenses 17,805 12,781 11,502
+ Interest 8,094 5,584 4,456
+ Depreciation 9,919 7,547 6,697
+ Amortization 469 517 871
+ General and administrative expenses 3,154 2,836 2,484
+ Directors' fees and expenses 185 173 144
+ ------ ------ ------
+ 39,626 29,438 26,154
+ ------ ------ ------
+
+Operating Income 20,735 14,902 9,939
+
+Equity in Earnings of Unconsolidated Joint Venture - - 3,864
+
+Minority Interests in Results of Consolidated Joint Ventures (365) (395) (432)
+
+Gains on Sales of Real Estate Investments - - 316
+ ------ ------- ------
+
+Net Income 20,370 14,507 13,687
+
+ Preferred Stock Dividends (2,794) (1,498) (3,147)
+
+ Excess of Carrying Value Over Cost to Repurchase Preferred Shares
+ - 3,071 -
+ ------ ------ ------
+
+Net Income Applicable to Common and Class A Common Stockholders 17,576 16,080 10,540
+ ======= ======= =======
+
+Basic Earnings per Share:
+Common .67 .80 .91
+ ==== ==== ====
+Class A Common .74 .89 1.01
+ ==== ==== =====
+
+Diluted Earnings Per Share:
+Common .66 .78 .88
+ ==== ==== ====
+Class A Common .73 .87 .97
+ ==== ==== ====
+
+Dividends per share:
+Common .76 .74 .72
+ ==== ==== ====
+Class A Common .84 .82 .80
+ ==== ==== ====
+
+The accompanying notes to consolidated financial statements are an
+integral part of these statements.
+
+29
+
+URSTADT BIDDLE PROPERTIES INC.
+ CONSOLIDATED STATEMENTS OF CASH FLOWS
+ (In thousands)
+ Year Ended October 31,
+ -------------------------------------------
+ 2003 2002 2001
+ ---- ---- ----
+ Operating Activities:
+ 
+ Net income 20,370 14,507 13,687
+ Adjustments to reconcile net income to net cash provided
+ by operating activities:
+ Depreciation and amortization 10,388 8,064 7,568
+ Amortization of restricted stock 1,105 942 769
+ Recovery of investment in properties owned
+ subject to financing leases - - 191
+ Equity in income of unconsolidated joint venture - - (3,864)
+ Minority interests 365 395 432
+ Gains on sales of real estate investments - - (316)
+ Increase in restricted cash (2) (181) (174)
+ (Increase) decrease in tenant receivables (3,120) (1,871) 98
+ Increase (decrease) in accounts payable and accrued expenses 243 (1,649) 1,448
+ Increase (decrease) in other assets and other liabilities, net 1,827 (1,675) 1,469
+ ------ ------ ------
+ Net Cash Provided by Operating Activities 31,176 18,532 21,308
+ ------ ------ ------
+ Investing Activities:
+ Sales (purchases) of short term investments 15,613 (25,145) -
+ Acquisitions of properties (83,485) (34,785) (5,606)
+ Acquisition of minority interests - (1,258) (1,013)
+ Improvements to properties and deferred charges (2,844) (2,814) (11,695)
+ Investment in unconsolidated joint venture - - (480)
+ Net proceeds from sales of properties - 275 1,216
+ Distributions to limited partners of consolidated joint venture (365) (395) (432)
+ Distributions received from unconsolidated joint venture - - 6,544
+ Payments to limited partners of unconsolidated joint venture - (600) -
+ Payments received on mortgage notes and other receivables 1,263 62 72
+ Deposits on acquisitions of properties - (300) -
+ -------- -------- --------
+ Net Cash Used in Investing Activities (69,818) (64,960) (11,394)
+ -------- -------- --------
+ Financing Activities:
+ Net proceeds from sale of Series C Preferred Stock 38,406 - -
+ Sales of additional Common and Class A Common shares 1,366 88,523 42,959
+ Proceeds from mortgage notes payable and bank loans - 17,200 26,250
+ Payments on mortgage notes payable and bank loans (1,841) (17,256) (35,190)
+ Dividends paid - Common and Class A Common shares (20,700) (14,913) (8,797)
+ Dividends paid - Preferred Stock (2,794) (1,498) (3,147)
+ Purchases of Common and Class A Common shares - - (35)
+ Repurchase of preferred shares - (16,050) -
+ Repayments of notes from officers 312 3,017 -
+ ------ ------ ------
+
+ Net Cash Provided by Financing Activities 14,749 59,023 22,040
+ ------ ------ ------
+
+ Net (Decrease) Increase In Cash and Cash Equivalents (23,893) 12,595 31,954
+ Cash and Cash Equivalents at Beginning of Year 46,342 33,747 1,793
+ ------ ------ -----
+
+ Cash and Cash Equivalents at End of Year 22,449 46,342 33,747
+ ======= ======= =======
+
+The accompanying notes to consolidated financial statements are an
+integral part of these statements.
+ 30
+
+URSTADT BIDDLE PROPERTIES INC.
+CONSOLIDATED STATEMENTS OF STOCKHOLDERS' EQUITY
+(In thousands, except shares and per share data)
+
+ Common Stock Class A Common Stock Unamortized
+ ----------------- --------------------- (Cumulative Restricted Stock
+ Outstanding Outstanding Additional Distribution Compensation
+ Number of Par Number of Par Paid In In Excess of and Notes
+ Shares Value Shares Value Capital Net Income Receivable Total
+ ------ ----- ------ ----- ------- ---------- ---------- -----
+ 
+Balances - October 31, 2000 5,557,387 55 5,356,249 54 122,448 (33,397) (1,979) 87,181
+Net income applicable to Common
+ and Class A common - - - - - 10,540 - 10,540
+stockholders
+Cash dividends paid :
+ Common stock .72 per share) - - - - - (4,487) - (4,487)
+ Class A common stock .80
+ per share) - - - - - (4,310) - (4,310)
+Sale of additional shares 200,000 2 4,805,000 48 42,521 - - 42,571
+Sale of additional shares under
+ dividend reinvestment plan 18,652 - 23,257 - 343 - - 343
+Shares issued under restricted
+stock 48,000 - 48,000 - 686 - (686) -
+ Plan
+Amortization of restricted stock
+ Compensation - - - - - - 769 769
+Purchases of shares (900) - (2,800) - (35) - - (35)
+Exercises of stock options 419,000 5 24,859 - 3,043 - - 3,048
+Note from officer upon exercise
+ Of stock options - - - - - - (3,003) (3,003)
+ Deemed repurchase of shares - (654,546) (6) (6,243) - - (6,249)
+ --------- -- --------- -- ------- ------- ------- -------
+Balances - October 31, 2001 6,242,139 62 9,600,019 96 162,763 (31,654) (4,899) 126,368
+Net income applicable to Common
+ and Class A common - - - - - 16,080 - 16,080
+stockholders
+Cash dividends paid :
+ Common stock .74 per share) - - - - - (4,750) - (4,750)
+ Class A common stock .82
+ per share) - - - - - (10,163) - (10,163)
+Sales of Class A common shares - - 8,749,222 88 87,835 - - 87,923
+Sales of additional shares under
+ dividend reinvestment plan 14,296 - 19,494 - 364 - - 364
+Shares issued under restricted
+stock plan 110,375 2 43,425 1 1,577 - (1,580) -
+Amortization of restricted stock
+ compensation - - - - - - 942 942
+Exercises of stock options 211,762 2 37,312 - 1,727 - - 1,729
+Notes from officers upon exercises
+ of stock options - - - - - - (1,493) (1,493)
+Repayment of notes receivable
+from officers - - - - - - 3,017 3,017
+ --------- -- ---------- --- ------- ------- ------ -------
+Balances - October 31, 2002 6,578,572 66 18,449,472 185 254,266 (30,487) (4,013) 220,017
+Net income applicable to Common
+ and Class A common - - - - - 17,576 - 17,576
+stockholders
+Cash dividends paid :
+ Common stock .76 per share) - - - - - (5,135) - (5,135)
+ Class A common stock .84
+ per share) - - - - - (15,565) - (15,565)
+Sales of additional shares under
+ dividend reinvestment plan 61,699 1 18,704 - 1,051 - - 1,052
+Shares issued under restricted
+stock plan 159,500 1 56,200 - 2,665 - (2,666) -
+Amortization of restricted stock
+ compensation - - - - - - 1,105 1,105
+Exercises of stock options 18,000 - 24,077 - 314 - - 314
+Repayment of notes receivable
+from officers - - - - - - 312 312
+ --------- --- ---------- ---- -------- -------- -------- --------
+ 6,817,771 68 18,548,453 185 258,296 (33,611) (5,262) 219,676
+ ========= === ========== ==== ======== ========= ======== ========
+
+The accompanying notes to consolidated financial statements are an integral part
+of these statements.
+
+31
+ 
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+(1) SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+
+Business
+Urstadt Biddle Properties Inc. (Company), a real estate investment trust (REIT),
+is engaged in the acquisition, ownership and management of commercial real
+estate, primarily neighborhood and community shopping centers in the
+northeastern part of the United States. Other assets include office and retail
+buildings and industrial properties. The Company's major tenants include
+supermarket chains and other retailers who sell basic necessities. At October
+31, 2003, the Company owned or had interests in 30 properties containing a total
+of 3.4 million square feet of leasable area.
+
+Principles of Consolidation and Use of Estimates
+The consolidated financial statements include the accounts of the Company, its
+wholly owned subsidiaries, and joint ventures in which the Company has the
+ability to control the affairs of the venture. Since the Company has operating
+control over the joint ventures, the joint ventures are consolidated into the
+consolidated financial statements of the Company. All significant intercompany
+transactions and balances have been eliminated in consolidation.
+
+The preparation of financial statements in conformity with accounting principles
+generally accepted in the United States requires management to make use of
+estimates and assumptions that affect amounts reported in the financial
+statements as well as certain disclosures. Actual results could differ from
+those estimates.
+
+Federal Income Taxes
+The Company has elected to be treated as a real estate investment trust under
+Sections 856-860 of the Internal Revenue Code (Code). Under those sections, a
+REIT, that among other things, distributes at least 90 of real estate trust
+taxable income and meets certain other qualifications prescribed by the Code
+will not be taxed on that portion of its taxable income that is distributed. The
+Company believes it qualifies as a REIT and has distributed all of its taxable
+income for the fiscal years through 2003 in accordance with the provisions of
+the Code. Accordingly, no provision has been made for Federal income taxes in
+the accompanying consolidated financial statements.
+
+Depreciation and Amortization
+The Company uses the straight-line method for depreciation and amortization.
+Core and non-core properties are depreciated over the estimated useful lives of
+the properties, which range from 30 to 40 years. Property improvements are
+depreciated over the estimated useful lives that range from 10 to 20 years.
+Furniture and fixtures are depreciated over the estimated useful lives that
+range from 3 to 10 years. Tenant improvements are amortized over the life of the
+related leases.
+
+Deferred Charges
+Deferred charges consist principally of leasing commissions, which are amortized
+ratably over the life of the tenant leases and financing fees, which are
+amortized over the terms of the respective agreements. Deferred charges in the
+accompanying consolidated balance sheets are shown at cost, net of accumulated
+amortization of 1,729,000 and 1,485,000 as of October 31, 2003 and 2002,
+respectively.
+
+Real Estate Investment Impairment
+The Company reviews long-lived assets for impairment whenever events or changes
+in circumstances indicate that the carrying amount of an asset may not be
+recoverable. Recoverability of assets to be held and used is measured by a
+comparison of the carrying amount of the asset to aggregate future net cash
+flows, (undiscounted and without interest), expected to be generated by the
+asset. If such assets are considered impaired, the impairment to be recognized
+is measured by the amount by which the carrying amounts of the assets exceed the
+fair value less costs to sell. It is the Company's policy to reclassify
+properties as assets to be disposed of upon determination that such properties
+will be sold within one year.
+
+Capitalization
+Acquisition of real estate investments, including brokerage, legal and other
+external costs incurred in acquiring new properties are capitalized as incurred.
+Additions, renovations and improvements that enhance and/or extend the useful
+life of a property are also capitalized. Expenditures for ordinary maintenance,
+repairs and improvements that do not materially prolong the normal useful life
+of an asset are charged to operations as incurred.
+
+Revenue Recognition
+Revenues from operating leases include revenues from core properties and
+non-core properties. Rental income is generally recognized based on the terms of
+leases entered into with tenants. Minimum rental income from leases with
+scheduled rent increases is recognized on a straight-line basis over the lease
+term. At October 31, 2003 and 2002, approximately 6,372,000 and 3,743,000 has
+been recognized as straight-line rents receivable (representing the current net
+cumulative rents recognized prior to when billed and collectible as provided by
+the terms of the leases), all of which is included in tenant receivables in the
+accompanying consolidated financial statements. Percentage rent is recognized
+when a specific tenant's sales breakpoint is achieved. Property operating cost
+recoveries from tenants of common area maintenance, real estate taxes, and other
+recoverable costs are recognized in the period the related expenses are
+ 32
+ 
+incurred. Lease termination fees received by the Company from its tenants are
+recognized as income in the period received. Interest income is recognized as it
+is earned. Gains and losses on sales of properties are recorded when the
+criteria for recognizing such gains or losses under generally accepted
+accounting principles have been met.
+
+The Company provides an allowance for doubtful accounts against the portion of
+tenant receivables (including an allowance for future tenant credit losses of
+approximately 10 of the deferred straight-line rents receivable) which is
+estimated to be uncollectible. Such allowances are reviewed periodically. At
+October 31, 2003 and 2002, tenant receivables in the accompanying consolidated
+balance sheets are shown net of allowances for doubtful accounts of 1,369,000
+and 1,169,000, respectively.
+
+Cash and Cash Equivalents
+The Company considers highly liquid investments with original maturities of 90
+days or less when purchased to be cash equivalents.
+
+Restricted Cash
+Restricted cash consists of those tenant security deposits which are required to
+be held in separate bank accounts.
+
+Short-Term Investments
+Short-term investments consist of investments with original maturities of
+greater than three months when purchased and are carried at fair value (which
+approximates cost plus accrued interest). At October 31, 2003 and 2002,
+short-term investments consists principally of shares of a mutual fund which
+invests primarily in fixed income securities with an average duration of between
+three and thirteen months.
+
+Fair Value of Financial Instruments
+The carrying values of cash and cash equivalents, short-term investments, rent
+receivable, accounts payable, accrued expenses and other assets and liabilities
+are reasonable estimates of their fair values because of the short maturities of
+these instruments. The estimated fair value of mortgage notes receivable
+collateralized by real property is based on discounting the future cash flows at
+a year-end risk adjusted lending rate that the Company would utilize for loans
+of similar risk and duration. At October 31, 2003 and 2002, the estimated
+aggregate fair value of the mortgage notes and other receivable was 2,161,000
+and 3,542,000, respectively.
+
+The estimated fair value of mortgage notes payable was 114,000,000 and
+ 118,000,000 at October 31, 2003 and 2002, respectively. The estimated fair
+value of mortgage notes payable is based on discounting the future cash flows at
+a year-end risk adjusted lending rate currently available to the Company for
+issuance of debt with similar terms and remaining maturities.
+
+Although management is not aware of any factors that would significantly affect
+the estimated fair value amounts, such amounts have not been comprehensively
+revalued for purposes of these financial statements since that date and current
+estimates of fair value may differ significantly from the amounts presented
+herein.
+
+Concentration of Credit Risk
+Financial instruments that potentially subject the Company to concentrations of
+credit risk consist primarily of cash and cash equivalents, mortgage loans
+receivable and tenant receivables. The Company places its cash and cash
+equivalents in excess of insured amounts with high quality financial
+institutions. Management of the Company performs ongoing credit evaluations of
+its tenants and requires certain tenants to provide security deposits or letters
+of credit. Though these security deposits and letters of credit are insufficient
+to meet the terminal value of a tenant's lease obligation, they are a measure of
+good faith and a source of funds to offset the economic costs associated with
+lost rent and the costs associated with retenanting the space.
+
+Earnings Per Share
+The Company calculates basic and diluted earnings per share in accordance with
+SFAS No. 128, "Earnings Per Share." Basic earnings per share ("EPS") excludes
+the impact of dilutive shares and is computed by dividing net income applicable
+to Common and Class A Common stockholders by the weighted number of Common
+shares and Class A Common shares outstanding for the period. Diluted EPS
+reflects the potential dilution that could occur if securities or other
+contracts to issue Common shares or Class A Common shares were exercised or
+converted into Common shares or Class A Common shares and then shared in the
+earnings of the Company. Since the cash dividends declared on the Company's
+Class A Common stock are higher than the dividends declared on the Common Stock,
+basic and diluted EPS have been calculated using the "two-class" method. The
+two-class method is an earnings allocation formula that determines earnings per
+share for each class of common stock according to the weighted average of the
+dividends declared, outstanding shares per class and participation rights in
+undistributed earnings.
+ 33
+ 
+The following table sets forth the reconciliation between basic and diluted EPS
+(in thousands):
+
+2003 2002 2001
+ ---- ---- ----
+Numerator
+ 
+Net income applicable to common stockholders - basic 4,171 4,880 5,326
+Effect of dilutive securities:
+ Operating partnership units 151 160 (32)
+ ------ ------ ------
+Net income applicable to common stockholders - diluted 4,322 5,040 5,294
+ ====== ====== ======
+Denominator
+Denominator for basic EPS-weighted average common shares 6,259 6,089 5,881
+Effect of dilutive securities:
+ Stock options and awards 252 288 157
+Operating partnership units 55 55 -
+ ----- ----- -----
+Denominator for diluted EPS - weighted average common
+ equivalent shares 6,566 6,432 6,038
+ ===== ===== =====
+Numerator
+Net income applicable to Class A common stockholders-basic 13,405 11,200 5,214
+Effect of dilutive securities:
+ Operating partnership units 215 202 246
+ ------- ------- ------
+Net income applicable to Class A common stockholders - diluted 13,620 11,402 5,460
+ ======= ======= ======
+Denominator
+Denominator for basic EPS - weighted average Class A common shares 18,200 12,615 5,182
+Effect of dilutive securities:
+ Stock options and awards 210 211 135
+ Operating partnership units 310 310 289
+ ------ ------ -----
+Denominator for diluted EPS - weighted average Class A common
+ equivalent shares 18,720 13,136 5,606
+ ====== ====== =====
+ 
+The weighted average Common equivalent shares and Class A common equivalent
+shares for the year ended October 31, 2001 exclude 54,553 Common and 54,553
+Class A Common partnership units that are exchangeable into shares. These shares
+were not included in the calculation of diluted EPS because the effect would be
+anti-dilutive.
+
+Segment Reporting
+The Company operates in one industry segment, ownership of commercial real
+estate properties which are located principally in the northeastern United
+States. Management reviews operating and financial data for each property
+separately and independently from all other properties when making resource
+allocation decisions and measuring performance.
+
+Recently Issued Accounting Pronouncement
+In January 2003, the FASB issued FASB Interpretation No. 46, "Consolidation of
+Variable Interest Entities," which explains how to identify variable interest
+entities ("VIE") and assess whether to consolidate such entities. The provisions
+of this interpretation are effective immediately for VIEs formed after January
+31, 2003. For VIEs formed prior to January 31, 2003, the provisions of this
+interpretation apply to the first fiscal year or interim period beginning after
+December 15, 2003. Management does not believe that the adoption of this
+pronouncement will have a material effect on its operations or financial
+position.
+
+In May 2003, the FASB issued SFAS No. 150 "Accounting for Certain Financial
+Instruments with Characteristics of both Liabilities and Equity" ("Statement").
+The Statement establishes standards for classifying and measuring as liabilities
+certain financial instruments that embody obligations of the issuer and have
+characteristics of both liabilities and equity. As the holders of the Series B
+Preferred Stock and Series C Preferred Stock only have a contingent right to
+require the Company to repurchase all or part of such holders interests upon a
+change of control of the Company (as defined), the Series B Preferred Stock and
+Series C Preferred Stock are classified as redeemable equity instruments as a
+change in control is not certain to occur.
+
+In November 2003, the FASB deferred the classification and measurement
+provisions of FASB No. 150 which apply to certain mandatorily redeemable
+non-controlling interests. This deferral is expected to remain in effect while
+these provisions are further evaluated by the FASB. The Company has one finite
+life joint venture which contains a mandatorily redeemable non-controlling
+interest. At October 31, 2003 the estimated fair value of the minority interest
+was approximately 2.4 million. The joint venture has a termination date of
+December 31, 2097.
+
+The Company has adopted the disclosure-only provisions of Statement of Financial
+Accounting Standards No. 123, "Accounting for Stock Based Compensation" ("SFAS
+123"). Accordingly, no compensation expense has been recognized for stock
+options granted under the plan. Had compensation cost for stock options granted
+been determined based on the fair value on the grant date consistent with the
+
+ 34
+ 
+provisions of SFAS 123, the effect on the Company's net income and earnings per
+share in each of the three years ended October 31, 2003 would have been
+immaterial.
+
+(2) REAL ESTATE INVESTMENTS
+
+The Company's investments in real estate, net of depreciation, were composed of
+the following at October 31, 2003 and 2002 (in thousands):
+
+Core Non-core Mortgage Notes 2003 2002
+ Properties Properties Receivables Totals Totals
+- ------------------------------------------------------------------------------------------------
+ 
+Retail 322,734 1,830 2,184 326,748 249,751
+Office 7,882 7,821 - 15,703 16,263
+Industrial - 1,564 - 1,564 1,784
+Undeveloped Land 304 - - 304 304
+ -------- ------- ------ ------- --------
+ 330,920 11,215 2,184 344,319 268,102
+ ======== ======= ====== ======= ========
+ 
+The Company's investments at October 31, 2003, consisted of equity interests in
+30 properties, which are located in various regions throughout the United States
+and mortgage notes. The Company's primary investment focus is neighborhood and
+community shopping centers located in the northeastern United States. These
+properties are considered core properties of the Company. The remaining
+properties are located outside of the northeastern United States and are
+considered non-core properties. As a significant concentration of the Company's
+properties are in the northeast, market changes in this region could have an
+effect on the Company's leasing efforts and ultimately its overall results of
+operations. The following is a summary of the geographic locations of the
+Company's investments at October 31, 2003 and 2002 (in thousands):
+
+2003 2002
+- ----------------------------------------------------------------------------------------------------------
+ 
+Northeast 331,608 253,432
+Southeast - 1,196
+Midwest 8,704 9,048
+Southwest 4,007 4,426
+ -------- --------
+ 344,319 268,102
+ ======== ========
+
+(3) CORE PROPERTIES
+
+The components of core properties were as follows (in thousands):
+
+2003 2002
+- ----------------------------------------------------------------------------------------------------------
+ 
+Land 69,756 53,021
+Buildings and improvements 304,985 236,362
+ ------- -------
+ 374,741 289,383
+Accumulated depreciation (43,821) (36,672)
+ -------- --------
+ 330,920 252,711
+ ======== ========
+
+Space at the Company's core properties is generally leased to various individual
+tenants under short and intermediate term leases which are accounted for as
+operating leases.
+
+Minimum rental payments on non-cancelable operating leases become due as
+follows: 2004 - 41,343,000; 2005 - 38,672,000; 2006 - 36,745,000; 2007 -
+ 34,556,000; 2008 - 31,946,000 and thereafter - 151,909,000.
+
+Certain of the Company's leases provide for the payment of additional rent based
+on a percentage of the tenant's revenues. Such additional percentage rents are
+included in operating lease income and were approximately 60,000, 47,000, and
+ 70,000, in 2003, 2002 and 2001, respectively.
+
+Owned Properties
+
+In fiscal 2003, the Company acquired four properties consisting of the
+Westchester Pavilion in White Plains, New York, a 185,000 square foot property
+for 39.9 million, seven retail building units totaling 135,000 square feet in
+The Somers Commons in Somers, New York, for 21.65 million, the Orange Meadows
+Shopping Center in Orange, Connecticut, a 78,000 square foot property for 11.3
+million, and the Greens Farms Plaza, in Westport, Connecticut, a 38,000 square
+foot property for 10.1 million.
+
+ 35
+ 
+In connection with the purchase of Orange Meadows, the Company has agreed to pay
+the seller approximately 1.5 million as additional purchase price pursuant to
+an agreed formula, which amount is included in Accounts Payable in the
+accompanying consolidated balance sheet at October 31, 2003.
+
+In fiscal 2002, the Company acquired the Airport Plaza shopping center in
+Danbury, Connecticut for 7.0 million subject to a first mortgage loan of 2.0
+million at a fixed interest rate of 8.375 . The assumption of the first mortgage
+represents a non-cash financing activity and is therefore not included in the
+accompanying 2002 consolidated statement of cash flows.
+
+In fiscal 2001, the Company purchased two properties consisting of an office
+property in Greenwich, Connecticut and a 38,000 square foot shopping center in
+Westchester County, New York for a total purchase price of 9.5 million. In
+connection with the acquisition of the shopping center, the Company assumed a
+first mortgage of 4.2 million. The assumption of the first mortgage represents
+a non-cash financing activity and is therefore not included in the accompanying
+2001 consolidated statement of cash flows.
+
+Upon the acquisition of real estate properties, the fair value of the real
+estate purchased is allocated to the acquired tangible assets, (consisting of
+land, buildings and building improvements) and identified intangible assets and
+liabilities, (consisting of above-market and below-market leases and in-place
+leases) in accordance with SFAS No. 141 "Business Combinations". The Company
+utilizes methods similar to those used by independent appraisers in estimating
+the fair value of acquired assets and liabilities. The fair value of the
+tangible assets of an acquired property considers the value of the property
+"as-if-vacant". The fair value reflects the depreciated replacement cost of the
+asset. In allocating purchase price to identified intangible assets and
+liabilities of an acquired property, the value of above-market and below-market
+leases are estimated based on the differences between (i) contractual rentals
+and the estimated market rents over the applicable lease term discounted back to
+the date of acquisition utilizing a discount rate adjusted for the credit risk
+associated with the respective tenants and (ii) the estimated cost of acquiring
+such leases giving effect to the Company's history of providing tenant
+improvements and paying leasing commissions, offset by a vacancy period during
+which such space would be leased. The aggregate value of in-place leases, is
+measured by the excess of (i) the purchase price paid for a property after
+adjusting existing in-place leases to market rental rates over (ii) the
+estimated fair value of the property "as-if-vacant," determined as set forth
+above.
+
+As of October 31, 2003, as a result of its evaluations, the Company has
+allocated 192,000 to an asset and 560,000 to a liability associated with the
+net fair value assigned to the acquired leases at the properties.
+
+The Company is currently in the process of analyzing the fair value of in-place
+leases for the acquisition of the Somers Commons property, and consequently, no
+value has yet been assigned to the leases. Accordingly, the purchase price
+allocation is preliminary and may be subject to change.
+
+Consolidated Joint Ventures
+
+The Company is the general partner in an entity that owns the Eastchester Mall
+in Eastchester, New York. The limited partner is entitled to preferential
+distributions of cash flow from the property and may put its interest in the
+entity to the Company for a fixed number of shares of Common Stock and Class A
+Common stock of the Company. The Company, at its option, may redeem the limited
+partner's interest for cash. The Company also has an option to purchase the
+limited partner's interest after a certain period.
+
+The Company is the general partner in an entity that owns the Arcadian Shopping
+Center in Briarcliff Manor, New York. The limited partners contributed the
+property, subject to a 6.3 million first mortgage, in exchange for partnership
+units (PU's) of the entity. The PU's are exchangeable into an equivalent number
+of shares of the Company's Class A Common Stock. The limited partners are
+entitled to preferential distributions of cash flow from the property and may
+put their partnership interests to the Company for cash or Class A Common Stock
+of the Company at a unit price as defined in the partnership agreement. The
+Company, at its option, may redeem the limited partners' interest for cash. In
+fiscal 2001, the Company redeemed, at net book value, 127,548 PU's for cash of
+ 1.0 million. At October 31, 2003 and 2002 there were 255,097 PU's outstanding.
+
+The Company has a 90 general partner interest in a partnership that owns the
+Ridgeway Shopping Center in Fairfield County, Connecticut. The partnership
+acquired the property in fiscal 2002, subject to a 57.4 million first mortgage.
+The partners receive an annual cash preference payable from available cash of
+the partnership. Any unpaid preferences accumulate and are paid from future
+available cash, if any. The limited partners' cash preferences are paid after
+the general partner's preferences are satisfied. The balance of available cash,
+if any, is distributed in accordance with the respective partners' interests.
+Upon liquidation, proceeds from the sale of partnership assets are to be
+distributed in accordance with the respective partners' interests. The partners
+are not obligated to make any additional capital contributions to the
+partnership. The Company has retained an affiliate of one of the limited
+partners to provide management and leasing services to the property at an annual
+fee of 125,000 for a period of five years ending in June 2007. The assumption
+of the first mortgage loan represents a non-cash financing activity and is
+therefore not included in the accompanying 2002 consolidated statement of cash
+flows.
+ 36
+
+The limited partnership interests are reflected in the accompanying consolidated
+financial statements as Minority Interests.
+
+ (4) NON-CORE PROPERTIES
+
+The Board of Directors has authorized a plan to sell all of the non-core
+properties of the Company over a period of several years. At October 31, 2003,
+the non-core properties consist of two distribution and service properties, one
+office building and one retail property located outside of the Northeast region
+of the United States.
+
+The components of non-core properties were as follows (in thousands):
+
+2003 2002
+- -----------------------------------------------------------------------------------------------------------
+ 
+Land 1,943 1,943
+Buildings and improvements 19,433 19,321
+ ------ ------
+ 21,376 21,264
+Accumulated depreciation (10,161) (9,320)
+ -------- -------
+ 11,215 11,944
+ ======= =======
+ 
+Minimum rental payments on non-cancelable operating leases of the non-core
+properties become due as follows: 2004 - 4,257,000; 2005 - 4,332,000; 2006 -
+ 4,408,000; 2007 - 4,156,000; 2008 - 1,376,000 and thereafter 2,170,000.
+
+Sales of Properties
+In fiscal 2002, the Company sold undeveloped land for a net loss on sale of
+ 6,200.
+
+In fiscal 2001, the Company sold a non-core property for 100,000. There was no
+gain or loss on the sale. The Company also sold undeveloped land for a net gain
+on the sale of the property of 316,000.
+
+The operating income of the properties sold during each of the years ended
+October 31, 2002 and 2001 was less than 1 of the consolidated operating income
+in each of the years then ended.
+
+In fiscal 2001, the Company had a general partner interest in the Countryside
+Square Limited Partnership (the "Partnership"), an unconsolidated joint venture,
+which owned the Countryside Square Shopping Center in Clearwater, Florida. The
+Company accounted for its investment in the partnership by the equity method of
+accounting. Under the equity method, only the Company's share of income or loss
+of the partnership is reflected in the financial statements. During fiscal 2001,
+the property was sold and the partnership liquidated. Accordingly, through the
+date of sale, the Company recorded 3,864,000 as its proportionate share of the
+income of the joint venture including earnings from the sale of the property.
+
+(5) MORTGAGE NOTES AND OTHER RECEIVABLE
+
+The components of the mortgage notes and other receivable at October 31, 2003
+and 2002 were as follows (in thousands):
+
+2003 2002
+- -------------------------------------------------------------------------------------------------------------
+Mortgage notes receivable:
+ 
+ Remaining principal balance 2,577 2,685
+ Unamortized discounts to reflect market interest rates
+ at time of acceptance of notes (393) (434)
+ ----- -----
+ 2,184 2,251
+Other receivable - 1,196
+ ------ -----
+ 2,184 3,447
+
+Mortgage notes receivable consist of two fixed rate mortgages with contractual
+interest rates of 9 and 12 which are secured by commercial property.
+
+At October 31, 2003, principal payments on the mortgage notes receivable become
+due as follows: 2004 - 119,000; 2005 - 130,000; 2006 - 142,000; 2007 -
+ 156,000; 2008 - 170,000 and thereafter - 1,860,000.
+ 37
+ 
+(6) MORTGAGE NOTES PAYABLE AND LINES OF CREDIT
+
+At October 31, 2003, the Company had ten non-recourse first mortgage notes
+payable totaling 104,588,000 106,429,000 at October 31, 2002) due in
+installments over various terms extending to fiscal year 2011 at fixed rates of
+interest ranging from 6.29 to 8.375 . The mortgage notes payable are
+collateralized by real estate investments having a net carrying value of
+approximately 167,000,000 as of October 31, 2003.
+
+Scheduled principal payments during the next five years and thereafter are as
+follows: 2004 - 1,985,000; 2005 - 2,139,000; 2006 - 8,927,000; 2007 -
+ 11,225,000; 2008 - 53,261,000 and thereafter - 27,051,000.
+
+At October 31, 2003, the Company had a secured revolving line of credit with a
+bank, which allows for borrowings up to 18.125 million. The agreement, which
+expires in October 2005, is secured by first mortgage liens on two properties.
+Interest on outstanding borrowings is at a variable rate of prime + .5 or LIBOR
++ 1.5 . The Company can elect a fixed rate option at any time prior to the last
+year of the agreement. The agreement requires the Company to maintain certain
+debt service coverage ratios during its term and provides for a permanent
+reduction in the revolving credit loan amount of 625,000 annually. At October
+31, 2003 and 2002, the Company had no outstanding borrowings under this
+revolving credit agreement. The Company pays annual fees of .25 on the unused
+portion of this credit facility.
+
+The Company also has a 20 million unsecured line of credit arrangement with the
+same bank. The line of credit expires in fiscal 2004 and, is available to
+acquire real estate, refinance indebtedness and for working capital needs.
+Extensions of credit under the arrangement are at the bank's discretion and
+subject to the bank's satisfaction of certain conditions. Outstanding borrowings
+bear interest at the prime rate + .5 or LIBOR + 2.5 . The Company pays an
+annual fee of .25 on unused amounts. There were no borrowings outstanding under
+this line of credit at October 31, 2003 and 2002.
+
+Interest paid for the years ended October 31, 2003, 2002, and 2001 was
+ 8,094,000, 5,584,000 and 4,456,000, respectively.
+
+(7) PREFERRED STOCK
+
+The 8.99 Series B Senior Cumulative Preferred Stock ("Series B Preferred
+Stock") has no stated maturity, is not subject to any sinking fund or mandatory
+redemption and is not convertible into other securities or property of the
+Company. On or after January 8, 2008, the Company at its option may redeem the
+Series B Preferred Stock, in whole or in part, at a redemption price of 100 per
+share, plus all accrued dividends. Upon a change in control of the Company (as
+defined), (i) each holder of Series B Preferred Stock shall have the right, at
+such holder's option, to require the Company to repurchase all or any part of
+such holder's Series B Preferred Stock for cash at a repurchase price of 100
+per share, plus all accrued and unpaid dividends, and (ii) the Company shall
+have the right, at the Company's option, to redeem all or any part of the Series
+B Preferred Stock at (a) prior to January 8, 2008, the Make-Whole Price (as
+defined) and (b) on or subsequent to January 8, 2008, the redemption price of
+ 100 per share, plus all accrued and unpaid dividends. Holders of the Series B
+Preferred Stock are entitled to receive cumulative preferential cash dividends
+equal to 8.99 per annum, payable quarterly in arrears and subject to
+adjustments under certain circumstances.
+
+In fiscal 2003, the Company sold 400,000 shares of 8.50 Series C Senior
+Cumulative Preferred stock, ("Series C Preferred Stock") for net proceeds of 
+38.4 million. The Series C Preferred Stock has no stated maturity and is not
+convertible into other securities of the Company. On or after May 29, 2013, the
+Series C Preferred Stock may be redeemed by the Company, at its option, at a
+redemption price of 100 per share.
+
+The Series B Preferred Stock and Series C Preferred Stock contain covenants,
+which require the Company to maintain certain financial coverages relating to
+fixed charge and capitalization ratios. Shares of both Preferred Stock series
+are non-voting; however, under certain circumstances (relating to non-payment of
+dividends or failure to comply with the financial covenants) the preferred
+stockholders will be entitled to elect two directors. The Company was in
+compliance with such covenants at October 31, 2003 and 2002.
+
+In fiscal 2002, the Company repurchased 200,000 shares of its Series B Preferred
+Stock for 16,050,000 in a negotiated transaction with a holder of the preferred
+shares. The Company recorded the excess of the carrying value over the cost to
+repurchase the preferred shares of 3,071,000 as an increase in net income
+applicable to Common and Class A Common stockholders.
+
+38
+ 
+(8) STOCKHOLDERS' EQUITY
+
+In fiscal 2002, the Company completed a secondary offering of 8,050,000 shares
+of its Class A Common Stock in an underwritten public offering. The net proceeds
+to the Company (after deducting underwriting fees and expenses) were
+ 81,854,000. In November 2001, the Company also sold 699,222 shares to its
+underwriters to cover over allotments in connection with the Company's secondary
+stock offering of 4,800,000 shares in fiscal 2001. Net proceeds to the Company
+amounted to 6,069,000.
+
+In fiscal 2001, the Company sold 4,800,000 shares of its Class A Common Stock in
+an underwritten public offering. The net proceeds to the Company (after
+deducting underwriting fees and expenses) were 41,136,000. The Company also
+sold 200,000 shares of Common Stock and 5,000 shares of Class A Common Stock for
+total proceeds of 1,435,000 in a private placement offering with two entities
+controlled by an officer of the Company.
+
+Underwriting commissions and costs incurred in connection with the Company's
+stock offerings are reflected as a reduction of additional paid in capital.
+
+The Class A Common Stock entitles the holder to 1/20 of one vote per share. Each
+share of Common Stock and Class A Common Stock have identical rights with
+respect to dividends except that each share of Class A Common Stock will receive
+not less than 110 of the regular quarterly dividends paid on each share of
+Common Stock.
+
+The Company has a Dividend Reinvestment and Share Purchase Plan that allows
+shareholders to acquire additional shares of Common Stock and Class A Common
+Stock by automatically reinvesting dividends. The Company issued 61,699 shares
+of Common Stock and 18,704 shares of Class A Common Stock in fiscal year ended
+October 31, 2003 (14,296 shares of Common Stock and 19,494 shares of Class A
+Common Stock in fiscal year ended October 31, 2002) through the Plan.
+
+The Company has a stockholders rights agreement, which expires on November 12,
+2008. The rights are not currently exercisable. When they are exercisable, the
+holder will be entitled to purchase from the Company one one-hundredth of a
+share of a newly-established Series A Participating Preferred Stock at a price
+of 65 per one one-hundredth of a preferred share, subject to certain
+adjustments. The distribution date for the rights will occur 10 days after a
+person or group either acquires or obtains the right to acquire 10 ("Acquiring
+Person") or more of the combined voting power of the Company's Common Shares, or
+announces an offer the consummation of which would result in such person or
+group owning 30 or more of the then outstanding Common Shares. Thereafter,
+shareholders other than the Acquiring Person will be entitled to purchase
+original common shares of the Company having a value equal to two times the
+exercise price of the right.
+
+If the Company is involved in a merger or other business combination at any time
+after the rights become exercisable, and the Company is not the surviving
+corporation or 50 or more of the Company assets are sold or transferred, the
+rights agreement provides that the holder other than the Acquiring Person will
+be entitled to purchase a number of shares of common stock of the acquiring
+company having a value equal to two times the exercise price of each right.
+
+The Company's articles of incorporation provide that if any person acquires more
+than 7.5 of the aggregate value of all outstanding stock, except, among other
+reasons, as approved by the Board of Directors, such shares in excess of this
+limit shall automatically be exchanged for an equal number of shares of Excess
+Stock. Excess Stock has limited rights, may not be voted and is not entitled to
+any dividends.
+
+39
+
+(9) STOCK OPTION AND OTHER BENEFIT PLANS
+
+The Company has a stock option plan whereby 824,093 Common shares and 743,003
+Class A Common shares are reserved for issuance to key employees and
+non-employee Directors of the Company. Options are granted at fair market value
+on the date of the grant, have a duration of ten years from the date of grant,
+and vest over a maximum period of four years from the date of grant.
+
+A summary of stock option transactions during the periods covered by these
+financial statements is as follows:
+
+Year ended October 31 2003 2002 2001
+- --------------------- ------------------- ------------------- ---------------------
+
+ Weighted Weighted Weighted
+ Number Average Number Average Number Average
+ of Exercise of Exercise of Exercise
+Common Stock: Shares Prices Shares Prices Shares Prices
+ ------ ------ ------ ------ ------ ------
+
+Balance at beginning of period 91,570 7.50 315,060 7.00 739,958 6.91
+Granted - - - - - -
+Exercised (18,000) 7.22 (211,762) 6.88 (419,000) 6.83
+Canceled/Forfeited (17,694) 7.44 (11,728) 7.03 (5,898) 7.54
+ --------- -------- -------
+Balance at end of period 55,876 7.62 91,570 7.50 315,060 7.00
+Exercisable 55,876 91,570 222,060
+
+Class A Common Stock:
+
+Balance at beginning of period 66,810 7.71 314,605 7.50 739,464 7.48
+Granted - - - - - -
+Exercised (24,077) 7.61 (37,312) 7.26 (24,859) 7.38
+Canceled/Forfeited - - (210,483) 7.16 (400,000) 7.13
+ -------- --------- ---------
+Balance at end of period 42,733 7.83 66,810 7.71 314,605 7.50
+Exercisable 42,733 66,810 221,605
+
+At October 31, 2003, exercise prices of shares of Common Stock and Class A
+Common Stock under option ranged from 6.60 to 9.03, for the Common Stock and
+ 6.65 to 9.09, for the Class A Common Stock. Option expiration dates range for
+both classes of stock from April 2004 through April 2009 and the weighted
+average remaining contractual life of these options is 3.5 years.
+
+As of October 31, 2003, outstanding options to acquire approximately 21,000
+shares each of Common Stock and Class A Common stock permit the optionee to
+elect to receive either shares of Common stock, Class A Common Stock or a
+combination of both. Upon an election to exercise shares of a class of common
+stock by the optionee, a comparable number of shares of the class of common
+stock not elected by such optionee are deemed cancelled and no longer available
+for future grants.
+
+In connection with the exercise of stock options certain officers of the Company
+executed full recourse promissory notes equal to the purchase price of the
+shares. At October 31, 2003, notes from officers totaled 1,434,000 1,746,000
+at October 31, 2002). The notes have 10-year terms and bear fixed rates of
+interest ranging from 6.8 to 8 . The shares are pledged as additional
+collateral for the notes. Interest is payable quarterly. The exercise of the
+stock options and the issuance of the notes represent non-cash financing
+activities and are therefore not included in the accompanying consolidated
+statements of cash flows.
+
+The Company has a restricted stock plan for key employees and directors of the
+Company. The plan authorizes grants of restricted stock of up to 1,050,000
+shares (350,000 shares each of Common Stock and Class A Common Stock and 350,000
+shares which, at the discretion of the Company's compensation committee, may be
+awarded in any combination of Common stock or Class A Stock). As of October 31,
+2003, the Company has awarded 509,500 shares of Common Stock and 242,500 shares
+of Class A Common Stock to participants as an incentive for future services. The
+shares vest between five and ten years after the date of grant. At October 31,
+2003, 13,250 shares each of Common Stock and Class A Common Stock were vested
+(3,500 shares each of Common and Class A Common Stock at October 31, 2002).
+Dividends on vested and non-vested shares are paid as declared. The market value
+of shares awarded has been recorded as unamortized restricted stock
+compensation. Unamortized restricted stock compensation is charged to expense
+over the respective vesting periods. For the years ended October 31, 2003, 2002
+and 2001 amounts charged to expense totaled 1,105,000, 942,000 and 769,000,
+respectively.
+
+ 40
+
+The Company has a profit sharing and savings plan (the "401K Plan"), which
+permits all eligible employees to defer a portion of their compensation in
+accordance with the Internal Revenue Code. Under the 401K Plan, the Company may
+make discretionary contributions on behalf of eligible employees. For the years
+ended October 31, 2003, 2002 and 2001, the Company made contributions to the
+
+401K Plan of 95,000, 93,000 and 88,000, respectively. The Company also has an
+Excess Benefits and Deferred Compensation Plan that allow eligible employees to
+defer benefits in excess of amounts provided under the Company's 401K Plan and a
+portion of the employee's current compensation.
+
+(10) PRO FORMA FINANCIAL INFORMATION (UNAUDITED)
+
+The unaudited pro forma financial information set forth below is based upon the
+Company's historical consolidated statements of income for the years ended
+October 31, 2003 and 2002 adjusted to give effect to the acquisitions of the
+Ridgeway Shopping Center, (June 2002) Westchester Pavilion (December 2002),
+Orange Meadows Shopping Center (December 2002), Greens Farms Plaza (February
+2003), and Somers Commons (June 2003) as though these transactions were
+completed on November 1, 2001. The pro forma information also gives effect to
+the issuance of 8,050,000 shares of Class A Common stock (July 2002) and 400,000
+shares of Series C Preferred Stock (May 2003) as though these transactions were
+also completed on November 1, 2001.
+
+The pro forma financial information is presented for informational purposes only
+and may not be indicative of what the actual results of operations would have
+been had the transactions occurred as of November 1, 2001, nor does it purport
+to represent the results of future operations. (Amounts in thousands, except per
+share figures).
+
+Year Ended October 31,
+ ----------------------
+ 2003 2002
+ ---- ----
+ 
+Pro forma revenues: 63,302 61,442
+Pro forma net income applicable to Common
+ And Class A Common Stockholders: 17,064 18,526
+
+Pro forma basic shares outstanding:
+ Common and Common Equivalent 6,259 6,089
+ ===== =====
+ Class A Common and Class A Common Equivalent 18,200 18,097
+ ====== ======
+Pro forma diluted shares outstanding:
+ Common and Common Equivalent 6,566 6,432
+ ===== =====
+ Class A Common and Class A Common Equivalent 18,720 18,618
+ ====== ======
+
+Pro forma earnings per share:
+ Basic:
+ Common .65 .71
+ ==== ====
+ Class A Common .72 .79
+ ==== ====
+ Diluted:
+ Common .64 .70
+ ==== ====
+ Class A Common .71 .77
+ ==== ====
+
+41
+
+(11) QUARTERLY RESULTS OF OPERATIONS (UNAUDITED)
+
+The unaudited quarterly results of operations for the years ended October 31,
+2003 and 2002 are as follows (in thousands, except per share data):
+
+Year Ended October 31, 2003 Year Ended October 31, 2002
+ --------------------------- ---------------------------
+ Quarter Ended Quarter Ended
+ ------------- -------------
+ Jan 31 Apr 30 July 31 Oct 31 Jan 31 Apr 30 July 31 Oct 31
+ ------ ------ ------- ------ ------ ------ ------- ------
+
+Revenues 13,681 15,027 15,413 16,240 10,014 9,971 11,223 13,132
+ ======= ======= ======= ======= ======= ====== ======= =======
+
+Net Income 4,197 4,870 5,459 5,844 3,508 3,368 3,295 4,336
+
+Preferred Stock Dividends (337) (337) (932) (1,188) (487) (337) (337) (337)
+Excess of Carrying Value Over
+ Cost to Repurchase Preferred
+ Shares - - - - 3,071 - - -
+ ------- ------- ------- ------- ------ ----- ----- ------
+
+Net Income Applicable to
+ Common and Class A
+ Common Stockholders 3,860 4,533 4,527 4,656 6,092 3,031 2,958 3,999
+ ====== ====== ====== ====== ====== ====== ====== ======
+
+Basic Earnings per Share:
+Common .15 .17 .17 .18 .36 .18 .15 .15
+Class A Common .16 .19 .19 .19 .40 .20 .17 .17
+
+Diluted Earnings per Share:
+Common .15 .17 .17 .17 .35 .17 .15 .15
+Class A Common .16 .19 .19 .19 .38 .19 .16 .17
+
+(12) COMMITMENTS AND CONTINGENCIES
+
+In the normal course of business, from time to time, the Company is involved in
+legal actions relating to the ownership and operations of its properties. In
+management's opinion, the liabilities, if any that may ultimately result from
+such legal actions are not expected to have a material adverse effect on the
+consolidated financial position, results of operations or liquidity of the
+Company.
+
+42
+
+REPORT OF INDEPENDENT AUDITORS
+To the Board of Directors and Stockholders of Urstadt Biddle Properties Inc.:
+
+We have audited the accompanying consolidated balance sheets of Urstadt Biddle
+Properties Inc. (the "Company") as of October 31, 2003 and 2002, and the related
+consolidated statements of income, cash flows and stockholders' equity for each
+of the two years in the period ended October 31, 2003. Our audits also included
+the financial statement schedules listed in the Index at Item 15 (a). These
+financial statements and schedules are the responsibility of the Company's
+management. Our responsibility is to express an opinion on these financial
+statements and schedules based on our audits. The financial statements of
+Urstadt Biddle Properties Inc. as of October 31, 2001, and for the year then
+ended, were audited by other auditors who have ceased operations. Those auditors
+expressed an unqualified opinion on those financial statements and financial
+statement schedules listed in the Index at Item 15 (a) in their report dated
+December 12, 2001.
+
+We conducted our audit in accordance with auditing standards generally accepted
+in the United States. Those standards require that we plan and perform the audit
+to obtain reasonable assurance about whether the financial statements are free
+of material misstatement. An audit includes examining, on a test basis, evidence
+supporting the amounts and disclosures in the financial statements. An audit
+also includes assessing the accounting principles used and significant estimates
+made by management, as well as evaluating the overall financial statement
+presentation. We believe that our audit provides a reasonable basis for our
+opinion.
+
+In our opinion, the financial statements referred to above present fairly, in
+all material respects, the consolidated financial position of Urstadt Biddle
+Properties Inc. at October 31, 2003 and 2002 and the consolidated results of its
+operations and its cash flows for each of the two years in the period ended
+October 31, 2003 in conformity with accounting principles generally accepted in
+the United States. Also, in our opinion, the related financial statement
+schedules, when considered in relation to the basic financial statements taken
+as a whole, present fairly in all material respects the information set forth
+therein.
+
+/s/ ERNST & YOUNG LLP
+
+New York, New York
+December 10, 2003
+
+43
+
+URSTADT BIDDLE PROPERTIES INC.
+OCTOBER 31 2003
+SCHEDULE III - REAL ESTATE AND ACCUMULATED DEPRECIATION
+(In thousands)
+
+- -----------------------------------------------------------------------------------------------------------------------------------
+ COL. A COL. B COL. C COL. D COL. E COL. F COL.G/H COL.I
+- -----------------------------------------------------------------------------------------------------------------------------------
+ Life on which
+ Cost Capitalized depreciation for
+ Initial Subsequent Amount at which building and improvement
+ Cost to Company to Acquisition Carried at Close of Period in latest
+ --------------- --------------------- --------------------------------- income
+ Accumulated Date statement is
+ Description Building & Carrying Building & Building & Depreciation constructed computed
+ and Location Encumbrances Land Improvements Costs Improvements Land Improvements TOTAL (Note(b)) Acquired (Note(c))
+ -------------- ------------ ---- ------------ ----- ------------ ---- ------------ ----- --------- --------- -------
+Real Estate Subject to Operating Leases (Note (a)):
+Office Buildings:
+ 
+Greenwich, CT 708 1,641 - 26 708 1,667 2,375 106 2001 31.5
+Greenwich, CT 488 1,139 - 61 488 1,200 1,688 103 2000 31.5
+Greenwich, CT 570 2,359 - 180 570 2,539 3,109 354 1998 31.5
+Greenwich, CT 199 795 - 29 199 824 1,023 146 1993 31.5
+Greenwich, CT 111 444 - 22 111 466 577 180 1993 31.5
+Southfield, MI 1,000 10,280 - 4,013 1,000 14,293 15,293 7,472 1983 35.0
+ ----- ----- ------ --- ----- ----- ------ ------ -----
+ 5,800 3,076 16,658 - 4,331 3,076 20,989 24,065 8,361
+ ----- ----- ------ --- ----- ----- ------ ------ -----
+Shopping Centers:
+Somers, NY - 4,345 17,378 - - 4,345 17,378 21,723 149 2003 39.0
+Westport, CT - 2,076 8,305 - 189 2,076 8,494 10,570 162 2003 39.0
+White Plains, NY - 8,065 32,258 - 160 8,065 32,418 40,483 689 2003 39.0
+Orange, CT - 2,291 10,438 - 2 2,291 10,440 12,731 224 2003 39.0
+Stamford, CT 56,266 17,965 71,859 - 226 17,965 72,085 90,050 2,632 2002 39.0
+Danbury, CT 1,930 2,459 4,566 - - 2,459 4,566 7,025 195 2002 39.0
+Briarcliff, NY 3,957 2,222 5,185 - 19 2,222 5,204 7,426 300 2001 40.0
+Somers, NY 6,101 1,834 7,383 - 27 1,834 7,410 9,244 981 1999 31.5
+Briarcliff, NY 5,516 2,300 9,708 - 1,694 2,300 11,402 13,702 1,453 1998 40.0
+Ridgefield, CT - 900 3,793 - 582 900 4,375 5,275 767 1998 40.0
+Darien, CT 13,911 4,260 17,192 - 601 4,260 17,793 22,053 2,348 1998 40.0
+Eastchester, NY 4,503 1,500 6,128 - 718 1,500 6,846 8,346 955 1997 31.0
+Tempe, AZ - 493 2,284 - 1,079 493 3,363 3,856 2,026 1996 40.0
+Danbury, CT - 3,850 15,811 - 4,020 3,850 19,831 23,681 4,226 1995 31.5
+Carmel, NY 4,840 1,488 5,973 - 1,813 1,488 7,786 9,274 1,752 1995 31.5
+Farmingdale, NY - 1,027 4,174 - 150 1,027 4,324 5,351 1,438 1993 31.5
+Meriden, CT - 5,000 20,309 - 6,318 5,000 26,627 31,627 7,852 1993 31.5
+Somers, NY 1,764 821 2,600 - - 821 2,600 3,421 758 1992 31.5
+Wayne, NJ - 2,492 9,966 - 399 2,492 10,365 12,857 2,933 1992 31.0
+Newington, NH - 728 1,997 - 3,752 728 5,749 6,477 3,080 1979 40.0
+Springfield, MA - 1,372 3,656 307 15,165 1,679 18,821 20,500 9,184 1970 40.0
+ ------ ----- ------ --- ----- ----- ------ ------ -----
+ 98,788 67,488 260,963 307 36,914 67,795 297,877 365,671 44,104
+ ------ ------ ------- --- ------ ------ ------- ------- ------
+Industrial Distribution Center
+Dallas, TX - 216 844 - - 216 844 1,060 379 1970 40.0
+St.Louis,MO - 232 933 - - 232 933 1,165 284 1970 40.0
+ --- --- ----- --- --- --- ----- ----- ---
+ - 448 1,777 - - 448 1,777 2,225 663
+ --- --- ----- --- --- --- ----- ----- ---
+Mixed Use Facility: Retail/Office:
+Briarcliff, NY - 380 1,531 - 2,245 380 3,776 4,156 854 1999 40.0
+ --- --- ----- --- ----- --- ----- ----- -----
+ - 380 1,531 - 2,245 380 3,776 4,156 854
+ --- --- ----- --- ----- --- ----- ------ -----
+
+Total 104,588 71,392 280,929 307 43,490 71,699 324,419 396,117 53,982
+ ======= ======= ======== === ======= ======= ======== ======== =======
+
+Properties secure a 18.125 million secured revolving credit line. At October
+ 31, 2003 there were no outstanding borrowings.
+ Properties are cross collateralized for a mortgage in the amount of 5,800
+ at October 31, 2003.
+
+ 44
+
+URSTADT BIDDLE PROPERTIES INC.
+OCTOBER 31, 2003
+SCHEDULE III - REAL ESTATE AND ACCUMULATED DEPRECIATION - CONTINUED
+(In thousands)
+
+- ---------------------------------------------------------------------- ------------ ------------ ------------
+
+NOTES: 2003 2002 2001
+ ---- ---- ----
+
+(a) RECONCILIATION OF REAL ESTATE -
+OWNED SUBJECT TO OPERATING LEASES
+
+Balance at beginning of year 310,646 211,636 192,233
+Property improvements during the year 2,393 2,406 10,167
+Property acquired during the year 84,964 98,867 9,758
+Property sold during the year --- (275) (800)
+Property reclassed from financing leases --- --- 2,252
+Property assets fully written off (1,886) (1,988) (1,974)
+ ------- ------- -------
+Balance at end of year 396,117 310,646 211,636
+ ======== ======== ========
+
+(b) RECONCILIATION OF ACCUMULATED DEPRECIATION
+
+Balance at beginning of year 45,993 40,446 35,768
+Provision during the year charged to income 9,875 7,535 6,652
+Property assets fully written off (1,886) (1,988) (1,974)
+ ------- ------- -------
+Balance at end of year 53,982 45,993 40,446
+ ======= ======= =======
+
+(c) Tenant improvement costs are depreciated over the life of the related
+leases, which range from 5 to 20 years.
+
+(d) The aggregate cost basis for Federal income tax purposes at
+October 31, 2003 is 416,398.
+
+(e) The depreciation provision represents the expense calculated on real
+property only.
+
+45
+
+URSTADT BIDDLE PROPERTIES INC.
+OCTOBER 31 2003
+SCHEDULE IV - MORTGAGE LOANS ON REAL ESTATE
+(In thousands)
+
+- -----------------------------------------------------------------------------------------------------------------------------------
+ COL. A COL. B COL. C COL. D COL. E COL. F
+- -----------------------------------------------------------------------------------------------------------------------------------
+ Remaining Face
+ Interest Rate Amount of Carrying Amount
+ ------------- Final Mortgages of Mortgage
+ Maturity (Note (b)) (Note (a))
+ Description Coupon Effective Date Periodic Payment Terms (In Thousands) (In Thousands)
+- ------------------------------------------------------------------------------------------------------------------------------------
+
+I. FIRST MORTGAGE LOANS ON BUSINESS PROPERTIES (Notes (c) and (d)):
+- --------------------------------------------------------------------
+
+Retail Store:
+ 
+ Erie, PA 9 14 1-Jul-13 Payable in monthly installments of
+ Principal and Interest of 10,787. 841 688
+
+Retail Store:
+ Riverside, CA 9 12 15-Jan-13 Payable in quarterly installments of
+ Principal and Interest of 54,313. 1,736 1,496
+ ----------------------
+TOTAL MORTGAGE LOANS ON REAL ESTATE 2,577 2,184
+ ----------------------
+
+46
+
+SIGNATURES
+
+ Pursuant to the requirements of Section 13 or 15(d) of the Securities
+Exchange Act of 1934, the Registrant has duly caused this report to be signed on
+its behalf by the undersigned, thereunto duly authorized.
+
+ URSTADT BIDDLE PROPERTIES INC.
+
+By: /S/ Charles J. Urstadt
+ ------------------------------------
+ Charles J. Urstadt
+ Chairman and Chief Executive Officer
+
+Dated: January 26, 2004
+
+47
+
+Pursuant to the requirements of the Securities Exchange Act
+of 1934, the following persons on behalf of the Registrant and in the capacities
+and on the date indicated have signed this Report below.
+
+/S/ Charles J. Urstadt January 26, 2004
+- ------------------------------
+Charles J. Urstadt
+Chairman and Director
+(Principal Executive Officer)
+
+/S/ Willing L. Biddle January 26, 2004
+- ---------------------------
+Willing L. Biddle
+President and Director
+
+/S/ James R. Moore January 26, 2004
+- --------------------------
+James R. Moore
+Executive Vice President -
+Chief Financial Officer
+(Principal Financial Officer
+and Principal Accounting Officer)
+
+/S/ E. Virgil Conway January 26, 2004
+- ---------------------------
+E. Virgil Conway
+Director
+
+/S/ Robert R. Douglass January 26, 2004
+- --------------------------
+Robert R. Douglass
+Director
+
+/S/ Peter Herrick January 26, 2004
+- -------------------------------
+Peter Herrick
+Director
+
+/S/ George H.C. Lawrence January 26, 2004
+- ------------------------
+George H. C. Lawrence
+Director
+
+/S/ Charles D. Urstadt January 26, 2004
+- -----------------------------
+Charles D. Urstadt
+Director
+
+/S/ George J. Vojta January 26, 2004
+- --------------------------------
+George J. Vojta
+Director
+
+48
+
+<EX-31>
+ 2
+ ex312103103.txt
+ 
+ EXHIBIT 31.2
+
+ CERTIFICATION
+
+I, James R. Moore, certify that:
+
+1. I have reviewed this annual report on Form 10-K of Urstadt Biddle
+ Properties Inc.;
+
+2. Based on my knowledge, this report does not contain any untrue
+ statement of a material fact or omit to state a material fact necessary
+ to make the statements made, in light of the circumstances under which
+ such statements were made, not misleading with respect to the period
+ covered by this report;
+
+3. Based on my knowledge, the financial statements, and other financial
+ information included in this report, fairly present in all material
+ respects the financial condition, results of operations and cash flows
+ of the registrant as of, and for, the periods presented in this report;
+
+4. The registrant's other certifying officer(s) and I are responsible for
+ establishing and maintaining disclosure controls and procedures (as
+ defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) for the
+ registrant and have:
+
+ (a) Designed such disclosure controls and procedures, or caused
+ such disclosure controls and procedures to be designed under
+ our supervision, to ensure that material information relating
+ to the registrant, including its consolidated subsidiaries, is
+ made known to us by others within those entities, particularly
+ during the period in which this report is being prepared;
+
+ (b) Evaluated the effectiveness of the registrant's disclosure
+ controls and procedures and presented in this annual report
+ our conclusions about the effectiveness of the disclosure
+ controls and procedures as of the end of the period covered by
+ this report based on such evaluation; and
+
+ (c) Disclosed in this report any change in the registrant's
+ internal control over financial reporting that occurred during
+ the registrant's most recent fiscal quarter (the registrant's
+ fourth fiscal quarter in the case of an annual report) that
+ has materially affected, or is reasonably likely to materially
+ affect, the registrant's internal control over financial
+ reporting; and
+
+5. The registrant's other certifying officer(s) and I have disclosed,
+ based on our most recent evaluation of internal control over financial
+ reporting, to the registrant's auditors and the audit committee of the
+ registrant's board of directors (or persons performing the equivalent
+ functions):
+
+ (a) All significant deficiencies and material weaknesses in the
+ design or operation of internal control over financial
+ reporting which are reasonably likely to adversely affect the
+ registrant's ability to record, process, summarize and report
+ financial information; and
+
+ (b) Any fraud, whether or not material, that involves management
+ or other employees who have a significant role in the
+ registrant's internal control over financial reporting.
+
+Date: January 26, 2004 /s/ James R. Moore
+ ----------------
+ James R. Moore
+ Executive Vice President and Chief Financial Officer
+
+</EX-31>
+
+<EX-14>
+ 3
+ ex14103103.txt
+ 
+ EXHIBIT 14
+
+URSTADT BIDDLE PROPERTIES INC.
+
+ CODE OF ETHICS FOR SENIOR FINANCIAL OFFICERS
+
+1. Introduction.
+
+This Code of Ethics for Senior Financial Officers (the "Code") has been adopted
+by the Board of Directors of Urstadt Biddle Properties Inc. (the "Company") to
+deter wrongdoing and to promote honest and ethical conduct, proper disclosure of
+financial information in the Company's periodic reports and compliance with
+applicable laws, rules and regulations by the Company's senior officers who have
+financial responsibilities.
+
+2. Applicability.
+
+As used in this Code, the term Senior Financial Officer means the Company's
+principal executive officer, principal financial officer and Controller.
+
+3. Principles and Practices.
+
+In performing his or her duties, each of the Senior Financial Officers must:
+
+ (a) maintain high standards of honest and ethical conduct, including
+the ethical handling of actual or apparent conflicts of interest and compliance
+with any specific policies or procedures of the Company relating to conflicts of
+interest;
+
+ (b) provide, or cause to be provided, full, fair, accurate, timely and
+understandable disclosure in reports and documents that the Company files with,
+or submits to, the Securities and Exchange Commission (the "SEC") and in other
+public communications made by the Company;
+
+ (c) comply, and encourage others reporting to him or her to comply, in
+all material respects with all applicable laws, rules and regulations of
+federal, state and local governments and other appropriate public and private
+regulatory agencies;
+
+ (d) comply with this Code and all other codes of business conduct
+and/or ethics adopted by the Company from time to time that are applicable to
+the Company's officers; and
+
+ (e) report promptly violations of this Code to the Audit Committee of
+the Board of Directors of the Company.
+
+4. Waivers from or Changes to the Code.
+
+The Board of Directors will have the sole and absolute discretionary authority
+to approve any waivers from or changes to this Code. Any waiver from this Code,
+including an implicit waiver, for a Senior Financial Officer will be promptly
+disclosed as required by the SEC. Such disclosure shall include the nature of
+the waiver, the name of the Senior Financial Officer to whom the Company granted
+the waiver and the date of the waiver. Any change to this Code also will be
+promptly disclosed as required by law or regulation of the SEC.
+
+5. Administration.
+
+The Board of Directors will help ensure that this Code is properly administered.
+The Audit Committee will be responsible for the annual review of the compliance
+procedures in place to implement this Code and will recommend clarifications or
+necessary changes to this Code to the Board for approval.
+
+Each Senior Financial Officer is responsible for reviewing this Code and
+ensuring that he or she has signed the attached certification. Each Senior
+Financial Officer also is responsible for the diligent review of the Company's
+practices and procedures in place to help ensure compliance with this Code.
+
+Any Senior Financial Officer who ignores or violates this Code will be subject
+to corrective action, which may include dismissal.
+
+CERTIFICATION
+
+I hereby acknowledge that I have read the Code of Ethics for Senior Financial
+Officers of Urstadt Biddle Properties Inc., have become familiar with its
+contents and will comply with its terms. Any violations of which I am aware are
+noted below.
+
+/S/ Charles J. Urstadt October 10, 2003
+- ------------------------------
+Charles J. Urstadt
+Principal Executive Officer
+
+/S/ James R. Moore October 1, 2003
+- ------------------------------
+Principal Finacial Officer
+
+/S/ Joseph V. LoParrino October 2, 2003
+- -----------------------------
+Controller
+
+Please describe any violations, exceptions or comments below:
+
+</EX-14>
+
+<EX-31>
+ 4
+ ex311103103.txt
+ 
+ EXHIBIT 31.1
+
+ CERTIFICATION
+
+I, Charles J. Urstadt, certify that:
+
+1. I have reviewed this annual report on Form 10-K of Urstadt Biddle
+ Properties Inc.;
+
+2. Based on my knowledge, this report does not contain any untrue
+ statement of a material fact or omit to state a material fact necessary
+ to make the statements made, in light of the circumstances under which
+ such statements were made, not misleading with respect to the period
+ covered by this report;
+
+3. Based on my knowledge, the financial statements, and other financial
+ information included in this report, fairly present in all material
+ respects the financial condition, results of operations and cash flows
+ of the registrant as of, and for, the periods presented in this report;
+
+4. The registrant's other certifying officer(s) and I are responsible for
+ establishing and maintaining disclosure controls and procedures (as
+ defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) for the
+ registrant and have:
+
+ (a) Designed such disclosure controls and procedures, or caused
+ such disclosure controls and procedures to be designed under
+ our supervision, to ensure that material information relating
+ to the registrant, including its consolidated subsidiaries, is
+ made known to us by others within those entities, particularly
+ during the period in which this report is being prepared;
+
+ (b) Evaluated the effectiveness of the registrant's disclosure
+ controls and procedures and presented in this report our
+ conclusions about the effectiveness of the disclosure controls
+ and procedures as of the end of the period covered by this
+ report based on such evaluation; and
+
+ (c) Disclosed in this report any change in the registrant's
+ internal control over financial reporting that occurred during
+ the registrant's most recent fiscal quarter (the registrant's
+ fourth fiscal quarter in the case of an annual report) that
+ has materially affected, or is reasonably likely to materially
+ affect, the registrant's internal control over financial
+ reporting; and
+
+5. The registrant's other certifying officer(s) and I have disclosed,
+ based on our most recent evaluation of internal control over financial
+ reporting, to the registrant's auditors and the audit committee of the
+ registrant's board of directors (or persons performing the equivalent
+ functions):
+
+ (a) All significant deficiencies and material weaknesses in the
+ design or operation of internal control over financial
+ reporting which are reasonably likely to adversely affect the
+ registrant's ability to record, process, summarize and report
+ financial information; and
+
+ (b) Any fraud, whether or not material, that involves management
+ or other employees who have a significant role in the
+ registrant's internal control over financial reporting.
+
+Date: January 26, 2004 /s/ Charles J. Urstadt
+ ----------------------
+ Charles J. Urstadt
+ Chairman and Chief Executive Officer
+
+</EX-31>
+
+<EX-21>
+ 5
+ ex211103103.txt
+ 
+ EXHIBIT 21.1
+
+ SUBSIDIARIES OF THE COMPANY
+
+323 Railroad Corporation, a Connecticut Corporation
+
+UB Darien, Inc., a Connecticut Corporation
+
+UB Danbury, Inc., a Connecticut Corporation
+
+UB Somers, Inc., a New York Corporation
+
+</EX-21>
+
+<EX-32>
+ 6
+ ex32103103.txt
+ 
+ EXHIBIT 32
+
+ Certification
+ Pursuant to Section 906 of the Sarbanes-Oxley Act of 2002 with
+ Respect to the Annual Report on Form 10-K
+ for the Year ended October 31, 2003
+ of Urstadt Biddle Properties Inc
+
+ Pursuant to Section 906 of the Sarbanes-Oxley Act of 2002 (subsections
+(a) and (b) of section 1350, chapter 63 of title 18, United States Code), each
+of the undersigned officers of Urstadt Biddle Properties Inc, a Maryland
+corporation (the "Company"), does hereby certify, to the best of such officer's
+knowledge, that:
+
+1. The Company's Annual Report on Form 10-K for the year ended
+ October 31, 2003 (the "Form 10-K") fully complies with the
+ requirements of Section 13(a) of the Securities Exchange Act
+ of 1934, as amended; and
+
+2. Information contained in the Form 10-K fairly presents, in all
+ material respects, the financial condition and results of
+ operations of the Company.
+
+Dated: January 26, 2004
+ /s/ Charles J. Urstadt
+ ------------------------
+ Charles J. Urstadt
+ Chairman and Chief Executive Officer
+
+Dated: January 26, 2004 /s/ James R. Moore
+ ------------------
+ James R. Moore
+ Executive Vice President and
+ Chief Financial Officer
+
+The certification set forth above is being furnished solely pursuant to
+Section 906 of the Sarbanes-Oxley Act of 2002 and should not be deemed to be
+filed under the Exchange Act by the Company or the certifying officers.
+
+</EX-32>
+
+<EX-23>
+ 7
+ ex231103103.txt
+ 
+ EXHIBIT 23.1
+
+ Consent of Independent Auditors
+
+We consent to the incorporation by reference in the Registration Statements ((i)
+Form S-2 No. 333-69858; (ii) Forms S-3 No. 33-57119, No. 333-64381 and
+333-84774; (iii) Form S-4 No. 333-19113 and (iv) Forms S-8 No. 2-93146, No.
+333-61765, No. 333-61767 and No. 33-41408) of Urstadt Biddle Properties Inc. and
+in the related Prospectus of our report dated December 10, 2003, with respect to
+the consolidated financial statements and schedules of Urstadt Biddle Properties
+Inc. included in this Annual Report (Form 10-K) for the year ended October 31,
+2003.
+
+/s/ Ernst & Young LLP
+
+New York, New York
+January 22, 2004
+
+</EX-23>
+

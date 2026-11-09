@@ -1,0 +1,1939 @@
+<Header>
+<FileStats>
+    <FileName>20040106_10-Q_edgar_data_70530_0000070530-04-000002.txt</FileName>
+    <GrossFileSize>125176</GrossFileSize>
+    <NetFileSize>95312</NetFileSize>
+    <NonText_DocumentType_Chars>0</NonText_DocumentType_Chars>
+    <HTML_Chars>825</HTML_Chars>
+    <XBRL_Chars>0</XBRL_Chars>
+    <XML_Chars>0</XML_Chars>
+    <N_Exhibits>2</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0000070530-04-000002.hdr.sgml : 20040106
+<ACCEPTANCE-DATETIME>20040106151602
+ACCESSION NUMBER:		0000070530-04-000002
+CONFORMED SUBMISSION TYPE:	10-Q
+PUBLIC DOCUMENT COUNT:		3
+CONFORMED PERIOD OF REPORT:	20031123
+FILED AS OF DATE:		20040106
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			NATIONAL SEMICONDUCTOR CORP
+		CENTRAL INDEX KEY:			0000070530
+		STANDARD INDUSTRIAL CLASSIFICATION:	SEMICONDUCTORS & RELATED DEVICES [3674]
+		IRS NUMBER:				952095071
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0531
+
+	FILING VALUES:
+		FORM TYPE:		10-Q
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-06453
+		FILM NUMBER:		04509856
+
+	BUSINESS ADDRESS:	
+		STREET 1:		2900 SEMICONDUCTOR DR
+		STREET 2:		PO BOX 58090
+		CITY:			SANTA CLARA
+		STATE:			CA
+		ZIP:			95052-8090
+		BUSINESS PHONE:		4087215000
+
+	MAIL ADDRESS:	
+		STREET 1:		2900 SEMICONDUCTOR DR
+		CITY:			SANTA CLARA
+		STATE:			CA
+		ZIP:			95052-8090
+
+</SEC-Header>
+</Header>
+
+ 
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ Nd+HLEZ5OJYYz0arI7kccjWkMw3d4w37N+e1HXfMTuxDFJBYUjLX7WQ6r83Y7M0f
+ 78HaUZnwZESESbBzIgfsxw==
+
+ 0000070530-04-000002.txt : 20040106
+
+10-Q
+ 1
+ form10q_1504.txt
+ FORM 10Q FOR PERIOD ENDING NOVEMBER 23, 2003
+ 
+ UNITED STATES SECURITIES AND EXCHANGE COMMISSION
+ WASHINGTON, D.C. 20549
+
+ FORM 10-Q
+
+X QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES
+ EXCHANGE ACT OF 1934
+ For the quarterly period ended November 23, 2003
+
+or
+
+ TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES
+ EXCHANGE ACT OF 1934
+ For the transition period from _________ to _________.
+
+Commission File Number: 1-6453
+
+ NATIONAL SEMICONDUCTOR CORPORATION
+ ----------------------------------
+ (Exact name of registrant as specified in its charter)
+
+ DELAWARE 95-2095071
+ -------- ----------
+ (State of incorporation) (I.R.S. Employer Identification Number)
+
+ 2900 Semiconductor Drive, P.O. Box 58090
+ Santa Clara, California 95052-8090
+ ----------------------------------
+ (Address of principal executive offices)
+
+Registrant's telephone number, including area code: (408) 721-5000
+
+Indicate by check mark whether the registrant: (1) has filed all reports
+required to be filed by Section 13 or 15(d) of the Securities Exchange Act of
+1934 during the preceding 12 months (or for such shorter period that the
+registrant was required to file such reports), and (2) has been subject to such
+filing requirements for the past 90 days. Yes _ No X.
+
+Indicate by check mark whether the registrant is an accelerated filer (as
+defined in Rule 12b-2 of the Exchange Act). Yes X No .
+
+Indicate the number of shares outstanding of each of the issuer's classes of
+common stock, as of the latest practicable date.
+
+ Title of Each Class Outstanding at November 23, 2003.
+ ------------------- ---------------------------------
+
+Common stock, par value 0.50 per share 178,045,016
+
+NATIONAL SEMICONDUCTOR CORPORATION
+
+INDEX
+
+Page No.
+ --------
+
+Part I. Financial Information
+
+Item 1. Financial Statements
+
+Condensed Consolidated Statements of Operations (Unaudited) for
+the Three Months and Six Months Ended November 23, 2003 and
+November 24, 2002 3
+
+Condensed Consolidated Statements of Comprehensive Income (Loss)
+(Unaudited) for the Three Months and Six Months Ended
+November 23, 2003 and November 24, 2002 4
+
+Condensed Consolidated Balance Sheets (Unaudited) as of
+November 23, 2003 and May 25, 2003 5
+
+Condensed Consolidated Statements of Cash Flows (Unaudited)
+for the Six Months Ended November 23, 2003 and November 24, 2002 6
+
+Notes to Condensed Consolidated Financial Statements (Unaudited) 7-15
+
+Item 2. Management's Discussion and Analysis of Financial
+ Condition and Results of Operations 16-24
+
+Item 3. Quantitative and Qualitative Disclosures About Market Risk 24
+
+Item 4. Controls and Procedures 24
+
+Part II. Other Information
+
+Item 1. Legal Proceedings 25
+
+Item 4. Submission of Matters to a Vote of Security Holders 25-26
+
+Item 6. Exhibits and Reports on Form 8-K 26-27
+
+Signature 28
+
+PART I. FINANCIAL INFORMATION
+ITEM 1. FINANCIAL STATEMENTS
+NATIONAL SEMICONDUCTOR CORPORATION
+CONDENSED CONSOLIDATED STATEMENTS OF OPERATIONS (Unaudited)
+(in Millions, except per share amounts)
+ 
+ Three Months Ended Six Months Ended
+ -------------------------- -------------------------
+ Nov. 23, Nov. 24, Nov. 23, Nov. 24,
+ 2003 2002 2003 2002
+ ------------ ------------- ------------ ------------
+
+Net sales 473.5 422.3 898.3 842.9
+ Operating costs and expenses:
+ Cost of sales 236.5 241.2 460.9 479.5
+ Research and development 83.2 107.1 175.3 217.8
+ Selling, general and administrative 72.8 68.3 141.2 138.2
+ Special items 6.0 0.7 18.6 0.7
+ ------------ ------------- ------------ ------------
+
+ Total operating costs and expenses 398.5 417.3 796.0 836.2
+ ------------ ------------- ------------ ------------
+
+ Operating income 75.0 5.0 102.3 6.7
+ Interest income, net 2.5 3.6 5.6 7.7
+ Other income (expense), net (2.7) (0.4) 2.8 (1.9)
+ ------------ ------------- ------------ ------------
+
+ Income before taxes and cumulative effect
+ of a change in accounting principle 74.8 8.2 110.7 12.5
+ Income tax expense 9.0 2.0 13.3 5.0
+ ------------ ------------- ------------ ------------
+
+ Income before cumulative effect of a
+ change in accounting principle 65.8 6.2 97.4 7.5
+ Cumulative effect of a change in accounting
+ principle including tax effect of 0.2 million - - (1.9) -
+ ------------ ------------- ------------ ------------
+
+ Net income 65.8 6.2 95.5 7.5
+ ============ ============= ============ ============
+
+ Earnings per share:
+ Income before cumulative effect of a change
+ in accounting principle:
+ Basic 0.37 0.03 0.53 0.04
+ Diluted 0.34 0.03 0.50 0.04
+
+ Cumulative effect of a change in accounting
+ principle including tax effect of 0.2 million:
+ Basic - - 0.01 -
+ Diluted - - 0.01 -
+
+ Net income:
+ Basic 0.37 0.03 0.52 0.04
+ Diluted 0.34 0.03 0.49 0.04
+
+ Weighted-average shares used to calculate earning per share:
+ Basic 180.1 181.3 182.3 181.0
+ Diluted 195.5 182.0 193.7 184.5
+
+See accompanying Notes to Condensed Consolidated Financial Statements
+
+NATIONAL SEMICONDUCTOR CORPORATION
+CONDENSED CONSOLIDATED STATEMENTS OF
+COMPREHENSIVE INCOME (LOSS) (Unaudited)
+(in Millions)
+
+Three Months Ended Six Months Ended
+ --------------------------- ------------------------------
+ Nov. 23, Nov. 24, Nov. 23, Nov. 24,
+ 2003 2002 2003 2002
+ ------------- ------------- --------------- --------------
+
+Net income 65.8 6.2 95.5 7.5
+
+Other comprehensive income (loss), net of tax:
+ Reclassification adjustment for net realized
+ (gain) on available-for-sale securities
+ included in net income - (2.9) - (3.6)
+ Unrealized gain (loss) on
+ available-for-sale securities 0.8 4.1 (2.3) (24.0)
+ Derivative instruments:
+ Unrealized gain on cash flow hedges 0.1 0.1 0.2 0.5
+ ------------- ------------- --------------- --------------
+
+Comprehensive income (loss) 66.7 7.5 93.4 (19.6)
+ ============= ============= =============== ==============
+
+See accompanying Notes to Condensed Consolidated Financial Statements
+
+NATIONAL SEMICONDUCTOR CORPORATION
+CONDENSED CONSOLIDATED BALANCE SHEETS (Unaudited)
+(in Millions)
+
+Nov. 23, May 25,
+ 2003 2003
+ ------------------------ -----------------------
+
+ASSETS
+ Current assets:
+ Cash and cash equivalents 513.5 802.2
+ Short-term marketable investments 184.8 113.2
+ Receivables, less allowances of 35.3 in fiscal 2004
+ and 38.2 in fiscal 2003 166.1 137.1
+ Inventories 167.3 142.2
+ Deferred tax assets 66.0 66.0
+ Other current assets 26.6 20.5
+ ------------------------ -----------------------
+
+ Total current assets 1,124.3 1,281.2
+
+ Property, plant and equipment, net 679.5 680.7
+ Goodwill 173.3 173.3
+ Other assets 99.6 109.4
+ ------------------------ -----------------------
+
+ Total assets 2,076.7 2,244.6
+ ======================== =======================
+
+ LIABILITIES AND SHAREHOLDERS' EQUITY
+ Current liabilities:
+ Current portion of long-term debt 22.4 2.3
+ Accounts payable 108.2 107.0
+ Accrued expenses 188.0 192.3
+ Income taxes payable 54.6 49.6
+ ------------------------ -----------------------
+
+ Total current liabilities 373.2 351.2
+
+ Long-term debt - 19.9
+ Other noncurrent liabilities 180.9 167.5
+ ------------------------ -----------------------
+
+ Total liabilities 554.1 538.6
+ ------------------------ -----------------------
+
+ Commitments and contingencies
+
+ Shareholders' equity:
+ Common stock 89.0 91.8
+ Additional paid-in capital 1,177.3 1,451.3
+ Retained earnings 372.7 277.2
+ Accumulated other comprehensive loss (116.4) (114.3)
+ ------------------------ -----------------------
+
+ Total shareholders' equity 1,522.6 1,706.0
+ ------------------------ -----------------------
+
+ Total liabilities and shareholders' equity 2,076.7 2,244.6
+ ======================== =======================
+
+See accompanying Notes to Condensed Consolidated Financial Statements
+
+NATIONAL SEMICONDUCTOR CORPORATION
+CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS (Unaudited)
+(in Millions)
+ 
+ Six Months Ended
+ -----------------------------------------------
+ Nov. 23, Nov. 24,
+ 2003 2002
+ ----------------------- -----------------------
+
+Cash flows from operating activities:
+ Net income 95.5 7.5
+ Adjustments to reconcile net income with net cash
+ provided by operating activities:
+ Cumulative effect of a change in accounting principle 1.9 -
+ Depreciation and amortization 107.3 113.8
+ Gain on investments (3.0) (0.5)
+ Share in net losses of equity-method investments 7.7 6.1
+ Loss on disposal of equipment 2.2 1.6
+ Noncash special items 4.5 0.7
+ Other, net 2.4 0.3
+ Changes in certain assets and liabilities, net:
+ Receivables (21.4) (12.6)
+ Inventories (29.7) (8.0)
+ Other current assets (6.3) (9.8)
+ Accounts payable and accrued expenses (14.6) (15.8)
+ Income taxes payable 5.0 8.6
+ Other noncurrent liabilities 11.1 7.3
+ ----------------------- -----------------------
+
+ Net cash provided by operating activities 162.6 99.2
+ ----------------------- -----------------------
+
+ Cash flows from investing activities:
+ Purchase of property, plant and equipment (99.0) (98.3)
+ Sale and maturity of available-for-sale securities 314.0 300.1
+ Purchase of available-for-sale securities (386.7) (290.2)
+ Sale of investments 7.2 8.7
+ Sale of equipment - 2.3
+ Business acquisition, net of cash acquired - (11.0)
+ Investment in nonpublicly traded companies (1.7) (16.7)
+ Funding of benefit plan (4.5) (3.6)
+ Other, net 1.1 (1.3)
+ ----------------------- -----------------------
+
+ Net cash used by investing activities (169.6) (110.0)
+ ----------------------- -----------------------
+
+ Cash flows from financing activities:
+ Repayment of debt (1.8) (3.5)
+ Issuance of common stock under employee
+ stock-based awards 120.1 19.4
+ Purchase and retirement of treasury stock (400.0) -
+ ----------------------- -----------------------
+
+ Net cash (used by) provided by financing activities (281.7) 15.9
+ ----------------------- -----------------------
+
+ Net change in cash and cash equivalents (288.7) 5.1
+ Cash and cash equivalents at beginning of period 802.2 681.3
+ ----------------------- -----------------------
+
+ Cash and cash equivalents at end of period 513.5 686.4
+ ======================= =======================
+
+See accompanying Notes to Condensed Consolidated Financial Statements
+
+Note 1. Summary of Significant Accounting Policies
+
+Interim Financial Statements:
+
+In the opinion of our management, the accompanying unaudited condensed
+consolidated financial statements contain all adjustments necessary to present
+fairly the financial position and results of operations of National
+Semiconductor Corporation and our majority-owned subsidiaries. You should not
+expect interim results of operations to necessarily be indicative of the results
+to be expected for the full fiscal year. This report should be read in
+conjunction with the consolidated financial statements and the accompanying
+notes included in our annual report on Form 10-K for the fiscal year ended May
+25, 2003.
+
+Earnings Per Share:
+
+A reconciliation of the shares used in the computation of basic and diluted
+earnings per share follows:
+
+Three Months Ended Six Months Ended
+ ------------------------ -----------------------
+ Nov. 23, Nov. 24, Nov. 23, Nov. 24,
+(In Millions) 2003 2002 2003 2002
+ ------------ ----------- ----------- -----------
+
+Numerator:
+ Income before cumulative effect of a change in
+ accounting principle 65.8 6.2 97.4 7.5
+ ============ =========== =========== ===========
+
+ Net income 65.8 6.2 95.5 7.5
+ ============ =========== =========== ===========
+
+Denominator:
+ Weighted-average common shares outstanding
+ used for basic earnings per share 180.1 181.3 182.3 181.0
+
+ Effect of dilutive securities:
+ Stock options 15.4 0.7 11.4 3.5
+ ------------ ----------- ----------- -----------
+
+Weighted-average common and potential
+ common shares outstanding used for
+ diluted earnings per share 195.5 182.0 193.7 184.5
+ ============ =========== =========== ===========
+
+For the second quarter of fiscal 2004, we did not include options outstanding to
+purchase 6.8 million shares of common stock with a weighted-average exercise
+price of 58.32 in diluted earnings per share since their effect was
+antidilutive because their exercise price exceeded the average market price
+during the quarter. These shares could, however, potentially dilute basic
+earnings per share in the future. For the first six months of fiscal 2004, we
+did not include options outstanding to purchase 15.2 million shares of common
+stock with a weighted-average exercise price of 44.97 in diluted earnings per
+share since their effect was also antidilutive because their exercise price
+exceeded the average market price during the same period. For the second quarter
+of fiscal 2003, we did not include options outstanding to purchase 35.0 million
+shares of common stock with a weighted-average exercise price of 32.20 in
+diluted earnings per share since their effect was antidilutive because their
+exercise price exceeded the average market price during the quarter. For the
+first six months of fiscal 2003, we did not include options outstanding to
+purchase 27.5 million shares of common stock with a weighted-average exercise
+price of 37.00 in diluted earnings per share since their effect was
+antidilutive because their exercise price exceeded the average market price
+during the same period.
+
+Employee Stock Plans
+
+We account for our employee stock option and stock purchase plans in accordance
+with the intrinsic method of Accounting Principles Board Opinion No. 25,
+"Accounting for Stock Issued to Employees." For more complete information on our
+stock-based compensation plans, see Note 10 to the Consolidated Financial
+Statements included in our annual report on Form 10-K for the year ended May 25,
+2003.
+
+ Pro forma information regarding net income and earnings per share is
+required by SFAS No. 123, "Accounting for Stock-Based Compensation," as amended
+by SFAS No. 148, "Accounting for Stock-Based Compensation-Transition and
+Disclosure." This information illustrates the effect on net income and earnings
+per share as if we had accounted for stock-based awards to employees under the
+fair value method specified by SFAS No. 123. The weighted-average fair value of
+stock options granted during the second quarter and first six months of fiscal
+2004 was 22.51 and 15.16 per share, respectively. The weighted-average fair
+value of stock options granted during the second quarter and first six months of
+fiscal 2003 was 8.30 and 9.61 per share, respectively. The weighted-average
+fair value of rights granted under the stock purchase plans was 4.74 and 4.48
+per share for the second quarter and first six months of fiscal 2004,
+respectively. The weighted-average fair value of rights granted under the stock
+purchase plans was 7.42 and 7.74 per share for the second quarter and first
+six months of fiscal 2003, respectively. We estimated the fair value of these
+employee stock-based awards using a Black-Scholes option pricing model that
+assumes no expected dividends and uses the following weighted-average
+assumptions:
+
+Three Months Ended Six Months Ended
+ ----------------------------- -----------------------------
+ Nov. 23, Nov. 24, Nov. 23, Nov. 24,
+ 2003 2002 2003 2002
+ -------------- -------------- ------------- ---------------
+
+Stock Option Plans
+ Expected life (in years) 5.4 5.0 5.1 5.0
+ Expected volatility 75 77 76 77 
+ Risk-free interest rate 3.3 2.7 3.3 2.7 
+
+Stock Purchase Plans
+ Expected life (in years) 0.3 0.3 0.3 0.3
+ Expected volatility 48 54 50 54 
+ Risk-free interest rate 0.9 1.1 0.9 1.1 
+
+For pro forma purposes, the estimated fair value of employee stock-based awards
+is amortized on a straight-line basis over the options' vesting period for
+options and the three-month purchase period for stock purchases under the stock
+purchase plans. The pro forma information follows:
+
+Three Months Ended Six Months Ended
+ -------------- -------------- ------------- ---------------
+ Nov. 23, Nov. 24, Nov. 23, Nov. 24,
+(In Millions, Except Per Share Amounts) 2003 2002 2003 2002
+ -------------- -------------- ------------- ---------------
+
+Net income - as reported 65.8 6.2 95.5 7.5
+Add back: Stock compensation charge included
+ in net income determined under the intrinsic
+ value method, net of tax 0.6 0.7 1.2 0.7
+Deduct: Total stock-based employee compensation
+ expense determined under the fair value
+ method, net of tax (38.0) (49.7) (83.2) (95.5)
+ -------------- -------------- ------------- ---------------
+Net income (loss) - pro forma 28.4 (42.8) 13.5 (87.3)
+ ============== ============== ============= ===============
+
+Basic earnings per share - as reported 0.37 0.03 0.52 0.04
+Basic earnings (loss) per share - pro forma 0.16 (0.24) 0.07 (0.48)
+Diluted earnings per share - as reported 0.34 0.03 0.49 0.04
+Diluted earnings (loss) per share - pro forma 0.15 (0.24) 0.07 (0.48)
+
+New Accounting Pronouncements:
+
+At the beginning of fiscal 2004, we adopted SFAS No. 143, "Accounting for Asset
+Retirement Obligations." SFAS No. 143 addresses financial accounting and
+reporting for obligations associated with the retirement of tangible long-lived
+assets and the associated asset retirement costs. The impact from the adoption
+of this statement is discussed in Note 5 to the condensed consolidated financial
+statements.
+
+Reclassifications:
+
+Certain amounts reported in fiscal 2003 have been reclassified to conform to the
+fiscal 2004 presentation. Net operating results have not been affected by the
+reclassification.
+
+Note 2. Consolidated Financial Statement Details
+
+Balance sheets (in Millions):
+ 
+ Nov. 23, May 25,
+ 2003 2003
+ -------------------- -------------------
+
+Inventories:
+ Raw materials 7.6 8.1
+ Work in process 110.7 89.2
+ Finished goods 49.0 44.9
+ -------------------- -------------------
+
+Total inventories 167.3 142.2
+ ==================== ===================
+
+Statements of operations (in Millions):
+ 
+ Three Months Ended Six Months Ended
+ --------------------------- --------------------------
+ Nov. 23, Nov. 24, Nov. 23, Nov. 24,
+ 2003 2002 2003 2002
+ -------------- ------------ ------------ -------------
+
+Special items:
+ Cost reduction charges (See Note 4) 6.0 - 18.6 -
+ In-process research and development charges - 0.7 - 0.7
+ -------------- ------------ ------------ -------------
+ Total special items 6.0 0.7 18.6 0.7
+ ============== ============ ============ =============
+
+Interest income, net:
+ Interest income 2.7 4.1 5.9 8.6
+ Interest expense (0.2) (0.5) (0.3) (0.9)
+ -------------- ------------ ------------ -------------
+ Interest income, net 2.5 3.6 5.6 7.7
+ ============== ============ ============ =============
+
+Other income (expense), net:
+ Net intellectual property income - 2.5 8.0 4.1
+ Net gain (loss) on investments 0.7 (0.2) 3.0 0.5
+ Share in net losses of equity-method investments (2.9) (2.5) (7.7) (6.1)
+ Other (0.5) (0.2) (0.5) (0.4)
+ -------------- ------------ ------------ -------------
+ Total other income (expense), net (2.7) (0.4) 2.8 (1.9)
+ ============== ============ ============ =============
+
+Note 3. Consolidated Statement of Cash Flows Information (in Millions)
+ 
+ Six Months Ended
+ -----------------------------------------
+ Nov. 23, Nov. 24,
+ 2003 2002
+ --------------------- -------------------
+Supplemental Disclosure of Cash Flows Information:
+
+Cash paid for:
+ Interest 0.3 1.0
+ Income taxes 10.0 10.2
+
+Supplemental Schedule of Non-cash Investing
+and Financing Activities:
+
+Issuance of stock for employee benefit plans 0.9 0.8
+Issuance of common stock to directors 0.4 0.3
+Unearned compensation relating to restricted stock issuance 1.9 0.2
+Restricted stock cancellation 0.8 0.9
+Change in unrealized gain on cash flow hedges 0.2 0.5
+Change in unrealized gain on available-for-sale securities (2.3) (27.6)
+Acquisition of software license under long-term contracts 11.0 13.9
+
+Note 4. Restructuring of Operations and Cost Reduction Programs
+
+During the second quarter of fiscal 2004, we continued to take steps consistent
+with the objectives of our strategic profit-improvement actions that were
+initially launched in February 2003. We recorded a 6.0 million charge for
+supplemental actions, primarily for workforce reductions in various
+manufacturing, product development and support areas. The charge includes
+severance costs, as well as asset write-offs and lease obligations we incurred
+upon vacating certain manufacturing and design center facilities within the
+quarter upon the closure of those operations. In late August 2003, we also
+completed the exit and sale of our information appliance business. This action
+included the sale to Advanced Micro Devices, Inc. of certain intellectual
+property and assets of the information appliance business. As part of the
+transaction, AMD hired 125 former National employees who were mostly located in
+Longmont, Colorado. However, certain information appliance assets were not
+included in the sale transaction and certain employees that were directly
+supporting the information appliance business were not hired by AMD. The
+corresponding severance and asset impairments that were incurred resulted in net
+charges of 4.0 million for the exit and sale of the information appliance
+business, which were recorded in the first quarter of fiscal 2004. Included in
+this net amount are proceeds of 10.1 million from the sale of assets that had a
+carrying value of 7.5 million less transaction costs of 1.3 million. To date a
+total of 192 employees have been terminated in fiscal 2004 as a combined result
+of the exit from the information appliance business and the other supplemental
+actions. Total charges related to cost reduction actions, including the exit of
+the information appliance business, are presented in the following tables:
+
+Enterprise Enhanced
+ Analog Networking Solutions
+(In Millions) Segment Segment Segment All Others Total
+ -------------- ---------------- ---------------- -------------- --------------
+
+Three months ended November 23, 2003:
+Severance 2.0 - - 1.8 3.8
+Exit related costs 0.9 - - 1.1 2.0
+Asset write-off 0.2 - - - 0.2
+ -------------- ---------------- ---------------- -------------- --------------
+ 3.1 - - 2.9 6.0
+ ============== ================ ================ ============== ==============
+
+Enterprise Enhanced
+ Analog Networking Solutions
+(In Millions) Segment Segment Segment All Others Total
+ -------------- ---------------- ---------------- -------------- --------------
+
+Six months ended November 23, 2003:
+Severance 3.7 - - 6.5 10.2
+Exit related costs 3.1 - - 1.2 4.3
+Asset write-off 1.3 - - 4.1 5.4
+ -------------- ---------------- ---------------- -------------- --------------
+ 8.1 - - 11.8 19.9
+ ============== ================ ================ ============== ==============
+
+Noncash charges included in the tables above relate to the write-off of assets,
+primarily equipment and a technology license that were dedicated to the
+information appliance and cellular baseband businesses. The cellular baseband
+business was closed at the end of fiscal 2003 as part of the profit-improvement
+plan. In connection with the sale transaction to AMD discussed above, we also
+entered into a separate supply agreement where we will manufacture product for
+AMD at prices specified by the terms of the agreement, which we believe
+approximate market prices. This agreement is effective for three years unless
+terminated earlier as permitted under the terms of the agreement.
+ The following table provides a summary of the activities related to our
+cost reduction and restructuring actions included in accrued liabilities for the
+six months ended November 23, 2003:
+
+Other Exit
+(In Millions) Severance Costs Total
+ -------------- -------------- --------------
+
+Balance at beginning of fiscal year 17.5 7.8 25.3
+Cash payments (15.8) (3.0) (18.8)
+Fiscal 2004 cost reduction charges 10.2 4.3 14.5
+ -------------- -------------- --------------
+Ending balance 11.9 9.1 21.0
+ ============== ============== ==============
+
+ Payments for the remaining severance are expected to be completed by the
+end of fiscal 2004. The remaining other exit costs, primarily lease obligations,
+are expected to be paid through lease expiration dates that range from August
+2004 through January 2009.
+ During the first six months of fiscal 2004 we paid severance to 305
+employees in connection with workforce reductions announced in fiscal 2003 and
+the first six months of fiscal 2004. Amounts paid for other exit-related costs
+during the first six months of fiscal 2004 were primarily for payments under
+lease obligations associated with previous restructuring and cost reduction
+actions.
+
+Note 5. Accounting for Asset Retirement Obligations
+
+We adopted SFAS No. 143, "Accounting for Asset Retirement Obligations," at the
+beginning of fiscal 2004. This statement requires that the fair value of a legal
+liability for an asset retirement obligation be recorded in the period in which
+it is incurred if a reasonable estimate of fair value can be made. Upon
+recognition of a liability, the asset retirement cost is recorded as an increase
+in the carrying value of the related long-lived asset and then depreciated over
+the life of the asset. Our asset retirement obligations arise primarily from
+contractual commitments to decontaminate machinery and equipment used at our
+manufacturing facilities at the time we dispose of or replace them. We also have
+some leased facilities where we have asset retirement obligations from
+contractual commitments to remove leasehold improvements and return the property
+to a specified condition when the lease terminates. As a result, we recorded a
+ 2.1 million noncurrent liability for asset retirement obligations and a 0.4
+million increase in the carrying value of the related assets, net of 1.0
+million of accumulated depreciation. The cumulative effect recorded in the first
+quarter of fiscal 2004 upon the adoption of this accounting standard was a
+charge of 1.9 million, including a tax effect of 0.2 million.
+ We were unable to recognize any asset retirement obligations associated
+with the closure or abandonment of the manufacturing facilities we own. We
+currently intend to operate these facilities indefinitely and are therefore
+unable to reasonably estimate the fair value of any legal obligations we may
+have because of the indeterminate closure dates.
+
+The following table presents the activity for the asset retirement
+obligations for the six months ended November 23, 2003:
+
+(In Millions)
+Balance at beginning of fiscal 2004 2.1
+Liability incurred 0.1
+Accretion expense 0.1
+ -----------------------
+Ending balance 2.3
+ =======================
+
+ The following table presents net income and earnings per share for the
+second quarter and first six months of fiscal 2004 and 2003, as if the
+provisions of SFAS No. 143 had been applicable in fiscal 2003:
+
+Three Months Ended Six Months Ended
+ --------------------------- ------------------------------
+ Nov. 23, Nov. 24, Nov. 23, Nov. 24,
+(In Millions, Except Per Share Amounts) 2003 2002 2003 2002
+ --------------------------- ------------------------------
+
+Net income, as reported 65.8 6.2 95.5 7.5
+Add back:
+ Cumulative effect of a change in accounting
+ principle including tax effect of 0.2 million - - 1.9 -
+Deduct:
+ Accretion and depreciation in fiscal 2003, net of tax - - - 0.1
+ ------------- ------------- --------------- --------------
+Net income, as adjusted 65.8 6.2 97.4 7.4
+ ============= ============= =============== ==============
+
+Net income per share, as adjusted:
+ Basic 0.37 0.03 0.53 0.04
+ Diluted 0.34 0.03 0.50 0.04
+
+Note 6. Stock Repurchase
+
+During the second quarter of fiscal 2004, we repurchased 12.7 million shares of
+our common stock for 400.0 million in connection with a stock repurchase
+program we announced in July 2003. A portion (7.5 million shares) of the total
+was purchased through a privately negotiated transaction with a major financial
+institution and the remainder was purchased in the open market.
+
+Note 7. Segment Information
+
+The following tables present information related to our reportable segments:
+
+Enterprise Enhanced
+ Analog Networking Solutions
+(In Millions) Segment Segment Segment All Others Eliminations Total
+ ------------- -------------- ------------- ------------ ------------- ------------
+
+Three months ended November 23, 2003:
+ Sales to unaffiliated customers 387.2 5.1 17.5 63.7 473.5
+ ============= ============== ============= ============ ============= ============
+
+ Segment income (loss) before income taxes and
+ cumulative effect of a change in accounting
+ principle: 86.8 (6.1) 6.0 (11.9) - 74.8
+ ============= ============== ============= ============ ============= ============
+
+Three months ended November 24, 2002:
+ Sales to unaffiliated customers 323.1 4.3 13.4 81.5 422.3
+ ============= ============== ============= ============ ============= ============
+
+ Segment income (loss) before income taxes: 15.3 (9.8) 6.1 (3.4) - 8.2
+ ============= ============== ============= ============ ============= ============
+
+Six months ended November 23, 2003:
+ Sales to unaffiliated customers 721.3 10.4 28.5 138.1 898.3
+ ============= ============== ============= ============ ============= ============
+
+ Segment income (loss) before income taxes and
+ cumulative effect of a change in accounting
+ principle: 141.1 (10.0) 10.6 (31.0) - 110.7
+ ============= ============== ============= ============ ============= ============
+
+Six months ended November 24, 2002:
+ Sales to unaffiliated customers 650.2 9.8 24.8 158.1 842.9
+ ============= ============== ============= ============ ============= ============
+
+ Segment income (loss) before income taxes: 29.2 (20.2) 9.0 (5.5) - 12.5
+ ============= ============== ============= ============ ============= ============
+
+The GeodeTM family of integrated processor products was the primary component of
+the Information Appliance segment, which was formerly a reportable segment. It
+was sold to Advanced Micro Devices, Inc. in late August 2003 as part of our
+disposition of the information appliance business (See Note 4). Beginning in the
+second quarter of fiscal 2004, the other aggregated operating segments that were
+in our Information Appliance reportable segment no longer meet the requirements
+of a reportable segment and are included in "All Other." Prior period amounts
+have been reclassified to conform with the current year presentation.
+
+Note 8. Contingencies - Legal Proceedings
+
+o Environmental Matters
+
+ We have been named to the National Priorities List for our Santa Clara,
+California, site and have completed a remedial investigation/feasibility study
+with the Regional Water Quality Control Board (RWQCB), acting as an agent for
+the Federal Environmental Protection Agency. We have agreed with the RWQCB to a
+site remediation plan. In addition to the Santa Clara site, from time to time we
+have been designated as a potentially responsible party (PRP) by federal and
+state agencies for certain environmental sites with which we may have had direct
+or indirect involvement. These designations are made regardless of the extent of
+our involvement. These claims are in various stages of administrative or
+judicial proceedings and include demands for recovery of past governmental costs
+and for future investigations and remedial actions. In many cases, the dollar
+amounts of the claims have not been specified, and in the case of the PRP cases,
+claims have been asserted against a number of other entities for the same cost
+recovery or other relief as is sought from us. We accrue costs associated with
+environmental matters when they become probable and can be reasonably estimated.
+The amount of all environmental charges to earnings, including charges for the
+Santa Clara site remediation (excluding potential reimbursements from insurance
+coverage), were not material during the fiscal periods covered in these
+consolidated financial statements.
+ As part of the disposition in fiscal 1996 of the Dynacraft assets and
+business, we retained responsibility for environmental claims connected with
+Dynacraft's Santa Clara, California, operations and for other environmental
+claims arising from our conduct of the Dynacraft business prior to the
+disposition. As part of the Fairchild disposition in fiscal 1997, we also agreed
+to retain liability for remediation projects and environmental matters arising
+from our prior operation of Fairchild's plants in South Portland, Maine; West
+Jordan, Utah; Cebu, Philippines; and Penang, Malaysia; and Fairchild agreed to
+arrange for and perform the remediation and cleanup. We prepaid to Fairchild the
+estimated costs of the remediation and cleanup and remain responsible for costs
+and expenses incurred by Fairchild in excess of the prepaid amounts. To date,
+the costs associated with the liabilities we have retained in these dispositions
+have not been material and there have been no legal proceedings relating to
+them.
+
+o Tax Matters
+
+ Our tax returns for certain years are under examination in the U.S. by the
+IRS and in other countries by local authorities. The IRS has completed examining
+our tax returns for fiscal years 1997 through 2000 and on July 29, 2003 issued a
+notice of proposed adjustment seeking additional taxes of approximately 19
+million (exclusive of interest) for those years. The issues giving rise to most
+of the proposed adjustments relate to R&D credits, inventory and depreciation
+deductions. We are contesting the adjustments administratively. We believe we
+have made adequate tax payments and/or accrued adequate amounts in our
+consolidated financial statements to cover the amounts sought by the IRS, as
+well as any other deficiencies that other governmental agencies may find in
+their audits.
+
+o Other Matters
+
+ In January 1999, a class action suit was filed against us and our chemical
+suppliers by former and present employees claiming damages for personal
+injuries. The complaint alleges that cancer and reproductive harm were caused to
+employees exposed to chemicals in the workplace. In November 2003, the court
+denied the plaintiffs' motion for certification of a medical monitoring class.
+Discovery in the case is proceeding.
+ In November 2000, a derivative action was brought against us and other
+defendants by a shareholder of Fairchild Semiconductor International, Inc.
+Plaintiff seeks recovery of alleged "short-swing" profits under section 16(b) of
+the Securities Exchange Act of 1934 from the sale by the defendants in January
+2000 of Fairchild common stock. The complaint alleges that Fairchild's
+conversion of preferred stock held by the defendants at the time of Fairchild's
+initial public offering in August 1999 constitutes a "purchase" that must be
+matched with the January 2000 sale for purposes of computing the "short-swing"
+profits. Plaintiff seeks from National alleged recoverable profits of 14.1
+million. In February 2002, the judge in the case granted the motion to dismiss
+filed by us and our co-defendants and dismissed the case, ruling that the
+conversion was done pursuant to a reclassification which is exempt from the
+scope of Section 16(b). Plaintiff appealed the dismissal of the case and upon
+appeal, the appeals court reversed the lower court's dismissal. Our petition to
+the U.S. Supreme Court for a writ of certiorari was denied in October 2003. The
+case is now in discovery in the trial court, where we intend to contest it
+through available means.
+
+In addition to the foregoing, we are a party to other suits and claims that
+arise in the normal course of business. Based on current information, we do not
+believe that it is probable that losses associated with the proceedings
+discussed above that exceed amounts already recognized in our consolidated
+financial statements will be incurred in amounts that would be material to our
+consolidated financial position or results of operations.
+
+Contingencies - Other:
+
+ In connection with our past divestitures, we have routinely provided
+indemnities to cover the indemnified party for matters such as environmental,
+tax, product and employee liabilities. We also routinely include intellectual
+property indemnification provisions in our terms of sale, development agreements
+and technology licenses with third parties. Since maximum obligations are not
+explicitly stated in these indemnification provisions, the potential amount of
+future maximum payments cannot be reasonably estimated. To date we have incurred
+minimal losses associated with these indemnification obligations and as a
+result, we have not recorded any liability in our consolidated financial
+statements.
+
+ITEM 2. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS
+OF OPERATIONS
+
+This Quarterly Report on Form 10-Q contains forward-looking statements within
+the meaning of Section 27A of the Securities Act of 1933 and Section 21E of the
+Securities Exchange Act of 1934. These statements relate to, among other things,
+sales, gross margins, operating expenses, capital expenditures, R&D efforts and
+acquisitions and investments in other companies and are indicated by words or
+phrases such as "anticipate," "expect," "outlook," "foresee," "we believe," "we
+intend," and similar words or phrases. These statements are based on our current
+plans and expectations and involve risks and uncertainties that could cause
+actual results to differ materially from expectations. These forward-looking
+statements should not be relied upon as predictions of future events as we
+cannot assure you that the events or circumstances reflected in these statements
+will be achieved or will occur. The following are among the principal factors
+that could cause actual results to differ materially from the forward-looking
+statements: general business and economic conditions in the semiconductor
+industry and in various markets such as wireless, PC, displays and networks;
+pricing pressures and competitive factors; delays in the introduction of new
+products or lack of market acceptance for new products; our success in
+integrating acquisitions and achieving operating improvements with acquisitions;
+risks of international operations; legislative and regulatory changes; the
+outcome of legal, administrative and other proceedings that we are involved in;
+the results of our programs to control or reduce costs; and the general
+worldwide geopolitical situation. For a discussion of some of the factors that
+could cause actual results to differ materially from our forward-looking
+statements, see the discussion on Risk Factors that appears below and other
+risks and uncertainties detailed in this and our other reports and filings with
+the Securities and Exchange Commission. We undertake no obligation to update
+forward-looking statements to reflect developments or information obtained after
+the date hereof and disclaim any obligation to do so.
+ This discussion should be read in conjunction with the consolidated
+financial statements and the accompanying notes included in this Form 10-Q and
+in our annual report on Form 10-K for the fiscal year ended May 25, 2003.
+
+O CRITICAL ACCOUNTING POLICIES
+We believe the following critical accounting policies are those policies that
+have a significant effect on the determination of our financial position and
+results of operations. These policies also require us to make our most difficult
+and subjective judgments:
+
+ 1. Revenue Recognition
+
+ We recognize revenue from the sale of semiconductor products upon
+ shipment, provided title and risk of loss have passed to the customer,
+ the amount is fixed or determinable and collection of the revenue is
+ reasonably assured. Service revenues are recognized as the services
+ are provided or as milestones are achieved, depending on the terms of
+ the arrangement. We record a provision for estimated future returns at
+ the time of shipment. Approximately 50 percent of our semiconductor
+ product sales are currently made through distributors. We have
+ agreements with our distributors that cover various programs,
+ including pricing adjustments based on resales, scrap allowances and
+ volume incentives. The revenue we record for these distribution sales
+ is net of estimated provisions for these programs. When determining
+ this net distribution revenue, we must make significant judgments and
+ estimates. Our estimates are based upon historical experience rates,
+ inventory levels in the distribution channel, current economic trends,
+ and other related factors. To date, the actual distributor activity
+ has been materially consistent with the provisions we have made based
+ on our estimates. However, because of the inherent nature of
+ estimates, there is always a risk that there could be significant
+ differences between actual amounts and our estimates. Our financial
+ condition and operating results are dependent on our ability to make
+ reliable estimates and we believe that our estimates are reasonable.
+ However, different judgments or estimates could result in variances
+ that might be significant to reported operating results.
+ Intellectual property income is not classified as revenue. This
+ income is classified as non-operating income and is recognized when
+ the license is delivered, the fee is fixed or determinable, collection
+ of the fee is reasonably assured and no further obligations to the
+ other party exist.
+ 
+ 2. Inventories
+
+ Inventories are stated at the lower of standard cost, which
+ approximates actual cost on a first-in, first-out basis, or market. We
+ reduce the carrying value of inventory for estimated obsolescence or
+ unmarketable inventory by an amount that is the difference between its
+ cost and the estimated market value based upon assumptions about
+ future demand and market conditions. Our products are classified as
+ either custom, which are those products manufactured with
+ customer-specified features or characteristics, or non-custom, which
+ are those products that do not have customer-specified features or
+ characteristics. We evaluate obsolescence by analyzing the inventory
+ aging, order backlog and future customer demand on an individual
+ product basis. If actual demand were to be substantially lower than
+ what we have estimated, we may be required to write down inventory
+ below the current carrying value. While our estimates require us to
+ make significant judgments and assumptions about future events, we
+ believe our relationships with our customers, combined with our
+ understanding of the end-markets we serve, provide us with the ability
+ to make reliable estimates. To date the actual amount of obsolete or
+ unmarketable inventory has been materially consistent with previously
+ estimated write-downs we have recorded. We also evaluate the carrying
+ value of inventory for lower-of-cost-or-market on an individual
+ product basis, and these evaluations are intended to identify any
+ difference between net realizable value and standard cost. Net
+ realizable value is determined as the selling price of the product
+ less the estimated cost of disposal. When necessary, we reduce the
+ carrying value of inventory to net realizable value. If actual market
+ conditions and resulting product sales were to be less favorable than
+ what we have projected, additional inventory write-downs may be
+ required.
+
+ 3. Impairment of Goodwill, Intangible Assets and Other Long-lived Assets
+
+ We assess the impairment of long-lived assets whenever events or
+ changes in circumstances indicate that their carrying value may not be
+ recoverable from the estimated future cash flows expected to result
+ from their use and eventual disposition. Our long-lived assets subject
+ to this evaluation include property, plant and equipment and
+ amortizable intangible assets. We assess the impairment of goodwill
+ annually in our fourth fiscal quarter and whenever events or changes
+ in circumstances indicate that it is more likely than not that an
+ impairment loss has been incurred. Intangible assets other than
+ goodwill are reviewed for impairment whenever events or changes in
+ circumstances indicate that the carrying value may not be fully
+ recoverable. Other intangible assets subject to this evaluation
+ include developed technology we have acquired, patents and technology
+ licenses. We are required to make judgments and assumptions in
+ identifying those events or changes in circumstances that may trigger
+ impairment. Some of the factors we consider include:
+
+ o Significant decrease in the market value of an asset
+ o Significant changes in the extent or manner for which the asset
+ is being used or in its physical condition
+ o A significant change, delay or departure in our business strategy
+ related to the asset
+ o Significant negative changes in the business climate, industry or
+ economic conditions
+ o Current period operating losses or negative cash flow combined
+ with a history of similar losses or a forecast that indicates
+ continuing losses associated with the use of an asset
+
+ Our impairment evaluation of long-lived assets includes an
+ analysis of estimated future undiscounted net cash flows expected to
+ be generated by the assets over their remaining estimated useful
+ lives. If the estimated future undiscounted net cash flows are
+ insufficient to recover the carrying value of the assets over the
+ remaining estimated useful lives, we will record an impairment loss in
+ the amount by which the carrying value of the assets exceeds the fair
+ value. We determine fair value based on discounted cash flows using a
+ discount rate commensurate with the risk inherent in our current
+ business model. If, as a result of our analysis, we determine that our
+ amortizable intangible assets or other long-lived assets have been
+ impaired, we will recognize an impairment loss in the period in which
+ the impairment is determined. Any such impairment charge could be
+ significant and could have a material adverse effect on our financial
+ position and results of operations. Major factors that influence our
+ cash flow analysis are our estimates for future revenue and expenses
+ associated with the use of the asset. Different estimates could have a
+ significant impact on the results of our evaluation.
+ 
+ Our impairment evaluation of goodwill is based on comparing the
+ fair value to the carrying value of the reporting units with goodwill.
+ The fair value of a reporting unit is measured at the business unit
+ level using a discounted cash flow approach that incorporates our
+ estimates of future revenues and costs for those business units.
+ Reporting units with goodwill include our wireless, displays, power
+ management and data conversion business units, which are operating
+ segments within our Analog reportable segment, our Enterprise
+ Networking business unit, which is a separate reportable segment and
+ our device connectivity business unit, which is an operating segment
+ included in "All Others." Our estimates are consistent with the plans
+ and estimates that we are using to manage the underlying businesses.
+ If we fail to deliver new products for these business units, or if the
+ products fail to gain expected market acceptance, or market conditions
+ for these businesses fail to sustain improvement, our revenue and cost
+ forecasts may not be achieved and we may incur charges for goodwill
+ impairment, which could be significant and could have a material
+ adverse effect on our net equity and results of operations.
+
+ 4. Deferred Income Taxes
+
+ We determine deferred tax liabilities and assets based on the future
+ tax consequences that can be attributed to net operating loss and
+ credit carryovers and differences between the financial statement
+ carrying amounts of existing assets and liabilities and their
+ respective tax bases, using the tax rate expected to be in effect when
+ the taxes are actually paid or recovered. The recognition of deferred
+ tax assets is reduced by a valuation allowance if it is more likely
+ than not that the tax benefits will not be realized. The ultimate
+ realization of deferred tax assets depends upon the generation of
+ future taxable income during the periods in which those temporary
+ differences become deductible. We consider past performance, expected
+ future taxable income and prudent and feasible tax planning strategies
+ in assessing the amount of the valuation allowance. Our forecast of
+ expected future taxable income is based over those future periods that
+ we believe can be reasonably estimated. Changes in market conditions
+ that differ materially from our current expectations and changes in
+ future tax laws in the U.S. and international jurisdictions may cause
+ us to change our judgments of future taxable income. These changes, if
+ any, may require us to adjust our existing tax valuation allowance
+ higher or lower than the amount we have recorded.
+
+o OVERVIEW
+During the first half of fiscal 2004, we continued to take steps consistent with
+the objectives of the strategic profit-improvement actions that were first
+announced in February 2003. In late August 2003, we completed the exit and sale
+of our information appliance business, consisting primarily of the GeodeTM
+family of integrated processor products (See Note 4). In the second quarter of
+fiscal 2004, we completed some cost reduction activities associated with other
+supplemental actions that were also aimed at improving profitability. We are
+concentrating our R&D investments on analog capabilities and focusing on growing
+our analog sales and increasing our return on invested capital.
+ Net sales were 473.5 million for the second quarter of fiscal 2004 and
+ 898.3 million for the first six months of fiscal 2004. This represented
+increases of 12 percent from sales of 422.3 million for the second quarter of
+fiscal 2003 and 7 percent from sales of 842.9 million for the first six months
+of fiscal 2003. The increases come from higher demand, particularly for power
+management products, as business conditions for the semiconductor industry have
+improved from a year ago.
+ We earned net income of 65.8 million in the second quarter of fiscal 2004
+and 95.5 million in the first six months of fiscal 2004. This compares to net
+income of 6.2 million in the second quarter of fiscal 2003 and 7.5 million in
+the first six months of fiscal 2003. This improvement in net results was driven
+by higher gross margin on increased sales and reduced operating expenses
+achieved from the implementation of the strategic profit-improvement actions
+launched in February 2003.
+ 
+ Net income included special items of 6.0 million in the second quarter of
+fiscal 2004 and 18.6 million in the first six months of fiscal 2004. The
+special items for the second quarter include charges for certain cost reduction
+actions completed during the quarter (See Note 4). Special items in the first
+six months of fiscal 2004 included charges of 12.6 million for cost reduction
+actions and the exit and sale of the information appliance business, which were
+recorded in the first fiscal quarter (See Note 4). Net income in the first six
+months of fiscal 2004 also included a 1.9 million charge (including a tax
+effect of 0.2 million) for the cumulative effect of a change in accounting
+principle as a result of the adoption of SFAS No. 143, "Accounting for Asset
+Retirement Obligations" (See Note 5). In comparison, net income for the second
+quarter and first six months of fiscal 2003 included a special item of 0.7
+million for an in-process R&D charge related to the acquisition in the second
+quarter of fiscal 2003 of DigitalQuake.
+
+O SALES
+The following discussion is based on our operating segments described in Note 13
+to the consolidated financial statements included in our Annual Report on Form
+10-K for the year ended May 25, 2003.
+ The Analog segment, which represents 80 percent of our total sales,
+recorded increases in sales of 20 percent for the second quarter of fiscal 2004
+and 11 percent for the first six months of fiscal 2004 compared to the
+corresponding periods of fiscal 2003. The increases in Analog segment sales were
+largely attributable to increasing content of analog semiconductors in a variety
+of electronic products, including consumer products such as cellular phones,
+PDA's and other portable devices. The increases were driven by higher volume as
+unit shipments increased 27 percent for the second quarter of fiscal 2004 and 16
+percent for the first six months of fiscal 2004 over the corresponding periods
+of fiscal 2003. At the same time, average selling prices declined 6 percent in
+the second quarter of fiscal 2004 and 4 percent in the first six months of
+fiscal 2004 from the corresponding periods of fiscal 2003. The decline in
+average selling prices came from a shift in unit mix toward lower priced, higher
+margin products, as well as some modest price declines. These lower priced,
+higher margin products include a variety of high performance analog products
+offered in very small form factors, made possible by our advanced chip-packaging
+technologies. Notwithstanding the shift in average selling prices, our gross
+margin percentage improved in fiscal 2004 compared fiscal 2003. Within the
+Analog segment, sales of power management products led the growth in sales with
+increases of 58 percent for the second quarter of fiscal 2004 and 48 percent for
+the first six months of fiscal 2004 over sales for the corresponding periods of
+fiscal 2003. Applications for wireless handsets largely drove the sales growth
+in power management products. In addition, sales of audio and
+application-specific wireless products (including radio frequency building
+blocks) increased by 39 percent and 35 percent, respectively, over sales in the
+second quarter of fiscal 2003. Sales of these products for the first six months
+of fiscal 2004 increased 23 percent and 17 percent, respectively, over sales for
+the first six months of fiscal 2003.
+ The GeodeTM family of integrated processor products, the primary component
+of the Information Appliance segment, was sold to Advanced Micro Devices, Inc.
+in late August 2003 as part of our disposition of the information appliance
+business (See Note 4). As a result, the remaining aggregated operating segments
+that were in our Information Appliance reportable segment no longer meet the
+requirements of a reportable segment and beginning in the second quarter of
+fiscal 2004 are included in "All Other."
+ In connection with the sale transaction to AMD (See Note 4), we also
+entered into a separate supply agreement where we will manufacture product for
+AMD at prices specified under the terms of the agreement, which we believe
+approximate market prices. Sales of these products to AMD are included as a part
+of our foundry business unit and is a separate operating segment included in
+"All Other."
+
+O GROSS MARGIN
+Gross margin as a percentage of sales was 50 percent for the second quarter of
+fiscal 2004 and 49 percent for the first six months of fiscal 2004. This
+compares to 43 percent for each of the comparable periods of fiscal 2003. The
+increase comes primarily from higher factory utilization, as well as a net
+improvement in product mix. Wafer fabrication capacity utilization during the
+first six months of fiscal 2004 was 90 percent, based on wafer starts, compared
+to 68 percent for the first six months of fiscal 2003 when production activity
+was lower under weaker business conditions.
+
+o RESEARCH AND DEVELOPMENT
+Our research and development expenses were 83.2 million, or 18 percent of
+sales, for the second quarter of fiscal 2004 and 175.3 million, or 20 percent
+of sales, for the first six months of fiscal 2004. This represents decreases of
+22 percent from the second quarter of fiscal 2003 and 20 percent from the first
+six months of fiscal 2003. R&D expenses were 107.1 million, or 25 percent of
+sales, for the second quarter of fiscal 2003 and 217.8 million, or 26 percent
+of sales, for the first six months of fiscal 2003. Lower R&D expenses reflect
+the impact of actions we initially launched in February 2003 to reduce our R&D
+as a percent of sales. These actions included exits of businesses, headcount
+reductions and restructuring of a licensing agreement with TSMC. Ongoing R&D
+spending is now heavily focused on our analog products and our underlying analog
+capabilities. Total company spending through the first six months of fiscal 2004
+for new product development was down 14 percent, and for process and support
+technology was down 39 percent, from the first six months of fiscal 2003
+primarily due to reduced spending in the business areas we have exited. Although
+R&D spending is down as a whole and as a percent of sales, we continue to invest
+in the development of new analog and mixed-signal technology-based products for
+applications such as wireless handsets, displays, notebook PCs, other portable
+devices and other applications requiring analog technology.
+
+O SELLING, GENERAL AND ADMINISTRATIVE
+Our selling, general and administrative expenses were 72.8 million, or 15
+percent of sales, for the second quarter of fiscal 2004 and 141.2 million, or
+16 percent of sales, for the first six months of fiscal 2004. This represents
+increases of 7 percent from the second quarter of fiscal 2003 and 2 percent from
+the first six months of fiscal 2003. SG&A expenses were 68.3 million, or 16
+percent of sales, for the second quarter of fiscal 2003 and 138.2 million, or
+16 percent of sales, for the first six months of fiscal 2003. The increase in
+SG&A expenses was mainly due to higher costs in the second quarter of fiscal
+2004 related to employee compensation and benefits, as well as some incremental
+costs for outside services. Although SG&A expenses were up in the second
+quarter, we are continuing to focus on controlling headcount and discretionary
+spending consistent with our profit improvement objectives.
+
+O INTEREST INCOME AND INTEREST EXPENSE
+For the second quarter and first six months of fiscal 2004, we earned net
+interest income of 2.5 million and 5.6 million, compared to 3.6 million and
+ 7.7 million for the corresponding periods of fiscal 2003. This decrease was due
+to lower average interest rates on lower average cash balances. Our cash
+balances were lower as a result of the repurchase of 12.7 million shares of our
+common stock for 400.0 million. Offsetting interest expense was lower during
+fiscal 2004 compared to fiscal 2003 as we continued to reduce our outstanding
+debt balances.
+
+o OTHER INCOME (EXPENSE), NET
+The components of our other income (expense), net are primarily derived from our
+investments and intellectual property licensing activities. We recorded other
+expense, net, of 2.7 million for the second quarter of fiscal 2004 and other
+income, net, of 2.8 million for the first six months of fiscal 2004. This
+compared to other expense, net, of 0.4 million and 1.9 million for the second
+quarter and first six months of fiscal 2003. The components of other expense,
+net, for the second quarter of fiscal 2004 include a 0.7 million gain from sale
+of investments, offset by a 2.9 million charge for our share in net losses of
+equity-method investments and 0.5 million of other miscellaneous losses. Net
+intellectual property income for the second quarter of fiscal 2004 was
+immaterial. The components of other expense, net, for the second quarter of
+fiscal 2003 included 2.5 million of net intellectual property income, offset by
+a 0.2 million net loss from the write down of investments, a 2.5 million
+charge for our share in net losses of equity-method investments and 0.2 million
+of other miscellaneous losses. For the first six months of fiscal 2004, other
+income, net, included 8.0 million of net intellectual property income and a
+ 3.0 million gain from the sale of an investment, partially offset by a 7.7
+million charge for our share in net losses of equity-method investments and 0.5
+million of other miscellaneous losses. For the first six months of fiscal 2003,
+other expense, net, included 4.1 million of net intellectual property income
+and a 0.5 million net gain from sale of investments, offset by a 6.1 million
+charge for our share in net losses of equity-method investments and 0.4 million
+of other miscellaneous losses.
+
+o INCOME TAX EXPENSE
+We recorded income tax expense of 9.0 million for the second quarter of fiscal
+2004 and 13.3 million for the first six months of fiscal 2004 on income before
+taxes and cumulative effect of a change in accounting principle. This compares
+to income tax expense of 2.0 million and 5.0 million for the corresponding
+periods of fiscal 2003, when our income was much lower. The fiscal 2004
+estimated annual effective tax rate is 12 percent. Fiscal 2004 tax expense
+consists primarily of U.S. alternative minimum tax and non-U.S. income taxes.
+The fiscal 2003 tax expense represents non-U.S. income taxes on international
+income. We did not incur U.S. income taxes in fiscal 2003.
+
+o LIQUIDITY AND CAPITAL RESOURCES
+During the first six months of fiscal 2004, cash and cash equivalents decreased
+ 288.7 million compared to an increase of 5.1 million in the first six months
+of fiscal 2003. The primary factors contributing to these changes are described
+below:
+ 
+ We generated cash from operating activities of 162.6 million for the first
+six months of fiscal 2004 compared to 99.2 million for the first six months of
+fiscal 2003. Cash was generated from operating activities because net income,
+after adjusting for noncash items (primarily depreciation and amortization), was
+greater than the negative impact that came from changes in working capital
+components. The negative changes in working capital components for fiscal 2004
+come primarily from increases in receivables and inventories combined with
+decreases in accounts payable and accrued expenses. Cash from operating
+activities for the first six months of fiscal 2003 was also generated because
+net income for that period, after adjusting for noncash items (primarily
+depreciation and amortization), was greater than the negative impact from
+changes in working capital components.
+ Our investing activities used cash of 169.6 million in the first six
+months of fiscal 2004, compared to 110.0 million used in the first six months
+of fiscal 2003. Major uses of cash in fiscal 2004 included investment in
+property, plant and equipment of 99.0 million, primarily for machinery and
+equipment, and net purchases of available-for-sale securities of 72.7 million.
+Major uses of cash in the first six months of fiscal 2003 included investment in
+property, plant and equipment of 98.3 million, primarily for machinery and
+equipment, and the acquisition of DigitalQuake for 11.0 million, net of cash
+acquired.
+ Our financing activities used cash of 281.7 million in the first six
+months of fiscal 2004 while generating cash of 15.9 million in the first six
+months of fiscal 2003. The primary use of cash in the first six months of fiscal
+2004 came from our repurchase of 12.7 million shares of our common stock for
+ 400.0 million. A portion (7.5 million shares) of the repurchase was transacted
+directly with a major financial institution and the remainder in the open
+market. This was partially offset by proceeds of 120.1 million from the
+issuance of common stock under employee benefit plans. The primary source of
+cash for the first six months of fiscal 2003 was from the issuance of common
+stock under employee benefit plans of 19.4 million, which was slightly offset
+by a 3.5 million repayment of our outstanding debt balances.
+ We foresee continuing cash outlays for plant and equipment in fiscal 2004,
+with our primary focus on extending capacity and capabilities at our existing
+sites. We are continuing with the construction of an assembly and test facility
+in China that was begun in fiscal 2003 as part of our effort to increase
+assembly and test capacity, as well as expand our business presence in Asian
+markets. We currently expect our fiscal 2004 capital expenditure amount to be
+greater than the fiscal 2003 amount. However, we continue to manage capital
+expenditures in light of business conditions. We expect existing cash and
+investment balances, together with existing lines of credit, to be sufficient to
+finance planned capital investments in fiscal 2004 and the following twelve
+months.
+ Our cash and investment balances are dependent on continued collection of
+customer receivables and the ability to sell inventories. Although we have not
+experienced major problems with our customer receivables, significant declines
+in overall economic conditions could lead to deterioration in the quality of
+customer receivables. In addition, major declines in financial markets would
+likely cause reductions in our cash equivalents and marketable investments.
+ The following table provides a summary of the effect on liquidity and cash
+flows from our contractual obligations and commercial commitments as of November
+23, 2003:
+
+Fiscal Year: 2009 and
+(In Millions) 2004 2005 2006 2007 2008 thereafter Total
+ --------------- ---------- --------- --------- -------- ------------- --------------
+
+Contractual obligations:
+ Debt obligations 0.5 21.9 - - - - 22.4
+ Noncancellable
+ operating leases 10.5 16.9 13.3 11.4 8.9 8.3 69.3
+Purchase obligations under:
+ CAD software licensing
+ Agreements 2.8 20.1 9.0 7.7 - - 39.6
+ Fairchild manufacturing
+ Agreement 4.1 - - - - - 4.1
+ Other 0.7 1.5 0.8 - - - 3.0
+ --------------- ---------- --------- --------- -------- ------------- --------------
+Total 18.6 60.4 23.1 19.1 8.9 8.3 138.4
+ =============== ========== ========= ========= ======== ============= ==============
+Commercial Commitments:
+Standby letters of credit
+ under bank multicurrency
+ agreement 8.6 - - - - - 8.6
+ =============== ========== ========= ========= ======== ============= ==============
+
+In addition, as of November 23, 2003, capital purchase commitments were
+ 46.8 million.
+
+O OUTLOOK
+Although overall economic conditions continue to be somewhat difficult to
+predict, demand levels for the first half of fiscal 2004 strengthened as we have
+seen market conditions in the semiconductor industry improve from a year ago.
+New orders for our fiscal 2004 second quarter grew substantially over the
+preceding quarter. The improvement was driven by higher seasonal demand for
+notebook PCs and wireless handsets, as well as strong order activity from our
+distribution channel. We saw improvement throughout the quarter in the weekly
+run rate of total orders, including turns orders, which are orders received with
+delivery requested in the same quarter. Our opening 13-week backlog entering the
+third quarter of fiscal 2004 is higher than it was entering the second quarter
+of fiscal 2004. However, we anticipate turns orders in the third quarter to be
+seasonally lower than the level achieved in the second quarter due to lower
+build activity that typically occurs in the post-holiday timeframe. In addition,
+since our fiscal year ends on the last Sunday of May, fiscal 2004 is a 53-week
+year. Our third fiscal quarter includes 14 weeks instead of the normal 13 weeks.
+Considering all factors, including those discussed above, we expect sales for
+the third quarter of fiscal 2004 to be 3 to 5 percent above the fiscal 2004
+second quarter. However, if the anticipated level of turns orders is not
+achieved or the rate of new orders declines, we may not be able to achieve this
+increase. We also anticipate gross margin percentage in the third quarter of
+fiscal 2004 to be higher by 0.5 to 1 percentage point from gross margin achieved
+in the fiscal 2004 second quarter. Because wafer fabrication utilization should
+continue running at high levels during the third quarter, we anticipate that we
+will improve the mix and the overall pricing of the products we sell. However,
+the mix of available product may not exactly match the mix of product requested
+on a short-term basis.
+ In late August 2003, we completed the exit and sale of our information
+appliance business, representing a key step in a series of profit-improvement
+actions initially launched in February 2003 designed to improve our return on
+investment and streamline our cost structure. In the second quarter, we
+completed some cost reduction activities associated with other supplemental
+actions that were consistent with the objectives of our overall
+profit-improvement action plans. Our operating expenses, consisting of R&D and
+SG&A, have benefited from these actions. This will be partially offset by
+incremental programs, as well as certain external factors such as foreign
+currency exchange rate fluctuations. For the third quarter of fiscal 2004, we
+anticipate that operating expenses will range from 155- 160 million which is
+relatively consistent with the amounts recorded in the recent second quarter. We
+expect our investment in property, plant and equipment in total for fiscal 2004
+to be greater than fiscal 2003. See "Liquidity and Capital Resources."
+
+o RISK FACTORS
+Conditions inherent in the semiconductor industry cause periodic fluctuations in
+our operating results. Rapid technological change and frequent introduction of
+new technology leading to more complex and integrated products characterize the
+semiconductor industry. The result is a cyclical environment with short product
+life cycles, price erosion and high sensitivity to the overall business cycle.
+Substantial capital and R&D investment are also required to support products and
+manufacturing processes. We have experienced in the past and expect to
+experience in the future periodic fluctuations in our operating results. Shifts
+in product mix toward, or away from, higher margin products can also have a
+significant impact on our operating results. As a result of these and other
+factors, our financial results can fluctuate significantly from period to
+period.
+
+OUR BUSINESS WILL BE HARMED IF WE ARE UNABLE TO COMPETE SUCCESSFULLY IN OUR
+MARKETS. Competition in the semiconductor industry is intense. Our major
+competitors include Texas Instruments, ST Microelectronics, Maxim, Analog
+Devices and Linear Technology that sell competing products into some of the same
+markets that we target. Competition is based on design and quality of products,
+product performance, price and service, with the relative importance of these
+factors varying among products and markets.
+ We cannot assure you that we will be able to compete successfully in the
+future against existing or new competitors or that our operating results will
+not be adversely affected by increased price competition. We may also compete
+with some of our customers in certain markets, such as displays and wireless
+handsets.
+ The wireless handset market continues to be important to our future growth
+plans. New products are being developed to address new features and
+functionality in handsets, such as color displays, advanced audio, lighting
+features and image capture. Due to high levels of competition, as well as
+complex technological requirements, there is no assurance that we will continue
+to be successful in this targeted market. Although the worldwide handset market
+is large, near-term growth trends are uncertain and difficult to predict with
+accuracy. Delayed introduction of next-generation wireless base stations also
+negatively impacts potential growth in the wireless handset market.
+ 
+IF DEVELOPMENT OF NEW PRODUCTS IS DELAYED OR MARKET ACCEPTANCE IS BELOW
+EXPECTATIONS, FUTURE OPERATING RESULTS MAY BE UNFAVORABLY AFFECTED. We believe
+that continued focused investment in research and development, especially the
+timely development and market acceptance of new analog products, is a key factor
+to our successful growth and our ability to achieve strong financial
+performance. Successful development and introduction of new products are
+critical to our ability to maintain a competitive position in the marketplace.
+We will continue to invest resources to develop more highly integrated solutions
+and building block products, both primarily based on our analog capabilities.
+These products will continue to be targeted towards applications such as
+wireless handsets, displays, notebook PCs, other portable devices and other
+applications that require analog.
+
+INVESTMENTS AND ACQUISITIONS. We have made and will continue to consider making
+strategic business investments and alliances and acquisitions we consider
+necessary to gain access to key technologies that we believe augment our
+existing technical capability or enable us to achieve faster time to market.
+Acquisitions and investments involve risks and uncertainties that may
+unfavorably impact our future financial performance. We may not be able to
+integrate and develop the technologies we acquire as expected. If the technology
+is not developed in a timely manner, we may be unsuccessful in penetrating
+target markets. In addition, with any acquisition there are risks that future
+operating results may be unfavorably affected by acquisition related costs,
+including in-process R&D charges and incremental R&D spending.
+
+EXPANSION OF OUR BUSINESS IN THE ASIAN MARKETS. As noted in our discussion of
+planned capital expenditures, as part of our efforts to expand our business
+presence in the Asian markets, we began construction of an assembly and test
+facility in China's Suzhou Industrial Park in the Jiangsu Province of China
+during the second quarter of fiscal 2003. We expect the facility to provide
+analog products quickly and cost effectively to our customers in Asia, as well
+as other regions as necessary. The facility will also increase our overall
+assembly and test capacity to support increasing product volume. Product volume
+increases are dependent upon customer demand. If our product volume does not
+increase, lower factory utilization, which results in higher manufacturing cost
+per unit, will unfavorably impact operating results. In addition, unexpected
+start-up expenses, inefficiencies and delays in the start of production in the
+facility may reduce expected future gross margin.
+
+WE FACE RISKS FROM OUR INTERNATIONAL OPERATIONS. We conduct a substantial
+portion of our operations outside the United States, and our business is subject
+to risks associated with many factors beyond our control. These factors include:
+
+- - fluctuations in foreign currency rates;
+- - instability of foreign economies;
+- - emerging infrastructures in foreign markets;
+- - support required abroad for demanding manufacturing requirements;
+- - foreign government instability and changes; and
+- - U.S. and foreign laws and policies affecting trade and investment.
+
+ Although we did not experience any materially adverse effects from our
+foreign operations as a result of these factors in the last year, one or more of
+these factors has had an adverse effect on us in the past and they could
+adversely affect us in the future. In addition, although we try to hedge our
+exposure to currency exchange rate fluctuations, our competitive position
+relative to non-U.S. suppliers can be affected by the exchange rate of the U.S.
+dollar against other currencies, particularly the Japanese yen and euro.
+
+TAXES. From time to time, we have received notices of tax assessments from
+certain governments of countries in which we operate. These governments or other
+government entities may serve future notices of assessments on us and the
+amounts of these assessments or our failure to favorably resolve such
+assessments may have a material adverse effect on our financial condition or
+results of operations.
+
+CURRENT WORLD EVENTS. Recent unrest in the many parts of the world including the
+continuing hostilities in Iraq and terrorist activities worldwide have resulted
+in additional uncertainty on the overall state of the world economy. There is no
+assurance that the consequences from these events will not disrupt our
+operations either in the U.S. or other regions of the world where we have
+operations. Although the SARS illness appears to have been contained, if it or
+other pandemic illness emerges in Asia, our business there could be adversely
+affected. The spread of such illnesses beyond Asia could also negatively impact
+other aspects of our operations.
+
+ITEM 3. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
+
+Refer to Part II, Item 7A, Quantitative and Qualitative Disclosures About Market
+Risk, in our Annual Report on Form 10-K for the year ended May 25, 2003 and to
+the subheading "Financial Market Risks" under the heading "Management's
+Discussion and Analysis of Financial Condition and Results of Operations" on
+page 26 of our Annual Report on Form 10-K for the year ended May 25, 2003 and in
+Note 1, "Summary of Significant Accounting Policies," and Note 2, "Financial
+Instruments," in the Notes to the Consolidated Financial Statements included in
+Item 8 of our 2003 Form 10-K. There have been no material changes from the
+information reported in these sections.
+
+ITEM 4. CONTROLS AND PROCEDURES
+
+(a) Evaluation of disclosure controls and procedures.
+
+ We maintain disclosure controls and procedures that are intended to ensure
+ that the information required to be disclosed in our Exchange Act filings
+ is properly and timely recorded, processed, summarized and reported. In
+ designing and evaluating our disclosure controls and procedures, our
+ management recognizes that any controls and procedures, no matter how well
+ designed and operated, can provide only reasonable assurance of achieving
+ the desired control objectives, and that management necessarily is required
+ to apply its judgment in evaluating the cost-benefit relationship of
+ possible controls and procedures. Since we have investments in certain
+ unconsolidated entities which we do not control or manage, our disclosure
+ controls and procedures with respect to such entities are necessarily
+ substantially more limited than those we maintain for our consolidated
+ subsidiaries.
+
+ We have a disclosure controls committee comprised of key individuals from a
+ variety of disciplines in the company that are involved in the disclosure
+ and reporting process. The committee meets regularly to ensure the
+ timeliness, accuracy and completeness of the information required to be
+ disclosed in our filings. The committee reviewed this Form 10-Q and also
+ met with the Chief Executive Officer and the Chief Financial Officer to
+ review this Form 10-Q and the required disclosures and the effectiveness of
+ the design and operation of our disclosure controls and procedures. As
+ required by SEC Rule 13a-15(b), the committee performed an evaluation,
+ under the supervision and with the participation of management, including
+ our Chief Executive Officer and Chief Financial Officer, of the
+ effectiveness of the design and operation of our disclosure controls and
+ procedures as of the end of the quarter covered by this report. Based on
+ that evaluation and their supervision of and participation in the process,
+ our Chief Executive Officer and Chief Financial Officer have concluded that
+ our disclosure controls and procedures were effective at the reasonable
+ assurance level.
+
+(b) Changes in internal controls.
+
+ There has been no change in our internal controls over financial reporting
+ during our most recent fiscal quarter that has materially affected, or is
+ reasonably likely to materially affect, our internal controls over
+ financial reporting.
+
+PART II. OTHER INFORMATION
+
+Item 1. Legal Proceedings
+- --------------------------
+In November 2000, a derivative action was filed in the U.S. District Court in
+Delaware against us, Fairchild Semiconductor International, Inc. and Sterling
+Holding Company, LLC, by Mark Levy, a Fairchild stockholder. The action was
+brought under Section 16(b) of the Securities Exchange Act of 1934 and the rules
+issued under that Act by the Securities and Exchange Commission. The plaintiff
+seeks disgorgement of alleged short-swing insider trading profits. We had
+originally acquired Fairchild common and preferred stock in March 1997 at the
+time we disposed of the Fairchild business. Prior to its initial public offering
+in August 1999, Fairchild had amended its certificate of incorporation to
+provide that all Fairchild preferred stock would convert automatically to common
+stock upon completion of the initial public offering. As a result, our shares of
+preferred stock converted to common stock in August 1999. Plaintiff has alleged
+that the acquisition of common stock through the conversion constituted an
+acquisition that should be "matched" against our sale in January 2000 of
+Fairchild common stock for purposes of computing short-swing trading profits.
+The action seeks to recover from us on behalf of Fairchild alleged recoverable
+profits of approximately 14.1 million. In February 2002, the judge in the case
+granted the motion to dismiss filed by us and our co-defendants and dismissed
+the case, ruling that the conversion was done pursuant to a reclassification
+which is exempt from the scope of Section 16(b). Plaintiff appealed the
+dismissal of the case and upon appeal, the U.S. Court of Appeals for the third
+circuit reversed the District Court's dismissal. Our petition for a writ of
+certiorari to the U.S. Supreme Court was denied in October 2003 and the case is
+now in discovery in the District Court. We intend to continue to contest the
+case through all available means.
+
+In January 1999, a class action suit was filed against us and a number of our
+suppliers in California Superior Court by James Harris and other former and
+present employees claiming damages for personal injury. The complaint alleges
+that cancer and/or reproductive harm were caused to employees as a result of
+alleged exposure to toxic chemicals while working at our company. Plaintiffs
+claim to have worked at sites in Santa Clara and/or in Greenock, Scotland. In
+addition, one plaintiff claims to represent a class of children of company
+employees who allegedly sustained developmental harm as a result of alleged in
+utero exposure to toxic chemicals while their mothers worked at the company.
+Although no specific amount of monetary damages is claimed, plaintiffs seek
+damages on behalf of the classes for personal injuries, nervous shock, physical
+and mental pain, fear of future illness, medical expenses and loss of earnings
+and earnings capacity. At the present time, the court has required the Scottish
+employees to seek their remedies in Scottish courts. In November 2003, the court
+denied the plaintiffs' motion for certification of a medical monitoring class.
+Discovery in the case is proceeding and we intend to defend this action
+vigorously.
+
+You should also refer to the Legal Proceedings section in our Form 10-K for the
+fiscal year ended May 25, 2003 and in our Form 10-Q for the fiscal quarter ended
+August 24, 2003 for a description of our other existing material legal
+proceedings.
+
+Item 4. Submission of Matters to a Vote of Security Holders
+
+(a) National Semiconductor Corporation's Annual Meeting was held on September
+ 26, 2003.
+
+(b) The following directors were elected at the meeting:
+
+DIRECTOR FOR AUTHORITY WITHHELD
+- -------- --- ------------------
+
+Brian L. Halla 160,596,318 5,721,278
+Steven R. Appleton 158,426,073 7,891,523
+Gary P. Arnold 128,260,591 38,057,005
+Richard J. Danzig 157,778,606 8,538,990
+Robert J. Frankenberg 157,725,312 8,592,284
+E. Floyd Kvamme 162,995,966 3,321,630
+Modesto A. Maidique 158,394,518 7,923,078
+Edward R. McCracken 158,362,597 7,954,999
+
+(c) The following matters were also voted on at the meeting:
+
+ (i) Proposal to approve KPMG as auditors of the Company:
+
+ FOR: 163,109,076 Against: 2,377,750 Abstain: 830,770
+
+ (ii) Proposal to approve the adoption of the 2003 Employees Stock Purchase
+ Plan:
+
+ FOR: 161,398,815 Against: 3,952,606 Abstain: 966,175
+
+Item 6. Exhibits and Reports on Form 8-K
+- ----------------------------------------
+
+(a) Exhibits
+
+3.1 Second Restated Certificate of Incorporation of the Company as amended
+ (incorporated by reference from the Exhibits to our Registration Statement
+ on Form S-3 Registration No. 33-52775, which became effective March 22,
+ 1994); Certificate of Amendment of Certificate of Incorporation dated
+ September 30, 1994 (incorporated by reference from the Exhibits to our
+ Registration Statement on Form S-8 Registration No. 333-09957, which became
+ effective August 12, 1996); Certificate of Amendment of Certificate of
+ Incorporation dated September 22, 2000 (incorporated by reference from the
+ Exhibits to our Registration Statement on Form S-8 Registration No.
+ 333-48424, which became effective October 23, 2000).
+
+3.2 By Laws of the Company, as amended effective October 30, 2001.
+ (incorporated by reference from the Exhibits to our Form 10-K for the year
+ ended May 26, 2002 filed August 16, 2002).
+
+4.1 Form of Common Stock Certificate (incorporated by reference from the
+ Exhibits to our Registration Statement on Form S-3 Registration No.
+ 33-48935, which became effective October 5, 1992).
+
+4.2 Rights Agreement (incorporated by reference from the Exhibits to our
+ Registration Statement on Form 8-A filed August 10, 1988); First Amendment
+ to the Rights Agreement dated as of October 31, 1995 (incorporated by
+ reference from the Exhibits to our Amendment No. 1 to the Registration
+ Statement on Form 8-A filed December 11, 1995); Second Amendment to the
+ Rights Agreement dated as of December 17, 1996 (incorporated by reference
+ from the Exhibits to our Amendment No. 2 to the Registration Statement on
+ Form 8-A filed January 17, 1997).
+
+31. Rule 13a - 14(a)/15d - 14(a) Certifications
+
+32. Section 1350 Certifications
+
+(b) Reports on Form 8-K
+
+ During the quarter ended November 23, 2003, we filed the following reports
+ on Form 8-K:
+
+ 1. A report on Form 8-K was filed on September 4, 2003 furnishing to the
+ Securities and Exchange Commission as part of Regulation FD disclosure
+ our press release issued on September 4, 2003 announcing our earnings
+ for the quarter ended August 24, 2003. The news release contained
+ Financial Statements consisting of Condensed Consolidated Statements
+ of Operations, Balance Sheets and Statements of Cash Flows prepared in
+ accordance with GAAP. Certain operating results information which was
+ not prepared in accordance with GAAP was also included in the press
+ release.
+
+ 2. A report on Form 8-K was filed on September 10, 2003 reporting as
+ Regulation FD disclosure that we had purchased approximately 7.5
+ million shares of our stock pursuant to the buy-back program we had
+ previously announced. The press release announcing the purchase was
+ included in the Form 8-K. No financial statements were included in the
+ Form 8-K.
+
+ 3. A report on Form 8-K was filed on November 6, 2003 reporting as
+ Regulation FD disclosure that we had made an upward revision of our
+ revenue outlook for the second quarter of fiscal 2004. The press
+ release announcing the revision was included in the Form 8-K. No
+ financial statements were included in the Form 8-K.
+
+SIGNATURE
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the
+registrant has duly caused this report to be signed on its behalf by the
+undersigned thereunto duly authorized.
+
+NATIONAL SEMICONDUCTOR CORPORATION
+
+Date: January 5, 2004
+
+ \s\ Robert E. DeBarr
+ --------------------
+ Robert E. DeBarr
+ Controller
+ Signing on behalf of the registrant and as
+ principal accounting officer
+
+<EX-31>
+ 3
+ form10q_exh31.txt
+ EXHIBIT 31
+
+Exhibit 31
+
+ CERTIFICATION
+
+I, Brian L. Halla, certify that:
+
+1. I have reviewed this quarterly report on Form 10-Q of National
+ Semiconductor Corporation;
+
+2. Based on my knowledge, this report does not contain any untrue statement of
+ a material fact or omit to state a material fact necessary to make the
+ statements made, in light of the circumstances under which such statements
+ were made, not misleading with respect to the period covered by this
+ report;
+
+3. Based on my knowledge, the financial statements, and other financial
+ information included in this report, fairly present in all material
+ respects the financial condition, results of operations and cash flows of
+ the registrant as of, and for, the periods presented in this report;
+
+4. The registrant's other certifying officer(s) and I are responsible for
+ establishing and maintaining disclosure controls and procedures (as defined
+ in Exchange Act Rules 13a-15(e) and 15d-15(e)) for the registrant and have:
+
+ (a) Designed such disclosure controls and procedures, or caused such
+ disclosure controls and procedures to be designed under our
+ supervision, to ensure that material information relating to the
+ registrant, including its consolidated subsidiaries, is made known to
+ us by others within those entities, particularly during the period in
+ which this report is being prepared;
+
+ (c) Evaluated the effectiveness of the registrant's disclosure controls
+ and procedures and presented in this report our conclusions about the
+ effectiveness of the disclosure controls and procedures, as of the end
+ of the period covered by this report based on such evaluation; and
+
+ (d) Disclosed in this report any change in the registrant's internal
+ control over financial reporting that occurred during the registrant's
+ most recent fiscal quarter (the registrant's fourth fiscal quarter in
+ the case of an annual report) that has materially affected, or is
+ reasonably likely to materially affect, the registrant's internal
+ control over financial reporting; and
+
+5. The registrant's other certifying officer(s) and I have disclosed, based on
+ our most recent evaluation of internal control over financial reporting, to
+ the registrant's auditors and the audit committee of registrant's board of
+ directors (or persons performing the equivalent functions):
+
+ (a) All significant deficiencies and material weaknesses in the design or
+ operation of internal control over financial reporting which are
+ reasonably likely to adversely affect the registrant's ability to
+ record, process, summarize and report financial information; and
+
+ (b) Any fraud, whether or not material, that involves management or other
+ employees who have a significant role in the registrant's internal
+ control over financial reporting.
+
+Date: January 5, 2004
+ \s\ Brian L. Halla
+ ------------------
+ Brian L. Halla
+ President and Chief Executive Officer
+
+Exhibit 31
+
+CERTIFICATION
+
+I, Lewis Chew, certify that:
+
+1. I have reviewed this quarterly report on Form 10-Q of National
+ Semiconductor Corporation;
+
+2. Based on my knowledge, this report does not contain any untrue statement of
+ a material fact or omit to state a material fact necessary to make the
+ statements made, in light of the circumstances under which such statements
+ were made, not misleading with respect to the period covered by this
+ report;
+
+3. Based on my knowledge, the financial statements, and other financial
+ information included in this report, fairly present in all material
+ respects the financial condition, results of operations and cash flows of
+ the registrant as of, and for, the periods presented in this report;
+
+4. The registrant's other certifying officer(s) and I are responsible for
+ establishing and maintaining disclosure controls and procedures (as defined
+ in Exchange Act Rules 13a-15(e) and 15d-15(e)) for the registrant and have:
+
+ (a) Designed such disclosure controls and procedures, or caused such
+ disclosure controls and procedures to be designed under our
+ supervision, to ensure that material information relating to the
+ registrant, including its consolidated subsidiaries, is made known to
+ us by others within those entities, particularly during the period in
+ which this report is being prepared;
+
+ (c) Evaluated the effectiveness of the registrant's disclosure controls
+ and procedures and presented in this report our conclusions about the
+ effectiveness of the disclosure controls and procedures, as of the end
+ of the period covered by this report based on such evaluation; and
+
+ (d) Disclosed in this report any change in the registrant's internal
+ control over financial reporting that occurred during the registrant's
+ most recent fiscal quarter (the registrant's fourth fiscal quarter in
+ the case of an annual report) that has materially affected, or is
+ reasonably likely to materially affect, the registrant's internal
+ control over financial reporting; and
+
+5. The registrant's other certifying officer(s) and I have disclosed, based on
+ our most recent evaluation of internal control over financial reporting, to
+ the registrant's auditors and the audit committee of registrant's board of
+ directors (or persons performing the equivalent functions):
+
+ (a) All significant deficiencies and material weaknesses in the design or
+ operation of internal control over financial reporting which are
+ reasonably likely to adversely affect the registrant's ability to
+ record, process, summarize and report financial information; and
+
+ (b) Any fraud, whether or not material, that involves management or other
+ employees who have a significant role in the registrant's internal
+ control over financial reporting.
+
+Date: January 5, 2004
+ \s\ Lewis Chew
+ --------------
+ Lewis Chew
+ Senior Vice President, Finance and Chief
+ Financial Officer
+
+</EX-31>
+
+<EX-32>
+ 4
+ form10q_exh32.txt
+ EXHIBIT 32
+ 
+ Exhibit 32
+
+CERTIFICATION PURSUANT TO
+ 18 U.S.C SECTION 1350, AS ADOPTED PURSUANT TO
+ SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002
+
+In connection with the Quarterly Report of National Semiconductor Corporation
+(the "Company") on Form 10-Q for the period ended November 23, 2003 as filed
+with the Securities and Exchange Commission on the date hereof (the "Report"),
+I, Brian L. Halla, President and Chief Executive Officer for the Company,
+certify, pursuant to 18 U.S.C. 1350, as adopted pursuant to 906 of the
+Sarbanes-Oxley Act of 2002, that, to my knowledge:
+
+ (1) The Report fully complies with the requirements of Section 13(a) or
+ Section 15(d), as applicable, of the Securities Exchange Act of 1934,
+ and
+
+ (2) The information contained in the Report fairly presents, in all
+ material respects, the financial condition and results of operations
+ of the Company.
+
+Dated: January 5, 2004
+ \s\ Brian L. Halla
+ ------------------
+ Brian L. Halla
+ President and Chief Executive Officer
+
+Exhibit 32
+
+CERTIFICATION PURSUANT TO
+ 18 U.S.C SECTION 1350, AS ADOPTED PURSUANT TO
+ SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002
+
+In connection with the Quarterly Report of National Semiconductor Corporation
+(the "Company") on Form 10-Q for the period ended November 23, 2003 as filed
+with the Securities and Exchange Commission on the date hereof (the "Report"),
+I, Lewis Chew, Senior Vice President, Finance and Chief Financial Officer for
+the Company, certify, pursuant to 18 U.S.C. 1350, as adopted pursuant to 906 of
+the Sarbanes-Oxley Act of 2002, that, to my knowledge:
+
+ (1) The Report fully complies with the requirements of Section 13(a) or
+ Section 15(d), as applicable, of the Securities Exchange Act of 1934,
+ and
+
+ (2) The information contained in the Report fairly presents, in all
+ material respects, the financial condition and results of operations
+ of the Company.
+
+Dated: January 5, 2004
+ \s\ Lewis Chew
+ --------------
+ Lewis Chew
+ Senior Vice President, Finance and
+ Chief Financial Officer
+
+</EX-32>
+

@@ -1,0 +1,2343 @@
+<Header>
+<FileStats>
+    <FileName>20040112_10-Q_edgar_data_727008_0001169232-04-000113.txt</FileName>
+    <GrossFileSize>130106</GrossFileSize>
+    <NetFileSize>101719</NetFileSize>
+    <NonText_DocumentType_Chars>0</NonText_DocumentType_Chars>
+    <HTML_Chars>752</HTML_Chars>
+    <XBRL_Chars>0</XBRL_Chars>
+    <XML_Chars>0</XML_Chars>
+    <N_Exhibits>4</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0001169232-04-000113.hdr.sgml : 20040112
+<ACCEPTANCE-DATETIME>20040112135037
+ACCESSION NUMBER:		0001169232-04-000113
+CONFORMED SUBMISSION TYPE:	10-Q
+PUBLIC DOCUMENT COUNT:		5
+CONFORMED PERIOD OF REPORT:	20031129
+FILED AS OF DATE:		20040112
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			EZ EM INC
+		CENTRAL INDEX KEY:			0000727008
+		STANDARD INDUSTRIAL CLASSIFICATION:	IN VITRO & IN VIVO DIAGNOSTIC SUBSTANCES [2835]
+		IRS NUMBER:				111999504
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0529
+
+	FILING VALUES:
+		FORM TYPE:		10-Q
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	333-100878
+		FILM NUMBER:		04520191
+
+	BUSINESS ADDRESS:	
+		STREET 1:		717 MAIN ST
+		CITY:			WESTBURY
+		STATE:			NY
+		ZIP:			11590
+		BUSINESS PHONE:		5163338230
+
+</SEC-Header>
+</Header>
+
+ 
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ DY8XyU/f5yfMIzj+M7R0JCDidjEvDbJABO1QITPi4jPHwlnYt5ko+bC7/jgvz+ov
+ QpAx6B1B/iJYxDCrTSK/BQ==
+
+ 0001169232-04-000113.txt : 20040112
+
+10-Q
+ 1
+ d57891_10-q.txt
+ FORM 10-Q
+
+UNITED STATES
+
+ SECURITIES AND EXCHANGE COMMISSION
+
+ Washington, D.C. 20549
+
+ FORM 10-Q
+
+ |X| QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF
+ THE SECURITIES EXCHANGE ACT OF 1934
+
+ For the quarterly period ended November 29, 2003
+ -----------------
+
+ OR
+
+ |_| TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF
+ THE SECURITIES EXCHANGE ACT OF 1934
+
+ For the transition period from ________ to _______
+
+ Commission file number 1-11479
+ -------
+
+ E-Z-EM, Inc.
+ ------------------------------------------------------
+ (Exact name of registrant as specified in its charter)
+
+ Delaware 11-1999504
+ ------------------------------- -------------------
+ (State or other jurisdiction of (I.R.S. Employer
+ incorporation or organization) Identification No.)
+
+ 1111 Marcus Avenue, Lake Success, New York 11042
+ ------------------------------------------ ----------
+ (Address of principal executive offices) (Zip Code)
+
+ (516) 333-8230
+ --------------------------------------------------
+ Registrant's telephone number, including area code
+
+Indicate by check mark whether the registrant (1) has filed all reports required
+to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during
+the preceding 12 months (or for such shorter period that the registrant was
+required to file such reports), and (2) has been subject to such filing
+requirements for the past 90 days.
+
+ Yes |X| No |_|
+
+Indicate by check mark whether the registrant is an accelerated filer (as
+defined in Rule 12b-2 of the Exchange Act).
+
+ Yes |_| No |X|
+
+As of January 8, 2004, there were 10,303,153 shares of the issuer's common stock
+outstanding.
+
+-1-
+
+E-Z-EM, Inc. and Subsidiaries
+
+ INDEX
+ -----
+
+Part 1: Financial Information Page
+- ------- --------------------- ----
+
+ Item 1. Financial Statements
+
+ Consolidated Balance Sheets - November 29, 2003 and
+ May 31, 2003 3 - 4
+
+ Consolidated Statements of Earnings - thirteen and twenty-
+ six weeks ended November 29, 2003 and November 30, 2002 5
+
+ Consolidated Statement of Stockholders' Equity and
+ Comprehensive Income - twenty-six weeks ended
+ November 29, 2003 6
+
+ Consolidated Statements of Cash Flows - twenty-six weeks
+ ended November 29, 2003 and November 30, 2002 7 - 8
+
+ Notes to Consolidated Financial Statements 9 - 17
+
+ Item 2. Management's Discussion and Analysis of Financial
+ Condition and Results of Operations 18 - 29
+
+ Item 3. Quantitative and Qualitative Disclosures About
+ Market Risk 29 - 30
+
+ Item 4. Controls and Procedures 30
+
+Part II: Other Information
+- -------- -----------------
+
+ Item 1. Legal Proceedings 31
+
+ Item 2. Changes in Securities and Use of Proceeds 31
+
+ Item 3. Defaults Upon Senior Securities 31
+
+ Item 4. Submission of Matters to a Vote of Security Holders 32
+
+ Item 5. Other Information 32
+
+ Item 6. Exhibits and Reports on Form 8-K 32 - 33
+
+-2-
+
+E-Z-EM, Inc. and Subsidiaries
+
+ CONSOLIDATED BALANCE SHEETS
+ (in thousands)
+
+ November 29, May 31,
+ ASSETS 2003 2003
+ -------- --------
+ (unaudited) (audited)
+
+CURRENT ASSETS
+ Cash and cash equivalents 10,086 9,459
+ Restricted cash 220 798
+ Debt and equity securities, at fair value 5,952 8,506
+ Accounts receivable, principally
+ trade, net 25,370 23,393
+ Inventories 30,662 28,467
+ Other current assets 4,723 4,703
+ -------- --------
+
+ Total current assets 77,013 75,326
+
+PROPERTY, PLANT AND EQUIPMENT - AT COST,
+ less accumulated depreciation and
+ amortization 24,322 23,457
+
+GOODWILL, less accumulated amortization 444 421
+
+INTANGIBLE ASSETS, less accumulated
+ amortization 1,175 1,302
+
+DEBT AND EQUITY SECURITIES, at fair value 3,743 2,171
+
+INVESTMENTS AT COST 1,200 1,200
+
+OTHER ASSETS 6,928 6,747
+ -------- --------
+
+ 114,825 110,624
+ ======== ========
+
+The accompanying notes are an integral part of these statements.
+
+-3-
+
+E-Z-EM, Inc. and Subsidiaries
+
+ CONSOLIDATED BALANCE SHEETS
+ (in thousands, except share and per share data)
+
+ November 29, May 31,
+ LIABILITIES AND STOCKHOLDERS' EQUITY 2003 2003
+ -------- ---------
+ (unaudited) (audited)
+
+CURRENT LIABILITIES
+ Notes payable 554 597
+ Current maturities of long-term debt 284 302
+ Accounts payable 6,407 6,494
+ Accrued liabilities 8,522 7,724
+ Accrued income taxes 434 86
+ -------- ---------
+
+ Total current liabilities 16,201 15,203
+
+LONG-TERM DEBT, less current maturities 3,342 3,470
+
+OTHER NONCURRENT LIABILITIES 3,502 3,349
+ -------- ---------
+
+ Total liabilities 23,045 22,022
+ -------- ---------
+
+COMMITMENTS AND CONTINGENCIES
+
+STOCKHOLDERS' EQUITY
+ Preferred stock, par value .10 per
+ share - authorized, 1,000,000 shares;
+ issued, none
+ Common stock, par value .10 per share -
+ authorized, 16,000,000 shares; issued
+ and outstanding 10,299,582 shares at
+ November 29, 2003 and 10,101,374 shares
+ at May 31, 2003 (excluding 74,234 and
+ 36,834 shares held in treasury at November
+ 29, 2003 and May 31, 2003, respectively) 1,030 1,010
+ Additional paid-in capital 22,750 21,598
+ Retained earnings 65,382 66,464
+ Accumulated other comprehensive income (loss) 2,618 (470)
+ -------- ---------
+
+ Total stockholders' equity 91,780 88,602
+ -------- ---------
+
+ 114,825 110,624
+ ======== =========
+
+The accompanying notes are an integral part of these statements.
+
+-4-
+
+E-Z-EM, Inc. and Subsidiaries
+
+ CONSOLIDATED STATEMENTS OF EARNINGS
+ (unaudited)
+ (in thousands, except per share data)
+
+Thirteen weeks ended Twenty-six weeks ended
+ ---------------------------- ----------------------------
+ November 29, November 30, November 29, November 30,
+ 2003 2002 2003 2002
+ -------- -------- -------- --------
+ 
+Net sales 36,938 32,900 69,995 63,180
+Cost of goods sold 20,389 17,828 39,477 35,611
+ -------- -------- -------- --------
+
+ Gross profit 16,549 15,072 30,518 27,569
+ -------- -------- -------- --------
+
+Operating expenses
+ Selling and administrative 11,589 11,789 23,147 23,816
+ Asset impairment and facility
+ closing costs 116 116
+ Plant closing and operational
+ restructuring costs 628 1,200
+ Research and development 1,998 1,658 3,802 3,247
+ -------- -------- -------- --------
+
+ Total operating expenses 14,215 13,563 28,149 27,179
+ -------- -------- -------- --------
+
+ Operating profit 2,334 1,509 2,369 390
+
+Other income (expense)
+ Interest income 46 65 98 135
+ Interest expense (118) (118) (233) (187)
+ Other, net 521 150 550 466
+ -------- -------- -------- --------
+
+ Earnings before income
+ taxes 2,783 1,606 2,784 804
+
+Income tax provision 1,014 618 1,314 557
+ -------- -------- -------- --------
+
+ NET EARNINGS 1,769 988 1,470 247
+ ======== ======== ======== ========
+
+Earnings per common share
+ Basic .17 .10 .14 .02
+ ======== ======== ======== ========
+
+ Diluted .17 .09 .14 .02
+ ======== ======== ======== ========
+
+Weighted average common shares
+ Basic 10,272 10,017 10,217 10,005
+ ======== ======== ======== ========
+
+ Diluted 10,545 10,406 10,475 10,403
+ ======== ======== ======== ========
+
+The accompanying notes are an integral part of these statements.
+
+-5-
+
+E-Z-EM, Inc. and Subsidiaries
+
+ CONSOLIDATED STATEMENT OF STOCKHOLDERS' EQUITY AND COMPREHENSIVE INCOME
+
+ Twenty-six weeks ended November 29, 2003
+ (unaudited)
+ (in thousands, except share data)
+
+Accumulated
+ Common stock Additional other Compre-
+ ------------------------ paid-in Retained comprehensive hensive
+ Shares Amount capital earnings income (loss) Total income
+ ---------- ------ ---------- -------- ------------- -------- -------
+ 
+Balance at May 31, 2003 10,101,374 1,010 21,598 66,464 (470) 88,602
+
+Exercise of stock options 226,608 23 1,052 1,075
+Income tax benefits on
+ stock options exercised 404 404
+Compensation related to
+ stock option plans 2 2
+Issuance of stock 9,000 1 107 108
+Purchase of treasury stock (37,400) (4) (413) (417)
+Net earnings 1,470 1,470 1,470
+Cash dividend .25 per
+ common share) (2,552) (2,552)
+Unrealized holding gain on debt
+ and equity securities
+ Arising during the period 1,822 1,822 1,822
+ Reclassification adjustment
+ for gains included in
+ net earnings (212) (212) (212)
+Increase in fair market value
+ on interest rate swap 131 131 131
+Foreign currency translation
+ adjustments 1,347 1,347 1,347
+ ---------- ------ ------- ------- ------ -------- ------
+
+Comprehensive income 4,558
+ ======
+
+Balance at November 29, 2003 10,299,582 1,030 22,750 65,382 2,618 91,780
+ ========== ====== ======= ======= ====== ========
+
+The accompanying notes are an integral part of this statement.
+
+-6-
+
+E-Z-EM, Inc. and Subsidiaries
+
+ CONSOLIDATED STATEMENTS OF CASH FLOWS
+ (unaudited)
+ (in thousands)
+
+ Twenty-six weeks ended
+ ---------------------------
+ November 29, November 30,
+ 2003 2002
+ -------- --------
+
+Cash flows from operating activities:
+ Net earnings 1,470 247
+ Adjustments to reconcile net earnings to
+ net cash provided by (used in) operating
+ activities
+ Depreciation and amortization 1,792 1,599
+ Impairment of long-lived assets 116
+ Gain on sale of investments (336)
+ Provision for doubtful accounts 67 164
+ Deferred income tax provision (benefit) (34) 3
+ Other non-cash items 110 65
+ Changes in operating assets and
+ liabilities
+ Accounts receivable (2,044) (4,163)
+ Inventories (2,195) (1,677)
+ Other current assets (97) (223)
+ Other assets (306) (480)
+ Accounts payable (87) (160)
+ Accrued liabilities 1,006 (249)
+ Accrued income taxes 786 (142)
+ Other noncurrent liabilities 93 119
+ -------- --------
+
+ Net cash provided by (used in)
+ operating activities 225 (4,781)
+ -------- --------
+
+Cash flows from investing activities:
+ Additions to property, plant and
+ equipment, net (2,053) (3,110)
+ Restricted cash used in investing
+ activities 578 (2,447)
+ Investment at cost (300)
+ Available-for-sale securities
+ Purchases (13,622) (62,247)
+ Proceeds from sale 16,694 66,960
+ -------- --------
+
+ Net cash provided by (used in)
+ investing activities 1,597 (1,144)
+ -------- --------
+
+Cash flows from financing activities:
+ Proceeds from issuance of debt 3,531
+ Repayments of debt (258) (167)
+ Dividends paid (2,552)
+ Proceeds from exercise of stock options 1,075 395
+ Purchase of treasury stock (417) (139)
+ -------- --------
+
+ Net cash provided by (used in)
+ financing activities (2,152) 3,620
+ -------- --------
+
+-7-
+
+E-Z-EM, Inc. and Subsidiaries
+
+ CONSOLIDATED STATEMENTS OF CASH FLOWS (continued)
+ (unaudited)
+ (in thousands)
+
+ Twenty-six weeks ended
+ ---------------------------
+ November 29, November 30,
+ 2003 2002
+ ------- -------
+
+Effect of exchange rate changes on
+ cash and cash equivalents 957 (367)
+ ------- -------
+
+ INCREASE (DECREASE) IN CASH AND
+ CASH EQUIVALENTS 627 (2,672)
+
+Cash and cash equivalents
+ Beginning of period 9,459 8,019
+ ------- -------
+
+ End of period 10,086 5,347
+ ======= =======
+
+Supplemental disclosures of cash flow information:
+ Cash paid during the period for:
+ Interest 126 81
+ ------- =======
+
+ Income taxes 586 943
+ ======= =======
+
+The accompanying notes are an integral part of these statements.
+
+-8-
+
+E-Z-EM, Inc. and Subsidiaries
+
+ NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+ November 29, 2003 and November 30, 2002
+ (unaudited)
+
+NOTE A - CONSOLIDATED FINANCIAL STATEMENTS
+
+ The consolidated balance sheet as of November 29, 2003, the consolidated
+ statement of stockholders' equity and comprehensive income for the period
+ ended November 29, 2003, and the consolidated statements of earnings and
+ cash flows for the periods ended November 29, 2003 and November 30, 2002,
+ have been prepared by the Company without audit. The consolidated balance
+ sheet as of May 31, 2003 was derived from audited consolidated financial
+ statements. In the opinion of management, all adjustments (which include
+ only normal recurring adjustments) necessary to present fairly the
+ financial position, changes in stockholders' equity and comprehensive
+ income, results of operations and cash flows at November 29, 2003 (and for
+ all periods presented) have been made.
+
+ Certain information and footnote disclosures, normally included in
+ financial statements prepared in accordance with accounting principles
+ generally accepted in the United States of America, have been condensed or
+ omitted. It is suggested that these consolidated financial statements be
+ read in conjunction with the financial statements and notes thereto
+ included in the fiscal 2003 Annual Report on Form 10-K filed by the
+ Company on August 29, 2003. The results of operations for the periods
+ ended November 29, 2003 and November 30, 2002 are not necessarily
+ indicative of the operating results for the respective full years.
+
+ The consolidated financial statements include the accounts of E-Z-EM, Inc.
+ ("E-Z-EM") and all 100 -owned subsidiaries (the "Company"). All
+ significant intercompany balances and transactions have been eliminated.
+
+NOTE B - STOCK-BASED COMPENSATION
+
+ In December 2002, the Financial Accounting Standards Board ("FASB") issued
+ Statement of Financial Accounting Standards ("SFAS") No. 148, "Accounting
+ for Stock-Based Compensation - Transition and Disclosure." SFAS No. 148
+ amends the disclosure provisions of SFAS No. 123, "Accounting for
+ Stock-Based Compensation," and APB Opinion No. 28, "Interim Financial
+ Reporting," to require disclosure in the summary of significant accounting
+ policies of the effects of an entity's accounting policy with respect to
+ stock-based employee compensation on reported net earnings and earnings
+ per share in annual and interim financial statements. The adoption of SFAS
+ No. 148 disclosure requirements, effective March 2, 2003, did not have an
+ effect on the Company's consolidated financial statements. At November 29,
+ 2003, the Company has three stock-based compensation plans. The Company
+ accounts for these plans under the recognition and measurement principles
+ of APB Opinion No. 25, "Accounting for Stock Issued to Employees" and
+ related interpretations. Accordingly, no compensation expense has been
+ recognized under these plans concerning options granted to key employees
+ and to members of the Board of Directors, as all such options granted had
+ an exercise price equal to or greater than the market value of the
+ underlying common stock on the date of grant. During each of the thirteen
+ weeks ended November 29, 2003 and November 30, 2002, compensation expense
+ of 1,000 was recognized under these plans for options granted to
+ consultants. During each of the twenty-six weeks ended November 29, 2003
+ and November 30, 2002, compensation expense of 2,000 was recognized under
+ these plans for options granted to consultants.
+
+-9-
+
+E-Z-EM, Inc. and Subsidiaries
+
+ NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (continued)
+
+ November 29, 2003 and November 30, 2002
+ (unaudited)
+
+NOTE B - STOCK-BASED COMPENSATION (continued)
+
+ The following table illustrates the effect on net earnings and earnings
+ per share if the Company had applied the fair value recognition provisions
+ of SFAS No. 123 to options granted under these plans to key employees and
+ to members of the Board of Directors:
+
+Thirteen weeks ended Twenty-six weeks ended
+ --------------------------- ---------------------------
+ November 29, November 30, November 29, November 30,
+ 2003 2002 2003 2002
+ -------- -------- -------- --------
+ (in thousands)
+ 
+ Net earnings, as reported 1,769 988 1,470 247
+ Deduct: Total stock-based
+ employee compensation
+ expense determined under
+ the fair value based
+ method for all awards (213) (226) (424) (451)
+ -------- -------- -------- --------
+
+ Pro forma net earnings
+ (loss) 1,556 762 1,046 (204)
+ ======== ======== ======== ========
+
+ Earnings (loss) per common
+ share
+ Basic - as reported .17 .10 .14 .02
+ ======== ======== ======== ========
+ Basic - pro forma .15 .08 .10 (.02)
+ ======== ======== ======== ========
+
+ Diluted - as reported .17 .09 .14 .02
+ ======== ======== ======== ========
+ Diluted - pro forma .15 .07 .10 (.02)
+ ======== ======== ======== ========
+
+NOTE C - EARNINGS PER COMMON SHARE
+
+ Basic earnings per share are based on the weighted average number of
+ common shares outstanding without consideration of potential common stock.
+ Diluted earnings per share are based on the weighted average number of
+ common and potential common shares outstanding. The calculation takes into
+ account the shares that may be issued upon exercise of stock options,
+ reduced by the shares that may be repurchased with the funds received from
+ the exercise, based on the average price during the period.
+
+ The following table sets forth the reconciliation of the weighted average
+ number of common shares:
+
+Thirteen weeks ended Twenty-six weeks ended
+ ----------------------------- -----------------------------
+ November 29, November 30, November 29, November 30,
+ 2003 2002 2003 2002
+ ------ ------ ------ ------
+ (in thousands)
+ 
+ Basic 10,272 10,017 10,217 10,005
+ Effect of dilutive
+ securities (stock options) 273 389 258 398
+ ------ ------ ------ ------
+
+ Diluted 10,545 10,406 10,475 10,403
+ ====== ====== ====== ======
+
+-10-
+
+E-Z-EM, Inc. and Subsidiaries
+
+ NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (continued)
+
+ November 29, 2003 and November 30, 2002
+ (unaudited)
+
+NOTE C - EARNINGS PER COMMON SHARE (continued)
+
+ Excluded from the calculation of earnings per common share, are options to
+ purchase 5,305 shares of common stock for the thirteen and twenty-six
+ weeks ended November 29, 2003 and options to purchase 452,155 shares of
+ common stock for the thirteen and twenty-six weeks ended November 30,
+ 2002, as their inclusion would be anti-dilutive. The exercise price on the
+ excluded options was 12.49 per share at November 29, 2003 and the range
+ of exercise prices on the excluded options was 8.50 to 12.49 per share
+ at November 30, 2002.
+
+NOTE D - EFFECTS OF RECENTLY ISSUED ACCOUNTING PRONOUNCEMENTS
+
+ As of July 1, 2003, the Company adopted SFAS No. 149, "Amendment of
+ Statement 133 on Derivative Instruments and Hedging Activities." SFAS No.
+ 149 amends and clarifies accounting for derivative instruments, including
+ certain derivative instruments embedded in other contracts, and for
+ hedging activities under SFAS No. 133. The adoption of this statement has
+ had no current effect on the Company's financial position or results of
+ operations.
+
+ As of August 31, 2003, the Company adopted SFAS No. 150, "Accounting for
+ Certain Financial Instruments with Characteristics of Both Liabilities and
+ Equity." SFAS No. 150 changes the accounting for certain financial
+ instruments that, under previous guidance, issuers could account for as
+ equity. The new statement requires that those instruments be classified as
+ liabilities in statements of financial position. The adoption of SFAS No.
+ 150 has had no current effect on the Company's financial position or
+ results of operations.
+
+ As of August 31, 2003, the Company adopted FASB Interpretation No. 46
+ ("FIN No. 46"), "Consolidation of Variable Interest Entities." In general,
+ a variable interest entity is a corporation, partnership, trust, or any
+ other legal structure used for business purposes that either (a) does not
+ have equity investors with voting rights or (b) has equity investors that
+ do not provide sufficient financial resources for the entity to support
+ its activities. A variable interest entity often holds financial assets,
+ including loans or receivables, real estate or other property. A variable
+ interest entity may be essentially passive or it may engage in activities
+ on behalf of another company. Until now, a company generally has included
+ another entity in its consolidated financial statements only if it
+ controlled the entity through voting interests. FIN No. 46 changes that by
+ requiring a variable interest entity to be consolidated by a company if
+ that company is subject to a majority of the risk of loss from the
+ variable interest entity's activities or entitled to receive a majority of
+ the entity's residual returns or both. The adoption of FIN No. 46 has had
+ no current effect on the Company's consolidated financial condition or
+ results of operations.
+
+-11-
+
+E-Z-EM, Inc. and Subsidiaries
+
+ NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (continued)
+
+ November 29, 2003 and November 30, 2002
+ (unaudited)
+
+NOTE D - EFFECTS OF RECENTLY ISSUED ACCOUNTING PRONOUNCEMENTS (continued)
+
+ As of August 31, 2003, the Company adopted Emerging Issues Task Force
+ ("EITF") 00-21, "Revenue Arrangements with Multiple Deliverables". EITF
+ 00-21 provides that revenue arrangements with multiple deliverables should
+ be divided into separate units of accounting if certain criteria are met.
+ The consideration of the arrangement should be allocated to the separate
+ units of accounting based on their relative fair values, with different
+ provisions if the fair value is contingent on delivery of specified items
+ or performance conditions. Applicable revenue criteria should be
+ considered separately for each separate unit of accounting. The adoption
+ of EITF 00-21 has had no current effect on the Company's financial
+ position and results of operations.
+
+NOTE E - COMPREHENSIVE INCOME (LOSS)
+
+ The components of comprehensive income (loss), net of related tax, are as
+ follows:
+
+Thirteen weeks ended Twenty-six weeks ended
+ ---------------------------- -----------------------------
+ November 29, November 30, November 29, November 30,
+ 2003 2002 2003 2002
+ ------- ----- ------- -------
+ (in thousands)
+ 
+ Net earnings 1,769 988 1,470 247
+ Unrealized holding gain
+ (loss) on debt and equity
+ securities
+ Arising during the period 1,678 93 1,822 (758)
+ Reclassification
+ adjustment for gains
+ included in net
+ earnings (212) (212)
+ Increase (decrease) in fair
+ value on interest rate swap (24) (172) 131 (172)
+ Foreign currency translation
+ adjustments 1,649 (136) 1,347 (512)
+ ------- ----- ------- -------
+
+ Comprehensive income
+ (loss) 4,860 773 4,558 (1,195)
+ ======= ===== ======= =======
+
+The components of accumulated other comprehensive income (loss), net of
+ related tax, are as follows:
+
+ November 29, May 31,
+ 2003 2003
+ ------- -----
+ (in thousands)
+
+ Unrealized holding gain on debt
+ and equity securities 2,365 755
+ Fair value on interest rate swap (169) (300)
+ Cumulative translation adjustments 422 (925)
+ ------- -----
+
+ Accumulated other comprehensive income 2,618 (470)
+ (loss) ======= =====
+
+-12-
+
+E-Z-EM, Inc. and Subsidiaries
+
+ NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (continued)
+
+ November 29, 2003 and November 30, 2002
+ (unaudited)
+
+NOTE F - PLANT CLOSING AND OPERATIONAL RESTRUCTURING
+
+ In May 2003, the Company announced a plan to close its device
+ manufacturing facility in San Lorenzo, Puerto Rico as well as its
+ heat-sealing operation in Westbury, New York, each of which is part of the
+ E-Z-EM segment. The Company has entered into an agreement to outsource
+ these operations to a third-party manufacturer. This realignment is part
+ of the Company's strategic plan of restructuring its operations to achieve
+ greater efficiency. The Company expects the project to be completed in the
+ fourth quarter of fiscal 2004 and generate savings beginning in the 2005
+ fiscal year. Project costs, primarily severance related, are estimated at
+ 1,900,000 and will affect fiscal 2004. During the thirteen and twenty-six
+ weeks ended November 29, 2003, project costs aggregated 628,000 and
+ 1,200,000, respectively. No loss is expected on the long-lived assets,
+ principally land and building with a net carrying value of 1,067,000 at
+ November 29, 2003.
+
+NOTE G - INVENTORIES
+
+ Inventories consist of the following:
+
+ November 29, May 31,
+ 2003 2003
+ ------- -------
+ (in thousands)
+
+ Finished goods 16,008 15,738
+ Work in process 2,715 1,653
+ Raw materials 11,939 11,076
+ ------- -------
+
+ 30,662 28,467
+ ======= =======
+
+NOTE H - LONG-TERM DEBT
+
+ In September 2002, the Company closed on the financing for the expansion
+ of the AngioDynamics headquarters and manufacturing facility in
+ Queensbury, New York. The expansion is being financed principally with
+ Industrial Revenue Bonds (the "Bonds") issued by the Warren and Washington
+ Counties Industrial Development Agency (the "Agency") aggregating
+ 3,500,000. The Bonds are issued under a Trust Agreement by and between
+ the Agency and a bank, as trustee (the "Trustee"). The proceeds of the
+ Bonds are being advanced, as construction occurs, pursuant to a Building
+ Loan Agreement by and among the Agency, the Trustee, a second bank (the
+ "Bank") and the Company. As of November 29, 2003, the advances aggregated
+ 3,280,000 with the remaining proceeds of 220,000 classified as
+ restricted cash. The Bonds re-price every seven days and are resold by a
+ Remarketing Agent. The Bonds bear interest based on the market rate on the
+ date the Bonds are resold (1.30 per annum at November 29, 2003) and
+ require quarterly interest payments and quarterly principal payments
+ ranging from 25,000 to 65,000 through May 2022. In connection with the
+ issuance of the Bonds, the Company entered into a Letter of Credit and
+ Reimbursement Agreement with the Bank which requires the maintenance of a
+ letter of credit for an initial amount of 3,575,000 to support
+ outstanding principal and certain interest payments of the Bonds and
+
+-13-
+
+E-Z-EM, Inc. and Subsidiaries
+
+ NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (continued)
+
+ November 29, 2003 and November 30, 2002
+ (unaudited)
+
+NOTE H - LONG-TERM DEBT (continued)
+
+ requires payment of an annual fee on the outstanding balance ranging from
+ 1 to 1.9 , depending on financial results achieved. The Company also
+ entered into a Remarketing Agreement, pursuant to which the Remarketing
+ Agent will use its best efforts to arrange for a sale in the secondary
+ market of such Bonds. The Remarketing Agreement provides for the payment
+ of an annual fee of .1 of the remaining balance.
+
+ The Reimbursement Agreement contains certain financial covenants relating
+ to fixed charge coverage and interest coverage, as defined. Amounts
+ borrowed under the Agreement are secured by the aforementioned letter of
+ credit and a first mortgage on the land, building and equipment relating
+ to the facility.
+
+ The Company entered into an interest rate swap agreement with the Bank,
+ effective September 2002, with an initial notional amount of 3,500,000 to
+ limit the effect of variability due to interest rates on its rollover of
+ the Bonds. The swap agreement, which qualifies as a hedge under SFAS No.
+ 133, is a contract to exchange floating interest rate payments for fixed
+ interest payments periodically over the life of the agreement without the
+ exchange of the underlying notional amounts. The swap agreement requires
+ the Company to pay a fixed rate of 4.45 and receive payments based on 30
+ day LIBOR repriced every seven days through May 2022. Since the swap
+ agreement is classified as a cash flow hedge, the fair value of 268,000
+ has been recorded as a component of accrued liabilities, and accumulated
+ other comprehensive income has been decreased by 169,000, net of tax
+ benefit, with no impact on earnings (see Note E). Amounts to be paid or
+ received under the swap agreement are accrued as interest rates change and
+ are recognized over the life of the swap agreement as an adjustment to
+ interest expense.
+
+NOTE I - COMMON STOCK
+
+ Under the 1983 and 1984 Stock Option Plans, options for 226,608 shares
+ were exercised at prices ranging from 4.22 to 8.58 per share, options
+ for 1,505 shares were forfeited at 5.63 per share, and no options were
+ granted or expired during the twenty-six weeks ended November 29, 2003.
+ Under the 1997 AngioDynamics Stock Option Plan, options for 3.58 shares
+ were granted at 60,000 per share, options for .11 shares were forfeited
+ at 40,000 per share, and no options were exercised or expired during the
+ twenty-six weeks ended November 29, 2003.
+
+ In March 2003, the Board of Directors authorized the repurchase of up to
+ 300,000 shares of the Company's common stock at an aggregate purchase
+ price of up to 3,000,000. The Company repurchased 37,400 shares of common
+ stock for approximately 417,000 during the twenty-six weeks ended
+ November 29, 2003. In aggregate, the Company has repurchased 74,234 shares
+ of common stock for approximately 716,000 under this program.
+
+-14-
+
+E-Z-EM, Inc. and Subsidiaries
+
+ NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (continued)
+
+ November 29, 2003 and November 30, 2002
+ (unaudited)
+
+NOTE I - COMMON STOCK (continued)
+
+ In June 2003, the Company's Board of Directors declared a cash dividend of
+ .25 per outstanding share of the Company's common stock. The dividend was
+ distributed on August 1, 2003 to shareholders of record as of July 15,
+ 2003. Future dividends are subject to Board of Directors' review of
+ operations and financial and other conditions then prevailing.
+
+ On October 22, 2002, the Company completed its plan to combine its two
+ former classes of common stock (Class A and Class B) into a single, newly
+ created class of common stock. The transaction was effected by merging a
+ newly formed subsidiary into E-Z-EM, with E-Z-EM continuing as the
+ surviving corporation in the merger. As a result of this merger: each
+ outstanding Class A share and each outstanding Class B share was converted
+ into one share of a newly created class of common stock of the Company;
+ the super-majority voting requirements contained in the Company's
+ certificate of incorporation, relating to the former Class A shares, were
+ eliminated and are not applicable to the Company's new class of common
+ stock; each holder of common stock now has one vote per share; and all
+ matters brought before the stockholders of the Company, other than the
+ removal of directors, are now determined by a majority vote.
+
+NOTE J - OPERATING SEGMENTS
+
+ The Company is engaged in the manufacture and distribution of a wide
+ variety of products which are classified into two operating segments:
+ E-Z-EM products and AngioDynamics products. E-Z-EM products include X-ray
+ fluoroscopy products, CT imaging products, virtual colonoscopy products,
+ specialty diagnostic tests, and accessory medical products and devices.
+ The E-Z-EM segment also includes third-party contract manufacturing of
+ diagnostic contrast agents, pharmaceuticals, cosmetics and defense
+ decontaminants. AngioDynamics products include angiographic products and
+ accessories, dialysis products, PTA dilation catheters, thrombolytic
+ products, image-guided vascular access products, endovascular laser venous
+ system, and drainage products used in minimally invasive image-guided
+ therapeutic procedures to treat peripheral vascular disease and other
+ non-coronary disease.
+
+-15-
+
+E-Z-EM, Inc. and Subsidiaries
+
+ NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (continued)
+
+ November 29, 2003 and November 30, 2002
+ (unaudited)
+
+NOTE J - OPERATING SEGMENTS (continued)
+
+ The Company's chief operating decision maker utilizes operating segment
+ net earnings (loss) information in assessing performance and making
+ overall operating decisions and resource allocations. Information about
+ the Company's segments is as follows:
+
+Thirteen weeks ended Twenty-six weeks ended
+ ------------------------------ -------------------------------
+ November 29, November 30, November 29, November 30,
+ 2003 2002 2003 2002
+ -------- ------- --------- ---------
+ (in thousands)
+ 
+ Net sales to external
+ customers
+ E-Z-EM products 25,287 24,328 47,929 46,511
+ AngioDynamics products 11,651 8,572 22,066 16,669
+ -------- ------- --------- ---------
+
+ Total net sales to external
+ customers 36,938 32,900 69,995 63,180
+ ======== ======= ========= =========
+
+ Intersegment net sales
+ AngioDynamics products 200 196 415 427
+ -------- ------- --------- ---------
+
+ Total intersegment net sales 200 196 415 427
+ ======== ======= ========= =========
+
+ Operating profit (loss)
+ E-Z-EM products 1,165 671 229 (1,004)
+ AngioDynamics products 1,187 794 2,130 1,354
+ Eliminations (18) 44 10 40
+ -------- ------- --------- ---------
+
+ Total operating profit 2,334 1,509 2,369 390
+ ======== ======= ========= =========
+
+ Net earnings (loss)
+ E-Z-EM products 1,181 717 547 (129)
+ AngioDynamics products 606 227 913 336
+ Eliminations (18) 44 10 40
+ -------- ------- --------- ---------
+
+ Total net earnings 1,769 988 1,470 247
+ ======== ======= ========= =========
+
+November 29, May 31,
+ 2003 2003
+ --------- ---------
+ (in thousands)
+ 
+ Assets
+ E-Z-EM products 115,671 112,899
+ AngioDynamics products 28,816 26,000
+ Eliminations (29,662) (28,275)
+ --------- ---------
+
+ Total assets 114,825 110,624
+ ========= =========
+
+-16-
+
+E-Z-EM, Inc. and Subsidiaries
+
+ NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (continued)
+
+ November 29, 2003 and November 30, 2002
+ (unaudited)
+
+NOTE K - CONTINGENCIES
+
+ On January 6, 2004, Diomed, Inc. filed an action entitled Diomed, Inc. vs.
+ AngioDynamics, Inc., civil action no. 04 10019 RGS in the U.S. District
+ Court for the District of Massachusetts. The complaint alleges that
+ AngioDynamics sells a kit for the treatment of varicose veins under the
+ name Endovascular Laser Venous System (the "ELVS Procedure Kit") and two
+ diode laser systems: the "Precision 980" Laser and the "Precision 810"
+ Laser, and conducts a training program for physicians in the use of the
+ ELVS Procedure Kit. The complaint alleges that these actions by
+ AngioDynamics infringed, and/or contributorily infringed, and/or induced
+ infringement by others of Diomed's U.S. patent no. 6,398,777, and that
+ these actions have caused, and continue to cause, Diomed to suffer
+ substantial damages. The complaint seeks preliminary and permanent
+ injunctive relief, compensatory and treble damages, reasonable attorneys'
+ fees, costs and interest. The Company has obtained a written opinion of
+ non-infringement from outside counsel and believes that the allegations in
+ the complaint are without merit and intends to vigorously defend the
+ action.
+
+ AngioDynamics has been named as a defendant in an action entitled San
+ ---
+ Juanita Chapa, et. al plaintiffs vs. Christos Spohn Hospital Shoreline,
+ ------------- ---------------------------------
+ et. al, defendants, cause no. 03-60961-1 filed in the County Court, Nueces
+ County, Texas on June 30, 2003. The complaint alleges that the defendants
+ negligently caused the death of a dialysis patient in the defendant
+ hospital. The complaint alleges specifically that AngioDynamics and two
+ other defendants, including AngioDynamics' supplier, Medcomp, designed,
+ manufactured, promoted, distributed and/or sold one or more portions of
+ the dialysis equipment (including catheters) used in the treatment of the
+ patient, and that the equipment was defective and unreasonably dangerous.
+ The complaint seeks money damages in an unspecified amount. Under
+ AngioDynamics' distribution agreement with Medcomp, Medcomp is required to
+ indemnify AngioDynamics against all its costs, expenses, its losses,
+ liabilities, expenses (including reasonable attorneys' fees) that relate
+ in any way to products covered by the agreement. AngioDynamics has
+ tendered the defense of this action to Medcomp. Medcomp has accepted
+ defense of the action, conditioned upon the identification of the catheter
+ used to treat the patient as a Medcomp product.
+
+NOTE L - POTENTIAL TRANSACTION
+
+ In October 2003, the Company announced that it was considering a spin-off
+ and initial public offering of its wholly-owned subsidiary, AngioDynamics.
+ The Company has signed a letter of engagement with an investment banking
+ firm regarding the possible spin-off and public offering of AngioDynamics,
+ the initiation and timing of which will be subject to market and other
+ conditions, including receipt by the Company of a favorable private letter
+ ruling from the Internal Revenue Service as to the tax-free nature of the
+ contemplated spin- off. The Company anticipates this transaction occurring
+ in the first half of calendar 2004.
+
+-17-
+
+Item 2. Management's Discussion and Analysis of Financial Condition and Results
+ -----------------------------------------------------------------------
+ of Operations
+ -------------
+
+The following information should be read together with the consolidated
+financial statements and the notes thereto and other information included
+elsewhere in this Quarterly Report on Form 10-Q.
+
+Forward-Looking Statements
+- --------------------------
+
+This Quarterly Report on Form 10-Q, including the section entitled "Management's
+Discussion and Analysis of Financial Condition and Results of Operations",
+contains certain forward-looking statements within the meaning of Section 27A of
+the Securities Act of 1933, as amended (the "Securities Act"), and Section 21E
+of the Securities Exchange Act of 1934, as amended (the "Exchange Act"), which
+are intended to be covered by the safe harbors created thereby. These statements
+relate to future events or the Company's future financial performance and
+involve known and unknown risks, uncertainties and other factors that may cause
+the Company or its industry's actual results, levels of activity, performance or
+achievements to be materially different from any future results, levels of
+activity, performance or achievements expressed or implied by the
+forward-looking statements. These risks and other factors include those listed
+under "Management's Discussion and Analysis of Financial Condition and Results
+of Operations - Risk Factors" and elsewhere in this Quarterly Report on Form
+10-Q. In some cases, forward-looking statements may be identified by terminology
+such as "may", "will", "should", "expects", "intends", "anticipates", "plans",
+"believes", "seeks", "estimates", "predicts", "potential", "continue" or
+variations of such terms or similar expressions. These statements are only
+predictions. In evaluating these statements, readers should specifically
+consider various factors, including the risks outlined under "Management's
+Discussion and Analysis of Financial Condition and Results of Operations - Risk
+Factors". These factors may cause the Company's actual results to differ
+materially from any forward-looking statement.
+
+Although the Company believes that the assumptions underlying the
+forward-looking statements contained herein are reasonable, any of the
+assumptions could be inaccurate, and therefore, there can be no assurance that
+the forward-looking statements included in this Form 10-Q will prove to be
+accurate. In light of the significant uncertainties inherent in the
+forward-looking statements included herein, the inclusion of such information
+should not be regarded as a representation by the Company or any other person
+that the objectives and plans of the Company will be achieved.
+
+Quarters ended November 29, 2003 and November 30, 2002
+- ------------------------------------------------------
+
+The Company's quarters ended November 29, 2003 and November 30, 2002 both
+represent thirteen weeks.
+
+Results of Operations
+- ---------------------
+
+Segment Overview
+- ----------------
+
+The Company operates in two industry segments: E-Z-EM products and AngioDynamics
+products. The E-Z-EM operating segment includes X-ray fluoroscopy products, CT
+imaging products, virtual colonoscopy products, specialty diagnostic tests, and
+accessory medical products and devices. The E-Z-EM segment also includes third-
+party contract manufacturing of diagnostic contrast agents, pharmaceuticals,
+cosmetics and defense decontaminants. The AngioDynamics operating segment
+includes angiographic products and accessories, dialysis products, PTA dilation
+catheters, thrombolytic products, image-guided vascular access products,
+endovascular laser venous systems, and drainage products used in minimally
+
+-18-
+
+invasive image-guided therapeutic procedures to treat peripheral vascular
+disease and other non-coronary disease.
+
+The following table sets forth certain financial information with respect to the
+Company's operating segments:
+
+E-Z-EM AngioDynamics Eliminations Total
+ ------ ------------- ------------ -----
+ (in thousands)
+ 
+Quarter ended November 29, 2003
+- -------------------------------
+
+ Unaffiliated customer sales 25,287 11,651 -- 36,938
+ Intersegment sales -- 200 200) --
+ Gross profit (loss) 10,475 6,092 (18) 16,549
+ Operating profit (loss) 1,165 1,187 (18) 2,334
+
+Quarter ended November 30, 2002
+- -------------------------------
+
+ Unaffiliated customer sales 24,328 8,572 -- 32,900
+ Intersegment sales -- 196 196) --
+ Gross profit 10,235 4,793 44 15,072
+ Operating profit 671 794 44 1,509
+
+E-Z-EM Products
+
+E-Z-EM segment operating profit for the current quarter increased by 494,000.
+The current quarter included 628,000 in plant closing and operational
+restructuring costs related to the planned closing, later this fiscal year, of
+the Company's device manufacturing facility in San Lorenzo, Puerto Rico, as well
+as its heat-sealing operation in Westbury, New York. After the realignment, the
+Company will maintain three core manufacturing sites; Westbury, New York and
+Montreal, Canada for its E-Z-EM segment and Queensbury, New York for its
+AngioDynamics segment. An expected charge to earnings of 1,900,000 (inclusive
+of the 572,000 and 628,000 charges for the first and second quarters,
+respectively), mainly severance related, will be recorded in the current year as
+a result of this program.
+
+Excluding the effect of the planned closing of operations discussed above,
+E-Z-EM segment operating profit increased by 1,122,000 due to increased sales
+and gross profit and decreased operating expenses. Net sales increased 4 , or
+ 959,000, due primarily to a decline in distributor rebates, resulting from a
+shift in sales from products under contract with significant discounts to
+products not currently under contract or to products under contract with lower
+discounts. On a product line basis, the net sales increase resulted from
+increased sales of contract manufacturing products of 674,000 and increased
+sales of CT imaging contrast products, particularly the Company's CT Smoothie
+lines, and CT injector systems totaling 605,000, partially offset by decreased
+sales of X-ray fluoroscopy products of 278,000. Price increases, excluding the
+decline in rebates, had minimal effect on net sales for the current quarter.
+Gross profit, expressed as a percentage of net sales, decreased to 41 for the
+current quarter, from 42 for the comparable quarter of the prior year, due
+primarily to increased raw material costs and unfavorable changes in sales
+product mix, partially offset by the decline in rebates. Excluding the
+aforementioned plant closing costs, operating expenses decreased 882,000 due to
+decreased selling and marketing promotional activities and costs associated with
+the Company's common stock recapitalization of 106,000 in the comparable period
+of the prior year.
+
+AngioDynamics Products
+
+AngioDynamics segment operating profit improved by 393,000 in the current
+quarter due to increased sales and gross profit, partially offset by increased
+operating expenses. Net sales increased 36 , or 3,079,000, due primarily to the
+
+-19-
+
+introduction of new products in the prior year and the growth in existing
+products resulting, in large part, from the expansion in the domestic sales
+force. Successful new products, introduced last fiscal year, included the Dura-
+Flow(TM) Chronic Dialysis catheter and the Endovascular Laser Venous System for
+the treatment of varicose veins. Price increases had minimal effect on net sales
+for the current quarter. Gross profit, expressed as a percentage of net sales,
+decreased to 51 for the current quarter, from 55 for the comparable quarter of
+the prior year. Gross profit for the comparable quarter last year was favorably
+affected by an inventory valuation adjustment of 174,000. Gross profit for the
+current quarter was adversely affected by sales price erosion, increased
+provision for inventory reserves of 90,000 and manufacturing overhead cost
+increases, partially offset by decreased freight costs. Operating expenses
+increased 906,000 due, in large part, to the continued expansion of the
+domestic sales force, increased activities undertaken to generate an increase in
+net sales, investment in new product introductions and increased administrative
+and research and development expenses.
+
+Consolidated Results of Operations
+- ----------------------------------
+
+For the quarter ended November 29, 2003, the Company reported net earnings of
+ 1,769,000, or .17 per common share on both a basic and diluted basis, as
+compared to net earnings of 988,000, or .10 and .09 per common share on a
+basic and diluted basis, respectively, for the comparable period of last year.
+Results for the current quarter were favorably affected by increased sales and
+gross profit in both segments, partially offset by increased operating expenses.
+Results for the current quarter included 628,000, or .05 per basic share, in
+plant closing and operational restructuring costs previously disclosed in the
+segment overview.
+
+Net sales for the quarter ended November 29, 2003 increased 12 , or 4,038,000,
+as compared to the quarter ended November 30, 2002, due to increased sales of
+AngioDynamics products of 3,079,000 and E-Z-EM products of 959,000, which
+resulted from the factors previously disclosed in the segment overview. Price
+increases, excluding the change in rebates, had minimal effect on net sales for
+the current quarter. Net sales in international markets, including direct
+exports from the U.S., increased 10 , or 868,000, for the current quarter from
+the comparable period of last year due primarily to increased sales of contract
+manufacturing products of 674,000 and CT imaging contrast and injector systems
+of 131,000.
+
+Gross profit, expressed as a percentage of net sales, declined to 45 for the
+current quarter from 46 for the comparable quarter of the prior year due to
+reduced gross profit as a percentage of net sales in both the E-Z-EM and
+AngioDynamics segments, which resulted from the factors previously disclosed in
+the segment overview.
+
+Selling and administrative ("S&A") expenses were 11,589,000 for the quarter
+ended November 29, 2003 compared to 11,789,000 for the quarter ended November
+30, 2002. This decrease of 200,000, or 2 , was due to decreased E-Z-EM S&A
+expenses of 840,000, partially offset by increased AngioDynamics S&A expenses
+of 640,000. Decreased E-Z-EM S&A expenses can be attributed to decreased
+selling and marketing promotional activities and costs associated with the
+Company's common stock recapitalization of 106,000 in the comparable period of
+the prior year. Increased AngioDynamics S&A expenses resulted, in large part,
+from the continued expansion of its domestic sales force, costs of increased
+activities undertaken to generate an increase in net sales, and investment in
+new product introductions.
+
+Research and development ("R&D") expenditures remained at 5 of net sales and
+increased 21 for the current quarter to 1,998,000 from 1,658,000 for the
+comparable quarter of the prior year due primarily to increased AngioDynamics
+R&D expenses of 266,000. The increase in AngioDynamics R&D expenses is due
+
+-20-
+
+primarily to increased personnel costs related to the hiring of an in-house
+intellectual property counsel to facilitate the registration, maintenance and
+defense of AngioDynamics' intellectual property assets and increased personnel
+in both the research and development departments of AngioDynamics. Of the R&D
+expenditures for the current quarter, approximately 43 relate to AngioDynamics
+projects, 29 to X-ray fluoroscopy and CT imaging projects, 18 to general
+regulatory costs, 6 to virtual colonoscopy projects, 3 to accessory medical
+products and devices and 1 to other projects. R&D expenditures are expected to
+continue at approximately current levels for the remainder of this fiscal year.
+
+Other income, net of other expenses, totaled 449,000 of income for the current
+quarter compared to 97,000 of income for the comparable period of last year.
+This improvement was due primarily to gains on the sales of equity investments
+totaling 336,000.
+
+For the quarter ended November 29, 2003, the Company's effective tax rate of 36 
+differed from the Federal statutory tax rate of 34 due primarily to losses
+incurred at the Company's Puerto Rican subsidiary, which are subject to lower
+tax rates, and non-deductible expenses, partially offset by the utilization of
+previously unrecorded net operating and capital loss carryforwards. The losses
+incurred at the Company's Puerto Rican subsidiary resulted from the plan to
+close this facility and to outsource these operations. For the quarter ended
+November 30, 2002, the Company's effective tax rate of 39 differed from the
+Federal statutory tax rate of 34 due to non-deductible expenses.
+
+Six months ended November 29, 2003 and November 30, 2002
+- --------------------------------------------------------
+
+The Company's six months ended November 29, 2003 and November 30, 2002 both
+represent twenty-six weeks.
+
+Results of Operations
+- ---------------------
+
+Segment Overview
+- ----------------
+
+E-Z-EM AngioDynamics Eliminations Total
+ ------ ------------- ------------ -----
+ (in thousands)
+ 
+Six months ended November 29, 2003
+- ----------------------------------
+
+ Unaffiliated customer sales 47,929 22,066 -- 69,995
+ Intersegment sales -- 415 415) --
+ Gross profit 18,881 11,627 10 30,518
+ Operating profit 229 2,130 10 2,369
+
+Six months ended November 30, 2002
+- ----------------------------------
+
+ Unaffiliated customer sales 46,511 16,669 -- 63,180
+ Intersegment sales -- 427 427) --
+ Gross profit 18,568 8,961 40 27,569
+ Operating profit (loss) (1,004) 1,354 40 390
+
+E-Z-EM Products
+
+E-Z-EM segment operating results for the current period improved by 1,233,000.
+Both the current period and the comparative period of the prior year included
+charges for restructuring and repositioning the Company. The current period
+included 1,200,000 in plant closing and operational restructuring costs related
+to the planned closing, later this fiscal year, of the Company's device
+manufacturing facility in San Lorenzo, Puerto Rico, as well as its heat-sealing
+operation in Westbury, New York. Included in the comparable period of last year
+were 688,000 in costs associated with the Company's common stock
+recapitalization, which was completed in the second quarter.
+
+-21-
+
+Excluding the effect of the planned closing of operations and the common stock
+recapitalization costs discussed above, E-Z-EM segment operating results
+improved by 1,745,000 due to increased sales and gross profit and decreased
+operating expenses. Net sales increased 3 , or 1,418,000, due, in large part,
+to a decline in distributor rebates, resulting from a shift in sales from
+products under contract with significant discounts to products not currently
+under contract or to products under contract with lower discounts. On a product
+line basis, the net sale increase resulted from increased sales of CT imaging
+contrast products, particularly the Company's CT Smoothie lines, and CT injector
+systems totaling 1,518,000. Price increases, excluding the decline in rebates,
+had minimal effect on net sales for the current period. Gross profit, expressed
+as a percentage of net sales, decreased to 39 for the current period, from 40 
+for the comparable period of the prior year, due primarily to increased raw
+material costs and unfavorable changes in sales product mix, partially offset by
+the decline in rebates and decreased freight costs affecting the Company's
+Westbury operations. Excluding the aforementioned plant closing and
+recapitalization costs, operating expenses decreased 1,432,000 due to decreased
+selling and marketing promotional activities and decreased severance costs of
+ 301,000.
+
+AngioDynamics Products
+
+AngioDynamics segment operating profit improved by 776,000 in the current
+period due to increased sales and gross profit, partially offset by increased
+operating expenses. Net sales increased 32 , or 5,397,000, due primarily to the
+introduction of new products in the prior year and the growth in existing
+products resulting, in large part, from the expansion in the domestic sales
+force. Successful new products, introduced last fiscal year, included the Dura-
+Flow(TM) Chronic Dialysis catheter and the Endovascular Laser Venous System for
+the treatment of varicose veins. Price increases had minimal effect on net sales
+for the current period. Gross profit, expressed as a percentage of net sales,
+was 52 for both the current period and the comparable period of the prior year.
+Decreased freight costs offset the effects of raw material and manufacturing
+overhead cost increases. Operating expenses increased 1,890,000 due, in large
+part, to the continued expansion of the domestic sales force, increased
+activities undertaken to generate an increase in net sales, investment in new
+product introductions and increased administrative and research and development
+expenses.
+
+Consolidated Results of Operations
+- ----------------------------------
+
+For the six months ended November 29, 2003, the Company reported net earnings of
+ 1,470,000, or .14 per common share on both a basic and diluted basis, compared
+to net earnings of 247,000, or .02 per common share on both a basic and
+diluted basis, for the comparable period of last year. Results for the current
+period were favorably affected by increased sales and gross profit in both
+segments, partially offset by increased operating expenses. Results for the
+current period included 1,200,000, or .10 per basic share, in plant closing
+and operational restructuring costs previously disclosed in the segment
+overview. Results for the comparative period of last year included 688,000, or
+ .07 per basic share, in costs associated with the Company's common stock
+recapitalization.
+
+Net sales for the six months ended November 29, 2003 increased 11 , or
+ 6,815,000, compared to the six months ended November 30, 2002 due to increased
+sales of AngioDynamics products of 5,397,000 and E-Z-EM products of 1,418,000,
+which resulted from the factors previously disclosed in the segment overview.
+Price increases, excluding the change in rebates, had minimal effect on net
+sales for the current period. Net sales in international markets, including
+direct exports from the U.S., increased 3 , or 554,000, for the current period
+from the comparable period of last year due to increased sales of CT imaging
+contrast and injector systems of 216,000, X-ray fluoroscopy products of
+ 138,000, specialty diagnostic tests of 131,000 and contract manufacturing
+products of 119,000.
+
+-22-
+
+Gross profit expressed as a percentage of net sales was 44 for both the current
+period and the comparable period of the prior year. Decreased gross profit, as a
+percentage of net sales, in the E-Z-EM segment offset the effect of increased
+contribution from the AngioDynamics segment. The reduced gross profit in the E-
+Z-EM segment resulted from the factors previously disclosed in the segment
+overview.
+
+S&A expenses were 23,147,000 for the six months ended November 29, 2003
+compared to 23,816,000 for the six months ended November 30, 2002. This
+decrease of 669,000, or 3 , for the current period was due to decreased E-Z-EM
+S&A expenses of 2,115,000, partially offset by increased AngioDynamics S&A
+expenses of 1,446,000. Decreased E-Z-EM S&A expenses can be attributed to: i)
+decreased selling and marketing promotional activities; ii) costs associated
+with the Company's common stock recapitalization of 688,000 in the comparable
+period of the prior year; and iii) decreased severance costs of 386,000.
+Increased AngioDynamics S&A expenses resulted, in large part, from the continued
+expansion of its domestic sales force, costs of increased activities undertaken
+to generate an increase in net sales, and investment in new product
+introductions.
+
+R&D expenditures remained at 5 of net sales and increased 17 for the current
+period to 3,802,000 from 3,247,000 for the comparable period of the prior year
+due primarily to increased AngioDynamics R&D expenses of 444,000, general
+regulatory costs of 158,000 and accessory medical products and devices of
+ 154,000, partially offset by decreased spending relating to X-ray fluoroscopy
+and CT imaging projects of 245,000. The increase in AngioDynamics R&D expenses
+is due primarily to increased personnel costs related to the hiring of an in-
+house intellectual property counsel to facilitate the registration, maintenance
+and defense of AngioDynamics' intellectual property assets and increased
+personnel in both the research and development departments of AngioDynamics. Of
+the R&D expenditures for the current period, approximately 43 relate to
+AngioDynamics projects, 29 to X-ray fluoroscopy and CT imaging projects, 17 to
+general regulatory costs, 6 to virtual colonoscopy projects, 4 to accessory
+medical products and devices and 1 to other projects.
+
+Other income, net of other expenses, totaled 415,000 of income for the current
+period compared to 414,000 of income for the comparable period of last year.
+Gains on the sales of equity investments totaling 336,000 offset decreases in
+foreign currency exchange gains of 297,000 and increased interest expense of
+ 46,000, resulting, in large part, from the financing of the AngioDynamics
+facility expansion.
+
+For the six months ended November 29, 2003, the Company's effective tax rate of
+47 differed from the Federal statutory tax rate of 34 due primarily to losses
+incurred at the Company's Puerto Rican subsidiary, which are subject to lower
+tax rates, and non-deductible expenses, partially offset by the utilization of
+previously unrecorded net operating and capital loss carryforwards. For the six
+months ended November 30, 2002, the Company's unusually high effective tax rate
+of 69 differed from the Federal statutory tax rate of 34 due to non-deductible
+expenses, primarily related to the Company's common stock recapitalization.
+
+Liquidity and Capital Resources
+- -------------------------------
+
+For the six months ended November 29, 2003, cash dividends, capital
+expenditures, the purchase of treasury stock, repayments of debt and working
+capital were funded by cash provided by operations and cash reserves. The
+Company's policy has generally been to fund operations and capital requirements
+without incurring significant debt. However, the Company did elect to finance
+the AngioDynamics facility expansion. At November 29, 2003, debt (notes payable,
+current maturities of long-term debt and long-term debt) was 4,180,000
+(including 3,325,000 relating to the financing of the AngioDynamics facility
+expansion), as compared to 4,369,000 at May 31, 2003. The Company has available
+ 4,540,000
+
+-23-
+
+under two bank lines of credit, of which no amounts were outstanding at November
+29, 2003.
+
+At November 29, 2003, approximately 16,038,000, or 14 , of the Company's assets
+consisted of cash and cash equivalents and short-term debt and equity
+securities. The current ratio was 4.75 to 1, with working capital of
+ 60,812,000, at November 29, 2003, compared to a current ratio of 4.95 to 1,
+with working capital of 60,123,000, at May 31, 2003. The Company believes that
+its cash reserves as of November 29, 2003, cash generated from operations and
+existing lines of credit will provide sufficient liquidity to meet its current
+obligations for the next 12 months.
+
+During fiscal 2003, the Company began the expansion of the AngioDynamics
+headquarters and manufacturing facility in Queensbury, New York, and, as of
+November 29, 2003, had expended approximately 3,463,000 on this project. The
+Company expects this expansion to cost approximately 3,500,000 and to be
+completed during the third fiscal quarter. This expansion is being financed
+principally with Industrial Revenue Bonds (the "Bonds") issued by the Warren and
+Washington Counties Industrial Development Agency (the "Agency") aggregating
+ 3,500,000. The proceeds of the Bonds are being advanced, as construction
+occurs, pursuant to a Building Loan Agreement by and among the Agency, the
+Trustee, a bank (the "Bank") and the Company. As of November 29, 2003, the
+advances aggregated 3,280,000 with the remaining proceeds of 220,000
+classified as restricted cash. The Bonds re-price every seven days and are
+resold by a Remarketing Agent. The Bonds bear interest based on the market rate
+on the date the Bonds are resold (1.30 per annum at November 29, 2003) and
+require quarterly interest payments and quarterly principal payments ranging
+from 25,000 to 65,000 through May 2022. The Company entered into an interest
+rate swap with the Bank to convert the variable interest rate to a fixed
+interest rate of 4.45 per annum. The principal payments on the Bonds are
+secured by a letter of credit with the Bank and a first mortgage on the land,
+building and equipment relating to the facility.
+
+In March 2003, the Board of Directors authorized the repurchase of up to 300,000
+shares of the Company's common stock at an aggregate purchase price of up to
+ 3,000,000. The Company repurchased 37,400 shares of common stock for
+approximately 417,000 during the six months ended November 29, 2003. In
+aggregate, the Company has repurchased 74,234 shares of common stock for
+approximately 716,000 under this program.
+
+In June 2003, the Company's Board of Directors declared a cash dividend of .25
+per outstanding share of the Company's common stock. The dividend was paid on
+August 1, 2003 to shareholders of record as of July 15, 2003. Future dividends
+are subject to Board of Directors' review of operations and financial and other
+conditions then prevailing.
+
+Critical Accounting Policies and Use of Estimates
+- -------------------------------------------------
+
+The Company's significant accounting policies are summarized in Note A to the
+Consolidated Financial Statements included in the Company's fiscal 2003 Annual
+Report on Form 10-K. While all of these significant accounting policies affect
+the reporting of its financial condition and results of operations, the Company
+views certain of these policies as critical. Policies determined to be critical
+are those policies that have the most significant impact on the Company's
+financial statements and require management to use a greater degree of judgment
+and/or estimates. Actual results may differ from those estimates.
+
+The Company believes that given current facts and circumstances, it is unlikely
+that applying any other reasonable judgment or estimate methodologies would
+cause a material effect on the Company's consolidated results of operations,
+financial position or liquidity for the periods presented in this report. The
+accounting policies identified as critical are as follows:
+
+-24-
+
+Revenue Recognition
+
+The Company recognizes revenues in accordance with generally accepted accounting
+principles as outlined in Staff Accounting Bulletin No. 101, which requires that
+four basic criteria be met before revenue can be recognized: (1) persuasive
+evidence of an arrangement exists; (2) the price is fixed or determinable; (3)
+collectibility is reasonably assured; and (4) product delivery has occurred or
+services have been rendered. Decisions relative to criterion (3) regarding
+collectibility are based upon management judgments, as discussed under "Accounts
+Receivable" below, and should conditions change in the future and cause
+management to determine this criterion is not met, the Company's results of
+operations may be affected. The Company recognizes revenue on the date the
+product is shipped, which is when title passes to the customer. Shipping and
+credit terms are negotiated on a customer-by-customer basis. E-Z-EM products are
+shipped primarily to distributors at an agreed upon list price. The distributor
+then resells the products primarily to hospitals and, depending upon contracts
+between the Company, the distributor and the hospital, the distributor may be
+entitled to a rebate. The Company deducts all rebates from sales and has a
+provision for rebates based on historical information for all rebates that have
+not yet been submitted to the Company by the distributors. All customer returns
+must be pre-approved by the Company via a returned goods authorization. The
+Company records revenue on warranties and extended warranties on a straight-line
+basis over the term of the related warranty contracts, which generally cover one
+year. Deferred revenues related to warranties and extended warranties are
+ 351,000 at November 29, 2003. Service costs are expensed as incurred.
+
+Accounts Receivable
+
+Accounts receivable, principally trade, are generally due within 30 to 60 days
+and are stated at amounts due from customers net of an allowance for doubtful
+accounts. The Company performs ongoing credit evaluations of its customers and
+adjusts credit limits based upon payment history and the customers' current
+credit worthiness, as determined by a review of their current credit
+information. The Company continuously monitors aging reports, collections and
+payments from customers, and maintains a provision for estimated credit losses
+based upon historical experience and any specific customer collection issues
+that have been identified. While such credit losses have historically been
+within expectations and the provisions established, the Company cannot guarantee
+the same credit loss rates will be experienced in the future. The Company writes
+off accounts receivable when they become uncollectible. Concentration risk
+exists relative to the Company's accounts receivable, as 27 of the Company's
+total accounts receivable balance at November 29, 2003 is concentrated in one
+distributor. While the accounts receivable related to this distributor may be
+significant, the Company does not believe the credit loss risk to be significant
+given the distributor's consistent payment history.
+
+Income Taxes
+
+In preparing the Company's financial statements, income tax expense is
+calculated for each jurisdiction in which the Company operates. This involves
+estimating actual current taxes due plus assessing temporary differences arising
+from differing treatment for tax and accounting purposes that are recorded as
+deferred tax assets and liabilities. Deferred tax assets are periodically
+evaluated to determine their recoverability (based primarily on the Company's
+ability to generate future taxable income), and where their recovery is not
+likely, a valuation allowance is established and a corresponding additional tax
+expense is recorded in the Company's statement of earnings. If actual results
+differ from the Company's estimates due to changes in assumptions, the provision
+for income taxes could be materially affected.
+
+-25-
+
+Inventories
+
+The Company values its inventory at the lower of the actual cost to purchase
+and/or manufacture (on the first-in, first-out method) or the current estimated
+market value. On an quarterly basis, inventory quantities on hand are reviewed
+and an analysis of the provision for excess and obsolete inventory is performed
+based primarily on product expiration dating and the Company's estimated sales
+forecast, which is based on sales history and anticipated future demand. The
+Company's estimates of future product demand may prove to be inaccurate and the
+Company may understate or overstate the provision required for excess and
+obsolete inventory. Accordingly, any significant unanticipated changes in demand
+could have a significant impact on the value of the Company's inventory and
+results of operations.
+
+Property, Plant and Equipment
+
+Property, plant and equipment is stated at cost, less accumulated depreciation,
+and is depreciated principally using the straight-line method over the estimated
+useful lives of the assets. Useful lives are based on management's estimates of
+the period over which the assets will generate revenue. Any change in conditions
+that would cause management to change its estimate of the useful lives of a
+group or class of assets may significantly affect depreciation expense on a
+prospective basis.
+
+Effects of Recently Issued Accounting Pronouncements
+- ----------------------------------------------------
+
+As of July 1, 2003, the Company adopted SFAS No. 149, "Amendment of Statement
+133 on Derivative Instruments and Hedging Activities." SFAS No. 149 amends and
+clarifies accounting for derivative instruments, including certain derivative
+instruments embedded in other contracts, and for hedging activities under SFAS
+No. 133. The adoption of this statement has had no current effect on the
+Company's financial position or results of operations.
+
+As of August 31, 2003, the Company adopted SFAS No. 150, "Accounting for Certain
+Financial Instruments with Characteristics of Both Liabilities and Equity." SFAS
+No. 150 changes the accounting for certain financial instruments that, under
+previous guidance, issuers could account for as equity. The new statement
+requires that those instruments be classified as liabilities in statements of
+financial position. The adoption of SFAS No. 150 has had no current effect on
+the Company's financial position or results of operations.
+
+As of August 31, 2003, the Company adopted FASB Interpretation No. 46 ("FIN No.
+46"), "Consolidation of Variable Interest Entities." In general, a variable
+interest entity is a corporation, partnership, trust, or any other legal
+structure used for business purposes that either (a) does not have equity
+investors with voting rights or (b) has equity investors that do not provide
+sufficient financial resources for the entity to support its activities. A
+variable interest entity often holds financial assets, including loans or
+receivables, real estate or other property. A variable interest entity may be
+essentially passive or it may engage in activities on behalf of another company.
+Until now, a company generally has included another entity in its consolidated
+financial statements only if it controlled the entity through voting interests.
+FIN No. 46 changes that by requiring a variable interest entity to be
+consolidated by a company if that company is subject to a majority of the risk
+of loss from the variable interest entity's activities or entitled to receive a
+majority of the entity's residual returns or both. The adoption of FIN No. 46
+has had no current effect on the Company's consolidated financial condition or
+results of operations.
+
+As of August 31, 2003, the Company adopted Emerging Issues Task Force ("EITF")
+00-21, "Revenue Arrangements with Multiple Deliverables". EITF 00-21 provides
+
+-26-
+
+that revenue arrangements with multiple deliverables should be divided into
+separate units of accounting if certain criteria are met. The consideration of
+the arrangement should be allocated to the separate units of accounting based on
+their relative fair values, with different provisions if the fair value is
+contingent on delivery of specified items or performance conditions. Applicable
+revenue criteria should be considered separately for each separate unit of
+accounting. The adoption of EITF 00-21 has had no current effect on the
+Company's financial position and results of operations.
+
+Risk Factors
+- ------------
+
+The risks described below are not the only ones facing the Company. The
+Company's business is also subject to the risks that affect many other companies
+in its industry, such as competition, technology, results of pending or future
+clinical trials, overall economic conditions, general market conditions, foreign
+currency exchange rate fluctuations and international operations. Additional
+risks not currently known to management or that it believes are immaterial also
+may impair the Company's business operations and its liquidity.
+
+Price pressure in the healthcare industry is expected to continue to increase.
+
+Public and private sector programs designed to reduce healthcare costs exist in
+the U.S. and in many other countries where the Company does business. Such
+policies and programs require healthcare providers to focus on the delivery of
+medical services on the most cost-effective basis. New products developed by the
+Company may offer the potential to improve productivity and reduce costs, but
+must meet the aforementioned regulatory requirements prior to commercialization.
+Even after regulatory approval is obtained for such products, demand may be
+limited until reimbursement policies are established by private and public
+third- party payers. These factors can combine to create downward pressure on
+product prices in the market in general.
+
+Pricing flexibility is further constrained by the formation of large Group
+Purchasing Organizations ("GPO" or "GPOs") - combinations of hospitals and other
+large customers to combine purchasing power. Due to the multi-year term of
+typical GPO contracts, the Company's ability to pass along base cost increases
+through increased prices is limited. Consolidation in the healthcare industry
+has also resulted in a broader product range in typical GPO contracts.
+Transactions with GPOs are often larger, more complex, and involve more
+long-term contracts than in the past. GPOs' enhanced purchasing power may
+continue to increase the pressure on product pricing in the market as a whole.
+Several GPOs have executed contracts with the Company's market competitors,
+which exclude the Company, and other GPOs may do so in the future. In many
+cases, the Company has continued to sell to individual members of these GPOs on
+a direct basis, by lowering its pricing. While the Company continues to sell to
+individual members of these GPOs on a direct basis, the contracts, if enforced
+against the GPO members, may adversely affect the Company's sales in the future.
+
+A significant part of the Company's business is dependent on its intellectual
+property.
+
+The Company's continued ability to market and further develop its EmpowerCT(R)
+injector system - a product important to its continued growth and the only CT
+injector on the market to include patented EDA(TM) technology designed to aid in
+the detection of contrast extravasations - is dependent on the Company's ability
+to protect its patent rights in the product. The CT injector market is
+characterized by strong intellectual property ("IP") positions and aggressive IP
+protection strategies among all principal competitors. These factors combine to
+make the introduction of new differentiating technology and other product
+enhancements a slow and costly process. The Company continues to take what it
+
+-27-
+
+believes to be appropriate measures to protect its IP position in this area, but
+challenges to its patents and copyrights can not be discounted.
+
+The Company holds a number of other issued U.S. and foreign patents and has
+filed a number of U.S. and counterpart patent applications in other countries.
+There can be no assurance that the Company's U.S. and foreign issued patents or
+patent applications will offer any protection or that they will not be
+challenged, invalidated or circumvented. In addition, there can be no assurance
+that competitors will not obtain patents that will prevent, limit or interfere
+with the Company's ability to make, use or sell its products either in the U.S.
+or in international markets.
+
+The Company's success will be increasingly dependent on the development,
+manufacturing and marketing of new products.
+
+An increasing portion of the Company's revenues are derived from new products,
+both internally developed and externally sourced. Continued success requires
+effective product development, regulatory approval, production and marketing of
+new products. The Company obtains marketing rights to new products by partnering
+with other companies who seek to penetrate the markets which the Company serves.
+Typically these partnerships involve manufacturing agreements under which the
+Company has the right to manufacture the product if there is a failure to
+supply. However, the failure to manufacture and deliver goods on a timely basis,
+control costs, assess market needs or meet market demand can have an adverse
+effect on the Company's success in the future.
+
+The market dynamics and competitive environment in the healthcare industry are
+subject to rapid change, factors which may affect the Company's operations.
+
+The Company believes that government regulation, private sector programs and
+reimbursement policies will continue to change the worldwide healthcare
+industry, potentially resulting in further business consolidations and
+alliances. As such, the market dynamics and competitive environment are subject
+to rapid change, factors which may affect the Company's growth plans and
+operating results.
+
+The adoption rate of Virtual Colonoscopy as a screening modality for colon
+cancer has been slower than anticipated.
+
+The Company's growth strategy involves investing a portion of its financial,
+management and other resources on the further development of a unique product
+set for use in Virtual Colonoscopy. However, to date, the adoption rate of
+Virtual Colonoscopy as a screening modality for colon cancer has been slower
+than anticipated. The Company believes this is principally due to the present
+lack of private and public reimbursement standards for Virtual Colonoscopy
+screening. Additionally, the American Cancer Society ("ACS") has not yet
+included Virtual Colonoscopy in its published screening guidelines for colon
+cancer, believing the evidence of its efficacy is insufficient at this time.
+Together, these and other factors contribute to the uncertainly surrounding the
+evolution of the Virtual Colonoscopy market and the Company's position in it.
+
+The market potential for Reactive Skin Decontamination Lotion is uncertain.
+
+The market potential for Reactive Skin Decontamination Lotion ("RSDL"), a
+product for which the Company has exclusive manufacturing rights, is subject to
+a number of uncertainties. One factor is the nature of the military procurement
+process itself -- a lengthy bureaucratic process that often requires product
+modifications before substantial orders are placed. Another factor is
+uncertainty surrounding the threat from chemical weapons as instruments of
+terror, making it difficult to quantify the potential of the civilian emergency
+service organization market. These and other factors may have an impact on RSDL
+sales in the future.
+
+-28-
+
+The Company's AngioDynamics business may be harmed if interventional
+cardiologists begin to perform the procedures that interventional radiologists
+and vascular surgeons currently perform.
+
+The Company markets and sells its AngioDynamics products primarily to
+interventional radiologists and vascular surgeons, who currently perform the
+majority of interventional procedures. Many of AngioDynamics' competitors have
+focused their sales efforts on the cardiology market for interventional
+procedures. If cardiologists begin to perform the procedures currently performed
+by interventional radiologists and vascular surgeons, AngioDynamics' competitors
+may have advantages over AngioDynamics for sales to cardiologists. Consequently,
+AngioDynamics' revenues may decline and its business may be harmed.
+
+The Company's products require regulatory approval, which can be expensive and
+time-consuming, and may not be granted.
+
+The Company's products are subject to extensive regulation in the U.S. by the
+Food & Drug Administration ("FDA"), as well as certain state authorities.
+Similar regulatory oversight is in place in foreign markets where the Company
+operates. The Company must obtain either 510(k) clearance or premarket approval
+from the FDA and respective foreign regulatory bodies before it can market
+products in these markets. The process of obtaining such approvals or clearances
+can be lengthy and expensive, requiring the Company to demonstrate the safety
+and efficacy of new products. There can be no assurance that all approvals and
+clearances sought by the Company will be granted on a timely basis, if at all.
+The Company is presently awaiting 510(k) market clearance from the FDA for
+several line extension and next generation medical devices. This process usually
+takes from four to 12 months, but may take significantly longer. Premarket
+approval generally takes from one to three years, but may take longer. The
+Company's approvals and clearances may be revoked by the FDA if safety or
+effectiveness problems develop.
+
+Item 3. Quantitative and Qualitative Disclosures About Market Risk
+ ----------------------------------------------------------
+
+The Company is exposed to market risk from changes in foreign currency exchange
+rates and, to a much lesser extent, interest rates on investments and financing,
+which could impact results of operations and financial position. Although the
+Company entered into an interest rate swap with a bank to limit its exposure to
+interest rate change market risk on its variable interest rate financing, it
+does not currently engage in any other hedging or other market risk management
+tools. There have been no material changes with respect to market risk
+previously disclosed in the fiscal 2003 Annual Report on Form 10-K.
+
+Foreign Currency Exchange Rate Risk
+- -----------------------------------
+
+The financial reporting of the Company's international subsidiaries is
+denominated in currencies other than the U.S. dollar. Since the functional
+currency of the Company's international subsidiaries is the local currency,
+foreign currency translation adjustments are accumulated as a component of
+accumulated other comprehensive income (loss) in stockholders' equity. Assuming
+a hypothetical aggregate change in the exchange rates of foreign currencies
+versus the U.S. dollar of 10 at November 29, 2003, the Company's assets and
+liabilities would increase or decrease by 3,293,000 and 523,000, respectively,
+and the Company's net sales and net earnings would increase or decrease by
+ 2,326,000 and 230,000, respectively, on an annual basis.
+
+The Company also maintains intercompany balances and loans receivable with
+subsidiaries with different local currencies. These amounts are at risk of
+foreign exchange losses if exchange rates fluctuate. Assuming a hypothetical
+aggregate change in the exchange rates of foreign currencies versus the U.S.
+
+-29-
+
+dollar of 10 at November 29, 2003, pre-tax earnings would be favorably or
+unfavorably impacted by approximately 428,000 on an annual basis.
+
+Interest Rate Risk
+- ------------------
+
+At November 29, 2003, the Company was exposed to interest rate change market
+risk with respect to its investments in tax-free municipal bonds in the amount
+of 5,425,000. The bonds bear interest at a floating rate established weekly.
+For the six months ended November 29, 2003, the after-tax interest rate on the
+bonds approximated 1.0 . Each 100 basis point (1 fluctuation in interest rates
+will increase or decrease interest income on the bonds by approximately 54,000
+on an annual basis.
+
+As the Company's principal amount of fixed interest rate financing approximated
+ 855,000 at November 29, 2003, a change in interest rates would not materially
+impact results of operations or financial position. At November 29, 2003, the
+Company has outstanding variable interest rate financing of approximately
+ 3,325,000 in connection with the AngioDynamics facility expansion. The Company
+has limited its exposure to interest rate change market risk by entering into an
+interest rate swap agreement with a bank under which the Company agreed to pay
+the bank a fixed annual interest rate of 4.45 and the bank assumed the
+Company's variable interest payment obligations under the financing.
+
+Item 4. Controls and Procedures
+ -----------------------
+
+Evaluation of Disclosure Controls and Procedures
+
+As of the end of the period covered by this report, the Company's management,
+under the supervision and with the participation of the Company's Chief
+Executive Officer and Chief Financial Officer, evaluated the effectiveness of
+the design and operation of the Company's disclosure controls and procedures
+pursuant to Rule 13a-15(b) of the Securities Exchange Act of 1934, as amended.
+Based on that evaluation, the Chief Executive Officer and the Chief Financial
+Officer concluded that the Company's disclosure controls and procedures as of
+the end of the period covered by this report have been designed and are
+functioning effectively to provide reasonable assurance that the information
+required to be disclosed by the Company (including its consolidated
+subsidiaries) in reports filed under the Securities Exchange Act of 1934, as
+amended, is recorded, processed, summarized and reported within the time periods
+specified in the Securities and Exchange Commission's rules and forms. The
+Company believes that a controls system, no matter how well designed and
+operated, cannot provide absolute assurance that the objectives of the controls
+system are met, and no evaluation of controls can provide absolute assurance
+that all control issues and instances of fraud, if any, within a company have
+been detected.
+
+Changes in Internal Controls over Financial Reporting
+
+No significant changes were made in the Company's internal controls over
+financial reporting or in other factors that could significantly affect these
+controls during the quarter ended November 29, 2003.
+
+-30-
+
+E-Z-EM, Inc. and Subsidiaries
+
+ Part II: Other Information
+
+Item 1. Legal Proceedings
+ -----------------
+
+On January 6, 2004, Diomed, Inc. filed an action entitled Diomed, Inc. vs.
+AngioDynamics, Inc., civil action no. 04 10019 RGS in the U.S. District Court
+for the District of Massachusetts. The complaint alleges that AngioDynamics
+sells a kit for the treatment of varicose veins under the name Endovascular
+Laser Venous System (the "ELVS Procedure Kit") and two diode laser systems: the
+"Precision 980" Laser and the "Precision 810" Laser, and conducts a training
+program for physicians in the use of the ELVS Procedure Kit. The complaint
+alleges that these actions by AngioDynamics infringed, and/or contributorily
+infringed, and/or induced infringement by others of Diomed's U.S. patent no.
+6,398,777, and that these actions have caused, and continue to cause, Diomed to
+suffer substantial damages. The complaint seeks preliminary and permanent
+injunctive relief, compensatory and treble damages, reasonable attorneys' fees,
+costs and interest. The Company has obtained a written opinion of non-
+infringement from outside counsel and believes that the allegations in the
+complaint are without merit and intends to vigorously defend the action.
+
+AngioDynamics has been named as a defendant in an action entitled
+San Juanita Chapa, et. al plaintiffs vs. Christos Spohn Hospital Shoreline,
+- ----------------- ---------------------------------
+et. al, defendants, cause no. 03-60961-1 filed in the County Court, Nueces
+County, Texas on June 30, 2003. The complaint alleges that the defendants
+negligently caused the death of a dialysis patient in the defendant hospital.
+The complaint alleges specifically that AngioDynamics and two other defendants,
+including AngioDynamics' supplier, Medcomp, designed, manufactured, promoted,
+distributed and/or sold one or more portions of the dialysis equipment
+(including catheters) used in the treatment of the patient, and that the
+equipment was defective and unreasonably dangerous. The complaint seeks money
+damages in an unspecified amount. Under AngioDynamics' distribution agreement
+with Medcomp, Medcomp is required to indemnify AngioDynamics against all its
+costs, expenses, its losses, liabilities, expenses (including reasonable
+attorneys' fees) that relate in any way to products covered by the agreement.
+AngioDynamics has tendered the defense of this action to Medcomp. Medcomp has
+accepted defense of the action, conditioned upon the identification of the
+catheter used to treat the patient as a Medcomp product.
+
+Item 2. Changes in Securities and Use of Proceeds
+ -----------------------------------------
+
+On November 1, 2003, the Company issued 2,000 shares of common stock to its
+Chairman of the Board, Howard S. Stern, and 1,000 shares of common stock to each
+of the following directors of the Company: Robert J. Beckman, Michael A. Davis,
+Paul S. Echenberg, James L. Katz, Donald A. Meyer, David P. Meyers and George P.
+Ward. All such shares were issued in consideration for services rendered as
+directors and were issued pursuant to Section 4(2) of the Securities Act of
+1933. The basis upon which the exemption is claimed is that the issued shares
+were made only to directors of the Company.
+
+Item 3. Defaults Upon Senior Securities
+ -------------------------------
+
+None.
+
+-31-
+
+Item 4. Submission Of Matters to a Vote of Security Holders
+ ---------------------------------------------------
+
+At the Annual Meeting of Shareholders held on October 21, 2003, the following
+persons were elected as Directors of the Company:
+
+ Class I Directors: (until the 2006 Annual Meeting)
+ -----------------
+
+ Michael A. Davis, M.D.
+ James L. Katz, CPA, JD
+ Anthony A. Lombardo
+
+In this election, 8,869,402, 9,225,854 and 8,599,086 votes were cast for Mr.
+Davis, Mr. Katz and Mr. Lombardo, respectively, and 1,128,810, 772,358 and
+1,399,126 shares were withheld from voting for Mr. Davis, Mr. Katz and Mr.
+Lombardo, respectively.
+
+The following Directors continue in office for the duration of their terms:
+
+ Class II Directors: (until the 2004 Annual Meeting)
+ ------------------
+
+ Robert J. Beckman
+ Paul S. Echenberg
+ Donald A. Meyer
+
+ Class III Directors: (until the 2005 Annual Meeting)
+ -------------------
+
+ Howard S. Stern
+ David P. Meyers
+ George P. Ward
+
+The action of the Board of Directors in appointing Grant Thornton LLP as the
+Company's independent auditors for fiscal year 2004 was approved by a vote of
+9,920,744 in favor, 53,237 against and 24,231 shares abstaining.
+
+In addition, the stockholder proposal urging the Board of Directors to allow a
+vote by the Company's stockholders to institute a retroactive 18-year term limit
+for all directors; provided, that the implementation of this proposal shall not
+have the effect of shortening the term of any incumbent director, was defeated
+by a vote of 904,590 in favor, 4,938,369 against, 2,713,325 shares abstaining
+and 1,441,928 broker non-votes.
+
+Item 5. Other Information
+ -----------------
+
+None.
+
+Item 6. Exhibits and Reports on Form 8-K
+ --------------------------------
+
+(a) Exhibits
+ --------
+
+No. Description Page
+- --- ----------- ----
+
+3.1 Restated Certificate of Incorporation of the Registrant, as
+ amended (a)
+
+3.2 Bylaws of the Registrant, as amended (b)
+
+31.1 Certification pursuant to Rule 13a-14(a)/15d-14(a) as adopted
+ pursuant to Section 302 of the Sarbanes-Oxley Act of 2002
+ (Anthony A. Lombardo) 35
+
+-32-
+
+No. Description Page
+- --- ----------- ----
+
+31.2 Certification pursuant to Rule 13a-14(a)/15d-14(a) as adopted
+ pursuant to Section 302 of the Sarbanes-Oxley Act of 2002
+ (Dennis J. Curtin) 36
+
+32.1 Certification pursuant to Title 18, United States Code,
+ Section 1350 as adopted pursuant to Section 906 of the
+ Sarbanes-Oxley Act of 2002 (Anthony A. Lombardo) 37
+
+32.2 Certification pursuant to Title 18, United States Code,
+ Section 1350 as adopted pursuant to Section 906 of the
+ Sarbanes-Oxley Act of 2002 (Dennis J. Curtin) 38
+
+ (a) Incorporated by reference to Exhibit 3(i) to the Registrant's
+ Annual Report on Form 10-K for the fiscal year ended May 31,
+ 1997, filed under Commission File No. 1-11479, and to Exhibit
+ 1 to the Registrant's Registration Statement on Form 8-A filed
+ with the Commission on October 22, 2002.
+
+ (b) Incorporated by reference to Exhibit 3(ii) to the Registrant's
+ Annual Report on Form 10-K for the fiscal year ended May 28,
+ 1994, filed under Commission File No. 0-13003.
+
+(b) Reports on Form 8-K
+ -------------------
+
+The following reports on Form 8-K were filed during the quarter ended November
+29, 2003:
+
+The Company filed a Form 8-K dated September 26, 2003 reporting information
+under "Item 5. Other Events" and "Item 7. Financial Statements, Pro Forma
+Financial Information and Exhibits" announcing the date of its first quarter
+investor conference call and the date of its release of first quarter results.
+
+The Company filed a Form 8-K dated October 9, 2003 reporting information under
+"Item 7. Financial Statements, Pro Forma Financial Information and Exhibits" and
+"Item 12. Results of Operations and Financial Condition" announcing its results
+of operations for the quarter ended November 29, 2003.
+
+The Company filed a Form 8-K dated October 20, 2003 reporting information under
+"Item 5. Other Events" and "Item 7. Financial Statements, Pro Forma Financial
+Information and Exhibits" announcing that it was considering a spin-off and
+initial public offering of its wholly-owned subsidiary, AngioDynamics, Inc.
+
+-33-
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the
+registrant has duly caused this report to be signed on its behalf by the
+undersigned thereunto duly authorized.
+
+ E-Z-EM, Inc.
+ ----------------------------------------
+ (Registrant)
+
+Date January 13, 2004 /s/ Anthony A. Lombardo
+ ---------------- ----------------------------------------
+ Anthony A. Lombardo, President,
+ Chief Executive Officer and Director
+
+Date January 13, 2004 /s/ Dennis J. Curtin
+ ---------------- ----------------------------------------
+ Dennis J. Curtin, Senior Vice
+ President - Chief Financial Officer
+ (Principal Financial and Chief
+ Accounting Officer)
+
+-34-
+
+<EX-31.1>
+ 3
+ d57891_ex31-1.txt
+ CEO CERTIFICATION
+
+Exhibit 31.1
+
+ CERTIFICATIONS
+ --------------
+
+I, Anthony A. Lombardo, certify that:
+
+1. I have reviewed this quarterly report on Form 10-Q of E-Z-EM, Inc.;
+
+2. Based on my knowledge, this report does not contain any untrue statement
+ of a material fact or omit to state a material fact necessary to make the
+ statements made, in light of the circumstances under which such statements
+ were made, not misleading with respect to the period covered by this
+ report;
+
+3. Based on my knowledge, the financial statements, and other financial
+ information included in this report, fairly present in all material
+ respects the financial condition, results of operations and cash flows of
+ the registrant as of, and for, the periods presented in this report;
+
+4. The registrant's other certifying officer and I are responsible for
+ establishing and maintaining disclosure controls and procedures (as
+ defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) for the registrant
+ and have:
+
+ (a) Designed such disclosure controls and procedures, or caused such
+ disclosure controls and procedures to be designed under our
+ supervision, to ensure that material information relating to the
+ registrant, including its consolidated subsidiaries, is made known
+ to us by others within those entities, particularly during the
+ period in which this report is being prepared;
+
+ (b) Evaluated the effectiveness of the registrant's disclosure
+ controls and procedures and presented in this report our conclusions
+ about the effectiveness of the disclosure controls and procedures,
+ as of the end of the period covered by this report based on such
+ evaluation; and
+
+ (c) Disclosed in this report any change in the registrant's internal
+ control over financial reporting that occurred during the
+ registrant's most recent fiscal quarter (the registrant's fourth
+ fiscal quarter in the case of an annual report) that has materially
+ affected, or is reasonably likely to materially affect, the
+ registrant's internal control over financial reporting; and
+
+5. The registrant's other certifying officer and I have disclosed, based on
+ our most recent evaluation of internal control over financial reporting,
+ to the registrant's auditors and the audit committee of the registrant's
+ board of directors (or persons performing the equivalent functions):
+
+ (a) All significant deficiencies and material weaknesses in the
+ design or operation of internal control over financial reporting
+ which are reasonably likely to adversely affect the registrant's
+ ability to record, process, summarize and report financial
+ information; and
+
+ (b) Any fraud, whether or not material, that involves management or
+ other employees who have a significant role in the registrant's
+ internal control over financial reporting.
+
+Date January 13, 2004
+ ----------------
+
+/s/ Anthony A. Lombardo
+ ----------------------------------------
+ Anthony A. Lombardo, President,
+ Chief Executive Officer and Director
+
+-35-
+
+</EX-31.1>
+
+<EX-31.2>
+ 4
+ d57891_ex31-2.txt
+ CFO CERTIFICATION
+
+Exhibit 31.2
+
+ CERTIFICATIONS
+ --------------
+
+I, Dennis J. Curtin, certify that:
+
+1. I have reviewed this quarterly report on Form 10-Q of E-Z-EM, Inc.;
+
+2. Based on my knowledge, this report does not contain any untrue statement
+ of a material fact or omit to state a material fact necessary to make the
+ statements made, in light of the circumstances under which such statements
+ were made, not misleading with respect to the period covered by this
+ report;
+
+3. Based on my knowledge, the financial statements, and other financial
+ information included in this report, fairly present in all material
+ respects the financial condition, results of operations and cash flows of
+ the registrant as of, and for, the periods presented in this report;
+
+4. The registrant's other certifying officer and I are responsible for
+ establishing and maintaining disclosure controls and procedures (as
+ defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) for the registrant
+ and have:
+
+ (a) Designed such disclosure controls and procedures, or caused such
+ disclosure controls and procedures to be designed under our
+ supervision, to ensure that material information relating to the
+ registrant, including its consolidated subsidiaries, is made known
+ to us by others within those entities, particularly during the
+ period in which this report is being prepared;
+
+ (b) Evaluated the effectiveness of the registrant's disclosure
+ controls and procedures and presented in this report our conclusions
+ about the effectiveness of the disclosure controls and procedures,
+ as of the end of the period covered by this report based on such
+ evaluation; and
+
+ (c) Disclosed in this report any change in the registrant's internal
+ control over financial reporting that occurred during the
+ registrant's most recent fiscal quarter (the registrant's fourth
+ fiscal quarter in the case of an annual report) that has materially
+ affected, or is reasonably likely to materially affect, the
+ registrant's internal control over financial reporting; and
+
+5. The registrant's other certifying officer and I have disclosed, based on
+ our most recent evaluation of internal control over financial reporting,
+ to the registrant's auditors and the audit committee of the registrant's
+ board of directors (or persons performing the equivalent functions):
+
+ (a) All significant deficiencies and material weaknesses in the
+ design or operation of internal control over financial reporting
+ which are reasonably likely to adversely affect the registrant's
+ ability to record, process, summarize and report financial
+ information; and
+
+ (b) Any fraud, whether or not material, that involves management or
+ other employees who have a significant role in the registrant's
+ internal control over financial reporting.
+
+Date January 13, 2004
+ ----------------
+
+/s/ Dennis J. Curtin
+ ----------------------------------------
+ Dennis J. Curtin, Senior Vice
+ President - Chief Financial Officer
+
+-36-
+
+</EX-31.2>
+
+<EX-32.1>
+ 5
+ d57891_ex32-1.txt
+ CEO CERTIFICATION
+
+Exhibit 32.1
+
+ CERTIFICATION OF CHIEF EXECUTIVE OFFICER PURSUANT TO TITLE 18,
+ UNITED STATES CODE, SECTION 1350, AS ADOPTED PURSUANT TO
+ SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002
+
+I, Anthony A. Lombardo, President, Chief Executive Officer and Director of E-Z-
+EM, Inc. (the "Company"), certify, pursuant to Section 906 of the Sarbanes-Oxley
+Act of 2002, 18 U.S.C. Section 1350, that, to the best of my knowledge:
+
+ 1. the Quarterly Report on Form 10-Q of the Company for the quarter
+ ended November 29, 2003 (the "Report") fully complies with the
+ requirements of Section 13(a) or 15(d) of the Securities Exchange
+ Act of 1934 (15 U.S.C. 78m or 78o(d); and
+
+ 2. the information contained in the Report fairly presents, in all
+ material respects, the financial condition and results of operations
+ of the Company.
+
+Date January 13, 2004 /s/ Anthony A. Lombardo
+ ---------------- ----------------------------------------
+ Anthony A. Lombardo, President,
+ Chief Executive Officer and Director
+
+-37-
+
+</EX-32.1>
+
+<EX-32.2>
+ 6
+ d57891_ex32-2.txt
+ CFO CERTIFICATION
+
+Exhibit 32.2
+
+ CERTIFICATION OF CHIEF FINANCIAL OFFICER PURSUANT TO TITLE 18,
+ UNITED STATES CODE, SECTION 1350, AS ADOPTED PURSUANT TO
+ SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002
+
+I, Dennis J. Curtin, Senior Vice President - Chief Financial Officer of E-Z-EM,
+Inc. (the "Company"), certify, pursuant to Section 906 of the Sarbanes-Oxley Act
+of 2002, 18 U.S.C. Section 1350, that, to the best of my knowledge:
+
+ 1. the Quarterly Report on Form 10-Q of the Company for the quarter
+ ended November 29, 2003 (the "Report") fully complies with the
+ requirements of Section 13(a) or 15(d) of the Securities Exchange
+ Act of 1934 (15 U.S.C. 78m or 78o(d); and
+
+ 2. the information contained in the Report fairly presents, in all
+ material respects, the financial condition and results of operations
+ of the Company.
+
+Date January 13, 2004 /s/ Dennis J. Curtin
+ ---------------- ----------------------------------------
+ Dennis J. Curtin, Senior Vice
+ President - Chief Financial Officer
+
+-38-
+
+</EX-32.2>
+

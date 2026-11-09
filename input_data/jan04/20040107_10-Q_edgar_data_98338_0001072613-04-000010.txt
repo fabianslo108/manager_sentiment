@@ -1,0 +1,1190 @@
+<Header>
+<FileStats>
+    <FileName>20040107_10-Q_edgar_data_98338_0001072613-04-000010.txt</FileName>
+    <GrossFileSize>69109</GrossFileSize>
+    <NetFileSize>51270</NetFileSize>
+    <NonText_DocumentType_Chars>0</NonText_DocumentType_Chars>
+    <HTML_Chars>633</HTML_Chars>
+    <XBRL_Chars>0</XBRL_Chars>
+    <XML_Chars>0</XML_Chars>
+    <N_Exhibits>4</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0001072613-04-000010.hdr.sgml : 20040107
+<ACCEPTANCE-DATETIME>20040107140304
+ACCESSION NUMBER:		0001072613-04-000010
+CONFORMED SUBMISSION TYPE:	10-Q
+PUBLIC DOCUMENT COUNT:		5
+CONFORMED PERIOD OF REPORT:	20031130
+FILED AS OF DATE:		20040107
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			TSR INC
+		CENTRAL INDEX KEY:			0000098338
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-COMPUTER PROGRAMMING SERVICES [7371]
+		IRS NUMBER:				132635899
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0531
+
+	FILING VALUES:
+		FORM TYPE:		10-Q
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-08656
+		FILM NUMBER:		04512637
+
+	BUSINESS ADDRESS:	
+		STREET 1:		400 OSER AVE
+		CITY:			HAUPPAUGE
+		STATE:			NY
+		ZIP:			11788
+		BUSINESS PHONE:		5162310333
+
+	MAIL ADDRESS:	
+		STREET 1:		400 OSER AVENUE
+		CITY:			HAUPPAUGE
+		STATE:			NY
+		ZIP:			11788
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	TIME SHARING RESOURCES INC
+		DATE OF NAME CHANGE:	19840129
+
+</SEC-Header>
+</Header>
+
+ 
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ IWpuxS6MBD6mO3lgGerP7u3GbA8L0ojpqy+6+e2NjqNYvJBZ+JSXFpGGV9F684in
+ AOI9+AfqeqiObyTBuFqxKw==
+
+ 0001072613-04-000010.txt : 20040107
+
+10-Q
+ 1
+ form10-q_12403.txt
+ TSR, INC. FORM 10-Q DATED 11/30/2003
+ 
+================================================================================
+
+ UNITED STATES
+ SECURITIES AND EXCHANGE COMMISSION
+ WASHINGTON, DC 20549
+
+FORM 10-Q
+
+[X] Quarterly Report Pursuant to Section 13 or 15(d) of the
+ Securities Exchange Act of 1934
+
+ For the period ended November 30, 2003
+
+[_] Transition Report Pursuant to Section 13 or 15(d) of the
+ Securities Exchange Act of 1934
+
+ For the transition period from to
+ ----- -----
+
+Commission File Number: 0-8656
+ ---------------------------------------------------
+
+TSR, Inc.
+- --------------------------------------------------------------------------------
+ (Exact name of registrant as specified in its charter)
+
+ Delaware 13-2635899
+- --------------------------------------------------------------------------------
+ (State or other jurisdiction of (I.R.S. Employer
+ incorporation or organization) Identification No.)
+
+400 Oser Avenue, Hauppauge, NY 11788
+- --------------------------------------------------------------------------------
+ (Address of principal executive offices)
+
+631-231-0333
+- --------------------------------------------------------------------------------
+ (Registrant's telephone number)
+
+None
+- --------------------------------------------------------------------------------
+ (Former name, former address and former fiscal year, if
+ changed since last report)
+
+Indicate by check mark whether the Registrant (1) has filed all reports required
+to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during
+the preceding 12 months (or for such shorter period that the Registrant was
+required to file such reports), and (2) has been subject to such filing
+requirements for the past 90 days. [X] Yes [_] No
+
+Indicate by check mark whether the Registrant is an accelerated filer (as
+defined by Rule 12b-2 of the Exchange Act). [_] Yes [X] No
+
+ SHARES OUTSTANDING
+ ------------------
+ 4,544,012 shares of common stock, par value .01 per share, as of
+ December 31, 2003
+- --------------------------------------------------------------------------------
+ Page 1
+
+================================================================================
+
+TSR, INC. AND SUBSIDIARIES
+ INDEX
+
+Page
+ Number
+ ------
+Part I. Financial Information:
+
+Item 1. Financial Statements:
+
+ Condensed Consolidated Balance Sheets -
+ November 30, 2003 and May 31, 2003............... 3
+
+Condensed Consolidated Statements of Income -
+ For the three months and six months ended November
+ 30, 2003 and 2002................................ 4
+
+Condensed Consolidated Statements of Cash Flows -
+ For the three months and six months ended November
+ 30, 2003 and 2002................................ 5
+
+Notes to Condensed Consolidated Financial Statements.. 6
+
+ Item 2. Management's Discussion and Analysis of Financial
+ Condition and Results of Operations.............. 9
+
+ Item 3. Quantitative and Qualitative Disclosure About
+ Market Risk...................................... 14
+
+ Item 4. Procedures and Controls............................... 15
+
+Part II. Other Information............................................ 15
+
+ Item 6. Exhibits and Reports on Form 8-K.................... 15
+
+Signatures............................................................. 15
+
+Page 2
+
+Part I. Financial Information
+ Item 1. Financial Statements
+
+ TSR, INC. AND SUBSIDIARIES
+ CONDENSED CONSOLIDATED BALANCE SHEETS
+
+November 30, May 31,
+ASSETS 2003 2003
+ ------------ ------------
+ (Unaudited)
+ 
+Current Assets:
+ Cash and cash equivalents (Note 3) ............................... 6,450,366 5,063,098
+ Marketable securities (Note 5) ................................... 3,018,807 12,949,174
+ Accounts receivable (net of allowance for
+ doubtful accounts of 430,000) .............................. 9,370,298 9,238,037
+ Other receivables ................................................ 22,329 50,828
+ Prepaid expenses ................................................. 19,101 39,857
+ Prepaid and recoverable income taxes ............................. 96,020 60,739
+ Deferred income taxes ............................................ 180,000 180,000
+ ------------ ------------
+ Total current assets ........................................ 19,156,921 27,581,733
+
+Equipment and leasehold improvements, at cost (net of accumulated
+ depreciation and amortization of 721,000 and 708,000) .......... 13,833 24,955
+Other assets .......................................................... 49,653 50,804
+Deferred income taxes ................................................. 123,000 123,000
+Acquired client relationships, (net of accumulated amorization
+ of 128,706 and 100,105) ....................................... 42,902 71,503
+ ------------ ------------
+ 19,386,309 27,851,995
+ ============ ============
+
+LIABILITIES AND STOCKHOLDERS' EQUITY
+
+Current Liabilities:
+ Accounts and other payables ...................................... 130,426 230,632
+ Accrued expenses and other current liabilities ................... 2,008,318 2,286,282
+ Advances from customers .......................................... 1,576,223 1,793,496
+ Income taxes payable ............................................. 222,226 242,981
+ ------------ ------------
+ Total current liabilities ................................... 3,937,193 4,553,391
+ ------------ ------------
+
+Minority Interest ..................................................... 78,460 40,902
+ ------------ ------------
+
+Stockholders' Equity:
+ Preferred stock, 1 par value, authorized
+ 1,000,000 shares; none issued ............................... -- --
+ Common stock, .01 par value, authorized
+ 25,000,000 shares; issued 6,204,326 and 6,078,326 shares .... 62,043 60,783
+ Additional paid-in capital ....................................... 4,873,251 4,134,053
+ Retained earnings ................................................ 22,466,663 31,094,167
+ ------------ ------------
+ 27,401,957 35,289,003
+ Less: Treasury Stock, 1,660,314 shares, at cost .................. 12,031,301 12,031,301
+ ------------ ------------
+ 15,370,656 23,257,702
+ ------------ ------------
+
+ 19,386,309 27,851,995
+ ============ ============
+
+ The accompanying notes are an integral part of these condensed consolidated financial statements.
+ 
+ Page 3
+
+TSR, INC. AND SUBSIDIARIES
+ CONDENSED CONSOLIDATED STATEMENTS OF EARNINGS
+ FOR THE THREE AND SIX MONTHS ENDED NOVEMBER 30, 2003 AND 2002
+ (UNAUDITED)
+
+Three Months Ended Six Months Ended
+ November 30, November 30,
+ ---------------------------- ----------------------------
+ 2003 2002 2003 2002
+ ------------ ------------ ------------ ------------
+ 
+Revenues ......................................................... 12,996,626 13,859,074 25,733,445 27,539,840
+
+Cost of sales ................................................... 10,016,017 10,781,431 19,888,876 21,481,039
+Selling, general and administrative expenses ..................... 1,889,646 1,887,943 3,876,188 3,738,974
+ ------------ ------------ ------------ ------------
+ 11,905,663 12,669,374 23,765,064 25,220,013
+ ------------ ------------ ------------ ------------
+
+Income from operations .......................................... 1,090,963 1,189,700 1,968,381 2,319,827
+
+Other income:
+ Interest and dividend income ................................ 24,656 61,848 66,266 123,839
+ Unrealized gain (loss) from marketable securities, net ...... 3,367 4,749 10,033 (5,688)
+ Minority interest in subsidiary operating profits ........... (19,653) (14,834) (37,558) (16,742)
+ ------------ ------------ ------------ ------------
+
+Income before income taxes ....................................... 1,099,333 1,241,463 2,007,122 2,421,236
+Provision for income taxes ..................................... 461,000 532,000 865,000 1,048,000
+ ------------ ------------ ------------ ------------
+ Net income ................................................. 638,333 709,463 1,142,122 1,373,236
+ ============ ============ ============ ============
+
+Basic and diluted net income per common share .................... 0.14 0.16 0.25 0.31
+ ============ ============ ============ ============
+
+Weighted average number of common shares outstanding ............. 4,544,012 4,418,012 4,533,512 4,418,012
+ ============ ============ ============ ============
+
+Weighted average number of diluted common shares outstanding ..... 4,551,732 4,418,012 4,541,286 4,418,012
+ ============ ============ ============ ============
+
+The accompanying notes are an integral part of these condensed consolidated financial statements.
+
+Page 4
+
+TSR, INC. AND SUBSIDIARIES
+ CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS
+ FOR THE SIX MONTHS ENDED NOVEMBER 30, 2003 AND 2002
+ (UNAUDITED)
+
+Six Months Ended
+ November 30,
+ ---------------------------------
+ 2003 2002
+ ------------ ------------
+ 
+Cash flows from operating activities:
+ Net income ............................................................... 1,142,122 1,373,236
+
+ Adjustments to reconcile net income
+ to net cash provided by (used in) operating activities:
+ Depreciation and amortization ......................................... 41,490 69,010
+ Unrealized loss (gain) from marketable securities, net ................. (10,033) 5,688
+ Non-cash compensation expense ......................................... 43,520 --
+ Minority interest in subsidiary operating profit ..................... 37,558 16,742
+
+Changes in assets and liabilities:
+ Accounts receivable ................................................. (132,261) (1,158,648)
+ Other receivables ................................................... 28,499 295
+ Prepaid expenses ..................................................... 20,756 15,861
+ Prepaid and recoverable income taxes ................................ (35,281) 50,500
+ Other assets ........................................................ 1,151 2,095
+ Accounts payable and accrued expenses ................................ (378,170) (476,808)
+ Income taxes payable ................................................. (20,755) 7,641
+ Advances from customers ............................................. (217,273) (161,805)
+ ------------ ------------
+
+ Net cash provided by (used in) operating activities ....................... 521,323 (256,193)
+ ------------ ------------
+
+Cash flows from investing activities:
+ Proceeds from maturities and sales of marketable securities ............ 12,925,210 8,915,150
+ Purchases of marketable securities ..................................... (2,984,810) (8,937,559)
+ Purchases of fixed assets ............................................. (1,767) --
+ ------------ ------------
+
+ Net cash provided by (used in) investing activities ........................ 9,938,633 (22,409)
+ ------------ ------------
+
+Cash flows from financing activities:
+ Proceeds from exercise of stock options ............................... 696,938 --
+ Cash dividends paid .................................................... (9,769,626) --
+ ------------ ------------
+ Net cash used in financing activities ..................................... (9,072,688) --
+ ------------ ------------
+
+Net increase (decrease) in cash and cash equivalents ........................... 1,387,268 (278,602)
+Cash and cash equivalents at beginning of period ............................... 5,063,098 5,793,896
+ ------------ ------------
+
+Cash and cash equivalents at end of period ..................................... 6,450,366 5,515,294
+ ============ ============
+
+Supplemental Disclosures:
+ Income tax payments ..................................................... 921,000 990,000
+ ============ ============
+
+The accompanying notes are an integral part of these condensed consolidated financial statements.
+ 
+ Page 5
+
+TSR, INC. AND SUBSIDIARIES
+ NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+ NOVEMBER 30, 2003
+ (UNAUDITED)
+
+1. Basis of Presentation
+ ---------------------
+ The accompanying condensed consolidated interim financial statements
+ include the accounts of TSR, Inc. and its subsidiaries (the "Company"). All
+ significant inter-company balances and transactions have been eliminated in
+ consolidation. These interim financial statements have been prepared in
+ accordance with accounting principles generally accepted in the United
+ States of America applying to interim financial information and with the
+ instructions to Form 10-Q of Regulation S-X of the Securities and Exchange
+ Commission. Accordingly, certain information and footnote disclosures
+ required by accounting principles generally accepted in the United States
+ of America and normally included in the Company's annual financial
+ statements have been condensed or omitted. These interim financial
+ statements as of and for the six months ended November 30, 2003, are
+ unaudited; however, in the opinion of management, such statements include
+ all adjustments (consisting of normal recurring accruals) necessary to
+ present fairly the consolidated financial position, results of operations,
+ and cash flows of the Company for the periods presented. The results of
+ operations for the interim periods presented are not necessarily indicative
+ of the results that might be expected for future interim periods or for the
+ full year ending May 31, 2004. These interim financial statements should be
+ read in conjunction with the Company's consolidated financial statements
+ and notes thereto included in the Company's Annual Report on Form 10-K for
+ the year ended May 31, 2003.
+
+2. Net Income Per Common Share
+ ---------------------------
+ Basic net income per common share is computed by dividing income available
+ to common stockholders (which for the Company equals its net income) by the
+ weighted average number of common shares outstanding, and diluted net
+ income per common share adds the dilutive effect of stock options and other
+ common stock equivalents. Options covering 26,280 and 26,226 shares of
+ common stock have been omitted from the calculations of diluted net income
+ per common share for the three and six month periods ended November 30,
+ 2003 respectively, as their effect would have been antidilutive. Options
+ covering 160,000 shares of common stock have been omitted for the
+ calculation of diluted net income per common shares for the three and six
+ month periods ended November 30, 2002 as their effect would have been
+ antidilutive.
+
+3 Cash and Cash Equivalents
+ -------------------------
+ The Company considers short-term highly liquid investments with maturities
+ of three months or less at the time of purchase to be cash equivalents.
+ Cash and cash equivalents were comprised of the following as of November
+ 30, 2003:
+
+ Cash in banks ..................... 769,009
+ Money Market Funds ................ 3,686,032
+ US Treasury Funds ................. 1,995,325
+ ----------
+ 6,450,366
+ ==========
+4. Revenue Recognition
+ -------------------
+ The Company's contract computer programming services are generally provided
+ under time and materials agreements with customers. Accordingly, the
+ Company recognizes such revenues as services are provided. Advances from
+ customers represent amounts received from customers prior to the Company's
+ provision of the related services and credit balances from overpayments.
+
+ Page 6
+
+TSR, INC. AND SUBSIDIARIES
+ NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS, CONTINUED
+ NOVEMBER 30, 2003
+ (UNAUDITED)
+
+5. Marketable Securities
+ ---------------------
+ The Company accounts for its marketable securities in Accordance with
+ Statement of Financial Accounting Standards No. 115 "Accounting for Certain
+ Investments in Debt and Equity Securities." Accordingly, the Company
+ classifies its marketable securities at acquisition as either (i)
+ held-to-maturity, (ii) trading, or (iii) available-for-sale. Based upon the
+ Company's intent and ability to hold its US Treasury securities to maturity
+ (which maturities range between three months and two years), such
+ securities have been classified as held-to -maturity and are carried at
+ amortized cost. The Company's equity securities are classified as trading
+ securities, which are carried at fair value with unrealized gains and
+ losses included in earnings. The Company's marketable securities are
+ summarized as follows:
+
+Gross Gross
+ Unrealized Unrealized
+ Amortized Holding Holding Fair
+ Cost Gains Losses Value
+ ----------- ----------- ----------- -----------
+ 
+ United States Treasury Securities ..... 2,988,008 -- -- 2,988,008
+ Equity Securities ..................... 28,287 9,965 (7,453) 30,799
+ ----------- ----------- ----------- -----------
+ 3,016,295 9,965 (7,453) 3,018,807
+ =========== =========== =========== ===========
+
+6. Recent Accounting Pronouncements
+ --------------------------------
+ In January 2003, the FASB issued Interpretation No. 46 "Consolidation of
+ Variable Interest Entities" ("Interpretation 46"). Interpretation 46
+ clarifies the application of Accounting Research Bulletin No. 54
+ "Consolidated Financial Statements", and applies immediately to any
+ variable interest entities created after January 31, 2003 and to variable
+ interest entities in which an interest is obtained after the date. The
+ Company holds no interest in variable interest entities.
+
+Page 7
+
+TSR, INC. AND SUBSIDIARIES
+ NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS, CONTINUED
+ NOVEMBER 30, 2003
+ (UNAUDITED)
+
+7. Stock Options
+ -------------
+ On July 28, 2003 the Company paid a large nonrecurring cash dividend of
+ 2.00 per share to shareholders of record as of July 11, 2003. The dividend
+ paid amounted to 9,088,024. Guidance under Emerging Issues Task Force
+ (EITF) 00-23, ISSUES RELATED TO THE ACCOUNTING FOR STOCK COMPENSATION UNDER
+ APB OPINION NO.25 AND FASB INTERPRETATION NO.44, requires modification for
+ outstanding stock options by adjusting the price and/or the number of
+ shares under a fixed stock option award as a result of a large nonrecurring
+ cash dividend. The Company did not adjust the terms of any outstanding
+ stock options and, given the circumstances, a new measurement date and
+ variable accounting treatment was required for its outstanding options at
+ the dividend payment date. The Company had 34,000 such outstanding options,
+ all of which were vested, as of November 30, 2003 which are now subject to
+ variable accounting treatment. Accordingly, the Company recorded a non-cash
+ compensation charge for 43,520 for the six months ended November 30, 2003
+ and will continue to adjust the compensation charge associated with these
+ options through the earlier of their exercise, forfeiture or expiration
+ dates.
+
+ The Company has one stock-based employee compensation plan in effect. The
+ Company accounts for all transactions under which employees receive shares
+ of stock or other equity instruments in the Company based on the price of
+ its stock in accordance with the provisions of Accounting Principles Board
+ Opinion No. 25, ACCOUNTING FOR STOCK ISSUED TO EMPLOYEES. All options
+ granted under the plan had an exercise price equal to the market value of
+ the underlying common stock, and the number of shares represented by such
+ options were known and fixed, on the date of grant. However, as a result of
+ the large nonrecurring cash dividend, the remaining outstanding 34,000
+ options are now treated as variable options. The following table
+ illustrates the effect on net income and earnings per share if the Company
+ had applied the fair value recognition provisions of Statement of Financial
+ Accounting Standards (SFAS) No. 123 ACCOUNTING FOR STOCK-BASED
+ COMPENSATION.
+
+Quarter Ended November 30, Six Months Ended November 30,
+ ---------------------------- ----------------------------
+ 2003 2002 2003 2002
+ ------------ ------------ ------------ ------------
+ 
+ Net income:
+ As reported ........................... 638,333 709,463 1,142,122 1,373,236
+ Deduct: Total stock-based employee
+ compensation expense determined under
+ fair value method for all awards, net
+ of minority interest and related tax
+ effects
+ Proforma net income ............ -- (3,463) -- (7,236)
+ ------------ ------------ ------------ ------------
+ 638,333 706,000 1,142,122 1,366,000
+ ============ ============ ============ ============
+
+ Basic net income per share:
+ As reported ........................... 0.14 0.16 0.25 0.31
+ ============ ============ ============ ============
+ Proforma ................................ 0.14 0.16 0.25 0.31
+ ============ ============ ============ ============
+
+There were no options granted in fiscal 2004 and 2003.
+
+Page 8
+
+PART I. FINANCIAL INFORMATION
+ ITEM 2.
+
+ TSR, INC. AND SUBSIDIARIES
+ MANAGEMENT'S DISCUSSION AND ANALYSIS
+ OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+
+The following discussion and analysis should be read in conjunction with the
+condensed consolidated financial statements and the notes to such financial
+statements.
+
+Forward-Looking Statements
+- --------------------------
+Certain statements contained in Management's Discussion and Analysis of
+Financial Condition and Results of Operations, including statements concerning
+the Company's future prospects and the Company's future cash flow requirements
+are forward looking statements, as defined in the Private Securities Litigation
+Reform Act of 1995. Actual results may differ materially from those projections
+in the forward looking statements which statements involve risks and
+uncertainties, including but not limited to the following: risks relating to the
+competitive nature of the markets for contract computer programming services;
+the extent to which market conditions for the Company's contract computer
+consulting services will continue to adversely affect the Company's business;
+the concentration of the Company's business with certain customers; uncertainty
+as to the Company's ability to maintain its relations with existing customers
+and expand its contract computer consulting services business; the impact of
+changes in the industry, such as the use of vendor management companies in
+connection with the consulting procurement process and the increase in customers
+moving IT operations offshore, and other risks and uncertainties set forth in
+the Company's filings with the Securities and Exchange Commission.
+
+Results of Operations
+- ---------------------
+The following table sets forth for the periods indicated certain financial
+information derived from the Company's condensed consolidated statements of
+earnings. There can be no assurance that trends in operating results will
+continue in the future:
+
+Three months ended November 30, 2003 compared with three months ended November
+- ------------------------------------------------------------------------------
+30, 2002
+- --------
+ 
+ Three Months Ended
+ November 30,
+ (Dollar amounts in Thousands)
+ 2003 2002
+ --------------------- ---------------------
+ of of
+ Amount Revenues Amount Revenues
+ -------- -------- -------- --------
+ 
+Revenues ................................................. 12,997 100.0 13,859 100.0
+Cost of sales ............................................ 10,016 77.1 10,781 77.8
+ -------- -------- -------- --------
+Gross profit ............................................. 2,981 22.9 3,078 22.2
+
+Selling, general, and administrative expenses ............ 1,890 14.5 1,888 13.6
+ -------- -------- -------- --------
+Income from operations ................................... 1,091 8.4 1,190 8.6
+
+Other income ............................................. 8 0.0 51 0.3
+ -------- -------- -------- --------
+Income before income taxes ............................... 1,099 8.4 1,241 8.9
+Provision for income taxes ............................... 461 3.5 532 3.8
+ -------- -------- -------- --------
+Net income ............................................... 638 4.9 709 5.1
+ ======== ======== ======== ========
+
+Page 9
+
+TSR, INC. AND SUBSIDIARIES
+
+Revenues
+- --------
+Revenues consist primarily of revenues from computer programming consulting
+services. Revenues for the quarter ended November 30, 2003 decreased 862,000 or
+6.2 from the comparable period in fiscal 2003. Due to the continuing weak
+economic environment, almost all of our customers have severely cut back on
+their IT spending during the past few years. This has limited our opportunities
+to place new consultants on billing and decreased demand for new consultants. In
+addition, we are also seeing an increasing use of offshore development companies
+which also decreases demand for placements. As a result of decreased demand,
+there has been an overall industry wide decrease in rates charged for computer
+programming services. The Company has recently experienced a slight increase in
+the average number of consultants on billing from approximately 365 for the
+quarter ended November 30, 2002 to 389 for the quarter ended November 30, 2003.
+We cannot yet determine whether the increase in the number of consultants will
+continue. Further, due to the decrease in the rates charged for the Company's
+services, revenues declined.
+
+Cost of Sales
+- -------------
+Cost of sales for the quarter ended November 30, 2003, decreased 765,000 or
+7.1 to 10,016,000 from 10,781,000 in the prior year period. Cost of sales as
+a percentage of revenues decreased from 77.8 in the quarter ended November 30,
+2002 to 77.1 in the quarter ended November 30, 2003. These decreases are
+primarily attributable to the Company's ability to reduce rates paid to
+consultants in response to decreases in rates charged to the Company's
+customers. The reduction in rates paid to the Company's consultants was not
+sufficient to fully offset the decreases in rates paid by the Company's
+customers even after taking into account the small increase in consultants on
+billing.
+
+Selling, General and Administrative Expenses
+- --------------------------------------------
+Selling, general and administrative expenses consist primarily of expenses
+relating to account executives, technical recruiters, facilities costs,
+management and corporate overhead. These expenses increased 2,000 or 0.1 from
+ 1,888,000 in the quarter November 30, 2002 to 1,890,000 in the quarter ended
+November 30, 2003. This increase was primarily attributable to increased
+technical recruiting and legal expenses. The increased legal expenses primarily
+relate to one employment-related litigation brought by one of the Company's
+consultants and are expected to continue.
+
+Other Income
+- ------------
+Other income resulted primarily from interest and dividend income, which
+decreased by 37,000 to 25,000 due to lower interest rates and lower investable
+balances in the quarter ended November 30, 2003. Additionally, the Company had a
+net unrealized gain of 3,000 in the quarter ended November 30, 2003 versus a
+gain of 5,000 in the quarter ended November 30, 2002 from marketable securities
+due to mark to market adjustments of its trading securities equity portfolio.
+
+Income Taxes
+- ------------
+The effective income tax rate of 41.9 for the quarter ended November 30, 2003
+decreased from a rate of 42.9 in the quarter ended November 30, 2002.
+
+Page 10
+
+TSR, INC. AND SUBSIDIARIES
+
+Six months ended November 30, 2003 compared with six months ended November 30,
+- ------------------------------------------------------------------------------
+2002
+- ----
+
+Six Months Ended
+ November 30,
+ (Dollar amounts in Thousands)
+ 2003 2002
+ --------------------- ---------------------
+ of of
+ Amount Revenues Amount Revenues
+ -------- -------- -------- --------
+ 
+Revenues ................................................. 25,733 100.0 27,540 100.0
+Cost of sales ............................................ 19,889 77.3 21,481 78.0
+ -------- -------- -------- --------
+Gross profit ............................................. 5,844 22.7 6,059 22.0
+
+Selling, general, and administrative expenses ............ 3,876 15.1 3,739 13.6
+ -------- -------- -------- --------
+Income from operations ................................... 1,968 7.6 2,320 8.4
+
+Other income ............................................. 39 0.2 101 0.4
+ -------- -------- -------- --------
+Income before income taxes ............................... 2,007 7.8 2,421 8.8
+Provision for income taxes ............................... 865 3.4 1,048 3.8
+ -------- -------- -------- --------
+Net income ............................................... 1,142 4.4 1,373 5.0
+ ======== ======== ======== ========
+
+Revenues
+- --------
+Revenues consist primarily of revenues from computer programming consulting
+services. Revenues for the six months ended November 30, 2003 decreased
+ 1,807,000 or 6.6 from the comparable period in fiscal 2003. Due to the
+continuing weak economic environment, almost all of our customers have
+significantly cut back on their IT spending during the past year. This has
+limited our opportunities to place new consultants on billing and decreased
+demand for new consultants. In addition, we are also seeing an increasing use of
+offshore development companies which also decreases the demand for placements.
+As a result of decreased demand, there has been an overall industry wide
+decrease in rates charged for computer processing services. The Company has
+recently experienced a slight increase in the average number of programmers on
+billing with clients from approximately 360 during the six months ended November
+30, 2002 to approximately 380 during the six months ended November 30, 2003. We
+cannot yet determine whether the increase in the number of consultants will
+continue. Further, due to the decrease in rates charged for the Company's
+services, revenues declined.
+
+Cost of Sales
+- -------------
+Cost of sales for the six months ended November 30, 2003, decreased 1,592,000
+or 7.4 to 19,889,000 from 21,481,000 in the prior year period. Cost of sales
+as a percentage of revenues decreased from 78.0 in the six months ended
+November 30, 2002 to 77.3 in the six months ended November 30, 2003. These
+decreases are primarily attributable to the Company's ability to reduce rates
+paid to consultants in regard to decreases in rates charged to the Company's
+customers. The reduction in rates paid to the Company's consultants was not
+sufficient to fully offset the decreases in rates paid by the Company's
+customers, even after taking into account the small increase in consultants on
+billing.
+
+Page 11
+
+TSR, INC. AND SUBSIDIARIES
+
+Selling, General and Administrative Expenses
+- --------------------------------------------
+Selling, general and administrative expenses consist primarily of expenses
+relating to account executives, technical recruiters, facilities costs,
+management and corporate overhead. These expenses increased 137,000 or 3.7 
+from 3,739,000 in the six months ended November 30, 2002 to 3,876,000 in the
+six months ended November 30, 2003. This increase was primarily attributable to
+increased technical recruiting and legal expenses. The increased legal expenses
+primarily related to one employment-related litigation brought by one of the
+Company's consultants and are expected to continue.
+
+Other Income
+- ------------
+Other income resulted primarily from interest and dividend income, which
+decreased by 58,000 to 66,000 due to lower interest rates and lower investable
+balances in the six months ended November 30, 2003. Additionally, the Company
+also had a net unrealized gain of 10,000 in the six months ended November 30,
+2003 versus a net unrealized loss of 6,000 in the six months ended November 30,
+2002 from marketable securities due to mark to market adjustments of its trading
+securities equity portfolio. Other income also decreased due to an increase in
+the minority interest allocation of operating profits of the Company's majority
+owned subsidiary. Operating profits in that subsidiary increased from 84,000 in
+the six months ended November 30, 2002 to 188,000 in the six months ended
+November 30, 2003.
+
+Income Taxes
+- ------------
+The effective income tax rate of 43.1 for the six months ended November 30,
+2003 decreased from a rate of 43.3 in the six months ended November 30, 2002.
+
+Page 12
+
+TSR, INC. AND SUBSIDIARIES
+
+Liquidity and Capital Resources
+- -------------------------------
+The Company expects that cash flow generated from operations together with its
+cash and marketable securities will be sufficient to provide the Company with
+adequate resources to meet its liquidity requirements for the foreseeable
+future.
+
+At November 30, 2003, the Company had working capital of 15,220,000 and cash
+and cash equivalents of 6,450,000 as compared to working capital of 23,028,000
+and cash and cash equivalents of 5,063,000 at May 31, 2003. Working capital
+decreased primarily due to the large nonrecurring cash dividend of 2.00 per
+share, totalling 9,088,024, paid in the current six month period. The Company
+has also announced a policy of declaring dividends at the rate of 0.15 per
+quarter for its 2004 fiscal year. The Company also announced that the Company
+intends to maintain an ongoing dividend rate of 0.15 beyond the fiscal year
+provided it is able to maintain cash flow from operations at current levels.
+During the six month period ended November 30, 2003, the Company paid 681,602
+in regular quarterly dividends. The dividends being paid during the Company's
+2004 fiscal year have exceeded, and are expected to continue to exceed, the cash
+flow provided by the Company's operations. The Company has disposed of
+short-term marketable securities to meet these cash requirements.
+
+Net cash provided by operating activities amounted to 521,000 for the six
+months ended November 30, 2003, compared to cash used of 256,000 for the six
+months ended November 30, 2002. The cash provided by operating activities
+resulted primarily from the Company's net income. The cash used in the prior
+fiscal year resulted primarily from an increase in accounts receivables. The
+prior year increase in accounts receivable resulted primarily from delayed
+collections at two major accounts. The delay at one account occurred because of
+the implementation of a vendor management system and the delay at the other
+account was due to a change in the head of the IT department.
+
+Net cash provided by investing activities amounted to 9,939,000 for the six
+months ended November 30, 2003, primarily resulted from allowing U.S. Treasury
+Bills to mature and not being reinvested.
+
+Net cash used in financing activities resulted primarily for the payment of cash
+dividends of 9,770,000 offset, to some extent, by the proceeds received from
+the exercise of stock options in the amount of 697,000.
+
+The Company's capital resource commitments at November 30, 2003 consisted of
+lease obligations on its branch and corporate facilities. The Company intends to
+finance these lease commitments from cash flow provided by operations, available
+cash and short-term marketable securities. A summary of non-cancelable long-term
+operating lease commitments as of November 30, 2003 follows:
+
+FY 04 FY 05 FY 06 FY 07 Thereafter Total
+ 
+ Operating Leases 172,000 349,000 170,000 101,000 17,000 809,000
+
+The Company's cash and marketable securities were sufficient to enable it to
+meet its cash requirements during the six months ended November 30, 2003. The
+Company has available a revolving line of credit of 5,000,000 with a major
+money center bank through October 6, 2005. As of November 30, 2003, no amounts
+were outstanding under this line of credit.
+
+Recent Accounting Pronouncements
+- --------------------------------
+In January 2003, the FASB issued Interpretation No. 46 "Consolidation of
+Variable Interest Entities" ("Interpretation 46"). Interpretation 46 clarifies
+the application of Accounting Research Bulletin No. 54 "Consolidated Financial
+Statements", and applies immediately to any variable interest entities created
+after January 31, 2003 and to variable interest entities in which an interest is
+obtained after the date. The Company holds no interest in variable interest
+entities.
+
+ Page 13
+
+TSR, INC. AND SUBSIDIARIES
+
+Critical Accounting Policies
+- ----------------------------
+The Securities and Exchange Commission ("SEC") issued disclosure guidance for
+"critical accounting policies." The SEC defines "critical accounting policies"
+as those that require the application of management's most difficult, subjective
+or complex judgments, often as a result of the need to make estimates about the
+effect of matters that are inherently uncertain and may change in subsequent
+periods.
+
+The Company's significant accounting policies are described in Note 1 to the
+Company's consolidated financial statements, contained in its May 31, 2003
+Annual Report on Form 10-K, as filed with the SEC. The Company believes that the
+following accounting policies require the application of management's most
+difficult, subjective or complex judgments:
+
+ESTIMATING ALLOWANCES FOR DOUBTFUL ACCOUNTS RECEIVABLE
+We perform ongoing credit evaluations of our customers and adjust credit limits
+based upon payment history and the customer's current credit worthiness, as
+determined by our review of their current credit information. We continuously
+monitor collections and payments from our customers and maintain a provision for
+estimated credit losses based upon our historical experience and any specific
+customer collection issues that we have identified. While such credit losses
+have historically been within our expectations and the provisions established,
+we cannot guarantee that we will continue to experience the same credit loss
+rates that we have in the past. A significant change in the liquidity or
+financial position of any of our significant customers could have a material
+adverse effect on the collectibility of our accounts receivable and our future
+operating results.
+
+VALUATION OF DEFERRED TAX ASSETS
+We regularly evaluate our ability to recover the reported amount of our deferred
+income taxes considering several factors, including our estimate of the
+likelihood of the Company generating sufficient taxable income in future years
+during the period over which temporary differences reverse. Presently, the
+Company believes that it is more likely than not that it will realize the
+benefits of its deferred tax assets based primarily on the Company's history of
+and projections for taxable income in the future. In the event that actual
+results differ from our estimates or we adjust these estimates in future
+periods, we may need to establish a valuation allowance against a portion or all
+of our deferred tax assets, which could materially impact our financial position
+or results of operations.
+
+VALUATION OF LONG-LIVED AND INTANGIBLE ASSETS
+We assess the recoverability of long-lived assets and intangible assets whenever
+we determine that events or changes in circumstances indicate that their
+carrying amount may not be recoverable. Our assessment is primarily based upon
+our estimate of future cash flows associated with these assets. Although there
+has been a sustained weakness in our operating results, through November 30,
+2003, we have continued to generate net income. Accordingly, we have not
+determined that there has been an indication of impairment of any of our assets.
+However, should our operating results deteriorate, we may determine that some
+portion of our long-lived assets or intangible assets are impaired. Such
+determination could result in non-cash charges to income that could materially
+affect our financial position or results of operations for that period.
+
+Item 3. Quantitative and Qualitative Disclosure About Market Risk
+ ---------------------------------------------------------
+The Company's earnings and cash flows are subject to fluctuations due to (i)
+changes in interest rates primarily affecting its income from the investment of
+available cash balances in money market funds and (ii) changes in market values
+of its investments in trading equity securities. Under its current policies, the
+Company does not use interest rate derivative instruments to manage exposure to
+interest rate changes. The Company's present exposure to changes in the market
+value of its investments in equity securities is not significant.
+
+Page 14
+
+TSR, INC. AND SUBSIDIARIES
+
+Item 4. Controls and Procedures
+ -----------------------
+
+DISCLOSURE CONTROLS AND PROCEDURES. The Company conducted an evaluation, under
+the supervision and with the participation of the principal executive officer
+and principal financial officer, of the Company's disclosure controls and
+procedures (as defined in Rule 13a-15(e) under the Securities Exchange Act of
+1934 (the "Exchange Act")). Based on this evaluation, the principal executive
+officer and principal financial officer concluded that, as of the end of the
+period covered by this report, the Company's disclosure controls and procedures
+are effective.
+
+INTERNAL CONTROL OVER FINANCIAL REPORTING. There was no change in the Company's
+internal control over financial reporting (as such term is defined in Rule
+13a-15(f) under the Exchange Act) during the Company's most recently reported
+completed fiscal quarter that has materially affected, or is reasonably likely
+to materially affect, the Company's internal control over financial reporting.
+
+Part II. Other Information
+
+Item 6. Exhibits and Reports on Form 8K
+ -------------------------------
+
+ (a). Exhibit 31.1 - Certification by J.F. Hughes pursuant to 18
+ U.S.C. Section 1350, as adopted pursuant to Section 302 of the
+ Sarbanes-Oxley Act of 2002.
+
+ Exhibit 31.2 - Certification by John G. Sharkey pursuant to 18
+ U.S.C. Section 1350, as adopted pursuant to Section 302 of the
+ Sarbanes-Oxley Act of 2002.
+
+ Exhibit 32.1 - Certification by J.F. Hughes pursuant to 18
+ U.S.C. Section 1350, as adopted pursuant to Section 906 of the
+ Sarbanes-Oxley Act of 2002.
+
+ Exhibit 32.2 - Certification by John G. Sharkey pursuant to 18
+ U.S.C. Section 1350, as adopted pursuant to Section 906 of the
+ Sarbanes-Oxley Act of 2002.
+
+ (b). Reports on Form 8K:
+
+ - On September 29, 2003 the Company furnished a Form 8-K
+ announcing financial results for the quarter ended August
+ 31, 2003.
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the
+Registrant has duly caused this report to be signed on its behalf by the
+undersigned thereunto duly authorized.
+
+ TSR, Inc.
+ -----------------------
+ (Registrant)
+
+Date: January 6, 2004 /s/ J.F. Hughes
+ ----------------------------------------------
+ J.F. Hughes, Chairman, President and Treasurer
+
+Date: January 6, 2004 /s/ John G. Sharkey
+ ----------------------------------------------
+ John G. Sharkey, Vice President Finance
+
+ Page 15
+
+<EX-31.1>
+ 3
+ exh31-1_12403.txt
+ SECTION 302 CERTIFICATION OF EXECUTIVE OFFICER
+ 
+ EXHIBIT 31.1
+ ------------
+
+CERTIFICATION PURSUANT TO 18 U.S.C. SECTION 1350, AS ADOPTED PURSUANT TO SECTION
+302 OF THE SARBANES-OXLEY ACT OF 2002
+
+ I, J.F. Hughes, Chairman of the Board, Chief Executive Officer and
+Director, certify that:
+
+1. I have reviewed this Quarterly Report on Form 10-Q of TSR, Inc.;
+
+2. Based on my knowledge, this Quarterly Report does not contain any untrue
+ statement of a material fact or omit to state a material fact necessary to
+ make the statements made, in light of the circumstances under which such
+ statements were made, not misleading with respect to the period covered by
+ this Quarterly Report;
+
+3. Based on my knowledge, the financial statements, and other financial
+ information included in this Quarterly Report, fairly present in all
+ material respects the financial condition, results of operations and cash
+ flows of the registrant as of, and for, the periods presented in this
+ Quarterly Report;
+
+4. The registrant's other certifying officers and I are responsible for
+ establishing and maintaining disclosure controls and procedures (as defined
+ in Exchange Act Rules 13a-14 and 15d-14) for the registrant and we have:
+
+ a. designed such disclosure controls and procedures or caused such
+ disclosure controls and procedures to be designed under our
+ supervision, to ensure that material information relating to the
+ registrant, including its consolidated subsidiaries, is made known to
+ us by others within those entities, particularly during the period in
+ which this Quarterly Report is being prepared;
+
+ b. evaluated the effectiveness of the registrant's disclosure controls
+ and procedures and presented in this Quarterly Report our conclusions
+ about the effectiveness of the disclosure controls and procedures as
+ of the end of the period covered by this Quarterly Report based on
+ such evaluation;
+
+ c. disclosed in this Quarterly Report any change in registrants
+ disclosure controls that occurred during the registrant's fourth
+ fiscal quarter that materially affected, or is reasonably likely to
+ materially affect, the registrant's internal controls; and
+
+5. The registrant's other certifying officers and I have disclosed, based on
+ our most recent evaluation, to the registrant's auditors and the audit
+ committee of registrant's board of directors (or persons performing the
+ equivalent function):
+
+ a. all significant deficiencies or material weaknesses in the design or
+ operation of internal controls which are reasonably likely to
+ adversely affect the registrant's ability to record, process,
+ summarize and report financial data; and
+
+ b. any fraud, whether or not material, that involves management or other
+ employees who have a significant role in the registrant's internal
+ controls.
+
+Date: January 6, 2004
+
+/s/ J.F. Hughes
+- ---------------------------------------
+Chairman of the Board,
+Chief Executive Officer
+and Director
+
+</EX-31.1>
+
+<EX-31.2>
+ 4
+ exh31-2_12403.txt
+ SECTION 302 CERTIFICATION OF EXECUTIVE OFFICER
+ 
+ EXHIBIT 31.2
+ ------------
+
+CERTIFICATION PURSUANT TO 18 U.S.C. SECTION 1350, AS ADOPTED PURSUANT TO SECTION
+302 OF THE SARBANES-OXLEY ACT OF 2002
+
+ I, John G. Sharkey, Vice President-Finance and Chief Financial Officer,
+certify that:
+
+1. I have reviewed this Quarterly Report on Form 10-Q of TSR, Inc.;
+
+2. Based on my knowledge, this Quarterly Report does not contain any untrue
+ statement of a material fact or omit to state a material fact necessary to
+ make the statements made, in light of the circumstances under which such
+ statements were made, not misleading with respect to the period covered by
+ this Quarterly Report;
+
+3. Based on my knowledge, the financial statements, and other financial
+ information included in this Quarterly Report, fairly present in all
+ material respects the financial condition, results of operations and cash
+ flows of the registrant as of, and for, the periods presented in this
+ Quarterly Report;
+
+4. The registrant's other certifying officers and I are responsible for
+ establishing and maintaining disclosure controls and procedures (as defined
+ in Exchange Act Rules 13a-14 and 15d-14) for the registrant and we have:
+
+ a. designed such disclosure controls and procedures or caused such
+ disclosure controls and procedures to be designed under our
+ supervision, to ensure that material information relating to the
+ registrant, including its consolidated subsidiaries, is made known to
+ us by others within those entities, particularly during the period in
+ which this Quarterly Report is being prepared;
+
+ b. evaluated the effectiveness of the registrant's disclosure controls
+ and procedures and presented in this Quarterly Report our conclusions
+ about the effectiveness of the disclosure controls and procedures as
+ of the end of the period covered by this Quarterly Report based on
+ such evaluation;
+
+ c. disclosed in this Quarterly Report any change in registrants
+ disclosure controls that occurred during the registrant's fourth
+ fiscal quarter that materially affected, or is reasonably likely to
+ materially affect, the registrant's internal controls; and
+
+5. The registrant's other certifying officers and I have disclosed, based on
+ our most recent evaluation, to the registrant's auditors and the audit
+ committee of registrant's board of directors (or persons performing the
+ equivalent function):
+
+ a. all significant deficiencies or material weaknesses in the design or
+ operation of internal controls which are reasonably likely to
+ adversely affect the registrant's ability to record, process,
+ summarize and report financial data; and
+
+ b. any fraud, whether or not material, that involves management or other
+ employees who have a significant role in the registrant's internal
+ controls.
+
+Date: January 6, 2004
+
+/s/ John G. Sharkey
+ ----------------------------
+Vice President-Finance
+and Chief Financial Officer
+
+</EX-31.2>
+
+<EX-32.1>
+ 5
+ exh32-1_12403.txt
+ SECTION 906 CERTIFICATION OF EXECUTIVE OFFICER
+ 
+ EXHIBIT 32.1
+ ------------
+
+CERTIFICATION PURSUANT TO 18 U.S.C. SECTION 1350, AS ADOPTED PURSUANT TO SECTION
+906 OF THE SARBANES-OXLEY ACT OF 2002
+
+In connection with the Quarterly Report of TSR, Inc. (the "Company") on Form
+10-Q for the period ended November 30, 2003 as filed with the Securities and
+Exchange Commission on the date hereof (the "Report"), I, J.F. Hughes, Chief
+Executive Officer of the Company, certify, pursuant to 18 U.S.C. Section 1350,
+as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002, that:
+
+1. The Report fully complies with the requirements of Section 13(a) or 15(d)
+ of the Securities Exchange Act of 1934; and
+
+2. The information contained in the Report fairly presents, in all material
+ respects, the financial condition and result of operations of the Company.
+
+The forgoing certification is incorporated solely for the purposes of complying
+with the provisions of Section 906 of the Sarbanes-Oxley Act and is not intended
+to be used for any other purpose.
+
+/s/ J.F. Hughes
+ ---------------------------------------
+Chairman of the Board,
+Chief Executive Officer
+and Director
+January 6, 2004
+
+</EX-32.1>
+
+<EX-32.2>
+ 6
+ exh32-2_12403.txt
+ SECTION 906 CERTIFICATION OF EXECUTIVE OFFICER
+ 
+ EXHIBIT 32.2
+ ------------
+
+CERTIFICATION PURSUANT TO 18 U.S.C. SECTION 1350, AS ADOPTED PURSUANT TO
+SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002
+
+In connection with the Quarterly Report of TSR, Inc. (the "Company") on Form
+10-Q for the period ended November 30, 2003 as filed with the Securities and
+Exchange Commission on the date hereof (the "Report"), I, John G. Sharkey, Chief
+Financial Officer of the Company, certify, pursuant to 18 U.S.C. Section 1350,
+as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002, that:
+
+1. The Report fully complies with the requirements of Section 13(a) or 15(d)
+ of the Securities Exchange Act of 1934; and
+
+2. The information contained in the Report fairly presents, in all material
+ respects, the financial condition and result of operations of the Company.
+
+The forgoing certification is incorporated solely for the purposes of complying
+with the provisions of Section 906 of the Sarbanes-Oxley Act and is not intended
+to be used for any other purpose.
+
+/s/ John G. Sharkey
+ ----------------------------
+
+Vice President-Finance and
+Chief Financial Officer
+January 6, 2004
+
+</EX-32.2>
+

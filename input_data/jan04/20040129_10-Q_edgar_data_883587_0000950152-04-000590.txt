@@ -1,0 +1,1637 @@
+<Header>
+<FileStats>
+    <FileName>20040129_10-Q_edgar_data_883587_0000950152-04-000590.txt</FileName>
+    <GrossFileSize>96699</GrossFileSize>
+    <NetFileSize>62759</NetFileSize>
+    <NonText_DocumentType_Chars>0</NonText_DocumentType_Chars>
+    <HTML_Chars>1063</HTML_Chars>
+    <XBRL_Chars>0</XBRL_Chars>
+    <XML_Chars>0</XML_Chars>
+    <N_Exhibits>3</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0000950152-04-000590.hdr.sgml : 20040129
+<ACCEPTANCE-DATETIME>20040129090802
+ACCESSION NUMBER:		0000950152-04-000590
+CONFORMED SUBMISSION TYPE:	10-Q
+PUBLIC DOCUMENT COUNT:		4
+CONFORMED PERIOD OF REPORT:	20031231
+FILED AS OF DATE:		20040129
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			BISYS GROUP INC
+		CENTRAL INDEX KEY:			0000883587
+		STANDARD INDUSTRIAL CLASSIFICATION:	SECURITY & COMMODITY BROKERS, DEALERS, EXCHANGES & SERVICES [6200]
+		IRS NUMBER:				133532663
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0630
+
+	FILING VALUES:
+		FORM TYPE:		10-Q
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-31254
+		FILM NUMBER:		04550699
+
+	BUSINESS ADDRESS:	
+		STREET 1:		90 PARK AVENUE 10TH FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10016
+		BUSINESS PHONE:		2129076000
+
+	MAIL ADDRESS:	
+		STREET 1:		90 PARK AVENUE 10TH FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10016
+
+</SEC-Header>
+</Header>
+
+ 
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ DhZaloikY6ijL48qOXuoMGoBZV7ikCZynRm87t7QR+u1tWXklOdGNaJfAoagYUTz
+ qMCxZh/KpNOnZkAkFM/6tQ==
+
+ 0000950152-04-000590.txt : 20040129
+
+10-Q
+ 1
+ l05317ae10vq.txt
+ THE BISYS GROUP, INC. 10-Q/QTR END 12-31-03
+
+================================================================================
+
+ UNITED STATES
+ SECURITIES AND EXCHANGE COMMISSION
+ WASHINGTON, D.C. 20549
+
+ FORM 10-Q
+
+(Mark One)
+
+[X] QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF
+ THE SECURITIES EXCHANGE ACT OF 1934
+
+ FOR THE QUARTERLY PERIOD ENDED DECEMBER 31, 2003
+
+ OR
+
+[ ] TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF
+ THE SECURITIES EXCHANGE ACT OF 1934
+
+ FOR THE TRANSITION PERIOD FROM __________ TO ___________
+
+ COMMISSION FILE NUMBER: 0-19922
+
+ THE BISYS GROUP, INC.
+
+ (Exact name of registrant as specified in its charter)
+
+ DELAWARE 13-3532663
+
+(State or other jurisdiction of (I.R.S. Employer Identification No.)
+incorporation or organization)
+
+ 90 PARK AVENUE, NEW YORK, NEW YORK
+ 10016
+
+ (Address of principal executive offices)
+ (Zip Code)
+
+ 212-907-6000
+
+ (Registrant's telephone number, including area code)
+
+INDICATE BY CHECK MARK WHETHER THE REGISTRANT (1) HAS FILED ALL REPORTS REQUIRED
+TO BE FILED BY SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 DURING
+THE PRECEDING 12 MONTHS (OR FOR SUCH SHORTER PERIOD THAT THE REGISTRANT WAS
+REQUIRED TO FILE SUCH REPORT(S), AND (2) HAS BEEN SUBJECT TO SUCH FILING
+REQUIREMENTS FOR THE PAST 90 DAYS.
+
+YES [X] NO [ ]
+
+INDICATE BY CHECK MARK WHETHER THE REGISTRANT IS AN ACCELERATED FILER (AS
+DEFINED IN RULE 12b-2 OF THE EXCHANGE ACT).
+
+YES [X] NO [ ]
+
+INDICATE THE NUMBER OF SHARES OUTSTANDING OF EACH OF THE ISSUER'S CLASSES OF
+COMMON STOCK, AS OF THE LATEST PRACTICABLE DATE:
+
+AS OF JANUARY 22, 2004, THERE WERE 120,361,155 SHARES OF COMMON STOCK, PAR VALUE
+ 0.02 PER SHARE, OF THE REGISTRANT OUTSTANDING.
+
+ This document contains 27 pages.
+
+================================================================================
+
+THE BISYS GROUP, INC.
+
+ INDEX TO FORM 10-Q
+
+PAGE
+ 
+PART I. FINANCIAL INFORMATION
+
+ Item 1. Financial Statements
+
+ Condensed Consolidated Statements of Income for the three and six
+ months ended December 31, 2003 and 2002 3
+
+ Condensed Consolidated Balance Sheets as of December 31, 2003 and
+ June 30, 2003 4
+
+ Condensed Consolidated Statements of Cash Flows for the six months
+ ended December 31, 2003 and 2002 5
+
+ Notes to Condensed Consolidated Financial Statements 6
+
+ Item 2. Management's Discussion and Analysis of Financial Condition and
+ Results of Operations 13
+
+ Item 4. Controls and Procedures 19
+
+PART II. OTHER INFORMATION
+
+ Item 2. Changes in Securities and Use of Proceeds 20
+
+ Item 4. Submission of Matters to a Vote of Security Holders 20
+
+ Item 6. Exhibits and Reports on Form 8-K 20
+
+SIGNATURES 22
+
+EXHIBIT INDEX 23
+
+2
+
+PART I
+
+ ITEM 1. FINANCIAL STATEMENTS
+
+ THE BISYS GROUP, INC. AND SUBSIDIARIES
+ CONDENSED CONSOLIDATED STATEMENTS OF INCOME
+ (IN THOUSANDS, EXCEPT PER SHARE DATA)
+ (UNAUDITED)
+
+Three Months Ended Six Months Ended
+ December 31, December 31,
+ ---------------------- ----------------------
+ 2003 2002 2003 2002
+ --------- --------- --------- ---------
+ 
+Revenues 263,331 233,112 500,713 460,456
+ --------- --------- --------- ---------
+Operating costs and expenses:
+ Service and operating 168,691 136,126 321,203 271,675
+ Selling, general and administrative 49,397 42,593 95,526 87,179
+ Amortization of intangible assets 6,693 4,393 12,499 8,665
+ Restructuring, impairment and other charges 2,151 - 14,775 12,079
+ --------- --------- --------- ---------
+Total operating costs and expenses 226,932 183,112 444,003 379,598
+ --------- --------- --------- ---------
+
+Operating earnings 36,399 50,000 56,710 80,858
+Interest income 282 535 607 908
+Interest expense (4,735) (4,568) (9,399) (8,953)
+ --------- --------- --------- ---------
+Income before income taxes 31,946 45,967 47,918 72,813
+Income taxes 11,900 17,238 23,061 27,305
+ --------- --------- --------- ---------
+Net income 20,046 28,729 24,857 45,508
+ ========= ========= ========= =========
+
+Basic earnings per share 0.17 0.24 0.21 0.38
+ ========= ========= ========= =========
+
+Diluted earnings per share 0.17 0.24 0.21 0.37
+ ========= ========= ========= =========
+
+The accompanying notes are an integral part of the condensed consolidated
+ financial statements.
+
+ 3
+
+THE BISYS GROUP, INC. AND SUBSIDIARIES
+ CONDENSED CONSOLIDATED BALANCE SHEETS
+ (DOLLARS IN THOUSANDS, EXCEPT PER SHARE DATA)
+ (UNAUDITED)
+
+December 31, June 30,
+ 2003 2003
+ ------------ -----------
+ 
+ASSETS
+
+Current assets:
+ Cash and cash equivalents 85,054 79,558
+ Restricted cash 56,324 26,603
+ Accounts receivable, net 95,055 96,237
+ Insurance premiums and commissions receivable 189,000 169,780
+ Deferred tax asset 10,701 13,655
+ Other current assets 44,791 34,806
+ ----------- -----------
+ Total current assets 480,925 420,639
+ Property and equipment, net 110,391 107,152
+ Goodwill 814,725 749,227
+ Intangible assets, net 222,879 206,036
+ Other assets 34,875 43,839
+ ----------- -----------
+ Total assets 1,663,795 1,526,893
+ =========== ===========
+
+LIABILITIES AND STOCKHOLDERS' EQUITY
+
+Current liabilities:
+ Short-term borrowings 200,000 172,000
+ Accounts payable 21,422 21,518
+ Insurance premiums and commissions payable 129,666 79,398
+ Other current liabilities 142,934 127,643
+ ----------- -----------
+ Total current liabilities 494,022 400,559
+ Long-term debt 300,000 300,000
+ Deferred tax liability 58,407 37,247
+ Other liabilities 4,492 4,026
+ ----------- -----------
+ Total liabilities 856,921 741,832
+ ----------- -----------
+
+Stockholders' equity:
+
+ Common stock, 0.02 par value, 320,000,000 shares authorized, 120,790,185
+ and 120,274,571 shares issued 2,416 2,405
+ Additional paid-in capital 388,285 378,986
+ Retained earnings 437,093 417,533
+ Notes receivable from stockholders (10,776) (10,776)
+ Employee benefit trust, 350,209 and 344,207 shares (5,632) (5,676)
+ Deferred compensation 5,418 5,752
+ Unearned compensation - restricted stock (7,006) -
+ Accumulated other comprehensive income (loss) 3,414 (340)
+ Treasury stock at cost, 432,158 and 141,118 shares (6,338) (2,823)
+ ----------- -----------
+ Total stockholders' equity 806,874 785,061
+ ----------- -----------
+ Total liabilities and stockholders' equity 1,663,795 1,526,893
+ =========== ===========
+
+The accompanying notes are an integral part of the condensed consolidated
+ financial statements.
+
+ 4
+
+THE BISYS GROUP, INC. AND SUBSIDIARIES
+ CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS
+ (IN THOUSANDS)
+ (UNAUDITED)
+
+Six Months Ended
+ December 31,
+ ----------------------
+ 2003 2002
+ --------- ---------
+ 
+Cash flows from operating activities:
+Net income 24,857 45,508
+Adjustments to reconcile net income to net cash provided by operating activities:
+ Restructuring, impairment and other charges 14,775 12,079
+ Depreciation and amortization 29,251 23,581
+ Deferred income tax provision 7,196 2,272
+ Change in operating assets and liabilities, net of effects from acquisitions 9,128 (21,218)
+ --------- ---------
+Net cash provided by operating activities 85,207 62,222
+ --------- ---------
+Cash flows from investing activities:
+ Acquisitions of businesses, net of cash acquired (44,560) (46,286)
+ Purchase of intangible assets - (7,715)
+ Capital expenditures (16,802) (25,178)
+ Change in other investments 1,348 (1,516)
+ --------- ---------
+Net cash used in investing activities (60,014) (80,695)
+ --------- ---------
+Cash flows from financing activities:
+ Proceeds from short-term borrowings 113,000 149,000
+ Repayment of short-term borrowings (85,000) (99,000)
+ Proceeds from exercise of stock options 5,547 4,334
+ Repurchases of common stock (53,244) (33,410)
+ Other - (242)
+ --------- ---------
+Net cash (used in) provided by financing activities (19,697) 20,682
+ --------- ---------
+Net increase in cash and cash equivalents 5,496 2,209
+
+Cash and cash equivalents at beginning of period 79,558 78,371
+ --------- ---------
+Cash and cash equivalents at end of period 85,054 80,580
+ ========= =========
+
+The accompanying notes are an integral part of the condensed consolidated
+ financial statements.
+
+ 5
+
+THE BISYS GROUP, INC. AND SUBSIDIARIES
+ NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+ (UNAUDITED)
+
+1. BASIS OF PRESENTATION AND SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+
+ THE COMPANY
+
+ The BISYS Group, Inc. and subsidiaries (the "Company") is a leading
+ provider of business process outsourcing solutions for the financial
+ services sector.
+
+ BASIS OF PRESENTATION
+
+ The condensed consolidated financial statements include the accounts of
+ The BISYS Group, Inc. and its subsidiaries and have been prepared
+ consistent with the accounting policies reflected in the 2003 Annual
+ Report on Form 10-K filed with the Securities and Exchange Commission
+ and should be read in conjunction therewith. The condensed consolidated
+ financial statements include all adjustments (consisting only of normal
+ recurring adjustments) which are, in the opinion of management,
+ necessary to fairly state this information.
+
+ RECLASSIFICATION
+
+ Certain reclassifications have been made to the fiscal year 2003
+ financial statements to conform to the fiscal year 2004 presentation.
+
+ INSURANCE PREMIUMS AND COMMISSIONS RECEIVABLE AND PAYABLE
+
+ The Company has separately reflected receivables and payables arising
+ from its insurance-related businesses on the accompanying condensed
+ consolidated balance sheets. The captions "insurance premiums and
+ commissions receivable" and "insurance premiums and commissions
+ payable" include insurance premiums and commissions in the Company's
+ commercial insurance services division and commissions from the
+ Company's life insurance brokerage division. In its capacity as a
+ commercial property and casualty wholesale broker, the Company collects
+ premiums from other agents and brokers and, after deducting its
+ commissions, remits the premiums to the respective insurers.
+
+ RESTRICTED CASH
+
+ Unremitted insurance premiums are held in a fiduciary capacity and
+ approximated 56.3 million and 26.6 million at December 31, 2003 and
+ June 30, 2003, respectively. The period for which the Company holds
+ such funds is dependent upon the date the agent or broker remits the
+ payment of the premium to the Company and the date the Company is
+ required to forward such payment to the insurer.
+
+ INVESTMENTS
+
+ Management determines the appropriate classification of investments in
+ equity securities at the time of purchase. Marketable equity securities
+ available for sale are carried at market based upon quoted market
+ prices. Unrealized gains or losses on available for sale securities are
+ accumulated as an adjustment to stockholders' equity, net of related
+ deferred income taxes. Realized gains or losses are computed based on
+ specific identification of the securities sold.
+
+ STOCK-BASED COMPENSATION
+
+ The Company accounts for its stock option, restricted stock and stock
+ purchase plans under the recognition and measurement principles of APB
+ Opinion No. 25, "Accounting for Stock Issued to Employees."
+ Accordingly, compensation expense has been recorded for restricted
+ stock awards, and no expense has been recorded for the Company's other
+ stock-based plans. The following table presents the effect on net
+ income and earnings per share if the Company had applied the fair value
+ recognition provisions of FASB Statement No. 123, "Accounting for
+ Stock-Based Compensation," (in thousands, except for per share
+ amounts).
+
+ 6
+
+Three Months Ended Six Months Ended
+ December 31, December 31
+ ----------------------- ------------------------
+ 2003 2002 2003 2002
+ ---------- ---------- ---------- ----------
+ 
+Net income, as reported 20,046 28,729 24,857 45,508
+
+Add: Stock-based employee
+ compensation expense included in
+ reported net income, net of related
+ tax effects 298 - 463 -
+
+Deduct: Total stock-based employee
+ compensation expense determined
+ under fair value based method, net
+ of related tax effects (4,000) (4,405) (8,096) (9,167)
+ ---------- ---------- ---------- ----------
+Pro forma net income 16,344 24,324 17,224 36,341
+ ========== ========== ========== ==========
+
+Earnings per share:
+ Basic, as reported 0.17 0.24 0.21 0.38
+ ========== ========== ========== ==========
+ Basic, pro forma 0.14 0.20 0.14 0.30
+ ========== ========== ========== ==========
+
+ Diluted, as reported 0.17 0.24 0.21 0.37
+ ========== ========== ========== ==========
+ Diluted, pro forma 0.14 0.20 0.14 0.30
+ ========== ========== ========== ==========
+
+2. USE OF ESTIMATES
+
+ The preparation of financial statements in conformity with generally
+ accepted accounting principles requires management to make certain
+ estimates and assumptions that affect the reported amounts of assets
+ and liabilities and disclosure of contingent assets and liabilities at
+ the date of the financial statements and the reported amounts of
+ revenue and expenses during the reporting period. The most significant
+ estimates are related to the allowance for doubtful accounts, goodwill
+ and intangible assets, revenue recognition, income taxes,
+ contingencies, and restructuring, impairment and other charges.
+
+ The Company bases its estimates on historical experience and on various
+ other assumptions that are believed to be reasonable under the
+ circumstances, the results of which form the basis for making judgments
+ about the carrying value of assets and liabilities that are not readily
+ apparent from other sources. Actual results may differ from these
+ estimates in the near term.
+
+3. COMPREHENSIVE INCOME
+
+ The components of comprehensive income are as follows (in thousands):
+
+Three Months Ended Six Months Ended
+ December 31, December 31,
+ --------------------- ---------------------
+ 2003 2002 2003 2002
+ --------- --------- --------- ---------
+ 
+Net income 20,046 28,729 24,857 45,508
+Unrealized gain on investments, net of
+ deferred taxes 3,126 - 3,138 -
+Foreign currency translation adjustment 360 126 617 195
+ --------- --------- --------- ---------
+ Total comprehensive income 23,532 28,855 28,612 45,703
+ ========= ========= ========= =========
+
+7
+
+4. EARNINGS PER SHARE
+
+ Basic and diluted EPS computations for the three and six months ended
+ December 31, 2003 and 2002 are as follows (in thousands, except per
+ share amounts):
+
+Three Months Ended Six Months Ended
+ December 31, December 31,
+ --------------------------- ---------------------------
+ 2003 2002 2003 2002
+ ------------ ------------ ------------ ------------
+ 
+Basic EPS
+
+Net income 20,046 28,729 24,857 45,508
+ ============ ============ ============ ============
+
+Weighted average common shares
+ outstanding 119,350 119,273 119,578 119,393
+ ============ ============ ============ ============
+
+Basic earnings per share 0.17 0.24 0.21 0.38
+ ============ ============ ============ ============
+
+Diluted EPS
+
+Net income 20,046 28,729 24,857 45,508
+ ============ ============ ============ ============
+
+Weighted average common shares outstanding 119,350 119,273 119,578 119,393
+
+Assumed conversion of common shares
+ issuable under stock-based compensation
+ plans 741 1,694 1,152 2,493
+ ------------ ------------ ------------ ------------
+
+Weighted average common and common
+ equivalent shares outstanding 120,091 120,967 120,730 121,886
+ ============ ============ ============ ============
+
+Diluted earnings per share 0.17 0.24 0.21 0.37
+ ============ ============ ============ ============
+
+The effect of the assumed conversion of the convertible subordinated
+ notes into common stock would be antidilutive and therefore is excluded
+ from the computation of diluted earnings per share.
+
+ Certain stock options were not included in the computation of diluted
+ EPS because the options' exercise prices were greater than the average
+ market price of common shares during the period, as follows (in
+ thousands, except per share amounts):
+
+Three Months Ended Six Months Ended
+ December 31, December 31,
+ ------------------------------------- -------------------------------------
+ 2003 2002 2003 2002
+ ---------------- ---------------- ---------------- ----------------
+ 
+Number of options excluded 10,365 6,306 8,922 5,910
+
+Option price per share 14.21 to 35.30 18.02 to 35.30 16.22 to 35.30 21.25 to 35.30
+
+Average market price of common
+ shares for the period 14.21 17.61 16.02 21.03
+
+5. RESTRUCTURING, IMPAIRMENT AND OTHER CHARGES
+
+ During the three and six months ended December 31, 2003, the Company
+ recorded pre-tax restructuring, impairment and other charges of 2.2
+ million and 14.8 million, respectively. The charges relate to the
+ integration, consolidation, and reorganization of certain business
+ operations, particularly in the Company's European Fund Services
+ division and the Insurance and Education Services group, and the
+ recording of an estimated charge for litigation expenses.
+
+ 8
+
+A summary of these items follows (in thousands):
+
+Three Months Ended Six Months Ended
+ December 31, 2003 December 31, 2003
+ ------------------ -----------------
+ 
+Restructuring charges 1,950 7,413
+Impairment charges - 4,515
+Litigation charges 201 2,847
+ ------------------ ------------------
+ Total pre-tax charges 2,151 14,775
+ ================== ==================
+
+Restructuring charges of 7.4 million were comprised of severance
+ totaling 6.1 million and lease termination costs of 1.3 million.
+ Severance charges resulted from the termination or planned termination
+ of approximately 330 employees representing all levels of staffing.
+
+ In connection with its restructuring activities, the Company recorded
+ asset impairment charges of 4.5 million. Of these charges, 3.9
+ million relates to impairment of an intangible asset and other
+ long-lived assets as a result of the Company's plan to restructure its
+ European mutual fund services operations and to exit certain European
+ locations during the calendar year 2004 following the acquisition of
+ two of the Company's significant customers by acquirers with existing
+ fund services capabilities. The Company also recorded an additional tax
+ valuation allowance of 5.2 million for deferred tax assets associated
+ with tax loss carryforwards arising from the European mutual fund
+ services operations as the Company believes the deferred tax assets
+ will not be realized.
+
+ Based on internal Company analysis and discussions with counsel on the
+ status of litigation matters, the Company recorded a charge of
+ approximately 2.8 million related to breach of contract claims in the
+ life insurance services business. The amount of the charge includes an
+ estimated resolution amount and actual legal fees incurred during the
+ six months ended December 31, 2003. The Company, however, intends to
+ continue to vigorously defend the claims asserted and has asserted a
+ number of counterclaims.
+
+ The following summarizes activity with respect to the Company's
+ restructuring activities for the six months ended December 31, 2003 (in
+ thousands):
+
+Expense provision
+ Employee severance 6,140
+ Facility closure 1,273
+ --------
+ 7,413
+ --------
+
+Cash payments and other 3,186
+ --------
+
+Remaining accrual at December 31, 2003
+Employee severance 3,275
+Facility closure 952
+ --------
+ 4,227
+ --------
+
+In connection with the aforementioned restructuring plans, certain
+ severance costs approximating 2.0 million and lease termination costs
+ of approximately 2.0 million are expected to be recognized throughout
+ the remainder of fiscal 2004 in accordance with FAS No. 146,
+ "Accounting for Costs Associated with Exit or Disposal Activities."
+
+ The Company recorded pre-tax restructuring charges of 12.1 million
+ during the six months ended December 31, 2002 related to the
+ integration, consolidation and relocation of certain business
+ operations, primarily as a result of acquisition activity and the
+ downsizing of certain areas in the investment, insurance, education,
+ and check imaging businesses in fiscal 2003. The restructuring charge
+ included a provision of 7.2 million for severance-related costs for
+ approximately 300 employees and 4.9 million for facility closure and
+ related costs. At December 31, 2003, an accrual of 1.1 million remains
+ from this prior year charge and relates to lease costs for facility
+ closures.
+
+ 9
+
+6. INTANGIBLE ASSETS AND GOODWILL
+
+ INTANGIBLE ASSETS
+
+ At December 31, 2003, acquired intangible assets were comprised of the
+ following (in thousands):
+
+Gross Carrying Accumulated Net Book
+ Amount Amortization Value
+ -------------- ------------ ------------
+ 
+Customer related 216,231 (41,159) 175,072
+Noncompete agreements 45,846 (14,053) 31,793
+Other 23,195 (7,181) 16,014
+ -------------- ------------ ------------
+ Total 285,272 (62,393) 222,879
+ ============== ============ ============
+
+At June 30, 2003, acquired intangible assets were comprised of the
+ following (in thousands):
+
+Gross Carrying Accumulated Net Book
+ Amount Amortization Value
+ -------------- ------------ ------------
+ 
+Customer related 190,917 (32,618) 158,299
+Noncompete agreements 42,451 (11,629) 30,822
+Other 23,070 (6,155) 16,915
+ -------------- ------------ ------------
+ Total 256,438 (50,402) 206,036
+ ============== ============ ============
+
+All of the Company's acquired intangible assets are subject to
+ amortization. Amortization expense for acquired intangible assets was
+ 6.7 million and 12.5 million for the three and six months ended
+ December 31, 2003 and 18.8 million for the year ended June 30, 2003.
+ Estimated annual amortization expense is 26.8 million in fiscal 2004,
+ 27.8 million in fiscal 2005, 26.7 million in fiscal 2006, 25.4
+ million in fiscal 2007, and 24.6 million in fiscal 2008.
+
+ In connection with the Company's plan to restructure its European fund
+ services operations and exit certain European locations during the
+ calendar year 2004, an impairment loss of 0.8 million was recognized
+ during the six months ended December 31, 2003 for a customer-related
+ intangible. The amount of the impairment loss represented the remaining
+ net book value of the intangible at September 30, 2003. See Note 5.
+
+ GOODWILL
+
+ The changes in the carrying amount of goodwill by business segment for
+ the six months ended December 31, 2003 are as follows (in thousands):
+
+Investment Insurance and Information
+ Services Education Services Services Total
+ ---------- ------------------ ----------- -----------
+ 
+Balance, July 1, 2003 311,366 402,471 35,390 749,227
+
+Additions - 64,188 - 64,188
+
+Adjustments to previous
+acquisitions - 1,310 - 1,310
+ ---------- ------------------ ----------- -----------
+
+Balance, December 31, 2003 311,366 467,969 35,390 814,725
+ ========== ================== =========== ===========
+
+7. SEGMENT INFORMATION
+
+ The following table sets forth revenue and operating income by business
+ segment and for corporate operations for the three and six months ended
+ December 31, 2003 and 2002. Additionally, restructuring, impairment and
+ other charges are excluded from the operating results of the segment
+ and presented separately for a better understanding of the underlying
+ performance of each segment.
+
+ 10
+
+(in thousands)
+ Three Months Ended Six Months Ended
+ December 31, December 31,
+ --------------------------- ---------------------------
+ 2003 2002 2003 2002
+ ------------ ------------ ------------ ------------
+ 
+Revenue:
+Investment Services 138,211 121,853 266,382 242,797
+Insurance and Education Services 68,438 58,830 125,564 114,529
+Information Services 56,682 52,429 108,767 103,130
+ ------------ ------------ ------------ ------------
+ Total revenue 263,331 233,112 500,713 460,456
+ ============ ============ ============ ============
+
+Operating income (loss):
+Investment Services 16,457 17,872 32,870 33,956
+Insurance and Education Services 13,414 23,738 22,229 43,407
+Information Services 14,839 13,825 27,726 26,230
+Corporate (6,160) (5,435) (11,340) (10,656)
+ ------------ ------------ ------------ ------------
+ Total operating income 38,550 50,000 71,485 92,937
+ ============ ============ ============ ============
+
+Restructuring, impairment and other
+charges:
+Investment Services 968 - 6,406 5,430
+Insurance and Education Services 755 - 6,931 2,866
+Information Services 353 - 498 1,494
+Corporate 75 - 940 2,289
+ ------------ ------------ ------------ ------------
+ Total restructuring, impairment and
+ other charges 2,151 - 14,775 12,079
+ ============ ============ ============ ============
+
+8. RESTRICTED STOCK
+
+ Pursuant to the 1999 Equity Participation Plan, the Company provides
+ for awards of restricted shares of the Company's common stock to key
+ management employees. Restricted shares awarded under the plan are
+ subject to certain transfer and forfeiture restrictions that lapse over
+ a four-year vesting period. Awards for 450,234 restricted shares were
+ granted, net of forfeitures, during the first six months of fiscal 2004
+ at a fair value of 17.13 per share. Unearned compensation expense
+ related to the issuance of restricted shares is reported as a reduction
+ of stockholders' equity on the accompanying condensed consolidated
+ financial statements and compensation expense is recorded ratably over
+ the four-year vesting period, during which the shares are subject to
+ transfer and forfeiture restrictions, based on the fair value on the
+ award date. Compensation expense related to the issuance of restricted
+ shares approximated 0.4 million and 0.7 million during the three and
+ six months ended December 31, 2003.
+
+9. BUSINESS COMBINATIONS
+
+ On November 10, 2003, the Company acquired USA Insurance Group, Inc.
+ ("USAIG"), a Florida-based managing general agency ("MGA") serving the
+ commercial property and casualty insurance marketplace. The acquisition
+ of USAIG broadens the product and geographic reach of the Company's
+ commercial property and casualty line of business, and complements and
+ significantly expands its MGA platform.
+
+ The Company completed its acquisition of USAIG through the exchange of
+ approximately 2.8 million shares of BISYS common stock held in treasury
+ and 49.7 million cash for all of the equity interests of USAIG. The
+ excess purchase price over the fair value of the net tangible assets
+ acquired approximates 92.7 million and was allocated to intangible
+ assets and goodwill based upon preliminary estimates of fair values.
+ The Company has engaged a valuation consultant to determine the values
+ associated with certain identifiable assets in connection with the
+ purchase price allocation. The Company does not believe that the final
+ purchase price allocation, which should be completed by the end of the
+ third fiscal quarter, will differ significantly from the preliminary
+ purchase price allocation. USAIG's fair value of assets and
+ liabilities, including transaction costs, were as follows (in
+ thousands):
+
+ 11
+
+Estimated fair value of assets acquired 141,246
+Liabilities assumed (52,746)
+Common stock issued (38,823)
+ ----------
+ Net cash paid 49,677
+ ==========
+
+The following unaudited pro forma consolidated results of operations
+ has been prepared as if the acquisition of USAIG had occurred at the
+ beginning of each period (in thousands, except per share data):
+
+Three Months Ended Six Months Ended
+ December 31, December 31,
+ --------------------------- ---------------------------
+ 2003 2002 2003 2002
+ ------------ ------------ ------------ ------------
+ 
+Revenues 265,940 241,023 511,059 475,633
+Net income 20,100 29,259 26,238 47,542
+Diluted earnings per share 0.17 0.24 0.21 0.38
+
+The operations of USAIG are included in the consolidated financial
+ statements since the date of acquisition.
+
+ 12
+
+ITEM 2. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND
+RESULTS OF OPERATIONS
+
+The Company provides outsourcing solutions to and through financial
+organizations. The following table presents the percentage of revenues
+represented by each item in the Company's condensed consolidated statements of
+income for the periods indicated:
+
+Three Months Ended Six Months Ended
+ December 31, December 31,
+ ------------------- ----------------
+ 2003 2002 2003 2002
+ ------ ------ ------ ------
+ 
+Revenues 100.0 100.0 100.0 100.0 
+ ------ ------ ------ ------
+
+Operating costs and expenses:
+ Service and operating 64.1 58.4 64.1 59.0
+ Selling, general and administrative 18.8 18.3 19.1 18.9
+ Amortization of intangible assets 2.5 1.9 2.5 1.9
+ Restructuring, impairment and other charges 0.8 - 3.0 2.6
+ ------ ------ ------ ------
+Total operating costs and expenses 86.2 78.6 88.7 82.4
+ ------ ------ ------ ------
+Operating earnings 13.8 21.4 11.3 17.6
+Interest income 0.1 0.2 0.1 0.2
+Interest expense (1.8) (1.9) (1.8) (2.0)
+ ------ ------ ------ ------
+Income before income taxes 12.1 19.7 9.6 15.8
+Income taxes 4.5 7.4 4.6 5.9
+ ------ ------ ------ ------
+Net income 7.6 12.3 5.0 9.9 
+ ====== ====== ====== ======
+
+COMPARISON OF THE THREE MONTHS ENDED DECEMBER 31, 2003 WITH THE THREE MONTHS
+ENDED DECEMBER 31, 2002.
+
+ Revenues increased 13.0 from 233.1 million for the three months ended
+ December 31, 2002 to 263.3 million for the three months ended December
+ 31, 2003. This growth was derived from acquired businesses during the
+ past twelve months, sales to new clients, existing client growth, and
+ cross sales to existing clients. Internal revenue growth increased
+ approximately 5 for the three months ended December 31, 2003 over the
+ same period last year.
+
+ Service and operating expenses increased 23.9 from 136.1 million for
+ the three months ended December 31, 2002 to 168.7 million for the
+ three months ended December 31, 2003 and increased as a percentage of
+ revenues from 58.4 to 64.1 . The dollar and percentage increase
+ resulted from additional costs associated with greater revenues, a
+ higher cost base in certain areas of the Life Insurance Services
+ division, lower margins in the 401(k) administration business, and
+ changes in the mix of the Company's business.
+
+ Selling, general and administrative expenses increased 16.0 from 42.6
+ million during the three months ended December 31, 2002 to 49.4
+ million for the three months ended December 31, 2003 and increased as a
+ percentage of revenues from 18.3 to 18.8 . The dollar and percentage
+ increases resulted from additional costs associated with greater
+ revenues.
+
+ Amortization of intangible assets increased 2.3 million for the three
+ months ended December 31, 2003 over the same period last year due to a
+ higher level of intangible assets associated with recently acquired
+ businesses and customer contracts.
+
+ Interest expense increased 0.2 million for the three months ended
+ December 31, 2003 over the same period last year primarily due to the
+ interest costs associated with higher average borrowings under the
+ Company's revolving credit facility.
+
+ The income tax provision of 11.9 million for the three months ended
+ December 31, 2003 decreased from 17.2 million for the three months
+ ended December 31, 2002, due to lower taxable income. The provision
+ represents an effective tax rate, excluding the impact of
+ restructuring, impairment and other charges, of 37.25 and 37.5 for
+ the periods ended December 31, 2003 and 2002, respectively. The
+ decrease in the effective tax rate is primarily due to the mix of
+ business in foreign tax jurisdictions.
+
+ 13
+
+Operating earnings, before amortization of intangibles and
+ restructuring, impairment and other charges, resulted in margins of
+ 17.2 and 23.3 for the three months ended December 31, 2003 and 2002,
+ respectively. The margin decrease was primarily due to a significant
+ margin decline in the Insurance and Education Services segment as a
+ result of a decline in internal revenue and a higher cost base in
+ certain areas of the Life Insurance Services division.
+
+COMPARISON OF THE SIX MONTHS ENDED DECEMBER 31, 2003 WITH THE SIX MONTHS ENDED
+DECEMBER 31, 2002.
+
+ Revenues increased 8.7 from 460.5 million for the six months ended
+ December 31, 2002 to 500.7 million for the six months ended December
+ 31, 2003. This growth was derived largely from acquired businesses
+ during the past twelve months. Internal revenue growth increased
+ approximately 2 for the six months ended December 31, 2003 over the
+ same period last year. The rate of internal growth was negatively
+ impacted by a decline in internal revenue in the Life Insurance and
+ Education Services divisions.
+
+ Service and operating expenses increased 18.2 from 271.7 million for
+ the six months ended December 31, 2002 to 321.2 million for the six
+ months ended December 31, 2003 and increased as a percentage of
+ revenues from 59.0 to 64.1 . The dollar and percentage increase
+ resulted from additional costs associated with greater revenues, a
+ higher cost base in certain areas of the Life Insurance Services
+ division and changes in the mix of the Company's business.
+
+ Selling, general and administrative expenses increased 9.6 from 87.2
+ million during the six months ended December 31, 2002 to 95.5 million
+ for the six months ended December 31, 2003 and increased as a
+ percentage of revenues from 18.9 to 19.1 . The dollar and percentage
+ increases resulted from additional costs associated with greater
+ revenues.
+
+ Amortization of intangible assets increased 3.8 million for the six
+ months ended December 31, 2003 over the same period last year due to a
+ higher level of intangible assets associated with recently acquired
+ businesses and customer contracts.
+
+ Interest expense increased 0.4 million for the six months ended
+ December 31, 2003 over the same period last year primarily due to the
+ interest costs associated with higher average borrowings under the
+ Company's revolving credit facility.
+
+ The income tax provision of 23.1 million for the six months ended
+ December 31, 2003 decreased from 27.3 million for the six months ended
+ December 31, 2002, due to lower taxable income. The tax provision for
+ the six months ended December 31, 2003 also includes recognition of an
+ additional tax valuation allowance of 5.2 million for deferred tax
+ assets associated with tax loss carryforwards from the European mutual
+ fund services operations that are not expected to be realized. The
+ provision represents an effective tax rate, excluding the impact of
+ restructuring, impairment and other charges, of 37.25 and 37.5 for
+ the six months ended December 31, 2003 and 2002, respectively. The
+ decrease in the effective tax rate is primarily due to the mix of
+ business in foreign tax jurisdictions.
+
+ Operating earnings, before amortization of intangibles and
+ restructuring, impairment and other charges, resulted in margins of
+ 16.8 and 22.1 for the six months ended December 31, 2003 and 2002,
+ respectively. The margin decrease was primarily due to a significant
+ margin decline in the Insurance and Education Services segment as a
+ result of a decline in internal revenue and a higher cost base in
+ certain areas of the Life Insurance Services division.
+
+RESTRUCTURING, IMPAIRMENT AND OTHER CHARGES
+
+ During the three and six months ended December 31, 2003, the Company
+ recorded pre-tax restructuring, impairment and other charges of 2.2
+ million and 14.8 million, respectively. The charges relate to the
+ integration, consolidation, and reorganization of certain business
+ operations, particularly in the Company's European Fund Services
+ division and the Insurance and Education Services group, and the
+ recording of an estimated charge for litigation expenses.
+
+ 14
+
+A summary of these items follows (in thousands):
+
+Three Months Ended Six Months Ended
+ December 31, 2003 December 31, 2003
+ ----------------- -----------------
+ 
+Restructuring charges 1,950 7,413
+Impairment charges - 4,515
+Litigation charges 201 2,847
+ -------- --------
+ Total pre-tax charges 2,151 14,775
+ ======== ========
+
+Restructuring charges of 7.4 million were comprised of severance
+ totaling 6.1 million and lease termination costs of 1.3 million.
+ Severance charges resulted from the termination or planned termination
+ of approximately 330 employees representing all levels of staffing.
+
+ In connection with its restructuring activities, the Company recorded
+ asset impairment charges of 4.5 million. Of these charges, 3.9
+ million relates to impairment of an intangible asset and other
+ long-lived assets as a result of the Company's plan to restructure its
+ European mutual fund services operations and to exit certain European
+ locations during the calendar year 2004 following the acquisition of
+ two of the Company's significant customers by acquirers with existing
+ fund services capabilities. The Company also recorded an additional tax
+ valuation allowance of 5.2 million for deferred tax assets associated
+ with tax loss carryforwards arising from the European mutual fund
+ services operations as the Company believes the deferred tax assets
+ will not be realized.
+
+ Based on internal Company analysis and discussions with counsel on the
+ status of litigation matters, the Company recorded a charge of
+ approximately 2.8 million related to breach of contract claims in the
+ life insurance services business. The amount of the charge includes an
+ estimated resolution amount and actual legal fees incurred during the
+ six months ended December 31, 2003. The Company, however, intends to
+ continue to vigorously defend the claims asserted and has asserted a
+ number of counterclaims.
+
+ The following summarizes activity with respect to the Company's
+ restructuring activities for the six months ended December 31, 2003 (in
+ thousands):
+
+Expense provision
+ Employee severance 6,140
+ Facility closure 1,273
+ --------
+ 7,413
+ --------
+
+Cash payments and other 3,186
+ --------
+
+Remaining accrual at December 31, 2003
+Employee severance 3,275
+Facility closure 952
+ --------
+ 4,227
+ --------
+
+In connection with the aforementioned restructuring plans, certain severance
+costs approximating 2.0 million and lease termination costs of approximately
+ 2.0 million are expected to be recognized throughout the remainder of fiscal
+2004 in accordance with FAS No. 146, "Accounting for Costs Associated with Exit
+or Disposal Activities."
+
+The Company recorded pre-tax restructuring charges of 12.1 million during the
+six months ended December 31, 2002 related to the integration, consolidation and
+relocation of certain business operations, primarily as a result of acquisition
+activity and the downsizing of certain areas in the investment, insurance,
+education, and check imaging businesses in fiscal 2003. The restructuring charge
+included a provision of 7.2 million for severance-related costs for
+approximately 300 employees and 4.9 million for facility closure and related
+costs. At December 31, 2003, an accrual of 1.1 million remains from this prior
+year charge and relates to lease costs for facility closures.
+
+ 15
+
+LIQUIDITY AND CAPITAL RESOURCES
+
+ At December 31, 2003, the Company had cash and cash equivalents of
+ 85.1 million and negative working capital of 13.1 million. At
+ December 31, 2003, the Company had outstanding borrowings of 200
+ million against its 300 million revolving credit facility. The credit
+ facility bears interest at LIBOR plus a margin of 0.65 , resulting in a
+ weighted average interest rate of 1.8 on all outstanding borrowings
+ under the facility at December 31, 2003. The facility is used to
+ support the Company's working capital requirements and fund the
+ Company's future acquisitions. The facility expires June 30, 2004, and
+ the Company expects to renew or replace the facility prior to its
+ expiration.
+
+ The Company's strategy includes the acquisition of complementary
+ businesses financed by a combination of internally generated funds,
+ borrowings from the revolving credit facility, long-term debt and
+ common stock. The Company's policy is to retain earnings to support
+ future business opportunities, rather than to pay dividends. The
+ Company has historically used a significant portion of its cash flow
+ from operations to fund acquisitions and capital expenditures with any
+ remainder used to reduce outstanding borrowings under the credit
+ facility. The Company believes that its cash flow from operations
+ together with other available sources of funds will be adequate to meet
+ its funding requirements. In the event that the Company makes
+ significant future acquisitions, however, it may raise funds through
+ additional borrowings or the issuance of securities.
+
+ At December 31, 2003, the Company had 3.1 million outstanding in
+ letters of credit and 300 million of outstanding 4 convertible
+ subordinated notes due March 2006. The Company's debt ratio (total
+ debt/total debt plus equity) is 0.38 at December 31, 2003, and the
+ Company's maximum debt ratio may not exceed .50 under the terms of the
+ revolving credit facility, as amended. At December 31, 2003, the
+ Company is in compliance with all financial covenants required by the
+ credit facility.
+
+ Accounts receivable represented 42 and 44 days sales outstanding (DSO)
+ at December 31, 2003 and June 30, 2003, respectively, based on
+ quarterly revenues. The calculation of DSO for accounts receivable
+ excludes insurance premiums and commissions receivable arising from the
+ Company's insurance-related businesses. DSO is less relevant for this
+ type of receivable because it includes premiums that are ultimately
+ remitted to the insurer and not recognized as revenue. Additionally,
+ certain life insurance commissions due from the insurance carriers have
+ customary payment terms of up to twelve months.
+
+ For the six months ended December 31, 2003, operating activities
+ provided cash of 85.2 million. Investing activities used cash of 60.0
+ million, primarily for the acquisition of businesses of 44.6 million
+ and for capital expenditures of 16.8 million. Financing activities
+ used cash of 19.7 million, comprised of repurchases of Company stock
+ of 53.2 million, offset by net proceeds from short-term borrowings of
+ 28.0 million and proceeds from exercises of stock options of 5.5
+ million. Approximately 2.8 million shares of treasury stock acquired
+ during the six months ended December 31, 2003 were issued in connection
+ with the acquisition of USAIG in November 2003.
+
+ The Board of Directors has authorized a new stock buy-back program of
+ up to 100 million effective November 2003. Through December 31, 2003,
+ the Company has purchased 0.5 million shares for 7.3 million under the
+ stock buy-back program, leaving 92.7 million available for future
+ purchases. Purchases have occurred and are expected to continue to
+ occur from time to time in the open market to offset the possible
+ dilutive effect of shares issued under employee benefit plans, for
+ possible use in future acquisitions, and for general and other
+ corporate purposes.
+
+SEGMENT INFORMATION
+
+ The following table sets forth revenue and operating income by business
+ segment and for corporate operations for the three and six months ended
+ December 31, 2003 and 2002. Restructuring, impairment and other charges
+ are excluded from the operating results of the segment for a better
+ understanding of the underlying performance of each segment.
+
+ 16
+
+(in thousands)
+ Three Months Ended Six Months Ended
+ December 31, December 31,
+ ------------------------- ---------------------------
+ 2003 2002 2003 2002
+ ---------- ----------- ----------- ----------
+ 
+Revenue:
+ Investment Services 138,211 121,853 266,382 242,797
+ Insurance and Education Services 68,438 58,830 125,564 114,529
+ Information Services 56,682 52,429 108,767 103,130
+ ---------- ----------- ----------- ----------
+ Total revenue 263,331 233,112 500,713 460,456
+ ========== =========== =========== ==========
+Operating income (loss):
+ Investment Services 16,457 17,872 32,870 33,956
+ Insurance and Education Services 13,414 23,738 22,229 43,407
+ Information Services 14,839 13,825 27,726 26,230
+ Corporate (6,160) (5,435) (11,340) (10,656)
+ ---------- ----------- ----------- ----------
+ Total operating income 38,550 50,000 71,485 92,937
+ ========== =========== =========== ==========
+
+Internal revenue growth (excluding acquisitions) for Investment
+ Services, Insurance and Education Services, and Information Services
+ approximated 13 , (14) , and 8 , respectively, during the three months
+ ended December 31, 2003 over the same period last year. A substantial
+ portion of the Company's revenues are recurring in nature and are
+ derived from long-term customer contracts with terms that generally
+ average from three to five years. The Company expects to achieve an
+ overall annual internal growth rate of 3 to 5 in fiscal 2004.
+
+ Revenue in the Investment Services business segment increased 16.3
+ million, or 13.4 , during the three months ended December 31, 2003,
+ over the same period last year. The revenue increase was primarily due
+ to the acquisition of several new clients and increased assets under
+ administration. Operating income in the Investment Services business
+ segment decreased 1.4 million, or 7.9 , during the fiscal second
+ quarter. Operating margins were 11.9 and 14.7 for the three months
+ ended December 31, 2003 and 2002, respectively. The margin decreased
+ due primarily to lower margins in the 401(k) administration business
+ and, to a lesser extent, increased expenses in the Fund Services
+ business and investments in the infrastructure of the Alternative
+ Investment business.
+
+ Revenue in the Insurance and Education Services business segment
+ increased 9.6 million, or 16.3 , during the three months ended
+ December 31, 2003, over the same period last year. The revenue increase
+ was primarily due to acquisitions offset by a decline in internal
+ revenue of 14 . The decrease in internal revenue was primarily due to
+ company- and industry-wide declines in sales of term life and fixed
+ annuity insurance products and lower sales productivity. Operating
+ income in the Insurance and Education Services business segment
+ decreased 10.3 million, or 43.5 , during the fiscal second quarter.
+ Operating margins were 19.6 and 40.4 for the three months ended
+ December 31, 2003 and 2002, respectively. Margins decreased in the
+ fiscal second quarter primarily due to a decline in internal revenue
+ and a higher cost base in certain areas of the life insurance division.
+
+ Revenue in the Information Services business segment increased 4.3
+ million, or 8.1 , during the three months ended December 31, 2003, over
+ the same period last year. The revenue increase was due to existing
+ client growth, cross sales of ancillary products and services to
+ existing clients, and sales to new clients. Operating income in the
+ Information Services business segment increased 1.0 million, or 7.3 ,
+ during the fiscal second quarter. Operating margins were 26.2 and
+ 26.4 for the three months ended December 31, 2003 and 2002,
+ respectively.
+
+ Corporate operations represent charges for the Company's human
+ resources, legal, accounting and finance functions, and various other
+ unallocated overhead charges.
+
+FORWARD-LOOKING STATEMENTS
+
+ This Management's Discussion and Analysis of Financial Condition and
+ Results of Operations and other sections of this report contain
+ forward-looking statements that are based on management's current
+ expectations, estimates, forecasts and assumptions concerning future
+ events. In addition, other written or oral
+
+ 17
+
+statements that constitute forward-looking statements may be made by or
+ on behalf of management. These statements are subject to numerous known
+ and unknown risks, uncertainties and assumptions that could cause
+ actual events or results to differ materially from those projected.
+ Words such as "believes," "anticipates," "expects," "intends,"
+ "estimates, "projects," "plans," "targets," and variations of such
+ words and similar expressions are intended to identify such
+ forward-looking statements. Except as required under the federal
+ securities laws and the rules and regulations of the Securities and
+ Exchange Commission (SEC), the Company does not undertake any
+ obligation to update or revise publicly any forward-looking statements,
+ whether as a result of new information, future events, changes in
+ assumptions or otherwise. Although the Company believes that its plans,
+ intentions, and expectations reflected in or suggested by the
+ forward-looking statements made in this report are reasonable, there
+ can be no assurance that such plans, intentions or expectations will be
+ achieved.
+
+ The risks, uncertainties and assumptions include: achieving planned
+ revenue growth in each of the Company's business units; renewal of
+ material contracts in the Company's business units consistent with past
+ experience; successful and timely integration of significant businesses
+ acquired by the Company and realization of anticipated synergies;
+ increasing price, products, and services competition by U.S. and
+ non-U.S. competitors, including new entrants; changes in U.S. and
+ non-U.S. governmental regulations; the timely implementation of the
+ Company's restructuring program and financial plans; general U.S. and
+ non-U.S. economic and political conditions, including the global
+ economic slowdown and interest rate and currency exchange rate
+ fluctuation; continuing development and maintenance of appropriate
+ business continuity plans for the Company's processing systems; absence
+ of consolidation among client financial institutions or other client
+ groups; timely conversion of new customer data to the Company's
+ platforms; attracting and retaining qualified key employees; no
+ material breach of security of any of the Company's systems; control of
+ costs and expenses; continued availability of financing, and financial
+ resources on the terms required to support the Company's future
+ business endeavors; the mix of products and services; compliance with
+ the covenants and restrictions of the Company's bank credit facility
+ and convertible subordinated notes indenture; and the outcome of
+ pending and future litigation and governmental or regulatory
+ proceedings.
+
+ These are representative of the risks, uncertainties and assumptions
+ that could affect the outcome of the forward-looking statements. In
+ addition, such statements could be affected by general industry and
+ market conditions and growth rates, and other future events.
+
+ 18
+
+ITEM 4. CONTROLS AND PROCEDURES
+
+We maintain disclosure controls and procedures that are designed to ensure that
+information required to be disclosed in our reports, filed pursuant to the
+Securities Exchange Act of 1934, is recorded, processed, summarized and reported
+within the time periods specified in the SEC's rules and forms, and that such
+information is accumulated and communicated to our management, including our
+Chief Executive Officer and Chief Financial Officer, as appropriate, to allow
+timely decisions regarding required disclosure.
+
+We carried out an evaluation as of December 31, 2003, under the supervision and
+with the participation of the Company's management, including the Company's
+Chief Executive Officer and the Company's Chief Financial Officer, of the
+effectiveness of the design and operation of the Company's disclosure controls
+and procedures. Based on the foregoing, the Company's Chief Executive Officer
+and Chief Financial Officer concluded that the Company's disclosure controls and
+procedures were effective. There have been no substantial changes in the
+Company's internal control over financial reporting during the fiscal quarter
+ended December 31, 2003 that have materially affected, or are reasonably likely
+to affect, our internal control over financial reporting.
+
+ 19
+
+PART II
+
+ITEM 2. CHANGES IN SECURITIES AND USE OF PROCEEDS
+
+ On November 10, 2003, the Company issued 2,797,753 shares of its common
+ stock, 0.02 par value ("Company Common Stock"), to the stockholders of
+ USA Insurance Group, Inc. ("USAIG"). Said shares of Company Common
+ Stock were not registered under the Securities Act of 1933, as amended
+ (the "Securities Act"). There was no underwriter or placement agency.
+
+ In connection with the issuance of shares of Company Common Stock to
+ the shareholders of USAIG, the Company relied on exemptions from
+ registration under Section 4(2) of the Securities Act, based upon,
+ among other things, certain representations and warranties of the
+ investors, the small number of investors, the nature of the investors
+ and certain information provided to the investors with respect to the
+ Company and the transaction.
+
+ITEM 4. SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS
+
+ At the Annual Meeting of Stockholders of the Company, held on November
+ 13, 2003, the Stockholders approved the following matters:
+
+ 1. Election of the eight Directors named below to hold office
+ until the next Annual Meeting of Stockholders and until their
+ successors have been duly elected and qualified:
+
+Number of
+ Name of Director Votes in Favor
+ ---------------- --------------
+ 
+Denis A. Bovin 79,521,742
+Robert J. Casale 106,348,991
+Thomas A. Cooper 106,586,688
+Lynn J. Mangum 105,824,443
+Paula G. McInerney 107,528,266
+Thomas E. McInerney 107,589,081
+Joseph J. Melone 104,644,364
+Dennis R. Sheehan 108,118,856
+
+For Against Abstain
+ --- ------- -------
+ 
+2. Approval of the 2004 Employee Stock
+ Purchase Plan 91,798,947 2,007,229 80,242
+
+For Against Abstain
+ --- ------- -------
+ 
+3. Appointment of PricewaterhouseCoopers
+ LLP as independent accountants for
+ fiscal year 2004 103,381,790 6,657,639 66,924
+
+ITEM 6. EXHIBITS AND REPORTS ON FORM 8-K
+
+ (a) EXHIBITS
+
+ Exhibit 31.1 - Rule 13a-14(a)/15d-14(a) Certification of
+ Chief Executive Officer
+
+ Exhibit 31.2 - Rule 13a-14(a)/15d-14(a) Certification of
+ Chief Financial Officer
+
+ Exhibit 32 - Section 1350 Certifications
+
+ 20
+
+(b) REPORTS ON FORM 8-K
+
+ No Current Reports on Form 8-K were filed with the Securities
+ and Exchange Commission during the fiscal quarter ended
+ December 31, 2003.
+
+ A Current Report on Form 8-K, dated January 21, 2004, was
+ furnished to the Securities and Exchange Commission to report
+ on the announcement of the Company's financial results for the
+ fiscal quarter ended December 31, 2003 (Item 12).
+
+ 21
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the
+Registrant has duly caused this report to be signed on its behalf by the
+undersigned, thereunto duly authorized.
+
+ THE BISYS GROUP, INC.
+
+Date: January 28, 2004 By: /s/ James L. Fox
+ --------------------------
+ James L. Fox
+ Executive Vice President and Chief
+ Financial Officer
+ (Duly Authorized Officer)
+
+ 22
+
+THE BISYS GROUP, INC.
+ EXHIBIT INDEX
+
+Exhibit No. Page
+ 
+ (31.1) Rule 13a-14(a)/15d-14(a) Certification of Chief Executive Officer.............. 24
+
+ (31.2) Rule 13a-14(a)/15d-14(a) Certification of Chief Financial Officer.............. 25
+
+ (32) Section 1350 Certifications.................................................... 26
+
+23
+
+<EX-31.1>
+ 3
+ l05317aexv31w1.txt
+ EXHIBIT 31.1
+
+EXHIBIT 31.1
+
+ CERTIFICATION OF CHIEF EXECUTIVE OFFICER
+
+I, Dennis R. Sheehan, certify that:
+
+ 1. I have reviewed this quarterly report on Form 10-Q of The
+ BISYS Group, Inc.;
+
+ 2. Based on my knowledge, this report does not contain any untrue
+ statement of a material fact or omit to state a material fact
+ necessary to make the statements made, in light of the
+ circumstances under which such statements were made, not
+ misleading with respect to the period covered by this report;
+
+ 3. Based on my knowledge, the financial statements, and other
+ financial information included in this report, fairly present
+ in all material respects the financial condition, results of
+ operations and cash flows of the registrant as of, and for,
+ the periods presented in this report;
+
+ 4. The registrant's other certifying officer(s) and I are
+ responsible for establishing and maintaining disclosure
+ controls and procedures (as defined in Exchange Act Rules
+ 13a-15(e) and 15d-15(e)) for the registrant and have:
+
+ (a) Designed such disclosure controls and procedures, or
+ caused such disclosure controls and procedures to be
+ designed under our supervision, to ensure that
+ material information relating to the registrant,
+ including its consolidated subsidiaries, is made
+ known to us by others within those entitites,
+ particularly during the period in which this report
+ is being prepared;
+
+ (b) Evaluated the effectiveness of the registrant's
+ disclosure controls and procedures and presented in
+ this report our conclusions about the effectiveness
+ of the disclosure controls and procedures, as of the
+ end of the period covered by this report based on
+ such evaluation; and
+
+ (c) Disclosed in this report any change in the
+ registrant's internal control over financial
+ reporting that occurred during the registrant's most
+ recent fiscal quarter (the registrant's fourth fiscal
+ quarter in the case of an annual report) that has
+ materially affected, or is reasonably likely to
+ materially affect, the registrant's internal control
+ over financial reporting; and
+
+ 5. The registrant's other certifying officer(s) and I have
+ disclosed, based on our most recent evaluation of internal
+ control over financial reporting, to the registrant's auditors
+ and the audit committee of the registrant's board of directors
+ (or persons performing the equivalent functions):
+
+ (a) All significant deficiencies and material weaknesses
+ in the design or operation of internal control over
+ financial reporting which are reasonably likely to
+ adversely affect the registrant's ability to record,
+ process, summarize and report financial information;
+ and
+
+ (b) Any fraud, whether or not material, that involves
+ management or other employees who have a significant
+ role in the registrant's internal control over
+ financial reporting.
+
+Dated: January 28, 2004
+
+ /s/ Dennis R. Sheehan
+ ----------------------------------------
+ Dennis R. Sheehan
+ President and Chief Executive Officer
+
+ 24
+
+</EX-31.1>
+
+<EX-31.2>
+ 4
+ l05317aexv31w2.txt
+ EXHIBIT 31.2
+
+EXHIBIT 31.2
+
+ CERTIFICATION OF CHIEF FINANCIAL OFFICER
+
+I, James L. Fox, certify that:
+
+ 1. I have reviewed this quarterly report on Form 10-Q of The
+ BISYS Group, Inc.;
+
+ 2. Based on my knowledge, this report does not contain any untrue
+ statement of a material fact or omit to state a material fact
+ necessary to make the statements made, in light of the
+ circumstances under which such statements were made, not
+ misleading with respect to the period covered by this report;
+
+ 3. Based on my knowledge, the financial statements, and other
+ financial information included in this report, fairly present
+ in all material respects the financial condition, results of
+ operations and cash flows of the registrant as of, and for,
+ the periods presented in this report;
+
+ 4. The registrant's other certifying officer(s) and I are
+ responsible for establishing and maintaining disclosure
+ controls and procedures (as defined in Exchange Act Rules
+ 13a-15(e) and 15d-15(e)) for the registrant and have:
+
+ (a) Designed such disclosure controls and procedures, or
+ caused such disclosure controls and procedures to be
+ designed under our supervision, to ensure that
+ material information relating to the registrant,
+ including its consolidated subsidiaries, is made
+ known to us by others within those entitites,
+ particularly during the period in which this report
+ is being prepared;
+
+ (b) Evaluated the effectiveness of the registrant's
+ disclosure controls and procedures and presented in
+ this report our conclusions about the effectiveness
+ of the disclosure controls and procedures, as of the
+ end of the period covered by this report based on
+ such evaluation; and
+
+ (c) Disclosed in this report any change in the
+ registrant's internal control over financial
+ reporting that occurred during the registrant's most
+ recent fiscal quarter (the registrant's fourth fiscal
+ quarter in the case of an annual report) that has
+ materially affected, or is reasonably likely to
+ materially affect, the registrant's internal control
+ over financial reporting; and
+
+ 5. The registrant's other certifying officer(s) and I have
+ disclosed, based on our most recent evaluation of internal
+ control over financial reporting, to the registrant's auditors
+ and the audit committee of the registrant's board of directors
+ (or persons performing the equivalent functions):
+
+ (a) All significant deficiencies and material weaknesses
+ in the design or operation of internal control over
+ financial reporting which are reasonably likely to
+ adversely affect the registrant's ability to record,
+ process, summarize and report financial information;
+ and
+
+ (b) Any fraud, whether or not material, that involves
+ management or other employees who have a significant
+ role in the registrant's internal control over
+ financial reporting.
+
+Dated: January 28, 2004
+
+ /s/ James L. Fox
+ ------------------------------
+ James L. Fox
+ Chief Financial Officer
+
+ 25
+
+</EX-31.2>
+
+<EX-32>
+ 5
+ l05317aexv32.txt
+ EXHIBIT 32
+
+EXHIBIT 32
+
+ CERTIFICATION PURSUANT TO
+ 18 U.S.C. SECTION 1350,
+ AS ADOPTED PURSUANT TO
+ SECTION 906 OF SARBANES-OXLEY ACT OF 2002
+
+ I, Dennis R. Sheehan, the Chief Executive Officer of The BISYS Group,
+Inc. (the "Company"), hereby certify, pursuant to 18 U.S.C. Section 1350, as
+adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002, that the Form
+10-Q of the Company for the fiscal quarter ended December 31, 2003 (the "Form
+10-Q"), which this certification accompanies, fully complies with the
+requirements of Section 13(a) or 15(d) of the Securities Exchange Act of 1934
+(15 U.S.C. 78m or 78o(d)) and information contained in the Form 10-Q fairly
+presents, in all material respects, the financial condition and results of
+operations of the Company.
+
+Dated: January 28, 2004
+
+ /s/ Dennis R. Sheehan
+ ---------------------------
+ Dennis R. Sheehan
+
+ 26
+
+EXHIBIT 32
+
+ CERTIFICATION PURSUANT TO
+ 18 U.S.C. SECTION 1350,
+ AS ADOPTED PURSUANT TO
+ SECTION 906 OF SARBANES-OXLEY ACT OF 2002
+
+ I, James L. Fox, the Chief Financial Officer of The BISYS Group, Inc.
+(the "Company"), hereby certify, pursuant to 18 U.S.C. Section 1350, as adopted
+pursuant to Section 906 of the Sarbanes-Oxley Act of 2002, that the Form 10-Q of
+the Company for the fiscal quarter ended December 31, 2003 (the "Form 10-Q"),
+which this certification accompanies, fully complies with the requirements of
+Section 13(a) or 15(d) of the Securities Exchange Act of 1934 (15 U.S.C. 78m or
+78o(d)) and information contained in the Form 10-Q fairly presents, in all
+material respects, the financial condition and results of operations of the
+Company.
+
+Dated: January 28, 2004
+
+ /s/ James L. Fox
+ --------------------------
+ James L. Fox
+
+ 27
+
+</EX-32>
+

@@ -1,0 +1,3352 @@
+<Header>
+<FileStats>
+    <FileName>20040114_10-Q_edgar_data_1045545_0001193125-04-004267.txt</FileName>
+    <GrossFileSize>643812</GrossFileSize>
+    <NetFileSize>64934</NetFileSize>
+    <NonText_DocumentType_Chars>0</NonText_DocumentType_Chars>
+    <HTML_Chars>510439</HTML_Chars>
+    <XBRL_Chars>0</XBRL_Chars>
+    <XML_Chars>0</XML_Chars>
+    <N_Exhibits>4</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0001193125-04-004267.hdr.sgml : 20040114
+<ACCEPTANCE-DATETIME>20040114155640
+ACCESSION NUMBER:		0001193125-04-004267
+CONFORMED SUBMISSION TYPE:	10-Q
+PUBLIC DOCUMENT COUNT:		5
+CONFORMED PERIOD OF REPORT:	20031130
+FILED AS OF DATE:		20040114
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			UNITED REFINING CO
+		CENTRAL INDEX KEY:			0000101462
+		STANDARD INDUSTRIAL CLASSIFICATION:	PETROLEUM REFINING [2911]
+		IRS NUMBER:				251411751
+		STATE OF INCORPORATION:			PA
+		FISCAL YEAR END:			0831
+
+	FILING VALUES:
+		FORM TYPE:		10-Q
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-06198
+		FILM NUMBER:		04525024
+
+	BUSINESS ADDRESS:	
+		STREET 1:		15 BRADLEY ST
+		CITY:			WARREN
+		STATE:			PA
+		ZIP:			16365
+		BUSINESS PHONE:		8147231500
+
+	MAIL ADDRESS:	
+		STREET 1:		15 BRADLEY ST
+		CITY:			WARREN
+		STATE:			PA
+		ZIP:			16365
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			KIANTONE PIPELINE CORP
+		CENTRAL INDEX KEY:			0000830253
+		STANDARD INDUSTRIAL CLASSIFICATION:	PETROLEUM REFINING [2911]
+		IRS NUMBER:				251211902
+		STATE OF INCORPORATION:			NY
+
+	FILING VALUES:
+		FORM TYPE:		10-Q
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	333-35083-01
+		FILM NUMBER:		04525023
+
+	BUSINESS ADDRESS:	
+		STREET 1:		15 BRADLEY ST
+		CITY:			WARREN
+		STATE:			PA
+		ZIP:			16365
+		BUSINESS PHONE:		8147231500
+
+	MAIL ADDRESS:	
+		STREET 1:		15 BRADLEY ST
+		CITY:			WARREN
+		STATE:			PA
+		ZIP:			16365
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			UNITED REFINING CO /PA/
+		CENTRAL INDEX KEY:			0001040270
+		IRS NUMBER:				250850960
+		STATE OF INCORPORATION:			PA
+		FISCAL YEAR END:			0831
+
+	FILING VALUES:
+		FORM TYPE:		10-Q
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	333-35083-02
+		FILM NUMBER:		04525021
+
+	BUSINESS ADDRESS:	
+		STREET 1:		15 BRADLEY ST
+		CITY:			WARREN
+		STATE:			PA
+		ZIP:			16365
+		BUSINESS PHONE:		8147231500
+
+	MAIL ADDRESS:	
+		STREET 1:		15 BRADLEY ST
+		CITY:			WARREN
+		STATE:			PA
+		ZIP:			16365
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			KIANTONE PIPELINE CO
+		CENTRAL INDEX KEY:			0001045539
+		STATE OF INCORPORATION:			PA
+		FISCAL YEAR END:			0831
+
+	FILING VALUES:
+		FORM TYPE:		10-Q
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	333-35083-03
+		FILM NUMBER:		04525022
+
+	BUSINESS ADDRESS:	
+		STREET 1:		15 BRADLEY ST
+		CITY:			WARREN
+		STATE:			PA
+		ZIP:			16365
+		BUSINESS PHONE:		8147231500
+
+	MAIL ADDRESS:	
+		STREET 1:		15 BRADLEY ST
+		CITY:			WARREN
+		STATE:			PA
+		ZIP:			16365
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			KWIK FIL INC
+		CENTRAL INDEX KEY:			0001045540
+		STATE OF INCORPORATION:			PA
+		FISCAL YEAR END:			0831
+
+	FILING VALUES:
+		FORM TYPE:		10-Q
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	333-35083-04
+		FILM NUMBER:		04525026
+
+	BUSINESS ADDRESS:	
+		STREET 1:		15 BRADLEY ST
+		CITY:			WARREN
+		STATE:			PA
+		ZIP:			16365
+		BUSINESS PHONE:		8147231500
+
+	MAIL ADDRESS:	
+		STREET 1:		15 BRADLEY ST
+		CITY:			WARREN
+		STATE:			PA
+		ZIP:			16365
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			KWIK FILL INC
+		CENTRAL INDEX KEY:			0001045541
+		STATE OF INCORPORATION:			PA
+		FISCAL YEAR END:			0831
+
+	FILING VALUES:
+		FORM TYPE:		10-Q
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	333-35083-05
+		FILM NUMBER:		04525031
+
+	BUSINESS ADDRESS:	
+		STREET 1:		15 BRADLEY ST
+		CITY:			WARREN
+		STATE:			PA
+		ZIP:			16365
+		BUSINESS PHONE:		8147231500
+
+	MAIL ADDRESS:	
+		STREET 1:		15 BRADLEY ST
+		CITY:			WARREN
+		STATE:			PA
+		ZIP:			16365
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			UNITED JET CENTER INC
+		CENTRAL INDEX KEY:			0001045542
+		STATE OF INCORPORATION:			PA
+		FISCAL YEAR END:			0831
+
+	FILING VALUES:
+		FORM TYPE:		10-Q
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	333-35083-06
+		FILM NUMBER:		04525020
+
+	BUSINESS ADDRESS:	
+		STREET 1:		15 BRADLEY ST
+		CITY:			WARREN
+		STATE:			PA
+		ZIP:			16365
+		BUSINESS PHONE:		8147231500
+
+	MAIL ADDRESS:	
+		STREET 1:		15 BRADLEY ST
+		CITY:			WARREN
+		STATE:			PA
+		ZIP:			16365
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			BELL OIL CORP
+		CENTRAL INDEX KEY:			0001045543
+		STATE OF INCORPORATION:			PA
+		FISCAL YEAR END:			0831
+
+	FILING VALUES:
+		FORM TYPE:		10-Q
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	333-35083-07
+		FILM NUMBER:		04525029
+
+	BUSINESS ADDRESS:	
+		STREET 1:		15 BRADLEY ST
+		CITY:			WARREN
+		STATE:			PA
+		ZIP:			16365
+		BUSINESS PHONE:		8147231500
+
+	MAIL ADDRESS:	
+		STREET 1:		15 BRADLEY ST
+		CITY:			WARREN
+		STATE:			PA
+		ZIP:			16365
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			PPC INC
+		CENTRAL INDEX KEY:			0001045544
+		STATE OF INCORPORATION:			PA
+		FISCAL YEAR END:			0831
+
+	FILING VALUES:
+		FORM TYPE:		10-Q
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	333-35083-08
+		FILM NUMBER:		04525028
+
+	BUSINESS ADDRESS:	
+		STREET 1:		15 BRADLEY ST
+		CITY:			WARREN
+		STATE:			PA
+		ZIP:			16365
+		BUSINESS PHONE:		8147231500
+
+	MAIL ADDRESS:	
+		STREET 1:		15 BRADLEY ST
+		CITY:			WARREN
+		STATE:			PA
+		ZIP:			16365
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			SUPER TEST PETROLEUM INC
+		CENTRAL INDEX KEY:			0001045545
+		STATE OF INCORPORATION:			PA
+		FISCAL YEAR END:			0831
+
+	FILING VALUES:
+		FORM TYPE:		10-Q
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	333-35083-09
+		FILM NUMBER:		04525027
+
+	BUSINESS ADDRESS:	
+		STREET 1:		15 BRADLEY ST
+		CITY:			WARREN
+		STATE:			PA
+		ZIP:			16365
+		BUSINESS PHONE:		8147231500
+
+	MAIL ADDRESS:	
+		STREET 1:		15 BRADLEY ST
+		CITY:			WARREN
+		STATE:			PA
+		ZIP:			16365
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			VULCAN ASPHALT REFINING CORP
+		CENTRAL INDEX KEY:			0001045546
+		STATE OF INCORPORATION:			PA
+		FISCAL YEAR END:			0831
+
+	FILING VALUES:
+		FORM TYPE:		10-Q
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	333-35083-10
+		FILM NUMBER:		04525025
+
+	BUSINESS ADDRESS:	
+		STREET 1:		15 BRADLEY ST
+		CITY:			WARREN
+		STATE:			PA
+		ZIP:			16365
+		BUSINESS PHONE:		8147231500
+
+	MAIL ADDRESS:	
+		STREET 1:		15 BRADLEY ST
+		CITY:			WARREN
+		STATE:			PA
+		ZIP:			16365
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			INDEPENDENT GASOLINE & OIL CO OF ROCHESTER
+		CENTRAL INDEX KEY:			0001045547
+		STATE OF INCORPORATION:			PA
+		FISCAL YEAR END:			0831
+
+	FILING VALUES:
+		FORM TYPE:		10-Q
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	333-35083-11
+		FILM NUMBER:		04525030
+
+	BUSINESS ADDRESS:	
+		STREET 1:		15 BRADLEY ST
+		CITY:			WARREN
+		STATE:			PA
+		ZIP:			16365
+		BUSINESS PHONE:		8147231500
+
+	MAIL ADDRESS:	
+		STREET 1:		15 BRADLEY ST
+		CITY:			WARREN
+		STATE:			PA
+		ZIP:			16365
+
+</SEC-Header>
+</Header>
+
+ 
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ IjI3IWuP2S3092vhFqOnQWZUhx6ZOOrDbSY2hlC2Pm+ga78LMk+aT78hPrzpq/Ev
+ U0HqM45uqAvX9EyLbGGMDA==
+
+ 0001193125-04-004267.txt : 20040114
+
+10-Q
+ 1
+ d10q.htm
+ FORM 10-Q
+
+Form 10-Q 
+
+SECURITIES AND EXCHANGE COMMISSION Washington, D.C. 20549 FORM 10-Q (Mark One) 
+
+QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+
+FOR THE PERIOD ENDED NOVEMBER 30, 2003 
+
+TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+
+For the transition period from to
+ Commission File No. 333-35083 UNITED REFINING COMPANY (Exact name of registrant as specified in its charter) 
+
+Pennsylvania 
+ 
+ 25-1411751 
+ 
+ (State or other jurisdiction of incorporation or organization) 
+ 
+ (I.R.S. Employer Identification No.) 
+
+15 Bradley Street Warren, Pennsylvania 
+ 
+ 16365 
+ 
+ (Address of principal executive office) 
+ 
+ (Zip Code) 
+ 814-726-4674
+ Registrant s telephone number, including area code Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15 (d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was
+required to file such reports), and (2) has been subject to such filing requirements for the past 90 days. Yes No Number of shares outstanding of Registrant s Common Stock as of January 14, 2004: 100. Indicate by check mark whether the registrant is an accelerated filer (as defined in Rule 12b-2 of the Exchange
+Act). Yes No 
+
+TABLE OF ADDITIONAL REGISTRANTS 
+
+Name 
+ 
+ State of Other Jurisdiction of Incorporation 
+ 
+ Primary Standard Industrial Classification Number 
+ 
+ IRS Employer Identification Number 
+ 
+ Commission File Number 
+ 
+ Kiantone Pipeline Corporation 
+ 
+ New York 
+ 
+ 4612 
+ 
+ 25-1211902 
+ 
+ 333-35083-01 
+ 
+ Kiantone Pipeline Company 
+ 
+ Pennsylvania 
+ 
+ 4600 
+ 
+ 25-1416278 
+ 
+ 333-35083-03 
+ 
+ United Refining Company of Pennsylvania 
+ 
+ Pennsylvania 
+ 
+ 5541 
+ 
+ 25-0850960 
+ 
+ 333-35083-02 
+ 
+ United Jet Center, Inc. 
+ 
+ Delaware 
+ 
+ 4500 
+ 
+ 52-1623169 
+ 
+ 333-35083-06 
+ 
+ Kwik-Fill Corporation 
+ 
+ Pennsylvania 
+ 
+ 5541 
+ 
+ 25-1525543 
+ 
+ 333-35083-05 
+ 
+ Independent Gas and Oil Company of Rochester, Inc. 
+ 
+ New York 
+ 
+ 5170 
+ 
+ 06-1217388 
+ 
+ 333-35083-11 
+ 
+ Bell Oil Corp. 
+ 
+ Michigan 
+ 
+ 5541 
+ 
+ 38-1884781 
+ 
+ 333-35083-07 
+ 
+ PPC, Inc. 
+ 
+ Ohio 
+ 
+ 5541 
+ 
+ 31-0821706 
+ 
+ 333-35083-08 
+ 
+ Super Test Petroleum, Inc. 
+ 
+ Michigan 
+ 
+ 5541 
+ 
+ 38-1901439 
+ 
+ 333-35083-09 
+ 
+ Kwik-Fil, Inc. 
+ 
+ New York 
+ 
+ 5541 
+ 
+ 25-1525615 
+ 
+ 333-35083-04 
+ 
+ Vulcan Asphalt Refining Corporation 
+ 
+ Delaware 
+ 
+ 2911 
+ 
+ 23-2486891 
+ 
+ 333-35083-10 
+ 
+ 2 
+
+PAGE(S) 
+ 
+ PART I. 
+ 
+ FINANCIAL INFORMATION 
+
+Item 1. 
+ 
+ Financial Statements 
+
+Consolidated Balance Sheets November 30, 2003 (unaudited) and August 31, 2003 
+ 
+ 4 
+
+Consolidated Statements of Operations Three Months Ended November 30, 2003 and 2002 (unaudited) 
+ 
+ 5 
+
+Consolidated Statements of Cash Flows Three Months Ended November 30, 2003 and 2002 (unaudited) 
+ 
+ 6 
+
+Notes to Consolidated Financial Statements (unaudited) 
+ 
+ 7-14 
+
+Item 2. 
+
+Management s Discussion and Analysis of Financial Condition and Results of Operations 
+ 
+ 15-21 
+
+Item 3. 
+
+Quantitative and Qualitative Disclosures about Market Risk 
+ 
+ 22 
+
+Item 4. 
+
+Controls and Procedures 
+ 
+ 22 
+
+PART II. 
+
+OTHER INFORMATION 
+ 
+ 23 
+
+Item 6. 
+
+Exhibits and Reports on Form 8-K 
+ 
+ 23 
+
+Signatures 
+ 
+ 24-35 
+
+(a) 
+ 
+ Exhibit Index 
+
+Exhibit 31.1 
+ 
+ Certification of Chief Executive Officer pursuant to Section 302 
+
+Exhibit 31.2 
+ 
+ Certification of Chief Financial Officer pursuant to Section 302 
+
+Exhibit 32.1 
+ 
+ Certification of Chief Executive Officer and Chief Financial Officer pursuant to 18 U.S.C. Section 1350, as adopted pursuant to
+Section 906 
+
+Exhibit 99.1 
+ 
+ Press release announcing first fiscal quarter operating results 
+
+(b) 
+ 
+ No reports on Forms 8-K have been filed for the quarter for which this report is being filed. 
+
+3 
+
+UNITED REFINING COMPANY AND SUBSIDIARIES CONSOLIDATED BALANCE SHEETS (in thousands, except share amounts) 
+
+November 30, 2003 (Unaudited) 
+
+August 31, 2003 
+
+Assets 
+
+Current: 
+
+Cash and cash equivalents 
+
+11,811 
+
+13,819 
+
+Accounts receivable, net 
+
+37,278 
+
+42,732 
+
+Inventories 
+
+89,543 
+
+76,123 
+
+Prepaid expenses and other assets 
+
+16,423 
+
+10,336 
+
+Amounts due from affiliated companies, net 
+
+639 
+
+Total current assets 
+
+155,055 
+
+143,649 
+
+Property, plant and equipment, net 
+
+185,947 
+
+186,879 
+
+Investment in affiliated company 
+
+640 
+
+574 
+
+Deferred financing costs, net 
+
+2,739 
+
+2,963 
+
+Goodwill 
+
+1,349 
+
+1,349 
+
+Tradename 
+
+10,500 
+
+10,500 
+
+Amortizable intangible assets, net 
+
+3,561 
+
+3,588 
+
+Deferred turnaround costs and other assets, net 
+
+8,088 
+
+8,217 
+
+Deferred income taxes 
+
+3,709 
+
+367,879 
+
+361,428 
+
+Liabilities and Stockholder s Equity 
+
+Current: 
+
+Revolving credit facility 
+
+30,500 
+
+31,500 
+
+Current installments of long-term debt 
+
+649 
+
+683 
+
+Accounts payable 
+
+34,852 
+
+35,111 
+
+Accrued liabilities 
+
+20,590 
+
+15,707 
+
+Sales, use and fuel taxes payable 
+
+16,250 
+
+17,853 
+
+Deferred income taxes 
+
+4,168 
+
+5,157 
+
+Amounts due to affiliated companies, net 
+
+426 
+
+Total current liabilities 
+
+107,435 
+
+106,011 
+
+Long term debt: less current installments 
+
+182,062 
+
+182,227 
+
+Deferred income taxes 
+
+161 
+
+Deferred gain on settlement of pension plan obligations 
+
+1,076 
+
+1,130 
+
+Deferred retirement benefits 
+
+28,680 
+
+28,398 
+
+Other noncurrent liabilities 
+
+2,033 
+
+1,687 
+
+Total liabilities 
+
+321,447 
+
+319,453 
+
+Commitments and contingencies 
+
+Stockholder s equity: 
+
+Common stock; .10 par value per share shares authorized 100; issued and outstanding 100 
+
+Additional paid-in capital 
+
+16,648 
+
+16,648 
+
+Retained earnings 
+
+30,824 
+
+26,367 
+
+Accumulated other comprehensive loss 
+
+(1,040) 
+
+(1,040) 
+
+Total stockholder s equity 
+
+46,432 
+
+41,975 
+
+367,879 
+
+361,428 
+
+4 
+
+UNITED REFINING COMPANY AND SUBSIDIARIES CONSOLIDATED STATEMENTS OF OPERATIONS (Unaudited) (in thousands) 
+
+Three Months Ended November 30, 
+
+2003 
+
+2002 
+
+Net sales 
+
+330,815 
+
+293,305 
+
+Costs of goods sold 
+
+287,004 
+
+265,319 
+
+Gross profit 
+
+43,811 
+
+27,986 
+
+Expenses: 
+
+Selling, general and administrative expenses 
+
+27,503 
+
+26,328 
+
+Depreciation and amortization expenses 
+
+3,204 
+
+3,303 
+
+Total operating expenses 
+
+30,707 
+
+29,631 
+
+Operating income (loss) 
+
+13,104 
+
+(1,645) 
+
+Other income (expense): 
+
+Interest expense, net 
+
+(5,170) 
+
+(5,201) 
+ 
+ Other, net 
+
+(532) 
+
+(68) 
+ 
+ Equity in net earnings of affiliate 
+
+66 
+
+51 
+
+(5,636) 
+
+(5,218) 
+
+Income (loss) before income tax expense (benefit) 
+
+7,468 
+
+(6,863) 
+ 
+ Income tax expense (benefit) 
+
+3,011 
+
+(2,645) 
+
+Net income (loss) 
+
+4,457 
+
+(4,218) 
+
+5 
+
+UNITED REFINING COMPANY AND SUBSIDIARIES CONSOLIDATED STATEMENTS OF CASH FLOWS (Unaudited) (in thousands) 
+
+Three Months Ended November 30, 
+
+2003 
+
+2002 
+
+Cash flows from operating activities: 
+
+Net income (loss) 
+
+4,457 
+
+(4,218) 
+ 
+ Adjustments to reconcile net income (loss) to net cash provided by (used in) operating activities: 
+
+Depreciation and amortization 
+
+4,146 
+
+4,214 
+
+Equity in net earnings of affiliate 
+
+(66) 
+
+(51) 
+ 
+ Deferred income taxes 
+
+2,881 
+
+(3,110) 
+ 
+ Loss on asset dispositions 
+
+94 
+
+33 
+
+Cash used in working capital items 
+
+(9,967) 
+
+(1,789) 
+ 
+ Change in operating assets and liabilities: 
+
+Deferred retirement benefits 
+
+282 
+
+(609) 
+ 
+ Other noncurrent liabilities 
+
+224 
+
+(316) 
+
+Total adjustments 
+
+(2,406) 
+
+(1,628) 
+
+Net cash provided by (used in) operating activities 
+
+2,051 
+
+(5,846) 
+
+Cash flows from investing activities: 
+
+Additions to property, plant and equipment 
+
+(2,217) 
+
+(2,048) 
+ 
+ Additions to turnaround costs 
+
+(643) 
+
+(1,930) 
+
+Net cash used in investing activities 
+
+(2,860) 
+
+(3,978) 
+
+Cash flows from financing activities: 
+
+Net (reductions) borrowings on revolving credit facility 
+
+(1,000) 
+
+5,686 
+
+Principal reductions of long-term debt 
+
+(199) 
+
+(49) 
+
+Net cash (used in) provided by financing activities 
+
+(1,199) 
+
+5,637 
+
+Net decrease in cash and cash equivalents 
+
+(2,008) 
+
+(4,187) 
+ 
+ Cash and cash equivalents, beginning of year 
+
+13,819 
+
+13,515 
+
+Cash and cash equivalents, end of year 
+
+11,811 
+
+9,328 
+
+Cash used in working capital items: 
+
+Accounts receivable, net 
+
+5,454 
+
+(1,258) 
+ 
+ Inventories 
+
+(13,420) 
+
+12,881 
+
+Prepaid expenses and other assets 
+
+(6,087) 
+
+(1,861) 
+ 
+ Refundable income taxes 
+
+Accounts payable 
+
+(259) 
+
+(20,074) 
+ 
+ Accrued liabilities 
+
+4,883 
+
+9,486 
+
+Amounts due to affiliated companies, net 
+
+1,065 
+
+1,037 
+
+Income taxes payable 
+
+Sales, use and fuel taxes payable 
+
+(1,603) 
+
+(2,000) 
+
+Total change 
+
+(9,967) 
+
+(1,789) 
+
+Cash paid (received) during the period for: 
+
+Interest 
+
+515 
+
+595 
+
+Income taxes 
+
+(14) 
+
+145 
+
+6 
+
+UNITED REFINING COMPANY AND SUBSIDIARIES NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Unaudited) 1. Description of Business and Basis of Presentation The consolidated financial statements include the accounts of United
+Refining Company and its subsidiaries, United Refining Company of Pennsylvania and its subsidiaries, and Kiantone Pipeline Corporation (collectively, the Company ). All significant intercompany balances and transactions have been
+eliminated in consolidation. The Company is a petroleum
+refiner and marketer in its primary market area of Western New York and Northwestern Pennsylvania. Operations are organized into two business segments: wholesale and retail. The wholesale segment is responsible for the acquisition of crude oil, petroleum refining, supplying petroleum products to
+the retail segment and the marketing of petroleum products to wholesale and industrial customers. The retail segment sells petroleum products under the Kwik Fill , Citgo and Keystone brand names at a network of Company-operated retail units and convenience and grocery items through Company-owned gasoline stations and convenience stores under the Red Apple Food
+Mart and Country Fair brand names. The Company is a wholly-owned subsidiary of United Refining, Inc., a wholly-owned subsidiary of United Acquisition
+Corporation, which in turn is a wholly-owned subsidiary of Red Apple Group, Inc. (the Parent ). 2. Recent Accounting Pronouncements In January 2003, the Financial Accounting Standards Board FASB issued Interpretation No. 46, Consolidation of Variable Interest
+Entities Interpretation 46 ). Interpretation 46 clarifies the application of Accounting Research Bulletin No. 51, Consolidated Financial Statements , to certain entities in which equity investors do not have the
+characteristics of a controlling financial interest or do not have sufficient equity at risk for the entity to finance its activities without additional subordinated financial support from other parties. Interpretation 46 is applicable immediately
+for variable interest entities created after January 31, 2003. For variable interest entities created prior to February 1, 2003, the provisions of Interpretation 46 are applicable no later than the end of the first reporting period ending after
+December 15, 2003. If any entity is determined to be a
+variable interest entity, it must be consolidated by the enterprise that absorbs the majority of the entity s expected losses if they occur, receives a majority of the entity s expected residual returns if they occur, or both. Where it is
+reasonably possible that the enterprise will consolidate or disclose information about a variable interest entity, the enterprise must disclose the nature, purpose, size and activity of the variable interest entity and the enterprise s maximum
+exposure to loss as a result of its involvement with the variable interest entity in all financial statements issued after January 31, 2003. On October 9, 2003, the FASB issued FASB Staff Position No. FIN 46-6 Effective Date of FASB
+Interpretation No. 46, Consolidation of Variable Interest Entities, which defers the implementation date for public entities that hold an interest in a variable interest entity or potential variable interest entity from the first fiscal year
+or interim period beginning after June 15, 2003 to the end of the first interim period or annual period ending after December 15, 2003. This deferral applies only if (1) the variable interest entity was created before February 1, 2003 and (2) the
+public entity has not issued financial statements reporting that variable interest entity in accordance with FIN 46, other than disclosures required by paragraph 26 of FIN 46. The Company does not expect Interpretation 46 to have a material impact on its consolidated financial position or results of
+operations. 3. Subsidiary Guarantors 
+ Certain of United Refining Company s (the issuer subsidiaries function as guarantors under the terms of the 200,000,000 Senior Unsecured Note Indenture due June 9, 2007. Financial information for the issuer and its wholly owned subsidiary guarantors is as follows: 
+ 7 
+
+UNITED REFINING COMPANY AND SUBSIDIARIES NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+ (Unaudited) 
+ CONDENSED CONSOLIDATING BALANCE SHEETS (in thousands) 
+
+November 30, 2003 
+
+Issuer 
+
+Guarantors 
+ 
+ Eliminations 
+
+Consolidated 
+
+Assets 
+
+Current: 
+
+Cash and cash equivalents 
+
+2,859 
+
+8,952 
+
+11,811 
+
+Accounts receivable, net 
+
+27,175 
+
+10,103 
+
+37,278 
+
+Inventories 
+
+69,875 
+
+19,668 
+
+89,543 
+
+Prepaid expenses and other assets 
+
+12,956 
+
+3,467 
+
+16,423 
+
+Amounts due from affiliated companies, net 
+
+Intercompany 
+
+86,284 
+
+19,249 
+
+(105,533) 
+
+Total current assets 
+
+199,149 
+
+61,439 
+
+(105,533) 
+
+155,055 
+
+Property, plant and equipment, net 
+
+116,430 
+
+69,517 
+
+185,947 
+
+Investment in affiliated company 
+
+640 
+
+640 
+
+Deferred financing costs, net 
+
+2,739 
+
+2,739 
+
+Goodwill and other non-amortizable assets 
+
+11,849 
+
+11,849 
+
+Amortizable intangible assets, net 
+
+3,561 
+
+3,561 
+
+Deferred turnaround costs other assets, net 
+
+7,606 
+
+1,653 
+
+(1,171) 
+
+8,088 
+
+Deferred income taxes 
+
+326,564 
+
+148,019 
+
+(106,704) 
+
+367,879 
+
+Liabilities and Stockholder s Equity 
+
+Current: 
+
+Revolving credit facility 
+
+30,500 
+
+30,500 
+
+Current installments of long-term debt 
+
+91 
+
+558 
+
+649 
+
+Accounts payable 
+
+22,015 
+
+12,837 
+
+34,852 
+
+Accrued liabilities 
+
+15,993 
+
+4,597 
+
+20,590 
+
+Sales, use and fuel taxes payable 
+
+13,830 
+
+2,420 
+
+16,250 
+
+Deferred income taxes 
+
+4,134 
+
+34 
+
+4,168 
+
+Amounts due to affiliated companies, net 
+
+10 
+
+416 
+
+426 
+
+Intercompany 
+
+105,533 
+
+(105,533) 
+
+Total current liabilities 
+
+86,573 
+
+126,395 
+
+(105,533) 
+
+107,435 
+
+Long term debt: less current installments 
+
+180,352 
+
+1,710 
+
+182,062 
+
+Deferred income taxes 
+
+(3,373) 
+
+3,534 
+
+161 
+
+Deferred gain on settlement of pension plan obligations 
+
+1,076 
+
+1,076 
+
+Deferred retirement benefits 
+
+27,659 
+
+1,021 
+
+28,680 
+
+Other noncurrent liabilities 
+
+2,033 
+
+2,033 
+
+Total liabilities 
+
+292,287 
+
+134,693 
+
+(105,533) 
+
+321,447 
+
+Commitment and contingencies 
+
+Stockholder s equity 
+
+Common stock, .10 par value per share shares authorized 100; issued and outstanding 100 
+
+18 
+
+(18) 
+
+Additional paid-in capital 
+
+7,150 
+
+10,651 
+
+(1,153) 
+
+16,648 
+
+Retained earnings 
+
+28,167 
+
+2,657 
+
+30,824 
+
+Accumulated other comprehensive loss 
+
+(1,040) 
+
+(1,040) 
+
+Total stockholder s equity 
+
+34,277 
+
+13,326 
+
+(1,171) 
+
+46,432 
+
+326,564 
+
+148,019 
+
+(106,704) 
+
+367,879 
+
+8 
+
+UNITED REFINING COMPANY AND SUBSIDIARIES NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+ (Unaudited) 
+
+August 31, 2003 
+
+Issuer 
+
+Guarantors 
+
+Eliminations 
+
+Consolidated 
+
+Assets 
+
+Current: 
+
+Cash and cash equivalents 
+
+3,383 
+
+10,436 
+
+13,819 
+
+Accounts receivable, net 
+
+31,780 
+
+10,952 
+
+42,732 
+
+Inventories 
+
+55,435 
+
+20,688 
+
+76,123 
+
+Prepaid expenses and other assets 
+
+9,453 
+
+883 
+
+10,336 
+
+Amounts due from affiliated companies, net 
+
+1,186 
+
+(547) 
+
+639 
+
+Intercompany 
+
+88,123 
+
+19,467 
+
+(107,590) 
+
+Total current assets 
+
+189,360 
+
+61,879 
+
+(107,590) 
+
+143,649 
+
+Property, plant and equipment, net 
+
+117,149 
+
+69,730 
+
+186,879 
+
+Investment in affiliated company 
+
+574 
+
+574 
+
+Deferred financing costs, net 
+
+2,963 
+
+2,963 
+
+Goodwill and other non-amortizable assets 
+
+11,849 
+
+11,849 
+
+Amortizable intangible assets, net 
+
+3,588 
+
+3,588 
+
+Deferred turnaround costs other assets, net 
+
+8,204 
+
+1,184 
+
+(1,171) 
+
+8,217 
+
+Deferred income taxes 
+
+7,455 
+
+(3,746) 
+
+3,709 
+
+325,705 
+
+144,484 
+
+(108,761) 
+
+361,428 
+
+Liabilities and Stockholder s Equity 
+
+Current: 
+
+Revolving credit facility 
+
+31,500 
+
+31,500 
+
+Current installments of long-term debt 
+
+89 
+
+594 
+
+683 
+
+Accounts payable 
+
+19,906 
+
+15,205 
+
+35,111 
+
+Accrued liabilities 
+
+11,708 
+
+3,999 
+
+15,707 
+
+Sales, use and fuel taxes payable 
+
+14,891 
+
+2,962 
+
+17,853 
+
+Deferred income taxes 
+
+5,123 
+
+34 
+
+5,157 
+
+Amounts due to affiliated companies, net 
+
+Intercompany 
+
+107,590 
+
+(107,590) 
+
+Total current liabilities 
+
+83,217 
+
+130,384 
+
+(107,590) 
+
+106,011 
+
+Long term debt: less current installments 
+
+180,375 
+
+1,852 
+
+182,227 
+
+Deferred income taxes 
+
+1,037 
+
+(1,037) 
+
+Deferred gain on settlement of pension plan obligations 
+
+1,130 
+
+1,130 
+
+Deferred retirement benefits 
+
+27,174 
+
+1,224 
+
+28,398 
+
+Other noncurrent liabilities 
+
+1,687 
+
+1,687 
+
+Total liabilities 
+
+292,933 
+
+134,110 
+
+(107,590) 
+
+319,453 
+
+Commitment and contingencies 
+
+Stockholder s equity 
+
+Common stock, .10 par value per share shares authorized 100; issued and outstanding 100 
+
+18 
+
+(18) 
+
+Additional paid-in capital 
+
+7,150 
+
+10,651 
+
+(1,153) 
+
+16,648 
+
+Retained earnings 
+
+26,662 
+
+(295) 
+
+26,367 
+
+Accumulated other comprehensive loss 
+
+(1,040) 
+
+(1,040) 
+
+Total stockholder s equity 
+
+32,772 
+
+10,374 
+
+(1,171) 
+
+41,975 
+
+325,705 
+
+144,484 
+
+(108,761) 
+
+361,428 
+
+9 
+
+UNITED REFINING COMPANY AND SUBSIDIARIES NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+ (Unaudited) 
+ CONDENSED CONSOLIDATING STATEMENTS OF OPERATIONS (in thousands) 
+
+Three Months Ended November 30, 2003 
+
+Issuer 
+
+Guarantors 
+
+Eliminations 
+
+Consolidated 
+
+Net sales 
+
+205,274 
+
+183,089 
+
+(57,548) 
+
+330,815 
+
+Costs of goods sold 
+
+191,224 
+
+153,328 
+
+(57,548) 
+
+287,004 
+
+Gross profit 
+
+14,050 
+
+29,761 
+
+43,811 
+
+Expenses: 
+
+Selling, general and administrative expenses 
+
+4,698 
+
+22,805 
+
+27,503 
+
+Depreciation and amortization expenses 
+
+2,144 
+
+1,060 
+
+3,204 
+
+Total operating expenses 
+
+6,842 
+
+23,865 
+
+30,707 
+
+Operating income (loss) 
+
+7,208 
+
+5,896 
+
+13,104 
+
+Other income (expense): 
+
+Interest expense, net 
+
+(4,231) 
+
+(939) 
+
+(5,170) 
+ 
+ Other, net 
+
+(572) 
+
+40 
+
+(532) 
+ 
+ Equity in net earnings of affiliate 
+
+66 
+
+66 
+
+(4,737) 
+
+(899) 
+
+(5,636) 
+
+Income (loss) before income tax expense (benefit) 
+
+2,471 
+
+4,997 
+
+7,468 
+
+Income tax expense (benefit) 
+
+966 
+
+2,045 
+
+3,011 
+
+Net income (loss) 
+
+1,505 
+
+2,952 
+
+4,457 
+
+10 
+
+UNITED REFINING COMPANY AND SUBSIDIARIES NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+ (Unaudited) 
+
+Three Months Ended November 30, 2002 
+
+Issuer 
+
+Guarantors 
+
+Eliminations 
+
+Consolidated 
+
+Net sales 
+
+173,260 
+
+176,557 
+
+(56,512) 
+
+293,305 
+
+Costs of goods sold 
+
+170,769 
+
+151,062 
+
+(56,512) 
+
+265,319 
+
+Gross profit 
+
+2,491 
+
+25,495 
+
+27,986 
+
+Expenses: 
+
+Selling, general and administrative expenses 
+
+4,035 
+
+22,293 
+
+26,328 
+
+Depreciation and amortization expenses 
+
+2,170 
+
+1,133 
+
+3,303 
+
+Total operating expenses 
+
+6,205 
+
+23,426 
+
+29,631 
+
+Operating income (loss) 
+
+(3,714) 
+
+2,069 
+
+(1,645) 
+
+Other income (expense): 
+
+Interest expense, net 
+
+(4,125) 
+
+(1,076) 
+
+(5,201) 
+ 
+ Other, net 
+
+(270) 
+
+202 
+
+(68) 
+ 
+ Equity in net earnings of affiliate 
+
+51 
+
+51 
+
+(4,344) 
+
+(874) 
+
+(5,218) 
+
+Income (loss) before income tax expense (benefit) 
+
+(8,058) 
+
+1,195 
+
+(6,863) 
+ 
+ Income tax expense (benefit) 
+
+(3,189) 
+
+544 
+
+(2,645) 
+
+Net income (loss) 
+
+(4,869) 
+
+651 
+
+(4,218) 
+
+11 
+
+UNITED REFINING COMPANY AND SUBSIDIARIES NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+ (Unaudited) 
+ CONDENSED CONSOLIDATING STATEMENTS OF CASH FLOWS (in thousands) 
+
+Three Months Ended November 30, 2003 
+
+Issuer 
+
+Guarantors 
+
+Eliminations 
+ 
+ Consolidated 
+
+Net cash provided by (used in) operating activities 
+
+2,071 
+
+(20) 
+
+2,051 
+
+Cash flows from investing activities: 
+
+Additions to property, plant and equipment 
+
+(1,425) 
+
+(792) 
+
+(2,217) 
+ 
+ Additions to deferred turnaround costs 
+
+(149) 
+
+(494) 
+
+(643) 
+
+Net cash used in investing activities 
+
+(1,574) 
+
+(1,286) 
+
+(2,860) 
+
+Cash flows from financing activities: 
+
+Net (reductions) borrowings on revolving credit facility 
+
+(1,000) 
+
+(1,000) 
+ 
+ Principal reductions of long-term debt 
+
+(21) 
+
+(178) 
+
+(199) 
+
+Net cash (used in) provided by financing activities 
+
+(1,021) 
+
+(178) 
+
+(1,199) 
+
+Net decrease in cash and cash equivalents 
+
+(524) 
+
+(1,484) 
+
+(2,008) 
+ 
+ Cash and cash equivalents, beginning of year 
+
+3,383 
+
+10,436 
+
+13,819 
+
+Cash and cash equivalents, end of period 
+
+2,859 
+
+8,952 
+
+11,811 
+
+12 
+
+UNITED REFINING COMPANY AND SUBSIDIARIES NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+ (Unaudited) 
+
+Three Months Ended November 30, 2002 
+
+Issuer 
+
+Guarantors 
+
+Eliminations 
+ 
+ Consolidated 
+
+Net cash provided by (used in) operating activities 
+
+(4,863) 
+
+(983) 
+
+(5,846) 
+
+Cash flows from investing activities: 
+
+Additions to property, plant and equipment 
+
+(1,709) 
+
+(339) 
+
+(2,048) 
+ 
+ Additions to deferred turnaround costs 
+
+(1,907) 
+
+(23) 
+
+(1,930) 
+
+Net cash used in investing activities 
+
+(3,616) 
+
+(362) 
+
+(3,978) 
+
+Cash flows from financing activities: 
+
+Net (reductions) borrowings on revolving credit facility 
+
+5,686 
+
+5,686 
+
+Principal reductions of long-term debt 
+
+(11) 
+
+(38) 
+
+(49) 
+
+Net cash (used in) provided by financing activities 
+
+5,675 
+
+(38) 
+
+5,637 
+
+Net decrease in cash and cash equivalents 
+
+(2,804) 
+
+(1,383) 
+
+(4,187) 
+ 
+ Cash and cash equivalents, beginning of year 
+
+4,254 
+
+9,261 
+
+13,515 
+
+Cash and cash equivalents, end of period 
+
+1,450 
+
+7,878 
+
+9,328 
+
+13 
+
+UNITED REFINING COMPANY AND SUBSIDIARIES NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+ (Unaudited) 
+ 4. Segments of Business Intersegment revenues are calculated using estimated market prices and are eliminated upon consolidation. Summarized
+financial information regarding the Company s reportable segments is presented in the following tables (in thousands): 
+
+Three Months Ended November 30, 
+
+2003 
+ 
+ 2002 
+
+Net Sales 
+
+Retail 
+
+181,863 
+
+175,659 
+
+Wholesale 
+
+148,952 
+
+117,646 
+
+330,815 
+
+293,305 
+
+Intersegment Sales 
+
+Wholesale 
+
+56,322 
+
+55,614 
+
+Operating Income (Loss) 
+
+Retail 
+
+5,789 
+
+2,154 
+
+Wholesale 
+
+7,315 
+
+(3,799) 
+
+13,104 
+
+(1,645) 
+
+Depreciation and Amortization 
+
+Retail 
+
+1,012 
+
+1,071 
+
+Wholesale 
+
+2,192 
+
+2,232 
+
+3,204 
+
+3,303 
+
+November 30, 2003 
+ 
+ August 31, 2003 
+ 
+ Total Assets 
+
+Retail 
+
+122,165 
+
+119,709 
+ 
+ Wholesale 
+
+245,714 
+
+241,719 
+
+367,879 
+
+361,428 
+
+Capital Expenditures (including non-cash) 
+
+Retail 
+
+762 
+
+2,456 
+ 
+ Wholesale 
+
+1,455 
+
+6,768 
+
+2,217 
+
+9,224 
+
+5. Secured
+Credit Facility The Company s secured credit
+facility currently provides for revolving credit loans and letters of credit in the amount of 50,000,000. The Company is currently negotiating with the Agent Bank to increase the facility commitment to 75,000,000 on a permanent basis; however,
+there are no assurances that such increase will be granted. 
+ 14 
+
+UNITED REFINING COMPANY AND SUBSIDIARIES 
+
+ITEM 2. 
+ 
+ MANAGEMENT S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS Forward Looking Statements This Quarterly Report on Form 10Q includes statements that constitute forward looking statements within the
+meaning of Section 27A of the Securities Act of 1933 and Section 21E of the Securities Exchange Act of 1934 and that are intended to come within the safe harbor protection provided by those sections. By their nature, all forward looking statements
+involve risk and uncertainties. Actual results may differ materially from those contemplated by the forward looking statements for a number of reasons. Although the Company believes that its expectations are based on reasonable assumptions within the bounds of its knowledge, investors and prospective
+investors are cautioned that such statements are only projections and that actual events or results may differ materially from those expressed in any such forward-looking statements. In addition to the factors discussed elsewhere in this report, the
+Company s actual consolidated quarterly or annual operating results have been affected in the past, or could be affected in the future, by additional factors, including, without limitation, general economic, business and market conditions;
+risks and uncertainties with respect to the actions of actual or potential competitive suppliers of refined petroleum products in the Company s markets, the demand for and supply of crude oil and refined products, the spread between market
+prices for refined products and market prices for crude oil, the possibility of inefficiencies or shutdowns in refinery operations or pipelines, the availability and cost of financing to the Company, environmental, tax and tobacco legislation or
+regulation; volatility of gasoline prices, margins and supplies; merchandising margins; labor costs; level of capital expenditures; customer traffic; weather conditions; acts of terrorism and war . Recent Developments Fiscal first quarter 2004 worldwide crude oil prices, as indicated by prices of crude oil contracts on the New York
+Mercantile Exchange (NYMEX), averaged 30.09/BBL and remained volatile. NYMEX crude oil prices for the second fiscal quarter of 2004 have continued to be volatile as seen by the current high price for February delivered crude oil, which has averaged
+almost 34/BBL for the first nine days of January. NYMEX average crude oil price for calendar 2003 was 30.81/BBL, 5.56/BBL above the prior year, and the highest average price in 20 years reflecting a year of geopolitical tensions,
+especially in the Middle East, supply disruptions from producers such as Venezuela, Nigeria and Iraq, increased speculation and lean crude oil stocks in the US. 
+ The recent crude oil price is uncharacteristically high and is due partially to the current cold weather, which fosters expectations that the already
+lean crude oil stocks may decrease further and that the cold Northeast may significantly reduce the current product stock inventories. For first quarter fiscal 2004 compared to the prior year quarter, the Company s average crude run cost per barrel increased 3.0 reflecting the 4.1 
+market trend mentioned above. The higher crude prices are keeping gasoline and diesel prices high, despite a comfortable supply. Compared to the prior year quarter, retail gasoline margins per gallon increased 39.6 and retail distillate margins per gallon increased 41.8 , which
+contributed to increased gross profit. Additionally, when comparing the first quarter fiscal 2004 to the fourth quarter fiscal 2003, the Company realized a 33.1 increase in retail gasoline margins per gallon and a 14.6 increase in retail
+distillate margins per gallon. Positive results were also seen
+in the wholesale sector as price increases were realized for wholesale gasoline (11.0 and distillate (3.5 while asphalt prices remained essentially unchanged. This profit improvement is due to a combination of market factors including the August
+2003 electrical power blackout in the Northeast and Midwest, certain unplanned and scheduled refinery maintenance in regional refineries, higher 
+ 
+ 15 
+
+light-heavy crude differential, and a more optimistic outlook for the U.S. economy. The pace of the economic recovery will be an important factor in
+determining future refinery margins. The Company s
+results continued to be influenced by the price discounts on heavy, sour crude oils. Since the refinery crude supply is comprised of approximately equal proportions of sour and sweet crude, the difference between their prices sweet-sour
+differential impacts the costs of goods sold and hence gross profit. For the recent quarter compared to the prior year quarter, the Company realized a favorable 25 increase in the light/heavy crude price differential. For the second fiscal
+quarter of 2004, this differential is expected to remain essentially the same or slightly better than the average for the first fiscal quarter. Results of Operations The Company is a petroleum refiner and marketer in its primary market area of Western New York and Northwestern Pennsylvania. Operations are organized
+into two business segments: wholesale and retail. The
+wholesale segment is responsible for the acquisition of crude oil, petroleum refining, supplying petroleum products to the retail segment and the marketing of petroleum products to wholesale and industrial customers. The retail segment sells
+petroleum products under the Kwik Fill , Citgo and Keystone brand names at a network of Company-operated retail units and convenience and grocery
+items through Company-owned gasoline stations and convenience stores under the, Red Apple Food Mart and Country Fair brand names. A discussion and
+analysis of the factors contributing to the Company s results of operations are presented below. The accompanying Consolidated Financial Statements and related Notes, together with the following information, are intended to supply investors
+with a reasonable basis for evaluating the Company s operations, but should not serve as the only criteria for predicting the Company s future performance. Retail Operations: 
+
+Three Months Ended November 30, 
+
+2003 
+
+2002 
+
+(dollars in thousands) 
+
+Net Sales 
+
+Petroleum 
+
+137,268 
+
+130,231 
+
+Merchandise and other 
+
+44,595 
+
+45,428 
+
+Total Net Sales 
+
+181,863 
+
+175,659 
+
+Costs of Goods Sold 
+
+152,365 
+
+150,237 
+
+Gross Profit 
+
+29,498 
+
+25,422 
+
+Operating Expenses 
+
+23,709 
+
+23,268 
+
+Segment Operating Income 
+
+5,789 
+
+2,154 
+
+Petroleum Sales (thousands of gallons) 
+
+86,013 
+
+89,770 
+
+Gross Profit 
+
+Petroleum(a) 
+
+16,668 
+
+12,438 
+
+Merchandise and other 
+
+12,830 
+
+12,984 
+
+29,498 
+
+25,422 
+
+Petroleum margin /gallon)(b) 
+
+.1938 
+
+.1386 
+
+Merchandise margin (percent of sales) 
+
+28.8 
+
+28.6 
+
+(a) 
+ 
+ Includes the effect of intersegment purchases from our wholesale segment at prices, which approximate market. 
+
+(b) 
+ 
+ Company management calculates petroleum margin per gallon by dividing petroleum gross margin by petroleum sales volumes. Management uses fuel margin per gallon calculations to
+compare profitability to other companies in the industry. Petroleum margin per gallon may not be comparable to similarly titled measures used by other companies in the industry. 
+ 16 
+
+Comparison of Fiscal Quarters ended November 30, 2003 and November 30, 2002 Net Sales Retail sales increased during 2003 by 6.2 million, or 3.5 from 175.7 million to 181.9 million. The retail sales increase
+was primarily due to a 7.0 million increase in petroleum sales, offset by a .8 million decrease in merchandise sales. The petroleum sales increase results from a 10 increase in retail selling prices per gallon, offset by a 3.8 million gallon or
+4 decrease in retail petroleum volume. Costs of Goods Sold 
+ Retail costs of goods sold increased during the fiscal quarter ended
+November 30, 2003 by 2.2 million or 1.4 from 150.2 million to 152.4 million. The cost of gasoline increased 11.6 , on a per gallon basis, over fiscal quarter ended November 30, 2002. The cost of distillates increased 3.3 , on a per gallon basis,
+over the prior fiscal quarter. As a result costs of goods sold for petroleum purchases increased 4.2 million. Another increase to costs of goods sold was increased freight costs of .1 million. Offsetting these increases were decreased fuel taxes
+of 1.5 million and decreased merchandise purchases of .6 million. Gross
+Profit/(Loss) Retail gross profit increased during 2003
+by 4.0 million or 16 . The Company increased its petroleum margins by 4.2 million offset by a merchandise margin decrease of .2 million. These margin increases were a result of a 34 increase in petroleum margins. Operating Expenses Retail operating expenses increased during 2003 by .4 million or 2 . Primarily contributing to the increases to operating
+expenses were increased environmental costs of .1 million, increased credit/customer service costs of .1 million, increased rent expense of .1 million and other costs of .1 million. Wholesale Operations: 
+
+Three Months Ended November 30, 
+
+2003 
+ 
+ 2002 
+
+(dollars in thousands) 
+
+Net Sales(a) 
+
+148,952 
+
+117,646 
+
+Costs of Goods Sold 
+
+134,639 
+
+115,082 
+
+Gross Profit 
+
+14,313 
+
+2,564 
+
+Operating Expenses 
+
+6,998 
+
+6,363 
+
+Segment Operating Income / (Loss) 
+
+7,315 
+
+(3,799) 
+
+Crude throughput (thousand barrels per day) 
+
+64.3 
+
+47.5 
+
+17 
+
+Refinery Product Yield (thousands of barrels) 
+
+Three Months Ended November 30, 
+
+2003 
+
+2002 
+
+Gasoline and gasoline blendstock 
+ 
+ 2,668 
+
+2,231 
+
+Distillates 
+ 
+ 1,458 
+
+951 
+
+Asphalt 
+ 
+ 1,586 
+
+1,168 
+
+Butane, propane, residual products, internally produced fuel and other 
+ 
+ 630 
+
+559 
+
+Total Product Yield 
+ 
+ 6,342 
+
+4,909 
+
+Heavy Crude Oil of Total Refinery Throughput(b) 
+ 
+ 53 
+
+54 
+ 
+ Product Sales
+ (dollars in thousands) (a) 
+
+Three Months Ended November 30, 
+
+2003 
+ 
+ 2002 
+ 
+ Gasoline and gasoline blendstock 
+
+56,618 
+
+43,879 
+ 
+ Distillates 
+
+39,645 
+
+31,521 
+ 
+ Asphalt 
+
+49,678 
+
+39,516 
+ 
+ Other 
+
+3,011 
+
+2,730 
+
+148,952 
+
+117,646 
+
+Product Sales
+ (thousand of barrels) (a) 
+
+Three Months Ended November 30, 
+
+2003 
+ 
+ 2002 
+ 
+ Gasoline and gasoline blendstock 
+ 
+ 1,435 
+ 
+ 1,235 
+ 
+ Distillates 
+ 
+ 1,084 
+ 
+ 892 
+ 
+ Asphalt 
+ 
+ 2,010 
+ 
+ 1,598 
+ 
+ Other 
+ 
+ 145 
+ 
+ 144 
+
+4,674 
+ 
+ 3,869 
+
+Average Prices /
+gallon) 
+
+Three Months Ended November 30, 
+
+2003 
+ 
+ 2002 
+ 
+ Gasoline and gasoline blendstock 
+ 
+ .9391 
+ 
+ .8459 
+ 
+ Distillates 
+ 
+ .8710 
+ 
+ .8419 
+ 
+ Asphalt 
+ 
+ .5884 
+ 
+ .5889 
+ 
+ Other 
+ 
+ .4959 
+ 
+ .4513 
+
+(a) 
+ 
+ Sources of total product sales include products manufactured at the refinery located in Warren, Pennsylvania and products purchased from third parties. 
+
+(b) 
+ 
+ The Company defines heavy crude oil as crude oil with an American Petroleum Institute specific gravity of 26 or less. 
+ 18 
+
+Comparison of Fiscal Quarters ended November 30, 2003 and November 30, 2002 Net Sales Wholesale sales increased during 2003 by 31.3 million or 26.6 from 117.6 million to 148.9 million. The wholesale sales
+increase was due to a 4.8 increase in wholesale prices and a 20.8 increase in wholesale volume. Contributing to the increased sales volume was a 35.3 increase in crude runs for the three months ended November 30, 2003 as compared to the prior
+year period. Costs of Goods Sold Wholesale costs of goods sold increased during 2003 by 19.6 million or
+17.0 from 115.0 million to 134.6 million. The increase in wholesale costs of goods was primarily due to a 35.3 increase in crude throughput volume and a 2.2 increase in the Company s average crude oil purchase price for the fiscal quarter
+ended November 30, 2003 as compared to the prior year period. The refinery throughput volume increase for the first fiscal quarter of 2004 resulted from the fact that the Company had a 21 day shutdown of units at the refinery during the prior year
+period ending November 30, 2002. Worldwide crude oil prices, as indicated by NYMEX crude oil contract prices, increased 4.1 as compared to the prior year period. Gross Profit/(Loss) Wholesale gross profit increased 11.7 million from 2.6 million for fiscal quarter ended November 30, 2002 to 14.3 million for the fiscal quarter ended
+November 30, 2003. This increase was primarily due to the increase in wholesale sales volume, increased wholesale selling prices and to 25.3 higher discounts on heavy high-sulfur crude oil grades processed by the Company. Operating Expenses Operating expenses increased during 2003 by .6 million over such expenses for 2002. For 2003 operating expenses were 7.0
+million, or 4.7 of net wholesale sales, compared to 6.4 million, or 5.4 of net wholesale sales for 2002. Operating expenses declined as a percentage of net sales from 5.4 to 4.7 . Interest Expense Net interest expense (interest expense less interest income) remained relatively consistent between fiscal quarter ended
+November 30, 2003 and fiscal quarter ended November 30, 2002. The Company did reduce the amount of interest expense for borrowings on its revolving credit facility; however, offsetting this decrease was a reduction in interest income earned.
+ Income Tax Expense/(Benefit) The Company s effective tax rate for the fiscal quarter ended November
+30, 2003 was approximately 40.3 compared to a rate of 38.5 for fiscal quarter ended November 30, 2002. The increase is primarily due to an increase in permanent differences. Liquidity and Capital Resources The Company operates in an environment where its liquidity and capital resources are impacted by changes in the price of crude oil and refined petroleum
+products, availability of credit, market uncertainty and a variety of additional factors beyond the Company s control. Included in such factors are, among others, the level of customer product demand, weather conditions, governmental
+regulations, worldwide political conditions and overall market and economic conditions. For further information related to risks and other factors, see Forward-Looking Statements in Item 2. 
+ 19 
+
+The following table summarizes selected measure of liquidity and capital sources (in thousands):
+
+November 30, 2003 
+ 
+ August 31, 2003 
+ 
+ Cash and cash equivalents 
+
+11,811 
+
+13,819 
+ 
+ Working capital 
+
+47,620 
+
+37,638 
+ 
+ Debt 
+
+213,211 
+
+214,410 
+ Primary sources of
+liquidity have been cash and cash equivalents, cash flows from operations and borrowing availability under a revolving line of credit. The Company believes available capital resources will be adequate to meet our working capital, debt service, and
+capital expenditure requirements for existing operations. The
+Company s cash and cash equivalents consist of bank balances and investments in money market funds. These investments have staggered maturity dates, none of which exceed three months. They have a high degree of liquidity since the securities
+are traded in public markets. During the fiscal quarter ended November 30, 2003, significant uses of cash includes 2.2 million for purchases of property, plant and equipment, 1.2 million of reductions to debt and .6 million for additions to
+refinery turnaround costs. The Company requires a substantial
+investment in working capital which is susceptible to large variations during the year resulting from purchases of inventory and seasonal demands. Inventory purchasing activity is a function of sales activity and turnaround cycles for the different
+refinery units. Maintenance and non-discretionary capital expenditures have averaged approximately 4 million annually over the last three years for the refining and marketing operations. Management does not foresee any increase in maintenance and
+non-discretionary capital expenditures during fiscal 2004. The Company spent approximately 4 million as part of its Tier 2 Gasoline Sulfur Program under 40 CFR Part 80, Subpart H during fiscal year 2003, and expects to spend approximately 1
+million during fiscal 2004, primarily during activities requiring a shutdown of the FCC Unit, which is scheduled for April 2004. Working capital (current assets minus current liabilities) at November 30, 2003 was 47.6 million and at August 31, 2003 was 37.6 million. The
+Company s current ratio (current assets divided by current liabilities) was 1.4:1 at November 30, 2003 and 1.4:1 at August 31, 2003. Future liquidity, both short and long-term, will continue to be primarily dependent on realizing a refinery margin sufficient to cover fixed and variable
+expenses, including planned capital expenditures. The Company expects to be able to meet its working capital, capital expenditure, contractual obligations, letter of credit and debt service requirements out of cash flow from operations, cash on hand
+and borrowings under the Company s secured revolving credit facility (the facility with PNC Bank, N.A. as Agent Bank. This is a 50,000,000 revolving facility, which was renewed for five years on July 12, 2002 and amended on
+November 27, 2002 and February 19 and March 24, 2003. At November 30, 2003, there was approximately 18,885,000 unused and available on the facility. The facility expires on May 9, 2007, and is secured by certain cash accounts, accounts receivable, and inventory. The interest rate on borrowings varies
+with the Company s earnings and is based on the higher of the bank s prime rate or Federal funds rate for base rate borrowings and the LIBOR rate for Euro-Rate borrowings. The Company and the participating banks amended the facility on
+March 24, 2003, allowing for a temporary increase in the facility commitment from 50,000,000 to 70,000,000. The temporary increase expired as of September 30, 2003 and the facility has reverted to the original 50,000,000. Additionally, the
+amendment revised select covenant calculations, including the fixed charge coverage ratio and redefined select definitions. The Company is currently negotiating with the Agent Bank to increase the facility commitment to 75,000,000 on a permanent
+basis; however, there are no assurances that such increase will be granted. In addition, the Company had outstanding letters of credit of 615,000 as of November 30, 2003. 
+ 20 
+
+Although the Company is not aware of any pending circumstances which would change its expectation,
+changes in the tax laws, the imposition of and changes in federal and state clean air and clean fuel requirements and other changes in environmental laws and regulations may also increase future capital expenditure levels. Future capital
+expenditures are also subject to business conditions affecting the industry. The Company continues to investigate strategic acquisitions and capital improvements to its existing facilities. Federal, state and local laws and regulations relating to the environment
+affect nearly all the operations of the Company. As is the case with all the companies engaged in similar industries, the Company faces significant exposure from actual or potential claims and lawsuits involving environmental matters. Future
+expenditures related to environmental matters cannot be reasonably quantified in many circumstances due to the uncertainties as to required remediation methods and related clean-up cost estimates. The Company cannot predict what additional
+environmental legislation or regulations will be enacted or become effective in the future or how existing or future laws or regulations will be administered or interpreted with respect to products or activities to which they have not been
+previously applied. Seasonal Factors Seasonal factors affecting the Company s business may cause variation
+in the prices and margins of some of the Company s products. For example, demand for gasoline tends to be highest in spring and summer months, while demand for home heating oil and kerosene tends to be highest in winter months. As a result, the margin on gasoline prices versus crude oil costs generally
+tends to increase in the spring and summer, while margins on home heating oil and kerosene tend to increase in winter. Inflation The effect of inflation on the Company has not been significant during the last five fiscal years. Recent Accounting Pronouncements In January 2003, the FASB issued Interpretation No. 46, Consolidation
+of Variable Interest Entities Interpretation 46 ). Interpretation 46 clarifies the application of Accounting Research Bulletin No. 51, Consolidated Financial Statements , to certain entities in which equity investors do
+not have the characteristics of a controlling financial interest or do not have sufficient equity at risk for the entity to finance its activities without additional subordinated financial support from other parties. Interpretation 46 is applicable
+immediately for variable interest entities created after January 31, 2003. For variable interest entities created prior to February 1, 2003, the provisions of Interpretation 46 are applicable no later than the end of the first reporting period
+ending after December 15, 2003. If any entity is determined to
+be a variable interest entity, it must be consolidated by the enterprise that absorbs the majority of the entity s expected losses if they occur, receives a majority of the entity s expected residual returns if they occur, or both. Where
+it is reasonably possible that the enterprise will consolidate or disclose information about a variable interest entity, the enterprise must disclose the nature, purpose, size and activity of the variable interest entity and the enterprise s
+maximum exposure to loss as a result of its involvement with the variable interest entity in all financial statements issued after January 31, 2003. On October 9, 2003, the FASB issued FASB Staff Position No. FIN 46-6 Effective Date of FASB
+Interpretation No. 46, Consolidation of Variable Interest Entities, which defers the implementation date for public entities that hold an interest in a variable interest entity or potential variable interest entity from the first fiscal year
+or interim period beginning after June 15, 2003 to the end of the first interim period or annual period ending after December 15, 2003. This deferral applies only if (1) the variable interest entity was created before February 1, 2003 and (2) the
+public entity has not issued financial statements reporting that variable interest entity in accordance with FIN 46, other than disclosures required by paragraph 26 of FIN 46. The Company does not expect Interpretation 46 to have a material impact on its consolidated financial position or results of
+operations. 
+ 21 
+
+ITEM 3. 
+ 
+ QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK The Company uses its revolving credit facility to finance a portion of its operations. These on-balance sheet financial instruments, to the extent they
+provide for variable rates, expose the Company to interest rate risk resulting from changes in the PNC Prime rate, the Federal Funds or LIBOR rate. The Company has exposure to price fluctuations of crude oil and refined products. The Company does not manage the price risk related to all of its
+inventories of crude oil and refined products with a permanent formal hedging program, but does manage its risk exposures by managing inventory levels. At November 30, 2003, the Company was exposed to the risk of market price declines with respect
+to a substantial portion of its crude oil and refined product inventories. 
+
+ITEM 4. 
+ 
+ CONTROLS AND PROCEDURES 
+
+(a) 
+ 
+ Based on an evaluation of the Company s disclosure controls and procedures (as defined in Rules 13(a) 15(e) and 15(d) 15(e) of the Securities Exchange Act of
+1934, as amended), as of the end of the Company s fiscal quarter ended November 30, 2003, the Company s Chief Executive Officer and Chief Financial Officer (its principal executive officer and principal financial officer, respectively)
+have concluded that the Company s disclosure controls and procedures were effective. 
+
+(b) 
+ 
+ There have not been any significant changes in the Company s internal controls over financial reporting that occurred during the Company s fiscal quarter ended November
+30, 2003 that has materially affected, or is reasonably likely to materially affect, the Company s internal controls over financial reporting. 
+ 22 
+
+PART II OTHER INFORMATION 
+
+ITEM 6. 
+ 
+ EXHIBITS AND REPORTS ON FORM 8-K 
+
+(a) 
+ 
+ Exhibits 
+
+Exhibit 31.1 
+ 
+ Certification of Chief Executive Officer pursuant to Section 302 
+
+Exhibit 31.2 
+ 
+ Certification of Chief Financial Officer pursuant to Section 302 
+
+Exhibit 32.1 
+ 
+ Certification of Chief Executive Officer and Chief Financial Officer pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 
+
+Exhibit 99.1 
+ 
+ Press release announcing first fiscal quarter operating results 
+
+(b) 
+ 
+ No reports on Forms 8-K have been filed for the quarter for which this report is being filed. 
+ 
+ 23 
+
+SIGNATURES Pursuant to the
+requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized. Date: January 14, 2004 
+
+UNITED REFINING COMPANY 
+ 
+ (Registrant) 
+
+/s/ Myron L. Turfitt 
+ 
+ Myron L. Turfitt 
+ 
+ President 
+
+/s/ James E. Murphy 
+ 
+ James E. Murphy 
+ 
+ Chief Financial Officer 
+
+24 
+
+SIGNATURES 
+ Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the
+undersigned thereunto duly authorized. Date:
+January 14, 2004 
+
+KIANTONE PIPELINE CORPORATION 
+ 
+ (Registrant) 
+
+/s/ Myron L. Turfitt 
+ 
+ Myron L. Turfitt 
+ 
+ President 
+
+/s/ James E. Murphy 
+ 
+ James E. Murphy 
+ 
+ Chief Financial Officer 
+
+25 
+
+SIGNATURES 
+ Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the
+undersigned thereunto duly authorized. Date:
+January 14, 2004 
+
+UNITED REFINING COMPANY OF PENNSYLVANIA 
+ 
+ (Registrant) 
+
+/s/ Myron L. Turfitt 
+ 
+ Myron L. Turfitt 
+ 
+ President 
+
+/s/ James E. Murphy 
+ 
+ James E. Murphy 
+ 
+ Chief Financial Officer 
+
+26 
+
+SIGNATURES 
+ Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the
+undersigned thereunto duly authorized. Date:
+January 14, 2004 
+
+KIANTONE PIPELINE COMPANY 
+ 
+ (Registrant) 
+
+/s/ Myron L. Turfitt 
+ 
+ Myron L. Turfitt 
+ 
+ President 
+
+/s/ James E. Murphy 
+ 
+ James E. Murphy 
+ 
+ Chief Financial Officer 
+
+27 
+
+SIGNATURES 
+ Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the
+undersigned thereunto duly authorized. Date:
+January 14, 2004 
+
+UNITED JET CENTER, INC. 
+ 
+ (Registrant) 
+
+/s/ Myron L. Turfitt 
+ 
+ Myron L. Turfitt 
+ 
+ President 
+
+/s/ James E. Murphy 
+ 
+ James E. Murphy 
+ 
+ Chief Financial Officer 
+
+28 
+
+SIGNATURES 
+ Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the
+undersigned thereunto duly authorized. Date:
+January 14, 2004 
+
+KWIK FILL CORPORATION 
+ 
+ (Registrant) 
+
+/s/ Myron L. Turfitt 
+ 
+ Myron L. Turfitt 
+ 
+ President 
+
+/s/ James E. Murphy 
+ 
+ James E. Murphy 
+ 
+ Chief Financial Officer 
+
+29 
+
+SIGNATURES 
+ Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the
+undersigned thereunto duly authorized. Date:
+January 14, 2004 
+
+INDEPENDENT GASOLINE AND OIL COMPANY OF ROCHESTER, INC. 
+ 
+ (Registrant) 
+
+/s/ Myron L. Turfitt 
+ 
+ Myron L. Turfitt 
+ 
+ President 
+
+/s/ James E. Murphy 
+ 
+ James E. Murphy 
+ 
+ Chief Financial Officer 
+
+30 
+
+SIGNATURES 
+ Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the
+undersigned thereunto duly authorized. Date:
+January 14, 2004 
+
+BELL OIL CORP. 
+ 
+ (Registrant) 
+
+/s/ Myron L. Turfitt 
+ 
+ Myron L. Turfitt 
+ 
+ President 
+
+/s/ James E. Murphy 
+ 
+ James E. Murphy 
+ 
+ Chief Financial Officer 
+
+31 
+
+SIGNATURES 
+ Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the
+undersigned thereunto duly authorized. Date:
+January 14, 2004 
+
+PPC, INC. 
+ 
+ (Registrant) 
+
+/s/ Myron L. Turfitt 
+ 
+ Myron L. Turfitt 
+ 
+ President 
+
+/s/ James E. Murphy 
+ 
+ James E. Murphy 
+ 
+ Chief Financial Officer 
+
+32 
+
+SIGNATURES 
+ Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the
+undersigned thereunto duly authorized. Date:
+January 14, 2004 
+
+SUPER TEST PETROLEUM, INC. 
+ 
+ (Registrant) 
+
+/s/ Myron L. Turfitt 
+ 
+ Myron L. Turfitt 
+ 
+ President 
+
+/s/ James E. Murphy 
+ 
+ James E. Murphy 
+ 
+ Chief Financial Officer 
+
+33 
+
+SIGNATURES 
+ Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the
+undersigned thereunto duly authorized. Date:
+January 14, 2004 
+
+KWIK-FIL, INC. 
+ 
+ (Registrant) 
+
+/s/ Myron L. Turfitt 
+ 
+ Myron L. Turfitt 
+ 
+ President 
+
+/s/ James E. Murphy 
+ 
+ James E. Murphy 
+ 
+ Chief Financial Officer 
+
+34 
+
+SIGNATURES 
+ Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the
+undersigned thereunto duly authorized. Date:
+January 14, 2004 
+
+VULCAN ASPHALT REFINING CORPORATION 
+ 
+ (Registrant) 
+
+/s/ Myron L. Turfitt 
+ 
+ Myron L. Turfitt 
+ 
+ President 
+
+/s/ James E. Murphy 
+ 
+ James E. Murphy 
+ 
+ Chief Financial Officer 
+
+35 
+
+<EX-31.1>
+ 3
+ dex311.htm
+ CEO'S SECTION 302 CERTIFICATION
+
+CEO's Section 302 Certification 
+
+Exhibit 31.1 CERTIFICATION Pursuant to 18 U.S.C. Section 1350, As adopted pursuant to Section 302 of the Sarbanes-Oxley Act of 2002 I, John A. Catsimatidis certify that: 
+
+1. 
+ 
+ I have reviewed this quarterly report on Form 10-Q of United Refining Company (the registrant 
+
+2. 
+ 
+ Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the
+circumstances under which such statements were made, not misleading with respect to the period covered by this report; 
+
+3. 
+ 
+ Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of
+operations and cash flows of the registrant as of, and for, the periods presented in this report; 
+
+4. 
+ 
+ The registrant s other certifying officer(s) and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules
+13a-15(e) and 15d-15(e)) for the registrant and have: 
+
+(a) 
+ 
+ designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information
+relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared; 
+
+(b) 
+ 
+ evaluated the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure
+controls and procedures as of the end of the period covered by this report based on such evaluation; and 
+
+(c) 
+ 
+ disclosed in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s most recent fiscal quarter (the
+registrant s fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant s internal control over financial reporting; and 
+
+5. 
+ 
+ The registrant s other certifying officer(s) and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant s
+auditors and the audit committee of the registrant s board of directors (or persons performing the equivalent functions): 
+
+(a) 
+ 
+ all significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the
+registrant s ability to record, process, summarize and report financial information; and 
+
+(b) 
+ 
+ any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s internal control over financial reporting.
+
+Date: January 14, 2004 
+ 
+ Signature: 
+ 
+ /s/ John A. Catsimatidis 
+
+Principal Executive Officer 
+
+</EX-31.1>
+
+<EX-31.2>
+ 4
+ dex312.htm
+ CFO'S SECTION 302 CERTIFICATION
+
+CFO's Section 302 Certification 
+
+Exhibit 31.2 CERTIFICATION Pursuant to 18 U.S.C. Section 1350, As adopted pursuant to Section 302 of the Sarbanes-Oxley Act of 2002 I, James E. Murphy certify that: 
+
+1. 
+ 
+ I have reviewed this quarterly report on Form 10-Q of United Refining Company (the registrant 
+
+2. 
+ 
+ Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the
+circumstances under which such statements were made, not misleading with respect to the period covered by this report; 
+
+3. 
+ 
+ Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of
+operations and cash flows of the registrant as of, and for, the periods presented in this report; 
+
+4. 
+ 
+ The registrant s other certifying officer(s) and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules
+13a-15(e) and 15d-15(e)) for the registrant and have: 
+
+(a) 
+ 
+ designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information
+relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared; 
+
+(b) 
+ 
+ evaluated the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure
+controls and procedures as of the end of the period covered by this report based on such evaluation; and 
+
+(c) 
+ 
+ disclosed in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s most recent fiscal quarter (the
+registrant s fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant s internal control over financial reporting; and 
+
+5. 
+ 
+ The registrant s other certifying officer(s) and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant s
+auditors and the audit committee of the registrant s board of directors (or persons performing the equivalent functions): 
+
+(d) 
+ 
+ all significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the
+registrant s ability to record, process, summarize and report financial information; and 
+
+(e) 
+ 
+ any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s internal control over financial reporting.
+
+Date: January 14, 2004 
+ 
+ Signature: 
+ 
+ /s/ James E. Murphy 
+
+Principal Financial Officer 
+
+</EX-31.2>
+
+<EX-32.1>
+ 5
+ dex321.htm
+ CEO AND CFO SECTION 906 CERTIFICATIONS
+
+CEO and CFO Section 906 Certifications 
+
+Exhibit 32.1 CERTIFICATION Pursuant to Section 906 of the Sarbanes-Oxley Act of 2002 (subsections (a) and (b) of Section 1350, Chapter 63 of Title 18, United States Code) Pursuant to Section 906 of the Sarbanes-Oxley Act of 2002 (subsections (a) and (b) of Section 1350, Chapter 63 of Title 18, United States Code), each of
+the undersigned officers of United Refining Company, a Pennsylvania corporation (the Company ), does hereby certify, to such officer s knowledge, that: The Quarterly Report on Form 10-Q for the quarter ended November 30, 2003 (the Form 10-Q of the Company fully
+complies with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act of 1934 and information contained in the Form 10-Q fairly presents, in all material respects, the financial condition and results of operations of the Company.
+
+Dated: January 14, 2004 
+ 
+ By: 
+ 
+ /s/ John A. Catsimatidis 
+
+John A. Catsimatidis Principal Executive Officer 
+
+Dated: January 14, 2004 
+ 
+ By: 
+ 
+ /s/ James E. Murphy 
+
+James E. Murphy Principal Financial Officer 
+ The foregoing
+certification is being furnished solely pursuant to section 906 of the Sarbanes-Oxley Act of 2002 (subsections (a) and (b) of Section 1350, Chapter 63 of Title 18, United States Code) and is not being filed as part of Form 10-Q or as a separate
+disclosure document. A signed original of this written
+statement required by Section 906 has been provided to United Refining Company and will be retained by United Refining Company and furnished to the Securities and Exchange Commission or its staff upon request. 
+
+</EX-32.1>
+
+<EX-99.1>
+ 6
+ dex991.htm
+ PRESS RELEASE
+
+Press Release 
+
+Exhibit 99.1 UNITED REFINING COMPANY ANNOUNCES FIRST FISCAL QUARTER OPERATING RESULTS Warren, PA. January 14, 2004/PRNewswire/ United Refining Company (United), a leading regional refiner and marketer of petroleum products announces improved operating results for the first fiscal quarter ended
+November 30, 2003. Operating income for the three months ended
+November 30, 2003 was 13.1 million, an increase of 14.7 million over the three months ended November 30, 2002 operating loss of 1.6 million. Net sales for the three months ended November 30, 2003 were 330.8 million, an increase of 37.5 million,
+or 12.8 over the November 30, 2002 net sales of 293.3 million. The increase in net sales and profitability for the first quarter of fiscal year 2004 resulted from a 3.5 increase in retail sales and a 26.6 increase in wholesale sales. 
+ Earnings before interest, taxes, depreciation and amortization (EBITDA)
+for the three months ended November 30, 2003 was 16.8 million compared to 2.6 million as of November 30, 2002. The first quarter EBITDA was the highest since the third quarter of fiscal 2001. United Refining Company uses the term EBITDA or
+Earnings Before Interest, Income Taxes, Depreciation and Amortization, which is a term not defined under United States Generally Accepted Accounting Principles. The Company uses this term because it is a widely accepted financial indicator utilized
+to analyze and compare companies on the basis of operating performance and is used to calculate certain debt covenant ratios included in several of the Company s debt agreements. See reconciliation of EBITDA to Net Income in Footnote (1) in
+table set forth below. The Company s method of computation of EBITDA may or may not be comparable to other similarly titled measures used by other companies. UNITED REFINING COMPANY (dollars In thousands) 
+
+Three Months Ended November 30, 
+
+2003 
+ 
+ 2002 
+
+Net sales 
+
+330,815 
+
+293,305 
+
+Net Income (Loss) 
+
+4,457 
+
+(4,218) 
+ 
+ Operating Income 
+
+13,104 
+
+(1,645) 
+ 
+ Income Tax Expense (Benefit) 
+
+3,011 
+
+(2,645) 
+ 
+ EBITDA (1) 
+
+16,790 
+
+2,562 
+
+(1) EBITDA Reconciliation: UNITED REFINING COMPANY (dollars In thousands) 
+
+Three Months Ended November 30, 
+
+2003 
+ 
+ 2002 
+
+Net Income (Loss) 
+
+4,457 
+
+(4,218) 
+ 
+ Interest Expense 
+
+5,176 
+
+5,211 
+
+Income Tax Expense (Benefit) 
+
+3,011 
+
+(2,645) 
+ 
+ Depreciation 
+
+3,204 
+
+3,303 
+
+Amortization 
+
+942 
+
+911 
+
+EBITDA 
+
+16,790 
+
+2,562 
+
+United owns and
+operates a 65,000 bpd refinery in Warren, Pennsylvania. In addition to its wholesale markets, the Company also operates 372 Kwik Fill / Red Apple and Country Fair retail gasoline and convenience stores located primarily in western New York and western Pennsylvania. Certain statements contained in this release are forward looking, such as statements regarding the Company s plans and strategies or future financial
+performance. Although the Company believes that its expectations are based on reasonable assumptions within the bounds of its knowledge, investors and prospective investors are cautioned that such statements are only projections and that actual
+events or results may differ materially from those expressed in any such forward-looking statements. In addition, the Company s actual consolidated quarterly or annual operating results have been affected in the past, or could be affected in
+the future, by additional factors, including, without limitation, general economic, business and market conditions; environmental, tax and tobacco legislation or regulation; volatility of gasoline prices, margins and supplies; merchandising margins;
+customer traffic, weather conditions; labor costs and the level of capital expenditures. For other important factors that may cause actual results to differ materially from expectations and underlying assumptions, please see reports by United
+Refining Company filed with the Securities and Exchange Commission. Source: United Refining Company 
+
+</EX-99.1>
+

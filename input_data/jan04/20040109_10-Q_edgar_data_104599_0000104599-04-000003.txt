@@ -1,0 +1,3162 @@
+<Header>
+<FileStats>
+    <FileName>20040109_10-Q_edgar_data_104599_0000104599-04-000003.txt</FileName>
+    <GrossFileSize>207638</GrossFileSize>
+    <NetFileSize>164392</NetFileSize>
+    <NonText_DocumentType_Chars>0</NonText_DocumentType_Chars>
+    <HTML_Chars>642</HTML_Chars>
+    <XBRL_Chars>0</XBRL_Chars>
+    <XML_Chars>0</XML_Chars>
+    <N_Exhibits>3</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0000104599-04-000003.hdr.sgml : 20040109
+<ACCEPTANCE-DATETIME>20040109145247
+ACCESSION NUMBER:		0000104599-04-000003
+CONFORMED SUBMISSION TYPE:	10-Q
+PUBLIC DOCUMENT COUNT:		4
+CONFORMED PERIOD OF REPORT:	20031130
+FILED AS OF DATE:		20040109
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			CIRCUIT CITY STORES INC
+		CENTRAL INDEX KEY:			0000104599
+		STANDARD INDUSTRIAL CLASSIFICATION:	RETAIL-RADIO TV & CONSUMER ELECTRONICS STORES [5731]
+		IRS NUMBER:				540493875
+		STATE OF INCORPORATION:			VA
+		FISCAL YEAR END:			0228
+
+	FILING VALUES:
+		FORM TYPE:		10-Q
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-05767
+		FILM NUMBER:		04517676
+
+	BUSINESS ADDRESS:	
+		STREET 1:		9950 MAYLAND DR
+		CITY:			RICHMOND
+		STATE:			VA
+		ZIP:			23233
+		BUSINESS PHONE:		8045274000
+
+	MAIL ADDRESS:	
+		STREET 1:		9950 MAYLAND DRIVE
+		CITY:			RICHMOND
+		STATE:			VA
+		ZIP:			23233
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	WARDS CO INC
+		DATE OF NAME CHANGE:	19840620
+
+</SEC-Header>
+</Header>
+
+ 
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ BySCehvXQUPsPUlCTstKg7i/4XD0ocqQh7zqGIAhvsmcqBgNKZV2RegVwFCekQfP
+ fKCp2YUDEUMazWi4oQFTkA==
+
+ 0000104599-04-000003.txt : 20040109
+
+10-Q
+ 1
+ ccs1103_10q.txt
+ CIRCUIT CITY THIRD QUARTER 10Q
+ 
+ UNITED STATES
+ SECURITIES AND EXCHANGE COMMISSION
+ WASHINGTON, D.C. 20549
+ -------------------------
+
+ FORM 10-Q
+
+[X] Quarterly report pursuant to Section 13 or 15(d) of the Securities
+ Exchange Act of 1934 For the quarterly period ended November 30, 2003
+
+ OR
+
+[ ] Transition report pursuant to Section 13 or 15(d) of the Securities
+ Exchange Act of 1934 For the transition period from _____ to ______
+
+ Commission file number: 1-5767
+
+ CIRCUIT CITY STORES, INC.
+ (Exact name of registrant as specified in its charter)
+
+ Virginia 54-0493875
+ (State or other jurisdiction of (I.R.S. Employer
+ incorporation or organization) Identification No.)
+
+ 9950 Mayland Drive
+ Richmond, Virginia 23233
+(Address of principal executive offices) (Zip Code)
+
+ (804) 527- 4000
+ (Registrant's telephone number, including area code)
+
+ N/A
+ (Former name, former address, and former fiscal year,
+ if changed since last report)
+
+Indicate by check mark whether the registrant (1) has filed all reports required
+to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during
+the preceding 12 months (or for such shorter period that the registrant was
+required to file such reports), and (2) has been subject to such filing
+requirements for the past 90 days. Yes |X| No ___
+
+Indicate by check mark whether the registrant is an accelerated filer (as
+defined in Exchange Act Rule 12b-2). Yes |X| No ___
+
+Indicate the number of shares outstanding of each of the registrant's classes of
+common stock, as of the latest practicable date.
+
+ Class Outstanding at December 31, 2003
+Common Stock, par value 0.50 210,552,901
+
+A Table of Contents is included on Page 2 and an Exhibit Index is included on
+Page 29.
+
+CIRCUIT CITY STORES, INC. AND SUBSIDIARIES
+
+ TABLE OF CONTENTS
+
+Page
+ No.
+
+PART I. FINANCIAL INFORMATION
+
+ Item 1. Financial Statements:
+
+ Consolidated Statements of Operations -
+ Three Months and Nine Months Ended November 30, 2003 and 2002 3
+
+ Consolidated Balance Sheets -
+ November 30, 2003 and February 28, 2003 4
+
+ Consolidated Statements of Cash Flows -
+ Nine Months Ended November 30, 2003 and 2002 5
+
+ Notes to Consolidated Financial Statements 6
+
+ Item 2. Management's Discussion and Analysis of Financial Condition
+ and Results of Operations 16
+
+ Item 3. Quantitative and Qualitative Disclosures about Market Risk 25
+
+ Item 4. Controls and Procedures 26
+
+PART II. OTHER INFORMATION
+
+ Item 6. Exhibits and Reports on Form 8-K 27
+
+SIGNATURES 28
+
+EXHIBIT INDEX 29
+
+Page 2 of 29
+
+PART I. FINANCIAL INFORMATION
+
+ITEM 1. FINANCIAL STATEMENTS
+
+ Circuit City Stores, Inc. and Subsidiaries
+ Consolidated Statements of Operations (Unaudited)
+ (Amounts in thousands except per share data)
+
+Three Months Ended Nine Months Ended
+ November 30 November 30
+ 2003 2002 2003 2002
+ ---------- ---------- ---------- ----------
+Net sales and operating revenues 2,407,424 2,421,687 6,496,444 6,761,134
+Cost of sales, buying and warehousing 1,872,600 1,873,573 5,025,935 5,173,782
+ ---------- ---------- ---------- ----------
+Gross profit 534,824 548,114 1,470,509 1,587,352
+
+Finance income 5,631 2,267 22,418 25,451
+Selling, general and administrative expenses 576,721 592,105 1,622,662 1,699,614
+Interest expense 169 168 1,479 718
+ ---------- ---------- ---------- ----------
+Loss from continuing operations
+ before income taxes (36,435) (41,892) (131,214) (87,529)
+Income tax benefit (12,362) (15,766) (47,893) (32,584)
+ ---------- ---------- ---------- ----------
+Net loss from continuing operations (24,073) (26,126) (83,321) (54,945)
+Net earnings (loss) from discontinued operations 25,546 8,350 (83,375) 85,680
+ ---------- ---------- ---------- ----------
+Net earnings (loss) 1,473 (17,776) (166,696) 30,735
+ ========== ========== ========== ==========
+
+Net (loss) earnings from:
+ Continuing operations (24,073) (26,126) (83,321) (54,945)
+ ========== ========== ========== ==========
+ Discontinued operations attributed to:
+ Circuit City common stock 25,546 7,066 (83,375) 62,464
+ ========== ========== ========== ==========
+ CarMax Group common stock - 1,284 - 23,216
+ ========== ========== ========== ==========
+
+Weighted average common shares:
+ Circuit City:
+ Basic 206,441 207,454 206,148 207,121
+ ========== ========== ========== ==========
+ Diluted 206,441 207,454 206,148 207,121
+ ========== ========== ========== ==========
+ CarMax Group:
+ Basic - 37,084 - 37,023
+ ========== ========== ========== ==========
+ Diluted - 38,577 - 38,701
+ ========== ========== ========== ==========
+Net (loss) earnings per share:
+ Basic:
+ Continuing operations (0.12) (0.13) (0.40) (0.27)
+ Discontinued operations attributed to
+ Circuit City common stock 0.12 0.03 (0.40) 0.30
+ ---------- ---------- ---------- ----------
+ 0.01 (0.09) (0.81) 0.04
+ ========== ========== ========== ==========
+ Discontinued operations attributed to
+ CarMax Group common stock - 0.03 - 0.63
+ ========== ========== ========== ==========
+ Diluted:
+ Continuing operations (0.12) (0.13) (0.40) (0.27)
+ Discontinued operations attributed to
+ Circuit City common stock 0.12 0.03 (0.40) 0.30
+ ---------- ---------- ---------- ----------
+ 0.01 (0.09) (0.81) 0.04
+ ========== ========== ========== ==========
+ Discontinued operations attributed to
+ CarMax Group common stock - 0.03 - 0.60
+ ========== ========== ========== ==========
+
+Cash dividends paid per share on
+ Circuit City common stock 0.0175 0.0175 0.0525 0.0525
+ ========== ========== ============ ==========
+See accompanying notes to consolidated financial statements.
+
+Page 3 of 29
+
+Circuit City Stores, Inc. and Subsidiaries
+ Consolidated Balance Sheets
+ (Amounts in thousands except share data)
+
+ Nov. 30, 2003 Feb. 28, 2003
+ (Unaudited)
+ASSETS
+Current assets:
+Cash and cash equivalents 455,343 884,670
+Accounts receivable, net of allowance for doubtful accounts
+ of 623 and 1,075 173,684 140,385
+Retained interests in securitized receivables 337,873 239,141
+Merchandise inventory 2,651,078 1,409,736
+Prepaid expenses and other current assets 84,945 33,165
+Assets of discontinued operations 11,512 395,813
+ ---------- ----------
+
+Total current assets 3,714,435 3,102,910
+
+Property and equipment, net 631,560 649,593
+Deferred income taxes 30,573 22,362
+Other assets 29,809 24,252
+ ---------- ----------
+
+TOTAL ASSETS 4,406,377 3,799,117
+ ========== ==========
+
+LIABILITIES AND STOCKHOLDERS' EQUITY
+Current liabilities:
+Accounts payable 1,793,866 963,701
+Accrued expenses and other current liabilities 129,766 128,776
+Accrued income taxes - 44,453
+Deferred income taxes 87,691 141,729
+Current installments of long-term debt 1,253 1,410
+Liabilities of discontinued operations 7,417 -
+ ---------- ----------
+
+Total current liabilities 2,019,993 1,280,069
+
+Long-term debt, excluding current installments 22,987 11,254
+Accrued straight-line rent 102,116 97,427
+Other liabilities 89,461 68,792
+ ---------- ----------
+
+TOTAL LIABILITIES 2,234,557 1,457,542
+ ---------- ----------
+
+Stockholders' equity:
+Common stock, 0.50 par value;
+ 525,000,000 shares authorized; 210,508,802 shares
+ issued and outstanding at November 30, 2003
+ (209,954,840 at February 28, 2003) 105,254 104,977
+Capital in excess of par value 856,716 849,083
+Retained earnings 1,209,850 1,387,515
+ ---------- ----------
+
+TOTAL STOCKHOLDERS' EQUITY 2,171,820 2,341,575
+ ---------- ----------
+
+TOTAL LIABILITIES AND STOCKHOLDERS' EQUITY 4,406,377 3,799,117
+ ========== ==========
+
+See accompanying notes to consolidated financial statements.
+
+Page 4 of 29
+
+Circuit City Stores, Inc. and Subsidiaries
+ Consolidated Statements of Cash Flows (Unaudited)
+ (Amounts in thousands)
+
+Nine Months Ended
+ November 30
+
+ 2003 2002
+ ------------ -----------
+Operating Activities:
+Net (loss) earnings (166,696) 30,735
+Adjustments to reconcile net (loss) earnings to net cash used in operating
+ activities of continuing operations:
+ Net loss (earnings) from discontinued operations 83,375 (85,680)
+ Depreciation and amortization 143,078 113,396
+ Amortization of restricted stock awards 11,312 14,354
+ Loss on dispositions of property and equipment 549 6,303
+ Provision for deferred income taxes (62,249) 14,320
+ Changes in operating assets and liabilities:
+ Increase in accounts receivable, net (33,299) (39,797)
+ Increase in retained interests in securitized receivables (98,732) (74,882)
+ Increase in merchandise inventory (1,241,342) (1,140,617)
+ Increase in prepaid expenses and other current assets (51,780) (30,648)
+ (Increase) decrease in other assets (5,557) 4,072
+ Increase in accounts payable 830,165 556,243
+ Decrease in accrued expenses and other current liabilities
+ and accrued income taxes (41,052) (96,482)
+ Increase in accrued straight-line rent and other liabilities 25,358 15,488
+ ------------ -----------
+Net cash used in operating activities of continuing operations (606,870) (713,195)
+ ------------ -----------
+Investing Activities:
+- --------------------
+Purchases of property and equipment (134,251) (111,148)
+Proceeds from sales of property and equipment, net 21,257 31,094
+ ------------ -----------
+Net cash used in investing activities of continuing operations (112,994) (80,054)
+ ------------ -----------
+Financing Activities:
+- --------------------
+Proceeds from short-term debt, net - 57,603
+Principal payments on long-term debt (1,024) (24,543)
+Repurchase and retirement of common stock (13,941) -
+Issuances of Circuit City common stock, net 9,610 9,715
+Issuances of CarMax Group common stock, net - 298
+Dividends paid (10,968) (11,003)
+ ------------ -----------
+Net cash (used in) provided by financing activities of
+ continuing operations (16,323) 32,070
+ ------------ -----------
+Cash provided by (used in) discontinued operations -
+ bankcard operation 306,860 (60,246)
+Cash used in discontinued operations - CarMax - (21,218)
+Cash used in discontinued operations - Divx - (10,500)
+ ------------ -----------
+Decrease in cash and cash equivalents (429,327) (810,707)
+Cash and cash equivalents at beginning of year 884,670 1,248,246
+ ------------ -----------
+Cash and cash equivalents at end of period 455,343 437,539
+ ============ ===========
+Supplemental disclosures of cash flow information:
+ Non-cash operating, investing and financing activities:
+ Asset aquired from variable interest entity 12,600 -
+ Liabilities assumed from variable interest entity 12,600 -
+ Reduction of liability related to the discontinued Divx operation 1,483 -
+
+See accompanying notes to consolidated financial statements.
+
+Page 5 of 29
+
+CIRCUIT CITY STORES, INC. AND SUBSIDIARIES
+ Notes to Consolidated Financial Statements
+ (Unaudited)
+
+1. Basis of Presentation
+
+ From February 7, 1997, to October 1, 2002, the common stock of Circuit City
+ Stores, Inc. consisted of two common stock series that were intended to
+ reflect the performance of the company's two businesses. The Circuit City
+ Group common stock was intended to reflect the performance of the Circuit
+ City consumer electronics stores and related operations and the shares of
+ CarMax Group common stock reserved for the Circuit City Group or for
+ issuance to holders of Circuit City Group common stock. The CarMax Group
+ common stock was intended to reflect the performance of the CarMax auto
+ superstores and related operations.
+
+ Effective October 1, 2002, the CarMax auto superstore business was
+ separated from the Circuit City consumer electronics business through a
+ tax-free transaction in which CarMax, Inc., formerly a wholly owned
+ subsidiary of Circuit City Stores, Inc., became an independent, separately
+ traded public company. Following the separation, the Circuit City Group
+ common stock was renamed Circuit City common stock. CarMax results are
+ presented as results from discontinued operations. See Note 3 for
+ additional discussion of the separation.
+
+ On November 18, 2003, the company completed the sale of its bankcard
+ operation, which included Visa and MasterCard credit card receivables and
+ related cash reserves. Results from the bankcard operation have been
+ classified as discontinued operations. See Note 3 for additional discussion
+ concerning the sale of the bankcard operation.
+
+ Certain prior year amounts have been reclassified to conform to the current
+ presentation.
+
+ Due to the seasonal nature of the company's business, interim results are
+ not necessarily indicative of results for the entire fiscal year. The
+ company's consolidated financial statements included in this report should
+ be read in conjunction with the notes to the audited financial statements
+ incorporated by reference in the company's fiscal 2003 Annual Report on
+ Form 10-K.
+
+2. Accounting Policies
+
+ The consolidated financial statements of the company conform to accounting
+ principles generally accepted in the United States of America. The interim
+ period financial statements are unaudited; however, in the opinion of
+ management, all adjustments, which consist only of normal, recurring
+ adjustments, necessary for a fair presentation of the interim consolidated
+ financial statements have been included. The February 28, 2003, balance
+ sheet data was derived from the audited consolidated financial statements
+ incorporated by reference in the company's fiscal 2003 Annual Report on
+ Form 10-K.
+
+3. Discontinued Operations
+
+ Cash flows related to discontinued operations have been segregated on the
+ consolidated statements of cash flows.
+
+ (A) Bankcard business:
+
+ On November 18, 2003, the company completed the sale of its bankcard
+ operation to FleetBoston Financial. Results from the bankcard operation
+ have been classified as discontinued operations. The sale agreement
+ includes a transition services agreement under which the company's finance
+ operation will continue to service the bankcard accounts until final
+ conversion, which is expected to occur in the company's first fiscal
+ quarter ending May 31, 2004. FleetBoston Financial is reimbursing the
+ company for operating costs incurred during the transition period. Employee
+ severance costs will be incurred ratably
+
+Page 6 of 29
+
+from the time at which these costs are eligible for accrual through the
+ final conversion date. The company has not incurred any severance costs as
+ of November 30, 2003. The company expects to incur lease termination costs
+ in next fiscal year's first quarter.
+
+ The company anticipates that the sale will result in an after-tax loss of
+ approximately 82 million, including 75 million of adjustments to the
+ carrying value of the company's retained interest in the bankcard portfolio
+ and approximately 7 million of other costs, including employee severance
+ and lease termination. In the second quarter ended August 31, 2003, the
+ company recognized an after-tax loss of 95 million to reflect the
+ then-estimated net proceeds from the sale. To reflect the actual sale
+ proceeds, the company recorded a reduction of 19.4 million in the expected
+ after-tax loss in the quarter ended November 30, 2003.
+
+ Including the 19.4 million reduction in the expected after-tax loss, the
+ after-tax earnings from the discontinued bankcard operation totaled 24.0
+ million for the quarter ended November 30, 2003, and 4.8 million in the
+ same period last fiscal year. For the nine months ended November 30, 2003,
+ the after-tax loss from the discontinued bankcard operation totaled 84.9
+ million. For the nine months ended November 30, 2002, the after-tax
+ earnings from the discontinued bankcard operation totaled 21.2 million.
+ These results also include bankcard-related income generated by a
+ subsidiary that provides reinsurance and indemnification related to credit
+ protection products sold by the finance operation. For the third quarter,
+ the subsidiary's after-tax earnings related to the discontinued bankcard
+ operation were approximately 800,000 this fiscal year and approximately
+ 900,000 last fiscal year. For the nine months, the subsidiary's
+ discontinued after-tax earnings were approximately 2.2 million this fiscal
+ year and approximately 2.4 million last fiscal year.
+
+ The assets and liabilities of the discontinued bankcard operation reflected
+ on the consolidated balance sheets at November 30, 2003, and February 28,
+ 2003, were comprised of the following:
+
+(Amounts in millions) November 30 February 28
+ Accounts receivable............................................................. 11.5 74.7
+ Retained interests in securitized receivables................................... - 321.1
+ ----- ------
+ Total assets of discontinued bankcard operation................................. 11.5 395.8
+ ===== ======
+
+Accrued expenses and other current liabilities.................................. 7.4 -
+ ----- ------
+ Total liabilities of discontinued bankcard operation............................ 7.4 -
+ ===== ======
+
+(B) CarMax:
+
+ On September 10, 2002, the company's shareholders approved the separation
+ of the CarMax Group from Circuit City Stores, Inc. and the company's board
+ of directors authorized the redemption of the company's CarMax Group common
+ stock and the distribution of CarMax, Inc. common stock to effect the
+ separation. On October 1, 2002, the separation was effective and CarMax,
+ Inc. became an independent, separately traded public company. Each
+ outstanding share of CarMax Group common stock was redeemed in exchange for
+ one share of CarMax, Inc. common stock. In addition, each holder of Circuit
+ City Group common stock received as a tax-free distribution 0.313879 of a
+ share of CarMax, Inc. common stock for each share of Circuit City Group
+ common stock owned as of September 16, 2002, the record date for the
+ distribution. CarMax results are presented as results from discontinued
+ operations. The company recorded no gain or loss as a result of the
+ separation.
+
+ With the separation, CarMax paid a special dividend of 28.4 million to
+ Circuit City Stores, Inc. in recognition of the company's continuing
+ contingent liability for leases related to 23 CarMax locations. At November
+ 30, 2003, the future minimum fixed lease obligations on these 23 leases
+ totaled approximately 459.2 million.
+
+ In connection with the separation, the company and CarMax entered into a
+ transition services agreement, under which the company provides CarMax
+ services, including human resources, administrative services,
+
+ Page 7 of 29
+
+ special technical services, payroll processing, benefits administration,
+ payroll tax services, computer center support and telecommunication
+ services, with initial terms ranging from six to 24 months and varying
+ renewal options. Under the agreement, CarMax pays the company the allocable
+ portion of all direct and indirect costs of providing these services plus
+ 10 percent. Including the 10 percent markup, the company billed CarMax
+ 944,000 during the third quarter of fiscal 2004 and 6.5 million during
+ the nine months ended November 30, 2003, for services provided under the
+ agreement. A tax allocation agreement, which generally provides that
+ pre-separation taxes attributable to the business of each party will be
+ borne solely by that party, also was executed upon the separation.
+
+ For the three months ended November 30, 2002, net earnings from the
+ discontinued CarMax operations were 3.6 million, representing CarMax
+ results for the one month prior to the separation date. For the nine months
+ ended November 30, 2002, net earnings from the discontinued CarMax
+ operations were 64.5 million.
+
+ (C) Divx:
+
+ On June 16, 1999, Digital Video Express announced that it would cease
+ marketing the Divx home video system and discontinue operations. In this
+ fiscal year's third quarter, the company reduced the provision for
+ commitments under licensing agreements by 2.3 million, reducing accrued
+ expenses and other current liabilities related to the former Divx
+ operations to 5.6 million on the consolidated balance sheet at November
+ 30, 2003. The reduction contributed 1.5 million after-tax to net earnings
+ (loss) from discontinued operations for the three- and nine-month periods
+ ended November 30, 2003. At February 28, 2003, current liabilities of 8.0
+ million related to the former Divx operations were reflected on the
+ consolidated balance sheet. Payments of 10.5 million were made during the
+ first nine months of fiscal 2003 and are reflected on the consolidated
+ statement of cash flows for the nine months ended November 30, 2002. For
+ the three- and nine-month periods ended November 30, 2002, the discontinued
+ Divx operations had no impact on the company's results of operations.
+
+4. Finance Income
+
+ Finance income includes the results from the company's private-label and
+ co-branded Visa credit card operation. The company completed the sale of
+ its bankcard operation on November 18, 2003. Results from the bankcard
+ operation have been classified as discontinued operations and, therefore,
+ are not included in finance income.
+
+ For the three- and nine-month periods ended November 30, 2003 and 2002, the
+ components of pretax finance income were as follows:
+
+Three Months Ended Nine Months Ended
+ November 30 November 30
+ (Amounts in millions) 2003 2002 2003 2002
+ ----------------------------------------------------------- --------------------- ----------------------
+ Securitization income...................................... 25.3 20.6 83.0 80.6
+ Less: Payroll and fringe benefit expenses.................. 7.0 7.8 22.6 23.0
+ Other direct expenses.............................. 12.7 10.5 38.0 32.1
+ ---------------------- ----------------------
+ Finance income............................................. 5.6 2.3 22.4 25.5
+ ====================== ======================
+
+Securitization income primarily is comprised of the gain on the sale of
+ receivables generated by the company's finance operation, income from
+ retained interests in the receivables and income related to servicing the
+ receivables, as well as the impact of increases or decreases in the fair
+ value of the retained interests. Finance income does not include any
+ allocation of indirect costs or income. The company presents information on
+ the performance of its finance operation on a direct basis to avoid making
+ arbitrary decisions regarding the periodic indirect benefits or costs that
+ could be attributed to this operation. Examples of indirect costs not
+ included are corporate expenses such as human resources, administrative
+ services, marketing, information systems, accounting, legal, treasury and
+ executive payroll, as well as retail store expenses.
+
+ Page 8 of 29
+
+5. Stock-Based Compensation
+
+ The company accounts for stock options granted to employees and directors
+ using the intrinsic value method of accounting in accordance with
+ Accounting Principles Board Opinion No. 25, "Accounting For Stock Issued to
+ Employees," and related interpretations. As the exercise price of all
+ options granted was equal to the market price of the underlying common
+ stock on the grant date, no stock-based compensation cost has been
+ recognized. The following table summarizes the pro forma effect on net
+ earnings (loss) and net (loss) earnings per share if the company had
+ applied the fair value recognition provisions of Statement of Financial
+ Accounting Standards No. 123, "Accounting for Stock-Based Compensation."
+ The pro forma effect on the three- and nine-month periods ended November
+ 30, 2003 and 2002, may not be representative of the pro forma effects on
+ net earnings (loss) and net (loss) earnings per share for future quarters.
+
+Three Months Ended Nine Months Ended
+ (Amounts in thousands November 30 November 30
+ except per share data) 2003 2002 2003 2002
+ ----------------------------------------------------------- ----------------------- -------------------------
+ Net loss from continuing operations:
+ As reported............................................. (24,073) (26,126) (83,321) (54,945)
+ Less: fair value impact of employee
+ stock compensation costs............................. 3,982 4,592 12,135 14,015
+ ----------------------- ------------------------
+ Pro forma............................................... (28,055) (30,718) (95,456) (68,960)
+ ======================= =========================
+ Net (loss) earnings attributed to Circuit City common stock:
+ Continuing operations, as reported...................... (24,073) (26,126) (83,321) (54,945)
+ Discontinued operations, as reported.................... 25,546 7,066 (83,375) 62,464
+ Less: fair value impact of employee
+ stock compensation costs............................. 3,982 4,592 12,135 14,015
+ ----------------------- --------------------------
+ Pro forma............................................... (2,509) (23,652) (178,831) (6,496)
+ ======================= =========================
+ Net loss per share from continuing operations:
+ Basic - as reported..................................... (0.12) (0.13) (0.40) (0.27)
+ Basic - pro forma ...................................... (0.14) (0.15) (0.46) (0.33)
+ Diluted - as reported .................................. (0.12) (0.13) (0.40) (0.27)
+ Diluted - pro forma .................................... (0.14) (0.15) (0.46) (0.33)
+ Net earnings (loss) per share attributed to Circuit City common stock:
+ Basic - as reported..................................... 0.01 (0.09) (0.81) 0.04
+ Basic - pro forma....................................... (0.01) (0.11) (0.87) (0.03)
+ Diluted - as reported .................................. 0.01 (0.09) (0.81) 0.04
+ Diluted - pro forma..................................... (0.01) (0.11) (0.87) (0.03)
+
+For the purpose of computing the pro forma amounts indicated above, the
+ fair value of each option on the date of grant was estimated using the
+ Black-Scholes option-pricing model. The weighted average assumptions used
+ in the model were as follows:
+
+Three Months Ended Nine Months Ended
+ November 30 November 30
+ 2003 2002 2003 2002
+ --------------------- -------------------------
+ Expected dividend yield.......................... 1.1 0.3 1.1 0.3 
+ Expected stock volatility........................ 75.8 69.8 75.8 69.8 
+ Risk-free interest rates......................... 2.4 4.7 2.5 4.7 
+ Expected lives (in years)........................ 4.7 4.6 4.6 4.6
+
+Using these assumptions in the Black-Scholes model, the weighted average
+ fair value of options granted was 4 per option for the three- and
+ nine-month periods ended November 30, 2003. For the three- and
+
+ Page 9 of 29
+
+ nine-month periods ended November 30, 2002, the weighted average fair value
+ of options granted was 13 per option.
+
+6. Income Taxes
+
+ The effective income tax rate applicable to results from continuing
+ operations was 33.9 percent for the three months ended November 30, 2003,
+ and 36.5 percent for the nine months ended November 30, 2003, compared with
+ 37.6 percent for the three months ended November 30, 2002, and 37.2 percent
+ for the nine months ended November 30, 2002. The decreases are attributed
+ to lower state and local income taxes.
+
+7. Net (Loss) Earnings per Share
+
+ The company reported a loss from continuing operations for the three- and
+ nine-month periods ended November 30, 2003 and 2002. The diluted net loss
+ per share is the same as the basic net loss per share for those periods
+ because including any potentially dilutive securities would be antidilutive
+ to the net loss per share from continuing operations.
+
+ For the three- and nine-month periods ended November 30, 2003, no options
+ or restricted stock were included in the computation of diluted net loss
+ per share because the company reported a loss from continuing operations.
+ Options to purchase 18.6 million shares of Circuit City common stock with
+ exercise prices ranging from 5.61 to 27.21 and restricted stock amounting
+ to 3.6 million shares were outstanding at November 30, 2003. For the three-
+ and nine-month periods ended November 30, 2002, no options or restricted
+ stock were included in the computation of diluted net loss per share
+ because the company reported a loss from continuing operations. Options to
+ purchase 17.8 million shares of Circuit City common stock with exercise
+ prices ranging from 6.63 to 27.21 per share and restricted stock
+ amounting to 3.0 million shares were outstanding at November 30, 2002.
+
+ Basic net earnings per share from discontinued operations attributed to
+ CarMax Group common stock is computed by dividing net earnings from
+ discontinued operations attributed to CarMax Group common stock by the
+ weighted average number of shares of CarMax Group common stock outstanding.
+ Diluted net earnings per share from discontinued operations attributed to
+ CarMax Group common stock is computed by dividing net earnings from
+ discontinued operations attributed to CarMax Group common stock by the sum
+ of the weighted average number of shares of CarMax Group common stock
+ outstanding and the dilutive potential CarMax Group common stock. CarMax
+ became an independent, separately traded public company on October 1, 2002.
+ CarMax results are presented as results from discontinued operations.
+
+ Reconciliations of the numerator and denominator of the basic and diluted
+ net earnings per share calculations for the CarMax Group are presented
+ below.
+
+(Amounts in thousands Three Months Ended Nine Months Ended
+ except per share data) November 30, 2002 November 30, 2002
+ ----------------------------------------------------------- --------------------- -------------------
+ Weighted average common shares............................. 37,084 37,023
+ Dilutive potential common shares:
+ Options................................................. 1,492 1,668
+ Restricted stock........................................ 1 10
+ ------- -------
+ Weighted average common shares and
+ dilutive potential common shares........................ 38,577 38,701
+ ======= =======
+
+ Net earnings available to common shareholders.............. 1,284 23,216
+ Basic net earnings per share............................... 0.03 0.63
+ Diluted net earnings per share............................. 0.03 0.60
+
+Page 10 of 29
+
+8. Restricted Cash
+
+ Cash and cash equivalents held by the company's regulated subsidiaries and
+ not available for general corporate purposes were 118.1 million at
+ November 30, 2003, and 48.8 million at February 28, 2003. Restricted cash
+ is related to liquidity and settlement obligations between the finance
+ operation and the company, and were affected at November 30, 2003, by both
+ seasonal trends and the end of a quarter occurring on Thanskgiving weekend.
+
+9. Common Stock Repurchased
+
+ In January 2003, the company's board of directors authorized the repurchase
+ of up to 200 million of common stock. The company did not repurchase any
+ shares of common stock during the third quarter. As of November 30, 2003,
+ the company had repurchased and retired approximately 2.7 million shares of
+ common stock at a cost of 13.9 million. Based on the market value of the
+ common stock at November 30, 2003, the remaining 186.1 million authorized
+ would allow the company to repurchase up to approximately 7 percent of the
+ 210.5 million shares then outstanding.
+
+10. Securitizations
+
+ The company enters into securitization transactions to finance
+ private-label and co-branded Visa credit card receivables, collectively
+ referred to as private-label receivables, originated by its finance
+ operation. The company uses a special purpose subsidiary to facilitate
+ these securitization transactions in accordance with the isolation
+ provisions of SFAS No. 140. The finance operation sells the private-label
+ receivables to the special purpose subsidiary, which, in turn, sells these
+ receivables to the securitization master trust. At the time of these sales,
+ the company recognizes gains or losses as a component of finance income.
+ See Note 4 for additional discussion of finance income.
+
+ The master trust periodically issues securities backed by the private-label
+ receivables. The master trust has issued multiple series of term
+ asset-backed securities having fixed initial principal amounts and multiple
+ series of variable funding asset-backed securities each having a variable
+ principal amount. Investors in the variable funding asset-backed securities
+ are generally entitled to receive monthly interest payments and have
+ committed to acquire additional variable funding interests up to a stated
+ amount until a stated commitment termination date. The securitization
+ agreements do not provide for recourse to the company for credit losses on
+ the securitized receivables. However, the fair value of the company's
+ retained interests in securitized receivables will be directly affected by
+ credit losses on those securitized receivables. The finance operation
+ continues to service the securitized receivables for a fee.
+
+ Circuit City retains the rights to receive the excess of the finance
+ charges and fees generated by the securitized private-label receivables
+ over the interest paid to investors, servicing costs and credit losses. The
+ company also holds various subordinated asset-backed securities, which
+ serve as credit enhancement for the asset-backed securities held by
+ third-party investors.
+
+ The private-label securitization agreement requires that the aggregate
+ outstanding principal balance of the securitized receivables exceeds a
+ specified amount and that the yield on the securitized receivables exceeds
+ specified rates. In addition, the variable funding securitization
+ agreements require that the company meet financial tests relating to
+ minimum tangible net worth, current ratio and debt-to-capital ratio and
+ that the securitized receivables meet specified performance levels relating
+ to delinquency rates, default rates and principal payment rates. If these
+ financial tests or performance levels are not met, or if certain other
+ events occur, it would constitute an early amortization event, in which
+ case the principal payment dates for the term series would be accelerated,
+ the variable funding commitments would terminate and the variable funding
+ investors would begin to receive monthly principal payments until paid in
+ full. The company and the securitized receivables were in compliance with
+ these financial tests and performance levels at November 30, 2003.
+
+ Page 11 of 29
+
+ The finance operation receives annual servicing fees approximating 2
+ percent of the outstanding principal balance of the securitized
+ receivables. The servicing fees specified in the securitization agreements
+ adequately compensate the finance operation for servicing the securitized
+ receivables. Accordingly, no servicing asset or liability has been
+ recorded.
+
+At November 30 At February 28
+ (Dollar amounts in millions) 2003 2003
+ ------------------------------------------------------------------------------- --------------- ---------------
+ Total principal amount of credit card receivables managed...................... 1,758.9 1,636.1
+ Principal amount of receivables securitized.................................... 1,636.3 1,592.2
+ Principal amount of receivables held for sale.................................. 122.6 43.9
+ Unused capacity of the private-label variable funding program.................. 47.9 29.5
+ Aggregate receivables 31 days or more delinquent............................... 103.3 72.1
+ Aggregate receivables 31 days or more delinquent as a percent
+ of total principal amount of credit card receivables managed................ 5.9 4.4 
+
+The principal amount of defaults net of recoveries was 30.0 million for
+ the three-month period ended November 30, 2003, and 19.4 million for the
+ three-month period ended November 30, 2002. For the three months ended
+ November 30, 2003, serviced receivables averaged 1,629.1 million, compared
+ with 1,366.3 million for the same period last fiscal year. The principal
+ amount of defaults net of recoveries as an annualized percent of average
+ serviced receivables was 7.4 percent for the three-month period ended
+ November 30, 2003, and 5.7 percent for the three-month period ended
+ November 30, 2002.
+
+ The principal amount of defaults net of recoveries was 77.7 million for
+ the nine-month period ended November 30, 2003, and 53.6 million for the
+ nine-month period ended November 30, 2002. For the nine months ended
+ November 30, 2003, serviced receivables averaged 1,585.8 million, compared
+ with 1,317.3 million for the same period last fiscal year. The principal
+ amount of defaults net of recoveries as an annualized percent of average
+ serviced receivables was 6.5 percent for the nine-month period ended
+ November 30, 2003, and 5.4 percent for the nine-month period ended November
+ 30, 2002.
+
+ During the third quarter of this fiscal year, the company replaced a
+ maturing term securitization with a variable funding program. No new
+ securitization transactions were completed during the second and third
+ quarters of fiscal 2004. The company completed a 500 million private-label
+ credit card receivable securitization transaction during the first quarter
+ of fiscal 2004 to replace maturing term securitizations. The company
+ renewed its private-label variable funding program, which the company also
+ refers to as a warehouse conduit, during the first quarter of fiscal 2004.
+ The company completed a 300 million private-label credit card receivable
+ securitization transaction during the first quarter of fiscal 2003 to
+ replace maturing term securitizations.
+
+ The following table summarizes cash flows received from and paid to the
+ securitization trust.
+
+Three Months Ended Nine Months Ended
+ November 30 November 30
+ (Amounts in millions) 2003 2002 2003 2002
+ ----------------------------------------------------------- ------------------------ ------------------------
+ Proceeds from new securitizations.......................... 92.6 191.0 180.7 613.0 
+ Proceeds from collections reinvested
+ in previous credit card securitizations................ 551.6 304.1 1,422.3 724.4 
+ Servicing fees received.................................... 7.7 6.3 22.8 17.7
+ Other cash flows received on
+ retained interests ................................... 31.7 8.3 93.6 54.3
+
+To be consistent with the fiscal 2004 presentation, the fiscal 2003
+ amounts reflect changes in the presentation of securitization cash flows.
+
+ This amount represents cash flows received from retained interests other
+ than servicing fees, including cash flows from the interest-only strip and
+ cash above the minimum required level held in cash collateral accounts.
+
+ Page 12 of 29
+
+ In accordance with the allocated carrying value method as prescribed by
+ SFAS No. 140, gains on sales of receivables sold to the securitization
+ trusts were 13.1 million for the quarter ended November 30, 2003, and
+ 19.3 million for the quarter ended November 30, 2002. Gains on sales of
+ receivables sold to the securitization trusts were 35.0 million for the
+ nine months ended November 30, 2003, and 52.4 million for the nine months
+ ended November 30, 2002.
+
+ The sum of the excess cash flows expected from receivables that are sold to
+ the securitization trust is referred to as an interest-only strip and is
+ carried at fair value based on estimates of these future cash flows. When
+ determining the fair value of the interest-only strip, the company
+ estimates future cash flows using estimates of key assumptions such as
+ finance charge income; charge-offs, net of recoveries; payment rates; and
+ discount rates appropriate for the type of asset and risk. Expected future
+ cash flows also are based upon the market's expectation about future
+ movements in interest rates as reflected in forward interest rate curves.
+
+ Retained interests in securitized private-label receivables are comprised
+ of the following components.
+
+(Amounts in millions) At November 30, 2003 At February 28, 2003
+ ------------------------------------------------------ -------------------- --------------------
+ Interest-only strip................................... 92.6 79.1
+ Subordinated securities............................... 245.3 160.0
+ ------- ------
+ Retained interests in securitized
+ private-label receivables.......................... 337.9 239.1
+ ======= ======
+
+At November 30, 2003, the weighted-average life of the retained interests
+ in securitized receivables ranged from 0.2 years to 1.6 years. At February
+ 28, 2003, the weighted-average life of the retained interests in
+ securitized receivables ranged from 0.5 years to 2.2 years.
+
+ The following tables present the key economic assumptions used in measuring
+ the fair value of private-label retained interests at November 30, 2003,
+ and February 28, 2003, and a sensitivity analysis showing the hypothetical
+ effect on the fair value of those interests when there are unfavorable
+ variations from the assumptions used. Key valuation assumptions at November
+ 30, 2003, and February 28, 2003, are based on portfolio performance and
+ market conditions. The discount rates are used to calculate the fair value
+ of the subordinated asset-backed securities and the interest-only strip.
+ The subordinated asset-backed securities were valued primarily using a
+ discount rate of 9 percent. The interest-only strip was valued with a 15
+ percent discount rate. The default rates used in valuing the interest-only
+ strip are forecasted for future months and represent a loss curve
+ associated with a static pool of receivables. The ranges provided in the
+ tables below reflect the high and low months on the loss curve. The
+ weighted average default rates are weighted by the relative receivable
+ balance for each month and incorporate an adjustment for net present value.
+ These sensitivities are hypothetical and should be used with caution. In
+ the following tables, the effect of a variation in a particular assumption
+ on the fair value of the private-label retained interests is calculated
+ without changing any other assumption; in actual circumstances, changes in
+ one factor may result in changes in another, which might magnify or
+ counteract the sensitivities.
+
+Page 13 of 29
+
+At November 30, 2003
+ Impact on Fair Impact on Fair
+ Assumptions Weighted-Average Value of 10 Value of 20 
+ (Dollar amounts in millions) Used Assumptions Adverse Change Adverse Change
+ ---------------------------------- -------------------------------------------------------------------------------------
+ Monthly payment rate.............. 11.3 11.3 4.1 8.3
+ Annual default rate............... 8.6 -15.6 10.0 8.6 17.1
+ Annual discount rate.............. 9.1 -15.0 10.7 3.1 6.1
+
+ At February 28, 2003
+ Impact on Fair Impact on Fair
+ Assumptions Weighted-Average Value of 10 Value of 20 
+ (Dollar amounts in millions) Used Assumptions Adverse Change Adverse Change
+ ---------------------------------- -------------------------------------------------------------------------------------
+ Monthly payment rate.............. 10.9 10.9 6.1 10.7
+ Annual default rate............... 7.1 -12.9 8.9 7.1 14.2
+ Annual discount rate.............. 8.3 -15.0 10.7 1.6 3.2
+
+11. Financial Derivatives
+
+ The company enters into interest rate cap agreements in connection with its
+ private-label receivable securitization transactions. During the first nine
+ months of fiscal 2004, the company did not purchase or sell any interest
+ rate caps. The total notional amount of interest rate caps outstanding was
+ 280.5 million at November 30, 2003, and 512.9 million at February 28,
+ 2003. The reduction in the total notional amount of interest rate caps
+ outstanding was due to the termination of two interest rate caps upon the
+ repayment in the third quarter of a private-label term securitization
+ transaction. Interest rate caps purchased by the company are included in
+ net accounts receivable on the consolidated balance sheets and had a fair
+ value of 3.9 million at November 30, 2003, and 4.2 million at February
+ 28, 2003. Interest rate caps written by the company are included in
+ accounts payable on the consolidated balance sheets and had a fair value of
+ 3.9 million at November 30, 2003, and 4.2 million at February 28, 2003.
+
+ The market and credit risks associated with the company's interest rate
+ caps are similar to those relating to other types of financial instruments.
+ Market risk is the exposure created by potential fluctuations in interest
+ rates and is directly related to the product type, agreement terms and
+ transaction volume. The company has entered into offsetting interest rate
+ cap positions and, therefore, does not anticipate significant market risk
+ arising from its interest rate caps. Credit risk is the exposure to
+ nonperformance of another party to an agreement. The company mitigates
+ credit risk by dealing with highly rated bank counterparties.
+
+12. Recent Accounting Pronouncements
+
+ Effective in the third quarter of fiscal 2004, the company adopted Emerging
+ Issues Task Force Issue No. 00-21, "Accounting for Revenue Arrangements
+ with Multiple Deliverables," which addresses when and how an arrangement
+ involving multiple deliverables should be divided into separate units of
+ accounting, as well as how consideration under the arrangement should be
+ measured and allocated to the separate units of accounting in the
+ arrangement. The adoption of EITF No. 00-21 did not have a material impact
+ on the company's financial position, results of operations or cash flows.
+
+ Effective September 1, 2003, the company adopted FASB Interpretation No.
+ 46, "Consolidation of Variable Interest Entities," which addresses how to
+ identify variable interest entities and provides guidance as to how a
+ company may assess its interests in a variable interest entity for purposes
+ of deciding whether consolidation of that entity is required. With the
+ adoption of this standard, the company recorded 12.6 million to long-term
+ debt on the consolidated balance sheet. The adoption of FIN No. 46 did not
+ have a material impact on the company's financial position, results of
+ operations or cash flows.
+
+Page 14 of 29
+
+13. Segment Information
+
+ Due to changes in the company's management reporting structure that
+ occurred during the first quarter of fiscal 2004, the company identified
+ its retail operation and its finance operation as reportable segments in
+ accordance with the provisions of SFAS No. 131, "Segment Reporting." These
+ segments are identified and managed by the company based on the company's
+ management reporting structure and on the nature of the products and
+ services offered by each segment. The retail operation segment is primarily
+ engaged in the business of selling brand-name consumer electronics,
+ personal computers and entertainment software. The finance operation issues
+ and services private-label credit cards, including a co-branded Visa credit
+ card. The finance operation is conducted through the company's wholly owned
+ subsidiary First North American National Bank, which is a limited-purpose
+ credit card bank. FNANB sells its credit card receivables to a consolidated
+ special purpose subsidiary wholly owned by the company, which, in turn,
+ sells these receivables to a securitization master trust that is an
+ off-balance-sheet qualifying special purpose entity. See Note 4 and Note 10
+ for additional discussion of finance income and the finance operation.
+
+ The company's finance operation segment is evaluated by management on a
+ pretax basis. The company includes substantially all depreciation and
+ amortization and interest expense within the retail operation segment. The
+ accounting policies of the segments are the same as those set forth in Note
+ 2 to the company's audited consolidated financial statements incorporated
+ by reference in the company's fiscal 2003 Annual Report on Form 10-K.
+
+ Revenue by reportable segment and the reconciliation to the consolidated
+ statements of operations were as follows:
+
+Three Months Ended Nine Months Ended
+ November 30 November 30
+ (Amounts in millions) 2003 2002 2003 2002
+ ---------------------------------------------------------- ------------------------- ------------------------
+ Retail operation.......................................... 2,407.4 2,421.7 6,496.4 6,761.1
+ Finance operation......................................... 25.3 20.6 83.0 80.6
+ ------------------------- ------------------------
+ Total revenue............................................. 2,432.7 2,442.3 6,579.4 6,841.7
+ Less: finance operation revenue not included
+ in net sales and operating revenues ................. 25.3 20.6 83.0 80.6
+ ------------------------- ------------------------
+ Net sales and operating revenues ......................... 2,407.4 2,421.7 6,496.4 6,761.1
+ ========================= ========================
+ 
+ Finance operation revenue is included in finance income, which is reported
+ separately from net sales and operating revenues on the statements of
+ operations.
+
+ Loss from continuing operations before income taxes by reportable segment
+ and the reconciliation to the consolidated statements of operations were as
+ follows:
+
+Three Months Ended Nine Months Ended
+ November 30 November 30
+ (Amounts in millions) 2003 2002 2003 2002
+ ---------------------------------------------------------- ---------------------- ----------------------
+ Retail operation ......................................... (42.0) (44.2) (153.6) (113.0)
+ Finance operation......................................... 5.6 2.3 22.4 25.5
+ --------------------- -----------------------
+ Loss from continuing operations before income
+ taxes................................................. (36.4) (41.9) (131.2) (87.5)
+ ===================== ======================
+
+All corporate expenses are included in the retail operation.
+
+ Total assets by reportable segment and the reconciliation to the
+ consolidated balance sheets were as follows:
+
+At November 30 At February 28
+ (Amounts in millions) 2003 2003
+ --------------------------------------------------------- --------------- --------------
+ Retail operation......................................... 3,760.7 2,980.2
+ Finance operation........................................ 634.2 423.1
+ Discontinued operations.................................. 11.5 395.8
+ -------- --------
+ Total assets............................................. 4,406.4 3,799.1
+ ======== ========
+
+Page 15 of 29
+
+ITEM 2. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS
+OF OPERATIONS
+
+From February 7, 1997, to October 1, 2002, the common stock of Circuit City
+Stores, Inc. consisted of two common stock series that were intended to reflect
+the performance of the company's two businesses. The Circuit City Group common
+stock was intended to reflect the performance of the Circuit City consumer
+electronics stores and related operations and the shares of CarMax Group common
+stock reserved for the Circuit City Group or for issuance to holders of Circuit
+City Group common stock. The CarMax Group common stock was intended to reflect
+the performance of the CarMax auto superstores and related operations.
+
+Effective October 1, 2002, the CarMax auto superstore business was separated
+from the Circuit City consumer electronics business through a tax-free
+transaction in which CarMax, Inc., formerly a wholly owned subsidiary of Circuit
+City Stores, Inc., became an independent, separately traded public company.
+Following the separation, the Circuit City Group common stock was renamed
+Circuit City common stock. CarMax results are presented as results from
+discontinued operations. See Note 3 to the consolidated financial statements in
+this report for additional discussion of the separation.
+
+On November 18, 2003, we completed the sale of our bankcard operation, which
+included Visa and MasterCard credit card receivables and related cash reserves.
+Results from the bankcard operation have been classified as discontinued
+operations. See Note 3 to the consolidated financial statements in this report
+for additional discussion concerning the sale of the bankcard operation.
+
+CRITICAL ACCOUNTING POLICIES
+
+See the discussion of critical accounting policies under Management's Discussion
+and Analysis of Results of Operations and Financial Condition incorporated by
+reference in our fiscal 2003 Annual Report on Form 10-K. These policies relate
+to the calculation of the value of retained interests in securitization
+transactions, the calculation of the liability for lease termination costs,
+accounting for pension liabilities and accounting for cash consideration
+received from vendors.
+
+RESULTS OF OPERATIONS
+
+Our operations, in common with other retailers in general, are subject to
+seasonal influences. Historically, we have realized more of our net sales and
+net earnings in the fourth quarter, which includes the majority of the holiday
+selling season, than in any other fiscal quarter. The net earnings of any
+quarter are seasonally disproportionate to net sales since administrative and
+certain operating expenses remain relatively constant during the year.
+Therefore, quarterly results should not be relied upon as necessarily indicative
+of results for the entire fiscal year.
+
+Net Sales and Operating Revenues
+
+Total sales for the third quarter of fiscal 2004 decreased 1 percent to 2.41
+billion from 2.42 billion in last fiscal year's third quarter. Comparable store
+merchandise sales decreased 1 percent for the third quarter of fiscal 2004.
+Total sales for the first nine months of fiscal 2004 decreased 4 percent to
+ 6.50 billion from 6.76 billion for the first nine months of last fiscal year.
+Comparable store merchandise sales decreased 5 percent for the first nine months
+of fiscal 2004. A store is included in comparable store merchandise sales after
+the store has been open for a full year. Relocated stores are included
+immediately in the comparable store base.
+
+Comparable store merchandise sales increased 4 percent in November. During the
+quarter, we experienced strong sales growth in entertainment software, including
+movies and music; new video technologies, including digital televisions and
+thin-panel LCD and plasma displays; portable DVD players; digital satellite
+systems; digital imaging and portable digital audio. We believe the improving
+pace throughout the quarter reflected
+
+Page 16 of 29
+
+industry trends as well as consumer reaction to our new store design, new
+merchandise displays and advertising program. These results include strong
+growth in Web-originated sales during the quarter.
+
+The percent of merchandise sales represented by each major product category for
+the three- and nine-month periods ended November 30, 2003 and 2002 was as
+follows:
+
+Three Months Ended Nine Months Ended
+ November 30 November 30
+ 2003 2002 2003 2002
+ ------------------------ -----------------------
+Video..................................................... 42 40 40 39 
+Audio..................................................... 13 15 14 15
+Information technology.................................... 31 33 33 34
+Entertainment............................................. 14 12 13 12
+ ---------------------- -----------------------
+Total..................................................... 100 100 100 100 
+ ====================== =======================
+
+We sell extended warranty programs on behalf of unrelated third parties that are
+the primary obligors. Under these third-party warranty programs, we have no
+contractual liability to the customer. The total extended warranty revenue
+included in total sales was 75.4 million, or 3.1 percent of sales, in the third
+quarter of fiscal 2004, compared with 90.0 million, or 3.7 percent of sales, in
+last fiscal year's third quarter. The total extended warranty revenue included
+in total sales was 225.6 million, or 3.5 percent of sales, for the first nine
+months of fiscal 2004, compared with 261.9 million, or 3.9 percent of sales, in
+the first nine months of last fiscal year. The decrease is due in part to
+declines in average retail prices, which tend to result in consumers purchasing
+warranty contracts on fewer products. We believe that expanded availability of
+self-service products and greater use over last year of less experienced,
+part-time, seasonal sales associates who were added for the holiday selling
+season also contributed to the decrease in extended warranty sales.
+
+The following table provides the numbers of our retail units:
+
+Nov. 30, 2003 Feb. 28, 2003 Nov. 30, 2002
+ ------------- ------------- -------------
+Superstores....................................... 618 611 611
+Mall-based stores................................. 5 15 17
+ --- --- ---
+Total............................................. 623 626 628
+ === === ===
+
+We expect to open eight Superstores and relocate 16 Superstores to 18
+Superstores in the current fiscal year. In the third quarter of fiscal 2004, we
+opened six Superstores, relocated six Superstores, and closed eight mall-based
+stores. For the first nine months of fiscal 2004, we opened seven Superstores,
+relocated 10 Superstores, fully remodeled four Superstores and closed 10
+mall-based stores.
+
+The following table provides the numbers of our fiscal 2004 new, relocated and
+fully remodeled Superstores.
+
+First Quarter Second Quarter Third Quarter Fourth Quarter Fiscal 2004
+ Actual Actual Actual Estimated Estimated
+- -------------------------------------- --------------- ------------------- --------------- ------------------ -------------
+New Superstores....................... - 1 6 1 8
+Relocated Superstores................. 3 1 6 6 - 8 16 - 18
+Fully remodeled Superstores........... 1 3 - - 4
+ --------------- ------------------- --------------- ------------------ -------------
+Total................................. 4 5 12 7 - 9 28 - 30
+ =============== =================== =============== ================== =============
+
+Cost of Sales, Buying and Warehousing
+
+The gross profit margin was 22.2 percent of sales in the third quarter of fiscal
+2004, compared with 22.6 percent in the same period last fiscal year. For the
+first nine months of fiscal 2004, the gross profit margin was 22.6 percent of
+sales, compared with 23.5 percent for the same period last fiscal year. The
+lower gross profit margin primarily reflects the reduction in extended warranty
+sales, which carry above average gross profit margins.
+
+ Page 17 of 29
+
+Finance Income
+
+Our finance operation is conducted through our wholly owned subsidiary First
+North American National Bank, which is a limited-purpose credit card bank. FNANB
+sells its private-label and co-branded Visa credit card receivables to a
+consolidated special purpose subsidiary wholly owned by the company, which, in
+turn, sells these receivables to a securitization master trust that is an
+off-balance-sheet qualifying special purpose entity. We collectively refer to
+the private-label and the co-branded Visa credit card programs as the
+private-label program. We completed the sale of our bankcard operation,
+comprised of our MasterCard and Visa credit card programs, on November 18, 2003.
+Results from the bankcard operation have been classified as discontinued
+operations and, therefore, are not included in finance income. See Note 3 to the
+consolidated financial statements in this report for additional discussion
+concerning the sale of our bankcard operation.
+
+At November 30, 2003, approximately 64 percent of the total principal amount of
+private-label receivables outstanding had been originated under the co-branded
+Visa credit card program. At February 28, 2003, approximately 47 percent of the
+total principal amount of private-label receivables outstanding had been
+originated under the co-branded Visa credit card program.
+
+Securitizations are accounted for as sales in accordance with Statement of
+Financial Accounting Standards No. 140, and securitization income is recognized
+at the time the receivables are securitized. Gains or losses on sales of
+receivables primarily reflect the difference between the carrying amount of the
+receivables sold and the sum of the cash proceeds received and the fair value of
+the retained interests in the securitized receivables. When receivables are
+sold, we receive cash, retain subordinated securities and retain rights to
+receive the excess cash flows, referred to as interest-only strips, that the
+receivables are expected to produce during their life. The excess cash flows
+represent the excess of the finance charges and fees generated by the
+securitized receivables over the related interest paid to investors, servicing
+costs and credit losses. We continue to service the securitized receivables for
+a fee. Serviced private-label receivables averaged 1.63 billion for the three
+months ended November 30, 2003, compared with 1.37 billion for the same period
+last fiscal year. For the nine months ended November 30, 2003, serviced
+private-label receivables averaged 1.59 billion, compared with 1.32 billion
+for the nine months ended November 30, 2002.
+
+The finance operation produced pretax income of 5.6 million in this year's
+third quarter, compared with pretax income of 2.3 million in the same period
+last fiscal year. The increase in finance income reflects increased yield as
+zero-percent financing promotions began to expire and increased use of the
+co-branded Visa credit card, partly offset by increases in charge-offs and
+operating expenses. For the nine months ended November 30, 2003, finance income
+decreased to 22.4 million this fiscal year from 25.5 million in the same
+period last fiscal year. Finance income was reduced by increases in charge-offs,
+operating expenses and discounting costs related to securitization transactions
+completed in the first quarter of this fiscal year, partly offset by the third
+quarter yield increases.
+
+The fair value of the interest-only strip for the private-label receivables
+totaled 92.6 million at November 30, 2003, and 79.1 million at February 28,
+2003. The increase in the fair value of the interest-only strip was primarily
+due to an increase in the amount of receivables in the master trust that were
+impacted by the implementation of discounting. We began to sell private-label
+receivables to the master trust at a discount in December 2002. As a result, 2
+percent of the principal amount of receivables sold on or after December 1,
+2002, are treated as finance charge receivables in the securitization trust and
+collections of those receivables are treated as finance charge collections,
+thereby boosting yield to the securitization trust. This causes an increase in
+the fair value of the interest-only strip and a corresponding decrease in
+proceeds received on the sale of receivables.
+
+When determining the fair value of the interest-only strip, we estimate future
+cash flows using estimates of key assumptions such as finance charge income;
+charge-offs, net of recoveries; payment rates; and discount rates appropriate
+for the type of asset and risk. Expected future cash flows also are based upon
+the market's expectation about future movements in interest rates as reflected
+in forward interest rate curves. We review the assumptions and estimates used in
+determining the fair value of the interest-only strip on a quarterly basis.
+
+ Page 18 of 29
+
+If the assumptions change or the actual results differ from the projected
+results, securitization income will be affected.
+
+Finance income is reduced by payroll, fringe benefits and other costs directly
+associated with the management and securitization of the private-label
+receivables. Payroll and fringe benefit expenses generally vary with the amount
+of serviced receivables. Other direct expenses include third-party data
+processing fees, rent, credit promotion expenses, Visa fees and other operating
+expenses. Finance income does not include any allocation of indirect costs or
+income. Examples of indirect costs not included are corporate expenses such as
+human resources, administrative services, marketing, information systems,
+accounting, legal, treasury and executive payroll, as well as retail store
+expenses. See Note 1, Note 4, Note 10 and Note 13 to the consolidated financial
+statements in this report for additional discussion concerning our finance
+operation.
+
+Selling, General and Administrative Expenses
+
+Three Months Ended November 30 Nine Months Ended November 30
+ ------------------------------ --------------------------------------------
+ 2003 2002 2003 2002
+ ---- ---- ---- ----
+ of of of of
+(Dollar amounts in millions) Sales Sales Sales Sales
+- ---------------------------------------- ------------------------------------------- --------------------------------------------
+Store expenses.......................... 520.0 21.6 530.2 21.9 1,443.3 22.2 1,501.7 22.2 
+General and administrative
+ expenses........................... 43.6 1.8 47.1 1.9 128.7 2.0 151.5 2.2
+Remodel expenses........................ 0.3 - 7.0 0.3 29.8 0.5 34.8 0.5
+Relocation expenses..................... 9.8 0.4 4.4 0.2 18.9 0.3 10.4 0.2
+Pre-opening expenses.................... 4.2 0.2 4.4 0.2 7.3 0.1 7.2 0.1
+Interest Income......................... (1.2) - (1.0) - (5.3) (0.1) (6.0) (0.1)
+ ------------------------------------------- --------------------------------------------
+Total ................................. 576.7 24.0 592.1 24.5 1,622.7 25.0 1,699.6 25.1 
+ ========================================= ============================================
+
+Total selling, general and administrative expenses declined 15.4 million, or 3
+percent, compared with the third quarter of last fiscal year. The largest
+contributor to the decline was a 10.2 million, or 2 percent, decline in store
+expenses driven by a reduction in store payroll. The third-quarter payroll
+savings were partly offset by higher rent and occupancy costs related to new and
+relocated stores and increases in advertising costs that reflect our decision to
+more heavily weight our advertising expenditures to the higher volume periods of
+the year.
+
+This year's third quarter expenses included costs of 280,000 associated with
+the refixturing of five stores and 9.8 million of relocation costs, including
+accelerated depreciation of assets related to planned future relocations,
+related to the relocation of six Superstores. Expenses in last year's third
+quarter included costs of 7.0 million associated with the completion of 71
+video department remodels and 13 full-store lighting upgrades and 4.4 million
+of relocation costs related to the relocation of five Superstores.
+
+Interest Expense
+
+Interest expense was 0.2 million for the third quarter of this fiscal year and
+last fiscal year. Interest expense was 1.5 million for the nine months ended
+November 30, 2003, and 0.7 million for the nine months ended November 30, 2002.
+The increase in interest expense for the first nine months of fiscal 2004
+reflects interest paid as a result of completed audits of prior year income tax
+returns.
+
+Page 19 of 29
+
+Income Taxes
+
+The effective income tax rate applicable to results from continuing operations
+was 33.9 percent for the three months ended November 30, 2003, and 36.5 percent
+for the nine months ended November 30, 2003, compared with 37.6 percent for the
+three months ended November 30, 2002, and 37.2 percent for the nine months ended
+November 30, 2002. The decreases are attributed to lower state and local income
+taxes.
+
+Net Loss from Continuing Operations
+
+The net loss from continuing operations was 24.1 million, or 12 cents per
+share, in the third quarter ended November 30, 2003, compared with the net loss
+from continuing operations of 26.1 million, or 13 cents per share, in the third
+quarter of last fiscal year. For the nine-month period ended November 30, 2003,
+the net loss from continuing operations was 83.3 million, or 40 cents per
+share, compared with the net loss from continuing operations of 54.9 million,
+or 27 cents per share, for the same period last fiscal year.
+
+Net Earnings (Loss) from Discontinued Operations
+
+On November 18, 2003, we completed the sale of our bankcard operation to
+FleetBoston Financial. Results from the bankcard operation have been classified
+as discontinued operations. The sale agreement includes a transition services
+agreement under which our finance operation will continue to service the
+bankcard accounts until final conversion, which is expected to occur in the
+first fiscal quarter ending May 31, 2004. FleetBoston Financial is reimbursing
+us for operating costs incurred during the transition period. Employee severance
+costs will be incurred ratably from the time at which these costs are eligible
+for accrual through the final conversion date. We have not incurred any
+severance costs as of November 30, 2003. We expect to incur lease termination
+costs in next fiscal year's first quarter.
+
+We anticipate that the sale will result in an after-tax loss of approximately
+ 82 million, including 75 million of adjustments to the carrying value of our
+retained interest in the bankcard portfolio and approximately 7 million of
+other costs, including employee severance and lease termination. In the second
+quarter ended August 31, 2003, we recognized an after-tax loss of 95 million to
+reflect the then-estimated net proceeds from the sale. To reflect the actual
+sale proceeds, we recorded a reduction of 19.4 million in the expected
+after-tax loss in the quarter ended November 30, 2003.
+
+Including the 19.4 million reduction in the expected after-tax loss, the
+after-tax earnings from the discontinued bankcard operation totaled 24.0
+million for the quarter ended November 30, 2003, and 4.8 million in the same
+period last fiscal year. For the nine months ended November 30, 2003, the
+after-tax loss from the discontinued bankcard operation totaled 84.9 million.
+For the nine months ended November 30, 2002, the after-tax earnings from the
+discontinued bankcard operation totaled 21.2 million. These results also
+include bankcard-related income generated by a subsidiary that provides
+reinsurance and indemnification related to credit protection products sold by
+the finance operation. For the third quarter, the subsidiary's after-tax
+earnings related to the discontinued bankcard operation were approximately
+ 800,000 this fiscal year and approximately 900,000 last fiscal year. For the
+nine months, the subsidiary's discontinued after-tax earnings were approximately
+ 2.2 million this fiscal year and approximately 2.4 million last fiscal year.
+
+In fiscal 2000, we ceased marketing the Divx home video system and discontinued
+that business. Operating results of Divx and the loss on the disposal of the
+business have been presented as results of discontinued operations for all
+periods. In the third quarter of this year, we reduced the provision for
+commitments under licensing agreements by 2.3 million. This reduction
+contributed 1.5 million after-tax to net earnings from discontinued operations
+in this year's third quarter. Divx had no impact on earnings from discontinued
+operations last fiscal year.
+
+On October 1, 2002, we completed the separation of the CarMax auto superstore
+business from the Circuit City consumer electronics business. CarMax results are
+presented as results from discontinued operations. For the quarter ended
+November 30, 2002, net earnings from the discontinued CarMax operations were
+ 3.6
+
+ Page 20 of 29
+
+million. For the nine months ended November 30, 2002, net earnings from the
+discontinued CarMax operations were 64.5 million.
+
+Operations Outlook
+
+We are focused on three basic areas: 1) driving revenue growth, 2) stabilizing
+our gross margins and 3) bringing our overall cost and expense structure in line
+with our current level of revenues. We believe we have the right plan in place
+to combine profitable revenue growth with improved in-store execution, and we
+have the resources to execute that plan. Our attention is focused on building
+value for shareholders by providing superior consumer electronics solutions to
+America's families.
+
+To drive revenue growth, our plan encompasses our store revitalization effort,
+new store builds and the continued strong growth of our e-commerce business.
+Since the beginning of fiscal 2001 through December 31, 2003, 125 Superstores,
+or 20 percent of our 618 Superstores, had been relocated, newly constructed or
+fully remodeled to provide a contemporary shopping experience with easy product
+access and more powerful merchandising displays. We expect that number to reach
+approximately 30 percent by the end of next fiscal year. Since the beginning of
+fiscal 2001, we have relocated 31 stores. As of November 30, 2003, 21 of these
+31 relocated stores have been open for more than six months. In their first full
+six months following grand opening, these 21 stores produced an average sales
+change that was approximately 28 percentage points better than the sales pace of
+the remainder of the store base during the same time periods and an internal
+rate of return of approximately 20 percent. These averages could moderate as we
+relocate additional stores. Ultimately, we expect to relocate a total of
+approximately one-third of the existing store base. In addition to opportunities
+to relocate stores, we have identified approximately 100 trade areas that are
+suitable for new stores that represent potential geographic expansion.
+
+Last fiscal year, we completed an extensive analysis to identify the
+characteristics of a successful store. Specific real estate site features were
+among those key characteristics. As a result, one of the priorities for
+determining our store opening plans is the availability of superior estate that
+meets our site requirements. Based on the availability levels, we expect to open
+65 to 70 Superstores in the upcoming fiscal year. Slightly more than half of
+these stores will be relocations; the remaining stores will be entries into new
+trade areas, either in our existing or new smaller markets. Our efforts to
+provide superior consumer electronics solutions through the revitalized store
+base will continue into fiscal 2005 and beyond.
+
+We believe that our Web-based business is an integral way to build our brand,
+support our stores and make it easier for customers to shop and buy consumer
+electronics. While sales generated from our Web site are a relatively small
+portion of our total business, the Web-based business is growing rapidly. We
+continue to enhance the site and fulfillment capabilities as more and more
+customers research products on the Web and then purchase them in stores and
+online. Many customers choose to take advantage of Express Pick-up, a service
+which enables merchandise purchased online to be picked up in the customer's
+selected store 15 minutes after completing an online purchase.
+
+Stabilizing our gross margins and reducing our cost and expense structure are
+integral pieces of our effort to improve our profitability. Improving attachment
+rates of accessories and services and strengthening our product sourcing
+operations remain important components of stabilizing gross margins. When we
+announced the change to our store compensation structure in February, we
+indicated we expected to save approximately 130 million in store payroll
+expenses. While we anticipate the impact of this change to be consistent with
+the anticipated expense reduction, we have chosen to add incremental staffing to
+selected product areas and in selected stores to better serve our customers. As
+a result, we currently expect that overall store payroll savings for the fiscal
+year will be in the range of 115 to 120 million. We have identified many
+actions across the company that will allow us to further reduce our cost and
+expense structure. The process of implementing these specific actions is
+underway and will continue at least through next fiscal year. We continue to
+aggressively look for additional cost and expense reduction and gross margin
+stabilization opportunities.
+
+For fiscal 2004, we expect net cash expenditures and non-cash expenses related
+to remodeling, relocations and refixturings to total approximately 140 million.
+We anticipate that approximately 80 million of that
+
+Page 21 of 29
+
+amount will be capitalized and approximately 60 million will be expensed,
+reducing fiscal 2004 earnings per share by an estimated 19 cents. We anticipate
+total capital expenditures of approximately 130 million in fiscal 2004. Capital
+expenditures are net of landlord reimbursements for property improvement
+expenditures and sale-leaseback proceeds. The estimated expense amount includes
+approximately 50 million of non-cash expenses for leasehold impairment reserves
+on stores we plan to relocate and accelerated depreciation on assets we plan to
+take out of service as a result of our remodelings and relocations. As we
+continue to relocate stores, we expect to incur additional leasehold termination
+costs, with the amount primarily dependent on the length of remaining lease
+terms and sublease opportunities.
+
+Recent Accounting Pronouncements
+
+Effective in the third quarter of fiscal 2004, we adopted Emerging Issues Task
+Force Issue No. 00-21, "Accounting for Revenue Arrangements with Multiple
+Deliverables," which addresses when and how an arrangement involving multiple
+deliverables should be divided into separate units of accounting, as well as how
+the consideration under the arrangement should be measured and allocated to the
+separate units of accounting in the arrangement. The adoption of EITF No. 00-21
+did not have a material impact on our financial position, results of operations
+or cash flows.
+
+Effective September 1, 2003, we adopted FASB Interpretation No. 46,
+"Consolidation of Variable Interest Entities," which addresses how to identify
+variable interest entities and provides guidance as to how a company may assess
+its interests in a variable interest entity for purposes of deciding whether
+consolidation of that entity is required. With the adoption of this standard, we
+recorded 12.6 million to long-term debt on the consolidated balance sheet. The
+adoption of FIN No. 46 did not have a material impact on our financial position,
+results of operations or cash flows.
+
+FINANCIAL CONDITION
+
+Liquidity and Capital Resources
+
+At November 30, 2003, we had cash and cash equivalents of 455.3 million,
+compared with 884.7 million at February 28, 2003. The lower cash balance
+primarily reflects the increase in merchandise inventory, offset by the
+corresponding increase in accounts payable, related to the anticipated sales
+during the holiday selling season.
+
+At November 30, 2002, we had cash and cash equivalents of 437.5 million. The
+year-over-year change in the cash balance reflects in part 282 million in net
+cash proceeds received at the closing of the sale of the bankcard operation. We
+expect that, after severance, lease termination and other post-closing costs,
+cash proceeds from the sale ultimately will net approximately 279 million
+after-tax. The cash generated by the sale of the bankcard operation was partly
+offset by a higher level of retained interests in securitized private-label
+receivables and the loss from continuing operations. In addition, this year, we
+increased inventory levels in key product categories in anticipation of a
+stronger holiday selling season compared with last year and to support
+compelling merchandise displays after the holidays. This strategy increased
+inventory by 276.2 million over the same period last year. Inventory growth was
+partly financed by accounts payable, which rose 218.1 million to 68 percent of
+inventory in this year's third quarter from 66 percent of inventory in the same
+period last year.
+
+Operating Activities. In the nine months ended November 30, 2003, Circuit City
+used net cash of 606.9 million in operating activities, compared with net cash
+of 713.2 million used in the nine months ended November 30, 2002. The decrease
+in net cash used is primarily due to the increase in accounts payable, offset by
+the increase in merchandise inventory and the increase in retained interests in
+securitized receivables.
+
+Merchandise inventory increased 1.24 billion in the first nine months of fiscal
+2004, compared with an increase of 1.14 billion in the same period last fiscal
+year. The difference primarily reflects the increased inventory levels in key
+product categories in anticipation of a stronger selling season compared with
+last year and to support compelling merchandise displays after the holidays.
+Accounts payable increased by 830.2
+
+ Page 22 of 29
+
+million in the first nine months of fiscal 2004, compared with an increase of
+ 556.2 million in the first nine months of last fiscal year. The difference
+reflects the earlier fiscal 2003 inventory build for the holiday selling season.
+
+Retained interests in securitized receivables increased by 98.7 million in the
+first nine months of this fiscal year, compared with an increase of 74.9
+million in the first nine months of last fiscal year. The current year increase
+in retained interests in securitized receivables reflects the completion of a
+ 500 million private-label credit card receivable securitization transaction
+during the first quarter of fiscal 2004 to replace a maturing term
+securitization. We renewed a private-label variable funding program, which we
+refer to as a warehouse conduit, during the first quarter of fiscal 2004. We
+completed a 300 million private-label credit card receivable securitization
+transaction during the first quarter of fiscal 2003 to replace a maturing term
+securitization. No new securitization transactions were completed during the
+second and third quarters of fiscal 2004. During the third quarter of this
+fiscal year, we replaced a maturing term securitization with a variable funding
+program.
+
+Investing Activities. Net cash used in investing activities was 113.0 million
+in the nine months ended November 30, 2003, compared with net cash of 80.1
+million used in investing activities in the first nine months of last fiscal
+year. Capital expenditures increased to 134.3 million in the first nine months
+of fiscal 2004 from 111.1 million in the comparable period last fiscal year.
+Capital spending in the first nine months of fiscal 2004 includes spending
+related to the opening of seven new Superstores, the relocation of 10
+Superstores, the remodeling of four Superstores and the refixturing of the
+merchandise areas in 222 Superstores. Capital spending in the first nine months
+of fiscal 2003 includes spending related to the opening of eight new
+Superstores, nine relocated Superstores, remodeled video departments in 301
+Superstores and full-store lighting upgrades in 311 Superstores.
+
+Financing Activities. Net cash used in financing activities was 16.3 million in
+the first nine months of fiscal 2004 compared with net cash provided by
+financing activities of 32.1 million in the same period last year. The
+difference primarily reflects net proceeds from short-term seasonal lines of
+credit of 57.6 million received in the third quarter of fiscal 2003. In January
+2003, our board of directors authorized the repurchase of up to 200 million of
+common stock. We did not repurchase any shares of common stock during the third
+quarter. As of November 30, 2003, we had repurchased and retired 2.7 million
+shares of common stock at a cost of 13.9 million. Based on the market value of
+the common stock at November 30, 2003, the remaining 186.1 million authorized
+would allow for the repurchase of up to approximately 7 percent of the 210.5
+million shares then outstanding.
+
+On June 27, 2003, we entered into a 500 million, four-year revolving credit
+facility secured by inventory and certain accounts receivables. This facility
+will be used to support letters of credit as well as for short-term borrowing
+needs and generally will bear interest at a spread over LIBOR or at prime. The
+facility is scheduled to mature in June 2007 and provides for an option to
+extend the facility by one year. The maximum credit extensions, including loans
+and outstanding letters of credit, permitted under the credit facility on any
+date will be determined using a borrowing base calculated as a percentage of our
+eligible inventory and accounts receivable as of that date. If the remaining
+borrowing availability under the facility falls below 100 million, cash
+dividends and stock repurchases are limited to an aggregate of 75 million in
+any fiscal year. In addition, if the difference between the borrowing base and
+the outstanding credit extensions under the facility falls below 50 million for
+five consecutive business days, all proceeds from the sale of inventory must be
+applied on a daily basis to payment of amounts owed under the facility. The
+facility has customary representations and warranties, covenants and events of
+default. This credit facility replaced 210 million in committed seasonal lines,
+which were terminated on the same date. At November 30, 2003, there were no
+short-term borrowings on this facility. At November 30, 2003, outstanding
+letters of credit related to this facility were 52.1 million, leaving 447.9
+million available for borrowing.
+
+At November 30, 2003, the aggregate principal amount of managed private-label
+credit card receivables totaled 1.76 billion. At November 30, 2003, the unused
+capacity of the private-label variable funding program was 47.9 million. Our
+securitization agreements do not provide recourse to the company for credit
+losses on securitized receivables. However, the fair value of our retained
+interests in securitized receivables would be directly affected by credit losses
+on those securitized receivables.
+
+ Page 23 of 29
+
+We anticipate that we will be able to expand or enter into new securitization
+agreements to meet the future needs of our finance operation. However, adverse
+changes in the performance of our private-label credit card portfolio or changes
+in the asset-backed securities market could result in our having to hold larger
+retained interests in future securitizations. The private-label securitization
+agreement requires that the aggregate outstanding principal balance of the
+securitized receivables exceeds a specified amount and that the yield on the
+securitized receivables exceeds specified rates. In addition, the variable
+funding securitization agreements require that we meet financial tests relating
+to minimum tangible net worth, current ratio and debt-to-capital ratio and that
+the securitized receivables meet specified performance levels relating to
+delinquency rates, default rates and principal payment rates. If these financial
+tests or performance levels are not met, or if certain other events occur, it
+would constitute an early amortization event, in which case the principal
+payment dates for the term series would be accelerated, the variable funding
+commitments would terminate and the variable funding investors would begin to
+receive monthly principal payments until paid in full. The company and the
+securitized receivables were in compliance with these financial tests and
+performance levels at November 30, 2003.
+
+We expect that available cash resources, credit facilities, sale-leaseback
+transactions, landlord reimbursements and cash generated by operations will be
+sufficient to fund capital expenditures and working capital for the foreseeable
+future.
+
+FORWARD-LOOKING STATEMENTS
+
+This report contains forward-looking statements, which are subject to risks and
+uncertainties. The provisions of the Private Securities Litigation Reform Act of
+1995 provide companies with a "safe harbor" when making forward-looking
+statements. This "safe harbor" encourages companies to provide prospective
+information about their companies without fear of litigation. We wish to take
+advantage of the "safe harbor" provisions of the Act. Our statements that are
+not historical facts, including statements about management's expectations for
+fiscal 2004 and beyond, are forward-looking statements and involve various risks
+and uncertainties.
+
+Forward-looking statements are estimates and projections reflecting our judgment
+and involve a number of risks and uncertainties that could cause actual results
+to differ materially from those suggested by the forward-looking statements.
+Although we believe that the estimates and projections reflected in the
+forward-looking statements are reasonable, our expectations may prove to be
+incorrect. The United States retail industry, and the specialty retail industry
+in particular, are dynamic by nature and have undergone significant changes in
+recent years. Our ability to anticipate and successfully respond to the
+continuing challenges of our industry is key to achieving our expectations.
+Important factors that could cause actual results to differ materially from
+estimates or projections contained in our forward-looking statements include:
+
+o The timing and amount of any post-closing costs or other charges to income
+ that may be required as a result of the sale of the bankcard operation;
+o Changes in the amount and degree of promotional intensity exerted by
+ current competitors and potential new competition from competitors using
+ either similar or alternative methods or channels of distribution such as
+ online and telephone shopping services and mail order;
+o Changes in general U.S. or regional U.S. economic conditions including, but
+ not limited to, consumer credit availability, consumer credit delinquency
+ and default rates, interest rates, inflation, personal discretionary
+ spending levels, trends in consumer retail spending, both in general and in
+ our product categories, and consumer sentiment about the economy in
+ general;
+o The presence or absence of, or consumer acceptance of, new products or
+ product features in the merchandise categories we sell and changes in our
+ actual merchandise sales mix;
+o Significant changes in retail prices for products we sell;
+o Changes in availability or cost of financing for working capital and
+ capital expenditures, including securitization financing and financing to
+ support development of our business;
+o Lack of availability or access to sources of inventory;
+o Inability to liquidate excess inventory should excess inventory develop;
+
+ Page 24 of 29
+
+o Failure to successfully implement sales and profitability improvement
+ programs, including our remodel program, and our effort to stabilize gross
+ margins and reduce our cost and expense structure;
+o Changes in the performance of the private-label portfolio, including
+ material changes in cardholder default rates or payment rates;
+o Our ability to attract and retain an effective management team or changes
+ in the costs or availability of a suitable work force to manage and support
+ our service-driven operating strategies;
+o Changes in production or distribution costs or costs of materials for our
+ advertising;
+o Availability of appropriate real estate locations for relocations and new
+ stores;
+o Successful implementation of our various customer service initiatives;
+o Consumer response to our efforts to improve sales of accessories and
+ services;
+o Successful implementation of stronger product sourcing operations;
+o Negative investment returns in our pension plan;
+o The imposition of new restrictions or regulations regarding the sale of
+ products and/or services we sell, changes in tax rules and regulations
+ applicable to us or our competitors, the imposition of new environmental
+ restrictions, regulations or laws or the discovery of environmental
+ conditions at current or future locations, or any failure to comply with
+ such laws or any adverse change in such laws; and
+o Significant adverse results in litigation matters.
+
+We believe our forward-looking statements are reasonable; however, undue
+reliance should not be placed on any forward-looking statements, which are based
+on current expectations.
+
+ITEM 3. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
+
+Receivables Risk. We manage the market risk associated with the revolving
+private-label credit card portfolio of our finance operation. Portions of this
+portfolio have been securitized in transactions accounted for as sales in
+accordance with SFAS No. 140 and, therefore, are not presented on the
+consolidated balance sheets.
+
+The majority of accounts in the private-label credit card portfolio is charged
+interest at rates indexed to the prime rate, adjustable on a monthly basis
+subject to certain limitations. The remaining accounts are charged interest at
+fixed annual percentage rates. The following table presents the breakdown by
+interest rate structure of the gross principal receivables outstanding prior to
+discounting at November 30, 2003, and February 28, 2003.
+
+(Amounts in millions) November 30 February 28
+- ----------------------------------------- ------------ -----------
+Indexed to prime rate..................... 1,628 1,460
+Fixed APR................................. 131 176
+ ------ ------
+Total..................................... 1,759 1,636
+ ====== ======
+
+Financing for the private-label credit card receivables is achieved through
+asset securitization programs that, in turn, issue both private and public
+market debt, principally at floating rates based on LIBOR and commercial paper
+rates. Receivables held for sale are financed with working capital. At November
+30, 2003, and February 28, 2003, the total principal amount of receivables
+securitized or held for sale prior to discounting was as follows:
+
+(Amounts in millions) November 30 February 28
+- ----------------------------------------- ------------ -----------
+Floating-rate securitizations............. 1,636 1,592
+Held for sale............................. 123 44
+ ------ ------
+Total..................................... 1,759 1,636
+ ====== ======
+
+Interest Rate Exposure. Interest rate exposure relating to the private-label
+credit card receivable securitizations represents a market risk exposure that we
+manage primarily with matched funding. We also have the ability to adjust the
+rate on fixed-APR revolving credit cards and the index on floating-rate credit
+
+ Page 25 of 29
+
+cards, subject to cardholder ratification, but we do not currently anticipate
+the need to do so. Our ability to effect these changes may be limited by
+competitive conditions.
+
+The majority of our cardholder accounts have interest rates indexed to prime,
+but the rates we charge our cardholders may not change as frequently or to the
+same extent as our funding costs. This is the result of a combination of factors
+such as interest rate floors on the accounts that are above the current level of
+the prime rate, interest-free promotional financing and by differences between
+changes in prime and LIBOR or commercial paper rates. Accordingly, our
+securitization income and the fair value of our retained interests in the
+securitized receivables could be adversely impacted by increases in interest
+rates.
+
+We use a sensitivity analysis to quantify interest rate risk relating to our
+retained interests in securitized receivables. This analysis calculates the
+impact on net earnings from a 200 basis point increase in the yield curve
+applied equally over the next four quarters. Assuming that no other assumptions
+change, this increase in interest rates would result in a decrease in our
+securitization income of approximately 9.5 million for the quarter ended
+November 30, 2003, compared with a decrease of approximately 8.9 million for
+the quarter ended November 30, 2002.
+
+The market and credit risks associated with our interest rate caps are similar
+to those relating to other types of financial instruments. Market risk is the
+exposure created by potential fluctuations in interest rates and is directly
+related to the product type, agreement terms and transaction volume. We have
+entered into offsetting interest rate cap positions and, therefore, do not
+anticipate significant market risk arising from our interest rate caps. Credit
+risk is the exposure to nonperformance of another party to an agreement. We
+mitigate credit risk by dealing with highly rated bank counterparties.
+
+ITEM 4. CONTROLS AND PROCEDURES
+
+The company's principal executive officer and principal financial officer have
+evaluated the effectiveness of the company's disclosure controls and procedures
+as defined in Rule 13a-15(e) of the Securities Exchange Act of 1934, as amended,
+as of the end of the period covered by this Quarterly Report on Form 10-Q. Based
+upon their evaluation, the principal executive officer and principal financial
+officer concluded that the company's disclosure controls and procedures are
+effective. There have been no changes in internal control over financial
+reporting for the period covered by this report that have materially affected,
+or are reasonably likely to materially affect, the company's internal control
+over financial reporting.
+
+Page 26 of 29
+
+PART II. OTHER INFORMATION
+
+ITEM 6. EXHIBITS AND REPORTS ON FORM 8-K
+
+ (a) Exhibits
+
+ 3.1 Amended and Restated Articles of Incorporation of
+ the company, effective February 3,1997, as amended
+ through October 1, 2002, filed as Exhibit 3(i) to
+ the company's Quarterly Report on Form 10-Q for the
+ quarter ended November 30, 2002 (File No. 1-5767),
+ expressly incorporated herein by this reference
+
+ 3.2 Bylaws of the company, as amended and restated June
+ 17, 2003, filed as Exhibit (3)(iii) to the
+ company's Quarterly Report on Form 10-Q for the
+ quarter ended May 31, 2003 (File No. 1-5767),
+ expressly incorporated herein by this reference
+
+ 4.1 Third Amended and Restated Rights Agreement dated
+ as of October 1, 2002, between he company and Wells
+ Fargo Bank Minnesota, N.A., as Rights Agent, filed
+ as Exhibit 1 to the company's Form 8-A/A filed on
+ October 1, 2002 (File No. 1-5767), expressly
+ incorporated herein by this reference
+
+ 10.2 Employment agreement between the company and W.
+ Alan McCollough effective November 19, 2003, filed
+ herewith 
+
+ 31.1 Certification by Registrant's Chief Executive
+ Officer pursuant to Section 302 of the
+ Sarbanes-Oxley Act of 2002, filed herewith
+
+ 31.2 Certification by Registrant's Chief Financial
+ Officer pursuant to Section 302 of the
+ Sarbanes-Oxley Act of 2002, filed herewith
+
+ 32.1 Certification of CEO under Section 906 of the
+ Sarbanes-Oxley Act of 2002, filed herewith
+
+ 32.2 Certification of CFO under Section 906 of the
+ Sarbanes-Oxley Act of 2002, filed herewith
+
+ Indicates management contracts, compensatory plans
+ or arrangements of the company required to be filed
+ as an exhibit.
+
+ (b) Reports on Form 8-K
+
+ The exhibits listed below were furnished to the SEC during the
+ period covered by this report pursuant to Item 12 of Form 8-K
+ and shall not be deemed "filed" for purposes of the Securities
+ Exchange Act of 1934, as amended, or incorporated by reference
+ into any document filed under the Securities Act of 1933, as
+ amended, except as shall be expressly set forth by specific
+ reference in such filing.
+
+ The company furnished a Form 8-K to the SEC on September 9,
+ 2003, announcing the company's second quarter fiscal year 2004
+ sales.
+
+ The company furnished a Form 8-K to the SEC on September 17,
+ 2003, announcing the company's second quarter fiscal year 2004
+ results.
+
+ The company furnished a Form 8-K to the SEC on October 22,
+ 2003, announcing that it had entered into an agreement to sell
+ its bankcard operation.
+
+Page 27 of 29
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the company
+has duly caused this report to be signed on its behalf by the undersigned
+thereunto duly authorized.
+
+CIRCUIT CITY STORES, INC.
+ (Registrant)
+
+By: /s/ W. Alan McCollough
+ -------------------------
+ W. Alan McCollough
+ Chairman, President and
+ Chief Executive Officer
+
+By: /s/ Michael E. Foss
+ -------------------------
+ Michael E. Foss
+ Senior Vice President and
+ Chief Financial Officer
+
+By: /s/ Philip J. Dunn
+ ------------------------
+ Philip J. Dunn
+ Senior Vice President,
+ Treasurer,Corporate
+ Controller and Chief
+ Accounting Officer
+
+January 9, 2004
+
+Page 28 of 29
+
+EXHIBIT INDEX
+
+3.1 Amended and Restated Articles of Incorporation of
+ the company, effective February 3,1997, as amended
+ through October 1, 2002, filed as Exhibit 3(i) to
+ the company's Quarterly Report on Form 10-Q for the
+ quarter ended November 30, 2002 (File No. 1-5767),
+ expressly incorporated herein by this reference
+
+ 3.2 Bylaws of the company, as amended and restated June
+ 17, 2003, filed as Exhibit (3)(iii) to the
+ company's Quarterly Report on Form 10-Q for the
+ quarter ended May 31, 2003 (File No. 1-5767),
+ expressly incorporated herein by this reference
+
+ 4.1 Third Amended and Restated Rights Agreement dated
+ as of October 1, 2002, between he company and Wells
+ Fargo Bank Minnesota, N.A., as Rights Agent, filed
+ as Exhibit 1 to the company's Form 8-A/A filed on
+ October 1, 2002 (File No. 1-5767), expressly
+ incorporated herein by this reference
+
+ 10.2 Employment agreement between the company and W.
+ Alan McCollough effective November 19, 2003, filed
+ herewith 
+
+ 31.1 Certification by Registrant's Chief Executive
+ Officer pursuant to Section 302 of the
+ Sarbanes-Oxley Act of 2002, filed herewith
+
+ 31.2 Certification by Registrant's Chief Financial
+ Officer pursuant to Section 302 of the
+ Sarbanes-Oxley Act of 2002, filed herewith
+
+ 32.1 Certification of CEO under Section 906 of the
+ Sarbanes-Oxley Act of 2002, filed herewith
+
+ 32.2 Certification of CFO under Section 906 of the
+ Sarbanes-Oxley Act of 2002, filed herewith
+
+ Indicates management contracts, compensatory plans
+ or arrangements of the company required to be filed
+ as an exhibit.
+
+ Page 29 of 29
+
+<EX-10>
+ 3
+ ccs110310q_ex10-1.txt
+ EMPLOYEMENT AGREEMENT
+ 
+ Exhibit 10.1
+
+Circuit City Stores, Inc.
+Employment Agreement for W. Alan McCollough
+
+This EMPLOYMENT AGREEMENT is made, entered into, and is effective as of the
+19th day of November, 2003 (the "Effective Date"), by and between Circuit City
+Stores, Inc. (the "Company") and W. Alan McCollough (the "Executive").
+
+ WHEREAS, the Company desires to employ the Executive as Chairman, President
+and Chief Executive Officer of Circuit City Stores, Inc.;
+
+ WHEREAS, the Company recognizes the Executive's intimate knowledge and
+experience in the business of the Company, and desires to secure the employment
+of the Executive in the role of Chairman, President and Chief Executive Officer
+of the Company;
+
+ WHEREAS, the Executive will develop and/or come in contact with the
+Company's proprietary and confidential information which is not readily
+available to the public, and which is of great importance to the Company and is
+treated by the Company as secret and confidential information; and
+
+ WHEREAS, the Company desires to modify certain terms of Executive's
+employment agreement.
+
+ NOW, THEREFORE, in consideration of the Executive's continued employment
+and of the mutual covenants and agreements of the parties set forth in this
+Agreement, and of other good and valuable consideration, the receipt and
+sufficiency of which are hereby acknowledged, the parties hereto, intending to
+be legally bound, agree as follows:
+
+Article 1. Term of Employment
+
+ The Company hereby agrees to employ the Executive and the Executive hereby
+accepts employment as Chairman, President and Chief Executive Officer of the
+Company, in accordance with the terms and conditions set forth herein, for an
+initial period of one (1) year, commencing as of the Effective Date of this
+Agreement as indicated above (the "Initial Term"); subject, however, to earlier
+termination as expressly provided herein.
+
+ The Initial Term shall automatically be renewed for additional periods of
+one (1) year each at the end of the Initial Term, and then again after each
+successive year thereafter (collectively, the "Renewal Periods," which, together
+with the Initial Term, constitute the "Term" of this Agreement). However, either
+party may terminate this Agreement at the end of the Initial Term, or at the end
+of any Renewal Period, by giving the other party written notice of intent not to
+renew, delivered at least forty-five (45) days prior to the end of the Initial
+Term or any Renewal Period. For purposes of this Agreement, an "Employment Year"
+shall mean any twelve (12) month period during the Term of this Agreement
+beginning on the Effective Date or on any anniversary thereof.
+
+Article 2. Position and Responsibilities
+
+ During the Term of this Agreement, the Executive agrees to serve as
+Chairman, President and Chief Executive Officer of the Company. In his/her
+capacity as Chairman, President and Chief Executive Officer of the Company, the
+Executive shall report directly to the Board of Directors and shall have the
+duties and responsibilities of Chairman, President and Chief Executive Officer
+of the Company and such other duties and responsibilities not inconsistent with
+the performance of his/her duties as Chairman, President and Chief Executive
+Officer of the Company.
+
+Article 3. Standard of Care
+
+ During the term of this Agreement, the Executive agrees to devote
+substantially his/her full-time attention and energies to the Company's
+business. The Executive covenants, warrants, and represents that he/she shall:
+
+ (a) Devote his/her full and best efforts and talents full time to the
+ performance of his/her employment obligations and duties for the
+ Company;
+
+ (b) Exercise the highest degree of loyalty and the highest standards
+ of conduct in the performance of his/her duties;
+
+ (c) Comply with all rules, regulations, and policies established or
+ issued by the Company; and
+
+ (d) Refrain from taking advantage, for himself/herself or others, of
+ any corporate opportunities of the Company.
+
+Article 4. Other Employment.
+
+ The Executive shall not, during the term hereof, be interested directly or
+indirectly, in any manner, as partner, officer, director, investor, stockholder,
+advisor, employee, or in any other capacity, in any other business similar to
+Company's business for the Executive's personal advantage or benefit or that of
+others. Any other employment or position which might reasonably be deemed
+contrary to the best interests of the Company is prohibited. During the term of
+employment hereunder, the Executive agrees to obtain the Company's written
+consent prior to entering into any other occupation, even if dissimilar to that
+of the Company. Such consent may be granted or withheld, in the Company's
+absolute discretion. Nothing herein contained shall be deemed to prevent or
+limit the right of the Executive to invest in the capital stock or other
+securities of any corporation whose stock or securities are regularly traded on
+any public exchange, nor shall anything herein contained be deemed to prevent
+the Executive from investing in real estate for his/her own benefit (so long as
+such investment (a) is not related to or in support of any entity engaged in a
+business similar to that of the Company or (b) does not detract from the
+Executive's performance of his/her duties and obligations hereunder).
+
+Article 5. Compensation and Benefits
+
+ As remuneration for all services to be rendered by the Executive during the
+Employment Period, and as consideration for complying with the covenants herein,
+the Company shall pay and provide to the Executive the following:
+
+ 5.1. Base Salary. During the Term of this Agreement, the Company shall pay
+the Executive a Base Salary in an amount which shall be established and approved
+by the Compensation Committee of the Board of Directors; provided, however, that
+such Base Salary shall be established at a rate of not less than 975,000 per
+year. This Base Salary shall be subject to all appropriate federal and state
+withholding taxes and payable in accordance with the normal payroll practices of
+the Company. The Base Salary shall be reviewed at least annually following the
+Effective Date of this Agreement, while the Term of this Agreement is in force,
+to ascertain whether, in the judgment of the Compensation Committee, such Base
+Salary should be changed. If changed, the Base Salary as stated above shall,
+likewise, be changed for all purposes of this Agreement.
+
+ 5.2. Annual Bonus. In addition to his/her Base Salary, the Executive shall
+be entitled to participate in the Company's short-term incentive program, as
+such program may exist from time to time during the Term of this Agreement.
+
+ Under the Company's short-term incentive plan, the Executive has the
+opportunity to earn an annual bonus with respect to any fiscal year of the
+Company ("Annual Bonus"). The Annual Bonus, if earned with respect to a
+particular fiscal year, will generally be in an amount that is not less than
+one-hundred percent (100 of the Executive's Base Salary for the fiscal year
+with respect to which the Annual Bonus is being paid (the "Minimum Bonus Rate")
+and is commensurate with the position of Chairman, President and Chief Executive
+Officer of the Company.
+
+ The award and amount of any Annual Bonus shall be determined under the
+Company's short-term incentive plan, at the sole discretion of the Company's
+Compensation Committee. If the Minimum Bonus Rate is changed, it shall,
+likewise, be changed for all purposes of this Agreement.
+
+ 5.3. Long-Term Incentives. During the Term of this Agreement, the Executive
+shall be eligible to participate in the Company's long-term incentive plan, to
+the extent that the Board of Directors of the Company or the Compensation
+Committee, in their discretion, determines is appropriate. The Board of
+Directors will make its determination consistent with the methodology used by
+the Company for compensating its comparably situated employees.
+
+ 5.4. Retirement Benefits. During the Term of this Agreement, the Company
+shall provide to the Executive the opportunity for participation in all Company
+pension, insurance, fringe benefit, and executive compensation plans and
+programs, subject to the eligibility and participation requirements of such
+plans.
+
+ 5.5. Employee Benefits. During the Term of this Agreement, the Company
+shall provide the Executive all benefits, as commensurate with the position of
+Chairman, President and Chief Executive Officer of the Company, but at a minimum
+not less than those provided by the Company to other comparably situated
+employees subject to the eligibility requirements and other provisions of such
+arrangements. Such benefits may include group term life insurance, comprehensive
+health and major medical insurance, dental and life insurance, and short-term
+and long-term disability.
+
+ 5.6. Perquisites. During the Term of this Agreement, the Company shall
+provide to the Executive, at the Company's cost, all perquisites, which are
+commensurate with the position of Chairman, President and Chief Executive
+Officer of the Company.
+
+ 5.7. Right to Change Plans. By reason of Articles 5.5 and 5.6 herein, the
+Company shall not be obligated to institute, maintain, or refrain from changing,
+amending, or discontinuing any benefit plan or perquisite, so long as such
+changes are similarly applicable to comparably situated employees.
+
+Article 6. Expenses
+
+ During the Term of this Agreement, the Company shall pay or reimburse the
+Executive for all ordinary and necessary expenses, in a reasonable amount, which
+the Executive incurs in performing his/her duties under this Agreement
+including, but not limited to, travel, entertainment, professional dues and
+subscriptions, and all dues, fees, and expenses associated with membership in
+various professional, business, and civic associations and societies in which
+the Company finds that the Executive's participation is in the best interests of
+the Company. The payment of reimbursement of expenses shall be subject to such
+rules concerning documentation of expenses and the type or magnitude of such
+expenses as the Compensation Committee of the Board of Directors may establish
+from time to time.
+
+Article 7. Employment Termination
+
+ 7.1. Termination Due to Retirement or Death. In the event the Executive's
+employment ends by reason of Retirement (defined as voluntary "Normal
+Retirement" under the then established definitions and rules of the Company's
+tax-qualified retirement plan) or the Executive's death during the term of this
+Agreement, the Executive's benefits shall be determined in accordance with the
+Company's retirement, survivor's benefits, insurance, and/or other applicable
+programs of the Company then in effect. In addition, all stock grants, except
+performance-based grants in the case of Retirement, will become immediately
+vested and may be exercised by the Executive, the Executive's personal
+representatives, distributees, legatees, or estate at any time before the
+expiration date of the grant.
+
+ The Effective Date of Termination due to Retirement or death shall be (a)
+ninety (90) days following the date the Executive provides the Company with
+written notice that the Executive is ending employment by reason of Retirement
+or (b) on the Executive's date of death, as the case may be. Upon the Effective
+Date of Termination, the Company shall be obligated to pay the Executive or, if
+applicable, the Executive's estate; (a) any Base Salary or Annual Bonus that was
+accrued but not yet paid as of the Effective Date of Termination; plus (b) a pro
+rata share of the Annual Bonus for the Employment Year in which the Effective
+Date of Termination occurs (calculated by multiplying (i) the Base Salary in
+effect on the Effective Date of Termination by (ii) the Minimum Bonus Rate in
+effect on the Effective Date of Termination and by (iii) a fraction, the
+numerator of which is the number of full completed days in the Employment Year
+through the Effective Date of Termination, and the denominator of which is three
+hundred sixty-five (365)); and (c) all other rights and benefits that the
+Executive is vested in, pursuant to other plans and programs of the Company.
+
+ 7.2. Termination Due to Disability. The Company shall have the right to
+terminate the Executive's employment for disability. For the purposes of this
+Agreement, disability shall mean any physical or mental illness or injury that
+causes the Executive to be unable to substantially perform the Executive's
+normal duties; provided however that the Executive shall not be considered
+disabled until: (i) the Executive has been so disabled for 180 days during any
+period of twelve (12) consecutive months; (ii) the Executive's attending
+physician shall have furnished to the Company certification that the return of
+the Executive to his/her normal duties is impossible or improbable; or (iii) the
+Executive is determined to be totally disabled by the disability insurer then
+insuring the Executive, if any.
+
+ The Effective Date of Termination due to Disability shall be specified, in
+a written notice, by the Executive's immediate manager, and such written notice
+shall be delivered to the Executive, but shall be no less than thirty (30)
+calendar days after the delivery of such written notice to the Executive. Upon
+the Effective Date of Termination, the Company shall be obligated to pay the
+Executive [or, if applicable, the Executive's estate]: (a) any salary that was
+accrued but not yet paid as of the Effective Date of Termination; (b) the unpaid
+Annual Bonus, if any, with respect to the calendar year preceding the Effective
+Date of Termination (such Annual Bonus, if any, to be determined in the manner
+it would have been determined and payable at the time it would have been payable
+under Article 5.2 had there been no termination of the Employment Period); (c) a
+pro rata share of target Annual Bonus for the calendar year in which the
+Effective Date of Termination occurs (the calculation of which the Annual Bonus
+is multiplied by a fraction, the numerator of which is the number of full
+completed days in the bonus plan year through the Effective Date of Termination,
+and the denominator of which is three hundred sixty-five (365)); and (d) all
+other rights and benefits that the Executive is vested in, pursuant to other
+plans and programs of the Company.
+
+ It is expressly understood that the Disability of the Executive for a
+period of one hundred eighty (180) calendar days or less in the aggregate during
+any period of twelve (12) consecutive months, in the absence of any reasonable
+expectation that his/her Disability will exist for more than such a period of
+time, shall not constitute a failure by him/her to perform his/her duties
+hereunder and shall not be deemed a breach or default, and the Executive shall
+receive full compensation for any such period of Disability or for any other
+temporary illness or incapacity during the term of this Agreement.
+
+ If the employment of the Executive terminates because of disability, all of
+the Executive's outstanding stock grants, including performance based grants,
+will become immediately vested, effective as of the date of the Executive's
+disability. Then, the Executive, the Executive's personal representatives,
+distributees, or legatees may exercise the Executive's grants at any time before
+the expiration date of the grant.
+
+ 7.3. Voluntary Termination by the Executive. The Executive may terminate
+his/her employment and this Agreement at any time by giving the Company at least
+forty-five (45) days written notice. The Company reserves the right to require
+the Executive not to work during the notice period but shall pay the Executive
+his/her full Base Salary, at the rate then in effect as provided in Article 5.1
+herein, [through the notice period] or [through the last day of the Executive's
+employment] plus all other benefits to which the Executive has a vested right on
+the last day of employment (for purposes of this paragraph, the Executive shall
+not be paid any Annual Bonus with respect to the fiscal year in which voluntary
+termination under this Article 7.3 occurs). The Company thereafter shall have no
+further obligations under this Agreement.
+
+ 7.4. Involuntary Termination by the Company Without Cause. The Company may
+terminate the Executive's employment, at any time, for any reason other than
+death, Disability, Retirement, or for Cause ("involuntary termination without
+Cause"), by providing the Executive with at least forty-five (45) days written
+notice.
+
+ (a) The Company's decision not to renew this Agreement at the
+ Expiration Date of the Initial Term or any Renewal Period shall be
+ deemed an involuntary termination without cause; provided,
+ however, that for purposes of this Article 7.4(a), no variation,
+ alteration, modification, cancellation, change or amendment made
+ to this Agreement pursuant to Article 12.3 or 12.4 at a time other
+ than the Expiration Date of the Initial Term or any Renewal
+ Period, shall be deemed an involuntary termination without Cause.
+
+ (b) Upon the Effective Date of Termination specified by the Company
+ for termination by the Company without cause, the Company shall
+ pay to the Executive, in equal monthly installments over the
+ following twenty-four (24) month period an amount equal to the
+ product of two (2) times both the Executive's Base Salary and the
+ Executive's target Annual Bonus established for the fiscal year in
+ which the Executive's Effective Date of Termination occurs. The
+ Company shall also pay to the Executive the amount equal to a pro
+ rata share of the Executive's target Annual Bonus for the calendar
+ year in which the Effective Date of Termination occurs (the
+ calculation of which the Annual Bonus is multiplied by a fraction,
+ the numerator of which is the number of full completed days in the
+ bonus plan year through the Effective Date of Termination, and the
+ denominator of which is three hundred sixty-five (365)). In
+ addition, the Company shall continue, at the same cost to the
+ Executive as existed as of the Effective Date of Termination, all
+ health and welfare benefit plan participation for two (2) full
+ years following the Executive's termination of employment;
+ provided, however, that the applicable COBRA "period of coverage"
+ under any plan subject to Section 4980B of the Internal Revenue
+ Code of 1986, as amended (the "Code"), or Sections 601 through 609
+ of the Employee Retirement Income Security Act of 1974 (ERISA)
+ shall begin as of the Effective Date of Termination.
+
+ (c) The Company shall also provide the Executive with outplacement
+ services not to exceed a cost of fifty thousand dollars 50,000).
+
+ (d) Any unvested stock options or any outstanding restricted stock,
+ excluding restricted stock grants issued under a performance based
+ plan, that would become vested (that is, transferable and
+ non-forfeitable) if the Executive remained an employee through the
+ Initial Term or the then current Renewal Period of this Agreement
+ will become vested as of the date of the Executive's termination
+ of employment. The Executive must satisfy the tax withholding
+ requirements.
+
+ (e) The Executive will be credited with age and service credit through
+ the end of the Initial Term or current Renewal Period of this
+ Agreement for purposes of computing benefits under the Company's
+ pension, medical and other benefit plans, and the Company will
+ continue the Executive's coverage under the Company's benefit
+ plans as if the Executive remained employed through the end of the
+ term of this Agreement. Notwithstanding the foregoing, if
+ crediting such age and service credit or continued coverage could
+ adversely affect the tax qualification or tax treatment of a
+ benefit plan, or otherwise have adverse legal ramifications to
+ either the plan or the Company, the Company may pay the Executive
+ a lump sum cash amount that reasonably approximates the after-tax
+ value to the Executive of such age and service credit and
+ continued coverage through the end of the term of this Agreement,
+ in lieu of giving such credit and continued coverage.
+
+ The Company thereafter shall have no further obligations under this
+Agreement.
+
+ 7.5. Termination For Cause. Nothing in this Agreement shall be construed to
+prevent the Company from terminating the Executive's employment under this
+Agreement, without notice or liability for doing so, for "Cause."
+
+ For purposes of this Agreement, "Cause" means:
+
+ (a) The Executive's material breach of this Agreement, which breach is
+ not cured within ten (10) days of receipt by the Executive of
+ written notice from the Company specifying the breach;
+
+ (b) The Executive's gross negligence in the performance of his/her
+ material duties hereunder, intentional nonperformance or
+ intentional misperformance of such duties, misconduct or refusal
+ to abide by or comply with the directives of the Board, his/her
+ superior officers, or the Company's policies and procedures, which
+ actions continue for a period of ten (10) days after receipt by
+ the Executive of written notice of the need to cure or cease;
+
+ (c) Conviction of a felony or other crime involving moral turpitude;
+
+ (d) The Executive engaging in illegal conduct, dishonesty or fraud
+ with respect to the business or affairs of the Company that in the
+ reasonable judgment of the Company materially and adversely
+ affects the operations or reputation of the Company;
+
+ (e) Failure of the Executive to disclose to the Executive's manager a
+ conflict of interest, of which the Executive knew or, with
+ reasonable diligence, would have known, in connection with any
+ transaction entered into on behalf of the Company; or
+
+ (f) Failure of the Executive to agree to a modification of this
+ Agreement, pursuant to paragraph 12.3 below, when the purpose of
+ the modification is to comply with applicable federal, state
+ and/or local laws or regulations, or when such modification is
+ designed to further define the restrictions of Article 8 or
+ otherwise enhance the enforcement of Article 8 without increasing
+ the scope of the Article 8 restrictions.
+
+ In the event this Agreement is terminated for Cause, the Company shall pay
+the Executive his/her Base Salary through the Effective Date of Termination for
+cause and the Executive shall immediately thereafter forfeit all rights and
+benefits (other than vested benefits) he would otherwise have been entitled to
+receive under this Agreement. The Company thereafter shall have no further
+obligations under this Agreement.
+
+ 7.6. Termination for Good Reason. At any time during the term of this
+Agreement, the Executive may terminate this Agreement for Good Reason (as
+defined below) by giving the Company forty-five (45) days written notice, which
+notice sets forth in detail the facts and circumstances claimed to provide a
+basis for such termination. However, Company shall, at its option, have thirty
+(30) days from receipt of such written notice to cure any event or circumstance
+that could constitute Good Reason.
+
+ If Company chooses not to cure, the Effective Date of Termination for Good
+Reason shall occur upon the expiration of the forty-five (45) days prior notice
+period that is specified by the Executive in the written notice, and the Company
+shall pay and provide to the Executive the benefits set forth in this Article
+7.6.
+
+ For purposes of this Agreement, Good Reason shall mean, without the
+Executive's express written consent, the occurrence of any one (1) or more of
+the following:
+
+ (a) Failing to maintain the Executive's participation in the Company's
+ annual bonus and long-term incentive plan in a manner that is
+ consistent with other similarly situated Executive employees of
+ the Company;
+
+ (b) Failing to maintain the Executive's benefits under, or relative
+ level of participation in, the Company's employee benefit or
+ retirement plans, perquisites, policies, practices, or
+ arrangements in which the Executive participates as of the
+ Effective Date of this Agreement at a level consistent with other
+ similarly situated Executive employees of the Company;
+
+ (c) Reducing the Executive's Base Salary;
+
+ (d) Terminating the Executive's employment otherwise than as expressly
+ permitted by this Agreement; or
+
+ (e) Failing to comply with and satisfy Article 10.1 by requiring any
+ successor to the Company to assume and agree to perform the
+ Company's obligations hereunder.
+
+ Upon the Effective Date of Termination, the Executive shall be entitled to
+receive the same payments and benefits as he/she is entitled to receive
+following an involuntary termination of his/her employment by the Company
+without Cause, as specified in Article 7.4 herein. Said payment shall commence
+within forty-five (45) calendar days following the Effective Date of
+Termination.
+
+ The Executive's right to terminate employment for Good Reason shall not be
+affected by the Executive's incapacity due to physical or mental illness.
+
+Article 8. Noncompetition and Confidentiality
+
+ 8.1. Noncompetition.
+
+ (a) During the Executive's employment and for a period of two (2)
+ years following the last day of the Executive's employment, the
+ Executive shall not directly or indirectly compete with the
+ Company by engaging, in a competitive capacity, in any business
+ that is engaged in the same or similar business of the Company in
+ one or more Metropolitan Statistical Areas ("MSAs") in which the
+ Company is doing business on the last day of the Executive's
+ employment. A business will not be considered to be in competition
+ with the Company for purposes of this paragraph 8.1(a) or
+ paragraph 8.1(b) below if:
+
+ (i) The business or the operating unit of the business in
+ which the Executive is employed or with which the
+ Executive is associated (collectively the "Business
+ Unit") is not engaged in the retail sales of consumer
+ electronics;
+
+ (ii) If sales of the Business Unit's products or services in
+ the retail sales and service of consumer electronics
+ constitute less than ten percent (10 of such Business
+ Unit's sales; or
+
+ (iii) If the sales of the Business Unit in the retail sales and
+ service of consumer electronics do constitute more than
+ ten percent (10 of the sales of the Business Unit, but
+ there is no geographic overlap between such Business
+ Unit's and the Company's business locations.
+
+ Notwithstanding the foregoing, nothing herein shall be deemed to prevent or
+limit the right of the Executive to invest in the capital stock or other
+securities of any corporation whose stock or securities are regularly traded on
+any public exchange, nor shall anything herein contained be deemed to prevent
+Employee from investing in real estate for his/her own benefit (as long as such
+investment is not related to or in support of any entity engaged in the same or
+similar business as the Company in competition with the Company in one or more
+MSA's in which the Company is doing business during the Executive's employment).
+
+ (b) During the Executive's employment and for a period of two (2)
+ years following the last day of the Executive's employment, the
+ Executive shall not directly or indirectly compete with the
+ Company by engaging, in a competitive capacity, in any business
+ engaged in the same or similar business of the Company in one or
+ more MSAs where, on the last day of the Executive's employment,
+ the Company is engaged in real estate site selection or has taken
+ further steps toward the commencement of operations in the future,
+ of which the Executive is aware.
+
+ (c) The Executive agrees that competition, as set forth in Article
+ 8.1(a) above, shall include, but not be limited to, engaging in
+ competitive activity, as an individual, as a partner, as a joint
+ venturer with any other person or entity, or as an employee,
+ agent, or representative of any other person or entity.
+
+ (d) It is the specific intent of the parties that the Executive shall
+ be restricted from competing directly or indirectly with any
+ segment of the Company's business in which the Executive engaged
+ prior to the last day of his/her employment and from any segment
+ of the Company's business about which the Executive acquired
+ proprietary or confidential information during the course of
+ his/her employment.
+
+ (e) If any provision of this Article 8.1 relating to the time period,
+ geographic area or scope of restricted activities shall be
+ declared by a court of competent jurisdiction to exceed the
+ maximum time period, geographic area or scope of activities, as
+ applicable, that such court deems reasonable and enforceable, said
+ time period, geographic area or scope of activities shall be
+ deemed to be, and thereafter shall become, the maximum time
+ period, scope of activities or largest geographic area that such
+ court deems reasonable and enforceable and this Agreement shall
+ automatically be considered to have been amended and revised to
+ reflect such determination.
+
+ (f) The Executive and the Company have examined in detail this
+ Covenant Not to Compete and agree that the restraint imposed upon
+ the Executive is reasonable in light of the legitimate interests
+ of the Company, and it is not unduly harsh upon the Executive's
+ ability to earn a livelihood.
+
+ 8.2. Non-Solicitation of Employees. The Executive agrees that during the
+Executive's employment with the Company and for a period of two (2) years
+following the last day of the Executive's employment, the Executive shall not,
+directly or indirectly, solicit or induce, or attempt to solicit or induce, any
+employee of the Company to leave the Company for any reason whatsoever or hire
+any individual employed by the Company. For purposes of this Article 8.2,
+employee shall mean any individual employed by the Company on the last day of
+the Executive's employment or within the three-month period prior to the last
+day of the Executive's employment.
+
+ 8.3. Confidentiality. The Company has advised the Executive and the
+Executive acknowledges that it is the policy of the Company to maintain as
+secret and confidential all Protected Information (as defined below), and that
+Protected Information has been and will be developed at substantial cost and
+effort to the Company. The Executive agrees to hold in strict confidence and
+safeguard any information of or about the Company gained by the Executive in any
+manner or from any source during the Executive's employment. The Executive shall
+not, without the prior written consent of the Company, at any time, directly or
+indirectly, divulge, furnish, use, disclose or make accessible to any person,
+firm, corporation, association, or other entity (otherwise than as may be
+required in the regular course of the Executive's employment), either during the
+Executive's employment with the Company or subsequent to the last day of the
+Executive's employment, any Protected Information, or cause any such information
+of the Company to enter the public domain.
+
+ The Executive understands and agrees that any information, data and/or
+trade secrets about Company or its suppliers and/or distributors is the property
+of the Company and is essential to the protection of the Company's goodwill and
+to the maintenance of the Company's competitive position and accordingly should
+be kept secret. For purposes of this Agreement, "Protected Information" means
+trade secrets, confidential and proprietary business information of or about the
+Company, and any other information of the Company, including, customer lists
+(including potential customers), sources of supply, processes, plans, materials,
+pricing information, internal memoranda, marketing plans, promotional plans,
+internal policies, research, purchasing, accounting and financial information,
+computer programs, hardware, software, and products and services which may be
+developed from time to time by the Company and its agents or employees,
+including the Executive; provided, however, that information that is in the
+public domain (other than as a result of a breach of this Agreement), approved
+for release by the Company or lawfully obtained from third parties who are not
+bound by a confidentiality agreement with the Company, is not Protected
+Information.
+
+ Nothing contained in this Article is intended to reduce in any way
+protection available to the Company pursuant to the Uniform Trade Secrets Act as
+adopted in Virginia or any other state or other applicable laws which prohibit
+the misuse or disclosure of confidential or proprietary information.
+
+ 8.4. Acknowledgement of Covenants. The parties hereto acknowledge that the
+Executive's services are of a special, extraordinary, and intellectual character
+which gives him/her unique value, and that the business of the Company and its
+subsidiaries is highly competitive, and that violation of any of the covenants
+provided in this Article 8 would cause immediate, immeasurable, and irreparable
+harm, loss, and damage to the Company not adequately compensable by a monetary
+award. The Executive acknowledges that the time, scope of activities and
+geographical area restrained by the provisions of this Article 8 are reasonable
+and do not impose a greater restraint than is necessary to protect the goodwill
+of the Company's business. The Executive further acknowledges that he/she and
+the Company have negotiated and bargained for the terms of this Agreement and
+that the Executive has received adequate consideration for entering into this
+Agreement. In the event of any such breach or threatened breach by the Executive
+of any one or more of such covenants, the Company shall be entitled to such
+equitable and injunctive relief as may be available to restrain the Executive
+from violating the provisions hereof. Nothing herein shall be construed as
+prohibiting the Company from pursuing any other remedies available at law or in
+equity for such breach or threatened breach, including the recovery of damages
+and the immediate termination of the employment of the Executive hereunder for
+cause.
+
+Article 9. Change in Control
+
+ 9.1. Change in Control. This Article 9 shall not become effective, and the
+Company shall have no obligation hereunder, if the employment of the Executive
+with the Company shall terminate prior to a Change in Control (as defined in
+Article 9.2 below) of the Company.
+
+ 9.2. Definition of Change in Control. Change in Control of the Company
+means, and shall be deemed to have occurred, upon the first to occur of any of
+the following events:
+
+ (a) The acquisition by any individual, entity, or group (a "Person"),
+ including a "person" within the meaning of Section 13(d)(3) or
+ 14(d)(2) of the Securities Exchange Act of 1934, as amended (the
+ "Exchange Act"), but excluding an Affiliate (as defined below) of
+ the Company, of beneficial ownership within the meaning of Rule
+ 13d-3 promulgated under the Exchange Act, of thirty-five percent
+ (35 or more of either: (i) the then outstanding shares of common
+ stock of the Circuit City Group (the "Outstanding Common Stock");
+ or (ii) the combined voting power of the then outstanding
+ securities of the Company entitled to vote generally in the
+ election of directors (the "Outstanding Voting Securities");
+ excluding, however, the following: (A) any acquisition directly
+ from the Company (excluding an acquisition resulting from the
+ exercise of an option, conversion right, or exchange privilege
+ unless the security being so exercised, converted or exchanged was
+ acquired directly from the Company); (B) any acquisition by the
+ Company; (C) any acquisition by an employee benefit plan (or
+ related trust) sponsored or maintained by the Company or any
+ corporation controlled by the Company; or (D) any acquisition by
+ any corporation pursuant to a transaction which complies with
+ clauses (i), (ii), and (iii) of subsection (c) of this Article
+ 9.2;
+
+ (b) Individuals who, as of the Effective Date, constitute the Board of
+ Directors (the "Incumbent Board") cease for any reason to
+ constitute at least a majority of such Board; provided that any
+ individual who becomes a director of the Company subsequent to the
+ Effective Date, whose election, or nomination for election by the
+ Company's stockholders, was approved by the vote of at least a
+ majority of the directors then comprising the Incumbent Board
+ shall be deemed a member of the Incumbent Board; and provided
+ further, that any individual who was initially elected as a
+ director of the Company as a result of an actual or threatened
+ election contest, as such terms are used in Rule 14a-11 of
+ Regulation 14A promulgated under the Exchange Act, or any other
+ actual or threatened solicitation of proxies or consents by or on
+ behalf of any Person other than the Board shall not be deemed a
+ member of the Incumbent Board;
+
+ (c) The consummation of a reorganization, merger or consolidation of
+ the Company or sale or other disposition of all or substantially
+ all of the assets of the Company (a "Corporate Transaction");
+ excluding, however, a Corporate Transaction pursuant to which: (i)
+ all or substantially all of the individuals or entities who are
+ the beneficial owners, respectively, of the Outstanding Common
+ Stock and the Outstanding Voting Securities immediately prior to
+ such Corporate Transaction will beneficially own, directly or
+ indirectly, more than sixty percent (60 of, respectively, the
+ outstanding shares of common stock, and the combined voting power
+ of the outstanding securities of such corporation entitled to vote
+ generally in the election of directors, as the case may be, of the
+ corporation resulting from such Corporate Transaction (including,
+ without limitation, a corporation, which as a result of such
+ transaction owns the Company or all or substantially all of the
+ Company's assets either directly or indirectly) in substantially
+ the same proportions relative to each other as their ownership,
+ immediately prior to such Corporate Transaction, of the
+ Outstanding Common Stock and the Outstanding Voting Securities, as
+ the case may be; (ii) no Person (other than: the Company; any
+ employee benefit plan (or related trust) sponsored or maintained
+ by the Company or any corporation controlled by the Company; the
+ corporation resulting from such Corporate Transaction; and any
+ Person which beneficially owned, immediately prior to such
+ Corporate Transaction, directly or indirectly, twenty-five percent
+ (25 or more of the Outstanding Common Stock or the Outstanding
+ Voting Securities, as the case may be) will beneficially own,
+ directly or indirectly, twenty-five percent (25 )or more of,
+ respectively, the outstanding shares of common stock of the
+ corporation resulting from such Corporate Transaction or the
+ combined voting power of the outstanding securities of such
+ corporation entitled to vote generally in the election of
+ directors; and (iii) individuals who were members of the Incumbent
+ Board will constitute at least a majority of the members of the
+ board of directors of the corporation resulting from such
+ Corporate Transaction; or
+
+ (d) The consummation of a plan of complete liquidation, dissolution,
+ or sale of substantially all the assets of the Company.
+
+ For purposes of this Article 9, "Affiliate" shall mean with reference to a
+specified Person, any Person that directly or indirectly through one (1) or more
+intermediaries controls or is controlled by or is under common control with the
+specified Person. For purposes of this definition, "control" (including, with
+correlative meaning, the terms "controlled by" and "under common control with"),
+as used in respect to any Person, shall mean the possession, directly or
+indirectly, of the power to direct or cause the direction of management and
+policies of such Person, whether through ownership of voting securities or by
+contract or otherwise.
+
+ 9.3. Change-in-Control Severance Benefits. If at any time during the Term
+of this Agreement there is a Change in Control of the Company and the
+Executive's employment is terminated for any reason other than death,
+Disability, Retirement, Voluntary Termination other than Good Reason or Cause
+within the two (2) year period following the Change in Control or the Executive
+voluntarily terminates for any reason in the thirteenth month following a Change
+in Control of the Company, the Company shall provide to the Executive the
+following:
+
+ (a) Base Salary and all other benefits due him/her as if he/she had
+ remained an employee pursuant to Article 5 through the remainder
+ of the month in which the termination occurs, less applicable
+ withholding taxes and other authorized payroll deductions;
+
+ (b) The amount equal to a pro rata share of target Annual Bonus for
+ the calendar year in which the Effective Date of Termination
+ occurs (the calculation of which the Annual Bonus is multiplied by
+ a fraction, the numerator of which is the number of full completed
+ days in the bonus plan year through the Effective Date of
+ Termination, and the denominator of which is three hundred
+ sixty-five (365));
+
+ (c) A lump-sum severance allowance in an amount that is equal to the
+ product of three (3) times both the Executive's Base Salary at the
+ rate in effect immediately prior to the termination and the
+ Executive's target Annual Bonus established for the fiscal year in
+ which the Executive's termination of employment occurs;
+
+ (d) Continuation at the same cost to the Executive as existed as of
+ the Effective Date of Termination of Agreement of all health,
+ welfare, and benefit plan participation for three (3) full years
+ following employment termination;
+
+ (e) Provision of outplacement services for the Executive not to exceed
+ a cost of fifty thousand dollars 50,000);
+
+ (f) A lump-sum payment equal to the three (3) year costs of
+ perquisites outlined in Article 5.6 above; and
+
+ (g) Any unvested stock options or any outstanding restricted stock,
+ excluding restricted stock grants issued under a performance based
+ plan, that would become vested (that is, transferable and
+ non-forfeitable) if the Executive remained an employee through the
+ Initial Term or the then current Renewal Period of this Agreement
+ will become vested as of the date of the Executive's termination
+ of employment. The Executive must satisfy the tax withholding
+ requirements.
+
+ 9.4. Excise Tax Equalization Payment. In the event that the Executive
+becomes entitled to severance benefits under this Agreement or any other
+agreement with or plan of the Company (in the aggregate, the "Total Payments"),
+if any of the Total Payments will [be subject to the tax (the "Excise Tax")
+imposed by Section 4999 of the Code] or any similar excise tax that may
+hereafter be imposed), the Company shall pay to the Executive in cash an
+additional amount (the "Gross-Up Payment"), such that the net amount retained by
+the Executive after deduction of any Excise Tax upon the Total Payments and any
+federal, state, and local income tax and Excise Tax upon the Gross-Up Payment
+provided for by this Article 9.4 (including FICA and FUTA), shall be equal to
+the Total Payments. The Company shall make such payment to the Executive as soon
+as practicable following the Effective Date of Termination, but in no event
+beyond thirty (30) days from such date.
+
+ For purposes of determining the amount of the Gross-Up Payment, the
+Executive shall be deemed to pay federal income taxes at the highest marginal
+rate of federal income taxation in the calendar year in which the Gross-Up
+Payment is to be made, and state and local income taxes at the highest marginal
+rate of taxation in the state and locality of the Executive's residence on the
+Effective Date of Termination, net of the maximum reduction in federal income
+taxes which could be obtained from deduction of such state and local taxes.
+
+ The Company's Compensation Committee shall determine, based upon the advice
+of the Company's independent certified public accountants, whether any payments
+or benefits hereunder are subject to the Excise Tax.
+
+ 9.5. Subsequent Recalculation. In the event the Internal Revenue Service
+adjusts the computation of the Company under Article 9.4 herein so that the
+Executive did not receive the greatest net benefit, the Company shall reimburse
+the Executive for the full amount necessary to make the Executive whole, plus a
+market rate of interest, as determined by the Compensation Committee.
+
+Article 10. Assignment
+
+ 10.1. Assignment by Company, This Agreement may and shall be assigned or
+transferred to, and shall be binding upon and shall inure to the benefit of, any
+successor of the Company, and any such successor shall be deemed substituted for
+all purposes of the "Company" under the terms of this Agreement. As used in this
+Agreement, the term "successor" shall mean any person, firm, corporation, or
+business entity which, at any time, whether by merger, purchase, or otherwise,
+acquires all or substantially all of the assets or the business of the Company.
+In addition, the obligations of the Executive under Articles 8 and 12 of this
+Agreement shall continue after the termination of the Executive's employment and
+shall be binding on the Executive's heirs, executors, legal representatives and
+assigns.
+
+ Failure of the Company to obtain the agreement of any successor to be bound
+by the terms of this Agreement prior to the effectiveness of any such succession
+shall be a breach of this Agreement, and shall immediately entitle the Executive
+to compensation from the Company in the same amount and on the same terms as the
+Executive would be entitled in the event of a Termination of Employment for Good
+Reason as provided by Article 7.6. Except as provided herein, the Company may
+not otherwise assign this Agreement.
+
+ 10.2. Assignment by Executive. The services to be provided by the Executive
+to the Company hereunder are personal to the Executive, and the Executive's
+duties may not be assigned by the Executive; provided, however, that this
+Agreement shall inure to the benefit of and be enforceable by the Executive's
+personal or legal representatives, executors, and administrators, successors,
+heirs, distributees, devisees, and legatees. If the Executive dies while any
+amounts payable to the Executive hereunder remain outstanding, all such amounts,
+unless otherwise provided herein, shall be paid in accordance with the terms of
+this Agreement to the Executive's devisee, legatee, or other designee or, in the
+absence of such designee, to the Executive's estate.
+
+Article 11. Dispute Resolution and Notice
+
+ 11.1. Issue Resolution. Except for actions initiated by the Company to
+enjoin a breach by, and/or recover damages from the Executive related to
+violation of any of the restrictive covenants in Article 8 of this Agreement,
+which Company may bring in an appropriate court of law or equity, any
+disagreement between the Executive and the Company concerning anything covered
+by this Agreement or concerning other terms or conditions of the Executive's
+employment or the termination of the Executive's employment will be settled by
+final and binding arbitration pursuant to the Company's Associate Issue
+Resolution Program. The Dispute Resolution Agreement and the Dispute Resolution
+Rules and Procedures are incorporated herein by reference as if set forth in
+full in this Agreement. The decision of the arbitrator will be final and binding
+on both the Executive and the Company and may be enforced in a court of
+appropriate jurisdiction.
+
+ 11.2. Notice. Any notices, requests, demands, or other communications
+provided for by this Agreement shall be sufficient if in writing, and if sent by
+registered or certified mail to the Executive at the last address he/she has
+filed in writing with the Company or, in the case of the Company, at its
+principal offices.
+
+Article 12. Miscellaneous
+
+ 12.1. Entire Agreement. This Agreement supersedes any prior agreements or
+understandings, oral or written, between the parties hereto, with respect to the
+subject matter hereof, and constitutes the entire agreement of the parties with
+respect thereto. Without limiting the generality of the foregoing sentence, this
+Agreement completely supersedes any and all prior employment agreements entered
+into by and between the Company, and the Executive, and all amendments thereto,
+in their entirety.
+
+ 12.2. Return of Materials. Upon the termination of the Executive's
+employment with the Company, however such termination is effected, the Executive
+shall promptly deliver to Company all property, records, materials, documents,
+and copies of documents concerning the Executive's business and/or its customers
+(hereinafter collectively "Company Materials") which the Executive has in
+his/her possession or under his/her control at the time of termination of
+his/her employment. The Executive further agrees not to take or extract any
+portion of Company Materials in written, computer, electronic or any other
+reproducible form without the prior written consent of the Board of Directors.
+
+ 12.3. Modification. This Agreement shall not be varied, altered, modified,
+canceled, changed, or in any way amended except by mutual agreement of the
+parties in a written instrument executed by the parties hereto or their legal
+representatives.
+
+ 12.4. Severability. It is the intention of the parties that the provisions
+of the restrictive covenants herein shall be enforceable to the fullest extent
+permissible under the applicable law. If any clause or provision of this
+Agreement is held to be illegal, invalid, or unenforceable under present or
+future laws effective during the term hereof, then the remainder of this
+Agreement shall not be affected thereby, and in lieu of each clause or provision
+of this Agreement which is illegal, invalid or unenforceable, there shall be
+added, as a part of this Agreement, a clause or provision as similar in terms to
+such illegal, invalid or unenforceable clause or provision as may be possible
+and as may be legal, valid, and enforceable.
+
+ 12.5. Counterparts. This Agreement may be executed in one (1) or more
+counterparts, each of which shall be deemed to be an original, but all of which
+together will constitute one and the same Agreement.
+
+ 12.6. Tax Withholding. The Company may withhold from any benefits payable
+under this Agreement all federal, state, city, or other taxes as may be required
+pursuant to any law or governmental regulation or ruling.
+
+ 12.7. Restrictive Covenants of the Essence. The restrictive covenants of
+the Executive set forth herein are of the essence of this Agreement; they shall
+be construed as independent of any other provision in this Agreement; and the
+existence of any claim or cause of action of the Executive against the Company,
+whether predicated on this Agreement or not, shall not constitute a defense to
+the enforcement by the Company of the restrictive covenants contained herein.
+The Company shall at all times maintain the right to seek enforcement of these
+provisions whether or not the Company has previously refrained from seeking
+enforcement of any such provision as to the Executive or any other individual
+who has signed an agreement with similar provisions.
+
+ 12.8 Beneficiaries. The Executive may designate one (1) or more persons or
+entities as the primary and/or contingent beneficiaries of any amounts to be
+received under this Agreement. Such designation must be in the form of a signed
+writing acceptable to the Executive's immediate manager. The Executive may make
+or change such designation at any time.
+
+ 12.9. Payment Obligation Absolute. The Company's obligation to make the
+payments and the arrangement provided for herein shall be absolute and
+unconditional, and shall not be affected by any circumstances, including,
+without limitation, any offset, counterclaim, recoupment, defense, or other
+right which the Company may have against the Executive or anyone else. All
+amounts payable by the Company hereunder shall be paid without notice or demand.
+Each and every payment made hereunder by the Company shall be final, and the
+Company shall not seek to recover all or any part of such payment from the
+Executive or from whomsoever may be entitled thereto, for any reasons
+whatsoever.
+
+ The Executive shall not be obligated to seek other employment in mitigation
+of the amounts payable or arrangements made under any provision of this
+Agreement, and the obtaining of any such other employment shall in no event
+effect any reduction of the Company's obligations to make the payments and
+arrangements required to be made under this Agreement; provided, however, that
+continued health, welfare, and benefit plan participation pursuant to Article
+7.4 or Article 9.3 herein shall be discontinued in the event the Executive
+becomes eligible to receive substantially similar benefits from a successor
+employer.
+
+ 12.10. Contractual Rights to Benefits. This Agreement establishes and vests
+in the Executive a contractual right to the benefits to which he is entitled
+hereunder. However, nothing herein contained shall require or be deemed to
+require, or prohibit or be deemed to prohibit, the Company to segregate,
+earmark, or otherwise set aside any funds or other assets, in trust or
+otherwise, to provide for any payments to be made or required hereunder.
+
+Article 13. Governing Law
+
+ To the extent not preempted by federal law, the provisions of this
+Agreement shall be construed and enforced in accordance with the laws of the
+Commonwealth of Virginia, without reference to Virginia's choice of law statutes
+or decisions.
+
+ IN WITNESS WHEREOF, the Executive and the Company have executed this
+Agreement as of the Effective Date.
+
+CIRCUIT CITY STORES, INC.
+
+By: /s/Mikael Salovaara
+ -------------------
+ Mikael Salovaara
+ Chairperson, Compensation and Personnel Committee
+
+EXECUTIVE:
+
+/s/W. Alan McCollough
+- ---------------------------------------------
+W. Alan McCollough, SSN: ###-##-####
+
+ATTEST:
+
+- -------------------------------------------
+
+</EX-10>
+
+<EX-31>
+ 4
+ ccs110310q_ex31.txt
+ 302 CERTIFICATIONS
+ 
+ Exhibit 31.1
+I, W. Alan McCollough, certify that:
+
+1. I have reviewed this quarterly report on Form 10-Q of Circuit City Stores,
+Inc.;
+
+2. Based on my knowledge, this quarterly report does not contain any untrue
+statement of a material fact or omit to state a material fact necessary to make
+the statements made, in light of the circumstances under which such statements
+were made, not misleading with respect to the period covered by this quarterly
+report;
+
+3. Based on my knowledge, the financial statements, and other financial
+information included in this quarterly report, fairly present in all material
+respects the financial condition, results of operations and cash flows of the
+registrant as of, and for, the periods presented in this quarterly report;
+
+4. The registrant's other certifying officer and I are responsible for
+establishing and maintaining disclosure controls and procedures (as defined in
+Exchange Act Rules 13a-15(e) and 15d-15(e)) for the registrant andhave:
+
+a) Designed such disclosure controls and procedures, or caused such disclosure
+controls and procedures to be designed under our supervision, to ensure that
+material information relating to the registrant, including its consolidated
+subsidiaries, is made known to us by others within those entities, particularly
+during the period in which this quarterly report is being prepared;
+
+b) Evaluated the effectiveness of the registrant's disclosure controls and
+procedures and presented in this report our conclusions about the effectiveness
+of the disclosure controls and procedures, as of the end of the period covered
+by this quarterly report based on such evaluation; and
+
+c) Disclosed in this report any change in the registrant's internal control over
+financial reporting that occurred during the registrant's most recent fiscal
+quarter (the registrant's fourth fiscal quarter in the case of an annual report)
+that has materially affected, or is reasonably likely to materially affect, the
+registrant's internal control over financial reporting; and
+
+5. The registrant's other certifying officer and I have disclosed, based on our
+most recent evaluation of internal control over financial reporting, to the
+registrant's auditors and the audit committee of registrant's board of directors
+(or persons performing the equivalent functions):
+
+a) All significant deficiencies and material weaknesses in the design or
+operation of internal control over financial reporting which are reasonably
+likely to adversely affect the registrant's ability to record, process,
+summarize and report financial information; and
+
+b) Any fraud, whether or not material, that involves management or other
+employees who have a significant role in the registrant's internal control over
+financial reporting.
+
+Date: January 9, 2004
+
+ /s/W. Alan McCollough
+ ---------------------
+ W. Alan McCollough
+ Chairman, President and
+ Chief Executive Officer
+
+Exhibit 31.2
+
+I, Michael E. Foss, certify that:
+
+1. I have reviewed this quarterly report on Form 10-Q of Circuit City Stores,
+Inc.;
+
+2. Based on my knowledge, this quarterly report does not contain any untrue
+statement of a material fact or omit to state a material fact necessary to make
+the statements made, in light of the circumstances under which such statements
+were made, not misleading with respect to the period covered by this quarterly
+report;
+
+3. Based on my knowledge, the financial statements, and other financial
+information included in this quarterly report, fairly present in all material
+respects the financial condition, results of operations and cash flows of the
+registrant as of, and for, the periods presented in this quarterly report;
+
+4. The registrant's other certifying officer and I are responsible for
+establishing and maintaining disclosure controls and procedures (as defined in
+Exchange Act Rules 13a-15(e) and 15d-15(e)) for the registrant and have:
+
+a) Designed such disclosure controls and procedures, or caused such disclosure
+controls and procedures to be designed under our supervisions, to ensure that
+material information relating to the registrant, including its consolidated
+subsidiaries, is made known to us by others within those entities, particularly
+during the period in which this quarterly report is being prepared;
+
+b) Evaluated the effectiveness of the registrant's disclosure controls and
+procedures and presented in this report our conclusions about the effectiveness
+of the disclosure controls and procedures, as of the end of the period covered
+by this quarterly report based on such evaluation; and
+
+c) Disclosed in this report any change in the registrant's internal control over
+financial reporting that occurred during the registrant's most recent fiscal
+quarter (the registrant's fourth fiscal quarter in the case of an annual report)
+that has materially affected, or is reasonably likely to materially affect, the
+registrant's internal control over financial reporting; and
+
+5. The registrant's other certifying officer and I have disclosed, based on our
+most recent evaluation of internal control over financial reporting, to the
+registrant's auditors and the audit committee of registrant's board of directors
+(or persons performing the equivalent functions):
+
+a) All significant deficiencies and material weaknesses in the design or
+operation of internal control over financial reporting which are reasonably
+likely to adversely affect the registrant's ability to record, process,
+summarize and report financial information; and
+
+b) Any fraud, whether or not material, that involves management or other
+employees who have a significant role in the registrant's internal control over
+financial reporting.
+
+Date: January 9, 2004
+
+ /s/Michael E. Foss
+ ------------------
+ Michael E. Foss
+ Senior Vice President and
+ Chief Financial Officer
+
+</EX-31>
+
+<EX-32>
+ 5
+ ccs110310q_ex32.txt
+ 906 CERTIFICATIONS
+ 
+ Exhibit 32.1
+
+ CERTIFICATION OF THE CHIEF EXECUTIVE OFFICER
+ PURSUANT TO 18 U.S.C. SECTION 1350,
+ AS ADOPTED PURSUANT TO
+ SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002
+
+In connection with the Circuit City Stores, Inc. (the "Company") Quarterly
+Report on Form 10-Q for the quarter ended November 30, 2003, as filed with the
+Securities and Exchange Commission on the date hereof (the "Report"), I, W. Alan
+McCollough, Chairman, President and Chief Executive Officer of the Company,
+certify pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906
+of the Sarbanes-Oxley Act of 2002, that, to the best of my knowledge:
+
+ (1). The Report fully complies with the requirements of Section
+ 13(a) or 15(d) of the Securities Exchange Act of 1934, as
+ amended; and
+
+ (2). The information contained in the Report fairly presents, in
+ all material respects, the financial condition and results of
+ operations of the Company.
+
+Date: January 9, 2004 By: /s/ W. Alan McCollough
+ ---------------------------
+ W. Alan McCollough
+ Chairman, President and
+ Chief Executive Officer
+
+A signed original of this written statement required by Section 906 has been
+provided to Circuit City Stores, Inc. and will be retained by the company and
+furnished to the Securities and Exchange Commission or its staff upon request.
+
+Exhibit 32.2
+
+ CERTIFICATION OF THE CHIEF FINANCIAL OFFICER
+ PURSUANT TO 18 U.S.C. SECTION 1350,
+ AS ADOPTED PURSUANT TO
+ SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002
+
+In connection with the Circuit City Stores, Inc. (the "Company") Quarterly
+Report on Form 10-Q for the quarter ended November 30, 2003, as filed with the
+Securities and Exchange Commission on the date hereof (the "Report"), I, Michael
+E. Foss, Senior Vice President and Chief Financial Officer of the Company,
+certify pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906
+of the Sarbanes-Oxley Act of 2002, that, to the best of my knowledge:
+
+ (1). The Report fully complies with the requirements of Section
+ 13(a) or 15(d) of the Securities Exchange Act of 1934, as
+ amended; and
+
+ (2). The information contained in the Report fairly presents, in
+ all material respects, the financial condition and results of
+ operations of the Company.
+
+Date: January 9, 2004 By: /s/ Michael E. Foss
+ ---------------------------
+ Michael E. Foss
+ Senior Vice President and
+ Chief Financial Officer
+
+A signed original of this written statement required by Section 906 has been
+provided to Circuit City Stores, Inc. and will be retained by the company and
+furnished to the Securities and Exchange Commission or its staff upon request.
+
+</EX-32>
+

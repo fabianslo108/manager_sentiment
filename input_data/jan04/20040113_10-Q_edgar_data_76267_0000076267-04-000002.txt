@@ -1,0 +1,1873 @@
+<Header>
+<FileStats>
+    <FileName>20040113_10-Q_edgar_data_76267_0000076267-04-000002.txt</FileName>
+    <GrossFileSize>91770</GrossFileSize>
+    <NetFileSize>75836</NetFileSize>
+    <NonText_DocumentType_Chars>0</NonText_DocumentType_Chars>
+    <HTML_Chars>647</HTML_Chars>
+    <XBRL_Chars>0</XBRL_Chars>
+    <XML_Chars>0</XML_Chars>
+    <N_Exhibits>4</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0000076267-04-000002.hdr.sgml : 20040113
+<ACCEPTANCE-DATETIME>20040113135433
+ACCESSION NUMBER:		0000076267-04-000002
+CONFORMED SUBMISSION TYPE:	10-Q
+PUBLIC DOCUMENT COUNT:		5
+CONFORMED PERIOD OF REPORT:	20031130
+FILED AS OF DATE:		20040113
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			PARK ELECTROCHEMICAL CORP
+		CENTRAL INDEX KEY:			0000076267
+		STANDARD INDUSTRIAL CLASSIFICATION:	PRINTED CIRCUIT BOARDS [3672]
+		IRS NUMBER:				111734643
+		STATE OF INCORPORATION:			NY
+		FISCAL YEAR END:			0228
+
+	FILING VALUES:
+		FORM TYPE:		10-Q
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-04415
+		FILM NUMBER:		04522331
+
+	BUSINESS ADDRESS:	
+		STREET 1:		5 DAKOTA DR
+		CITY:			LAKE SUCCESS
+		STATE:			NY
+		ZIP:			11042
+		BUSINESS PHONE:		5163544100
+
+	MAIL ADDRESS:	
+		STREET 1:		5 DAKOTA DR
+		CITY:			LAKE SUCCESS
+		STATE:			NY
+		ZIP:			11042
+
+</SEC-Header>
+</Header>
+
+ 
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ Pg3lKX7BCvod/fUTmsjC0jHrvv47Ln9pBnEw3dFj7bvzd7JrLUwgmyrP8HwMGoOM
+ Smc5dgewu5XNxtPO/6DM4w==
+
+ 0000076267-04-000002.txt : 20040113
+
+10-Q
+ 1
+ q304.txt
+ THIRD QUARTER 10-Q
+
+SECURITIES AND EXCHANGE COMMISSION
+ Washington, D.C. 20549
+
+ FORM 10-Q
+
+(Mark One)
+[x] QUARTERLY REPORT PURSUANT TO SECTION 13 OR 14(d) OF THE
+SECURITIES EXCHANGE ACT OF 1934
+
+For the quarterly period ended November 30, 2003
+
+ OR
+
+[ ] TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE
+SECURITIES EXCHANGE ACT OF 1934
+
+For the transition period from ________ to__________
+
+ Commission file Number 1-4415
+
+ PARK ELECTROCHEMICAL CORP.
+ (Exact Name of Registrant as Specified in Its Charter)
+
+ New York 11-1734643
+ (State or Other Jurisdiction of (I.R.S. Employer
+ Incorporation or Organization) Identification No.)
+
+ 5 Dakota Drive, Lake Success, N.Y. 11042
+(Address of Principal Executive Offices) (Zip Code)
+
+Registrant's Telephone Number, Including Area Code (516) 354-
+4100
+
+ Not Applicable
+ -----------------------------------------------------
+ (Former Name, Former Address and Former Fiscal Year,
+ if Changed Since Last Report)
+
+ Indicate by check mark whether the registrant: (1) has
+filed all reports required to be filed by Section 13 or 15(d)
+of the Securities Exchange Act of 1934 during the preceding 12
+months (or for such shorter period that the registrant was
+required to file such reports), and (2) has been subject to
+such filing requirements for the past 90 days. Yes[X] No[ ]
+
+ Indicate by check mark whether the registrant is an
+accelerated filer (as defined in Rule 12b-2 of the Exchange
+Act). Yes[X] No[ ]
+
+ Indicate the number of shares outstanding of each of the
+issuer's classes of common stock, as of the latest practicable
+date: 19,782,521 as of January 9, 2004.
+
+PARK ELECTROCHEMICAL CORP.
+ AND SUBSIDIARIES
+
+ TABLE OF CONTENTS
+
+Page
+PART I. FINANCIAL INFORMATION: Number
+
+ Item 1. Financial Statements
+
+ Condensed Consolidated Balance Sheets
+ November 30, 2003 (Unaudited) and March
+ 2, 2003...................................... 3
+
+ Consolidated Statements of Operations
+ 13 weeks and 39 weeks ended November 30, 2003
+ and December 1, 2002 Unaudited............... 4
+
+ Condensed Consolidated Statements of Cash
+ Flows 39 weeks ended November 30, 2003
+ and December 1, 2003 (Unaudited)............. 5
+
+ Notes to Condensed Consolidated Financial
+ Statements (Unaudited)....................... 6
+
+ Item 2. Management's Discussion and Analysis of
+ Financial Condition and Results of
+ Operations................................... 13
+
+ Factors That May Affect Future Results....... 23
+
+ Item 3. Quantitive and Qualitative Disclosures About
+ Market Risk.................................. 23
+
+ Item 4. Controls and Procedures...................... 23
+
+PART II. OTHER INFORMATION:
+
+ Item 1. Legal Proceedings............................ 25
+
+ Item 6. Exhibits and Reports on Form 8-K............. 26
+
+SIGNATURES............................................... 27
+
+EXHIBIT INDEX............................................ 28
+
+PART I. FINANCIAL INFORMATION
+
+Item 1. Financial Statements.
+
+ PARK ELECTROCHEMICAL CORP.
+ AND SUBSIDIARIES
+
+ CONDENSED CONSOLIDATED BALANCE SHEETS
+ (Amounts in thousands)
+ 
+ November 30,
+ 2003 March 2,
+ (Unaudited) 2003 
+ 
+ASSETS
+Current assets:
+ Cash and cash equivalents 119,873 111,036
+ Marketable securities 62,948 51,899
+ Accounts receivable, net 33,593 30,272
+ Inventories (Note 2) 13,309 12,688
+ Prepaid expenses and other current
+ assets 4,268 4,690
+ --------- ---------
+ Total current assets 233,991 210,585
+
+Property, plant and equipment, net 87,198 90,503
+
+Other assets 527 454
+ --------- ---------
+ Total 321,716 301,542
+
+LIABILITIES AND STOCKHOLDERS' EQUITY
+Current liabilities:
+ Accounts payable 15,862 15,145
+ Accrued liabilities 31,848 21,790
+ Income taxes payable 4,385 3,376
+ --------- ---------
+ Total current liabilities 52,095 40,311
+
+Deferred income taxes 2,647 4,539
+
+Deferred pension liability 12,191 10,991
+
+Stockholders' equity:
+ Common stock 2,037 2,037
+ Additional paid-in capital 133,085 133,172
+ Retained earnings 125,525 117,506
+ Treasury stock, at cost (4,213) (4,582)
+ Accumulated other non-owner changes (1,651) (2,432)
+ --------- ---------
+ Total stockholders' equity 254,783 245,701
+ --------- ---------
+ Total 321,716 301,542
+ ========= =========
+ 
+ The balance sheet at March 2, 2003 has been derived from the
+audited financial statements at that date.
+
+See accompanying Notes to the Consolidated Financial
+Statements.
+
+PARK ELECTROCHEMICAL CORP.
+ AND SUBSIDIARIES
+ CONSOLIDATED STATEMENTS OF OPERATIONS
+ (Amounts in thousands, except per share amounts)
+
+ 13 Weeks Ended 39 Weeks Ended
+ (Unaudited) (Unaudited)
+ November 30, December 1, November 30, December 1,
+ 2003 2002 2003 2002
+ ------------ ----------- ------------ -----------
+ 
+Net sales 54,277 53,587 151,374 167,049
+
+Cost of sales 45,872 48,179 133,701 149,171
+ -------- -------- --------- ---------
+Gross profit 8,405 5,408 17,673 17,878
+
+Selling, general and
+ administrative expenses 8,319 6,608 22,080 22,603
+
+Litigation settlement gain - - (33,088) -
+ (Note 8 and 10)
+
+Restructuring and - 4,794 14,580 4,794
+severance charges (Note 4)
+
+Gain on sale of of UK
+real estate (Note 11) (429) - (429) -
+
+Gain on sale of DPI (Note 9) - - - (3,170)
+ ------- ------- ------- -------
+Income (loss)
+ from operations 515 (5,994) 14,530 (6,349)
+
+Interest and other income 708 824 2,205 2,537
+ ------- ------- ------- -------
+
+Earnings (loss) before
+ income taxes 1,223 (5,170) 16,735 (3,812)
+
+Income tax provision 238 134 5,163 541
+ ------- -------- -------- --------
+
+Net earnings (loss) 985 (5,304) 11,572 (4,353)
+ ------- -------- -------- --------
+Earnings (loss) per share
+ (Note 5):
+ Basic .05 (.27) .59 (.22)
+ Diluted .05 (.27) .58 (.22)
+
+Weighted average number
+ of common and common
+ equivalent shares
+ outstanding:
+ Basic 19,763 19,682 19,744 19,671
+ Diluted 20,083 19,682 19,932 19,671
+
+Dividends per share .06 .06 .18 .18
+ 
+See accompanying Notes to the Consolidated Financial Statements
+
+PARK ELECTROCHEMICAL CORP.
+ AND SUBSIDIARIES
+
+ CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS
+ (Amounts in thousands)
+ 
+ 39 Weeks Ended
+ (Unaudited)
+ ---------------------------
+ November 30, December 1,
+							 2003 2002
+ 
+Cash flows from operating activities:
+ Net earnings (loss) 11,572 (4,353)
+ Depreciation and amortization 8,998 13,620
+ Gain on sale of Dielectric
+ Polymers, Inc. - (3,170)
+ Gain on sale of fixed assets (429) -
+ Non cash restructuring charges - 2,150
+ Change in operating assets and liabilities 4,949 (214)
+ -------- --------
+Net cash provided by operating activities 25,090 8,461
+ -------- --------
+Cash flows from investing activities:
+ Purchases of property, plant and
+ equipment, net (3,750) (5,436)
+ Proceeds from the sale of Dielectric
+ Polymers, Inc. - 5,000
+ Proceeds from the sale of fixed assets 1,954 -
+ Purchases of marketable securities (67,676) (46,005)
+ Proceeds from sales and maturities
+ of marketable securities 56,627 39,558
+ -------- --------
+
+ Net cash used in investing activities (12,845) (6,883)
+ -------- --------
+Cash flows from financing activities:
+ Dividends paid (3,553) (3,507)
+ Proceeds from exercise of stock options 282 370
+ -------- --------
+ Net cash used in financing activities (3,271) (3,137)
+ -------- --------
+Change in cash and cash equivalents before
+ exchange rate changes 8,974 (1,559)
+
+Effect of exchange rate changes on cash
+ and cash equivalents (137) 667
+ -------- --------
+Change in cash and cash equivalents 8,837 (892)
+Cash and cash equivalents, beginning
+ of period 111,036 99,492
+ --------- ---------
+Cash and cash equivalents, end of period 119,873 98,600
+ ========= =========
+Supplemental cash flow information:
+ Cash paid during the period for income
+ taxes 5,471 1,400
+ 
+See accompanying Notes to the Consolidated Financial
+Statements.
+
+PARK ELECTROCHEMICAL CORP.
+ AND SUBSIDIARIES
+
+ NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+ (Unaudited)
+ (Amounts in thousands, except per share amounts)
+
+1. CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+
+ The condensed consolidated balance sheet as of November
+ 30, 2003, the consolidated statements of operations for
+ the 13 weeks and 39 weeks ended November 30, 2003 and
+ December 1, 2002, and the condensed consolidated
+ statements of cash flows for the 39 weeks then ended have
+ been prepared by the Company, without audit. In the
+ opinion of management, these unaudited condensed
+ consolidated financial statements contain all adjustments
+ (which include only normal recurring adjustments)
+ necessary to present fairly the financial position at
+ November 30, 2003 and the results of operations and cash
+ flows for all periods presented.
+
+ Certain information and footnote disclosures normally
+ included in financial statements prepared in accordance
+ with accounting principles generally accepted in the
+ United States have been condensed or omitted. It is
+ suggested that these condensed consolidated financial
+ statements be read in conjunction with the consolidated
+ financial statements and notes thereto included in the
+ Company's Annual Report on Form 10-K for the fiscal year
+ ended March 2, 2003.
+
+2. INVENTORIES
+
+ Inventories consisted of the following:
+
+November 30, March 2,
+ 2003 2003
+ 
+ Raw materials 4,285 4,072
+ Work-in-process 3,493 3,424
+ Finished goods 5,049 4,680
+ Manufacturing supplies 482 512
+ ------- -------
+ 13,309 12,688
+ ======= =======
+
+3. STOCK OPTIONS
+
+ As of November 30, 2003, the Company had two fixed
+ stock option plans. All options under the plans had an
+ exercise price equal to the market value of the
+ underlying common stock of the Company on the date of
+ grant. The Company continues to apply Accounting
+ Principles Board Opinion No. 25, "Accounting for Stock
+ Issued to Employees" (APB 25), and related
+ interpretations for the plans. If compensation costs of
+ the grants had been determined based upon the fair
+ market value at the grant dates consistent with the
+ FASB No. 123 "Accounting for Stock-Based Compensation",
+ the Company's net earnings and earnings per share would
+ have approximated the amounts shown below.
+
+13 weeks ended 39 weeks ended
+ ------------------------ ------------------------
+ November 30, December 1, November 30, December 1,
+ 2003 2002 2003 2002
+ 
+Net Earnings 985 (5,304) 11,572 (4,353)
+Deduct: Total stock-
+based employee
+compensation determined
+under fair value based
+method for all awards, 474 475 1,379 1,450
+net of tax effects ------ -------- -------- --------
+Pro forma net income (loss) 511 (5,779) 10,193 (5,803)
+ ====== ======== ======== ========
+EPS-basic as reported 0.05 (0.27) 0.59 (0.22)
+ ====== ======== ======== ========
+EPS-basic pro forma 0.03 (0.29) 0.52 (0.30)
+ ====== ======== ======== ========
+EPS-diluted as reported 0.05 (0.27) 0.58 (0.22)
+ ====== ======== ======== ========
+EPS-diluted pro forma 0.03 (0.29) 0.51 (0.30)
+ ====== ======== ======== ========
+
+4. REALIGNMENT AND SEVERANCE CHARGES
+
+ The Company recorded pre-tax charges of 8,076 during the
+ first quarter of fiscal year 2004 related to the closure
+ of the Company's mass lamination operation in Cologne,
+ Germany, the realignment of its North America FR-4
+ business operations in Newburgh, New York and Fullerton,
+ California and related workforce reductions and recorded
+ pre-tax charges of 6,504 during the second quarter of
+ fiscal year 2004 related to the realignment of its North
+ American FR-4 business operations.
+
+ The components of these charges and the related liability
+ balances and activity for the quarter ended November 30,
+ 2003 are set forth below.
+
+Charges 11/30/03
+ Closure Incurred Remaining
+ Charges or Paid Reversals Liabilities
+ ------- --------- --------- -----------
+ 
+Dielektra charges:
+ Severance payments 6,142 4,679 - 1,463
+
+NY/CA Realignment
+charges:
+ Lease payments, taxes,
+ utilities and other 7,292 475 - 6,817
+ Severance payments 1,146 1,146 - -
+ ------- ------ ---- ------
+ 14,580 6,300 - 8,280
+ ======= ====== ==== ======
+
+The severance payments are for the termination of hourly
+ and salaried, administrative, manufacturing and support
+ employees. Such employees were terminated during the 2004
+ fiscal year first, second and third quarters. The
+ severance payments have been paid, and are expected to
+ continue to be paid, to such employees in installments
+ during fiscal year 2004. The lease charges cover one lease
+ obligation payable through December 2004 and a portion of
+ another lease obligation payable through September 2013.
+
+ The Company recorded pre-tax charges of 4,674 and 120 in
+ the fiscal year 2003 third quarter ended December 1, 2002
+ in connection with the closure of its Nelco UK
+ manufacturing facility located in Skelmersdale, England
+ and severance costs at a North American business unit. The
+ components of these charges and the related liability
+ balances at November 30, 2003 are set forth below.
+
+Charges 11/30/03
+ Closure Incurred or Remaining
+ Charges Paid Reversals Liabilities
+ ------- ----------- --------- -----------
+ 
+United Kingdom charges:
+ Impairment of long
+ lived assets 1,993 1,993 - -
+
+ Severance payments
+ and related costs 1,997 1,997 - -
+
+ Utilities, maintenance,
+ taxes, other 684 684 - -
+ ------ ------ ---- ----
+ 4,674 4,674 - -
+Other severance payments
+ and related costs 120 120 - -
+ ------ ------ ---- ----
+ 4,794 4,794 - -
+ ====== ====== ==== ====
+
+The severance payments and related costs are for the
+ termination of hourly and salaried, administrative,
+ manufacturing and support employees, most of whom were
+ terminated during the 2003 fiscal year third and fourth
+ quarters, and the remainder of whom were terminated during
+ the 2004 fiscal year first, second and third quarters.
+ Severance payments and related costs for such terminated
+ employees (totaling 2,117) were paid during such
+ quarters.
+
+ As a result of the foregoing employee terminations and
+ other less significant employee terminations in connection
+ with business contractions and in the ordinary course of
+ business and employee resignations and retirements in the
+ ordinary course of business, the total number of employees
+ employed by the Company declined to approximately 1,240 as
+ of August 31, 2003 from approximately 1,490 as of March 2,
+ 2003. As a result of the Company's realignment of its
+ North American FR-4 business operations and the
+ concomitant workforce increase at the Company's California
+ facility and the increase in the Company's sales during
+ the 2004 fiscal year third quarter, the total number of
+ employees employed by the Company increased to
+ approximately 1,260 as of November 30, 2003.
+
+ 5. EARNINGS PER SHARE
+
+ Basic earnings per share is computed by dividing net
+ earnings by the weighted average number of shares of
+ common stock outstanding during the period. Diluted
+ earnings per share is computed by dividing net earnings by
+ the sum of (a) the weighted average number of shares of
+ common stock outstanding during the period and (b) the
+ potential common stock equivalents outstanding during the
+ period. Stock options are the only common stock
+ equivalents and are computed using the treasury stock
+ method.
+
+ The following table sets forth the basic and diluted
+ weighted average number of shares of common stock and
+ potential common stock equivalents outstanding during the
+ periods specified:
+
+13 weeks ended 39 weeks ended
+ ------------------------ ------------------------
+ November 30, December 1, November 30, December 1,
+ 2003 2002 2003 2002
+ 
+Weighted average
+ shares outstanding
+ for basic EPS 19,763 19,682 19,744 19,671
+
+Weighted average
+ shares outstanding
+ for diluted EPS 20,083 19,682 19,932 19,671
+
+Common stock equivalents, which were not included in the
+ computation of diluted earnings per share because either
+ the effect would have been antidilutive or the options'
+ exercise prices were greater than the average market price
+ of the common stock, were 57 and 448 for the thirteen
+ weeks ended November 30, 2003 and December 1, 2002,
+ respectively, and 191 and 471 for the thirty-nine weeks
+ ended November 30, 2003 and December 1, 2002,
+ respectively.
+
+6. BUSINESS SEGMENTS
+
+ The Company considers itself to operate in one business
+ segment. The Company's electronic materials products are
+ marketed primarily to leading independent printed circuit
+ board fabricators, electronic manufacturing service
+ companies, electronic contract manufacturers and major
+ electronic original equipment manufacturers ("OEMs")
+ located throughout North America, Europe and Asia. The
+ Company's advanced composite materials customers, the
+ majority of which are located in the United States, include
+ OEMs, independent firms and distributors in the electronics,
+ aerospace and industrial industries.
+
+ Sales are attributed to geographic region based upon the
+ region from which the materials were shipped to the
+ customer. Sales between geographic regions were not
+ significant.
+
+ Financial information concerning the Company's operations
+ by geographic area follow:
+
+13 Weeks Ended 39 Weeks Ended
+ ------------------------ ------------------------
+ November 30, December 1, November 30, December 1,
+ 2003 2002 2003 2002
+ 
+ Sales:
+ North America 26,793 28,505 76,659 91,832
+ Europe 12,755 14,396 35,587 41,265
+ Asia 14,729 10,686 39,128 33,952
+ ------- ------- -------- --------
+ Total sales 54,277 53,587 151,374 167,049
+ ======= ======= ======== ========
+
+November 30, March 2,
+ 2003 2003
+ 
+ Long-lived assets:
+ United States 39,936 44,425
+ Europe 26,233 25,373
+ Asia 21,556 21,159
+ ------- -------
+ Total long-lived assets 87,725 90,957
+ ======= =======
+
+7. COMPREHENSIVE INCOME
+
+ Total comprehensive income (loss) for the 13 weeks ended
+ November 30, 2003 and December 1, 2002 was 2,506 and
+ 5,208), respectively. Total comprehensive income (loss)
+ for the 39 weeks ended November 30, 2003 and December 1,
+ 2002 was 12,353 and 958), respectively. Comprehensive
+ income consisted primarily of net income and foreign
+ currency translation adjustments and unrealized gains and
+ losses on marketable securities.
+
+8. SALE OF NELCO TECHNOLOGY, INC.
+
+ During the Company's 1998 fiscal year and for several
+ years prior thereto, more than 10 of the Company's total
+ worldwide sales were to Delco Electronics Corporation, a
+ subsidiary of General Motors Corp., and the Company's
+ wholly owned subsidiary, Nelco Technology, Inc. ("NTI")
+ located in Tempe, Arizona, had been Delco's principal
+ supplier of semi-finished multilayer printed circuit board
+ materials, commonly known as mass lamination, which were
+ used by Delco to produce finished multilayer printed
+ circuit boards. However, in March 1998, the Company was
+ informed by Delco that Delco planned to close its printed
+ circuit board fabrication plant and exit the printed
+ circuit board manufacturing business. As a result, the
+ Company's sales to Delco declined during the three-month
+ period ended May 31, 1998, were negligible during the
+ remainder of the 1999 fiscal year and have been nil in
+ subsequent years.
+
+ After March 1998, the business of NTI languished and its
+ performance was unsatisfactory due primarily to the
+ absence of the unique, high-volume, high-quality business
+ that had been provided by Delco Electronics and the
+ absence of any other customer in the North American
+ electronic materials industry with a similar demand for
+ the large volumes of semi-finished multilayer printed
+ circuit board materials that Delco purchased from NTI.
+ Although NTI's business experienced a resurgence in the
+ 2001 fiscal year as the North American market for printed
+ circuit materials became extremely strong and demand
+ exceeded supply for the electronic materials manufactured
+ by NTI, the Company's internal expectations and
+ projections for the NTI business were for continuing
+ volatility in the business' performance over the
+ foreseeable future. Consequently, the Company commenced
+ efforts to sell the business in the second half of its
+ 2001 fiscal year; and in April 2001, the Company sold the
+ assets and business of NTI and closed a related support
+ facility, also located in Tempe, Arizona. As a result of
+ this sale, the Company exited the mass lamination business
+ in North America.
+
+ In connection with the sale of NTI and the closure of the
+ related support facility, the Company recorded non-
+ recurring, pre-tax charges of 15,707 in its fiscal year
+ 2002 first quarter ended May 27, 2001. The components of
+ these charges and the related liability balances and
+ activity from the May 27, 2001 balance sheet date to the
+ November 30, 2003 balance sheet date are set forth below:
+
+Charges 11/30/03
+ Closure Incurred or Remaining
+ Charges Paid Reversals Liabilities
+ ------- ----------- --------- -----------
+ 
+NTI charges:
+ Loss on sale of assets
+ and busines 10,580 10,580 - -
+ Severance payments 387 387 - -
+ Medical and other costs 95 95 - -
+
+Support facility charges:
+ Impairment of long
+ lived assets 2,058 2,058 - -
+ Write down of accounts
+ receivable 350 319 31 -
+Write down of inventory 590 590 - -
+ Severance payments 688 688 - -
+ Medical and other costs 133 133 - -
+ Lease payments, taxes,
+ utilities, maintenance 781 458 - 323
+ Other 45 45 - -
+ ------- ------- --- ----
+ 15,707 15,353 31 323
+ ======= ======= === ====
+
+The severance payments and medical and other costs
+ incurred in connection with the sale of NTI and the
+ closure of the related support facility were for the
+ termination of hourly and salaried, administrative,
+ manufacturing and support employees, all of whom were
+ terminated during the first and second fiscal quarters
+ ended May 27, 2001 and August 26, 2001, respectively, and
+ substantially all of the severance payments and related
+ costs for such terminated employees (totaling 1,303) were
+ paid during such quarters. The lease obligations will be
+ paid through August 2004 pursuant to the related lease
+ agreements.
+
+9. SALE OF DIELECTRIC POLYMERS, INC.
+
+ On June 27, 2002, the Company sold its Dielectric
+ Polymers, Inc. subsidiary to Adhesive Applications, Inc.
+ of Easthampton, Massachusetts. The Company recorded a
+ gain of approximately 3.2 million in its fiscal year 2003
+ second quarter ended September 1, 2002 in connection with
+ the sale.
+
+10. LITIGATION SETTLEMENT
+
+ The United States District Court for the District of
+ Arizona has entered final judgment in favor of the
+ Company's subsidiary, Nelco Technology, Inc., in its
+ lawsuit against Delco Electronics Corporation, a
+ subsidiary of Delphi Automotive Systems Corporation, on
+ Nelco's claim for breach of the implied covenant of good
+ faith and fair dealing. As a result, the Company
+ received a net amount of 33 million from Delco on July 1,
+ 2003 in settlement of the lawsuit.
+
+11. SALE OF UK REAL ESTATE
+
+ During the third quarter of fiscal year 2004, the Company
+ sold real estate previously used by its Nelco UK
+ subsidiary, which has ceased operations. As a result, the
+ company recorded a pre-tax gain of 429.
+
+Item 2. Management's Discussion and Analysis of Financial
+ Condition and Results of Operations.
+
+General:
+
+ Park is a leading global designer and producer of advanced
+electronic materials used to fabricate complex multilayer
+printed circuit boards and other electronic interconnect
+systems. The Company's customers include leading independent
+printed circuit board fabricators, electronic manufacturing
+service companies, electronic contract manufacturers and major
+electronic original equipment manufacturers in the computer,
+telecommunications, transportation, aerospace and
+instrumentation industries.
+
+ The Company's sales increased slightly in the three-month
+period ended November 30, 2003 compared with last fiscal year's
+comparable period principally as a result of continuing
+increases in sales of the Company's advanced technology
+products and sales by the Company's operations in Asia, while
+the Company's sales declined in the nine-month period ended
+November 30, 2003 compared with last fiscal year's comparable
+period as a result of declines in sales by the Company's North
+American and European operations.
+
+ The earnings growth that the Company achieved during its
+2001 and 2000 fiscal years halted in the 2002 fiscal year as a
+result of a severe downturn in the global electronics industry,
+and the industry continued to be very depressed throughout the
+2003 fiscal year and during the 2004 fiscal year first and
+second quarters.
+
+ The electronics industry began to improve slightly at the
+end of the 2004 fiscal year second quarter and continued to
+improve in the third quarter, and there exist some indications
+that the improvement will continue. However, it is not
+completely clear whether and to what degree the improvement is
+sustainable. The Company's advanced electronic materials
+business and its business unit in Singapore, which serves the
+Asian electronic materials markets, performed reasonably well
+during the three-month and nine-month periods ended November
+30, 2003, while the Company's higher-volume FR-4 business units
+in Europe and North America performed poorly.
+
+ During the three months ended November 30, 2003, the
+Company opened a facility at its advanced products business
+unit in Arizona that had been constructed in its 2002 fiscal
+year and that is now being well utilized, continued the
+construction of its facility expansion in Singapore and
+proceeded with its final planning for the installation of a new
+manufacturing facility in China.
+
+ During the six months ended August 31, 2003, the Company
+realigned its North American FR-4 business operations located
+in New York and California. As part of the realignment, the New
+York operation was scaled down to a smaller focused operation
+and the California operation was scaled up to a larger volume
+operation, and there were significant workforce reductions at
+the Company's New York facility and significant workforce
+increases at the Company's California facility, with the end
+result being a net reduction in the Company's workforce in
+North America. A large portion of the New York facility was
+mothballed, and the Company will have the flexibility in the
+future to scale back up the Newburgh, New York facility if the
+opportunity to do so presents itself. The realignment was
+designed to help the Company achieve improved operating and
+cost efficiencies in its North American FR-4 business and to
+help the Company best service all of its North American
+customers.
+
+ In the Company's 2004 fiscal year first quarter, Dielektra
+GmbH, the Company's advanced electronic materials business
+located in Cologne, Germany, closed its mass lamination
+operation. Dielektra's mass lamination operation supplied
+higher-end mass lamination products to European circuit board
+manufacturers. However, the market for these products in
+Europe had eroded to the point where the Company no longer
+believed it was possible to operate a viable mass lamination
+business in Europe, and the Company did not believe that, at
+any time in the foreseeable future, the higher-end European
+mass lamination market would recover to the extent necessary to
+justify the Company's operating a mass lamination business in
+Europe. As a result of the closure of its mass lamination
+operation, Dielektra's manufacturing operations consist
+exclusively of high technology treating and Dielektra's
+proprietary DatlamT automated continuous laminate
+manufacturing. The Company is continuing to review its FR-4
+manufacturing operations in Europe.
+
+ As a result of the Company's realignment of its North
+American FR-4 business operations and closure of Dielektra's
+mass lamination operation in Germany and related workforce
+reductions, the Company recorded pre-tax charges totaling 8.1
+million in the Company's 2004 fiscal year first quarter, and
+the Company recorded additional pre-tax charges of 6.5 million
+in the 2004 fiscal year second quarter due to such realignment.
+The Company also recorded a pre-tax gain of 0.4 million in the
+2004 fiscal year third quarter resulting from the sale of real
+estate previously used by its Nelco UK subsidiary, which ceased
+operations after its closure in the 2003 fiscal year third
+quarter. See Note 4 of the Notes to Consolidated Financial
+Statements in Item 1 of Part I of this Report for additional
+information regarding the realignment and closures.
+
+ During the Company's 1998 fiscal year and for several
+years prior thereto, more than 10 of the Company's total
+worldwide sales were to Delco Electronics Corporation, a
+subsidiary of General Motors Corp.("Delco"), and the Company's
+wholly owned subsidiary, Nelco Technology, Inc. ("NTI") located
+in Tempe, Arizona, had been Delco's principal supplier of semi-
+finished multilayer printed circuit board materials, commonly
+known as mass lamination, which were used by Delco to produce
+finished multilayer printed circuit boards. However, in March
+1998, the Company was informed by Delco that Delco planned to
+close its printed circuit board fabrication plant and exit the
+printed circuit board manufacturing business. As a result, the
+Company's sales to Delco declined during the three-month period
+ended May 31, 1998, were negligible during the remainder of the
+1999 fiscal year and have been nil since that time.
+
+ In May 1998, the Company and NTI filed a complaint against
+Delco and the Delphi Automotive Systems unit of General Motors
+Corp. in the United States District Court for the District of
+Arizona. The complaint alleged, among other things, that Delco
+breached its contract to purchase semi-finished multilayer
+printed circuit boards from NTI and that Delphi interfered with
+NTI's contract with Delco, that Delco breached the covenant of
+good faith and fair dealing implied in the contract, that Delco
+engaged in negligent misrepresentation and that Delco
+fraudulently induced NTI to enter into the contract. In
+November 2000, a jury awarded damages to NTI in the amount of
+ 32.3 million, and in December 2000 the judge in the United
+States District Court for the District of Arizona entered
+judgment for NTI on its claim of breach of the implied covenant
+of good faith and fair dealing with damages in the amount of
+ 32.3 million. Both parties appealed the decision to the United
+States Court of Appeals for the Ninth Circuit in San Francisco;
+and in May 2003, a panel of three judges in the Court of
+Appeals for the Ninth Circuit rendered a unanimous decision
+affirming the jury verdict. In June 2003, the United States
+District Court for the District of Arizona entered final
+judgment in favor of NTI; and, on July 1, 2003, NTI received a
+net amount of 33.1 million in payment of such judgment. The
+Company recorded a non-recurring, pre-tax gain of 33.1 million
+in the 2004 fiscal year second quarter related to such payment.
+See Item 1 of Part II of this Report for additional information
+regarding the lawsuit against Delco.
+
+ The Company is not engaged in any related party
+transactions involving relationships or transactions with
+persons or entities that derive benefits from their non-
+independent relationship with the Company or the Company's
+related parties, or in any transactions with parties with whom
+the Company or its related parties have a relationship that
+enables the parties to negotiate terms of material transactions
+that may or would not be available from other, more clearly
+independent parties on an arm's-length basis, or in any trading
+activities involving non-exchange traded commodity or other
+contracts that are accounted for at fair value or otherwise or
+in any energy trading or risk management activities, other than
+certain limited foreign currency contracts intended to hedge
+the Company's contractual commitments to pay certain
+obligations or to realize certain receipts in foreign
+currencies and certain limited energy purchase contracts
+intended to protect the Company from increased utilities costs.
+
+ The Company believes that an evaluation of its ongoing
+operations would be difficult if the disclosure of its
+financial results were limited to generally accepted accounting
+principles ("GAAP") financial measures. Accordingly, in
+addition to disclosing its financial results determined in
+accordance with GAAP, the Company discloses non-GAAP operating
+results that exclude certain items in order to assist its
+shareholders and other readers in assessing the Company's
+operating performance. Such non-GAAP financial measures are
+provided to supplement the results provided in accordance with
+GAAP.
+
+Three and Nine Months Ended November 30, 2003 Compared with
+Three and Nine Months Ended December 1, 2002:
+
+ The Company's operations generated a modest profit during
+the three months ended November 30, 2003 as a result of a small
+increase in net sales and a significant improvement in its
+gross profit margin resulting from higher percentages of sales
+of higher margin, advanced technology products and reduced
+costs compared to last years comparable three-month period, and
+the Company reported net earnings of 985 thousand for the
+three-month period after a pre-tax gain of 429 thousand on the
+sale of real estate previously used by its Nelco UK subsidiary
+which has ceased operations. However, during the nine-months
+ended November 30, 2003, the Company's operations generated a
+loss, despite an improvement in the Company's gross profit
+margin, as the markets for sophisticated printed circuit
+materials continued to experience depressed conditions during
+the 2004 fiscal year first and second quarters. For the nine
+months ended November 30, 2003, the Company reported net
+earnings of 11.6 million after the gain on the sale of the UK
+real estate, after a pre-tax gain of 33.1 million related to
+the payment by Delco Electronics Corporation of the judgment
+against it in favor of the Company's subsidiary, Nelco
+Technology, Inc., in the lawsuit against Delco, and after pre-
+tax charges totaling 14.6 million related to the realignment
+of the Company's North American FR-4 business operations and
+the closure of Dielektra's mass lamination operation in Germany
+and related workforce reductions.
+
+ While the Company's gross profit in the nine months ended
+November 30, 2003 was slightly lower than its gross profit in
+the prior fiscal year's first nine months, its gross profit in
+the 2004 fiscal year third quarter was substantially higher
+than the gross profit in the prior year's comparable quarter as
+a result of the Company's reductions of its costs and expenses
+and higher percentages of sales of higher margin, advanced
+technology products. These changes in gross profits were
+despite lower levels of sales of electronic materials in the
+nine months ended November 30, 2003 and only slightly increased
+sales in the third quarter, operating inefficiencies resulting
+from operating certain facilities at levels below their
+designed manufacturing capacities and from the Company's
+realignment of it North American FR-4 business operations, and
+competitive pressures.
+
+ In addition to its depressed financial results of
+operations, the Company recorded pre-tax charges of 8.1
+million in the 2004 fiscal year first quarter related to the
+Company's realignment of its North American FR-4 business
+operations, the closure of Dielektra's mass lamination
+operation and related workforce reductions and pre-tax charges
+of 6.5 million in the 2004 fiscal year second quarter related
+to such realignment.
+
+ Operating results of the Company's advanced composite
+materials business were essentially the same for the three-
+month and nine-month periods ended November 30, 2003 as they
+were for the comparable periods in the 2003 fiscal year, but
+such results improved sequentially during the 2004 fiscal year
+first, second and third quarters due primarily to improved
+profit margins resulting from a more favorable product mix from
+quarter to quarter.
+
+ Results of Operations
+
+ Net sales for the three-month period ended November 30,
+2003 increased 1 to 54.3 million from 53.6 million for last
+year's third quarter, while net sales for the nine-month period
+ended November 30, 2003 declined 9 to 151.4 million from
+ 167.0 million for last fiscal year's comparable period. The
+increase in net sales during the third quarter was the result
+of increased sales of the Company's advanced technology
+products and increased sales by the Company's operations in
+Asia, which were partially offset by decreased sales by the
+Company's operations in Europe and North America. The decline
+in net sales during the nine months ended November 30, 2003 was
+the result of lower sales by the Company's operations in Europe
+and North America, which were only slightly offset by higher
+sales by the Company's operations in Asia.
+
+ The Company's foreign operations accounted for 27.5
+million and 74.7 million, respectively, of net sales, or 51 
+and 49 of the Company's total net sales worldwide, during the
+three-month and nine-month periods ended November 30, 2003
+compared with 25.1 million and 75.2 million, respectively, of
+net sales, or 47 and 45 , respectively, of total net sales
+worldwide, during last fiscal year's comparable periods. Net
+sales by the Company's foreign operations during the three-
+month period ended November 30, 2003 increased 10 from the
+2003 fiscal year comparable period, while net sales by the
+Company's foreign operations during the nine-month period ended
+November 30, 2003 declined about 1 . The increase in net sales
+by foreign operations during the third quarter was due to
+increased sales by the Company's operations in Asia, which were
+partially offset by decreased sales by the Company's operations
+in Europe. The decline in net sales by foreign operations
+during the nine months ended November 30, 2003 was due to a
+decrease in sales by the Company's operations in Europe, which
+resulted from decreases in sales by the Company's FR-4
+operations and the Company's closure of its UK facility in the
+fourth quarter of its 2003 fiscal year.
+
+ The overall gross profit as a percentage of net sales for
+the Company's worldwide operations improved to 15.5 and 11.7 ,
+respectively, for the three months and nine months ended
+November 30, 2003 compared with 10.1 and 10.7 for last fiscal
+year's comparable periods. The increases in the gross profit
+were the result of higher percentages of sales of higher
+margin, advanced technology products and decreases in the
+Company's cost of sales.
+
+ The Company's cost of sales decreased significantly
+compared to the comparable periods in the prior fiscal year due
+to personnel reductions and cost savings resulting from the
+Company's realignment of its North American FR-4 business,
+other cost reduction measures implemented by the Company,
+including workforce reductions and the reduction of overtime,
+and lower production volumes during the first and second
+quarters of the 2004 fiscal year. In addition, the Company
+continued to implement an annual salary freeze for significant
+numbers of salaried employees, especially senior management
+employees, and paid no performance bonuses or significantly
+reduced bonuses and other incentives.
+
+ Selling, general and administrative expenses increased by
+ 1.7 million, or by 26 , during the three-month period ended
+November 30, 2003 compared with last fiscal year's comparable
+period, but declined 0.5 million, or by 2 , during the nine-
+month period ended November 30, 2003, and these expenses,
+measured as a percentage of sales, were 15.3 and 14.6 ,
+respectively, during the three-month and nine-month periods
+ended November 30, 2003 compared with 12.3 and 13.5 ,
+respectively, during last fiscal year's comparable periods.
+Notwithstanding the decrease in selling, general and
+administrative expenses in dollar terms, the increase in the
+expenses as percentages of sales in the nine months ended
+November 30, 2003 resulted from proportionately lower sales
+compared to the comparable periods in the last fiscal year.
+These expenses increased in the 2004 fiscal year third quarter
+compared to the 2003 fiscal year third quarter as a result of
+shipping costs incurred by the Company to meet its customers'
+customized manufacturing and quick-turn-around requirements.
+
+ The Company recorded a pre-tax gain of 0.4 million in the
+2004 fiscal year third quarter resulting from the sale of real
+estate in Skelmersdale, England previously used by its Nelco UK
+subsidiary, which ceased operations after its closure in the
+2003 fiscal year third quarter, and a pre-tax gain of 33.1
+million during the 2004 fiscal year second quarter related to
+the payment by Delco Electronics Corporation of the judgment
+against Delco in favor of the Company's subsidiary, Nelco
+Technology, Inc., in its lawsuit against Delco. The Company
+also recorded pre-tax charges totaling 8.1 million, and after-
+tax charges totaling 7.4 million, in the 2004 fiscal year
+first quarter in connection with the realignment of its North
+American FR-4 business operations, the closure of Dielektra's
+mass lamination operation in Germany and related workforce
+reductions and recorded additional pre-tax charges of 6.5
+million, and after-tax charges of 4.9 million, in the 2004
+fiscal year second quarter due to such realignment.
+
+ The Company recorded pre-tax charges of 4.8 million in
+the 2003 fiscal year third quarter in connection with the
+closure of its Nelco UK manufacturing facility in Skelmersdale,
+England and severance costs at a North American business unit;
+and the Company recorded a pre-tax gain of 3.2 million in the
+2003 fiscal year second quarter in connection with the sale of
+its Dielectric Polymers, Inc. ("DPI") subsidiary in June 2002
+for 5.0 million cash.
+
+ For the reasons set forth above, income from operations
+was 0.5 million for the three months ended November 30, 2003,
+including the pre-tax gain described above resulting from the
+sale of real estate in England, compared with a loss from
+operations of 6.0 million for the three months ended December
+1, 2002, including the pre-tax charges described above relating
+to the closure of the Nelco UK manufacturing facility and
+severance costs at a North American business unit, and income
+from operations was 14.5 million for the nine months ended
+November 30, 2003, including the pre-tax gains described above
+resulting from the sale of real estate in England and the
+payment by Delco Electronics Corporation of the judgment
+against it in favor of the Company's subsidiary, Nelco
+Technology, Inc., in Nelco's lawsuit against Delco and the pre-
+tax charges described above related to the realignment of the
+Company's North American FR-4 business operations, the closure
+of Dielektra's mass lamination operation and related workforce
+reductions, compared with a loss from operations of 6.3
+million for the nine months ended December 1, 2002, including
+the pre-tax charges described above relating to the closure of
+the Nelco UK manufacturing facility and severance costs at a
+North American business unit and the pre-tax gain described
+above relating to the sale of DPI. Excluding the pre-tax gains
+and the pre-tax charges described above, the Company reported
+income from operations of 0.1 million and a loss from
+operations of 4.4 million, respectively, for the three months
+and nine months ended November 30, 2003 compared with losses of
+ 1.2 million and 4.7 million, respectively, for the three
+months and nine months ended December 1, 2002.
+
+ Interest and other income, net, principally investment
+income, was 0.7 million and 2.2 million, respectively, for
+the three-month and nine-month periods ended November 30, 2003
+compared with 0.8 million and 2.5 million, respectively, for
+last fiscal year's comparable periods. The decreases in
+investment income were attributable to declines in prevailing
+interest rates. The Company's investments were primarily short-
+term taxable instruments.
+
+ The Company's effective income tax rates for continuing
+operations, excluding the pre-tax gains and the pre-tax charges
+described above, for the three-month and nine-month periods
+ended November 30, 2003 were 30.0 compared with the same rates
+for the three-month and nine-month periods ended December 1,
+2002. The effective income tax rates on earnings, including the
+pre-tax gains and the pre-tax charges, were 19.5 and 30.9 for
+the three months and nine months ended November 30, 2003,
+principally as a result of the tax impact of the gain on the
+Delco litigation payment, compared with negative rates of 2.6 
+and 14.2 principally as a result of the tax impact of the
+realignment and closure charges for the three-month and nine-
+month periods ended December 1, 2002.
+
+ For the reasons set forth above, net earnings for the
+three-month period ended November 30, 2003, including the pre-
+tax gain described above resulting from the sale of real estate
+in England, were 1.0 million compared with a net loss of 5.3
+million for the three-month period ended December 1, 2002,
+including the pre-tax charges described above relating to the
+closure of the Nelco U.K. manufacturing facility and severance
+costs at a North American business unit, and net earnings for
+the nine-month period ended November 30, 2003 were 11.6
+million, including the pre-tax gains described above resulting
+from the sale of real estate in England and the payment by
+Delco Electronics Corporation of the judgment in favor of the
+Company's subsidiary, Nelco Technology, Inc., and the pre-tax
+charges described above related to the realignment of the
+Company's North American FR-4 business operations, the closure
+of Dielektra's mass lamination operation and related workforce
+reductions, compared with a net loss of 4.4 million for the
+nine-month period ended December 1, 2002, including the pre-tax
+charges described above relating to the closure of the Nelco UK
+manufacturing facility and severance costs at a North American
+business unit and the pre-tax gain described above related to
+the sale of DPI. Excluding the pre-tax gains and the pre-tax
+charges described above, the Company reported net earnings of
+ 0.6 million and a net loss of 1.5 million, respectively, for
+the three-month and nine-month periods ended November 30, 2003,
+compared with net losses of 0.3 million and 1.5 million,
+respectively, for the three-month and nine-month periods ended
+December 1, 2002.
+
+ Basic and diluted earnings per share, including the pre-
+tax gains and charges described above, were 0.05 for the three-
+month period ended November 30, 2003 and 0.59 and 0.58,
+respectively, for the nine-month period ended November 30,
+2003, compared to basic and diluted losses per share of 0.27
+and 0.22, respectively, for the three-month and nine-month
+periods ended December 1, 2002, including the pre-tax gain and
+pre-tax charges described above. Excluding the pre-tax gains
+and charges described above, basic and diluted earnings per
+share were 0.03 for the three months ended November 30, 2003
+and basic and diluted losses per share were 0.08 for the nine
+months ended November 30, 2003, compared to basic and diluted
+per share losses, excluding the pre-tax gain and pre-tax
+charges for the prior year's comparable periods, of 0.01 and
+ 0.08, respectively.
+
+Liquidity and Capital Resources:
+
+ At November 30, 2003, the Company's cash and temporary
+investments were 182.8 million compared with 162.9 million at
+March 2, 2003, the end of the Company's 2003 fiscal year. The
+increase in the Company's cash and investments at November 30,
+2003 was attributable to cash received from Delco Electronics
+Corporation in payment of the judgment in favor of the
+Company's subsidiary, Nelco Technology, Inc., in its lawsuit
+against Delco. The Company's working capital (which includes
+cash and temporary investments) was 181.9 million at November
+30, 2003 compared with 170.3 million at March 2, 2003. The
+increase in working capital at November 30, 2003 compared with
+March 2, 2003 was due principally to the increases in cash and
+temporary investments and accounts receivable, which were only
+partially offset by increases in accrued liabilities and income
+taxes payable. The increase in accounts receivable was due to
+increased sales, and the increase in accrued liabilities was
+due to the provision for charges related to the Company's
+realignment of its North American FR-4 business operations. The
+Company's current ratio (the ratio of current assets to current
+liabilities) was 4.5 to 1 at November 30, 2003 compared to 5.2
+to 1 at March 2, 2003.
+
+ During the nine-months ended November 30, 2003, cash used
+in the Company's operating activities, including 5.9 million
+paid as severance in connection with workforce reductions, was
+significantly enhanced by the 33.1 million that the Company
+received on July 1, 2003 from Delco Electronics Corporation in
+settlement of the lawsuit by the Company's subsidiary, Nelco
+Technology, Inc., against Delco, resulting in 25.1 million of
+cash provided from operating activities. See Notes 8 and 10 of
+the Notes to Consolidated Financial Statements in Item 1 of
+Part I of this Report and Item 1 of Part II of this Report for
+additional information regarding the lawsuit. During the same
+nine-month period, the Company expended 3.8 million for the
+purchase of property, plant and equipment compared with 5.4
+million for the nine-month period ended December 1, 2002 and
+paid 3.6 million in dividends on its common stock during the
+nine months ended November 30, 2003 compared with 3.5 million
+during the nine months ended December 1, 2002.
+
+ At November 30, 2003, the Company had no long-term debt.
+The Company believes its financial resources will be
+sufficient, for the foreseeable future, to provide for
+continued investment in working capital and property, plant and
+equipment and for general corporate purposes. Such resources
+would also be available for purchases of the Company's common
+stock, appropriate acquisitions and other expansions of the
+Company's business.
+
+ The Company is not aware of any circumstances or events
+that are reasonably likely to occur that could materially
+affect its liquidity.
+
+ The Company's liquidity is not dependent on the use of,
+and the Company is not engaged in, any off-balance sheet
+financing arrangements, such as securitization of receivables
+or obtaining access to assets through special purpose entities.
+
+ The Company's contractual obligations and other commercial
+commitments to make future payments under contracts, such as
+lease agreements, consist only of operating lease commitments.
+The Company has no long-term debt, capital lease obligations,
+unconditional purchase obligations or other long-term
+obligations, standby letters of credit, guarantees, standby
+repurchase obligations or other commercial commitments or
+contingent commitments, other than a standby letter of credit
+in the amount of 1,728,000 to secure the Company's obligations
+under its workers' compensation insurance program.
+
+Environmental Matters:
+
+ In the nine-month periods ended November 30, 2003 and
+December 1, 2002 the Company charged less than 0.1 million
+against pretax income for environmental remedial response and
+voluntary cleanup costs (including legal fees). While annual
+expenditures have generally been constant from year to year and
+may increase over time, the Company expects it will be able to
+fund such expenditures from available cash. The timing of
+expenditures depends on a number of factors, including
+regulatory approval of cleanup projects, remedial techniques to
+be utilized and agreements with other parties. At November 30,
+2003 and March 2, 2003, the recorded liabilities in accrued
+liabilities for environmental matters were approximately 4.3
+million and 4.2 million, respectively. Management does not
+expect that environmental matters will have a material adverse
+effect on the liquidity, capital resources, business,
+consolidated results of operations or consolidated financial
+position of the Company.
+
+Critical Accounting Policies and Estimates:
+
+ In response to financial reporting release, FR-60,
+"Cautionary Advice Regarding Disclosure About Critical
+Accounting Policies", issued by the Securities and Exchange
+Commission in December 2001, the following information is
+provided regarding critical accounting policies that are
+important to the Consolidated Financial Statements and that
+entail, to a significant extent, the use of estimates,
+assumptions and the application of management's judgment.
+
+ General
+
+ The Company's discussion and analysis of its financial
+condition and results of operations are based upon the
+Company's consolidated financial statements, which have been
+prepared in accordance with accounting principles generally
+accepted in the United States. The preparation of these
+financial statements requires the Company to make estimates,
+assumptions and judgments that affect the reported amounts of
+assets, liabilities, revenues and expenses and the related
+disclosure of contingent liabilities. On an on-going basis, the
+Company evaluates its estimates, including those related to
+sales allowances, bad debts, inventories, valuation of long-
+lived assets, income taxes, restructuring, pensions and other
+employee benefit programs, and contingencies and litigation.
+The Company bases its estimates on historical experience and on
+various other assumptions that are believed to be reasonable
+under the circumstances, the results of which form the basis
+for making judgments about the carrying values of assets and
+liabilities that are not readily apparent from other sources.
+Actual results may differ from these estimates under different
+assumptions or conditions.
+
+ The Company believes the following critical accounting
+policies affect its more significant judgments and estimates
+used in the preparation of its consolidated financial
+statements.
+
+ Sales Allowances
+
+ The Company provides for the estimated costs of sales
+allowances at the time such costs can be reasonably estimated.
+The Company is focused on manufacturing the highest quality
+electronic materials and other products possible and employs
+stringent manufacturing process controls and works with raw
+material suppliers who have dedicated themselves to complying
+with the Company's specifications and technical requirements.
+However, if the quality of the Company's products declines, the
+Company may incur higher sales allowances.
+
+ Bad Debt
+
+ The Company maintains allowances for doubtful accounts for
+estimated losses resulting from the inability of its customers
+to make required payments. If the financial condition of the
+Company's customers deteriorates, resulting in an impairment of
+their ability to make payments, additional allowances may be
+required.
+
+ Inventory
+
+ The Company writes down its inventory for estimated
+obsolescence or unmarketability based upon the age of the
+inventory and assumptions about future demand for the Company's
+products and market conditions. If actual demand or market
+conditions are less favorable than those projected by
+management, additional inventory write-downs may be required.
+
+ Valuation of Long-lived Assets
+
+ The Company assesses the impairment of long-lived assets
+whenever events or changes in circumstances indicate that the
+carrying value of such assets may not be recoverable. Important
+factors that could trigger an impairment review include, but
+are not limited to, significant negative industry or economic
+trends and significant changes in the use of the Company's
+assets or strategy of the overall business.
+
+ Income Taxes
+
+ The carrying value of the Company's net deferred tax
+assets assumes that the Company will be able to generate
+sufficient future taxable income in certain tax jurisdictions,
+based on estimates and assumptions. If these estimates and
+assumptions change in the future, the Company may be required
+to record additional valuation allowances against its deferred
+tax assets, resulting in additional income tax expense in the
+Company's consolidated statement of operations. Management
+evaluates the realizability of the deferred tax assets
+quarterly and assesses the need for additional valuation
+allowances quarterly.
+
+ Restructuring
+
+ During the fiscal year ended March 2, 2003, the Company
+recorded significant charges in connection with the realignment
+of its North American FR-4 business operations, the closures of
+its mass lamination operation in Germany and its manufacturing
+facility in England and employee severance costs at a North
+American business unit; during the three-month period ended
+June 1, 2003, the Company recorded additional significant
+charges in connection with the realignment of its North
+American FR-4 business operations, the closure of its mass
+lamination operation in Germany and related employee severance
+costs; and during the three-month period ended August 31, 2003,
+the Company recorded additional significant charges in
+connection with the realignment of its North American FR-4
+business operations. During the fiscal year ended March 3,
+2002, the Company recorded significant charges in connection
+with the restructuring relating to the sale of Nelco
+Technology, Inc., the closure of a related support facility and
+the realignment of Dielektra, GmbH. These charges include
+estimates pertaining to employee separation costs and the
+settlements of contractual obligations resulting from the
+Company's actions. Although the Company does not anticipate
+significant changes, the actual costs incurred by the Company
+may differ from these estimates.
+
+ Contingencies and Litigation
+
+ The Company is subject to a small number of proceedings,
+lawsuits and other claims related to environmental, employment,
+product and other matters. The Company is required to assess
+the likelihood of any adverse judgments or outcomes in these
+matters as well as potential ranges of probable losses. A
+determination of the amount of reserves required, if any, for
+these contingencies is made after careful analysis of each
+individual issue. The required reserves may change in the
+future due to new developments in each matter or changes in
+approach such as a change in settlement strategy in dealing
+with these matters.
+
+ Pension and Other Employee Benefit Programs
+
+ One of the Company's subsidiaries in Europe has
+significant pension costs that are developed from actuarial
+valuations. Inherent in these valuations are key assumptions
+including discount rates and wage inflation rates. The Company
+is required to consider current market conditions, including
+changes in interest rates and wage costs, in selecting these
+assumptions. Changes in the related pension costs may occur in
+the future in addition to changes resulting from fluctuations
+in the Company's related headcount due to changes in the
+assumptions.
+
+ The Company's obligations for workers' compensation claims
+and employee-health care benefits are effectively self-insured.
+The Company uses an insurance company administrator to process
+all such claims and benefits. The Company accrues its workers'
+compensation liability based upon the claim reserves
+established by the third-party administrator and historical
+experience. The Company's employee health insurance benefit
+liability is based on its historical claims experience.
+
+ The Company and certain of its subsidiaries have a non-
+contributory profit sharing retirement plan covering their
+regular full-time employees. In addition, the Company's
+subsidiaries have various bonus and incentive compensation
+programs, most of which are determined at management's
+discretion.
+
+ The Company's reserves associated with these self-insured
+liabilities and benefit programs are reviewed by management for
+adequacy at the end of each reporting period.
+
+Factors that May Affect Future Results.
+
+ Certain portions of this Report which do not relate to
+historical financial information may be deemed to constitute
+forward-looking statements that are subject to various factors
+which could cause actual results to differ materially from
+Park's expectations or from results which might be projected,
+forecast, estimated or budgeted by the Company in forward-
+looking statements. Such factors include, but are not limited
+to, general conditions in the electronics industry, the
+Company's competitive position, the status of the Company's
+relationships with its customers, economic conditions in
+international markets, the cost and availability of utilities,
+and the various factors set forth under the caption "Factors
+That May Affect Future Results" after Item 7 of Park's Annual
+Report on Form 10-K for the fiscal year ended March 2, 2003.
+
+Item 3. Quantitative and Qualitative Disclosure About Market
+Risk.
+
+ The Company's market risk exposure at November 30, 2003 is
+consistent with, and not greater than, the types of market risk
+and amount of exposures presented in the Annual Report on Form
+10-K for the fiscal year ended March 2, 2003.
+
+Item 4. Controls and Procedures.
+
+ (a) Disclosure Controls and Procedures. The Company's
+management, with the participation of the Company's Chief
+Executive Officer and Chief Financial Officer, has evaluated
+the effectiveness of the Company's disclosure controls and
+procedures (as such term is defined in Rules 13a-15(e) and 15d-
+15(e) under the Securities Exchange Act of 1934, as amended
+(the "Exchange Act")) as of November 30, 2003, the end of the
+period covered by this quarterly report. Based on such
+evaluation, the Company's Chief Executive Officer and Chief
+Financial Officer have concluded that, as of the end of such
+period, the Company's disclosure controls and procedures are
+effective in recording, processing, summarizing and reporting,
+on a timely basis, information required to be disclosed by the
+Company in the reports that it files or submits under the
+Exchange Act.
+
+ (b) Internal Control Over Financial Reporting. There have not
+been any changes in the Company's internal control over
+financial reporting (as such term is defined in Rules 13a-15(f)
+and 15d-15(f) under the Exchange Act) during the fiscal quarter
+to which this report relates that have materially affected, or
+are reasonably likely to materially affect, the Company's
+internal control over financial reporting.
+
+PART II. OTHER INFORMATION
+
+Item 1. Legal Proceedings.
+
+ In May 1998, the Company and its Nelco Technology, Inc.
+("NTI") subsidiary in Arizona filed a complaint against Delco
+Electronics Corporation and the Delphi Automotive Systems unit
+of General Motors Corp. in the United States District Court for
+the District of Arizona. The complaint alleged, among other
+things, that Delco breached its contract to purchase semi-
+finished multilayer printed circuit boards from NTI and that
+Delphi interfered with NTI's contract with Delco, that Delco
+breached the covenant of good faith and fair dealing implied in
+the contract, that Delco engaged in negligent misrepresentation
+and that Delco fraudulently induced NTI to enter into the
+contract.
+
+ In November 2000, after a trial in Phoenix, Arizona, a
+jury awarded damages to NTI in the amount of 32.3 million, and
+in December 2000 the judge in the United States District Court
+entered judgment for NTI on its claim of breach of the implied
+covenant of good faith and fair dealing with damages in the
+amount of 32.3 million. Both parties appealed the decision to
+the United States Court of Appeals for the Ninth Circuit in San
+Francisco, and in May 2003, a panel of three judges in the
+Court of Appeals for the Ninth Circuit rendered a unanimous
+decision affirming the jury verdict. In June 2003, the United
+States District Court for the District of Arizona entered final
+judgment in favor of NTI, and Delco paid NTI on July 1, 2003.
+NTI received a net amount of 33.1 million. See Note 10 of the
+Notes to Condensed Consolidated Financial Statements in Item 1
+of Part I of this Report.
+
+ Park announced in March 1998 that it had been informed by
+Delco Electronics that Delco planned to close its printed
+circuit board fabrication plant and exit the printed circuit
+board manufacturing business. After the plant closure, Delco
+purchased all of its printed circuit boards from outside
+suppliers and Delco was no longer a customer of the Company's.
+As a result, the Company's sales to Delco declined
+significantly during the three-month period ended May 31, 1998,
+were negligible during the three-month period ended August 30,
+1998, have been nil since that time. During the Company's 1999
+fiscal year first quarter and during its 1998 fiscal year and
+for several years prior thereto, more than 10 of the Company's
+total worldwide sales were to Delco Electronics Corporation;
+and the Company had been Delco's principal supplier of semi-
+finished multilayer printed circuit board materials for more
+than ten years. These materials were used by Delco to produce
+finished multilayer printed circuit boards. See "Factors That
+May Affect Future Results" after Item 2 of Part I of this
+Report.
+
+ In the first quarter of the fiscal year ended March 3,
+2002, the Company sold the assets and business of NTI and
+recorded pre-tax charges of approximately 15.7 million in its
+2002 fiscal year first quarter ended May 27, 2001 in connection
+with the sale of NTI and the closure of a related support
+facility also located in Arizona. See Note 8 of the Notes to
+Condensed Consolidated Financial Statements in Item 1 of Part I
+of this Report.
+
+Item 6. Exhibits and Reports on Form 8-K.
+
+ (a) Exhibits:
+
+ 31.1 Certification of Chief Executive Officer pursuant to
+ Exchange Act Rules 13a-14(a) or 15d-14(a).
+
+ 31.2 Certification of Chief Financial Officer pursuant to
+ Exchange Act Rules 13a-14(a) or 15d-14(a).
+
+ 32.1 Certification of Chief Executive Officer pursuant to
+ 18 U.S.C. Section 1350, as adopted pursuant to
+ Section 906 of the Sarbanes-Oxley Act of 2002.
+
+ 32.2 Certification of Chief Financial Officer pursuant to
+ 18 U.S.C. Section 1350, as adopted pursuant to
+ Section 906 of the Sarbanes-Oxley Act of 2002.
+
+ (b) Reports on Form 8-K:
+
+ Report on Form 8-K, dated October 1, 2003, Commission
+ File No. 1-4415, reporting in Item 12 that Park issued a
+ news release on October 1, 2003 reporting its results of
+ operations for the fiscal year 2004 second quarter ended
+ August 31, 2003 and furnishing the news release to the
+ Securities and Exchange Commission.
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of
+1934, the Registrant has duly caused this report to be signed
+on its behalf by the undersigned thereunto duly authorized.
+
+Park Electrochemical Corp.
+ --------------------------
+ (Registrant)
+
+/s/Brian E. Shore
+Date: January 13, 2004 -----------------------
+ Brian E. Shore
+ President and
+ Chief Executive Officer
+
+/s/Murray O. Stamer
+Date: January 13, 2004 -----------------------
+ Murray O. Stamer
+ Senior Vice President and
+ Chief Financial Officer
+
+EXHIBIT INDEX
+
+Exhibit No. Name Page
+ ----------- ---- ----
+
+ 31.1 Certification of Chief Executive
+ Officer pursuant to Exchange Act
+ Rules 13a-14(a) or 15d-14(a) 29
+
+31.2 Certification of Chief Financial
+ Officer pursuant to Exchange Act
+ Rules 13a-14(a) or 15d-14(a) 31
+
+ 32.1 Certification of Chief Executive
+ Officer pursuant to 18 U.S.C. Section
+ 1350, as adopted pursuant to Section
+ 906 of the Sarbanes-Oxley Act of 2002 33
+
+ 32.2 Certification of Principal Financial
+ Officer pursuant to 18 U.S.C. Section
+ 1350, as adopted pursuant to Section
+ 906 of the Sarbanes-Oxley Act of 2002 34
+
+<EX-31>
+ 3
+ ex3101.txt
+ CEO CERTIFICATION
+ 
+ EXHIBIT 31.1
+
+Certification of Chief Executive Officer
+ Pursuant to Exchange Act Rules 13a-14(a) or 15d-14(a)
+
+I, Brian E. Shore, certify that:
+
+1. I have reviewed this quarterly report on Form 10-Q for
+ the quarterly period ended November 30, 2003 of Park
+ Electrochemical Corp.;
+
+2. Based on my knowledge, this report does not contain any
+ untrue statement of a material fact or omit to state a
+ material fact necessary to make the statements made, in
+ light of the circumstances under which such statements were
+ made, not misleading with respect to the period covered by
+ this report;
+
+3. Based on my knowledge, the financial statements, and
+ other financial information included in this report, fairly
+ present in all material respects the financial condition,
+ results of operations and cash flows of the registrant as
+ of, and for, the periods presented in this report;
+
+4. The registrant's other certifying officer and I are
+ responsible for establishing and maintaining disclosure
+ controls and procedures (as defined in Exchange Act Rules
+ 13a-15(e) and 15d-15(e)) for the registrant and have:
+
+ (a) designed such disclosure controls and procedures, or
+ caused such disclosure controls and procedures to be
+ designed under our supervision, to ensure that material
+ information relating to the registrant, including its
+ consolidated subsidiaries, is made known to us by others
+ within those entities, particularly during the period in
+ which this report is being prepared;
+ (b) evaluated the effectiveness of the registrant's
+ disclosure controls and procedures and presented in this
+ report our conclusions about the effectiveness of the
+ disclosure controls and procedures, as of the end of the
+ period covered by this report based on such evaluation; and
+ (c) disclosed in this report any change in the registrant's
+ internal control over financial reporting that occurred
+ during the registrant's most recent fiscal quarter (the
+ registrant's fourth fiscal quarter in the case of an annual
+ report) that has materially affected, or is reasonably
+ likely to materially affect, the registrant's internal
+ control over financial reporting; and
+
+5. The registrant's other certifying officer and I have
+ disclosed, based on our most recent evaluation of internal
+ control over financial reporting, to the registrant's
+ auditors and the audit committee of registrant's board of
+ directors (or persons performing the equivalent functions):
+
+ (a) all significant deficiencies and material weaknesses in
+ the design or operation of internal control over financial
+ reporting which are reasonably likely to adversely affect
+ the registrant's ability to record, process, summarize and
+ report financial information; and
+ (b) any fraud, whether or not material, that involves
+ management or other employees who have a significant role in
+ the registrant's internal control over financial reporting.
+
+Date: January 13, 2004
+
+/s/Brian E. Shore____________________
+Brian E. Shore
+President and Chief Executive Officer
+
+[exhibit3101]ll
+
+</EX-31>
+
+<EX-31>
+ 4
+ ex3102.txt
+ CFO CERTIFICATION
+ 
+ EXHIBIT 31.2
+
+Certification of Chief Financial Officer
+ Pursuant to Exchange Act Rules 13a-14(a) or 15d-14(a)
+
+I, Murray O. Stamer, certify that:
+
+1. I have reviewed this quarterly report on Form 10-Q for
+ the quarterly period ended November 30, 2003 of Park
+ Electrochemical Corp.;
+
+2. Based on my knowledge, this report does not contain any
+ untrue statement of a material fact or omit to state a
+ material fact necessary to make the statements made, in
+ light of the circumstances under which such statements were
+ made, not misleading with respect to the period covered by
+ this report;
+
+3. Based on my knowledge, the financial statements, and
+ other financial information included in this report, fairly
+ present in all material respects the financial condition,
+ results of operations and cash flows of the registrant as
+ of, and for, the periods presented in this report;
+
+4. The registrant's other certifying officer and I are
+ responsible for establishing and maintaining disclosure
+ controls and procedures (as defined in Exchange Act Rules
+ 13a-15(e) and 15d-15(e)) for the registrant and have:
+
+ (a) designed such disclosure controls and procedures, or
+ caused such disclosure controls and procedures to be
+ designed under our supervision, to ensure that material
+ information relating to the registrant, including its
+ consolidated subsidiaries, is made known to us by others
+ within those entities, particularly during the period in
+ which this report is being prepared;
+ (b) evaluated the effectiveness of the registrant's
+ disclosure controls and procedures and presented in this
+ report our conclusions about the effectiveness of the
+ disclosure controls and procedures, as of the end of the
+ period covered by this report based on such evaluation; and
+ (c) disclosed in this report any change in the registrant's
+ internal control over financial reporting that occurred
+ during the registrant's most recent fiscal quarter (the
+ registrant's fourth fiscal quarter in the case of an annual
+ report) that has materially affected, or is reasonably
+ likely to materially affect, the registrant's internal
+ control over financial reporting; and
+
+5. The registrant's other certifying officer and I have
+ disclosed, based on our most recent evaluation of internal
+ control over financial reporting, to the registrant's
+ auditors and the audit committee of registrant's board of
+ directors (or persons performing the equivalent functions):
+
+ (a) all significant deficiencies and material weaknesses in
+ the design or operation of internal control over financial
+ reporting which are reasonably likely to adversely affect
+ the registrant's ability to record, process, summarize and
+ report financial information; and
+ (b) any fraud, whether or not material, that involves
+ management or other employees who have a significant role in
+ the registrant's internal control over financial reporting.
+
+Date: January 13, 2004
+
+/s/Murray O. Stamer
+Murray O. Stamer
+Senior Vice President and
+Chief Financial Officer
+
+[exhibit3102]ll
+
+</EX-31>
+
+<EX-32>
+ 5
+ ex321.txt
+ CEO CERTIFICATION
+ 
+Exhibit 32.1
+ EXHIBIT 32.1
+
+Certification of Chief Executive Officer Pursuant to
+ 18 U.S.C. Section 1350,
+ as Adopted Pursuant to
+ Section 906 of the Sarbanes-Oxley Act of 2002
+
+In connection with the Quarterly Report on Form 10-Q of Park
+Electrochemical Corp.(the "Company") for the quarterly period
+ended November 30, 2003 as filed with the Securities and
+Exchange Commission on the date hereof (the "Report"), Brian
+E. Shore, as Chief Executive Officer of the Company, hereby
+certifies, pursuant to 18 U.S.C. 1350, as adopted pursuant
+to 906 of the Sarbanes-Oxley Act of 2002, that, to the best
+of his knowledge:
+
+ (1) The Report fully complies with the requirements of
+Section 13(a) or 15(d) of the Securities Exchange Act of
+1934; and
+
+ (2) The information contained in the Report fairly
+presents, in all material respects, the financial condition
+and results of operations of the Company.
+
+/s/Brian E. Shore
+Name: Brian E. Shore
+Title: President and Chief Executive Officer
+Date: January 13, 2004
+
+</EX-32>
+
+<EX-32>
+ 6
+ ex322.txt
+ CFO CERTIFICATION
+ 
+Exhibit 32.2
+ EXHIBIT 32.2
+
+Certification of Chief Financial Officer Pursuant to
+ 18 U.S.C. Section 1350,
+ as Adopted Pursuant to
+ Section 906 of the Sarbanes-Oxley Act of 2002
+
+In connection with the Quarterly Report on Form 10-Q of Park
+Electrochemical Corp.(the "Company") for the quarterly period
+ended November 30, 2003 as filed with the Securities and
+Exchange Commission on the date hereof (the "Report"), Murray
+O. Stamer, as Senior Vice President and Chief Financial
+Officer of the Company, hereby certifies, pursuant to 18
+U.S.C. 1350, as adopted pursuant to 906 of the Sarbanes-
+Oxley Act of 2002, that, to the best of his knowledge:
+
+ (1) The Report fully complies with the requirements of
+Section 13(a) or 15(d) of the Securities Exchange Act of
+1934; and
+
+ (2) The information contained in the Report fairly
+presents, in all material respects, the financial condition
+and results of operations of the Company.
+
+/s/Murray O. Stamer
+Name: Murray O. Stamer
+Title: Senior Vice President and
+ Chief Financial Officer
+Date: January 13, 2004
+
+</EX-32>
+

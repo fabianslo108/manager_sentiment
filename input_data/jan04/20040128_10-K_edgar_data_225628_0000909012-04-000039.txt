@@ -1,0 +1,3356 @@
+<Header>
+<FileStats>
+    <FileName>20040128_10-K_edgar_data_225628_0000909012-04-000039.txt</FileName>
+    <GrossFileSize>185675</GrossFileSize>
+    <NetFileSize>149846</NetFileSize>
+    <NonText_DocumentType_Chars>0</NonText_DocumentType_Chars>
+    <HTML_Chars>942</HTML_Chars>
+    <XBRL_Chars>0</XBRL_Chars>
+    <XML_Chars>0</XML_Chars>
+    <N_Exhibits>3</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0000909012-04-000039.hdr.sgml : 20040128
+<ACCEPTANCE-DATETIME>20040128161028
+ACCESSION NUMBER:		0000909012-04-000039
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		4
+CONFORMED PERIOD OF REPORT:	20031031
+FILED AS OF DATE:		20040128
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			MEGADATA CORP
+		CENTRAL INDEX KEY:			0000225628
+		STANDARD INDUSTRIAL CLASSIFICATION:	COMPUTER COMMUNICATIONS EQUIPMENT [3576]
+		IRS NUMBER:				112208938
+		STATE OF INCORPORATION:			NY
+		FISCAL YEAR END:			1031
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-07642
+		FILM NUMBER:		04549377
+
+	BUSINESS ADDRESS:	
+		STREET 1:		47 ARCH STREET
+		CITY:			GREENWICH
+		STATE:			CT
+		ZIP:			11716
+		BUSINESS PHONE:		5165896800
+
+	MAIL ADDRESS:	
+		STREET 1:		47 ARCH STREET
+		CITY:			GREENWICH
+		STATE:			CT
+		ZIP:			11716
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	MEGADATA COMPUTER & COMMUNICATIONS CORP
+		DATE OF NAME CHANGE:	19770201
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	BELLOK DEVICES INC
+		DATE OF NAME CHANGE:	19740314
+
+</SEC-Header>
+</Header>
+
+ 
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ NMCLHkGOhm3sCb3na1Q0+MFuhOSS5N6MQ+0upBsTk3ANfXAltyx2AVhX0LLs79tN
+ MHGp4T+jd5tV9h/GtsQ8Tw==
+
+ 0000909012-04-000039.txt : 20040128
+
+10-K
+ 1
+ t300756.txt
+ ANNUAL REPORT 10/31/03
+ 
+ UNITED STATES
+ SECURITIES AND EXCHANGE COMMISSION
+ WASHINGTON, D.C. 20549
+
+ FORM 10-K
+
+ | X | Annual Report Pursuant to Section 13 or 15(d)
+ of the Securities Exchange Act of 1934
+ FOR THE FISCAL YEAR ENDED OCTOBER 31, 2003
+ OR
+ | _ | Transition Report Pursuant to Section 13 or 15(d) of the
+ Securities Exchange Act of 1934
+ for the transition period from ___ to ___
+
+ Commission file number 0-7642
+
+ MEGADATA CORPORATION
+ (Exact Name of Registrant as Specified in Its Charter)
+
+ NEW YORK 11-2208938
+ (State or Other Jurisdiction of (I.R.S. Employer
+Incorporation or Organization) Identification No.)
+
+ 47 ARCH STREET, GREENWICH, CT 06830
+ (Address of Principal Executive Office) (Zip Code)
+
+ Registrant's telephone number, including area
+ code: 203-629-8757
+
+ Securities registered pursuant to
+ Section 12(b) of the Act: NONE
+
+ Securities registered
+ pursuant to Section 12(g)
+ of the Act:
+ COMMON STOCK, PAR VALUE 0.01 PER SHARE
+
+Indicate by check mark whether the Registrant (1) has filed all reports required
+to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during
+the preceding 12 months (or for such shorter period that the Registrant was
+required to file such reports), and (2) has been subject to such filing
+requirements for the past 90 days. YES [X] NO [ ]
+
+Indicate by check mark if disclosure of delinquent filers pursuant to Item 405
+of Regulation S-K is not contained herein, and will not be contained, to the
+best of the Registrant's knowledge, in definitive proxy or information
+statements incorporated by reference in Part III of this Form 10-K or any
+amendment to this Form 10-K. [X]
+
+Indicate by check mark whether the registrant is an accelerated filer
+(as defined in Rule 12b-2 of the Act). YES [ ] NO [X]
+
+ The aggregate market value of the voting shares of the Registrant held by
+ non-affiliates as of April 30, 2003 was 274,000
+
+ The number of shares of common stock, 0.01 par value,
+ outstanding as of January 28, 2004 was 4,088,115
+
+ DOCUMENTS INCORPORATED BY REFERENCE
+
+Portions of the Registrant's Definitive Proxy Statement for the 2004 Annual
+Meeting of Stockholders, to be filed with the Securities and Exchange Commission
+within 120 days of October 31, 2003, are incorporated by reference into Part III
+of this Form 10-K.
+
+PART I
+
+ITEM 1. BUSINESS.
+
+(a) GENERAL DEVELOPMENT OF BUSINESS.
+
+ Megadata Corporation ("Megadata" or the "Company"), a New York
+corporation founded in 1967, is a supplier of information and decision support
+software serving the needs of the aviation industry, primarily airlines,
+airports and other aviation related companies. Its principal business is the
+delivery of information and decision support software by subscription from a
+database of flight and travel-related information, of which a primary data
+component is its PASSUR(TM) (Passive Secondary Surveillance Radar) Network of
+flight tracking systems.
+
+ Revenues are generated from information and decision support products
+that provide a range of services to airlines, airports, and aviation related
+companies. The Company's strategy is to gain baseline acceptance as an
+affordable, usually web-based, solution provider, to grow the number of
+web-based solutions an individual customer uses once they have started with one
+or more of the Company's products, and to team with partners to provide a
+greater range of solutions, as well as cost-effectively expand the reach of the
+Company's marketing and distribution. Three years ago, the Company transitioned
+its business model from selling PASSUR systems to selling subscription services.
+
+ The objectives of the Company's strategy are to (1) increase
+subscription sales per customer by providing multiple solutions for customers
+with primarily web-based products that target different needs and problems, (2)
+increase subscription sales per airport location (airport, airlines, and other
+aviation related customers) by identifying as many customers as possible, (3)
+reduce the selling cycle and costs per sale through the shift to web-based
+products and partnering with decision support software partners; and (4)
+increase available market share by identifying national and international
+opportunities for the Company's information and decision support products.
+
+ The Company's information is primarily derived from the PASSUR
+System. PASSUR is a passive radar, which, without emitting any active signals,
+receives aircraft identification and altitude information from aircraft
+transponder transmissions, which are interrogated by existing secondary
+surveillance radars. In the past year, several additional data sources have been
+added to the Company's database to provide an integrated data solution.
+
+ The Company's services address airspace capacity enhancement, airline
+and airport operational efficiency, customer service, safety and security, and
+airport revenue management. Management believes this market is in excess of 15
+billion. We believe that limited availability of accurate and timely flight,
+terminal airspace, airport condition information, and the poor flow of that
+information throughout the aviation system is a major impediment to improving
+operating efficiency of airlines and airports, reducing delays and
+cancellations, and making timely decisions required to handle emergencies that
+might threaten safety and security. Currently there are a number of large and
+sophisticated command and control systems designed to help airlines and airports
+with these issues, but their acceptance is limited for several reasons,
+including the quality and availability of timely and accurate information,
+technical complexity, and cost. Access to domestic and international arrival
+information is fragmented and often controlled and filtered by government
+sources or not available at all.
+
+Page 2 of 61
+
+The Company has a suite of information and decision support software
+products, including AirportMonitor(TM), Pulse Operations(TM), Pulse
+Financial(TM), OpsNet(TM) (formerly IROPSNet), FlightPerform(TM), and
+FlightSure(TM), currently available for distribution.
+
+ o AirportMonitor, patent pending, is an internet-based application
+which provides the surrounding airport communities with live flight tracking and
+information (delayed for security purposes) as part of their public relations
+and community outreach programs.
+ o Pulse Operations, patent pending, provides a web-based live and
+archived capability to provide affordable and easily distributed access to the
+PASSUR database of operational information.
+ o Pulse Financial, patent pending, provides a web-based live and
+archived capability that allows an airline or airport to gain an immediate
+detailed, accurate landing report in order to properly account for landing fees,
+providing a single standard for landing fee reconciliation and creating maximum
+revenue efficiency and maximum fee fairness by ensuring all airport users are
+carrying their true and accurate proportion of the landing fee obligation.
+ o OpsNet, patent pending, is an internet-based application designed
+to improve airport/airline management coordination through instant
+communications between all the necessary parties during costly disruptions
+caused by weather, security and emergency situations.
+ o FlightPerform is a live airspace analysis and awareness system used
+by airports and airlines for real-time dispatch, arrivals and airside facilities
+management; and
+ o FlightSure provides data and software for integrated aircraft noise
+management and monitoring systems.
+
+ The Company generates revenues by selling either (1)
+subscription-based information - primarily derived from a PASSUR system, which
+is part of the "PASSUR Network", or (2) equipment - a PASSUR system. Under the
+subscription-based model, the customer subscribes to the information on a
+monthly basis pursuant to a subscription agreement, which may be for a
+multi-year period. The agreement also provides that the information from the
+PASSUR system cannot be resold or used for unauthorized purposes. When systems
+are sold, Megadata retains both proprietary and distribution rights to the data
+generated from such systems and can distribute such data at the Company's sole
+discretion.
+
+ Currently, PASSUR flight track coverage is available for 30 of the
+top 40 airports in the United States. In addition, more than 10 airlines and 40
+airports utilize the information, data and software information products derived
+from the Megadata PASSUR Network. There are over 50 PASSUR system installations
+worldwide.
+
+ The Company has incorporated the strictest levels of security in both
+the information generated by the PASSUR Network and the availability of that
+information to the end users.
+
+ TECHNICAL DESCRIPTION
+
+ The PASSUR system, without emitting any active signals, receives
+aircraft identification and altitude information from aircraft transponder
+transmissions, which are interrogated by existing secondary surveillance radars.
+Received signals are processed in a standard workstation and displayed on a
+high-resolution color graphics data display to provide the PASSUR application
+software real-time identification and tracking of aircraft in flight. The
+presentation of flight tracks can be in real time or can be switched to a mode
+that permits observance of historical data for selected time periods.
+
+Page 3 of 61
+
+AIRLINE AND AIRPORT CUSTOMERS
+
+ PASSUR is used by many of the largest airports and airlines in the
+country and in different parts of the world. Airlines and airports use the
+PASSUR information to drive a number of operating efficiencies that improve
+performance and increase customer satisfaction, and operating profits.
+Information derived from the PASSUR systems and related suite of software
+applications is utilized to:
+ o Provide accurate arrival and estimated time of arrival ("ETA")
+information available, particularly during irregular operations. The information
+is also used in terminal passenger data services such as Flight Information
+Display Systems ("FIDS") or other displays. The ETA information can be utilized
+to provide compliance with the aviation community's goal of providing timely and
+accurate flight information to customers.
+ o Provide accurate arrival data and ETA's for managing airport
+operations. With better arrival information airlines can more effectively manage
+connecting flights during push periods. This tool complements gate management
+and staff scheduling programs and thus, enhances productivity improvements for
+ground personnel and support functions.
+ o Provide accurate arrival information for airlines and at times
+airports to help manage diversions, connections, and reduce the incidence of
+aircraft arriving at a gate without proper airline or airport reception. A more
+accurate picture of the terminal airspace, more accurate ETA's, and views of
+current holding patterns enable airlines and airports to make better decisions.
+ o Provide enhanced collaborative decision making tools that provide
+the Federal Aviation Administration, airlines and the local airport authorities
+with a "real-time" communication tool to better communicate and make more
+effective decisions during irregular operations.
+ o Provide Web-based flight tracking tools to improve public relations
+by providing the surrounding airport communities with live flight traffic and
+information (delayed for security purposes) as part of their public relations
+and community outreach programs.
+ o Provide Web-based performance tools to improve operational
+performance by providing affordable and easily distributed access to the PASSUR
+database of operational information.
+ o Provide Web-based financial tools to improve operational
+performance by allowing an airline or airport to gain an immediate snapshot of
+landing reports in order to properly account for landing fees.
+ o Provide the ability to replay flight events to support
+post-operations analysis. The playback of flight tracks and events allows
+airlines to conduct a more thorough analysis of those events and thereby creates
+opportunities to improve the efficiency and safety of operations.
+ o Enhance safety and security. Real time situational awareness and an
+immediate replay capability provide airlines and governmental agencies with the
+ability to be fully informed and proactive in responding to emergency events.
+ o Enforce the laws and regulations regarding noise levels emitted by
+an aircraft. When used as part of an airport noise monitoring system, airport
+managers and noise control officers can correlate noise events in the local
+community with specific airline flight tracks.
+
+ During fiscal 2002, the Company completed and released new
+information and decision support products in direct response to customer
+requests and needs, including AirportMonitor (real time updates to educate the
+local community on flight behavior relating to noise issues) and OpsNet
+(formerly IROPSNet) (airport and airline community collaborative decision making
+tool).
+
+Page 4 of 61
+
+During fiscal 2003, the Company completed and released several new
+products, most specifically, Mode S, Pulse for Operations and Pulse for
+Revenue. In addition, the Company released new versions of AirportMonitor and
+continues development on new enhanced versions of existing software
+applications. The Company continues to develop software applications, both
+internet-based and end-user based, in direct response to the needs of the
+aviation community.
+
+ (b) FINANCIAL INFORMATION ABOUT INDUSTRY SEGMENTS.
+
+ Not applicable.
+
+ (c) NARRATIVE DESCRIPTION OF BUSINESS.
+
+ The Company is a supplier of information and decision support
+software serving the needs of the aviation industry, primarily airlines,
+airports and other aviation related companies. Its principal business is the
+delivery of information and decision support software by subscription from a
+database of flight and travel-related information, of which a primary data
+component is its PASSUR (Passive Secondary Surveillance Radar) Network of flight
+tracking systems.
+
+ 1. PRODUCTS.
+
+ The Company has transitioned from being a supplier of passive
+surveillance systems (a capital equipment business) to a provider of
+subscription-based information and decision support software products. These
+products leverage the extensive passive surveillance data available through the
+PASSUR Network to provide application-specific efficiency tools to airlines,
+airports and related commercial businesses.
+
+ (i) The PASSUR System
+
+The PASSUR system, together with associated data and software
+products is a reliable and cost effective source of time-critical and valuable
+information about the position and flight path of aircraft. PASSUR is an
+important ingredient to the database that drives all present and future data,
+information, and Company solution products. The Company, under an exclusive
+license for patented technology owned by a third party, has used its proprietary
+hardware, data, and software to develop an enhanced line of products. This
+license agreement which includes various patents issued by the United States and
+various foreign countries has patent expirations varying through the year 2010
+and 2013 for patents issued by the United States and foreign countries,
+respectively. These PASSUR systems receive and process aircraft identification
+from aircraft transponder transmissions interrogated by existing secondary
+surveillance radars.
+
+ (ii) Custom Hardware and Software Activities
+
+ The Company is not involved in specialized research and development
+projects sponsored and paid for by customers.
+
+Page 5 of 61
+
+2. SERVICES.
+
+ (i) Information Services from the PASSUR Network
+
+ Information services include timely, accurate, user-friendly
+information important to the efficient operation of airlines and airports. The
+information services leverage the PASSUR Network, and are tailored to address
+specific customer requirements, many of which can only be satisfied by
+information generated from the PASSUR Network. The services provide airline and
+airport customers with specific and timely information needed to efficiently
+manage their airport, airside, and ground operations. The ETA's generated from
+the PASSUR system are an example of an information service currently being used
+throughout the customer network.
+
+ (ii) Decision Support Software from the PASSUR Network
+
+ Decision support tools and software solutions have been developed to
+improve quality and operating efficiency of specific airline and airport
+operations. OpsNet is an example of a decision support service.
+
+ (iii) Maintenance Services
+
+ The Company offers maintenance services pursuant to contractual
+arrangements or an "on-call" basis. "On-call" services are provided on a time
+and material basis.
+
+ 3. SOURCES OF RAW MATERIALS.
+
+ The Company obtains its raw materials from component distributors and
+manufacturers throughout the United States. The Company has multiple sources of
+supply for a majority of its components.
+
+ 4. DEPENDENCE ON CERTAIN CUSTOMERS.
+
+ During the fiscal year ended October 31, 2003, two (2) customers
+(Continental Airlines and Aviation Development Council) accounted for
+approximately 37 of revenues. Those two customers accounted for 24 and 13 of
+revenues, respectively. As of October 31, 2002, two (2) customers (Continental
+Airlines and Massachusetts Department of Airports) accounted for approximately
+34 of revenues. Those two customers accounted for 19 and 15 of revenues,
+respectively. As of October 31, 2001, one (1) customer (Continental Airlines)
+accounted for approximately 15 of revenues.
+
+ 5. BACKLOG FOR SUBSCRIPTION REVENUE AGREEMENTS.
+
+ The Company's committed backlog for subscription and maintenance
+services at October 31, 2003 amounted to approximately 1,781,000. Of this
+amount, 1,574,000 is scheduled for delivery or performance before October 31,
+2004 and the balance of 207,000 is scheduled for delivery or performance in
+subsequent years. The backlog at October 31, 2002 and 2001 amounted to
+approximately 3,346,000 and 1,027,000 respectively. Backlog consists of
+written purchase orders or contracts.
+
+Page 6 of 61
+
+6. COMPETITION.
+
+ The Company offers the PASSUR system for passive detection of
+aircraft in flight with related suite software applications. These applications
+are, to the best of the Company's knowledge, relatively unique, but continued
+competition of flight tracking products is becoming readily available. Depending
+on the end use of the Company's products, the Company's primary competitors
+include Dimensions International, Lochard Pty, Ltd, Rannoch Corporation and
+Sabre, Inc. The Company also sells certain data solutions through systems
+integrators, including BAE, Inc, and Bruel & Kjaer Inc., some of which may also
+sell products that are competitive with those offered by the Company. Most of
+these companies are significantly larger than the Company, and have larger sales
+forces and greater financial resources than the Company.
+
+ 7. RESEARCH AND DEVELOPMENT.
+
+ The Company's Research and Development ("R&D") efforts are primarily
+focused on the continued software and hardware enhancements and maintenance to
+the existing PASSUR systems and related suite of software applications as well
+as additional resources in developing and maintaining the new software
+applications and decision support products, currently in development, which will
+eventually expand the Company's software suite of products.
+
+ During the fiscal year ended October 31, 2003, the Company incurred
+approximately 403,000 in expenditures for R&D, none of which was customer
+sponsored. In fiscal year ended October 31, 2002, approximately 405,000 was
+expended on R&D and in fiscal year 2001 approximately 288,000 was expended on
+R&D.
+
+ 8. ENVIRONMENTAL COSTS.
+
+ The Company is not aware of any environmental issues which would have
+a material adverse effect on future capital expenditures or current and future
+business operations.
+
+ 9. EMPLOYEES.
+
+ As of October 31, 2003, the Company employed 12 full time employees,
+including 5 officers.
+
+ (d) FINANCIAL INFORMATION ABOUT
+ GEOGRAPHIC AREAS
+
+ The following table sets forth the dollar amounts and the percentages
+attributable to the sale by the Company of its products and services during the
+past three fiscal years in and outside the United States:
+
+NET REVENUES 2003 2002 2001
+- ------------ -------------------- ------------------- --------------------
+Domestic 2,063,000 96.5 1,563,000 94.9 909,000 96.6 
+- ---------
+
+Exports 74,000 3.5 83,000 5.1 32,000 3.4 
+- --------- ---------- ----- ---------- ----- --------- -----
+
+Total
+Revenues: 2,137,000 100.0 1,646,000 100.0 941,000 100.0 
+ ========== ===== ========== ===== ========== =====
+
+Page 7 of 61
+
+ADDITIONAL INFORMATION
+
+ The Company's internet address is WWW.PASSUR.COM. We make available
+on our website under "SEC Filings", via a link to the United States Securities
+and Exchange Commission's website, access to our annual report on Form 10-K,
+quarterly reports on Form 10-Q, current reports on Form 8-K and any amendments
+to those reports filed or furnished pursuant to Section 13(a) or 15(d) of the
+Securities Exchange Act of 1934 and as soon as reasonably practical subsequent
+to electronic filing with or furnishing to the Securities Exchange Commission.
+All such filings on our website are available free of charge. The Company
+assumes no obligation to update or revise any forward-looking statements in this
+annual report on Form 10-K, whether as a result of new information, future
+events or otherwise, unless we are required to do so by law. A copy of this
+annual report on Form 10-K is available without charge upon written request to:
+Investor Relations, Megadata Corporation, 47 Arch Street, Greenwich, CT 06830.
+
+ITEM 2. PROPERTIES.
+
+ The Company's manufacturing and research facility is located in a
+one-story, 36,000 square foot building at 35 Orville Drive, Bohemia, New York.
+The building previously was owned by the Company and was sold in October 1999 to
+an unaffiliated buyer. The Company leases 12,000 square feet at an annual rental
+cost of 83,460.
+
+ The Company's executive offices are located in a three-story office
+building at 47 Arch Street, Greenwich, Connecticut. Effective October 1998, the
+Company began leasing space from Field Point Capital Management Company, a
+company 100 owned by the Company's Chairman of the Board, at 1,000 per month
+rent. The Company believes these rates are competitive and are at or below
+market rates.
+
+ITEM 3. LEGAL PROCEEDINGS.
+
+ The Company is not aware of any material pending legal proceedings to
+which the Company or any of its subsidiaries is a party or to which any of their
+properties are subject.
+
+ITEM 4. SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS.
+
+ The Company did not submit any matter to a vote of its security
+holders during the fourth quarter of fiscal 2003.
+
+Page 8 of 61
+
+PART II
+
+ITEM 5. MARKET FOR REGISTRANT'S COMMON EQUITY AND RELATED STOCKHOLDER MATTERS.
+
+(a) MARKET INFORMATION.
+
+ The Company's Common Stock, par value 0.01 per share (the "Common
+ Stock"), is traded on the over-the-counter bulletin board.
+
+ The following table sets forth the reported high and low sales prices
+ for the Company's common stock for each quarterly period during the
+ Company's last two fiscal years, as reported by the National
+ Quotation Bureau, Inc.:
+
+ Period Prices 
+ ------------------------------------ ---------------------
+ High Low
+ ---- ---
+
+ FISCAL YEAR ENDED OCTOBER 31, 2003
+ FIRST QUARTER .75 .25
+ SECOND QUARTER .51 .25
+ THIRD QUARTER .66 .25
+ FOURTH QUARTER .60 .30
+
+ Fiscal Year Ended October 31, 2002
+ First Quarter .90 .35
+ Second Quarter .65 .26
+ Third Quarter .50 .25
+ Fourth Quarter 1.01 .25
+- --------------------------------------------------------------------------------
+
+ The quotations represent prices on the over-the-counter bulletin board between
+dealers in securities, do not include retail markup, markdown or commission, and
+do not necessarily represent actual transactions.
+
+ (b) HOLDERS.
+
+ The number of registered equity security holders of record at January
+ 20, 2004 was 305, as shown in the records of our transfer agent.
+
+ (c) DIVIDENDS.
+
+ The Company has never paid cash dividends on its shares. The Company
+ does not anticipate paying cash dividends in the foreseeable future.
+
+Page 9 of 61
+
+(d) Securities authorized for issuance under equity compensation plans.
+
+- --------------------------------------------------------------------------------
+ NUMBER OF
+ SECURITIES
+ REMAINING
+ AVAILABLE
+ FOR FUTURE
+ ISSUANCE
+ UNDER EQUITY
+ NUMBER OF COMPENSATION
+ SECURITIES TO WEIGHTED- PLANS
+ BE ISSUED AVERAGE (EXCLUDING
+ UPON EXERCISE EXERCISE PRICE SECURITIES
+ PLAN CATEGORY OF OUTSTANDING OF OUTSTANDING REFLECTED IN
+ OPTIONS OPTIONS COLUMN (A))
+ (a) (b) (c)
+- --------------------------------------------------------------------------------
+ 
+ EQUITY COMPENSATION PLAN
+ APPROVED BY SECURITY HOLDERS 1,043,000 .58 432,000
+- --------------------------------------------------------------------------------
+ EQUITY COMPENSATION PLANS
+ NOT APPROVED BY SECURITY HOLDERS -- -- --
+- --------------------------------------------------------------------------------
+
+TOTAL 1,043,000 .58 432,000
+- --------------------------------------------------------------------------------
+
+ITEM 6. SELECTED FINANCIAL DATA.
+
+ The selected consolidated statements of operations data for the
+fiscal years ended October 31, 2003, 2002 and 2001, and the consolidated balance
+sheet data as of October 31, 2003 and 2002, have been derived from the Company's
+audited financial statements included elsewhere in this Annual Report on Form
+10-K. The selected consolidated statement of operations data for the years ended
+October 31, 2000 and 1999, and the selected consolidated balance sheet data as
+of October 31, 2001, 2000 and 1999, are derived from the Company's audited
+consolidated financial statements which are not included in this Annual Report
+on Form 10-K.
+
+Selected Statement of Operations Data:
+ YEARS ENDED OCTOBER 31,
+- ------------------------------------------------------------------------------------------------
+ 2003 2002 2001 2000 1999
+ ---- ---- ---- ---- ----
+Net
+ 
+Revenues 2,136,914 1,645,687 940,637 1,756,602 1,100,641
+
+Net
+Loss (2,486,122) (2,110,212) (1,629,490) (582,824) (322,812)
+
+Net Loss Per
+Common Share --
+Basic and diluted (1) (.71) (.61) (.47) (.22) (.13)
+
+Dividend Declared -- -- -- -- --
+
+- --------------------------------------------------------------------------------------------------
+
+Page 10 of 61
+
+Selected Balance Sheet Data:
+ OCTOBER 31,
+- ---------------------------------------------------------------------------------------------
+ 2003 2002 2001 2000 1999
+ ---- ---- ---- ---- ----
+
+Total Assets 4,533,279 4,449,999 3,356,343 2,348,082 1,572,865
+
+Long-Term
+Debt (2)(3)(4)(5)(6)(7) 8,466,465 5,705,000 3,090,000 152,985 337,945
+
+Total Shareholders'
+ (Deficit) Equity (5,540,408) (3,077,786) (988,824) 604,216 (14,854)
+- ---------------------------------------------------------------------------------------------
+
+(1) Net loss per share of common stock was computed using the weighted average
+ number of shares of common stock outstanding during the period. Conversion
+ of the common equivalent shares was not assumed since the result would have
+ been antidilutive.
+(2) The mortgage loan to Roslyn Savings Bank was paid in full upon the sale of
+ the Company's mortgaged property on October 22, 1999.
+(3) Long-term debt for 1999 included 325,000 of notes payable and 12,945 of
+ installment notes payable, which were due after October 31, 2000.
+(4) Long-term debt for 2000 included 150,000 of notes payable, and 2,985 of
+ installment notes payable, which are due after October 31, 2001.
+(5) Long-term debt for 2001 consists of notes payable - Related party which is
+ due after October 31, 2002.
+(6) Long-term debt for 2002 consists of notes payable - Related party which is
+ due after October 31, 2003.
+(7) Long-term debt for 2003 consists of notes payable - Related party which is
+ due after October 31, 2004.
+
+Page 11 of 61
+
+ITEM 7. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL
+CONDITION AND RESULTS OF OPERATIONS.
+
+RESULTS OF OPERATIONS
+
+REVENUES
+
+The Company is a provider of information and decision support software supplied
+primarily from its PASSUR Network. Revenues consist primarily of
+subscription-based revenues, maintenance revenues from customer owned PASSUR
+systems, system sales and system upgrades revenues and other revenues from
+services and/or products provided which are not part of the subscription or
+maintenance business line. Revenues during fiscal 2003 increased by
+approximately 491,000, or 30 , to 2,137,000 in fiscal 2003 from 1,646,000 in
+fiscal 2002. This increase was primarily due to the continued development and
+deployment of new software applications, increased effectiveness of the
+Company's marketing efforts, industry acceptance of the Company's applications,
+the wide selection of products which address the customers' needs and ease of
+delivery through web-based applications. These efforts resulted in an increased
+number of new customers subscribing to our suite of software applications and
+the increased subscriptions from our suite of applications to existing
+customers.
+
+Management continues to concentrate its efforts on the sale of information and
+decision support product applications utilizing data primarily derived from the
+Company-owned PASSUR Network. Such efforts include the continued development of
+new product applications as well as enhancements and maintenance of existing
+applications. As a result, subscription-based revenues increased approximately
+ 719,000, or 82 , for fiscal 2003, when compared to fiscal 2002. The Company's
+business plan is to continue to focus on increasing subscription-based revenues
+from the suite of software applications and development of new applications
+designed to address the needs of the aviation industry. However, the Company,
+from time to time, will sell a PASSUR system at a customer's specific request.
+In fiscal 2002, the Company sold one system and one system upgrade, which
+resulted in system sales revenues of approximately 293,000.
+
+Revenues during fiscal 2002 increased by approximately 705,000, or 75 , to
+ 1,646,000 from 941,000 in fiscal 2001. This increase was primarily due to the
+increase in system sales and increased focus on the subscription based revenue
+business model. The Company's subscription-based sales for fiscal 2002 and 2001
+were 874,000 and 448,000, respectively.
+
+The Company shipped five and installed nine Company-owned PASSUR systems during
+fiscal 2003 (installations include systems shipped in current and previous
+fiscal years), which were capitalized as part of the "PASSUR Network". The
+Company will continue to expand the PASSUR Network by shipping and installing
+additional PASSUR systems throughout fiscal 2004. Management anticipates that
+these future PASSUR sites will provide increased coverage of the PASSUR Network
+and increase the Company's potential for new customers at such locations as well
+as provide existing customers with additional data solutions. The Company will
+continue to market the data generated from the PASSUR Network directly to
+airlines, airports and aviation related companies and anticipates that the data
+derived from the network will ultimately be sold to multiple users at each
+specific network site. There were 38 Company owned PASSUR's located at various
+airports throughout the continental United States at the end of fiscal 2003.
+
+Management has decided to discontinue marketing various non-PASSUR product
+offerings; however, these products continue to contribute slightly to the
+revenue base from the sale of existing inventory, along with minor service and
+repair revenues. The Company recorded non-
+
+Page 12 of 61
+
+PASSUR revenues of approximately 29,000 for fiscal 2003 as compared to
+approximately 23,000 in fiscal 2002.
+
+COST OF SALES
+
+Costs associated with system sales consist primarily of purchased materials,
+direct labor and overhead costs. Costs associated with subscription and
+maintenance revenues consists primarily of direct labor, depreciation of PASSUR
+Network assets, amortization of software development costs, communication costs
+and allocated overhead costs. Also included in cost of sales are costs
+associated with the upgrades of PASSUR systems necessary to make such systems
+compatible with new software applications, as well as the ordinary repair and
+maintenance of existing network systems. Additionally, cost of sales in each
+reporting period are impacted by: (1) the number of PASSUR Network units added
+to the asset account which include the production, shipments and installations
+of these assets; and (2) capitalized costs associated with software development
+programs, collectively referred to as "Capitalized Assets". After the positive
+impact of the Capitalized Assets are recognized in cost of sales, these
+Capitalized Asset costs are then depreciated and/or amortized over their
+respective useful lives and charged to cost of sales.
+
+The Company has not segregated its cost of sales between cost of system sales
+and cost of subscription and maintenance services, as it is not practical to
+segregate such costs. During fiscal 2003, cost of sales increased by
+approximately 807,000, or 99 , as compared to fiscal 2002. This increase was
+primarily due to the increases in depreciation and amortization of PASSUR
+Network and software development assets, the one-time disposal of certain PASSUR
+Network and software development assets, communication costs, certain allocated
+overhead costs and the decrease in the impact of Capitalized Assets charged to
+cost of sales in fiscal 2003 as compared to fiscal 2002.
+
+During fiscal 2003, costs associated with subscription and maintenance revenues
+including labor, communication costs and allocated overhead costs totaled
+approximately 1,400,000 or 86 of gross cost of sales (before impact of
+Capitalized Assets), an increase of approximately 12 from fiscal 2002. The
+Company does not deem it practical to bifurcate these costs between subscription
+revenues and maintenance revenues. In addition, during fiscal 2003, costs
+directly associated with subscription revenues include: (1) depreciation and
+amortization of the PASSUR network assets and software development costs,
+totaling approximately 602,000 or 37 of gross cost of sales (before impact of
+Capitalized Assets); and (2) the impact of Capitalized Assets totaling
+approximately 642,000, a decrease of approximately 40 from fiscal 2002.
+
+Finally, during fiscal 2003, the Company charged to cost of sales approximately
+ 150,000 and 24,000 for the disposal of certain PASSUR Network and software
+development assets as well as the write-off of inventory associated with
+non-PASSUR product lines, respectively.
+
+During mid-fiscal 2003, the Company initiated certain cost reduction initiatives
+specifically to address the increased costs associated with communication and
+allocated overhead costs within cost of sales. Management expects to continue to
+address these costs and anticipates that the results of such cost reduction
+initiatives will be recognized throughout fiscal 2004.
+
+Page 13 of 61
+
+RESEARCH AND DEVELOPMENT
+
+During fiscal 2003, research and development expenses remained consistent with
+fiscal 2002. The Company's research and development efforts include activities
+associated with the enhancement, maintenance and improvement of the Company's
+existing hardware, software and information products. However, commencing
+mid-fiscal 2002, personnel who had been utilized on such research and
+development activities were either redeployed from research and development
+activities or were replaced by outside software contractors at a more cost
+effective rate. The costs associated with outside contractors are charged
+directly to cost of sales as these costs impact the amount of labor associated
+with capitalized software programs which also impacts cost of sales.
+
+The Company anticipates that it will continue to invest in research and
+development to develop, maintain and support the existing and newly developed
+applications for its PASSUR customers. There were no customer sponsored research
+and development activities during fiscal 2003 or fiscal 2002. Research and
+development expenses are funded through current operations.
+
+SELLING, GENERAL AND ADMINISTRATIVE
+
+During fiscal 2003, selling, general and administrative expenses decreased by
+approximately 184,000, or 9 , as compared to fiscal 2002. The decrease was
+primarily due to cost reduction initiatives enacted throughout fiscal 2003. Such
+initiatives resulted in decreased costs associated with outside consultants,
+certain allocated overhead costs as well as the reduction of selected general
+and administrative employees throughout fiscal 2003, including, certain company
+executives, which resulted in a decrease of approximately 187,000 or 34 in
+officers' payroll in fiscal 2003 as compared to fiscal 2002. All of these cost
+reduction initiatives were partially offset by increases in severance payments
+(relating to the termination of employees during fiscal 2003) as well as
+professional fees and insurance expenses.
+
+The Company anticipates continued increases in its sales and marketing efforts
+in order to market new and existing products from the PASSUR suite of software
+applications. The Company anticipates that its sales and marketing expenses may
+increase in fiscal 2004 resulting from these efforts, while efforts to maintain
+and expand cost reduction initiatives are identified and implemented.
+
+OTHER INCOME (EXPENSE)
+
+Interest income and interest expense to unrelated parties were not significant
+in fiscal 2003 and fiscal 2002.
+
+Interest expense-related party increased by approximately 246,000, or 60 , in
+fiscal 2003, as compared to fiscal 2002. The increase is due to additional
+borrowings the Company incurred during fiscal 2003 in the amount of 2,761,000
+from its significant shareholder. These borrowings resulted from the Company's
+inability to generate cash flows from operations to meet existing working
+capital requirements and capital expenditures.
+
+Page 14 of 61
+
+INCOME TAXES
+
+The provisions for income taxes for each year relate to state and local minimum
+taxes. The Company has available approximately 13,750,000 in federal tax loss
+carryforwards to offset possible future income. The Company also has available
+ 25,000 in general state business tax credit carryforwards. These carryforwards
+expire in various tax years through 2023. The Company has provided a full
+valuation allowance on the net deferred tax asset of approximately 5,363,000,
+which primarily consists of the net operating loss carry-forwards and available
+tax credits.
+
+NET LOSS
+
+The Company incurred a net loss of 2,486,000, or .71 per diluted share, during
+fiscal 2003, as compared to a net loss of 2,110,000, or .61 per diluted share,
+in fiscal 2002.
+
+During fiscal 2003, total costs and expenses of 3,966,000 were higher than
+total revenues and resulted in a loss from operations of 1,829,000. Total costs
+and expenses increased by 621,000, or 19 , as compared to such costs in fiscal
+2002. Despite the increase in revenues of approximately 30 in fiscal 2003,
+increased costs associated with communication costs, depreciation and
+amortization, interest expense from outstanding debt and expenses associated
+with the placement, operation, development and marketing of the Company-owned
+PASSUR Network contributed to the additional loss.
+
+During fiscal 2002, total costs and expenses of 3,345,000 were higher than
+total revenues and resulted in a loss from operations of 1,699,000. Total costs
+and expenses increased by 951,000, or 40 , as compared to fiscal 2001.
+
+Page 15 of 61
+
+QUARTERLY RESULTS OF OPERATIONS
+
+The following table provides unaudited quarterly consolidated results of
+operations for each quarter of fiscal years 2003 and 2002. The Company believes
+this unaudited information has been prepared substantially on the same basis as
+the annual audited financial statements and all necessary adjustments,
+consisting of any normal recurring adjustments, have been included in the
+amounts stated below to present fairly the Company's results of operations. The
+operating results for any quarter are not necessarily indicative of the
+operating results for any future period. Certain balances have been reclassified
+to conform to the presentation of balances as stated in this Annual Report on
+Form 10-K.
+
+THREE MONTHS ENDED
+ -----------------------------------------------------------------------------------------
+ OCT. 31, JULY 31, APRIL 30, JANUARY 31, OCT. 31, JULY 31, APRIL 30, JANUARY 31,
+ 2003 2003 2003 2003 2002 2002 2002 2002
+ -----------------------------------------------------------------------------------------
+
+TOTAL NET REVENUES 558,082 524,797 556,295 497,740 496,704 580,415 272,769 295,799
+
+LOSS FROM OPERATIONS (682,098) (430,891) (266,226) (450,103) (411,116) (279,060) (585,596) (423,727)
+
+NET LOSS (866,455) (604,318) (420,221) (595,128) (532,910) (392,321) (680,694) (504,287)
+
+BASIC AND DILUTED
+ NET LOSS PER SHARE (0.25) (0.17) (0.12) (0.17) (0.15) (0.11) (0.20) (0.15)
+- --------------------------------------------------------------------------------------------------------------------
+
+IMPACT OF INFLATION
+
+In the opinion of management, inflation has not had a material effect on the
+operations of the Company including selling prices, capital expenditures and
+operating expenses.
+
+Page 16 of 61
+
+LIQUIDITY AND CAPITAL RESOURCES
+
+At October 31, 2003, the Company's current liabilities exceeded current assets
+by 793,000. At October 31, 2003, the Company's stockholders' deficit was
+ 5,540,000. For fiscal 2003, the Company incurred a net loss of 2,486,000.
+
+Management is addressing the working capital and stockholders' deficiencies and
+operating losses by aggressively marketing its PASSUR information capabilities
+in its existing product lines, as well as in new products, which are continually
+being developed and deployed. The Company intends to increase the size and
+related airspace coverage of its owned "PASSUR Network," by continuing to
+install PASSUR Systems throughout the United States and certain foreign
+countries. In addition, management believes that expanding its existing software
+suite of products, which addresses the wide array of needs of the aviation
+industry, through the continued development of new product offerings, will
+continue to lead to increased growth in the Company's customer base and
+subscription-based revenues. Additionally, if the Company's business plan does
+not generate sufficient cash-flows from operations to meet the Company's
+operating cash requirements, the Company will attempt to obtain external
+financing, and if such external financing is not consummated, the Company has a
+commitment to receive additional financial support from its significant
+shareholder and Chairman through the end of fiscal 2004. Such commitment for
+financial support may be in the form of additional advances or loans to the
+Company in addition to the deferral of principal and interest payments due on
+the existing loans, if deemed necessary.
+
+Net cash used from operating activities for fiscal 2003 was approximately
+ 2,038,000. Cash flows used in investing activities for fiscal 2003 was
+approximately 763,000 and consisted primarily of investments in the Company's
+PASSUR network as well as capitalized software development costs. Cash flows
+provided by financing activities for fiscal 2003 were approximately 2,764,000
+of which approximately 2,761,000 was in notes payable - related party. No
+principal payments on notes payable - related party were made during fiscal
+2003.
+
+The Company was unprofitable in fiscal 2003. To date, the Company has
+experienced increased revenues as a result of its subscription-based revenue
+model. The Company is actively addressing the increasing costs associated with
+supporting the business, and plans to identify and reduce any unnecessary costs
+as part of its cost reduction initiatives. Additionally, the aviation market has
+been impacted by budgetary constraints and airline bankruptcies due to the
+downturn in the current economy, the terrorist events of September 11, 2001 and
+the continued war on terrorism. The aviation market is extensively regulated by
+government agencies, particularly the Federal Aviation Administration and The
+National Transportation Safety Board, and management anticipates that new
+regulations relating to air travel may continue to be issued. Substantially all
+of the Company's revenues are derived from either airports or airlines. It is
+premature to evaluate the impact, if any, that any new regulations or changes in
+the economic situation of the aviation industry could have on the future
+operations of the Company, either positively or negatively.
+
+Interest by potential customers in the information and decision support software
+products obtained from the PASSUR Network remains strong and the Company
+anticipates an increase in future revenues. However, the Company cannot predict
+if such revenues will materialize. If sales do not increase, additional losses
+may occur. The extent of such profits or losses will be dependent on sales
+volume achieved and Company cost reduction initiatives.
+
+Page 17 of 61
+
+CONTRACTUAL OBLIGATIONS
+
+As of October 31, 2003, the Company had contractual obligations as follows:
+
+CONTRACTUAL OBLIGATIONS PAYMENTS DUE BY PERIOD
+ LESS THAN MORE THAN
+ TOTAL 1 YEAR 1 - 3 YEARS 3 YEARS
+ ------------ ----------- ------------- -----------
+Operating Leases 169,428 83,460 85,968 --
+Promissory Notes 8,466,465 -- 8,466,465 --
+Other Long-Term Obligations 750,000 75,000 225,000 450,000
+ ------------ ----------- ------------- -----------
+Total contractual cash
+ obligations 9,385,893 158,460 8,777,433 450,000
+ ============ =========== ============= ===========
+
+o Obligations under "Operating Leases" relate to the manufacturing and
+ research facility located in Bohemia, New York 83,460 - fiscal 2004,
+ 85,968 - fiscal 2005). All other operating leases are under a
+ month-to-month arrangement, therefore, obligations have been excluded from
+ above calculation.
+o Obligations under "Other Long-Term Obligations" relate to the minimum
+ royalty payments due to a third party for exclusive licensing rights of
+ certain patents relating to the PASSUR System. The annual minimum royalty
+ payments total 75,000 and are effective until the last licensed patent
+ expires in 2013. The Company's annual royalty payment may exceed the
+ minimum royalty amount of 75,000 based upon certain sales thresholds
+ exceeded in any given year; however, the minimum annual royalty obligation
+ will never be less than 75,000. Historically, the Company has not exceeded
+ such thresholds to date.
+
+CERTAIN RELATED PARTY TRANSACTIONS
+
+In fiscal 2003, G.S. Beckwith Gilbert, Chairman and significant shareholder of
+the Company, loaned the Company 2,761,000 under promissory notes bearing
+interest at 9 per annum and maturing at December 31, 2003. As of October 31,
+2003, the total notes payable due to Mr. Gilbert totaled 8,466,465 and are
+secured by the Company's assets.
+
+Effective November 1, 2003, the Company and Mr. Gilbert modified certain terms
+and conditions of the outstanding notes as of October 31, 2003. The modified
+terms included a maturity date of November 1, 2004 as well as issuance of
+600,000 shares of Megadata common stock as payment of annual interest on such
+note. Prior to aforementioned modifications, the outstanding promissory notes
+had a maturity date of December 31, 2003 and bore interest at 9 per annum.
+
+Effective November 15, 2003, the Company and Mr. Gilbert entered into a
+subsequent debt agreement whereby any additional promissory notes issued to Mr.
+Gilbert will mature on November 1, 2004 and bear interest at 4.5 per annum,
+payable in cash.
+
+During fiscal 2003, the Company paid approximately 16,000 to Surf-Tech
+Manufacturing, Inc. (a non-public corporation) for materials and labor in
+connection with the production of various replacement and upgrade equipment of
+PASSUR systems. A Company Executive Vice President and Director is a 50 
+shareholder of the aforementioned company, and the Company believes that these
+rates are competitive and are at or below market rates.
+
+Page 18 of 61
+
+CRITICAL ACCOUNTING POLICIES AND ESTIMATES
+
+GENERAL
+
+The Company's discussion and analysis of its financial condition and results of
+operations are based upon its consolidated financial statements, which have been
+prepared in accordance with accounting principles generally accepted in the
+United States. The preparation of these financial statements requires the
+Company to make estimates and judgments that affect the reported amounts of
+assets, liabilities, revenues and expenses, and related disclosures of
+contingent assets and liabilities based upon accounting policies management has
+implemented. The Company has identified the policies and estimates below as
+critical to its business operations and the understanding of its results of
+operations. The impact and any associated risks related to these policies on the
+Company's business operations is discussed throughout Management's Discussion
+and Analysis of Financial Condition and Results of Operations where such
+policies affect its reported financial results. Actual results may differ from
+these judgments under different assumptions or conditions. The Company's
+accounting policies that require management to apply significant judgment and
+estimates include:
+
+REVENUE RECOGNITION
+
+The Company recognizes revenue in accordance with SEC Staff Accounting Bulletin
+No. 101, "REVENUE RECOGNITION IN FINANCIAL STATEMENTS" ("SAB 101"), as amended.
+SAB 101 requires that four basic criteria must be met before revenues can be
+recognized: (1) persuasive evidence of an arrangement exists; (2) delivery has
+occurred or services have been rendered; (3) the fee is fixed and determinable;
+and (4) collectibility is reasonably assured. The Company also recognizes
+revenue in accordance with Statement of Position 97-2, "SOFTWARE REVENUE
+RECOGNITION" ("SOP 97-2"), as amended, when applicable.
+
+The Company's revenues are generated from the following: (1) subscription and
+maintenance agreements; (2) system sales, including system upgrade sales; and
+(3) one-time license fees. The Company recognizes revenues from system sales
+when the system is shipped in accordance with SAB 101 and SOP 97-2.
+
+Revenues generated from subscription and maintenance agreements are recognized
+over the term of such executed agreements and/or customer's receipt of such data
+or services. In accordance with SOP 97-2, we recognize revenue from the
+licensing of our software products or performance of maintenance when all of the
+following criteria are met: (1) we have entered into a legally binding agreement
+with a customer; (2) we deliver the products / services; (3) license /
+maintenance agreement terms are deemed fixed or determinable and free of
+contingencies or uncertainties that may alter the agreement such that it may not
+be complete and final; and (4) collection is probable. The Company records
+revenues pursuant to individual contracts on a month-by-month basis, as outlined
+by the applicable agreement(s). In many cases, the Company may invoice
+respective customers in advance of specified period(s), either quarterly or
+annually, which coincides with the terms of the agreement. In such cases, the
+Company will defer at the close of each month and/or reporting period any
+subscription or maintenance revenues invoiced for which services have yet to be
+rendered, in accordance with SOP 97-2.
+
+Page 19 of 61
+
+Our software licenses generally do not include acceptance provisions. An
+acceptance provision generally allows a customer to test the software for a
+defined period of time before they commit to a binding agreement to license the
+software. If a subscription agreement includes an acceptance provision, the
+company will not recognize revenue until the earlier of the receipt of a written
+customer acceptance or, if not notified by the customer to cancel the
+subscription agreement, the expiration of the acceptance period.
+
+From time to time, the Company will receive one-time payments from customers for
+rights, including but not limited to the rights to use certain data at an agreed
+upon location(s) for a specific use and/or for an unlimited number of users.
+Such one-time payments are in the form of license fees. These fees are
+recognized as revenue ratably over the term of the license agreement or expected
+useful life of such license arrangement, whichever is longer, but typically five
+years.
+
+Any deferred revenue is classified on the Company's balance sheet as a liability
+in the deferred income account until such time as revenue from services is
+properly recognized as revenue in accordance with SAB 101 and/or SOP 97-2 and
+the corresponding agreement.
+
+CAPITALIZED SOFTWARE COSTS
+
+The Company follows the provisions of Statement of Financial Accounting
+Standards No. 86, "ACCOUNTING FOR THE COSTS OF SOFTWARE TO BE SOLD, LEASED, OR
+OTHERWISE MARKETED" ("SFAS 86"). Costs incurred to develop computer hardware and
+software products as well as significant enhancements to software features of
+the existing products to be sold or otherwise marketed are capitalized after
+technological feasibility is established. Once the software products become
+available for general release to the public, the Company will begin to amortize
+such costs to cost of sales.
+
+The Company's policy on capitalized software costs determines whether the costs
+incurred are classified as capitalized costs (in accordance with SFAS 86) or as
+research and development expenses. In cases whereby the Company capitalizes
+costs incurred with development of new hardware/software products, a product
+specification is designed and/or a working model of the respective project is
+developed as the guideline for the criteria to capitalize costs associated with
+such project in accordance with SFAS 86.
+
+Once a product has been made available for sale and/or released for sale to the
+general public, the development costs of that product are no longer capitalized
+and amortization commences over a five year period and any additional costs
+incurred to maintain or support such product are expensed as incurred. In some
+cases, the Company may capitalize costs incurred in the development of enhanced
+versions of already existing products, but will immediately expense any costs
+incurred on products which were completed and released to the general public in
+the form of continued maintenance of such products, in accordance with SFAS 86.
+Management uses judgment in determining and evaluating whether development costs
+meet the criteria for immediate expense or capitalization.
+
+The Company's net capitalized software costs at October 31, 2003 totaled
+ 679,000. The carrying value of the capitalized software costs is dependent on
+the forecasted and actual performance of future cash flows generated from such
+assets as determined and evaluated by management.
+
+Page 20 of 61
+
+IMPAIRMENT OF LONG-LIVED ASSETS
+
+The Company follows the provisions of Statement of Financial Accounting
+Standards No. 144, "ACCOUNTING FOR THE IMPAIRMENT OR DISPOSAL OF LONG-LIVED
+ASSETS" ("SFAS 144"). The Company reviews long-lived assets for impairment when
+circumstances indicate the carrying amount of an asset may not be recoverable or
+at each reporting period. An impairment is recognized when the sum of the
+undiscounted estimated future cash flows expected to result from the use of the
+asset is less than the carrying value. The Company evaluates the periods of
+amortization continually in determining whether any events or circumstances
+warrant revised estimates of useful lives.
+
+The Company's long-lived assets include long-term fixed assets of the PASSUR
+Network and software development costs that at October 31, 2003 approximated
+ 2,924,000 and 679,000, respectively. Long-term fixed assets accounted for 79 
+of the Company's total assets. The carrying value of the long-term assets is
+dependent on the forecasted and actual financial performance and future cash
+flows of such assets as determined by management.
+
+On November 1, 2002, the Company changed the estimated useful lives of certain
+assets within the capitalized PASSUR Network from seven to five years to reflect
+the revised expected useful life of such assets.
+
+At each reporting period, management evaluates the carrying values of the
+Company's assets. The evaluation represents the undiscounted cash flows
+generated from current contractual revenue sources and the anticipated forecast
+revenue derived from each asset. It then evaluates these revenues on an overall
+basis to determine if any impairment issues exist. As of October 31, 2003, based
+upon management's evaluation of the above asset groups, no impairments exist of
+these asset groups. If these forecasts are not met the Company may have to
+record impairment charges not previously recorded. However, during the fourth
+quarter of fiscal 2003, the Company disposed of certain PASSUR Network assets
+totaling approximately 105,000, which represented the remaining carrying value
+of such assets. These disposals were due to network assets which were returned
+to the Company and deemed damaged and/or obsolete. In addition, the Company also
+determined during the fourth quarter of fiscal 2003, to dispose of one
+in-process capitalized software project of approximately 46,000 based upon the
+assumption that the project is no longer viable. The project commenced in fiscal
+2001 and at such time was considered a viable project and properly capitalized
+under SFAS 86, but recent determinations by the Company has resulted in the
+abandonment of the project.
+
+DEPRECIATION AND AMORTIZATION
+
+The Company's total net capitalized assets at October 31, 2003 were 3,702,000,
+representing 82 of the Company's consolidated net assets as of October 31,
+2003. The total net property, plant and equipment approximated 99,000, the
+total net PASSUR Network approximated 2,924,000 and the total net software
+development costs approximated 679,000. The total depreciation and amortization
+expense related to capitalized assets at October 31, 2003 approximated 652,000.
+Management judgment is required in the determination of the estimated
+depreciable lives that are used to calculate the annual depreciation and
+amortization expense.
+
+Page 21 of 61
+
+Depreciation and amortization are provided on the straight-line basis over the
+estimated useful lives of the assets, as follows:
+
+Property, plant and equipment 3 to 10 Years
+PASSUR Network 5 to 7 Years
+Software development costs 5 Years
+
+The PASSUR Network reflected on the Company's Consolidated Balance Sheets
+represents PASSUR Systems and the related software workstations used from the
+data derived from the PASSUR Systems. The PASSUR Network is comprised of PASSUR
+Systems installed and supplying data to the company network, related
+workstations with software and/or PASSUR Systems built but not yet installed
+into the company network. PASSUR Network assets which are not installed into the
+network are carried at cost and no depreciation is recorded. Once installed, the
+PASSUR Systems are depreciated over seven years and the related workstations are
+depreciated over five years.
+
+All of the Company's capitalized assets are recorded at cost (which may also
+include salaries and related overhead costs incurred during the period of
+development) and depreciated and/or amortized over the asset's estimated useful
+life for financial statement purposes. The estimated useful life represents the
+projected period of time that the asset will be productively employed by the
+Company and is determined by management based on many factors, including
+historical experience with similar assets, technological life cycles and
+industry standards for similar assets. Circumstances and events relating to
+these assets are monitored to ensure that changes in asset lives or impairments
+(see "Impairment of Long-Lived Assets" above) are identified and prospective
+depreciation expense or impairment expense is adjusted accordingly.
+
+The total depreciation and/or amortization for the year ended October 31, 2003
+for property, plant and equipment approximated 50,000, the PASSUR Network
+approximated 537,000 and software development costs approximated 65,000.
+
+STOCK-BASED COMPENSATION
+
+The Company currently measures compensation expense for stock option grants
+using the intrinsic value method prescribed for in APB No. 25 "ACCOUNTING FOR
+STOCK ISSUED TO EMPLOYEES". Under this method, the company does not record
+compensation expense when stock options are granted provided that the exercise
+price is not less than the fair market value of the stock when the option is
+granted. In accordance with SFAS No. 123, "ACCOUNTING FOR STOCK-BASED
+COMPENSATION" and SFAS No. 148, "ACCOUNTING FOR STOCK-BASED COMPENSATION -
+TRANSITION AND DISCLOSURE", the Company discloses its pro-forma net loss and
+pro-forma net loss per common share as if the fair value-based method has been
+applied in measuring compensation expense for stock option grants.
+
+Page 22 of 61
+
+RISK FACTORS
+
+THE COMPANY HAS A HISTORY OF OPERATING LOSSES AND NEGATIVE CASH FLOWS FROM
+OPERATIONS AND EXPECTS ITS LOSSES AND NEGATIVE CASH FLOWS TO CONTINUE FOR THE
+NEXT SEVERAL REPORTING PERIODS.
+
+The Company has incurred significant losses during the last six fiscal years.
+The Company incurred net losses of 2,486,000 for the fiscal year ended October
+31, 2003, 2,110,000 during the fiscal year ended October 31, 2002 and
+ 1,629,000 during the fiscal year ended October 31, 2001. As of October 31,
+2003, the Company's accumulated deficit was approximately 7,699,000. The
+Company anticipates that it will continue to incur net losses and negative cash
+flows for the next several reporting periods. The Company's ability to achieve
+and maintain profitability will depend upon its ability to generate significant
+increased revenues through new and existing customer agreements, additional
+services and/or products offered to existing customers and to control the costs
+associated with the business operations. There is no guarantee that the Company
+will be able to execute on these requirements. If the Company becomes profitable
+for a specific reporting period, it still may not be able to sustain or increase
+its profits on a quarterly or annual basis in the future.
+
+THE COMPANY'S SUCCESS IS DEPENDENT ON THE AVIATION INDUSTRY. IF THE COMPANY DOES
+NOT EXECUTE ITS BUSINESS PLAN OR IF THE MARKET FOR ITS SERVICES FAILS TO DEVELOP
+DUE TO THE DEPRESSED AVIATION INDUSTRY MARKET, ITS RESULTS OF OPERATIONS AND
+FINANCIAL RESULTS COULD CONTINUE TO BE ADVERSELY AFFECTED.
+
+The Company's revenues are solely derived from the aviation industry. The
+Company's future revenues and results of operations are dependent on its
+continued execution of its subscription-based revenue strategy and development
+of new software solutions and applications for the aviation industry. Due to the
+depressed aviation industry market, it is not assured that the Company will be
+able to continue to report growth in its subscription-based business or sustain
+its current subscription business. If the Company is unable to sustain and/or
+increase its levels of revenues, and it is not successful in reducing costs, its
+cash requirements may increase and the results of operations will continue to be
+adversely affected.
+
+Additionally, the aviation market has been impacted by budgetary constraints and
+airline bankruptcies due to the downturn in the current economy, the terrorist
+events of September 11, 2001 and the war on terrorism. The aviation market is
+extensively regulated by government agencies, particularly the Federal Aviation
+Administration and The National Transportation Safety Board. New air travel
+regulations have been, and management anticipates will continue to be,
+implemented that could have a negative impact on airline and airport revenues.
+Since substantially all of the Company's revenues are derived from either
+airports or airlines, continued increased regulations of the aviation industry
+or continued downturn in the economic situation of the aviation industry could
+have a material adverse effect on the Company.
+
+RELIANCE ON THE COMPANY'S QUARTERLY OPERATING RESULTS AS AN INDICATION OF FUTURE
+RESULTS IS INAPPROPRIATE DUE TO POTENTIAL SIGNIFICANT FLUCTUATIONS.
+
+The Company's future revenues and results of operations may fluctuate
+significantly due to a combination of factors, including:
+ o Delays and/or decreases in the signing and invoicing of new contracts;
+ o The length of time needed to initiate and complete customer contracts;
+ o Revenues recognized from one-time sales events (selling or upgrading
+ systems) versus subscription based sales;
+ o The introduction and market acceptance of new and enhanced products
+ and services;
+ o The costs associated with providing existing and new products and
+ services;
+
+Page 23 of 61
+
+o Economic conditions in the United States and the impact on the
+ aviation industry from the terrorist events of September 11, 2001 and
+ continued war or terrorism; and
+ o The potential of future terrorist acts against the aviation industry.
+
+ Accordingly, quarter-to-quarter comparisons of its results of
+ operations should not be relied on as an indication of performance. It
+ is possible that in future periods results of operations may be below
+ those expected based upon previous performance.
+
+THE COMPANY MAY BE UNABLE TO RAISE ADDITIONAL FUNDS TO MEET OPERATING CAPITAL
+REQUIREMENTS IN THE FUTURE.
+
+The Company has incurred significant negative cash flows from operations over
+the past several fiscal years. It has obtained a commitment from its significant
+shareholder and Chairman to provide the resources necessary to meet working
+capital and liquidity requirements through October 31, 2004. However, future
+liquidity and capital requirements are difficult to predict, as they depend on
+numerous factors, including the maintenance and growth of existing product lines
+and service offerings, as well as the ability to develop, provide and sell new
+products in an industry for which liquidity and resources are already adversely
+affected. The Company has significant cost requirements, which are expected to
+continue in the future. The Company may need to raise additional funds in order
+to support discretionary capital expenditures and execute its business plan.
+These funds in some cases may be beyond the scope and normal operating
+requirements, for which the Company has a commitment from its significant
+shareholder and Chairman and therefore, may not be approved and/or funded. In
+such case, the Company may be required to seek alternate sources of financing
+(which may not be available on favorable terms or at all) or abandon such
+activities by either: terminating or eliminating certain operating activities;
+terminating personnel; eliminating marketing activities; and/or eliminating
+research and development programs. If any of the aforementioned occurs, the
+Company's ability to expand and continued growth could become adversely
+affected.
+
+A LIMITED NUMBER OF CUSTOMER CONTRACTS ACCOUNT FOR A HIGH PERCENTAGE OF THE
+COMPANY'S REVENUES, AND THE INABILITY TO REPLACE A KEY CUSTOMER CONTRACT COULD
+ADVERSELY AFFECT OUR RESULTS OF OPERATIONS, BUSINESS AND FINANCIAL CONDITION.
+
+The Company relies on a small number of customer contracts for a large
+percentage of its revenues and expects that a significant percentage of its
+revenues will continue to be derived from a limited number of customer
+contracts. The Company's business plan is to obtain additional customers, but
+anticipates that near term revenues and operating results will continue to
+depend on large contracts from a small number of customers. Additionally, the
+aviation industry, particularly the airline sector, has experienced several
+Chapter 11 bankruptcy filings recently. Any Chapter 11 filings by our existing
+customers may adversely affect our ability to continue such services and collect
+revenue generated by such customers. As a result of this concentration of our
+customer base, an inability to replace one or more of these large customer
+contracts could materially adversely affect our business, financial condition,
+operating results and cash flow.
+
+Page 24 of 61
+
+THE SOFTWARE BUSINESS FOR THE AVIATION INDUSTRY IS HIGHLY COMPETITIVE, AND
+FAILURE TO ADAPT TO THE CHANGING INDUSTRY NEEDS COULD ADVERSELY AFFECT OUR
+RESULTS OF OPERATIONS, BUSINESS AND FINANCIAL CONDITION.
+
+The industry in which we compete is marked by rapid and substantial technology
+change, the steady emergence of new companies and products, as well as evolving
+industry standards and changing customer needs. We compete with many established
+companies in the industry we serve, and some of these companies may have
+substantially greater financial, marketing and technology resources, larger
+distribution capabilities, earlier access to potential customers and greater
+opportunities to address customers' various information technology requirements.
+As the aviation industry seeks to be more cost effective due to the continued
+economic downturn, product pricing becomes increasingly important for our
+customers. As a result we may experience increased competition from certain,
+low-price competitors. To remain competitive, we continue to develop new
+products and continue to enhance existing products. We may be unsuccessful in
+our ability to sell new products and/or product releases that meet the needs of
+our industry in light of low-cost, less functional alternatives available in the
+market. In addition, the pricing of new products or releases of existing
+products may be above that required by the market place. Our inability to bring
+such new products or enhancements to existing products to the market in a timely
+manner or the failure for these products to achieve industry acceptance could
+adversely affect our business, financial condition, operating results and cash
+flow.
+
+THE COMPANY DEPENDS UPON CERTAIN KEY PERSONNEL AND MAY NOT BE ABLE TO RETAIN
+THESE EMPLOYEES.
+
+The Company's future performance depends on the continued services of its key
+technical and engineering personnel. Significant improvements have been made in
+the past year to address such issues, in particular, technical redundancy, but
+the Company continues to depend on the efforts of a limited number of key
+personnel. The employment of any of the Company's key personnel could cease at
+any time which could have an adverse affect on our business.
+
+THE PASSUR NETWORK COULD EXPERIENCE DISRUPTIONS, WHICH COULD AFFECT THE DELIVERY
+OF DATA.
+
+The Company's network infrastructure is maintained and hosted by AT&T through an
+existing frame-relay network. If AT&T experiences system failures or fails to
+adequately maintain the frame-relay network, the Company may experience
+interruption of delivery of data / software services and customers may terminate
+or elect not continue to subscribe to these services in the future. The
+Company's network infrastructure may be vulnerable to computer viruses,
+break-ins, denial of service attacks and similar disruptive problems. Computer
+viruses, break-ins, denial of service attacks or other problems caused by third
+parties could lead to interruptions, delays or cessation in service to
+customers. There is currently no existing technology that provides absolute
+security. Such incidents could deter potential customers and adversely affect
+existing customer relationships.
+
+THE COMPANY MAY BE SUBJECT TO EXISTING AND NEWLY ISSUED GOVERNMENT REGULATIONS
+RELATING TO THE DISTRIBUTION OF FLIGHT-TRACKING DATA.
+
+The Company currently maintains strict safety regulations for its data in order
+to comply with current government regulations. Due to the continued growing
+safety needs and concerns of the aviation industry, new government regulations
+may be implemented. Such new regulations may, in some cases, hinder the
+Company's ability to provide current and/or additional services.
+
+UNAUTHORIZED USE OF THE COMPANY'S INTELLECTUAL PROPERTIES BY THIRD PARTIES MAY
+DAMAGE AND/OR ADVERSELY AFFECT OUR BUSINESS.
+
+We regard our trademarks, trade secrets and all other intellectual property as
+critical to our future success. Unauthorized use of our intellectual property by
+third parties may damage and/or impair
+
+Page 25 of 61
+
+our business. Our intellectual property includes exclusive licenses to use
+patents held by third parties, as well as Company-owned patents. We rely on
+trademarks, trade secrets, patent protection and contracts, including
+confidentiality and non-exclusive license agreements with our customers,
+employees, consultants, strategic partners and others to protect our
+intellectual property rights. Despite our precautions, it may be possible for
+third parties to obtain and use our intellectual property without our prior
+knowledge and/or authorization.
+
+The Company currently has the exclusive license rights to use fifteen patents in
+the United States and various foreign countries, relating to the Company's
+PASSUR System and related technologies. The licensed patents expire in various
+years through 2013. We currently have five additional patents pending with the
+United States Patent Office, some of which relate to newly developed internet
+based software applications, derived in large part from the data generated from
+the Company's PASSUR Systems. We also intend to seek further patents on our
+products and technological advances and/or software applications, when
+appropriate. There can be no assurance that the patents will be issued for any
+of our pending or future patent applications or that any claims allowed from
+such applications will be of sufficient scope, or provide adequate protection or
+any commercial advantage to the Company. Additionally, our competitors may be
+able to design around our patents and possibly affect our commercial interests.
+
+The Company has filed applications for trademark registration of PASSUR in the
+Untied States. We cannot be assured that the registration will be granted from
+our pending or future applications, or that any registrations that are granted
+will prevent others from using similar trademarks in connection with related
+services.
+
+DEFENDING AGAINST INTELLECTUAL PROPERTY CLAIMS COULD POSE SIGNIFICANT LEGAL AND
+PROFESSIONAL COSTS, AND IF UNSUCCESSFUL, COULD ADVERSELY AFFECT THE COMPANY.
+
+We cannot guarantee that our future products, technologies and software
+applications will not inadvertently infringe valid patents or other intellectual
+property rights held by third parties. We may be subject to legal proceedings
+and claims from time to time relating to the intellectual property of others.
+Prosecuting infringers and defending against intellectual property infringement
+claims could be time consuming and costly, and irrespective of whether or not
+the Company is successful, could disrupt our business. We may incur substantial
+expenses in defending against these third party claims, regardless of their
+merit. Successful infringement claims against the Company may result in
+significant monetary liability and could adversely affect our business,
+financial condition, operating results and cash flow.
+
+THIRD PARTIES COULD CLAIM THAT OUR PRODUCTS INFRINGE THEIR INTELLECTUAL PROPERTY
+RIGHTS, AND DEFENDING SUCH CLAIMS COULD ADVERSELY AFFECT THE COMPANY.
+
+Investigation of any claims from third parties alleging infringement of their
+intellectual property, whether with or without merit, can be expensive and could
+affect development, marketing, selling or delivery of our products. As the
+number of software patents issued increases, additional claims, with or without
+merit, could be asserted. Defending against such claims is time consuming and
+might result in significant legal expenses or settlement with unfavorable terms
+that could adversely affect our business, financial condition, operating results
+and cash flow.
+
+FORWARD LOOKING STATEMENTS
+
+Management's Discussion and Analysis of Financial Condition and Results of
+Operations and the information provided elsewhere in this Annual Report on Form
+10-K (including, without limitation, "Liquidity and Capital Resources" and "Risk
+Factors" above) contain "forward-looking statements" within the meaning of the
+Private Securities Litigation Reform Act of 1995
+
+Page 26 of 61
+
+regarding the Company's future plans, objectives and expected performance. The
+words "believe," "may," "will," "could," "should," "would," "anticipate,"
+"estimate," "expect," "project," "intend," "objective," "seek," "strive,"
+"might," "likely result," "build," "grow," "plan," "goal," "expand," "position,"
+or similar words, or the negatives of these words, or similar terminology
+identify forward-looking statements. These statements are based on assumptions
+that the Company believes are reasonable, but are subject to a wide range of
+risks and uncertainties, and a number of factors could cause the Company's
+actual results to differ materially from those expressed in the forward-looking
+statements referred to above. These factors include, among others, the
+uncertainties related to the ability of the Company to sell data subscriptions
+from its PASSUR network and to make new sales of its PASSUR and other product
+lines due to potential competitive pressure from other companies or other
+products as well as the current uncertainty in the aviation industry due to
+terrorist events, the war on terror and airline bankruptcies. Other
+uncertainties which could impact the Company are uncertainties with respect to
+future changes in governmental regulation affecting the products and their use
+in flight dispatch information services and the impact of those uncertainties on
+the Company's business and the significant shareholder's continued support.
+Additional uncertainties are related to the Company's ability to find and
+maintain the personnel necessary to sell, manufacture and service its products,
+our ability to adequately protect our intellectual property and our ability to
+secure future financing. Readers are cautioned not to place undue reliance on
+these forward-looking statements, which reflect management's analysis,
+judgments, belief or expectation only as of the date hereof. The forward-looking
+statements made in this Annual Report on Form 10-K relates only to events as of
+the date on which the statements are made. The Company undertakes no obligation
+to publicly update any forward-looking statements for any reason, even if new
+information becomes available or other events occur in the future.
+
+ITEM 7A. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK.
+
+The Company is exposed to market risk from potential changes in
+interest rates. The Company regularly evaluates these risks. The Company
+believes the amount of risk relating to changes in interest rates is not
+material to the Company's financial condition or results of operations. The
+Company has not and does not anticipate entering into derivative financial
+instruments.
+
+ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA.
+
+See Part IV, Item 15(a)(1) of this Annual Report on Form 10-K for the Company's
+annual financial statements.
+
+See Part II, Item 7 of this Annual Report on Form 10-K for selected quarterly
+financial data.
+
+ITEM 9. CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND
+FINANCIAL DISCLOSURE.
+
+ None.
+
+ITEM 9A. CONTROLS AND PROCEDURES
+
+ (a) EVALUATION OF DISCLOSURE CONTROLS AND PROCEDURES
+
+Page 27 of 61
+
+For purposes of Rules 13a-14 and 15d-14 of the Exchange Act 1934
+("Exchange Act") the term "disclosure controls and procedures" refers to the
+controls and other procedures of a company that are designed to ensure that
+information required to be disclosed by a company in the reports that it files
+under the Exchange Act is recorded, processed, summarized and reported within
+required time periods. The Company's management including the Company's Chief
+Executive Officer and Chief Financial Officer has evaluated the effectiveness of
+its disclosure controls and procedures as of the end of period covered by this
+report. Based on that evaluation, the Company's Chief Executive Officer and
+Chief Financial Officer have concluded that, the Company's disclosure controls
+and procedures were effective at ensuring that required information will be
+disclosed on a timely basis in the Company's reports filed under the Exchange
+Act.
+
+ (b) CHANGES IN INTERNAL CONTROLS
+
+ The Company's management, including the Company's Chief Executive
+Officer and Chief Financial Officer, has evaluated the Company's internal
+control over financial reporting (as defined by Rule 13a-15(f) under the
+Exchange Act) to determine whether any changes occurred during the period
+covered by this report that have materially affected, or are reasonably likely
+to materially affect, our internal control over financial reporting. Based on
+that evaluation, there has been no such change during the period covered by this
+report.
+
+Page 28 of 61
+
+PART III
+
+ITEM 10. DIRECTORS AND EXECUTIVE OFFICERS OF THE REGISTRANT.
+
+(a) Identification of Directors.
+
+The following table sets forth the names and ages of the Company's directors, as
+well as the year each individual became a director and the position(s) with the
+Company, if any, held by each individual.
+
+ Director Director Position and Offices
+Name Age Since With Company
+- ---------------------- --- ---- -----------------------------
+
+G.S. Beckwith Gilbert 61 1997 Chairman of the Board and a
+ Director 
+
+Richard R. Schilling, Jr. 78 1974 Director
+
+John R. Keller 63 1997 Executive Vice President, and
+ a Director
+
+Bruce N. Whitman 70 1997 Director
+
+Paul L. Graziani 46 1997 Director
+
+James T. Barry 42 2000 President, Chief Executive
+ Officer and a Director 
+
+Each director is elected to serve until the succeeding annual meeting of
+shareholders and until his successor is duly elected and qualifies.
+
+ Effective February 1, 2003, G.S. Beckwith Gilbert retired as Chief Executive
+Officer of the Company.
+
+ Effective February 1, 2003, James T. Barry was appointed Chief Executive
+Officer of the Company. Effective April 14, 2003, Mr. Barry was appointed
+President of the Company.
+
+Page 29 of 61
+
+(b) Identification of Executive Officers.
+
+The following table sets forth the names and ages of the Company's executive
+officers, as well as the office(s) held by each individual and the year in which
+he or she began to serve in such capacity.
+
+ Officer Officer Position and Offices
+Name Age Since With Company
+- --------------------------------------------------------------------------------
+James T. Barry 42 1998 President, Chief Executive Officer
+ and a Director 
+
+Louis J. Petrucelly 29 2001 Chief Financial Officer, Treasurer,
+ and Secretary 
+
+John R. Keller 63 1970 Executive Vice President and a
+ Director
+
+Dr. James A. Cole 63 1988 Senior Vice President of Research &
+ Development
+
+Matthew H. Marcella 46 2003 Vice President of Software
+ Development
+
+Ron Dunsky 41 2003 Vice President of Marketing 
+
+Each officer is elected to serve at the discretion of the Board of Directors.
+
+ Effective February 1, 2003, James T. Barry was appointed Chief Executive
+Officer of the Company. Effective April 14, 2003, Mr. Barry was appointed
+President of the Company.
+
+ Effective February 1, 2003, Louis J. Petrucelly was appointed Chief Financial
+Officer and Secretary of the Company.
+
+ Effective May 21, 2003, Ron Dunsky was appointed as Vice President of
+Marketing.
+
+ (c) Identification of Certain Significant Employees.
+
+None.
+
+ (d) Family Relationship.
+
+None.
+
+Page 30 of 61
+
+(e) Business Experience.
+
+The following sets forth the business experience during the past five years of
+each director and executive officer:
+
+G.S. Beckwith Gilbert Mr. Gilbert continues to serve as the Company's
+ Chairman of the Board since his election in 1997.
+ Mr. Gilbert was appointed Chief Executive Officer in
+ October of 1998 and served as such until his
+ retirement from that post on February 1, 2003. In
+ addition, Mr. Gilbert has been President and Chief
+ Executive Officer of Field Point Capital Management
+ Company, a merchant-banking firm, since 1988. He is
+ a partner of Wolsey & Co., a merchant-banking firm.
+ Mr. Gilbert is a Director of Davidson Hubeny Brands
+ and a trustee of the Rockefeller University.
+
+Richard R. Schilling, Jr. Mr. Schilling has been a Director of the Company
+ since 1974. Mr. Schilling is a member of the law
+ firm of Burns, Kennedy, Schilling & O'Shea, New
+ York, New York.
+
+Bruce N. Whitman Mr. Whitman has been a Director of the Company
+ since 1997. Mr. Whitman is the President and a
+ Director of FlightSafety International and held
+ other posts such as Executive Vice President since
+ 1961. He is also a Director of Aviall, Inc., The
+ Congressional Medal of Honor Foundation and The
+ Smithsonian National Air & Space Museum. Mr. Whitman
+ is also a member of the Board of Governors of the
+ Civil Air Patrol, a trustee of Kent School and The
+ National D-Day Museum.
+
+Paul L. Graziani Mr. Grazianai has been a Director of the Company
+ since 1997. Mr. Graziani is the President and Chief
+ Executive Officer of Analytical Graphics, Inc.
+ (AGI), a leading producer of commercially available,
+ analysis and visualization software for the
+ aerospace, defense and intelligence communities. Mr.
+ Graziani has been recently recognized as "CEO of the
+ Year" by the Philadelphia region's Eastern
+ Technology Council and "Businessman of the Year" by
+ the local Great Valley Regional Chamber of Commerce.
+ He is also a Director of The Space Foundation, The
+ Board of Governors of the Aerospace Industries
+ Association (AIA); and the advisory boards of the
+ Galaxy Explorers and Penn State Great Valley.
+
+Page 31 of 61
+
+Dr. James A. Cole Dr. Cole currently serves as Senior Vice
+ President and the Director of Research and
+ Development of the Company. Dr. Cole earned a Ph.D.
+ in physics from Johns Hopkins University in 1966. He
+ is a current member of the American Association for
+ the Advancement of Science, American Physics
+ Society, Association for Computing Machinery,
+ Institute of Electrical and Electronic Engineers and
+ IEEE Computer Society. Dr. Cole has been with the
+ Company since 1974.
+
+John R. Keller Mr. Keller has been with the Company since its
+ inception in 1967 as one of the co-founders. Mr.
+ Keller received his bachelors and master degrees in
+ engineering from New York University in 1960 and
+ 1962, respectively. Mr. Keller currently serves as
+ Executive Vice President of the Company.
+
+James T. Barry Mr. Barry was named President of the Company on
+ April 14, 2003 and Chief Executive Officer on
+ February 1, 2003. Since Mr. Barry joined the Company
+ in 1998, he has held the positions of Chief
+ Operating Officer, Chief Financial Officer,
+ Secretary and Executive Vice President. He is also a
+ Senior Vice President of Field Point Capital
+ Management Company. From 1989 to 1998, he was with
+ Dianon Systems, Inc., most recently as Vice
+ President of Marketing. Prior to Dianon, Mr. Barry
+ was an officer in the United States Marine Corps.
+
+Louis J. Petrucelly Mr. Petrucelly was named Chief Financial Officer
+ and Secretary of the Company on February 1, 2003.
+ Since Mr. Petrucelly joined the Company in 2001, he
+ has held the positions of Chief Accounting Officer,
+ Treasurer, Controller and Assistant Secretary. Mr.
+ Petrucelly joined the Company from Ernst & Young
+ LLP, where he was from 1998 to 2001.
+
+Matthew H. Marcella Mr. Marcella was named Vice President - Software
+ Development on January 15, 2003. Mr. Marcella joined
+ the Company in 2001 from Cityspree Inc., where he
+ served as lead software architect from 2000 to 2001.
+ From 1999 to 2000, he was a Vice President at
+ Deutsche Bank and Nomura Securities. From 1996 to
+ 1999, he was a technical officer at UBS Securities.
+
+Ron Dunsky Mr. Dunsky was named Vice President of
+ Marketing on May 21, 2003. Since Mr. Dunsky joined
+ the Company in 2001, he served as Director of
+ Marketing and New Product Development. Prior to
+ joining the Company, Mr. Dunsky was a senior
+ aviation producer with the New York bureau of
+ ABCNews.com from 2000 to 2001. Prior to ABCNews.com,
+ he was a senior aviation producer with the New York
+ bureau of CNN from 1995 to 2000.
+
+Page 32 of 61
+
+(f) Involvement in Certain Legal Proceedings.
+
+ The Company knows of no event which occurred during the past five
+years and which is described in Item 401(f) of Regulation S-K relating to any
+director or executive officer of the Company.
+
+ (g) Audit Committee Financial Expert.
+
+ The Company hereby incorporates by reference into this Item the
+information contained under the heading "Audit Committee Financial Expert" in
+the Company's definitive proxy statement that will be filed with the Securities
+and Exchange Commission within 120 days of October 31, 2003 (the "2004 Proxy
+Statement.")
+
+ (h) Identification of Audit Committee.
+
+ The Company hereby incorporates by reference into this Item the
+information contained under the heading "Identification of Audit Committee" in
+the Company's definitive proxy statement that will be filed with the Securities
+and Exchange Commission within 120 days of October 31, 2003 (the "2004 Proxy
+Statement.")
+
+ (i) Compliance with Section 16(a) of the Securities Exchange Act of
+ 1934.
+
+ Section 16(a) of the Securities Exchange Act of 1934, as amended (the
+"Exchange Act"), requires the Company's directors, executive officers and 10 
+stockholders to file reports of ownership and reports of change in ownership of
+the Company's Common Stock and other equity securities with the Securities and
+Exchange Commission. Directors, executive officers and 10 stockholders are
+required to furnish the Company with copies of all Section 16(a) forms they
+file. Based on a review of the copies of such reports furnished to it, the
+Company believes that during the fiscal year ended October 31, 2003, the
+Company's directors, executive officers and 10 stockholders complied with all
+Section 16(a) filing requirements applicable to them.
+
+ (j) Code of Ethics.
+
+ The Company hereby incorporates by reference into this Item the
+information contained under the heading "Code of Ethics" in the Company's
+definitive proxy statement that will be filed with the Securities and Exchange
+Commission within 120 days of October 31, 2003 (the "2004 Proxy Statement.")
+
+Page 33 of 61
+
+ITEM 11. EXECUTIVE COMPENSATION.
+
+ The Company hereby incorporates by reference into this Item the
+information contained under the heading "Executive Compensation" in the
+Company's definitive proxy statement that will be filed with the Securities and
+Exchange Commission within 120 days of October 31, 2003 (the "2004 Proxy
+Statement.")
+
+ITEM 12. SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT.
+
+ The Company hereby incorporates by reference into this Item the
+information contained under the heading "Security Ownership of Certain
+Beneficial Owners and Management" in the 2004 Proxy Statement.
+
+ITEM 13. CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS.
+
+(a) Transactions with management and others.
+
+In fiscal 2003, Mr. Gilbert loaned the Company 2,761,000 in the
+aggregate under promissory notes bearing interest at 9 per annum and with
+original maturity dates of December 31, 2003. Subsequent to October 31, 2003,
+all promissory notes maturity dates were extended to November 1, 2004, with
+interest payable in the form of 600,000 shares of Megadata common stock.
+Subsequent to November 15, 2003, the Company and Mr. Gilbert entered into an
+additional debt agreement, whereby, any additional promissory notes issued to
+Mr. Gilbert will mature on November 1, 2004 and bear interest at 4.5 per annum.
+As of October 31, 2003, the total notes payable due to Mr. Gilbert totaled
+ 8,466,465 and were secured by the Company's assets. Maturities of these notes
+payable for the fiscal years ended October 31 are as follows: 2004- none, and
+2005- 8,466,465.
+
+ (b) Certain Business Relationships.
+
+ None.
+
+ (c) Indebtedness of Management.
+
+ None.
+
+ (d) Transactions with Promoters.
+
+ Not applicable.
+
+ITEM 14. PRINCIPAL ACCOUNTING FEES AND SERVICES.
+
+ The Company hereby incorporates by reference into this Item the
+information contained under the heading "Principal Accounting Fees and Services"
+in the 2004 Proxy Statement.
+
+Page 34 of 61
+
+PART IV
+
+ITEM 15. EXHIBITS, FINANCIAL STATEMENT SCHEDULES, AND REPORTS ON FORM 8-K.
+
+(a) List of documents filed as a part
+ of this Annual Report on Form 10-K: Page
+
+ (1) Index to consolidated financial statements
+ included in Part II of this Report:
+
+ Report of Independent Auditors F-1
+
+ Consolidated balance sheets as of
+ October 31, 2003 and 2002 F-2
+
+ Consolidated statements of
+ operations for the years ended
+ October 31, 2003, 2002 and 2001 F-3
+
+ Consolidated statements of
+ stockholders' deficit for the years ended
+ October 31, 2003, 2002 and 2001 F-4
+
+ Consolidated statements of cash
+ flows for the years ended
+ October 31, 2003, 2002 and 2001 F-5
+
+ Notes to consolidated financial
+ Statements F-6
+
+ (2) Index to Financial Statement Schedule:
+ Schedule II - Valuation and Qualifying Accounts S-1
+
+Schedules for which provision is made in the applicable accounting regulation of
+the Securities and Exchange Commission are not required under the related
+instructions or are inapplicable, and therefore have been omitted.
+
+ (b) Reports on Form 8-K
+
+ On February 3, 2003, the Company filed Form 8-K announcing the
+ retirement of G.S. Beckwith Gilbert as Chief Executive Officer and
+ the appointments of James T. Barry as Chief Executive Officer and
+ Louis J. Petrucelly as Chief Financial Officer, effective February 1,
+ 2003.
+
+ On March 18, 2003, the Company filed Form 8-K announcing the
+ resignation of Delon Dotson, as President, Chief Technology Officer
+ and Director effective March 14, 2003.
+
+Page 35 of 61
+
+(c) Index to Exhibits
+
+The following exhibits are required to be filed with this Annual Report on Form
+10-K by Item 15(a) (3) and (c).
+
+ EXHIBITS
+ 3.1 The Company's composite Certificate of Incorporation,
+ dated as of January 24, 1990, is incorporated by
+ reference from our Annual Report on Form 10-K for the
+ fiscal year ended October 31, 1989.
+
+ 3.2 The Company's By-laws, dated as of May 16, 1988, are
+ incorporated by reference from our Annual Report on
+ Form 10-K for the fiscal year ended October 31, 1998.
+
+ 10.1 The Company's 1988 Bonus Pool Plan is incorporated by
+ reference from our Annual Report on Form 10-K for the
+ fiscal year ended October 31, 1998.
+
+ 10.2 The Company's 1988 Stock Option Plan is incorporated
+ by reference from our Annual Report on Form 10-K for
+ the fiscal year ended October 31, 1998.
+
+ 10.3 The Company's 1999 Stock Incentive Plan is
+ incorporated by reference from our Proxy Statement on
+ Schedule 14A dated June 23, 1999.
+
+ 10.4 Severance Agreement with Yitzhak N. Bachana effective
+ October 2, 1998 is incorporated by reference from our
+ Form 8-K, dated October 6, 1998.
+
+ 10.5 Letter of Agreement for employment services, dated
+ December 28, 1999, between the Company and Ken J.
+ McNamara is incorporated by reference to Exhibit 10.5
+ to our Annual Report on Form 10-K for the fiscal year
+ ended October 31, 1999.
+
+ 10.6 The Company's amendment to the 1999 Stock Incentive
+ Plan is incorporated by reference from our Proxy
+ Statement on Schedule 14A, dated March 12, 2002.
+
+ 10.7 Letter of Agreement for employment services, dated
+ September 5, 2002, between the Company and Delon
+ Dotson is incorporated by reference from our Form 8-K
+ , dated September 12, 2002.
+
+ 10.8 The Company's amendment to the 1999 Stock Incentive
+ Plan is incorporated by reference from our Proxy
+ Statement on Schedule 14A, dated March 12, 2003.
+
+ 10.9 Debt Agreement, dated November 1, 2003, between the
+ Company and G.S. Beckwith Gilbert is incorporated by
+ reference from our Form 8-K, dated January 23, 2004.
+
+ 16 Change in Certifying Accountant is incorporated by
+ reference from our Form 8-K/A, dated October 28,
+ 1998.
+
+ 21 List of Subsidiaries is incorporated by reference
+ from our Annual Report on Form 10-K report for the
+ fiscal year ended October 31, 1981.
+
+31.1 Certification of Chief Executive Officer pursuant to
+ 18 U.S.C. Section 1350, as adopted pursuant to
+ Section 302 of the Sarbanes-Oxley Act of 2002
+
+ 31.2 Certification of Chief Financial Officer pursuant to
+ 18 U.S.C. Section 1350, as adopted pursuant to
+ Section 302 of the Sarbanes-Oxley Act of 2002
+
+Page 36 of 61
+
+32.1 Certification of Chief Executive Officer pursuant to
+ 18 U.S.C. Section 1350, as adopted pursuant to
+ Section 906 of the Sarbanes-Oxley Act of 2002
+
+ 32.2 Certification of Chief Financial Officer pursuant to
+ 18 U.S.C. Section 1350, as adopted pursuant to
+ Section 906 of the Sarbanes-Oxley Act of 2002
+
+Page 37 of 61
+
+SIGNATURES
+
+Pursuant to the requirements of Section 13 or 15(d) of the Securities Exchange
+Act of 1934, the Registrant has duly caused this report to be signed on its
+behalf by the undersigned, thereunto duly authorized.
+
+MEGADATA CORPORATION
+
+DATED: JANUARY 28, 2004 By: /s/ James T. Barry
+ ------------------------------
+ James T. Barry, President and
+ Chief Executive Officer
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, this report
+has been signed below by the following persons on behalf of the Registrant and
+in the capacities and on the date indicated:
+
+DATED: JANUARY 28, 2004 /s/ James T. Barry
+ ------------------------------
+ James T. Barry, President,
+ Chief Executive Officer
+ and Director
+ (Principal Executive Officer)
+
+DATED: JANUARY 28, 2004 /s/ Louis J. Petrucelly
+ ------------------------------
+ Louis J. Petrucelly,
+ Chief Financial Officer,
+ Treasurer and Secretary
+ (Principal Financial and
+ Accounting Officer)
+
+Page 38 of 61
+
+SIGNATURES (CONTINUED)
+
+DATED: JANUARY 28, 2004 /s/ G.S. Beckwith Gilbert
+ --------------------------
+ G.S. Beckwith
+ Gilbert, Chairman
+ and Director
+
+DATED: JANUARY 28, 2004 /s/ John R. Keller
+ --------------------------
+ John R. Keller, Executive
+ Vice President and Director
+
+DATED: JANUARY 28, 2004 /s/ Richard R. Schilling, Jr.
+ -----------------------------
+ Richard R. Schilling, Jr.
+ Director
+
+DATED: JANUARY 28, 2004 /s/ Bruce N. Whitman
+ --------------------------
+ Bruce N. Whitman
+ Director
+
+DATED: JANUARY 28, 2004 /s/ Paul L. Graziani
+ --------------------------
+ Paul L. Graziani
+ Director
+
+Page 39 of 61
+
+Report of Independent Auditors
+
+Board of Directors and Stockholders
+Megadata Corporation and Subsidiaries
+
+We have audited the accompanying consolidated balance sheets of Megadata
+Corporation and Subsidiaries as of October 31, 2003 and 2002, and the related
+consolidated statements of operations, stockholders' deficit, and cash flows for
+each of the three years in the period ended October 31, 2003. Our audits also
+include the financial statement schedule listed in the index at Item 15(a).
+These financial statements and schedule are the responsibility of the Company's
+management. Our responsibility is to express an opinion on these financial
+statements and schedule based on our audits.
+
+We conducted our audits in accordance with auditing standards generally accepted
+in the United States. Those standards require that we plan and perform the audit
+to obtain reasonable assurance about whether the financial statements are free
+of material misstatement. An audit includes examining, on a test basis, evidence
+supporting the amounts and disclosures in the financial statements. An audit
+also includes assessing the accounting principles used and significant estimates
+made by management, as well as evaluating the overall financial statement
+presentation. We believe that our audits provide a reasonable basis for our
+opinion.
+
+In our opinion, the consolidated financial statements referred to above present
+fairly, in all material respects, the consolidated financial position of
+Megadata Corporation and Subsidiaries at October 31, 2003 and 2002, and the
+consolidated results of their operations and their cash flows for each of the
+three years in the period ended October 31, 2003, in conformity with accounting
+principles generally accepted in the United States. Also, in our opinion, the
+related financial statement schedule, when considered in relation to the
+financial statements taken as a whole, presents fairly in all material respects
+the information set forth therein.
+
+/s/ Ernst & Young LLP
+ ---------------------
+
+Melville, New York
+January 16, 2004
+
+F - 1
+
+Page 40 of 61
+
+Megadata Corporation and Subsidiaries
+
+ Consolidated Balance Sheets
+
+ OCTOBER 31,
+ 2003 2002
+ ------------- ------------
+ASSETS
+ 
+Current assets:
+ Cash 48,980 86,334
+ Accounts receivable, net 485,693 230,676
+ Inventories 195,254 303,633
+ Prepaid expenses and other current assets 83,922 72,197
+ ------------ ------------
+Total current assets 813,849 692,840
+
+Property, plant and equipment, net 98,919 133,233
+PASSUR network, net 2,924,155 3,070,784
+Software development costs, net 679,041 537,057
+Other assets 17,315 16,085
+ ------------ ------------
+Total Assets 4,533,279 4,449,999
+ ============ ============
+
+LIABILITIES AND STOCKHOLDERS' DEFICIT
+Current liabilities:
+ Accounts payable 209,293 456,755
+ Accrued expenses and other current liabilities 409,405 418,775
+ Accrued expenses--related parties 145,837 162,881
+ Deferred income 842,687 784,374
+ ------------ ------------
+Total current liabilities 1,607,222 1,822,785
+
+Notes payable--related party 8,466,465 5,705,000
+ ------------ ------------
+ 10,073,687 7,527,785
+Commitment and contingencies
+
+Stockholders' deficit:
+ Preferred shares - authorized 5,000,000 shares, par value .01 per
+ share; none issued or outstanding -- --
+ Common shares--authorized 10,000,000 shares, par value
+ .01 per share; issued 4,184,615 in 2003 and 4,169,615 in 2002, 41,846 41,696
+ respectively
+ Additional paid-in capital 3,740,182 3,716,832
+ Accumulated deficit (7,698,961) (5,212,839)
+ ------------ ------------
+ (3,916,933) (1,454,311)
+Treasury Stock, at cost, 696,500 shares in 2003
+ and 2002 (1,623,475) (1,623,475)
+ ------------ ------------
+Total stockholders' deficit (5,540,408) (3,077,786)
+ ------------ ------------
+Total liabilities and stockholders' deficit 4,533,279 4,449,999
+ ============ ============
+
+SEE ACCOMPANYING NOTES.
+
+F -2
+
+Page 41 of 61
+
+Megadata Corporation and Subsidiaries
+
+ Consolidated Statements of Operations
+
+YEARS ENDED OCTOBER 31,
+ 2003 2002 2001
+ ----------- ----------- -----------
+Revenues:
+ 
+ Subscription 1,593,344 874,148 447,777
+ Maintenance 514,550 456,001 437,440
+ Systems -- 292,963 23,650
+ Other 29,020 22,575 31,770
+ ----------- ----------- -----------
+ Net revenues 2,136,914 1,645,687 940,637
+ ----------- ----------- -----------
+
+Cost and expenses:
+ Cost of sales 1,622,191 815,538 462,424
+ Research and development 403,080 404,608 287,938
+ Selling, general and administrative expenses 1,940,961 2,125,040 1,643,899
+ ----------- ----------- -----------
+ 3,966,232 3,345,186 2,394,261
+ ----------- ----------- -----------
+
+Loss from operations (1,829,318) (1,699,499) (1,453,624)
+
+Other income (expense):
+ Interest income 566 1,118 3,343
+ Interest expense -- (887) (3,278)
+ Interest expense--related party (654,385) (408,008) (173,651)
+ ----------- ----------- -----------
+Loss before income taxes (2,483,137) (2,107,277) (1,627,210)
+Provision for income taxes 2,985 2,935 2,280
+ ----------- ----------- -----------
+Net loss (2,486,122) (2,110,212) (1,629,490)
+ =========== =========== ===========
+
+Basic and diluted loss per common share (.71) (.61) (.47)
+ =========== =========== ===========
+Weighted-average shares used in the calculation of basic
+ and diluted net loss per common share 3,484,365 3,473,115 3,473,115
+ =========== =========== ===========
+
+SEE ACCOMPANYING NOTES.
+
+F -3
+
+Page 42 of 61
+
+Megadata Corporation and Subsidiaries
+
+ Consolidated Statements of Stockholders' (Deficit) Equity
+
+ Years Ended October 31, 2003, 2002, and 2001
+
+COMMON
+ SHARES AFTER
+ DEDUCTING TOTAL
+ TREASURY COMMON ADDITIONAL STOCKHOLDERS'
+ STOCK SHARES PAID-IN ACCUMULATED TREASURY (DEFICIT)
+ AMOUNT CAPITAL DEFICIT STOCK EQUITY
+ ----------- ----------- ----------- ----------- ----------- -----------
+ 
+Balance at October 31, 2000 3,473,115 41,696 3,659,132 (1,473,137) (1,623,475) 604,216
+Common stock options granted
+ for services performed -- -- 36,450 -- -- 36,450
+ Total comprehensive loss -- -- -- (1,629,490) -- (1,629,490)
+ ----------- ----------- ----------- ----------- ----------- -----------
+Balance at October 31, 2001 3,473,115 41,696 3,695,582 (3,102,627) (1,623,475) (988,824)
+Common stock options granted
+ for services performed -- -- 21,250 -- -- 21,250
+ Total comprehensive loss -- -- -- (2,110,212) -- (2,110,212)
+ ----------- ----------- ----------- ----------- ----------- -----------
+Balance at October 31, 2002 3,473,115 41,696 3,716,832 (5,212,839) (1,623,475) (3,077,786)
+Exercise of common stock
+ options 15,000 150 2,100 -- -- 2,250
+Common stock options granted
+ for services performed -- -- 21,250 -- -- 21,250
+ TOTAL COMPREHENSIVE LOSS -- -- -- (2,486,122) -- (2,486,122)
+ ----------- ----------- ----------- ----------- ----------- -----------
+BALANCE AT OCTOBER 31, 2003 3,488,115 41,846 3,740,182 (7,698,961) (1,623,475) (5,540,408)
+ =========== =========== =========== =========== =========== ===========
+
+SEE ACCOMPANYING NOTES.
+
+F - 4
+
+Page 43 of 61
+
+Megadata Corporation and Subsidiaries
+ Consolidated Statements of Cash Flows
+
+ YEARS ENDED OCTOBER 31,
+ 2003 2002 2001
+ ----------- ----------- -----------
+ CASH FLOWS FROM OPERATING ACTIVITIES
+ 
+ Net loss (2,486,122) (2,110,212) (1,629,490)
+ Adjustments to reconcile net loss to net cash used in
+ operating activities:
+ Depreciation and amortization 651,660 406,163 278,153
+ Provision for bad debts 2,488 4,350 --
+ Loss on Disposal 150,492 42,271 --
+ Common stock options granted for services performed 21,250 21,250 36,450
+ Changes in operating assets and liabilities:
+ Accounts receivable (257,505) (156,053) 96,215
+ Inventories 108,379 (56,732) 6,148
+ Prepaid expenses and other current assets (11,725) (56,626) (2,036)
+ Other assets (1,230) -- --
+ Accounts payable (247,462) (29,327) 243,517
+ Deferred income 58,313 550,066 95,399
+ Accrued expenses and other current liabilities (26,414) 51,283 131,772
+ ----------- ----------- -----------
+ Total adjustments 448,246 776,645 885,618
+ ----------- ----------- -----------
+ Net cash used in operating activities (2,037,876) (1,333,567) (743,872)
+ ----------- ----------- -----------
+
+ CASH FLOWS FROM INVESTING ACTIVITIES
+ Additions to PASSUR network (495,525) (964,574) (1,080,886)
+ Capital expenditures (15,321) (14,202) (34,205)
+ Additions to Software development costs (252,347) (220,880) (331,779)
+ ----------- ----------- -----------
+ Net cash used in investing activities (763,193) (1,199,656) (1,446,870)
+ ----------- ----------- -----------
+
+ CASH FLOWS FROM FINANCING ACTIVITIES
+ Proceeds from stock options exercised 2,250 -- --
+ Proceeds from notes payable--related party 2,761,465 2,615,000 2,140,000
+ Payments of installment notes -- (4,404) (9,387)
+ ----------- ----------- -----------
+ Net cash provided by financing activities 2,763,715 2,610,596 2,130,613
+ ----------- ----------- -----------
+
+ (Decrease) Increase in cash (37,354) 77,373 (60,129)
+ Cash--beginning of year 86,334 8,961 69,090
+ ----------- ----------- -----------
+ Cash--end of year 48,980 86,334 8,961
+ =========== =========== ===========
+
+ SUPPLEMENTAL CASH FLOW INFORMATION
+Cash paid during the year for:
+ Interest 632,934 387,545 163,401
+ Income taxes 2,985 2,935 2,280
+
+ SEE ACCOMPANYING NOTES
+
+F - 5
+
+Page 44 of 61
+
+Megadata Corporation and Subsidiaries
+
+ Notes to Consolidated Financial Statements
+
+ October 31, 2003
+
+1. DESCRIPTION OF BUSINESS AND SIGNIFICANT ACCOUNTING POLICIES
+
+NATURE OF BUSINESS
+
+Megadata Corporation, (the "Company") is a supplier of information and decision
+support software serving the needs of the aviation industry, primarily airlines,
+airports and other aviation related companies. Its principal business is the
+delivery of information and decision support software by subscription from a
+database of flight and travel-related information, of which a primary data
+component is its PASSUR(TM) (Passive Secondary Surveillance Radar) Network of
+flight tracking systems. The Company also sells PASSUR Systems only at specific
+customer requests. The Company operates in one business segment: as a supplier
+of information, data services, software, and communication products for the
+aviation industry.
+
+BASIS OF PRESENTATION
+
+At October 31, 2003, the Company's current liabilities exceeded current assets
+by 793,000, it had a stockholder's deficit of 5,540,000, and it incurred a net
+loss of 2,486,000 for the year ended October 31, 2003.
+
+Management is addressing the working capital and stockholders' deficiencies and
+operating losses by aggressively marketing the Company's PASSUR information
+capabilities in its existing product lines, enhancements to existing products as
+well as in new products, which are currently being developed and in some cases
+have been deployed. The Company is continuing to increase the size of the
+Company-owned PASSUR network, which management believes will lead to continued
+growth in subscription-based revenues. In addition, the Company will attempt to
+obtain external financing, and if such external financing is not consummated,
+the Company has a commitment to receive additional financial support from a
+significant shareholder through the end of fiscal 2004. Such commitment for
+financial support may be in the form of additional advances or loans to the
+Company in addition to the deferral of principal and interest payments due on
+existing loans, if deemed necessary.
+
+PRINCIPLES OF CONSOLIDATION
+
+The consolidated financial statements include the accounts of Megadata
+Corporation and its wholly-owned subsidiary. All significant inter-company
+transactions and balances have been eliminated in consolidation.
+
+F - 6
+
+Page 45 of 61
+
+Megadata Corporation and Subsidiaries
+
+ Notes to Consolidated Financial Statements (continued)
+
+1. DESCRIPTION OF BUSINESS AND SIGNIFICANT ACCOUNTING POLICIES (CONTINUED)
+
+REVENUE RECOGNITION POLICY
+
+The Company follows the provisions of the American Institute of Certified Public
+Accountants Statement of Position 97-2, or SOP 97-2, SOFTWARE REVENUE
+RECOGNITION, as amended. SOP 97-2 delineates the accounting practices for
+software products, maintenance and support services and consulting revenue.
+Under SOP 97-2, the Company recognizes revenue when persuasive evidence of an
+arrangement exists, delivery has occurred, the fee is determinable and
+collection of the resulting receivable is probable. For arrangements involving
+multiple elements (e.g. maintenance, support and other services), the Company
+allocates revenue to each element of the arrangement based on vendor-specific
+objective evidence of its fair value, or for products not being sold separately,
+the objective and verifiable fair value established by management.
+
+The Company recognizes revenue on the sale of products and systems when the
+products or systems have been shipped and in accordance with Staff Accounting
+Bulletin 101 and SOP 97-2. Installation charges, if any, are not material and
+are recognized when installation services are completed.
+
+The Company recognizes services and maintenance revenues on a straight-line
+basis over the service contract period. Revenues for data subscription services
+are recognized on a monthly basis upon the execution of an agreement and the
+customer's receipt of the data.
+
+The Company recognizes license fee revenues on a straight-line basis over either
+the term of the license agreement or the expected useful life of such license
+arrangement, whichever is longer, which typically does not exceed five years.
+
+USE OF ESTIMATES
+
+The preparation of financial statements in conformity with accounting principles
+generally accepted in the United States requires management to make estimates
+and assumptions that affect the reported amounts in the financial statements and
+accompanying notes. Actual results could differ from those estimates.
+
+INVENTORIES
+
+Inventories are valued at the lower of cost or market with cost being determined
+using the first-in, first-out (FIFO) method. Costs included in inventories
+consist of materials, labor, and manufacturing overhead, which is related to the
+purchase and manufacturing of inventories.
+
+F-7
+
+Page 46 of 61
+
+Megadata Corporation and Subsidiaries
+
+ Notes to Consolidated Financial Statements (continued)
+
+1. DESCRIPTION OF BUSINESS AND SIGNIFICANT ACCOUNTING POLICIES (CONTINUED)
+
+ACCOUNTS RECEIVABLE
+
+The Company uses installment license and/ or maintenance agreements as standard
+business practice. The Company has a history of successfully collecting
+primarily all amounts due under the original payment terms, without making
+concessions on payments, software products, maintenance or other services. Net
+account receivable is composed of either the monthly, quarterly or annual
+committed amounts due from customers pursuant to the terms of each respective
+customer's agreement. These account receivable balances include unearned revenue
+attributable to deferred subscription revenues, deferred maintenance revenues
+and unamortized license fee revenues. Deferred revenue amounts represent fees
+billed prior to actual performance of services, which will be amortized into
+revenue over either the respective license agreement term or the estimated
+useful life of such revenue, which ever is longer.
+
+The Company typically does not record a provision for doubtful accounts due to
+its history of successful collections. However, if a customer's financial
+condition deteriorates, specifically due to Chapter 11 Bankruptcy filings,
+resulting in an impairment of its ability to make payments, allowances are then
+recorded against such accounts. For the fiscal years ended October 31, 2003,
+2002 and 2001, the provision for doubtful accounts approximated 6,800, 4,400
+and none, respectively, which were all related to Chapter 11 filings by existing
+customers.
+
+PROPERTY, PLANT AND EQUIPMENT
+
+Property, plant and equipment is recorded at cost and is depreciated on a
+straight-line basis over the estimated useful lives of the related assets.
+Amortization of leasehold improvements is calculated on a straight-line basis
+over the estimated useful life of the improvements or the term of the lease,
+including renewal options expected to be exercised, whichever is shorter.
+Routine repair and maintenance are expensed when incurred.
+
+PASSUR NETWORK
+
+The PASSUR network installations, which include the direct and indirect
+production and installation costs incurred for each of the Company-owned PASSUR
+systems (the "PASSUR Network"), are recorded at cost, net of accumulated
+depreciation of 1,096,000 and 680,000 as of October 31, 2003 and 2002,
+respectively. Depreciation is charged to cost of sales and is calculated using
+the straight-line method over the estimated useful life of the asset, which is
+estimated at seven years for PASSUR Systems and five years for related
+workstations. Units that are not placed into service (at October 31, 2003 total
+of five units) are not depreciated until such time. During fiscal 2003, 2002 and
+2001, the Company capitalized 612,000, 960,000 and 1,081,000 of costs related
+to the PASSUR Network, respectively. During fiscal 2003, the amount capitalized
+to the PASSUR Network includes transfers from inventory of approximately
+ 116,000.
+
+F-8
+
+Page 47 of 61
+
+Megadata Corporation and Subsidiaries
+
+ Notes to Consolidated Financial Statements (continued)
+
+1. DESCRIPTION OF BUSINESS AND SIGNIFICANT ACCOUNTING POLICIES (CONTINUED)
+
+PASSUR NETWORK (CONTINUED)
+
+During fiscal 2003, the Company disposed of certain PASSUR Network assets and
+recorded a loss on disposal of approximately 105,000, which represented the net
+book value of these assets. Such loss on disposal was recorded in cost of sales.
+
+CAPITALIZED SOFTWARE COSTS
+
+The Company follows the provisions of Statement of Financial Accounting
+Standards ("SFAS") No. 86, "ACCOUNTING FOR THE COSTS OF SOFTWARE TO BE SOLD,
+LEASED, OR OTHERWISE MARKETED." Costs incurred to develop computer software
+products as well as significant enhancements to software features of the
+existing products to be sold or otherwise marketed are capitalized, after
+technological feasibility is established and ending when the product is
+available for release to customers. Once the software products become available
+for general release to the public, the Company will begin to amortize such costs
+to cost of sales.
+
+Amortization of capitalized software costs is provided on a product-by-product
+basis based on the greater of the ratio of current gross revenues to the total
+of current and anticipated future gross revenues or the straight-line method
+over the estimated economic life of the product beginning at the point the
+product becomes available for general release, typically over five years. Costs
+incurred to improve and support products after they become available for general
+release are charged to expense as incurred. The assessment of recoverability of
+capitalized software development costs requires the exercise of judgment by
+management. In the opinion of management, all such costs capitalized as of
+October 31, 2003 are recoverable through anticipated future sales of such
+applicable products. During fiscal 2003, the Company capitalized approximately
+ 252,000 and recorded approximately 65,000 of amortization related to software
+development projects, of which certain projects were completed and released for
+sale and certain projects were still in development as of October 31, 2003.
+
+During fiscal 2003, the Company wrote off costs incurred to date for one
+in-process capitalized software project totaling approximately 46,000, which
+was charged to Cost of Sales. The capitalized software project commenced in
+fiscal 2001 and was deemed by the Company to be no longer viable. The project
+was never completed nor made available for sale.
+
+F-9
+
+Page 48 of 61
+
+Megadata Corporation and Subsidiaries
+
+ Notes to Consolidated Financial Statements (continued)
+
+1. DESCRIPTION OF BUSINESS AND SIGNIFICANT ACCOUNTING POLICIES (CONTINUED)
+
+LONG-LIVED ASSETS
+
+The Company reviews long-lived assets for impairment when circumstances indicate
+the carrying amount of an asset may not be recoverable. An impairment is
+recognized to the extent the sum of undiscounted estimated future cash flows
+expected to result from the use of the asset is less than the carrying value.
+Assets to be disposed of are carried at the lower of their carrying value or
+fair value, less costs to sell.
+
+The Company evaluates the periods of amortization continually in determining
+whether later events and circumstances warrant revised estimates of useful
+lives. If estimates are changed, the unamortized costs will be allocated to the
+increased or decreased number of remaining periods in the revised life.
+
+COST OF SALES
+
+The Company has not segregated its cost of sales between cost of system sales
+and cost of subscription and maintenance revenues, as it is not practicable to
+segregate such costs. Costs associated with system sales consist primarily of
+purchased materials, direct labor and overhead costs.
+
+Costs associated with subscription and maintenance revenues consists primarily
+of direct labor, communication costs, depreciation of PASSUR Network assets,
+amortization of software development costs and overhead costs allocations. Also
+included in costs of sales are costs associated with the upgrades of PASSUR
+systems necessary to make such systems compatible with new software applications
+as well as the ordinary repair and maintenance of existing network systems.
+Additionally, cost of sales in each reporting period are impacted by: (1) the
+number of PASSUR Network units added which include the production, shipments and
+installations of these assets which are capitalized to the PASSUR Network; and
+(2) capitalized costs associated with software development programs are expensed
+in cost of sales.
+
+INCOME TAXES
+
+The Company and its subsidiaries file a consolidated Federal income tax return.
+The Company uses the liability method in accounting for income taxes in
+accordance with SFAS No. 109, "ACCOUNTING FOR INCOME TAXES." Under this method,
+deferred tax assets and liabilities are determined based on differences between
+financial reporting and tax bases of assets and liabilities, and are measured
+using the enacted tax rates and laws that will be in effect when the differences
+are expected to reverse.
+
+F - 10
+
+Page 49 of 61
+
+Megadata Corporation and Subsidiaries
+
+ Notes to Consolidated Financial Statements (continued)
+
+1. DESCRIPTION OF BUSINESS AND SIGNIFICANT ACCOUNTING POLICIES (CONTINUED)
+
+RESEARCH AND DEVELOPMENT COSTS
+
+Research and development costs are expensed as incurred.
+
+NET LOSS PER COMMON SHARE INFORMATION
+
+The Company reports basic and diluted net loss per common share in accordance
+with the Financial Accounting Standards Board Statement No. 128, "EARNINGS PER
+SHARE." Net loss per common share was computed using the weighted-average number
+of common shares outstanding during the period. Conversion of the common
+equivalent shares relating to outstanding stock options and warrants is not
+assumed since the results would have been antidilutive.
+
+DEFERRED INCOME
+
+Deferred income includes advances received on maintenance agreements and/or
+subscription services which are derived from the Company's PASSUR Network and
+which may be prepaid either annually or quarterly, as well as advanced one-time
+payments received for license fees relating to Company software applications.
+Revenues from maintenance and subscription services are recognized as income
+ratably over the maintenance and/or subscription period that coincides with the
+respective agreement. Revenues from license fees are recognized as income on a
+straight-line basis over either the term of the license agreement or expected
+useful life of such license arrangement, whichever is longer, which typically
+does not exceed five years.
+
+FAIR VALUE OF FINANCIAL INSTRUMENTS
+
+The recorded amounts of the Company's cash, receivables, accounts payable and
+accrued liabilities approximate their fair values principally because of the
+short-term nature of these items. The fair values of the Company's long-term
+obligations are estimated based on the current rates offered to the Company for
+obligations of similar source, terms and maturities. Under this method, the
+Company's fair value of long-term obligations was not significantly different
+than the carrying values at October 31, 2003.
+
+F - 11
+
+Page 50 of 61
+
+Megadata Corporation and Subsidiaries
+
+ Notes to Consolidated Financial Statements (continued)
+
+1. DESCRIPTION OF BUSINESS AND SIGNIFICANT ACCOUNTING POLICIES (CONTINUED)
+
+STOCK-BASED COMPENSATION
+
+In December 2002, the Financial Accounting Standards Board ("FASB") issued SFAS
+No. 148, "ACCOUNTING FOR STOCK-BASED COMPENSATION - TRANSITION AND DISCLOSURE."
+SFAS No. 148 amends SFAS No. 123, "ACCOUNTING FOR STOCK-BASED COMPENSATION," to
+provide alternative methods of transition to SFAS No. 123's fair value method of
+accounting for stock-based employee compensation. SFAS No. 148 also amends the
+disclosure provisions of SFAS No. 123 and Accounting Principles Board ("APB")
+No. 28, "INTERIM FINANCIAL REPORTING," to require disclosure in the summary of
+significant accounting policies of the effects of an entity's accounting policy
+with respect to stock-based employee compensation on reported net income/loss
+and earnings per share in annual and interim financial statements.
+
+While SFAS No. 148 does not amend SFAS No. 123 to require companies to account
+for employee stock options using the fair value method, the disclosure
+provisions of SFAS No. 148 are applicable to all companies with stock-based
+employee compensation, regardless of whether they account for that compensation
+using the fair value method of SFAS No. 123 or the intrinsic value method of APB
+No. 25, "ACCOUNTING FOR STOCK ISSUED TO EMPLOYEES." The Company has adopted SFAS
+No. 148 effective December 31, 2002.
+
+The Company grants options for a fixed number of shares to employees, directors
+and consultants with an exercise price equal to the fair value of the shares at
+the date of grant. The Company accounts for stock option grants under the
+recognition and measurement principles of APB No. 25 and related Interpretations
+because the Company believes the alternative fair value accounting provided for
+under SFAS No. 123 requires the use of option valuation models that were not
+developed for use in valuing employee stock options. Under APB No. 25, because
+the exercise price of the Company's employee stock options equals the market
+price (fair value) of the underlying stock on the date of grant, no compensation
+expense is recorded.
+
+F - 12
+
+Page 51 of 61
+
+Megadata Corporation and Subsidiaries
+
+ Notes to Consolidated Financial Statements (continued)
+
+1. DESCRIPTION OF BUSINESS AND SIGNIFICANT ACCOUNTING POLICIES (CONTINUED)
+
+STOCK-BASED COMPENSATION (CONTINUED)
+
+The following table illustrates the effect on net loss and loss per share if the
+Company had applied the fair value recognition provisions of SFAS No. 123 as
+amended by SFAS No. 148 to stock-based compensation (see Note 8. Stock Options):
+
+ FISCAL YEARS ENDED
+ ---------------------------------------------
+
+ OCTOBER 31, OCTOBER 31, OCTOBER 31,
+ 2003 2002 2001
+ ------------ ----------- ------------
+
+ Reported net loss (2,486,000) (2,110,000) (1,629,000)
+ Pro-forma stock compensation
+ expense (33,000) (47,000) (37,000)
+ ----------- ----------- ------------
+ Pro-forma net loss (2,519,000) (2,157,000) (1,666,000)
+ =========== =========== ===========
+ Reported basic and diluted net
+ loss per common share (.71) (.61) (.47)
+ =========== =========== ===========
+ Pro-forma basic and diluted net
+ loss per common share (.72) (.62) (.48)
+ =========== =========== ===========
+
+COMPREHENSIVE LOSS
+
+For the fiscal years ended October 31, 2003, 2002 and 2001, the Company's
+comprehensive loss is equivalent to that of the Company's total net loss for
+those respective periods.
+
+RECLASSIFICATION
+
+Certain balances in the prior fiscal years have been reclassified to conform to
+the presentation in the current fiscal year.
+
+2. INVENTORIES
+
+Inventories are summarized as follows:
+
+ OCTOBER 31,
+ 2003 2002
+ ----------------- ----------------
+
+Parts and raw materials 69,000 75,000
+Work-in-process 6,000 7,000
+Finished goods 120,000 222,000
+ ----------------- ----------------
+ 195,000 304,000
+ ================= ================
+
+ F - 13
+
+Page 52 of 61
+
+Megadata Corporation and Subsidiaries
+
+ Notes to Consolidated Financial Statements (continued)
+
+3. PROPERTY, PLANT AND EQUIPMENT
+
+Property, plant and equipment consist of the following:
+
+ ESTIMATED
+ USEFUL OCTOBER 31,
+ LIVES 2003 2002
+ ------------- ----------------- ----------------
+
+Leasehold improvements 3-5 years 105,000 105,000
+Factory equipment 5-10 years 2,286,000 2,277,000
+Furniture and fixtures 5-10 years 409,000 402,000
+ ----------------- ----------------
+ 2,800,000 2,784,000
+Less accumulated depreciation
+ and amortization 2,701,000 2,651,000
+ ----------------- ----------------
+ 99,000 133,000
+ ================= ================
+
+The Company recorded depreciation and amortization expense on the assets
+included in property, plant and equipment of 50,000, 58,000, and 54,000 for
+the years ended October 31, 2003, 2002, and 2001, respectively.
+
+4. ACCRUED EXPENSES AND OTHER CURRENT LIABILITIES
+
+Accrued expenses and other current liabilities consist of the following:
+
+ OCTOBER 31,
+ 2003 2002
+ ----------------- ----------------
+Accrued payroll, payroll taxes and benefits 145,000 179,000
+Accrued professional fees 143,000 120,000
+Accrued license fees 75,000 75,000
+Other accrued liabilities 46,000 45,000
+ ----------------- ----------------
+ 409,000 419,000
+ ================= ================
+
+5. NOTES PAYABLE--RELATED PARTY
+
+During fiscal 2003, Mr. Gilbert loaned the Company 2,761,000 in the aggregate
+under certain promissory notes bearing interest at 9 per annum and maturing on
+December 31, 2003. As of October 31, 2003, the notes payable due to Mr. Gilbert
+totaled approximately 8,466,000 with interest at 9 per annum and secured by
+the Company's assets.
+
+Effective November 1, 2003, the Company and Mr. Gilbert modified certain terms
+and conditions of the outstanding notes as of October 31, 2003. The modified
+terms included a maturity date of November 1, 2004 as well as the issuance of
+600,000 shares of Megadata common stock as payment of annual interest on such
+note. The Company issued 600,000 shares of common stock on January 15, 2004
+representing the payment of interest on such note for fiscal 2004.
+
+F - 14
+
+Page 53 of 61
+
+Megadata Corporation and Subsidiaries
+
+ Notes to Consolidated Financial Statements (continued)
+
+5. NOTES PAYABLE--RELATED PARTY (CONTINUED)
+
+Effective November 15, 2003, the Company and Mr. Gilbert entered into a
+subsequent debt agreement whereby any additional promissory notes issued to Mr.
+Gilbert will mature on November 1, 2004 and bear interest at 4.5 per annum,
+payable in cash.
+
+6. LEASES
+
+The Company's manufacturing and research and development facility is located in
+Bohemia, New York, under a lease that was extended for an additional three years
+commencing November 1, 2002 through October 31, 2005. Minimum rent under this
+agreement for the period ended October 31, 2003 approximates 83,000 per year.
+This lease provides for additional payments of real estate taxes and other
+operating expenses over the minimum rental amount. See also Note 10. Related
+Parties.
+
+7. INCOME TAXES
+
+The Company's provision for income taxes in each year consists of current state
+and local minimum taxes.
+
+At October 31, 2003, the Company has available a federal net operating loss
+carry-forward of approximately 13,750,000 for income tax purposes which will
+expire in various tax years from 2004 through 2023. The Company has
+approximately 25,000 of general business tax credit carry-forwards available
+which expire in various years through 2008. The Company has provided a full
+valuation allowance on the net deferred tax asset of approximately 5,363,000,
+which primarily consists of the net operating loss carry-forwards and available
+tax credits.
+
+8. STOCK OPTIONS
+
+The Company's stock option plans provide for the granting of stock options for
+up to 1,490,000 shares of the Company's common stock. The option price per share
+is the fair market value at date of grant, except on the issuance of
+non-qualified options in which the option price is not less than 85 of the fair
+market value of the common stock. Options granted may be exercised up to a
+maximum of ten years from the date of grant; however, individuals who own more
+than 10 of the Company's common stock must exercise their options within five
+years of the date of the grant and these options are exercisable at 110 of the
+fair market value of the common stock at the date of grant.
+
+SFAS No. 123 and SFAS No. 148 define a fair value method of accounting for the
+issuance of stock options and other equity instruments. Under the fair value
+method, compensation cost is measured at the grant date based on the fair value
+of the award and is recognized over the service period, which is usually the
+vesting period. Pursuant to SFAS No. 123 and SFAS No. 148, companies are
+encouraged, but are not required, to adopt the fair value method of accounting
+for employee stock-based transactions.
+
+F - 15
+
+Page 54 of 61
+
+Megadata Corporation and Subsidiaries
+
+ Notes to Consolidated Financial Statements (continued)
+
+8. STOCK OPTIONS (CONTINUED)
+
+Companies are also permitted to continue to account for such transactions under
+APB No. 25, but are required to disclose in a note to the consolidated financial
+statements pro forma net loss and per share amounts as if the Company had
+applied the new method of accounting. SFAS No. 123 and SFAS No. 148 also require
+increased disclosures for stock based compensation arrangements.
+
+The Company has elected to comply with APB Opinion No. 25 and related
+interpretations in accounting for its stock options because the alternate fair
+value accounting provided for under SFAS No. 123 requires use of option
+valuation models which were not developed for use in valuing employee stock
+options. Under APB Opinion No. 25, because the exercise price of the Company's
+employee stock options equals the market price of the underlying stock on the
+date of grant, no compensation expense is recognized.
+
+In accordance with SFAS No. 123, pro forma information regarding net loss and
+net loss per common share has been determined as if the Company had accounted
+for its employee stock options under the fair value method of that statement.
+The fair value for these stock options was estimated at the date of grant, using
+a Black-Scholes option pricing model with the following weighted average
+assumptions for 2003, 2002, and 2001, respectively: risk-free interest rates of
+3.92 for fiscal 2003, 3.52 to 4.99 for fiscal 2002 and 4.5 for fiscal 2001,
+no dividend yield, volatility factors of the expected market price of the
+Company's common stock of 1.133 in fiscal 2003, 1.169 in fiscal 2002 and 1.198
+in fiscal 2001, and an 8 year weighted-average expected life of the options.
+
+The Black-Scholes option valuation model was developed for use in estimating the
+fair value of traded options, which have no vesting restrictions and are fully
+transferable. In addition, option valuation models require the input of highly
+subjective assumptions including expected stock price volatility.
+
+In management's opinion, the existing models do not necessarily provide a
+reliable single measure of the fair value of its employee stock options due to
+changes in subjective input assumptions which may materially affect the fair
+value estimate and because the Company's employee stock options have
+characteristics significantly different from those of traded options. For
+purposes of pro forma disclosure, the estimated fair value of the options is
+amortized to expense over the options' vesting period.
+
+F - 16
+
+Page 55 of 61
+
+Megadata Corporation and Subsidiaries
+
+ Notes to Consolidated Financial Statements (continued)
+
+8. STOCK OPTIONS (CONTINUED)
+
+Information with respect to options during the years ended October 31, 2003,
+2002 and 2001 are as follows:
+
+2003 2002 2001
+ -------------------------------------------------------------------
+
+ WEIGHTED WEIGHTED WEIGHTED
+ AVERAGE AVERAGE AVERAGE
+ EXERCISE EXERCISE EXERCISE
+ OPTIONS PRICE OPTIONS PRICE OPTIONS PRICE
+ -------------------------------------------------------------------
+Options outstanding--beginning of
+ 
+ year 1,093,000 .65 720,000 .69 617,500 .85
+Incentive options granted 319,000 .32 378,000(1) .56 210,000 .51
+Options canceled and expired (354,000) .58 (5,000) .15 (107,500) 1.24
+Options exercised (15,000) .15 -- --
+ -------------------------------------------------------------------
+Options outstanding--
+ end of year 1,043,000 .58 1,093,000 .65 720,000 .69
+ ===================================================================
+Options exercisable at
+ end of year 596,331 .73 420,329 .71 190,075 .73
+ ===================================================================
+
+Weighted average fair value per
+ share of options granted
+ during the year .29 .51 .48
+ ========== ========== ==========
+
+(1) Amount includes 75,000 shares of non-qualified stock options awarded outside
+ of the approved 1999 Stock Incentive Plan.
+
+The following table summarizes information about stock options outstanding at
+October 31, 2003:
+
+OPTIONS OUTSTANDING OPTIONS EXERCISABLE
+ -------------------------------------------------------------------
+ WEIGHTED-
+ AVERAGE WEIGHTED- WEIGHTED-
+ REMAINING AVERAGE AVERAGE
+ RANGE OF CONTRACTUAL EXERCISE EXERCISE
+ EXERCISE PRICES SHARES LIFE PRICE SHARES PRICE
+ ---------------------------------------------------------------------------------------
+ 
+ .15 147,500 5.7 years .15 147,500 .15
+ .25 - .38 344,000 8.9 years .30 48,333 .36
+ .40 - .55 209,000 8.4 years .49 81,332 .47
+ .63 - .84 285,000 6.9 years .79 261,666 .80
+ 1.63 - 2.75 57,500 6.4 years 2.60 57,500 2.60
+ ------------ --------------
+ 1,043,000 596,331
+ ============ ==============
+
+As of October 31, 2003, there were 1,490,000 shares of common stock reserved for
+future issuance under the Company's stock option plan.
+
+F - 17
+
+Page 56 of 61
+
+Megadata Corporation and Subsidiaries
+
+ Notes to Consolidated Financial Statements (continued)
+
+9. MAJOR CUSTOMERS
+
+The Company is a supplier of information and decision support software serving
+the needs of the aviation industry, primarily airlines, airports and other
+aviation related companies. The Company performs ongoing credit evaluations of
+its customers and generally does not require collateral. Credit losses
+historically have been immaterial.
+
+During the year ended October 31, 2003, two customers accounted for
+approximately 24 and 13 of total revenues. During the year ended October 31,
+2002, two customers accounted for approximately 19 and 15 of total revenues.
+During the year ended October 31, 2001, one customer accounted for 15 of total
+revenues. The Company had export sales of approximately 74,000, 83,000 and
+ 32,000 in fiscal 2003, 2002, and 2001, respectively. All sales, including
+export sales, are denominated in U.S. dollars.
+
+10. RELATED PARTY TRANSACTIONS
+
+Effective October 1998, the Company began leasing space from Field Point Capital
+Management Company at 1,000 per month rent. For the years ended October 31,
+2003 and 2002, the Company reimbursed Field Point Capital Management Company, a
+company 100 owned by the Company's Chairman, for services rendered, of
+approximately 12,000 in each year.
+
+For the years ended October 31, 2003 and 2002, the Company paid approximately
+ 16,000 and 26,000, respectively, to Surf-Tech Manufacturing, Inc. (a
+non-public corporation) for materials and labor in connection with either the
+production of various replacement components, systems production or upgrade
+equipment of PASSUR systems. A Company Executive Vice President and Director is
+a 50 shareholder of the aforementioned company, and the Company believes that
+these rates are competitive and are at or below market rates.
+
+11. ROYALTY AGREEMENT
+
+The Company is a party to a license agreement, as amended in fiscal 2001,
+whereby the Company is granted the exclusive right and license worldwide to
+manufacture and sell PASSUR systems for use with airline dispatch arrangements
+and in other aircraft flight tracking systems. The Company is also granted an
+exclusive worldwide license to sell PASSUR systems and/or data subscriptions for
+noise applications. The Company pays a royalty based on the number of PASSUR
+systems sold and/or installed and generating subscription revenues subject to a
+minimum annual royalty of 75,000. This license agreement is in effect until the
+date of expiration of the last PASSUR patent to expire, which occurs in 2013.
+
+During October 1999, the license agreement was amended primarily with respect to
+when additional royalties would be payable by the Company for new installations
+of Company-owned systems assuming the minimum annual royalty payment requirement
+had been earned. Under the amended agreement, these additional royalties are
+payable based only upon a percentage of the revenue received from each
+Company-owned installation.
+
+F - 18
+
+Page 57 of 61
+
+Megadata Corporation and Subsidiaries
+
+Schedule II - Valuation and Qualifying Accounts
+
+ ADDITIONS
+
+ BALANCE AT CHARGED TO CHARGED TO
+ BEGINNING OF COSTS AND OTHER ACCOUNTS - DEDUCTIONS BALANCE AT END
+DESCRIPTION PERIOD EXPENSES DESCRIBE - DESCRIBE OF PERIOD
+- --------------------------------------------------------------------------------------------------
+ 
+Year Ended
+October 31, 2003;
+Reserves and
+allowances
+deducted from
+asset
+accounts:
+Reserve for
+estimated
+doubtful
+accounts -
+accounts
+receivable.
+ 4,350 2,488 6,838
+Valuation
+allowance on
+deferred
+tax asset 4,300,000 1,062,500(a) 5,362,500
+ -------------------------------------------------------------------------------
+ 4,304,350 2,488 1,062,500 5,369,338
+ ===============================================================================
+
+Year Ended
+October 31, 2002;
+Reserves and
+allowances
+deducted from
+asset
+accounts:
+Reserve for
+estimated
+doubtful
+accounts -
+accounts
+receivable.
+ -- 4,350 4,350
+Valuation
+allowance on
+deferred
+tax asset 3,300,000 1,000,000(a) 4,300,000
+ -------------------------------------------------------------------------------
+ 3,300,000 4,350 1,000,000 4,304,350
+ ===============================================================================
+
+Year Ended
+October 31, 2001;
+Reserves and
+allowances
+deducted
+from asset
+accounts:
+Reserve for
+estimated
+doubtful
+accounts -
+accounts
+receivable. --
+Valuation
+allowance on
+deferred
+tax asset 2,652,000 648,000(a) 3,300,000
+ -------------------------------------------------------------------------------
+ 2,652,000 648,000 3,300,000
+ ===============================================================================
+
+(a) Valuation allowance for deferred tax assets.
+
+ S-1
+
+Page 58 of 61
+
+<EX-31>
+ 3
+ exh31-1.txt
+ CERTIFICATION OF CEO
+
+EXHIBIT 31.1
+
+ CERTIFICATION PURSUANT TO
+ 18 U.S.C. SECTION 1350,
+ AS ADOPTED PURSUANT TO
+ SECTION 302 OF THE SARBANES-OXLEY ACT OF 2002
+
+I, James T. Barry, certify that:
+
+1. I have reviewed this annual report on Form 10-K of Megadata Corporation;
+
+2. Based on my knowledge, this annual report does not contain any untrue
+ statement of a material fact or omit to state a material fact necessary to
+ make the statements made, in light of the circumstances under which such
+ statements were made, not misleading with respect to the period covered by
+ this annual report;
+
+3. Based on my knowledge, the financial statements, and other financial
+ information included in this quarterly report, fairly present in all
+ material respects the financial condition, results of operations and cash
+ flows of the registrant as of, and for, the periods presented in this
+ annual report;
+
+4. The registrant's other certifying officers and I are responsible for
+ establishing and maintaining disclosure controls and procedures (as defined
+ in Exchange Act Rules 13a-14 and 15d-14) for the registrant and have:
+
+ (a) Designed such disclosure controls and procedures to ensure that
+ material information relating to the registrant, including its
+ consolidated subsidiaries, is made known to us by others within those
+ entities, particularly during the period in which this annual report
+ is being prepared;
+
+ (b) Evaluated the effectiveness of the registrant's disclosure controls
+ and procedures and presented in this report our conclusions about the
+ effectiveness of the disclosure controls and procedures, as of the end
+ of the period covered by this annual report based on such evaluation;
+ and
+
+ (c) Disclosed in this annual report any change in the registrant's
+ internal control over financial reporting that occurred during the
+ registrant's most recent fiscal quarter (the registrant's fourth
+ quarter in the case of an annual report) that has materially affected,
+ or is reasonably likely to materially affect, the registrant's
+ internal control over financial reporting; and
+
+5. The registrant's other certifying officers and I have disclosed, based on
+ our most recent evaluation, to the registrant's auditors and the audit
+ committee of the registrant's board of directors:
+
+ (a) All significant deficiencies and material weaknesses in the design or
+ operation of internal controls over financial reporting which are
+ reasonably likely to adversely affect the registrant's ability to
+ record, process, summarize and report financial information; and
+
+ (b) Any fraud, whether or not material, that involves management or other
+ employees who have a significant role in the registrant's internal
+ control over financial reporting.
+
+ Date: January 28, 2004
+
+ By: /s/ James T. Barry
+ ------------------------
+ James T. Barry
+ Chief Executive Officer
+ (Principal Executive Officer)
+
+Page 59 of 61
+
+</EX-31>
+
+<EX-31>
+ 4
+ exh31-2.txt
+ CERTIFICATION OF CFO
+
+EXHIBIT 31.2
+
+ CERTIFICATION PURSUANT TO
+ 18 U.S.C. SECTION 1350,
+ AS ADOPTED PURSUANT TO
+ SECTION 302 OF THE SARBANES-OXLEY ACT OF 2002
+
+I, Louis J. Petrucelly, certify that:
+
+1. I have reviewed this annual report on Form 10-K of Megadata Corporation;
+
+2. Based on my knowledge, this annual report does not contain any untrue
+ statement of a material fact or omit to state a material fact necessary to
+ make the statements made, in light of the circumstances under which such
+ statements were made, not misleading with respect to the period covered by
+ this annual report;
+
+3. Based on my knowledge, the financial statements, and other financial
+ information included in this quarterly report, fairly present in all
+ material respects the financial condition, results of operations and cash
+ flows of the registrant as of, and for, the periods presented in this
+ annual report;
+
+4. The registrant's other certifying officers and I are responsible for
+ establishing and maintaining disclosure controls and procedures (as defined
+ in Exchange Act Rules 13a-14 and 15d-14) for the registrant and have:
+
+ (c) Designed such disclosure controls and procedures to ensure that
+ material information relating to the registrant, including its
+ consolidated subsidiaries, is made known to us by others within those
+ entities, particularly during the period in which this annual report
+ is being prepared;
+
+ (d) Evaluated the effectiveness of the registrant's disclosure controls
+ and procedures and presented in this report our conclusions about the
+ effectiveness of the disclosure controls and procedures, as of the end
+ of the period covered by this annual report based on such evaluation;
+ and
+
+ (e) Disclosed in this annual report any change in the registrant's
+ internal control over financial reporting that occurred during the
+ registrant's most recent fiscal quarter (the registrant's fourth
+ quarter in the case of an annual report) that has materially affected,
+ or is reasonably likely to materially affect, the registrant's
+ internal control over financial reporting; and
+
+5. The registrant's other certifying officers and I have disclosed, based on
+ our most recent evaluation, to the registrant's auditors and the audit
+ committee of the registrant's board of directors:
+
+ (f) All significant deficiencies and material weaknesses in the design or
+ operation of internal controls over financial reporting which are
+ reasonably likely to adversely affect the registrant's ability to
+ record, process, summarize and report financial information; and
+
+ (g) Any fraud, whether or not material, that involves management or other
+ employees who have a significant role in the registrant's internal
+ control over financial reporting.
+
+Date: January 28, 2004
+ By: /s/ Louis J. Petrucelly
+ -----------------------
+ Louis J. Petrucelly
+ Chief Financial Officer
+ (Principal Financial and
+ Accounting Officer)
+
+Page 60 of 61
+
+</EX-31>
+
+<EX-32>
+ 5
+ exh32-1.txt
+ CERTIFICATION UNDER 906 OF CEO AND CFO
+
+EXHIBIT 32.1
+
+ CERTIFICATION PURSUANT TO
+ 18 U.S.C. SECTION 1350,
+ AS ADOPTED PURSUANT TO
+ SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002
+
+In connection with the annual report of Megadata Corporation (the "Company") on
+Form 10-K for the period ended October 31, 2003 as filed with the Securities and
+Exchange Commission on the date hereof (the "Report"), I, James T. Barry, Chief
+Executive Officer of the Company, certify, pursuant to 18 U.S.C. 1350, as
+adopted pursuant to 906 of the Sarbanes-Oxley Act of 2002, that, to my
+knowledge:
+
+ (1) The Report fully complies with the requirements of section 13(a) or
+ 15(d) of the Securities Exchange Act of 1934; and
+
+ (2) The information contained in the Report fairly presents, in all
+ material respects, the financial condition and results of operations
+ of the Company.
+
+By: /s/ James T. Barry
+ -------------------------
+ James T. Barry
+ Chief Executive Officer
+ January 28, 2004
+
+EXHIBIT 32.2
+
+ CERTIFICATION PURSUANT TO
+ 18 U.S.C. SECTION 1350,
+ AS ADOPTED PURSUANT TO
+ SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002
+
+In connection with the annual report of Megadata Corporation (the "Company") on
+Form 10-K for the period ended October 31, 2003 as filed with the Securities and
+Exchange Commission on the date hereof (the "Report"), I, Louis J. Petrucelly,
+Chief Financial Officer of the Company, certify, pursuant to 18 U.S.C. 1350, as
+adopted pursuant to 906 of the Sarbanes-Oxley Act of 2002, that, to my
+knowledge:
+
+ (1) The Report fully complies with the requirements of section 13(a) or
+ 15(d) of the Securities Exchange Act of 1934; and
+
+ (2) The information contained in the Report fairly presents, in all
+ material respects, the financial condition and results of operations
+ of the Company.
+
+By: /s/ Louis J. Petrucelly
+ -----------------------
+ Louis J. Petrucelly
+ Chief Financial Officer
+ January 28, 2004
+
+Page 61 of 61
+
+</EX-32>
+

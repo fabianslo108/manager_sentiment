@@ -1,0 +1,1399 @@
+<Header>
+<FileStats>
+    <FileName>20040113_10-Q_edgar_data_920947_0000950137-04-000136.txt</FileName>
+    <GrossFileSize>92055</GrossFileSize>
+    <NetFileSize>60021</NetFileSize>
+    <NonText_DocumentType_Chars>0</NonText_DocumentType_Chars>
+    <HTML_Chars>832</HTML_Chars>
+    <XBRL_Chars>0</XBRL_Chars>
+    <XML_Chars>0</XML_Chars>
+    <N_Exhibits>5</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0000950137-04-000136.hdr.sgml : 20040113
+<ACCEPTANCE-DATETIME>20040113172710
+ACCESSION NUMBER:		0000950137-04-000136
+CONFORMED SUBMISSION TYPE:	10-Q
+PUBLIC DOCUMENT COUNT:		6
+CONFORMED PERIOD OF REPORT:	20031130
+FILED AS OF DATE:		20040113
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			NORTHFIELD LABORATORIES INC /DE/
+		CENTRAL INDEX KEY:			0000920947
+		STANDARD INDUSTRIAL CLASSIFICATION:	BIOLOGICAL PRODUCTS (NO DIAGNOSTIC SUBSTANCES) [2836]
+		IRS NUMBER:				363378733
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0531
+
+	FILING VALUES:
+		FORM TYPE:		10-Q
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-24050
+		FILM NUMBER:		04523462
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1560 SHERMAN AVE
+		STREET 2:		SUITE 1000
+		CITY:			EVANSTON
+		STATE:			IL
+		ZIP:			60201-4800
+		BUSINESS PHONE:		8478643500
+
+	MAIL ADDRESS:	
+		STREET 1:		1560 SHERMAN AVE STE 1000
+		STREET 2:		37TH FLOOR
+		CITY:			EVANSTON
+		STATE:			IL
+		ZIP:			60201-4800
+
+</SEC-Header>
+</Header>
+
+ 
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ Wb3K/gPRqXn/spZaxJD+Xtl4op3RCy7m87uCPuqHIGWA428jtz8lVyrlFC0GDwqk
+ RGEXT1Y4/zHEee11aBV9lQ==
+
+ 0000950137-04-000136.txt : 20040113
+
+10-Q
+ 1
+ c81999e10vq.txt
+ FORM 10-Q
+
+================================================================================
+ SECURITIES AND EXCHANGE COMMISSION
+ WASHINGTON, D.C. 20549
+
+ FORM 10-Q
+
+[X] QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(D) OF THE SECURITIES
+ EXCHANGE ACT OF 1934
+
+FOR THE PERIOD ENDED NOVEMBER 30, 2003
+
+ OR
+
+[ ] TRANSITION REPORT TO SECTION 13 OR 15(D) OF THE SECURITIES EXCHANGE ACT OF
+ 1934
+
+FOR THE TRANSITION PERIOD FROM _______________TO _______________
+ COMMISSION FILE NUMBER 0-24050
+
+ NORTHFIELD LABORATORIES INC.
+ (Exact name of registrant as specified in its charter)
+ DELAWARE 36-3378733
+ (State or other jurisdiction (I.R.S. Employer
+ of incorporation or organization) Identification Number)
+
+1560 SHERMAN AVENUE, SUITE 1000, EVANSTON, ILLINOIS 60201-4800
+ (Address of principal executive offices) (Zip Code)
+
+REGISTRANT'S TELEPHONE NUMBER, INCLUDING AREA CODE: (847) 864-3500
+
+FORMER NAME, FORMER ADDRESS AND FORMER FISCAL YEAR, IF CHANGED SINCE LAST
+REPORT: NOT APPLICABLE
+
+ INDICATE BY CHECK MARK WHETHER THE REGISTRANT (1) HAS FILED ALL REPORTS
+REQUIRED TO BE FILED BY SECTION 13 OR 15(D) OF THE SECURITIES EXCHANGE ACT OF
+1934 DURING THE PRECEDING 12 MONTHS (OR FOR SUCH SHORTER PERIOD THAT THE
+REGISTRANT WAS REQUIRED TO FILE SUCH REPORTS), AND (2) HAS BEEN SUBJECT TO SUCH
+FILING REQUIREMENTS FOR THE PAST 90 DAYS.
+
+ YES [X] NO [ ]
+
+ APPLICABLE ONLY TO ISSUER INVOLVED IN BANKRUPTCY
+ PROCEEDINGS DURING THE PRECEDING FIVE YEARS:
+
+ INDICATE BY CHECK MARK WHETHER THE REGISTRANT IS AN ACCELERATED FILER
+(AS DEFINED IN RULE 12b-2 OF THE EXCHANGE ACT).
+
+ YES [X] NO [ ]
+
+AS OF NOVEMBER 30, 2003, REGISTRANT HAD 16,171,067 SHARES OF COMMON STOCK
+ OUTSTANDING
+
+================================================================================
+
+CAUTIONARY STATEMENT REGARDING FORWARD-LOOKING INFORMATION
+
+This Quarterly Report contains forward-looking statements concerning, among
+other things, our prospects, clinical and regulatory developments affecting our
+potential product and our business strategies. These forward-looking statements
+are identified by the use of such terms as "intends," "expects," "plans,"
+"estimates," "anticipates," "should," "believes" and similar terms.
+
+These forward-looking statements involve risks and uncertainties. Actual results
+may differ materially from those predicted by the forward-looking statements
+because of various factors and possible events, including those discussed under
+"Risk Factors" in our Annual Report on Form 10-K filed with the Securities and
+Exchange Commission. Because these forward-looking statements involve risks and
+uncertainties, actual results may differ significantly from those predicted in
+these forward-looking statements. You should not place undue weight on these
+statements. These statements speak only as of the date of this document or, in
+the case of any document incorporated by reference, the date of that document.
+
+All subsequent written and oral forward-looking statements attributable to
+Northfield or any person acting on our behalf are qualified by the cautionary
+statements in this section and in our Annual Report. We will have no obligation
+to revise these forward-looking statements.
+
+INDEPENDENT ACCOUNTANTS' REVIEW REPORT
+
+The Board of Directors
+Northfield Laboratories Inc.:
+
+We have reviewed the balance sheet of Northfield Laboratories Inc. (a company in
+the development stage) as of November 30, 2003, and the related statements of
+operations and cash flows for the three-month and six-month periods ended
+November 30, 2003 and 2002, and for the period from June 19, 1985 (inception)
+through November 30, 2003. We have also reviewed the statements of shareholders'
+equity (deficit) for the six-month period ended November 30, 2003 and for the
+period from June 19, 1985 (inception) through November 30, 2003. These financial
+statements are the responsibility of the Company's management.
+
+We conducted our review in accordance with standards established by the American
+Institute of Certified Public Accountants. A review of interim financial
+information consists principally of applying analytical procedures to financial
+data and making inquiries of persons responsible for financial and accounting
+matters. It is substantially less in scope than an audit conducted in accordance
+with auditing standards generally accepted in the United States of America, the
+objective of which is the expression of an opinion regarding the financial
+statements taken as a whole. Accordingly, we do not express such an opinion.
+
+Based on our review, we are not aware of any material modifications that should
+be made to the financial statements referred to above for them to be in
+conformity with accounting principles generally accepted in the United States of
+America.
+
+We have previously audited, in accordance with auditing standards generally
+accepted in the United States of America, the balance sheet of Northfield
+Laboratories Inc. as of May 31, 2003, and the related statements of operations,
+shareholders' equity (deficit), and cash flows for the year then ended and for
+the period from June 19, 1985 (inception) through May 31, 2003 (not presented
+herein); and in our report dated July 28, 2003, we expressed an unqualified
+opinion on those financial statements. In our opinion, the information set forth
+in the accompanying balance sheet as of May 31, 2003 and in the accompanying
+statement of shareholders' equity (deficit) is fairly stated, in all material
+respects, in relation to the statements from which it has been derived.
+
+As discussed in note 4 to the financial statements, the Company adopted
+Statement of Financial Accounting Standards No. 143, Accounting for Asset
+Retirement Obligations, as of June 1, 2003.
+
+/s/ KPMG LLP
+
+Chicago, Illinois
+December 29, 2003
+
+NORTHFIELD LABORATORIES INC.
+ (a company in the development stage)
+
+ Balance Sheets
+
+ November 30, 2003 and May 31, 2003
+
+NOVEMBER 30, MAY 31,
+ 2003 2003
+ --------------- -------------
+ 
+ ASSETS
+
+Current assets:
+ Cash 9,810,103 4,897,962
+ Marketable securities -- 1,992,297
+ Prepaid expenses 472,924 688,755
+ --------------- ------------
+ Total current assets 10,283,027 7,579,014
+
+Property, plant, and equipment, net 1,285,961 1,596,026
+Other assets 87,271 71,399
+ --------------- ------------
+ 11,656,259 9,246,439
+ =============== ============
+ LIABILITIES AND SHAREHOLDERS' EQUITY
+
+Current liabilities:
+ Accounts payable 466,876 1,462,586
+ Accrued expenses 62,775 61,519
+ Accrued compensation and benefits 409,951 377,117
+ --------------- ------------
+ Total current liabilities 939,602 1,901,222
+
+Other liabilities 258,698 165,044
+ --------------- ------------
+ Total liabilities 1,198,300 2,066,266
+ --------------- ------------
+
+Shareholders' equity:
+ Preferred stock, .01 par value. Authorized 5,000,000 shares;
+ none issued and outstanding -- --
+ Common stock, .01 par value. Authorized 30,000,000 shares;
+ issued and outstanding 16,171,067 at November 30, 2003
+ and 14,265,875 at May 31, 2003 161,710 142,659
+ Additional paid-in capital 127,249,991 117,503,271
+ Deficit accumulated during the development stage (116,953,742) (110,465,757)
+ --------------- ------------
+ Total shareholders' equity 10,457,959 7,180,173
+ --------------- ------------
+ 11,656,259 9,246,439
+ =============== ============
+
+See accompanying notes to financial statements.
+
+NORTHFIELD LABORATORIES INC.
+ (a company in the development stage)
+
+ Statements of Operations
+
+ Three and six months ended November 30, 2003 and 2002 and for the period from
+ June 19, 1985 (inception) through November 30, 2003
+
+CUMULATIVE
+ THREE MONTHS ENDED SIX MONTHS ENDED FROM
+ NOVEMBER 30, NOVEMBER 30, JUNE 19, 1985
+ ----------------------------- ------------------------- THROUGH
+ 2003 2002 2003 2002 NOVEMBER 30, 2003
+ -------------- ----------- ----------- ----------- -----------------
+ (UNAUDITED) (UNAUDITED) (UNAUDITED) (UNAUDITED) (UNAUDITED)
+ -------------- ----------- ----------- ----------- -----------------
+ 
+Revenues - license income -- -- -- -- 3,000,000
+ -------------- ---------- ---------- ---------- -----------
+Costs and expenses:
+ Research and development 2,558,012 2,243,311 4,757,364 4,269,113 100,996,900
+ General and administrative 1,021,644 960,746 1,704,172 1,889,903 42,304,386
+ -------------- ---------- ---------- ---------- -----------
+ 3,579,656 3,204,057 6,461,536 6,159,016 143,301,286
+ -------------- ---------- ---------- ---------- -----------
+Other income and expense:
+ Interest income 25,046 60,196 48,472 137,566 23,505,699
+ Interest expense -- -- -- -- 83,234
+ -------------- ---------- ---------- ---------- -----------
+ 25,046 60,196 48,472 137,566 23,422,465
+ -------------- ---------- ---------- ---------- -----------
+Cumulative effect of change in
+ accounting principle -- -- 74,921 -- 74,921
+ -------------- ---------- ---------- ---------- -----------
+ Net loss (3,554,610) (3,143,861) (6,487,985) (6,021,450) (116,953,742)
+ ============== ========== ========== ========== ===========
+Net loss per share - basic and diluted (0.22) (0.22) (0.42) (0.42) (11.67)
+ ============== ========== ========== ========== ===========
+Shares used in calculation of
+ per share data - basic and diluted 16,162,934 14,265,875 15,560,900 14,265,875 10,019,481
+ ============== ========== ========== ========== ===========
+
+See accompanying notes to financial statements.
+
+NORTHFIELD LABORATORIES INC.
+ (a company in the development stage)
+
+ Statements of Shareholders' Equity (Deficit)
+
+ Six months ended November 30, 2003 and for the period from June 19, 1985
+ (inception) through November 30, 2003
+
+COMMON STOCK
+ --------------------------------------------------------
+ NUMBER AGGREGATE NUMBER AGGREGATE
+ OF SHARES AMOUNT OF SHARES AMOUNT
+ --------- ---------- ----------- -----------
+ 
+Issuance of common stock on August 27, 1985 -- -- 3,500,000 35,000
+Issuance of Series A convertible preferred stock at 4.00 per share on
+ August 27, 1985 (net of costs of issuance of 79,150) -- -- -- --
+Net loss -- -- -- --
+ ----- --------- ----------- -----------
+Balance at May 31, 1986 -- -- 3,500,000 35,000
+Net loss -- -- -- --
+Deferred compensation relating to grant of stock options -- -- -- --
+Amortization of deferred compensation -- -- -- --
+ ----- --------- ----------- -----------
+Balance at May 31, 1987 -- -- 3,500,000 35,000
+Issuance of Series B convertible preferred stock at 35.68 per share on
+ August 14, 1987 (net of costs of issuance of 75,450) -- -- -- --
+Net loss -- -- -- --
+Amortization of deferred compensation -- -- -- --
+ ----- --------- ----------- -----------
+Balance at May 31, 1988 -- -- 3,500,000 35,000
+Issuance of common stock at 24.21 per share on June 7, 1988 (net of
+ costs of issuance of 246,000) -- -- 413,020 4,130
+Conversion of Series A convertible preferred stock to common stock on
+ June 7, 1988 -- -- 1,250,000 12,500
+Conversion of Series B convertible preferred stock to common stock on
+ June 7, 1988 -- -- 1,003,165 10,032
+Exercise of stock options at 2.00 per share -- -- 47,115 471
+Issuance of common stock at 28.49 per share on March 6, 1989 (net of
+ costs of issuance of 21,395) -- -- 175,525 1,755
+Issuance of common stock at 28.49 per share on March 30, 1989 (net of
+ costs of issuance of 10,697) -- -- 87,760 878
+Sale of options at 28.29 per share to purchase common stock at .20
+ per share on March 30, 1989 (net of costs of issuance of 4,162) -- -- -- --
+Net loss -- -- -- --
+Deferred compensation relating to grant of stock options -- -- -- --
+Amortization of deferred compensation -- -- -- --
+ ----- --------- ----------- -----------
+Balance at May 31, 1989 -- -- 6,476,585 64,766
+Net loss -- -- -- --
+Deferred compensation relating to grant of stock options -- -- -- --
+Amortization of deferred compensation -- -- -- --
+ ----- --------- ----------- -----------
+Balance at May 31, 1990 -- -- 6,476,585 64,766
+Net loss -- -- -- --
+Amortization of deferred compensation -- -- -- --
+ ----- --------- ----------- -----------
+Balance at May 31, 1991 -- -- 6,476,585 64,766
+Exercise of stock warrants at 5.60 per share -- -- 90,000 900
+Net loss -- -- -- --
+Amortization of deferred compensation -- -- -- --
+ ----- --------- ----------- -----------
+Balance at May 31, 1992 -- -- 6,566,585 65,666
+Exercise of stock warrants at 7.14 per share -- -- 15,000 150
+Issuance of common stock at 15.19 per share on April 19, 1993 (net
+ of costs of issuance of 20,724) -- -- 374,370 3,744
+Net loss -- -- -- --
+Amortization of deferred compensation -- -- -- --
+ ----- --------- ----------- -----------
+Balance at May 31, 1993 -- -- 6,955,955 69,560
+ ----- --------- ----------- -----------
+
+See accompanying notes to financial statements.
+
+SERIES A CONVERTIBLE SERIES B CONVERTIBLE DEFICIT TOTAL
+ PREFERRED STOCK PREFERRED STOCK ACCUMULATED SHARE-
+- ----------------------- ------------------------ ADDITIONAL DURING THE DEFERRED HOLDERS'
+ NUMBER AGGREGATE NUMBER AGGREGATE PAID-IN DEVELOPMENT COMPEN- EQUITY
+OF SHARES AMOUNT OF SHARES AMOUNT CAPITAL STAGE SATION (DEFICIT)
+- --------- ----------- ---------- ----------- ----------- ------------- ----------- ------------
+ 
+ -- -- -- -- (28,000) -- -- 7,000
+
+ 250,000 250,000 -- -- 670,850 -- -- 920,850
+ -- -- -- -- -- (607,688) -- (607,688)
+- --------- ----------- ---------- ----------- ------------ ------------- ----------- ------------
+ 250,000 250,000 -- -- 642,850 (607,688) -- 320,162
+ -- -- -- -- -- (2,429,953) -- (2,429,953)
+ -- -- -- -- 2,340,000 -- (2,340,000) --
+ -- -- -- -- -- -- 720,000 720,000
+- --------- ----------- ---------- ----------- ------------ ------------- ----------- ------------
+ 250,000 250,000 -- -- 2,982,850 (3,037,641) (1,620,000) (1,389,791)
+
+ -- -- 200,633 200,633 6,882,502 -- -- 7,083,135
+ -- -- -- -- -- (3,057,254) -- (3,057,254)
+ -- -- -- -- -- -- 566,136 566,136
+- --------- ----------- ---------- ----------- ------------ ------------- ----------- ------------
+ 250,000 250,000 200,633 200,633 9,865,352 (6,094,895) (1,053,864) 3,202,226
+ -- -- -- -- 9,749,870 -- -- 9,754,000
+ (250,000) (250,000) -- -- 237,500 -- -- --
+ -- -- (200,633) (200,633) 190,601 -- -- --
+ -- -- -- -- 93,759 -- -- 94,230
+ -- -- -- -- 4,976,855 -- -- 4,978,610
+ -- -- -- -- 2,488,356 -- -- 2,489,234
+
+ -- -- -- -- 7,443,118 -- -- 7,443,118
+ -- -- -- -- -- (791,206) -- (791,206)
+ -- -- -- -- 683,040 -- (683,040) --
+ -- -- -- -- -- -- 800,729 800,729
+- --------- ----------- ---------- ----------- ------------ ------------- ----------- ------------
+ -- -- -- -- 35,728,451 (6,886,101) (936,175) 27,970,941
+ -- -- -- -- -- (3,490,394) -- (3,490,394)
+ -- -- -- -- 699,163 -- (699,163) --
+ -- -- -- -- -- -- 546,278 546,278
+- --------- ----------- ---------- ----------- ------------ ------------- ----------- ------------
+ -- -- -- -- 36,427,614 (10,376,495) (1,089,060) 25,026,825
+ -- -- -- -- -- (5,579,872) -- (5,579,872)
+ -- -- -- -- -- -- 435,296 435,296
+- --------- ----------- ---------- ----------- ------------ ------------- ----------- ------------
+ -- -- -- -- 36,427,614 (15,956,367) (653,764) 19,882,249
+ -- -- -- -- 503,100 -- -- 504,000
+ -- -- -- -- -- (7,006,495) -- (7,006,495)
+ -- -- -- -- -- -- 254,025 254,025
+- --------- ----------- ---------- ----------- ------------ ------------- ----------- ------------
+ -- -- -- -- 36,930,714 (22,962,862) (399,739) 13,633,779
+ -- -- -- -- 106,890 -- -- 107,040
+ -- -- -- -- 5,663,710 -- -- 5,667,454
+ -- -- -- -- -- (8,066,609) -- (8,066,609)
+ -- -- -- -- -- -- 254,025 254,025
+- --------- ----------- ---------- ----------- ------------ ------------- ----------- ------------
+ -- -- -- -- 42,701,314 (31,029,471) (145,714) 11,595,689
+- --------- ----------- ---------- ----------- ------------ ------------- ----------- ------------
+
+NORTHFIELD LABORATORIES INC.
+ (a company in the development stage)
+
+ Statements of Shareholders' Equity (Deficit)
+
+ Six months ended November 30, 2003 and for the period
+ from June 19, 1985 (inception) through November 30, 2003
+
+PREFERRED STOCK COMMON STOCK
+ --------------------------------------------
+ NUMBER AGGREGATE NUMBER AGGREGATE
+ OF SHARES AMOUNT OF SHARES AMOUNT
+ --------- ---------------------- ---------
+ 
+Net loss -- -- -- --
+Issuance of common stock at 6.50 per share on May 26, 1994 (net of
+ costs of issuance of 2,061,149) -- -- 2,500,000 25,000
+Cancellation of stock options -- -- -- --
+Amortization of deferred compensation -- -- -- --
+ ---- --------- ---------- ---------
+
+Balance at May 31, 1994 -- -- 9,455,955 94,560
+Net loss -- -- -- --
+Issuance of common stock at 6.50 per share on June 20, 1994
+ (net of issuance costs of 172,500) -- -- 375,000 3,750
+Exercise of stock options at 7.14 per share -- -- 10,000 100
+Exercise of stock options at 2.00 per share -- -- 187,570 1,875
+Cancellation of stock options -- -- -- --
+Amortization of deferred compensation -- -- -- --
+ ---- --------- ---------- ---------
+
+Balance at May 31, 1995 -- -- 10,028,525 100,285
+Net loss -- -- -- --
+Issuance of common stock at 17.75 per share on August 9, 1995
+ (net of issuance costs of 3,565,125) -- -- 2,925,000 29,250
+Issuance of common stock at 17.75 per share on September 11, 1995
+ (net of issuance costs of 423,238) -- -- 438,750 4,388
+Exercise of stock options at 2.00 per share -- -- 182,380 1,824
+Exercise of stock options at 6.38 per share -- -- 1,500 15
+Exercise of stock options at 7.14 per share -- -- 10,000 100
+Cancellation of stock options -- -- -- --
+Amortization of deferred compensation -- -- -- --
+ ---- --------- ---------- ---------
+
+Balance at May 31, 1996 -- -- 13,586,155 135,862
+Net loss -- -- -- --
+Exercise of stock options at 0.20 per share -- -- 263,285 2,633
+Exercise of stock options at 2.00 per share -- -- 232,935 2,329
+Exercise of stock options at 7.14 per share -- -- 10,000 100
+Amortization of deferred compensation -- -- -- --
+ ---- --------- ---------- ---------
+
+Balance at May 31, 1997 -- -- 14,092,375 140,924
+Net loss -- -- -- --
+Exercise of stock options at 7.14 per share -- -- 5,000 50
+Amortization of deferred compensation -- -- -- --
+ ---- --------- ---------- ---------
+
+Balance at May 31, 1998 -- -- 14,097,375 140,974
+Net loss -- -- -- --
+Non-cash compensation -- -- -- --
+Exercise of stock options at 7.14 per share -- -- 17,500 175
+Exercise of stock warrants at 8.00 per share -- -- 125,000 1,250
+ ---- --------- ---------- ---------
+
+Balance at May 31, 1999 -- -- 14,239,875 142,399
+Net loss -- -- -- --
+Non-cash compensation -- -- -- --
+Exercise of stock options at 13.38 per share -- -- 2,500 25
+ ---- --------- ---------- ---------
+
+Balance at May 31, 2000 -- -- 14,242,375 142,424
+Net loss -- -- -- --
+Non-cash compensation -- -- -- --
+Exercise of stock options at 6.38 per share -- -- 6,000 60
+Exercise of stock options at 10.81 per share -- -- 17,500 175
+ ---- --------- ---------- ---------
+
+Balance at May 31, 2001 -- -- 14,265,875 142,659
+Net loss -- -- -- --
+ ---- --------- ---------- ---------
+
+Balance at May 31, 2002 -- -- 14,265,875 142,659
+Net loss -- -- -- --
+ ---- --------- ---------- ---------
+
+Balance at May 31, 2003 -- -- 14,265,875 142,659
+
+Issuance of common stock at 5.60 per share on July 28, 2003
+ (net of costs of issuance of 909,229) -- -- 1,892,857 18,928
+Issuance of common stock to directors at 6.08 per share on
+ October 30, 2003 12,335 123
+Net loss -- -- -- --
+ ---- --------- ---------- ---------
+Balance at November 30, 2003 -- -- 16,171,067 161,710
+ ==== ========= ========== =========
+
+SERIES A CONVERTIBLE SERIES B CONVERTIBLE DEFICIT TOTAL
+ PREFERRED STOCK PREFERRED STOCK ACCUMULATED SHARE-
+- -------------------- -------------------- ADDITIONAL DURING THE DEFERRED HOLDERS'
+ NUMBER AGGREGATE NUMBER AGGREGATE PAID-IN DEVELOPMENT COMPEN- EQUITY
+OF SHARES AMOUNT OF SHARES AMOUNT CAPITAL STAGE SATION (DEFICIT)
+- --------- --------- --------- --------- ------------- --------------- ---------- --------------
+ 
+ -- -- -- -- -- (7,363,810) -- (7,363,810)
+ -- -- -- -- 14,163,851 -- -- 14,188,851
+ -- -- -- -- (85,400) -- 85,400 --
+ -- -- -- -- -- -- 267 267
+- ----- --------- --- --------- ------------- --------------- ---------- --------------
+
+ -- -- -- -- 56,779,765 (38,393,281) (60,047) 18,420,997
+ -- -- -- -- -- (7,439,013) -- (7,439,013)
+ -- -- -- -- 2,261,250 -- -- 2,265,000
+ -- -- -- -- 71,300 -- -- 71,400
+ -- -- -- -- 373,264 -- -- 375,139
+ -- -- -- -- (106,750) -- 106,750 --
+ -- -- -- -- -- -- (67,892) (67,892)
+- ----- --------- --- --------- ------------- --------------- ---------- --------------
+
+ -- -- -- -- 59,378,829 (45,832,294) (21,189) 13,625,631
+ -- -- -- -- -- (4,778,875) -- (4,778,875)
+ -- -- -- -- 48,324,374 -- -- 48,353,624
+ -- -- -- -- 7,360,187 -- -- 7,364,575
+ -- -- -- -- 362,937 -- -- 364,761
+ -- -- -- -- 9,555 -- -- 9,570
+ -- -- -- -- 71,300 -- -- 71,400
+ -- -- -- -- (80,062) -- 80,062 --
+ -- -- -- -- -- -- (62,726) (62,726)
+- ----- --------- --- --------- ------------- --------------- ---------- --------------
+
+ -- -- -- -- 115,427,120 (50,611,169) (3,853) 64,947,960
+ -- -- -- -- -- (4,245,693) -- (4,245,693)
+ -- -- -- -- 50,025 -- -- 52,658
+ -- -- -- -- 463,540 -- -- 465,869
+ -- -- -- -- 71,300 -- -- 71,400
+ -- -- -- -- -- -- 2,569 2,569
+- ----- -------- --- --------- ------------- --------------- ---------- --------------
+
+ -- -- -- -- 116,011,985 (54,856,862) (1,284) 61,294,763
+ -- -- -- -- -- (5,883,378) -- (5,883,378)
+ -- -- -- -- 35,650 -- -- 35,700
+ -- -- -- -- -- -- 1,284 1,284
+- ----- --------- --- --------- ------------- --------------- ---------- --------------
+
+ -- -- -- -- 116,047,635 (60,740,240) -- 55,448,369
+ -- -- -- -- -- (7,416,333) -- (7,416,333)
+ -- -- -- -- 14,354 -- 14,354
+ -- -- -- -- 124,775 -- -- 124,950
+ -- -- -- -- 998,750 -- -- 1,000,000
+- ----- --------- --- --------- ------------- --------------- ---------- --------------
+
+ -- -- -- -- 117,185,514 (68,156,573) -- 49,171,340
+ -- -- -- -- -- (9,167,070) -- (9,167,070)
+ -- -- -- -- 57,112 -- -- 57,112
+ -- -- -- -- 33,425 -- -- 33,450
+- ----- --------- --- --------- ------------- --------------- ---------- --------------
+
+ -- -- -- -- 117,276,051 (77,323,643) -- 40,094,832
+ -- -- -- -- -- (10,174,609) -- (10,174,609)
+ -- -- -- -- -- -- -- --
+ -- -- -- -- 38,220 -- -- 38,280
+ -- -- -- -- 189,000 -- -- 189,175
+- ----- --------- --- --------- ------------- --------------- ---------- --------------
+
+ -- -- -- -- 117,503,271 (87,498,252) -- 30,147,678
+ -- -- -- -- -- (10,717,360) -- (10,717,360)
+- ----- --------- --- --------- ------------- --------------- ---------- --------------
+
+ -- -- -- -- 117,503,271 (98,215,612) -- 19,430,318
+ -- -- -- -- -- (12,250,145) -- (12,250,145)
+- ----- --------- --- --------- ------------- --------------- ---------- --------------
+
+ -- -- -- -- 117,503,271 (110,465,757) -- 7,180,173
+
+ -- -- -- -- 9,671,843 -- -- 9,690,771
+ 74,877 75,000
+ -- -- -- -- -- (6,487,985) -- (6,487,985)
+- ----- --------- --- --------- ------------- --------------- ---------- --------------
+ -- -- -- -- 127,249,991 (116,953,742) -- 10,457,959
+===== ========= === ========= ============= =============== ========== ==============
+
+NORTHFIELD LABORATORIES INC.
+ (a company in the development stage)
+
+ Statements of Cash Flows
+
+ Six months ended November 30, 2003 and 2002
+ and for the period from June 19, 1985
+ (inception) through November 30, 2003
+
+CUMULATIVE
+ FROM
+ SIX MONTHS ENDED NOVEMBER 30, JUNE 19, 1985
+ ----------------------------- THROUGH
+ 2003 2002 NOVEMBER 30, 2003
+ ------------- ------------- -----------------
+ 
+Cash flows from operating activities:
+ Net loss (6,487,985) (6,021,450) (116,953,742)
+ Adjustments to reconcile net loss to net
+ cash used in operating activities:
+ Depreciation and amortization 345,699 406,623 17,448,768
+ Non-cash compensation 75,000 -- 3,627,723
+ Loss on sale of equipment -- -- 66,359
+ Changes in assets and liabilities:
+ Prepaid expenses 215,831 100,502 (682,135)
+ Other current assets -- (9,950) (1,896,251)
+ Other assets (15,872) -- (9,021)
+ Accounts payable (995,710) (753,293) 466,876
+ Accrued expenses 1,256 109,892 62,775
+ Accrued compensation and benefits 32,834 (22,045) 409,951
+ Other liabilities 93,654 (4,969) 258,698
+ ------------ ---------- --------------
+
+ Net cash used in operating activities (6,735,293) (6,194,690) (97,199,999)
+ ------------ ---------- --------------
+
+Cash flows from investing activities:
+ Purchase of property, plant, equipment, and
+ capitalized engineering costs (43,337) (146,766) (18,715,027)
+ Proceeds from sale of land and equipment -- -- 1,863,023
+ Proceeds from matured marketable securities 2,000,000 -- 411,537,352
+ Proceeds from sale of marketable securities -- -- 7,141,656
+ Purchase of marketable securities -- (1,953,138) (418,632,147)
+ ------------ ---------- --------------
+
+ Net cash provided by (used in) investing activities 1,956,663 (2,099,904) (16,805,143)
+ ------------ ---------- --------------
+
+Cash flows from financing activities:
+ Proceeds from issuance of common stock 10,600,000 -- 114,349,383
+ Payment of common stock issuance costs (909,229) -- (5,981,241)
+ Proceeds from issuance of preferred stock -- -- 6,644,953
+ Proceeds from sale of stock options to
+ purchase common shares -- -- 7,443,118
+ Proceeds from issuance of notes payable -- -- 1,500,000
+ Repayment of notes payable -- -- (140,968)
+ ------------ ---------- --------------
+
+ Net cash provided by financing activities 9,690,771 -- 123,815,245
+ ------------ ---------- --------------
+
+ Net (decrease) increase in cash 4,912,141 (8,294,594) 9,810,103
+
+Cash at beginning of period 4,897,962 17,668,687 --
+ ------------ ---------- --------------
+Cash at end of period 9,810,103 9,374,093 9,810,103
+ ============ ========== ==============
+
+See accompanying notes to financial statements.
+
+NORTHFIELD LABORATORIES INC.
+
+ (A COMPANY IN THE DEVELOPMENT STAGE)
+
+ NOTES TO FINANCIAL STATEMENTS
+
+ NOVEMBER 30, 2003
+
+(1) BASIS OF PRESENTATION
+
+The interim financial statements presented are unaudited but, in the opinion of
+management, have been prepared in conformity with accounting principles
+generally accepted in the United States of America applied on a basis consistent
+with those of the annual financial statements. Such interim financial statements
+reflect all adjustments (consisting of normal recurring accruals) necessary for
+a fair presentation of the financial position and the results of operations for
+the interim periods presented. The results of operations for the interim periods
+presented are not necessarily indicative of the results to be expected for the
+year ending May 31, 2004. The interim financial statements should be read in
+connection with the audited financial statements for the year ended May 31,
+2003.
+
+(2) COMPUTATION OF NET LOSS PER SHARE
+
+Basic earnings per share is based on the weighted average number of shares
+outstanding and excludes the dilutive effect of unexercised common stock
+equivalents. Diluted earnings per share is based on the weighted average number
+of shares outstanding and includes the dilutive effect of unexercised common
+stock equivalents. Because the Company reported a net loss for all periods
+presented, basic and diluted per share amounts are the same.
+
+(3) GOING CONCERN UNCERTAINTY
+
+The financial statements of the Company have been presented based on the
+assumption that the Company will continue as a going concern. The Company,
+however, may not be able to continue as going concern because it expects to
+experience significant future losses and currently has insufficient capital
+resources to fund its continuing operations. The Company believes its existing
+capital resources will be adequate to satisfy its operating capital requirements
+and maintain its existing manufacturing plant and office facilities for 6
+months. In addition, the Company expects its existing capital resources will be
+sufficient to support expenditures incurred in connection with the Company's
+planned Phase III clinical trials during this period. Thereafter, the Company
+will require substantial additional funding to continue its operations and
+complete its planned clinical trials.
+
+The Company raised 10,600,000 in gross proceeds through an offering of its
+common stock in July 2003. The Company may issue additional equity or debt
+securities or enter into collaborative arrangements with strategic partners,
+which could provide the Company with additional funding or absorb expenses the
+Company would otherwise be required to pay. The Company is also pursuing
+potential sources of government funding. Any one or a combination of these
+sources may be utilized to raise additional capital. We believe our ability to
+raise additional capital will depend primarily on the progress we make toward
+the commercialization of our potential product, as well as general conditions in
+the business and financial markets. There can be no assurance that the Company
+will be successful in raising additional capital. The Company's inability to
+raise sufficient levels of capital could materially delay or prevent the
+commercialization of its PolyHeme(R) blood substitute product and could result
+in the cessation of the Company's business. The financial
+
+statements do not include any adjustments that might result from the outcome of
+this uncertainty.
+
+(4) ASSET RETIREMENT OBLIGATIONS
+
+The Company adopted Statement of Financial Accounting Standards, SFAS No. 143 -
+Accounting for Asset Retirement Obligations as of June 1, 2003. The cumulative
+effect of the change in accounting principle upon implementation was to
+recognize a net asset of 17,800, an increase in liabilities of 92,721 and an
+increase in net loss of 74,921, or 0.01 per share.
+
+The obligation relates to the restoration of a leased manufacturing facility to
+its original condition. A liability of 100,000 had been recorded in a prior
+period.
+
+The Company's asset retirement obligations are included in other liabilities.
+The balances and changes thereto are summarized below:
+
+Quarter Ended November 30, 2003
+- --------------------------------------------------------------------------------
+ 
+Obligation at June 1, 2003 192,721
+Accretion 8,672
+ --------
+Obligation at November 30, 2003 201,393
+ --------
+- --------------------------------------------------------------------------------
+
+If the change in accounting had been applied retroactively, the Company's pro
+forma net loss for the six months ended November 30, 2002 and for the period
+from June 19, 1985 (inception) through November 30, 2002 would have been
+ 6,086,990 and 104,302,602. The Company's pro forma liability at November 30,
+2003 would have been 184,764.
+
+(5) STOCK OPTIONS
+
+The Company accounts for its fixed plan stock options under the intrinsic value
+method of accounting prescribed by Accounting Principles Board Opinion No. 25,
+Accounting for Stock Issued to Employees, and related interpretations in
+accounting for options granted to directors, officers, and key employees under
+the plans. As such, compensation expense is recorded on the date of grant and
+amortized over the period of service only if the current market value of the
+underlying stock exceeded the exercise price. No stock-based employee
+compensation cost is reflected in net loss, as each option granted under these
+plans had an exercise price equal to the market value of the underlying common
+stock on the date of grant.
+
+The following table illustrates the effect on net loss if the Company had
+applied the fair value recognition provisions of Statement of Financial
+Accounting Standards (SFAS) 123, Accounting for Stock Based Compensation, to the
+measurement of stock-based employee compensation, including a straight-line
+recognition of compensation costs over the related vesting periods for fixed
+awards:
+
+THREE MONTHS ENDED SIX MONTHS ENDED
+
+ NOV 30 NOV 30 NOV 30 NOV 30
+ 2003 2002 2003 2002
+ ------------ ------------- ------------- --------------
+ (unaudited) (unaudited) (unaudited) (unaudited)
+
+Net loss as reported (3,554,610) (3,143,861) (6,487,985) (6,021,450)
+
+Deduct: Total stock based compensation
+ expense determined under the fair value
+ method for all awards, net of related
+ tax effects (200,962) (169,808) (330,974) (339,615)
+ ------------ ------------- ------------- --------------
+
+Pro forma net loss (3,755,572) (3,313,669) (6,818,959) (6,361,065)
+ ============ ============= ============= ==============
+
+Basic and diluted loss per share:
+ As reported (0.22) (0.22) (0.42) (0.42)
+
+ Pro forma (0.23) (0.23) (0.44) (0.45)
+ ============ ============= ============= ==============
+
+ITEM 2. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS
+OF OPERATIONS.
+
+ As of November 30, 2003, Northfield Laboratories Inc. ("Northfield")
+had available cash balances of 9,810,000. We forecast that this level of cash
+will be sufficient to fund current operations from November 30, 2003 and the
+ramp-up of our phase III pre-hospital trauma trials for approximately 6 months.
+We forecast a need to raise approximately 25 to 30 million in total to fund
+operations through the completion of our phase III pre-hospital trauma trials.
+
+ During the first quarter of the current fiscal year, we raised
+ 10,600,000 in gross proceeds through the sale of common shares from a shelf
+registration statement which allows us to issue up to 50,000,000 in securities.
+We may issue additional equity or debt securities, or utilize other financing
+vehicles, to provide additional capital. We believe our ability to raise
+additional capital will depend primarily on the progress we make toward the
+commercialization of PolyHeme(R), as well as general conditions in the business
+and financial markets. Our inability to raise sufficient levels of capital would
+severely impair our current operations and raises significant doubt about our
+ability to continue as a going concern.
+
+ Since Northfield's incorporation in 1985, we have devoted substantially
+all of our efforts and resources to the research, development and clinical
+testing of PolyHeme(R). We have incurred operating losses during each year of
+our operations since inception and expect to incur substantial additional
+operating losses for the next several years. From Northfield's inception through
+November 30, 2003, we have incurred operating losses totaling 116,954,000.
+
+We will be required to complete our planned phase III pre-hospital
+trauma trials to obtain FDA regulatory approval before PolyHeme(R) can be sold
+commercially. The FDA regulatory process is subject to significant risks and
+uncertainties, including those described under "Risk Factors" found in our
+Annual Form 10-K filing. We therefore cannot at this time reasonably estimate
+the timing of any future revenues from the commercial sale of PolyHeme(R).
+
+ Our success will depend on several factors, including our ability to
+obtain FDA regulatory approval of PolyHeme(R) and our manufacturing facilities,
+our ability to obtain sufficient quantities of blood to manufacture PolyHeme(R)
+in commercial quantities, our ability to manufacture and distribute PolyHeme(R)
+in a cost-effective manner, our ability to enforce our patent positions and the
+availability of sufficient capital to fund these activities. We have experienced
+significant delays in the development and clinical testing of PolyHeme(R). We
+cannot ensure that we will be able to achieve these goals or that we will be
+able to realize product revenues or profitability on a sustained basis or at
+all.
+
+RESULTS OF OPERATIONS
+
+ We reported no revenues for any of the three and six-month periods
+ended November 30, 2003 or 2002. From Northfield's inception through November
+30, 2003, we have reported total revenues of 3,000,000, all of which were
+derived from licensing fees.
+
+OPERATING EXPENSES
+
+ Operating expenses for our second fiscal quarter ended November 30,
+2003 totaled 3,580,000, an increase of 376,000, or 11.7 , from the 3,204,000
+reported in the second quarter of fiscal 2003. The difference was primarily due
+to increased costs associated with launching our phase III pre-hospital trauma
+trial.
+
+ Research and development expenses for the second quarter of fiscal 2004
+totaled 2,558,000, an increase of 315,000, or 14.0 , from the 2,243,000
+reported in the second quarter of fiscal 2003. Higher expenses were recognized
+during the second quarter of fiscal 2004 related to start-up costs for our phase
+III pre-hospital trauma trial. These costs included site qualification visits,
+costs incurred for community consultation and public disclosure as required for
+a waiver of consent protocol, site training for logistics and data recording,
+and training for analyzing patient blood samples.
+
+ We anticipate that research and development expenses will increase
+significantly during the remainder of our fiscal year. From current levels,
+additional costs are being planned for community disclosure, multi-center site
+participation, clinical monitoring, database preparation, biostatistical
+analysis, independent safety appraisal and project management.
+
+ General and administrative expenses in the second quarter of fiscal
+2004 totaled 1,022,000 compared to expenses of 961,000 in the second quarter
+of 2003, representing an increase of 61,000, or 6.3 . This increase was due to
+higher compensation costs from year
+
+over year hiring, insurance costs and filing fees related to our common stock
+offering, which occurred in the first quarter of this fiscal year.
+
+ We anticipate modest increases in general and administrative expenses,
+specifically in market research, over the balance of the fiscal year. Our focus
+is centered on successfully executing our phase III pre-hospital trauma trial.
+An effort, however, will be initiated to enhance our assessment of the market
+and begin to develop plans for the commercial launch of PolyHeme(R).
+
+ For the six-month period ended November 30, 2003, operating expenses of
+ 6,462,000 exceeded the operating expenses of 6,159,000 incurred in the
+six-month period ended November 30, 2002. The dollar increase was 303,000 and
+the percentage increase equaled 4.9 . The increases can primarily be attributed
+to the required preparation work for our phase III pre-hospital trauma trial.
+
+ Research and development expenses for the six-month period ended
+November 30, 2003 totaled 4,757,000, which represents a 488,000, or 11.4 ,
+increase from the comparable expenses incurred in the six-month period ended
+November 30, 2002. During the current fiscal year, the most important activities
+were obtaining the required regulatory approvals for our phase III pre-hospital
+trauma trial, preparing site required documentation for both community
+consultation and institutional review board approval, and formalizing,
+communicating and conducting site training for logistical and data issues. These
+efforts are the sources of the increased expenses.
+
+General and administrative expenses for the six-month period ended
+November 30, 2003 totaled 1,704,000, which represents a 186,000, and 9.8 ,
+decrease from the expense incurred in the comparable prior year period. The
+decrease is the result of a significant reduction in the use of outside
+professional services.
+
+INTEREST INCOME
+
+ Interest income in the second quarter of fiscal 2004 totaled 25,000,
+or a 35,000 decrease from the 60,000 in interest income reported in the second
+quarter of fiscal 2003. Lower investment balances combined with a reduction in
+available short-term interest rates accounted for the decrease in interest
+income. In the absence of a significant cash infusion, interest income will
+continue to be significantly below prior year levels.
+
+ On a fiscal year to date basis, interest income of 48,000 was 90,000
+lower than in the comparable prior year period. Lower available investment
+balances and lower yielding investment options combined to cause the significant
+decrease in interest income.
+
+NET LOSS
+
+The net loss for the second quarter ended November 30, 2003 was
+ 3,555,000, or 0.22 per share, compared to a net loss of 3,144,000, or 0.22
+per share, for the second quarter ended November 30, 2002. The 411,000
+increased net loss in the current quarter compared to the second quarter of the
+prior year was primarily the result of increased research and development
+spending. On a per share basis, the increased net loss was mitigated by the
+additional shares outstanding in the current quarter and resulted in the loss
+per share equaling 0.22 for both the second quarter of fiscal 2004 and 2003.
+
+ On a fiscal year to date basis, we reported a loss of 6,488,000 and
+ 0.42 per share compared to a prior year 6-month loss of 6,021,000 or 0.42 per
+share. The increased net loss of 467,000 in the first six-months of the current
+fiscal year compared to the same period in the prior year is mitigated by the
+increased number of shares outstanding in the current fiscal year.
+
+LIQUIDITY AND CAPITAL RESOURCES
+
+ From Northfield's inception through November 30, 2003, we have used
+cash for operating activities and for the purchase of property, plant, equipment
+and engineering services in the amount of 115,915,000. For the six-month
+periods ended November 30, 2003 and 2002, these cash expenditures totaled
+ 6,779,000 and 6,341,000, respectively. The increased cash outlay for the
+first six-month period of fiscal 2004 compared to the same period in the prior
+year is the result of a higher level of research and development expenses
+related to our phase III pre-hospital trauma trial in the current year.
+
+We have financed our research and development and other activities to
+date through the public and private sale of equity securities and, to a more
+limited extent, through the license of product rights. In July 2003, we sold
+1,892,857 shares of our common stock in an offering transaction that generated
+gross proceeds before expenses of 10,600,000. Net proceeds from this offering
+were approximately 9.7 million. As of November 30, 2003, we had cash and
+marketable securities totaling 9,810,000.
+
+ We believe our existing capital resources will be adequate to satisfy
+our operating capital requirements and maintain our existing manufacturing plant
+and office facilities for approximately 6 months. In addition, our existing
+capital resources are expected to be sufficient to support expenditures incurred
+in connection with our planned phase III pre-hospital trauma trials during this
+period. Thereafter, we will require substantial additional funding to continue
+our operations and complete our planned trauma trials. Our inability to raise
+sufficient levels of capital would severely impair our current operations and
+raises significant doubt about our ability to continue as a going concern.
+
+ We may issue additional equity or debt securities or enter into
+collaborative arrangements with strategic partners, which could provide us with
+additional funding or absorb expenses we would otherwise be required to pay. We
+are also pursuing potential sources of government funding. Any one or a
+combination of these sources may be utilized to raise additional capital. We
+believe our ability to raise additional capital will depend primarily on the
+progress we make toward the commercialization of PolyHeme(R), as well as general
+conditions in the business and financial markets. Our inability to raise
+sufficient levels of capital could materially delay or prevent the
+commercialization of PolyHeme(R), even if it is approved by FDA. We cannot
+ensure that we will be able to achieve product revenues or profitability on a
+sustained basis or at all.
+
+Our capital requirements may vary materially from those now anticipated
+because of the timing and results of our clinical testing of PolyHeme(R), the
+establishment of relationships with strategic partners, changes in the scale,
+timing or cost of our planned commercial manufacturing facility, competitive and
+technological advances, the FDA regulatory process, changes in our marketing and
+distribution strategy and other factors.
+
+CRITICAL ACCOUNTING POLICIES
+
+ The preparation of financial statements requires management to make
+estimates and assumptions that affect amounts reported therein. We believe the
+following critical accounting policy reflects our more significant judgments and
+estimates used in the preparation of our financial statements.
+
+NET DEFERRED TAX ASSETS VALUATION
+
+ We record our net deferred tax assets in the amount that we expect to
+realize based on projected future taxable income. In assessing the
+appropriateness of our valuation, assumptions and estimates are required, such
+as Northfield's ability to generate future taxable income. In the event we were
+to determine that it was more likely than not we would be able to realize our
+deferred tax assets in the future in excess of their carrying value, an
+adjustment to recognize the deferred tax assets would increase income in the
+period such determination was made. As of
+
+November 30, 2003, we have recorded a 100 percent valuation allowance against
+our net deferred tax assets.
+
+CONTRACTUAL OBLIGATIONS
+
+ The following table reflects a summary of our contractual cash
+obligations as of November 30, 2003:
+
+LESS THAN 4-5
+ CONTRACTUAL CASH OBLIGATIONS TOTAL ONE YEAR 1-3 YEARS YEARS
+ ---------------------------- ----- --------- --------- -----
+ 
+Lease Obligations (1) ........................... 3,375,050 860,929 1,462,277 1,051,844
+
+Other Obligations (2) ........................... 1,527,589 888,544 639,045 --
+ ---------- --------- --------- ---------
+
+Total Contractual Cash Obligations .............. 4,902,639 1,749,473 2,101,322 1,051,844
+ ========== ========= ========= =========
+
+(1) The lease for our Evanston headquarters is cancelable with six
+months notice combined with a termination payment equal to six months base rent
+and six months of additional rental payments. If the lease were terminated
+today, the termination payment would be 315,530. The Mt. Prospect lease has
+been renewed through August 2009.
+
+ (2) Includes payments required under employment agreements for Steven
+A. Gould, M.D. and Jack J. Kogut and obligations under a consulting agreement.
+The employment agreements provide for a minimum of one-year severance and
+additional payments under certain circumstances.
+
+RECENT ACCOUNTING PRONOUNCEMENTS
+
+ In August 2001, the Financial Accounting Standards Board (FASB) issued
+FASB Statement No. 143, "Accounting for Asset Retirement Obligations," which
+addresses financial accounting and reporting for obligations associated with the
+retirement of tangible long-lived assets and for the associated asset retirement
+costs. FASB Statement No. 143 requires an enterprise to record the fair value of
+an asset retirement obligation as a liability in the period in which it incurs a
+legal obligation associated with the retirement of tangible long-lived assets
+that result from the acquisition, construction, development and/or normal use of
+the assets. The enterprise also is to record a corresponding increase to the
+carrying amount of the related long-lived asset (i.e., the associated asset
+retirement costs) and to depreciate that cost over the life of the asset. The
+liability is changed at the end of each period to reflect the passage of time
+and changes in the estimated future cash flows underlying the initial fair value
+measurement. The Company adopted this standard as of June 1, 2003. Upon
+adoption, the cumulative effect of the change in accounting principle was to
+recognize a net asset of 17,800, an increase in liabilities of 92,721 and an
+increase in net loss of 74,921, or .01 per share.
+
+ On May 15, 2003 the FASB issued Statement of Financial Accounting
+Standards No. 150, "Accounting for Certain Financial Instruments with
+Characteristics of both Liabilities and Equity (SFAS 150)." The provisions of
+the Statement change the classification of certain freestanding financial
+instruments that are now classified as equity. Generally, the Statement is
+effective for financial instrument arrangements entered into or modified after
+May 31, 2003. The adoption of SFAS 150 did not have a material effect on the
+financial position, results of operations, or cash flows of the Company.
+
+ITEM 3. QUANTITATIVE AND QUALITATIVE DISCLOSURE ABOUT MARKET RISK.
+
+ The Company currently does not have any foreign currency exchange risk.
+The Company invests its cash and cash equivalents in government securities,
+certificates of deposit and money market funds. These investments are subject to
+interest rate risk. However, due to the nature of the Company's short-term
+investments, it believes that the financial market risk exposure is not
+material. A one percentage point decrease on an investment balance of 9.8
+million would decrease interest income by 98,000 on an annual basis.
+
+ITEM 4. CONTROLS AND PROCEDURES.
+
+ Based on their evaluation as of the end of the period covered by this
+report, our Chief Executive Officer and Senior Vice President and Chief
+Financial Officer have concluded that Northfield's disclosure controls and
+procedures, as defined in Rules 13a-15(e) and 15d-15(e) under the Securities
+Exchange Act of 1934, are effective to ensure that information required to be
+disclosed by us in the reports that we file or submit under the Securities
+Exchange Act is recorded, processed, summarized and reported within the time
+periods specified in the Securities and Exchange Commission's rules and forms.
+There were no changes in our internal control over financial reporting that
+occurred during our most recent fiscal quarter that have materially affected, or
+are reasonably likely to materially affect, our internal control over financial
+reporting.
+
+PART II. OTHER INFORMATION
+
+Item 6. Exhibits
+
+ a) Exhibit 15 - Acknowledgement of Independent Certified
+ Public Accountants
+
+ Exhibit 31.1 - Certification of Steven A. Gould, M.D.,
+ pursuant to Section 302 of the Sarbanes-
+ Oxley Act of 2002
+
+ Exhibit 31.2 - Certification of Jack J. Kogut, pursuant
+ to Section 302 of the Sarbanes-Oxley Act
+ of 2002
+
+ Exhibit 32.1 - Certification of Steven A. Gould, M.D.,
+ pursuant to 18 U.S.C. Section 1350, as
+ adopted pursuant to Section 906 of the
+ Sarbanes-Oxley Act of 2002
+
+ Exhibit 32.2 - Certification of Jack J. Kogut, pursuant
+ to 18 U.S.C. Section 1350, as adopted
+ pursuant to Section 906 of the Sarbanes-
+ Oxley Act of 2002
+
+ b) On July 23, 2003 the Registrant filed Form 8-K relating to a
+ registered direct offering registered on Form S-3.
+
+SIGNATURES
+
+ Pursuant to the requirements of the Securities Exchange Act of 1934,
+this report has been signed below by the following persons on behalf of the
+Company in the capacities indicated on January 13, 2004.
+
+ SIGNATURE TITLE
+
+/s/ Steven A. Gould, M.D. Chairman of the Board and Chief
+- ------------------------- Executive Officer (Principal
+Steven A. Gould, M.D. Executive Officer)
+
+/s/ Jack J. Kogut Sr. Vice President and Chief
+- ------------------------- Financial Officer
+Jack J. Kogut
+
+<EX-15>
+ 3
+ c81999exv15.txt
+ ACKNOWLEDGEMENT OF CERTIFICED PUBLIC ACCOUNTANTS
+
+EXHIBIT 15
+
+ ACKNOWLEDGEMENT OF INDEPENDENT
+ CERTIFIED PUBLIC ACCOUNTANTS
+ REGARDING INDEPENDENT ACCOUNTANTS' REVIEW REPORT
+
+The Board of Directors
+Northfield Laboratories Inc.:
+
+With respect to registration statements (Nos. 33-84264, 333-15877, 333-51681,
+333-79579, 333-102672, and 333-110110) on Form S-8 and the registration
+statement (No. 333-106615) on Form S-3 of Northfield Laboratories Inc., we
+acknowledge our awareness of the use therein of our report dated December 29,
+2003 related to our review of interim financial information.
+
+Pursuant to Rule 436(C) under the Securities Act of 1933, such report is not
+considered to be a part of a registration statement prepared or certified by an
+accountant or a report prepared or certified by an accountant within the meaning
+of sections 7 and 11 of the Act.
+
+Very truly yours,
+
+/s/ KPMG LLP
+
+Chicago, Illinois
+January 13, 2004
+
+</EX-15>
+
+<EX-31.1>
+ 4
+ c81999exv31w1.txt
+ CERTIFICATION PURSUANT TO SECTION 302
+
+EXHIBIT 31.1
+
+ CERTIFICATION
+
+I, Steven A. Gould, M.D., Chief Executive Officer, certify that:
+
+1. I have reviewed this report on Form 10-Q of Northfield Laboratories Inc.
+ (the "Registrant");
+
+2. Based on my knowledge, this report does not contain any untrue statement
+ of a material fact or omit to state a material fact necessary to make the
+ statements made, in light of the circumstances under which such statements
+ were made, not misleading with respect to the period covered by this
+ report;
+
+3. Based on my knowledge, the financial statements, and other financial
+ information included in this report, fairly present in all material
+ respects the financial condition, results of operations and cash flows of
+ the Registrant as of, and for, the periods presented in this report;
+
+4. The Registrant's other certifying officer and I are responsible for
+ establishing and maintaining disclosure controls and procedures (as
+ defined in Exchange Act Rules 13a-15e and 15d-15e) for the Registrant and
+ have:
+
+ a. Designed such disclosure controls and procedures, or caused such
+ disclosure controls and procedures to be designed under our
+ supervision, to ensure that material information relating to the
+ Registrant, including its consolidated subsidiaries, is made known
+ to us by others within those entities, particularly during the
+ period in which this quarterly report is being prepared;
+
+ b. Evaluated the effectiveness of the Registrant's disclosure controls
+ and procedures and presented in this report our conclusions about
+ the effectiveness of the disclosure controls and procedures, as of
+ the end of the period covered by this report based on such
+ evaluation; and
+
+ c. Disclosed in this report any change in the Registrant's internal
+ control over financial reporting that occurred during the
+ Registrant's most recent fiscal quarter that has materially
+ affected, or is reasonably likely to materially affect, the
+ Registrant's internal control over financial reporting; and
+
+5. The Registrant's other certifying officer and I have disclosed, based on
+ our most recent evaluation of internal control over financial reporting, to
+ the Registrant's auditors and the audit committee of Registrant's Board of
+ Directors (or persons performing the equivalent functions):
+
+ a. all significant deficiencies and material weaknesses in the design
+ or operation of internal control over financial reporting which are
+ reasonably likely to adversely affect the Registrant's ability to
+ record, process, summarize and report financial information; and
+
+ b. any fraud, whether or not material, that involves management or
+ other employees who have a significant role in the Registrant's
+ internal control over financial reporting.
+
+Date: January 13, 2004 /s/ Steven A. Gould, M.D.
+ -------------------------
+ Steven A. Gould, M.D.
+ Chief Executive Officer
+
+</EX-31.1>
+
+<EX-31.2>
+ 5
+ c81999exv31w2.txt
+ CERTIFICATION PURSUANT TO SECTION 302
+
+EXHIBIT 31.2
+
+ CERTIFICATION
+
+I, Jack J. Kogut, Chief Financial Officer, certify that:
+
+1. I have reviewed this report on Form 10-Q of Northfield Laboratories Inc.
+ (the "Registrant");
+
+2. Based on my knowledge, this report does not contain any untrue statement
+ of a material fact or omit to state a material fact necessary to make the
+ statements made, in light of the circumstances under which such statements
+ were made, not misleading with respect to the period covered by this
+ report;
+
+3. Based on my knowledge, the financial statements, and other financial
+ information included in this report, fairly present in all material
+ respects the financial condition, results of operations and cash flows of
+ the Registrant as of, and for, the periods presented in this report;
+
+4. The Registrant's other certifying officer and I are responsible for
+ establishing and maintaining disclosure controls and procedures (as
+ defined in Exchange Act Rules 13a-15e and 15d-15e) for the Registrant and
+ have:
+
+ a. Designed such disclosure controls and procedures, or caused such
+ disclosure controls and procedures to be designed under our
+ supervision, to ensure that material information relating to the
+ Registrant, including its consolidated subsidiaries, is made known
+ to us by others within those entities, particularly during the
+ period in which this quarterly report is being prepared;
+
+ b. Evaluated the effectiveness of the Registrant's disclosure controls
+ and procedures and presented in this report our conclusions about
+ the effectiveness of the disclosure controls and procedures, as of
+ the end of the period covered by this report based on such
+ evaluation; and
+
+ c. Disclosed in this report any change in the Registrant's internal
+ control over financial reporting that occurred during the
+ Registrant's most recent fiscal quarter that has materially
+ affected, or is reasonably likely to materially affect, the
+ Registrant's internal control over financial reporting; and
+
+5. The Registrant's other certifying officer and I have disclosed, based on
+ our most recent evaluation of internal control over financial reporting, to
+ the Registrant's auditors and the audit committee of Registrant's Board of
+ Directors (or persons performing the equivalent functions):
+
+ a. all significant deficiencies and material weaknesses in the design
+ or operation of internal control over financial reporting which are
+ reasonably likely to adversely affect the Registrant's ability to
+ record, process, summarize and report financial information; and
+
+ b. any fraud, whether or not material, that involves management or
+ other employees who have a significant role in the Registrant's
+ internal control over financial reporting.
+
+Date: January 13, 2004 /s/ Jack J. Kogut
+ -----------------
+ Jack J. Kogut
+ Chief Financial Officer
+
+</EX-31.2>
+
+<EX-32.1>
+ 6
+ c81999exv32w1.txt
+ CERTIFICATION PURSUANT TO SECTION 906
+
+EXHIBIT 32.1
+
+ CERTIFICATION PURSUANT TO
+ 18 U.S.C. SECTION 1350, AS ADOPTED PURSUANT TO
+ SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002
+
+In connection with the Quarterly Report of Northfield Laboratories Inc. on Form
+10-Q for the period ended November 30, 2003 as filed with the Securities and
+Exchange Commission on the date hereof (the "Report"), I, Steven A. Gould, M.D.,
+Chief Executive Officer of Northfield Laboratories Inc., certify, pursuant to 18
+U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley
+Act of 2002 that:
+
+ (1) The Report fully complies with the requirements of section
+ 13(a) or 15(d) of the Securities Exchange Act of 1934; and
+
+ (2) The information contained in the Report fairly presents, in
+ all material respects, the financial condition and results of
+ operations of Northfield Laboratories Inc.
+
+Date: January 13, 2004
+
+/s/ Steven A. Gould, M.D.
+- -------------------------
+Steven A. Gould, M.D.
+Chief Executive Officer
+
+</EX-32.1>
+
+<EX-32.2>
+ 7
+ c81999exv32w2.txt
+ CERTIFICATION PURSUANT TO SECTION 906
+
+EXHIBIT 32.2
+
+ CERTIFICATION PURSUANT TO
+ 18 U.S.C. SECTION 1350, AS ADOPTED PURSUANT TO
+ SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002
+
+In connection with the Quarterly Report of Northfield Laboratories Inc. on Form
+10-Q for the period ended November 30, 2003 as filed with the Securities and
+Exchange Commission on the date hereof (the "Report"), I, Jack J. Kogut, Chief
+Financial Officer of Northfield Laboratories Inc., certify, pursuant to 18
+U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley
+Act of 2002 that:
+
+ (1) The Report fully complies with the requirements of section
+ 13(a) or 15(d) of the Securities Exchange Act of 1934; and
+
+ (2) The information contained in the Report fairly presents, in
+ all material respects, the financial condition and results of
+ operations of Northfield Laboratories Inc.
+
+Date: January 13, 2004
+
+/s/ Jack J. Kogut
+- -----------------
+Jack J. Kogut
+Chief Financial Officer
+
+</EX-32.2>
+

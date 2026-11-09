@@ -1,0 +1,3108 @@
+<Header>
+<FileStats>
+    <FileName>20040108_10-Q_edgar_data_1141517_0001047469-04-000415.txt</FileName>
+    <GrossFileSize>330532</GrossFileSize>
+    <NetFileSize>126422</NetFileSize>
+    <NonText_DocumentType_Chars>0</NonText_DocumentType_Chars>
+    <HTML_Chars>164100</HTML_Chars>
+    <XBRL_Chars>0</XBRL_Chars>
+    <XML_Chars>0</XML_Chars>
+    <N_Exhibits>4</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0001047469-04-000415.hdr.sgml : 20040108
+<ACCEPTANCE-DATETIME>20040108164433
+ACCESSION NUMBER:		0001047469-04-000415
+CONFORMED SUBMISSION TYPE:	10-Q
+PUBLIC DOCUMENT COUNT:		5
+CONFORMED PERIOD OF REPORT:	20031130
+FILED AS OF DATE:		20040108
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			LAWSON SOFTWARE INC
+		CENTRAL INDEX KEY:			0001141517
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-PREPACKAGED SOFTWARE [7372]
+		IRS NUMBER:				411251159
+		STATE OF INCORPORATION:			DE
+
+	FILING VALUES:
+		FORM TYPE:		10-Q
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	333-74842
+		FILM NUMBER:		04515838
+
+	BUSINESS ADDRESS:	
+		STREET 1:		380 ST. PETER STREET
+		CITY:			MINNESOTA
+		STATE:			MN
+		ZIP:			55102
+		BUSINESS PHONE:		6517674827
+
+</SEC-Header>
+</Header>
+
+ 
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ NDUBV8P971KFeFF5BxJD5NESEQ+xmozRmLZunqz6xS0w8bEAkW8gioyxuZnljSOY
+ UUM4tefUNuZvQTJ26q9Xuw==
+
+ 0001047469-04-000415.txt : 20040108
+
+10-Q
+ 1
+ a2125899z10-q.htm
+ 10-Q
+
+QuickLinks 
+ -- Click here to rapidly navigate through this document 
+
+UNITED STATES 
+SECURITIES AND EXCHANGE COMMISSION Washington, D.C. 20549 
+
+FORM 10-Q 
+
+QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+
+FOR THE QUARTERLY PERIOD ENDED November 30, 2003 
+
+or 
+
+TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+
+FOR THE TRANSITION PERIOD
+FROM TO 
+
+Commission file number 000-33335 
+
+ LAWSON SOFTWARE, INC. (Exact name of registrant as specified in its charter) 
+
+DELAWARE 
+ 
+ 41-1251159 
+
+(State or other jurisdiction of 
+incorporation or organization) 
+ 
+ (I.R.S. Employer 
+Identification Number) 
+
+380 ST. PETER STREET 
+ST. PAUL, MINNESOTA 55102 (Address of principal executive offices) 
+
+(651) 767-7000 
+(Registrant's telephone number, including area code) 
+
+Indicate
+by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the
+preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past
+90 days. YES NO 
+
+ Indicate
+by check mark whether the registrant is an accelerated filer (as defined in Rule 12b-2 of the Exchange
+Act). YES NO 
+
+ The
+number of shares of the registrant's common stock outstanding as of January 2, 2004 was 98,060,030. 
+
+LAWSON SOFTWARE, INC. Form 10-Q Index 
+
+PART I. 
+ 
+ FINANCIAL INFORMATION 
+
+Item 1. 
+ 
+ Financial Statements 
+
+Condensed Consolidated Balance Sheets at November 30, 2003 and May 31, 2003 
+ 
+ 3 
+
+Condensed Consolidated Statements of Operations for the three months and six months ended November 30, 2003 and 2002 
+ 
+ 4 
+
+Condensed Consolidated Statements of Cash Flows for the six months ended November 30, 2003 and 2002 
+ 
+ 5 
+
+Notes to Condensed Consolidated Financial Statements 
+ 
+ 6 
+
+Item 2. 
+ 
+ Management's Discussion and Analysis of Financial Condition and Results of Operations 
+ 
+ 14 
+
+Item 3. 
+ 
+ Qualitative and Quantitative Disclosure about Market Risk 
+ 
+ 35 
+
+Item 4. 
+ 
+ Controls and Procedures 
+ 
+ 36 
+
+PART II. 
+
+OTHER INFORMATION 
+
+Item 1. 
+ 
+ Legal Proceedings 
+ 
+ 37 
+
+Item 2. 
+ 
+ Changes in Securities and Use of Proceeds 
+ 
+ 37 
+
+Item 3. 
+ 
+ Defaults Upon Senior Securities 
+ 
+ 37 
+
+Item 4. 
+ 
+ Submission of Matters to a Vote of Security Holders 
+ 
+ 37 
+
+Item 5. 
+ 
+ Other Information 
+ 
+ 37 
+
+Item 6. 
+ 
+ Exhibits and Reports on Form 8-K 
+ 
+ 38 
+
+SIGNATURES 
+ 
+ 39 
+
+2 
+
+PART I. FINANCIAL INFORMATION 
+
+ ITEM 1. FINANCIAL STATEMENTS 
+
+LAWSON SOFTWARE, INC. CONDENSED CONSOLIDATED BALANCE SHEETS (in thousands) (unaudited) 
+
+November 30, 
+2003 
+ 
+ May 31, 
+2003 
+
+ASSETS 
+
+Current assets: 
+
+Cash and cash equivalents 
+
+150,798 
+
+153,071 
+
+Marketable securities 
+
+71,916 
+
+102,266 
+
+Trade accounts receivable, net 
+
+60,156 
+
+62,433 
+
+Deferred income taxes 
+
+14,526 
+
+14,373 
+
+Prepaid expenses and other assets 
+
+24,443 
+
+19,749 
+
+Total current assets 
+
+321,839 
+
+351,892 
+
+Long-term marketable securities 
+
+6,220 
+
+5,175 
+
+Property and equipment, net 
+
+19,584 
+
+21,364 
+
+Goodwill 
+
+42,591 
+
+31,410 
+
+Other intangible assets, net 
+
+19,191 
+
+12,533 
+
+Deferred income taxes 
+
+7,885 
+
+8,620 
+
+Other assets 
+
+865 
+
+1,215 
+
+Total assets 
+
+418,175 
+
+432,209 
+
+LIABILITIES AND STOCKHOLDERS' EQUITY 
+
+Current liabilities: 
+
+Current portion of long-term debt 
+
+905 
+
+896 
+
+Accounts payable 
+
+11,891 
+
+13,407 
+
+Accrued compensation and benefits 
+
+21,536 
+
+23,480 
+
+Other accrued liabilities 
+
+15,438 
+
+14,209 
+
+Deferred revenue and customer deposits 
+
+78,350 
+
+86,642 
+
+Total current liabilities 
+
+128,120 
+
+138,634 
+
+Long-term debt, less current portion 
+
+968 
+
+255 
+
+Other long-term liabilities 
+
+3,653 
+
+3,921 
+
+Total liabilities 
+
+132,741 
+
+142,810 
+
+Commitments and contingencies (Notes 3 and 7) 
+
+Stockholders' equity: 
+
+Preferred stock 
+
+Common stock 
+
+1,082 
+
+1,058 
+
+Additional paid-in capital 
+
+319,083 
+
+309,637 
+
+Treasury stock, at cost 
+
+(46,813) 
+ 
+ (28,824) 
+
+Deferred stock-based compensation 
+
+(1,691) 
+ 
+ (3,117) 
+
+Retained earnings 
+
+11,436 
+
+9,480 
+
+Accumulated other comprehensive income 
+
+2,337 
+
+1,165 
+
+Total stockholders' equity 
+
+285,434 
+
+289,399 
+
+Total liabilities and stockholders' equity 
+
+418,175 
+
+432,209 
+
+The
+accompanying notes are an integral part of the condensed consolidated financial statements. 
+
+ 3 
+
+LAWSON SOFTWARE, INC. CONDENSED CONSOLIDATED STATEMENTS OF OPERATIONS (in thousands, except per share data) (unaudited) 
+
+Three Months Ended 
+ 
+ Six Months Ended 
+
+Nov. 30, 
+2003 
+ 
+ Nov. 30, 
+2002 
+ 
+ Nov. 30, 
+2003 
+ 
+ Nov. 30, 
+2002 
+
+Revenues: 
+
+License fees 
+
+17,313 
+
+19,005 
+
+39,974 
+
+37,124 
+
+Services 
+
+66,952 
+
+68,802 
+
+132,293 
+
+138,129 
+
+Total revenues 
+
+84,265 
+
+87,807 
+
+172,267 
+
+175,253 
+
+Cost of revenues: 
+
+Cost of license fees 
+
+3,988 
+
+3,603 
+
+8,079 
+
+6,778 
+
+Cost of services 
+
+33,731 
+
+35,899 
+
+65,832 
+
+73,740 
+
+Total cost of revenues 
+
+37,719 
+
+39,502 
+
+73,911 
+
+80,518 
+
+Gross profit 
+
+46,546 
+
+48,305 
+
+98,356 
+
+94,735 
+
+Operating expenses: 
+
+Research and development 
+
+15,257 
+
+14,286 
+
+30,192 
+
+29,590 
+
+Sales and marketing 
+
+21,498 
+
+24,801 
+
+44,496 
+
+53,316 
+
+General and administrative 
+
+10,085 
+
+9,982 
+
+19,310 
+
+16,503 
+
+Restructuring charges 
+
+2,250 
+
+5,823 
+
+2,210 
+
+5,823 
+
+Amortization of acquired intangibles 
+
+321 
+
+222 
+
+566 
+
+429 
+
+Total operating expenses 
+
+49,411 
+
+55,114 
+
+96,774 
+
+105,661 
+
+Operating (loss) income 
+
+(2,865) 
+ 
+ (6,809) 
+ 
+ 1,582 
+
+(10,926) 
+
+Other income (expense): 
+
+Interest income 
+
+780 
+
+1,129 
+
+1,662 
+
+2,234 
+
+Interest expense 
+
+(20) 
+ 
+ (33) 
+ 
+ (38) 
+ 
+ (77) 
+
+Total other income (expense) 
+
+760 
+
+1,096 
+
+1,624 
+
+2,157 
+
+(Loss) income before income taxes 
+
+(2,105) 
+ 
+ (5,713) 
+ 
+ 3,206 
+
+(8,769) 
+
+(Benefit) provision for income taxes 
+
+(821) 
+ 
+ (2,228) 
+ 
+ 1,250 
+
+(3,420) 
+
+Net (loss) income 
+
+(1,284) 
+ 
+ (3,485) 
+ 
+ 1,956 
+
+(5,349) 
+
+Net (loss) income per share: 
+
+Basic 
+
+(0.01) 
+ 
+ (0.04) 
+ 
+ 0.02 
+
+(0.05) 
+
+Diluted 
+
+(0.01) 
+ 
+ (0.04) 
+ 
+ 0.02 
+
+(0.05) 
+
+Shares used in computing net (loss) income per share: 
+
+Basic 
+
+98,302 
+
+98,453 
+
+98,383 
+
+97,649 
+
+Diluted 
+
+98,302 
+
+98,453 
+
+107,253 
+
+97,649 
+
+The
+accompanying notes are an integral part of the condensed consolidated financial statements. 
+
+ 4 
+
+LAWSON SOFTWARE, INC. CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS (in thousands) (unaudited) 
+
+Six Months Ended 
+
+November 30, 
+2003 
+ 
+ November 30, 
+2002 
+
+Cash flows from operating activities: 
+
+Net income (loss) 
+
+1,956 
+
+(5,349) 
+
+Adjustments to reconcile net income (loss) to net cash (used in) provided by operating activities: 
+
+Depreciation and amortization 
+
+5,854 
+
+7,091 
+
+Provision for doubtful accounts 
+
+2,383 
+
+1,523 
+
+Loss on the disposal of assets 
+
+160 
+
+Tax benefit from stockholder transactions 
+
+4,746 
+
+2,498 
+
+Tax commitment from exercise of stock options 
+
+(1,132) 
+ 
+ (1,150) 
+
+Amortization of stock-based compensation 
+
+624 
+
+1,701 
+
+Amortization of discount and accretion of premium on marketable securities 
+
+480 
+
+301 
+
+Restructuring charges 
+
+2,210 
+
+5,823 
+
+Changes in operating assets and liabilities, net of effect from acquisitions: 
+
+Trade accounts receivable 
+
+489 
+
+21,313 
+
+Prepaid expenses and other assets 
+
+(2,460) 
+ 
+ (6,941) 
+
+Accounts payable 
+
+(1,653) 
+ 
+ (7,590) 
+
+Accrued and other liabilities 
+
+(4,468) 
+ 
+ (9,601) 
+
+Deferred revenue and customer deposits 
+
+(9,583) 
+ 
+ (6,101) 
+
+Net cash (used in) provided by operating activities 
+
+(394) 
+ 
+ 3,518 
+
+Cash flows from investing activities: 
+
+Cash paid in conjunction with acquisitions, net of cash acquired 
+
+(16,269) 
+ 
+ (7,823) 
+
+Purchases of marketable securities 
+
+(51,600) 
+ 
+ (139,553) 
+
+Sales and maturities of marketable securities 
+
+80,245 
+
+161,983 
+
+Purchases of property and equipment 
+
+(2,467) 
+ 
+ (3,501) 
+
+Net cash provided by investing activities 
+
+9,909 
+
+11,106 
+
+Cash flows from financing activities: 
+
+Principal payments on long-term debt 
+
+(457) 
+ 
+ (623) 
+
+Exercise of stock options 
+
+5,406 
+
+4,300 
+
+Issuance of treasury shares for employee stock purchase plan 
+
+2,175 
+
+5,240 
+
+Repurchase of common stock 
+
+(18,912) 
+
+Net cash (used in) provided by financing activities 
+
+(11,788) 
+ 
+ 8,917 
+
+(Decrease) increase in cash and cash equivalents 
+
+(2,273) 
+ 
+ 23,541 
+
+Cash and cash equivalents at beginning of period 
+
+153,071 
+
+73,148 
+
+Cash and cash equivalents at end of period 
+
+150,798 
+
+96,689 
+
+The
+accompanying notes are an integral part of the condensed consolidated financial statements. 
+
+ 5 
+
+LAWSON SOFTWARE, INC. NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (in thousands, except per share data) (unaudited) 
+
+ 1. BASIS OF PRESENTATION 
+
+ The unaudited condensed consolidated financial statements included herein reflect all adjustments, in the opinion of management, necessary to fairly state Lawson
+Software, Inc.'s (the Company's) consolidated financial position, results of operations and cash flows for the periods presented. These adjustments consist of normal, recurring items, except
+for those disclosed separately in the footnotes below. The preparation of financial statements in conformity with generally accepted accounting principles in the United States of America requires
+management to make estimates and assumptions that affect the reported amounts therein. Due to the inherent uncertainty involved in making estimates, actual results in future periods may differ from
+those estimates. The unaudited results of operations for the period ended November 30, 2003 are not necessarily indicative of the results to be expected for any subsequent quarter or for the
+entire fiscal year ending May 31, 2004. The unaudited condensed consolidated financial statements and notes are presented as permitted by the requirements for Form 10-Q and
+do not contain certain information included in the Company's annual financial statements and notes. The accompanying interim condensed consolidated financial statements should be read in conjunction
+with the financial statements and related notes included in the Company's Annual Report on Form 10-K filed with the Securities and Exchange Commission for the fiscal year ended
+May 31, 2003. 
+
+ 2. STOCK-BASED COMPENSATION 
+
+ The Company accounts for stock-based employee compensation arrangements in accordance with the provisions of Accounting Principles Board Opinion No. 25,
+"Accounting for Stock Issued to Employees," and complies with the disclosure provisions of Statement of Financial Accounting Standards ("SFAS") No. 123, "Accounting for Stock-Based
+Compensation" and SFAS No. 148 "Accounting for Stock-Based Compensation-Transition and Disclosure, an amendment of Financial Accounting Standards Board ("FASB") Statement No. 123." 
+
+The
+Company has adopted the disclosure-only provisions of SFAS No. 123. For purposes of the pro forma disclosures below, the estimated fair value of the Company's
+stock options is amortized to expense over the options' vesting period. Had compensation cost for the Company's stock options been 
+
+ 6 
+
+recognized
+based on the fair value at the grant date consistent with the provisions of SFAS No. 123, the Company's net (loss) income would have been adjusted to the pro forma amounts indicated
+below: 
+
+Three Months Ended 
+November 30, 
+ 
+ Six Months Ended 
+November 30, 
+
+2003 
+ 
+ 2002 
+ 
+ 2003 
+ 
+ 2002 
+
+Net (loss) income: 
+
+As reported 
+
+(1,284) 
+ 
+ (3,485) 
+ 
+ 1,956 
+
+(5,349) 
+
+Add: Stock-based employee compensation expense (reversal of forfeitures) included in reported net (loss) income, net of taxes 
+
+(46) 
+ 
+ 182 
+
+380 
+
+1,038 
+
+Deduct: Total stock-based compensation expense determined under fair value based method for all rewards, net of taxes 
+
+(1,701) 
+ 
+ (1,669) 
+ 
+ (3,286) 
+ 
+ (3,576) 
+
+Pro forma net loss 
+
+(3,031) 
+ 
+ (4,972) 
+ 
+ (950) 
+ 
+ (7,887) 
+
+Net (loss) income per share: 
+
+Basic: 
+
+As reported 
+
+(0.01) 
+ 
+ (0.04) 
+ 
+ 0.02 
+
+(0.05) 
+
+Pro forma 
+
+(0.03) 
+ 
+ (0.05) 
+ 
+ (0.01) 
+ 
+ (0.08) 
+
+Diluted: 
+
+As reported 
+
+(0.01) 
+ 
+ (0.04) 
+ 
+ 0.02 
+
+(0.05) 
+
+Pro forma 
+
+(0.03) 
+ 
+ (0.05) 
+ 
+ (0.01) 
+ 
+ (0.08) 
+
+3. ACQUISITIONS 
+
+ The following acquisitions were accounted for under the purchase method of accounting, and, accordingly, the assets and liabilities acquired were recorded at
+their estimated fair values at the effective date of the acquisition and the results of operations have been included in the unaudited consolidated statement of operations since the acquisition date.
+In accordance with SFAS No. 142, goodwill recorded as a result of the acquisition will be subject to an annual impairment test and will not be amortized. These acquisitions are intended to
+enhance the Company's focus on targeted vertical markets and to provide additional value-added products and services to its customers. 
+
+ On
+October 15, 2003, the Company acquired all of the outstanding capital stock of Apexion Technologies Inc. ("Apexion") for 7,985 in cash, net of cash acquired. The excess
+purchase price over the fair value of the net tangible assets acquired of 8,640 was allocated to the following assets: 2,900 to acquired technology, 200 to a customer list, 100 to a
+non-compete clause and 5,440 to goodwill. The acquired technology, customer list and non-compete clause are being amortized on a straight-line basis over their
+estimated useful lives of four, seven and two years, respectively. Terms of the agreement also provide for additional cash payments ranging from zero to 2,000 contingent upon the future performance
+of Apexion measured annually through November 30, 2005. Any contingent consideration earned will be recorded as additional goodwill. Apexion provided materials and equipment logistics solutions
+for the healthcare industry. 
+
+ On
+September 30, 2003, the Company acquired all of the outstanding capital stock of Closedloop Solutions, Inc. ("Closedloop") for 4,155 in cash, net of cash acquired. The
+excess purchase price over the fair value of the net tangible assets acquired of 5,022 was allocated to the following assets: 2,500 to acquired technology, 500 to a customer list, 100 to a
+non-compete clause and 1,922 to goodwill. The acquired technology, customer list and non-compete clause are being amortized on a straight-line basis over their
+estimated useful lives of four, seven and two years, respectively. Closedloop provided collaborative budgeting, planning and forecasting solutions using real-time, transactional
+functionality. 
+
+ 7 
+
+On
+July 24, 2003, the Company acquired all of the outstanding capital stock of Numbercraft Limited ("Numbercraft") for 3,729 in cash, net of cash acquired and 309 in notes
+payable. The excess purchase price over the fair value of the net tangible assets acquired of 4,829 was allocated to the following assets: 900 to acquired technology, 600 to a customer list, 300
+to a non-compete clause and 3,029 to goodwill. The acquired technology, customer list and non-compete clause are being amortized on a straight-line basis over
+their estimated useful lives of three, four and three years, respectively. These amounts are based on preliminary estimates and are subject to refinement due to the finalization of certain tax
+attributes. Additional cash payments ranging from zero to 8,600 are contingent upon the future performance of Numbercraft measured periodically through 2007. Any contingent consideration earned will
+be recorded as additional goodwill. During the quarter ended November 30, 2003, 400 of additional consideration was earned and recorded as additional goodwill. Numbercraft provided solutions
+for retailers and consumer packaged goods companies which enable a quantitative understanding of consumer dynamics, product and offer performance, and customer trends. 
+
+The
+following table presents the consolidated results of operations including Closedloop and Armature Limited and Armature Group Limited (collectively Armature), which was acquired on
+June 28, 2002, on an unaudited pro forma basis as if the acquisitions had taken place at the beginning of the periods presented: 
+
+Three Months Ended 
+November 30, 
+ 
+ Six Months Ended 
+November 30, 
+
+2003 
+ 
+ 2002 
+ 
+ 2003 
+ 
+ 2002 
+
+Total revenues 
+
+84,429 
+
+88,259 
+
+172,927 
+
+177,138 
+
+Net loss 
+
+(1,474) 
+ 
+ (4,890) 
+ 
+ 1,195 
+
+(7,120) 
+
+(Loss) per share basic 
+
+(0.01) 
+ 
+ (0.05) 
+ 
+ 0.01 
+
+(0.07) 
+
+(Loss) per share diluted 
+
+(0.01) 
+ 
+ (0.05) 
+ 
+ 0.01 
+
+(0.07) 
+
+The
+unaudited pro forma data gives effect to actual operating results prior to the acquisitions, and adjustments to reflect interest income foregone, eliminate interest expense,
+increased intangible asset amortization, and income taxes. No effect has been given to cost reductions or operating synergies in this presentation. As a result, the unaudited pro forma results of
+operations are for comparative purposes only and are not necessarily indicative of the results that would have been obtained if the acquisitions had occurred as of the beginning of the periods
+presented or that may occur in the future. The pro forma data does not include Apexion or Numbercraft, as the effects of these acquisitions were not material on a pro forma basis. 
+
+ 4. PER SHARE DATA 
+
+ Basic earnings per share is computed using the net (loss) income and the weighted average number of shares of common stock outstanding. Diluted earnings per share
+reflects the weighted average number of shares of common stock outstanding plus any potentially dilutive shares outstanding during the period. Potentially dilutive shares consist of shares issuable
+upon the exercise of stock options and warrants. Diluted net loss per common share does not differ from basic loss per share for the three months ended November 30, 2003 and for both the three
+and six months ended 
+
+ 8 
+
+November 30,
+2002, as 23,773 and 24,358, respectively, of potential shares of common stock from conversion of stock options and warrants were anti-dilutive. 
+
+Three Months Ended 
+November 30, 
+ 
+ Six Months Ended 
+November 30, 
+
+2003 
+ 
+ 2002 
+ 
+ 2003 
+ 
+ 2002 
+
+Basic earnings per share computation: 
+
+Net (loss) income applicable to common stockholders 
+
+(1,284) 
+ 
+ (3,485) 
+ 
+ 1,956 
+
+(5,349) 
+
+Weighted average common shares basic 
+
+98,302 
+
+98,453 
+
+98,383 
+
+97,649 
+
+Basic net (loss) income per share 
+
+(0.01) 
+ 
+ (0.04) 
+ 
+ 0.02 
+
+(0.05) 
+
+Diluted earnings per share computation: 
+
+Net (loss) income applicable to common stockholders 
+
+(1,284) 
+ 
+ (3,485) 
+ 
+ 1,956 
+
+(5,349) 
+
+Shares calculation: 
+
+Weighted average common shares 
+
+98,302 
+
+98,453 
+
+98,383 
+
+97,649 
+
+Effect of dilutive stock options and warrants 
+
+8,870 
+
+Weighted average common shares diluted 
+
+98,302 
+
+98,453 
+
+107,253 
+
+97,649 
+
+Diluted net (loss) income per share 
+
+(0.01) 
+ 
+ (0.04) 
+ 
+ 0.02 
+
+(0.05) 
+
+5. COMPREHENSIVE INCOME (LOSS) 
+
+ The following table presents the calculation of comprehensive income (loss): 
+
+Three Months Ended 
+November 30, 
+ 
+ Six Months Ended 
+November 30, 
+
+2003 
+ 
+ 2002 
+ 
+ 2003 
+ 
+ 2002 
+
+Net (loss) income 
+
+(1,284) 
+ 
+ (3,485) 
+ 
+ 1,956 
+
+(5,349) 
+
+Unrealized (loss) gain on available-for- sale investments, net of taxes 
+
+(46) 
+ 
+ 269 
+
+(107) 
+ 
+ 23 
+
+Foreign currency translation adjustment 
+
+2,049 
+
+(413) 
+ 
+ 1,279 
+
+292 
+
+Comprehensive income (loss) 
+
+719 
+
+(3,629) 
+ 
+ 3,128 
+
+(5,034) 
+
+6. RESTRUCTURING 
+
+ Fiscal 2004 Restructuring 
+
+ During fiscal 2004, the Company approved a restructuring plan to realign projected expenses with anticipated lower revenue levels and incurred restructuring
+charges of 2,250 which included severance and related benefits. The plan included the termination of 93 employees in various functions including research and development, general and administrative,
+sales and marketing, primarily in the United States, all of which were terminated during the three months ended November 30, 2003. The Company expects to pay all remaining termination benefits
+during fiscal 2004 . 
+
+ 9 
+
+The
+following table sets forth the restructuring reserve activity related to the fiscal 2004 restructuring plan and the remaining balances as of November 30, 2003, which are
+included in accrued compensation and benefits and other accrued liabilities: 
+
+Severance 
+and related 
+benefits 
+
+Fiscal 2004 provision for restructuring 
+
+2,250 
+
+Cash payments 
+
+(1,965) 
+
+Balance, November 30, 2003 
+
+285 
+
+Fiscal 2003 Restructuring 
+
+ During fiscal 2003, the Company approved a restructuring plan to realign projected expenses with anticipated lower revenue levels and incurred restructuring
+charges of 5,846, which included 4,691 of severance and related benefits and 1,155 for the closure and consolidation of facilities. The plan included the termination of 244 employees in various
+functions including administrative, professional and managerial in the United States, Canada and Europe, all of which were terminated during the three months ended November 30, 2002. The
+Company expects to pay all remaining termination benefits during fiscal 2004. The cash payments related to lease obligations were made through October 2003. During the six months ended
+November 30, 2003 the Company adjusted the reserve for 40 of employee costs which the Company had determined would not be incurred. 
+
+ The
+following table sets forth the restructuring reserve activity related to the fiscal 2003 restructuring plan and the remaining balances as of November 30, 2003, which are
+included in accrued compensation and benefits and other accrued liabilities: 
+
+Severance 
+and related 
+benefits 
+ 
+ Facilities 
+ 
+ Total 
+
+Balance, May 31, 2003 
+
+299 
+
+604 
+
+903 
+
+Cash payments 
+
+(22) 
+ 
+ (604) 
+ 
+ (626) 
+
+Adjustments to provision 
+
+(40) 
+
+(40) 
+
+Balance, November 30, 2003 
+
+237 
+
+0 
+
+237 
+
+Fiscal 2002 Restructuring 
+
+ During fiscal 2002, the Company approved a restructuring plan in response to the general economic downturn and incurred restructuring charges of 3,258, which
+included 2,943 for severance related benefits and 315 for the closure of a leased office facility. The plan included the termination and payment of severance related benefits for 111 employees in
+various functions including administrative, professional, and managerial, primarily in the United States. All terminations and related payments were completed during the first quarter of fiscal 2003.
+Cash payments relating to facility closure liabilities are expected to extend through June 2005. 
+
+ 10 
+
+The
+following table sets forth the restructuring reserve activity related to the fiscal 2002 restructuring plan and the remaining balances as November 30, 2003, which are included
+in other accrued liabilities: 
+
+Facilities 
+
+Balance, May 31, 2003 
+
+324 
+
+Cash payments 
+
+(71) 
+
+Balance, November 30, 2003 
+
+253 
+
+7. COMMITMENTS AND CONTINGENCIES 
+
+ The Company had a 25,000 revolving credit facility, which expired on September 30, 2003. At September 30, 2003, the Company had no amounts
+outstanding under the revolving credit facility and was in compliance with all covenants and restrictions under the debt agreement. The Company elected not to renew this agreement. 
+
+ The
+Company has contingent consideration agreements related to the acquisitions of Keyola Corporation ("Keyola") in April 2002, Numbercraft in July 2003, and Apexion in
+October 2003. Under the terms of the Keyola agreement, additional cash payments ranging from zero to 1,500 are contingent upon the future performance of Keyola, measured annually through
+fiscal 2005. Under the terms of the Numbercraft agreement, additional cash payments ranging from zero to 8,600 are contingent upon future performance of Numbercraft measured periodically through
+2007. Under the terms of the Apexion agreement additional cash payments ranging from zero to 2,000 are contingent upon future performance of Apexion measured periodically through November 30,
+2005. Contingent consideration earned is recorded as additional goodwill. At November 30, 2003, 400 of additional consideration had been earned and recorded under the Numbercraft agreement. 
+
+The
+Company is involved in various claims and legal actions in the normal course of business. Management is of the opinion that the outcome of such legal actions will not have a
+significant adverse effect on the Company's financial position, results of operations or cash flows. 
+
+ 8. SUPPLEMENTAL CASH FLOW INFORMATION 
+
+ Cash paid for acquisitions during the six months ended November 30, 2003 and 2002: 
+
+Six Months Ended 
+November 30, 
+
+2003 
+ 
+ 2002 
+
+Details of acquisitions: 
+
+Fair value of assets 
+
+21,097 
+
+8,140 
+
+Less liabilities assumed 
+
+(4,603) 
+ 
+ (317) 
+
+Cash paid 
+
+16,494 
+
+7,823 
+
+Less cash acquired 
+
+(225) 
+
+Net cash paid for acquisitions 
+
+16,269 
+
+7,823 
+
+9. SEGMENT AND GEOGRAPHIC AREAS 
+
+ The Company views its operations and manages its business as one segment, the development and marketing of computer software and related services. Factors used to
+identify the Company's single operating segment include the financial information available for evaluation by the chief operating decision maker in making decisions about how to allocate resources and
+assess performance. 
+
+ 11 
+
+The
+Company markets its products and services through the Company's offices in the United States and its wholly-owned branches and subsidiaries operating in Canada, the United Kingdom,
+France and the Netherlands. The following table presents revenues and long-lived assets summarized by geographic region: 
+
+Three Months Ended 
+November 30, 
+ 
+ Six Months Ended 
+November 30, 
+
+2003 
+ 
+ 2002 
+ 
+ 2003 
+ 
+ 2002 
+
+Revenues: 
+
+Domestic operations 
+
+78,129 
+
+81,447 
+
+160,782 
+
+163,683 
+
+International operations 
+
+6,136 
+
+6,360 
+
+11,485 
+
+11,570 
+
+Consolidated 
+
+84,265 
+
+87,807 
+
+172,267 
+
+175,253 
+
+November 30, 
+2003 
+ 
+ May 31, 
+2003 
+
+Long-lived assets: 
+
+Domestic operations 
+
+64,927 
+
+54,373 
+
+International operations 
+
+16,439 
+
+10,934 
+
+Consolidated 
+
+81,366 
+
+65,307 
+
+The
+following table presents revenues for license fees, consulting and maintenance services: 
+
+Three Months Ended 
+November 30, 
+ 
+ Six Months Ended 
+November 30, 
+
+2003 
+ 
+ 2002 
+ 
+ 2003 
+ 
+ 2002 
+
+Components of revenues: 
+
+License fees 
+
+17,313 
+
+19,005 
+
+39,974 
+
+37,124 
+
+Services: 
+
+Consulting 
+
+28,600 
+
+32,485 
+
+56,717 
+
+68,090 
+
+Maintenance 
+
+38,352 
+
+36,317 
+
+75,576 
+
+70,039 
+
+Total services 
+
+66,952 
+
+68,802 
+
+132,293 
+
+138,129 
+
+Total revenues 
+
+84,265 
+
+87,807 
+
+172,267 
+
+175,253 
+
+10. COMMON STOCK REPURCHASE 
+
+ In June 2003, the Company's Board of Directors authorized the repurchase of up to 50,000 worth of the Company's common shares. Shares will be repurchased
+from time to time as market conditions warrant either through open market transactions, block purchases, private transactions or other means. The repurchase will be funded primarily from proceeds and
+tax benefits derived from the Company's stock option and employee stock purchase plans, and supplemented with portions of available cash from operations. The repurchased shares will be used for
+general corporate purposes. No time limit has been set for the completion of the program. During the six months ended November 30, 2003 a total of 2,471 shares were repurchased for a total of
+ 18,912. 
+
+ 11. NEW ACCOUNTING PRONOUNCEMENTS 
+
+ In January 2003, the FASB issued FIN No. 46, "Consolidation of Variable Interest Entities, an interpretation of Accounting Research Bulletin
+No. 51." FIN No. 46 requires certain variable interest entities, or VIEs, to be consolidated by the primary beneficiary of the entity if the equity investors in the entity do not have
+the characteristics of a controlling financial interest or do not have sufficient 
+
+ 12 
+
+equity
+at risk for the entity to finance its activities without additional subordinated financial support from other parties. FIN No. 46 is effective for all VIEs created or acquired after
+January 31, 2003. For VIEs created or acquired prior to February 1, 2003, the provisions of FIN No. 46 must be applied for the first interim or annual period beginning after
+June 15, 2003. The Company currently has no contractual relationship or other business relationship with a variable interest entity and therefore the adoption of FIN No. 46 did not have
+a material effect on the Company's consolidated financial position, results of operations or cash flows. However, if the Company enters into any such arrangement with a variable interest entity in the
+future, the Company's consolidated financial position or results of operations may be adversely effected. 
+
+ 13 
+
+ITEM 2. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS 
+
+ Forward-Looking Statements 
+
+ In addition to historical information, this Quarterly Report on Form 10-Q contains forward-looking statements. These forward-looking statements
+are made in reliance upon the safe harbor provisions of the Private Securities Litigation Reform Act of 1995. These forward-looking statements are subject to certain risks and uncertainties that could
+cause actual results to differ materially from those reflected in the forward-looking statements. Factors that might cause such a difference include, but are not limited to, those discussed in the
+section entitled "Management's Discussion and Analysis of Financial Condition and Results of Operations Factors That May Affect Our Future Results or the Market Price of Our Stock."
+Readers are cautioned not to place undue reliance on these forward-looking statements, which reflect management's opinions only as of the date hereof. The Company undertakes no obligation to revise or
+publicly release the results of any revision to these forward-looking statements based on circumstances or events which occur in the future. Readers should carefully review the risk factors described
+in the Annual Report on Form 10-K and in other documents the Company files from time to time with the Securities and Exchange Commission. 
+
+ Overview 
+
+ We are a provider of enterprise software solutions for specific services industries. We derive revenues from licensing software solutions and providing
+comprehensive professional services, including consulting, training and implementation services, as well as ongoing customer support and maintenance. Consulting, training and implementation services
+are generally not essential to the functionality of our software products, are sold separately and also are available from a number of third-party service providers. Accordingly, revenues from these
+services are generally recorded separately from the license fee. Additionally, we generate a portion of our revenues from reselling our software solutions through third-party vendors. 
+
+ Critical Accounting Policies and Estimates 
+
+ Our discussion and analysis of financial condition and results of operations are based upon our unaudited consolidated financial statements, which have been
+prepared in accordance with accounting principles generally accepted in the United States of America. The preparation of these financial statements requires us to make estimates and assumptions that
+affect the reported amounts of assets and liabilities at the date of the financial statements, the reported amounts of revenues and expenses during the reporting period, and related disclosures of
+contingent assets and liabilities. The Notes to Condensed Consolidated Financial Statements contained herein describes our significant accounting polices used in the preparation of the consolidated
+financial statements. On an on-going basis, we evaluate our estimates, including, but not limited to, those related to bad debts, intangible assets and contingencies. We base our estimates
+on historical experience and on various other assumptions that we believe to be reasonable under the circumstances, the results of which form the basis for making judgments about the carrying values
+of assets and liabilities that are not readily apparent from other sources. Actual results could differ from these estimates under different assumptions or conditions. 
+
+We
+believe the critical accounting polices listed below affect significant judgments and estimates used in the preparation of our consolidated financial statements. 
+
+ Revenue Recognition. We recognize revenues in accordance with the provisions of the American Institute of Certified Public
+Accountants Statement of Position (SOP) 97-2, "Software Revenue Recognition," as amended by SOP 98-4 and SOP 98-9, as well as Technical Practice Aids issued from
+time to time by the American Institute of Certified Public Accountants, and in accordance with the Securities and Exchange Commission Staff Accounting Bulletin No. 101, "Revenue Recognition in 
+
+ 14 
+
+Financial
+Statements." We license software under non-cancelable license agreements and provide related professional services, including consulting, training, and implementation services,
+as well as ongoing customer support and maintenance. Consulting, training and implementation services are generally not essential to the functionality of our software products, are sold separately and
+also are available from a number of third-party service providers. Accordingly, revenues from these services are generally recorded separately from license fees. Software arrangements which include
+services that are essential to the functionality of our software products are recognized using contract accounting using the percentage-of-completion methodology based on labor
+hours input. Software arrangements which include fixed-fee service components are recognized as the services are performed and the costs to provide the related services are expensed as
+incurred. Our specific revenue recognition policies are as follows: 
+
+Software
+License Fees License fee revenues from end-users are recognized using the residual method when the software product has been shipped,
+provided a non-cancelable license agreement has been signed, there are no uncertainties surrounding product acceptance, the fees are fixed or determinable and collection of the related
+receivable is considered probable. Provided the above criteria are met, license fee revenues from resellers are recognized using the residual method where there is a sell-through by a reseller to an
+end-user. We do not generally offer rights of return, acceptance clauses or price protection to our customers. Typically, our software license fees are due within a twelve-month period from the date
+of shipment. If the fee due from the customer is not fixed or determinable, including payment terms greater than twelve months from shipment, revenue is recognized as payments become due and all other
+conditions for revenue recognition have been satisfied. In software arrangements that include rights to multiple software products, specified upgrades, maintenance or services, we allocate the total
+arrangement fee among each deliverable using the fair value of each of the deliverables determined using vendor-specific objective evidence. Vendor-specific objective evidence of fair value is
+determined using the price charged when that element is sold separately. In software arrangements in which we do not have vendor-specific objective evidence of fair value of undelivered elements,
+revenue is deferred until fair value is determined or all elements have been delivered.
+ Services Revenues
+from training and consulting services are recognized as services are provided to customers. Revenues from maintenance contracts are deferred
+and recognized ratably over the term of the maintenance agreements. Revenues for customer support and maintenance that are bundled with the initial license fee are deferred based on the fair value of
+the bundled support services and recognized ratably over the term of the agreement; fair value is based on the renewal rate for continued support arrangements. 
+
+Allowance for Doubtful Accounts. We maintain an allowance for doubtful accounts at an amount we estimate to be sufficient to
+provide adequate protection against losses resulting from extending credit to our customers. In judging the adequacy of the allowance for doubtful accounts, we consider multiple factors including
+historical bad debt experience, the general economic environment, the need for specific customer reserves and the aging of our receivables. This provision is included in operating expenses as a
+general and administrative expense. A considerable amount of judgment is required in assessing these factors and if any receivables were to deteriorate an additional provision for doubtful accounts
+may be required. 
+
+ Sales Returns and Allowances. We record a provision for estimated sales returns and allowances on license and services in the
+same period the related revenues are recorded or when current information indicates additional amounts are required. These estimates are based on historical sales returns, analysis of credit memo data
+and other known factors. 
+
+ 15 
+
+Valuation of Long-Lived and Intangible Assets and Goodwill. We review identifiable intangible and other
+long-lived assets for impairment annually or sooner if events or changes in circumstances indicate the carrying amount may not be recoverable. Events or changes in circumstances that
+indicate the carrying amount may not be recoverable include, but are not limited to, a significant decrease in the market value of the business or asset acquired, a significant adverse change in the
+extent or manner in which the business or asset acquired is used or a significant adverse change in the business climate. If such events or changes in circumstances are present, the undiscounted cash
+flow method is used to determine whether the asset is impaired. Cash flows would include the estimated terminal value of the asset and exclude any interest charges. To the extent that the carrying
+value of the asset exceeds the undiscounted cash flows over the estimated remaining life of the asset, the impairment is measured using the discounted cash flows. The discount rate utilized would be
+based on our best estimate of the related risks and return at the time the impairment assessment is made. In accordance with the accounting standard SFAS No. 142, "Goodwill and Other Intangible
+Assets," we test goodwill and other indefinite lived intangible assets for impairment annually, or more frequently if events or changes in circumstances indicate that the asset might be impaired. The
+impairment test compares the fair value of the asset with its carrying amount. If the carrying amount of an intangible asset exceeds its fair value, an impairment loss shall be recognized in an amount
+equal to that excess, which could materially adversely impact our financial position and results of operations. All of our goodwill was assigned to a single reporting unit, which is our sole operating
+segment. 
+
+ Deferred Taxes. Significant judgment is required in determining our income taxes in each of the jurisdictions in which we
+operate. This process involves estimating our actual current tax exposure together with assessing temporary differences resulting from differing treatment of items, such as deferred revenue, for tax
+and accounting purposes. These differences result in deferred tax assets and liabilities, which are included within our consolidated balance sheet. Although we believe our assessments are reasonable,
+no assurance can be given that the final tax outcome of these matters will not be different than that which is reflected in our historical income tax provisions, benefits and accruals. Such
+differences could have a material effect on our income tax provision and net income in the period in which such a determination is made. 
+
+ We
+must assess the likelihood that our net deferred tax assets will be recovered from future taxable income and to the extent we believe that recovery is not likely, we must establish a
+valuation allowance. To the extent we establish a valuation allowance, we must include an expense within the tax provision in the statement of operations. We have not recorded a valuation allowance as
+of November 30, 2003, as we expect to be able to utilize all of our net deferred tax assets. The ability to utilize our net deferred tax assets is solely dependent on our ability to generate
+future taxable income. In the event that we adjust our estimates of future taxable income, we may need to establish a valuation allowance, which could materially adversely impact our financial
+position and results of operations. 
+
+ Contingencies. We are subject to the possibility of various loss contingencies in the normal course of business. We accrue
+for loss contingencies when a loss is estimable and probable. 
+
+ Acquisitions 
+
+ The following acquisitions were accounted for under the purchase method of accounting, and, accordingly, the assets and liabilities acquired were recorded at
+their estimated fair values at the effective date of the acquisition and the results of operations have been included in the unaudited consolidated statement of operations since the acquisition date.
+In accordance with SFAS No. 142, goodwill recorded as a result of these acquisitions will be subject to an annual impairment test and will not be amortized. These acquisitions are intended to
+enhance our focus on targeted vertical markets and to provide additional value-added products and services to our customers. 
+
+ 16 
+
+On
+October 15, 2003, we acquired all of the outstanding capital stock of Apexion for 8.0 million in cash, net of cash acquired. Terms of the agreement also provide for
+additional cash payments ranging from zero to 2.0 million contingent upon the future performance of Apexion measured annually through November 30, 2005. Any contingent consideration
+earned will be recorded as additional goodwill. Apexion provided materials and equipment logistics solutions for the healthcare industry. 
+
+ On
+September 30, 2003, we acquired all of the outstanding capital stock of Closedloop for 4.2 million in cash, net of cash acquired. Closedloop provided collaborative
+budgeting, planning and forecasting solutions using real-time, transactional functionality. 
+
+On
+July 24, 2003, we acquired all of the outstanding capital stock of Numbercraft for 3.7 million in cash, net of cash acquired and 0.3 million in notes payable.
+The final purchase price allocation is based on preliminary estimates and is subject to refinement due to the finalization of certain tax attributes. Additional cash payments ranging from zero to
+ 8.6 million are contingent upon the future performance of Numbercraft measured periodically through 2007. Any contingent consideration earned will be recorded as additional goodwill. During
+the quarter ended November 30, 2003, 0.4 million of additional consideration was earned and recorded as additional goodwill. Numbercraft provided solutions for retailers and consumer
+packaged goods companies, which enable a quantitative understanding of consumer dynamics, product and offer performance, and customer trends. 
+
+ 17 
+
+Results of Operations 
+
+ The following table sets forth certain line items in our consolidated statement of operations as a percentage of total revenues for the periods indicated: 
+
+Three Months Ended 
+November 30, 
+ 
+ Six Months Ended 
+November 30, 
+
+2003 
+ 
+ 2002 
+ 
+ 2003 
+ 
+ 2002 
+
+Revenues: 
+
+License fees 
+ 
+ 20.5 
+ 
+ 21.6 
+ 
+ 23.2 
+ 
+ 21.2 
+
+Services 
+ 
+ 79.5 
+ 
+ 78.4 
+ 
+ 76.8 
+ 
+ 78.8 
+
+Total revenues 
+ 
+ 100.0 
+ 
+ 100.0 
+ 
+ 100.0 
+ 
+ 100.0 
+
+Cost of revenues: 
+
+Cost of license fees 
+ 
+ 4.8 
+ 
+ 4.1 
+ 
+ 4.7 
+ 
+ 3.9 
+
+Cost of services 
+ 
+ 40.0 
+ 
+ 40.9 
+ 
+ 38.2 
+ 
+ 42.0 
+
+Total cost of revenues 
+ 
+ 44.8 
+ 
+ 45.0 
+ 
+ 42.9 
+ 
+ 45.9 
+
+Gross profit 
+ 
+ 55.2 
+ 
+ 55.0 
+ 
+ 57.1 
+ 
+ 54.1 
+
+Operating expenses: 
+
+Research and development 
+ 
+ 18.1 
+ 
+ 16.3 
+ 
+ 17.5 
+ 
+ 16.9 
+
+Sales and marketing 
+ 
+ 25.5 
+ 
+ 28.2 
+ 
+ 25.9 
+ 
+ 30.4 
+
+General and administrative 
+ 
+ 12.0 
+ 
+ 11.4 
+ 
+ 11.2 
+ 
+ 9.4 
+
+Restructuring charges 
+ 
+ 2.6 
+ 
+ 6.6 
+ 
+ 1.3 
+ 
+ 3.3 
+
+Amortization of acquired intangibles 
+ 
+ 0.4 
+ 
+ 0.3 
+ 
+ 0.3 
+ 
+ 0.3 
+
+Total operating expenses 
+ 
+ 58.6 
+ 
+ 62.8 
+ 
+ 56.2 
+ 
+ 60.3 
+
+Operating (loss) income 
+ 
+ (3.4) 
+ (7.8) 
+ 0.9 
+ 
+ (6.2) 
+
+Other income (expense) 
+ 
+ 0.9 
+ 
+ 1.3 
+ 
+ 0.9 
+ 
+ 1.2 
+
+(Loss) income before income taxes 
+ 
+ (2.5) 
+ (6.5) 
+ 1.8 
+ 
+ (5.0) 
+
+(Benefit) provision for income taxes 
+ 
+ (1.0) 
+ (2.5) 
+ 0.7 
+ 
+ (1.9) 
+
+Net (loss) income 
+ 
+ (1.5) 
+ (4.0) 
+ 1.1 
+ 
+ (3.1) 
+
+Three Months Ended November 30, 2003 Compared To Three Months Ended November 30, 2002 
+
+ Revenues 
+
+ Total Revenues. We license software under non-cancelable license agreements and provide related professional
+services including consulting, training, and implementation services, as well as ongoing customer support and maintenance. Total revenues decreased to 84.3 million for the three months ended
+November 30, 2003 from 87.8 million for the three months ended November 30, 2002, representing a decrease of 4.0 . The decrease was due to a 1.7 million decrease in
+license fees and a 1.8 million decrease in services revenues. 
+
+ License Fees. Revenues from license fees decreased to 17.3 million for the three months ended November 30,
+2003 from 19.0 million for the three months ended November 30, 2002, representing a decrease of 8.9 . The decrease in license revenues during the three months ended November 30,
+2003 over the comparable period last year, continues to reflect market conditions for our products, longer sales cycles and the continued deferral of purchasing decisions by potential customers. The
+average selling price of our licenses decreased approximately 7 along with a decrease in the number of licensing transactions. Revenues from license fees as a percentage of total revenues for the
+three months ended November 30, 2003 and 2002 were 20.5 and 21.6 , respectively. 
+
+ 18 
+
+Services. Revenues from services decreased to 67.0 million for the three months ended November 30, 2003 from
+ 68.8 million for the three months ended November 30, 2002, representing a decrease of 2.7 . Consulting revenues declined by 3.9 million as a result of fewer consulting and
+training opportunities due to lower license sales in the preceding fiscal quarters. This decline was partially offset by an increase of 2.0 million in maintenance revenue largely due to an
+expanded customer base from new contracts closed since the prior year period, combined with price increases and strong renewal rates on support agreements. Services revenue as a percentage of total
+revenues for the three months ended November 30, 2003 and 2002 were 79.5 and 78.4 , respectively, reflecting a greater proportion of services revenues to total revenues compared to last year. 
+
+ Cost of Revenues 
+
+ Cost of License Fees. Cost of license fees includes royalties to third parties, amortization of acquired software and
+software delivery expenses. Our software solutions may include embedded components of third-party vendors, for which a fee is paid to the vendor upon sale of our products. In addition, we resell
+third-party products in conjunction with the license of our software solutions. The cost of license fees is higher when we resell products of third-party vendors. As a result, gross margins vary
+depending on the proportion of third-party product sales in our revenue mix. Cost of license fees increased to 4.0 million for the three months ended November 30, 2003 from
+ 3.6 million for the three months ended November 30, 2002, representing an increase of 10.7 . The increase is largely due to the amortization of acquired technology related to the
+acquisitions of Numbercraft, Apexion and Closedloop. Cost of license fees as a percentage of total revenues for the three months ended November 30, 2003 and 2002 were 4.8 and 4.1 ,
+respectively. Gross margin on revenue from license fees was 77.0 and 81.0 for the three months ended November 30, 2003 and 2002, respectively. The decrease in gross margin on license fees was
+primarily attributable to the increase in the mix of third party components which typically carry lower margins and the amortization of acquired technology. 
+
+ Cost of Services. Cost of services includes the salaries, employee benefits and related travel and overhead costs for
+providing consulting, training, implementation and support services to customers. Cost of
+services decreased to 33.7 million for the three months ended November 30, 2003 from 35.9 million for the three months ended November 30, 2002, representing a decrease of
+6.0 . The decrease in cost of services was primarily due to a 1.0 million decrease in compensation expense as a result of our workforce reductions and general attrition, a 0.5 million
+decrease in third-party costs as a result of a lower proportion of third-party services in our revenue mix, a 0.4 million decrease in rent expense as a result of the closure and consolidation
+of facilities which occurred last fiscal year, offset by a 0.6 million increase in our training and services reward programs. Cost of services as a percentage of total revenues for the three
+months ended November 30, 2003 and 2002 were 40.0 and 40.9 , respectively. Gross margin on services revenues were 49.6 and 47.8 for the three months ended November 30, 2003 and 2002,
+respectively. The increase in gross margin on services was primarily attributable to the increase in maintenance revenue in proportion to consulting and other service revenue. 
+
+ Operating Expenses 
+
+ Research and Development. Research and development expenses consist primarily of salaries, employee benefits, related
+overhead costs and consulting fees relating to product development, enhancements, upgrades, testing, quality assurance and documentation. Research and development expenses increased to
+ 15.3 million for the three months ended November 30, 2003 from 14.3 million for the three months ended November 30, 2002, representing a 6.8 increase. The increase is
+primarily due to a 0.6 million increase in personnel costs associated with our recent acquisitions and a 0.4 million increase in information systems expense offset by a
+ 0.5 million decrease in compensation expense from the September 2003 workforce reduction. Research and development expenses as a percentage of total revenues for the three months ended
+November 30, 2003 and 2002 were 18.1 and 16.3 , respectively. 
+
+ 19 
+
+Sales and Marketing. Sales and marketing expenses consist primarily of salaries and incentive compensation, employee benefits
+and travel and overhead costs related to our sales and marketing personnel, as well as trade show activities and advertising costs. Sales and marketing expenses decreased to 21.5 million for
+the three months ended November 30, 2003 from 24.8 million for the three months ended November 30, 2002, representing a decrease of 13.3 . The decrease in sales and marketing was
+due primarily to a 2.0 million decrease in compensation expense due to our workforce reductions and general attrition along with decreased sales incentives as a result of lower license fees, a
+ 1.5 million decrease in marketing program costs, a 0.3 million decrease in rent expense as a result of the closure and consolidation of facilities which occurred last fiscal year,
+offset by a 0.5 million increase in our annual training event which was held in our fiscal second quarter this year compared to the fiscal first quarter last year. Sales and marketing expenses
+as a percentage of total revenues for the three months ended November 30, 2003 and 2002 were 25.5 and 28.2 , respectively. 
+
+ General and Administrative. General and administrative expenses consist primarily of salaries, employee benefits and related
+overhead costs for administrative employees, as well as legal and accounting expenses, consulting fees and bad debt expense. General and administrative expenses increased to 10.1 million for
+the three months ended November 30, 2003 from 10.0 million for the three months ended November 30, 2002, representing an increase of 1.0 . Our fiscal 2004 second quarter included
+a 0.9 million increase in provisions for legal related expenses, a 0.3 million increase in personnel costs associated with our recent acquisitions and a 0.2 million increase in
+insurance costs. These increases were offset by a 0.5 million decrease in stock based compensation expense. Our fiscal 2003 second quarter included one-time charges for a lease
+termination of 0.7 million and an asset impairment charge related to a discontinued project of 0.7 million. General and administrative expenses as a percentage of total revenues for
+the three months ended November 30, 2003 and 2002 were 12.0 and 11.4 , respectively. 
+
+ Restructuring charges. In September 2003, we approved a restructuring plan to realign projected expenses with
+anticipated lower revenue levels and incurred restructuring charges of 2.3 million for severance and related benefits. The plan included the termination of 93 employees in various functions
+including research and development, general and administrative and sales and marketing primarily in the United States, all of which were terminated during the three months ended November 30,
+2003. During the three months ended November 30, 2003 we made cash payments to terminated employees totaling 2.0 million. 
+
+Although
+the restructuring plans of fiscal 2003 and 2002 have been fully executed, we continue to make cash payments for continuing lease and employee related costs. During the three
+months ended November 30, 2003, we made cash payments totaling 0.1 million, reducing the remaining plan liabilities, which are included in accrued compensation and benefits and other
+accrued liabilities, to 0.5 million. See Note 6 of Notes to Consolidated Financial Statements for a summary of activity for the six months ended November 30, 2003. 
+
+ Amortization of Acquired Intangibles. Amortization of acquired intangibles of 0.3 million and 0.2 million for
+the three months ended November 30, 2003 and 2002, respectively, consisted of amortization expense related to our acquisitions. 
+
+ Other Income (Expense), Net 
+
+ Other income (expense), net, which is comprised of interest income earned from cash, marketable securities and long term investments decreased to
+ 0.8 million for the three months ended November 30, 2003 from 1.1 million for the three months ended November 30, 2002. The reduction in interest income resulted from a
+realignment in our investment strategy to shorter-term lower-yielding investments, and from a reduced investment base following the funding of three acquisitions during the quarter. 
+
+ 20 
+
+(Benefit) Provision for Income Taxes 
+
+ We recognized an income tax benefit of 0.8 million for the three months ended November 30, 2003 compared to 2.2 million for the three
+months ended November 30, 2002. Our tax (benefit) provision is based on pretax income or loss and consists primarily of federal and state income taxes. Our effective tax rate was 39 the three
+months ended November 30, 2003 and 2002. 
+
+ Six Months Ended November 30, 2003 Compared To Six Months Ended November 30, 2002 
+
+ Revenues 
+
+ Total Revenues. We license software under non-cancelable license agreements and provide related professional
+services including consulting, training, and implementation services, as well as ongoing customer support and maintenance. Total revenues decreased to 172.3 million for the six months ended
+November 30, 2003 from 175.3 million for the six months ended November 30, 2002, representing a 1.7 decrease. The decrease in total revenues was due to a 5.8 million
+decrease in service revenues offset by a 2.8 million increase in license fees. 
+
+ License Fees. Revenues from license fees increased to 40.0 million for the six months ended November 30, 2003
+from 37.1 million for the six months ended November 30, 2002, representing an
+increase of 7.7 . Although license revenues increased during the six months ended November 30, 2003 over the comparable period last year, we continue to be affected by the level of information
+technology spending, longer sales cycles and the continued deferral of purchasing decisions by potential customers. The average selling price of our licenses during the six months ended
+November 30, 2003 increased approximately 14 although we experienced a decrease in the number licensing transactions over the comparable period last year. Revenues from license fees as a
+percentage of total revenues for the six months ended November 30, 2003 and 2002 were 23.2 and 21.2 , respectively. The increase in license fees as a percentage of total revenues was primarily
+a result of the increase in license fees in proportion to revenues from services. 
+
+ Services. Revenues from services decreased to 132.3 million for the six months ended November 30, 2003 from
+ 138.1 million for the six months ended November 30, 2002, representing a decrease of 4.2 . Consulting revenues decreased 11.4 million primarily as a result of fewer consulting
+and training opportunities due to lower license sales in the preceding fiscal quarters. This decline was partially offset by an increase of 5.5 million in maintenance revenue largely due to an
+expanded customer base from new contracts closed since the prior year period, combined with price increases and strong renewal rates on support agreements. Services revenue as a percentage of total
+revenues for the six months ended November 30, 2003 and 2002 were 76.8 and 78.8 , respectively. 
+
+Cost of Revenues 
+
+ Cost of License Fees. Cost of license fees includes royalties to third parties, amortization of acquired software and
+software delivery expenses. Our software solutions may include embedded components of third-party vendors, for which a fee is paid to the vendor upon sale of our products. In addition, we resell
+third-party products in conjunction with the license of our software solutions. The cost of license fees is higher when we resell products of third-party vendors. As a result, gross margins vary
+depending on the proportion of third-party product sales in our revenue mix. Cost of license fees increased to 8.1 million for the six months ended November 30, 2003 from
+ 6.8 million for the six months ended November 30, 2002, representing an increase of 19.2 . The increase is largely due to increased third party costs of 0.7 million and the
+amortization of acquired technology of 0.3 million related to the acquisitions of Numbercraft, Apexion and Closedloop. Cost of license fees as a percentage of total revenues for the six months
+ended November 30, 2003 and 2002 were 4.7 and 3.9 , respectively. Gross margin on revenue from license fees was 79.8 and 81.7 for the six months ended November 30, 2003 and 2002,
+respectively. The decrease in gross margin on license fees was primarily attributable to the increase in the mix of third party components which typically carry lower margins and the amortization of
+acquired technology. 
+
+ 21 
+
+Cost of Services. Cost of services includes the salaries, employee benefits and related travel and overhead costs for
+providing consulting, training, implementation and support services to customers. Cost of services decreased to 65.8 million for the six months ended November 30, 2003 from
+ 73.7 million for the six months ended November 30, 2002, representing a decrease of 10.7 . The decrease in cost of services was primarily due to a 3.0 million decrease in
+compensation expense as a result of our workforce reductions and general attrition, a 3.0 million decrease in third-party costs as a result of a lower proportion of third-party services in our
+revenue mix, a 0.9 million decrease in travel expenses and a 0.4 million decrease in rent expense as a result of the closure and consolidation of facilities which occurred last fiscal
+year, offset by a 0.8 million increase in our training and services reward programs. Cost of services as a percentage of total revenues for the six months ended November 30, 2003 and
+2002 were 38.2 and 42.0 , respectively. The decrease in cost of services as a percentage of total revenues is due to the above cost containment initiatives. Gross margin on services revenues were
+50.2 and 46.6 for the six months ended November 30, 2003 and 2002, respectively. The increase in gross margin on services was primarily attributable to the increase in maintenance revenue in
+proportion to consulting revenue. 
+
+ Operating Expenses 
+
+ Research and Development. Research and development expenses consist primarily of salaries, employee benefits, related
+overhead costs and consulting fees relating to product development, enhancements, upgrades, testing, quality assurance and documentation. Research and development expenses increased to
+ 30.2 million for the six months ended November 30, 2003 from 29.6 million for the six months ended November 30, 2002, representing an increase of 2.0 . The increase is
+primarily due to a 0.6 million increase in personnel costs associated with our recent acquisitions and a 0.4 million increase in information systems expense offset by a
+ 0.5 million decrease in compensation expense as a results from our workforce reductions and a 0.2 million decrease in stock based compensation expense. Research and development
+expenses as a percentage of total revenues for the six months ended November 30, 2003 and 2002 were 17.5 and 16.9 , respectively. 
+
+ Sales and Marketing. Sales and marketing expenses consist primarily of salaries and incentive compensation, employee benefits
+and travel and overhead costs related to our sales and marketing personnel, as well as trade show activities and advertising costs. Sales and marketing expenses decreased to 44.5 million for
+the six months ended November 30, 2003 from 53.3 million for the six months ended November 30, 2002, representing a decrease of 16.5 . The decrease was primarily the result of a
+ 2.9 million decrease in compensation costs as a results of our workforce reductions and general attrition, a 2.9 million decrease in marketing program costs, a 1.9 million
+decrease in travel and training, a 0.8 million decrease in information systems expense, a 0.4 million decrease in rent expense as a result of the closure and consolidation of
+facilities which occurred last fiscal year and a 0.2 million decrease in stock compensation expense. These decreases were partially offset by a 1.0 million increase in consulting and
+temporary staffing and a 0.4 million increase in our sales rewards program. Sales and marketing expenses as a percentage of total revenues for the six months ended November 30, 2003 and
+2002 were 25.9 and 30.4 , respectively. 
+
+ 22 
+
+General and Administrative. General and administrative expenses consist primarily of salaries,
+employee benefits and related
+overhead costs for administrative employees, as well as legal and accounting expenses, consulting fees and bad debt expense. General and administrative expenses increased to 19.3 million for
+the six months ended November 30, 2003 from 16.5 million for the six months ended November 30, 2002, representing an increase of 17.0 . Our fiscal 2004 six months included a
+ 1.8 million increase in provisions for legal related expenses, a 0.9 increase in bad debt expense, a 0.6 million increase in consulting and temporary staffing and a
+ 0.4 million increase in insurance costs. Our fiscal 2003 six months included one-time charges for a lease termination of 0.7 million, an asset impairment charge related to
+a discontinued project of 0.7 million and audit expenses related to the Armature acquisition of 0.5 million, all of which did not occur in fiscal 2004. General and administrative
+expenses as a percentage of total revenues for the six months ended November 30, 2003 and 2002 were 11.2 and 9.4 , respectively. 
+
+ Restructuring charge. In September 2003, we approved a restructuring plan to realign projected expenses with
+anticipated lower revenue levels and incurred restructuring charges of 2.3 for severance and related benefits. The plan included the termination of 93 employees in various functions including
+research and development, general and administrative, sales and marketing in the United States, all of which were terminated during the three months ended November 30, 2003. During the six
+months ended November 30, 2003 we made cash payments to terminated employees totaling 2.0 million. 
+
+ Although
+the restructuring plans of fiscal 2003 and 2002 have been fully executed, we continue to make cash payments for continuing lease and employee related costs. During the six
+months ended November 30, 2003, we made cash payments totaling 0.7 million, reducing the remaining plan liabilities, which are included in accrued compensation and benefits and other
+accrued liabilities, to 0.5 million. In addition, we reversed a portion of the reserve for certain employee costs, which we have determined will not be incurred. See Note 6 of Notes to
+Condensed Consolidated Financial Statements for a summary of activity for the six months ended November 30, 2003. 
+
+ Amortization of Acquired Intangibles. Amortization of acquired intangibles of 0.6 million and 0.4 million for
+the six months ended November 30, 2003 and 2002 consisted of amortization expense related to our acquisitions. 
+
+Other Income (Expense), Net 
+
+ Other income (expense), net, which is comprised of interest income earned from cash, marketable securities and long term investments decreased to
+ 1.6 million for the six months ended November 30,
+2003 from 2.2 million for the six months ended November 30, 2002. The reduction in interest income resulted from a realignment in our investment strategy to shorter-term
+lower-yielding investments and from a reduced investment base following the funding of three acquisitions. 
+
+Provision (Benefit) for Income Taxes 
+
+ We recognized an income tax provision of 1.3 million for the six months ended November 30, 2003 compared to an income tax benefit of
+ 3.4 million for the six months ended November 30, 2002. Our income tax provision (benefit) is based on pretax income or loss and consists primarily of federal and state income taxes.
+Our effective tax rate was 39 for the six months ended November 30, 2003 and 2002. 
+
+ Liquidity and Capital Resources 
+
+We finance our operations primarily with cash generated through operations. As of November 30, 2003, we had 228.9 million in cash, cash equivalents
+and marketable securities and 193.7 million in working capital. 
+
+ 23 
+
+Net
+cash (used in) provided by operating activities was (0.4) million and 3.5 million for the six months ended November 30, 2003 and 2002, respectively. Cash flows (used
+in) operating activities for the six months ended November 30, 2003 consisted of net income adjusted for non-cash items and partially offset by changes in current assets and
+liabilities, in particular a decrease in accounts payable, accrued and other expenses and deferred revenue compared to the same period in the prior year. Cash flows provided by operating activities
+for the six months ended November 30, 2002 were primarily due to a decrease in accounts receivable, partially offset by our net loss and a decrease in accounts payable, accrued liabilities and
+an increase in prepaid expenses. 
+
+ Net
+cash provided by investing activities was 9.9 million and 11.1 million for the six months ended November 30, 2003 and 2002, respectively. Cash flows provided
+by investing activities for the six months ended November 30, 2003 consisted of 28.6 million of net sales of marketable securities, partially offset by 4.1 million for the
+acquisition of Numbercraft, including additional compensation paid, 8.0 million for the acquisition of Apexion, 4.2 for the acquisition of Closedloop and 2.5 million for the purchase
+of property and equipment. Cash flows provided by investing activities for the six months ended November 30, 2002 consisted of 22.4 million of net sales of marketable securities,
+partially offset by 7.8 million related to the acquisition of Armature and 3.5 million related to the purchase of property and equipment. We have generally funded capital expenditures
+through cash flows generated from operations and stockholder transactions. 
+
+ Net
+cash (used in) provided by financing activities was (11.8) million and 8.9 million for the six months ended November 30, 2003 and 2002, respectively. Net cash (used
+in) financing activities for the six months ended November 30, 2003 reflects 18.9 million used to repurchase shares of our common stock and 0.5 million used for repayment of
+debt offset by 5.4 million received from the exercise of stock options and 2.2 million from the issuance of treasury shares for our employee stock purchase program. Cash flows provided
+by financing activities for the six months ended November 30, 2002 consisted of 4.3 million received from the exercise of stock options, 5.2 million for the purchase of treasury
+shares from contributions made to our employee stock purchase plan, offset by 0.6 million used for the repayment of debt. 
+
+ We
+have contingent consideration agreements related to the acquisitions of Keyola in fiscal 2002, Numbercraft in July 2003, and Apexion in October 2003. Under the terms of
+the Keyola agreement, additional cash payments ranging from zero to 1.5 million are contingent upon the future performance of Keyola, measured annually through fiscal 2005. Additional cash
+payments ranging from zero to 8.6 million are contingent upon future performance of Numbercraft measured periodically through 2007. Under the terms of the Apexion agreement additional cash
+payments ranging from zero to 2.0 million are contingent upon the future performance of Apexion measured annually through November 30, 2005. Any contingent consideration earned will be
+recorded as additional goodwill. During the six months ended November 30, 2003, 0.4 million of additional consideration was earned under the Numbercraft agreement and recorded as
+additional goodwill. 
+
+ In
+June 2003, our Board of Directors authorized us to repurchase up to 50.0 million worth of our common shares. Shares will be repurchased from time to time as market
+conditions warrant either through open market transactions, block purchases, private transactions or other means. During the six months ended November 30, 2003, we repurchased
+2.5 million shares for 19.0 million. The repurchased shares will be used for general corporate purposes. No time limit has been set for the repurchase program. 
+
+ We
+had a 25.0 million revolving credit facility, which expired on September 30, 2003. At September 30, 2003 we had no amounts outstanding under the revolving credit
+facility and were in compliance with all covenants and restrictions under the debt agreement. We have elected not to renew this agreement. 
+
+ 24 
+
+We
+believe that cash flow from operations, together with our cash, cash equivalents and marketable securities will be sufficient to meet our cash requirements for working capital,
+capital expenditures and investments for the foreseeable future. 
+
+ New Accounting Pronouncements 
+
+ In January 2003, the FASB issued FIN No. 46, "Consolidation of Variable Interest Entities, an interpretation of Accounting Research Bulletin
+No. 51." FIN No. 46 requires certain variable interest entities, or VIEs, to be consolidated by the primary beneficiary of the entity if the equity investors in the entity do not have
+the characteristics of a controlling financial interest or do not have sufficient equity at risk for the entity to finance its activities without additional subordinated financial support from other
+parties. FIN No. 46 is effective for all VIEs created or acquired after January 31, 2003. For VIEs created or acquired prior to February 1, 2003, the provisions of FIN
+No. 46 must be applied for the first interim or annual period beginning after June 15, 2003. We currently have no contractual relationship or other business relationship with a variable
+interest entity and therefore the adoption of FIN No. 46 did not have a material effect on our consolidated financial position, results of operations or cash flows. However, if we enter into
+any such arrangement with a variable interest entity in the future, our consolidated financial position or results of operations may be adversely effected. 
+
+Factors That May Affect Future Results or the Market Price of Our Stock 
+
+ An investment in our common stock involves a high degree of risk. Investors evaluating our company and its business should carefully consider the factors
+described below and all other information contained in this report on Form 10-Q. This section should be read in conjunction with the Condensed Consolidated Financial Statements and
+Notes thereto and Management's Discussion and Analysis of Financial Condition and Results of Operations included in this report on Form 10-Q and Management's Discussion and Analysis
+of Financial Condition and Results of Operations for the fiscal year ended May 31, 2003 contained in our Annual Report on Form 10-K. Any of the following factors could
+materially harm our business, operating results and financial condition. Additional factors and uncertainties not currently known to us or that we currently consider immaterial could also harm our
+business, operating results and financial condition. We may make forward-looking statements from time to time, both written and oral. We undertake no obligation to revise or publicly release the
+results of any revisions to these forward-looking statements based on circumstances or events which occur in the future. The actual results may differ materially from those projected in any such
+forward-looking statements due to a number of factors, including those set forth below and elsewhere in this report on Form 10-Q. 
+
+ A continuing reduction in information technology spending may decrease our revenues, lower our growth rate or adversely affect our operating results. 
+
+During the first six months of fiscal 2004, our license revenue was higher than in the same period the prior fiscal year. However, prospective customers continue
+to delay or cancel their information technology projects, or purchase individual products, rather than multi-product suites or systems. Demand for enterprise software and demand for our solutions are
+affected by general economic conditions, competition, product acceptance and technology lifecycles. The decline in and volatility of technology spending, terrorist activity, Middle East conflicts, and
+threats of hostilities elsewhere may cause our customers to continue to reduce or eliminate their information technology spending, which could substantially reduce the number of new software licenses
+we sell, the average sales price for these licenses and the need for our services. Because of these factors, we believe the level of demand for our products and services, and projections of future
+revenue and operating results, are difficult to predict. In fiscal 2004, 2003 and 2002, we took measures to realign our projected expenses with anticipated revenue, and incurred restructuring charges
+for severance and related benefits and facility closure and 
+
+ 25 
+
+consolidation
+charges. We may need to make further expense reductions to address shortfalls in revenue caused by these or other conditions and we cannot assure you those reductions will be available
+or sufficient to offset revenue declines. 
+
+ Because our customers are concentrated in targeted service industries, our operating results may be adversely affected by adverse changes in one or more
+of these industries. 
+
+ As a result of our focus on targeted service industries, our financial results depend, in significant part, upon economic and market conditions in the healthcare,
+retail, public sector and financial services industries. Because the healthcare marketplace for our products is maturing, we will need to expand our product offerings to achieve long-term
+revenue growth. Many state and local governments are facing budget shortfalls and are reducing capital spending, including spending on software and services. The economic downturn has also reduced
+capital spending in the financial services and other industries. A continued economic downturn, or adverse change in the regulatory environment or business prospects for one or more of the industries
+we service may further decrease our revenues or lower our growth rate. In addition, we must continue to develop industry specific functionality for our solutions, which satisfies the changing,
+specialized requirements of prospective customers in our target industries. This need is becoming more prevalent as the marketplace for our traditional enterprise resource planning products, known as
+ERP, is maturing. 
+
+ We may experience fluctuations in quarterly revenue that could adversely impact our stock price and our operating results. 
+
+Our actual revenues in a quarter could fall below expectations, which could lead to a decline in our stock price. Our revenues and operating results are difficult
+to predict and may fluctuate substantially from quarter to quarter. Revenues from license fees in any quarter depend substantially upon our licensing activity and our ability to recognize revenues in
+that quarter in accordance with our revenue recognition policies. Our quarterly license and services revenue may fluctuate and may be difficult to forecast for a variety of reasons, including the
+following: 
+
+a
+significant number of our existing and prospective customers' decisions regarding whether to enter into license agreements with us are made within the last few weeks or
+days of each quarter;
+ we
+have historically had a higher concentration of licensing activities in the second half of our fiscal year due to the nature of our sales personnel compensation programs,
+but there is no assurance that this pattern will or will not continue;
+ the
+size of license transactions can vary significantly;
+ a
+decrease in license fee revenue may likely result in a decrease in services revenue in the same or subsequent quarters;
+ customers
+may unexpectedly postpone or cancel projects due to changes in their strategic priorities, project objectives, budget or personnel;
+ the
+uncertainty caused by announced potential business combinations in the software industry may cause customers to cancel, postpone or reduce capital spending projects on
+software;
+ customer
+evaluations and purchasing processes vary significantly from company to company, and a customer's internal approval and expenditure authorization process can be
+difficult and time consuming to complete, even after selection of a vendor;
+ the
+number, timing and significance of software product enhancements and new software product announcements; 
+ 
+ 26 
+
+existing
+customers may decline to renew support for our products, and market pressures may limit our ability to increase support fees or require customers to upgrade from
+older versions of our products;
+ prospective
+customers may decline or defer the purchase of new products or releases if we do not have sufficient customer references for those products; and
+ we
+may have to defer revenues under our revenue recognition policies. 
+
+Fluctuation
+in our quarterly revenues may adversely affect our operating results. In each fiscal quarter our expense levels, operating costs and hiring plans are based on projections of
+future revenues and are relatively fixed. If our actual revenues fall below expectations we could experience a reduction in operating results. 
+
+ Our lengthy and variable sales cycle makes it difficult to predict our operating results. 
+
+It is difficult for us to forecast the timing and recognition of revenues from sales of our products because our existing and prospective customers often take
+significant time evaluating our products before licensing them. The period between initial customer contact and a purchase by a customer may vary from nine months to more than one year. During the
+evaluation period, prospective customers
+may decide not to purchase or may scale down proposed orders of our products for various reasons, including: 
+
+reduced
+demand for enterprise software solutions;
+ introduction
+of products by our competitors;
+ lower
+prices offered by our competitors;
+ changes
+in budgets and purchasing priorities; and
+ reduced
+need to upgrade existing systems. 
+
+Our
+existing and prospective customers routinely require education regarding the use and benefit of our products. This may also lead to delays in receiving customers' orders. 
+
+ A reduction in our licensing activity may result in reduced services revenues in future periods. 
+
+Our ability to maintain or increase service revenue primarily depends on our ability to increase the number of our licensing agreements. Variances or slowdowns in
+licensing activity may adversely impact our consulting, training and maintenance service revenues in future periods. 
+
+ We may be required to delay revenue recognition into future periods, which could adversely impact our operating results. 
+
+ We have in the past had to, and in the future may have to, defer revenue recognition for license fees due to several factors, including the following situations: 
+
+the
+license agreements include applications that are under development or have other undelivered elements;
+ we
+must deliver services, including significant modifications, customization or complex interfaces, which could delay product delivery or acceptance;
+ the
+transaction includes acceptance criteria;
+ the
+transaction includes contingent payment terms or fees; 
+ 
+ 27 
+
+a
+third-party vendor, whose technology is incorporated into our software products, delays delivery of the final software product to the customer;
+ we
+are required to accept a fixed-fee services contract; or
+ we
+are required to accept extended payment terms. 
+
+Because
+of the factors listed above and other specific requirements under accounting principles generally accepted in the United States for software revenue recognition, we must have
+very precise terms in our license agreements to recognize revenue when we initially deliver software or perform services. Negotiation of mutually acceptable terms and conditions can extend the sales
+cycle, and sometimes we do not obtain terms and conditions that permit revenue recognition at the time of delivery or even as work on the project is completed. 
+
+Our stock price may remain volatile. 
+
+ The trading price of our common stock has fluctuated significantly in the past. Changes in our business, operations or prospects, regulatory considerations,
+general market and economic conditions, or other factors may affect the price of our common stock. Many of these factors are beyond our control. The future trading price of our common stock is likely
+to be volatile and could be subject to wide price fluctuations in response to such factors, including: 
+
+actual
+or anticipated fluctuations in revenues or operating results, including revenue or results of operations in any quarter failing to meet the expectations, published or
+otherwise, of the investment community;
+ announcements
+of technological innovations by us or our competitors;
+ introduction
+and success of new products or significant customer wins or losses by us or our competitors;
+ developments
+with respect to our intellectual property rights, including patents, or those of our competitors;
+ fluctuations
+in demand for and sales of our products, which will depend on, among other things, the acceptance of our products in the marketplace and the general level of
+spending in the software industry;
+ rumors
+or dissemination of false and/or misleading information, particularly through internet chat rooms, instant messaging and other means;
+ changes
+in management;
+ proposed
+and completed acquisitions or other significant transactions by us or our competitors;
+ introduction
+and success of new products or significant customer wins or losses by us or our competitors;
+ the
+mix of products and services sold by us;
+ the
+timing of significant orders by us;
+ conditions
+and trends in the software industry, or consolidation within the technology industry that may impact our customers, partners, suppliers or competitors;
+ adoption
+of new accounting standards affecting the software industry;
+ acts
+of war or terrorism; and
+ general
+market conditions. 
+ 
+ 28 
+
+If we account for employee stock option and employee stock purchase plans using the fair value method, it could significantly reduce our net income and
+earnings per share. 
+
+ There has been ongoing public debate whether employee stock option and employee stock purchase plans shares should be treated as a compensation expense and, if
+so, how to properly value such charges. If we elected or were required to record an expense for our stock-based compensation plans using the fair value method, we could have material accounting
+charges. Although we are not currently required to record any compensation expense using the fair value method in connection with option grants that have an exercise price at or above fair market
+value and for shares issued under our employee stock purchase plan, it is possible that future laws or regulations will require us to treat all stock-based compensation as a compensation expense using
+the fair value method. Note 2 of the Notes to Condensed Consolidated Financial Statements describes the pro forma impact of a change to fair market value accounting on earnings and earnings per
+share for the three and six months ended November 30, 2003 and 2002. 
+
+ A number of our competitors are well-established software companies that have advantages over us. 
+
+ We face competition from a number of software companies that have advantages over us due to their larger customer bases, greater name recognition, long operating
+and product development history, greater international presence and substantially greater financial, technical and marketing resources. These competitors include well-established companies
+such as Oracle Corporation, PeopleSoft, Inc. and SAP AG, all of which have larger installed customer bases. Furthermore, Oracle is capable of bundling its software with its database
+applications, which underlie a significant portion of our installed applications. 
+
+ In
+addition, we compete with a variety of more specialized software and services vendors, including: 
+
+Internet
+software vendors;
+ single-industry
+software vendors;
+ emerging
+enterprise resource optimization software vendors;
+ human
+resource management software vendors;
+ financial
+management software vendors;
+ merchandising
+software vendors;
+ services
+automation software vendors; and
+ outsourced
+services providers. 
+
+As
+a result, the market for enterprise software applications has been and continues to be intensely competitive. Some competitors have become more aggressive with their pricing, payment
+terms and/or issuance of contractual warranties, implementation terms or guarantees. We may be unable to continue to compete successfully with new and existing competitors without lowering prices or
+offering other favorable terms. We expect competition to persist and intensify, which could negatively impact our operating results and market share. 
+
+ Changes in the terms on which we license technologies from third-party vendors could result in the loss of potential revenues or increased costs or
+delays in the production and improvement of our products. 
+
+ We license third-party software products that we incorporate into, or resell with, our own software products. For example, we incorporate Micro Focus
+International, Inc.'s software in many of our products and have reseller relationships with Business Software Incorporated, Crystal Decisions, Inc., 
+
+ 29 
+
+Hyperion
+Solutions Corporation and other companies, that allows us to resell their technology with our products. These licenses and other technology licenses are subject to periodic renewal and may
+include minimum sales requirements. A failure to renew, or early termination of these licenses or other technology licenses could adversely impact our business. If any of the third-party software
+vendors change their product offerings or terminate our licenses, we may lose potential revenues and may need to incur additional development costs and seek alternative third-party relationships. In
+addition, if the cost of licensing any of these third-party software products significantly increases, or if there is a change in the relative mix of products we offer, our gross margins could
+significantly decrease. We rely on existing relationships with software vendors who are also competitors. If these vendors change their business practices, we may be compelled to find alternative
+vendors with complementary software, which may not be available on attractive terms or at all, or may not be as widely accepted or as effective as the software provided by our existing vendors. Our
+relationships with these and other third-party vendors are an important part of our business, and a deterioration of these relationships could adversely impact our business and operating results. 
+
+ A deterioration in our relationship with resellers, systems integrators and other third parties that market and sell our products could reduce our
+revenues. 
+
+ Our ability to achieve revenue growth will depend in large part on adding new partners to expand our sales channels, as well as leveraging our relationships with
+existing partners, such as Siemens Medical Solutions Health Services Corporation. If our relationships with these resellers, system integrators and strategic and technology partners deteriorate or
+terminate, we may lose important sales and marketing opportunities. Our reseller arrangements may from time to time give rise to disputes regarding marketing strategy, sales of competing products,
+exclusive territories, payment of fees and customer relationships, which could negatively affect our business or result in costly litigation. For example, we are currently in discussions with Siemens
+regarding our current reseller agreement and potential modifications to our reselling relationship. 
+
+Our
+current and potential customers often rely on third-party systems integrators to implement and manage new and existing applications. These systems integrators may increase their
+promotion of competing enterprise software applications, or may otherwise discontinue their relationships with or support of us. 
+
+ We
+also may enter into joint arrangements with strategic partners to develop new software products or extensions, sell our software as part of integrated products or serve as an
+application service provider for our products. Our business may be adversely affected if these strategic partners change their business priorities or experience difficulties in their operations, which
+in either case causes them to terminate or reduce their support for the joint arrangements. Furthermore, the financial condition of our channel partners impacts our business. If our partners are
+unable to recruit and adequately train a sufficient number of consulting personnel to support the implementation of our software products, or they otherwise do not adequately perform implementation
+services, we may lose customers. Our relationships with resellers, systems integrators and other third-party vendors are an important part of our business, and a deterioration of these relationships
+could adversely impact our business and operating results. 
+
+ We may be unable to retain or attract clients if we do not develop new products and enhance our current products in response to technological changes. 
+
+As a software company, we have been required to migrate our products and services from mainframe to client-server to web-based environments. In
+addition, we have been required to adapt our 
+
+ 30 
+
+products
+to emerging standards for operating systems, databases and other technologies. We will be unable to compete effectively if we are unable to: 
+
+maintain
+and enhance our technological capabilities to correspond to these emerging environments and standards;
+ develop
+and market products and services that meet changing customer needs; and
+ anticipate
+or respond to technological changes on a cost-effective and timely basis. 
+
+A
+significant portion of our research and development resources are devoted to product upgrades that address regulatory and maintenance requirements. The remainder of our limited
+research and development resources are for new products. New products require significant development investment. We face uncertainty when we develop or acquire new products because there is no
+assurance that a
+sufficient market will develop for those products. For example, we have made a significant investment in the acquisition and development of services automation and retail merchandising software
+products. If we do not attract sufficient customer interest in those products, we will not realize a return on our investment and our operating results will be adversely affected. 
+
+ Our
+core technologies face competition from new or revised technologies that may render our existing technology less competitive or obsolete, reducing the demand for our solutions. As a
+result, we must continually redesign our products to incorporate these new technologies and to adapt our software products to operate on, and comply with evolving industry standards for hardware and
+software platforms. In addition, conflicting new technologies present us with difficult choices of which new technologies to adopt. If we fail to anticipate or respond adequately to technological
+developments, or experience significant delays in product development or introduction, our business and operating results will be negatively impacted. 
+
+ In
+addition, to the extent we determine that new technologies and equipment are required to remain competitive, the development, acquisition and implementation of such technologies may
+require us to make significant capital investments. We may not be able to obtain capital for these purposes and investments in new technologies may not result in commercially viable technological
+products. The loss of revenue and increased costs to us from such changing technologies would adversely affect our business and operating results. 
+
+ Our programs are deployed in large and complex systems and may contain defects that are not detected until after our programs have been installed, which
+could damage our reputation and cause us to lose customers or incur liabilities. 
+
+ Our software programs are often deployed in large and complex computer networks. Because of the nature of these programs, they can only be fully tested for
+reliability when deployed in networks for long periods of time. Our software programs may contain undetected defects when first introduced or as new versions are released, and our customers may
+discover defects in our products or experience corruption of their data only after our software programs have been deployed. As a consequence, from time to time we have received customer complaints
+following installation of our products. In addition, our products are combined with products from other vendors. As a result, should problems occur, it may be difficult to identify the source of the
+problem. Software and data security are becoming increasingly important because of regulatory restrictions on data privacy and the significant legal exposures and business disruptions stemming from
+computer viruses and other unauthorized entry or use of computer systems. These conditions increase the risk that we could experience, among other things: 
+
+loss
+of customers;
+ damage
+to our brand reputation; 
+ 
+ 31 
+
+failure
+to attract new customers or achieve market acceptance;
+ diversion
+of development and services resources; and
+ legal
+actions by our customers or government regulators. 
+
+In
+addition, we may not be able to avoid or limit liability for disputes relating to product performance, software security or the provision of services. The occurrence of any one or
+more of the foregoing factors could cause us to experience losses, incur liabilities and adversely affect our operating results. 
+
+ We do not have substantial international operations and may not be able to develop our international operations successfully. 
+
+We have only limited international operations. Our products do not meet the requirements of Asia and many other local markets. Factors that could have an adverse
+effect on our ability to develop our international operations include: 
+
+lack
+of experience in a particular geographic market;
+ significant
+presence of our competitors in international markets;
+ increased
+cost and development time required to modify and translate our products for local markets;
+ inability
+to recruit personnel in a specific country or region;
+ failure
+to enter into relationships with local resellers, systems integrators or other third-party vendors;
+ differing
+foreign technical standards; and
+ regulatory,
+social, political, labor or economic conditions in a specific country or region. 
+
+Our
+limited international operations could become subject to unexpected, uncontrollable and rapidly changing events and circumstances in addition to those experienced in the United States. The
+following factors, among others, could have an adverse effect on our business and operating results: 
+
+operating
+costs in many countries are higher than in the United States;
+ conducting
+business in currencies other than United States dollars subjects us to currency controls and fluctuations in currency exchange rates;
+ we
+may be unable to hedge some transactions because of uncertainty or the inability to reasonably estimate our foreign exchange exposure;
+ we
+may hedge some anticipated transactions and transaction exposures, but could still experience losses due to exchange rate fluctuations;
+ laws,
+policies and other regulatory requirements affecting trade and investment including loss or modification of exemptions for taxes and tariffs, and import and export
+license requirements; and
+ exposure
+to different legal standards or risks. 
+
+We may be unable to identify or complete suitable acquisitions and investments; and any acquisitions and investments we do complete may create business
+difficulties or dilute our stockholders. 
+
+ As part of our business strategy, we intend to pursue strategic acquisitions. We may be unable to identify suitable acquisitions or investment candidates. Even if
+we identify suitable candidates, we 
+
+ 32 
+
+cannot
+provide assurance that we will be able to make acquisitions or investments on commercially acceptable terms. If we acquire a company, we may incur losses in the operations of that company and
+we may have difficulty integrating its products, personnel and operations into our business. In addition, its key personnel may decide not to work for us. We may also have difficulty integrating
+acquired businesses, products, services and technologies into our operations. These difficulties could disrupt our ongoing business, distract our management and workforce, increase our expenses and
+adversely affect our operating results. We may also incorrectly judge the value or worth of an acquired company or business. Furthermore, we may incur significant debt or be required to issue equity
+securities to pay for future acquisitions or investments. The issuance of equity securities may be dilutive to our stockholders. If the products of an acquired company are not successful, those
+remaining assets could become impaired, which may result in an impairment loss which could materially adversely impact our financial position and results of operations. 
+
+ Increases in services revenue as a percentage of total revenues could decrease overall margins and adversely affect our operating results. 
+
+ We realize lower margins on service revenue than on license revenue. We subcontract certain consulting services to systems integrators, which generally causes
+such services to carry lower gross margins than services provided by our employees. Therefore, an increase in the percentage of services provided by systems integrators versus services provided by our
+employees could have a detrimental impact on our overall gross margins and could adversely affect operating results. 
+
+ We may be unable to compete effectively in the application service provider market. 
+
+ We act as an application service provider for only portions of our products acquired through a recent acquisition. Revenues from these arrangements are not
+material. Some businesses choose to access enterprise software applications through application service providers, or ASPs, which are businesses that host applications and provide access to software
+on a subscription basis. Although we occasionally sell our software to ASPs, we have limited experience selling our solutions to ASPs and may not be successful in generating revenue from this
+distribution channel. Moreover, the use of ASPs as a distribution channel may occur more rapidly than we anticipate, and we may not be able to compete effectively in this environment. 
+
+ In the event our products infringe on the intellectual property rights of third parties, our business may suffer if we are sued for infringement or
+cannot obtain licenses to these rights on commercially acceptable terms. 
+
+ We are subject to the risk of adverse claims and litigation alleging infringement by us of the intellectual property rights of others. Many participants in the
+technology industry have an increasing number of patents and patent applications and have frequently demonstrated a readiness to take legal action based on allegations of patent and other intellectual
+property infringement. Further, as the number and functionality of our products increase, we believe that we may become increasingly subject to the risk of infringement claims. If infringement claims
+are brought against us, these assertions could distract management and we may have to expend potentially significant funds and resources to defend or settle such claims. If we are found to infringe on
+the intellectual property rights of others, we could be forced to pay significant license fees or damages for infringement. 
+
+ As
+part of our standard license agreements, we agree to indemnify our customers for some types of infringement claims under the laws of the United States and some foreign jurisdictions
+that may arise from the use of our products. If a claim against us were successful, we may be required to incur significant expense and pay substantial damages as we are unable to insure against this
+risk. Even if we were to prevail, the accompanying publicity could adversely impact the demand for our software. Provisions attempting to limit our liability in our standard agreements may be
+invalidated by unfavorable judicial decisions or by federal, state, local or foreign laws or ordinances. 
+
+ 33 
+
+It may become increasingly expensive to obtain and maintain liability insurance. 
+
+We contract for insurance to cover several, but not all, potential risks and liabilities. In the current market, insurance coverage is becoming more restrictive,
+and, when insurance coverage is offered, the deductible for which we are responsible is larger. In light of these circumstances, it may become more
+difficult to maintain insurance coverage at historical levels, or if such coverage is available, the cost to obtain or maintain it may increase substantially. This may result in our being forced to
+bear the burden of an increased portion of risks for which we have traditionally been covered by insurance, which could negatively impact our results of operations. 
+
+We have limited protection of our intellectual property and, if we fail to adequately protect our intellectual property, we may not be able to compete. 
+
+ We consider certain aspects of our internal operations, software and documentation to be proprietary, and rely on a combination of contract, copyright, trademark
+and trade secret laws to protect this information. In addition, to date we have filed two patent applications but we intend to file additional patent applications. Outstanding applications may not
+result in issued patents and, even if issued, the patents may not provide any competitive advantage. Existing copyright laws afford only limited protection. Our competitors may independently develop
+technologies that are less expensive or better than our technology. In addition, when we license our products to customers, we provide source code for many of our products. We may also permit
+customers to obtain access to our other source code through a source code escrow arrangement. This access to our source code may increase the likelihood of misappropriation or other misuse of our
+intellectual property. In addition, the laws of some countries in which our software products are or may be licensed do not protect our software products and intellectual property rights to the same
+extent as the laws of the United States. Defending our rights could be costly. 
+
+ Business disruptions may interfere with our ability to conduct business. 
+
+Business disruptions could affect our future operating results. Our operating results and financial condition could be adversely affected in the event of a
+security breach, major fire, war, terrorist attack or other catastrophic event. Impaired access or significant damage to our data center at our headquarters in St. Paul, Minnesota due to such an event
+could cause a disruption of our information, research and development, and customer support systems and loss of financial data and certain customer data, which could adversely impact results of
+operations and business financial conditions. 
+
+ Our future success depends on our ability to continue to retain and attract qualified personnel. 
+
+We believe that our future success depends upon our ability to continue to train, retain, effectively manage and attract highly skilled technical, managerial,
+sales and marketing personnel. If our efforts in these areas are not successful, our costs may increase, development and sales efforts may be hindered and our customer service may be degraded. There
+is intense competition for personnel in the software industry. From time to time, we experience difficulties in locating enough highly qualified candidates in desired geographic locations, or with
+required industry-specific expertise. In September 2003, we announced that we are planning to outsource a portion of our research and development with a third party firm to be selected from
+several candidates located in India. We do not have experience with this
+type of outsourcing and may be unable to achieve the product development and economic efficiencies of this planned arrangement. 
+
+ There are a large number of shares that may be sold in the market, which may depress our stock price. 
+
+ In December 2003, we announced that our Chairman and a founder, H. Richard Lawson, had entered into a selling plan to sell up to 924,000 shares of our
+stock over a period ending August 2004. 
+
+ 34 
+
+At
+that time, we also announced that TA Associates, a stockholder affiliated with one of our directors, David Lang, had entered into a selling plan to sell up to 2 million shares of our stock
+over a period ending May 2004. These stockholders may also elect to sell or transfer other shares apart from these selling plans. Other executive officers, directors or principal stockholders
+could also elect to sell their shares from time to time. A substantial number of shares of our common stock are held by our founders, their family members, current or former employees, officers or
+directors. Sale of a portion of these shares in the public market, or the perception that such sales are likely to occur, could depress the market price of our common stock and could impair our
+ability to raise capital through the sale of additional equity securities. 
+
+ Control by existing shareholders could significantly influence matters requiring stockholder approval. 
+
+ As of November 30, 2003, our executive officers, directors, and affiliated entities, in the aggregate, beneficially owned approximately 20.8 of our
+outstanding common stock. These stockholders, if acting together, would be able to significantly influence all matters requiring approval by stockholders, including the election of directors and the
+approval of mergers or other business combinations. 
+
+Financial outlook. 
+
+ From time to time in press releases and otherwise, we may publish forecasts or other forward-looking statements regarding our future results, including estimated
+revenues or net earnings. Any forecast of our future performance reflects various assumptions. These assumptions are subject to significant uncertainties, and as a matter of course, any number of them
+may prove to be incorrect. Further, the achievement of any forecast depends on numerous risks and other factors (including those described in this discussion), many of which are beyond our control. As
+a result, we cannot provide assurance that our performance will be consistent with any management forecasts or that the variation from such forecasts will not be material and adverse. Current and
+potential stockholders are cautioned not to base their entire analysis of our business and prospects upon isolated predictions, but instead are encouraged to utilize our entire publicly available mix
+of historical and forward-looking information, as
+well as other available information affecting us, our products and services, and the software industry when evaluating our prospective results of operations. 
+
+ITEM 3. QUALITATIVE AND QUANTITATIVE DISCLOSURES ABOUT MARKET RISK 
+
+ Currently, we have minimal monetary assets, liabilities and operating expenses denominated in foreign currencies. If our international operations expand and we
+decide to enter into hedging transactions to minimize foreign currency rate risk, the adoption of SFAS No. 133, as amended by SFAS Nos. 137 and 138, could have a material impact on our
+operating results. 
+
+ We
+do not utilize any derivative security instruments. Our investments are consistent with the Company's investment policies. We invest our cash in financial instruments consisting
+principally of tax-exempt money market funds and highly liquid debt securities of corporations and municipalities. These investments are denominated in U.S. dollars. Investments with
+original maturities of three months or less are classified as cash and cash equivalents. As of November 30, 2003, the average maturity of our investment securities was less than three months
+and all investment securities had maturities less than 24 months. As of November 30, 2003, we consider the reported amounts of these investments to be reasonable approximations of their
+values. Changes in the market interest rates will not have a material impact on our financial position. 
+
+ Through
+November 30, 2003, interest expense was not sensitive to the general levels of United States interest rates because all of our notes payable bear fixed interest rates. 
+
+ 35 
+
+ITEM 4. CONTROLS AND PROCEDURES 
+
+ As required by Rule 13a-15(b) under the Securities Exchange Act of 1934, as amended we conducted an evaluation under the supervision and with
+the participation of the Company's management, including the Chief Executive Officer and the Chief Financial Officer, of the effectiveness of the Company's disclosure controls and procedures as of the
+end of the period covered by this report. Based on that evaluation, the Chief Executive Officer and the Chief Financial Officer concluded that the disclosure controls and procedures are effective in
+ensuring that all information required to be disclosed in reports that we file or submit under the Exchange Act is recorded, processed, summarized and reported within the time periods specified in the
+Securities and Exchange Commission rules and forms. There was no significant change in our internal control over financial reporting that occurred
+during our most recent fiscal quarter that has materially affected, or is reasonably likely to materially affect, our internal control over financial reporting. 
+
+ 36 
+
+PART II. OTHER INFORMATION 
+
+ITEM 1. LEGAL PROCEEDINGS 
+
+ The Company is involved in various claims and legal actions in the normal course of business. 
+
+ITEM 2. CHANGES IN SECURITIES AND USE OF PROCEEDS 
+
+(d) Use
+of Proceeds 
+
+ As
+of November 30, 2003, we held 143 million of net proceeds from our initial public offering in interest-bearing, investment grade securities. During the three months
+ended November 30, 2003, we used 8.0 million for the acquisition of Apexion, 4.2 million for the acquisition of Closedloop, 1.0 million for capital expenditures and
+ 0.2 million for repayment of debt. 
+
+ITEM 3. DEFAULTS UPON SENIOR SECURITIES 
+
+None 
+
+ITEM 4. SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS 
+
+(a) The
+Company held its Annual Meeting of Stockholders on October 30, 2003.
+ (b) Pursuant
+to the election of the eight directors listed under Item 4 (c)(1), John J. Coughlan, David J. Eskra, David R. Hubers, Thomas G. Hudson, Richard D. Kreysar, David S. B. Lang,
+H. Richard Lawson, and Michael A. Rocca were each elected as directors for a term of one year.
+ (c) The
+Company's stockholders voted on the following matters:
+
+(1) Election
+of eight directors. All directors proposed by the Board of Directors were elected. 
+
+Nominee 
+ 
+ Votes For 
+ 
+ Votes 
+Withheld 
+
+John J. Coughlan 
+ 
+ 75,703,137 
+ 
+ 880,832 
+
+David J. Eskra 
+ 
+ 75,670,093 
+ 
+ 913,876 
+
+David R. Hubers 
+ 
+ 75,670,742 
+ 
+ 913,227 
+
+Thomas G. Hudson 
+ 
+ 75,416,756 
+ 
+ 1,167,213 
+
+Richard D. Kreysar 
+ 
+ 75,413,986 
+ 
+ 1,169,983 
+
+David S.B. Lang 
+ 
+ 75,665,270 
+ 
+ 918,699 
+
+H. Richard Lawson 
+ 
+ 75,748,422 
+ 
+ 835,547 
+
+Michael A. Rocca 
+ 
+ 75,669,029 
+ 
+ 914,940 
+
+(2) The
+stockholders ratified the appointment of PricewaterhouseCoopers LLP as the Company's independent auditors for the fiscal year ending May 31, 2004 (with 76,262,397
+affirmative votes, 313,534 negative votes, and 8,038 votes abstaining). 
+
+ITEM 5. OTHER INFORMATION 
+
+None 
+
+ 37 
+
+ITEM 6. EXHIBITS AND REPORTS ON FORM 8-K 
+
+(a) Exhibits
+
+31.1 
+ 
+ Certification Pursuant to Section 302 of the Sarbanes-Oxley Act- John J. Coughlan . 
+
+31.2 
+
+Certification Pursuant to Section 302 of the Sarbanes-Oxley Act- Robert G. Barbieri. 
+
+32.1 
+
+Certification Pursuant to Section 906 of the Sarbanes-Oxley Act- John J. Coughlan. 
+
+32.2 
+
+Certification Pursuant to Section 906 of the Sarbanes-Oxley Act- Robert G. Barbieri. 
+
+(b) Reports
+on Form 8-K Filed during the three months ended November 30, 2003. 
+
+ On
+September 25, 2003 the Company furnished a Current Report on Form 8-K with the Securities and Exchange Commission, reporting under Items 7 and 12 that it
+issued a press release relating to fiscal 2004 first quarter financial results. The full text of the press release was set forth in an attached exhibit. 
+
+On
+October 7, 2003 the Company filed a Current Report on Form 8-K with the Securities and Exchange Commission, reporting under Items 2 and 7 in connection with
+the acquisition Closedloop Solutions, Inc. 
+
+ 38 
+
+SIGNATURES 
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned
+thereunto duly authorized. 
+
+Date: January 8, 2004 
+ 
+ LAWSON SOFTWARE, INC. 
+
+By: 
+ 
+ /S/ ROBERT G. BARBIERI Robert G. Barbieri Executive Vice President 
+and Chief Financial Officer 
+(principal financial and accounting officer) 
+
+39 
+
+EXHIBIT INDEX 
+
+EXHIBIT 
+NUMBER 
+ 
+ DESCRIPTION OF DOCUMENTS 
+
+31.1 
+
+Certification Pursuant to Section 302 of the Sarbanes-Oxley Act- John J. Coughlan. 
+
+31.2 
+
+Certification Pursuant to Section 302 of the Sarbanes-Oxley Act- Robert G. Barbieri. 
+
+32.1 
+
+Certification Pursuant to Section 906 of the Sarbanes-Oxley Act- John J. Coughlan. 
+
+32.2 
+
+Certification Pursuant to Section 906 of the Sarbanes-Oxley Act- Robert G. Barbieri. 
+
+40 
+
+QuickLinks 
+ LAWSON SOFTWARE, INC. Form 10-Q Index 
+
+PART I. FINANCIAL INFORMATION 
+ LAWSON SOFTWARE, INC. CONDENSED CONSOLIDATED BALANCE SHEETS (in thousands) (unaudited) 
+
+LAWSON SOFTWARE, INC. CONDENSED CONSOLIDATED STATEMENTS OF OPERATIONS (in thousands, except per share data) (unaudited) 
+ 
+ LAWSON SOFTWARE, INC. CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS (in thousands) (unaudited) 
+ 
+ LAWSON SOFTWARE, INC. NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (in thousands, except per share data) (unaudited) 
+
+ITEM 3. QUALITATIVE AND QUANTITATIVE DISCLOSURES ABOUT MARKET RISK 
+ ITEM 4. CONTROLS AND PROCEDURES 
+
+PART II. OTHER INFORMATION 
+ 
+ ITEM 1. LEGAL PROCEEDINGS 
+ ITEM 2. CHANGES IN SECURITIES AND USE OF PROCEEDS 
+ ITEM 3. DEFAULTS UPON SENIOR SECURITIES 
+ ITEM 4. SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS 
+ ITEM 5. OTHER INFORMATION 
+ ITEM 6. EXHIBITS AND REPORTS ON FORM 8-K 
+
+SIGNATURES 
+ 
+ EXHIBIT INDEX 
+
+<EX-31.1>
+ 3
+ a2125899zex-31_1.htm
+ EXHIBIT 31.1
+
+QuickLinks 
+ -- Click here to rapidly navigate through this document 
+
+Exhibit 31.1 
+
+Certification of Chief Executive Officer Pursuant to Section 302 of the Sarbanes-Oxley Act of 2002 
+
+ I,
+John J. Coughlan, certify that: 
+
+ 1. I
+have reviewed this quarterly report on Form 10-Q of Lawson Software, Inc.; 
+
+2. Based
+on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in
+light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report; 
+
+ 3. Based
+on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition,
+results of operations and cash flows of the registrant as of, and for, the periods presented in this report; 
+
+4. The
+registrant's other certifying officer and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act
+Rules 13a-15(e) and 15d-15(e)) for the registrant and have: 
+
+a)
+Designed such disclosure controls and procedures or cause such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the
+registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared; 
+
+b)
+Evaluated the effectiveness of the registrant's disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures as
+of the end of the period covered by this report based on such evaluation; and 
+
+ c)
+Disclosed in this report any change in the registrant's internal control over financial reporting that occurred during the registrant's most recent fiscal quarter (the fourth fiscal quarter in the
+case of an annual report) that has materially affected or is reasonably likely to materially affect the registrant's internal control and financial reporting; 
+
+5. The
+registrant's other certifying officer and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant's
+auditors and the audit committee of the registrant's board of directors (or persons performing the equivalent functions): 
+
+a)
+All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant's ability
+to record, process, summarize and report financial information; and 
+
+ b)
+Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant's internal control over financial reporting. 
+
+Date: January 8, 2004 
+
+/s/ JOHN J. COUGHLAN John J. Coughlan President and Chief Executive Officer 
+
+41 
+
+QuickLinks 
+ 
+ Exhibit 31.1 
+ 
+ Certification of Chief Executive Officer Pursuant to Section 302 of the Sarbanes-Oxley Act of 2002 
+
+</EX-31.1>
+
+<EX-31.2>
+ 4
+ a2125899zex-31_2.htm
+ EXHIBIT 31.2
+
+QuickLinks 
+ -- Click here to rapidly navigate through this document 
+
+Exhibit 31.2 
+
+Certification of Chief Financial Officer Pursuant to Section 302 of the Sarbanes-Oxley Act of 2002 
+
+ I,
+Robert G. Barbieri, certify that: 
+
+ 1. I
+have reviewed this quarterly report on Form 10-Q of Lawson Software, Inc.; 
+
+2. Based
+on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in
+light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report; 
+
+ 3. Based
+on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition,
+results of operations and cash flows of the registrant as of, and for, the periods presented in this report; 
+
+4. The
+registrant's other certifying officer and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act
+Rules 13a-15(e) and 15d-15(e)) for the registrant and have: 
+
+a)
+Designed such disclosure controls and procedures or cause such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the
+registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared; 
+
+b)
+Evaluated the effectiveness of the registrant's disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures as
+of the end of the period covered by this report based on such evaluation; and 
+
+ c)
+Disclosed in this report any change in the registrant's internal control over financial reporting that occurred during the registrant's most recent fiscal quarter (the fourth fiscal quarter in the
+case of an annual report) that has materially affected or is reasonably likely to materially affect the registrant's internal control and financial reporting; 
+
+5. The
+registrant's other certifying officer and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the
+registrant's auditors and the audit committee of the registrant's board of directors (or persons performing the equivalent functions): 
+
+a)
+All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant's ability
+to record, process, summarize and report financial information; and 
+
+ b)
+Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant's internal control over financial reporting. 
+
+Date: January 8, 2004 
+
+/s/ ROBERT G. BARBIERI Robert G. Barbieri Executive Vice President and Chief Financial Officer 
+
+42 
+
+QuickLinks 
+ 
+ Exhibit 31.2 
+ 
+ Certification of Chief Financial Officer Pursuant to Section 302 of the Sarbanes-Oxley Act of 2002 
+
+</EX-31.2>
+
+<EX-32.1>
+ 5
+ a2125899zex-32_1.htm
+ EXHIBIT 32.1
+
+QuickLinks 
+ -- Click here to rapidly navigate through this document 
+
+Exhibit 32.1 
+
+CERTIFICATION PURSUANT TO 18 U.S.C. 1350, AS ADOPTED PURSUANT TO SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002 
+
+ In connection with the quarterly report of Lawson Software, Inc. (the "Company") on Form 10-Q for the period ended November 30,
+2003 as filed with the Securities and Exchange Commission on the date hereof (the "Report"), I, John J. Coughlan, President and Chief Executive Officer of the Company, certify, pursuant to 18 U.S.C.
+ 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002, that: 
+
+1. The
+Report fully complies with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act of 1934; and
+ 2. The
+information contained in the Report fairly presents, in all material respects, the financial condition and results of operations of the Company. 
+
+/s/ JOHN J. COUGHLAN John J. Coughlan President and Chief Executive Officer 
+
+January 8, 2004 
+
+A
+signed original of this written statement required by Section 906 has been provided to Lawson Software, Inc. and will be retained by Lawson Software, Inc. and
+furnished to the Securities and Exchange Commission or its staff upon request. 
+
+ 43 
+
+QuickLinks 
+ 
+ Exhibit 32.1 
+ 
+ CERTIFICATION PURSUANT TO 18 U.S.C. 1350, AS ADOPTED PURSUANT TO SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002 
+
+</EX-32.1>
+
+<EX-32.2>
+ 6
+ a2125899zex-32_2.htm
+ EXHIBIT 32.2
+
+QuickLinks 
+ -- Click here to rapidly navigate through this document 
+
+Exhibit 32.2 
+
+CERTIFICATION PURSUANT TO 18 U.S.C. 1350, AS ADOPTED PURSUANT TO SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002 
+
+ In connection with the quarterly report of Lawson Software, Inc. (the "Company") on Form 10-Q for the period ended November 30,
+2003 as filed with the Securities and Exchange Commission on the date hereof (the "Report"), I, Robert G. Barbieri, Executive Vice President and Chief Financial Officer of the Company, certify,
+pursuant to 18 U.S.C. 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002, that: 
+
+1. The
+Report fully complies with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act of 1934; and
+ 2. The
+information contained in the Report fairly presents, in all material respects, the financial condition and results of operations of the Company. 
+
+/s/ ROBERT G. BARBIERI Robert G. Barbieri Executive Vice President and Chief Financial Officer 
+
+January 8, 2004 
+
+A
+signed original of this written statement required by Section 906 has been provided to Lawson Software, Inc. and will be retained by Lawson Software, Inc. and
+furnished to the Securities and Exchange Commission or its staff upon request. 
+
+ 44 
+
+QuickLinks 
+ 
+ Exhibit 32.2 
+ 
+ CERTIFICATION PURSUANT TO 18 U.S.C. 1350, AS ADOPTED PURSUANT TO SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002 
+
+</EX-32.2>
+

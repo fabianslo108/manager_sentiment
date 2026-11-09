@@ -1,0 +1,2978 @@
+<Header>
+<FileStats>
+    <FileName>20040116_10-Q_edgar_data_1048273_0001048273-04-000006.txt</FileName>
+    <GrossFileSize>334844</GrossFileSize>
+    <NetFileSize>74252</NetFileSize>
+    <NonText_DocumentType_Chars>0</NonText_DocumentType_Chars>
+    <HTML_Chars>195669</HTML_Chars>
+    <XBRL_Chars>0</XBRL_Chars>
+    <XML_Chars>0</XML_Chars>
+    <N_Exhibits>4</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0001048273-04-000006.hdr.sgml : 20040116
+<ACCEPTANCE-DATETIME>20040115201442
+ACCESSION NUMBER:		0001048273-04-000006
+CONFORMED SUBMISSION TYPE:	10-Q
+PUBLIC DOCUMENT COUNT:		5
+CONFORMED PERIOD OF REPORT:	20030930
+FILED AS OF DATE:		20040116
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			BRIDGE TECHNOLOGY INC
+		CENTRAL INDEX KEY:			0001048273
+		STANDARD INDUSTRIAL CLASSIFICATION:	COMPUTER PERIPHERAL EQUIPMENT, NEC [3577]
+		IRS NUMBER:				593065437
+		STATE OF INCORPORATION:			NV
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		10-Q
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-31651
+		FILM NUMBER:		04528399
+
+	BUSINESS ADDRESS:	
+		STREET 1:		12601 MONARCH STREET
+		CITY:			GARDEN GROVE
+		STATE:			CA
+		ZIP:			92841
+		BUSINESS PHONE:		7148916508
+
+	MAIL ADDRESS:	
+		STREET 1:		12601 MONARCH STREET
+		CITY:			GARDEN GROVE
+		STATE:			CA
+		ZIP:			92841
+
+</SEC-Header>
+</Header>
+
+ 
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ VHA9BenCaFdfDiaKJjqtWA5qAVHlDgPVt2lmkk71iqY+cJhiKQn5T6fZPXSaGJVL
+ bVE8dAtTvB1QXROrsyB7sg==
+
+ 0001048273-04-000006.txt : 20040116
+
+10-Q
+ 1
+ d10q.htm
+ FORM 10-Q
+
+Form 10-Q 
+
+UNITED
+ STATES 
+
+SECURITIES
+ AND EXCHANGE COMMISSION 
+
+WASHINGTON,
+ D.C. 20549 
+
+FORM 10-Q 
+
+QUARTERLY REPORT PURSUANT
+ TO SECTION 13 OR 15(d) 
+
+OF THE SECURITIES
+ EXCHANGE ACT OF 1934 
+
+For the Quarterly Period Ended September 30, 2003 
+
+TRANSITION REPORT
+ PURSUANT TO SECTION 13 OR 15(d) 
+
+OF THE SECURITIES
+ EXCHANGE ACT OF 1934 
+
+For the Transition Period From 
+ to 
+
+Commission
+ File Number: 000-24767 
+
+BRIDGE TECHNOLOGY, INC. 
+
+(Exact
+ name of registrant as specified in its charter) 
+
+Nevada 
+ 59-3065437 
+
+(State or
+ other jurisdiction of 
+ (I.R.S.
+ Employer 
+
+incorporation
+ or organization) 
+ Identification
+ No.) 
+
+12601
+ Monarch Street, Garden Grove,
+ California 92841 
+
+(Address
+ of principal executive
+ offices) 
+ (Zip Code) 
+
+Registrant s
+ telephone number, including area code: (714)
+ 891-6508 
+
+Indicate by
+ check mark whether the registrant (1) has filed all
+ reports required to be filed by Section 13 or 15(d) of
+ the Securities Exchange Act of 1934 during the preceding
+ 12 months (or for such shorter period that the registrant
+ was required to file such reports), and (2) has been
+ subject to such filing requirements for the past 90 days.
+ Yes
+ No 
+
+Indicate by check mark whether the
+ registrant is an accelerated filer (as defined in Rule
+ 12b-2 of the Exchange Act). Yes No 
+
+The number of shares outstanding of
+ the registrant s common stock as of September 30,
+ 2003 was 12,148,110. 
+
+Table of Contents 
+
+FORM 10-Q 
+
+Bridge Technology, Inc. and
+Subsidiaries 
+
+ FORM 10-Q 
+
+ INDEX 
+
+PART I.
+ Financial Information 
+
+Item 1.
+ Condensed
+ Consolidated Financial Statements 
+ 1 
+
+Item 2. Management s
+ Discussion and Analysis of Financial Condition and
+ Results of Operations 
+ 9 
+
+Item 3.
+ Quantitative
+ and Qualitative Disclosures about Market Risk 
+ 12 
+
+Item 4. Controls and Procedures 
+ 12 
+
+PART II.
+ Other Information 
+
+Item 1.
+ Legal
+ Proceedings 
+ 14 
+
+Item 2. Changes in Securities
+ and Use of Proceeds 
+ 14 
+
+Item 3.
+ Defaults Upon
+ Senior Securities 
+ 14 
+
+Item 4. Submission of Matters to
+ a Vote of Security Holders 
+ 14 
+
+Item 5.
+ Other
+ Information 
+ 14 
+
+Item 6. Exhibits and Reports on
+ Form 8-K 
+ 15 
+
+Signatures 
+ 15 
+
+Table of Contents 
+
+FORM 10-Q 
+
+PART I.
+FINANCIAL INFORMATION 
+
+ ITEM 1. CONDENSED
+CONSOLIDATED FINANCIAL STATEMENTS 
+
+ Bridge Technology, Inc. and Subsidiaries 
+
+ Condensed Consolidated Balance Sheets 
+
+September
+ 30, 
+
+December
+ 31, 
+
+2003 
+
+2002 
+
+(Unaudited) 
+
+(Audited) 
+
+ASSETS 
+
+Current
+ assets: 
+
+Cash
+ and cash equivalents 
+
+987,180 
+
+1,324,118 
+
+Accounts receivable less allowance for
+ doubtful accounts of 604,000 and 293,000, respectively 
+
+7,599,985 
+
+9,175,912 
+
+Other receivables 
+
+254,972 
+
+399,948 
+
+Inventory,
+ net 
+
+6,605,959 
+
+8,135,790 
+
+Assets of subsidiaries
+ held for sale 
+
+3,170,060 
+
+3,170,060 
+
+Total
+ current assets 
+
+18,618,156 
+
+22,205,828 
+
+Property
+ and equipment, net 
+
+332,177 
+
+384,699 
+
+Goodwill, net 
+
+1,949,417 
+
+1,949,417 
+
+Other assets 
+
+112,820 
+
+126,768 
+
+Total assets 
+
+21,012,570 
+
+24,666,712 
+
+LIABILITIES AND
+ SHAREHOLDERS EQUITY 
+
+Current
+ liabilities: 
+
+Bank
+ overdraft 
+
+- 
+
+131,209 
+
+Notes payable 
+
+3,850,066 
+
+3,708,072 
+
+Accounts
+ payable 
+
+3,015,388 
+
+6,648,157 
+
+Income taxes payable 
+
+61,941 
+
+62,839 
+
+Accrued liabilities 
+
+1,474,049 
+
+1,591,797 
+
+Shareholder
+ loan 
+
+1,627,450 
+
+2,050,000 
+
+Current portion of
+ related party loans 
+
+79,950 
+
+79,950 
+
+Liabilities
+ of subsidiaries held for sale 
+
+3,623,117 
+
+3,623,117 
+
+Total current liabilities 
+
+13,731,961 
+
+17,895,141 
+
+Related party loan, less current portion 
+
+868,253 
+
+884,054 
+
+Total liabilities 
+
+14,600,214 
+
+18,779,195 
+
+Minority interest 
+
+977,589 
+
+920,331 
+
+Shareholders 
+ equity 
+
+Common
+ stock; par value 0.01 per share, authorized 100,000,000
+ shares, 12,148,110 and 10,898,110 shares issued and
+ outstanding, respectively 
+
+121,481 
+
+108,981 
+
+Additional paid-in
+ capital 
+
+10,335,080 
+
+10,097,579 
+
+Related
+ party receivable 
+
+(340,000) 
+
+(340,000) 
+
+Treasury stock, 66,000
+ shares at cost 
+
+(2,000) 
+
+(2,000) 
+
+Accumulated
+ deficit 
+
+(4,657,039) 
+
+(4,868,477) 
+
+Accumulated other
+ comprehensive loss 
+
+(22,755) 
+
+(28,897) 
+
+Total
+ shareholders equity 
+
+5,434,767 
+
+4,967,186 
+
+Total
+ liabilities and shareholders equity 
+
+21,012,570 
+
+24,666,712 
+
+See accompanying notes to
+condensed consolidated financial statements. 
+
+Table of Contents 
+
+1 
+
+FORM 10-Q 
+
+Bridge Technology, Inc. and Subsidiaries 
+
+ Condensed Consolidated Statements of Operations and 
+ Other Comprehensive Income (Loss) 
+
+Three Months Ended 
+
+Nine Months Ended 
+
+September 30, 
+
+September 30, 
+
+September 30, 
+
+September 30, 
+
+2003 
+
+2002 
+
+2003 
+
+2002 
+
+(Unaudited) 
+
+(Unaudited) 
+
+(Unaudited) 
+
+(Unaudited) 
+
+Net sales 
+
+21,098,188 
+
+27,387,926 
+
+63,394,609 
+
+79,153,814 
+
+Cost of sales 
+
+19,915,998 
+
+25,980,164 
+
+60,108,814 
+
+75,134,466 
+
+Gross profit from continuing operations 
+
+1,182,190 
+
+1,407,762 
+
+3,285,795 
+
+4,019,348 
+
+Selling, general and administrative expense 
+
+1,230,613 
+
+1,317,588 
+
+3,145,455 
+
+4,002,538 
+
+Income (loss) from continuing operations 
+
+(48,423) 
+
+90,174 
+
+140,340 
+
+16,810 
+
+Other income (expense): 
+
+Interest expense 
+ 
+ (37,743) 
+ 
+ (207,082) 
+ 
+ (81,510) 
+ 
+ (664,644) 
+
+Gain
+ on sale of investment 
+ 
+ - 
+
+- 
+
+- 
+
+536,427 
+
+Gain on forgiveness of
+ debt 
+ 
+ 131,275 
+
+- 
+
+262,550 
+
+- 
+
+Other
+ income 
+
+42,932 
+
+69,211 
+
+60,760 
+
+175,827 
+
+Income (loss) from continuing operations before
+ income tax provision and minority interest 
+
+88,041 
+
+(47,697) 
+
+382,140 
+
+64,420 
+
+Income tax provision 
+
+45,198 
+
+54,290 
+
+113,444 
+
+139,053 
+
+Income (loss) from continuing operations before minority
+		interest 
+
+42,843 
+
+(101,987) 
+
+268,696 
+
+(74,633) 
+
+Minority interest in net income of subsidiaries 
+
+25,213 
+
+28,494 
+
+57,258 
+
+73,912 
+
+Net income (loss) from continuing operations 
+
+17,630 
+
+(130,481) 
+
+211,438 
+
+(148,545) 
+
+Net loss from discontinued operations 
+ 
+ - 
+
+(416,843) 
+ 
+ - 
+
+(1,527,676) 
+
+Net income (loss) 
+
+17,630 
+
+(547,324) 
+
+211,438 
+
+(1,676,221) 
+
+Other comprehensive income (loss) and its components
+ consist of the following: 
+
+Net income (loss) 
+ 
+ 17,630 
+
+(547,324) 
+ 
+ 211,438 
+
+(1,676,221) 
+
+Foreign
+ currency translation adjustment, net of tax 
+
+(361) 
+
+2 
+
+6,142 
+
+(1,616) 
+
+Other comprehensive
+ income (loss) 
+
+17,269 
+
+(547,322) 
+
+217,580 
+
+(1,677,837) 
+
+Basic earnings (loss) per common share: 
+
+Net income (loss) from
+ continuing operations applicable to common shares 
+ 
+ 0.00 
+
+(0.01) 
+ 
+ 0.02 
+
+(0.01) 
+
+Net
+ loss from discontinued operations applicable to
+ common shares 
+ 
+ - 
+
+(0.04) 
+ 
+ - 
+
+(0.14) 
+
+Net income (loss) 
+
+0.00 
+
+(0.05) 
+
+0.02 
+
+(0.15) 
+
+Basic weighted average number of common shares
+ outstanding 
+
+12,146,000 
+
+10,898,110 
+
+11,529,000 
+
+10,879,049 
+
+Diluted earnings per common share: 
+
+Net income from
+ continuing operations 
+ 
+ 0.00 
+
+- 
+
+0.02 
+
+- 
+
+Net
+ loss from discontinued operations 
+ 
+ - 
+
+- 
+
+Net
+ income 
+
+0.00 
+
+- 
+
+0.02 
+
+- 
+
+Diluted weighted average number of common shares
+ outstanding 
+
+13,758,000 
+
+- 
+
+13,141,000 
+
+- 
+
+See accompanying notes to
+condensed consolidated financial statements. 
+
+Table of Contents 
+
+2 
+
+FORM 10-Q 
+
+Bridge Technology, Inc. and Subsidiaries 
+
+ Condensed Consolidated Statements of Cash Flows 
+
+Nine Months
+ Ended 
+
+September 30, 
+
+September 30, 
+
+2003 
+
+2002 
+
+(Unaudited) 
+
+(Unaudited) 
+
+Cash flows from operating activities from continuing
+		operations 
+
+Net income
+ (loss) from continuing operations 
+ 
+ 211,438 
+
+(148,545) 
+
+Adjustments to reconcile net income (loss) from continuing
+		operations to
+ net cash (used in) provided by operating activities: 
+
+Depreciation
+ and amortization 
+ 
+ 54,155 
+
+382,712 
+
+Provision for doubtful accounts 
+
+311,318 
+
+173,485 
+
+Gain on
+ forgiveness of debt 
+ 
+ (262,550) 
+ 
+ - 
+
+Gain (loss) on sale of investment 
+
+- 
+
+(536,373) 
+
+Stock compensation 
+ 
+ - 
+
+114,399 
+
+Stock
+ issued for services 
+ 
+ 50,000 
+
+- 
+
+Minority interest 
+
+57,258 
+
+73,912 
+
+Changes in
+ operating assets and liabilities: 
+
+Restricted
+ cash 
+ 
+ - 
+
+(198,115) 
+
+Trade receivables 
+
+1,264,609 
+
+2,834,522 
+
+Inventory 
+
+1,529,831 
+
+5,983,195 
+
+Other
+ receivables 
+
+144,976 
+
+515,959 
+
+Other assets 
+ 
+ 13,948 
+
+(47,693) 
+
+Accounts payable 
+
+(3,632,769) 
+
+(5,657,252) 
+
+Income taxes
+		payable 
+
+(898) 
+
+294,309 
+
+Accrued liabilities 
+ 
+ (117,748) 
+ 
+ 202,205 
+
+Net cash (used in) provided by operating
+ activities 
+ 
+ (376,430) 
+
+3,986,720 
+
+Cash flows from investing activities 
+
+Purchase
+ of property and equipment 
+
+(1,635) 
+
+(95,838) 
+
+Proceeds
+ from sale of investment 
+ 
+ - 
+
+645,094 
+
+Net cash
+ (used in) provided by investing activities 
+
+(1,635) 
+
+549,256 
+
+Cash flows from financing activities 
+
+Bank
+ overdraft 
+ 
+ (131,209) 
+ 
+ 29,480 
+
+Repayment of shareholder loan 
+ 
+ - 
+
+(11,902) 
+
+Repayments on loans payable 
+ 
+ - 
+
+(34,999) 
+
+Proceeds
+ from notes payable 
+
+141,994 
+
+(4,545,924) 
+
+Repayments on notes payable 
+
+- 
+
+(80,000) 
+
+Proceeds
+ from related party loans 
+
+40,000 
+
+1,000,000 
+
+Repayments of related party loans 
+
+(15,801) 
+
+(29,021) 
+
+Net cash provided by (used in) financing
+ activities 
+
+34,984 
+
+(3,672,366) 
+
+Effect of exchange rate changes on cash 
+
+6,142 
+
+(1,849) 
+
+Net cash (used in)
+		provided by
+		continuing operations 
+
+(336,938) 
+
+861,761 
+
+Net
+		cash used in discontinued operations 
+ 
+ - 
+
+(1,527,676) 
+
+Net increase in cash and cash equivalents 
+
+(336,938) 
+
+(665,915) 
+
+Cash and cash equivalents, beginning of
+ period 
+
+1,324,118 
+
+2,413,295 
+
+Cash and cash equivalents, end of period 
+
+987,180 
+
+1,747,380 
+
+Supplemental information: 
+
+Cash
+ paid during the period for: 
+
+Interest 
+
+146,331 
+
+376,907 
+
+Income taxes 
+
+- 
+
+2,586 
+
+See the
+ accompanying notes to condensed consolidated financial statements for
+		additional disclosure of non-cash investing and financing
+ activities. 
+
+See accompanying notes to
+condensed consolidated financial statements. 
+
+Table of Contents 
+
+3 
+
+FORM 10-Q 
+
+Bridge Technology, Inc. and Subsidiaries 
+
+ Notes to Condensed Consolidated Financial Statements 
+
+ (Unaudited) 
+
+ Note 1. Organization and Business 
+
+ Bridge Technology, Inc. the
+Company was incorporated under the laws of the State of
+Nevada on April 15, 1969. Starting from April 1997, the
+Company registered to do business in the State of California and
+is primarily engaged in development and distribution of various
+hardware, software, and peripheral products used in computer
+systems and sales to value added resellers and system
+integrators. 
+
+ As of September 30, 2003, the Company has the
+following subsidiaries: 
+
+Ownership 
+
+Bridge
+ R D, Inc. 
+ 
+ 100 
+ 
+ Established
+ on June 1, 1997 
+
+Newcorp Technology
+ Limited (Japan) 
+ 
+ 100 
+ 
+ Merged on November 1,
+ 1997 
+
+15 
+ 
+ 85 
+ disposed in 2001 
+
+PTI Enclosures, Inc. 
+ 
+ 100 
+ 
+ Merged on December 14,
+ 1998 
+
+Newcorp
+ Technologies, Inc. (USA) 
+ 
+ 100 
+ 
+ Established
+ on March 23, 1999, inactive 
+
+Pacific Bridge Net 
+ 
+ 80 
+ 
+ Established on August 16,
+ 1999 and ceased operation in 2000. 
+
+CMS
+ Technology Ltd. CMS 
+ 
+ 90 
+ 
+ Acquired
+ on January 3, 2000 (60 
+
+Acquired
+ on May 15, 2000 (30 
+
+Autec Power Systems, Inc. 
+ 
+ 100 
+ 
+ Merged on December 1,
+ 1999 - discontinued operation 
+
+Bridge
+ Technology Co., Ltd., Ningbo, China 
+ 
+ 100 
+ 
+ Established
+ on May 28, 2001 - discontinued operation 
+
+Note 2. Basis of Presentation and
+Liquidity 
+
+ The accompanying unaudited condensed
+consolidated financial statements have been prepared in
+accordance with accounting principles generally accepted in the
+United States of America for interim financial information and
+with the instructions to Form 10-Q and Article 10 of Regulation
+S-X. Accordingly, they do not include all the information and
+footnotes required by accounting principles generally accepted in
+the United States of America for complete financial statements.
+In the opinion of management, all adjustments (consisting only of
+normal recurring adjustments) considered necessary for fair
+presentation have been included. All significant intercompany
+transactions have been eliminated. Operating results for the
+three and nine month periods ended September 30, 2003 are not necessarily
+indicative of the results that may be expected for the year
+ending December 31, 2003. For further information, refer to the
+consolidated financial statements and footnotes thereto included
+in the Company s annual report on Form 10-K for the year
+ended December 31, 2002. 
+
+ The accompanying unaudited condensed
+consolidated financial statements have been prepared assuming
+that the Company will continue as a going concern. As of September 30, 2003, the Company
+reported a net
+income of
+ 211,438 and had cash of (476,429) provided from its continuing operations.
+Management has undertaken certain actions in an attempt to
+improve the Company s liquidity and
+profitability. 
+
+ The Company continued to encounter a difficult trading
+environment in the United States while its overseas markets prosper. 
+
+ The Company has a revolving line of credit, as amended, from a
+commercial bank at the prime rate (4.0 at September 30, 2003.) The outstanding
+balance at September 30, 2003 of approximately 2,850,000 matured on June 30,
+2003. The note is collateralized by substantially all the assets located in the
+United States, including approximately 2,002,000 of accounts receivable and
+ 1,005,000 of inventory. In addition, the Company has granted the bank a
+security interest in 65 of all issued and outstanding common stock of CMS
+Technology Ltd., Hong Kong and has caused the subordination of loans by
+principals of the Company totaling 2,050,000. The Company had not repaid the
+bank for amounts due under the line of credit and therefore was in default. On
+October 20, 2003 the Company entered into a forbearance and release agreements
+with the bank. Pursuant to the terms of the forbearance agreement the bank and
+the Company agreed to a 100,000 curtailment of principal, which was made on
+October 20, 2003, and to forbear from foreclosure on its security interests and
+otherwise exercising any and all of its rights and remedies in law or equity in
+order to allow the Company time to cure the default under the note until
+December 31, 2003. The Company is in loan discussions with other banks. Additionally, the Company upon reporting
+its earnings for the nine month period ending September 30, 2003,
+expects to enter into a new credit facility with an international
+bank, the proceeds of which would pay off in full the existing
+obligations with its current bank. While several banks have given
+the Company indications of interest provided that the Company
+reports earnings for the first nine months of 2003, no assurances
+can be given that the Company will successfully complete the
+refinancing plans or that any such refinancing will be in terms favorable to the
+Company. As of the date of this filing, the Company has yet to enter into an
+agreement with a new bank nor has any bank made a commitment to do so. The
+Company is requesting additional time to take out its current bank, and there is
+no assurance that its current bank will agree to any further time extension. 
+
+ On
+August 4, 2003, the Company received a delisting notice from the
+NASDAQ Small Cap Market System because it had not filed its Form 10-K
+for the year ended December 31, 2002. The Company filed its
+2002 Form 10-K on November 25, 2003. The Company has filed for an application for
+review with the Securities and Exchange Commission SEC as provided by Rule 420 of the SEC Rules of
+Practice to appeal the NASDAQ Listing and Hearing Review Council
+decision to delist the Company without giving the Company the
+benefit of an additional hearing. Management believes that the
+Company has the economic ability to maintain and grow its
+operations for the foreseeable future. In addition to its General
+Bank negotiations for a loan extension. The Company is in
+loan discussions with other banks. The
+Company is negotiating with James Djen, the Company s
+President, to convert his 1,000,000 demand loan (included in
+Shareholder Loan in the accompanying condensed consolidated balance sheets) into equity
+in order to improve the Company s working capital position.
+Mr. Djen, as of December 31, 2002, has agreed to convert 200,000
+into equity which was effected in May 2003. In addition, the
+Company has negotiated an increase in its credit facility with a
+Hong Kong bank from 1,500,000 to 7,000,000. Operationally,
+management s plans include continuing actions to cut or curb
+nonessential expenses and focusing on improving sales and earnings. No
+assurances can be given that the Company will be successful in
+replacing its U.S. bank with a new bank or that the Company
+will be able to maintain profitable operations. 
+
+Table of Contents 
+
+4 
+
+FORM 10-Q 
+
+Note 3. Reclassification 
+
+ Certain amounts in the condensed consolidated financial
+statements for September 30, 2002 have been reclassified to conform
+to the September 30, 2003 presentation. Such reclassification had no
+effect on shareholders equity as previously reported. 
+
+ Note 4. Earnings Per Share EPS Computation 
+
+ Statement of Financial Accounting Standards SFAS No. 128 Earnings Per Share requires presentation of basic and diluted
+earnings per share. Basic earning/loss per share is computed by dividing net income or loss available to common shareholders by the weighted average number of common shares outstanding for the reporting period. Diluted earnings per share reflects the potential dilution that could occur if securities or other contracts, such as stock options and warrants to issue common stock, were exercised or converted into common stock. 
+ The following table sets forth the computation of basic and diluted
+income (loss) per common share: 
+
+Three
+		Months Ended 
+
+Nine Months
+		Ended 
+
+September 
+		30, 
+
+September 30, 
+
+2003 
+
+2002 
+
+2003 
+
+2002 
+
+Numerator: 
+
+Income (loss) from continuing operations 
+
+17,630 
+
+(130,481 
+
+211,438 
+
+(148,545 
+
+Loss from discontinued operations, net 
+
+- 
+
+(416,843 
+
+- 
+
+(1,527,676 
+
+Net income (loss) 
+
+17,630 
+
+(547,324 
+
+211,438 
+
+(1,676,221 
+
+Denominator: 
+
+Basic weighted average outstanding shares of common stock 
+
+12,146,000 
+
+10,898,110 
+
+11,529,000 
+
+10,879,049 
+
+Diluted weighted average outstanding shares of common stock 
+
+13,758,000 
+
+- 
+
+13,141,000 
+
+- 
+
+Basic earnings (loss) per common
+			share: 
+
+Net income (loss) from continuing operations 
+
+0.00 
+
+(0.01 
+
+0.02 
+
+(0.01 
+
+Net loss from
+discontinued operations 
+
+- 
+
+(0.04 
+
+- 
+
+(0.14 
+
+Net
+			income (loss) 
+
+0.00 
+
+(0.05 
+
+0.02 
+
+(0.15 
+
+Diluted earnings per common share: 
+
+Net income from continuing operations 
+
+0.00 
+
+- 
+
+0.02 
+
+- 
+
+Net income from discontinued
+operations 
+
+- 
+
+- 
+
+- 
+
+- 
+
+Net
+			income 
+
+0.00 
+
+- 
+
+0.02 
+
+- 
+
+For the three and nine months ended September 30, 2002,
+Potential dilutive securities were not included in the EPS calculation since
+their effect would be antidilutive. Potential dilutive securities consisted of
+outstanding stock options and stock warrants. The Company 
+reported a net loss for both the three and nine-month periods ended 
+September 30, 2002. As a result, 12,510,110 and 12,491,049 shares of common stock issuable upon exercise of stock options and warrants have been excluded
+from the calculation of diluted loss per share for the respective three and
+nine-month periods because the inclusion of such stock options and warrants
+would be antidilutive. 
+
+ Note 5. Stock-Based Employee Compensation 
+
+ The Financial Accounting Standards Board FASB issued SFAS No. 148, Accounting for Stock Based Compensation -Transition and Disclosure - an amendment of SFAS No. 123. SFAS No. 148 amends SFAS No. 123,
+	 Accounting for Stock-Based Compensation, to provide alternative methods of transition for a voluntary change to the fair-value-based method of accounting for stock-based employee compensation. In addition, SFAS No. 148 amends the disclosure requirements of SFAS No. 123 to require prominent disclosures in both annual and interim financial statements about the method of accounting for stock-based employee compensation and the effect of the method used on reported results. As provided in SFAS No. 123, the
+Company has elected to apply Accounting Principles Board APB Opinion No. 25
+	 Accounting for Stock Issued to Employees and related interpretations in accounting for its stock-based employee compensation plans. APB No. 25 does not require options to be expensed when granted with an exercise price equal to
+or greater than fair market value. The Company is complying with the disclosure requirements of SFAS No. 148. 
+ No stock options nor warrants were granted nor vested during the quarter ended September
+30, 2003. 
+	 Had the Company determined employee compensation cost based on the fair value at the grant date for its options under SFAS No. 123, the Company s net
+	income (loss) would have been as indicated below: 
+
+Table of Contents 
+
+5 
+
+FORM 10-Q 
+
+Three
+			Months Ended 
+
+Nine
+			Months Ended 
+
+September 30, 
+
+September 30, 
+
+2003 
+
+2002 
+
+2003 
+
+2002 
+
+Net income (loss) as reported 
+
+17,630 
+
+(547,324 
+
+211,438 
+
+(1,676,221 
+
+Less: Total stock-based employee compensation expense determined under Black-Scholes option pricing model 
+				 
+				 - 
+
+- 
+
+- 
+
+- 
+
+Pro forma income (loss) 
+
+17,630 
+
+(547,324 
+
+211,438 
+
+(1,676,221 
+
+Basic earnings (loss) per common share 
+
+As reported 
+
+0.02 
+
+(0.05 
+
+0.00 
+
+(0.15 
+
+Pro forma 
+
+0.02 
+
+(0.05 
+
+0.00 
+
+(0.15 
+
+Diluted earnings per common share 
+
+As reported 
+
+0.02 
+
+- 
+
+0.00 
+
+- 
+
+Pro forma 
+
+0.02 
+
+- 
+
+0.00 
+
+- 
+
+The calculation
+				above was only based on net income because the employee
+				compensation expense determined under Black-Scholes option
+				pricing model was zero. 
+
+Note 6. Inventory 
+
+ Inventory consisted of the following as of: 
+
+September 30, 
+
+December
+ 31, 
+
+2003 
+
+2002 
+
+Service
+ parts 
+
+698,677 
+
+782,125 
+
+Work in progress 
+ 
+ 205,275 
+
+161,403 
+
+Finished
+ goods 
+
+6,125,007 
+
+7,448,262 
+
+Reserve for obsolete
+ inventory 
+ 
+ (423,000) 
+ 
+ (256,000) 
+
+6,605,959 
+
+8,135,790 
+
+Note 7. Goodwill 
+
+ SFAS No. 142 Goodwill and Other Intangible Assets. 
+requires that goodwill and indefinite life intangible
+assets not to be amortized but shall be reviewed at least annually, for impairment.
+The Company discontinued the amortization of its goodwill
+effective January 1, 2002. The initial testing of
+goodwill for possible impairment was completed in
+August 2002, and no impairment was indicated. Management is
+in the process of conducting its annual testing of goodwill for
+possible impairment. 
+
+ In accordance with SFAS No. 142, prior
+period amounts are not restated. A reconciliation of reported net
+income (loss) from continuing operations to net income (loss) from continuing
+operations adjusted for the exclusion of amortization of goodwill
+and indefinite life intangible assets follows: 
+
+September 30, 
+
+2003 
+
+2002 
+
+Reported net income (loss) from continuing operations 
+
+211,438 
+
+(148,545) 
+
+Add back: Goodwill
+ amortization 
+ 
+ - 
+
+- 
+
+Adjusted
+ net income (loss) from continuing operations 
+ 
+ 211,438 
+
+(148,545) 
+
+Basic weighted average number of common shares
+ outstanding 
+ 
+ 12,146,000 
+
+10,898,110 
+
+Basic
+ earnings (loss) per common share 
+
+0.02 
+
+(0.01) 
+
+Adjusted
+ basic earnings (loss) per common share 
+ 
+ 0.02 
+
+(0.01) 
+
+Diluted weighted average number of common shares
+ outstanding 
+ 
+ 13,758,000 
+
+- 
+
+Diluted
+ earnings per common share 
+
+0.02 
+
+- 
+
+Adjusted
+ diluted earnings per common share 
+ 
+ 0.02 
+
+- 
+
+Table of Contents 
+
+6 
+
+FORM 10-Q 
+
+The Company engaged an independent appraisal
+firm to conduct a valuation on the impairment of goodwill in
+August 2002. Based on the results of a valuation report provided by
+the valuation service firm, no impairment was recognized as of
+		September 30, 2003. 
+
+ Note 8. Notes Payable 
+
+ Note Payable to U.S. Bank 
+		 The Company has a revolving line of credit, as amended, from a commercial bank at the prime rate (4.0 at
+		September 30, 2003) which matured on June 30, 2003. The outstanding balance at
+		September 30, 2003 was approximately 2,850,000. The note is collateralized by substantially all the assets located in the United States, including approximately 2,002,000 of accounts receivable and 1,005,000 of inventory. In addition, the Company has granted the bank a security interest in 65 of all issued and outstanding common stock of CMS Technology Ltd., Hong Kong
+		held by the Company and has caused the subordination of loans by principals of the Company totaling 1,818,725. The Company had not repaid the bank for amounts due under the line of credit
+		on June 30, 2003 and therefore was in default. On October 20, 2003 the Company entered into a forbearance agreement and release agreement with the bank. Pursuant to the terms of the forbearance agreement the bank
+		and the Company agreed to a 100,000 curtailment of principal, which was
+		made on October 20, 2003, and to forbear from foreclosure on its security interests and otherwise exercising any and all of its rights and remedies in law or equity in order to allow the Company time to cure the default under the note and to pay the obligations of the Company to the bank under the note until December 31, 2003.
+		The Company is requesting additional time to take out its current bank,
+		and there is no assurance that its current bank will agree to any
+		further time extension. 
+ Note 9. Foreign Currency Translation 
+
+ Assets and liabilities of the Company s Chinese operations are translated into U.S. dollars at period-end exchange rates; equity transactions are translated at historical rates; and income and expense are translated at weighted average exchange rates for the period. Net exchange gains or losses resulting from such translation are excluded from net earnings
+or loss but are included in other comprehensive income and accumulated in a separate component of stockholders equity. Accumulated
+other comprehensive loss approximated 23,000 at
+September 30, 2003. Foreign currency translation adjustment amounted to a loss
+in the amount of 361 and 1,177 for the three months ended September 30, 2003
+and 2002, respectively and an income and loss in the amount of 6,142 and 3,028
+for the nine months ended September 30, 2003. 
+		 Note 10. Shareholders Equity 
+
+ On May 12, 2003, James Djen, the Company s President converted 200,000
+of his personal loans to the Company, into 1,000,000
+shares of the Company s common stock at 0.20 per share. The Company
+believes the per share price was at fair market value. 
+ On May 19, 2003, the Company issued 200,000 shares of common
+stock to an investment company, 25,000 proceeds was received. The Company
+believes the per share price was at fair market value. 
+
+ On July 3, 2003, the Company issued 50,000
+shares of common stock for legal services, valued at 25,000. The Company
+believes the per share price was at fair market value. 
+
+ Note 11. Commitments and Contingencies 
+
+ Capital Commitments 
+
+ The Company had committed to the Chinese government to
+contribute total registered capital of 10,000,000 to the Ningbo facility by May
+2004. Management believes that the commitment was changed by mutual consent to
+ 4,000,000 with final payment having been made in the first quarter of 2003.The Company has
+not received written acknowledgement of the revised commitment
+from the Chinese government. As a result, there could be no assurance that the Chinese government
+will recognize the mutual consent to reduce the commitment from 10,000,000 to 4,000,000. 
+
+ Litigation 
+
+ The Company is a party to legal actions that
+have arisen in the normal course of business. These actions
+include the following: 
+
+ On October 1, 2001, a complaint was filed by the Trustee in
+the U.S. Bankruptcy Court against John Harwer, former President of the Company
+and the Company for alleged transfer of assets, technology, trade secrets,
+confidential information and business opportunities from Allied Web, a
+corporation owned by John Harwer which he had placed into liquidation under the
+Federal Bankruptcy laws on April 6, 2000. The case has entered the trial
+phase with the initial hearing centering on 1,800,000 in claims between the
+parties which do involve the Company. The trial judge has
+ordered the case back to mediation in connection with these
+claims on November 17, 2003. Settlement negotiations are expected to continue up
+to the February 2004 trial date. Management at September 30, 2003 was
+unable to assess the possibility of incurring future liability
+for this matter and therefore did not record any accrued
+liability. Management continues to take the position that no
+liability will accrue to the Company and no contingency has been
+provided. The Company has incurred in excess of 300,000 to
+date in legal fees to defend itself. The Company has submitted its legal
+fees in excess of a 150,000 deductible clause to its Directors and
+Officers insurance carrier, who, to date, has not accepted responsibility. The
+Company plans to take appropriate legal action against its insurance carrier if
+the legal costs are not reimbursed. There is no assurance that any claim
+for legal fees reimbursement will be successful. 
+
+Table of Contents 
+
+7 
+
+FORM 10-Q 
+
+On December 12, 2001, a former shareholder of Autec Power
+Systems filed a complaint in Ventura County Superior Court against the principal
+shareholder and former chairmen of the Company, Winston Gu, Autec and the
+Company alleging that the complainant did not receive his pro-rata shares of the
+Company common stock in the exchange for 100 of the shares of Autec. The
+complaint was adjudicated in November 2003 by a mandatory court directed
+arbitration. In the arbitrator s decision, issued in December 2003, all claims
+against the Company were dismissed. 
+
+ On May 19, 2003, a complaint was filed in Superior Court in
+Santa Ana, California, against the Company, its CFO and its former President,
+John Harwer, in connection with Mr. Harwer s private sale of the Company s
+common stock to a third party investor. The complaint also contends that the
+same investors purchased shares of a private corporation, Esyon Corporation,
+from either John Harwer or Esyon corporation, and are attempting to involve
+Bridge Technology, Inc. in this second private transaction. The case has been
+submitted to the Company s D O carrier, but no coverage decision has yet been
+rendered. The Company believes it has meritorious defenses to the claims alleged
+in this action that would limit, if not bar, any recovery. However, until
+discovery has been completed, including depositions and exchange of documents,
+the actual merits of the action cannot be determined. The trial date for this
+case has been set as April 19, 2004. 
+
+ Concentrations 
+
+ CMS signed an OEM distribution agreement with International Business Machines Corporation IBM on June 24, 1998 to distribute IBM hard disks and other products in Hong Kong, China, Vietnam and the Philippines. Such an agreement was extended through February 24, 2002. In mid 2002, IBM reached an agreement with Hitachi Global Storage Technologies Singapore, Pte Ltd. HITACHI to combine their hard drives operations. It was confirmed by HITACHI that the Company s status of authorized distributor would be extended to February 24, 2004.
+The Company expects HITACHI to renew its verbal extension with a written
+agreement. This has led the Company to become heavily reliant on one supplier for its products. It accounted for approximately
+98 of total purchases of CMS during the nine months ended September 30, 2003 and the year ended December 31, 2002. 
+
+ Other Contingencies 
+
+Nasdaq, in delisting the Company s stock from
+trading on the NASDAQ Small Cap Market System delegated the Company on to the Pink Sheets where there is little or no
+trading and bypassing the NASDAQ OTC Bulletin Board. Trading on the OTC
+Bulletin Board is expected to commence after the Company files its Form 10-Qs for the quarters ended
+March 31, 2003, June 30, 2003 and September 30, 2003. 
+
+ Note 12. Discontinued operations 
+
+ SFAS No. 144,
+ Accounting for the Impairment or Disposal of Long-Lived
+Assets superseded
+SFAS 121, Accounting for the Impairment of Long-Lived
+Assets and for Long-Lived Assets to Be Disposed Of. The
+primary objectives of SFAS 144 are to develop one accounting
+model based on the frame work established in SFAS 121 for
+long-lived assets to be disposed of by sale and to address
+significant implementation issues regarding impairment of
+long-lived assets held for use. 
+		 The Company s Board of Directors having the authority to approve, mandate and commit to a plan to sell any of its subsidiaries agreed in principle in December 2002 to distribute its subsidiary, Autec Power System, Inc. Autec ), including Autec s wholly owned subsidiary Bridge Technology Co., Ltd., Ningbo, to a shareholder, in exchange for shares
+		of
+		the Company and other consideration. Although the transaction was not closed as of December 31, 2002, the directors relinquished control of the subsidiaries and ceased to have any continuing involvement as of December 31, 2002.
+		The subsidiaries were set up for an impending sale, which was completed
+		by December 31, 2002. Therefore, under SFAS No.144, the subsidiaries met the criteria for being classified as held for sale and reported as discontinued operations at December 31, 2002 and
+		September 30, 2003. 
+
+ Implementation of SFAS 144 impacted income
+statement classification only and had no effect on results
+of operations. 
+
+ Note 13. Segment Information 
+
+ The following tables set forth the
+Company s financial performance by reportable operating
+segments. 
+
+ Industry segments: 
+
+ The Company has changed its operations to essentially a
+marketing and distribution company all within one segment, computer components. 
+
+ Geographic segments: 
+
+Table of Contents 
+
+8 
+
+FORM 10-Q 
+
+Geographic segments from continuing operations: 
+
+United
+ States 
+
+Asia 
+
+Total 
+
+Total assets as
+		December 31, 2002 
+
+10,071,899 
+
+14,594,813 
+
+24,666,712 
+
+Total assets as
+		September 30, 2003 
+
+8,788,349 
+
+12,224,221 
+
+21,012,570 
+
+Three
+ months ended September 30, 2002: 
+
+Total revenues 
+ 
+ 4,927,003 
+
+22,460,923 
+
+27,387,926 
+
+Profit loss 
+
+(331,851 
+
+201,370 
+
+(130,481 
+
+Three
+ months ended September 30, 2003: 
+
+Total revenues 
+ 
+ 2,491,173 
+
+18,607,015 
+
+21,098,188 
+
+Profit loss 
+
+(209,286 
+
+226,916 
+
+17,630 
+
+Nine months
+ ended September 30, 2002: 
+
+Total revenues 
+ 
+ 14,855,945 
+
+64,297,869 
+
+79,153,814 
+
+Profit loss 
+
+(813,755 
+
+665,210 
+
+(148,545 
+
+Nine months
+ ended September 30, 2003: 
+
+Total revenues 
+ 
+ 11,315,267 
+
+52,073,342 
+
+63,394,609 
+
+Profit loss 
+
+(303,886 
+
+515,324 
+
+211,438 
+
+Note 14. Related Party Transactions 
+		 During the quarter ended September 30, 2003, James
+		Djen, the Company s president, forgave 131,275 that was due to him from
+		the Company Shareholder loan on the accompanying condensed consolidated balance
+		sheet was debited by this amount with a corresponding
+		credit to gain on forgiveness of debt on the
+		condensed consolidated statements of operations and other comprehensive
+		income. 
+
+ ITEM
+2. MANAGEMENT S DISCUSSION AND ANALYSIS OF FINANCIAL
+CONDITION AND RESULTS OF OPERATIONS 
+
+ The information in this Form 10-Q is
+intended to update the information in the
+Company s Annual Report on Form 10-K for the year ended
+December 31, 2002, previously filed with the SEC, and presumes that readers have access to,
+and will have read, the Management s Discussion and
+Analysis of Financial Condition and Results of Operations 
+and other information contained in such Form 10-K. 
+
+ The information in this discussion contains
+forward-looking statements within the meaning of Section 27A of
+the Securities Act of 1933, as amended and Section 21E of the
+Securities Exchange Act of 1934, as amended (the 34
+Act ). Such statements are based upon current expectations
+that involve risks and uncertainties. Any statements
+contained herein that are not statements of historical facts may
+be deemed to be forward-looking statements. For example, words
+such as may , will , should ,
+ estimates , predicts ,
+ potential , continue ,
+ strategy , believes , expects ,
+ anticipates , plans , intends ,
+and similar expressions are intended to identify forward-looking
+statements. Our actual results and the timing of certain events
+may differ significantly from the results discussed in the
+forward-looking statements. 
+
+ The following discussion should be read in
+conjunction with the accompanying unaudited condensed
+Consolidated Financial Statements and related Notes thereto and
+the Consolidated Financial Statements and the Notes thereto
+contained in the Annual Report on Form 10-K for the year ended
+December 31, 2002. 
+		 
+		Critical Accounting Policies 
+		 Our condensed consolidated financial statements have been
+		prepared in accordance with accounting principles generally accepted in
+		the United States of America. The preparation of these financial
+		statements requires us to use estimations and assumptions and make
+		judgments that affect the reported amounts of assets, liabilities,
+		revenues and expenses. We based our estimations on historical experience
+		and/or on various other assumptions that we believe to be reasonable
+		under the circumstances, the result of which form the basis for making
+		judgments about the carrying value of assets and liabilities that are
+		not readily apparent from other sources. Actual results may differ from
+		these estimates under different assumptions and conditions. Our critical
+		accounting policies are as follows: 
+ Rebates and Credits Receivable 
+ CMS Technology Ltd. CMS ), one of our subsidiaries, is an
+authorized distributor of IBM and now HITACHI products in the territory
+including China, Vietnam, Philippines and Hong Kong. As a common practice in the
+computer parts distribution business, HITACHI periodically updates its price
+list for all its products and provides certain incentive programs to attract its
+authorized distributors to sell more of its products. As a result of changes in
+price list (usually decreases in prices), CMS is entitled to receive certain
+rebates and credits for the inventory held and sold by the Company within the
+specified period of time as defined by HITACHI through submitting the necessary
+applications forms. In general, once applications are approved by HITACHI these
+rebates and credits approved by HITACHI will be deducted from CMS s accounts
+payable to HITACHI and decrease the cost of goods sold correspondingly. However,
+at the end of the reporting period, CMS has to estimate the relevant rebates and
+credit receivable based on the quantity of inventory on hand and anticipated
+approval for rebates and credits receivable from HITACHI, therefore, the actual
+results could differ from our estimated amount. 
+
+Table of Contents 
+
+9 
+
+FORM 10-Q 
+
+Impairment of Long-Lived Assets 
+ In assessing the recoverability of long-lived assets,
+including goodwill and other intangibles, we must make assumptions regarding
+estimated future cash flows and other factors to determine the fair value of the
+respective assets. If these estimates or their related assumptions change in the
+future, we may be required to record impairment charges for these assets not
+previously recorded. 
+
+ Results of Continuing Operations for
+the Three Months Ended September 30, 2003 as Compared to the Three
+Months Ended September 30, 2002 
+
+ Comparability is impacted due to the
+presentation of two wholly-owned subsidiaries for the three
+months ended September 30, 2003, as discontinued operations. For more
+information on discontinued operations, see Note 12 to the
+condensed consolidated financial statements. 
+
+ Net sales of 21,098,188 for the three months
+ended September 30, 2003 decreased by 6,289,738, representing
+approximately a 23.0 decrease, over net sales of 27,387,926 for
+the same period of 2002. The decrease was due primarily to the
+decrease of 2,435,830 in U.S. operations and 3,853,908 in Asia
+operations. 
+
+ Asia revenue for the three months ended September 30, 2003 was 18,607,015 compared to 22,460,923 for the three
+months ended September 30, 2002, a decrease of 3,853,908 or 17.2 .
+The decrease relates primarily to lower sales volume at CMS
+Technology Limited CMS in Hong Kong as a result of a decrease in
+available working capital of 1,000,000 in November 2002 which was paid to the
+Company as a dividend from CMS. 
+
+ United States revenues for the three months
+ended September 30, 2003 were 2,491,173 compared to 4,927,003 for
+the three months ended September 30, 2002, a decrease of 2,435,830 or
+49.4 . Decreases relate primarily to decreased sales at PTI
+Enclosures, Inc. PTI and Classic Trading, Inc. CTI in
+distribution business. 
+
+ Gross profit for the three months ended September 30, 2003 was 1,182,190 decreasing by 225,572 and representing
+approximately a 16.0 decrease, compared to 1,407,762 for the
+same period of 2002. The reason for this decrease is due mainly
+to the decrease in sales of both U.S. and Asia markets for the quarter ended September 30, 2003. Gross profit as a percentage of net sales increased
+from 5.1 for the three months ended September 30, 2002 to 5.6 for
+the three months ended September 30, 2003. The increase is principally
+due to the higher margin generated through the sales of CMS. 
+
+ Asia gross profit as a percentage of sales for
+the three months ended September 30, 2003 was 5.9 compared to 4.2 
+for the three months ended September 30, 2002. 
+
+ United States gross profit as a percentage of
+sales for the three months ended September 30, 2003 was 3.1 compared
+to 9.6 for the three months ended September 30, 2002. The decrease is
+primarily attributable to decreased gross margins at CTI. 
+
+ Selling, general and administrative expenses
+decreased by 86,975 to 1,230,613 in the three months ended September 30, 2003 compared to 1,317,588 for the three months ended
+September 30, 2002. As a percentage of revenue, these expenses
+increased from 4.8 in the three months ended September 30, 2002 to
+5.8 in the three months ended September 30, 2003. 
+
+ Operating income/loss from continuing operations decreased from an
+income
+of 90,174 for the three months ended September 30, 2002 to a loss
+of 48,423 in the three months ended September 30, 2003. Loss from operations as a percentage of revenue decreased from
+0.33 for the three months ended September 30, 2002 to a loss from
+operations as a percentage of revenue to 0.23 for the three
+months ended September 30, 2003. 
+
+ Net interest expense decreased by 169,339 from
+ 207,082 for the three months ended September 30, 2002 to 37,743 for the three months ended September 30, 2003. The
+decrease is mainly the result of decreased borrowings from
+shareholders and commercial bank and a lower interest rate during
+the three months ended September 30, 2003. The decrease also reflected
+retro-adjustments on interest rate for shareholders loans. 
+
+ Other income increased by 274,335 from (137,871)
+for the three months ended September 30, 2002 to 136,464 for the
+three months ended September 30, 2003. The main source for this
+decrease is due to lower interest expense in 2003 and gain on forgiveness on
+debts. 
+
+ Net income/loss from continuing operations increased by 148,111 from net loss
+of 130,481 for the three months ended September 30, 2002 to net income of 17,630 for the three months ended September 30, 2003. These
+results reflect a gain of 0.01 per share for the three months
+ended September 30, 2003. 
+
+ Results of Continuing Operations for
+the Nine Months Ended September 30, 2003 as Compared to the Nine Months
+Ended September 30, 2002 
+
+ Comparability is impacted due to the
+presentation of two wholly-owned subsidiaries for the nine months
+ended September 30, 2003, as discontinued operations. For more
+information on discontinued operations, see Note 9 to the
+condensed consolidated financial statements. 
+
+ Net sales of 63,394,609 for the nine months
+ended September 30, 2003 decreased by 15,759,205, representing
+approximately a 19.9 decrease, over net sales of 79,153,814 for
+the same period of 2002. The decrease was due primarily to the
+decrease of approximately 3,540,678 in U.S. operations and
+approximately 12,218,527 in Asia operations. 
+
+ Asia revenue for the nine months ended September 30,
+2003 was 52,079,342 compared to 64,297,869 for the nine months
+ended September 30, 2002, a decrease of 12,218,527 or 19.0 . Decreases
+relate primarily to decreased sales volume at CMS as a result of a decrease in
+available working capital of 1,000,000 in November 2002 which was paid to the
+Company as a dividend from CMS. 
+
+Table of Contents 
+
+10 
+
+FORM 10-Q 
+
+United States revenues for the nine months ended
+September 30, 2003 were 11,315,267 compared to 14,855,945 for the nine months ended
+September 30, 2002, a decrease of 3,540,678 or 23.8 .
+Decreases relate to decreased sales at PTI and CTI. 
+
+ Gross profit for the nine months ended September 30,
+2003 was 3,285,795 decreasing by 733,553 and representing
+approximately a 18.3 decrease, compared to 4,019,348 for the
+same period of 2002. The reason for this decrease is due mainly
+to the decrease in sales of PTI for the nine months ended September 30,
+2003. Gross profits as a percentage of net sales are 5.2 and 5.1 for the
+nine months ended September 30, 2002 and 2003 respectively. 
+
+ Asia gross profit as a percentage of sales for
+the nine months ended September 30, 2003 was 4.9 compared to 4.2 for
+the nine months ended September 30, 2002. 
+
+ United States gross profit as a percentage of
+sales for the nine months ended September 30, 2003 was 6.6 compared to
+8.8 for the nine months ended September 30, 2002. 
+
+ Selling, general and administrative expenses
+decreased by 857,083 to 3,145,455 in the nine months ended September 30, 2003 compared to 4,002,538 for the
+nine months ended September 30,
+2002. As a percentage of revenue, these expenses decreased 21.4 
+in the nine months ended September 30, 2003. The decline is due to the
+cost saving effort implemented by management for the nine months
+ended September 30, 2003. Cost saving efforts included significant
+layoffs at PTI as well as cutbacks in operating expenses such as
+travel expense and purchases of supplies. 
+
+ Net interest expense decreased by 583,134 from
+ 664,644 for the nine months ended September 30, 2002 to 81,510 for the nine months ended September 30, 2003. The
+decrease is mainly the result of decreased borrowings from
+shareholders and commercial bank and lower interest rate during
+the nine months ended September 30, 2003. The decrease also reflected
+retro-adjustments on interest rate for shareholders loans. 
+
+ Other income decreased by 115,067 from 175,827
+for the nine months ended September 30, 2002 to 60,760 for the nine months ended
+September 30, 2003. The main source for this decrease is
+due to lower investment gain and interest expense in 2003. 
+
+ Net income/loss from continuing operations increased by 359,983 from net loss of 148,545 for the nine months ended September 30, 2002 to net income
+of 211,438 for the nine months ended September 30, 2003. These results reflect
+a loss of 0.01 per share for the nine months ended September 30, 2002 to an income of 0.02 per share for the
+nine months ended
+September 30, 2003. 
+
+ Capital Resources and Liquidity 
+
+ The Company s capital requirements continue to be significant,
+however its cash and cash
+equivalents have been sufficient. At September 30, 2003, the Company
+had working capital of approximately 4,886,000 and cash of 987,000
+compared to a working capital of approximately 4,311,000 and
+cash of 1,324,000 at December 31, 2002. 
+
+ Net cash used in continuing operating activities for
+the nine months ended September 30, 2003 was 376,430 as compared to
+ 3,986,720 net cash provided by continuing operating activities for the nine months ended
+September 30, 2002. The difference is mainly due to decrease in
+inventory, trade receivables and an increase in accounts payable. 
+
+ Net cash used in investing activities for the
+nine months ended September 30, 2003 was 1,635 as compared to 549,256 net cash provided by investing
+activities for the nine months ended September 30, 2002 from proceeds from sale
+of
+investment. 
+
+ Net cash provided by financing activities for the
+nine months ended September 30, 2003 was 34,984 as compared to
+ 3,672,366 of net cash used in financing activities for the nine months
+ended September 30, 2002. The significant changes are attributable to
+loan proceeds reduced by repayment on line of credit and notes payable in 2002. 
+
+ The accompanying unaudited condensed
+consolidated financial statements have been prepared assuming
+that the Company will continue as a going concern. As of September 30, 2003, the Company
+reported a net
+income of
+ 211,438 and had cash of (476,429) provided from its continuing operations.
+Management has undertaken certain actions in an attempt to
+improve the Company s liquidity and
+profitability. 
+ Cash decreased 336,938 at September 30, 2003 from December 31,
+2002 mainly from the difference among accounts receivable, inventory and
+accounts payable of approximately the
+same amount at September 30, 2003. Notes payable decreased approximately 141,994 as
+of September 30, 2003 compared to December 31, 2002 as a result of loan curtailments
+in our Asia operations. 
+
+ As of September 30, 2003, The Company had
+an accumulated deficit of approximately 4,657,000. 
+
+Table of Contents 
+
+11 
+
+FORM 10-Q 
+
+The Company has a revolving line of credit, as amended, from a commercial bank at the prime rate (4.0 at
+September 30, 2003.) The outstanding balance at September 30, 2003 of approximately 2,850,000 matured on June 30, 2003. The note is collateralized by substantially all the assets located in the United States, including approximately 2,002,000 of accounts receivable and 1,005,000 of inventory. In addition, the Company has granted the bank a security interest in 65 of all issued and outstanding common stock of CMS Technology Ltd., Hong Kong and has caused the subordination of loans by principals of the Company totaling 2,050,000. The Company had not repaid the bank for amounts due under the line of credit and therefore
+was in default. On October 20, 2003 the Company entered into a forbearance and release agreements with the bank. Pursuant to the terms of the forbearance agreement the bank
+and the Company agreed to a 100,000 curtailment of principal, which was made on
+October 20, 2003, and to forbear from foreclosure on its security interests and otherwise exercising any and all of its rights and remedies in law or equity in order to allow the Company time to cure the default under the note until December 31, 2003.
+The Company is in the process of negotiations with certain banks. Additionally, the Company upon reporting
+its earnings for the nine month period ending September 30, 2003,
+expects to enter into a new credit facility with an international
+bank, the proceeds of which would pay off in full the existing
+obligations with its current bank. While several banks have given
+the Company indications of interest provided that the Company
+reports earnings for the first nine months of 2003, no assurances
+can be given that the Company will successfully complete the
+refinancing plans or that any such refinancing will be in terms favorable to the
+Company. As of the date of this filing, the Company has yet to enter into an
+agreement with a new bank nor has any bank made a commitment to do so. The
+Company is requesting additional time to take out its current bank and there is
+no assurance that the current bank will agree to any further time extension. 
+
+ On
+August 4, 2003, the Company received a delisting notice from the
+NASDAQ Small Cap Market System because it had not filed its Form 10-K
+for the year ended December 31, 2002. The Company filed its
+2002 Form 10-K on November 25, 2003. The Company has filed for an application for
+review with the Securities and Exchange Commission SEC as provided by Rule 420 of the SEC Rules of
+Practice to appeal the NASDAQ Listing and Hearing Review Council
+decision to delist the Company without giving the Company the
+benefit of an additional hearing. Management believes that the
+Company has the economic ability to maintain and grow its
+operations for the foreseeable future. In addition to its General
+Bank negotiations for a loan extension to December 31, 2003, the Company is in
+the process of re-negotiating with certain banks. The
+Company is negotiating with James Djen, the Company s
+President, to convert his 1,000,000 demand loan (included in
+Shareholder Loan in the accompanying condensed consolidated balance sheets) into equity
+in order to improve the Company s working capital position.
+Mr. Djen, as of December 31, 2002, has agreed to convert 200,000
+into equity which was effected in May 2003. In addition, the
+Company has negotiated an increase in its credit facility with a
+Hong Kong bank from 1,500,000 to 7,000,000. Operationally,
+management s plans include continuing actions to cut or curb
+nonessential expenses and focusing on improving sales and earnings. No
+assurances can be given that the Company will be successful in
+replacing its U.S. bank with a new bank or that the Company
+will be able to maintain profitable operations. 
+
+ Effects of Inflation 
+
+ The Company believes that inflation has not had
+a material effect on its net sales / on results of operations. 
+
+ Effects of Fluctuation in Foreign
+Exchange Rates 
+
+ The Company continues to buy products and
+services from foreign suppliers. The Company contracts for such
+products and services denominated by U.S. dollars, thus
+eliminating the possible effect of currency fluctuations. 
+
+ ITEM 3. QUANTITATIVE AND QUALITATIVE
+DISCLOSURES ABOUT MARKET RISK. 
+
+ Bridge Technology, Inc. develops and procures
+products in the United States, Japan and Hong Kong, and the
+Company sells primarily in North America, Asia and Europe. As a
+result, financial results could be affected by factors such as
+changes in foreign currency exchange rates or weak economic
+conditions in foreign markets. Since our Company s products
+are generally initially priced in U.S. Dollars and translated to
+local currency amounts, a strengthening of the dollar could make
+our Company s products less competitive in foreign markets. 
+
+ At September 30, 2003, the majority of our cash
+balances were held primarily in the form of short-term highly
+liquid investment grade money market funds of major financial
+institutions. Due to the short-term nature of our investments and
+the fact that they are marked to market daily, we believe that we
+are not subject to any material interest or market rate risks. 
+
+ ITEM 4. CONTROLS AND PROCEDURES 
+
+ Under the supervision and with the
+participation of our management, including our Chief Executive
+Officer CEO and Chief Financial Officer CFO ), we evaluated the effectiveness of the design
+and operation of our disclosure controls and procedures (as
+defined in Rule 13a-15(e) and 15d-15(e) of the 34 Act) as of a
+date (the Evaluation Date within 90 days prior to
+the filing date of this report. Based upon that evaluation, the
+CEO and CFO concluded that, as of September 30, 2003, our disclosure
+controls and procedures were effective in timely alerting them to
+the material information relating to us (or our consolidated
+subsidiaries) required to be included in our periodic filings
+with the SEC. Based on their most recent evaluation as of the
+Evaluation Date, the CEO and the CFO have also concluded that
+there are no significant deficiencies in the design or operation
+of internal control over financial reporting which are reasonably
+likely to adversely affect the Company s ability to record,
+process, summarize and report financial information, and such
+officers have identified no material weaknesses in internal
+controls. 
+
+ There were no significant changes made in our
+internal control over financial reporting during the quarter
+ended September 30, 2003 that are reasonably likely to significantly
+affect these controls. Thus, no corrective actions with regard to
+significant deficiencies or material weaknesses were necessary. 
+
+Table of Contents 
+
+12 
+
+FORM 10-Q 
+
+Limitations on the Effectiveness of
+Controls 
+
+ The Company s management, including the
+CEO, does not expect that our disclosure
+controls and procedures or our internal controls will prevent all
+error and fraud. A control system, no matter how well conceived
+and operated, can provide only reasonable, not absolute,
+assurance that the objectives of the control system are met.
+Further, the design of a control system must reflect the fact
+that there are resource constraints, and the benefits of controls
+must be considered relative to their costs. Because of the
+inherent limitations in all control systems, no evaluation of
+controls can provide absolute assurance that all control issues
+and instances of fraud, if any, within the Company have been
+detected. These inherent limitations include the realities that
+judgements in decision-making can be faulty, and that breakdowns
+can occur because of simple error or mistake. Additionally,
+controls can be circumvented by the individual acts of some
+persons, by collusion of two or more people, or by management
+override of the control. The design of any system of controls
+also is based in part upon certain assumptions about the
+likelihood of future events, and there can be no assurance that
+any design will succeed in achieving its stated goals under all
+potential future conditions. Over time, control may become
+inadequate because of changes in conditions, or the degree of
+compliance with the policies or procedures may deteriorate.
+Because of the inherent limitations in a cost-effective control
+system, misstatements due to error or fraud may occur and not be
+detected. 
+
+Table of Contents 
+
+13 
+
+FORM 10-Q 
+
+PART II. OTHER
+INFORMATION 
+
+ ITEM 1. LEGAL PROCEEDINGS 
+
+ The Company is a party to legal actions that
+have arisen in the normal course of business. These actions
+include the following: 
+
+ On October 1, 2001, a complaint was filed by
+the Trustee in the U.S. Bankruptcy Court against John Harwer,
+former President of the Company and the Company for alleged
+transfer of assets, technology, trade secrets, confidential
+information and business opportunities from Allied Web, a
+corporation owned by John Harwer which he had placed into
+liquidation under the Federal Bankruptcy laws on April 6,
+2000. The case has entered the trial phase with the initial
+hearing centering on 1,800,000 in claims between the parties
+which did not involve Bridge Technology, Inc. The trial judge has
+ordered the case back to mediation in connection with these
+claims on November 17, 2003. Settlement negotiations are expected to continue up
+to the February 2004 trial date. Management at December 31, 2002 and
+September 22, 2003 was unable to assess the possibility of
+incurring future liability for this matter and therefore did not
+record any accrued liability. Management continues to take the
+position that no liability will accrue to the Company and no
+contingency has been provided. The company has incurred in
+excess of 300,000 to date in legal fees to defend itself. 
+The Company plans to sue the Directors and Officers insurance
+carrier for reimbursement. There is no assurance that any
+claim for legal fees reimbursement will be successful. 
+
+ On May 19, 2003, a complaint was filed in Superior Court in
+Santa Ana, California, against the Company, its CFO and its former President,
+John Harwer, in connection with Mr. Harwer s private sale of the Company s
+common stock to a third party investor. The complaint also contends that the
+same investors purchased shares of a private corporation, Esyon Corporation,
+from either John Harwer or Esyon corporation, and are attempting to involve
+Bridge Technology, Inc. in this second private transaction. The case has been
+submitted to the Company s D O carrier, but no coverage decision has yet been
+rendered. The Company believes it has meritorious defenses to the claims alleged
+in this action that would limit, if not bar, any recovery. However, until
+discovery has been completed, including depositions and exchange of documents,
+the actual merits of the action cannot be determined. The trial date for this
+case has been set as April 19, 2004. 
+
+ On December 12, 2001, a former shareholder of Autec Power
+Systems filed a complaint in Ventura County Superior Court against the principal
+shareholder and former chairmen of the Company, Winston Gu, Autec and the
+Company alleging that the complainant did not receive his pro-rata shares of the
+Company common stock in the exchange for 100 of the shares of Autec. The
+complaint was adjudicated in November 2003 by a mandatory court directed
+arbitration. In the arbitrator s decision, issued in December 2003, all claims
+against the Company were dismissed. 
+
+ The Company is engaged in various ongoing legal
+proceedings incidental to its normal business activities. The
+Company is unable, however, to predict the outcome of these
+matters, or reasonably estimate a range if possible losses given
+the current status of litigation. 
+
+ ITEM 2. CHANGES
+IN SECURITIES AND USE OF PROCEEDS 
+
+ On May 12, 2003, James Djen, the Company s President converted 200,000
+of his personal loans to the Company, into 1,000,000
+shares of the Company s common stock at 0.20 per share. The Company
+believes the per share price was at fair market value. 
+ On May 19, 2003, the Company issued 200,000 shares of common
+stock to an investment company, 25,000 proceeds was received. The Company
+believes the per share price was at fair market value. 
+
+ On July 3, 2003, the Company issued 50,000
+shares of common stock for legal services, valued at 25,000. The Company
+believes the per share price was at fair market value. 
+
+ ITEM 3.
+DEFAULTS UPON SENIOR SECURITIES 
+
+ The Company had agreed to pay off its current bank loan of
+approximately 2,850,000 on December 31, 2003 by a take out arrangement with a new bank.
+The Company is requesting additional time to take out its current bank, and
+there is no assurance that its current bank will agree to any time extension to
+accomplish this agreement. 
+
+ ITEM 4.
+SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS 
+
+ There are no matters submitted to a vote of
+security holders. 
+
+ ITEM 5. OTHER
+INFORMATION 
+
+ None. 
+
+Table of Contents 
+
+14 
+
+FORM 10-Q 
+
+ITEM 6.
+EXHIBITS AND REPORTS ON FORM 8-K 
+
+ (a) The following documents are filed as
+part of this report: 
+
+Exhibit No. 
+
+Exhibit
+ Description 
+
+EX-31.1 
+
+Certification pursuant to
+ Securities Exchange Act Rules 13A-14 and 15D-14, as
+ adopted pursuant to Section 302 of the Sarbanes Oxley Act
+ of 2002 
+
+EX-31.2 
+
+Certification pursuant to
+ Securities Exchange Act Rules 13A-14 and 15D-14, as
+ adopted pursuant to Section 302 of the Sarbanes Oxley Act
+ of 2002 
+
+EX-32.1 
+
+Certifications pursuant
+ to 18 U.S.C. 1350, as adopted pursuant to Section 906
+ of the Sarbanes Oxley Act of 2002 
+
+EX-32.2 
+
+Certifications pursuant
+ to 18 U.S.C. 1350, as adopted pursuant to Section 906
+ of the Sarbanes Oxley Act of 2002 
+
+(b) 8-K reports filed during the quarter
+ended September 30, 2003: 
+
+ On July 2, 2003, the Company filed Form 8-K to announce the
+change of its principal accountant from BDO Seidman, LLP to BDO McCabe Lo 
+Company. On
+August 5, 2003, the Company filed: 
+
+1) 
+		 
+		 Form 8-K to announce the receipt of a formal notice from NASDAQ indicating that its common stock will be delisted from the NASDAQ Stock Market effective with the open of business on Wednesday, August 6, 2003 based on its failure to file its Form 10-K for the year ending December 31, 2002, and Form 10-Q s for the quarters ending March 31, 2003 and June 30, 2003 in compliance with Market Rule 4310(c)(14). 
+
+2) 
+		 
+		 Form 8-K that includes a press release to discuss the matter
+disclosed in 1 above. 
+
+Signature 
+
+Pursuant to the requirements of the Securities
+Exchange Act of 1934, the registrant caused this report to be
+signed on its behalf by the undersigned thereunto duly
+authorized. 
+
+Bridge Technology, Inc. 
+
+(Registrant)
+
+Date: January 16, 2004 
+
+/s/ John T.
+ Gauthier 
+
+John T.
+ Gauthier 
+
+Chief Financial
+ Officer 
+
+Date: January 16, 2004 
+
+/s/ James
+ Djen 
+
+James
+ Djen 
+
+President Chief Executive
+ Officer 
+
+Table of Contents 
+
+15 
+
+FORM 10-Q 
+
+<EX-31>
+ 3
+ dex311.htm
+ CERTIFICATIONS OF CEO PURSUANT TO SECTION 302 OF THE SARBANES-OXLEY ACT OF 2002
+
+Exhibit 31.1 
+
+Exhibit 31.1 
+
+ CERTIFICATION
+OF CEO PURSUANT TO 
+
+ SECURITIES
+EXCHANGE ACT RULES 13A-14 AND 15D-14 
+
+ AS
+ADOPTED PURSUANT TO 
+
+ SECTION
+302 OF THE SARBANES-OXLEY ACT OF 2002 
+
+I, James Djen, the Chief Executive Officer of Bridge
+Technology, Inc., certify: 
+
+1. 
+ 
+ I have reviewed this
+ quarterly report on Form 10-Q of Bridge Technology,
+ Inc. (the registrant 
+
+2. 
+ 
+ Based on my knowledge, this
+ quarterly report does not contain any untrue statement of
+ a material fact or omit to state a material fact
+ necessary to make the statements made, in light of the
+ circumstances under which such statements were made, not
+ misleading with respect to the period covered by this
+ quarterly report; 
+
+3. 
+ 
+ Based on my knowledge, the
+ financial statements, and other financial information
+ included in this quarterly report, fairly present in all
+ material respects the financial condition, results of
+ operations and cash flows of the registrant as of, and
+ for, the periods presented in this quarterly report; 
+
+4. 
+ 
+ The registrant s other
+ certifying officer and I are responsible for establishing
+ and maintaining disclosure controls and procedures (as
+ defined in Exchange Act Rules 13a-15(e) and 15d-15(e))
+ for the registrant and have: 
+
+a. 
+ 
+ Designed such disclosure controls and
+ procedures or caused such disclosure controls and
+ procedures to be designed under our supervision, to
+ ensure that material information relating to the
+ registrant, including its consolidated subsidiaries, is
+ made known to us by others within those entities,
+ particularly during the period in which this quarterly
+ report is being prepared; 
+
+b. 
+ 
+ Evaluated the effectiveness of the
+ registrant s disclosure controls and procedures and
+ presented in this quarterly report our conclusions about
+ the effectiveness of the disclosure controls and
+ procedures as of the end of the period covered by this
+ report based on such evaluation; and 
+
+c. 
+ 
+ Disclosed in this report any change in
+ the registrant s internal control over financial
+ reporting that occurred during the registrant s most
+ recent fiscal quarter (the registrant s fourth
+ fiscal quarter in the case of an annual report) that has
+ materially affected, or is reasonably likely to
+ materially affect, the registrant s internal control
+ over financial reporting; 
+
+5. 
+ 
+ The registrant s other
+ certifying officer and I have disclosed, based on our
+ most recent evaluation of internal control over financial
+ reporting, to the registrant s auditors and the
+ audit committee of the registrant s board of
+ directors (or persons performing the equivalent
+ functions): 
+
+a. 
+ 
+ All significant deficiencies and
+ material weaknesses in the design or operation of
+ internal control over financial reporting which are
+ reasonably likely to adversely affect the
+ registrant s ability to record, process, summarize
+ and report financial information; and 
+
+b. 
+ 
+ Any fraud, whether or not material, that
+ involves management or other employees who have a
+ significant role in the registrant s internal
+ control over financial reporting. 
+
+Date: January 16, 2004 
+
+/s/ James Djen 
+
+James Djen 
+
+Chief Executive Officer 
+
+</EX-31>
+
+<EX-31>
+ 4
+ dex312.htm
+ CERTIFICATIONS OF CFO PURSUANT TO SECTION 302 OF THE SARBANES-OXLEY ACT OF 2002
+
+Exhibit 31.2 
+
+Exhibit 31.2 
+
+ CERTIFICATION
+OF CEO PURSUANT TO 
+
+ SECURITIES
+EXCHANGE ACT RULES 13A-14 AND 15D-14 
+
+ AS
+ADOPTED PURSUANT TO 
+
+ SECTION
+302 OF THE SARBANES-OXLEY ACT OF 2002 
+
+I, John T. Gauthier, the Chief Financial Officer of Bridge
+Technology, Inc., certify: 
+
+1. 
+ 
+ I have reviewed this
+ quarterly report on Form 10-Q of Bridge Technology,
+ Inc. (the registrant 
+
+2. 
+ 
+ Based on my knowledge, this
+ quarterly report does not contain any untrue statement of
+ a material fact or omit to state a material fact
+ necessary to make the statements made, in light of the
+ circumstances under which such statements were made, not
+ misleading with respect to the period covered by this
+ quarterly report; 
+
+3. 
+ 
+ Based on my knowledge, the
+ financial statements, and other financial information
+ included in this quarterly report, fairly present in all
+ material respects the financial condition, results of
+ operations and cash flows of the registrant as of, and
+ for, the periods presented in this quarterly report; 
+
+4. 
+ 
+ The registrant s other
+ certifying officer and I are responsible for establishing
+ and maintaining disclosure controls and procedures (as
+ defined in Exchange Act Rules 13a-15(e) and 15d-15(e))
+ for the registrant and have: 
+
+a. 
+ 
+ Designed such disclosure controls and
+ procedures or caused such disclosure controls and
+ procedures to be designed under our supervision, to
+ ensure that material information relating to the
+ registrant, including its consolidated subsidiaries, is
+ made known to us by others within those entities,
+ particularly during the period in which this quarterly
+ report is being prepared; 
+
+b. 
+ 
+ Evaluated the effectiveness of the
+ registrant s disclosure controls and procedures and
+ presented in this quarterly report our conclusions about
+ the effectiveness of the disclosure controls and
+ procedures as of the end of the period covered by this
+ report based on such evaluation; and 
+
+c. 
+ 
+ Disclosed in this report any change in
+ the registrant s internal control over financial
+ reporting that occurred during the registrant s most
+ recent fiscal quarter (the registrant s fourth
+ fiscal quarter in the case of an annual report) that has
+ materially affected, or is reasonably likely to
+ materially affect, the registrant s internal control
+ over financial reporting; 
+
+5. 
+ 
+ The registrant s other
+ certifying officer and I have disclosed, based on our
+ most recent evaluation of internal control over financial
+ reporting, to the registrant s auditors and the
+ audit committee of the registrant s board of
+ directors (or persons performing the equivalent
+ functions): 
+
+a. 
+ 
+ All significant deficiencies and
+ material weaknesses in the design or operation of
+ internal control over financial reporting which are
+ reasonably likely to adversely affect the
+ registrant s ability to record, process, summarize
+ and report financial information; and 
+
+b. 
+ 
+ Any fraud, whether or not material, that
+ involves management or other employees who have a
+ significant role in the registrant s internal
+ control over financial reporting. 
+
+Date: January 16, 2004 
+
+/s/ John T. Gauthier 
+
+John T. Gauthier 
+
+Chief Financial Officer 
+
+</EX-31>
+
+<EX-32>
+ 5
+ dex321.htm
+ CERTIFICATIONS OF CEO PURSUANT TO SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002
+
+Exhibit 32.1 
+
+Exhibit 32.1 
+
+ CERTIFICATION
+PURSUANT TO 
+
+ 18
+U.S.C. 1350, 
+
+ AS
+ADOPTED PURSUANT TO 
+
+ SECTION
+906 OF THE SARBANES-OXLEY ACT OF 2002 
+
+ In connection with the Quarterly Report of Bridge Technology,
+Inc. (the Company on Form 10-Q for the period
+ended September 30, 2003 as filed with the Securities and Exchange
+Commission on the date hereof (the Report ), I, James
+Djen, Chief Executive Officer of the Company, certify, pursuant
+to 18 U.S.C. 1350, as adopted pursuant to Section 906 of the
+Sarbanes-Oxley Act of 2002, that: 
+
+1. 
+ 
+ The Report fully complies with the
+ requirements of Section 13(a) or 15(d) of the Securities
+ Exchange Act of 1934; and 
+
+2. 
+ 
+ The information contained in the Report
+ fairly presents, in all material respects, the financial
+ condition and results of operations of the Company. 
+
+Date: January 16, 2004 
+
+/s/ James Djen 
+
+James Djen 
+
+Chief Executive Officer 
+
+A signed original of this written statement required by
+Section 906, an other document authenticating, acknowledging, or
+otherwise adopting the signature that appears in typed form
+within the electronic version of this written statement required
+by Section 906, has been provided to the Company and will be
+retained by the Company and furnished to the Securities and
+Exchange Commission or its staff upon request. 
+
+</EX-32>
+
+<EX-32>
+ 6
+ dex322.htm
+ CERTIFICATIONS OF CFO PURSUANT TO SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002
+
+Exhibit 32.2 
+
+Exhibit 32.2 
+
+ CERTIFICATION
+PURSUANT TO 
+
+ 18
+U.S.C. 1350, 
+
+ AS
+ADOPTED PURSUANT TO 
+
+ SECTION
+906 OF THE SARBANES-OXLEY ACT OF 2002 
+
+ In connection with the Quarterly Report of Bridge Technology,
+Inc. (the Company on Form 10-Q for the period
+ended September 30, 2003 as filed with the Securities and Exchange
+Commission on the date hereof (the Report ), I, John
+T. Gauthier, Chief Financial Officer of the Company, certify,
+pursuant to 18 U.S.C. 1350, as adopted pursuant to Section 906
+of the Sarbanes-Oxley Act of 2002, that: 
+
+1. 
+ 
+ The Report fully complies with the
+ requirements of Section 13(a) or 15(d) of the Securities
+ Exchange Act of 1934; and 
+
+2. 
+ 
+ The information contained in the Report
+ fairly presents, in all material respects, the financial
+ condition and results of operations of the Company. 
+
+Date: January 16, 2004 
+
+/s/ John T. Gauthier 
+
+John T. Gauthier 
+
+Chief Financial Officer 
+
+A signed original of this written statement required by
+Section 906, an other document authenticating, acknowledging, or
+otherwise adopting the signature that appears in typed form
+within the electronic version of this written statement required
+by Section 906, has been provided to the Company and will be
+retained by the Company and furnished to the Securities and
+Exchange Commission or its staff upon request. 
+
+</EX-32>
+
