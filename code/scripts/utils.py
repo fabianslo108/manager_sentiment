@@ -89,7 +89,7 @@ def doc_key(row: dict) -> tuple:
     return tuple(str(row[col]) for col in DOC_KEY_COLUMNS)
 
 
-def zscore(values, ddof: int = 0):
+def zscore(values, ddof: int = 1):
     """Standardize, ignoring NaN. Returns NaN everywhere if there is no spread."""
     import pandas as pd
 
